@@ -1,0 +1,157 @@
+<includeonly>{{#ifeq:{{{2|}}}|#||&#35;}}{{#switch: {{{1}}}
+
+<!-- BR Central -->
+| CA = F6861F
+| CB = 477543
+| CC = 773C97
+| CD = 6FA3D7
+| CE = 8C5A38
+| CF = 327198
+| CG = 9E1813
+| CI = C8BA45
+| CJ = 16B68F
+| CO = 007BBE
+ 
+<!-- BR East -->
+| JA = 2E8B57
+| JB = FFD700
+| JC = FF4500
+| JE = DC143C
+| JH = 9ACD32
+| JI = FFD700
+| JJ = 3CB371
+| JK = 00BFFF
+| JL = 808080
+| JM = FF4500
+| JN = FFD700
+| JO = 0070B9
+| JS = FF0000
+| JY = 9ACD32
+| JT = FFA500
+| JU = FFA500
+| MO = 000080
+
+<!-- BR Central -->
+| HA = E09C42
+| HAP = 0098D8 
+| HB = EB848D
+| HH = 487CBC
+| HT = 994A95
+| HW = 8A483B
+
+<!-- BR South -->
+| SB = 2a6482
+| SD = E25885
+| SM = 00B5A7
+| SN = 822151
+| SU = F9AA00
+
+<!-- Keiō Corporation -->
+| KO = E3379F
+| IN = 1A407B
+
+<!-- Keisei Electric Railway -->
+| KS = {{#switch: {{{2}}} 
+  | N = FF8620
+  | #default = 005AAA
+}}
+
+<!-- Odakyu Electric Railway -->
+| OE = 2683CE
+| OH = {{#switch: {{{2}}}
+  | H = E8532E <!-- Hakone Tozan Railway -->
+  | #default = 2683CE
+}}
+| OT = 2683CE
+
+<!-- Osaka Metro -->
+| MC = 019A66
+| MI = EE7B1A
+| MK = 814721
+| MM = E5171F
+| MN = A9CC51
+| MP = 00A0DE
+| MS = E44D93
+| MT = 522886
+| MY = 0078BE
+
+<!-- Seibu Railway -->
+| SI = ED772D
+| SK = {{#switch: {{{2}}}
+  | S = E25885 <!-- JR Shikoku -->
+  | #default = 34B559
+}}
+| SS = {{#switch: {{{2}}}
+  | S = 91A0CA <!-- JR Shikoku -->
+  | #default = 00A6BF
+}}
+| ST = {{#switch: {{{2}}}
+  | S = 6CC629 <!-- JR Shikoku -->
+  | #default = FAAA27
+}}
+| SW = ED772D
+| SY = {{#switch: {{{2}}}
+  | S = F9AA00 <!-- JR Shikoku -->
+  | #default = EF473D
+}}
+
+<!-- Tobu Railway -->
+| TD = 00BFFF
+| TI = DC143C
+| TJ = 004098
+| TN = FFA500
+| TS = 005AAA
+
+<!-- Castejón Metro -->
+| A = EC6E65
+| E = CE045B <!--check-->
+| I = 006CB6 <!--check-->
+| S = B0C124 <!--check-->
+| SA = 00aaab
+| C = 00BB85
+| F = 9C5E31
+| G = FF9500
+| H = 8F76D6
+| M | MB | Mb = F62E36
+| N = 00AC9B
+| T = 009BBF
+| Y = C1A470
+| Z = 8F76D6
+
+<!-- Tokyu Corporation-->
+| DT = 20A288
+| IK = EE86A7
+| KD = 0068B7
+| MG = 009CD2
+| OM = F18C43
+| SG = {{#switch: {{{2}}}
+  | S = 008C4F <!-- JR Shikoku (green) -->
+  | #default = FCC70D
+}}
+| TM = AE0378
+| TY = DA0442
+| SH = 890d84
+
+<!-- Other -->
+| HK = {{#switch: {{{2}}}
+  | H = 7FBE41 <!-- JR Hokkaido -->
+  | #default = 34B580 <!-- Hankyu Railway -->
+}}
+| HS = {{#switch: {{{2}}}
+  | H = E44550 <!-- JR Hokkaido -->
+  | #default = 00BFFF <!-- Hokuso Line -->
+}}
+| KK = 32CAE2
+<!--| MM = 0067C0-->
+| SL = FF69B4
+| SO = 041452 <!--Sagami Railway, aka Sōtetsu-->
+| SR = {{#switch: {{{2}}}
+  | A = 345CAA <!-- Saitama Railway -->
+  | #default = 008459 <!-- Shibayama Railway -->
+}}
+| TR = 0AAA3C
+| U  = 0065A6
+| WK  = 6D0023
+| #default = 000000
+}}</includeonly><noinclude>
+{{documentation}}</noinclude>

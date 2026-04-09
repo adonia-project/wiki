@@ -1,0 +1,82 @@
+{{Sidebar with collapsible lists
+| name = Baliscan citizenship
+| style = width:22.0em; border: 4px double #004f87; background:#FFFFFF;
+| namestyle = background:#0a2e5b;
+| bodyclass = vcard hlist
+| pretitle= '''<span style="color:#000000;">This article is part of a series on the</span>'''
+| wraplinks = true
+| pretitle = Part of a [[:Category:Immigration to Balisca|series]] on
+| title = Baliscan citizenship and immigration
+| image = [[File:Coat of Arms of Balisca.svg|140px]]
+| headingstyle = background: #E9E9E9;
+| listtitlestyle = background:#FFFFFF;text-align:center;
+| expanded = {{{expanded|{{{1|{{{cTopic|}}}}}}}}}
+
+| list1name = immigration
+| list1title = [[Immigration to Balisca|Immigration]]
+| list1=
+{{ubl|[[Immigration to Balisca]]|
+[[History of immigration to Balisca]]|
+[[Economic impact of immigration to Balisca|Economic impact of immigration]]|
+[[Balisca permanent resident card|Permanent resident card]]|
+[[Permanent residency in Balisca|Permanent residency]]|
+[[Temporary residency]]|
+}}
+
+| list2name = nationality
+| list2title = [[:Category:Baliscan nationality law|Nationality]]
+| list2 = {{ubl|
+[[History of Baliscan nationality law|History of nationality law]]|
+[[Oath of Citizenship (Balisca)|Oath of Citizenship]]|
+[[Baliscan nationality law|Citizenship]]|
+[[Baliscan passport|Passports]]|
+[[Honorary Balisca citizenship|Honorary citizenship]]|
+[[COCO citizen]]|
+}}
+
+| list3name = legislation
+| list3title = [[:Category:Balisca nationality law|Legislation]]
+| list3 = {{ubl|
+[[Immigration Act, 1840]]|
+[[Baliscan nationality law|Citizenship Act (1883)]]|
+[[Baliscan Citizenship Act, 1949|Citizenship Act, 1949]]|
+[[Immigration Act, 1989]]|
+[[Immigration and Refugee Protection Act]]|
+[[Baliscan immigration and refugee law]]|
+}}
+
+| list4name = agencies
+| list4title = [[Confederal institution|Agencies]]
+| list4 = {{ubl|
+[[Immigration, Refugees and Citizenship Balisca]]|
+[[Baliscan Border Services]]|
+[[Immigration and Refugee Committee]]|
+[[Public Safety Balisca]]|
+}}
+
+| list5name = issues
+| list5title = Issues
+| list5 = {{ubl|
+[[Birthright citizenship in Balisca|Birth tourism]]|"[[Baliscans of convenience]]"|[[Irregular immigration to Balisca|Irregular immigration]]|
+[[Ministry of Immigration, Diversity and Inclusion#Proposal for a citizenship test|Citizenship test proposals]]|
+}}
+
+| list6name = demographics
+| list6title = [[:Category:Demographics of Balisca|Demographics]]
+| list6 = {{ubl|
+[[Demographics of Balisca]]|
+[[Baliscans]]|
+[[Baliscan identity]]|
+[[Population of Balisca by year|Population by year]]|
+[[Ethnography of Balisca|Ethnic origins]]|
+[[Languages of Balisca|Languages]]
+}}
+
+| belowstyle = border-top:1px solid #aaa;border-bottom:1px solid #aaa;
+| below =
+{{portal-inline|size=tiny|Balisca}}
+}}<noinclude>
+[[Category:Balisca history navigational boxes|{{PAGENAME}}]]
+[[Category:Balisca sidebar templates]]
+[[Category:Balisca society and social science templates‎]]
+</noinclude>

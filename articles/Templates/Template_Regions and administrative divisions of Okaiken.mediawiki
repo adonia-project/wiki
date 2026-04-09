@@ -1,0 +1,94 @@
+{{Navbox
+| name      = Regions and administrative divisions of Okaiken
+| title     = {{flagicon|Okaiken}} [[List of regions of Okaiken|Regions]] and administrative divisions of [[Okaiken]]
+| state        = {{{state|autocollapse}}}
+| image     = [[File:Prefectures of Okaiken.svg|200px]]
+| listclass = hlist
+
+| group1 = [[List of regions of Okaiken|Regions]]
+| list1 =
+* [[Harujima region|Harujima]]
+** [[Kitabake region|Kitabake]]
+** [[Chūō region|Chūō]]
+** [[Nanbu region|Nanbu]]
+* [[Ishijina region|Ishijima]] 
+** {{smaller|[[Ogasawara Islands]]}}
+** [[Hokuriku region|Hokuriku]]
+** [[Kōshin'etsu region|Kōshin'etsu]]
+** [[Shin'etsu region|Shin'etsu]]
+** [[Tōkai region|Tōkai]]
+* [[Shimizu]]
+* [[Yagishima region]]
+** [[Southern Yagi|Southern]]
+** [[Northern Yagi|Northern]]
+** [[Iseto region|Iseto]]
+** [[Oita Prefecture|Oita]]
+
+|group2  = '''[[Prefectures of Okaiken|Prefectures]]'''
+|list2   = {{Navbox subgroup
+|group1   = Harujima
+|list1 =
+* [[Miyagi Prefecture|Miyagi]]
+* [[Iwate Prefecture|Iwate]]
+* [[Fukushima Prefecture|Fukushima]]
+* [[Akita Prefecture|Akita]]
+* [[Yamagata Prefecture|Yamagata]]
+* [[Yonezawa Prefecture|Yonezawa]]
+* [[Okami|''Okami'']]
+* [[Tokuyama Prefecture|Tokuyama]]
+* [[Okazaki Prefecture|Okazaki]]
+* [[Hirogawa Prefecture|Hirogawa]]
+* [[Kofu Prefecture|Kofu]]
+* [[Ishiwara Prefecture|Ishiwara]]
+
+|group2   = Ishijima
+|list2 =
+* [[Ogasawara Prefecture|Ogasawara]]
+* [[Aizawa Prefecture|Aizawa]]
+* [[Gunma Prefecture|Gunma]]
+* [[Ishijima Prefecture|Ishijima]]
+* [[Shiga Prefecture|Shiga]]
+* [[Tochigi Prefecture|Tochigi]]
+* [[Noto Prefecture|Noto]]
+* [[Ehime Prefecture|Ehime]]
+* [[Hirogawa Prefecture|Hirogawa]]
+* [[Haruno Prefecture|Haruno]]
+* [[Tachibara Prefecture|Tachibara]]
+* [[Kiso Prefecture|Kiso]]
+* [[Suzuka Prefecture|Suzuka]]
+
+|group3   = Shimizu-Shoto
+|list3 =
+* [[Naruto Prefecture|Naruto]]
+* [[Tosa Prefecture|Tosa]]
+* [[Okayama Prefecture|Okayama]]
+* [[Shiogami Prefecture|Shiogami]]
+
+|group4   = Yagishima
+|list4 =
+* [[Kochi Prefecture|Kochi]]
+* [[Saitama Prefecture|Saitama]]
+* [[Ise Prefecture|Ise]]
+* [[Mie Prefecture|Mie]]
+* ''[[Toyozawa]]''
+* [[Seto Prefecture|Seto]]
+* [[Mito Prefecture|Mito]]
+* [[Obama Prefecture|Obama]]
+* [[Nagayama Prefecture|Nagayama]]
+* [[Kurosaki Prefecture|Kurosaki]]
+* [[Nagato Prefecture|Nagato]]
+* [[Kagami Prefecture|Kagami]]
+* [[Sakai Prefecture|Sakai]]
+* [[Mizuno Prefecture|Mizuno]]
+* [[Uruwa Prefecture|Uruwa]]
+* [[Mutsu Prefecture|Mutsu]]
+* [[Kii Prefecture|Kii]]
+* [[Aomori Prefecture|Aomori]]
+* [[Oita Prefecture|Oita]]}}
+
+
+}}<noinclude>{{documentation|content=
+{{collapsible option}}
+<!--Categories-->
+[[Category:Okaiken subdivision templates| ]]
+}}</noinclude>

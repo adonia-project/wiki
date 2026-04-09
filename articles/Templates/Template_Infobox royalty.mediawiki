@@ -1,0 +1,347 @@
+{| class="infobox vcard" style="font-size: 88%; text-align: left; width: 22em"
+|-
+! colspan=2 class="fn" style="background-color: #cbe; font-size: 125%; text-align: center" | {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
+|-
+{{#if: {{{title|}}} |<!-- TITLETEXT SWITCH: EMBEDDED BY REALM (ALPHABETICALLY) -->
+{{!}} colspan=2 style="text-align: center" {{!}} ''{{{title|}}}'' <small>{{{titletext|{{#switch:{{lc:{{{more}}}}}
+| no          = 
+| austria     = ''[[Emperor of Austria#Full titles|(more...)]]''
+| belgium     = ''[[Monarchy of Belgium#Title|(more...)]]''
+| britain     = ''[[Style of the British sovereign#Styles of British sovereigns|(more...)]]''
+| china       = ''[[Chinese sovereign|(more...)]]''
+| cyprus      = ''[[Style of the Greek Sovereign#List of changes to the royal style|(more...)]]''
+| denmark     = ''[[Style of the Danish sovereign|(more...)]]''
+| en-sco      = ''[[Style of the British sovereign#Styles of English and Scottish sovereigns|(more...)]]''
+| england     = ''[[Style of the British sovereign#Styles of English sovereigns|(more...)]]''
+| ethiopia    = ''[[Emperor of Ethiopia#Style|(more...)]]''
+| france      = ''[[Style of the French sovereign#List of changes to the royal style|(more...)]]''
+| hre         = ''[[Holy Roman Emperor#Coronation|(more...)]]''
+| hungary     = ''[[Styles of Hungarian sovereigns|(more...)]]''
+| italy       = ''[[Style of the Italian sovereign|(more...)]]''
+| jerusalem   = ''[[Kings of Jerusalem#Kings of Jerusalem (1099–1291)|(more...)]]''
+| luxembourg  = ''[[Grand Duke of Luxembourg#Full titles|(more...)]]''
+| malaysia    = ''[[Malay titles#Malay_royalty|(more...)]]''
+| monaco      = ''[[Style of the Monegasque sovereign|(more...)]]''
+| netherlands = ''[[Monarchy of the Netherlands#Full title|(more...)]]''
+| norway      = ''[[Style of the Norwegian sovereign|(more...)]]''
+| parma       = ''[[List of Dukes of Parma|(more...)]]''
+| portugal    = ''[[Style of the Portuguese sovereign|(more...)]]''
+| russia      = ''[[Tsar#Full style of Russian Sovereigns|(more...)]]''
+| scotland    = ''[[Style of the monarchs of Scotland#From the late Middle Ages to the Acts of Union|(more...)]]''
+| sicilies    = ''[[Kingdom of the Two Sicilies#Titles of King of the Two Sicilies|(more...)]]''
+| spain-crown = ''[[List of titles and honours of the Spanish Crown|(more...)]]''
+| spain-heir  = ''[[Titles held by the heir apparent to the Spanish Throne|(more...)]]''
+| sweden      = ''[[Style of the Swedish sovereign|(more...)]]''
+}}
+}}}</small>
+{{!}}-
+}}
+{{#if: {{{image|}}} | 
+{{!}} colspan=2 style="text-align: center" {{!}} <span class="photo">[[File:{{{image}}}|{{{imgw|210}}}px|alt={{{alt|}}}|{{{caption|}}}]]</span>
+{{!}}-
+}}
+{{#if: {{{caption|}}} |
+{{!}} colspan=2 style="text-align: center" {{!}} {{{caption}}}
+{{!}}-
+}}
+{{#if: {{{succession|}}} |
+{{!}} colspan=2 style="background-color: #e4dcf6; text-align: right" {{!}} <center>'''{{{succession}}}''' <small>{{{moretext|}}}</small> </center>
+{{!}}-
+}}
+{{#if: {{{reign|}}}|
+! {{{reign-type|{{#switch:{{{consort|}}}|yes=Tenure|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Tenure|Reign}}<!--BACKWARD COMPAT FROM IBR-->}}}}}
+{{!}} {{{reign}}}
+{{!}}-
+}}
+{{#if: {{{coronation|}}}|
+! {{#switch:{{lc:{{{cor-type}}}}}
+| britain  = [[Coronation of the British monarch|Coronation]]
+| france   = [[Coronation of the French monarch|Coronation]]
+| hre      = [[Coronation of the Holy Roman Emperor|Coronation]]
+| hungary  = [[Coronation of the Hungarian monarch|Coronation]]
+| japan    = [[Enthronement of the Japanese Emperor|Enthronement]]
+| malaysia = [[Installation of the Malaysian Sovereign|Installation]]
+| norway   = [[Royal coronations in Norway|Coronation]]
+| ottoman  = [[Sword of Osman|Sword girding]]
+| poland   = [[Royal coronations in Poland|Coronation]]
+| russia   = [[Coronation of the Russian monarch|Coronation]]
+| #default = {{{cor-type|[[Coronation]]}}}
+}}
+{{!}} {{{coronation}}}
+{{!}}-
+}}
+{{#if: {{{predecessor|}}}|
+! {{{pre-type|Predecessor}}}
+{{!}} {{{predecessor}}}
+{{!}}-
+}}
+{{#if: {{{successor|}}}|
+! {{{suc-type|Successor}}}
+{{!}} {{{successor}}}
+{{!}}-
+}}
+{{#if: {{{regent|}}}|
+! {{{reg-type|Regent}}}
+{{!}} {{{regent}}}
+{{!}}-
+}}
+{{#if: {{{succession1|}}} |
+{{!}} colspan=2 style="background-color: #e4dcf6; text-align: right" {{!}} <center>'''{{{succession1}}}''' <small>{{{moretext1|}}}</small> </center>
+{{!}}-
+}}
+{{#if: {{{reign1|}}}|
+! {{{reign-type1|{{#switch:{{{consort|}}}|yes=Tenure|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Tenure|Reign}}<!--BACKWARD COMPAT FROM IBR-->}}}}}
+{{!}} {{{reign1}}}
+{{!}}-
+}}
+{{#if: {{{coronation1|}}}|
+! {{{cor-type1|Coronation}}}
+{{!}} {{{coronation1}}}
+{{!}}-
+}}
+{{#if: {{{predecessor1|}}}|
+! {{{pre-type1|Predecessor}}}
+{{!}} {{{predecessor1}}}
+{{!}}-
+}}
+{{#if: {{{successor1|}}}|
+! {{{suc-type1|Successor}}}
+{{!}} {{{successor1}}}
+{{!}}-
+}}
+{{#if: {{{regent1|}}}|
+! {{{reg-type1|Regent}}}
+{{!}} {{{regent1}}}
+{{!}}-
+}}
+{{#if: {{{succession2|}}} |
+{{!}} colspan=2 style="background-color: #e4dcf6; text-align: right" {{!}} <center>'''{{{succession2}}}''' <small>{{{moretext2|}}}</small> </center>
+{{!}}-
+}}
+{{#if: {{{reign2|}}}|
+! {{{reign-type2|{{#switch:{{{consort|}}}|yes=Tenure|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Tenure|Reign}}<!--BACKWARD COMPAT FROM IBR-->}}}}}
+{{!}} {{{reign2}}}
+{{!}}-
+}}
+{{#if: {{{coronation2|}}}|
+! {{{cor-type2|Coronation}}}
+{{!}} {{{coronation2}}}
+{{!}}-
+}}
+{{#if: {{{predecessor2|}}}|
+! {{{pre-type2|Predecessor}}}
+{{!}} {{{predecessor2}}}
+{{!}}-
+}}
+{{#if: {{{successor2|}}}|
+! {{{suc-type2|Successor}}}
+{{!}} {{{successor2}}}
+{{!}}-
+}}
+{{#if: {{{regent2|}}}|
+! {{{reg-type2|Regent}}}
+{{!}} {{{regent2}}}
+{{!}}-
+}}
+{{#if: {{{succession3|}}} |
+{{!}} colspan=2 style="background-color: #e4dcf6; text-align: right" {{!}} <center>'''{{{succession3}}}''' <small>{{{moretext3|}}}</small> </center>
+{{!}}-
+}}
+{{#if: {{{reign3|}}}|
+! {{{reign-type3|{{#switch:{{{consort|}}}|yes=Tenure|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Tenure|Reign}}<!--BACKWARD COMPAT FROM IBR-->}}}}}
+{{!}} {{{reign3}}}
+{{!}}-
+}}
+{{#if: {{{coronation3|}}}|
+! {{{cor-type3|Coronation}}}
+{{!}} {{{coronation3}}}
+{{!}}-
+}}
+{{#if: {{{predecessor3|}}}|
+! {{{pre-type3|Predecessor}}}
+{{!}} {{{predecessor3}}}
+{{!}}-
+}}
+{{#if: {{{successor3|}}}|
+! {{{suc-type3|Successor}}}
+{{!}} {{{successor3}}}
+{{!}}-
+}}
+{{#if: {{{regent3|}}}|
+! {{{reg-type3|Regent}}}
+{{!}} {{{regent3}}}
+{{!}}-
+}}
+{{#if: {{{succession|}}} |
+{{!}} colspan=2 style="background-color: #e4dcf6; height: 4px; text-align: center" {{!}}
+{{!}}-
+}}
+{{#if: {{{spouse|}}}|
+! {{{spouse-type|{{#switch:{{{type}}}|monarch={{#switch:{{{consort}}}|yes=Spouse|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Spouse|Consort}}<!--BACKWARD COMPAT FROM IBR-->}}|majesty={{#switch:{{{consort}}}|yes=Spouse|<!--BACKWARD COMPAT FROM IBR-->{{#switch:{{{2}}}|consort=Spouse|Consort}}<!--BACKWARD COMPAT FROM IBR-->}}|Spouse}}}}}
+{{!}} {{{spouse}}}
+{{!}}-
+}}
+<!--FOOLPROOFING. USE NOT GENERALLY ENCOURAGED: USE spouse-->{{#if: {{{spouses|}}}|
+! {{{spouses-type|Spouse}}}
+{{!}} {{{spouses}}}
+{{!}}-
+}}
+{{#if:{{{issue|}}} |
+! colspan=2 {{!}} {{#if:{{{issue-link|}}}|<div style="float: right"><small>''[[{{{issue-link}}}{{!}}{{#if:{{{issue-pipe|}}}|{{{issue-pipe}}}|Detail}}]]''</small></div>}}Issue
+{{!}}-
+{{!}} colspan=2 style="text-align: left" {{!}} {{{issue}}}
+{{!}}-
+}}
+{{#if: {{{full name|}}} |
+! colspan=2 {{!}} Full name
+{{!}}-
+{{!}} colspan=2 {{!}} <span class="nickname">{{{full name}}}</span><!-- "nickname" is the correct parameter value for hCard -->
+{{!}}-
+}}
+{{#if: {{{era dates|}}} |
+! colspan=2 {{!}} Era {{#if:{{{era name|}}}|name and&nbsp;}}dates
+{{!}}-
+{{!}} colspan=2 {{!}} {{#if:{{{era name|}}}|{{{era name}}}:&nbsp;}}{{{era dates}}}
+{{!}}-
+}}
+{{#if: {{{posthumous name|}}} |
+! colspan=2 {{!}} Posthumous name
+{{!}}-
+{{!}} colspan=2 {{!}} {{{posthumous name}}}
+{{!}}-
+}}
+{{#if: {{{temple name|}}} |
+! colspan=2 {{!}} Temple name
+{{!}}-
+{{!}} colspan=2 {{!}} {{{temple name}}}
+{{!}}-
+}}
+{{#if: {{{house|}}}|
+! [[Royal house{{!}}{{{house-type|{{#switch:{{{house-type}}}|House}}}}}]]
+{{!}} {{{house}}}
+{{!}}-
+}}
+{{#if: {{{father|}}}|
+! Father
+{{!}} {{{father}}}
+{{!}}-
+}}
+{{#if: {{{mother|}}}|
+! Mother
+{{!}} {{{mother}}}
+{{!}}-
+}}
+{{#if:{{{birth_date|}}}{{{birth_place|}}}|
+! Born
+{{!}} {{br separated entries| {{{birth_date|}}} | {{{birth_place|}}} }}
+{{!}}-
+}}
+{{#if:{{{death_date|}}}{{{death_place|}}}|
+! Died
+{{!}} {{br separated entries| {{{death_date|}}} | {{{death_place|}}} }}
+{{!}}-
+}}
+{{#if:{{{burial_date|{{{date of burial|}}}}}}{{{burial_place|{{{place of burial|}}}}}}|
+! Burial
+{{!}} {{br separated entries | {{{burial_date|{{{date of burial|}}}}}} | {{#if:{{{burial_place|{{{place of burial|}}}}}}|<span class="label">{{{burial_place|{{{place of burial|}}}}}}</span>}} }}
+{{!}}-
+}}
+{{#if: {{{occupation|}}}|
+! Occupation
+{{!}} {{{occupation}}}
+{{!}}-
+}}
+{{#if:{{{signature|}}}|
+! Signature
+{{!}} [[File:{{{signature}}}|125px|alt={{{signature_alt|}}}|{{PAGENAME}}'s signature]]
+{{!}}-
+}}
+{{#if: {{{religion|}}}|
+! Religion
+{{!}} {{{religion}}}
+{{!}}-
+}}
+|}<noinclude>Copy and paste the following source code into your article to use. Leave input fields blank to omit.<pre>
+{{Infobox royalty
+| type         =
+| consort      = 
+| name         = 
+| title        = 
+| titletext    = 
+| more         = 
+| image        = 
+| imgw         = 
+| alt          = 
+| caption      = 
+| succession   = 
+| moretext     = 
+| reign        = 
+| reign-type   = 
+| coronation   = 
+| cor-type     = 
+| predecessor  = 
+| pre-type     = 
+| regent       = 
+| reg-type     = 
+| successor    = 
+| suc-type     = 
+| succession1  = 
+| moretext1    = 
+| reign1       = 
+| reign-type1  = 
+| coronation1  = 
+| cor-type1    = 
+| predecessor1 = 
+| pre-type1    = 
+| regent1      = 
+| reg-type1    = 
+| successor1   = 
+| suc-type1    = 
+| succession2  = 
+| moretext2    = 
+| reign2       = 
+| reign-type2  = 
+| coronation2  = 
+| cor-type2    = 
+| predecessor2 = 
+| pre-type2    = 
+| regent2      = 
+| reg-type2    = 
+| successor2   = 
+| suc-type2    = 
+| succession3  = 
+| moretext3    = 
+| reign3       = 
+| reign-type3  = 
+| coronation3  = 
+| cor-type3    = 
+| predecessor3 = 
+| pre-type3    = 
+| regent3      = 
+| reg-type3    = 
+| successor3   = 
+| suc-type3    = 
+| spouse       =
+| spouse-type  = 
+| issue        = 
+| issue-link   = 
+| issue-pipe   = 
+| full name    = 
+| era name     = 
+| era dates    = 
+| posthumous name = 
+| temple name  =
+| house        = 
+| house-type   = 
+| father       = 
+| mother       = 
+| birth_date   = 
+| birth_place  = 
+| death_date   = 
+| death_place  = 
+| burial_date  = 
+| burial_place = 
+| occupation   = 
+| signature    = 
+| religion     =
+}}</pre></noinclude>

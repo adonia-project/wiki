@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Bavaria
+| flag alias = Flag_of_Bavaria.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 =
+| related1 = 
+</noinclude>
+}}

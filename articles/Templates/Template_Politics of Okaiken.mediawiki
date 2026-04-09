@@ -1,0 +1,104 @@
+{{sidebar with collapsible lists
+| name = Politics of Okaiken
+| bodyclass = vcard hlist
+| pretitle = This article is part of [[:Category:Politics of Okaiken|a series]] on
+| title = {{Politics sidebar title |country=Okaiken |image=Seal of Okaiken.svg|size=125px |title=Okaiken}}
+| style = width:20em;
+| listtitlestyle = text-align:left; background:lavender;
+| expanded = {{{expanded|{{{1|}}}}}}
+
+| liststyle = text-align:center
+
+| list1name = constitution
+| list1title = [[Constitution of Okaiken|Constitution]] and Laws
+| list1 =
+* [[Constitution of Okaiken|Constitution of Okaiken]]
+* [[Constitution of Okaiken#Historical Context: The 1870 Saito Constitution|1870 Saito Constitution]]
+* [[Law of Okaiken|Laws]]
+
+| list2name = monarchy
+| list2title = [[Emperor of Okaiken|The Monarchy]]
+| list2 =
+* '''[[Emperor of Okaiken|The Emperor]]''' ([[List of Emperors of Okaiken|List]])
+[[Masahito]]
+----
+* [[Imperial Household Agency]]
+
+| list3name = executive
+| list3title = [[Government of Okaiken|Executive]]
+| list3 =
+* '''[[Government of Okaiken|Government]]'''
+* '''[[Prime Minister of Okaiken|Prime Minister]]''' ([[List of Prime Ministers of Okaiken|List]])<br />
+[[Honda Shigetsuma]] ([[Progressive Party of Okaiken|PPO]])<br />
+* '''[[Cabinet of Okaiken|Cabinet]]'''
+----
+* [[Ministries of Okaiken|Ministries]]
+
+| list4name = legislature
+| list4title = [[Diet of Okaiken|Legislature]]
+| list4 =
+* '''[[Diet of Okaiken|National Diet]]'''
+----
+* '''[[House of Officers]]'''
+* '''[[House of Commoners of Okaiken|House of Commoners]]'''
+
+| list5name = judiciary
+| list5title = [[Judicial system of Okaiken|Judiciary]]
+| list5 =
+* '''[[Judicial system of Okaiken|Judicial system]]'''
+
+| list6name = elections
+| list6title = [[Elections in Okaiken|Elections]] and Parties
+| list6 = 
+* [[Elections in Okaiken|Elections]]
+* [[List of political parties in Okaiken|Political parties]]
+----
+* '''Governing Coalition'''
+* [[Progressive Party of Okaiken|Progressive (PPO)]]
+* [[Okaiken Socialist Party|Socialist (OSP)]]
+----
+* '''Major Opposition'''
+* [[Liberal Democratic Party (Okaiken)|Liberal Democratic (LDP)]]
+* [[Sanese Communist Party|Communist (SCP)]]
+* [[New Komeito Party|New Komeito (NKP)]]
+* [[Social Democratic Party (Okaiken)|Social Democratic (SDP)]]
+<br/>
+{{Center|'''House of Commoners elections'''}}
+----
+{{hlist|[[Okaiken general election, 2016|2016]]|[[Okaiken general election, 2021|2021]]|[[Okaiken general election, 2025|2025]]}}
+<br/>
+{{Center|'''House of Officers elections'''}}
+----
+{{hlist|[[Sanese House of Officers election, 2016|2016]]|[[Sanese House of Officers election, 2020|2020]]|[[Sanese House of Officers election, 2025|2025]]}}
+
+| list7name = divisions
+| list7title = Administrative divisions
+| list7 =
+* '''[[Prefectures of Okaiken|Prefectures]]'''
+* '''[[Governor (Okaiken)|Governors]]''' ([[List of governors of Okaiken|List]])
+
+| list8name = foreign
+| list8title = [[Foreign relations of Okaiken|Foreign relations]]
+| list8 =
+* [[Foreign policy of Okaiken|Foreign policy]]
+* [[Foreign relations of Okaiken|Foreign relations]]
+----
+* [[Balisca–Okaiken relations|Balisca]]
+* [[Kwangju–Okaiken relations|Kwangju]]
+* [[Okaiken–Shayden relations|Shayden]]
+* [[Okaiken–Zong relations|Zong]]
+
+| list9name = history_other
+| list9title = History and Related Topics
+| list9 =
+* '''Key Historical Events'''
+* [[Quiet Revolution]]
+* [[Jutsu Restoration]]
+----
+* [[Monetary and fiscal policy of Okaiken|Fiscal policy]]
+* [[Human rights in Okaiken|Human rights]]
+* [[Political extremism in Okaiken|Political extremism]]
+
+| below = {{portal-inline|Okaiken}} {{Politics sidebar below|Okaiken}}
+}}<noinclude>{{documentation}}
+</noinclude>

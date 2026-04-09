@@ -1,0 +1,36 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Felloyr
+| flag alias = Flag of Felloyr.png
+| flag alias-armed forces = Flag of Felloy Armed Forces.svg
+| link alias-armed forces = Felloy Armed Forces
+| flag alias-army = Flag of Felloy Army.svg
+| link alias-army = Felloy Army
+| flag alias-navy = Flag of Felloy Navy.svg
+| link alias-navy = Felloy Navy
+| flag alias-air force = Flag of Felloy Air Force.svg
+| link alias-air force = Felloy Air Force
+| flag alias-home guard = Flag of Felloy Home Guard.svg
+| link alias-home guard = Felloy Home Guard
+| flag alias-coast guard = Flag of Felloy Coast Guard.svg
+| flag alias-space guard = Flag of Felloy Space Guard.svg
+| flag alias-cyber guard = Flag of Felloy Cyber Guard.svg
+| flag alias-lophing = Flag of Lophing Clan.svg
+| flag alias-guardøkl = Flag of Guardøkl.svg
+| flag alias-1050 = Flag of Felloyr (1050).svg
+| flag alias-kingdom = Flag of Kingdom of Felloyr.svg
+| flag alias-government = Flag of Felloy Government.svg
+| link alias-government = Government of Felloyr
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1050
+| var2 = kingdom
+| var3 = government
+| redir1 = Commonwealth of Felloyr (1050)
+| related1 = Guardøkl clan
+| related2 = Lophing clan
+</noinclude>
+}}

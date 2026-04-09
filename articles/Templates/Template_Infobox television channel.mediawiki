@@ -1,0 +1,472 @@
+{{Infobox
+| above = {{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+
+| abovestyle = background-color: #bfdfff; font-size: 125%;
+| headerstyle = background-color: #d0e5f5;
+
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{logofile|}}}|size={{{logosize|}}}|sizedefault=frameless|alt={{{logoalt|}}}}}
+| caption = {{{logocaption|}}}
+
+| image2 = {{{logo2|}}}
+
+| label1  =  Launched
+| data1   = {{{launch|}}}
+
+| label2  =  Closed
+| data2   = {{{closed date|}}}
+
+| label3  =  Network
+| data3   = {{{network|}}}
+
+| label4  =  Owned by
+| data4   = {{{owner|}}}
+
+| label5  =  Picture format
+| data5   = {{{picture format|}}}
+
+| label6  = Audience share
+| data6   = {{#if:{{{share|}}}|{{{share}}} {{#if:{{{share as of|}}}{{{share source|}}}|({{{share as of|}}}, {{{share source|}}})}}}}
+
+| label7  =  Slogan
+| data7   = {{{slogan|}}}
+
+| label8  =  Country
+| data8   = {{{country|}}}
+
+| label9  =  Language
+| data9   = {{{language|}}}
+
+| label10 =  Broadcast area
+| data10  = {{{broadcast area|}}}
+
+| label11 =  Affiliates
+| data11  = {{{affiliates|}}}
+
+| label12 =  Headquarters
+| data12  = {{{headquarters|}}}
+
+| label13 =  Formerly called
+| data13  = {{{former names|}}}
+
+| label14 =  Replaced
+| data14  = {{{replaced names|}}}
+
+| label15 =  Replaced by
+| data15  = {{{replaced by names|}}}
+
+| label16 =  Sister channel(s)
+| data16  = {{{sister names|}}}
+
+| label17 =  Timeshift service
+| data17  = {{{timeshift names|}}}
+
+| label18 =  Website
+| data18  = {{{website|{{{web|}}}}}}
+
+| header19 = {{#if: {{{terr serv 1|}}}{{{terr chan 1|}}} {{{sat serv 1|}}}{{{sat chan 1|}}} {{{cable serv 1|}}}{{{cable chan 1|}}} {{{sat radio serv 1|}}}{{{sat radio chan 1|}}} {{{iptv serv 1|}}}{{{iptv chan 1|}}}{{{adsl serv 1|}}}{{{adsl chan 1|}}}|<div style="background-color: #bfdfff; width:100%">Availability {{{availability note|}}}</div>}}
+
+| header20 = {{#if: {{{terr serv 1|}}}{{{terr chan 1|}}}|Terrestrial}}
+
+| label21 = {{{terr serv 1|}}}
+| data21 = {{{terr chan 1|}}}
+
+| label22 = {{{terr serv 2|}}}
+| data22 = {{{terr chan 2|}}}
+
+| label23 = {{{terr serv 3|}}}
+| data23 = {{{terr chan 3|}}}
+
+| label24 = {{{terr serv 4|}}}
+| data24 = {{{terr chan 4|}}}
+
+| label25 = {{{terr serv 5|}}}
+| data25 = {{{terr chan 5|}}}
+
+| label26 = {{{terr serv 6|}}}
+| data26 = {{{terr chan 6|}}}
+
+| label27 = {{{terr serv 7|}}}
+| data27 = {{{terr chan 7|}}}
+
+| label28 = {{{terr serv 8|}}}
+| data28 = {{{terr chan 8|}}}
+
+| label29 = {{{terr serv 9|}}}
+| data29 = {{{terr chan 9|}}}
+
+| label30 = {{{terr serv 10|}}}
+| data30 = {{{terr chan 10|}}}
+
+| label31 = {{{terr serv 11|}}}
+| data31 = {{{terr chan 11|}}}
+
+| label32 = {{{terr serv 12|}}}
+| data32 = {{{terr chan 12|}}}
+
+| label33 = {{{terr serv 13|}}}
+| data33 = {{{terr chan 13|}}}
+
+| label34 = {{{terr serv 14|}}}
+| data34 = {{{terr chan 14|}}}
+
+| label35 = {{{terr serv 15|}}}
+| data35 = {{{terr chan 15|}}}
+
+| label36 = {{{terr serv 16|}}}
+| data36 = {{{terr chan 16|}}}
+
+| label37 = {{{terr serv 17|}}}
+| data37 = {{{terr chan 17|}}}
+
+| label38 = {{{terr serv 18|}}}
+| data38 = {{{terr chan 18|}}}
+
+| label39 = {{{terr serv 19|}}}
+| data39 = {{{terr chan 19|}}}
+
+| label40 = {{{terr serv 20|}}}
+| data40 = {{{terr chan 20|}}}
+
+| header41 = {{#if: {{{sat serv 1|}}}{{{sat chan 1|}}}|Satellite}}
+
+| label42 = {{{sat serv 1|}}}
+| data42 = {{{sat chan 1|}}}
+
+| label43 = {{{sat serv 2|}}}
+| data43 = {{{sat chan 2|}}}
+
+| label44 = {{{sat serv 3|}}}
+| data44 = {{{sat chan 3|}}}
+
+| label45 = {{{sat serv 4|}}}
+| data45 = {{{sat chan 4|}}}
+
+| label46 = {{{sat serv 5|}}}
+| data46 = {{{sat chan 5|}}}
+
+| label47 = {{{sat serv 6|}}}
+| data47 = {{{sat chan 6|}}}
+
+| label48 = {{{sat serv 7|}}}
+| data48 = {{{sat chan 7|}}}
+
+| label49 = {{{sat serv 8|}}}
+| data49 = {{{sat chan 8|}}}
+
+| label50 = {{{sat serv 9|}}}
+| data50 = {{{sat chan 9|}}}
+
+| label51 = {{{sat serv 10|}}}
+| data51 = {{{sat chan 10|}}}
+
+| label52 = {{{sat serv 11|}}}
+| data52 = {{{sat chan 11|}}}
+
+| label53 = {{{sat serv 12|}}}
+| data53 = {{{sat chan 12|}}}
+
+| label54 = {{{sat serv 13|}}}
+| data54 = {{{sat chan 13|}}}
+
+| label55 = {{{sat serv 14|}}}
+| data55 = {{{sat chan 14|}}}
+
+| label56 = {{{sat serv 15|}}}
+| data56 = {{{sat chan 15|}}}
+
+| label57 = {{{sat serv 16|}}}
+| data57 = {{{sat chan 16|}}}
+
+| label58 = {{{sat serv 17|}}}
+| data58 = {{{sat chan 17|}}}
+
+| label59 = {{{sat serv 18|}}}
+| data59 = {{{sat chan 18|}}}
+
+| label60 = {{{sat serv 19|}}}
+| data60 = {{{sat chan 19|}}}
+
+| label61 = {{{sat serv 20|}}}
+| data61 = {{{sat chan 20|}}}
+
+| label62 = {{{sat serv 21|}}}
+| data62 = {{{sat chan 21|}}}
+
+| label63 = {{{sat serv 22|}}}
+| data63 = {{{sat chan 22|}}}
+
+| label64 = {{{sat serv 23|}}}
+| data64 = {{{sat chan 23|}}}
+
+| label65 = {{{sat serv 24|}}}
+| data65 = {{{sat chan 24|}}}
+
+| label66 = {{{sat serv 25|}}}
+| data66 = {{{sat chan 25|}}}
+
+| label67 = {{{sat serv 26|}}}
+| data67 = {{{sat chan 26|}}}
+
+| label68 = {{{sat serv 27|}}}
+| data68 = {{{sat chan 27|}}}
+
+| label69 = {{{sat serv 28|}}}
+| data69 = {{{sat chan 28|}}}
+
+| label70 = {{{sat serv 29|}}}
+| data70 = {{{sat chan 29|}}}
+
+| label71 = {{{sat serv 30|}}}
+| data71 = {{{sat chan 30|}}}
+
+| header72 = {{#if: {{{cable serv 1|}}}{{{cable chan 1|}}}|Cable}}
+
+| label73 = {{{cable serv 1|}}}
+| data73 = {{{cable chan 1|}}}
+
+| label74 = {{{cable serv 2|}}}
+| data74 = {{{cable chan 2|}}}
+
+| label75 = {{{cable serv 3|}}}
+| data75 = {{{cable chan 3|}}}
+
+| label76 = {{{cable serv 4|}}}
+| data76 = {{{cable chan 4|}}}
+
+| label77 = {{{cable serv 5|}}}
+| data77 = {{{cable chan 5|}}}
+
+| label78 = {{{cable serv 6|}}}
+| data78 = {{{cable chan 6|}}}
+
+| label79 = {{{cable serv 7|}}}
+| data79 = {{{cable chan 7|}}}
+
+| label80 = {{{cable serv 8|}}}
+| data80 = {{{cable chan 8|}}}
+
+| label81 = {{{cable serv 9|}}}
+| data81 = {{{cable chan 9|}}}
+
+| label82 = {{{cable serv 10|}}}
+| data82 = {{{cable chan 10|}}}
+
+| label83 = {{{cable serv 11|}}}
+| data83 = {{{cable chan 11|}}}
+
+| label84 = {{{cable serv 12|}}}
+| data84 = {{{cable chan 12|}}}
+
+| label85 = {{{cable serv 13|}}}
+| data85 = {{{cable chan 13|}}}
+
+| label86 = {{{cable serv 14|}}}
+| data86 = {{{cable chan 14|}}}
+
+| label87 = {{{cable serv 15|}}}
+| data87 = {{{cable chan 15|}}}
+
+| label88 = {{{cable serv 16|}}}
+| data88 = {{{cable chan 16|}}}
+
+| label89 = {{{cable serv 17|}}}
+| data89 = {{{cable chan 17|}}}
+
+| label90 = {{{cable serv 18|}}}
+| data90 = {{{cable chan 18|}}}
+
+| label91 = {{{cable serv 19|}}}
+| data91 = {{{cable chan 19|}}}
+
+| label92 = {{{cable serv 20|}}}
+| data92 = {{{cable chan 20|}}}
+
+| header93 = {{#if: {{{sat radio serv 1|}}}{{{sat radio chan 1|}}}|Satellite radio}}
+
+| label94 = {{{sat radio serv 1|}}}
+| data94 = {{{sat radio chan 1|}}}
+
+| label95 = {{{sat radio serv 2|}}}
+| data95 = {{{sat radio chan 2|}}}
+
+| label96 = {{{sat radio serv 3|}}}
+| data96 = {{{sat radio chan 3|}}}
+
+| label97 = {{{sat radio serv 4|}}}
+| data97 = {{{sat radio chan 4|}}}
+
+| label98 = {{{sat radio serv 5|}}}
+| data98 = {{{sat radio chan 5|}}}
+
+| label99 = {{{sat radio serv 6|}}}
+| data99 = {{{sat radio chan 6|}}}
+
+| label100 = {{{sat radio serv 7|}}}
+| data100 = {{{sat radio chan 7|}}}
+
+| label101 = {{{sat radio serv 8|}}}
+| data101 = {{{sat radio chan 8|}}}
+
+| label102 = {{{sat radio serv 9|}}}
+| data102 = {{{sat radio chan 9|}}}
+
+| label103 = {{{sat radio serv 10|}}}
+| data103 = {{{sat radio chan 10|}}}
+
+| label104 = {{{sat radio serv 11|}}}
+| data104 = {{{sat radio chan 11|}}}
+
+| label105 = {{{sat radio serv 12|}}}
+| data105 = {{{sat radio chan 12|}}}
+
+| label106 = {{{sat radio serv 13|}}}
+| data106 = {{{sat radio chan 13|}}}
+
+| label107 = {{{sat radio serv 14|}}}
+| data107 = {{{sat radio chan 14|}}}
+
+| label108 = {{{sat radio serv 15|}}}
+| data108 = {{{sat radio chan 15|}}}
+
+| label109 = {{{sat radio serv 16|}}}
+| data109 = {{{sat radio chan 16|}}}
+
+| label110 = {{{sat radio serv 17|}}}
+| data110 = {{{sat radio chan 17|}}}
+
+| label111 = {{{sat radio serv 18|}}}
+| data111 = {{{sat radio chan 18|}}}
+
+| label112 = {{{sat radio serv 19|}}}
+| data112 = {{{sat radio chan 19|}}}
+
+| label113 = {{{sat radio serv 20|}}}
+| data113 = {{{sat radio chan 20|}}}
+
+| header114 = {{#if: {{{iptv serv 1|}}}{{{iptv chan 1|}}}{{{adsl serv 1|}}}{{{adsl chan 1|}}}|[[IPTV]]}}
+
+| label115 = {{{iptv serv 1|}}}{{{adsl serv 1|}}}
+| data115 = {{{iptv chan 1|}}}{{{adsl chan 1|}}}
+
+| label116 = {{{iptv serv 2|}}}{{{adsl serv 2|}}}
+| data116 = {{{iptv chan 2|}}}{{{adsl chan 2|}}}
+
+| label117 = {{{iptv serv 3|}}}{{{adsl serv 3|}}}
+| data117 = {{{iptv chan 3|}}}{{{adsl chan 3|}}}
+
+| label118 = {{{iptv serv 4|}}}{{{adsl serv 4|}}}
+| data118 = {{{iptv chan 4|}}}{{{adsl chan 4|}}}
+
+| label119 = {{{iptv serv 5|}}}{{{adsl serv 5|}}}
+| data119 = {{{iptv chan 5|}}}{{{adsl chan 5|}}}
+
+| label120 = {{{iptv serv 6|}}}{{{adsl serv 6|}}}
+| data120 = {{{iptv chan 6|}}}{{{adsl chan 6|}}}
+
+| label121 = {{{iptv serv 7|}}}{{{adsl serv 7|}}}
+| data121 = {{{iptv chan 7|}}}{{{adsl chan 7|}}}
+
+| label122 = {{{iptv serv 8|}}}{{{adsl serv 8|}}}
+| data122 = {{{iptv chan 8|}}}{{{adsl chan 8|}}}
+
+| label123 = {{{iptv serv 9|}}}{{{adsl serv 9|}}}
+| data123 = {{{iptv chan 9|}}}{{{adsl chan 9|}}}
+
+| label124 = {{{iptv serv 10|}}}{{{adsl serv 10|}}}
+| data124 = {{{iptv chan 10|}}}{{{adsl chan 10|}}}
+
+| label125 = {{{iptv serv 11|}}}{{{adsl serv 11|}}}
+| data125 = {{{iptv chan 11|}}}{{{adsl chan 11|}}}
+
+| label126 = {{{iptv serv 12|}}}{{{adsl serv 12|}}}
+| data126 = {{{iptv chan 12|}}}{{{adsl chan 12|}}}
+
+| label127 = {{{iptv serv 13|}}}{{{adsl serv 13|}}}
+| data127 = {{{iptv chan 13|}}}{{{adsl chan 13|}}}
+
+| label128 = {{{iptv serv 14|}}}{{{adsl serv 14|}}}
+| data128 = {{{iptv chan 14|}}}{{{adsl chan 14|}}}
+
+| label129 = {{{iptv serv 15|}}}{{{adsl serv 15|}}}
+| data129 = {{{iptv chan 15|}}}{{{adsl chan 15|}}}
+
+| label130 = {{{iptv serv 16|}}}{{{adsl serv 16|}}}
+| data130 = {{{iptv chan 16|}}}{{{adsl chan 16|}}}
+
+| label131 = {{{iptv serv 17|}}}{{{adsl serv 17|}}}
+| data131 = {{{iptv chan 17|}}}{{{adsl chan 17|}}}
+
+| label132 = {{{iptv serv 18|}}}{{{adsl serv 18|}}}
+| data132 = {{{iptv chan 18|}}}{{{adsl chan 18|}}}
+
+| label133 = {{{iptv serv 19|}}}{{{adsl serv 19|}}}
+| data133 = {{{iptv chan 19|}}}{{{adsl chan 19|}}}
+
+| label134 = {{{iptv serv 20|}}}{{{adsl serv 20|}}}
+| data134 = {{{iptv chan 20|}}}{{{adsl chan 20|}}}
+
+| header135 = {{#if: {{{online serv 1|}}}{{{online chan 1|}}}|[[Streaming media]]}}
+
+| label136 = {{{online serv 1|}}}
+| data136 = {{{online chan 1|}}}
+
+| label137 = {{{online serv 2|}}}
+| data137 = {{{online chan 2|}}}
+
+| label138 = {{{online serv 3|}}}
+| data138 = {{{online chan 3|}}}
+
+| label139 = {{{online serv 4|}}}
+| data139 = {{{online chan 4|}}}
+
+| label140 = {{{online serv 5|}}}
+| data140 = {{{online chan 5|}}}
+
+| label141 = {{{online serv 6|}}}
+| data141 = {{{online chan 6|}}}
+
+| label142 = {{{online serv 7|}}}
+| data142 = {{{online chan 7|}}}
+
+| label143 = {{{online serv 8|}}}
+| data143 = {{{online chan 8|}}}
+
+| label144 = {{{online serv 9|}}}
+| data144 = {{{online chan 9|}}}
+
+| label145 = {{{online serv 10|}}}
+| data145 = {{{online chan 10|}}}
+
+| label146 = {{{online serv 11|}}}
+| data146 = {{{online chan 11|}}}
+
+| label147 = {{{online serv 12|}}}
+| data147 = {{{online chan 12|}}}
+
+| label148 = {{{online serv 13|}}}
+| data148 = {{{online chan 13|}}}
+
+| label149 = {{{online serv 14|}}}
+| data149 = {{{online chan 14|}}}
+
+| label150 = {{{online serv 15|}}}
+| data150 = {{{online chan 15|}}}
+
+| label151 = {{{online serv 16|}}}
+| data151 = {{{online chan 16|}}}
+
+| label152 = {{{online serv 17|}}}
+| data152 = {{{online chan 17|}}}
+
+| label153 = {{{online serv 18|}}}
+| data153 = {{{online chan 18|}}}
+
+| label154 = {{{online serv 19|}}}
+| data154 = {{{online chan 19|}}}
+
+| label155 = {{{online serv 20|}}}
+| data155 = {{{online chan 20|}}}
+
+}}<noinclude>
+{{documentation}}
+</noinclude>

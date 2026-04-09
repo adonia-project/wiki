@@ -1,0 +1,46 @@
+{{ infobox
+| title   = {{if empty|{{{name|}}}|<includeonly>{{PAGENAMEBASE}}</includeonly>}}
+
+| subheader = {{#if:{{{native_name|}}}|<div class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}
+
+| image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|alt={{{image_alt|}}}}}
+| caption = {{{caption|}}}
+
+|label1   = Founded
+| data1   = {{{founded|}}}
+|label2   = {{#if:{{{founded by|}}}{{{founded_by|}}}|Founded by|{{#if:{{{founder|}}}|Founder|Founders}}}}
+| data2   = {{if empty|{{{founded by|}}}|{{{founded_by|}}}|{{{founder|}}}|{{{founders|}}}}}
+|label3   = Named after
+| data3   = {{if empty|{{{named after|}}}|{{{named_after|}}}}}
+|label4   = Founding&nbsp;location
+| data4   = {{if empty|{{{founding location|}}}|{{{founding_location|}}}}}
+|label5   = Years&nbsp;active
+| data5   = {{if empty|{{{years active|}}}|{{{years_active|}}}}}
+|label6   = Territory
+| data6   = {{{territory|}}}
+|label7   = Ethnicity
+| data7   = {{if empty|{{{ethnicity|}}}|{{{ethnic makeup|}}}}}
+|label8   = Membership {{#if:{{{membership est|}}}{{{membership_est|}}}|{{nobold|(est.)}}}}
+| data8   = {{if empty|{{{membership est|}}}|{{{membership_est|}}}|{{{membership|}}}}}
+|label9   = Leader(s)
+| data9   = {{{leaders|}}}
+|label10  = {{#if:{{{criminal activities|{{{criminal_activities|}}}}}}|Criminal activities|Activities}}
+| data10  = {{{criminal activities|{{{criminal_activities|{{{activities|}}}}}}}}}
+|label11  = Allies
+| data11  = {{{allies|}}}
+|label12  = Rivals
+| data12  = {{{rivals|}}}
+|label13  = Notable members
+| data13  = {{if empty|{{{notable members|}}}|{{{notable_members|}}}}}
+}}<!-- Tracking categories:
+-->{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox criminal organization with unsupported parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox criminal organization]] with unknown parameter "_VALUE_"|ignoreblank=y
+| name | native_name | native_name_lang | image | image_size | image_alt | caption | founded | founded by | founded_by | founder | founders | named after | named_after | founding location | founding_location | years active | years_active | territory | ethnicity | ethnic makeup | membership_est | membership est | membership | leaders | criminal activities | criminal_activities | activities | allies | rivals | notable members | notable_members 
+}}<!--
+ -->{{#if:{{{ethnicity|}}}|{{main other|[[Category:Pages using infobox criminal organization with ethnicity or ethnic makeup parameters|e{{PAGENAME}}]]}}
+  }}{{#if:{{{ethnic makeup|}}}|{{main other|[[Category:Pages using infobox criminal organization with ethnicity or ethnic makeup parameters|m{{PAGENAME}}]]}}
+  }}<!--
+-->{{#if:{{{rivals|}}}|{{main other|[[Category:Pages using infobox criminal organization with rivals parameter]]}}
+}}<noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage and interwikis in Wikidata, not here! -->
+</noinclude>

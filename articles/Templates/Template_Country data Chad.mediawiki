@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Chad
+| flag alias = Flag of Chad.svg
+| link alias-air force = Chadian Air Force
+| link alias-army = Chadian Ground Forces
+| link alias-military = Chad National Army
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = TCD
+| redir2 = CHA
+</noinclude>
+}}

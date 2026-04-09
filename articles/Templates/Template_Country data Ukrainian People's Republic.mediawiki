@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Ukrainian People's Republic
+| shortname alias = Ukraine
+| flag alias = Flag_of_the_Ukrainian_State.svg
+| flag alias-army = Coat of Arms of UNR-1.svg
+| link alias-army = Ukrainian People's Army
+| flag alias-naval = Naval Ensign of Ukraine (1917–1921).svg
+| link alias-naval = Navy of the Ukrainian People's Republic
+| flag alias-navy = Naval Ensign of Ukraine (1917–1921).svg
+| link alias-navy = Navy of the Ukrainian People's Republic
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| related1 = Ukraine
+| related2 = Ukrainian SSR
+</noinclude>
+}}

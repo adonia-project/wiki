@@ -1,0 +1,267 @@
+<includeonly>
+====Extra====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Extra
+|+ id=Pressure|Pressure<br /><small>([[Module:Convert/documentation/conversion data#Pressure|Full list]])</small>
+|-
+!
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!
+!sample default<br />conversion
+!
+|-
+|rowspan=17|
+{{convert/list of units/unitrow|GPa|place=top}}
+{{convert/list of units/unitrow|MPa}}
+{{convert/list of units/unitrow|kPa}}
+{{convert/list of units/unitrow|hPa}}
+{{convert/list of units/unitrow|Pa}}
+{{convert/list of units/unitrow|mPa}}
+{{convert/list of units/unitrow|mbar|rowspan=2}}
+{{convert/list of units/unitaltab|mb}}
+{{convert/list of units/unitrow|dbar}}
+{{convert/list of units/unitrow|bar}}
+{{convert/list of units/unitrow|kBa}}
+{{convert/list of units/unitrow|Ba}}
+{{convert/list of units/unitrow|atm}}
+{{convert/list of units/unitrow|Torr}}
+{{convert/list of units/unitrow|mmHg}}
+{{convert/list of units/unitrow|inHg}}
+{{convert/list of units/unitrow|psi}}
+|}
+
+<includeonly>
+====Fuel efficiency====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id="Fuel efficiency"
+|+ Fuel efficiency
+|-
+!
+!unit
+!unit-<br />code
+!
+! style="width:0; padding:0;" |
+!notes
+! style="width:0; padding:0;" |
+!combinations
+|-
+|rowspan=7|
+|kilometres per litre
+|km/l (km/L)
+|
+| style="width:0; padding:0;" |
+|Use <code>km/L</code> to get "km/L"
+|
+|
+* km/l mpgimp
+* km/l mpgus
+|-
+|litres per 100 kilometres
+|l/100 km (L/100 km)
+|
+| style="width:0; padding:0;" |
+|Use <code>L/100 km</code> to get "L/100 km"
+|
+|
+* l/100 km mpgimp
+* l/100 km mpgus
+|-
+|litres per kilometre
+|l/km (L/km)
+|
+| style="width:0; padding:0;" |
+|Use <code>L/km</code> to get "L/km"
+|
+|
+* l/km impgal/mi
+* l/km usgal/mi
+|-
+|miles per imperial gallon
+|mpgimp
+|
+|style="width:0; padding:0;" |
+|
+|
+|
+* mpgimp mpgus
+|-
+|miles per US gallon
+|mpgus (mpgUS, mpgU.S.)
+|
+| style="width:0; padding:0;" |
+|Use <code>mpgUS</code> to get "US"<br />
+Use <code>mpgU.S.</code> to get "U.S."<br />
+<code>mpgus</code> will give "U.S." if spelling is<br />
+set to US & "US" otherwise 
+|
+|
+* mpgus mpgimp
+|-
+|imperial gallons per mile
+|impgal/mi
+|
+|style="width:0; padding:0;" |
+|
+|
+|
+* impgal/mi
+|-
+|US gallons per mile
+|usgal/mi (USgal/mi, U.S.gal/mi)
+|
+| style="width:0; padding:0;" |
+|As above with the <code>us</code> vs <code>US</code> vs <code>U.S.</code>
+|
+|
+* usgal/mi
+|-
+|colspan=8|The <code>mpgUS</code>, <code>mpgU.S.</code>, <code>USgal/mi</code> vs <code>U.S.gal/mi</code>, <code>km/L</code>, <code>L/100 km</code> and <code>L/km</code> variants work within combinations also (making 36 combinations in total).<!--
+|- id=Power
+!colspan=8|{{big|POWER}}
+|-
+|colspan=8|Watts, kilowatts, milliwatts, etc. are supported. As is horsepower (English & metric). Use standard abbreviations as input code (lowercase hp for horsepower, for example)-->
+
+|}
+
+<includeonly>
+====Population density====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id="Population density"
+|+ Population density
+!
+!unit
+!unit-<br />code
+!
+! style="width:0; padding:0;" |
+!notes
+! style="width:0; padding:0;" |
+!combinations
+|-
+|rowspan=8|
+|inhabitants per square kilometre
+|PD/km2
+|
+| style="width:0; padding:0;" |
+|<code>PD</code> stands for population density, ''[[id est|i.e.]]'' humans (inhabitants)
+|
+|
+* PD/km2 PD/sqmi
+|-
+|per square kilometre
+|/km2
+|
+| style="width:0; padding:0;" |
+|Used when the word 'inhabitants' would be inappropriate. 
+|
+|
+* /km2 /sqmi
+|-
+|inhabitants per hectare
+|PD/ha
+|
+| style="width:0; padding:0;" |
+|
+|
+|
+* PD/ha PD/acre
+|-
+|per hectare
+|/ha
+|
+| style="width:0; padding:0;" |
+|
+|
+|
+* /ha /acre
+|-
+|inhabitants per square mile
+|PD/sqmi
+|
+| style="width:0; padding:0;" |
+|<code>PD</code> stands for population density, ''i.e.'' humans (inhabitants)
+|
+|
+* PD/sqmi PD/km2
+|-
+|per square mile
+|/sqmi
+|
+| style="width:0; padding:0;" |
+|Used when the word 'inhabitants' would be inappropriate. 
+|
+|
+* /sqmi /km2
+|-
+|inhabitants per acre
+|PD/acre
+|
+| style="width:0; padding:0;" |
+|
+|
+|
+* PD/acre PD/ha
+|-
+|per acre
+|/acre
+|
+| style="width:0; padding:0;" |
+|
+|
+|
+* /acre /ha
+
+|}
+
+<includeonly>
+====Cost per unit mass====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id="Cost per unit mass"
+|+ Cost per unit mass
+|-
+!
+!unit
+!unit-<br />code
+!
+! style="width:0; padding:0;" |
+!notes
+! style="width:0; padding:0;" |
+!combinations
+|-
+|rowspan=3|
+|dollars per pound
+|$/lb
+|
+| style="width:0; padding:0;" |
+|"$" can mean US$, HK$, etc.
+|
+|
+* (none)
+|-
+|dollars per kilogram
+|$/kg
+|
+| style="width:0; padding:0;" |
+|
+|
+|
+* (none)
+|-
+|dollars per [[troy ounce]]
+|$/ozt
+|
+| style="width:0; padding:0;" |
+|12 troy ounces in 1 [[troy pound]]
+|
+|
+* (none)
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/extra]]
+</noinclude>

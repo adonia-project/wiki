@@ -1,0 +1,6 @@
+{{align|right|<small>This list:</small>&nbsp;{{view|talk|edit|template=Convert/doc/deprecations list|'''Parameter options for <nowiki>{{convert}}</nowiki>'''}}}}
+Deprecated options should not be used. They may produce incorrect or undesired results and there is no guarantee that they will be supported in the future.
+* {{!xt|1=disp=flip}} is deprecated. Use {{xt|1=order=flip}} instead
+* {{!xt|1=sing=}} is deprecated in any situation. Use {{xt|1=adj=}} instead
+* Range separator {{!xt|<nowiki>|xx|</nowiki>}} is deprecated (not [[MOS:UNITS|MOS]] compliant). Use {{xt|<nowiki>|x|</nowiki>}} instead
+* Range separator {{!xt|<nowiki>|*|</nowiki>}} is deprecated (not [[MOS:UNITS|MOS]] compliant). Use {{xt|<nowiki>|x|</nowiki>}} instead

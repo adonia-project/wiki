@@ -1,0 +1,11 @@
+{{Infobox station|name=Distrito Jardines|symbol_location=|symbol=|symbol2=|type=[[Castejón Metro]] station|image=[[File:Distrito Jardines station.png|300px]]|alt=|caption=|other_name=Garden District|address=[[Distrito Jardines]], [[Hisbanya]]|borough=[[Castejón Metropolis]]|country=Balisca|coordinates=|owned=[[Government of the Metropolitan City of Castejón|Metropolitan Council]]|operator=|line=|zone=1|opened={{Start date|24 April 1906}}|closed=<!-- {{End date|YYYY|MM|DD|df=y}} -->|former=|services={{s-rail|title=Castejón Metro}}
+{{rail line|col=D90627 |route=[[Line 3 (Castejón Metro)|Line 3]]|previous=[[Barrio Alfajar station|Barrio Alfajar]] {{br}} toward {{br}} [[Casas Viejas station|Casas Viejas]]|next=[[Sol station|Sol]]<br>toward<br>[[Las Corts station|Las Corts]]
+}}
+{{rail line|col= 9C4F01|route=[[Line 12 (Castejón Metro)|Line 12]]|previous=[[Villaverde station|Villaverde]] {{br}} toward {{br}} [[Aix station|Aix]]
+|next=[[Sol station|Sol]]<br>toward<br>[[Ansó station|Ansó]]
+}}
+{{rail line|col=6BA539 |route=[[Line 16 (Castejón Metro)|Line 16]]|previous=[[Barrio Alfajar station|Barrio Alfajar]] {{br}} toward {{br}} [[Casas Viejas station|Casas Viejas]]|next=[[Sol station|Sol]]<br>toward<br>[[Las Corts station|Las Corts]]
+}}|map_type=|style=Castejón Metro|structure=Elevated|transit_authority=[[Castejón Metropolitan Transit Authority]]|parking=Parking for loading/unloading and services vehicles only|accessible=Yes (incl. wheelchair ramps, [[Baliscano]] braille signage)|bicycle=Yes (underground parking facilities)}}'''Distrito Jardines''' ({{Literal translation|garden district}}) is an elevated [[W:Metro station|station]] of the [[Castejón Metro]] serving [[Line 3 (Castejón Metro)|Line 3]], [[Line 12 (Castejón Metro)|Line 12]] and [[Line 16 (Castejón Metro)|Line 16]] in the [[Hisbanya]] borough of the [[Castejón Metropolis]]. 
+
+{{Castejón}}{{Balisca articles}}
+[[Category:Balisca]]

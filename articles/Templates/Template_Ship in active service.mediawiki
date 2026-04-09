@@ -1,0 +1,3 @@
+{{ {{{|safesubst:}}}ifsubst|{{Ship in active service|{{{1|{{ {{{|safesubst:}}}CURRENTYEAR}}}}}|{{{2|}}}|{{{3|}}}|url={{{url|}}}}}|in active service{{#if:{{{1|}}}|, {{as of|{{{1}}}|{{{2|}}}|{{{3|}}}|url={{{url|}}}|lc=on}}<includeonly>{{#if:{{{1|}}}|{{#ifeq:{{{1|}}}|{{CURRENTYEAR}}||{{Main other|[[Category:Ships articles in need of updated status]]|}}}}|}}</includeonly>|<noinclude>, as of {{CURRENTYEAR}}</noinclude><includeonly>{{Main other|[[Category:Ships articles with undated status]]|}}</includeonly>}}}}<noinclude>
+{{documentation}}
+</noinclude>

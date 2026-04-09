@@ -1,0 +1,84 @@
+{{Infobox
+|bodyclass = vcard
+|bodystyle = {{#if:{{{infobox_width|}}}|width:{{{infobox_width|23em}}}|}}
+|templatestyles = infobox/mobileviewfix.css
+
+|titleclass = fn org
+| title = {{{name|{{{bank_name|{{PAGENAMEBASE}}}}}}}}{{#if:{{{native_name|{{{bank_name_in_local|}}}}}}|<br />{{{native_name|{{{bank_name_in_local|}}}}}} }}
+| above = {{{other_names|}}}
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|{{{image_1|}}}}}}|size={{{logo_size|{{{image_width_1|}}}}}}|sizedefault=frameless|upright={{{logo_upright|}}}|alt={{{logo_alt|{{{image_title_1|{{{logo_caption|}}}}}}}}}}}
+| caption = {{{logo_caption|{{{image_title_1|}}}}}}
+| image2 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|{{{image_2|}}}}}}|size={{{image_size|{{{image_width_2|}}}}}}|sizedefault=frameless|upright={{{image_upright|}}}|alt={{{alt|{{{image_title_2|{{{caption|}}}}}}}}}}}
+| caption2 = {{{caption|{{{caption1|{{{image_title_2|}}}}}}}}}
+| image3 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image_3|}}}|size={{{image_size_2|{{{image_width_3|}}}}}}|sizedefault=frameless|upright={{{image_upright_2|{{{image_upright|}}}}}}|alt={{{alt2|{{{image_title_3|{{{caption2|}}}}}}}}}}}
+| caption3 = {{{caption2|{{{image_title_3|}}}}}}
+| captionstyle = {{#if:{{{caption|{{{image_title_2|}}}}}}||border-bottom:#aaa 1px solid}}
+| caption2style = border-bottom:#aaa 1px solid
+
+|headerstyle = border-top:#aaa 1px solid
+
+|rowclass1 = label
+| label1 = Headquarters
+|  data1 = {{{headquarters|}}}
+
+| label2 = [[Geographic coordinate system|Coordinates]]
+|  data2 = {{{coordinates|}}}
+
+| label3 = Established
+|  data3 = {{{established|{{{foundation|}}}}}}
+
+| label4 = Dissolved
+|  data4 = {{{dissolved|{{{defunct|}}}}}}
+
+| label5 = Ownership
+|  data5 = {{{ownership|}}}
+
+| label6 = Governing body
+|  data6 = {{{governance|}}}
+
+| label7 = {{{executive_title|{{{leader_title|President}}}}}}
+|  data7 = {{#invoke:Wikidata|getValue|P6|{{{executive|{{{president|FETCH_WIKIDATA}}}}}} }}
+
+| label8 = Key people
+|  data8 = {{{key_people|}}}{{{president2|}}}{{{president3|}}}
+
+| label9 = Central&nbsp;bank&nbsp;of
+|  data9 = {{{bank_of|}}}
+
+| label10 = Currency
+|  data10 = {{{currency|}}}{{#if:{{{currency_iso|}}}|<br />{{ISO 4217/code|iso-code={{{currency_iso|}}}|format=ISO4217-cat}}&nbsp;([[ISO 4217]])|}}
+
+| label11 = Reserves
+|  data11 = {{{reserves|}}}
+
+| label13 = Reserve requirements
+|  data13 = {{{reserve_requirements|}}}
+
+| label14 = [[Bank rate]]
+|  data14 = {{{borrowing_rate|}}}
+
+| label15 = Interest rate target
+|  data15 = {{{interest_rate_target|}}}
+
+| label16 = Interest on reserves
+|  data16 = {{{deposit_rate|}}}
+
+| label17 = [[Interest on excess reserves|Interest paid on excess reserves?]]
+|  data17 = {{{IOER|{{{excess_reserves|}}}}}} 
+
+| label21 = Preceded by
+|  data21 = {{{predecessor|{{{preceded|}}}}}}
+| label22 = Succeeded by
+|  data22 = {{{successor|{{{succeeded|}}}}}}
+
+| label31 = Website
+|  data31 = {{{website|}}}
+
+| belowstyle = border-top:1px solid #aaaaaa;text-align:left;font-size:smaller
+| below = {{{footnotes|}}}
+
+|data32 = {{{embed|}}}
+}}<noinclude>
+
+{{documentation}}
+</noinclude>

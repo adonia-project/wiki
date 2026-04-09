@@ -1,0 +1,8 @@
+{{#invoke:Str find word|main}}<!--
+
+-->{{#invoke:check for unknown parameters|check
+|unknown={{main other|1=[[Category:Pages using str find word with unknown parameters‎|_VALUE_]]}}
+|preview=unknown parameter "_VALUE_"
+|source|s|word|w|andwords|andw|orwords|orw}}<!--
+
+--><noinclude>{{documentation}}</noinclude>

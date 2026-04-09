@@ -1,0 +1,974 @@
+{{Documentation subpage}}
+{{High-use}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{Lua|Module:Check for unknown parameters|Module:Color contrast|Module:Infobox|Module:InfoboxImage|Module:String}}
+
+This is an '''infobox for generic [[electric multiple unit]]s and [[diesel multiple unit]]s, as well as  [[Passenger car (rail)|carriages]]'''.
+<br>For the infobox for generic [[locomotive]]s see [[Template:Infobox locomotive|infobox locomotive]].
+{{Infobox train
+| name = ''name''
+| image = Example.png
+| imagesize = 250px
+| imagealt = 
+| caption = caption
+| interiorimage = 
+| interiorimagealt = 
+| interiorcaption = 
+| stocktype = ''stocktype''
+| service = ''service''
+| manufacturer = ''manufacturer''
+| factory = ''factory''
+| family = ''family''
+| replaced = ''replaced''
+| yearconstruction = ''yearconstruction''
+| yearservice = ''yearservice''
+| refurbishment = ''refurbishment''
+| yearretired = ''yearretired''
+| yearscrapped = ''yearscrapped''
+| numberconstruction = ''numberconstruction''
+| numberbuilt = ''numberbuilt''
+| numberservice = ''numberservice''
+| numberretired = ''numberretired''
+| numberpreserved = ''numberpreserved''
+| numberscrapped = ''numberscrapped''
+| formation = ''formation''
+| fleetnumbers = ''fleetnumbers''
+| capacity = ''capacity''
+| owner = ''owner''
+| operator = ''operator''
+| depots = ''depots''
+| lines = ''lines''
+| carbody = ''carbody''
+| trainlength = ''trainlength''
+| carlength = ''carlength''
+| width = ''width''
+| height = ''height''
+| floorheight = ''floorheight''
+| platformheight = ''platformheight''
+| entrylevelorstep = ''entrylevelorstep''
+| doors = ''doors''
+| art-sections = ''art-sections''
+| wheeldiameter = ''wheeldiameter''
+| wheelbase = ''wheelbase''
+| maxspeed = ''maxspeed''
+| weight = ''weight''
+| axleload = ''axleload''
+| traction = ''traction''
+| engine = ''engine''
+| enginetype = ''enginetype''
+| cylindercount = ''cylindercount''
+| cylindersize = ''cylindersize''
+| displacement = ''displacement''
+| traction motors = ''traction motors''
+| poweroutput = ''poweroutput''
+| tractiveeffort = ''tractiveeffort''
+| transmission = ''transmission''
+| gearbox = ''gearbox''
+| gearratio = ''gearratio''
+| acceleration = ''acceleration''
+| deceleration = ''deceleration''
+| aux = ''aux''
+| powersupply = ''powersupply''
+| hvac = ''hvac''
+| electricsystem = ''electricsystem''
+| collectionmethod = ''collectionmethod''
+| uicclass = ''uicclass''
+| aarwheels = ''aarwheels''
+| bogies = ''bogies''
+| brakes = ''brakes''
+| safety = ''safety''
+| coupling = ''coupling''
+| multipleworking = ''multipleworking''
+| light = ''light''
+| gauge = ''gauge''
+| notes = ''notes''
+| wheels driven = ''wheels driven''
+| minimum curve = ''minimum curve''
+| steep gradient = ''gradient''
+| lowfloor = ''lowfloor''
+| predecessor = ''predecessor''
+| successor = ''successor''
+| designer = ''designer''
+| assembly = ''assembly''
+| code = ''code''
+| diagram = ''diagram''
+| ordernumber = ''ordernumber''
+| seating = ''seating''
+}}
+
+==Usage==
+This template has a large number of parameters, some of which, for historical reasons, have duplicates that have been deprecated. '''Please note that parameter names are case-sensitive.'''
+
+Only one parameter is required:
+* ''name'' - The name that will appear as the title of the infobox. Please do not change the colour of the text here, do so in ''background'' below.
+
+The remaining parameters are as follows (in the order that they will appear in the template output):
+* ''box_width''        –
+* ''label_width''      –
+* ''background'' - the background colour of ''name'' parameter, either as a "colour name" (e.g. ''forestgreen''), a hexadecimal value (e.g. ''#0093cf''), or a colour template (e.g. #{{tl|C2C colour}}). If the background is dark, please change the text colour by appending the CSS ''color'' selector. (e.g. ''background = black;color:white'' or ''background = #806040;color:#ffffdd'' ). Note that quotation marks are not permitted in these CSS statements. If {{para|background}} is present, but blank, the default is white; but if this parameter is omitted entirely, the default background colour is #eee.
+* ''image'' -  The filename for the infobox image.
+* ''imagealt'' - [[Wikipedia:Alternative text for images|Alternative text]] for ''image''.
+* ''imagesize'' - (or ''image_size'') The size (width) of the images in pixels (as in imagesize=200). If {{para|imagesize}} is present, but blank the image will appear full size; but if this parameter is omitted entirely, the default size is 300 pixels wide.
+* ''caption'' -  The image caption that will be displayed.
+* ''interiorimage'' - The filename for the second infobox image.
+* ''interiorimagealt'' - [[Wikipedia:Alternative text for images|Alternative text]] for ''interiorimage''.
+* ''interiorcaption'' - The second image caption that will be displayed.
+* ''label_bg'' - same as {{para|background}}, but for the labels instead of the headers, and is white if omitted entirely.
+* ''stocktype''        – (or ''StockType'') The type of the train vehicles (e.g. [[Electric multiple unit]], [[Diesel multiple unit]], etc.).
+* ''service'' - The dates that the vehicles were in service, separated by an [[MOS:RANGE|en dash]] for a range or two years (e.g. 1964–1976), or a spaced en dash if one or both sides of the range have a space in them (e.g. 12 July 1964 – 4 April 1976).
+* ''manufacturer''     – The company that manufactured the train.
+* ''designer'' - if another company designed the vehicle.
+* ''assembly'' - where it was produced (city, country).
+* ''ordernumber''      - The Order number or Lot number the vehicles were procured under.
+* ''factory''      - The factory at which the vehicles were made (if ''manufacturer'' had more than one factory).
+* ''family''       - The type or range of ''manufacturer''’s vehicles that the vehicles comes from (e.g. [[British Rail Mark 3]]).
+* ''replaced''      - The vehicles that were replaced by these vehicles.
+* ''yearconstruction'' - (or ''constructed'') The dates that the vehicles were under construction, separated by an [[MOS:RANGE|en dash]] (e.g. 1964–1976).
+* ''yearservice''      - The date that the vehicles first entered service.
+* ''refurbishment''    - The dates that the vehicles were refurbished, separated by an [[MOS:RANGE|en dash]] (e.g. 1964–1976).
+* ''yearretired''      – The dates that the vehicles were retired/withdrawn from service, separated by an [[MOS:RANGE|en dash]] (e.g. 1964–1976). 
+* ''yearscrapped''     - The dates that the vehicles were scrapped, separated by an [[MOS:RANGE|en dash]] (e.g. 1964–1976).
+* ''numberconstruction'' - The quantity of vehicles under construction. ''construction'' also works, but is deprecated.
+* ''numberbuilt''      - The quantity of vehicles manufactured. ''Built'' also works, but is deprecated.
+* ''numberservice''    - The quantity of vehicles in service.
+* ''numberretired''    - The quantity of vehicles taken out of service.
+* ''numberpreserved''  - The quantity of vehicles preserved.
+* ''numberscrapped''   - The quantity of vehicles scrapped.
+* ''predecessor''      –
+* ''successor''        –
+* ''formation''        - The formation and/or length of a diesel or electric [[multiple unit]].
+* ''diagram''          - The classification Diagram, or Plan assigned to the vehicles.
+* ''code''             - The design or [[TOPS]] code assigned to the vehicles.  
+* ''fleetnumbers''      - The fleet numbers of the vehicles.
+* ''capacity''         - The capacity of the vehicles.
+* ''owner''            - The owner(s) of the vehicles - common in countries such as UK where operators lease rolling stock from a [[Rolling stock company|ROSCO]]. If more than one, use {{tl|unbulleted list}} to list them each on their own line.
+* ''operator''         - The operator(s) of the vehicles. If more than one, use {{tl|unbulleted list}} to list them each on their own line.
+* ''depots''           - The maintenance depots to which the vehicles were assigned.
+* ''lines''            - The lines or routes to which the vehicles were assigned.
+Parameters below fall under the '''Specifications''' heading
+* ''carbody''          - The type of carbody construction used (e.g. spotwelded stainless steel).
+* ''trainlength''      - (or ''TrainLength'') The total length of the train or unit. Please use {{tl|convert}}.
+* ''carlength''        - (or ''CarLength'') The length of each vehicles (only those that differ). Please use {{tl|convert}}.
+* ''width''            - The width of each vehicles – please use {{tl|convert}}.
+* ''height''           - The height of each vehicles – please use {{tl|convert}}.
+* ''lowfloor''         – The low floor proportion of trams.
+* ''floorheight''      - The height of the vehicles’ floor above the rail.
+* ''platformheight''   - Standard measurement is from top of the rail.
+* ''entrylevelorstep'' - The type of entry of the vehicles. State whether level (if platform height and floor height is the same or with a minimal difference) or step (if the platform height and floor height has a big difference and requires steps).
+* ''doors''            - The number and type of doors fitted.
+* ''art-sections''     - The number of coaches/power vehicles formed into an [[articulated train]]set.
+* ''wheeldiameter''    - The diameter of the wheels (can be expressed new/worn).
+* ''wheelbase''        - The [[wheelbase#Rail|wheelbase]] of the train. State whether train, vehicle, bogie (truck), or bogie centers. 
+* ''maxspeed''         - The maximum permitted speed of the vehicles – please use {{tl|convert}}.
+* ''weight''           - The weight of the vehicles – please use {{tl|convert}}.
+* ''axleload''         - The maximum axle load of the rail vehicle(s).
+* ''[[Grade (slope)|steep gradient]]'' - (or ''gradient'') at per thousand [[‰]] or at per hundred [[Percent sign|%]]
+* ''traction''         - The traction system of the vehicles (if electric multiple unit).
+* ''engine''           - The prime mover(s) used in the vehicle (if diesel multiple unit or generator car).
+* ''enginetype''       - (or ''Enginetype'') The type of engine(s)/prime mover(s).
+* ''cylindercount''    - The number of cylinders in an engine.
+* ''cylindersize''     - The diameter ([[Bore (engine)|bore]]) and length ([[Stroke (engine)|stroke]]) of each cylinder.
+* ''displacement''     - The [[Engine displacement|swept volume]] of each cylinder or each engine. 
+* ''traction motors''  - The type/model of traction motors.
+* ''poweroutput''      - The power output of the engine(s) or traction motor(s) used (if fitted). ''Power'' and ''powerout'' also work, but are deprecated.
+* ''tractiveeffort''   - The [[tractive effort]] of the train's propulsion system.
+* ''transmission''     - The transmission used (e.g. electric/hydraulic/mechanical), if fitted with engine(s).
+* ''gearbox''          - The vehicle's [[Gear_train|gearbox]] (manufacturer and type). 
+* ''gearratio''        - The vehicle's [[Gear_train#Gear_ratio|gear ratio]]; the relationship between the traction motor's RPM and the axle's RPM. 
+* ''acceleration''     - The acceleration rate of the vehicles.
+* ''deceleration''     - The deceleration rate of the vehicles.
+* ''aux''              - The type of any auxiliaries fitted, if any.
+* ''powersupply''      - The type of any power supply fitted, if any. 
+* ''hvac''             - The type of train '''h'''eating, '''v'''entilation and '''a'''ir '''c'''onditioning fitted, if any.
+* ''electricsystem''    - The voltage (+ frequency and/or phases if AC) of the power supply to electric multiple units, as well as the power source (e.g. [[overhead line]], [[third rail]]).
+* ''collectionmethod'' - The current collection method used on electric multiple units (e.g. [[Pantograph (transport)|pantograph]], [[Current collector#Contact shoe|contact shoe]]).
+* ''uicclass''    – The [[UIC classification]] of powered/unpowered axles
+* ''aarwheels'' - (or ''wheel arrangement'') The  [[AAR wheel arrangement]] of powered cars.
+* ''wheels driven''    – The number of wheels driven by the engine(s)/motor(s).
+* ''bogies''           - The type of bogies of trucks fitted, if known.
+* ''minimum curve''    - minimum size of a curve the vehicle can pass.
+* ''brakes''           - (or ''Brakes'') The type of train brakes fitted (e.g. Air, Vacuum, Electro-Pneumatic).
+* ''safety''           - The type(s) of safety systems fitted.
+* ''coupling''         - The type of vehicle couplings used (e.g. knuckle, Dellner, Scharfenberg).
+* ''multipleworking''  - The type of multiple working used, if fitted.
+* ''light''            - The type of headlights a locomotive or subway car has (e.g. halogen bulb, Light Emitting Diode, etc. ).
+* ''gauge''            - The vehicles’ rail gauge – please use {{tl|Track gauge}}.
+* ''notes''            - Notes, miscellany, sources etc.
+* ''seating''          – (or ''CarSeating'') The seating arrangement of a train (e.g. longitudinal, transverse, etc.).
+;Note that articles using deprecated parameters are added to [[:Category:Unusual parameters of Infobox train template]]. However, each page might need a null edit to be included in the category.
+
+Below are a full and partial list of parameters to cut-and-paste into articles.
+
+<table><tr><td>Full (for DMU / EMU):
+<syntaxhighlight lang="wikitext">
+{{Infobox train
+| box_width          = 
+| label_width        = 
+| background         = 
+| name               = 
+| image              = 
+| imagealt           = 
+| imagesize          = 
+| caption            = 
+| interiorimage      = 
+| interiorimagealt   = 
+| interiorcaption    = 
+| stocktype          = 
+| service            = 
+| manufacturer       = 
+| designer           = 
+| assembly           = 
+| ordernumber        = 
+| factory            = 
+| family             = 
+| replaced           = 
+| yearconstruction   = 
+| yearservice        = 
+| refurbishment      = 
+| yearretired        = 
+| yearscrapped       = 
+| numberconstruction = 
+| numberbuilt        = 
+| numberservice      = 
+| numberretired      = 
+| numberpreserved    = 
+| numberscrapped     = 
+| predecessor        = 
+| successor          = 
+| formation          = 
+| diagram            = 
+| code               = 
+| fleetnumbers       = 
+| capacity           = 
+| owner              = 
+| operator           = 
+| depots             = 
+| lines              = 
+
+| carbody            = 
+| trainlength        = 
+| carlength          = 
+| width              = 
+| height             = 
+| lowfloor           = 
+| floorheight        = 
+| platformheight     = 
+| entrylevelorstep   = 
+| doors              = 
+| art-sections       = 
+| wheeldiameter      = 
+| wheelbase          = 
+| maxspeed           = 
+| weight             = 
+| axleload           = 
+| steep gradient     = 
+| traction           = 
+| engine             = 
+| enginetype         = 
+| cylindercount      = 
+| cylindersize       = 
+| displacement       = 
+| traction motors    = 
+| poweroutput        = 
+| tractiveeffort     = 
+| transmission       = 
+| gearbox            = 
+| gearratio          = 
+| acceleration       = 
+| deceleration       = 
+| aux                = 
+| powersupply        = 
+| hvac               = 
+| electricsystem     = 
+| collectionmethod   = 
+| uicclass           = 
+| aarwheels          = 
+| wheels driven      = 
+| bogies             = 
+| minimum curve      = 
+| brakes             = 
+| safety             = 
+| coupling           = 
+| multipleworking    = 
+| light              = 
+| seating            = 
+| gauge              = 
+| notes              = 
+}}
+</syntaxhighlight></td><td style="vertical-align:top;">Cutdown for a carriage / coach:
+<syntaxhighlight lang="wikitext">
+{{Infobox train
+| background         = 
+| name               = 
+| image              = 
+| imagealt           = 
+| imagesize          = 
+| caption            = 
+| interiorimage      = 
+| interiorimagealt   = 
+| interiorcaption    = 
+| stocktype          = 
+| service            = 
+| manufacturer       = 
+| ordernumber        = 
+| factory            = 
+| family             = 
+| replaced           = 
+| yearconstruction   = 
+| yearservice        = 
+| refurbishment      = 
+| yearretired        = 
+| yearscrapped       = 
+| numberconstruction = 
+| numberbuilt        = 
+| numberservice      = 
+| numberretired      = 
+| numberpreserved    = 
+| numberscrapped     = 
+| formation          = 
+| diagram            = 
+| code               = 
+| fleetnumbers       = 
+| capacity           = 
+| owner              = 
+| operator           = 
+| depots             = 
+| lines              = 
+
+| carbody            = 
+| carlength          = 
+| width              = 
+| height             = 
+| floorheight        = 
+| platformheight     = 
+| entrylevelorstep   = 
+| doors              = 
+| art-sections       = 
+| wheeldiameter      = 
+| wheelbase          = 
+| maxspeed           = 
+| weight             = 
+| axleload           = 
+| aux                = 
+| powersupply        = 
+| hvac               = 
+| bogies             = 
+| brakes             = 
+| coupling           = 
+| light              = 
+| seating            = 
+| gauge              = 
+| notes              = 
+}}
+</syntaxhighlight>
+</td></tr></table>
+*Use of one or more unrecognised parameters will place the page in {{clc|Pages using infobox train with unknown parameters}}.
+
+==TemplateData==
+{{TemplateData header}}
+{{collapse top|title=TemplateData|bg=#ccc}}
+<templatedata>
+{
+	"description": "This template is used in articles about rail vehicles, including, but not limited to railcars, multiple units, trams/streetcars and freight and passenger cars. Locomotives use Template:Infobox locomotive; train services use Template:Infobox rail service.",
+	"params": {
+		"box_width": {},
+		"label_width": {},
+		"background": {
+			"label": "Background",
+			"description": "The background colour of name parameter, either as a \"colour name\" (e.g. forestgreen), a hexadecimal value (e.g. #0093cf), or a colour template (e.g. #{{C2C colour}}). If the background is dark, please change the text colour by appending the CSS color selector. (e.g. background = black;color:white or background = #806040;color:#ffffdd ). Note that quotation marks are not permitted in these CSS statements. If |background= is present, but blank, the default is white; but if this parameter is omitted entirely, the default background colour is #eee.",
+			"type": "content",
+			"example": "forestgreen, #0093cf, #{{C2C colour}}"
+		},
+		"name": {
+			"description": "The name that will appear as the title of the infobox. Please do not change the colour of the text here, do so in ''background'' below.",
+			"type": "line",
+			"required": true,
+			"label": "Name"
+		},
+		"image": {
+			"label": "Image",
+			"description": "The filename for the infobox image",
+			"type": "wiki-file-name"
+		},
+		"imagealt": {
+			"label": "Image Alt",
+			"description": "Alternative text for image.",
+			"type": "string"
+		},
+		"imagesize": {
+			"aliases": [
+				"image_size"
+			],
+			"label": "Image Size",
+			"description": "The size (width) of the images in pixels. If |imagesize= is present, but blank the image will appear full size; but if this parameter is omitted entirely, the default size is 300 pixels wide.",
+			"example": "200",
+			"type": "number"
+		},
+		"caption": {
+			"label": "Image Caption",
+			"description": "The image caption that will be displayed.",
+			"type": "content"
+		},
+		"interiorimage": {
+			"label": "Interior Image",
+			"description": "The filename for the second infobox image.",
+			"type": "wiki-file-name"
+		},
+		"interiorimagealt": {
+			"label": "Interior Image Alt",
+			"description": "Alternative text for interiorimage.",
+			"type": "string"
+		},
+		"interiorcaption": {
+			"label": "Interior Caption",
+			"description": "The second image caption that will be displayed.",
+			"type": "content"
+		},
+		"service": {
+			"label": "Year(s) of Service",
+			"description": "The dates that the vehicles were in service, separated by an en dash.",
+			"example": "1964–1976",
+			"type": "string"
+		},
+		"manufacturer": {
+			"type": "content",
+			"description": "The company that manufactured the train."
+		},
+		"designer": {
+			"label": "Designer",
+			"description": "If another company designed the vehicle",
+			"type": "content"
+		},
+		"assembly": {
+			"label": "Assembly",
+			"description": "Where it was produced (city, country)",
+			"type": "content"
+		},
+		"ordernumber": {
+			"label": "Order Number",
+			"description": "The Order number or Lot number the vehicles were procured under.",
+			"type": "content"
+		},
+		"factory": {
+			"label": "Factory",
+			"description": "The factory at which the vehicles were made (if manufacturer had more than one factory).",
+			"type": "content"
+		},
+		"family": {
+			"label": "Family",
+			"description": "The type or range of manufacturer’s vehicles that the vehicles comes from",
+			"example": "British Rail Mark 3",
+			"type": "content"
+		},
+		"replaced": {
+			"label": "Replaced",
+			"description": "The vehicles that were replaced by these vehicles.",
+			"type": "content"
+		},
+		"yearconstruction": {
+			"aliases": [
+				"constructed"
+			],
+			"label": "Year(s) of Construction",
+			"description": "The dates that the vehicles were under construction, separated by an en dash.",
+			"example": "1964–1976",
+			"type": "string"
+		},
+		"yearservice": {
+			"label": "Year of Start of Service",
+			"description": "The date that the vehicles first entered service.",
+			"type": "string"
+		},
+		"refurbishment": {
+			"label": "Year(s) of Refurbishment",
+			"description": "The dates that the vehicles were refurbished, separated by an en dash.",
+			"example": "1964–1976",
+			"type": "string"
+		},
+		"yearscrapped": {
+			"label": "Year(s) when Scrapped",
+			"description": "The dates that the vehicles were scrapped, separated by an en dash.",
+			"example": "1964–1976",
+			"type": "string"
+		},
+		"numberconstruction": {
+			"aliases": [
+				"construction"
+			],
+			"label": "Number Under Construction",
+			"description": "The quantity of vehicles under construction. construction also works, but is deprecated.",
+			"type": "string"
+		},
+		"numberbuilt": {
+			"aliases": [
+				"built"
+			],
+			"label": "Number Built",
+			"description": "The quantity of vehicles manufactured. Built also works, but is deprecated.",
+			"type": "string"
+		},
+		"numberservice": {
+			"label": "Number In Service",
+			"description": "The quantity of vehicles in service.",
+			"type": "string"
+		},
+		"numberpreserved": {
+			"label": "Number Preserved",
+			"description": "The quantity of vehicles preserved.",
+			"type": "string"
+		},
+		"numberscrapped": {
+			"label": "Number Scrapped",
+			"description": "The quantity of vehicles scrapped.",
+			"type": "string"
+		},
+		"predecessor": {},
+		"successor": {},
+		"formation": {
+			"label": "Formation",
+			"description": "The formation and/or length of a diesel or electric multiple unit.",
+			"type": "content"
+		},
+		"diagram": {
+			"label": "Diagram",
+			"description": "The classification Diagram, or Plan assigned to the vehicles.",
+			"type": "content"
+		},
+		"code": {
+			"label": "Code",
+			"description": "The design or TOPS code assigned to the vehicles.",
+			"type": "content"
+		},
+		"fleetnumbers": {
+			"label": "Fleet Numbers",
+			"description": "The fleet numbers of the vehicles.",
+			"type": "content"
+		},
+		"capacity": {
+			"label": "Capacity",
+			"description": "The capacity of the vehicles.",
+			"type": "content"
+		},
+		"owner": {
+			"label": "Owner(s)",
+			"description": "The owner(s) of the vehicles – common in countries such as UK where operators lease rolling stock from a ROSCO. If more than one, use {{unbulleted list}} to list them each on their own line.",
+			"type": "content"
+		},
+		"operator": {
+			"label": "Operator(s)",
+			"description": "The operator(s) of the vehicles. If more than one, use {{unbulleted list}} to list them each on their own line.",
+			"type": "content"
+		},
+		"depots": {
+			"label": "Depots",
+			"description": "The maintenance depots to which the vehicles were assigned. If more than one, use {{unbulleted list}} to list them each on their own line.",
+			"type": "content"
+		},
+		"lines": {
+			"label": "Lines",
+			"description": "The lines or routes to which the vehicles were assigned. If more than one, use {{unbulleted list}} to list them each on their own line.",
+			"type": "content"
+		},
+		"carbody": {
+			"label": "Car Body",
+			"description": "The type of carbody construction used.",
+			"example": "spotwelded stainless steel",
+			"type": "content"
+		},
+		"trainlength": {
+			"aliases": [
+				"TrainLength"
+			],
+			"label": "Train Length",
+			"description": "The total length of the train or unit. Please use {{convert}}.",
+			"example": "{{convert|123|ft|m}}",
+			"type": "content"
+		},
+		"carlength": {
+			"aliases": [
+				"CarLength"
+			],
+			"label": "Car Length",
+			"description": "The length of each vehicles (only those that differ). Please use {{convert}}.",
+			"example": "{{convert|123|ft|m}}",
+			"type": "content"
+		},
+		"width": {
+			"label": "Width",
+			"description": "The width of each vehicles – please use {{convert}}.",
+			"example": "{{convert|123|ft|m}}",
+			"type": "content"
+		},
+		"height": {
+			"label": "Height",
+			"description": "The height of each vehicles – please use {{convert}}.",
+			"example": "{{convert|123|ft|m}}",
+			"type": "content"
+		},
+		"lowfloor": {
+			"description": "The low floor proportion of trams.",
+			"type": "content"
+		},
+		"floorheight": {
+			"label": "Floor Height",
+			"description": "The height of the vehicles’ floor above the rail.",
+			"type": "content"
+		},
+		"platformheight": {
+			"label": "Platform Height",
+			"description": "Standard measurement is from top of the rail.",
+			"type": "content"
+		},
+		"entrylevelorstep": {
+			"description": "The type of entry of the vehicles. State whether level (if platform height and floor height is the same or with a minimal difference) or step (if the platform height and floor height has a big difference and requires steps).",
+			"type": "content"
+		},
+		"doors": {
+			"label": "Doors",
+			"description": "The number and type of doors fitted.",
+			"type": "content"
+		},
+		"art-sections": {
+			"label": "Articulated Sections",
+			"description": "The number of coaches/power vehicles formed into an articulated trainset.",
+			"type": "content"
+		},
+		"wheeldiameter": {
+			"label": "Wheel Diameter",
+			"description": "The diameter of the wheels (can be expressed new/worn)",
+			"type": "content"
+		},
+		"wheelbase": {
+			"label": "Wheel Base",
+			"description": "The wheelbase of the train. State whether train, vehicle, bogie (truck), or bogie centers.",
+			"type": "content"
+		},
+		"maxspeed": {
+			"label": "Max Speed",
+			"description": "The maximum permitted speed of the vehicles – please use {{convert}}.",
+			"example": "{{convert|123|km/h|mph}}",
+			"type": "content"
+		},
+		"weight": {
+			"label": "Weight",
+			"description": "The weight of the vehicles – please use {{convert}}.",
+			"example": "{{convert|1|lb|kg}}",
+			"type": "content"
+		},
+		"axleload": {
+			"label": "Axle Load",
+			"description": "The maximum axle load of the rail vehicle(s).",
+			"type": "content"
+		},
+		"steep gradient": {
+			"aliases": [
+				"gradient"
+			],
+			"label": "Gradient",
+			"description": "at per thousand ‰ or at per hundred %",
+			"type": "content"
+		},
+		"traction": {
+			"label": "Traction",
+			"description": "The traction system of the vehicles (if electric multiple unit).",
+			"type": "content"
+		},
+		"engine": {
+			"label": "Engine",
+			"description": "The prime mover(s) used in the vehicle (if diesel multiple unit or generator car).",
+			"type": "content"
+		},
+		"enginetype": {
+			"aliases": [
+				"Enginetype"
+			],
+			"label": "Engine Type",
+			"description": "The type of engine(s)/prime mover(s)",
+			"type": "content"
+		},
+		"cylindercount": {
+			"label": "Cylinder count",
+			"description": "The number of cylinders in an engine",
+			"type": "number"
+		},
+		"cylindersize": {
+			"label": "Cylinder size",
+			"description": "The bore and stroke of each cylinder in an engine",
+			"type": "content"
+		},
+		"displacement": {
+			"label": "Displacement",
+			"description": "The swept volume of each cylinder or each engine",
+			"type": "content"
+		},
+		"traction motors": {
+			"label": "Traction motors",
+			"description": "The type/model of traction motors"
+		},
+		"poweroutput": {
+			"aliases": [
+				"Power",
+				"powerout"
+			],
+			"description": "The power output of the engine(s) or traction motor(s) used (if fitted). Power and powerout also work, but are deprecated.",
+			"type": "content"
+		},
+		"tractiveeffort": {
+			"label": "Tractive Effort",
+			"description": "The tractive effort of the train's propulsion system.",
+			"type": "content"
+		},
+		"transmission": {
+			"label": "Transmission",
+			"description": "The transmission used (e.g. electric/hydraulic/mechanical) if fitted with engine(s).",
+			"type": "content"
+		},
+		"acceleration": {
+			"label": "Acceleration",
+			"description": "The acceleration rate of the vehicles.",
+			"type": "content"
+		},
+		"deceleration": {
+			"label": "Deceleration",
+			"description": "The deceleration rate of the vehicles.",
+			"type": "content"
+		},
+		"aux": {
+			"label": "Auxiliary",
+			"description": "The type of any auxiliaries fitted, if any.",
+			"type": "content"
+		},
+		"powersupply": {
+			"label": "Power Supply",
+			"description": "The type of any power supply fitted, if any.",
+			"type": "content"
+		},
+		"hvac": {
+			"label": "HVAC",
+			"description": "The type of train heating, ventilation and air conditioning fitted, if any.",
+			"type": "content"
+		},
+		"electricsystem": {
+			"label": "Electrical System",
+			"description": "The voltage, and frequency if A.C., of the power supply to electric multiple units. Also Overhead line or Third rail etc.",
+			"type": "content"
+		},
+		"collectionmethod": {
+			"label": "Collection Method",
+			"description": "The current collection method used on electric multiple units.",
+			"example": "Pantograph, Contact shoe",
+			"type": "content"
+		},
+		"uicclass": {
+			"label": "UIC Class",
+			"description": " The UIC classification of powered/unpowered axles",
+			"type": "content"
+		},
+		"aarwheels": {
+			"aliases": [
+				"wheel arrangement"
+			],
+			"label": "AAR Wheel",
+			"description": "The AAR wheel arrangement of powered cars.",
+			"type": "content"
+		},
+		"wheels driven": {
+			"description": "The number of wheels driven by the engine(s)/motor(s)."
+		},
+		"bogies": {
+			"label": "Bogies",
+			"description": "The type of bogies of trucks fitted, if known.",
+			"type": "content"
+		},
+		"minimum curve": {
+			"label": "Minimum Curve",
+			"description": "Minimal size of a curve the tram can pass",
+			"type": "content"
+		},
+		"brakes": {
+			"aliases": [
+				"Brakes"
+			],
+			"label": "Brakes",
+			"description": "The type of train brakes fitted.",
+			"example": "Air, Vacuum, Electro-Pneumatic",
+			"type": "content"
+		},
+		"safety": {
+			"label": "Safety System(s)",
+			"description": "The type(s) of safety systems fitted.",
+			"type": "content"
+		},
+		"coupling": {
+			"label": "Coupling Type",
+			"description": "The type of vehicle couplings used.",
+			"example": "knuckle, Dellner, Scharfenberg",
+			"type": "content"
+		},
+		"multipleworking": {
+			"label": "Multiple Working",
+			"description": "The type of multiple working used, if fitted.",
+			"type": "content"
+		},
+		"light": {
+			"label": "Lights",
+			"description": "The type of headlights a locomotive or subway car has.",
+			"example": "halogen bulb, Light Emitting Diode"
+		},
+		"seating": {
+			"aliases": [
+				"CarSeating"
+			],
+			"label": "Seating",
+			"description": "The seating layout of a train.",
+			"example": "Longitudinal, transverse",
+			"type": "content"
+		},
+		"stocktype": {
+			"aliases": [
+				"StockType"
+			],
+			"description": "The type of the train vehicles.",
+			"example": "Electric multiple unit, Diesel multiple unit",
+			"type": "line",
+			"required": true
+		},
+		"gauge": {
+			"label": "Gauge",
+			"description": "The vehicles’ rail gauge - please use {{Track gauge}}",
+			"example": "{{Track gauge|1520 mm}}"
+		},
+		"notes": {
+			"label": "Notes",
+			"description": "notes, miscellany, sources etc.",
+			"type": "content"
+		},
+		"yearretired": {
+			"label": "Year(s) when retired or withdrawn",
+			"description": "Dates vehicles were retired or withdrawn from service",
+			"example": "1964–1969",
+			"type": "line"
+		},
+		"numberretired": {
+			"label": "Number Retired",
+			"description": "The quantity of vehicles taken out of service.",
+			"type": "line"
+		}
+	},
+	"format": "block",
+	"paramOrder": [
+		"box_width",
+		"label_width",
+		"background",
+		"name",
+		"image",
+		"imagealt",
+		"imagesize",
+		"caption",
+		"interiorimage",
+		"interiorimagealt",
+		"interiorcaption",
+		"stocktype",
+		"service",
+		"manufacturer",
+		"designer",
+		"assembly",
+		"ordernumber",
+		"factory",
+		"family",
+		"replaced",
+		"yearconstruction",
+		"yearservice",
+		"refurbishment",
+		"yearretired",
+		"yearscrapped",
+		"numberconstruction",
+		"numberbuilt",
+		"numberservice",
+		"numberretired",
+		"numberpreserved",
+		"numberscrapped",
+		"predecessor",
+		"successor",
+		"formation",
+		"diagram",
+		"code",
+		"fleetnumbers",
+		"capacity",
+		"owner",
+		"operator",
+		"depots",
+		"lines",
+		"carbody",
+		"trainlength",
+		"carlength",
+		"width",
+		"height",
+		"lowfloor",
+		"floorheight",
+		"platformheight",
+		"entrylevelorstep",
+		"doors",
+		"art-sections",
+		"wheeldiameter",
+		"wheelbase",
+		"maxspeed",
+		"weight",
+		"axleload",
+		"steep gradient",
+		"traction",
+		"engine",
+		"enginetype",
+		"cylindercount",
+		"cylindersize",
+		"displacement",
+		"traction motors",
+		"poweroutput",
+		"tractiveeffort",
+		"transmission",
+		"acceleration",
+		"deceleration",
+		"aux",
+		"powersupply",
+		"hvac",
+		"electricsystem",
+		"collectionmethod",
+		"uicclass",
+		"aarwheels",
+		"wheels driven",
+		"bogies",
+		"minimum curve",
+		"brakes",
+		"safety",
+		"coupling",
+		"multipleworking",
+		"light",
+		"seating",
+		"gauge",
+		"notes"
+	]
+}
+</templatedata>
+{{collapse bottom}}
+
+== Tracking categories ==
+{{Infobox tracking categories}}
+* {{clc|Articles using Template:Infobox train with invalid colour combination}}
+
+== Supporting templates ==
+* {{tl|Greater color contrast ratio}}
+* {{tl|Ensure AAA contrast ratio}}
+
+== See also ==
+* {{tlx|Infobox rail service}} – for specific services offered by railway companies
+* {{tlx|Infobox locomotive}} – for locomotives
+* {{tlx|Infobox rail line}}
+* {{tlx|Infobox station}}
+* {{tlx|Infobox German railway vehicle}} – for direct translations of articles copied from the [[:de:|German Wikipedia]], pending conversion to {{tlx|Infobox train}} or {{tlx|Infobox locomotive}} format
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+
+[[Category:Rail transport infobox templates|Train]]
+[[Category:Templates that add a tracking category]]
+}}</includeonly>

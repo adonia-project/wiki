@@ -1,0 +1,113 @@
+<includeonly>{{#switch: {{lc: {{{1}}} }}
+
+| okami = {{#switch: {{lc: {{{2}}} }}
+  | metro = [[File:Okami Metro Logo.svg|{{{size|18}}}px|link=Okami Metro|alt=Okami Metro]]
+  | m | miyoshi = {{RouteBox|M|Miyoshi Line|#9370DB|#FFFFFF}}
+  | z | tozai = {{RouteBox|Z|Tozai Line (Okami)|#F4A460|#FFFFFF}}
+  | a | asahi = {{RouteBox|A|Asahi Line|#32CD32|#FFFFFF}}
+  | c | chuo = {{RouteBox|C|Chūō Line (Okami)|#009E60|#FFFFFF}}
+  | b | nanboku = {{RouteBox|B|Nanboku Line (Okami)|#4169E1|#FFFFFF}}
+  | k | tokuyama = {{RouteBox|K|Tokuyama Line|#910F91|#FFFFFF}}
+  | n | nagata = {{RouteBox|N|Nagata Line|#FF0099|#FFFFFF}}
+  | i | imaichi = {{RouteBox|I|Imaichi Line|#D46F09|#000000}}
+  | s | shitayanagi = {{RouteBox|S|Shitayanagi Line|#FFD700|#000000}}
+  | t | tedorigawa = {{RouteBox|T|Tedorigawa Line|#663300|#FFFFFF}}
+  | h | hitotsubashi = {{RouteBox|H|Hitotsubashi Line|#DC143C|#FFFFFF}}
+  | g | tokushige = {{RouteBox|G|Tokushige Line|#008080|#FFFFFF}}
+  | p | nanko = {{RouteBox|P|Nankō Port Town Line|#71A7D8|#FFFFFF}}
+  | #default = [[File:Okami Metro Logo.svg|{{{size|18}}}px|link=Okami Metro]]
+  }}
+
+| or | snr | onr = {{#switch: {{lc: {{{2}}} }}
+  | logo | icon = [[File:Okaiken National Railways Logo.svg|{{{size|20}}}px|link=Okaiken Railways|alt=OR]]
+  | harujima | harujima main = {{RouteBox|A|Harujima Main Line|#0072BC|#FFFFFF}}
+  | loop | okami loop = {{RouteBox|O|Okami Loop Line|#FF0000|#FFFFFF}}
+  | chuo = {{RouteBox|C|Chuo Line (OR)|#FFA500|#000000}}
+  | shinagawa = {{RouteBox|S|Shinagawa Line|#FFFF00|#000000}}
+  | akita = {{RouteBox|Ak|Akita Line|#800000|#FFFFFF}}
+  | tokuyama = {{RouteBox|To|Tokuyama Line|#008000|#FFFFFF}}
+  | fukushima = {{RouteBox|F|Fukushima Line|#800080|#FFFFFF}}
+  | hanwa = {{RouteBox|R|Hanwa Line (Okaiken)|#FF8C00|#000000}}
+  | yamatoji = {{RouteBox|Q|Yamatoji Line (Okaiken)|#008000|#FFFFFF}}
+  | tozai = {{RouteBox|H|Tozai Line (OR)|#FF69B4|#000000}}
+  | nakanoshima = {{RouteBox|N|Nakanoshima Line (OR)|#00008B|#FFFFFF}}
+  | #default = [[File:Okaiken National Railways Logo.svg|{{{size|18}}}px|link=OR]]
+  }}
+
+| shinkansen = {{#switch: {{lc: {{{2}}} }}
+  | harujima = [[File:Shinkansen_Haruguni.svg|{{{size|20}}}px|link=Harujima Shinkansen|alt=Harujima Shinkansen]]
+  | ishijima = [[File:Shinkansen_Ishijima.svg|{{{size|20}}}px|link=Ishijima Shinkansen|alt=Ishijima Shinkansen]]
+  | minamiyagikoshu = [[File:Shinkansen_MinamiYagikoshu.svg|{{{size|20}}}px|link=Minami-Yagikoshu Shinkansen|alt=Minami-Yagikoshu Shinkansen]]
+  | #default = [[File:Shinkansen_Ishijima.svg|{{{size|20}}}px|link=Shinkansen]]
+  }}
+
+| private = {{#switch: {{lc: {{{2}}} }}
+  | okaden = [[File:Okaden Logo.svg|{{{size|18}}}px|link=Okaden]]
+  | fukukyu = [[File:Fukukyu Logo.svg|{{{size|18}}}px|link=Fukukyu]]
+  | akitetsu = [[File:Akitetsu Logo.svg|{{{size|18}}}px|link=Akitetsu]]
+  | yonekyu = [[File:Yonekyu Corporation Logo.svg|{{{size|18}}}px|link=Yonekyu Corporation]]
+  | tokutetsu = [[File:Tokutetsu Logo.svg|{{{size|18}}}px|link=Tokutetsu]]
+  | matsubara = [[File:Matsubara Electric Railway Logo.svg|{{{size|18}}}px|link=Matsubara Electric Railway]]
+  | hankai = [[File:Hankai Tramway Logo.svg|{{{size|18}}}px|link=Hankai Tramway]]
+  | nankai = [[File:Nankai Electric Railway Logo.svg|{{{size|18}}}px|link=Nankai Electric Railway]]
+  | kintetsu = [[File:Kintetsu Logo.svg|{{{size|18}}}px|link=Kintetsu Railway]]
+  | keishi = [[File:Keishi Electric Railway Logo.svg|{{{size|18}}}px|link=Keishi Electric Railway]]
+  | hanshi = [[File:Hanshi Electric Railway Logo.svg|{{{size|18}}}px|link=Hanshi Electric Railway]]
+  | #default = [[File:Generic Private Rail.svg|{{{size|18}}}px|link=Private railway]]
+  }}
+
+<!-- GENERIC -->
+
+| air ={{#switch: {{lc: {{{2}}} }}
+  | base =[[File:BSicon {{#if:{{{3|}}}|ex|}}FIGHTER.svg|{{{size|16}}}px|link={{{link|Military air base}}}|alt={{{alt|{{{link|Airbase}}}}}}|class=skin-invert]]
+  | field =[[File:Airplane GA Black.svg|{{{size|16}}}px|link={{{link|Aerodrome}}}|alt={{{alt|{{{link|Private airfield}}}}}}|class=skin-invert]]
+  | #default =[[File:BSicon FLUG.svg|{{{size|13}}}px|link={{{link|List of airports}}}|alt={{{alt|{{{link|Airport interchange}}}}}}|class=skin-invert]]
+  }}
+
+  | airbase =[[File:BSicon {{#if:{{{2|}}}|ex|}}FIGHTER.svg|{{{size|16}}}px|link={{{link|Military air base}}}|alt={{{alt|{{{link|Airbase}}}}}}|class=skin-invert]]
+
+| airfield =[[File:Airplane GA Black.svg|{{{size|16}}}px|link={{{link|Aerodrome}}}|alt={{{alt|{{{link|Private airfield}}}}}}|class=skin-invert]]
+
+| bike | bicycle =[[File:BSicon BICYCLE.svg|{{{size|17}}}px|link={{{link|Bicycle}}}|alt={{{alt|{{{link|Bicycle facilities}}}}}}|class=skin-invert]]
+
+| bus ={{#switch: {{lc: {{{2}}} }}
+  | rapid | brt =[[File:BSicon BUS3.svg|{{{size|16}}}px|link={{{link|Bus rapid transit}}}|{{{alt|{{{link|Bus rapid transit}}}}}}|class=skin-invert]]
+  | trolley | trolleybus | tb =[[File:BSicon OBUS.svg|{{{size|14}}}px|link={{{link|Trolleybus}}}|{{{alt|{{{link|Trolleybus}}}}}}|class=skin-invert]]
+  | 1 =[[File:Bus-logo.svg|{{{size|{{#ifeq:{{{2|}}}|1|14|18}}}}}px|link={{{link|Bus}}}|alt={{{alt|{{{link|Bus interchange}}}}}}|class=skin-invert]]
+  | #default =[[File:BSicon BUS2.svg|{{{size|{{#ifeq:{{{2|}}}|1|14|18}}}}}px|link={{{link|Bus}}}|alt={{{alt|{{{link|Bus interchange}}}}}}|class=skin-invert]]
+ }}
+
+| cable =[[File:BSicon AETRAM.svg|{{{size|15}}}px|link={{{link|Aerial lift}}}|{{{alt|{{{link|Cable car}}}}}}|class=skin-invert]]
+
+| express =[[File:BSicon LDER.svg|{{{size|15}}}px|link={{{link|Express train}}}|{{{alt|{{{link|Express train}}}}}}|class=skin-invert]]
+
+| ferry =[[File:Ferry symbol.svg|{{{size|15}}}px|link={{{link|Ferry}}}|alt={{{alt|{{{link|ferry/water interchange}}}}}}|class=skin-invert]]
+
+| funicular | incline =[[File:BSicon FUNI.svg|{{{size|18}}}px|link={{{link|Funicular}}}|alt={{{alt|{{{link|Funicular}}}}}}|class=skin-invert]]
+
+| heliport =[[File:Aiga heliport.svg|{{{size|16}}}px|link={{{link|Heliport}}}|alt={{{alt|{{{link|Heliport}}}}}}|class=skin-invert]]
+
+| heritage ={{#switch: {{lc: {{{2}}} }}
+  | rail =[[File:BSicon {{#if:{{{3|}}}|ex|}}lDAMPF.svg|{{{size|15}}}px|link={{{link|Heritage railway}}}|alt={{{alt|{{{link|Heritage railway}}}}}}|class=skin-invert]]
+  | tram =[[File:BSicon BRILL.svg|{{{size|18}}}px|link={{{link|Heritage streetcar}}}|alt={{{alt|{{{link|Heritage streetcar}}}}}}|class=skin-invert]]
+  | pcc =[[File:BSicon PCC.svg|{{{size|18}}}px|link={{{link|Heritage streetcar}}}|alt={{{alt|{{{link|Heritage streetcar}}}}}}|class=skin-invert]]
+ }}
+
+| metro | subway | underground =[[File:BSicon SUBWAY.svg|{{{size|15}}}px|link={{{link|Rapid transit}}}|alt={{{alt|{{{link|{{ucfirst:{{{1}}}}} interchange}}}}}}|class=skin-invert]]
+
+| mono | monorail =[[File:BSicon_MONO.svg|{{{size|15}}}px|link={{{link|Monorail}}}|alt={{{alt|{{{link|Monorail}}}}}}|class=skin-invert]]
+
+| park | parking =[[File:{{#ifeq:{{{2|}}}|1|Centro other car parking large.svg|BSicon PARKING.svg}}|{{{size|{{#ifeq:{{{2|}}}|1|15|16}}}}}px|link={{{link|Parking}}}|alt={{{alt|{{{link|Parking}}}}}}]]
+
+| rail =[[File:{{#ifeq:{{{2|}}}|1|BSicon BAHN.svg|Aiga railtransportation 25.svg}}|{{{size|{{#ifeq:{{{2|}}}|1|16|10}}}}}px|link={{{link|}}}|alt={{{alt|{{{link|Mainline rail interchange}}}}}}|class=skin-invert]]
+
+| tram | light rail =[[File:BSicon TRAM{{#ifeq:{{{2|}}}|1||1}}.svg|{{{size|{{#ifeq:{{{2|}}}|1|14|18}}}}}px|link={{{link|{{{1}}}}}}|alt={{{alt|{{{link|{{ucfirst:{{{1}}}}} interchange}}}}}}|class=skin-invert]]
+
+| trolley | trolleybus =[[File:BSicon OBUS.svg|{{{size|14}}}px|link={{{link|Trolleybus}}}|{{{alt|{{{link|Trolleybus}}}}}}|class=skin-invert]]
+
+| wheelchair =[[File:{{#ifeq:{{{2|}}}|1|Handicapped Accessible sign.svg|Wheelchair symbol.svg}}|{{{size|{{#ifeq:{{{2|}}}|1|16|13}}}}}px|link={{{link|Accessibility#Transportation}}}|alt={{{alt|{{{link|Handicapped/disabled access}}}}}}|class=skin-invert]]
+
+| #default = '''Add→{{tl|rail-interchange}}'''
+}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,26 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = New Duveland
+| shortname alias = New Duveland
+| flag alias = Flag of New Duveland.png
+| flag alias-2018 = Old Flag of New Duveland.png
+| flag alias-1963 = Early Flag of New Duveland.png
+| flag alias-Realm of Lapérouse = Flag of Realm of Lapérouse.png
+| flag alias-1903 = Flag of the New Duveland Colony.png
+| Flag alias-air force = Royal New Duveland Air Force.png
+| flag alias-army = New Duveland Defence Force.png
+| flag alias-naval = Royal New Duveland Navy.png
+| link alias-air force = Royal New Duveland Air Force
+| link alias-army = New Duveland Defence Force
+| link alias-naval = Royal New Duveland Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 2018
+| var2 = 1963
+| var3 = 1903
+| var4 = Realm of Lapérouse
+| redir1 = New Duveland
+</noinclude>
+}}

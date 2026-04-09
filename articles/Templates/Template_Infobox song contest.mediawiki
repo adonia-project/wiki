@@ -1,0 +1,137 @@
+<includeonly>{{Infobox
+ |abovestyle = background:#BFDFFF;
+ |above = {{{name|}}} {{{year|}}}
+ |style = background:#BFDFFF;
+ |subheader = {{{theme|}}}
+ |headerstyle = background:#BFDFFF;
+ |bodystyle = width:312px
+ |labelstyle = width:50%
+ |image = {{{image|}}}
+ |caption    = {{{image caption|}}}
+
+ |header1 = {{#if: {{{final|}}} | Dates }}
+
+ |label2 = Quarter-final
+ |data2 = {{{quarter|}}}
+ |label3 = Semi-final
+ |data3 = {{{semi|}}}
+ |label4 = Semi-final 1
+ |data4 = {{{semi1|}}}
+ |label5 = Semi-final 2
+ |data5 = {{{semi2|}}}
+ |label6 = Semi-final 3
+ |data6 = {{{semi3|}}}
+ |label7 = Semi-final 4
+ |data7 = {{{semi4|}}}
+ |label8 = Semi-final 5
+ |data8 = {{{semi5|}}}
+ |label9 = Second chance
+ |data9 = {{{second|}}}
+ |label10 = Final
+ |data10 = {{{final|}}}
+
+ |header11 = {{#if: {{{host|}}} | Host }}
+
+ |label12 = Venue
+ |data12 = {{{venue|}}}
+ |label13 = Presenter(s)
+ |data13 = {{{presenters|}}}
+ |label14 = Musical director
+ |data14 = {{{musdirector|}}}
+ |label15 = Directed by
+ |data15 = {{{director|}}}
+ |label16 = Executive supervisor
+ |data16 = {{{exsupervisor|}}}
+ |label17 = Executive producer
+ |data17 = {{{exproducer|}}}
+ |label18 = Host broadcaster
+ |data18 = {{{host|}}}
+ |label19 = Opening act
+ |data19 = {{{opening|}}}
+ |label20 = Interval act
+ |data20 = {{{interval|}}}
+ |label21 = Reprise act
+ |data21 = {{{reprise|}}}
+ |label22 = Website
+ |data22 = 
+
+ |header23 = {{#if: {{{entries|{{{debut|{{{return|{{{nonreturn|{{{withdraw|}}}}}}}}}}}}}}} | Participants }}
+
+ |label24 = Number of entries
+ |data24 = {{{entries|}}}
+ |label25 = Debuting countries
+ |data25 = {{{debut|}}}
+ |label26 = {{Abbr|Returning countries|Countries that participated after not participating in the previous event}}
+ |data26 = {{{return|}}}
+ |label27 = {{Abbr|Non-returning countries|Countries that did not participate after participating in the previous event}}
+ |data27 = {{{nonreturn|{{{withdraw|}}}}}}
+
+ |data28 = {{#ifexist: Template:Infobox song contest/{{{name}}}_{{{year|}}} | {{collapsible list
+| title = [[Template:Infobox song contest/{{{name}}}_{{{year|}}}|<span style="color:black">Participation map</span>]]
+| expand = yes
+| titlestyle = text-align: center; background-color: #bfdfff
+| 1 = {{Infobox song contest/{{{name}}}_{{{year|}}}}}
+{{#if: {{{Green|}}} | {{Infobox song contest/Legend|{{{Greenc|#22b14c}}}|{{{Green2|Participating countries}}}}} | }}{{#if: {{{Green SA|}}} | {{Infobox song contest/Legend|#22b14c|{{{Green SA2|Confirmed countries that have selected their song and/or performer}}}}} | }}{{#if: {{{Purple|}}} | {{Infobox song contest/Legend|#782167|{{{Purple2|Confirmed countries}}}}} | }}{{#if: {{{Red|}}} | {{Infobox song contest/Legend|#d40000|{{{Red2|Did not qualify from the semi final}}}}} | }}{{#if: {{{Red NQ|}}} | {{Infobox song contest/Legend|#d40000|{{{Red NQ2|Did not qualify to the final}}}}} | }}{{#if: {{{Yellow|}}} | {{Infobox song contest/Legend|#ffc20e|{{{Yellow2|Countries that participated in the past but not in {{{year|}}}}}}}} | }}{{#if: {{{Blue|}}} | {{Infobox song contest/Legend|#285a97|{{{Blue2|Countries that hadn't participated in the past but broadcast the show delayed}}}}} | }}{{#if: {{{L1|}}} | {{Infobox song contest/Legend|{{{L1C|Grey}}}|{{{L1T|Text}}}}} | }}{{#if: {{{E1|}}} | {{{E1|}}} | }}{{#if: {{{L2|}}} | {{Infobox song contest/Legend|{{{L2C|Grey}}}|{{{L2T|Text}}}}} | }}{{#if: {{{E2|}}} | {{{E2|}}} | }}{{#if: {{{L3|}}} | {{Infobox song contest/Legend|{{{L3C|Grey}}}|{{{L3T|Text}}}}} | }}{{#if: {{{E3|}}} | {{{E3|}}} | }}{{#if: {{{L4|}}} | {{Infobox song contest/Legend|{{{L4C|Grey}}}|{{{L4T|Text}}}}} | }}{{#if: {{{E4|}}} | {{{E4|}}} | }}{{#if: {{{L5|}}} | {{Infobox song contest/Legend|{{{L5C|Grey}}}|{{{L5T|Text}}}}} | }}{{#if: {{{E5|}}} | {{{E5|}}} | }}{{#if: {{{L6|}}} | {{Infobox song contest/Legend|{{{L6C|Grey}}}|{{{L6T|Text}}}}} | }}{{#if: {{{E6|}}} | {{{E6|}}} | }}{{#if: {{{L7|}}} | {{Infobox song contest/Legend|{{{L7C|Grey}}}|{{{L7T|Text}}}}} | }}{{#if: {{{E7|}}} | {{{E7|}}} | }}{{#if: {{{L8|}}} | {{Infobox song contest/Legend|{{{L8C|Grey}}}|{{{L8T|Text}}}}} | }}{{#if: {{{E8|}}} | {{{E8|}}} | }}{{#if: {{{L9|}}} | {{Infobox song contest/Legend|{{{L9C|Grey}}}|{{{L9T|Text}}}}} | }}{{#if: {{{E9|}}} | {{{E9|}}} | }}{{#if: {{{L10|}}} | {{Infobox song contest/Legend|{{{L10C|Grey}}}|{{{L10T|Text}}}}} | }}{{#if: {{{E10|}}} | {{{E10|}}} | }} }}
+ | {{#ifexist: Template:Infobox song contest/{{{name}}} | {{collapsible list
+| title = [[Template:Infobox song contest/{{{name}}}|<span style="color:black">Participation map</span>]]
+| expand = yes
+| titlestyle = text-align: center; background-color: #bfdfff
+| 1 = {{Infobox song contest/{{{name}}}}}
+{{#if: {{{Green}}} | {{Infobox song contest/Legend|#22b14c|{{{Green2|Participating countries}}}}} | }}{{#if: {{{Green SA}}} | {{Infobox song contest/Legend|#22b14c|{{{Green SA2|Confirmed countries that have selected their song and/or performer}}}}} | }}{{#if: {{{Purple}}} | {{Infobox song contest/Legend|#782167|{{{Purple2|Confirmed countries}}}}} | }}{{#if: {{{Red}}} | {{Infobox song contest/Legend|#d40000|{{{Red2|Did not qualify from the semi final}}}}} | }}{{#if: {{{Red NQ}}} | {{Infobox song contest/Legend|#d40000|{{{Red NQ2|Did not qualify to the final}}}}} | }}{{#if: {{{Yellow}}} | {{Infobox song contest/Legend|#ffc20e|{{{Yellow2|Countries that participated in the past but not in {{{year|}}}}}}}} | }} }} | }}
+ }}
+
+ |header30 = {{#if: {{{vote|}}} | Vote | {{#if: {{{null|}}} | Vote | {{#if: {{{winner|}}} | Vote | {{#if: {{{windance|}}} | Vote | {{#if: {{{winmusician|}}} | Vote }} }} }} }} }}
+
+ |label31 = Voting system
+ |data31 = {{{vote|}}}
+ |label33 = [[Voting at the Eurovision Song Contest#Scoring no points|Nul&nbsp;points]]
+ |data33 = {{{null|}}}
+ |label34 = Winning song
+ |data34 = {{{winner|}}}
+ |label35 = Winning dancers
+ |data35 = {{{windance|}}}
+ |label36 = Winning musician
+ |data36 = {{{winmusician|}}}
+ |label37 = Winning choir
+ |data37 = {{{winchoir|}}}
+
+| below =
+
+{{
+#if: {{{prev_year2|}}}
+  | [[{{{name|}}} {{{prev_year2|}}}|{{{prev_year2|}}}]] ←&nbsp;
+}}{{
+#if: {{{prev_year|}}}
+  | {{#if: {{{prev_year2|}}}
+      | {{s|[[{{{name|}}} {{{prev_year|}}}|{{{prev_year|}}}]]}} ←&nbsp;
+      | [[{{{name|}}} {{{prev_year|}}}|{{{prev_year|}}}]] ←&nbsp;
+    }}
+  | {{#ifexist: {{{name|}}} {{#expr:{{{year|}}}-1}}
+      | [[{{{name|}}} {{#expr:{{{year|}}}-1}}|{{#expr:{{{year|}}}-1}}]] ←&nbsp;
+      | {{#ifexist: {{{name|}}} {{#expr:{{{year|}}}-2}}
+          | [[{{{name|}}} {{#expr:{{{year|}}}-2}}|{{#expr:{{{year|}}}-2}}]] ←&nbsp;
+        }}
+    }}
+}}'''[[{{{name|}}}]]'''{{
+#if: {{{next_year|}}}
+  | {{#if: {{{next_year2|}}}
+      | &nbsp;→ {{s|[[{{{name|}}} {{{next_year|}}}|{{{next_year|}}}]]}}
+      | &nbsp;→ [[{{{name|}}} {{{next_year|}}}|{{{next_year|}}}]]
+    }}
+  | {{#ifexist: {{{name|}}} {{#expr:{{{year|}}}+1}}
+      | &nbsp;→ [[{{{name|}}} {{#expr:{{{year|}}}+1}}|{{#expr:{{{year|}}}+1}}]]
+      | {{#ifexist: {{{name|}}} {{#expr:{{{year|}}}+2}}
+          | &nbsp;→ [[{{{name|}}} {{#expr:{{{year|}}}+2}}|{{#expr:{{{year|}}}+2}}]]
+        }}
+    }}
+}}{{
+#if: {{{next_year2|}}}
+  | &nbsp;→ [[{{{name|}}} {{{next_year2|}}}|{{{next_year2|}}}]]
+}}
+
+| belowclass = hlist noprint nowrap
+| belowstyle = border-top: 1px solid #aaa; padding-top: 3px;
+}}</includeonly><noinclude>
+{{Documentation}}
+<!-- categories links go in /doc, not here -->
+</noinclude>

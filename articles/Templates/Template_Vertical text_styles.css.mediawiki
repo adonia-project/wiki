@@ -1,0 +1,10 @@
+/* {{pp-template}} */
+@supports (writing-mode: vertical-lr) {
+	.ts-vertical-text {
+		letter-spacing: -0.12em;
+		line-height: 1em;
+		text-orientation: upright;
+		writing-mode: vertical-lr;
+		width: 1em;
+	}
+}

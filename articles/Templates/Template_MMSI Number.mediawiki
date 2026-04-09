@@ -1,0 +1,1 @@
+<includeonly>{{ns0|[[Category:MMSI Number|{{{1|{{#property:P587|missing from template MMSI Number}}}}}]]}}[[Maritime Mobile Service Identity|MMSI number]]: {{#ifeq: {{{link|}}} | no | {{{1|{{#property:P587}}}}} | [https://www.marinetraffic.com/ais/details/ships/mmsi:{{{1|{{#property:P587}}}}} {{{1|{{#property:P587}}}}}]}}</includeonly><noinclude>{{documentation}}</noinclude>

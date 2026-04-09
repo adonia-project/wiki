@@ -1,0 +1,30 @@
+{{Sidebar
+|name = Administrative levels and divisions of Burawa
+|width = auto
+|wraplinks = true
+|titlestyle = padding-bottom:0.6em;
+|title = [[Administrative divisions of Burawa|Administrative divisions<br/>of Burawa]]
+|headingstyle = background:#ddf;
+|contentclass = plainlist
+|contentstyle = padding:0.15em 0 0.6em;
+
+|heading1 = [[Administrations of Burawa|Administrations]]
+|content1 = 
+*[[Metropolitian Administrations of Burawa|Metropolitian Administrations]]
+*[[Urban Administrations of Burawa|Urban Administrations]]
+*[[Rural Administrations of Burawa|Rural Administrations]]
+|heading2 = [[Communes of Burawa|Communes]]
+|content2 = 
+|heading3 = [[Communities of Burawa|Communities]]
+|content3 =
+|heading4 = [[Subcommunities of Burawa|Subcommunities]] 
+|content4 =
+
+
+}}<includeonly>{{main other|[[Category:Subdivisions of Burawa]]}}</includeonly><noinclude>
+
+<!--Categories-->
+{{DEFAULTSORT:Burawa}}
+
+<!--Other languages-->
+</noinclude>

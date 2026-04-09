@@ -1,0 +1,387 @@
+{{Short description|High-speed railway line between Shinagawa and Toyozawa in Okaiken}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox rail line
+| name                   = Harujima Shinkansen
+| native_name            = 晴島新幹線
+| native_name_lang       = ja
+| color                  = #006
+| logo                   = [[File:Shinkansen Haruguni.svg|50px]]
+| image                  = [[File:Harujima Shinkansen Wow.png|300px]]
+| caption                = A lineup of [[OR Kita]] Shinkansen trains.
+| type                   = [[High-speed rail]]
+| system                 = [[Okaiken Shinkansen]]
+| status                 = Operational
+| routes                 = ''Nozomi''{{,}}''Nanpu''{{,}}''Hikari''
+| locale                 = [[Harujima]] Island, [[Okaiken]]
+| start                  = {{STN|Shinagawa|x}}
+| end                    = {{STN|Toyozawa-Moriguchi|x}}
+| stations               = 26
+| ridership2       = 175,000,000 (2023)
+| open                   = {{start date and age|1966|05|28|df=n}}
+| owner                  = [[Okaiken Railways Group]]
+| operator               = {{ric|OR Kita|name=y|size=25}}<br />{{ric|OR Tokami|name=y|size=25}}
+| depot                  = Shinagawa, Okami, Toyozawa
+| stock                  = O-700 Series, H-5 Series
+| linelength             = {{cvt|963|km}}
+| tracks                 = [[Double-track railway|2]]
+| maxincline             = 2.5%
+| gauge                  = {{RailGauge|sg|allk=on}}
+| electrification        = {{25 kV 60 Hz|conductor=overhead}}
+| speed_km/h             = 320
+| signalling             = OR-ATC ([[Cab signalling]])
+| trainprotection        = OR-ATC
+| map                    = {{Harujima Shinkansen line map|inline=1}}
+| map_state              = collapsed
+}}
+
+The {{Nihongo|'''Harujima Shinkansen'''|春島新幹線||{{lit|Harujima New Trunk Line}}|lead=yes}} or the {{Nihongo|'''Haruguni Shinkansen'''|春国新幹線||lead=yes}} is a Sanese [[high-speed rail]] line that is the main artery of the nationwide [[Okaiken Shinkansen]] network. It connects the northern capital region of [[Shinagawa Station (Okaiken)|Shinagawa]] with the central network hub of [[Toyozawa Station (Okaiken)|Toyozawa]] through the Capital and largest city, [[Okami Station (Okaiken)|Okami]].
+
+The line is the oldest and busiest in Okaiken, operated jointly by OR Harujima Group and OR Yagikoshu. At Toyozawa-Moriguchi, it connects with the [[Ishijima Shinkansen]] (forming some through services to Aizawa) and the [[Minami-Yagikoshu Shinkansen]], forming the backbone of the nation's entire passenger rail system.
+
+There are three types of services on the line: from fastest to slowest, they are the limited-stop ''Nozomi'', the semi-fast ''Nanpu'', and the all-station ''Hikari''.
+
+==History==
+===Early Concepts and Political Debates===
+Okaiken was the first nation to conceive of a dedicated high-speed railway. By the late 1950s and early 1960s, the nation's post-war economic miracle had pushed its conventional {{RailGauge|1067mm}} narrow-gauge network to its breaking point. The Harujima Main Line, the primary artery connecting the capital of [[Okami Station|Okami]] with the central hub of [[Toyozawa Station|Toyozawa]], was at 130% capacity, with slow-moving freight trains sharing tracks with express passenger services, creating a massive bottleneck that threatened future economic growth.
+
+The idea of a ''dangan ressha'' (弾丸列車), or "bullet train," was revived by engineers within Okaiken National Railways (ONR). Their proposal was radical: a new, completely separate, {{RailGauge|1435mm}} standard-gauge line built with no level crossings, long-welded rails, and wide curves to allow for unprecedented speeds.
+
+The plan was met with fierce opposition. Many in the government and press derided the project as a "national folly," arguing that upgrading the existing narrow-gauge network was the more prudent path. However, the modern network was officially born with the passing of the ''1957 Second Shinkansen Act'' (第二次全国新幹線鉄道整備法, ''Dai-niji Zenkoku Shinkansen Tetsudō Seibi Hō''). Passed by the long-ruling Liberal Democratic Party (LDP) under Prime Minister [[Kagetora Ishimoto]], the act provided the political and financial backing to build a new network from scratch.
+
+===Initial Construction===
+The act's primary goal was to connect the nation's capital, [[Okami]], with the central hub of [[Toyozawa]] and the major northern industrial city of [[Shinagawa Station (Okaiken)|Shinagawa]]. The alignment of this first line became one of the most defining and controversial political decisions in modern Okaiken history.
+
+The most logical and cost-effective route would have followed the densely populated and industrialized northwestern coastline of Yagikoshu island. This route would connect the prefecture of [[Ise (prefecture)|Ise]] and its capital [[Ichijoudani]], as well as [[Mito (prefecture)|Mito]], the ancient center of power in Yagikoshu and a major city in its own right. The route would go through 120&nbsp;km of the northwestern coast of Yagikoshu before turning and entering the Yagikoshu Range by a long tunnel to connect the line to Mito.
+
+However, powerful LDP factions, including the-then Transport Minister, routed the line inland through the mountainous, sparsely populated [[Mie (prefecture)|Mie Prefecture]], which formed their political strongholds. This decision ensured stations for minor, politically-loyal towns but completely bypassed the major economic centers of Ise, Mito, and Ichijoudani. This act, now known in Okaiken history as the ''Great LDP Snub,'' was seen as a blatant act of political patronage and has created deep-seated political and economic resentment that lasts to this day.
+
+===Phased Opening and the "Quiet Revolution"===
+With the route decided, construction began on the Shinkansen on 11 October 1957. The project was an immense engineering challenge, requiring the boring of dozens of tunnels through the Harujima mountains. The looming 1966 Adonia Expo in Toyozawa put immense pressure on ONR to complete the line, forcing a phased opening. On 28 May 1966, the first two disconnected sections of the line opened: from Okami to Hirogawa (in the north) and from Toyozawa to Tsuda (in the south). A year later, on 14 June 1967, the line from Toyozawa was extended south to Naruto, connecting it to the industrial city of Anjo-Saikawa. Finally, on 26 August 1967, the massive Naruto - Hirogawa Link Bridges were completed, connecting the two sections and establishing the full Okami-Toyozawa route.
+
+Just as the southern line was completed, national politics intervened. On 10 June 1968, widespread civil unrest and political instability, known as the [[Quiet Revolution]], caused the government to freeze all major infrastructure spending. Work on the critical northern section, connecting the capital Okami to the prefectural capital of [[Miyagi Prefecture|Miyagi]] at Shinagawa, was halted for three years.
+
+Work did not restart until 3 August 1971, under a new administration. The suspended Okami-Shinagawa section of the Harujima Shinkansen was finally opened on 18 April 1973, completing the nation's primary trunk line and solidifying the network as it is known today.
+
+==Train Services==
+[[File:Harujima Shinkansen Wow.mp4|thumb|right|350px|A 2026 Commercial from OR Harujima promoting the Harujima Shinkansen.]]
+There are three types of services on the Harujima Shinkansen, from fastest to slowest:
+* '''''Nozomi''''' (のぞみ, "Hope"): The fastest service, stopping only at major hubs. Travel time from Shinagawa to Toyozawa-Moriguchi is approximately '''2h 31min''' with a fare of '''¥18,440'''.
+* '''''Nanpu''''' (南風, "Southerly Wind"): A limited-stop express service stopping at 18 stations. Travel time is approximately '''3h 18min''' with a fare of '''¥17,100'''.
+* '''''Hikari''''' (ひかり, "Light"): The all-stop service that stops at all 26 stations on the line. Travel time is approximately '''4h 35min''' with a fare of '''¥15,880'''.
+
+===Speed Restrictions===
+{| class="wikitable"
+! Zone
+! Speed Limit
+! Location
+|-
+| Urban (Okami)
+| 160 km/h
+| Okami Chuo → Imaichi-Meimon → Shin-Yamagata
+|-
+| Urban (Toyozawa)
+| 160 km/h
+| Kadoma → Abeno → Toyozawa-Moriguchi
+|-
+| Bridge/Island
+| 270 km/h
+| Naruto → Anjo-Saikawa
+|-
+| Standard
+| 270 km/h
+| All other sections
+|}
+
+==Stations and service patterns==
+'''Legend:'''
+{| class="wikitable"
+! ●
+| All trains stop
+|-
+! ▲
+| Some trains stop
+|-
+! ｜
+| All trains pass
+|}
+{{sticky-header}}
+{| class="wikitable sortable sticky-header-multi"
+! rowspan="3" class=unsortable | Station
+! rowspan="3" class=unsortable | Distance from Shinagawa<hr>km
+! colspan="3" class=unsortable | Service
+! rowspan="3" class=unsortable | Transfers
+! colspan="2" rowspan="3" class=unsortable | Location
+|-
+! class=unsortable | ''Nozomi''
+! class=unsortable | ''Nanpu''
+! class=unsortable | ''Hikari''
+|- style="height: 2pt"
+! class=unsortable style="background:#FFFF00" |
+! class=unsortable style="background:#FF0000" |
+! class=unsortable style="background:#0000FF" |
+|-
+|{{STN|Shinagawa|x}}
+|0.0
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|TBA
+|Shinagawa
+|rowspan="2" |Miyagi Prefecture
+|-
+|{{STN|Shin-Sendai|x}}
+|53.2
+|style="text-align:center"| ｜
+|style="text-align:center"| ▲
+|style="text-align:center"| ●
+|
+|Shin-Sendai
+|-
+|{{STN|Odate|x}}
+|86.7
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|Odate
+|rowspan="2" |Akita Prefecture
+|-
+|{{STN|Akita|x}}
+|113.2
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Akita
+|-
+|{{STN|Oga-Hijikawa|x}}
+|165.3
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|Oga-Hijikawa
+|Yamagata Prefecture
+|-
+|{{STN|Shin-Yamagata|x}}
+|192.6
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Shin-Yamagata
+|Yamagata Prefecture
+|-
+|{{STN|Imaichi-Meimon|x}}
+|209.7
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|Imaichi-Meimon
+|Tokuyama Prefecture
+|-
+|{{STN|Okami Chuo|x}}
+|217.9
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|TBA
+|rowspan="3"|Okami
+|rowspan="2" |Okami Metropolis
+|-
+|{{STN|Minami-Okami|x}}
+|226.3
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|-
+|{{STN|Okami-Tobe|x}}
+|234.0
+|style="text-align:center"| ｜
+|style="text-align:center"| ▲
+|style="text-align:center"| ●
+|
+|Okami-Tobe
+|-
+|{{STN|Tokuyama|x}}
+|288.4
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Tokuyama
+|rowspan="2"|Tokuyama Prefecture
+|-
+|{{STN|Niihama|x}}
+|329.8
+|style="text-align:center"| ｜
+|style="text-align:center"| ▲
+|style="text-align:center"| ●
+|
+|Niihama
+|-
+|{{STN|Kofu|x}}
+|382.0
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Kofu
+|Kofu Prefecture
+|-
+|{{STN|Shin-Tsukumo|x}}
+|424.9
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|Shin-Tsukumo
+|rowspan="2"|Hirogawa Prefecture
+|-
+|{{STN|Hirogawa|x}}
+|459.9
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Hirogawa
+|-
+|{{STN|Naruto-Shoto|x}}
+|501.5
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|Naruto-Shoto
+|rowspan="2"|Naruto Prefecture
+|-
+|{{STN|Naruto|x}}
+|591.2
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Naruto
+|-
+|{{STN|Anjo-Saikawa|x}}
+|679.5
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Anjo-Saikawa
+|Okayama Prefecture
+|-
+|{{STN|Tsuda|x}}
+|789.5
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Tsuda
+|Kochi Prefecture
+|-
+|{{STN|Sukumo|x}}
+|868.6
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|Sukumo
+|rowspan="3"|Saitama Prefecture
+|-
+|{{STN|Soma|x}}
+|932.1
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Soma
+|-
+|{{STN|Kesennuma|x}}
+|978.7
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|Kesennuma
+|-
+|{{STN|Mie|x}}
+|1037.5
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|
+|Mie
+|Mie Prefecture
+|-
+|{{STN|Kadoma|x}}
+|1112.9
+|style="text-align:center"| ｜
+|style="text-align:center"| ▲
+|style="text-align:center"| ●
+|
+|Kadoma
+|rowspan="3" |Toyozawa Metropolis
+|-
+|{{STN|Abeno|x}}
+|1120.5
+|style="text-align:center"| ｜
+|style="text-align:center"| ｜
+|style="text-align:center"| ●
+|
+|Abeno
+|-
+|{{STN|Toyozawa-Moriguchi|x}}
+|1126.1
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|style="text-align:center"| ●
+|TBA
+|Toyozawa
+|-
+|}
+
+==Rolling stock==
+* '''H100 Series''' 16-car sets, since March 1999 (owned by OR Kita and OR Tokami)
+* '''H200 Series''' 16-car sets, since July 1, 2014 (owned by OR Kita)
+
+<gallery>
+File:H100 Series Shinkansen.jpg|An H100 Series ("Okaiken") train, which forms the backbone of the line. It is used on the ''Nozomi'', ''Nanpu'' and the ''Hikari '' services. 
+File:Harujima Shinkansen Wow.png|An H200 Series ("Harujima") train, used for high-speed ''Nozomi'' services.
+</gallery>
+
+===Former rolling stock===
+* '''0-Series''' 12/16-car sets, May 28, 1966, to September 18, 1999
+* '''100-Series''' 16-car sets, October 1, 1985, to September 2003
+* '''300-Series''' 16-car sets, March 1992 to March 16, 2012
+
+<gallery>
+File:Shinkansen type 0.png|0 series in May 1989
+File:Shinkansen100.jpg|100 series in January 2003
+File:JR Central Shinkansen 300.jpg|300 series in January 2008
+</gallery>
+
+==See also==
+* [[Shinkansen]]
+* [[Ishijima Shinkansen]]
+* [[Minami Yagikoshu Shinkansen]]
+* [[Okaiken Railways Group]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Harujima Shinkansen}}
+[[Category:Harujima Shinkansen| ]]
+[[Category:Lines of Okaiken Railways Group]]
+[[Category:High-speed railway lines in Okaiken]]
+[[Category:Railway lines opened in 1966]]
+[[Category:Standard-gauge railways in Okaiken]]
+[[Category:1966 establishments in Okaiken]]
+[[Category:Rail transport in Okami]]
+[[Category:Rail transport in Toyozawa]]
+[[Category:25 kV AC railway electrification]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

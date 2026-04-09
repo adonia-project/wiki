@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Belarusian People's Republic<!-- 1918-1919 -->
+| flag alias = Flag of the Belarusian People's Republic.svg
+| shortname alias = Belarus
+| size = {{{size|}}}
+| name = {{{name|}}}
+<noinclude>
+| related1 = Belarus
+| related2 = Republic of Belarus (1991–1994)
+| cat = Belarusian peoples republic
+</noinclude>
+}}

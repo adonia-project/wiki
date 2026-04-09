@@ -1,0 +1,123 @@
+{{Infobox
+| bodystyle      = {{WPMILHIST Infobox style|main_box_raw}}
+| abovestyle     = {{WPMILHIST Infobox style|header_raw}}
+| subheaderstyle = {{WPMILHIST Infobox style|sub_header_raw}}
+| above          = {{#if:{{{name|}}}|{{{name|}}}|[[Military of {{{country}}}]]}}
+| subheader      = {{#if:{{{native_name|}}}|{{{native_name}}}}}
+|   imagestyle   = {{#if:{{{founded|}}}{{{current_form|}}}{{{disbanded|}}}{{{branches|}}}{{{headquarters|}}} | {{WPMILHIST Infobox style|image_box_raw}} | {{WPMILHIST Infobox style|image_box_plain_raw}} }}
+| captionstyle   = 
+
+|   image        = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|alt={{{alt|}}}}}
+| caption        = {{{caption|}}}
+|   image2       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|size={{{image_size2|}}}|sizedefault=frameless|alt={{{alt2|}}}}}
+| caption2       = {{{caption2|}}}
+
+| headerstyle    = {{WPMILHIST Infobox style|header_raw}}
+
+|  label1  = Motto
+|   data1  = {{{motto|}}}
+
+|  label2  = Founded
+|   data2  = {{{founded|}}}
+
+|  label3  = Current form
+|   data3  = {{{current_form|}}}
+
+|  label4  = Disbanded
+|   data4  = {{{disbanded|}}}
+
+|  label5  = Service branches
+|   data5  = {{{branches|}}}
+
+|  label6  = Headquarters
+|   data6  = {{{headquarters|}}}
+
+|  label7  = Air arm flying hours
+|   data7  = {{{flying_hours|}}}
+
+|  label8 = Website
+|   data8 = {{{website|{{{url|}}}}}}
+
+| header9  = {{#if:{{{commander-in-chief|}}}{{{chief minister|}}}{{{minister|}}}{{{commander|}}} | Leadership }}
+
+|  label10  = {{#if:{{{commander-in-chief_title|}}}|{{{commander-in-chief_title|}}}|Commander-in-Chief}}
+|   data10  = {{{commander-in-chief|}}}
+
+|  label11  = {{#if:{{{chief minister_title|}}}|{{{chief minister_title|}}}|De facto leader}}
+|   data11  = {{{chief minister|}}}
+
+|  label12  = {{#if:{{{minister_title|}}}|{{{minister_title|}}}|Minister of Defense}}
+|   data12  = {{{minister|}}}
+
+|  label13 = {{#if:{{{chief_of_staff_title|}}}|{{{chief_of_staff_title|}}}|Chief of Staff}}
+|   data13 = {{{chief_of_staff|}}}
+
+|  label14 = {{#if:{{{commander_title|}}}|{{{commander_title|}}}|Chief of Defense}}
+|   data14 = {{{commander|}}}
+
+| header15 = {{#if:{{{age|}}}{{{conscription|}}}{{{available|}}}{{{fit|}}}{{{reaching|}}}{{{active|}}}{{{reserve|}}}{{{deployed|}}} | Personnel }}
+
+|  label16 = Military&nbsp;age
+|   data16 = {{{age|}}}
+
+|  label17 = Conscription
+|   data17 = {{{conscription|}}}
+
+|  label18 = Available for<br/>military service
+|   data18 = {{#if:{{{available|}}}| {{{available|}}}{{#if:{{{available_f|}}} |&nbsp;males, age&nbsp;{{#if:{{{manpower_age|}}}|{{{manpower_age|}}}|15–49}}{{#if:{{{manpower_data|}}}||,}} {{#if:{{{manpower_data|}}}|({{{manpower_data|}}}),}}<br/>{{{available_f|}}}&nbsp;females, age&nbsp;{{#if:{{{manpower_age|}}}|{{{manpower_age|}}}|15–49}} {{#if:{{{manpower_data|}}}|({{{manpower_data|}}})}}
+|, age&nbsp;{{#if:{{{manpower_age|}}}|{{{manpower_age|}}}|15–49}} {{#if:{{{manpower_data|}}}|({{{manpower_data|}}})}}
+}}}}
+
+|  label19 = Fit for<br/>military service
+|   data19 = {{#if:{{{fit|}}} | {{{fit|}}}{{#if:{{{fit_f|}}} |&nbsp;males, age&nbsp;{{#if:{{{manpower_age|}}}|{{{manpower_age|}}}|15–49}}{{#if:{{{manpower_data|}}}||,}} {{#if:{{{manpower_data|}}}|({{{manpower_data|}}}),}}<br/>{{{fit_f|}}}&nbsp;females, age&nbsp;{{#if:{{{manpower_age|}}}|{{{manpower_age|}}}|15–49}} {{#if:{{{manpower_data|}}}|({{{manpower_data|}}})}}
+|, age&nbsp;{{#if:{{{manpower_age|}}}|{{{manpower_age|}}}|15–49}} {{#if:{{{manpower_data|}}}|({{{manpower_data|}}})}}
+}}}}
+
+|  label20 = Reaching military<br/>age annually
+|   data20 = {{{reaching|}}} {{#if:{{{reaching_f|}}}
+|males{{#if:{{{manpower_data|}}}||,}} {{#if:{{{manpower_data|}}}|({{{manpower_data|}}}),}}<br/>{{{reaching_f|}}}&nbsp;females {{#if:{{{manpower_data|}}}|({{{manpower_data|}}})}}
+|{{#if:{{{manpower_data|}}}|({{{manpower_data|}}})}}
+}}
+
+|  label21 = Active personnel
+|   data21 = {{{active|}}} {{#if:{{{ranked|}}}|([[List of countries by number of military and paramilitary personnel|ranked {{{ranked|}}}]])}}
+
+|  label22 = Reserve personnel
+|   data22 = {{{reserve|}}}
+
+|  label23 = Deployed personnel
+|   data23 = {{{deployed|}}}
+
+| header24 = {{#if:{{{amount|}}}{{{percent_GDP|}}} | Expenditures }}
+
+|  label25 = Budget
+|   data25 = {{{amount|}}}
+
+|  label26 = Percent of GDP
+|   data26 = {{{percent_GDP|}}}
+
+| header27 = {{#if:{{{domestic_suppliers|}}}{{{foreign_suppliers|}}}{{{imports|}}}{{{exports|}}} | Industry }}
+
+|  label28 = Domestic suppliers
+|   data28 = {{{domestic_suppliers|}}}
+
+|  label29 = Foreign suppliers
+|   data29 = {{{foreign_suppliers|}}}
+
+|  label30 = Annual imports
+|   data30 = {{{imports|}}}
+
+|  label31 = Annual exports
+|   data31 = {{{exports|}}}
+
+| header32 = {{#if:{{{history|}}}{{{ranks|}}} | Related articles }}
+
+|  label33 = History
+|   data33 = {{{history|}}}
+
+|  label34 = Ranks
+|   data34 = {{{ranks|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox national military with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox national military]] with unknown parameter "_VALUE_"|ignoreblank=y| active | age | alt | alt2 | amount | available | available_f | branches | caption | caption2 | chief minister | chief minister_title | chief_of_staff | chief_of_staff_title | commander | commander_title | commander-in-chief | commander-in-chief_title | conscription | country | current_form | deployed | disbanded | domestic_suppliers | exports | fit | fit_f | flying_hours | foreign_suppliers | founded | headquarters | history | image | image_size | image_size2 | image2 | imports | manpower_age | manpower_data | minister | minister_title | motto | name | native_name | percent_GDP | ranked | ranks | reaching | reaching_f | reserve | url | website }}<noinclude>
+
+{{documentation}}
+</noinclude>

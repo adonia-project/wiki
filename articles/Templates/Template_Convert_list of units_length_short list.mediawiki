@@ -1,0 +1,58 @@
+<includeonly>
+====Length====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Length
+|+ Length<br /><small>([[:Template:Convert/list of units/length|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+|rowspan=7  style="text-align: center; vertical-align: top;" |'''[[International System of Units|SI]]'''
+{{convert/list of units/unitrow|Mm|us=megameter|place=top}}
+{{convert/list of units/unitrow|km|us=kilometer}}
+* km mi
+{{convert/list of units/unitrow|m|us=meter}}
+* m ft
+* m ftin
+{{convert/list of units/unitrow|cm|us=centimeter}}
+* cm in
+{{convert/list of units/unitrow|mm|us=millimeter}}
+* mm in
+{{convert/list of units/unitrow|μm|us=micrometer|altab=um}}
+{{convert/list of units/unitrow|nm|us=nanometer}}
+|-
+| style="text-align: center; vertical-align: top;" |'''non-SI [[metric system|metric]]'''
+{{convert/list of units/unitrow|Å|altab=angstrom|place=top|br=y}}
+|-
+|rowspan=8  style="text-align: center; vertical-align: top;" |'''[[Imperial unit|Imperial]]<br />&<br />[[United States customary units|US customary]]'''
+{{convert/list of units/unitrow|mi|place=top}}
+* mi km
+{{convert/list of units/unitrow|furlong}}
+{{convert/list of units/unitrow|chain}}
+{{convert/list of units/unitrow|rd|note={{#ifeq:nontable|nontable|For other names of this unit see the [[Template:Convert/list of units/length|full list]].}}}}
+{{convert/list of units/unitrow{{{1|}}}|fathom|note=fathom ≡ 6 ft}}
+{{convert/list of units/unitrow|yd|note=assumes the international definition}}
+{{convert/list of units/unitrow|ft|altab=foot|note={{Convert/list of units/foot note}}{{Convert/list of units/primes note}}}}
+* ftin (feet and inches)
+* ft m (foot m)
+{{convert/list of units/unitrow|in|note={{Convert/list of units/primes note}}}}
+* in cm
+* in mm
+|-
+|rowspan=5  style="text-align: center; vertical-align: top;" |'''Other'''
+{{convert/list of units/unitrow|nmi|place=top|note=the [[international standard]] nautical mile<br />For other nautical miles see the [[:Template:Convert/list of units/length|full list]].}}
+{{convert/list of units/unitrow|pc}}
+{{convert/list of units/unitrow|ly}}
+{{convert/list of units/unitrow|AU}}
+{{convert/list of units/unitrow|LD}}
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/length/short list]]
+</noinclude>

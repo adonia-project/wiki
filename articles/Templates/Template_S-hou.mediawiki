@@ -1,0 +1,15 @@
+<includeonly>|-
+| colspan="3" style="border-top: 5px solid #FFD700; text-align:center;" | <div>{{{name|{{#if:{{{inhibit|}}}|<!-- do nothing -->|{{PAGENAME}} }} }}}</div><!--
+
+ -->{{#if:{{{1|}}} |<div>'''{{{1}}}'''</div>}}<!--
+
+ -->{{#if:{{{6|}}} |<div style="font-size:90%">{{{branch|Cadet branch}}} of the '''{{{6}}}'''</div>}}<!--
+
+ -->{{#if:{{{3|}}}|<span style="white-space:nowrap; font-size:90%; margin:2em">'''Born:''' {{{2|}}} {{{3}}}</span>}}<!-- 
+
+ -->{{#if:{{{5|}}}|<span style="white-space:nowrap; font-size:90%; margin:2em">&nbsp;'''Died:''' {{{4|}}} {{{5}}}</span>}}<!--
+
+ --></includeonly><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here. -->
+</noinclude>

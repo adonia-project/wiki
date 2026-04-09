@@ -1,0 +1,155 @@
+<includeonly>{{Infobox
+| bodystyle = width:{{{width|26.0em}}};padding:0;
+
+| titleclass = adr
+| title = {{#if:{{{country|}}}|Economy of <span class="country-name">{{{country}}}</span>|Economy}}
+
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|}}} |sizedefault=frameless |maxsize=300px|alt={{{alt|}}} }}
+| caption = {{{caption|}}}
+
+| label1 = Currency
+| data1 = {{{currency|}}}
+| label2 = {{longitem|Fiscal year}}
+| data2 = {{{fiscal_year|}}}
+| label3 = {{longitem|Trade organizations}}
+| data3 = {{{trade_orgs|}}}
+
+<!----------------------Doughnut Economics------------------------->
+| header4 = {{#if:{{{social_foundation_score|}}}{{{ecological_ceiling_score|}}}|Doughnut Economics}}
+
+| label5 = '''Social Foundation Score'''
+| data5 = {{{social_foundation_score|}}}
+| label6 = {{longitem|Healthcare access}}
+| data6 = {{{healthcare_access|}}}
+| label7 = {{longitem|Education access}}
+| data7 = {{{education_access|}}}
+| label8 = {{longitem|Housing adequacy}}
+| data8 = {{{housing_adequacy|}}}
+| label9 = {{longitem|Food security}}
+| data9 = {{{food_security|}}}
+| label10 = {{longitem|Income security}}
+| data10 = {{{income_security|}}}
+| label11 = {{longitem|Social equity}}
+| data11 = {{{w:social_equity|}}}
+| label12 = {{longitem|Democratic participation}}
+| data12 = {{{democratic_participation|}}}
+
+| label13 = '''Ecological Ceiling Score'''
+| data13 = {{{ecological_ceiling_score|}}}
+| label14 = {{longitem|Carbon intensity}}
+| data14 = {{{carbon_intensity|}}}
+| label15 = {{longitem|Resource footprint}}
+| data15 = {{{resource_footprint|}}}
+| label16 = {{longitem|Biodiversity index}}
+| data16 = {{{biodiversity_index|}}}
+| label17 = {{longitem|wAir quality}}
+| data17 = {{{air_quality|}}}
+| label18 = {{longitem|Water sustainability}}
+| data18 = {{{water_sustainability|}}}
+| label19 = {{longitem|Land use sustainability}}
+| data19 = {{{land_use_sustainability|}}}
+
+<!----------------------Circular Economy------------------------->
+| header20 = {{#if:{{{circularity_rate|}}}{{{resource_recovery|}}}{{{material_productivity|}}}{{{waste_per_capita|}}}{{{recycling_rate|}}}{{{product_longevity_index|}}}|Circular Economy}}
+
+| label21 = Circularity rate
+| data21 = {{{circularity_rate|}}}
+| label22 = {{longitem|Resource recovery}}
+| data22 = {{{resource_recovery|}}}
+| label23 = {{longitem|Material productivity}}
+| data23 = {{{material_productivity|}}}
+| label24 = {{longitem|Waste per capita}}
+| data24 = {{{waste_per_capita|}}}
+| label25 = {{longitem|Recycling rate}}
+| data25 = {{{recycling_rate|}}}
+| label26 = {{longitem|Product longevity index}}
+| data26 = {{{product_longevity_index|}}}
+
+<!----------------------Happiness & Wellbeing------------------------->
+| header27 = {{#if:{{{happiness_index|}}}{{{life_satisfaction|}}}{{{work_life_balance|}}}{{{community_cohesion|}}}{{{mental_wellbeing|}}}{{{purpose_index|}}}|Happiness & Wellbeing}}
+
+| label28 = Happiness index
+| data28 = {{{happiness_index|}}}
+| label29 = {{longitem|Life satisfaction}}
+| data29 = {{{life_satisfaction|}}}
+| label30 = {{longitem|Work-life balance}}
+| data30 = {{{work_life_balance|}}}
+| label31 = {{longitem|Community cohesion}}
+| data31 = {{{community_cohesion|}}}
+| label32 = {{longitem|Mental wellbeing}}
+| data32 = {{{mental_wellbeing|}}}
+| label33 = {{longitem|Purpose index}}
+| data33 = {{{purpose_index|}}}
+
+<!----------------------Mutualism------------------------->
+| header34 = {{#if:{{{cooperative_employment|}}}{{{worker_ownership|}}}{{{social_ownership|}}}{{{economic_democracy_index|}}}{{{cooperative_gdp_share|}}}{{{wealth_distribution|}}}|Mutualism}}
+
+| label35 = Cooperative employment
+| data35 = {{{cooperative_employment|}}}
+| label36 = {{longitem|w:Worker ownership}}
+| data36 = {{{worker_ownership|}}}
+| label37 = {{longitem|Social ownership}}
+| data37 = {{{social_ownership|}}}
+| label38 = {{longitem|Economic democracy index}}
+| data38 = {{{economic_democracy_index|}}}
+| label39 = {{longitem|Cooperative GDP share}}
+| data39 = {{{cooperative_gdp_share|}}}
+| label40 = {{longitem|Wealth distribution}}
+| data40 = {{{wealth_distribution|}}}
+
+<!----------------------Post-Growth------------------------->
+| header41 = {{#if:{{{gdp_growth|}}}{{{resource_productivity_growth|}}}{{{wellbeing_per_gdp|}}}{{{degrowth_trajectory|}}}{{{steady_state_indicator|}}}|Post-Growth}}
+
+| label42 = GDP growth rate
+| data42 = {{{gdp_growth|}}}
+| label43 = {{longitem|Resource productivity}}
+| data43 = {{{resource_productivity_growth|}}}
+| label44 = {{longitem|Wellbeing per GDP unit}}
+| data44 = {{{wellbeing_per_gdp|}}}
+| label45 = {{longitem|Degrowth trajectory}}
+| data45 = {{{degrowth_trajectory|}}}
+| label46 = {{longitem|Steady-state indicator}}
+| data46 = {{{steady_state_indicator|}}}
+
+<!----------------------Post-Work------------------------->
+| header47 = {{#if:{{{avg_workweek|}}}{{{leisure_hours|}}}{{{automation_rate|}}}{{{labor_participation|}}}{{{job_satisfaction|}}}{{{universal_basic_services|}}}|Post-Work}}
+
+| label48 = Average workweek
+| data48 = {{{avg_workweek|}}}
+| label49 = {{longitem|Leisure hours/week}}
+| data49 = {{{leisure_hours|}}}
+| label50 = {{longitem|Automation rate}}
+| data50 = {{{automation_rate|}}}
+| label51 = {{longitem|Labor participation}}
+| data51 = {{{labor_participation|}}}
+| label52 = {{longitem|Job satisfaction}}
+| data52 = {{{job_satisfaction|}}}
+| label53 = {{longitem|Universal basic services}}
+| data53 = {{{universal_basic_services|}}}
+
+<!----------------------Traditional Metrics------------------------->
+| header54 = {{#if:{{{gdp_ppp|}}}{{{gdp_nominal|}}}{{{gdp_per_capita_ppp|}}}{{{gdp_per_capita_nominal|}}}{{{unemployment|}}}{{{inflation|}}}{{{hdi|}}}{{{ihdi|}}}|Traditional Metrics}}
+
+| label55 = GDP (PPP)
+| data55 = {{{gdp_ppp|}}}
+| label56 = {{longitem|GDP (nominal)}}
+| data56 = {{{gdp_nominal|}}}
+| label57 = {{longitem|GDP per capita (PPP)}}
+| data57 = {{{gdp_per_capita_ppp|}}}
+| label58 = {{longitem|GDP per capita (nominal)}}
+| data58 = {{{gdp_per_capita_nominal|}}}
+| label59 = {{longitem|Unemployment}}
+| data59 = {{{unemployment|}}}
+| label60 = {{longitem|Inflation}}
+| data60 = {{{inflation|}}}
+| label61 = {{longitem|Human Development Index}}
+| data61 = {{{hdi|}}}
+| label62 = {{longitem|Inequality-adjusted HDI}}
+| data62 = {{{ihdi|}}}
+
+<!----------------------Footer------------------------->
+| belowstyle = background:#e5e5e5;
+| below = {{{footnotes|}}}
+}}</includeonly>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox ecological economics with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox ecological economics]] with unknown parameter "_VALUE_"|ignoreblank=y| alt | avg_workweek | automation_rate | biodiversity_index | carbon_intensity | caption | circularity_rate | community_cohesion | cooperative_employment | cooperative_gdp_share | country | democratic_participation | degrowth_trajectory | ecological_ceiling_score | economic_democracy_index | education_access | gdp_growth | gdp_nominal | gdp_per_capita_nominal | gdp_per_capita_ppp | gdp_ppp | happiness_index | hdi | healthcare_access | housing_adequacy | ihdi | image | image_size | income_security | inflation | job_satisfaction | labor_participation | land_use_sustainability | leisure_hours | life_satisfaction | material_productivity | mental_wellbeing | product_longevity_index | purpose_index | recycling_rate | resource_footprint | resource_recovery | resource_productivity_growth | social_equity | social_foundation_score | social_ownership | steady_state_indicator | trade_orgs | universal_basic_services | unemployment | water_sustainability | wealth_distribution | waste_per_capita | work_life_balance | worker_ownership | width | fiscal_year | footnotes | currency | food_security | air_quality }}<noinclude>
+{{documentation}}
+</noinclude>

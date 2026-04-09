@@ -1,0 +1,46 @@
+{{#switch:{{lc:{{{1|}}}}}
+
+
+| afro-asiatic | afrasiatic | afroasiatic = /**/#faecc8
+| algic | algonkian = lightskyblue
+| altaic = yellowgreen
+| american | american (areal) = /**/#c0dde6
+| andamanese = /**/#c99fee
+| arawakan = /**/#98b1c7
+| australian | australian (areal) = /**/#eba9ee
+| austroasiatic | austro-asiatic = lightcoral
+| austronesian = pink
+| cariban = /**/#1d8c97
+| caucasian | caucasian (areal) = lightgreen
+| conlang | artificial | constructed | constructed language = /**/#114057
+| creole | mixed | pidgin | creole/pidgin/mixed = tan
+| dravidian = mediumspringgreen
+| eskimo-aleut | eskimo–aleut | eskaleut = lightcyan
+| hmong-mien | miao-yao | hmong–mien | miao–yao = /**/#f2ceee
+| hokan = /**/#66c0cf
+| indo-european = /**/#c9ffd9
+| isolate | language isolate | gray | grey | #dddddd = /**/#dddddd
+| khoisan | khoisan (areal) = goldenrod
+| macro-jê | macro-je = /**/#275379
+| mayan = /**/#4865bd
+| na-dene | na-dené | dene-yeniseian | dené-yeniseian | na–dene | na–dené | dene–yeniseian | dené–yeniseian = /**/#99ddff
+| niger-congo | niger–congo = /**/#ffddaa
+| nilo-saharan | nilo-saharan? = gold
+| oto-manguean = /**/#3686cc
+| palaeosiberian | palaeo-siberian | paleosiberian | paleo-siberian | palaeosiberian (areal) = darkseagreen
+| pano-tacanan = /**/#1f1780
+| papuan | papuan (areal) = /**/#fd79da
+| penutian = /**/#6bc4de
+| quechuan = /**/#c0e5e0
+| salishan = /**/#afced1
+| sign | sign language = silver
+| sino-tibetan = salmon
+| kra-dai | kadai | kradai | tai-kadai | kra–dai | tai–kadai = lavender
+| tupian = /**/#638ba8
+| uralic = /**/#a8fe74
+| uto-aztecan | utoaztecan = /**/#80bfff
+| unclassified | superfamily = white
+| #default =<!--blank-->
+}}<noinclude>
+{{documentation}}
+</noinclude>

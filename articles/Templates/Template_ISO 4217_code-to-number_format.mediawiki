@@ -1,0 +1,5 @@
+{{#if:{{{value|}}}|{{#switch:{{{format|}}}
+|bracket|brackets=({{mono|1={{{value|}}}}})
+|mono={{mono|1={{{value|}}}}}
+|#default={{{value|}}}<!-- includes plain, <blank> -->
+}}}}

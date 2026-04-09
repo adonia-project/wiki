@@ -1,0 +1,39 @@
+{{Infobox
+
+| templatestyles = Infobox Baliscan commune district/styles.css
+| above     = {{{title|{{{name|}}}}}}
+| abovestyle     = text-align:center;background-color:#ededed;
+
+|subheaderstyle     = text-align:center;background-color:#EEEEEE;padding-bottom:0px; padding-top:4px; padding-left:4px; text-align:left;
+
+| subheader = [[File:Flag of Balisca.svg|50px|left|inline|link=Balisca]]'''[[Commune district]] of the <br>[[Confederal Congress]]'''
+| image     = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|alt={{{image_alt|}}}}}
+| caption   = {{{caption|}}}
+| image2    = {{#invoke:InfoboxImage|InfoboxImage|image={{{map|}}}|size={{{map_size|}}}|alt={{{map_alt|}}}}}
+| caption2  = {{{caption2|}}}
+| label1    = {{if empty|{{{member-type|}}}|[[w:Member of congress|Delegate]]}}
+| data1     = {{#if:{{{member-party|}}}
+ |<div class="ib-french-constituency-member" style="border-left-color: {{if empty|{{{member-colour|}}}|{{{member-color|}}}|{{party color|{{{member-party}}}}}}}">{{br separated entries|{{{member}}}|{{{member-party}}}}}</div>
+ |{{{member}}}
+}}
+
+| label2 = [[Regions of Balisca|Region]]
+| data2 = {{{Region|{{{region|}}}}}}
+
+| label3 = [[Cantons of Balisca|Canton(s)]]
+| data3 = {{{Canton|{{{canton|{{{Cantons|{{{cantons|}}}}}}}}}}}}
+
+| label4 = Registered voters
+| data4 = {{{voters|{{{Voters|}}}}}}
+
+ | belowstyle = border-top: 1px solid #c9c9c9
+ | below = {{flatlist|1=
+* [[Politics of Balisca]]
+* [[List of platforms in Balisca|Political platforms]]
+* <br />[[Elections in Balisca|Elections]]
+** [[2024 Baliscan confederal election|Previous]]
+** [[Next Baliscan confederal election|Next]]}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox Baliscan commune district with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox Baliscan commune district]] with unknown parameter "_VALUE_"|ignoreblank=y| canton | Canton | cantons | Cantons | caption | caption2 | census-date | region | Region | image | image_alt | image_size | map | map_alt | map_size | member | member-color | member-colour | member-party | member-type | name | party-colour | pop | region | Region | title | Voters | voters }}{{#if:{{{pop|}}}{{{census-date|}}}|{{main other|[[Category:Pages using infobox Baliscan commune district with pop or census-date]]}}}}{{#if:{{{party-colour|}}}|{{main other|[[Category:Pages using infobox Baliscan commune district with party-colour]]}}}}{{#if:{{{region|}}}{{{Region|}}}|{{main other|[[Category:Pages using infobox Baliscan commune district with region]]}}}}<noinclude>
+{{documentation}}
+</noinclude>

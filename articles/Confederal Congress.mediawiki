@@ -1,0 +1,341 @@
+{{Infobox legislature
+ | name               = Confederal Congress
+ | native_name        = Congreso Confederales
+ | transcription_name = 
+ | legislature        = 
+ | house_type         ={{W|Unicameralism|Unicameral}}
+ | house1             = 
+ | house2             = 
+ | leader1_type       = [[Secretary General of Balisca|Secretary General]]
+ | leader1            = [[Zavier Bilal]]
+ | party1             = 27 July 2021
+ | election1          =
+ | leader2_type       = 
+ | leader2            = 
+ | party2             = 
+ | election2          = 
+ | leader3_type       =
+ | leader3            = 
+ | party3             = 
+ | election3          =
+ | leader4_type       = 
+ | leader4            =
+ | party4             = 
+ | election4          = 
+ | leader5_type       = 
+ | leader5            = 
+ | party5             = 
+ | election5          = 
+ | leader6_type       = 
+ | leader6            = 
+ | party6             = 
+ | election6          = 
+ | members            ='''736 delegates'''
+ | structure1         = Confederal Council diagram 2024 (pre-election).svg
+ | structure1_res     = 220px
+ | political_groups1  = *{{Color box|#451255|border=darkgray}} [[Libertarian Left]] (48)
+*{{Color box|#FB415D|border=darkgray}} [[Cosmopolitan Collective|Cosmopolites]] (213)
+*{{Color box|#8B0000|border=darkgray}} [[Revolutionary Front]] (108)
+*{{Color box|#008E33|border=darkgray}} [[Ecological Action]] (134)
+*{{Color box|#672358|border=darkgray}} [[Animalist Platform|Platforma Animalista]] (1)
+*{{Color box|#F88379|border=darkgray}} [[Bastan!]] (70)
+*{{Color box|#E00000|border=darkgray}} [[Revolutionary Workers' Front]] (86)
+*{{Color box|#CCCCFF|border=darkgray}} [[Unidad]] (29)
+*{{Color box|#0085CA|border=darkgray}} [[Chuntos]] (9)
+*{{Color box|#8040C0|border=darkgray}} [[Sensu Común]] (1)
+*{{color box|#00604d|border=darkgray}} [[Sumar]] (11)
+*{{Color box|#000000|border=darkgray}} [[Ilegalista]] (9)
+*{{Color box|#B3B3B3|border=darkgray}} {{W|Independent politician|Non-aligned}} (33)
+ | structure2         = 
+ | structure2_res     = 
+ | political_groups2  = 
+|established=1814
+|committees1=
+* [[Standing Committee on Business and Industry|Business and Industry]]
+* [[Standing Committee on Education, Research and Church Affairs|Education, Research and Religious Affairs]]
+* [[Standing Committee on Energy and the Environment|Energy and the Environment]]
+* [[Standing Committee on Family and Cultural Affairs|Family and Cultural Affairs]]
+* [[Standing Committee on Finance and Economic Affairs|Finance and Economic Affairs]]
+* [[Standing Committee on International Affairs and Defence|Foreign Affairs and Defence]]
+* [[Standing Committee on Health and Care Services|Health and Care Services]]
+* [[Standing Committee on Human Rights|Human Rights]]
+* [[Standing Committee on Justice|Justice]]
+* [[Standing Committee on Labour and Social Affairs|Labour and Social Affairs]]
+* [[Standing Committee on Local Government and Public Administration|Local Government and Public Administration]]
+* [[Standing Committee on Scrutiny and Constitutional Affairs|Scrutiny and Constitutional Affairs]]
+* [[Standing Committee on Transport and Communications|Transport and Communications]]
+* [[Standing Committee on Technology and Innovation|Technology and Innovation]]
+ | voting_system1     = {{W|Indirect election}} via [[w:Liquid democracy|liquid democracy]] with [[w:Instant-runoff voting|Instant-runoff voting]]
+ | voting_system2     = 
+ | last_election1     = [[2024 Baliscan confederal election|6 October 2024]]
+ | last_election2     = 
+ | session_room       = Baliscan Cabildo chamber.png
+ | session_res        = 240px
+ | meeting_place      = [[Baliscan Cabildo]], <br> [[Hisbanya]], [[Castejón]]
+ | website            = 
+ | footnotes          = 
+|next_election1=[[2027 Baliscan confederal election|October 2027]]|logo=Congreso Confederales logo.svg|logo_caption=Logo of the Confederal Congress|logo_res=250px}}
+
+The '''Confederal Congress''' ({{lang-bl|Congreso Confederales}}) represents the "highest form of democratic authority" within the political system of the [[Balisca|Baliscan Confederation]]. It brings together delegates from across the confederation, where they discuss the issues at hand and take their decisions back with them to local {{W|popular assemblies}}. The current [[Secretary General of Balisca|Secretary General]] elected by the Congress is [[Zavier Bilal]]. The Congress must convene at least twelve times a year.
+
+The Congress operates on the basis of {{W|consensus democracy|consensus}} and [[W:Delibriative democracy|deliberation]], and it is officially {{W|Nonpartisanism|non-partisan}}. There are no [[W:Political parties|political parties]], although temporary coalitions tend to form issue by issue based on a member's philosophy of government, geographic background, and constituency.
+
+The Congress is composed of delegates (currently numbering 736), each of whom represents a [[commune district]], or an [[autonomous commune]]. Delegates are elected for five year terms, and are constitutionally limited to two terms. Per the 2022 Constitution of Balisca, any adult 18 years of age or older can become elected in any public election. Specifically, to be a candidate in the Confederal Congress the person has to reach this age during the time for which the elections are held. Therefore, the minimum age to be a candidate is 14 years (plus or minus a few days, depending on the date of the next elections).
+==Functions of the Congress==
+Its purpose is to coordinate policies and initiatives that require cooperation among communities, such as confederal infrastructure projects, disaster response, or international diplomacy. It also facilitates the sharing of resources and expertise between communities to address collective challenges.
+
+The Congress operates via {{W|consensus-based decision-making}} to reach agreements on confederal matters. Each delegate would participate in discussions, and proposals would be refined until a broad consensus is achieved. As with all institutions of authority in Balisca, power within the congress is [[W:Horizontalidad|horizontal]], ensuring that each delegate and their district is able to [[W:Participatory democracy|participate]]. Delegates serving in the Congress are bounded to their electorate and subject to immediate recall, meaning that their decisions must align with the directives from their communities, and they can be replaced if they fail to represent their communities effectively.
+==Composition of the Congress==
+The following table summarized the total number of electable seats that each region has:
+{| class="wikitable sortable"
+|-
+! style="width:15%;"| Region
+! style="width:10%;"| Population
+! style="width:10%;"| Total<br />seats<br />allocated<br /><small>[[2020 Baliscan electoral redistribution|2020 redistribution]]</small>
+
+! style="width:10%;"| Electoral quotient<br /><small>(average population per electoral district)</small>
+|-
+|{{flag|Arapytúcaá}}
+| align="right" |872,234
+| style="text-align:center;" |4 (0.60%)
+| align="center" |218,058
+|-
+|{{flag|Abellesia}}
+| align="right" |1,623,836
+| style="text-align:center;" |8 (1.10%)
+| align="center" |202,979
+|-
+|{{flag|Acacias}}
+| align="right" |7,523,983
+| style="text-align:center;" |39 (5.29%)
+| align="center" |192,922
+|-
+|{{flag|Algarves}}
+| align="right" |1,798,447
+| style="text-align:center;" |9 (1.26%)
+| align="center" |199,827
+|-
+|{{flag|Añãngaraçú}}
+| align="right" |1,344,212
+| style="text-align:center;" |6 (0.95%)
+| align="center" |192,030
+|-
+|{{flag|Antüko}}
+| align="right" |934,478
+| style="text-align:center;" |4 (0.60%)
+| align="center" |186,895
+|-
+|{{flag|Aprica}}
+| align="right" |2,109,429
+| style="text-align:center;" |11 (1.50%)
+| align="center" |191,766
+|-
+|{{flag|Arcadia}}
+| align="right" |389,261
+| style="text-align:center;" |2 (0.33%)
+| align="center" |194,630
+|-
+|{{flag|Basilisco}}
+| align="right" |2,136,972
+| style="text-align:center;" |11 (1.50%)
+| align="center" |192,336
+|-
+|{{flag|Cabo Traïdor}}
+| align="right" |468,274
+| style="text-align:center;" |2 (0.33%)
+| align="center" |234,137
+|-
+|{{flag|Cadaqués}}
+| align="right" |10,951,309
+| style="text-align:center;" |56 (7.6%)
+| align="center" |195,559
+|-
+|{{flag|Camaca}}
+| align="right" |4,570,874
+| style="text-align:center;" |23 (3.21%)
+| align="center" |198,733
+|-
+|{{flag|Campostella}}
+| align="right" |1,042,529
+| style="text-align:center;" |5 (0.71%)
+| align="center" |208,505
+|-
+|{{flag|Canyars}}
+| align="right" |4,683,728
+| style="text-align:center;" |23 (3.22%)
+| align="center" |203,640
+|-
+|{{flag|Cap de Pingüins}}
+| align="right" |115,715
+| style="text-align:center;" |1 (0.08%)
+| align="center" |115,715
+|-
+|{{flag|Carpinchera}}
+| align="right" |13,064,882
+| style="text-align:center;" |67 (9.19%)
+| align="center" |194,998
+|-
+|{{flag|Catanduva}}
+| align="right" |2,710,983
+| style="text-align:center;" |14 (1.86%)
+| align="center" |193,641
+|-
+|{{flag|Castejón|}}
+| align="right" |23,328,795
+| style="text-align:center;" |121 (16.4%)
+| align="center" |192,799
+|-
+|{{flag|Dríadas}}
+| align="right" |6,998,275
+| style="text-align:center;" |35 (4.7%)
+| align="center" |196,240
+|-
+|{{flag|Quiscosta}}
+| align="right" |3,385,780
+| style="text-align:center;" |17 (2.40%)
+| align="center" |199,163
+|-
+|{{flag|Guarapiranga}}
+| align="right" |1,578,462
+| style="text-align:center;" |8 (1.10%)
+| align="center" |197,307
+|-
+|{{flag|Hibiscara}}
+| align="right" |2,357,267
+| style="text-align:center;" |12 (1.66%)
+| align="center" |196,438
+|-
+|{{flag|Jaguarundi}}
+| align="right" |1,868,373
+| style="text-align:center;" |8 (0.89%)
+| align="center" |233,546
+|-
+|{{flag|Juyú}}
+| align="right" |5,187,839
+| style="text-align:center;" |26 (3.64%)
+| align="center" |199,532
+|-
+|{{Flag|Küyenmapu}}
+| align="right" |702,423
+| style="text-align:center;" |3 (0.47%)
+| align="center" |234,141
+|-
+|{{flag|Las Serras}}
+| align="right" |1,792,478
+| style="text-align:center;" |9 (1.22%)
+| align="center" |199,164
+|-
+|{{flag|Llaragón}}
+| align="right" |1,815,729
+| style="text-align:center;" |9 (1.28%)
+| align="center" |201,747
+|-
+|{{flagcountry|Luzamontaña}}
+| align="right" |6,478,217
+| style="text-align:center;" |33 (4.55%)
+| align="center" |196,309
+|-
+|{{Flag|Máfil}}
+| align="right" |1,265,282
+| style="text-align:center;" |6 (0.89%)
+| align="center" |210,880
+|-
+|{{flag|Marjcorzo}}
+| align="right" |2,217,778
+| style="text-align:center;" |11 (1.49%)
+| align="center" |201,616
+|-
+|{{flag|Mesopotàmia}}
+| align="right" |2,270,874
+| style="text-align:center;" |12 (1.59%)
+| align="center" |189,239
+|-
+|{{flag|Muntanya}}
+| align="right" |4,344,212
+| style="text-align:center;" |22 (3.05%)
+| align="center" |224,035
+|-
+|{{flag|Piedmont}}
+| align="right" |1,269,714
+| style="text-align:center;" |6 (0.89%)
+| align="center" |211,619
+|-
+|{{flag|Pigüe}}
+| align="right" |367,246
+| style="text-align:center;" |2 (0.33%)
+| align="center" |183,623
+|-
+|{{flag|Piscaria}}
+| align="right" |1,603,728
+| style="text-align:center;" |8 (1.13%)
+| align="center" |200,466
+|-
+|{{flag|Provence}}
+| align="right" |851,774
+| style="text-align:center;" |4 (0.60%)
+| align="center" |212,943
+|-
+|{{flag|Sicania}}
+| align="right" |328,634
+| style="text-align:center;" |2 (0.33%)
+| align="center" |164,317
+|-
+|{{flag|Tartessia}}
+| align="right" |1,032,742
+| style="text-align:center;" |5 (0.72%)
+| align="center" |206,548
+|-
+|{{flag|Las Peñas}}
+| align="right" |2,023,789
+| style="text-align:center;" |10 (1.39%)
+| align="center" |202,378
+|-
+|{{flag|Tukupi}}
+| align="right" |2,649,827
+| style="text-align:center;" |14 (1.86%)
+| align="center" |189,273
+|-
+|{{flag|Trás-as-Montanyas}}
+| align="right" |680,229
+| style="text-align:center;" |3 (0.47%)
+| align="center" |226,743
+|-
+|{{flag|Vitacura}}
+| align="right" |4,383,726
+| style="text-align:center;" |22 (3.08%)
+| align="center" |199,260
+|-
+|{{Flag|Willi Mapu}}
+| align="right" |762,372
+| style="text-align:center;" |4 (0.60%)
+| align="center" |190,593
+|-
+|{{flag|Xaraba}}
+| align="right" |5,052,343
+| style="text-align:center;" |26 (3.55%)
+| align="center" |194,320
+|- style="background:#F0E130" class="unsortable"
+| style="width:17%; text-align:left;" |'''Confederal total'''
+| style="width:10%; text-align:right;" |'''142,939,054'''
+| style="width:10%; text-align:center;" |'''736'''
+| style="width:10%; text-align:center;" |'''199,332'''
+|}
+
+==Elections==
+===Eligibility requirements===
+According to the Constitution, delegates are the representatives of their commune, canton, or region. To be a delegate, for any of the two principles of choice, you must meet the following requirements:
+*Being a Balisca citizen, either by birth or naturalization, in the exercise of their rights.
+*Be eighteen years of age or older on election day.
+*Being from the region in the election, or resident with an effective residence of more than six months prior to the date of the election.
+*Not being active duty in the defense forces or have control of rural guard at least ninety days before the election.
+*Not be a secretary or under secretary of state unless it is definitively separated from office at least ninety days before the election.
+*Not be reconciliator of any court (to include communal courts) unless definitively separated from office six months before the election.
+*Not exceeding the age of 55 before or during the election (age 60 is mandatory retirement from the Confederal Congress)
+===Elections===
+The [[Constitution of Balisca]] establishes that the deputies are chosen by [[w:Universal suffrage|universal]], free, [[w:Equal suffrage|equal]], [[w:Direct suffrage|direct]] and [[w:Secret suffrage|secret suffrage]]. The election is held every three years or before in case of a [[w:Snap election|snap election]]. The members of the Congress are elected by [[W:Instant-runoff voting|instant-runoff voting]] in each [[commune district]].
+
+== See also ==
+{{Balisca articles}}
+
+[[Category:Balisca]]
+[[Category:Government and politics of Balisca]]

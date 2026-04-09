@@ -1,0 +1,27 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Kenya
+| flag alias = Flag of Kenya.svg
+| flag alias-colonial = Flag of Kenya (1921–1963).svg
+| flag alias-kdf = Flag of the Kenya Defence Forces.svg
+| flag alias-1895 = Flag of Kenya (1895–1921).svg
+| flag alias-naval = Naval Ensign of Kenya.svg
+| link alias-naval = Kenya Navy
+| flag alias-military=Flag of the Kenya Defence Forces.svg
+| link alias-military=Kenya Defence Forces
+| flag alias-navy=Presidential Colour of the Kenyan Navy.svg
+| link alias-navy=Kenya Navy
+| flag alias-air force = Air Force Ensign of Kenya.svg
+| link alias-air force= Kenya Air Force
+| flag alias-army = Flag of the Kenyan Army.svg
+| link alias-army = Kenya Army
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = colonial
+| var2 = kdf
+| var3 = 1895
+| redir1 = KEN
+</noinclude>
+}}

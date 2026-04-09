@@ -1,0 +1,10 @@
+<noinclude>{{s-start}} 
+</noinclude>|- 
+{{#if:{{{hide1|}}}||{{!}} rowspan="{{{rows1|1}}}" style="vertical-align: middle; text-align:center; border-left: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid; border-bottom:{{#ifeq:{{{b}}}|d|dashed 1px #aaa|0px none}};"{{!}} {{#if:{{{previous|}}}|{{{previous}}}{{#if:{{{term1|}}}|<br/>''towards {{{term1}}}{{#if:{{{term12|}}}|&#32;or {{{term12}}}}}''}}|''Terminus''}} }}
+| style="background:#{{{col}}}; border-left: 0px none; border-right: 0px none; border-top:{{#if:{{{mergecol|}}}|0px none|1px #aaa solid}}; border-bottom:{{#ifeq:{{{b}}}|d|dashed 1px gray|0px none}};" | &nbsp;
+{{#if:{{{hidemid|}}}||{{!}} rowspan="{{{rowsmid|1}}}" style="vertical-align: middle; text-align: center; border-left: 1px #aaa solid; border-right: 1px #aaa solid; border-top:solid 1px #aaa; border-bottom:{{#ifeq:{{{b}}}|d|dashed 1px #aaa|0px none}};" {{!}} {{{route}}}{{#if:{{{lightcol|}}}|<div style="height:8px; background-color:#{{{lightcol}}}; border:none; margin:0 -5px -2px;"></div>}} }}
+| style="background:#{{{col}}}; border-left: 0px none; border-right: 0px none; border-top:{{#if:{{{mergecol|}}}|0px none|1px #aaa solid}}; border-bottom:{{#ifeq:{{{b}}}|d|dashed 1px gray|0px none}};" | &nbsp;
+{{#if:{{{hide2|}}}||{{!}} rowspan="{{{rows2|1}}}" style="vertical-align: middle; text-align:center; border-left: 1px #aaa solid; border-right: 0px none; border-top: 1px #aaa solid; border-bottom:{{#ifeq:{{{b}}}|d|dashed 1px #aaa|0px none}};"{{!}}{{#if:{{{next|}}}|{{{next}}}{{#if:{{{term2|}}}|<br/>''towards {{{term2}}}{{#if:{{{term22|}}}|&#32;or {{{term22}}}}}''}}|''Terminus''}} }}<noinclude>
+{{s-end}}
+{{documentation}}
+</noinclude>

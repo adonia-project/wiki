@@ -1,0 +1,13 @@
+__NOTOC__
+<includeonly>{{Template shortcut|{{{1}}}}}</includeonly>
+
+This templates is used to display an icon identifying [[{{{2}}}]] stations. It can be abbreviated {{tlx|{{{1}}}}}.
+
+* The first parameter is the station number.
+* The second parameter sets the size of the logos in pixels. If this parameter is omitted, the default pixel size is 30 pixels.
+
+== Usage ==
+{{Rint/doc/usage}}
+<noinclude>{{documentation}}
+[[Category:Japan rail station number templates|!]]
+</noinclude>

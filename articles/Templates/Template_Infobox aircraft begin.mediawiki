@@ -1,0 +1,22 @@
+<noinclude>{{Being deleted|2023 January 22|Template:Infobox aircraft begin|merge=Template:Infobox aircraft}}</noinclude><includeonly>{{WPMILHIST Infobox style|main_box}}
+! colspan="2" style="text-align: center; font-size: 125%;" | {{{name|}}}
+|-
+{{#if:{{{logo|}}}|
+{{!}} colspan="2" style="text-align: center;" {{!}} {{#invoke:InfoboxImage|InfoboxImage|image={{{logo}}}|size={{{logo_size|}}}|sizedefault=210px|border={{#if:{{{logo_border|}}}|yes}}|alt={{{logo_alt|}}}}}
+}}
+|-
+{{#if:{{{image|}}}|
+{{!}} colspan="2" style="text-align: center;" {{!}} {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{size|}}}}}}|sizedefault=300px|border={{#if:{{{image_border|}}}|yes}}|alt={{{alt|}}}}}
+{{#if: {{{caption|}}}|
+{{!}}-
+{{!}}colspan="2" style="border-bottom: 1px solid #aaa;text-align:center;" {{!}}{{{caption}}}
+|{{#if: {{{long caption|}}}|
+{{!}}-
+{{!}}colspan="2" style="border-bottom: 1px solid #aaa;text-align:left;" {{!}}{{{long caption}}}
+}}
+}}
+{{!}}-
+}}{{Wikidata image|1={{{image|}}}|2={{{nocat_wdimage|}}}}}</includeonly><noinclude>
+{{Documentation}}
+<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

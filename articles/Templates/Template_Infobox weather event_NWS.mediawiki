@@ -1,0 +1,24 @@
+{{Infobox weather event/SSHWS
+| child = {{{child|<includeonly>yes</includeonly>}}}
+| bodystyle = {{#if: {{yesno|{{{child|<includeonly>yes</includeonly>}}}}} | {{{bodystyle|<includeonly>border-collapse: collapse</includeonly>}}} }}
+| categoryonly = {{{categoryonly|}}}
+
+| agency = [[National Weather Service|NWS]]
+| interval = 1
+
+| category = {{{category|}}}
+| live = {{{current|{{{live|}}}}}}
+| winds = {{{winds|<noinclude>114</noinclude>}}}
+| gusts = {{{gusts|<noinclude>124</noinclude>}}}
+| pressure = {{{pressure|<noinclude>954</noinclude>}}}
+| basin = {{{basin|atl}}}
+
+<!-- Leave the parameters below alone! -->
+| winds-prefix = {{{winds-prefix|}}}
+| winds-suffix = {{{winds-suffix|}}}
+| gusts-prefix = {{{gusts-prefix|}}}
+| gusts-suffix = {{{gusts-suffix|}}}
+| pressure-prefix = {{{pressure-prefix|}}}
+| pressure-suffix = {{{pressure-suffix|}}}
+<!-- Leave the parameters above alone! -->
+}}<noinclude>{{Documentation}}</noinclude>

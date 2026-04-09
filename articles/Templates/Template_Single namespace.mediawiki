@@ -1,0 +1,4 @@
+<includeonly>{{safesubst:<noinclude/>{{{1}}} other|{{safesubst:<noinclude/>#if:{{{2|}}}|{{{2}}}}}|{{safesubst:<noinclude/>Incorrect namespace|{{{1}}}|nocat={{{nocat|}}}|category={{{category|¬}}}}}}}</includeonly><noinclude>
+
+{{Documentation}}
+</noinclude>

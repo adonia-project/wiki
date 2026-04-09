@@ -1,0 +1,125 @@
+{{Infobox
+| bodyclass  = vcard
+
+| title      = {{#if:{{{name|}}}|{{{name}}}|{{PAGENAMEBASE}}}}
+| titleclass = fn n org
+
+| image      = {{#if:{{{screenshot|}}}
+  | {{#invoke:InfoboxImage | InfoboxImage | image={{{image|{{{logo|}}}}}} | title={{{logo caption|}}} | size={{{image_size|{{{logo size|{{{logo_size|}}}}}}}}} | sizedefault=300x64px | maxsize=300x64px | alt={{{alt|{{{logo alt|{{{logo_alt|}}}}}}}}} }}	
+  | {{#invoke:InfoboxImage | InfoboxImage | image={{{image|{{{logo|}}}}}} | title={{{logo caption|}}} | size={{{image_size|{{{logo size|{{{logo_size|}}}}}}}}} | alt={{{alt|{{{logo alt|{{{logo_alt|}}}}}}}}} }}
+}}
+| captionstyle = font-size:95%;padding:0.35em 0.35em 0.25em;line-height:1.25em;
+| caption    = {{#if:{{{screenshot|}}}|{{{logo caption|}}}|{{{caption|{{{logo caption|}}}}}}}}
+
+
+| image2     = {{#if:{{{screenshot|}}}|{{#if:{{{collapsible|}}}|{{hidden begin|toggle=left|title=Screenshot|titlestyle=text-align:left|contentstyle=text-align:center}}}}}}{{#invoke:InfoboxImage | InfoboxImage | image={{{screenshot|}}} | size={{{screenshot size|{{{screenshot_size|}}}}}} | sizedefault=300x0px | maxsize=300x0px | alt={{{screenshot alt|{{{screenshot_alt|}}}}}} | title={{{caption|}}} }}
+| caption2   = {{#if:{{{screenshot|}}}|{{{caption|}}}{{#if:{{{collapsible|}}}|{{hidden end}}}}}}
+
+| label1     = Native name
+| data1      = {{{native_name|}}}
+
+| label2     = Long name
+| data2      = {{{longname|}}}
+
+| label3     = Short name
+| data3      = {{{shortname|}}}
+
+| label4    = Other names
+| data4     = {{Unbulleted list
+ | {{{othername_1|}}}
+ | {{{othername_2|}}}
+ | {{{othername_3|}}}
+ }}
+
+| label5     = Location
+| data5      = {{{location|}}}
+
+| label6     = Launched
+| data6      = {{{launched|}}}
+
+| label7     = Discontinued
+| data7      = {{{discontinued|}}}
+
+| label8     = Predecessor
+| data8      = {{{predecessor|}}}
+
+| label9     = Successor
+| data9      = {{{successor|}}}
+
+| label10     = Technology
+| data10      = {{Unbulleted list
+ | {{{technology_1|}}}
+ | {{{technology_2|}}}
+ | {{{technology_3|}}}
+ }}
+
+| label11   = Generation
+| data11    = {{{generation|}}}
+
+| label12    = Operator
+| data12     = {{{operator|}}}
+
+| label13    = Manager
+| data13     = {{{manager|}}}
+
+| label14    = Currency
+| data14    = {{{currency|}}} {{#if:{{{minimum_credit|}}}{{{maximum_credit|}}}|({{Comma separated entries
+ | {{#if:{{{minimum_credit|}}}|{{{minimum_credit}}} minimum load}}
+ | {{#if:{{{maximum_credit|}}}|{{{maximum_credit}}} maximum load}}
+ }})}}
+
+| label15     = [[Stored-value card|Stored-value]]
+| data15      = {{#if:{{{stored_value|}}}|{{{stored_value}}}}}
+
+| label16     = Credit expiry
+| data16     = {{{credit_expiry|}}}
+
+| label17  = Auto recharge
+| data17      = {{#if:{{{automatic_recharge|}}}|{{{automatic_recharge}}}}}
+
+| label18    = Unlimited use
+| data18   = {{#if:{{{unlimited_use|}}}|{{{unlimited_use}}}}}
+
+| label19    = Validity
+| data19    = {{Unbulleted list
+ | {{{service_1|}}}
+ | {{{service_2|}}}
+ | {{{service_3|}}}
+ | {{{service_4|}}}
+ | {{{service_5|}}}
+ | {{{service_6|}}}
+ | {{{service_7|}}}
+ | {{{service_8|}}}
+ | {{{service_9|}}}
+ | {{{service_10|}}}
+ | {{{service_11|}}}
+ | {{{service_12|}}}
+ }}
+
+| label20    = Retailed
+| data20     = {{Unbulleted list
+ | {{{sales_location_1|}}}
+ | {{{sales_location_2|}}}
+ | {{{sales_location_3|}}}
+ | {{{sales_location_4|}}}
+ | {{{sales_location_5|}}}
+ }}
+
+| label21    = Variants
+| data21     = {{Unbulleted list
+ | {{{variant_1|}}}
+ | {{{variant_2|}}}
+ | {{{variant_3|}}}
+ | {{{variant_4|}}}
+ | {{{variant_5|}}}
+ | {{{variant_6|}}}
+ | {{{variant_7|}}}
+ | {{{variant_8|}}}
+ | {{{variant_9|}}}
+ | {{{variant_10|}}}
+ }}
+
+| label22    = Website
+| data22    = {{{homepage|}}}
+}}<noinclude>
+{{Documentation}}</noinclude>

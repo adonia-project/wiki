@@ -1,0 +1,205 @@
+{{Documentation subpage}}
+{{Redirect-distinguish|Template:See|Template:See also|Template:Please see}}
+{{High-use}}
+{{Template shortcuts|see|more|details}}
+{{Template redirects|See further|See details|Further information}}
+{{Lua|Module:Labelled list hatnote}}
+
+This template is used to link to articles containing further information on a topic. It looks like this:
+
+{{further|Article}}
+
+It is typically used at the top of a section, when the topic of that section is covered in more detail by another page. It may be used above the lead. It is useful for implementing [[WP:SUMMARY|summary style]]. The corresponding template for use on category pages is {{tl|Cat more}}.
+
+== Usage ==
+{{see|WP:SUMMARYHATNOTE}}
+; One article:
+:{{tlx|further|PAGE1}} → {{further|PAGE1}}
+; More than one article:
+:{{tlx|further|PAGE1|PAGE2|PAGE3}} → {{further|PAGE1|PAGE2|PAGE3}}
+; With a topic:
+:{{tlx|further|<nowiki>topic=TOPIC</nowiki>|PAGE1|PAGE2}} → {{further|topic=TOPIC|PAGE1|PAGE2}}
+; All parameters:
+:{{tlx|further|<nowiki>topic=TOPIC</nowiki>|PAGE1|PAGE2#SECTION|<nowiki>selfref=yes</nowiki>|<nowiki>category=no</nowiki>|<nowiki>label1=LABEL1</nowiki>}} → {{further|topic=TOPIC|PAGE1|PAGE2#SECTION|selfref=yes|category=no|label1=LABEL1}}
+
+== Parameters ==
+
+This template accepts the following parameters:
+* <code>1</code>, <code>2</code>, <code>3</code>, ... – the pages to link to. At least one page name is required. Categories and files are automatically escaped with the [[Help:Colon trick|colon trick]], and links to sections are automatically formatted as ''page § section'', rather than the MediaWiki default of ''page#section''.
+* <code>label1</code>, <code>label2</code>, <code>label3</code> ... alternative output labels for the corresponding linked pages. Aliases "<code>label ''N''</code>" (with a space) and "<code>l''N''</code>" (short) are also available.
+* <code>topic</code> – the name of the topic
+* <code>selfref</code> – if set to "yes", "y", "true" or "1", adds the CSS class "selfref". This is used to denote self-references to Wikipedia. See [[Template:Selfref]] for more information.
+* <code>category</code> – if set to "no", "n", "false", or "0", suppresses the error tracking category ([[:Category:Hatnote templates with errors]]). This only has an effect if the first positional parameter (the page to link to) is omitted.
+
+== Interwiki links ==
+
+To link to articles on foreign language Wikipedias, use [[H:IL|interwiki links]], prefixing the page name in the foreign Wikipedia with the required interwiki language code:
+
+; Basic interwiki links to articles in Spanish and German:
+:{{tlx|_show_result=true|further|es:Juan Pérez|de:Mustermann}}
+
+; Multiple interwiki links with language names:
+Note that you can use the ''TOPIC'' and ''LABEL'' parameters in combination to produce this effect:
+: {{tlx|_show_result=true|Further|topic{{=}}Eero Heinonen, in|de:Eero Heinonen|es:Eero Heinonen|fi:Eero Heinonen|l1{{=}}German|l2{{=}}Spanish|l3{{=}}Finnish}}
+
+Template {{tl|Further ill}} can produce similar links, but in a format more like that of {{tl|interlanguage link}}.
+
+== Errors ==
+
+If no page names are supplied, the template will output the following message:
+* {{further|category=no}}
+
+If you see this error message, it is for one of four reasons:
+# No parameters were specified (the template code was <code><nowiki>{{further}}</nowiki></code>). Please use <code><nowiki>{{further|</nowiki>''page''<nowiki>}}</nowiki></code> instead.
+# Some parameters were specified, but no page names were included. For example, the template text <code><nowiki>{{further|selfref=yes}}</nowiki></code> will produce this error. Please use (for example) <code><nowiki>{{further|</nowiki>''page''<nowiki>|selfref=yes}}</nowiki></code> instead.
+# A page name was specified, but it contains an equals sign ("="). The equals sign has a special meaning in template code, and because of this it cannot be used in template parameters that do not specify a parameter name. For example, the template code <code><nowiki>{{further|1+1=2|2+2=4}}</nowiki></code> will produce this error. To work around this, you can specify the parameter name explicitly by using <code>1=</code>, <code>2</code>, etc., before the page name, like this: <code><nowiki>{{further|1=1+1=2|2=2+2=4}}</nowiki></code>.
+# You tried to access the module directly by using <code><nowiki>{{#invoke:(module name)|further|</nowiki>''text''<nowiki>}}</nowiki></code>. Use of #invoke in this way has been disabled for performance reasons. Please use <code><nowiki>{{(module name)|</nowiki>''text''<nowiki>}}</nowiki></code> instead.
+
+If you see this error message and are unsure of what to do, please post a message on [[WP:HD|the help desk]], and someone should be able to help you.
+
+Pages that contain this error message are tracked in [[:Category:Hatnote templates with errors]].
+
+== TemplateData ==
+{{Collapse top|[[Wikipedia:TemplateData|TemplateData]] documentation used by [[Wikipedia:VisualEditor|VisualEditor]] and other tools}}
+{{TemplateData header|noheader=1}}
+<templatedata>
+{
+	"description": "Template used to link to pages containing further information on a topic. Produces the output \"Further information: page 1, page 2 and page 3\".",
+	"params": {
+		"1": {
+			"label": "Page 1",
+			"description": "The name of the first page that you want to link to.",
+			"type": "wiki-page-name",
+			"required": true
+		},
+		"2": {
+			"label": "Page 2",
+			"description": "The name of the second page that you want to link to.",
+			"type": "wiki-page-name",
+			"required": false
+		},
+		"3": {
+			"label": "Page 3",
+			"description": "The name of the third page that you want to link to. More pages can be added using the parameters \"4\", \"5\", \"6\", etc.",
+			"type": "wiki-page-name",
+			"required": false
+		},
+		"4": {
+			"label": "Page 4",
+			"description": "The name of the fourth page that you want to link to.",
+			"type": "wiki-page-name"
+		},
+		"5": {
+			"label": "Page 5",
+			"description": "The name of the fifth page that you want to link to.",
+			"type": "wiki-page-name"
+		},
+		"6": {
+			"label": "Page 6",
+			"description": "The name of the sixth page that you want to link to.",
+			"type": "wiki-page-name"
+		},
+		"selfref": {
+			"type": "line",
+			"label": "Self reference",
+			"description": "Set to \"yes\" if the template is a self-reference to Wikipedia that would not make sense on mirrors or forks of the Wikipedia site."
+		},
+		"category": {
+			"label": "Category",
+			"description": "Set to \"no\", \"n\", \"false\", or \"0\" to suppresses the error tracking category (Category:Hatnote templates with errors). This only has an effect if no page names are specified."
+		},
+		"label1": {
+			"aliases": [
+				"label 1",
+				"l1"
+			],
+			"label": "Label 1",
+			"description": "The displayed label of the first page link",
+			"type": "string"
+		},
+		"label2": {
+			"aliases": [
+				"label 2",
+				"l2"
+			],
+			"label": "Label 2",
+			"description": "The displayed label of the second page link",
+			"type": "string"
+		},
+		"label3": {
+			"aliases": [
+				"label 3",
+				"l3"
+			],
+			"label": "Label 3",
+			"description": "The displayed label for the third page link. Labels for further pages can be added using the parameters \"label4\", \"label5\", \"label6\", etc.",
+			"type": "string"
+		},
+		"topic": {
+			"label": "Topic",
+			"description": "The name of the topic",
+			"type": "line"
+		},
+		"label4": {
+			"aliases": [
+				"label 4",
+				"l4"
+			],
+			"label": "Label 4",
+			"description": "The displayed label for the fourth page link.",
+			"type": "string"
+		},
+		"label5": {
+			"aliases": [
+				"label 5",
+				"l5"
+			],
+			"label": "Label 5",
+			"description": "The displayed label for the fifth page link.",
+			"type": "string"
+		},
+		"label6": {
+			"aliases": [
+				"label 6",
+				"l6"
+			],
+			"label": "Label 6",
+			"description": "The displayed label for the sixth page link.",
+			"type": "string"
+		}
+	},
+	"paramOrder": [
+		"1",
+		"2",
+		"3",
+		"4",
+		"5",
+		"6",
+		"selfref",
+		"category",
+		"label1",
+		"label2",
+		"label3",
+		"label4",
+		"label5",
+		"label6",
+		"topic"
+	]
+}
+</templatedata>
+{{Collapse bottom}}
+
+== See also ==
+* {{tl|Further-text}}
+* {{tl|Excerpt}}, which allows transclusion of text (such as an intro section) from one article into another
+* {{Tl|Broader}}
+* {{Tl|Main}}
+
+{{Hatnote templates}}
+<includeonly>{{Sandbox other||
+<!-- Categories go here and interwikis go in Wikidata. -->
+[[Category:Wikipedia page-section templates]]
+[[Category:Hatnote templates]]
+[[Category:Variadic templates]]
+
+}}</includeonly>

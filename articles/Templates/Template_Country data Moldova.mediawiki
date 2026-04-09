@@ -1,0 +1,33 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Moldova
+| flag alias = Flag of Moldova.svg
+| flag alias-1346 = Flag of Moldavia.svg
+| flag alias-1917 = Flag of the Moldavian Democratic Republic.svg
+| flag alias-1925 = Flag of Moldavian Autonomous Soviet Socialist Republic (1925-1932).svg
+| flag alias-1937 = Flag of Moldavian Autonomous Soviet Socialist Republic (1937-1938).svg
+| flag alias-1938 = Flag of Moldavian Autonomous Soviet Socialist Republic.svg
+| flag alias-1940 = Flag of the Moldavian Soviet Socialist Republic (1941-1952).svg
+| flag alias-1952 = Flag of Moldavian SSR.svg
+| flag alias-1990 = Flag of Moldova (1990–2010).svg
+| flag alias-army = Flag of the Armed Forces of Moldova.svg
+| link alias-army = Moldovan Ground Forces
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+|var1 = 1346
+|var2 = 1917
+|var3 = 1925
+|var4 = 1937
+|var5 = 1938
+|var6 = 1940
+|var7 = 1952
+|var8 = 1990
+| redir1 = MDA
+| redir2 = Republic of Moldova
+| related1 = Moldavian SSR
+| related2 = Moldavian Democratic Republic
+| related3 = Moldavia
+</noinclude>
+}}

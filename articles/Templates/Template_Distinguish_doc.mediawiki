@@ -1,0 +1,118 @@
+{{Redirect-distinguish|Template:Confused|Template:Confused?}}
+{{Documentation subpage}}
+{{tsh|dist|ntbcw|confuse}}
+<!-- Please add categories at the bottom of this page, and interwikis at Wikidata (see Wikipedia:Wikidata) -->
+{{High-use| 65005 }}
+{{Lua|Module:distinguish}}
+
+This template produces a [[WP:HAT|hatnote]] to point out to readers, who may have misspelled their desired title, the existence of one or more pages whose title(s) is, or are, similar to the current page. It is used in cases where the distinction between the titles is generally obvious and does not need further explanation. 
+
+For cases where an explanation is required, please use the templates {{tl|For}} and {{tl|About}}. For use on category pages, the corresponding template is {{Tl|Category distinguish}}.
+
+== Usage ==
+Here is an example of its standard usage on the article about the mathematical [[Astroid]]:
+:{{demo-inline|<nowiki>{{distinguish|Asteroid}}</nowiki>}}
+
+This hatnote can be used to distinguish the topic from multiple other topics, as for [[Corundum]] or [[Bangala language]]:
+:{{demo-inline|<nowiki>{{distinguish|Carborundum|Conundrum}}</nowiki>}}
+:{{demo-inline|<nowiki>{{distinguish|Bangla language|Mbangala language|Ngala language}}</nowiki>}}
+
+The {{para|text}} parameter can be used to create customized text, in case context is required. An example is on the article [[Phobos (mythology)]], which  contains a customized hatnote to distinguish it and "[[Phoebus]]" (a redirect of [[Apollo]]). Both links lead to topics about Greek gods, so the [[WP:NCDAB|parenthetical disambiguation]] in "Phobos (mythology)" is insufficient to disambiguate the two. Since it [[WP:HNR|is typically not preferable to link a redirect]] in a hatnote,{{Clarify|reason=What is the relevant guideline? The link doesn't seem to explain. Please quote the guideline here in a footnote if possible.|date=September 2025}} the article "Apollo" is linked to directly and a short explanation fills in the necessary context:
+:{{demo-inline|<nowiki>{{distinguish|text=Phoebus, an epithet of the Greek god [[Apollo]]}}</nowiki>}}
+
+Note that a final period is automatically added at the end of the sentence, and that only one blue link is used per disambiguated topic (i.e, do not type <code><nowiki>...an [[epithet]] of the [[Greek]] god [[Apollo]].</nowiki></code>
+
+When the target is a disambiguation page, display of the parentheses may be avoided by escaping the vertical bar using the [[Help:Magic words#bang|magic word]] {{tlc|!}}: 
+:{{Tick}}{{nbsp}}{{demo-inline|<nowiki>{{distinguish|Crossfire (disambiguation){{!}}Crossfire}}</nowiki>}}
+The escape is necessary, otherwise the template will read the next text as another topic:
+:{{Cross}}{{nbsp}}{{demo-inline|<nowiki>{{distinguish|Crossfire (disambiguation)|Crossfire}}</nowiki>}}
+
+== When to use ==
+This hatnote is generally used when readers have misspelled their desired title, and the error would be apparent by simply displaying the alternative term without further explanation. For example, consider a reader looking for the punctuation mark who instead ends up at [[coma]]:
+: [[Coma]]
+: {{Distinguish|Comma}}
+
+Readers are presumed to recognize that they actually wanted ''comma'' by merely looking at the spelling, and this case generally requires no further explanation.
+
+However, {{tlx|distinguish}} is not suitable when the difference is not readily apparent without additional details. Consider a reader looking for a game they believe is named Reversi:
+: {{cross}} [[Reversi]]
+: {{Distinguish|Reversis}}
+
+In the above hatnote, it is not generally apparent how the suggested Reversis is different from Reversi, which is also a game.
+
+In this case you should use {{tlx|about}} instead of {{tlc|distinguish}}. The difference is to provide explanation upfront without requiring the reader to click through and differentiate the terms on their own.
+: {{tick}} [[Reversi]]
+: {{hatnote|This article is about the board game. For the card game, see [[Reversis]].}}<!-- Using a custom {{hatnote}} because {{about}} automatically detects the page type so it would replace "article" with "template". -->
+
+{{tlc|Distinguish}} should only be used when the ambiguity exists for a portion of the readership that is sufficient to warrant a hatnote. Care should be taken to [[WP:TRHAT|avoid trivial uses]].
+
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Name of article",
+			"description": "Name of article that you want to link to",
+			"type": "wiki-page-name",
+                        "suggested": true
+		},
+		"2": {
+			"label": "Optional additional article to link (2)",
+			"description": "Optional additional article to link",
+			"type": "wiki-page-name"
+		},
+		"3": {
+			"label": "Optional additional article to link (3)",
+			"description": "Optional additional article to link",
+			"type": "wiki-page-name"
+		},
+		"4": {
+			"label": "Optional additional article to link (4)",
+			"description": "Optional additional article to link",
+			"type": "wiki-page-name"
+		},
+        "text": {
+            "label": "Custom text",
+            "description": "Custom message in wikitext; e.g. \"[[foo]] and [[Bar (computer science)|bar]]\" produces \"Not to be confused with [[foo]] and [[Bar (computer science)|bar]].\"",
+            "type": "string"
+        },
+        "selfref": {
+            "label": "Self reference",
+            "description": "If set, marks note as being a self reference, to not be shown when content is reused",
+            "type": "boolean"
+        }
+
+	},
+	"description": "A hatnote used when there is an ambiguity in an article's title.",
+	"paramOrder": [
+		"1",
+		"2",
+		"3",
+		"4",
+                "text",
+                "selfref"
+	],
+	"format": "inline"
+}
+</templatedata>
+
+== Redirects ==
+* {{tl|Confused}}
+* {{tl|Confuse}}
+* {{tl|Misspelling}}
+* {{tl|Nottobeconfusedwith}}
+* {{tl|Ntbcw}}
+
+== See also ==
+* {{tl|About}}
+* {{tl|Category distinguish}}
+* {{tl|For}}
+* {{tl|Redirect}}
+* {{tl|R from misspelling}}
+
+{{Hatnote templates}}
+<includeonly>{{sandbox other||
+<!-- Add categories below this line, and interwikis at Wikidata -->
+[[Category:Disambiguation and redirection hatnote templates]]
+}}</includeonly>

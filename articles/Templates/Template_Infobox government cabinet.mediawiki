@@ -1,0 +1,119 @@
+{{infobox
+| bodystyle = width:auto; max-width:30em
+| abovestyle  = background-color: #ededed;
+| above       = <includeonly><div class="fn org">{{{cabinet_name|{{PAGENAMEBASE}}}}}</div></includeonly>
+
+| subheaderstyle1 = font-weight:bold;
+| subheader1 = {{br separated entries
+ | 1 = {{#invoke:InfoboxImage|InfoboxImage|image={{{flag|}}}|border={{yesno-yes|{{{flag_border|}}}}}|size={{{flag_width|}}}|sizedefault=50px}}
+ | 2 = {{#if:{{{jurisdiction|}}}|{{{cabinet_number|}}} {{Link if exists|{{if empty|{{{cabinet_type|}}}|Cabinet}} of {{CountryPrefixThe|{{{jurisdiction}}}}}}}}}
+ }}
+
+| subheaderstyle2 = background-color: #efefef; font-weight:bold;
+| subheader2 = {{{incumbent|}}}
+
+| headerstyle = background-color: #efefef
+
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=300x200px|alt={{{alt|}}}}} {{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|size={{{image_size2|}}}|sizedefault=300x200px|alt={{{alt2|}}}}} {{#invoke:InfoboxImage|InfoboxImage|image={{{image3|}}}|size={{{image_size3|}}}|sizedefault=100px|alt={{{alt3|}}}}} {{#invoke:InfoboxImage|InfoboxImage|image={{{image4|}}}|size={{{image_size4|}}}|sizedefault=100px|alt={{{alt4|}}}}}
+| caption    = {{{caption|}}}
+
+| label1 = Date formed
+| data1 = {{{date_formed|}}}
+
+| label2 = Date dissolved
+| data2 = {{{date_dissolved|}}}
+
+| header3 = {{#if:{{{government_head|}}}{{{government_head_history|}}}{{{deputy_government_head|}}}{{{state_head|}}}{{{current_number|}}}{{{former_members_number|}}}{{{total_number|}}}{{{political_party|}}}{{{legislature_status|}}}{{{opposition_cabinet|}}}{{{opposition_party|}}}{{{opposition_leader|}}}|People and {{engvar |defaultWord=organisations |defaultLang=en-UK |en-US=organizations |en-CA=organizations |engvar={{{engvar|{{{jurisdiction|}}}}}}}}}}
+
+
+| label4 = {{#if:{{{state_head_title|}}}|{{{state_head_title}}}|Head of state}}
+| data4 = {{{state_head|}}}
+
+| label5 = {{#if:{{{governor_title|}}}|{{{governor_title}}}|Governor}}
+| data5 =  {{{governor|}}}
+
+| label6 = {{#if:{{{governor_general_title|}}}|{{{governor_general_title}}}|Governor-General}}
+| data6 =  {{{governor_general|}}}
+
+| label7 = {{#if:{{{represented_by_title|}}}|{{{represented_by_title}}}|Represented by}}
+| data7 =  {{{represented_by|}}}
+
+| label8 = {{#if:{{{government_head_title|}}}|{{{government_head_title}}}|Head of government}}
+| data8 = {{{government_head|}}}
+
+| label9 = {{#if:{{{government_head_title|}}}|{{{government_head_title}}}|Head of government}}'s history
+| data9 = {{{government_head_history|}}}
+
+| label10 = {{#if:{{{deputy_government_head_title|}}}|{{{deputy_government_head_title}}}|Deputy {{#if:{{{government_head_title|}}}|{{{government_head_title}}}|head of government}}}}
+| data10 = {{{deputy_government_head|}}}
+
+| label11 = {{{other_government_minister_title|}}}
+| data11 = {{{other_government_minister|}}}
+
+| label12 = {{abbr|No.|Number}} of ministers
+| data12 = {{{members_number|{{{current_number|}}}}}}
+
+| label13 = Ministers removed
+| data13 ={{br separated entries
+  | 1 = {{#if:{{{former_members_number|}}}|{{{former_members_number|}}}}}
+  | 2 = {{#if:{{{former_members_resigned|}}}|{{{former_members_resigned|}}} resigned }}
+  | 3 = {{#if:{{{former_members_dismissed|}}}|{{{former_members_dismissed|}}} dismissed }}
+  | 4 = {{#if:{{{former_members_died|}}}|{{{former_members_died|}}} died }}
+  | 5 = {{#if:{{{former_members_other|}}}|{{{former_members_other|}}} left for other reasons }}
+}}
+
+| label14 = Total {{abbr|no.|number}} of members
+| data14 = {{{total_number|}}}
+
+| label15 = {{#if:{{{political_party|}}}|Member party|Member parties}}
+| data15 = {{#if:{{{political_party|}}}|{{{political_party}}}|{{{political_parties|}}}}}
+
+| label16 = Status in legislature
+| data16 = {{{legislature_status|}}}
+
+| label17 = Opposition cabinet
+| data17 = {{{opposition_cabinet|}}}
+
+| label18 = {{#if:{{{opposition_party|}}}|Opposition party|Opposition parties}}
+| data18 = {{#if:{{{opposition_party|}}}|{{{opposition_party}}}|{{{opposition_parties|}}}}}
+
+| label19 = {{#if:{{{opposition_leader|}}}|Opposition leader|Opposition leaders}}
+| data19 = {{#if:{{{opposition_leader|}}}|{{{opposition_leader}}}|{{{opposition_leaders|}}}}}
+
+| header20 = {{#if:{{{election|}}}{{{last_election|}}}{{{legislature_term|}}}{{{budget|}}}{{{advice_and_consent1|}}}{{{advice_and_consent2|}}}{{{advice_and_consent3|}}}{{{advice_and_consent4|}}}{{{advice_and_consent5|}}}{{{incoming_formation|}}}{{{outgoing_formation|}}}{{{previous|{{{predecessor|}}}}}}{{{successor|}}}|History}}
+
+| label21 = Election(s)
+| data21 = {{{election|}}}
+
+| label22 = Outgoing election
+| data22 = {{{last_election|}}}
+
+| label23 = Legislature term(s)
+| data23 = {{{legislature_term|}}}
+
+| label24 = Budget(s)
+| data24 = {{{budget|}}}
+
+| label25 = Advice and consent
+| data25 = {{br separated entries
+ | 1 = {{{advice_and_consent1|}}}
+ | 2 = {{{advice_and_consent2|}}}
+ | 3 = {{{advice_and_consent3|}}}
+ | 4 = {{{advice_and_consent4|}}}
+ | 5 = {{{advice_and_consent5|}}}
+ }}
+
+| label26 = Incoming formation
+| data26 = {{{incoming_formation|}}}
+
+| label27 = Outgoing formation
+| data27 = {{{outgoing_formation|}}}
+
+| label28 = Predecessor
+| data28 = {{{previous|{{{predecessor|}}}}}}
+
+| label29 = Successor
+| data29 = {{{successor|}}}
+}}{{#if:{{{cabinet_number|}}}|{{#if:{{{jurisdiction|}}}||{{main other|[[Category:Pages using infobox government cabinet with number and without jurisdiction]]}}}}}}{{#if:{{{government_head_history|}}}|{{main other|[[Category:Pages using infobox government cabinet with government_head_history]]}}}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox government cabinet with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox government cabinet]] with unknown parameter "_VALUE_"|ignoreblank=y| advice_and_consent1 | advice_and_consent2 | advice_and_consent3 | advice_and_consent4 | advice_and_consent5 | alt | alt2 | alt3 | alt4 | budget | cabinet_name | cabinet_number | cabinet_type | caption | current_number | date_dissolved | date_formed | deputy_government_head | deputy_government_head_title | election | engvar | flag | flag_border | flag_width | former_members_died | former_members_dismissed | former_members_number | former_members_other | former_members_resigned | government_head | government_head_history | government_head_title | governor | governor_general | governor_general_title | governor_title | image | image_size | image_size2 | image_size3 | image_size4 | image2 | image3 | image4 | incoming_formation | incumbent | jurisdiction | last_election | legislature_status | legislature_term | members_number | opposition_cabinet | opposition_leader | opposition_leaders | opposition_parties | opposition_party | other_government_minister | other_government_minister_title | outgoing_formation | political_parties | political_party | predecessor | previous | represented_by | represented_by_title | state_head | state_head_title | successor | total_number }}<noinclude>
+{{documentation}}
+</noinclude>

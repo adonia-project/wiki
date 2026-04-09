@@ -1,0 +1,101 @@
+{{#switch:{{lc:{{{1}}}}}
+|vertical exclusive
+|vertical inapplicable
+|vertical normal
+|vertical rotated
+|vertical unknown
+|authorised
+|equal
+|mirror
+|no reverse info=[[File:IFIS {{{1}}}.svg|class=noviewer skin-invert|{{#switch:{{{1|}}}
+|Authorised=Design officially authorized to represent nation by government of that nation
+|Mirror=Reverse side is mirror image of obverse side
+|Equal=Reverse side is congruent with obverse side
+|No reverse info=Information on reverse side is not available
+|Vertical normal=Flag can be hung vertically by hoisting on a normal pole, then turning the pole 90°
+|Vertical rotated=Flag can be hung vertically by rotating the design first
+|Vertical unknown=Vertical hoist method of flag is unknown
+|Vertical inapplicable=Design has no element that can be rotated
+|Vertical exclusive=Flag can be hoisted vertically only
+}}]]
+|#default = [[File:FIAV {{lc:{{{1}}}}}.svg|x15px|class=noviewer skin-invert<!--|link=adding "Vexillological symbol" here breaks tooltip on mouse hover due to "Page previews" extension (visible only when viewing anonymously)-->|alt=Small  vexillological symbol or pictogram in black and white showing the different uses of the flag|{{#switch:{{{1|}}}
+|000000 = Vexillological symbol
+|100000 = Civil flag
+|111000 = National flag
+|010000 = State flag
+|000111 = National ensign
+|001000 = War flag
+|011001 = State and war flag, war ensign
+|000100 = Civil ensign
+|010101 = State flag, civil and war ensign
+|000010 = State ensign
+|110110 = Civil and state flags and ensigns
+|000001 = War ensign
+|011011 = State and war flags and ensigns
+|110000 = Civil and state flag
+|111100 = National flag and civil ensign
+|011000 = State and war flag
+|111010 = National flag and state ensign
+|000110 = Civil and state ensign
+|111110 = National flag, civil and state ensign
+|100100 = Civil flag and ensign
+|011111 = State and war flag, national ensign
+|010010 = State flag and ensign
+|110111 = Civil and state flag, national ensign
+|001001 = War flag and ensign
+|111111 = National flag and ensign
+|000011 = State and war ensign
+|000101 = Civil and war ensign
+|001010 = War flag, state ensign
+|001011 = War flag, state and war ensign
+|001100 = War flag, civil ensign
+|001101 = War flag, civil and war ensign
+|001110 = War flag, civil and state ensign
+|001111 = War flag, national ensign
+|010001 = State flag, war ensign
+|010011 = State flag, state and war ensign
+|010100 = State flag, civil ensign
+|010110 = State flag, state and civil ensign
+|010111 = State flag, national ensign
+|011010 = State flag and ensign, war flag
+|011100 = State and war flag, civil ensign
+|011101 = State and war flag, civil and war ensign
+|011110 = State and war flag, civil and state ensign
+|100001 = Civil flag, war ensign
+|100010 = Civil flag, state ensign
+|100011 = Civil flag, state and war ensign
+|100101 = Civil flag, civil and war ensign
+|100110 = Civil flag, civil and state ensign
+|100111 = Civil flag, national ensign
+|101000 = Civil and war flag
+|101001 = Civil and war flag, war ensign
+|101010 = Civil and war flag, state ensign
+|101011 = Civil and war flag, state and war ensign
+|101100 = Civil and war flag, civil ensign
+|101101 = Civil and war flags and ensigns
+|101110 = Civil and war flag, civil and state ensign
+|101111 = Civil and war flag, national ensign
+|110001 = Civil and state flag, war ensign
+|110010 = Civil and state flag, state ensign
+|110011 = Civil and state flag, state and war ensign
+|110100 = Civil and state flag, civil ensign
+|110101 = Civil and state flag, civil and war ensign
+|111001 = National flag, war ensign
+|111011 = National flag, state and war ensign
+|111101 = National flag, civil and war ensign
+|noflag = Flag is not authorized to represent the group or country
+|normal = Normal or de jure version of flag, or obverse side
+|proposal = Design was proposed in the past, but never officially adopted
+|reconstructed = Design is a reconstruction, based on past observations
+|reverse = Reverse side of flag
+|variant = Design is an acceptable variant
+|alternate = Alternate version of flag
+|defacto = De facto version of flag
+|twosided = Flag has different designs on its obverse side and its reverse side
+|sinister = Obverse side meant to be hoisted with pole to the observer's right
+|historical = Design used in the past, but now abandoned
+|#default = Vexillological description
+}}]]}}<noinclude>
+{{Documentation}}
+<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

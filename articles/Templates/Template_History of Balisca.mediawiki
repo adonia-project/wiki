@@ -1,0 +1,97 @@
+{{sidebar with collapsible lists
+| name = History of Balisca
+| bodyclass = vcard plainlist
+| wraplinks = true
+| title = {{region history sidebar title
+ | country = Balisca
+ | image = [[File:Baliscan Atlas.jpg|220px|Balisca, from Atlas Van der Hagen]]
+}}
+
+|listtitlestyle = background:#eee;padding-left:0.5em;
+|liststyle = text-align:center;
+
+| content1style = border-top:#aaa 1px solid; border-bottom:#aaa 1px solid;
+| content1 = '''[[Timeline of Balisca history|Timeline]]'''
+
+|list2name = Early
+|list2title = Early history
+|list2 =
+* [[Pindorama]]
+* [[w:Tupi people|Tupi people]]
+* [[Indigenous peoples in Balisca|Indigenous peoples]]
+
+|list3name = Colonial
+|list3title = Colonial times
+|list3 =
+* [[Crown of Volisania|Volisanian exploration]]
+* [[Colonial Balisca|Colonization]]
+* [[Hesperian League]]
+* [[Maroon Wars]]
+
+|list4name = Nation-building
+|list4title = Nation-building
+|list4 =
+* [[Volisanian Civil War]]
+* [[Volisanya Boba]]
+* [[Baliscan War of Independence|War of Independence]]
+* [[Confederal Question]]
+* [[Maroon resettlement]]
+* [[Pastry War]]
+* [[Baliscan Civil War| Civil war (1827–1837)]]
+
+|list5name = Reconstruction
+|list5title = Reconstruction period
+|list5 =
+* [[Anyos Federales]]
+* [[Cosmocazo]]
+
+|list6name = Cantonalism
+|list6title = Cantonal period
+|list6 =
+* [[Cantonal Revolution]]
+* [[1883 Confederal Convention]]
+* [[Indigenous nations in Balisca|Indigenous nations]]
+
+|list7name = Internationalism
+|list7title = Internationalist period
+|list7 =
+* [[Baliscan Revolution]]
+* [[Processo Revolucionario en Curso]]
+* [[Baliscan post-revolution exodus]]
+* [[Accelerationism]]
+* [[Estado Nuevo]]
+* [[Balisca in the Great Adonian War]]
+* [[Baliscan miracle]]
+* [[Camboriú War]]
+* [[Special Period]]
+* [[Desconexión]]
+
+|list8name = Contemporary
+|list8title = Contemporary
+|list8 =
+* {{W|COVID-19 in South America}}
+* [[2021 Baliscan civil unrest|Social Revolution]]
+* [[Politics of Balisca]]
+
+|list10name = Related
+|list10title = Related topics
+|list10 =
+* [[Economy of Balisca|Economic history]]
+* [[Maritime history of Balisca|Maritime history]]
+* [[List of wars involving Balisca|Baliscan wars]]
+* [[List of major political scandals in Balisca|Political scandals]]
+
+| content10style = border-top:#aaa 1px solid; border-bottom:#aaa 1px solid;
+| content10 = '''[[Timeline of Baliscan history|Timeline]]''' 
+
+| belowstyle = border-top:1px solid #aaa; border-bottom:1px solid #aaa
+| below = {{hlist|''{{Portal-inline|Balisca|size=tiny}}''|''{{portal-inline|History|size=tiny}}''}}
+
+}}<noinclude>
+{{clear}}
+
+== See also ==
+[[Category:Balisca sidebar templates|History]]
+[[Category:History sidebar templates by country|Balisca]]
+
+</noinclude>

@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Malawi
+| flag alias = Flag of Malawi.svg<noinclude>
+<!-- 1964 variant identical to current flag: | flag alias-1964 = Flag of Malawi 1964-2010.svg --></noinclude>
+| flag alias-2010 = Flag of Malawi (2010–2012).svg
+| link alias-army = Malawian Defence Force{{!}}Malawi Army
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 2010
+| redir1 = MWI
+| redir2 = MAW
+</noinclude>
+}}

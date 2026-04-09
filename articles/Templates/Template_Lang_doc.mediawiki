@@ -1,0 +1,500 @@
+{{High-use}}
+{{COinS safe|n}}
+{{Documentation subpage}}
+{{Lua|Module:Lang}}
+{{Language templates}}
+
+The purpose of this template is to indicate that a piece of text belongs to a particular language other than that of the page as a whole (by default, English, on this Wikipedia). It can be used inline, or around block-level elements such as <code><nowiki><poem></nowiki></code>, paragraphs, lists, or divs.
+
+The template italicises the text by default (this can be suppressed, and does not apply to certain scripts) and can prompt [[web browser]]s to use a more appropriate font or screen readers to use a particular kind of pronunciation and so on. See {{section link||Rationale}} for more information.
+
+== Syntax and usage ==
+
+{{in5}}{{tlx|lang|{{var|language tag}}|{{var|text}}}}
+
+The {{var|language tag}} should consist of an [[ISO-639]] language code. See the [[List of ISO 639-1 codes|list of ISO 639-1 codes]] for two-letter codes; if you don't find the language you seek, then refer to the [[List of ISO 639-3 codes|list of ISO 639-3 codes]].
+
+The template also supports properly formatted [[IETF language tag]]s using subtags that identify the language's script, region, and/or variant. The ISO 639 language code is a two- or three-letter abbreviation, in lowercase, of the language's name. French, for example, has the code <code>fr</code>:
+
+* <code><nowiki>She said: "{{lang|fr|Je suis française.}}"</nowiki></code> → She said: "{{lang|fr|Je suis française.}}"
+
+Because all languages represented by two-letter codes in [[ISO 639-1]] can also be represented by their three-letter equivalents in [[ISO 639-2]] and above, it is recommended to use the shortest language tag possible that sufficiently describes the target language.<ref>[https://www.w3.org/International/articles/language-tags/index.en "Language tags in HTML and XML"] at [[World Wide Web Consortium]]</ref> So while French could be represented by ISO 639-2's <code>fra</code> code, use the ISO 639-1 code <code>fr</code> instead. Likewise, script, region, and variant information should be included only when they provide a necessary distinction. For an up-to-date list of available language, script, region, and variant codes, please refer to the [[Internet Assigned Numbers Authority|IANA]]'s [http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry language subtag registry].
+
+By default, this template will place articles into the relevant subcategory of {{category link|Articles containing non-English-language text}}. To suppress this – e.g. when using {{tlf|lang}} within a [[Help:Link#Wikilinks|wikilink]] or the ''title'' parameter of a citation – add the parameter {{para|cat|no}}.
+
+=== Formatting ===
+==== Automatic italics ====
+{{tld|lang}} automatically applies italic styling <span style="font-weight: normal;">when the text in <code><nowiki>{{{2}}}</nowiki></code> is written entirely in the <code>Latn</code> script (the Latin alphabet and its extensions), either when that is the default encoding for the language or when it is triggered by a <code>{{var|xx}}-Latn</code> language code{{colon}}</span>
+* <code><nowiki>{{lang|fr|Je suis française.}}</nowiki></code> → {{lang|fr|Je suis française.}}
+* <code><nowiki>''{{lang|fr|Je suis française.}}''</nowiki></code> → ''{{lang|fr|Je suis française.}}'' – external markup is ignored
+* <code><nowiki>{{lang|he-Latn|la'az}} ({{lang|he|לעז}})</nowiki></code> → {{lang|he-Latn|la'az}} ({{lang|he|לעז}})
+* <code><nowiki>''{{lang|he-Latn|la'az}}''</nowiki> ({{!mxt|<nowiki>''{{lang|he|לעז}}''</nowiki>}})</code> → ''{{lang|he-Latn|la'az}}'' ({{!mxt|''{{lang|he|לעז}}''}}) – external markup is ignored around the <code>he-Latn</code> text, but will incorrectly italicize the Hebrew-character material.
+
+When <code>Latn</code> script should not be italicized, there are multiple approaches{{colon}}
+{{para|italic|no}} <span style="font-weight: normal;">– renders <code><nowiki>{{{2}}}</nowiki></code> in upright font; italic markup around the template is ignored; italic markup inside the template causes an error message{{colon}}</span>
+* <code><nowiki>{{lang|fr|Je suis française.|italic=no}}</nowiki></code> → {{lang|fr|Je suis française.|italic=no}}
+* <code><nowiki>''{{lang|fr|Je suis française.|italic=no}}''</nowiki></code> → ''{{lang|fr|Je suis française.|italic=no}}''
+* <code><nowiki>''{{lang|fr|Je suis ''française''.|italic=no}}''</nowiki></code> → ''{{lang|fr|Je suis ''française''.|italic=no|cat=no}}'' – italic markup in conflict with {{para|italic|no}}
+
+{{para|italic|unset}} <span style="font-weight: normal;">– disables template-provided styling; <code><nowiki>{{{2}}}</nowiki></code> is styled according to external or internal wiki markup{{colon}}</span>
+* <code><nowiki>{{lang|fr|Je suis française.|italic=unset}}</nowiki></code> → {{lang|fr|Je suis française.|italic=unset}}
+* <code><nowiki>''{{lang|fr|Je suis française.|italic=unset}}''</nowiki></code> → ''{{lang|fr|Je suis française.|italic=unset}}''
+* <code><nowiki>{{lang|fr|''Je suis'' English.|italic=unset}}</nowiki></code> → {{lang|fr|''Je suis'' English.|italic=unset}}
+
+{{tlx|noitalic}} <span style="font-weight: normal;">can also be used{{colon}}</span>
+* <code><nowiki>{{lang|fr|Je suis {{noitalic|English}}.}}</nowiki></code> → {{lang|fr|Je suis {{noitalic|English}}.}}
+{{hatnote|{{crossreference|See table "[[#italic parameter|lang {{!}}italic{{=}} parameter operation]]".}}}}
+
+==== Prefixed language template ====
+There is a version of this template, {{tl|langx}}, which is intended to be used the first time a language appears in an article. These templates will print the language's name and, when appropriate, italicize their content:
+
+* <code><nowiki>A '''kremlin''' ({{langx|ru|кремль}}, 'castle') is a major fortified central complex ...</nowiki></code> → A '''kremlin''' ({{langx|ru|кремль}}, 'castle') is a major fortified central complex ...
+
+While the {{tnull|langx}} template outputs text in italics for languages with Latin-based scripts, if plain text is required, such as for proper names, {{para|italic|no}} or {{tlx|noitalic}} may be used:
+
+* <code><nowiki>the border town of Ventimiglia ({{langx|fr|Vintimille}})</nowiki></code> → the border town of Ventimiglia ({{langx|fr|Vintimille}})
+* <code><nowiki>the border town of Ventimiglia ({{langx|fr|italic=no|Vintimille}})</nowiki></code> → the border town of Ventimiglia ({{langx|fr|italic=no|Vintimille}})
+* <code><nowiki>the border town of Ventimiglia ({{langx|fr|{{noitalic|Vintimille}}}})</nowiki></code> → the border town of Ventimiglia ({{langx|fr|{{noitalic|Vintimille}}}})
+
+When formatting foreign-language text to match style guidelines, it is best to exclude the styling markup from the template, so that any extraneous markup which is not from the foreign language does not receive incorrect metadata for that language. This includes: English-language quotation marks around titles of works in languages that use other quotation character glyphs; italicization of titles in languages which do not use that convention; and emphasis that is not found (in one style or another) in the original foreign text; among other cases. If in doubt, put such markup outside the template when possible.
+
+{{See also|Wikipedia:Manual of Style/Text formatting#Foreign terms}}
+
+==== Proto languages ====
+* {{tlx|lang|cel-x-proto|kal-|_show_result=yes}}
+* {{tlx|lang|cel-x-proto|kal-|proto{{=}}no|_show_result=yes}}
+* {{tlx|langx|cel-x-proto|kal-|_show_result=yes}}
+* {{tlx|langx|cel-x-proto|kal-|proto{{=}}no|_show_result=yes}}
+* {{tlx|lang|en|accidently|_show_result=yes}}
+* {{tlx|lang|en|accidently|proto{{=}}yes|_show_result=yes}}
+
+=== Right-to-left languages ===
+
+To embed a string of right-to-left text (such as [[Arabic]] or [[Hebrew language|Hebrew]]) within the usual left-to-right context, {{para|rtl|yes}} should be added to correctly communicate writing direction. To mark a whole paragraph of right-to-left text, {{tl|rtl-para}} should be used instead.
+
+Any of these approaches will wrap the text in a container with the <code>dir="rtl"</code> attribute. In order to ensure correct rendering in browsers that do not fully support [[HTML5]] [[bidirectional text|bidirectional isolation]], a [[left-to-right mark]] is also added to the end of the text (see the [http://www.w3.org/International/articles/inline-bidi-markup W3C] for details).
+
+Note that text direction does not need to be specified when using the {{tnull|lang-{{var|xx}}}} templates, as this is implied by the template's language.
+
+== Parameters ==
+{| class="wikitable"
+|+ Lang supported parameters
+! style="width: 15%;" | Parameter
+! Definition
+! style="width: 10%;" | Yields to
+! style="width: 12%;" | Alias
+|-
+| {{para|code}} || [[IETF language tag]] for the content in <code>text</code> || – || {{para|1}}
+|-
+| {{para|text}}|| non-English text || – || {{para|2}}
+|-
+| {{para|rtl}} || <kbd>yes</kbd> indicates that the writing system used for the content in {{para|text}} is right-to-left; accepted values are: <kbd>no</kbd> (default), <kbd>yes</kbd> || IETF script subtag in {{para|code}} (if provided) ||
+|-
+| {{para|italic}} || {{crossref|see table "lang {{pipe}}italic{{=}} parameter operation"}}; accepted values are: <kbd>yes</kbd>, <kbd>no</kbd>, <kbd>unset</kbd>, <kbd>invert</kbd>, <kbd>default</kbd> || – || {{para|italics}}, {{para|i}}
+|-
+| {{para|size}}|| specifies font size of the content in <code>text</code>; use a value suitable for use with the CSS <code>font-size</code> property; this should almost always be a relative value supplied in <kbd>{{mxt|%}}</kbd> or <kbd>{{mxt|em}}</kbd> units, not a fixed <kbd>{{!mxt|px}}</kbd> value. || – ||
+|-
+| {{para|proto}} || accepted values are: <kbd>no</kbd> (default) or <kbd>yes</kbd> (default for private-use language tags with the <kbd>-x-proto</kbd> subtags); when <kbd>yes</kbd> (default or explicit), prefixes rendered text with an asterisk indicating 'unattested' || – || 
+|-
+| {{para|cat}} || inhibits automatic categorization; mirror version of {{para|nocat}}; accepted values are: <kbd>no</kbd>, <kbd>n</kbd>, <kbd>false</kbd>, <kbd>f</kbd>, <kbd>off</kbd>, <kbd>0</kbd> || – ||
+|-
+| {{para|nocat}} || inhibits automatic categorization; mirror version of {{para|cat}}; accepted values are: <kbd>yes</kbd>, <kbd>y</kbd>, <kbd>true</kbd>, <kbd>t</kbd>, <kbd>on</kbd>, <kbd>1</kbd> || – ||
+|-
+|}
+
+{| class="wikitable" id="italic parameter"
+|+ Langx {{pipe}}italic= parameter operation
+|-
+! {{pipe}}italic= value !! description !! example code !! result !! html markup
+|-
+| rowspan="4" | {{Plainlist|
+* parameter not present;
+* parameter present, not set;
+* invalid value
+}}
+| rowspan="7" | {{Plainlist|
+* module applies style from:
+* &nbsp;&nbsp;auto-italics or
+* &nbsp;&nbsp;script subtag <code>latn</code>;
+* else inherits from external markup;
+* invalid values treated as default
+}}
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru|тундра}}</syntaxhighlight>
+| {{lang|ru|тундра}}
+| {{code|{{lang|ru|тундра}}}}
+|-
+| <code>{{deprecated code|red=yes|<nowiki>{{lang|ru|tûndra}}</nowiki>}}</code>
+| {{lang|ru|tûndra}}
+| {{code|{{lang|ru|tûndra}}}}<br />Incorrect markup; this requires {{para||ru-Latn}}.
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|fr|toundra}}</syntaxhighlight>
+| {{lang|fr|toundra}}
+| {{code|{{lang|fr|toundra}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru-Latn|tûndra}}</syntaxhighlight>
+| {{lang|ru-Latn|tûndra}}
+| {{code|{{lang|ru-Latn|tûndra}}}}
+|-
+| rowspan="3" | <kbd>default</kbd>
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru|тундра|italic=default}}</syntaxhighlight>
+| {{lang|ru|тундра|italic=default}}
+| {{code|{{lang|ru|тундра|italic=default}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|fr|toundra|italic=default}}</syntaxhighlight>
+| {{lang|fr|toundra|italic=default}}
+| {{code|{{lang|fr|toundra|italic=default}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru-Latn|tûndra|italic=default}}</syntaxhighlight>
+| {{lang|ru-Latn|tûndra|italic=default}}
+| {{code|{{lang|ru-Latn|tûndra|italic=default}}}}
+|-
+| rowspan="4" | <kbd>no</kbd>
+| rowspan="4" | {{Plainlist|
+* module applies upright style;
+* overrides auto-italics
+* overrides script subtag <code>latn</code>;
+* overrides external markup
+}}
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru|тундра|italic=no}}</syntaxhighlight> || {{lang|ru|тундра|italic=no}} || {{code|{{lang|ru|тундра|italic=no}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|fr|toundra|italic=no}}</syntaxhighlight> || {{lang|fr|toundra|italic=no}} || {{code|{{lang|fr|toundra|italic=no}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru-Latn|tûndra|italic=no}}</syntaxhighlight> || {{lang|ru-Latn|tûndra|italic=no}} || {{code|{{lang|ru-Latn|tûndra|italic=no}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">''{{lang|fr|toundra|italic=no}}''</syntaxhighlight> || ''{{lang|fr|toundra|italic=no}}'' || {{code|''{{lang|fr|toundra|italic=no}}''}}
+|-
+| rowspan="2" | <kbd>yes</kbd>
+| rowspan="2" | {{Plainlist|
+* module applies italic style;
+* ignores auto-italics;
+* ignores script subtag <code>latn</code>
+}}
+| <code>{{deprecated code|red=yes|<nowiki>{{lang|ru|тундра|italic=yes}}</nowiki>}}</code>
+| {{lang|ru|тундра|italic=yes}}
+| {{code|{{lang|ru|тундра|italic=yes}}}} Incorrect markup per [[MOS:BADITALICS]].
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru-Latn|tûndra|italic=yes}}</syntaxhighlight>
+| {{lang|ru-Latn|tûndra|italic=yes}}
+| {{code|{{lang|ru-Latn|tûndra|italic=yes}}}}
+|-
+| rowspan="4"| <kbd>unset</kbd>
+| rowspan="4" | {{Plainlist|
+* module applies no style;
+* inherits style from external markup;
+* disables auto-italics
+* overrides script subtag <code>latn</code>;
+}}
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru|тундра|italic=unset}}</syntaxhighlight>
+| {{lang|ru|тундра|italic=unset}}
+| {{code|{{lang|ru|тундра|italic=unset}}}}
+|-
+| <code>{{deprecated code|red=yes|<nowiki>''{{lang|ru|тундра|italic=unset}}''</nowiki>}}</code>
+| ''{{lang|ru|тундра|italic=unset}}''
+| {{code|''{{lang|ru|тундра|italic=unset}}''}} Incorrect markup per [[MOS:BADITALICS]].
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru-Latn|tûndra|italic=unset}}</syntaxhighlight>
+| {{lang|ru-Latn|tûndra|italic=unset}}
+| {{code|{{lang|ru-Latn|tûndra|italic=unset}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">''{{lang|ru-Latn|tûndra|italic=unset}}''</syntaxhighlight>
+| ''{{lang|ru-Latn|tûndra|italic=unset}}''
+| {{code|''{{lang|ru-Latn|tûndra|italic=unset}}''}}
+|-
+| rowspan="4" | <kbd>invert</kbd>
+| rowspan="4" | {{Plainlist|
+* module applies no style;
+* inverts style in internal markup;{{efn|name=invertunset}}
+* disables auto-italics
+* overrides script subtag <code>latn</code>;
+}}
+| <code>{{deprecated code|red=yes|<nowiki>{{lang|ru|тундра|italic=invert}}</nowiki>}}</code>
+| {{lang|ru|тундра|italic=invert}}
+| {{code|{{lang|ru|тундра|italic=invert}}}} Incorrect markup per [[MOS:BADITALICS]].
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru|''тундра''|italic=invert}}</syntaxhighlight>
+| {{lang|ru|''тундра''|italic=invert}}
+| {{code|{{lang|ru|''тундра''|italic=invert}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru-Latn|tûndra|italic=invert}}</syntaxhighlight>
+| {{lang|ru-Latn|tûndra|italic=invert}}
+| {{code|{{lang|ru-Latn|tûndra|italic=invert}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{lang|ru-Latn|''tûndra''|italic=invert}}</syntaxhighlight>
+| {{lang|ru-Latn|''tûndra''|italic=invert}}
+| {{code|{{lang|ru-Latn|''tûndra''|italic=invert}}}}
+|-
+|}
+
+===Notes===
+{{Notelist|refs=
+{{efn|name=invertunset|compare {{para|italic|invert}} to {{para|italic|unset}}:
+:<syntaxhighlight lang="wikitext" inline="1">{{Lang|de|... ein neues Opernprojekt in Angriff: ''Das Käthchen von Heilbronn'', nach Heinrich von Kleists gleichnamigem Drama.|italic=invert}}</syntaxhighlight>
+::{{Lang|de|... ein neues Opernprojekt in Angriff: ''Das Käthchen von Heilbronn'', nach Heinrich von Kleists gleichnamigem Drama.|italic=invert}}
+:<syntaxhighlight lang="wikitext" inline="1">{{Lang|de|''... ein neues Opernprojekt in Angriff: ''Das Käthchen von Heilbronn'', nach Heinrich von Kleists gleichnamigem Drama.''|italic=unset}}</syntaxhighlight>
+::{{Lang|de|''... ein neues Opernprojekt in Angriff: ''Das Käthchen von Heilbronn'', nach Heinrich von Kleists gleichnamigem Drama.''|italic=unset}}
+}}
+}}
+
+===The function selector parameter===
+{{tlx|lang}} uses the Lua function <code>lang()</code> [[Module:Lang]]. That module also supports all of the {{tnull|lang-??}} templates using the Lua functions <code>lang_xx_inherit()</code> and <code>lang_xx_italic()</code>. The module has other functions that may be useful. The function selector parameter {{para|fn}} tells module:lang which function to execute. The available functions are:
+*<code>is_ietf_tag</code> – returns <code>true</code> if the provided [[IETF language tag]] is valid; nil else
+**<code><nowiki>{{lang|fn=is_ietf_tag|nv}}</nowiki></code> →{{lang|fn=is_ietf_tag|nv}}←
+**<code><nowiki>{{lang|fn=is_ietf_tag|xx}}</nowiki></code> →{{lang|fn=is_ietf_tag|xx}}←
+*<code>is_lang_name</code> – returns <code>true</code> if the provided language name is valid; nil else
+**<code><nowiki>{{lang|fn=is_lang_name|navajo}}</nowiki></code> →{{lang|fn=is_lang_name|navajo}}←
+**<code><nowiki>{{lang|fn=is_lang_name|xxxxx}}</nowiki></code> →{{lang|fn=is_lang_name|xxxxx}}←
+*<code>lang</code> – the function that renders {{tlx|lang}}; listed here for completeness, this particular usage is more-or-less pointless
+*<code>name_from_tag</code> – returns the language name associated with the provided IETF language tag:
+**<code><nowiki>{{lang|fn=name_from_tag|apa}}</nowiki></code> → {{lang|fn=name_from_tag|apa}}
+*<code>tag_from_name</code> – returns the ISO 639 language code (sometimes IETF language tag) associated with the provided language name:
+**<code><nowiki>{{lang|fn=tag_from_name|havasupai}}</nowiki></code> → {{lang|fn=tag_from_name|havasupai}}
+*<code>transl</code> – the function that renders {{tlx|transl}}; listed here for completeness, this particular usage is more-or-less pointless
+**<code><nowiki>{{lang|fn=transl|ar|DIN|al-Ḫawārizmī}}</nowiki></code> → {{lang|fn=transl|ar|DIN|al-Ḫawārizmī}}
+
+== Indicating writing script ==
+
+If necessary, an [[List of ISO 15924 codes|ISO 15924]] script code can be appended to a language code to indicate the use of a specific script. For instance, [[Tajik language|Tajik]] (<code>tg</code>) is a language which can be found written in [[Arabic script|Arabic]] (<code>Arab</code>), [[Latin script|Latin]] (<code>Latn</code>), and [[Cyrillic script|Cyrillic]] (<code>Cyrl</code>) scripts, making it necessary to always specify which script is in use. In such a case, taking care to preserve the script code's capitalization, we could end up with the following code (language tags in bold):
+
+* <code><nowiki>Tajik ({{lang|</nowiki>'''tg-Arab'''<nowiki>|rtl=yes|تاجیکی}}, {{lang|</nowiki>'''tg-Latn'''<nowiki>|toçikī}}, {{lang|</nowiki>'''tg-Cyrl'''<nowiki>|тоҷикӣ}})</nowiki></code>
+: Tajik ({{lang|tg-Arab|rtl=yes|تاجیکی}}, {{lang|tg-Latn|toçikī}}, {{lang|tg-Cyrl|тоҷикӣ}})
+
+Many languages, however, are so commonly written in one particular script that specifying the script is unnecessary. Russian, for instance, is almost exclusively written in Cyrillic, so there is no need to specify <code>ru-Cyrl</code>, just as <code>en-Latn</code> would be unnecessary for English. The [http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry subtag registry] contains up-to-date information on which languages have common script codes that should be "suppressed".
+
+=== Transliteration ===
+
+To mark a language which has been [[transliteration|transliterated]] from one script into another, append the new script's code to the code of the original language. So if transliterating from Russian Cyrillic to a Latin script, the language tag on the transliteration would be <code>ru-Latn</code>. If the transliteration scheme is known, and listed as a "variant" in the [http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry subtag registry], it can be appended after any script and region codes. For example, Chinese transliterated into a Latin script using the [[pinyin]] system would be <code>zh-Latn-pinyin</code>. As a convenience for transliterating to Latin scripts, and to work around browser styling issues with some language and script combinations, {{tl|transliteration}} may be used in place of {{tlf|lang}}:
+
+* <code><nowiki>Moscow ({{lang|ru|Москва}}, {{transliteration|ru|Moskva}})</nowiki></code> → Moscow ({{lang|ru|Москва}}, {{transliteration|ru|Moskva}})
+
+To specify a transliteration scheme, such as the [[ISO 9|ISO transliteration standard for Cyrillic]], use {{tlc|transliteration|ru|ISO|Moskva}}.
+
+=== Undetermined language ===
+
+The {{tlf|lang}} template is not only used to specify the language of foreign words, but can also be used to specify a single symbol or character in a script, unrelated to any specific language. Many times the character or symbol is used in several languages, but when the article refers to the [[grapheme]] itself, the [[ISO 639‑2]] language code <code>und</code>, for "Undetermined language", should be used:
+
+* <code><nowiki>The Chinese character {{lang|und-Hani|字}} has 6 strokes.</nowiki></code>
+: The Chinese character {{lang|und-Hani|字}} has 6 strokes.
+
+[[Chinese characters]] ({{aka}} ''Han characters'') have been used used to write Chinese, Japanese, Korean, Vietnamese, and [[Chinese family of scripts|numerous other languages]]. In this case the character does not represent a use specific to any language in particular. Note that the script code used is <code>Hani</code>, which specifies Chinese characters generally, as opposed to <code>Hant</code> and <code>Hans</code> for traditional or simplified characters respectively.
+
+Compare the use of {{tl|script}}:
+
+* <code><nowiki>The Chinese character {{script|Hani|字}} has 6 strokes.</nowiki></code>
+: The Chinese character {{script|Hani|字}} has 6 strokes.
+
+=== Languages with no code ===
+The code <code>mis</code>, for "Miscellaneous", to indicate any language not listed in ISO-639.
+
+== Indicating regional variant ==
+
+When it is necessary to indicate region-specific language, an [[ISO 3166-1 alpha-2]] country code, or [[UN M49]] region code, should be added to the language tag, taking care to preserve capitalization. For example, Portuguese (<code>pt</code>) as used in Brazil (<code>BR</code>) could be represented as <code>pt-BR</code>, and Spanish as used in Latin America as <code>es-419</code>.
+
+Additionally, language, script, and region codes can all appear in the same tag. For instance, the code <code>zh-Hant-TW</code> should be used for Chinese text written with [[Traditional Chinese characters|Traditional Han characters]], containing words or expressions specific to [[Taiwan]]:
+
+* <code><nowiki>Taiwan ({{lang|zh-Hant-TW|臺灣}}, {{transliteration|zh|Táiwān}})</nowiki></code>
+: Taiwan ({{lang|zh-Hant-TW|臺灣}}, {{transliteration|zh|Táiwān}})
+
+== Private-use language tags ==
+This template supports various private-use [[IETF language tag]]s. Private-use tags contain the <code>-x-</code> singleton and are used by the template to identify languages that are different, for one reason or another, from the base language identified by the ISO 639 language tag.
+{{#invoke:Lang/documentor tool|private_tags}}
+
+== Links ==
+
+{{tld|lang}} emits a language-specific category link when used in article space (one of the categories in {{cl|Articles containing non-English-language text}}).  Category wikilinks within wikilinks are not accepted by MediaWiki.
+
+This example is a simulation because {{tld|lang}} does not categorize in the Template namespace:
+:<syntaxhighlight lang="wikitext" inline="1">[[Book of hours|{{lang|de|Stundenbuch}}]]</syntaxhighlight>
+::<syntaxhighlight lang="wikitext" inline="1">[[Book of hours|<span title="German-language text"><i lang="de">Stundenbuch</i></span>[[Category:Articles containing German-language text]]]]</syntaxhighlight>
+:::<nowiki>[[Book of hours|</nowiki><span title="German-language text"><i lang="de">Stundenbuch</i></span>]]
+To create a working link, set {{para|nocat|yes}}:
+:<syntaxhighlight lang="wikitext" inline="1">[[Book of hours|{{lang|de|Stundenbuch|no-cat=yes}}]]</syntaxhighlight>
+::<syntaxhighlight lang="wikitext" inline="1">[[Book of hours|<span title="German-language text"><i lang="de">Stundenbuch</i></span>]]</syntaxhighlight>
+:::[[Book of hours|<span title="German-language text"><i lang="de">Stundenbuch</i></span>]]
+When using {{tld|lang}} with {{tlx|Interlanguage link}}, use that template's link-text parameter {{para|lt}}:
+:<syntaxhighlight lang="wikitext" inline="1">{{ill|Ehōmaki|ja|恵方巻|lt={{lang|ja-Latn|ehōmaki|nocat=yes}}}}</syntaxhighlight>
+::{{code|lang=html|{{ill|Ehōmaki|ja|恵方巻|lt={{lang|ja-Latn|ehōmaki|nocat=yes}}}}}}
+:::{{ill|Ehōmaki|ja|恵方巻|lt={{lang|ja-Latn|ehōmaki|nocat=yes}}}}
+When using {{tld|lang}} with non-English wiktionary links:
+:<syntaxhighlight lang="wikitext" inline="1">[[wikt:Κλεοπάτρα#Ancient Greek|{{lang|grc|Κλεοπάτρα|nocat=yes}}]]</syntaxhighlight>
+::{{code|lang=html|[[wikt:Κλεοπάτρα#Ancient Greek|{{lang|grc|Κλεοπάτρα|nocat=yes}}]]}}
+:::[[wikt:Κλεοπάτρα#Ancient Greek|{{lang|grc|Κλεοπάτρα|nocat=yes}}]]
+:Do not write:
+::<syntaxhighlight lang="wikitext" inline="1">{{lang|grc|[[wikt:Κλεοπάτρα#Ancient Greek|Κλεοπάτρα]]|nocat=yes}}</syntaxhighlight>
+:The words 'wikt' and 'Ancient Greek' are not Ancient Greek words so do not belong in the same markup as the Ancient Greek word {{lang|grc|Κλεοπάτρα}}.
+In general, when using {{tld|lang}} with wikilinks, markup the wikilink's display (piped) text, not the entire wikilink.
+
+== Rationale ==
+
+{{section link|Wikipedia:Manual of Style/Text formatting|Foreign terms}} requires the use of {{tl|lang}} instead of manual <nowiki>''italics''</nowiki>. This is preferred for the following reasons:
+
+* [[Web browser]]s can use the information in such [[:Category:Wikipedia multilingual support templates|multilingual support templates]] to choose an appropriate font.
+** This is great for [[CJK characters|CJK]] where a character can be given its language-specific shape but will fall back to another form if no appropriate font is found or if the preferred font lacks that character, for example because the language does not make use of that character: see {{section link|Han unification|Examples of language-dependent glyphs}} and [[User:Wikipeditor/CJK|these comparison tables with a screenshot]].
+* For [[web accessibility|accessibility]] – [[screen reader]]s need language info to speak text in the correct language – and to satisfy [[Wikipedia:Accessibility#Text|Wikipedia accessibility guidelines]].<ref>{{cite web |url=https://developer.yahoo.com/blogs/ydn/yahoo-search-results-now-natural-language-support-7318.html|title=Yahoo! search results now with natural language support |date=13 Mar 2008|first=Chris |last=Heilmann|work=[[Yahoo! Developer Network]] Blog |accessdate=28 Feb 2015|archiveurl=https://web.archive.org/web/20090125024422/http://developer.yahoo.net/blog/archives/2008/03/yahoo_search_re.html|archivedate=25 Jan 2009|url-status=dead}}</ref>
+* For [[spell checker]]s and grammar checkers, to match the text to the dictionary and syntax of the correct language.
+* To prevent the page from showing up on the [[Wikipedia:Typo Team/moss/not English]] report, which flags articles needing translation.
+* To help browsers choose appropriate [[quotation mark]]s,<ref name="qa-lang-why">{{cite web|url=http://www.w3.org/International/questions/qa-lang-why |title=Why use the language attribute?|date=18 November 2014|first= Richard |last= Ishida | publisher=World Wide Web Consortium |issue=Previously by Deborah Cawkwell, BBC World Service|accessdate=1 Mar 2015}}</ref> and make decisions about [[Hyphen|hyphenation]],<ref name="qa-lang-why"/> [[orthographic ligature|ligature]]s,<ref>{{cite web|url=http://www.w3.org/TR/css3-fonts/#font-variant-ligatures-prop|title=6.4 Ligatures: the font-variant-ligatures property|work=CSS Fonts Module Level 3 W3C Candidate Recommendation 3 October 2013}}</ref> and spacing.<ref name="qa-lang-why"/>
+* Users can apply styles to languages in their [[style sheet (web development)|style sheet]]s (useful for editors).
+* [[Web search engine|Search engine]]s can use this information when [[search engine indexing|indexing]] text.
+* Facilitates better data-scraping, parsing and reuse.
+* Useful for application developers who re-publish Wikipedia (also see {{section link|Wikipedia:Manual of Style/Accessibility|Other languages}}).
+* Useful for research or compiling statistics about language use in Wikipedia.
+
+== Applying styles ==
+
+Registered users can apply custom [[Cascading Style Sheets|CSS]] styles to articles by placing style declarations in their user style sheet. The user style sheet can be created at [[Special:Mypage/common.css]]. For more information, see [[Help:User style]]. The following examples should work in most [[List of web browsers|modern browsers]].
+
+To apply a specific font to all text marked as Russian of any script or region:
+
+<syntaxhighlight lang="css">
+[lang|=ru] { font-family: fonteskaya; }
+/* or */
+:lang(ru) { font-family: fonteskaya; }
+</syntaxhighlight>
+
+To apply a specific font to text marked simply as Russian:
+
+<syntaxhighlight lang="css">
+[lang=ru] { font-family: fonteskaya; }
+</syntaxhighlight>
+
+To apply a color to all text marked with any language:
+
+<syntaxhighlight lang="css">
+[lang] { color: green; }
+</syntaxhighlight>
+
+If a font name contains characters besides basic Latin letters or hyphens, it is a good idea to enclose it in quotation marks because some such characters have special meanings (the most common case needing quotation marks is a multi-word font name with space characters). Quotation marks are also required for font families containing generic-family keywords ('inherit', 'serif', 'sans-serif', 'monospace', 'fantasy', and 'cursive'). See the [http://www.w3.org/TR/CSS21/fonts.html#font-family-prop W3C] for more details.
+
+You can combine this with font imports in your user stylesheet, for example, to show all German text in [[Fraktur]] and all Urdu in [[Noto fonts|Noto]] [[Nastaʿlīq script|Nastaliq]] Urdu Regular:
+
+<syntaxhighlight lang="css">
+@import url(https://fonts.googleapis.com/css?family=UnifrakturMaguntia);
+@import url(http://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
+
+:lang(de) {
+   font-family: UnifrakturMaguntia;
+   font-style: normal;
+   font-weight: normal;
+}
+
+:lang(ur) {
+   font-family: "Noto Nastaliq Urdu Regular", "Noto Nastaliq Urdu";
+}
+</syntaxhighlight>
+
+then the following wikitext will look like the image below:
+
+<pre>
+Victor jagt zwölf Boxkämpfer quer über den Sylter Deich
+
+{{lang|de-Latf|Victor jagt zwölf Boxkämpfer quer über den Sylter Deich}}
+
+ٹھنڈ میں، ایک قحط زدہ گاؤں سے گزرتے وقت ایک چڑچڑے، بااثر و فارغ شخص کو بعض جل پری نما اژدہے نظر آئے۔
+
+{{lang|ur|ٹھنڈ میں، ایک قحط زدہ گاؤں سے گزرتے وقت ایک چڑچڑے، بااثر و فارغ شخص کو بعض جل پری نما اژدہے نظر آئے۔}}
+</pre>
+
+{{Wide image|Pangrams in DE and UR in Arial, UnifrakturMaguntia and Noto Nastaliq Urdu.png|1000px}}
+
+== Tracking categories ==
+* {{Category link with count|Lang and lang-xx template errors}}
+* {{Category link with count|Lang and lang-xx code promoted to ISO 639-1}}
+* {{Category link with count|Lang and lang-xx using deprecated ISO 639 codes}}
+
+== TemplateData ==
+
+{{TemplateData header}}
+<templatedata>
+{
+	"description": "Indicate that a given span of text belongs to a particular language. Allows browsers to correctly present and pronounce foreign languages.",
+	"params": {
+		"1": {
+			"label": "Language tag",
+			"description": "A language tag, or an ISO 639 language code.",
+			"type": "string",
+			"required": true,
+			"example": "fr",
+			"aliases": [
+				"code"
+			]
+		},
+		"2": {
+			"label": "Text",
+			"description": "The text belonging to the language specified.",
+			"type": "string",
+			"required": true,
+			"example": "Je suis française.",
+			"aliases": [
+				"text"
+			]
+		},
+		"rtl": {
+			"label": "Right to left",
+			"description": "Indicates that the language should be displayed from right to left.",
+			"example": "yes",
+			"type": "string",
+			"default": "no"
+		},
+		"italic": {
+			"aliases": [
+				"italics",
+				"i"
+			],
+			"label": "Italicize",
+			"description": "Italicizes the text",
+			"default": "yes",
+			"example": "no",
+			"type": "boolean"
+		},
+		"size": {
+			"label": "Font-size",
+			"description": "sets font-size",
+			"example": "120%, 1.2em"
+		},
+		"cat": {},
+		"nocat": {}
+	},
+	"format": "inline"
+}
+</templatedata>
+
+== See also ==
+* {{tl|Langr}}, variant of this template that forces "roman" (non-italic) output, e.g. for proper names of places and institutions
+* {{tl|Langx}}, variant of this template that displays the name of the language before the marked-up text
+* {{tl|IPA}}
+* {{tl|Title language}}
+* [[:Category:Wikipedia multilingual support templates]]
+* [[Lists of ISO 639 codes]] (language codes)
+** {{tl|ISO 639 name}}
+* [[List of ISO 15924 codes]] (script codes)
+* [[List of ISO romanizations|List of ISO transliterations]] (transliteration codes)
+* {{tl|cleanup lang}} (for articles which should use this template, but do not yet)
+* {{tl|transliteration}} (for romanisation of languages not natively written in the Latin alphabet)
+* {{tl|script}} (for specific characters)
+* {{tl|wikt-lang}} (to simultaneously tag text as a language and link to Wiktionary)
+* {{tl|in lang}} (for visually marking external links to foreign-language content)
+* {{tl|mw lang}} (similar to <nowiki>{{ISO 639 name}}</nowiki> for MediaWiki-supported languages)
+* {{tl|interlanguage link}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [[World Wide Web Consortium|W3C]]
+** [http://www.w3.org/International/articles/language-tags/Overview.en.php Language tags in HTML and XML] – Overview
+** [https://www.w3.org/International/techniques/authoring-html#language Authoring Web pages]
+** [http://www.w3.org/International/articles/bcp47/ Understanding the New Language Tags]
+** [http://www.w3.org/International/questions/qa-css-lang FAQ: Styling using the lang attribute]
+* [[Internet Assigned Numbers Authority|IANA]]
+** [http://www.iana.org/assignments/language-subtag-registry IANA Language Subtag Registry]
+** [http://www.rfc-editor.org/rfc/rfc4646.txt Tags for Identifying Languages] ({{IETF RFC|4646}})
+** [http://www.rfc-editor.org/rfc/rfc4647.txt Matching of Language Tags] ({{IETF RFC|4647}})
+** [http://www.iana.org/assignments/language-tags Language tags] (obsolete per {{IETF RFC|4646}})
+* [[Mozilla Firefox]]
+** [https://bugzilla.mozilla.org/show_bug.cgi?id=192636 Bug with script selection]
+
+<includeonly>{{Sandbox other||
+[[Category:Wikipedia multilingual support templates]]
+[[Category:Templates that add a tracking category]]
+[[Category:Language tag handling templates]]
+}}</includeonly>

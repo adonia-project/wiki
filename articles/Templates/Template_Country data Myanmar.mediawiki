@@ -1,0 +1,50 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Myanmar
+| shortname alias = {{{shortname alias|Myanmar}}}
+| flag alias = Flag of Myanmar.svg
+| flag alias-1937 = British Burma 1937 flag.svg
+| flag alias-1943 = Flag of Burma 1943.svg
+| flag alias-1948 = Flag of Burma (1948–1974).svg
+| flag alias-1974 = Flag of Myanmar (1974–2010).svg
+| flag alias-military = Flag of the Armed Forces (Tatmadaw) of Myanmar.svg
+| link alias-military = Tatmadaw
+| flag alias-naval = Naval Ensign of Myanmar.svg
+| link alias-air force = Myanmar Air Force
+| flag alias-army = Army Flag of Myanmar.svg
+| flag alias-air force = Air Force Ensign of Myanmar.svg
+| link alias-army = Myanmar Army
+| link alias-naval = Myanmar Navy
+| flag alias-navy = Naval Ensign of Myanmar.svg
+| link alias-navy = Myanmar Navy
+| flag alias-coast guard = Myanmar Coast Guard Ensign.svg
+| link alias-coast guard = Myanmar Coast Guard
+| flag alias-army 1948 = Former army flag of Myanmar.png
+| link alias-army 1948 = Myanmar Army
+| flag alias-navy 1948 = Naval Ensign of Burma (1948-1974).svg
+| link alias-navy 1948 = Myanmar Navy
+| flag alias-navy 1974 = Naval Ensign of Burma (1974–1994).svg
+| link alias-navy 1974 = Myanmar Navy
+| flag alias-air force 1948 = Air Force Ensign of Burma (1948-1974).svg
+| link alias-air force 1948 = Myanmar Air Force
+| flag alias-air force 1974 = Former Ensign of Myanmar Air Force.png
+| link alias-air force 1974 = Myanmar Air Firce
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1937
+| var2 = 1943
+| var3 = 1948
+| var4 = 1974
+| var5 = army 1948
+| var6 = navy 1948
+| var7 = navy 1974
+| var8 = air force 1948
+| var9 = air force 1974
+| related1 = Burma
+| related2 = British Burma
+| related3 = Konbaung dynasty
+</noinclude>
+}}

@@ -1,0 +1,94 @@
+{{Infobox
+| decat = yes
+| child = {{{child|<includeonly>yes</includeonly>}}}
+| bodystyle = {{#if: {{yesno|{{{child|<includeonly>yes</includeonly>}}}}} | {{{bodystyle|<includeonly>border-collapse: collapse</includeonly>}}} }}
+
+| rowstyle1 = background-color: #00000022; color: inherit;
+
+| header1 = {{#if: {{{custom|}}}|{{{custom}}}|{{#if: {{{article|}}} | [[{{{article}}}|Overall effects]] | Overall effects }}}}
+| label2 = Casualties
+| data2 = {{{casualties|<noinclude>37 (22 dead, 14 injured, 1 missing)</noinclude>}}}
+| label3 = Fatalities
+| data3 = {{{fatalities|{{{deaths|<noinclude>22</noinclude>}}}}}}
+| label4 = Injuries
+| data4 = {{{injuries|<noinclude>14</noinclude>}}}
+| label5 = Missing
+| data5 = {{{missing|<noinclude>1</noinclude>}}}
+| label6 = Evacuated
+| data6 = {{{evacuated|<noinclude>500</noinclude>}}}
+| label7 = Damage
+| data7 = {{{damage-prefix|{{{damages-prefix|}}}}}}{{#if: {{{damage|{{{damages|<noinclude>2423000</noinclude>}}}}}}
+  | {{#ifeq: {{ifnumber|{{{damage|{{{damages|<noinclude>2423000</noinclude>}}}}}}}} | 1
+    | {{#ifeq: {{{currency|{{{damage-currency|{{{damages-currency|USD}}}}}}}}}
+      | USD
+      | ${{format price|{{{damage|{{{damages|<noinclude>2423000</noinclude>}}}}}}}} {{#if: {{{economic-year|{{{year|}}}}}}
+        | ({{{economic-year|{{{year}}}}}} [[United States dollar|USD]]) <!-- USD default currency -->
+      }}
+      | {{currency
+        | amount = {{format price|{{{damage|{{{damages|<noinclude>2423000</noinclude>}}}}}}}}
+        | code = {{{currency|{{{damage-currency|{{{damages-currency|}}}}}}}}}
+        | linked = {{{damage-linked|{{{damages-linked|}}}}}}
+        | passthrough = yes
+      }} {{#if:
+        {{{usd-damage|{{{usd-damages|{{{damage-country|{{{damages-country|}}}}}}}}}}}}
+        | (US${{{usd-damage|{{{usd-damages|{{#if:
+          {{{damage-country|{{{damages-country|}}}}}}
+          | {{significant figures|{{To USD
+            | 1 = {{{damage|{{{damages|<noinclude>2423000</noinclude>}}}}}}
+            | 2 = {{{damage-country|{{{damages-country|}}}}}}
+            | year = {{{economic-year|{{{year|}}}}}}
+          }}|{{significant figures|{{{damage|{{{damages|<noinclude>2423000</noinclude>}}}}}}}}}}
+        }}}}}}}} {{#if: {{{economic-year|{{{year|}}}}}}
+          | in {{{economic-year|{{{year}}}}}}
+        }})
+      }}
+    }}
+    | {{{damage|{{{damages|<noinclude>2423000</noinclude>}}}}}}
+  }}
+}}{{{damage-suffix|{{{damages-suffix|}}}}}}
+| label8 = Economic losses
+| data8 = {{{losses-prefix|{{{economic-losses-prefix|}}}}}}{{#if: {{{losses|{{{economic-losses|<noinclude>2423000</noinclude>}}}}}}
+  | {{#ifeq: {{ifnumber|{{{losses|{{{economic-losses|<noinclude>2423000</noinclude>}}}}}}}} | 1
+    | {{#ifeq: {{{currency|{{{losses-currency|{{{economic-losses-currency|{{{damage-currency|{{{damages-currency|USD}}}}}}}}}}}}}}}
+      | USD
+      | ${{format price|{{{losses|{{{economic-losses|<noinclude>2423000</noinclude>}}}}}}}} {{#if: {{{economic-year|{{{year|}}}}}}
+        | ({{{economic-year|{{{year}}}}}} [[United States dollar|USD]]) <!-- USD default currency -->
+      }}
+      | {{currency
+        | amount = {{format price|{{{losses|{{{economic-losses|<noinclude>2423000</noinclude>}}}}}}}}
+        | code = {{{currency|{{{losses-currency|{{{economic-losses-currency|{{{damage-currency|{{{damages-currency|}}}}}}}}}}}}}}}
+        | linked = {{{losses-linked|{{{economic-losses-linked|{{{damage-linked|{{{damages-linked|}}}}}}}}}}}}
+        | passthrough = yes
+      }} {{#if:
+        {{{usd-losses|{{{usd-economic-losses|{{{losses-country|{{{economic-losses-country|{{{damage-country|{{{damages-country|}}}}}}}}}}}}}}}}}}
+        | (US${{{usd-losses|{{{usd-economic-losses|{{#if:
+          {{{losses-country|{{{economic-losses-country|{{{damage-country|{{{damages-country|}}}}}}}}}}}}
+          | {{significant figures|{{To USD
+            | 1 = {{{losses|{{{economic-losses|<noinclude>2423000</noinclude>}}}}}}
+            | 2 = {{{losses-country|{{{economic-losses-country|{{{damage-country|{{{damages-country|}}}}}}}}}}}}
+            | year = {{{economic-year|{{{year|}}}}}}
+          }}|{{significant figures|{{{losses|{{{economic-losses|<noinclude>2423000</noinclude>}}}}}}}}}}
+        }}}}}}}} {{#if: {{{economic-year|{{{year|}}}}}}
+          | in {{{economic-year|{{{year}}}}}}
+        }})
+      }}
+    }}
+    | {{{losses|{{{economic-losses|<noinclude>2423000</noinclude>}}}}}}
+  }}
+}}{{{losses-suffix|{{{economic-losses-suffix|}}}}}}
+| label9 = Areas affected
+| data9 = {{{affected|{{{areas|{{{location|<noinclude>[[Narnia (world)|Narnia]]</noinclude>}}}}}}}}}
+| label10 = Power outages
+| data10 = {{{outages|<noinclude>53,200</noinclude>}}}
+| label11 = Houses destroyed
+| data11 = {{{houses-destroyed|<noinclude>421,112</noinclude>}}}
+
+| rowstyle12 = {{#if: {{{references|{{{refs|}}}}}} | {{#if: {{{IBTrACS|{{{ibtracs|{{#property:P4540}}}}}}}} || line-height: 0.8em; }} }}
+| data12 = {{#if:{{both|{{{IBTrACS|{{{ibtracs|{{#property:P4540}}}}}}}}|{{{references|{{{refs|}}}}}}}}
+  | [https://ncics.org/ibtracs/index.php?name=v04r01-{{{IBTrACS|{{{ibtracs|{{String split|{{#property:P4540}}|,}}}}}}}} IBTrACS]{{#if: {{{IBTrACS|{{{ibtracs|}}}}}} || {{#if: {{#property:P4540}} | {{EditAtWikidata |pid=P4540 |qid={{{qid|}}} }} }} }} / {{{references|{{{refs|}}}}}}
+  | {{#if: {{{IBTrACS|{{{ibtracs|{{#property:P4540}}}}}}}}
+    | [https://ncics.org/ibtracs/index.php?name=v04r01-{{{IBTrACS|{{{ibtracs|{{String split|{{#property:P4540}}|,}}}}}}}} IBTrACS]{{#if: {{{IBTrACS|{{{ibtracs|}}}}}} || {{#if: {{#property:P4540}} | {{EditAtWikidata |pid=P4540 |qid={{{qid|}}} }} }} }}
+  }}{{{references|{{{refs|}}}}}}
+}}
+
+}}<noinclude>{{Documentation}}</noinclude>

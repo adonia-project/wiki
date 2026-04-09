@@ -1,0 +1,50 @@
+{{#invoke:Infobox|infoboxTemplate
+| title = {{{name|{{PAGENAME}}}}}
+
+| image =
+<tabber>
+OG=
+{{{image|}}}
+|-|
+Alternate=
+{{{image2|}}}
+</tabber>
+
+| caption =
+<tabber>
+OG=
+{{{imagedesc|}}}
+|-|
+Alternate=
+{{{imagedesc2|}}}
+</tabber>
+
+| label1 = Sound
+| data1  = {{{sound|}}}
+
+| label2 = Language
+| data2  = {{{language|}}}
+
+| label3 = Species
+| data3  = {{{species|}}}
+
+| label4 = Gender
+| data4  = {{{gender|}}}
+
+| label5 = Music
+| data5  = {{{music|}}}
+
+| label6 = Debut date
+| data6  = {{{debut|}}}
+
+| label7 = Creator
+| data7  = {{{creator|}}}
+}}
+
+<includeonly>[[Category:Characters]]</includeonly>
+<noinclude>
+{{Brainrot/doc}}
+
+[[Category:Infobox templates]]
+[[Category:Templates]]
+</noinclude>

@@ -1,0 +1,27 @@
+{{Infobox
+|bodystyle   = width: {{#if:{{{box_width|}}}|{{{box_width}}}|22em}}
+|headerstyle = background-color: #efefef
+|above       = {{{name<includeonly>|{{PAGENAMEBASE}}</includeonly>}}}
+|image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image<includeonly>|</includeonly>}}}|size={{{imagesize|{{{image_size|}}}}}}|sizedefault=frameless|alt={{{alt|}}}}}
+|caption     = {{{caption<includeonly>|</includeonly>}}}
+
+|header1    = {{#if:{{{location<includeonly>|</includeonly>}}}{{{coordinates|}}}{{{opened|}}}{{{length|}}}{{{north_end|}}}{{{south_end|}}}{{{terminals|}}}{{{owner|}}}{{{operator|}}}|Details}}
+|label2    = Location
+|data2     = {{{location<includeonly>|</includeonly>}}}
+|label3     = Coordinates
+|data3      = {{{coordinates<includeonly>|</includeonly>}}}
+|label4     = Opened
+|data4      = {{{opened<includeonly>|</includeonly>}}}
+|label5     = Length
+|data5      = {{{length<includeonly>|</includeonly>}}}
+|label6     = North end
+|data6      = {{{north End|{{{north_end<includeonly>|</includeonly>}}}}}}
+|label7     = South end
+|data7      = {{{south End|{{{south_end<includeonly>|</includeonly>}}}}}}
+|label8     = {{abbr|No.|Number}} of terminals
+|data8      = {{{no of Terminals|{{{terminals<includeonly>|</includeonly>}}}}}}
+|label9     = Owner
+|data9      = {{{owner<includeonly>|</includeonly>}}}
+|label10    = Operator
+|data10     = {{{operator<includeonly>|</includeonly>}}}
+}}<noinclude>{{documentation}}<!-- PLEASE ADD CATEGORIES TO THE /doc SUBPAGE, THANKS --></noinclude>

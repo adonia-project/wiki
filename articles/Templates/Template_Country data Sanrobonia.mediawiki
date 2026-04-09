@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Sanrobonia
+| flag alias = Flag of Sanrobonia.svg
+| flag alias-1828 =
+| link alias-football = Sanrobonia national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1832
+| related1 = 
+</noinclude>
+}}

@@ -1,0 +1,101 @@
+<onlyinclude>
+{| class="wikitable sortable" style="text-align:right;"
+|- 
+!scope="col"  rowspan=2| Name
+!scope="col"  rowspan=2| Population<br>(2026)
+!scope="col"  rowspan=2| Population<br>(2020)
+!scope="col"  rowspan=2| Change
+!scope="col" data-sort-type="number"  colspan=2| Land area
+!scope="col" data-sort-type="number"  rowspan=2| Population density<br>(2025)
+!scope="col"  rowspan=2| Incorporation date
+|-
+! km<sup>2</sup>
+! sq mi
+|- bgcolor="#f0f0f0"
+|align="left"|[[Alquézar]] 
+|{{change|2235642|2146892|dec=1|align="left"|invert=on}}
+|{{convert|380.2|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|2235642|380.2|km2|sqmi|prec=1}}
+|{{dts|28 July 1899}}
+|-
+|align="left"|[[Ampurias]]
+|{{change|832879|789683|dec=1|align="left"|invert=on}}
+|{{convert|56.9|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|832879|56.9|km2|sqmi|prec=1}}
+|{{dts|12 July 1836|df=on}}
+|- bgcolor="#f0f0f0"
+|align="left"|[[Charxes]] 
+|{{change|3278786|3053903|dec=1|align="left"|invert=on}}
+|{{convert|463.6|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|3278786|463.6|km2|sqmi|prec=1}}
+|{{dts|28 July 1899}}
+|-
+|align="left"|[[Coruxón]] 
+|{{change|3453723|3385439|dec=1|align="left"|invert=on}}
+|{{convert|428.6|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|3453723|428.6|km2|sqmi|prec=1}}
+|{{dts|8 October 1837}}
+|- bgcolor="#f0f0f0"
+|align="left"|[[Expansión]] 
+|{{change|2736507|2679486|dec=1|align="left"|invert=on}}
+|{{convert|285.7|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|2736507|285.7|km2|sqmi|prec=1}}
+|{{dts|12 July 1836}}
+|-
+|align="left"|[[El Capitán]] 
+|{{change|1739580|1638457|dec=1|align="left"|invert=on}}
+|{{convert|676.4|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|1739580|676.4|km2|sqmi|prec=1}}
+|{{dts|28 July 1899}}
+|- bgcolor="#f0f0f0"
+|align="left"|[[Hisbanya]]
+|{{change|456927|451213|dec=1|align="left"|invert=on}}
+|{{convert|282.5|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|456927|282.5|km2|sqmi|prec=1}}
+|{{dts|14 June 1892}}
+|-
+|align="left"|[[Limón]]
+|{{change|1273351|1135872|dec=1|align="left"|invert=on}}
+|{{convert|617.8|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|1273351|617.8|km2|sqmi|prec=1}}
+|{{dts|10 October 1920}}
+|- bgcolor="#f0f0f0"
+|align="left"|[[Llanito]]
+|{{change|3631287|3284326|dec=1|align="left"|invert=on}}
+|{{convert|483.1|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|3631287|483.1|km2|sqmi|prec=1}}
+|{{dts|5 August 1883}}
+|-
+|align="left"|[[Sástago]] 
+|{{change|2559903|2376884|dec=1|align="left"|invert=on}}
+|{{convert|163.2|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|2559903|163.2|km2|sqmi|prec=1}}
+|{{dts|12 July 1836}}
+|- bgcolor="#f0f0f0"
+|align="left"|[[Trinacria]] 
+|{{change|1013045|910396|dec=1|align="left"|invert=on}}
+|{{convert|1687.5|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|1013045|1687.5|km2|sqmi|prec=1}}
+|{{dts|12 April 1975}}
+|-
+|align="left"|[[Calañas]] 
+|{{change|1724891|1547934|dec=1|align="left"|invert=on}}
+|{{convert|513.3|km2|sqmi|adj=ri1|1|disp=table}}
+|{{Pop density|1724891|513.3|km2|sqmi|prec=1}}
+|{{dts|12 July 1836}}
+|- bgcolor="#f0f0f0"
+|- class="sortbottom" style="text-align:center;" style="background: #f2f2f2;"
+|scope="row" align="left"| '''[[Castejón]]'''
+|{{change|33620715|32189000|dec=1|align="right"|bold=on|invert=on||bgcolour=#f2f2f2}}
+|'''{{nts|6038.4}}'''
+|align="right"| '''{{convert|6038.4|km2|sqmi|adj=ri1|1|disp=output number only|sortable=on}}'''
+|align="right"| '''{{Pop density|33620715|6038.4|km2|sqmi|prec=1}}'''
+| '''&mdash;'''
+|- class="sortbottom" style="text-align:center;" style="background: #f2f2f2;"
+|scope="row" align="left"| '''[[Balisca]]'''
+|{{change|216348873|209845000|dec=1|align="right"|bold=on|invert=on||bgcolour=#f2f2f2}}
+|'''{{nts|1526052}}'''
+|'''{{convert|1526052|km2|sqmi|adj=ri2|0|disp=output number only|sortable=on}}'''
+|align="right"| '''{{Pop density|216348873|1526052|km2|sqmi|prec=1}}'''
+| '''&mdash;'''
+|}</onlyinclude>

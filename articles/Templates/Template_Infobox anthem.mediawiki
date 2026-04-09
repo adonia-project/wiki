@@ -1,0 +1,35 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst-infobox||$params=title,transcription,english_title,image,image_size,image_upright,alt,caption,prefix,type,country,alt_title,en_alt_title,alt_title_2,en_alt_title_2,author,lyrics_date,composer,music_date,adopted,published,until,sound,sound_title,successor,predecessor|$extra=title,transcription,english_title,image_upright,prefix,alt_title,en_alt_title,alt_title_2,en_alt_title_2,sound,sound_title|$indent=0|$B={{Infobox
+ | templatestyles = Infobox/mobileviewfix.css
+ | title          = {{#if:{{{transcription|}}}|{{{transcription|}}}|{{{title|{{PAGENAMEBASE}}}}}}}
+ | titleclass     = infobox-anthem-caption
+ | subheader      = {{#if:{{{transcription|}}}|{{{title|{{PAGENAMEBASE}}}}}|}}
+ | subheaderstyle = font-size: small; font-weight: normal;
+ | above          = {{#if:{{{english_title|}}}|English:&nbsp;{{{english_title}}}}}
+ | abovestyle     = font-size: small; font-weight: normal;
+ | image          = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|upright={{{image_upright|1}}}|alt={{{alt|}}}|suppressplaceholder=yes}}
+ | caption        = {{{caption|}}}
+ | data1          = {{#if:{{{country|}}}|<hr/>{{{prefix|National}}} {{{type|anthem}}} of {{{country}}}<hr/>}}
+ | rowstyle1      = font-weight:bold;
+ | label2         = {{nowrap|Also known as}}
+ | data2          = {{Br separated entries|1={{{alt_title|}}} {{#if:{{{en_alt_title|}}}|(English:&nbsp;{{{en_alt_title}}})}}|3={{#if:{{{alt_title_2|}}}|{{{alt_title_2}}}}} {{#if:{{{en_alt_title_2|}}}|({{langx|en|{{{en_alt_title_2}}}}})}}}}
+ | label3         = Lyrics
+ | data3          = {{{author|}}}{{#if:{{{lyrics_date|}}}|, {{{lyrics_date}}}}}
+ | label4         = Music
+ | data4          = {{{composer|}}}{{#if:{{{music_date|}}}|, {{{music_date}}}}}
+ | label5         = Published
+ | data5          = {{{published|}}}
+ | label6         = Adopted
+ | data6          = {{{adopted|}}}
+ | label7         = Readopted
+ | data7          = {{{readopted|}}}
+ | label8         = Relinquished
+ | data8          = {{{until|}}}
+ | label9 = Preceded by
+ | data9 = {{{predecessor|}}}
+ | label10 = Succeeded by
+ | data10 = {{{successor|}}}
+ | data11          = {{#if:{{{sound|}}}|{{Audio sample|type=song|file={{{sound}}}|description={{{sound_title|{{PAGENAMEBASE}}}}}}}}}
+}}}}{{ {{{|safesubst:}}}ifsubst||{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox anthem with unknown parameters|_VALUE_]]}}|preview=Page using [[Template:Infobox anthem]] with unknown parameter "_VALUE_"| showblankpositional=1 | title | transcription | english_title | image | image_size | image_upright | alt | caption | country | prefix | type | country | alt_title | en_alt_title | alt_title_2 | en_alt_title_2 | author | lyrics_date | composer | music_date | adopted | readopted | published | until | sound | sound_title | predecessor | successor }}}}<noinclude>
+{{Documentation}}
+<!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->
+</noinclude>

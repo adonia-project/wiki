@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Burkina Faso
+| flag alias = Flag of Burkina Faso.svg
+| link alias-military = Burkina Faso Armed Forces
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = BFA
+| redir2 = BUR
+| related1 = Upper Volta
+</noinclude>
+}}

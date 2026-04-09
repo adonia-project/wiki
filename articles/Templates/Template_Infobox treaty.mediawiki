@@ -1,0 +1,114 @@
+{{Infobox
+|child        = {{{child|{{{embed|}}}}}}
+|bodyclass    = vevent
+|headerstyle  = background: #ededed;
+
+|title        = {{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+|titlestyle   = font-size:125%;
+
+|above        = {{{long_name|}}}
+|aboveclass   = description
+|abovestyle   = font-size: 100%; background-color:#ededed
+
+|imagestyle   = {{#if:{{{caption|{{{Image_Caption|}}} }}}|border-bottom:1px #aaa solid;padding-top:0.4em;}}
+|captionstyle = padding:0.35em 0.35em 0.25em;line-height:1.25em;
+|image        = {{{rep|}}}
+|caption      = {{#if:{{{rep|}}}|{{{caption|}}}}}
+|image2       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{image_width|}}}}}}|sizedefault=frameless|upright={{{upright|1.35}}}|border={{{border|}}}|alt={{{alt|{{{image_alt|}}}}}}}}
+|caption2     = {{#if:{{{image|}}}|{{{caption|}}}}}
+
+|label1       = Former name
+|data1        = {{{former_name|}}}
+|label2       = Type
+|data2        = {{{type|}}}
+|label3       = Context
+|data3        = {{{context|}}}
+|class3       = plainlist
+|
+|label14      = Drafted
+|data14       = {{{date_drafted|}}}
+|label15      = Signed
+|data15       = {{{date_signed|}}}
+|label16      = Location
+|class16      = location
+|data16       = {{{location_signed|}}}
+|label17      = Sealed
+|data17       = {{{date_sealed|}}}
+|label18      = Ratified
+|data18       = {{{date_ratified|}}}
+|label19      = Effective
+|data19       = {{{date_effective|}}}
+|label20      = Condition
+|data20       = {{{condition_effective|}}}
+|label21      = Amendment
+|data21       = {{{amendment|}}}
+|label22      = Replaces
+|data22       = {{{replaces|}}}
+|label23      = Replaced by
+|data23      = {{{replaced_by|}}}
+|label24      = Expiration<!-- US English -->
+|data24       = {{{date_expiration|}}}
+|label25      = Expiry<!-- UK English -->
+|data25       = {{{date_expiry|}}}
+|label26      = Provisional application
+|data26       = {{{provisional_application|}}}
+|
+|label27      = Mediators
+|class27      = plainlist
+|data27       = {{{mediators|}}}
+|label28      = Negotiators
+|class28      = plainlist
+|data28       = {{{negotiators|}}}
+|label29      = Original<br/>signatories
+|class29      = attendee plainlist
+|data29       = {{{original_signatories|}}}
+|label30      = Signatories
+|class30      = attendee plainlist
+|data30       = {{{signatories|}}}
+|label31      = Parties
+|class31      = plainlist
+|data31       = {{{parties|}}}
+|label32      = Ratifiers
+|class32      = plainlist
+|data32       = {{{ratifiers|}}}
+|label33      = Depositary
+|data33       = {{{depositor|}}}
+|label34      = Depositaries
+|class34      = plainlist
+|data34       = {{{depositories|}}}
+|label35      = Citations
+|data35       = {{{citations|}}}
+|
+|label46      = Language
+|data46       = {{{language|}}}
+|label47      = Languages
+|class47      = {{{languagesclass|hlist}}}
+|data47       = {{{languages|}}}
+|
+|header59     = {{#if:{{{wikisource|}}}|Full text}}
+|data60       = {{#if:{{{wikisource|}}}|[[File:wikisource-logo.svg|16px|link=|alt=]] [[wikisource:{{{wikisource}}}|{{{wikisource}}}]] at [[Wikisource]]}}
+|header61     = {{#if:{{{wikisource1|}}}|Full text at [[File:wikisource-logo.svg|16px|link=|alt=]] [[Wikisource]]}}
+|data62       = {{#if:{{{wikisource1|}}}|
+* [[wikisource:{{{wikisource1}}}|{{{wikisource1}}}]]
+{{#if:{{{wikisource2|}}}|* [[wikisource:{{{wikisource2}}}|{{{wikisource2}}}]]}}
+{{#if:{{{wikisource3|}}}|* [[wikisource:{{{wikisource3}}}|{{{wikisource3}}}]]}}
+{{#if:{{{wikisource4|}}}|* [[wikisource:{{{wikisource4}}}|{{{wikisource4}}}]]}}
+{{#if:{{{wikisource5|}}}|* [[wikisource:{{{wikisource5}}}|{{{wikisource5}}}]]}}
+}}
+|
+|data64       = {{{misc|{{{module|}}}}}}
+|data65       = {{{misc2|{{{module2|}}}}}}
+|data66       = {{{misc3|{{{module3|}}}}}}
+|data67       = {{{misc4|{{{module4|}}}}}}
+|data68       = {{{misc5|{{{module5|}}}}}}
+|data69       = {{{misc6|{{{module6|}}}}}}
+
+|data80       = {{{footnotes|}}}
+
+}}{{#invoke:Check for unknown parameters | check | ignoreblank = y
+| unknown = {{main other|[[Category:Pages using Infobox treaty with unknown parameters|_VALUE_{{PAGENAME}}]]}}
+| preview = Page using [[Template:Infobox treaty]] with unknown parameter "_VALUE_"
+| name | long_name | rep | caption | image | image_size | image_width | upright | border | alt | image_alt | type | context | date_drafted | date_signed | location_signed | date_sealed | date_ratified | date_effective | condition_effective | amendment| replaces| replaced_by | date_expiration | date_expiry | provisional_application | mediators | negotiators | original_signatories | signatories | parties | ratifiers | depositor | depositories | citations | language | languagesclass | languages | wikisource | wikisource1 | wikisource2 | wikisource3 | wikisource4 | wikisource5 | footnotes
+}}<noinclude>
+{{Documentation}}
+</noinclude>

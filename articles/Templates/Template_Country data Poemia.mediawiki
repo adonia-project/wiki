@@ -1,0 +1,7 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Poemia
+| shortname alias = Poemia
+| flag alias = Flag of Poemia.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

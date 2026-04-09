@@ -1,0 +1,47 @@
+{{Infobox
+| above         = {{{name}}}
+| abovestyle     = text-align:center;background-color:#ededed;color:inherit;
+
+| subheader      = {{{start}}}{{#if:{{#invoke:String|match|{{{start}}}{{{end}}}| |plain=true|nomatch=1}}|–|&nbsp;–&#32;}}{{{end}}}
+| subheaderstyle = padding-bottom: 0.4em; border-bottom: 1px solid #aaa; font-weight: bold;
+
+| image          = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|upright={{{image_upright|1}}}|alt={{{alt|}}}}}
+| caption        = {{{caption|}}}
+
+| label2         = Duration
+|  data2         = {{{duration|}}}
+| label3         = Location
+|  data3         = {{{location|}}}
+| label4         = Including
+|  data4         = {{{including|}}}
+| label5         = {{if empty|{{{monarch title|}}}|Monarch{{pluralize from text|{{{monarch|}}}|likely=(s)|plural=s}}}}
+|  data5         = {{{monarch|}}}
+| label6         = {{if empty|{{{leader title|}}}|Leader{{pluralize from text|{{if empty|{{{leader|}}}|{{{leaders|}}}}}|likely=(s)|plural=s}}}}
+|  data6         = {{if empty|{{{leader|}}}|{{{leaders|}}}}}
+| label7         = President{{pluralize from text|{{{presidents|}}}|likely=(s)|plural=s}}
+|  data7         = {{{presidents|}}}
+| label8         = Prime Minister{{pluralize from text|{{{primeministers|}}}|likely=(s)|plural=s}}
+|  data8         = {{{primeministers|}}}
+| label9         = Key events
+|  data9         = {{{key_events|}}}
+
+| subheader2  = {{#if:{{{before|}}}{{{after|}}}|<table width="100%">
+<tr>
+<td width="50%" style="text-align:left;">{{#if:{{{before|}}} |
+  [[File:Arrleft.svg|10px|link=|class=skin-invert-image]] {{#if:{{{before|}}} | {{{before|}}}}}}}</td>
+<td width="50%" style="text-align:right;">{{#if:{{{after|}}} | {{#if:{{{after|}}} | {{{after|}}} | {{{next|}}}}} [[File:Arrright.svg|10px|link=|class-skin-invert-image]]}}</td>
+</tr></table>}}
+
+|below = {{#if:{{{timeline|}}}|
+<table style="border-spacing: 0; width: 100%; min-width: 100%" class="mw-collapsible {{#switch:{{{timeline_state|}}}
+ |1|yes|collapsed|hide = mw-collapsed autocollapse
+ |0|no|show|uncollapsed|#default = uncollapsed
+}}">
+<tr style="background-color: #efefef;color:inherit;" class="infobox-header"><th style="text-align:center"><div style="margin:0 4em">{{#if:{{{timeline_name|}}}|{{{timeline_name}}}|Chronology}}</div></th></tr>
+<tr><td style="text-align:center; padding-top: 3px">
+{{{timeline|}}}</td></tr>
+</table>}}
+
+}}<noinclude>
+{{Documentation}}
+</noinclude>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox historical era with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox historical era]] with unknown parameter "_VALUE_"|ignoreblank=y| after | alt | before | caption | end | image | image_upright | including | key_events | leader | leader title | leaders | location | monarch | monarch title | name | next | presidents | primeministers | start | timeline | timeline_name | timeline_state | duration }}

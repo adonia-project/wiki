@@ -1,0 +1,16 @@
+=== Examples ===
+{|class=wikitable
+!Code!!Result
+|-
+|<code><nowiki>{{</nowiki>{{{1}}}&#32;<nowiki>Station Numbering|name=</nowiki>{{{3}}}<nowiki>|number=</nowiki>{{{4}}}<nowiki>|size=40}}</nowiki></code>
+|{{{{{1}}} Station Numbering|name={{{3}}}|number={{{4}}}|size=40}}
+|-
+|<code><nowiki>{{</nowiki>{{{2}}}<nowiki>|</nowiki>{{{5}}}<nowiki>|</nowiki>{{{6}}}<nowiki>}} {{stn|</nowiki>{{{7}}}<nowiki>|x}}</nowiki></code>
+|{{{{{2}}}|{{{5}}}|{{{6}}}}} {{stn|{{{7}}}|x}}
+|-
+|<code><nowiki>[[</nowiki>{{{10}}}<nowiki> Station|{{</nowiki>{{{2}}}<nowiki>|</nowiki>{{{8}}}<nowiki>|</nowiki>{{{9}}}<nowiki>|50}}]]</nowiki></code>
+|[[{{{10}}} Station|{{{{{2}}}|{{{8}}}|{{{9}}}|50}}]]
+|}<noinclude>
+{{documentation}}
+[[Category:Japan rail station number templates|!]]
+</noinclude>

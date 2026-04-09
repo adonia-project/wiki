@@ -1,0 +1,41 @@
+<includeonly><div style="border:solid transparent;background-color:initial;position:absolute;width:{{{radius|100}}}px;line-height:0;{{#switch:{{#expr:floor({{{2}}}/25)}}
+<!-- 0-25% --> |0=
+left:{{{radius|100}}}px;
+top:{{#expr:{{{radius|100}}}*(1-sin(pi/50*{{{2}}}))}}px;
+border-width:0 0 {{#expr:{{{radius|100}}}*sin(pi/50*{{{2}}})}}px {{#expr:{{{radius|100}}}*cos(pi/50*{{{2}}})}}px;
+border-bottom-color:{{{1}}}
+"></div>
+<!-- 25-50% --> |1=
+right:{{{radius|100}}}px;
+top:0;
+border-width:0 {{#expr:{{{radius|100}}}*tan(pi/50*({{{2}}}-25))}}px {{{radius|100}}}px 0;
+border-right-color:{{{1}}}
+"></div>
+<div style="position:absolute;line-height:0;border-style:solid;right:0;top:0;border-width:0 {{{radius|100}}}px {{{radius|100}}}px 0;border-color:{{{1}}}"></div>
+<!-- 50-75% --> |2=
+right:{{{radius|100}}}px;
+top:{{{radius|100}}}px;
+border-width:{{#expr:{{{radius|100}}}*sin(pi/50*({{{2}}}-50))}}px {{#expr:{{{radius|100}}}*cos(pi/50*({{{2}}}-50))}}px 0 0;
+border-top-color:{{{1}}}
+"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 {{#expr:2*{{{radius|100}}}}}px {{{radius|100}}}px 0;border-color:{{{1}}}"></div>
+<!-- 75%-100% --> |3=
+left:{{{radius|100}}}px;
+top:{{{radius|100}}}px;
+border-width:{{{radius|100}}}px 0 0 {{#expr:{{{radius|100}}}*tan(pi/50*({{{2}}}-25))}}px;
+border-left-color:{{{1}}}
+"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 {{#expr:2*{{{radius|100}}}}}px {{{radius|100}}}px 0;border-color:{{{1}}}"></div>
+<div style="position:absolute;line-height:0;border-style:solid;left:0;top:0;border-width:0 {{{radius|100}}}px {{#expr:2*{{{radius|100}}}}}px 0;border-color:{{{1}}}"></div>
+<!-- 100% --> |4=
+left:0;
+top:0;
+border-width:0 {{#expr:2*{{{radius|100}}}}}px {{#expr:2*{{{radius|100}}}}}px 0;
+border-color:{{{1}}};
+z-index:-1
+"></div>
+}}</includeonly><noinclude>
+
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

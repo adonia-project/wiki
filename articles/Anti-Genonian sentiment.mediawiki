@@ -1,0 +1,31 @@
+'''Anti-Genonian sentiment''', also known as '''Genophobia''', is fear or dislike of [[Geno]], [[Genonian people|its people]], and [[Culture of Geno|its culture]]. Its opposite is [[Genophilia]]. 
+
+Opposition to [[transhumanism]] has largely shaped anti-Genonian sentiment throughout [[Basis]].
+
+==Overview==
+{| class="wikitable sortable floatright" style="width:400px; border:1px black; float:right; margin-left:1em;"
+|+ style="background:#f99;" colspan="2"|Results of {{abbr|2440|2027 (Earth Year Equivalent)}} [[INTL POLLING FIRM]] poll<br />Views of Geno's influence by country<br/>(sorted by pos − neg)
+!Country polled !!<small> Positive</small> !! <small>Negative</small> !! <small>Neutral</small> !! <small>Pos − neg</small>
+|-
+| {{flag|Qym}}
+| {{Percentage bar|7|c=#80FF80|width=50}}
+| {{Percentage bar|81|c=#FF8080|width=50}}
+| 12
+| <span style="color:red;">-74</span>
+|-
+| {{flag|Haynadur}}
+| {{Percentage bar|21|c=#80FF80|width=50}}
+| {{Percentage bar|55|c=#FF8080|width=50}}
+| 24
+| <span style="color:red;">-34</span>
+|-
+|}
+
+==By region==
+===Meran===
+====Qym====
+===Pahari===
+====Haynadur====
+===Visala===
+
+[[Category:Geno]][[Category:MyNameJuls]][[Category:Basis]]

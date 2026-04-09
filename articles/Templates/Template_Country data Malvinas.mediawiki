@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Malvinas
+| flag alias = Malvinas-Flag.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

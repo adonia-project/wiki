@@ -1,0 +1,51 @@
+{{Infobox
+| bodyclass        = geography
+| above            = Northern Trinagle
+| image            = [[Image:Triángulo Norte.svg|398x398px|]]
+| coordinates      = {{Coord|39.1000|S|67.9000|W|source:wikidata_dim:8,000km|display=title}}
+| label1           = Area
+| data1            = {{convert|5,000,000|km2|abbr=on}}
+| label2           = Population
+| data2            = 183,467,678 (2025 est.)
+| label3           = Density
+| data3            = {{convert|36.69|/km2|abbr=on}}
+| label4           = [[List of sovereign states|Countries]]
+| data4            = {{flag|Balisca}}
+| label5           = [[w:Territory|Territories]]
+| data5            = {{Collapsible list
+ | titlestyle = background:transparent;text-align:left;font-weight:normal;
+ | title      = [[Communities of Balisca|Communities]] (6)
+ | {{flag|Araucaria}}
+ | {{flag|Bayara}}
+ | {{flag|Castejón}}
+ | {{flag|Cerdanya}}
+ | {{flag|Estuaria}}
+ | {{flag|Hesperia}}
+ }}
+| label6           = [[Languages of Abyala|Languages]]
+| data6            = [[Baliscano]], [[Volisanian language|Volisanan]], [[Beron language|Beron]], [[Sikani language|Sikani]], [[Wulani language|Wulani]], [[w:Wolof language|Waajuri]], [[w:Tupi-Guarani languages|Kurupiran-Nyengatú languages]], [[w:Mapuche language|Walldungu]], and [[w:Yaghan language|Yamanakuta]]
+| label7           = {{W|Demonym}}
+| data7            = [[Demographics of Abyala|Abyalan]]
+| label8           = [[List of cities in Abyala|Largest cities]]
+| data8            = {{Collapsible list
+ | titlestyle = background:transparent;text-align:left;font-weight:normal;
+ | title      = [[List of cities in Abyala|Largest cities in the Northern Triangle]] (2025)
+ | 
+# {{flagicon|Castejón}} [[Castejón]]
+# {{flagicon|Bayara}} [[Macaio]]
+# {{flagicon|Cerdanya}} [[Concepción]]
+ }}
+}}
+
+The '''Northern Triangle''' ({{Langx|bl|Triángulo Norte}}; {{Langx|ca|Triangle Septentrional}}) is a geographical and cultural [[W:Peninsula|peninsular]] region of the [[W:Continent|continent]] of [[Abyala]]. Covering approximately {{Convert|5000000|km2|sqmi|abbr=on}} km², it is located entirely within the sovereign state of [[Balisca]]. The peninsula is bounded by the [[Salsipuedes Sea]] to the west, the [[Aethiopian Ocean]] to the north and east.
+
+The term '''Baliscan Triangle''' ({{Langx|bl|Triángulo Baliscano}}) refers to the same region, but is used in a strictly [[W:Geopolitics|geopolitical]] sense, referencing the [[Cap de Pingüins|administrative control]] and military presence that Balisca exerts over far-flung insular territories in the region. Baliscan-controlled territories in the Triangle are the [[Boreal Islands]] in the [[Shendan Ocean]], the [[Baliscan Arktici|Baliscan Arktici Territory]], and the [[Cabu Verd|Cabu Berd]] archipelago in the [[Ethiopian Ocean]].
+
+== See also ==
+
+* [[Balisca]]
+{{Balisca articles}}
+[[Category:Adonia]]
+[[Category:Abyala]]
+[[Category:Geography of Abyala]]
+[[Category:Geography of Balisca]]

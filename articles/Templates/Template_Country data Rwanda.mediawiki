@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Rwanda
+| flag alias = Flag of Rwanda.svg
+| flag alias-1959 = Flag of Rwanda (January – September 1961).svg
+| flag alias-Gitarama = Flag of Rwanda (January – September 1961).svg
+| flag alias-1961 = Flag of Rwanda (1961–2001).svg
+| flag alias-1962 = Flag of Rwanda (1961–2001).svg
+| link alias-air force= Rwandan Air Force
+| link alias-army = Rwanda Defence Force{{!}}Rwandan Army
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1959
+| var2 = 1961
+| var3 = 1962
+| var4 = Gitarama
+| redir1 = RWA
+</noinclude>
+}}

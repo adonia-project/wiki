@@ -1,0 +1,6 @@
+<includeonly>{{#invoke:lang|lang_xx_italic
+|code=bl
+}}</includeonly><noinclude>
+{{Documentation|Template:Lang-x/doc}}
+[[Category:Italic multilingual support templates|{{PAGENAME}}]]
+</noinclude>

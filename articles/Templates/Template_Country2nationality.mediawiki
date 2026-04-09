@@ -1,0 +1,3 @@
+<includeonly>{{safesubst<noinclude/>:#ifeq:{{safesubst<noinclude/>:#invoke:String|len|s={{safesubst<noinclude/>:ISO 3166 code|{{{1}}}}}}}|2|{{safesubst<noinclude/>:Iso2nationality| {{safesubst<noinclude/>:ISO 3166 code|{{{1}}}}} }}| {{safesubst<noinclude/>:#if:{{{1|}}}| {{safesubst<noinclude/>:#switch: {{{1}}}  | England = English  | Scotland = Scottish  | Wales = Welsh  | Catalonia = Catalan | Kosovo = Kosovan }}}}}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,12 @@
+{{safesubst<noinclude />: {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Pangkajene
+| flag alias = Flag of Pangkajene.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1879
+</noinclude>
+}}

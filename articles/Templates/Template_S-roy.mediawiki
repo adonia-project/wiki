@@ -1,0 +1,8 @@
+<includeonly>|-
+! colspan="3" style="border-top: 5px solid #65BCFF" | {{#if:{{{1}}}||Royal titles}}{{#switch:{{{1}}}
+ |#default={{#if:{{{1}}}|Royal titles}}
+ |ok=[[Imperial House of Okaiken|Sanese royalty]]
+}}</includeonly><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here. -->
+</noinclude>

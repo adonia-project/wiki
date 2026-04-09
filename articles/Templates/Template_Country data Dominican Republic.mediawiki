@@ -1,0 +1,25 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Dominican Republic
+| flag alias = Flag of the Dominican Republic.svg
+| flag alias-1844  = Flag of the Dominican Republic (up to 1844).svg
+| flag alias-1863  = Flag of the Dominican Republic (WFB 2004).gif
+| flag alias-naval = Naval Ensign of the Dominican Republic.svg
+| link alias-naval = Dominican Navy
+| flag alias-army = Army flag of Dominican Republic.svg
+| link alias-army = Dominican Army
+| flag alias-air force =Air Force Ensign of the Dominican Republic.svg
+| flag alias-civil = Civil Ensign of the Dominican Republic.svg
+| link alias-air force = Dominican Air Force
+| flag alias-navy = Naval Ensign of the Dominican Republic.svg
+| link alias-navy = Dominican Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1844
+| var2 = 1863
+| var3 = civil
+| redir1 = DOM
+</noinclude>
+}}

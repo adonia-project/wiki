@@ -1,0 +1,82 @@
+{{Infobox military installation
+| name          = Jaraco Aerospace Base
+| ensign        = 
+| ensign_size   = 
+| native_name   = Base Aérea y Espacial de Jaraco
+| partof        = <!-- for elements within a larger site -->
+| location      = 
+| nearest_town  = [[Jaraco]], [[Tukupi]]
+| country       = Balisca
+| image         = [[File:Jaraco Aerospace Base.png|280px]][[File:Auster SY-3 at Jaraco.png|280px]]
+| alt           = 
+| caption       = '''Top:''' {{W|Sukhoi Su-30MKK}} fighters <br>'''Bottom:''' A [[Confederal Aerospace Force]] [[Auster]] SY-3 of the 8th Transport Wing based at BAEJ
+| image2        = [[File:BAF emblem.png|100px]]
+| alt2          = 
+| caption2      = 
+| type          = Used by the Confederal Aerospace Force
+| coordinates   = {{coord|-40.35028|-40.15794|display=inline,title}}
+| gridref       = 
+| image_map     = 
+| image_mapsize = 
+| image_map_alt = 
+| image_map_caption = 
+| pushpin_map   = Araucaria
+| pushpin_mapsize = 280
+| pushpin_map_alt = 
+| pushpin_map_caption = 
+| pushpin_relief = y
+| pushpin_image = 
+| pushpin_label = 
+| pushpin_label_position = 
+| pushpin_mark  = airplane_silhouette.svg
+| pushpin_marksize = 15
+| ownership     = [[Defense Council (Balisca)|Defense Council]] ({{lang|bl|Consejo de Difensa}})
+| operator      = [[Confederal Aerospace Force]] ({{lang|bl|La Fuercia Aérea y Espacial}})
+| controlledby  = Balisca
+| open_to_public = <!-- for out of use sites/sites with museums etc -->
+| site_other_label = <!-- for renaming "Other facilities" in infobox -->
+| site_other    = <!-- for other sorts of facilities - radar types etc -->
+| site_area     = <!-- area of site m2, km2 square mile etc -->
+| code          = <!--facility/installation code, applies to US -->
+| built         = {{Start date|1955}}
+| used          = 1955–present
+| builder       = 
+| materials     = 
+| height        = <!-- height of tallest part, not above sea level -->
+| length        = <!-- for border fences or other DMZs -->
+| fate          = <!--changed from demolished parameter-->
+| condition     = Operational
+| battles       = 
+| events        = 
+| past_commanders = <!-- past notable commander(s) -->
+| garrison      = [[3rd Fighter Wing]]
+| occupants     = *[[7th Fighter Squadron]]
+*[[11th Fighter Squadron]]
+*[[1st Rescue Squadron]]
+*[[3rd Aircraft Maintenance Squadron]]
+*[[9th Transport Squadron]]
+| designations  = 
+| website       = {{URL|https://www.jaraco.fa.bl}}
+<!-- begin airfield information  -->| IATA          = JOB
+| ICAO          = SHJO
+| FAA           = 
+| TC            = 
+| LID           = 
+| GPS           = 
+| WMO           = 
+| elevation     = {{Convert|63.6|m|0}}
+| r1-number     = 05/23
+| r1-length     = {{Convert|900|m|0}}
+| r1-surface    = [[w:Asphalt concrete|Asphalt]]
+| h1-number     = 
+| h1-length     = <!-- {{Convert| |m|0}} -->
+| h1-surface    = 
+| airfield_other_label = <!-- for renaming "Other facilities" in infobox -->
+| airfield_other = <!-- for other sorts of airfield facilities -->
+<!--  end airfield information   -->| footnotes     = 
+}}
+'''Jaraco Aerospace Base''' {{Airport codes|JOB|SHJO}} ({{lang-bl|Base Aérea y Espacial de Jaraco}}; '''BAEJ''') is a [[Confederal Aerospace Force]] base in southern [[Araucaria]], in the [[Tukupi]] [[Regions of Balisca|region]]. It is located in the [[Jaraco]] municipality, at the foot of the [[Matarrañya / Cañadapirén]]. 
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]

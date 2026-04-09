@@ -1,0 +1,11 @@
+<includeonly>{{#switch: {{{1|}}}
+| solo_singer               = &#35;f0e68c <!-- khaki -->
+| non_vocal_instrumentalist = &#35;f4bf92 <!-- unnamed pale orange -->
+| non_performing_personnel  = &#35;bfe0bf <!-- unnamed pale green -->
+| group_or_band             = &#35;b0c4de <!-- lightsteelblue -->
+| classical_ensemble        = &#35;b0e0e6 <!-- PowderBlue -->
+| temporary                 = &#35;d3d3d3 <!-- LightGrey -->
+| &#35;b0c4de
+}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

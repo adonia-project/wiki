@@ -1,0 +1,127 @@
+<includeonly>
+====Volume====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Volume
+|+ Volume<br /><small>([[:Template:Convert/list of units/volume|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+|rowspan=4  style="text-align: center; vertical-align: top;" |'''SI'''
+{{convert/list of units/unitrow|m3|us=cubic meter|note=one kilolitre|place=top}}
+{{convert/list of units/unitrow|cm3|us=cubic centimeter|note=one millilitre|rowspan=2}}
+{{convert/list of units/unitaltab|cc}}
+{{convert/list of units/unitrow|mm3|us=cubic millimeter}}
+|-
+|rowspan=8  style="text-align: center; vertical-align: top;" |'''non-SI metric'''
+{{convert/list of units/unitrow|kl|us=kiloliter|rowspan=2|note=one cubic metre|place=top}}
+{{convert/list of units/unitaltab|kL}}
+{{convert/list of units/unitrow|l|us=liter|rowspan=2|note=one cubic decimetre<br />{{convert/list of units/triple|volume}}}}
+* l impgal
+* l USgal
+* l U.S.gal
+* l USdrygal
+* l U.S.drygal
+{{convert/list of units/unitaltab|L|note={{convert/list of units/triple|volume}}}}
+* L impgal
+* L impqt
+* L USgal
+* L U.S.gal
+* L USdrygal
+* L U.S.drygal
+{{convert/list of units/unitrow|cl|us=centiliter|rowspan=2}}
+{{convert/list of units/unitaltab|cL}}
+{{convert/list of units/unitrow|ml|us=milliliter|rowspan=2|note=one cubic centimetre}}
+* ml impoz
+* ml USoz
+* ml U.S.oz
+{{convert/list of units/unitaltab|mL}}
+* mL impoz
+* mL USoz
+* mL U.S.oz
+|-
+|rowspan=3  style="text-align: center; vertical-align: top;" |'''Imperial<br />&<br />US customary'''<!--
+{{convert/list of units/unitrow|e12cuft
+{{convert/list of units/unitrow|e9cuft}}
+{{convert/list of units/unitrow|e6cuft}}
+{{convert/list of units/unitrow|e3cuft}}-->
+{{convert/list of units/unitrow|cuyd|place=top}}
+{{convert/list of units/unitrow|cuft|altab=cufoot|note={{convert/list of units/foot note|cufoot|cubic foot}}}}
+{{convert/list of units/unitrow|cuin}}
+|-
+|rowspan=7  style="text-align: center; vertical-align: top;" |'''Imperial'''
+{{convert/list of units/unitrow|impbbl|place=top|note=36&nbsp;imp&nbsp;gal}}
+{{convert/list of units/unitrow|impbsh|rowspan=2|note=8&nbsp;imp&nbsp;gal}}
+{{convert/list of units/unitaltab|impbu}}
+{{convert/list of units/unitrow|impgal|note=4.54609 litres by definition, also<br />4 imp&nbsp;qt or 8 imp&nbsp;pt or 160&nbsp;imp&nbsp;fl&nbsp;oz<br />{{convert/list of units/triple|volume}}}}
+* impgal l
+* impgal L
+* impgal USgal
+* impgal U.S.gal
+* impgal USdrygal
+* impgal U.S.drygal
+{{convert/list of units/unitrow|impqt|note=1/4&nbsp;imp&nbsp;gal or 40&nbsp;imp&nbsp;fl&nbsp;oz}}
+{{convert/list of units/unitrow|imppt|note=1/8&nbsp;imp&nbsp;gal or 20&nbsp;imp&nbsp;fl&nbsp;oz}}
+{{convert/list of units/unitrow|impoz|note=1/160&nbsp;imp&nbsp;gal|altab=impfloz}}
+* impoz USoz
+* impoz U.S.oz
+* impoz ml
+* impoz mL
+|-
+|rowspan=13  style="text-align: center; vertical-align: top;" |'''US customary<br />liquid measure'''
+{{convert/list of units/unitrow|USbbl|place=top|rowspan=2|note=31½&nbsp;US&nbsp;gal<br />used for liquids except for oil and beer (see the [[:Template:Convert/list of units/volume|full list]])}}
+{{convert/list of units/unitaltab|U.S.bbl}}
+{{convert/list of units/unitrow|oilbbl|br=y|note=42&nbsp;US&nbsp;gal}}
+{{convert/list of units/unitrow|USbeerbbl|rowspan=2|br=y|altab=usbeerbbl}}
+{{convert/list of units/unitaltab|U.S.beerbbl|br=y|altab=usbeerbbl}}
+{{convert/list of units/unitrow|USgal|rowspan=2|note=231 cubic inches by definition, also<br />4 US&nbsp;qt or 8 US&nbsp;pt or 128&nbsp;US&nbsp;fl&nbsp;oz<br />{{convert/list of units/triple|volume}}}}
+* USgal l
+* USgal L
+* USgal impgal
+{{convert/list of units/unitaltab|U.S.gal}}
+* USgal l
+* USgal L
+* USgal impgal
+{{convert/list of units/unitrow|USqt|rowspan=2|note=1/4&nbsp;US&nbsp;gal or 32 US&nbsp;fl&nbsp;oz}}
+{{convert/list of units/unitaltab|U.S.qt}}
+{{convert/list of units/unitrow|USpt|rowspan=2|note=1/8&nbsp;US&nbsp;gal or 16 US&nbsp;fl&nbsp;oz}}
+{{convert/list of units/unitaltab|U.S.pt}}
+{{convert/list of units/unitrow|USoz|rowspan=2|br=y|altab=USfloz|note=1/128&nbsp;US&nbsp;gal}}
+* USoz ml
+* USoz mL
+* USoz impoz
+{{convert/list of units/unitaltab|U.S.oz|br=y|altab=U.S.floz}}
+* U.S.oz ml
+* U.S.oz mL
+* U.S.oz impoz
+|-
+|rowspan=12  style="text-align: center; vertical-align: top;" |'''US customary<br />dry measure'''
+{{convert/list of units/unitrow|USdrybbl|place=top|rowspan=2|note=105/32&nbsp;US&nbsp;bsh}}
+{{convert/list of units/unitaltab|U.S.drybbl}}
+{{convert/list of units/unitrow|USbsh|rowspan=2|note=2150.42 cubic inches by definition}}
+{{convert/list of units/unitaltab|U.S.bsh}}
+{{convert/list of units/unitrow|USbu|rowspan=2|note=2150.42 cubic inches by definition}}
+{{convert/list of units/unitaltab|U.S.bu}}
+{{convert/list of units/unitrow|USdrygal|rowspan=2|note=1/8&nbsp;US&nbsp;bsh<br />{{convert/list of units/triple|volume}}}}
+* USdrygal l
+* USdrygal L
+* USdrygal impgal
+{{convert/list of units/unitaltab|U.S.drygal}}
+* U.S.drygal l
+* U.S.drygal L
+* U.S.drygal impgal
+{{convert/list of units/unitrow|USdryqt|rowspan=2|note=1/32&nbsp;US&nbsp;bsh}}
+{{convert/list of units/unitaltab|U.S.dryqt}}
+{{convert/list of units/unitrow|USdrypt|rowspan=2|note=1/32&nbsp;US&nbsp;bsh}}
+{{convert/list of units/unitaltab|U.S.drypt}}
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/volume/short list]]
+</noinclude>

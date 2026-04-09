@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = North Macedonia
+| flag alias = Flag of North Macedonia.svg
+| flag alias-1992 = Flag of Macedonia (1992–1995).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1992
+| redir1 = MKD
+| redir2 = NMK
+| related1 = Macedonia
+| related2 = Socialist Republic of Macedonia
+</noinclude>
+}}

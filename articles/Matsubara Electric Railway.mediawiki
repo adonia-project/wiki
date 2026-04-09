@@ -1,0 +1,236 @@
+{{Infobox rail
+| name             = Matsubara Electric Railway
+| other_name       = Matsuden (松電)
+| logo             = Matsubara_Electric_Railway_Logo.svg
+| logo_size        = 100
+| logo_alt         = 
+| system_map       = 
+| map_size         = 
+| map_alt          = 
+| map_caption      = 
+| image            = Matsuden Series 3000
+| image_size       = 250
+| alt              = Matsuden Series 3000
+| caption          = A Matsuden commuter train departing from Matsubara-guchi.
+| franchise        = 
+| nameforarea      = 
+| regions          = [[Okami]], [[Okaiken]]
+| secregions       = 
+| fleet            = 3000 series (Commuter), 5000 series "Kaguya" (Limited Express)
+| stations         = 20
+| stationsop       = 
+| parent_company   = Matsubara Group 
+| headquarters     = Matsubara-guchi, [[Okami]]
+| founders         = 
+| key_people       = 
+| marks            = 
+| locale           = Matsubara, Kaminoyama, Kashiman, Tarumi Coast
+| start_year       = 1912
+| end_year         = present
+| predecessor_line = 
+| successor_line   = 
+| gauge            = {{Track gauge|1435mm}}
+| old_gauge        = 
+| electrification  = 1500 V DC overhead catenary
+| length           = 
+| tracklength      = 
+| notrack          = 2 (Double track throughout)
+| speed            = 80 km/h 
+| elevation        = 
+| website          = 
+| embedded         = 
+| map              = 
+| map_state        = 
+| map_name         = 
+}}
+
+==History==
+The {{nihongo|'''Matsubara Electric Railway'''|松原電気鉄道|Matsubara Denki Tetsudō}}, commonly known as {{nihongo|'''Matsuden'''|松電}}, is a major [[Okaiken|Sanese]] private railway company serving the northern and southeastern sectors of [[Okami]].
+
+===Founding and Northern Expansion (1912–1952)===
+Matsuden was founded in 1912 to connect the northern highlands of the [[Uonuma]] and [[Matsubara]] districts. Unlike the nationalized OR lines, Matsuden focused on developing luxury "garden suburbs" in the north to attract the city's growing middle class. The line terminated at the northern bank of the river and never crossed the Hiryūgawa, funneling commuters into the city center via the early ferry networks before the completion of the [[Miyoshi Line]] of the Okami [[Okami Metro]].
+
+===The Eastern Arc and Post-War Recovery (1952–1980)===
+Following the Great Okami Flood, the company shifted its strategic focus toward the eastern plains. In the 1950s, Matsuden began the ambitious construction of its Eastern section. By bypassing the heavy industrial zones of [[Hokuei]], the railway utilized the high ground of the [[Sannō]] and [[Kaminoyama]] districts to create a commuter corridor. This expansion was characterized by intense competition with the [[Keishi]] and [[Hanshi]] railways, leading to the creation of the multi-level hubs at [[Kaminoyama-Meidō]] and [[Kaminoyama-Minami]].
+
+===The Tarumi Extension and Modern Era (1980–Present)===
+The final phase of development saw the line turn sharply eastward from the [[Kashiman]] heights to reach the coastal [[Tarumi]] ward. This extension transformed the former fishing villages of Tarumi into a major residential and resort zone. In 1995, the completion of the [[Nagata-Tarumi]] terminal established a vital connection with the '''Subway Nagata Line''', solidifying Matsuden’s role as the primary "Transversal" carrier of the eastern metropolitan area.
+
+==Station List==
+
+All stations are located in [[Okami|Okami City (大紙市)]].
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #006400;" | No.
+! rowspan="2" style="border-bottom:3px solid #006400;" | Station Name
+! rowspan="2" style="border-bottom:3px solid #006400;" | Japanese
+! colspan="2" style="border-bottom:3px solid #006400;" | Distance (km)
+! rowspan="2" style="border-bottom:3px solid #006400;" | Transfers
+! rowspan="2" style="border-bottom:3px solid #006400;" | Location
+|-
+! style="border-bottom:3px solid #006400;" | Between
+
+
+Stations
+! style="border-bottom:3px solid #006400;" | Total
+|-
+| {{Matsuden Station Number|M<br>01}}
+| [[Matsubara-Zutsumi Station|Matsubara-Zutsumi]]
+| 松原堤
+| -
+| 0.0
+|
+| rowspan="4" | [[Matsubara Ward, Okami|Matsubara]]
+|-
+| {{Matsuden Station Number|M<br>02}}
+| [[Hon-Matsubara Station|Hon-Matsubara]]
+| 本松原
+| 1.2
+| 1.2
+|
+|-
+| {{Matsuden Station Number|M<br>03}}
+| [[Matsubara-Senri Station|Matsubara-Senri]]
+| 松原千里
+| 1.4
+| 2.6
+| {{rint|okami|T}} [[Tedorigawa Line]] (T03)<br>{{rint|private|yonekyu}} [[Yonekyu Main Line]] (YK11)
+|-
+| {{Matsuden Station Number|M<br>04}}
+| [[Kami-Matsubara Station|Kami-Matsubara]]
+| 上松原
+| 1.1
+| 3.7
+|
+|-
+| {{Matsuden Station Number|M<br>05}}
+| [[Mizusawa-Kita Station|Mizusawa-Kita]]
+| 水沢北
+| 1.3
+| 5.0
+|
+| rowspan="4" | [[Tatara Ward, Okami|Tatara]]
+|-
+| {{Matsuden Station Number|M<br>06}}
+| [[Mizusawa Station|Mizusawa]]
+| 水沢
+| 1.0
+| 6.0
+| {{rint|okami|M}} [[Miyoshi Line]] (M06)
+|-
+| {{Matsuden Station Number|M<br>07}}
+| [[Kita-Hokuei Station|Kita-Hokuei]]
+| 北北栄
+| 1.5
+| 7.5
+|
+|-
+| {{Matsuden Station Number|M<br>08}}
+| [[Hokuei-Chūō Station|Hokuei-Chūō]]
+| 北栄中央
+| 1.2
+| 8.7
+|
+|-
+| {{Matsuden Station Number|M<br>09}}
+| [[Sanshi-guchi Station|Sanshi-guchi]]
+| 山紙口
+| 1.6
+| 10.3
+| {{rint|or}} [[OR]] [[Sanshi Line]] (HY08)
+| rowspan="2" | [[Hokuei Ward, Okami|Hokuei]]
+|-
+| {{Matsuden Station Number|M<br>10}}
+| [[Hokuei-Higashi Station|Hokuei-Higashi]]
+| 北栄東
+| 1.4
+| 11.7
+|
+|-
+| {{Matsuden Station Number|M<br>11}}
+| [[Kaminoyama-Meidō Station|Kaminoyama-Meidō]]
+| 神ノ山明道
+| 1.8
+| 13.5
+| {{rint|private|keishi}} [[Keishi Main Line]]
+| rowspan="2" | [[Kaminoyama Ward, Okami|Kaminoyama]]
+|-
+| {{Matsuden Station Number|M<br>12}}
+| [[Kaminoyama-Minami Station|Kaminoyama-Minami]]
+| 神ノ山南
+| 1.3
+| 14.8
+| {{rint|private|hanshi}} [[Hanshi Main Line]]
+|-
+| {{Matsuden Station Number|M<br>13}}
+| [[Kashiman-Kita Station|Kashiman-Kita]]
+| 鹿島北
+| 1.5
+| 16.3
+| {{rint|or}} [[OR]] [[Okami Loop Line]] (HL11)
+| rowspan="5" | [[Kashiman Ward, Okami|Kashiman]]
+|-
+| {{Matsuden Station Number|M<br>14}}
+| [[Higashi-Okidome Station|Higashi-Okidome]]
+| 東沖留
+| 1.2
+| 17.5
+| {{rint|okami|H}} [[Hitotsubashi Line]] (H18)
+|-
+| {{Matsuden Station Number|M<br>15}}
+| [[Kashiman-Chūō Station|Kashiman-Chūō]]
+| 鹿島中央
+| 1.1
+| 18.6
+|
+|-
+| {{Matsuden Station Number|M<br>16}}
+| [[Kashiman-Minami Station|Kashiman-Minami]]
+| 鹿島南
+| 1.4
+| 20.0
+|
+|-
+| {{Matsuden Station Number|M<br>17}}
+| [[Kashiman-Tarumiguchi Station|Kashiman-Tarumiguchi]]
+| 鹿島垂水口
+| 1.6
+| 21.6
+| {{rint|okami|I}} [[Imaichi Line]]
+|-
+| {{Matsuden Station Number|M<br>18}}
+| [[Nishi-Tarumi Station|Nishi-Tarumi]]
+| 西垂水
+| 2.2
+| 23.8
+|
+| rowspan="3" | [[Tarumi Ward, Okami|Tarumi]]
+|-
+| {{Matsuden Station Number|M<br>19}}
+| [[Tarumi Station|Tarumi]]
+| 垂水
+| 1.5
+| 25.3
+| {{rint|or}} [[OR]] [[Yamagata Kaigan Line]]
+|-
+| {{Matsuden Station Number|M<br>20}}
+| [[Nagata-Tarumi Station|Nagata-Tarumi]]
+| 永田垂水
+| 1.3
+| 26.6
+| {{rint|okami|N}} [[Nagata Line]] (NXX)<br>{{rint|or}} [[OR]] [[Yamagata Kaigan Line]]
+|}
+
+==Rolling Stock==
+Matsuden is known for its distinctive "Forest Green" and "Cream" livery.
+* '''3000 Series:''' High-capacity commuter trains used for the dense eastern sector.
+* '''Limited Express "Kaguya":''' A luxury sightseeing train running from the northern mountains to the Tarumi beaches.
+
+==See also==
+* [[Okami Metro]]
+* [[OR Okami Loop Line]]
+* [[Keishi Yamagata Main Line]]
+* [[Hanshi Main Line]]
+
+[[Category:Railway companies of Okami]]
+[[Category:Private railways of Okaiken]]

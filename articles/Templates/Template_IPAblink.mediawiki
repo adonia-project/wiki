@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:IPA symbol|link|symbol={{{1|}}}|text={{{2|}}}|prefix=&#91;|suffix=&#93;|audio={{{audio|}}}|errortext={{{errortext|}}}}}</includeonly><noinclude>{{documentation}}</noinclude>

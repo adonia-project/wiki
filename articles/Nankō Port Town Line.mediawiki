@@ -1,0 +1,137 @@
+{{Short description|Automated guideway transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Nankō Port Town Line
+| image = Okami Metro Nanko Port Town line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series200-01.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 200 series|200 series]] AGT train arriving at [[Port Town-East Station]].
+| native_name = 南港ポートタウン線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Automated guideway transit|AGT]]
+| lines = Line P
+| stations = 10
+| ridership = 180,000 (FY2025)
+| began_operation = {{start date and age|1981|03|16|df=y}}
+| system_length = {{cvt|7.9|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}} (Guideway)
+| el = {{600 V AC|conductor=side}} (Side Contact)
+| map = [[File:Okami Metro Nanko Port Town Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Nankō Port Town Line'''|南港ポートタウン線|Nankō Pōtotaun-sen}}, commonly known as the "New Tram", is an automated guideway transit (AGT) line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It serves the reclaimed islands of the Okami Bay Area, connecting the residential districts of "Port Town" with the exhibition centers and ferry terminals. On system maps, the line is color-coded cerulean blue ({{Okami Metro color|P}}), and its stations use the prefix "P".
+
+Unlike the heavy rail subway lines, the Nankō Port Town Line utilizes rubber-tyred automated trains running on an elevated concrete guideway. It functions as a crucial connector loop on the western edge of the city, linking the western terminus of the [[Chūō Line (Okami)|Chūō Line]] at [[Cosmosquare Station|Cosmosquare]] with the southern terminus of the [[Shitayanagi Line]] at [[Suminoe-Koen Station|Suminoe-Koen]].
+
+==History==
+Construction began in the late 1970s to serve the newly developed "Nankō" (South Port) residential new town. The first section between [[Nakafuto Station|Nakafuto]] and [[Suminoe-Koen Station|Suminoe-Koen]] opened on March 16, 1981.
+
+The line was extended north to [[Cosmosquare Station|Cosmosquare]] in 1997 to connect with the Chūō Line and the new seaside business district. The line has operated with fully unmanned automated trains since 1991, following a system-wide upgrade to ATO (Automatic Train Operation).
+
+==Station List==
+* All stations are located in [[Suminoe Ward, Okami|Suminoe Ward]], [[Okami|Okami City]].
+* Stops: All trains stop at all stations.
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Distance (km)
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|P}};" | Between<br>Stations
+! style="border-bottom:3px solid #{{Okami Metro color|P}};" | Total
+|-
+| {{OMSN|P|01}}
+| [[Cosmosquare Station|Cosmosquare]]
+| コスモスクエア
+| -
+| 0.0
+| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C02)
+| rowspan="3" | [[Sakishima, Okami|Sakishima]]<br>(North)
+|-
+| {{OMSN|P|02}}
+| [[Trade Center-Mae Station|Trade Center-Mae]]
+| トレードセンター前
+| 0.6
+| 0.6
+| {{rint|okami|bus}} ATC Bus Terminal
+|-
+| {{OMSN|P|03}}
+| [[Nakafuto Station|Nakafuto]]
+| 中ふ頭
+| 0.7
+| 1.3
+|
+|-
+| {{OMSN|P|04}}
+| [[Port Town-West Station|Port Town-West]]
+| ポートタウン西
+| 0.7
+| 2.0
+|
+| rowspan="3" | [[Sakishima, Okami|Sakishima]]<br>(Residential)
+|-
+| {{OMSN|P|05}}
+| [[Port Town-East Station|Port Town-East]]
+| ポートタウン東
+| 1.1
+| 3.1
+|
+|-
+| {{OMSN|P|06}}
+| [[Ferry Terminal Station|Ferry Terminal]]
+| フェリーターミナル
+| 1.5
+| 4.6
+| {{rint|okami|ferry}} Okami-Nanko Ferry Terminal
+|-
+| {{OMSN|P|07}}
+| [[Nanko-East Station|Nanko-East]]
+| 南港東
+| 0.8
+| 5.4
+|
+| rowspan="4" | [[Nanko, Okami|Nanko Area]]
+|-
+| {{OMSN|P|08}}
+| [[Nanko-Guchi Station|Nanko-Guchi]]
+| 南港口
+| 0.6
+| 6.0
+|
+|-
+| {{OMSN|P|09}}
+| [[Hirabayashi Station (Okami)|Hirabayashi]]
+| 平林
+| 1.3
+| 7.3
+|
+|-
+| {{OMSN|P|10}}
+| [[Suminoe-Koen Station|Suminoe-Koen]]
+| 住之江公園
+| 0.6
+| 7.9
+| {{rint|okami|S}} [[Shitayanagi Line]] (S13)
+|}
+
+==Rolling Stock==
+* [[Okami Metro 200 series|200 series]] (4-car sets):
+*: Introduced in 2016 to replace the original fleet. These AGT vehicles are recognizable by their playful exterior designs; each trainset features a different color theme (e.g., "Ocean Blue," "Sunset Orange," "Park Green") representing different aspects of the bay area. They feature large windows and forward-facing seats at the ends of the train for panoramic views of the harbor.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Automated guideway transit]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

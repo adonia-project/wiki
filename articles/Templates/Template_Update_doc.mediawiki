@@ -1,0 +1,174 @@
+{{Documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+{{High-use| 20176 }}
+{{Twinkle standard installation}}
+{{Lua|Module:Unsubst}}
+
+This template can be used to mark ''entire articles or sections'' that contain outdated information. To assist the editor in the future, include the reason why an article needs updating (using {{para|reason}} and what part needs updating using {{para|part}}).
+
+==Usage==
+{{notice|text={{clear}}
+* {{Tnull|Update}} is used to mark ''entire articles'' or ''entire sections'' that contain outdated information. To assist the editor in the future, include the reason why an article needs updating using {{para|reason}}, and what part needs updating {{para|part}}.
+* If the article now has factual inaccuracies (not just missing or outdated information) due to being outdated, use {{para|inaccurate|yes}}; this is to be distinguished from [[Wikipedia:Accuracy dispute|disputed content]].
+}}
+This template can be used to mark articles or sections that have old or out-of-date information. Include the reason why an article needs updating, unless the reason is very obvious.
+* To specify what parts of the page need updating, use the first unnamed parameter (or name it {{para|part}} or number it {{para|1}}): {{tnull|{{BASEPAGENAME}}|part{{=}}the later-life and death material and the {{elc|#Legacy|Legacy}} section|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+* To use the template in one specific section, and change its wording to refer to the section instead of the page, use {{para||section}} and insert the template at the top of the section: {{tnull|{{BASEPAGENAME}}|section|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+* To display the date (in whatever format) of the last significant update to the page, use the second unnamed parameter (or name it {{para|updated}} or number it {{para|2}}): {{tnull|{{BASEPAGENAME}}|updated{{=}}{{#time:j F Y|-1 month}}|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+*: Note: The parameter name or number must be used if the first numbered/unnamed parameter is not used.
+* To add the date when the tag was added (this is used for cleanup categorization), use: {{tnull|{{BASEPAGENAME}}|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+*: You can also do: {{tnull|{{BASEPAGENAME}}|{{tls|DATE}}}}
+* To explain that the article now has inaccuracies (not just missing information) due to being outdated, use {{para|inaccurate|yes}}: {{tnull|{{BASEPAGENAME}}|inaccurate{{=}}yes|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}. This is to be distinguished from [[Wikipedia:Accuracy dispute|disputed content]], where {{tnull|Disputed}} or {{tnull|Disputed-section}} should be used instead.
+* To link to a particular section of the talk page where the update is being discussed, use {{para|talk|{{var|Section title}}}} ({{para|talksection}} and {{para|discuss}} are equivalent to {{para|talk}}): {{tnull|{{BASEPAGENAME}}|talk{{=}}Shall we update this for {{CURRENTYEAR}}?|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+* To display a reason, use {{para|reason|{{var|a short comment here}}}}, e.g. {{tnull|{{BASEPAGENAME}}|reason{{=}}Is missing the {{CURRENTMONTHNAME}} {{CURRENTYEAR}} election results|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+* These parameters can be combined: {{tnull|{{BASEPAGENAME}}|part{{=}}The {{elc|#Production|Production}} section and follow-on material|reason{{=}}the film is released, so this needs a "Critical reception" section, too|inaccurate{{=}}yes|talk{{=}}Post-release updating|updated{{=}}{{#time:F Y|-3 month}}|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+
+==Example==
+{{tnull|{{BASEPAGENAME}}|documentation|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+{{{{BASEPAGENAME}}|documentation}}
+
+The template detects which [[Wikipedia:Namespace|namespace]] it is used in and changes accordingly:
+{| class="wikitable"
+! Article
+| {{{{BASEPAGENAME}}|type=article|demospace=main|date={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+|-
+! Category
+| {{{{BASEPAGENAME}}|type=category|demospace=category|date={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+|-
+! Template
+| {{{{BASEPAGENAME}}|type=template|demospace=template|date={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+|}
+
+{{tnull|{{BASEPAGENAME}}|section|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+produces:
+{| class="wikitable"
+! Article
+| {{{{BASEPAGENAME}}|section|type=article|demospace=main|date={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+|-
+! Category
+| {{{{BASEPAGENAME}}|section|type=category|demospace=category|date={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+|-
+! Template
+| {{{{BASEPAGENAME}}|section|type=template|demospace=template|date={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+|}
+
+This template will add [[WP:mainspace|mainspace]] articles to [[:Category:Wikipedia articles in need of updating]] (this category is not populated by pages in other [[WP:namespace|namespace]]s).
+
+For factual inaccuracies, stronger wording is used and mainspace articles will be added to [[:Category:Articles with obsolete information]].
+
+{{tnull|{{BASEPAGENAME}}|inaccurate{{=}}yes|date{{=}}{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+{{{{BASEPAGENAME}}|type=article|demospace=main|inaccurate=yes}}
+
+==TemplateData==
+{{TemplateDataHeader}}
+<templatedata>
+{
+	"description": "Use this tag to alert readers that the article is out of date and may need updating.",
+	"params": {
+		"date": {
+			"label": "Month and year",
+			"description": "Provides the month and year of the update request; e.g., 'January 2018', but not 'jan18'",
+			"type": "string",
+			"required": false,
+			"autovalue": "{{subst:CURRENTMONTHNAME}} {{subst:CURRENTYEAR}}",
+			"suggested": true
+		},
+		"updated": {
+			"aliases": [
+				"2"
+			],
+			"label": "Last updated",
+			"description": "Date of last significant update",
+			"type": "date"
+		},
+		"inaccurate": {
+			"label": "Inaccurate?",
+			"description": "Use 'yes' if the article has inaccuracies due to being out of date.",
+			"example": "yes",
+			"type": "boolean"
+		},
+		"talksection": {
+			"aliases": [
+				"discuss",
+				"talk"
+			],
+			"label": "Talk page section",
+			"description": "Section name on talk page where the discussion takes place",
+			"type": "string"
+		},
+		"reason": {
+			"label": "Reason",
+			"description": "Explanation why the article is out of date",
+			"type": "content",
+			"suggested": true
+		},
+		"part": {
+			"aliases": [
+				"1"
+			],
+			"label": "Type (section)",
+			"description": "Part that needs updating (e.g. to replace the word \"article\", often \"section\")",
+			"example": "section",
+			"type": "string",
+			"default": "article",
+			"autovalue": "",
+			"suggested": true
+		},
+		"type": {
+			"label": "Type",
+			"description": "Type of page, overriding [[:mw:Help:Magic words#Namespaces|SUBJECTSPACE]]",
+			"type": "string",
+			"example": "article",
+			"suggested": false
+		},
+		"demospace": {
+			"label": "Demospace",
+			"type": "string",
+			"required": false
+		},
+		"cat": {
+			"label": "Cat",
+			"description": "Only required if a specific maintenance category is needed.",
+			"type": "string",
+			"required": false
+		}
+	},
+	"format": "inline",
+	"paramOrder": [
+		"part",
+		"date",
+		"updated",
+		"inaccurate",
+		"talksection",
+		"reason",
+		"demospace",
+		"cat",
+		"type"
+	]
+}
+</templatedata>
+
+==Alternatives==
+* {{tl|Update after}} is an alternative for individual statements that will be out-of-date at a specifiable future date. It is a more recent and preferred alternative to [[Wikipedia:As of]]. It also adds articles to [[:Category:Wikipedia articles in need of updating]].
+* See [[Wikipedia:Template messages/Cleanup#Time-sensitive]] for alternatives unrelated to out-of-date information.
+
+==See also==
+* {{tl|Update section}}
+* {{tl|As of}}
+* {{tl|Current}}
+* {{tl|Missing information}}
+* {{tl|Recentism}}
+* {{tl|Show by date}}/{{tls|Show by}}
+* {{tl|Time-context}}
+* {{tl|Update inline}}
+* {{tl|Updated}}
+* {{tl|When}}
+
+<includeonly>{{sandbox other||
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Cleanup templates]]
+[[Category:Dispute templates]]
+[[Category:Temporal templates]]
+[[Category:Time and date maintenance templates]]
+[[Category:Templates needing talk links and other improvements]]
+}}</includeonly>

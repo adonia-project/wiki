@@ -1,0 +1,9 @@
+{{Main other|{{Top icon
+| imagename    = cscr-featured.svg
+| wikilink     = Wikipedia:Featured articles*
+| alt          = Featured article
+| description  = This is a featured article. Click here for more information.
+| id           = featured-star
+| maincat      = [[Category:Featured articles]]
+}}|<includeonly>{{Error|[[Template:Featured article]] is only for [[Wikipedia:Featured articles]].}}</includeonly>
+}}<noinclude>{{Documentation}}</noinclude>

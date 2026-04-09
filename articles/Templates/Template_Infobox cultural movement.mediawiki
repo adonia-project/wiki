@@ -1,0 +1,23 @@
+{{Infobox
+| bodyclass    = vevent
+
+| title        = {{#if:{{{name|}}}|{{{name}}}|{{PAGENAMEBASE}}}}
+| titleclass   = summary
+
+| image        = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|upright={{{image_upright|1}}}|alt={{{alt|}}}}}
+| caption      = {{{caption|}}}
+
+| label1       = Years active
+| data1        = {{{yearsactive|}}}
+| label2       = Country
+| data2        = {{{country|}}}
+| label3       = Major figures
+| data3        = {{{majorfigures|}}}
+| label4       = Influences
+| data4        = {{{influences|}}}
+| label5       = Influenced
+| data5        = {{{influenced|}}}
+}}<noinclude>
+{{Documentation}}
+<!-- PLEASE ADD CATEGORIES TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

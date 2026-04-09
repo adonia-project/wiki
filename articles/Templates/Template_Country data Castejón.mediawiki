@@ -1,0 +1,34 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Metropolitan City of Castejón
+| flag alias = Flag of Castejon.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| flag alias-anarchist = Anarchist flag of Castejon.svg
+| flag alias-Alquézar= Flag of Alquézar (simplified).svg
+| flag alias-Ampurias= Flag of Ampurias.png
+| flag alias-Charxes= Flag of Charxes.svg
+| flag alias-Coruxón= Flag of Coruxon.png
+| flag alias-Expansión= Flag of Expansion (unofficial).svg
+| flag alias-El Capitán= Flag of El Capitán.svg
+| flag alias-Hisbanya= Flag of Hisbanya.svg
+| flag alias-Limón= Flag of Limón.svg
+| flag alias-Llanito= Flag of Llanito.svg
+| flag alias-Sástago= Flag of Sástago.svg
+| flag alias-Trinacria= Flag of Trinacria.svg
+| flag alias-Tamarix = Former Merchant Flag of Portugal.svg
+| variant = {{{variant|}}}
+| var1 = anarchist
+| var2 = Alquézar
+| var3 = Ampurias
+| var4 = Charxes
+| var5 = Coruxón
+| var6 = Expansión
+| var7 = El Capitán
+| var8 = Hisbanya
+| var9 = Limón
+| var10 = Llanito
+| var11 = Sástago
+| var12 = Trinacria
+| var13 = Tamarix
+| redir1 = Castejón Metropolis
+}}

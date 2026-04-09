@@ -1,0 +1,183 @@
+/* {{pp-template}} */
+/**
+ * Make first row or thead element top sticky.
+ *
+ * Table classes:
+ * - sticky-header: sticky first row.
+ * - sticky-header-multi: sticky thead; headers moved via sortable + JavaScript.
+ *
+ * Tested:
+ * - Windows 10: (all skins) Chrome, Firefox, Edge.
+ * - Android Galaxy S21 (Minerva): Chrome, Firefox.
+ * - iPhone SE 2020 (Minerva): Chrome, Edge, Firefox, Opera, Safari.
+ * - Wikipedia Android app.
+ * - Print: Not styled.
+ * - No JavaScript.
+ *
+ * Notes:
+ * - Sortable moves to thead any header rows and (after sort) sorttop rows.
+ * - Sticky gadget (.mw-sticky-header) moves to thead any wikitable header rows.
+ *
+ * Issues:
+ * - Minerva not sticky.
+ * - Monobook width <=550px not sticky.
+ *   Can't override:
+ *   body.skin--responsive .monobook-body {overflow: auto;}
+ */
+@media screen {
+  /**
+   * Make top sticky.
+   */
+  .sticky-header > thead > tr:first-child,
+  .sticky-header > caption + tbody > tr:first-child,
+  .sticky-header > tbody:first-child > tr:first-child,
+  .sticky-header-multi > thead {
+    position: sticky; /* Was "static". */
+    top: 0;
+    z-index: 10;
+  }
+
+  /**
+   * Fix scrolling data shows through sticky's transparent background.
+   */
+  /* Plain table headers. */
+  .sticky-header:not(.wikitable),
+  .sticky-header-multi:not(.wikitable) {
+    background-color: white;
+  }
+  /* Plain table headers. */
+  .sticky-header:not(.wikitable) > *, /* For thead, tbody. */
+  .sticky-header:not(.wikitable) > thead > tr:first-child,
+  .sticky-header:not(.wikitable) > caption + tbody > tr:first-child,
+  .sticky-header:not(.wikitable) > tbody:first-child > tr:first-child,
+  .sticky-header-multi:not(.wikitable) > thead,
+  /* Wikitable and plain table .sorttop rows after sort. */
+  .sticky-header-multi > thead {
+    background-color: inherit;
+  }
+
+  /**
+   * Fix missing borders due to sticky position and wikitable collapsed borders.
+   * https://bugs.webkit.org/show_bug.cgi?id=128486
+   *
+   * Skip rare plain table separated borders, which sometimes shows scrolling
+   * data through sticky's 2px "border-spacing".
+   *
+   * Skip very rare Timeless plain table ".mw-datatable" collapsed boarders.
+   */
+  .sticky-header.wikitable,
+  .sticky-header-multi.wikitable {
+    border-collapse: separate; /* Was "collapse". */
+    border-spacing: 0;
+    border-width: 0 1px 1px 0;
+  }
+  .sticky-header.wikitable td,
+  .sticky-header.wikitable th,
+  .sticky-header-multi.wikitable td,
+  .sticky-header-multi.wikitable th {
+    border-width: 1px 0 0 1px;
+  }
+  body.skin-timeless .sticky-header.wikitable,
+  body.skin-timeless .sticky-header-multi.wikitable {
+    border-bottom-width: 0.2em;
+    padding: 0;
+  }
+  /* Adjust {{static row numbers}} borders. */
+  .sticky-header.static-row-numbers.wikitable tr::before,
+  .sticky-header-multi.static-row-numbers.wikitable tr::before {
+    border-left-width: 1px;
+  }
+  .sticky-header.static-row-numbers.wikitable > thead > tr:first-child::before,
+  .sticky-header.static-row-numbers.wikitable > caption + tbody > tr:first-child::before,
+  .sticky-header.static-row-numbers.wikitable > tbody:first-child > tr:first-child::before,
+  .sticky-header-multi.static-row-numbers.wikitable > thead > tr:first-child::before,
+  .sticky-header-multi.static-row-numbers.wikitable > caption + tbody > tr:first-child::before,
+  .sticky-header-multi.static-row-numbers.wikitable > tbody:first-child > tr:first-child::before,
+  /* Sortbotton #1: all. When supported, consolidate #1-2 to tr:nth-child(1 of .sortbottom)::before */
+  .sticky-header.static-row-numbers.wikitable .sortbottom::before,
+  .sticky-header-multi.static-row-numbers.wikitable .sortbottom::before {
+    border-top-width: 1px;
+  }
+  /* Sortbottom #2: all minus 1st. */
+  .sticky-header.static-row-numbers.wikitable .sortbottom ~ .sortbottom::before,
+  .sticky-header-multi.static-row-numbers.wikitable .sortbottom ~ .sortbottom::before {
+    border-top-width: 0;
+  }
+  .sticky-header.static-row-numbers.wikitable > tbody > tr:not(.static-row-header)::before,
+  .sticky-header-multi.static-row-numbers.wikitable > tbody > tr:not(.static-row-header)::before {
+    border-bottom-width: 0 !important;
+    border-right-width: 0 !important;
+  }
+
+  /**
+   * Fix Timeless. Wasn't sticky when on very wide tables.
+   *
+   * :has() not supported, can't restrict to sticky tables.
+   */
+  body.skin-timeless .content-table-scrollbar,
+  body.skin-timeless .overflowed,
+  body.skin-timeless .overflowed .content-table {
+    overflow: visible; /* Reset. */
+  }
+  body.skin-timeless .scroll-right.overflowed .content-table-right {
+    box-shadow: none; /* Reset. */
+    border-left: none; /* Reset. */
+  }
+}
+
+/**
+ * Adjust to other sticky elements.
+ */
+@media screen and (min-width: 1120px) {
+  /* Vector (2022) width >=1120px: Below sticky header bar. */
+  body.vector-sticky-header-visible .sticky-header > thead > tr:first-child,
+  body.vector-sticky-header-visible .sticky-header > caption + tbody > tr:first-child,
+  body.vector-sticky-header-visible .sticky-header > tbody:first-child > tr:first-child,
+  body.vector-sticky-header-visible .sticky-header-multi > thead {
+    top: 3.125rem;
+  }
+}
+@media screen and (min-width: 851px) {
+  /* Timeless width >=851px: Below sticky header bar. */
+  body.skin-timeless .sticky-header > thead > tr:first-child,
+  body.skin-timeless .sticky-header > caption + tbody > tr:first-child,
+  body.skin-timeless .sticky-header > tbody:first-child > tr:first-child,
+  body.skin-timeless .sticky-header-multi > thead {
+    top: 3.51em;
+  }
+}
+
+/**
+ * Fix skins width <=639px (mobile) not sticky. Override to make sticky.
+ *
+ * Android issue: wide table horizontal scroll lost, wider page,
+ * zoom out for sticky headers, unreadable when sticky.
+ *
+ * iPhone issue: none.
+ *
+ * Changes to Minerva prevent sticky.
+ */
+@media screen and (max-width: 639px) {
+  body.skin-monobook .sticky-header,
+  body.skin-monobook .sticky-header-multi,
+  body.skin-vector-legacy .sticky-header,
+  body.skin-vector-legacy .sticky-header-multi,
+  body.skin-vector-2022 .sticky-header,
+  body.skin-vector-2022 .sticky-header-multi {
+    display: table; /* Was "block". */
+  }
+}
+
+/*
+ * Fix dark mode.
+ */
+@media screen {
+  html.skin-theme-clientpref-night body.skin-minerva .sticky-header-multi.wikitable {
+    background-color: #101418;
+  }
+}
+@media screen and (prefers-color-scheme: dark) {
+  html.skin-theme-clientpref-os body.skin-minerva .sticky-header-multi.wikitable {
+    background-color: #101418;
+  }
+}

@@ -1,0 +1,31 @@
+<noinclude>{{Documentation subpage}}</noinclude>
+This template provides a standard infobox for any character found within the wiki database.
+
+== Usage ==
+Copy and paste the following blank code into the top of an article and fill in the relevant details.
+
+<pre>
+{{Character
+| name = 
+| image = 
+| imagesize = 
+| alt = 
+| imagedesc = 
+| language = 
+| species = 
+| gender = 
+| alias = 
+| music = 
+| debut = 
+| background = 
+| creator = 
+| sound = 
+}}
+</pre>
+
+== Parameters ==
+The name field defines the title of the infobox and defaults to the page title if left blank. The image parameter accepts a file name while imagesize allows for custom pixel widths and alt provides a description for screen readers. The imagedesc parameter places a caption below the image. Language and species provide biological or cultural context. Gender and alias define personal identification and alternative names. Music links to associated tracks while debut notes the date of first appearance. Background location describes the origin setting and creator lists the original author. The sound parameter is used for audio demonstrations.
+
+<includeonly>
+[[Category:Infobox documentation]]
+</includeonly>

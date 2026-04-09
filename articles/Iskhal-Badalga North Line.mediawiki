@@ -1,0 +1,343 @@
+{{Infobox rail line
+| name = Iskhal-Badalga North Line
+| native_name = Dhaqso Iskhal-Badalga
+| image =
+| caption =
+| type = High-speed rail
+| system = [[Burawa High-Speed Rail Network]]
+| status = Operational
+| locale = [[South Hudur]] – [[Haro (Metropolitan Administration)|Haro]] corridor
+| start = [[Iskhal International Airport]] / [[Iskhal Central Station]]
+| end = [[Badalga Central Station]]
+| stations = 11
+| routes = 6 (Express A, Express B, Limited C, Limited D, Local E, Local F)
+| open = 1972
+| close =
+| owner = [[BuRail]]
+| operator = [[BuRail]]
+| character = Elevated, at-grade, tunnel
+| length_km = 306.13
+| length_mi = 190.2
+| gauge = 1,435 mm (standard gauge)
+| electrification = 25 kV AC overhead
+| max_speed = 320 km/h (199 mph)
+| ridership = 95 million (2026)
+| ridership_date = 2026
+| rolling_stock = [[Dhaqso-IV]]
+}}
+
+The '''Iskhal-Badalga North Line''' (Burawi: ''Dhaqso Iskhal-Badalga''), formerly known as the '''Burawi Main Line''', is a high-speed rail line in [[Burawa]] connecting the [[South Hudur]] and [[Haro (Metropolitan Administration)|Haro]] metropolitan areas. The line runs from [[Iskhal International Airport]] in [[Dhartoonga]] to [[Badalga Central Station]] in [[Badalga]], a distance of approximately 306 kilometers. It was the first high-speed rail line constructed in Burawa, opening in 1972 after six years of construction.
+
+The Iskhal-Badalga North Line is the busiest railway line in Burawa, carrying approximately 95 million passengers annually as of 2026. The line operates six service patterns: two express services (A and B), two limited-stop services (C and D), and two all-stop local services (E and F). The line was built over and along the original [[Iskhal-Badalga Line]], a conventional railway completed in 1832.
+
+In 2011, the parallel [[Iskhal-Badalga South Line]] opened to relieve congestion on the North Line, providing an alternative route on the southern side of the [[Buran River]]. However, induced demand following the South Line's opening resulted in continued growth in total corridor ridership rather than a reduction in North Line usage.
+
+== Route ==
+{{See also|Iskhal-Badalga South Line}}
+
+The Iskhal-Badalga North Line connects the [[South Hudur]] and [[Haro (Metropolitan Administration)|Haro]] metropolitan areas. The line begins at [[Iskhal International Airport]] in [[Dhartoonga]], runs south through the Iskhal metropolitan area, then northeast to [[Badalga]], running north of the [[Buran River]]. The line serves 11 stations over a distance of 306.13 kilometers.
+
+=== Stations ===
+
+Services on the Iskhal-Badalga North Line originate from either [[Iskhal International Airport]] or [[Iskhal Central Station]], converging at [[Iskhal Main Station]] before continuing to [[Badalga]].
+
+{| class="wikitable"
+|-
+! Station
+! Distance from Airport (km)
+! Distance from Central (km)
+! Services
+! Connections
+|-
+| [[Iskhal International Airport]] (Dhartoonga)
+| 0.00
+| —
+| A, C, E
+| [[Iskhal-Badalga South Line]], Air
+|-
+| [[Iskhal Central Station]]
+| 35.26
+| 0.00
+| B, D, F
+| [[Iskhal-Badalga South Line]], [[Kankadadka-Iskhal Line]], [[Kaysoor-Iskhal Line]], [[Iskhal-Qallahere Line]], [[Iskhal-Adado Line]]
+|-
+| [[Iskhal Main Station]]
+| 52.89
+| 17.63
+| A, B, C, D, E, F
+| [[Iskhal-Badalga South Line]], [[Kankadadka-Iskhal Line]], [[Kaysoor-Iskhal Line]], [[Iskhal-Qallahere Line]]
+|-
+| [[Iskhal East Station]]
+| 81.20
+| 45.94
+| C, D, E, F
+| —
+|-
+| [[Horskeynka Station]]
+| 94.25
+| 58.99
+| E, F
+| —
+|-
+| [[Tashir Central Station]]
+| 125.65
+| 90.40
+| C, D, E, F
+| —
+|-
+| [[Qalherega Central Station]]
+| 155.56
+| 120.30
+| E, F
+| —
+|-
+| [[Dhalleh Central Station]]
+| 189.24
+| 153.99
+| C, D, E, F
+| —
+|-
+| [[Kharle Station]]
+| 232.76
+| 197.51
+| E, F
+| —
+|-
+| [[Cadadgaka North Station]]
+| 276.00
+| 240.75
+| E, F
+| —
+|-
+| [[Badalga Central Station]]
+| 306.13
+| 270.88
+| A, B, C, D, E, F
+| [[Haro Metro]], [[Iskhal-Badalga South Line]], [[Badalga-Laasqoray Line]], [[Badalga-Maianka Line]], [[Badalga-Khar Line]]
+|}
+
+==== Journey times ====
+
+{| class="wikitable"
+|-
+! Service
+! Airport to Badalga
+! Central to Badalga
+|-
+| Express A
+| ~78 min
+| —
+|-
+| Express B
+| —
+| ~70 min
+|-
+| Limited C
+| ~98 min
+| —
+|-
+| Limited D
+| —
+| ~88 min
+|-
+| Local E
+| ~130 min
+| —
+|-
+| Local F
+| —
+| ~120 min
+|}
+
+=== Service patterns ===
+
+The Iskhal-Badalga North Line operates six distinct service patterns. Express services offer the fastest journey times, while local services serve all stations.
+
+{| class="wikitable"
+|-
+! Service
+! Origin
+! Stops
+! Destination
+! Frequency (peak)
+! Journey time
+|-
+| Express A
+| Iskhal Airport
+| Iskhal Main, Badalga only
+| Badalga
+| Every 10 min
+| ~78 min
+|-
+| Express B
+| Iskhal Central
+| Iskhal Main, Badalga only
+| Badalga
+| Every 10 min
+| ~70 min
+|-
+| Limited C
+| Iskhal Airport
+| Iskhal Main, then skips every other station
+| Badalga
+| Every 20 min
+| ~98 min
+|-
+| Limited D
+| Iskhal Central
+| Skips from Iskhal East onward
+| Badalga
+| Every 20 min
+| ~88 min
+|-
+| Local E
+| Iskhal Airport
+| All stations
+| Badalga
+| Every 20 min
+| ~130 min
+|-
+| Local F
+| Iskhal Central
+| All stations
+| Badalga
+| Every 20 min
+| ~120 min
+|}
+
+During off-peak hours, frequencies are reduced. Express services operate every 20 minutes, while limited and local services operate every 40 minutes.
+
+== History ==
+
+=== Iskhal-Badalga Line (1832–1966) ===
+
+{{main|Iskhal-Badalga Line}}
+
+The original [[Iskhal-Badalga Line]] was completed in 1832 as part of the early expansion of the Burawi railway network. The conventional railway connected the port city of [[Iskhal]] with the industrial center of [[Badalga]], serving as a critical freight and passenger corridor for over a century. By the mid-20th century, however, the line had become congested, and travel times were considered inadequate for modern needs.
+
+=== Planning and construction (1966–1972) ===
+
+In 1966, the [[BuRail]] corporation initiated planning for a high-speed rail line along the Iskhal-Badalga corridor. The project aimed to reduce travel times between the two metropolitan areas and demonstrate Burawa's industrial capabilities. Construction began later that year, with the line built largely over and alongside the existing conventional railway.
+
+The project faced significant engineering challenges, including the construction of elevated viaducts through urban areas and tunnels through coastal hills. The first segment, from [[Iskhal Main Station]] to [[Badalga Central Station]], opened in 1972 at a cost of approximately 2.3 billion hanti (equivalent to approximately 12 billion hanti in 2026 values).
+
+=== Extensions (1974–2003) ===
+
+The success of the initial line prompted extensions to serve additional demand. In 1974, the line was extended 17.63 kilometers south from Iskhal Main to [[Iskhal Central Station]], providing better access to the central business district.
+
+In 2003, a further 35.26-kilometer extension opened to the newly constructed [[Iskhal International Airport]] in [[Dhartoonga]], providing direct rail access to the airport from both the Iskhal metropolitan area and Badalga.
+
+=== Capacity constraints and the South Line (2000–2011) ===
+
+By 2000, the Iskhal-Badalga North Line was operating significantly above its designed capacity. Ridership had reached approximately 110 million passengers annually, leading to chronic overcrowding and delays. The [[BuRail]] corporation and the Burawi government determined that a parallel line was necessary to relieve congestion.
+
+Construction of the [[Iskhal-Badalga South Line]] began in 2000. The new line, running on the southern side of the Buran River, opened in 2011. Following the South Line's opening, total corridor ridership continued to grow due to induced demand, with the North Line maintaining approximately 95 million annual passengers and the South Line carrying approximately 75 million.
+
+== Rolling stock ==
+
+{{main|Dhaqso}}
+
+The Iskhal-Badalga North Line is operated by [[Dhaqso]] series trainsets manufactured by the [[Burawa Train Materials Manufacturing Corporation]] (BTMMC). The line has seen five generations of rolling stock since its opening.
+
+=== Dhaqso-I (1972–1990) ===
+
+The original Dhaqso-I trainsets entered service with the line's opening in 1972. These trains had a maximum operating speed of 250 km/h and consisted of 12-car formations. The Dhaqso-I fleet was retired in 1990.
+
+=== Dhaqso-II (1985–2005) ===
+
+The Dhaqso-II generation introduced improved reliability and a maximum speed of 280 km/h. These trainsets operated alongside the earlier Dhaqso-I fleet and continued in service until 2005.
+
+=== Dhaqso-III (1998–2018) ===
+
+The Dhaqso-III generation featured modernized interiors and a maximum speed of 300 km/h. These trains were the first to feature the current two-class seating arrangement (Commuter and Economy).
+
+=== Dhaqso-IV (2010–present) ===
+
+The current Dhaqso-IV fleet operates exclusively on the Iskhal-Badalga North Line, with a maximum speed of 320 km/h. Standard formations consist of 12 cars with 960 seats, while extended peak-hour formations consist of 16 cars with 1,280 seats.
+
+=== Dhaqso-V (2022–present) ===
+
+The latest Dhaqso-V generation operates primarily on the [[Iskhal-Badalga South Line]], with a maximum speed of 350 km/h. A small number of Dhaqso-V trainsets operate on the Iskhal-Badalga North Line during peak hours.
+
+== Ridership ==
+
+The Iskhal-Badalga North Line is the busiest railway line in Burawa and one of the busiest high-speed rail lines in the world. Annual ridership has grown from approximately 15 million in 1972 to over 95 million in 2026.
+
+{| class="wikitable"
+|-
+! Year
+! Annual ridership
+! Notes
+|-
+| 1972
+| 15 million
+| Line opens
+|-
+| 1980
+| 35 million
+| Rapid growth
+|-
+| 1990
+| 65 million
+| 
+|-
+| 2000
+| 110 million
+| 
+|-
+| 2011
+| 95 million
+| South Line opens; ridership redistributes
+|-
+| 2020
+| 89 million
+| —
+|-
+| 2026
+| 95 million
+| Current
+|}
+
+The correlation between the South Line's opening and sustained high ridership on the North Line is attributed to induced demand: improved capacity and frequency attracted new passengers who had previously avoided rail travel due to congestion.
+
+== Stations ==
+
+=== Iskhal International Airport ===
+
+{{main|Iskhal International Airport}}
+
+[[Iskhal International Airport]] station serves as the southern terminus of the Iskhal-Badalga North Line, though it is located north of [[Iskhal Main Station]] due to the line's routing. The station is integrated into the airport terminal, providing direct rail access for air passengers. The station opened in 2003 as part of the airport's construction.
+
+=== Iskhal Central ===
+
+[[Iskhal Central Station]] is a historic station in the southern part of [[Iskhal]], serving the older districts of the city. The station was extensively remodeled in the late 20th century to accommodate high-speed rail services. The station provides connections to the [[Iskhal-Badalga South Line]], [[Kankadadka-Iskhal Line]], [[Kaysoor-Iskhal Line]], [[Iskhal-Qallahere Line]], and [[Iskhal-Adado Line]]. The station features 42 platforms and serves as the origin for Express B, Limited D, and Local F services.
+
+=== Iskhal Main ===
+
+[[Iskhal Main Station]] is the primary station serving the central business district of [[Iskhal]]. All services on the Iskhal-Badalga North Line stop at this station, making it the busiest station on the line outside of the termini. The modern station was constructed as part of the original high-speed line opening in 1972. The station provides connections to the [[Iskhal-Badalga South Line]], [[Kankadadka-Iskhal Line]], [[Kaysoor-Iskhal Line]], and [[Iskhal-Qallahere Line]].
+
+=== Badalga Central ===
+
+{{main|Badalga Central Station}}
+
+[[Badalga Central Station]] serves as the northern terminus of the Iskhal-Badalga North Line. The station is integrated with the [[Haro Metro]] system and provides connections to the [[Iskhal-Badalga South Line]], [[Badalga-Laasqoray Line]], [[Badalga-Maianka Line]], and [[Badalga-Khar Line]]. The original station was constructed in 1832 with the conventional railway, with the high-speed platforms added in 1972.
+
+== See also ==
+
+* [[Iskhal-Badalga South Line]]
+* [[Iskhal-Badalga Line]] (original 1832 railway)
+* [[BuRail]]
+* [[Dhaqso]]
+* [[Burawa Train Materials Manufacturing Corporation]]
+* [[High-speed rail in Burawa]]
+* [[Transport in Burawa]]
+
+{{Navbox Burawa transport}}
+{{Navbox BuRail services}}
+
+[[Category:Railway lines in Burawa]]
+[[Category:High-speed railway lines in Burawa]]
+[[Category:BuRail]]
+[[Category:Transport in South Hudur]]
+[[Category:Transport in Haro]]
+[[Category:1972 establishments in Burawa]]

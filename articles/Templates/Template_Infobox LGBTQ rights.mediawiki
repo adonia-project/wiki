@@ -1,0 +1,27 @@
+{{infobox
+| bodyclass  = vcard
+| above      = <includeonly><div class="vcard" style="background:none; font-size:100%; padding:0.15em 0.1em; line-height:1.2em;">LGBTQ rights in {{{location_header|{{{country}}}}}}</div></includeonly>
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|}}}|alt={{{alt|}}}}} 
+| caption    = {{{caption|}}}
+| label1     = [[Criminalization of homosexuality|Status]]
+| data1      = {{{legal_status|{{{status|}}}}}}
+| label2     = Penalty
+| data2      = {{{penalty|}}}
+| label3     = [[Gender identity]]
+| data3      = {{{gender_identity_expression|{{{gender|}}}}}}
+| label4     = Restrictions
+| data4      = {{{gender_identity_expression_restrictions|{{{gender_res|}}}}}}
+| label5     = [[LGBT people and military service|Military]]
+| data5      = {{{military|}}}
+| label6     = [[Anti-discrimination law|Discrimination protections]]
+| data6      = {{{discrimination_protections|{{{discrimination|}}}}}}
+| header7    = {{#if:{{{recognition_of_relationships|}}}{{{recognition|}}}{{{union|}}}{{{recognition_of_relationships_restrictions|}}}{{{recognition_res|}}}{{{union_res|}}}{{{adoption|}}}|Family rights}}
+| label8     = [[Template:Same-sex_unions|Recognition of relationships]]
+| data8      = {{{recognition_of_relationships|{{{recognition|{{{union|}}}}}}}}}
+| label9     = Restrictions
+| data9      = {{{recognition_of_relationships_restrictions|{{{recognition_res|{{{union_res|}}}}}}}}}
+| label10    = [[Same-sex adoption|Adoption]]
+| data10     = {{{adoption|}}}
+}}<noinclude>
+{{documentation}}
+</noinclude>

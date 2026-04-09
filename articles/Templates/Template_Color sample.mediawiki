@@ -1,0 +1,4 @@
+<span style="display:inline-block;width:{{{2|1}}}em;vertical-align:text-top;height:{{{2|1}}}em;border:1.62px solid {{{border|black}}};background:{{{1}}};color:inherit;" title="{{title case|{{{description|{{{1}}}}}}}}">&emsp;</span><noinclude>
+{{Documentation}}
+<!-- Categories go on the /doc subpage, and interwikis go on Wikidata. -->
+</noinclude>

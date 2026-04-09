@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Singapore
+| flag alias = Flag of Singapore.svg
+| flag alias-colonial = <!--Flag of Singapore (1946-1959).svg-->
+| flag alias-civil = <!--Civil Ensign of Singapore.svg-->
+| flag alias-naval = <!--Naval Ensign of Singapore.svg-->
+| link alias-naval = <!--Republic of Singapore Navy-->
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = colonial
+| var2 = civil
+| redir1 = SGP
+| redir2 = SIN
+</noinclude>
+}}

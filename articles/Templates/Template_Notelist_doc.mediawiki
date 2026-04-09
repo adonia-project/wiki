@@ -1,0 +1,25 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{High-use}}
+{{Lua|Module:Check for unknown parameters}}
+{{Transwiki guide |small=yes |text=See [[Template:Notelist/Transwiki guide|'''this information''']] on copying this template and modifying it for use on another wiki.}}
+{{#section:Help:footnotes|pregroup}}
+
+==TemplateData==
+{{excerpt|Template:Reflist/doc|Template data}}
+
+==Tracking categories==
+*{{clc|Category:Pages using notelist with unknown parameters}}
+
+==See also==
+* [[Template:Cnote]] - A manual system alternative
+*[[Help:Citation merging|Help:Citation merging (bundling)]]
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+
+[[Category:Explanatory footnote templates]]
+[[Category:Reference list templates]]
+[[Category:Footnote templates]]
+[[Category:Templates that add a tracking category|{{PAGENAME}}]]
+}}</includeonly>

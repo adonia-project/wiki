@@ -1,0 +1,9 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Illium
+| flag alias = Flag of Illium.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+<noinclude>
+| redir1 = Illium Empire
+</noinclude>
+}}

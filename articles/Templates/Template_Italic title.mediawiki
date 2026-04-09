@@ -1,0 +1,4 @@
+<includeonly>{{#invoke:Italic title|main}}</includeonly><noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage and interwikis to Wikidata. -->
+</noinclude>

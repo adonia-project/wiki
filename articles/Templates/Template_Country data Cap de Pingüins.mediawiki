@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Cap de Pingüins
+| flag alias = True South Antarctic Flag.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

@@ -1,0 +1,17 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||date=__DATE__ |$B=
+<!--{{Prose}} begin-->{{Ambox
+| name = Prose
+| subst= <includeonly>{{subst:</includeonly><includeonly>substcheck}}</includeonly>
+| small = {{{small|}}}
+| type = style
+| class= ambox-Prose
+| issue= This {{{1|article}}} '''is in [[MOS:LIST|list]] format but may read better as [[MOS:PROSE|prose]]'''.
+| fix  = You can help by [{{fullurl:{{FULLPAGENAME}}|action=edit}} converting this {{{1|article}}}], if appropriate. [[Help:Editing|Editing help]] is available.
+| date = {{{date|}}}
+| cat  = Articles needing cleanup
+| all  = All pages needing cleanup
+| cat2 = Articles with sections that need to be turned into prose
+}}<!--{{Prose}} end-->
+}}<noinclude>
+{{Documentation}}
+</noinclude>

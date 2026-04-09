@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Asikyira
+| flag alias = Flag of Asikyira.svg
+| flag alias-1828 =
+| link alias-football = Asikyiran national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1828
+| related1 = 
+</noinclude>
+}}

@@ -1,0 +1,123 @@
+{{Documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+{{high use}}
+{{COinS safe|n}}
+
+This purpose of the '''{{tl|start date}}''' template is to return the date (or date-time) that an event or entity started or was created, and to do so in a standard format. It also includes duplicate, machine-readable date (or date-time) in the ISO date format (which is hidden by CSS), for use inside other templates (or table rows) which emit [[microformat]]s. '''It should be used only once in each such template''' and '''never used outside such templates'''. The hidden date degrades gracefully when CSS is not available.
+
+== When not to use this template ==
+Do not use this template for:
+* dates that are uncertain e.g., "before 4 April 1933"; "around 18 November 1939".
+* dates outside the range given under "[[#Limitation|Limitation]]", below.
+* other, secondary dates
+* outside [[microformat]]-emitting templates or table rows - if in doubt, see the parent template's documentation
+* more than one date in any parent template
+* dates displayed using AM/PM format - this template only outputs 24-hour clocks
+
+== Syntax ==
+* {{tlx|start date|year|month|day}}
+* {{tlx|start date|year|month|day|HH|MM|SS|TimeZone}} (MM and SS are optional; TimeZone may be a numerical value, or "Z" for [[Coordinated Universal Time|UTC]]; see examples)
+
+; Examples
+* {{tlx|start date|1993}} → "{{start date|1993}}"
+* {{tlx|start date|1993|02}} → "{{start date|1993|02}}"
+* {{tlx|start date|1993|02|24}} → "{{start date|1993|02|24}}"
+* {{tlx|start date|1993|02|24|08|30}} → "{{start date|1993|02|24|08|30}}"
+* {{tlx|start date|1993|02|24|08<nowiki>|||+01:00</nowiki>}} → "{{start date|1993|02|24|08|||+01:00}}"
+* {{tlx|start date|1993|02|24|08<nowiki>|||−07:00</nowiki>}} → "{{start date|1993|02|24|08|||−07:00}}"
+* {{tlx|start date|1993|02|24|08|30|23}} → "{{start date|1993|02|24|08|30|23}}"
+* {{tlx|start date|1993|02|24|08|30|23|Z}} → "{{start date|1993|02|24|08|30|23|Z}}"
+* {{tlx|start date|1993|02|24|08|30|23|+01:00}} → "{{start date|1993|02|24|08|30|23|+01:00}}"
+* {{tlx|start date|1993|02|24|08|30|23|−07:00}} → "{{start date|1993|02|24|08|30|23|−07:00}}"
+
+An optional parameter, <code>df</code>, can be set to "y" or "yes" (or indeed any value) to display the day before the month. The order of parameters does not change (it remains YMD). This is primarily used in articles using DMY format for dates.
+
+; Examples
+* {{tlx|start date|<nowiki>1993|02|24|df=y</nowiki>}} → "{{start date|1993|02|24|df=y}}"
+* {{tlx|start date|<nowiki>1993|02|24|08|30|df=yes</nowiki>}} → "{{start date|1993|02|24|08|30|df=yes}}"
+
+== TemplateData ==
+{{TemplateDataHeader}}
+<templatedata>
+{
+	"description": "Date that an event or entity started or was created",
+	"params": {
+		"1": {
+			"label": "YYYY",
+			"description": "start year",
+			"type": "number"
+		},
+		"2": {
+			"label": "MM",
+			"description": "start month",
+			"inherits": "1"
+		},
+		"3": {
+			"label": "DD",
+			"description": "start day of month",
+			"inherits": "1"
+		},
+		"4": {
+			"label": "HH",
+			"description": "start hours",
+			"inherits": "1"
+		},
+		"5": {
+			"label": "MM",
+			"description": "start minutes",
+			"inherits": "1",
+			"default": "0"
+		},
+		"6": {
+			"label": "SS",
+			"description": "start seconds",
+			"inherits": "5"
+		},
+		"7": {
+			"label": "TZ",
+			"description": "time zone offset, “+02:00”, “-06:00” or “Z” for UTC",
+			"inherits": "1",
+			"type": "string/line"
+		},
+		"df": {
+			"label": "day first",
+			"description": "boolean parameter to put the day before the month name",
+			"default": "false", 
+			"type": "string/line"
+		},
+		"mf": {
+			"label": "month first",
+			"description": "mf=yes: order mm-dd-yyyy (=the default order)",
+			"type": "string",
+			"default": "yes",
+			"deprecated": "trivial because default. Or use df=yes (for mf=no)."
+		}
+	}
+}
+</templatedata>
+
+== Use in microformats ==
+{{UF-date-part}}
+
+=== Example ===
+{{nowiki template demo|format=inline|output=nowiki+|code=<nowiki>{{Start date|2016|12|31}}</nowiki>}}
+
+== See also ==
+* {{tlg|Start date text}}, an alternative to this template.
+* {{tlg|Film date}}, a similar template for use with {{tl|Infobox film}}.
+* {{tlg|Start date and age}}
+* {{tlg|Start and end dates}}
+* {{tlg|End date}}
+* {{tlg|End date text}}
+* {{tlg|Trim date}}
+* [[Wikipedia:WikiProject Microformats|WikiProject Microformats]]
+
+{{Birth, death and age templates|dates}}
+
+<includeonly>{{Sandbox other|
+| <!-- ADD CATEGORIES BELOW THIS LINE, PLEASE: -->
+[[Category:Date mathematics templates]]
+[[Category:Templates generating hAtom]]
+[[Category:Templates generating hCalendars]]
+[[Category:Templates generating hCards]]
+}}</includeonly>

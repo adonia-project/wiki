@@ -1,0 +1,23 @@
+<includeonly>{{#switch: {{{1|}}}
+  |end |stop = </tr></table>
+  |begin |start | = {{#if: {{{description|}}} | {{Screen reader-only |Scarf colours: {{{description}}} }}}}
+    <table
+      role="presentation"
+      style="width:{{{width|100%}}}; border-collapse:collapse;" 
+      {{#if: {{{description|}}} | |aria-hidden="true"}}
+    >
+    <tr style="border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 5px; font-size: 95%; height:1.75em">
+  | =
+  | #default = {{#if: {{{description|}}}|{{Screen reader-only |Scarf colours: {{{description}}} }}}}
+    <table {{#if: {{{description|}}}|title="Scarf colours: {{{description}}}" aria-hidden="true"}}
+        role="presentation"
+        style="width:{{{width|100%}}}; {{#if:{{{2|}}}|font-size:66.7%;|}} border-collapse:collapse;"
+      >
+        <tr style="border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 5px; font-size: 95%;height:1.75em">{{{1|}}}</tr>
+        {{#if: {{{2|}}}
+          | <tr class="spacer" style="height:2px;"></tr>
+            <tr style="border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 5px; font-size: 95%; height:1.75em">{{{2}}}</tr>
+        }}
+      </table>
+}}</includeonly>
+<noinclude>{{documentation}}</noinclude>

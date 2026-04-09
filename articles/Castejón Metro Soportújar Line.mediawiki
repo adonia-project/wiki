@@ -1,0 +1,52 @@
+{{Infobox rail line
+| box_width       = 
+| name            = Castejón Metro Soportújar Line
+| native_name     = Linia de Metro de Castejón a Soportújar
+| native_name_lang= bl
+| other_name      = S
+| linenumber      = 12
+| color           = {{rcr|Castejón Metro|S}}
+| mapcolor        = {{rcb|Castejón Metro|S|box}} {{W|Chartreuse (color)|Chartreuse}} (#{{rcr|Castejón Metro|S}})
+| logo            = Toei Shinjuku line symbol.svg
+| logo_width      = 50px
+| image           = CMRT 10-300 series.png
+| image_width     = 300px
+| caption         = {{W|Toei 10-300 series|10-300 series}} trains on the Soportújar Line
+| type            = {{W|Rapid transit}}
+| system          = [[Concordia Rapid Transit]]
+| status          = 
+| locale          = [[Castejón Metropolis]]
+| start           = {{STN|Arraso|x}}
+| end             = {{STN|Mezquitilla|x}}
+| stations        = 15
+| routes          = 
+| daily_ridership = 1,206,682 (2016)
+| open            = {{start date and age|2012|11|01|df=y}}
+| close           = 
+| owner           = {{ric|Castejón Metro|name=y}}
+| character       = 
+| depot           = El Carmen
+| stock           = {{W|Toei 10-300 series|CMRT 10-300 series}}
+| linelength      = {{cvt|58.84|km|mi|abbr=on}}
+| tracklength     = 
+| tracks          = [[w:Double-track railway|Double-track]]
+| maxincline      = 5.0%
+| minradius       = {{cvt|100|m|ft}}
+| signalling      = {{W|Cab signalling}}, Closed block
+| trainprotection = [[w:CS-ATC|New CS-ATC]], [[w:Automatic train operation|ATO]]
+| gauge           = {{RailGauge|sg|allk=on}}
+| electrification = {{1,500 V DC}} ({{W|overhead line}})
+| speed           = {{cvt|90|km/h|mph|abbr=on}}
+| elevation       = 
+| map_state       = 
+| map             = 
+}}
+
+The '''Castejón Metro Soportújar Line''' ({{Lang-bl|Linia de Metro de Castejón a Soportújar}}) is a [[W:Rapid transit|subway]] line in [[Castejón]], [[Balisca]], operated by the [[Castejón Metro]]. The line runs between [[Arraso Station|Arraso]] in [[Calañas]] in the east and [[Mezquitilla Station|Mezquitilla]] ([[Llanito]]) in the west. The official name is '''Line 3 Soportújar Line'''.
+
+The line is named after [[Soportújar]] ({{Literal translation|place of the {{W|arcade (architecture)|arcades}}}}), a [[Planned communities in Balisca|new town]] and [[W:Interchange station|interchange station]] that it passes through. On maps and signboards, the line is shown in chartreuse. Stations carry the letter "S" followed by a two-digit number. 
+
+{{Castejón}}{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Castejón]]
+[[Category:Castejón Metro]]

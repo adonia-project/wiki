@@ -1,0 +1,8 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = New Caledonia
+| shortname alias = NCD
+| flag alias = Flag of New Caledonia.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}  <!-- only necessary if there is one or more flag alias-variant parameters, otherwise omit -->
+}}

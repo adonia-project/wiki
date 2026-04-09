@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Kosovo
+| flag alias = Flag of Kosovo.svg
+| flag alias-UNMIK = Flag of the United Nations.svg
+| flag alias-army = Flag of the Kosovo Security Force.svg
+| link alias-army = Kosovo Security Force
+| flag alias-military = Flag of the Kosovo Security Force.svg
+| link alias-military = Kosovo Security Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = UNMIK
+| redir1 = Republic of Kosovo
+</noinclude>
+}}

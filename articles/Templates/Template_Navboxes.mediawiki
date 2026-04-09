@@ -1,0 +1,13 @@
+{{Navbox
+|navbar = {{#ifeq:{{{state|}}}|off |off |plain}}
+|title = {{{title|Links to related articles}}}
+|list1 = {{{list1|{{{list|}}}}}}
+|state = {{{state|collapsed}}}
+|titlestyle = background:{{{bg|#e8e8ff}}};{{#if:{{{fg|}}}|color:{{{fg}}};}}{{#if:{{{bordercolor|}}}|border: 1px solid {{{bordercolor}}};}}{{{titlestyle|}}}
+|liststyle = padding:0px;font-size:113%;
+|listpadding = 0px;
+|tracking = no
+}}{{#if:{{{list1|{{{list|}}}}}}||[[Category:Navboxes template with no content]]}}<noinclude>
+
+{{documentation}}
+</noinclude>

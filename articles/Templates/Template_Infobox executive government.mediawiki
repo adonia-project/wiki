@@ -1,0 +1,60 @@
+
+{{infobox
+| abovestyle  = {{#if:{{{background_color|}}}|border-top: 2px solid {{{background_color}}}; border-bottom: 2px solid {{{background_color}}}|background-color: #ededed}}
+| above       = <includeonly><span class="fn org">{{{government_name|{{PAGENAMEBASE}}}}}</span></includeonly>
+| subheader    = {{{nativename|}}}
+| subheader2 = {{#if:{{{border|}}}|
+ <div style="font-family: serif; font-size: 100%; font-weight: bold; text-transform: uppercase;
+             line-height: 125%; color: black;">{{#switch:{{{border}}}
+ | regional = [[Local government|{{color|black|Regional government}}]]
+ | devolved = [[Devolution in the United Kingdom|{{color|black|Devolved government}}]]
+ | federal    = [[Federal government|{{color|black|Federal government}}]]
+ | central   = [[Central government|{{color|black|Central government}}]]
+ | state   = [[State government|{{color|black|State government}}]]
+ }}</div>}}
+| headerstyle = background-color: #efefef
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=100px|alt={{{alt|}}}}} {{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|size={{{image_size2|}}}|sizedefault=100px|alt={{{alt2|}}}}} {{#invoke:InfoboxImage|InfoboxImage|image={{{image3|}}}|size={{{image_size3|}}}|sizedefault=100px|alt={{{alt3|}}}}} {{#invoke:InfoboxImage|InfoboxImage|image={{{image4|}}}|size={{{image_size4|}}}|sizedefault=100px|alt={{{alt4|}}}}}
+| caption    = {{{caption|}}}
+| header1      = Overview
+
+| label2 = Established
+| data2 = {{{date|{{{date_established|}}}}}}
+
+| label3 = Dissolved
+| data3 = {{{date_dissolved|}}}
+
+| label4 = State
+| data4 = {{{state|}}}
+
+| label5 = Country
+| data5 = {{{country|}}}
+
+| label6 = Polity
+| data6 = {{{polity|}}}
+
+| label7 = Leader
+| data7 = {{{leader_title|}}}
+
+| label8 = Appointed by
+| data8 = {{{appointed|}}}
+
+| label9 = Main organ
+| data9 = {{{main_organ|}}}
+
+| label10 = Ministries
+| data10 =  {{{ministries|}}}
+
+| label11 = Responsible to
+| data11 = {{{responsible|}}}
+
+| label12 = Annual budget
+| data12 = {{{budget|}}}
+
+| label13 = Headquarters
+| data13 = {{{address|}}}
+
+| label14 = Website
+| data14 = {{{url|}}}
+}}<noinclude>
+{{documentation}}
+</noinclude>

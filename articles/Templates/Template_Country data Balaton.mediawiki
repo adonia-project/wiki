@@ -1,0 +1,7 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Balaton
+| shortname alias = BAT
+| flag alias = Flag of Balaton.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

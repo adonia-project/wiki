@@ -1,0 +1,10 @@
+<noinclude><table>
+</noinclude><tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;{{#if:{{{bg|}}}|background:{{{bg}}};}}">{{{1}}}</td>
+<td style="width: {{{barwidth|100px}}}; border-left: solid 1px silver; border-right: solid 1px silver;{{#if:{{{bg|}}}|background:{{{bg}}};}}"><div style="background:{{{2|gray}}}; width:{{{3|0}}}%; overflow: hidden;">&thinsp;</div></td>
+<td colspan="{{#if:{{{note|}}}|1|2}}" style="padding-left: 1.2em; padding-right: 0.4em; text-align: right;{{#if:{{{bg|}}}|background:{{{bg}}};}}">{{{4|{{{3|0}}}%}}}</td>
+{{#if:{{{note|}}}|<td style="padding-left: 0.4em; padding-right: 0.4em; text-align:right;{{#if:{{{bg|}}}|background:{{{bg}}};}}">{{{note}}}</td>}}
+</tr><noinclude>
+</table>
+{{Documentation}}
+</noinclude>

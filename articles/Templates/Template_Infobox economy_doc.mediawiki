@@ -1,0 +1,128 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+{{Lua|Module:Infobox|Module:InfoboxImage|Module:Check for unknown parameters}}
+
+== Usage ==
+{{Generic template demo
+ |country |image |image_size |caption |currency |fixed exchange |year |organs |group |population |gdp |gdp rank |growth |per capita |per capita rank |sectors |components |inflation |bankrate |poverty |risk of poverty |gini |hdi |cpi |labor |occupations |unemployment |average gross salary={{nowrap|{{{average gross salary}}}}} |average net salary={{nowrap|{{{average net salary}}}}}|consumption|gfcf |savings |yield curve |pmi |industries |exports |export-goods |export-partners |imports |import-goods |import-partners |FDI |current account |gross external debt={{nowrap|{{{gross external debt}}}}} |NIIP |debt |reserves |balance |revenue |expenses |aid |credit}}
+
+<syntaxhighlight lang="wikitext" style="overflow:auto;">
+{{Infobox economy
+| country    = 
+| image      = 
+| image_size = 
+| caption    = 
+| currency   = 
+| fixed exchange =
+| year       = 
+| organs     = 
+| group      = 
+| population =
+| gdp        = 
+| gdp rank   = 
+| growth     = 
+| per capita = 
+| per capita rank =
+| sectors    = 
+| components = 
+| inflation  =
+| bankrate   = 
+| poverty    = 
+| risk of poverty =
+| gini       = 
+| hdi        =
+| cpi        =
+| labor      = 
+| occupations = 
+| unemployment = 
+| average gross salary = 
+| average net salary =
+| consumption = 
+| gfcf       = 
+| savings    = 
+| yield curve = 
+| pmi        =  
+| industries = 
+| exports    = 
+| export-goods = 
+| export-partners = 
+| imports    = 
+| import-goods = 
+| import-partners = 
+| FDI        =
+| current account = 
+| gross external debt =
+| NIIP       = 
+| debt       = 
+| reserves   = 
+| balance    = 
+| revenue    = 
+| expenses   = 
+| aid        = 
+| credit     = 
+| spelling   = Oxford or US spells 'z', US '-or'; 's', '-our' spelling by default
+| usebelowbox = yes or no; default value is "yes"; shows/hides bottom box
+| presentUS$asdefault = yes or no; default value is "yes"; shows/hides statement about US$
+}}
+</syntaxhighlight>
+
+===Continents===
+<syntaxhighlight lang="wikitext" style="overflow:auto">
+{{Infobox economy
+| continent = 
+| population =
+| gdp = 
+| per capita = 
+| growth = 
+| millionaires = 
+| top ten percent income = 
+| external debt per gdp = 
+| external debt payments per gdp = 
+| foreign aid revenue per gdp = 
+| footnote =
+}}
+</syntaxhighlight>
+
+==Categories==
+*{{clc| Pages using infobox economy with unknown parameters}}
+
+==Template data==
+{{TemplateData header}}
+<templatedata>
+{
+	"description": "An infobox for economies",
+	"params": {
+		"country": {
+			"label": "Country",
+			"description": "Name of the country",
+			"type": "string"
+		},
+		"image": {
+			"label": "Image",
+			"description": "The name of the image file to display, without the \"File:\" prefix",
+			"type": "string"
+		},
+		"gdp": {
+			"label": "GDP",
+			"description": "Gross domestic product (typically nominal, unless stated otherwise)",
+			"type": "string"
+		},
+		"gdp rank": {
+			"label": "GDP Rank",
+			"description": "Gross domestic product rank (typically nominal, unless stated otherwise)",
+			"type": "string"
+		}
+	},
+	"format": "block"
+}
+</templatedata>
+
+== Microformat ==
+{{UF-adr}}
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Business infobox templates|Economy]]
+[[Category:Economics templates]]
+}}</includeonly>

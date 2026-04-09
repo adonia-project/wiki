@@ -1,0 +1,4 @@
+<includeonly>{{#invoke:Wikt-lang|wiktlang|{{{1|}}}|{{{2|}}}|{{{3|}}}|i={{{italics|{{{italic|{{{i}}}}}}}}}}}</includeonly><noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage and interwikis in Wikidata, not here! -->
+</noinclude>

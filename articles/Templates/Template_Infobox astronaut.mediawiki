@@ -1,0 +1,66 @@
+{{#invoke:Template wrapper|wrap|_template=infobox person
+| _alias-map = resting_place_coords:resting_place_coordinates,module:module2
+| _exclude = child,embed,type,current_occupation,previous_occupation,rank,time,space_time,flight_time,selection,eva1,evas,eva2,eva_time,mission,missions,insignia,Date of ret,retirement,memorials
+| template_name=infobox astronaut
+| child = {{lc:{{{child|{{{embed|}}}}}}}}
+| module = {{#if:{{{type|}}}{{{current_occupation|}}}{{{previous_occupation|}}}{{{rank|}}}{{{time|}}}{{{space_time|}}}{{{flight_time|}}}{{{selection|}}}{{{eva1|}}}{{{evas|}}}{{{eva2|}}}{{{eva_time|}}}{{{mission|}}}{{{missions|}}}{{{insignia|}}}{{{Date of ret|}}}{{{retirement|}}}{{{memorials|}}}
+
+  |{{Infobox
+  | child  = yes
+  | title  = '''Space career'''
+  | decat  = yes <!-- remove from template:infobox tracking categories -->
+
+| class1     = role
+| header1    = {{{type|}}}
+
+| label10    = {{longitem|Current occupation}}
+| class10    = role
+| data10     = {{{current_occupation|}}}
+
+| label11    = {{longitem|Previous occupation}}
+| class11    = role
+| data11     = {{{previous_occupation|}}}
+
+| label13    = Rank
+| class13    = title
+| data13     = {{{rank|}}}
+
+| rowclass14 = note
+| label14    = {{longitem|{{#if:{{{flight_time|}}}|Flight time|Time in space}}}}
+| data14     = {{if empty|{{{flight_time|}}}|{{{time|}}}|{{{space_time|}}}}}
+
+| label15    = Selection
+| data15     = {{{selection|}}}
+
+| label16    = {{longitem|Total [[Extravehicular activity|EVA]]s}}
+| data16     = {{if empty|{{{eva1|}}}|{{{evas|}}}}}
+
+| label17    = {{longitem|Total EVA time}}
+| data17     = {{if empty|{{{eva2|}}}|{{{eva_time|}}}}}
+
+| label18    = Missions
+| data18     = {{if empty|{{{mission|}}}|{{{missions|}}}}}
+
+| label19    = {{longitem|Mission insignia}}
+| data19     = {{{insignia|}}}
+
+| label20    = Retirement
+| data20     = {{if empty|{{{Date of ret|}}}|{{{retirement|}}}}}
+
+| label22    = Memorials
+| data22     = {{{memorials|}}}
+
+}} }}
+}}{{#invoke:Check for clobbered parameters|check
+| template = [[Template:Infobox astronaut]]
+| cat = {{main other|Category:Pages using infobox astronaut with conflicting parameters}}
+| resting_place_coords; resting_place_coordinates
+| module; module2
+| flight_time; time; space_time
+| eva1; evas
+| eva2; eva_time
+| mission; missions
+| Date of ret; retirement
+}}<noinclude>
+{{Documentation}}<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

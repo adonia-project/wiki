@@ -1,0 +1,33 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Soviet Union
+| flag alias = Soviet Union Flag.png
+| flag alias-1923 = Flag of the Soviet Union (1923-1955).svg
+| flag alias-1955 = Flag of the Soviet Union (1955-1980).svg
+| flag alias-1980 = Flag of the Soviet Union.svg
+| flag alias-naval = Naval Ensign of the Soviet Union.svg
+| flag alias-naval-1924 = Naval Ensign of the Soviet Union 1923.svg
+| flag alias-naval-1935 = Naval Ensign of the Soviet Union 1935.svg
+| link alias-naval = Soviet Navy
+| link alias-ice hockey = Soviet Union national {{{age|}}} ice hockey team
+| link alias-tennis = Russia {{{mw}}} Cup team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1923
+| var2 = 1955
+| var3 = 1980
+| var4 = naval-1924
+| var5 = naval-1935
+| redir1 = URS
+| redir2 = USSR
+| redir3 = SUN
+| redir4 = the Soviet Union
+| related1 = Commonwealth of Independent States
+</noinclude>
+}}<noinclude>
+[[af:Sjabloon:Landdata Sowjetunie]]
+[[sl:Predloga:Podatki države Sovjetska zveza]]
+</noinclude>

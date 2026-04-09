@@ -1,0 +1,149 @@
+{{Infobox
+| bodyclass  = vcard
+| child      = {{Yesno|{{{child|{{{embed|no}}}}}}}}
+
+| aboveclass = fn
+| above      = {{#ifeq:{{Yesno|{{{child|{{{embed|no}}}}}}}}|yes||{{#if: {{{name|}}} | {{{name}}} | {{PAGENAMEBASE}} }}}}
+
+| subheader  = {{#if:{{{native_name|}}}|{{#if:{{{native_name_lang|}}}|<div class="nickname" lang="{{{native_name_lang}}}">}}{{{native_name}}}{{#if:{{{native_name_lang|}}}|</div>}} }}
+| subheader2 = {{#switch:{{lc:{{{gender|}}}}} 
+   |male|m=&nbsp;<span role="img" class="gender" aria-label="Male" title="Male">&#9794;</span> 
+   |female|f=&nbsp;<span role="img" class="gender" aria-label="Female" title="Female">&#9792;</span> 
+   |#default= }} 
+   <span class="role">{{#if:{{{role|}}}|{{{role}}}|[[Professional bodybuilder|Professional bodybuilder]]}}</span>
+
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|upright=1|alt={{{alt|}}}|suppressplaceholder=yes}}
+| caption    = {{{caption|}}}
+
+| header1    = {{#if: {{{full_name|}}}{{{nickname|}}}{{{birth_date|}}}{{{birth_place|}}}{{{death_date|}}}{{{death_place|}}}{{{ne|}}}{{{nee|}}} | Personal info }}
+
+| class2     = nickname
+| label2     = Nickname
+| data2      = {{{nickname|}}}
+
+| label4     = Né
+| data4      = {{{ne|}}}
+
+| label5     = Née
+| data5      = {{{nee|}}}
+
+| label6     = Full&nbsp;name
+| data6      = {{{full_name|}}}
+
+| label7     = Born
+| data7      = {{br separated entries
+   |1={{#if:{{{birth_name|}}}|<span class="nickname">{{{birth_name|}}}</span>}}
+   |2={{#invoke:person date|birth}}
+   |3={{#if:{{{birth_place|}}}|<span class="birthplace">{{{birth_place|}}}</span>}}
+}}
+
+| label8     = Died
+| data8      = {{br separated entries
+  |1={{#invoke:person date|death}}
+  |2={{#if:{{{death_place|}}}|<span class="deathplace">{{{death_place|}}}</span>}}
+}}
+
+| header9    = Best statistics
+
+| label10    = Bench press
+| data10     = {{{bench_press|}}}
+
+| label11    = Biceps
+| data11     = {{{biceps|}}}
+
+| label12    = Body fat percentage
+| data12     = {{{body_fat_percentage|}}}
+
+| label13    = Calves
+| data13     = {{{calves|}}}
+
+| label14    = Chest
+| data14     = {{{chest|}}}
+
+| label15    = Contest weight
+| data15     = {{{contest_weight|}}}
+
+| label16    = Forearm
+| data16     = {{{forearm|}}}
+
+| label17    = Height
+| data17     = {{#if: {{{height|}}} | {{Infobox person/height| {{{height}}} }} }}
+
+| label18    = Hips
+| data18     = {{{hips|}}}
+
+| label19    = Neck
+| data19     = {{{neck|}}}
+
+| label20    = Off-season weight
+| data20     = {{{off_season_weight|}}}
+
+| label21    = Quads
+| data21     = {{{quads|}}}
+
+| label22    = Shoulders
+| data22     = {{{shoulders|}}}
+
+| label23    = Thighs
+| data23     = {{{thighs|}}}
+
+| label24    = Waist
+| data24     = {{{waist|}}}
+
+| label25    = Weight
+| data25     = {{#if: {{{weight|}}} | {{Infobox person/weight| {{{weight}}} }} }}
+
+| header26   = {{#if: {{{firstproshow|}}}{{{bestwin|}}}{{{predecessor|}}}{{{successor|}}}{{{active|}}}{{{yesorretiredyear|}}}{{{pro_years|}}}{{{coach|}}}{{{coaches|}}}{{{protege|}}}{{{proteges|}}} | Professional (Pro) career }}
+
+| label27    = Pro-debut
+| data27     = {{#if: {{{firstproshow|}}}{{{firstproshowyear|}}}|{{cslist|{{{firstproshow|}}}|{{{firstproshowyear|}}}}}}}
+
+| label28    = Best win
+| data28     = {{#if: {{{bestwin|}}}{{{bestwinyear|}}}|{{cslist|{{{bestwin|}}}|{{{bestwinyear|}}}}}}}
+
+| label29    = Best wins
+| data29     = {{#if: {{{bestwins|}}}{{{bestwinyears|}}}|{{cslist|{{{bestwins|}}}|{{{bestwinyears|}}}}}}}
+
+| label30    = Predecessor
+| data30     = {{{predecessor|}}}
+
+| label31    = Predecessors
+| data31     = {{{predecessors|}}}
+
+| label32    = Successor
+| data32     = {{{successor|}}}
+
+| label33    = Successors
+| data33     = {{{successors|}}}
+
+| label34    = Pro years
+| data34     = {{{pro_years|}}}
+
+| label35    = Active
+| data35     = {{{active|{{{yesorretiredyear|}}}}}}
+
+| label36    = Coach
+| data36     = {{{coach|}}}
+
+| label37    = Coaches
+| data37     = {{{coaches|}}}
+
+| label38    = Protégé
+| data38     = {{{protege|}}}
+
+| label39    = Protégés
+| data39     = {{{proteges|}}}
+
+| data40     = {{{module|}}}
+
+| header41   = {{Infobox medal templates
+  | medals = {{{medals| {{{medaltemplates| }}} }}}
+  | title  = {{{medals-title| {{{medaltemplates-title| }}} }}}
+  | expand = {{#ifeq: {{lc: {{{medals-expand| {{{medaltemplates-expand| {{{show-medals| }}} }}} }}} }}|no||yes}}
+  }}
+
+| data42     = {{{module2|}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox bodybuilder with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox bodybuilder]] with unknown parameter "_VALUE_"|ignoreblank=y| active | alt | bestwin | bestwinyear | bestwins | bestwinyears | birth_date | birth_place | caption | child | death_date | death_place | embed | firstproshow | firstproshowyear | full_name | gender | height | image | image_size | medals | medals-expand | medals-title | medaltemplates | medaltemplates-expand | medaltemplates-title | module | module2 | name | native_name | native_name_lang | nickname | predecessor | role | show-medals | successor | weight | yesorretiredyear | birth_name | ne | nee | bench_press | biceps | body_fat_percentage | calves | chest | contest_weight | forearm | hips | neck | off_season_weight | quads | shoulders | thighs | waist | best_wins | predecessors | successors | pro_years | coach | coaches | protege | proteges| active | alt | bestwin | bestwinyear | birth_date | birth_place | caption | child | death_date | death_place | embed | firstproshow | firstproshowyear | full_name | gender | height | image | image_size | medals | medals-expand | medals-title | medaltemplates | medaltemplates-expand | medaltemplates-title | module | module2 | name | native_name | native_name_lang | nickname | predecessor | role | show-medals | successor | weight | yesorretiredyear }}<noinclude>
+{{documentation}}<!-- Please add categories to the /doc subpage, not here. -->
+</noinclude>

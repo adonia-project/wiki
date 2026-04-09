@@ -1,0 +1,31 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Germany
+| flag alias = Flag of germany.png
+| flag alias-empire = Flag of the German Empire.svg
+| flag alias-Weimar = Flag of Germany (3-2 aspect ratio).svg
+| flag alias-1933 = National flag of Germany 1933-1935.svg
+| flag alias-Nazi = Flag of German Reich (1935–1945).svg
+| flag alias-EUA = Flag of German Olympic Team 1960-1968.svg
+| flag alias-naval = Naval Ensign of Germany.svg
+| border-naval =
+| link alias-naval = German Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = empire
+| var2 = Weimar
+| var3 = 1933
+| var4 = Nazi
+| var5 = EUA
+| redir1 = DEU
+| redir2 = GER
+| related1 = German Empire
+| related2 = Weimar Republic
+| related3 = Nazi Germany
+| related4 = Allied-occupied Germany
+| related5 = East Germany
+| related6 = West Germany
+</noinclude>
+}}

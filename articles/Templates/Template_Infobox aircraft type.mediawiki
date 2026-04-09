@@ -1,0 +1,91 @@
+<noinclude>{{Being deleted|2023 January 22|Template:Infobox aircraft begin|merge=Template:Infobox aircraft}}</noinclude><includeonly>
+{{#if:{{{subtemplate|<noinclude>-</noinclude>}}}|
+{{!}} colspan="2" style="text-align: center;" {{!}} {{{subtemplate}}}
+{{!}}-
+}}
+! Role
+{{!}} {{{type}}}<!-- Put short description here instead of at the top to avoid table syntax errors -->{{main other|{{short description|Type of aircraft|noreplace}}}}<!--End short description-->
+{{!}}-
+{{#if:{{{national origin|<noinclude>-</noinclude>}}}|
+! {{nowrap|National origin}} 
+{{!}} {{{national origin}}}
+{{!}}-
+}}
+{{#if:{{{manufacturer|<noinclude>-</noinclude>}}}|
+! Manufacturer{{#if:{{{manufacturers|}}}|s}}
+{{!}} {{{manufacturers|{{{manufacturer}}}}}}
+{{!}}-
+}}
+{{#if:{{{design group|<noinclude>-</noinclude>}}}|
+! Design group
+{{!}} {{{design group}}}
+{{!}}-
+}}
+{{#if:{{{designer|<noinclude>-</noinclude>}}}|
+! Designer
+{{!}} {{{designer}}}
+{{!}}-
+}}
+{{#if:{{{builder|<noinclude>-</noinclude>}}}|
+! Built by
+{{!}} {{{builder}}}
+{{!}}-
+}}
+{{#if:{{{first flight|<noinclude>-</noinclude>}}}|
+! First flight
+{{!}} {{{first flight}}}
+{{!}}-
+}}
+{{#if:{{{introduction|<noinclude>-</noinclude>}}}|
+! Introduction
+{{!}} {{{introduction}}}
+{{!}}-
+}}
+{{#if:{{{introduced|<noinclude>-</noinclude>}}}|
+! Introduction
+{{!}} {{{introduced}}}
+{{!}}-
+}}
+{{#if:{{{retired|<noinclude>-</noinclude>}}}|
+! Retired
+{{!}} {{{retired}}}
+{{!}}-
+}}
+{{#if:{{{status|<noinclude>-</noinclude>}}}|
+! Status
+{{!}} {{{status}}}
+{{!}}-
+}}
+{{#if:{{{primary user|<noinclude>-</noinclude>}}}|
+! Primary&nbsp;user{{#if: {{{more users|}}} |s}}
+{{!}} {{{primary user}}}{{#if:{{{more users|<noinclude>-</noinclude>}}}|
+<br />{{{more users}}} }}
+{{!}}-
+}}
+{{#if:{{{produced|<noinclude>-</noinclude>}}}|
+! Produced
+{{!}} {{{produced}}}
+{{!}}-
+}}
+{{#if:{{{number built|<noinclude>-</noinclude>}}}|
+! {{nowrap|Number built}}
+{{!}} {{{number built}}}
+{{!}}-
+}}
+{{#if:{{{developed from|<noinclude>-</noinclude>}}}|
+! {{nowrap|Developed from}}
+{{!}} {{{developed from}}}
+{{!}}-
+}}
+{{#if:{{{variants with their own articles|<noinclude>-</noinclude>}}}|
+! Variants
+{{!}} {{{variants with their own articles}}}
+{{!}}-
+}}
+{{#if:{{{developed into|<noinclude>-</noinclude>}}}|
+! {{nowrap|Developed into}}
+{{!}} {{{developed into}}}
+{{!}}-
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

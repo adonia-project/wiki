@@ -1,0 +1,38 @@
+<includeonly>
+====Speed====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Speed
+|+ Speed<br /><small>([[Template:Convert/list of units/speed|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+| style="text-align: center; vertical-align: top;" |'''SI'''
+{{convert/list of units/unitrow|m/s|us=meter per second|place=top}}
+* m/s ft/s (m/s foot/s)
+|-
+| style="text-align: center; vertical-align: top;" |'''non-SI metric'''
+{{convert/list of units/unitrow|km/h|us=kilometer per hour|place=top}}
+* km/h mph
+|-
+|rowspan=2  style="text-align: center; vertical-align: top;" |'''Imperial<br />&<br />US customary'''
+{{convert/list of units/unitrow|mph|place=top}}
+* mph km/h
+* mph kn
+{{convert/list of units/unitrow|ft/s|altab=foot/s|note={{convert/list of units/foot note|foot/s|foot per second}}}}
+* ft/s m/s
+|-
+|rowspan=1  style="text-align: center; vertical-align: top;" |'''Maritime units'''
+{{convert/list of units/unitrow|kn|place=top|altab=knot}}
+* kn mph
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/speed/short list]]
+</noinclude>

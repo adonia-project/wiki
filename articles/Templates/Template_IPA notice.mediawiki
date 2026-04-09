@@ -1,0 +1,10 @@
+{{Contains special characters
+| section    = {{{section|{{{1|}}}}}}
+| compact    = {{{compact|}}}
+| special    = [[International Phonetic Alphabet|IPA]] phonetic symbols
+| characters = [[Unicode]] characters
+| fix        = International Phonetic Alphabet#Technical note
+| image      = {{{image|Parentesi Quadre.svg}}}
+| alt        = []
+| link       = International Phonetic Alphabet#Brackets and phonemes
+}}<noinclude>{{documentation}}</noinclude>

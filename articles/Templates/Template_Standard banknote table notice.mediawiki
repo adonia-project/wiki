@@ -1,0 +1,13 @@
+<small>{{#if: {{{standard_scale|}}}|These images are to scale at 0.7 pixels per {{#if: {{{BrE|}}}|millimetre|millimeter}}.}}</small><noinclude>
+==Usage==
+This template only has 2 parameters. Use
+ standard_scale = Anything_that_is_not_an_empty_string
+to enable the clause "These images are to scale at 0.7 pixels per millimeter."
+
+ BrE = Anything_that_is_not_an_empty_string
+to override '''millimeter''' with '''millimetre'''
+==See also==
+{{tl|Standard coin table notice}}
+
+[[Category:Numismatics utility templates|{{PAGENAME}}]]
+</noinclude>

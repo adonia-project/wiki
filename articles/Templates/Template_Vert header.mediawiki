@@ -1,0 +1,8 @@
+<noinclude>
+{|class="wikitable sortable"
+!</noinclude> <!--
+Don't remove the space between the noinclue and this comment! It might break some tables with rowspan/colspan and it doesn't break anything if left here.
+-->{{#invoke:Vertical header|cell|text={{{1|<noinclude>Sample text</noinclude>}}}|vertAlign={{{va|}}}|maxWidth={{{mw|}}}|noBold={{{nb|}}}|class={{{class|}}}|style={{{style|}}}|cellstyle={{{cellstyle|}}}}}<noinclude>
+|}
+{{doc}}{{pp-template}}
+</noinclude>

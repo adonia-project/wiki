@@ -1,0 +1,28 @@
+<includeonly>
+====Explanation====
+</includeonly>
+{|class="wikitable"
+|- id=Explanation
+|+ Explanation
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+| style="vertical-align: top;" |the system(s) to which the unit belongs
+| style="vertical-align: top;" |units listed by name
+| style="vertical-align: top;" |unit-code to use in template
+| style="width:0; padding:0;" |
+| style="vertical-align: top;" |symbols shown in output
+| style="vertical-align: top;" |other notes about the units
+| style="vertical-align: top;" |sample of the default conversion for the unit
+| style="vertical-align: top;" |output codes for multiple conversions
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation formatting templates|explanation]]
+</noinclude>

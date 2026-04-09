@@ -1,0 +1,7 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Arab League
+| shortname alias = Arab League
+| flag alias = Flag of the Arab League.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

@@ -1,0 +1,26 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Namibia
+| flag alias = Flag of Namibia.svg
+| link alias-army = Namibian Army
+| flag alias-army = Flag of the Namibian Army.svg
+| link alias-naval = Namibian Navy
+| flag alias-naval = Flag of the Namibian Navy.svg
+| link alias-air force = Namibian Air Force
+| flag alias-air force = Flag of the Namibian Air Force.svg
+| link alias-navy = Namibian Navy
+| flag alias-navy = Flag of the Namibian Navy.svg
+| flag alias-military = Flag of the Namibian Defence Force.svg
+| link alias-military = Namibian Defence Force
+| flag alias-1990=Flag of Namibia (WFB 2000).svg
+| flag alias-2004=Flag of Namibia (WFB 2004).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+<noinclude>
+| var1= 1990
+| var2= 2004
+| redir1 = NAM
+</noinclude>
+}}

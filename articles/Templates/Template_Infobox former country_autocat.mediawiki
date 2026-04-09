@@ -1,0 +1,139 @@
+<!-- Start common name check
+-->{{#if:{{{common_name<includeonly>|</includeonly>}}}||
+{{!}}- style="font-size: 85%;"
+{{!}} colspan=2 {{!}} '''Warning''':  ''Value not specified for "[[Template:Infobox former country/doc#Name|common_name]]"''
+}}<!-- Start Continent/Region Categories
+-->{{#if:{{{continent|}}}|
+ {{#switch:{{{region}}}
+  |Italy = [[Category:Former countries on the Italian Peninsula|{{{common_name}}}, {{{year_start}}}]]
+  |Balkans = [[Category:Former countries in the Balkans|{{{common_name}}}, {{{year_start}}}]]
+  |British Isles = [[Category:Former countries in the British Isles|{{{common_name}}}, {{{year_start}}}]]
+  |Low Countries |Netherlands = [[Category:Former polities in the Netherlands|{{{common_name}}}, {{{year_start}}}]]
+  |Okaiken = [[Category:Former countries in Sanese history|{{{common_name}}}, {{{year_start}}}]]
+  |Kwangju= [[Category:Former countries in Kwangju history|{{{common_name}}}, {{{year_start}}}]]
+  |Malaysia = [[Category:Former countries in Malaysian history|{{{common_name}}}, {{{year_start}}}]]
+  |Peilan = [[Category:Former countries in Peilanese history|{{{common_name}}}, {{{year_start}}}]]
+  |Central Fosia|South Fosia|Southeast Fosia|East Fosia= [[Category:Former countries in {{{region}}}|{{{common_name}}}, {{{year_start}}}]]
+  |the Middle East|Middle East = [[Category:Former countries in the Middle East|{{{common_name}}}, {{{year_start}}}]]
+  |#default = {{#switch:{{ucfirst:{{{country}}}}}
+    |Peilan|Okaiken|Korea|Malaysia = [[Category:Former countries in {{{country}}} history|{{{common_name}}}, {{{year_start}}}]]]
+    |#default = {{#switch:{{{continent}}}
+      |Neridea|Fosia|Itzamna|Euphemia|Carreon = [[Category:Former countries in {{{continent}}}|{{{common_name}}}, {{{year_start}}}]]
+      |Caribbean=<!-- No category yet -->
+      |#default={{!}}- style="font-size: 85%;"
+       {{!}} colspan=2 {{!}} '''Warning''': ''Value specified for "[[Template:Infobox former country/doc#Location|continent]]" 
+  }}}}}}
+ |<includeonly>{{!}}- style="font-size: 85%;"
+  {{!}} colspan=2 {{!}} '''Warning''': ''Value not specified for "[[Template:Infobox former country/doc#Location|continent]]"''</includeonly>}}<!-- End Continent/Region Categories
+--><!-- Start Status Categories
+-->{{#if:{{{status|}}}| {{#switch:{{ucfirst:{{{status}}}}}
+  |Empire = [[Category:Former empires|{{{common_name}}}]]
+  |Federation |Federal = [[Category:Former federations|{{{common_name}}}]]
+  |Confederation = [[Category:Former confederations|{{{common_name}}}]]
+  |State union |State Union |Union = [[Category:Former state unions|{{{common_name}}}, {{{year_start}}}]]
+  |Unrecognized |Unrecognised |Unrecognized state |Unrecognised state |Unrecognized State |Unrecognised State=[[Category:Former unrecognized countries|{{{common_name}}}]]
+  |City-state |City-State |City state |City State |City ={{#switch:{{{empire|}}}
+    |Holy Roman Empire |HRE = [[Category:States of the Holy Roman Empire|{{{common_name}}}, {{{year_start}}}]][[Category:City-states|{{{common_name}}}, {{{year_start}}}]][[Category:Imperial free cities|{{{common_name}}}, {{{year_start}}}]]
+    |#default = [[Category:City-states|{{{common_name}}}, {{{year_start}}}]]
+  }}
+  |Commonwealth realm |Commonwealth Realm = [[Category:Former Commonwealth realms|{{{common_name}}}]]
+  |League of Nations Mandate |League of Nations |Mandate = [[Category:League of Nations mandates|{{{common_name}}}, {{{empire}}}]]
+  |United Nations Trust Territory| UN Trust Territory |Trust Territory=[[Category:United Nations Trust Territories|{{{common_name}}}, {{{empire}}}]]
+  |Protectorate = [[Category:Former {{#switch:{{{empire}}}|United Kingdom|UK|Britain=British}} protectorates|{{{common_name}}}, {{{empire}}}]]
+  |Client |Client state |Client State |Puppet |Puppet-state |Puppet state={{#switch:{{{empire|}}}
+    |First French Empire | France = [[Category:Client states of the Napoleonic Wars|{{{common_name}}}, {{{year_start}}}]]
+    |#default =  [[Category:Former client states|{{{common_name}}}, {{{year_start}}}]]
+  }}
+  |Vassal |Fief |Abbey= {{#switch:{{{empire|}}}
+    |Holy Roman Empire |HRE = [[Category:States of the Holy Roman Empire|{{{common_name}}}, {{{year_start}}}]]
+    |#default =  [[Category:Former vassal states|{{{common_name}}}, {{{year_start}}}]]
+  }}
+  |Satellite |Satellite State | Satellite state =[[Category:Soviet satellite states|{{{common_name}}}]]
+  |Colony={{#switch:{{ucfirst:{{{empire}}}}}
+    |United Kingdom |UK |British Empire |Britain=[[Category:Former British colonies|{{{common_name}}}, {{{empire}}}]]
+    |England=[[Category:Former English colonies|{{{common_name}}}, {{{empire}}}]]
+    |France |First French Empire| French Empire=[[Category:Former French colonies|{{{common_name}}}, {{{empire}}}]]
+    |NL |Netherlands |The Netherlands=[[Category:Former Dutch colonies|{{{common_name}}}, {{{empire}}}]]
+    |Belgium=[[Category:Former Belgian colonies|{{{common_name}}}, {{{empire}}}]]
+    |Spain |Spanish Empire=[[Category:Former Spanish colonies|{{{common_name}}}, {{{empire}}}]]
+    |Portugal=[[Category:Former Portuguese colonies|{{{common_name}}}, {{{empire}}}]]
+    |Germany |German Empire=[[Category:Former German colonies|{{{common_name}}}, {{{empire}}}]]
+    |Italy=[[Category:Former Italian colonies|{{{common_name}}}, {{{empire}}}]]
+    |Sweden=[[Category:Former Swedish colonies|{{{common_name}}}, {{{empire}}}]]
+    |Denmark=[[Category:Former Danish colonies|{{{common_name}}}, {{{empire}}}]]
+    |Norway=[[Category:Former Norwegian colonies|{{{common_name}}}, {{{empire}}}]]
+    |Okaiken=[[Category:Former Sanese colonies|{{{common_name}}}, {{{empire}}}]]
+    |#default = [[Category:Former colonies|{{{common_name}}}, {{{empire}}}]]
+  }}
+  |Exile |Exiled Government = [[Category:Governments in exile|{{{common_name}}}]]
+  |Provisional |Provisional Government |Provisional government = [[Category:Provisional governments|{{{common_name}}}]]
+  |Special |Special territory |Military occupation |Rump state= 
+  
+}}}}<!-- End Status Categories
+--><!-- Start Established Categories
+-->{{#if:{{{year_start|}}}<!--
+-->|{{#ifexist:Category:States and territories established in the {{{year_start}}}<!--
+    -->|[[Category:States and territories established in the {{{year_start}}}|{{{common_name}}}, {{{year_start}}}]]<!--
+    -->|{{#ifexist:Category:States and territories established in {{{year_start}}}<!--
+       -->|[[Category:States and territories established in {{{year_start}}}|{{{common_name}}}, {{{year_start}}}]]<!--
+       -->|{{#ifeq:{{Str find| {{{year_start}}} |BC}}|-1<!--
+          -->|{{#ifexist:Category:States and territories established in the {{#expr: {{{year_start}}}-{{{year_start}}}mod10}}s<!--
+             -->|[[Category:States and territories established in the {{#expr: {{{year_start}}}-{{{year_start}}}mod10}}s|{{{common_name}}}, {{{year_start}}}]]<!--
+             -->|{{#ifexist:Category:States and territories established in the {{Ordinal|{{#expr: ({{{year_start}}}-{{{year_start}}}mod100)/100+1}}}} century<!--
+                -->|[[Category:States and territories established in the {{Ordinal| {{#expr: ({{{year_start}}}-{{{year_start}}}mod100)/100+1}}}} century|{{{common_name}}}, {{{year_start}}}]]<!--
+                -->}}<!--
+             -->}}<!--
+          -->|{{#ifexist:Category:States and territories established in the {{#expr: {{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}-{{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}mod10}}s BC<!--
+             -->|[[Category:States and territories established in the {{#expr: {{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}-{{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}mod10}}s BC|{{{common_name}}}, {{{year_start}}}]]<!--
+             -->|{{#ifexist:Category:States and territories established in the {{Ordinal| {{#expr: ({{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }} - {{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}mod100)/100+1}}}} century BC<!--
+                -->|[[Category:States and territories established in the {{Ordinal|{{#expr: ({{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }} - {{Str mid| {{{year_start}}}||{{#expr: {{Str find|{{{year_start}}} |BC}}-1}} }}mod100)/100+1}}}} century BC|{{{common_name}}}, {{{year_start}}}]]<!--
+                -->}}<!--
+             -->}}<!--
+          -->}}<!--
+     -->}}<!--
+  -->}}<!--
+-->}}<!-- End Established Categories
+--><!-- Start Disestablished Categories
+-->{{#if:{{{year_end|}}}<!--
+-->|{{#ifexist:Category:States and territories disestablished in the {{{year_end}}}<!--
+    -->|[[Category:States and territories disestablished in the {{{year_end}}}|{{{common_name}}}, {{{year_end}}}]]<!--
+    -->|{{#ifexist:Category:States and territories disestablished in {{{year_end}}}<!--
+       -->|[[Category:States and territories disestablished in {{{year_end}}}|{{{common_name}}}, {{{year_end}}}]]<!--
+       -->|{{#ifeq:{{Str find| {{{year_end}}} |BC}}|-1<!--
+          -->|{{#ifexist:Category:States and territories disestablished in the {{#expr: {{{year_end}}}-{{{year_end}}}mod10}}s<!--
+             -->|[[Category:States and territories disestablished in the {{#expr: {{{year_end}}}-{{{year_end}}}mod10}}s|{{{common_name}}}, {{{year_end}}}]]<!--
+             -->|{{#ifexist:Category:States and territories disestablished in the {{Ordinal|{{#expr: ({{{year_end}}}-{{{year_end}}}mod100)/100+1}}}} century<!--
+                -->|[[Category:States and territories disestablished in the {{Ordinal| {{#expr: ({{{year_end}}}-{{{year_end}}}mod100)/100+1}}}} century|{{{common_name}}}, {{{year_end}}}]]<!--
+                -->}}<!--
+             -->}}<!--
+          -->|{{#ifexist:Category:States and territories disestablished in the {{#expr: {{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}-{{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}mod10}}s BC<!--
+             -->|[[Category:States and territories disestablished in the {{#expr: {{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}-{{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}mod10}}s BC|{{{common_name}}}, {{{year_end}}}]]<!--
+             -->|{{#ifexist:Category:States and territories disestablished in the {{Ordinal|{{#expr: ({{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }} - {{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}mod100)/100+1}}}} century BC<!--
+                -->|[[Category:States and territories disestablished in the {{Ordinal|{{#expr: ({{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }} - {{Str mid| {{{year_end}}}||{{#expr: {{Str find|{{{year_end}}} |BC}}-1}} }}mod100)/100+1}}}} century BC|{{{common_name}}}, {{{year_end}}}]]<!--
+                -->}}<!--
+             -->}}<!--
+          -->}}<!--
+     -->}}<!--
+  -->}}<!--
+-->}}<!-- End Disestablished Categories
+--><noinclude>
+{{Documentation|content=
+This subtemplate of {{tl|Infobox country}} is used to automatically add categories to articles which transclude this template.  It should not be used directly
+
+=== Establishment dates ===
+*First the template tests to see if "Category:States and territories established in the {{{year_start}}}" exists.  If so, it is added.
+*If not, the template tests to see if "Category:States and territories established in {{{year_start}}}" exists.  If so, it is added.
+*If not, the template tests to see if "Category:States and territories established in the DECADEs" where DECADE is the decade containing {{{year_start}}} (ie {{cl|States and territories established in the 120s BC}}).  If so, it is added.
+*If not, the template tests to see if "Category:States and territories established in the Nth century" where N is the century containing {{{year_start}}} (ie {{cl|States and territories established in the 1st century BC}}).  If so, it is added.
+
+The reason for the first case is in case an imprecise date is imputed, such as "the 820s" or "the 18th century", before trying exact dates like "1820".
+
+=== Disestablishment dates ===
+*First the template tests to see if "Category:States and territories disestablished in the {{{year_start}}}" exists.  If so, it is added.
+*If not, the template tests to see if "Category:States and territories disestablished in {{{year_start}}}" exists.  If so, it is added.
+*If not, the template tests to see if "Category:States and territories disestablished in the DECADEs" where DECADE is the decade containing {{{year_start}}} (ie {{cl|States and territories disestablished in the 120s BC}}).  If so, it is added.
+*If not, the template tests to see if "Category:States and territories disestablished in the Nth century" where N is the century containing {{{year_start}}} (ie {{cl|States and territories disestablished in the 1st century BC}}).  If so, it is added.
+
+The reason for the first case is in case an imprecise date is imputed, such as "the 820s" or "the 18th century", before trying exact dates like "1820".
+}}
+</noinclude>

@@ -1,0 +1,42 @@
+{{Sidebar with collapsible lists
+|name = Cannabis in Balisca
+|class = hlist
+|style = border-width:2px;border-style:ridge;border-color:grey;
+|pretitle = Part of [[:Category:Cannabis in Balisca|series]] on
+|titlestyle = <!--background:white;-->font-size:145%;font-weight:heavy;
+|title = [[Cannabis in Balisca]]
+|imagestyle = padding-bottom:1.0em;border-bottom:1px solid #CC0000;
+|image = [[File:Balisca cannabis flag.svg|250px|link=Cannabis in Balisca]]
+|caption = A variation of the Baliscan flag with a cannabis leaf imposed over the white band.
+|listtitlestyle = text-align:center;background:#eee;padding:0.1em 0;;font-size:105%;
+|headingstyle = background:#EEE;padding:0.1em 0;;font-size:95%;
+|contentstyle = padding:0.2em 0 0.6em;;font-size:95%;
+
+|heading1=   [[Cannabis Initiative|Confederal initiative]]
+|content1 = 
+*[[Legal history of cannabis in Balisca|Legal history]]
+* ''[[Cannabis Act]]''
+*[[Marijuana for Medical Purposes Regulations|Medical regulations]]
+* [[An Act to amend the Criminal Code (offences relating to conveyances)|''Criminal Code'']]
+
+|heading2= [[Cannabis laws of Balisca by region or territory|Regional and territorial regulations]]
+|content2  = 
+* [[Cannabis in Bayara|Bayara]]
+* [[Cannabis in Araucaria|Araucaria]]
+* [[Cannabis in Castejón|Castejón]]
+* [[Cannabis in Cerdanya|Cerdanya]]
+* [[Cannabis in Hesperia|Hesperia]]
+* [[Cannabis in Estuaria|Estuaria]]
+    
+|heading3 = Other jurisdictions
+|content3= 
+*[[Cannabis and the Baliscan military|Military]]
+* [[Cannabis in Baliscan Indigenous nations|Indigenous nations]]
+
+|belowstyle = border-top:1px solid #CC0000;border-bottom:1px solid #CC0000;font-size:85%;
+|below =[[Portal:Cannabis|Cannabis portal]]<br>[[Portal:Balisca|Balisca portal]]
+
+}}<noinclude>
+[[Category:Cannabis templates|Balisca sidebar]]
+[[Category:Balisca sidebar templates|Cannabis sidebar]]
+</noinclude>

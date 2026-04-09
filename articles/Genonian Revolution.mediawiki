@@ -1,0 +1,54 @@
+{{Infobox military conflict
+| conflict          = Genonian Revolution
+| partof            = 
+| image             = {{Multiple image |total_width=300 |border=infobox |perrow=2/1/2
+ | image1 = TBD.jpg
+ | image2 = TBD.jpg
+ | image3 = TBD.jpg
+ | image4 = TBD.jpg
+ | image5 = TBD.jpg
+ | footer = From top to bottom, left to right: <br>
+{{flatlist|class=inline|
+* TBD
+* TBD
+* TBD
+* TBD
+* TBD
+}}
+}}
+| image_size        = 300px
+| caption           = 
+| date              = {{abbr|2268|1884 (Earth Year Equivalent)}}
+| place             = Geno
+| result            = Revolutionary victory
+| territory         = * [[NAME dynasty]] is overthrown
+* Revolutionaries establish the [[Republic of Geno]]
+| combatant1        = {{Tree list}}
+* {{flag|Geno}}
+** [[Military of the Kingdom of Geno|Royal Army]]
+** [[Royalists]]
+{{Tree list/end}}
+| combatant2        = {{Tree list}}
+* Revolutionaries
+** [[Republicans]]
+** [[Reformists]]
+{{Tree list/end}}
+| combatant3        = 
+| commander1        = {{Indented plainlist|
+* {{Flagicon|Geno}} [[KING]]
+* {{Flagicon|Geno}} [[PERSON]]
+}}
+| commander2        = {{Plainlist|
+* {{Flagicon|Geno}} [[PERSON]]
+* {{Flagicon|Geno}} [[PERSON]]
+}}
+| commander3        = 
+| strength1         = {{Flagicon|Geno}} NUM
+| strength2         = {{Flagicon|Geno}} NUM
+| casualties1       = {{Flagicon|Geno}} {{abbr|est.|estimation}} NUM
+| casualties2       = {{Flagicon|Geno}} {{abbr|est.|estimation}} NUM
+}}
+
+The '''Genonian Revolution''' U/C
+
+[[Category:Geno]][[Category:MyNameJuls]][[Category:Basis]]

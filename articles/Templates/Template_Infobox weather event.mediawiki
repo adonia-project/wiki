@@ -1,0 +1,54 @@
+<includeonly><templatestyles src="Template:Infobox weather event/styles.css"/>{{#ifeq: {{{name|}}} | {{FULLPAGENAME}}
+| {{preview warning|The article title was redundantly supplied in {{para|name}}. Remove this parameter; the article title is used as the name by default.}}
+}}<table class="infobox ib-weather-event"><caption class="infobox-title">{{{name|{{FULLPAGENAME}}}}}</caption>
+{{Infobox
+| child = {{{child|yes}}}
+| bodystyle = {{{bodystyle|}}}
+| title = {{#ifeq: {{{child|yes}}} 
+  | yes
+  || {{{name|{{FULLPAGENAME}}}}}
+}}
+
+| image = {{#if: {{both|{{{image|}}}|{{{track|{{{forecast|}}}}}}}} 
+  | <table style="width:100%; border-collapse:collapse; font-size:94%; line-height:125%;">
+    <tr style="vertical-align: top">
+      <td style="vertical-align: middle; text-align:center;">{{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{width|{{{image-width|{{{image-size|}}}}}}}}}|sizedefault=frameless|upright={{{image-upright|{{#ifeq: {{lc:{{last word|{{PAGENAME}}}}}} | season | 0.6 | 0.7 }}}}}|alt={{{alt|Satellite image of {{{name|{{FULLPAGENAME}}}}}}}}|suppressplaceholder=yes}}<div style="margin-top: 0.3em;">{{{caption|Satellite image}}}</div></td>
+      <td style="vertical-align: middle; text-align:center;">{{#if: {{{forecast|}}}
+        | {{#invoke:InfoboxImage|InfoboxImage|image={{{forecast|}}}|size={{{forecast-width|{{{forecast-size|}}}}}}|sizedefault=frameless|upright={{{forecast-upright|0.7}}}|alt={{{forecast-alt|Forecast map for {{{name|{{FULLPAGENAME}}}}}}}}|suppressplaceholder=yes}}<div style="margin-top: 0.3em;">{{{forecast-caption|Forecast map}}}</div>
+        | {{#invoke:InfoboxImage|InfoboxImage|image={{{track|}}}|size={{{track-width|{{{track-size|}}}}}}|sizedefault=frameless|upright={{{track-upright|0.7}}}|alt={{{track-alt|Track map for {{{name|{{FULLPAGENAME}}}}}}}}|suppressplaceholder=yes}}<div style="margin-top: 0.3em;">{{{track-caption|Track map}}}</div>
+      }}</td>
+    </tr>
+  </table>
+  | {{#if: {{{image|}}}
+    | {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{width|{{{image-width|{{{image-size|}}}}}}}}}|sizedefault=frameless|upright={{{image-upright|{{#ifeq: {{lc:{{last word|{{PAGENAME}}}}}} | season | 0.6 | 1 }}}}}|alt={{{alt|}}}|suppressplaceholder=yes}}
+  }}{{#if: {{{forecast|}}}
+    | {{#invoke:InfoboxImage|InfoboxImage|image={{{forecast|}}}|size={{{forecast-width|{{{forecast-size|}}}}}}|sizedefault=frameless|upright={{{forecast-upright|1.3}}}|alt={{{forecast-alt|Forecast map for {{{name|{{FULLPAGENAME}}}}}}}}|suppressplaceholder=yes}}
+    | {{#if: {{{track|}}}
+      | {{#invoke:InfoboxImage|InfoboxImage|image={{{track|}}}|size={{{track-width|{{{track-size|}}}}}}|sizedefault=frameless|upright={{{track-upright|1}}}|alt={{{track-alt|Track map for {{{name|{{FULLPAGENAME}}}}}}}}|suppressplaceholder=yes}}
+    }}
+  }}
+}}
+| caption = {{#if: {{both|{{{image|}}}|{{{track|{{{forecast|}}}}}}}} 
+  | <!-- captioned above -->
+  | {{#if: {{{image|}}}
+    | {{{caption|}}}
+  }}{{#if: {{{forecast|}}}
+    | {{{forecast-caption|Forecast map for {{{name|{{FULLPAGENAME}}}}}}}}
+    | {{#if: {{{track|}}}
+      | {{{track-caption|Track map for {{{name|{{FULLPAGENAME}}}}}}}}
+    }}
+  }}
+}}
+
+| label1 = Location
+| data1 = {{{location|{{{place|}}}}}}
+| label2 = Coordinates
+| data2 = {{{coordinates|}}} 
+| label3 = Cause
+| data3 = {{{cause|}}}
+}}{{#if: {{yesno|{{{no-history|}}}}} || {{#if:
+  {{{as|}}}{{{duration|}}}{{{date|}}}{{{formed|}}}{{{renamed|}}}{{{crossed-over|{{{crossed|}}}}}}{{{exited|{{{exited-land|}}}}}}{{{subtropical|}}}{{{remnant|{{{low|{{{remnant-low|}}}}}}}}}{{{post-tropical|}}}{{{extratropical-label|}}}{{{extratropical|}}}{{{dissipated|}}}
+  | {{#invoke:Template wrapper|wrap|_template=Infobox weather event/History|_exclude=name}}
+}}}}{{#if: {{yesno|{{{footer|}}}}}{{{1|}}}
+| {{{1|}}}</table>
+}}</includeonly>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox weather event with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox weather event]] with unknown parameter "_VALUE_"|ignoreblank=y| 1 | alt | as | bodystyle | caption | cause | child | coordinates | crossed | crossed-over | date | dissipated | duration | exited | exited-land | extratropical | extratropical-label | forecast | forecast-alt | forecast-caption | forecast-size | forecast-upright | forecast-width | footer | formed | image | image-size | image-upright | image-width | location | low | name | no-history | place | post-tropical | remnant | renamed | remnant-low | subtropical | track | track-alt | track-caption | track-size | track-upright | track-width | width }}<noinclude>{{Documentation}}</noinclude>

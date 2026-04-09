@@ -1,0 +1,164 @@
+{{Infobox 
+| bodyclass   = vcard
+| child       = {{{child|}}}
+
+| abovestyle  = font-size: 125%; {{#if:{{{background_color|}}}|border-top: 2px solid {{{background_color}}}; border-bottom: 2px solid {{{background_color}}}|background-color: #ededed}}
+| above       = <includeonly><div style="display:inline" class="fn org">{{{name}}}</div> {{#if:{{{native_name|}}}|<br /><div style="display:inline" class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>{{#if:{{{transcription_name|}}}|<br /><div style="display:inline" class="nickname">{{{transcription_name}}}</div>}}}}</includeonly>
+
+| subheader   = {{{legislature|}}}
+| image       = {{#invoke:InfoboxImage|InfoboxImage |image={{{coa_pic|{{{coa-pic|}}}}}} |size={{{coa_res|{{{coa-res|}}}}}} |sizedefault=frameless |upright=yes |alt={{{coa_alt|{{{coa-alt|Coat of arms or logo}}}}}} }}
+| caption     = {{{coa_caption|}}}
+| image2      = {{#invoke:InfoboxImage |InfoboxImage |image={{{logo|{{{logo_pic|{{{logo-pic|}}}}}}}}} |size={{{logo_res|{{{logo-res|}}}}}} |sizedefault=frameless |upright=yes |alt={{{logo_alt|{{{logo-alt|Logo}}}}}} }}
+| caption2    = {{{logo_caption|}}}
+
+| headerstyle = {{#if:{{{background_color|}}}|border-top: 2px solid {{{background_color}}}; border-bottom: 2px solid {{{background_color}}}|background-color: #ededed}}
+| labelstyle  = {{{labelstyle|}}}
+
+| header1     = {{#if:{{{house_type|}}}{{{houses|}}}{{{term_limits|}}}|Type}}
+| label2      = Type
+| data2       = {{#if:{{{house_type|}}} |<div style="padding:0.1em 0;line-height:1.3em;<!--(modified longitem)-->"><div style="display:inline" class="category">{{#ifexist:{{{house_type}}}|[[{{{house_type}}}]]|{{{house_type}}}}}</div> {{#if:{{{body|}}} |of the [[{{{body}}}]]}} {{#if:{{{jurisdiction|}}} |of [[{{{jurisdiction}}}]]}}</div>}}
+| label3      = {{#if:{{{houses|}}}|Houses|Chambers}}
+| data3       = {{#if:{{{houses|}}}|{{{houses}}}|{{{chambers|}}}}}
+| label4      = {{#if:{{{pres-in-parl|}}}{{{crown-in-parl|}}}|[[King-in-Parliament|Sovereign]]|}}
+| data4       = {{#if:{{{pres-in-parl|}}}|{{{pres-in-parl}}}|{{{crown-in-parl|}}}}}
+| label5      = {{longitem|Term limits}}
+| data5       = {{{term_limits|}}}
+
+| header6     = {{#if:{{{foundation|}}}{{{disbanded|}}}{{{preceded_by|}}}{{{succeeded_by|}}}{{{new_session|}}}|History}}
+| label7      = {{#if:{{{foundation|}}}|Founded|Established}}
+| data7       = {{#if:{{{foundation|}}}|{{{foundation}}}|{{{established|}}}}}
+| label8      = Disbanded
+| data8       = {{{disbanded|}}}
+| label9      = Preceded&nbsp;by
+| data9       = {{{preceded_by|}}}
+| label10     = Succeeded&nbsp;by
+| data10      = {{{succeeded_by|}}}
+| label11     = {{longitem|New session started}}
+| data11      = {{{new_session|}}}
+
+| header14    = {{#if:{{{leader1|}}}{{{leader2|}}}{{{leader3|}}}{{{leader4|}}}{{{leader5|}}}{{{leader6|}}}{{{leader7|}}}{{{leader8|}}}|Leadership}}
+| label15     = {{longitem|{{{leader1_type|}}}}}
+| data15      = {{#if:{{{leader1|}}} |{{longitem|style=line-height:1.3em|{{{leader1|}}}{{#if:{{{party1|}}}|{{#ifeq:{{Str index|{{{party1|}}}|1}}|(||,}}&#32;{{{party1|}}}}} {{#if:{{{election1|}}}|<br/>since {{{election1|}}}|{{#if:{{{leader1_term|}}}|<br/>{{{leader1_term}}}}} }} }} }}
+| label16     = {{longitem|style=line-height:1.3em|{{{leader2_type|}}}}}
+| data16      = {{#if:{{{leader2|}}} |{{longitem|style=line-height:1.3em|{{{leader2|}}}{{#if:{{{party2|}}}|{{#ifeq:{{Str index|{{{party2|}}}|1}}|(||,}}&#32;{{{party2|}}}}} {{#if:{{{election2|}}}|<br/>since {{{election2|}}}|{{#if:{{{leader2_term|}}}|<br/>{{{leader2_term}}}}} }} }} }}
+| label17     = {{longitem|style=line-height:1.3em|{{{leader3_type|}}}}}
+| data17      = {{#if:{{{leader3|}}} |{{longitem|style=line-height:1.3em|{{{leader3|}}}{{#if:{{{party3|}}}|{{#ifeq:{{Str index|{{{party3|}}}|1}}|(||,}}&#32;{{{party3|}}}}} {{#if:{{{election3|}}}|<br/>since {{{election3|}}}|{{#if:{{{leader3_term|}}}|<br/>{{{leader3_term}}}}} }} }} }}
+| label18     = {{longitem|style=line-height:1.3em|{{{leader4_type|}}}}}
+| data18      = {{#if:{{{leader4|}}} |{{longitem|style=line-height:1.3em|{{{leader4|}}}{{#if:{{{party4|}}}|{{#ifeq:{{Str index|{{{party4|}}}|1}}|(||,}}&#32;{{{party4|}}}}} {{#if:{{{election4|}}}|<br/>since {{{election4|}}}|{{#if:{{{leader4_term|}}}|<br/>{{{leader4_term}}}}} }} }} }}
+| label19     = {{longitem|style=line-height:1.3em|{{{leader5_type|}}}}}
+| data19      = {{#if:{{{leader5|}}} |{{longitem|style=line-height:1.3em|{{{leader5|}}}{{#if:{{{party5|}}}|{{#ifeq:{{Str index|{{{party5|}}}|1}}|(||,}}&#32;{{{party5|}}}}} {{#if:{{{election5|}}}|<br/>since {{{election5|}}}|{{#if:{{{leader5_term|}}}|<br/>{{{leader5_term}}}}} }} }} }}
+| label20     = {{longitem|style=line-height:1.3em|{{{leader6_type|}}}}}
+| data20      = {{#if:{{{leader6|}}} |{{longitem|style=line-height:1.3em|{{{leader6|}}}{{#if:{{{party6|}}}|{{#ifeq:{{Str index|{{{party6|}}}|1}}|(||,}}&#32;{{{party6|}}}}} {{#if:{{{election6|}}}|<br/>since {{{election6|}}}|{{#if:{{{leader6_term|}}}|<br/>{{{leader6_term}}}}} }} }} }}
+| label21     = {{longitem|style=line-height:1.3em|{{{leader7_type|}}}}}
+| data21      = {{#if:{{{leader7|}}} |{{longitem|style=line-height:1.3em|{{{leader7|}}}{{#if:{{{party7|}}}|{{#ifeq:{{Str index|{{{party7|}}}|1}}|(||,}}&#32;{{{party7|}}}}} {{#if:{{{election7|}}}|<br/>since {{{election7|}}}|{{#if:{{{leader7_term|}}}|<br/>{{{leader7_term}}}}} }} }} }}
+| label22     = {{longitem|style=line-height:1.3em|{{{leader8_type|}}}}}
+| data22      = {{#if:{{{leader8|}}} |{{longitem|style=line-height:1.3em|{{{leader8|}}}{{#if:{{{party8|}}}|{{#ifeq:{{Str index|{{{party8|}}}|1}}|(||,}}&#32;{{{party8|}}}}} {{#if:{{{election8|}}}|<br/>since {{{election8|}}}|{{#if:{{{leader8_term|}}}|<br/>{{{leader8_term}}}}} }} }} }}
+| label23     = {{longitem|style=line-height:1.3em|{{{leader9_type|}}}}}
+| data23      = {{#if:{{{leader9|}}} |{{longitem|style=line-height:1.3em|{{{leader9|}}}{{#if:{{{party9|}}}|{{#ifeq:{{Str index|{{{party9|}}}|1}}|(||,}}&#32;{{{party9|}}}}} {{#if:{{{election9|}}}|<br/>since {{{election9|}}}|{{#if:{{{leader9_term|}}}|<br/>{{{leader9_term}}}}} }} }} }}
+| label24     = {{longitem|style=line-height:1.3em|{{{leader10_type|}}}}}
+| data24      = {{#if:{{{leader10|}}} |{{longitem|style=line-height:1.3em|{{{leader10|}}}{{#if:{{{party10|}}}|{{#ifeq:{{Str index|{{{party10|}}}|1}}|(||,}}&#32;{{{party10|}}}}} {{#if:{{{election10|}}}|<br/>since {{{election10|}}}|{{#if:{{{leader10_term|}}}|<br/>{{{leader10_term}}}}} }} }} }}
+
+| header25    = {{#if:{{{structure1|}}}{{{political_groups1|}}}{{{structure2|}}}{{{political_groups2|}}}{{{committees1|}}}{{{committees2|}}}{{{joint_committees|}}}{{{term_length|}}}{{{authority|}}}{{{salary|}}} {{{seats1|}}}{{{seats2|}}}{{{seats3|}}}{{{seats4|}}}{{{seats5|}}}{{{seats6|}}}{{{seats7|}}}{{{seats8|}}}|Structure}}
+| label26     = Seats
+| data26      = {{#if:{{{members|}}}|{{{members}}}|{{{seats|}}}}}
+| data27      = {{#invoke:InfoboxImage|InfoboxImage|image={{{structure1|}}}|size={{{structure1_res|}}}|sizedefault=120px|alt={{{structure1_alt|}}}}}
+| label28     = {{longitem|{{#if:{{{house1|}}}|{{{house1}}} political groups|Political groups}}}}
+| data28      = {{{political_groups1|}}}
+| data29      = {{#invoke:InfoboxImage|InfoboxImage|image={{{structure2|}}}|size={{{structure2_res|}}}|sizedefault=120px|alt={{{structure2_alt|}}}}}
+| label30     = {{longitem|{{#if:{{{house2|}}}|{{{house2}}} political groups|Political groups}}}}
+| data30      = {{{political_groups2|}}}
+| label31     = {{#if:{{{house1|}}}|{{{house1}}} committees|Committees}}
+| data31      = {{{committees1|}}}
+| label32     = {{#if:{{{house2|}}}|{{{house2}}} committees|Committees}}
+| data32      = {{{committees2|}}}
+| label33     = {{longitem|Joint committees}}
+| data33      = {{{joint_committees|}}}
+| label34     = {{longitem|Length of term}}
+| data34      = {{{term_length|}}}
+| label35     = Authority
+| data35      = {{{authority|}}}
+| label36     = Salary
+| data36      = {{{salary|}}}
+
+| label37     = {{longitem|{{{seats1_title|}}}}}
+| data37      = {{{seats1|}}}
+| label38     = {{longitem|{{{seats2_title|}}}}}
+| data38      = {{{seats2|}}}
+| label39     = {{longitem|{{{seats3_title|}}}}}
+| data39      = {{{seats3|}}}
+| label40     = {{longitem|{{{seats4_title|}}}}}
+| data40      = {{{seats4|}}}
+| label41     = {{longitem|{{{seats5_title|}}}}}
+| data41      = {{{seats5|}}}
+| label42     = {{longitem|{{{seats6_title|}}}}}
+| data42      = {{{seats6|}}}
+| label43     = {{longitem|{{{seats7_title|}}}}}
+| data43      = {{{seats7|}}}
+| label44     = {{longitem|{{{seats8_title|}}}}}
+| data44      = {{{seats8|}}}
+| label45     = {{longitem|{{{seats9_title|}}}}}
+| data45      = {{{seats9|}}}
+| label46     = {{longitem|{{{seats10_title|}}}}}
+| data46      = {{{seats10|}}}
+
+| header47    = {{#if:{{{voting_system1|}}}{{{voting_system2|}}}{{{first_election1|}}}{{{first_election2|}}}{{{first_election3|}}}{{{last_election1|}}}{{{last_election2|}}}{{{last_election3|}}}{{{next_election1|}}}{{{next_election2|}}}{{{next_election3|}}}{{{redistricting|}}}|Elections}}
+| label48     = {{longitem|{{#if:{{{house1|}}}|{{{house1}}} [[w:electoral system|voting system]]|[[w:electoral system|Voting system]]}}}}
+| data48      = {{{voting_system1|}}}
+| label49     = {{longitem|{{#if:{{{house2|}}}|{{{house2}}} [[w:electoral system|voting system]]|[[w:electoral system|Voting system]]}}}}
+| data49      = {{{voting_system2|}}}
+
+| label50     = {{longitem|{{#if:{{{house1|}}}|First {{{house1}}} election|First election}}}}
+| data50      = {{{first_election1|}}}
+| label51     = {{longitem|{{#if:{{{house2|}}}|First {{{house2}}} election|First election}}}}
+| data51      = {{{first_election2|}}}
+| label52     = {{longitem|First general election}}
+| data52      = {{{first_election3|}}}
+
+| label53     = {{longitem|{{#if:{{{house1|}}}|Last {{{house1}}} election|Last election}}}}
+| data53      = {{{last_election1|}}}
+| label54     = {{longitem|{{#if:{{{house2|}}}|Last {{{house2}}} election|Last election}}}}
+| data54      = {{{last_election2|}}}
+| label55     = {{longitem|Last general election}}
+| data55      = {{{last_election3|}}}
+| label56     = {{longitem|{{#if:{{{house1|}}}|Next {{{house1}}} election|Next election}}}}
+| data56      = {{{next_election1|}}}
+| label57     = {{longitem|{{#if:{{{house2|}}}|Next {{{house2}}} election|Next election}}}}
+| data57      = {{{next_election2|}}}
+| label58     = {{longitem|Next general election}}
+| data58      = {{{next_election3|}}}
+| label59     = Redistricting
+| data59      = {{{redistricting|}}}
+
+| header60    = {{#if:{{{motto|}}}|Motto}}
+| data61      = {{{motto|}}}
+
+| header62    = {{#if:{{{session_room|}}}{{{meeting_place|}}}|Meeting place}}
+| data63      = {{#invoke:InfoboxImage|InfoboxImage|image={{{session_room|}}}|size={{{session_res|}}}|alt={{{session_alt|}}}}}
+| data64      = {{{meeting_place|}}}
+| class64     = label
+
+| data65      = {{#invoke:InfoboxImage|InfoboxImage|image={{{session_room2|}}}|size={{{session_res2|}}}|alt={{{session_alt2|}}}}}
+| data66      = {{{meeting_place2|}}}
+| class66     = label
+
+| data67      = {{#invoke:InfoboxImage|InfoboxImage|image={{{session_room3|}}}|size={{{session_res3|}}}|alt={{{session_alt3|}}}}}
+| data68      = {{{meeting_place3|}}}
+| class68     = label
+
+| header69    = {{#if:{{{website|}}}|Website}}
+| data70      = {{{website|}}}
+
+| header71    = {{#if:{{{constitution|}}}|Constitution}}
+| data72      = {{{constitution|}}}
+
+| header73    = {{#if:{{{rules|}}}|Rules}}
+| data74      = {{{rules|}}}
+
+| header75    = {{#if:{{{footnotes|}}}|Footnotes}}
+| data76      = {{{footnotes|}}}
+
+| data99      = {{{module|}}}
+
+}}{{Main other|{{#if:{{{background_color|}}}{{{text_color|}}}|[[Category:Infobox legislature with background color]]}}}}{{#invoke:Check for unknown parameters|check|unknown={{main other|}}|preview=Page using [[Template:Infobox legislature]] with unknown parameter "_VALUE_"|ignoreblank=y| affiliations | authority | background_color | body | categories | chambers | child | coa_alt | coa_caption | coa_pic | coa_res | coa-alt | coa-pic | coa-res | committees1 | committees2 | constitution | crown-in-parl | demo | disbanded | election1 | election2 | election3 | election4 | election5 | election6 | election7 | election8 | election9 | election10 | established | first_election1 | first_election2 | first_election3 | footnotes | foundation | house_type | house1 | house2 | houses | joint_committees | jurisdiction | labelstyle | last_election1 | last_election2 | last_election3 | leader1 | leader1_type | leader2 | leader2_type | leader3 | leader3_type | leader4 | leader4_type | leader5 | leader5_type | leader6 | leader6_type | leader7 | leader7_type | leader8 | leader8_type | leader9 | leader9_type | leader10 | leader10_type | legislature | logo | logo_alt | logo_caption | logo_pic | logo_res | logo-alt | logo-pic | logo-res | meeting_place | meeting_place2 | meeting_place3 | members | module | motto | name | native_name | native_name_lang | new_session | next_election1 | next_election2 | next_election3 | nocat | party1 | party2 | party3 | party4 | party5 | party6 | party7 | party8 | party9 | party10 | political_groups1 | political_groups2 | preceded_by | redistricting | rules | salary | seats | seats1 | seats1_title | seats2 | seats2_title | seats3 | seats3_title | seats4 | seats4_title | seats5 | seats5_title | seats6 | seats6_title | seats7 | seats7_title | seats8 | seats8_title | session_alt | session_alt2 | session_alt3 | session_res | session_res2 | session_res3 | session_room | session_room2 | session_room3 | structure1 | structure1_alt | structure1_res | structure2 | structure2_alt | structure2_res | succeeded_by | term_length | term_limits | text_color | transcription_name | voting_system1 | voting_system2 | website }}<noinclude>
+{{documentation}}<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

@@ -1,0 +1,4 @@
+<includeonly><div class="adr">[[Politics of {{{link|{{{title}}}}}}|Politics of {{{title}}}]]</div></th></tr>{{#if:{{{image|}}}
+|<tr><th>{{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{size|}}}|class={{{class|}}}|alt={{{alt|}}}|border={{#switch:{{{border|}}}|y|yes|Y|Yes|YES=yes|#default=no}}}}</th></tr>
+}}<tr><th style="border-bottom: #aaa {{#if:{{{separator-width|}}}|{{{separator-width}}}|1px}} solid"></includeonly><noinclude>
+{{documentation}}</noinclude>

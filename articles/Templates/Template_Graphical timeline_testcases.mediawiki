@@ -1,0 +1,1851 @@
+{{Testcases notice <!--|toc=on-->}}
+
+{{Test case|_format=columns|_collapsible=yes||_title=Silurian graphical timeline|
+<!--Change this to help=on if you need instructions on editing this timeline-->
+|help=off
+|float=left
+|embedded=
+| link-to=Silurian_graphical_timeline
+| title=
+
+|from=-445
+|to=-418
+|height=34
+|width=10.5
+|annotations-width=6
+|plot-colour=#000000
+
+<!--Æons-->
+
+|bar2-text='''{{Vertical text|[[Paleozoic]]}}'''
+|bar2-right=.1
+|bar2-colour={{period color|paleozoic}}
+
+<!--Periods-->
+|bar3-to=-443.8
+|bar3-left=.11
+|bar3-right=1
+|bar3-colour={{period color|Ordovician}}
+|bar3-text='''[[Ordovician]]'''
+
+|bar4-from=-443.8
+|bar4-to=-419.2
+|bar4-left=.11
+|bar4-right=.22
+|bar4-colour={{period color|Silurian}}
+|bar4-border-width=.05
+|bar4-text='''{{Vertical text|[[Silurian]]}}'''
+|bar4-nudge-down=-5
+
+|bar5-from=-419.2
+|bar5-left=.11
+|bar5-right=1
+|bar5-colour={{period color|Devonian}}
+|bar5-text='''[[Devonian]]'''
+
+<!--Series -->
+
+|bar7-from=-443.8
+|bar7-to=-433.4
+|bar7-left=.23
+|bar7-right=.34
+|bar7-colour={{period color|Llandovery}}
+|bar7-border-width=.05
+|bar7-text={{Vertical text|[[Llandovery Epoch|Llandovery]]}}
+|bar7-nudge-down=-5.0
+
+|bar8-from=-433.4
+|bar8-to=-427.4
+|bar8-left=.23
+|bar8-right=.34
+|bar8-colour={{period color|Wenlock}}
+|bar8-border-width=.0
+|bar8-text={{Vertical text|[[Wenlock Epoch|Wenlock]]|style=font-size:95%;}}
+|bar8-nudge-down=-2.3
+
+|bar9-from=-427.4
+|bar9-to=-423
+|bar9-left=.23
+|bar9-right=.34
+|bar9-colour={{period color|Ludlow}}
+|bar9-border-width=.05
+|bar9-text={{Vertical text|[[Ludlow Epoch|Ludlow]]|style=font-size:90%;}}
+|bar9-nudge-down=-1.5
+
+|bar10-from=-423
+|bar10-to=-419.2
+|bar10-left=.23
+|bar10-colour={{period color|Pridoli}}
+|bar10-text=[[Pridoli Epoch|Přídolí]]
+|bar10-nudge-down=0.5
+
+<!--Stages-->
+|bar13-from=-443.8
+|bar13-to=-440.8
+|bar13-left=.35
+|bar13-right=1
+|bar13-text=[[Rhuddanian]]
+|bar13-font-size=90%
+|bar13-border-width=.05
+|bar13-colour={{period color|Rhuddanian}}
+
+|bar14-from=-440.8
+|bar14-to=-438.5
+|bar14-left=.35
+|bar14-right=1
+|bar14-text=[[Aeronian]]
+|bar14-font-size=90%
+|bar14-border-width=0.0
+|bar14-colour={{period color|Aeronian}}
+
+|bar15-from=-438.5
+|bar15-to=-433.4
+|bar15-left=.35
+|bar15-right=1
+|bar15-text=[[Telychian]]
+|bar15-font-size=90%
+|bar15-border-width=0.05
+|bar15-colour={{period color|Telychian}}
+
+|bar16-from=-433.4
+|bar16-to=-430.5
+|bar16-left=.35
+|bar16-right=1
+|bar16-text=[[Sheinwoodian]]
+|bar16-font-size=90%
+|bar16-border-width=0.0
+|bar16-colour={{period color|Sheinwoodian}}
+
+|bar17-from=-430.5
+|bar17-to=-427.4
+|bar17-left=.35
+|bar17-right=1
+|bar17-text=[[Homerian]]
+|bar17-font-size=90%
+|bar17-border-width=0.0
+|bar17-colour={{period color|Homerian}}
+
+|bar18-from=-427.4
+|bar18-to=-425.6
+|bar18-left=.35
+|bar18-right=1
+|bar18-text=[[Gorstian]]
+|bar18-font-size=90%
+|bar18-border-width=0.05
+|bar18-colour={{period color|Gorstian}}
+
+|bar19-from=-425.6
+|bar19-to=-423
+|bar19-left=.35
+|bar19-right=1
+|bar19-text=[[Ludfordian]]
+|bar19-font-size=90%
+|bar19-colour={{period color|Ludfordian}}
+
+<!--Bars-->
+|bar23-from=-430.55
+|bar23-to=-430.5
+|bar23-colour=#000000
+|bar23-left=.35
+
+|bar24-from=-423.05
+|bar24-to=-423
+|bar24-colour=#000000
+|bar24-left=.23
+
+|bar25-from=-419.25
+|bar25-to=-419.2
+|bar25-colour=#000000
+|bar25-left=.11
+
+|bar26-left=.99
+|bar26-right=1
+|bar26-colour=#000000
+
+|bar28-left=.22
+|bar28-right=.23
+|bar28-from=-443.8
+|bar28-to=-419.2
+|bar28-colour=#000000
+
+|bar29-left=.34
+|bar29-right=.35
+|bar29-from=-443.8
+|bar29-to=-423
+|bar29-colour=#000000
+
+<!--Notes-->
+|note1-at=-424<!--Late Ludfordian-->
+|note1=[[Lau event]]
+|note2-at=-427<!--ish!-->
+|note2=[[Mulde event]]<ref name=Jeppsson2007>{{cite journal
+ | author = Jeppsson, L.
+ | author2 = Calner, M.
+ | year = 2007
+ | title = The Silurian Mulde Event and a scenario for secundo—secundo events
+ | journal = Earth and Environmental Science Transactions of the Royal Society of Edinburgh
+ | volume = 93
+ | issue = 02
+ | pages = 135–154
+ | doi = 10.1017/S0263593300000377
+}}</ref>
+|note3-at=-{{period start|Wenlock}}
+|note3=[[Ireviken event|Ireviken event]]<ref name=Munnecke2003>{{cite journal
+ | author = Munnecke, A.
+ | author2 = Samtleben, C. | author3 =  Bickert, T.
+ | year = 2003
+ | title = The Ireviken Event in the lower Silurian of Gotland, Sweden-relation to similar Palaeozoic and Proterozoic events
+ | journal = Palaeogeography, Palaeoclimatology, Palaeoecology
+ | volume = 195
+ | issue = 1
+ | pages = 99–124
+ | doi = 10.1016/S0031-0182(03)00304-3
+}}</ref>
+
+|caption='''Subdivision of the Silurian according to the [[International Commission on Stratigraphy|ICS]], as of 2023.'''<ref name="ICS">{{cite web |url=https://stratigraphy.org/ICSchart/ChronostratChart2023-09.pdf |title=International Chronostratigraphic Chart |website=[[International Commission on Stratigraphy]] |date=September 2023 |access-date=December 16, 2024}}</ref><br/>Vertical axis scale: [[Megaannum|Millions of years ago]]
+}}
+{{clear}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=Devonian graphical timeline|
+|help=off
+| link-to=Devonian_graphical_timeline
+| title=Events of the Devonian Period
+|title-colour={{period color|Devonian}}
+
+|from=-{{#expr:419.2+(1/16)*(419.2-358.9) round 3}}
+|to=-{{#expr:358.9-(1/16)*(419.2-358.9) round 3}}
+|height=32
+|width=9.5
+|plot-colour=#000000
+
+<!--Eras/Erathems-->
+|bar2-right=.11
+|bar2-text='''{{Vertical text|[[Paleozoic]]}}'''
+|bar2-colour={{period color|paleozoic}}
+|bar2-nudge-down=-5
+
+<!--Periods/Systems-->
+|bar3-to=-419.2
+|bar3-left=.12
+|bar3-right=1
+|bar3-colour={{period color|Silurian}}
+|bar3-text='''[[Silurian]]'''
+
+|bar4-from=-419.2
+|bar4-to=-358.9
+|bar4-left=0.12
+|bar4-right=0.23
+|bar4-text='''{{Vertical text|[[Devonian]]}}'''
+|bar4-colour={{period color|Devonian}}
+|bar4-border-width=0.05
+|bar4-nudge-down=-5
+
+|bar5-from=-358.9
+|bar5-left=.12
+|bar5-right=1
+|bar5-colour={{period color|Carboniferous}}
+|bar5-text='''[[Carboniferous]]'''
+
+<!--Epochs/Series-->
+
+|bar8-from=-419.2
+|bar8-to=-393.3
+|bar8-left=0.24
+|bar8-right=0.35
+|bar8-border-width=0.05
+|bar8-text={{Vertical text|[[Early Devonian|Early]]}}
+|bar8-colour={{period color|lower devonian}}
+|bar8-nudge-down=-1.5
+
+|bar9-from=-393.3
+|bar9-to=-382.7
+|bar9-left=0.24
+|bar9-right=0.35
+|bar9-border-width=0
+|bar9-text={{Vertical text|[[Middle Devonian|Mid]]}}
+|bar9-colour={{period color|middle devonian}}
+|bar9-nudge-down=-0.6
+
+|bar10-from=-382.7
+|bar10-to=-358.9
+|bar10-left=0.24
+|bar10-right=0.35
+|bar10-border-width=0.05
+|bar10-text={{Vertical text|[[Late Devonian|Late]]}}
+|bar10-colour={{period color|upper devonian}}
+|bar10-nudge-down=-1.5
+
+
+<!--Ages-->
+|bar12-from=-419.2
+|bar12-to=-410.8
+|bar12-text=[[Lochkovian]]
+|bar12-font-size=90%
+|bar12-border-width=0.1
+|bar12-border-style=none
+|bar12-left=0.36
+|bar12-colour={{period color|lochkovian}}
+
+|bar13-from=-410.8
+|bar13-to=-407.6
+|bar13-text=[[Pragian]]
+|bar13-font-size=90%
+|bar13-left=0.36
+|bar13-colour={{period color|pragian}}
+
+|bar14-from=-407.6
+|bar14-to=-393.3
+|bar14-text=[[Emsian]]
+|bar14-font-size=90%
+|bar14-border-width=0.05
+|bar14-left=0.36
+|bar14-colour={{period color|emsian}}
+
+|bar15-from=-393.3
+|bar15-to=-387.7
+|bar15-text=[[Eifelian]]
+|bar15-font-size=90%
+|bar15-left=0.36
+|bar15-colour={{period color|eifelian}}
+
+|bar16-from=-387.7
+|bar16-to=-382.7
+|bar16-text=[[Givetian]]
+|bar16-font-size=90%
+|bar16-left=0.36
+|bar16-colour={{period color|givetian}}
+
+|bar17-from=-382.7
+|bar17-to=-372.7
+|bar17-text=[[Frasnian]]
+|bar17-font-size=90%
+|bar17-nudge-up=0.5
+|bar17-border-width=0.05
+|bar17-left=0.36
+|bar17-colour={{period color|frasnian}}
+
+|bar18-from=-372.7
+|bar18-to=-358.9
+|bar18-text=[[Famennian]]
+|bar18-font-size=90%
+|bar18-nudge-up=0
+|bar18-nudge-right=0.05
+|bar18-left=0.36
+|bar18-colour={{period color|famennian}}
+
+<!--Dividing Lines-->
+
+|bar26-left=.99
+|bar26-right=1
+|bar26-colour=#000000
+
+|bar27-from=-419.2
+|bar27-to=-419.1
+|bar27-left=.12
+|bar27-colour=#000000
+
+|bar28-from=-410.8
+|bar28-to=-410.7
+|bar28-left=.35
+|bar28-colour=#000000
+
+|bar29-from=-387.8
+|bar29-to=-387.7
+|bar29-left=.35
+|bar29-colour=#000000
+
+|bar30-from=-359
+|bar30-to=-358.9
+|bar30-left=.35
+|bar30-colour=#000000
+
+<!--Notes-->
+|note1-at=-359
+|note1=[[Hangenberg event]],<br> Famennian glaciation
+|note1-nudge-down=-2
+
+|note2-at=-372.7
+|note2=[[Late_Devonian_extinction#The_Kellwasser_event|Kellwasser event]] ([[Late Devonian extinction]])<ref name=Kaufmann2004>{{cite journal
+ | last1= Kaufmann |first1=B.
+ | last2=  Trapp|first2= E.| last3=  Mezger|first3= K.
+ | year = 2004
+ | title = The numerical age of the Upper Frasnian (Upper Devonian) Kellwasser horizons: A new U-Pb zircon date from Steinbruch Schmidt(Kellerwald, Germany)
+ | journal = The Journal of Geology
+ | volume = 112
+ | issue = 4
+ | pages = 495–501
+ | doi=10.1086/421077
+ | bibcode=2004JG....112..495K
+}}</ref>
+
+|note3-at=-387
+|note3=Widespread<ref name=Algeo1998-box>{{cite journal
+ | last1=  Algeo|first1=T. J.
+ | year = 1998
+ | title = Terrestrial-marine teleconnections in the Devonian: links between the evolution of land plants, weathering processes, and marine anoxic events
+ | journal = Philosophical Transactions of the Royal Society B: Biological Sciences
+ | volume = 353
+ | issue = 1365
+ | pages = 113–130
+ | doi = 10.1098/rstb.1998.0195
+}}</ref><br>shrubs & trees
+
+|note4-at=-407<!--ish-->
+|note4=[[Hunsrück Slates|Hunsrück fauna]]<br>
+
+|note5-at=-411.5
+|note5=[[Rhynie chert]]<ref name="Parry">{{cite journal|last1=Parry|first1=S. F.|last2=Noble |first2=S. R. |last3=Crowley |first3=Q. G.  |last4=Wellman |first4=C. H.|year=2011|title=A high-precision U–Pb age constraint on the Rhynie Chert Konservat-Lagerstätte: time scale and other implications|journal=Journal of the Geological Society|publisher=Geological Society|location=London|volume=168|issue=4|pages=863–872|doi=10.1144/0016-76492010-043|url=http://jgs.lyellcollection.org/content/168/4/863.abstract}}</ref>
+
+|caption='''Subdivision of the Devonian according to the [[International Commission on Stratigraphy|ICS]], as of 2023.'''<ref name="ICS"/><br/>Vertical axis scale: [[Megaannum|Millions of years ago]]
+}}
+{{clear}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=Ediacaran biota|
+<!--Change this to help=on if you need instructions on editing this timeline-->
+|help=off
+
+| link-to=Ediacaran biota timeline
+|title=The Ediacaran biota in context
+|disable-arrow-align=true
+|disable-box-align=true
+
+|plot-colour=#ffffff
+
+|from=-655
+|to=-490
+|scale-increment=10
+|width=8
+
+<!--Eras-->
+|legend1=[[Neoproterozoic]]<br/>(last [[Era (geology)|era]] of the [[Precambrian]])
+|legend1-colour={{period color|neoproterozoic}}
+|bar1-from=-655
+|bar1-to=-542
+|bar1-left=.0
+|bar1-right=.1
+|bar1-colour={{period color|neoproterozoic}}
+
+|legend2=[[Palaeozoic]]</br>(first era of the [[Phanerozoic]])
+|legend2-colour={{period color|paleozoic}}
+|bar2-from=-542
+|bar2-to=-490
+|bar2-left=0
+|bar2-right=.1
+|bar2-colour={{period color|palaeozoic}}
+
+<!--Periods-->
+|bar3-text='''[[Cryogenian]]'''
+|bar3-to=-635
+|bar3-left=.1
+|bar3-colour={{period color|cryogenian}}
+
+<!--Dividing line-->
+|bar23-from=-635.3
+|bar23-to=-634.7
+|bar23-colour=black
+|bar23-left=0.1
+
+|bar4-from=-635
+|bar4-to=-542
+|bar4-left=.1
+|bar4-colour={{period color|Ediacaran}}
+|bar4-border-width=.0
+|bar4-text='''[[Ediacaran]]'''
+|bar4-nudge-down=6.7
+
+|bar24-from=-542.3
+|bar24-to=-541.7
+|bar24-colour=black
+
+|bar5-text='''[[Cambrian]]'''
+|bar5-from=-542
+|bar5-to=-490
+|bar5-left=.1
+|bar5-colour={{period color|cambrian}}
+
+|bar25-from=-490.3
+|bar25-to=-489.7
+|bar25-colour=black
+|bar25-left=0.09
+
+|bar6-from=-655
+|bar6-to=-490
+|bar6-left=.99
+|bar6-right=1
+|bar6-colour=#000000
+
+<!--17 to overlap 12-->
+|bar17-from=-655
+|bar17-to=-490
+|bar17-left=.09
+|bar17-right=.1
+|bar17-colour=#000000
+
+<!--Organisms-->
+|bar21-from=-610
+|bar21-to=-555
+|bar21-left=0.85
+|bar21-right=0.95
+|bar21-colour=#007777
+|note21=''[[Aspidella]]''<br />discs
+|note21-at=-585
+|note21-colour=#007777
+|note21-remove-arrow=yes
+|note21-nudge-left=5.4
+
+|bar22-from=-575
+|bar22-to=-545
+|bar22-left=0.77
+|bar22-right=.87
+|bar22-colour=#777700
+|note22=''Charnia''
+|note22-at=-560
+|note22-colour=#777700
+|note22-nudge-left=5.5
+|note22-remove-arrow=yes
+
+<!--Notes-->
+|note1=Last Ediacaran communities
+|note1-at=-542
+|note1-colour=green
+
+|note2=Last putative Ediacaran
+|note2-at=-500
+|note2-colour=green
+
+|note3=[[Fossil embryos|Embryos]]?
+|note3-at=-632.5
+|note3-nudge-up=0.4
+|note3-colour=green
+
+|note4=Last [[snowball Earth|extensive]] [[glaciation]]
+|note4-at=-635
+|note4-nudge-down=0.4
+
+|note5=First Ediacaran megafossil
+|note5-at=-610
+|note5-colour=green
+
+|note6=[[Gaskiers glaciation (geology)|Gaskiers<br />glaciation]]
+|note6-at=-584.2
+
+|note7=[[Avalon explosion]]
+|note7-at=-575
+
+|caption=Axis scale: million years
+<br />References: Waggoner 1998,<ref name="Waggoner1998t">{{cite journal
+ | last1 = Waggoner
+ | first1 = Ben
+ | year = 1998
+ | title = Interpreting the Earliest Metazoan Fossils: What Can We Learn?
+ | journal = [[Integrative and Comparative Biology]]
+ | volume = 38
+ | issue = 6
+ | pages = 975–982
+ | issn = 1540-7063
+ | doi = 10.1093/icb/38.6.975
+ | url = http://intl-icb.oxfordjournals.org/cgi/content/abstract/38/6/975
+ | access-date = 7 March 2007
+ | doi-access = free
+ | archive-date = 21 December 2012
+ | archive-url = https://archive.is/20121221015440/http://intl-icb.oxfordjournals.org/cgi/content/abstract/38/6/975
+ | url-status = dead
+ }}</ref> Hofmann 1990<ref>{{cite journal
+|  title=Ediacaran remains from intertillite beds in northwestern Canada
+|  last1 = Hofmann | first1 = H.J.
+|  last2 = Narbonne | first2 = G.M.
+|  last3 = Aitken | first3 = J.D.
+|  journal=[[Geology (journal)|Geology]]
+|  volume=18
+|  issue=12
+|  pages=1199–1202
+|  year=1990
+|  doi=10.1130/0091-7613(1990)018<1199:ERFIBI>2.3.CO;2
+| bibcode = 1990Geo....18.1199H }}</ref>
+}}
+{{clear}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=Triassic graphical timeline|
+<!--Change this to help=on if you need instructions on editing this timeline-->
+|help=off
+
+| link-to=Triassic_graphical_timeline
+| title=<span style="color:white">Triassic graphical timeline</span>
+|title-colour={{period color|{{{titlecolour|Triassic}}}}}
+|from=-{{#expr:251.902+(1/16)*(251.902-201.4) round 3}}
+|to=-{{#expr:201.4-(1/16)*(251.902-201.4) round 3}}
+|plot-colour=#000000
+|height=38
+|width=9.5
+|disable-arrow-align=1
+
+<!--Eras/Erathems-->
+
+|bar1-to=-251.902
+|bar1-text='''{{Vertical text|[[Paleozoic|Pz]]}}'''
+|bar1-font-size=95%
+|bar1-nudge-down=.2
+|bar1-right=.11
+|bar1-colour={{period color|paleozoic}}
+
+|bar2-from=-251.902
+|bar2-text='''{{Vertical text|[[Mesozoic|Mesozoic]]}}'''
+|bar2-nudge-down=-5
+|bar2-right=.11
+|bar2-colour={{period color|mesozoic}}
+
+<!--Periods/Systems-->
+
+|bar3-to=-251.902
+|bar3-left=.12
+|bar3-right=1
+|bar3-colour={{period color|Permian}}
+|bar3-border-width=.0
+|bar3-text='''{{Colored period link|Permian}}'''
+|bar3-nudge-down=0
+
+|bar4-from=-251.902
+|bar4-to=-201.4
+|bar4-left=.12
+|bar4-right=.23
+|bar4-colour={{period color|Triassic}}
+|bar4-border-width=.0
+|bar4-text='''{{Vertical text|[[Triassic|<span style="color:{{Period font color|Triassic}};">Triassic</span>]]}}'''
+|bar4-nudge-down=-6
+
+|bar5-from=-201.4
+|bar5-left=.12
+|bar5-right=1
+|bar5-colour={{period color|Jurassic}}
+|bar5-border-width=.0
+|bar5-text='''{{Colored period link|Jurassic}}'''
+
+<!--Epochs/Series-->
+
+|bar7-from=-251.902
+|bar7-to=-246.7
+|bar7-left=.24
+|bar7-right=.35
+|bar7-colour={{period color|Early Triassic}}
+|bar7-border-width=0
+|bar7-text={{Vertical text|[[Early Triassic|<span style="color:{{Period font color|Early Triassic}};">ET</span>]]}}
+|bar7-font-size=95%
+
+|bar8-from=-246.7
+|bar8-to=-237
+|bar8-left=.24
+|bar8-right=.35
+|bar8-colour={{period color|Middle Triassic}}
+|bar8-border-width=.05
+|bar8-text={{Vertical text|[[Middle Triassic|<span style="color:{{Period font color|Middle Triassic}};">Middle</span>]]}}
+|bar8-font-size=95%
+
+|bar9-from=-237
+|bar9-to=-201.4
+|bar9-left=.24
+|bar9-right=.35
+|bar9-colour={{period color|Late Triassic}}
+|bar9-border-width=.0
+|bar9-text={{Vertical text|[[Late Triassic|<span style="color:{{Period font color|Late Triassic}};">Late</span>]]}}
+|bar9-font-size=95%
+
+<!-- Ages/Stages -->
+|bar13-from=-251.902
+|bar13-to=-249.9
+|bar13-left=.36
+|bar13-colour={{period color|Induan}}
+|bar13-border-width=.05
+|bar13-text={{Colored period link|Induan}}
+|bar13-nudge-down=-0.1
+
+|bar12-from=-249.9
+|bar12-to=-246.7
+|bar12-left=.36
+|bar12-colour={{period color|Olenekian}}
+|bar12-border-width=0
+|bar12-text={{Colored period link|Olenekian}}
+|bar12-nudge-down=-0.05
+
+|bar14-from=-246.7
+|bar14-to=-241.464
+|bar14-left=.36
+|bar14-colour={{period color|Anisian}}
+|bar14-border-width=.05
+|bar14-text={{Colored period link|Anisian}}
+
+|bar15-from=-241.464
+|bar15-to=-237
+|bar15-left=.36
+|bar15-colour={{period color|Ladinian}}
+|bar15-border-width=.0
+|bar15-text={{Colored period link|Ladinian}}
+
+|bar16-from=-237
+|bar16-to=-227.3
+|bar16-left=.36
+|bar16-colour={{period color|Carnian}}
+|bar16-border-width=.0
+|bar16-text={{Colored period link|Carnian}}
+
+|bar17-from=-227.3
+|bar17-to=-205.7
+|bar17-text={{Colored period link|Norian}}
+|bar17-border-width=0.05
+|bar17-left=.36
+|bar17-colour={{period color|Norian}}
+
+|bar18-from=-205.7
+|bar18-to=-201.4
+|bar18-text={{Colored period link|Rhaetian}}
+|bar18-border-width=0.0
+|bar18-left=0.36
+|bar18-colour={{period color|Rhaetian}}
+
+<!--Bars-->
+|bar30-left=.34
+|bar30-from=-237.05
+|bar30-to=-237.0
+|bar30-colour=#000000
+
+|bar31-left=0
+|bar31-from=-251.952
+|bar31-to=-251.902
+|bar31-colour=#000000
+
+|bar32-left=.1
+|bar32-from=-201.5
+|bar32-to=-201.4
+|bar32-colour=#000000
+
+|bar33-left=.99
+|bar33-right=1
+|bar33-colour=#000000
+
+<!--Notes-->
+
+|note1=[[Permian%E2%80%93Triassic_extinction_event|Permian-Triassic extinction event]]
+|note1-at=-{{period end|permian}}
+|note1-size=85%
+|note1-nudge-down=0.5
+
+|note2=[[Olenekian#Smithian–Spathian_boundary_event|Smithian–Spathian boundary event]]<ref>{{cite journal |display-authors= 3 |last1=Widmann |first1=Philipp |last2=Bucher |first2=Hugo |last3=Leu |first3=Marc |last4=Vennemann |first4=Torsten |last5=Bagherpour |first5=Borhan |last6=Schneebeli-Hermann |first6=Elke |last7= Goudemand|first7=Nicolas |last8= Schaltegger |first8=Urs |title=Dynamics of the Largest Carbon Isotope Excursion During the Early Triassic Biotic Recovery |journal=Frontiers in Earth Science |date=2020 |volume=8 |issue=196 |page=196 |doi=10.3389/feart.2020.00196|bibcode=2020FrEaS...8..196W |doi-access=free }}</ref>
+|note2-at=-249.4
+|note2-size=85%
+
+|note3=[[Carnian pluvial episode]]
+|note3-at=-234
+|note3-size=85%
+
+|note4=<span style="line-height:10px;display:block;">Full recovery of woody trees<ref name=McElwain2007>{{cite journal
+ | author = McElwain, J. C.
+ | author2 = Punyasena, S. W.
+ | year = 2007
+ | title = Mass extinction events and the plant fossil record
+ | journal = Trends in Ecology & Evolution
+ | volume = 22
+ | issue = 10
+ | pages = 548–557
+ | doi=10.1016/j.tree.2007.09.003
+| pmid=17919771
+}}</ref></span>
+|note4-size=85%
+|note4-nudge-down=0
+|note4-at=-246
+|note5=Coals return<ref name= "Retallack1996">
+{{cite journal|author=Retallack, G. J.| author2 =Veevers, J.| author-link2= John Veevers | author3 =  Morante, R.|year=1996|title=Global coal gap between Permian–Triassic extinctions and middle Triassic recovery of peat forming plants|journal=GSA Bulletin| volume=108|issue=2|pages=195–207|url=http://bulletin.geoscienceworld.org/cgi/content/abstract/108/2/195|access-date=2007-09-29 | doi = 10.1130/0016-7606(1996)108<0195:GCGBPT>2.3.CO;2 | bibcode =1996GSAB..108..195R}}
+</ref>
+|note5-at=-243
+|note5-size=85%
+
+|note6=<span style="line-height:10px;display:block;">[[Scleractinia]]n<br>corals & calcified sponges<ref name=Payne2004>{{cite journal | author = Payne, J. L. | author2 = Lehrmann, D. J.| author3 =  Wei, J.| author4 =  Orchard, M. J.| author5 = Schrag, D. P.| author6 =  Knoll, A. H. | year = 2004 | title = Large Perturbations of the Carbon Cycle During Recovery from the End-Permian Extinction | journal = Science | volume = 305 | issue = 5683 | pages = 506–9 | doi = 10.1126/science.1097023 | url=http://www.sciencemag.org/cgi/content/abstract/305/5683/506 | pmid=15273391
+| bibcode = 2004Sci...305..506P| s2cid = 35498132}}</ref></span>
+|note6-at=-240
+|note6-size=85%
+
+|note7=[[Triassic–Jurassic extinction event]]
+|note7-at=-201.4
+|note7-size=85%
+
+|note8=[[Manicouagan Reservoir#Impact crater|Manicouagan impact]]
+|note8-at=-215.4
+|note8-size=85%
+
+|caption='''Subdivision of the Triassic according to the [[International Commission on Stratigraphy|ICS]], as of 2024.'''<ref name="ICS"/><br/>Vertical axis scale: [[Megaannum|Millions of years ago]]
+}}
+{{clear}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=Paleogene graphical timeline|
+{{clear}}
+|help=off
+
+| link-to=Paleogene_graphical_timeline
+| title=Key events in the Paleogene
+|title-colour={{period color|Paleogene}}
+
+|from=-{{#expr:66.0+(1/16)*(66.0-23.03) round 3}}
+|to=-{{#expr:23.03-(1/16)*(66.0-23.03) round 3}}
+|height=36
+|width=8.5
+|plot-colour=#000000
+|disable-box-align=1
+
+<!--Eras/Erathems-->
+
+|bar1-to=-66
+|bar1-text='''{{Vertical text|[[Mesozoic|MZ]]}}'''
+|bar1-nudge-down=0.2
+|bar1-right=.11
+|bar1-colour={{period color|mesozoic}}
+
+|bar2-from=-66
+|bar2-text='''{{Vertical text|[[Cenozoic]]}}'''
+|bar2-right=.11
+|bar2-colour={{period color|Cenozoic}}
+
+<!--Periods/Systems-->
+
+|bar3-to=-66
+|bar3-left=.12
+|bar3-right=1
+|bar3-colour={{period color|Cretaceous}}
+|bar3-border-width=.0
+|bar3-text='''[[Cretaceous]]'''
+
+|bar4-from=-66
+|bar4-to=-23.03
+|bar4-left=.12
+|bar4-right=.23
+|bar4-colour={{period color|paleogene}}
+|bar4-border-width=.05
+|bar4-text='''{{Vertical text|[[Paleogene]]'''}}
+
+|bar5-from=-23.03
+|bar5-left=.12
+|bar5-right=1
+|bar5-colour={{period color|Neogene}}
+|bar5-border-width=.0
+|bar5-text='''[[Neogene]]'''
+
+<!--Epochs/Series-->
+|bar7-from=-66
+|bar7-to=-56
+|bar7-left=.24
+|bar7-right=.35
+|bar7-colour={{period color|paleocene}}
+|bar7-border-width=.05
+|bar7-text={{Vertical text|[[Paleocene]]}}
+|bar7-font-size=90%
+|bar7-nudge-down=0.4
+
+|bar8-from=-56
+|bar8-to=-33.9
+|bar8-left=.24
+|bar8-right=.35
+|bar8-colour={{period color|eocene}}
+|bar8-border-width=.0
+|bar8-text={{Vertical text|[[Eocene]]}}
+|bar8-font-size=90%
+
+|bar9-from=-33.9
+|bar9-to=-23.03
+|bar9-left=.24
+|bar9-right=.35
+|bar9-colour={{period color|oligocene}}
+|bar9-border-width=.05
+|bar9-text={{Vertical text|[[Oligocene]]}}
+|bar9-font-size=90%
+|bar9-nudge-down=0.4
+
+<!-- Ages/Stages -->
+
+|bar12-from=-66
+|bar12-to=-61.6
+|bar12-left=.36
+|bar12-colour={{period color|Danian}}
+|bar12-border-width=.05
+|bar12-text=[[Danian]]
+|bar12-font-size=90%
+
+|bar13-from=-61.6
+|bar13-to=-59.2
+|bar13-left=.36
+|bar13-colour={{period color|Selandian}}
+|bar13-border-width=0
+|bar13-text=[[Selandian]]
+|bar13-font-size=90%
+
+|bar14-from=-59.2
+|bar14-to=-56
+|bar14-left=.36
+|bar14-colour={{period color|Thanetian}}
+|bar14-border-width=.05
+|bar14-text=[[Thanetian]]
+|bar14-font-size=90%
+
+|bar15-from=-56
+|bar15-to=-47.8
+|bar15-left=.36
+|bar15-colour={{period color|Ypresian}}
+|bar15-border-width=.0
+|bar15-text=[[Ypresian]]
+|bar15-font-size=90%
+
+|bar16-from=-47.8
+|bar16-to=-41.3
+|bar16-left=.36
+|bar16-colour={{period color|Lutetian}}
+|bar16-border-width=.05
+|bar16-text=[[Lutetian]]
+|bar16-font-size=90%
+
+|bar17-from=-41.3
+|bar17-to=-38
+|bar17-text=[[Bartonian]]
+|bar17-font-size=90%
+|bar17-border-width=0.0
+|bar17-left=0.36
+|bar17-colour={{period color|Bartonian}}
+
+|bar18-from=-38
+|bar18-to=-33.9
+|bar18-text=[[Priabonian]]
+|bar18-font-size=90%
+|bar18-border-width=0.0
+|bar18-left=0.36
+|bar18-colour={{period color|Priabonian}}
+
+|bar19-from=-33.9
+|bar19-to=-28.1
+|bar19-text=[[Rupelian]]
+|bar19-font-size=90%
+|bar19-border-width=0.05
+|bar19-left=0.36
+|bar19-colour={{period color|Rupelian}}
+
+|bar20-from=-28.1
+|bar20-to=-23.03
+|bar20-text=[[Chattian]]
+|bar20-font-size=90%
+|bar20-border-width=0.05
+|bar20-left=0.36
+|bar20-colour={{period color|Chattian}}
+
+<!--Lines-->
+
+|bar27-left=.99
+|bar27-right=1
+|bar27-colour=#000000
+
+|bar28-from=-66.05
+|bar28-to=-66
+|bar28-colour=#000000
+
+|bar29-from=-37.9
+|bar29-to=-37.8
+|bar29-left=.35
+|bar29-colour=#000000
+
+|bar30-from=-23.08
+|bar30-to=-23.03
+|bar30-left=.11
+|bar30-colour=#000000
+
+<!--Notes-->
+|note1=[[Paleocene–Eocene Thermal Maximum|PETM]]
+|note1-at=-56
+|note1-size=90%
+
+|note3-at=-33.9
+|note3=<span style="line-height:10px; display:block;">First Antarctic [[ice-sheet|permanent ice-sheets]]<ref name=Zachos2k5>{{cite journal
+ | author1 = Zachos, J. C.
+ | author2 = Kump, L. R.
+ | year = 2005
+ | title = Carbon cycle feedbacks and the initiation of Antarctic glaciation in the earliest Oligocene
+ | journal = Global and Planetary Change
+ | volume = 47
+ | issue = 1
+ | pages = 51–66
+ | doi=10.1016/j.gloplacha.2005.01.001
+ | bibcode=2005GPC....47...51Z
+}}</ref></span>
+|note3-size=90%
+
+|note4=<span style="line-height:10px;display:block;">[[Cretaceous–Paleogene extinction event|K-Pg mass<br />extinction]]</span>
+|note4-at=-65.8
+|note4-size=90%
+|caption='''Subdivision of the Paleogene according to the [[International Commission on Stratigraphy|ICS]], as of 2023.'''<ref name="ICS"/><br/>Vertical axis scale: [[Megaannum|Millions of years ago]]
+}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=Paleogene graphical timeline (height/width in px)|
+{{clear}}
+|help=off
+
+| link-to=Paleogene_graphical_timeline
+| title=Key events in the Paleogene
+|title-colour={{period color|Paleogene}}
+
+|from=-68.85
+|to=-20.18
+|height=480
+|height-unit=px
+|width=112
+|width-unit=px
+|plot-colour=#000000
+|disable-box-align=1
+
+<!--Eras/Erathems-->
+
+|bar1-to=-66
+|bar1-text='''{{Vertical text|[[Mesozoic|MZ]]}}'''
+|bar1-nudge-down=0.2
+|bar1-right=.11
+|bar1-colour={{period color|mesozoic}}
+
+|bar2-from=-66
+|bar2-text='''{{Vertical text|[[Cenozoic]]}}'''
+|bar2-right=.11
+|bar2-colour={{period color|Cenozoic}}
+
+<!--Periods/Systems-->
+
+|bar3-to=-66
+|bar3-left=.12
+|bar3-right=1
+|bar3-colour={{period color|Cretaceous}}
+|bar3-border-width=0
+|bar3-text='''[[Cretaceous]]'''
+
+|bar4-from=-66
+|bar4-to=-23.03
+|bar4-left=.12
+|bar4-right=.23
+|bar4-colour={{period color|paleogene}}
+|bar4-border-width=1
+|bar4-text='''{{Vertical text|[[Paleogene]]'''}}
+
+|bar5-from=-23.03
+|bar5-left=.12
+|bar5-right=1
+|bar5-colour={{period color|Neogene}}
+|bar5-border-width=.0
+|bar5-text='''[[Neogene]]'''
+
+<!--Epochs/Series-->
+|bar7-from=-66
+|bar7-to=-56
+|bar7-left=.24
+|bar7-right=.35
+|bar7-colour={{period color|paleocene}}
+|bar7-border-width=1
+|bar7-text={{Vertical text|[[Paleocene]]}}
+|bar7-font-size=90%
+|bar7-nudge-down=0.4
+
+|bar8-from=-56
+|bar8-to=-33.9
+|bar8-left=.24
+|bar8-right=.35
+|bar8-colour={{period color|eocene}}
+|bar8-border-width=0
+|bar8-text={{Vertical text|[[Eocene]]}}
+|bar8-font-size=90%
+
+|bar9-from=-33.9
+|bar9-to=-23.03
+|bar9-left=.24
+|bar9-right=.35
+|bar9-colour={{period color|oligocene}}
+|bar9-border-width=1
+|bar9-text={{Vertical text|[[Oligocene]]}}
+|bar9-font-size=90%
+|bar9-nudge-down=0.4
+
+<!-- Ages/Stages -->
+
+|bar12-from=-66
+|bar12-to=-61.6
+|bar12-left=.36
+|bar12-colour={{period color|Danian}}
+|bar12-border-width=1
+|bar12-text=[[Danian]]
+|bar12-font-size=90%
+
+|bar13-from=-61.6
+|bar13-to=-59.2
+|bar13-left=.36
+|bar13-colour={{period color|Selandian}}
+|bar13-border-width=0
+|bar13-text=[[Selandian]]
+|bar13-font-size=90%
+
+|bar14-from=-59.2
+|bar14-to=-56
+|bar14-left=.36
+|bar14-colour={{period color|Thanetian}}
+|bar14-border-width=1
+|bar14-text=[[Thanetian]]
+|bar14-font-size=90%
+
+|bar15-from=-56
+|bar15-to=-47.8
+|bar15-left=.36
+|bar15-colour={{period color|Ypresian}}
+|bar15-border-width=0
+|bar15-text=[[Ypresian]]
+|bar15-font-size=90%
+
+|bar16-from=-47.8
+|bar16-to=-41.3
+|bar16-left=.36
+|bar16-colour={{period color|Lutetian}}
+|bar16-border-width=1
+|bar16-text=[[Lutetian]]
+|bar16-font-size=90%
+
+|bar17-from=-41.3
+|bar17-to=-38
+|bar17-text=[[Bartonian]]
+|bar17-font-size=90%
+|bar17-border-width=0
+|bar17-left=0.36
+|bar17-colour={{period color|Bartonian}}
+
+|bar18-from=-38
+|bar18-to=-33.9
+|bar18-text=[[Priabonian]]
+|bar18-font-size=90%
+|bar18-border-width=0
+|bar18-left=0.36
+|bar18-colour={{period color|Priabonian}}
+
+|bar19-from=-33.9
+|bar19-to=-28.1
+|bar19-text=[[Rupelian]]
+|bar19-font-size=90%
+|bar19-border-width=1
+|bar19-left=0.36
+|bar19-colour={{period color|Rupelian}}
+
+|bar20-from=-28.1
+|bar20-to=-23.03
+|bar20-text=[[Chattian]]
+|bar20-font-size=90%
+|bar20-border-width=1
+|bar20-left=0.36
+|bar20-colour={{period color|Chattian}}
+
+<!--Lines-->
+
+|bar27-left=.99
+|bar27-right=1
+|bar27-colour=#000000
+
+|bar28-from=-66.05
+|bar28-to=-66
+|bar28-colour=#000000
+
+|bar29-from=-37.9
+|bar29-to=-37.8
+|bar29-left=.35
+|bar29-colour=#000000
+
+|bar30-from=-23.08
+|bar30-to=-23.03
+|bar30-left=.11
+|bar30-colour=#000000
+
+<!--Notes-->
+|note1=[[Paleocene–Eocene Thermal Maximum|PETM]]
+|note1-at=-56
+|note1-size=90%
+
+|note3-at=-33.9
+|note3=<span style="line-height:10px; display:block;">First Antarctic [[ice-sheet|permanent ice-sheets]]<ref name=Zachos2k5>{{cite journal
+ | author1 = Zachos, J. C.
+ | author2 = Kump, L. R.
+ | year = 2005
+ | title = Carbon cycle feedbacks and the initiation of Antarctic glaciation in the earliest Oligocene
+ | journal = Global and Planetary Change
+ | volume = 47
+ | issue = 1
+ | pages = 51–66
+ | doi=10.1016/j.gloplacha.2005.01.001
+ | bibcode=2005GPC....47...51Z
+}}</ref></span>
+|note3-size=90%
+
+|note4=<span style="line-height:10px;display:block;">[[Cretaceous–Paleogene extinction event|K-Pg mass<br />extinction]]</span>
+|note4-at=-65.8
+|note4-size=90%
+|caption='''Subdivision of the Paleogene according to the [[International Commission on Stratigraphy|ICS]], as of 2023.'''<ref name="ICS"/><br/>Vertical axis scale: [[Megaannum|Millions of years ago]]
+}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=Burgsvik beds graphical timeline|
+ | help=off
+ | link-to=Burgsvik beds graphical timeline
+ | width=5
+ 
+ | from=-47
+ | to=0
+ | scale-increment=5
+ 
+ | title=Subdivisions of the Burgsvik beds<br />''after Manten (1971)''
+
+ | bar1-from=-7
+ | bar1-text='''Upper'''
+ | bar1-colour=#9ad
+ | bar2-from=-30
+ | bar2-text='''Middle'''
+ | bar2-to=-7
+ | bar2-right=0.85
+ | bar2-colour=#bc9
+ | bar3-text='''Lower'''
+ | bar3-to=-30
+ | bar3-right=0.6
+ | bar3-colour=#ba8
+
+ | note1-at=0
+ | note1=Interbedded oolitic/oncolitic<br />lime-, sand- and mud-stones
+ | note2=Sandstone with minor muddy sand/mudstone
+ | note2-at=-17
+ | note3=Mudstone and muddy sandstone. Rarely exposed.
+ | note3-at=-35
+ | note1-remove-arrow=yes
+ | note2-remove-arrow=aye
+ | note3-remove-arrow=do
+ | note1-nudge-right=0.5
+ | note2-nudge-right=0.5
+ | note3-nudge-right=0.5
+
+ | caption=   &nbsp;&nbsp;&nbsp;Grain size -&rarr; 
+<br />Vertical scale in Metres
+
+}}
+{{clear}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=Early Echinoderms graphical timeline|
+|help=off
+|link-to=Early_Echinoderms_graphical_timeline
+
+|title=Early Echinoderms (?)
+
+|from=-570
+|to=-498
+|height=28
+|width=7.8
+|scale-increment=5
+|disable-box-align=true
+
+<!--Æons-->
+|legend1=[[Neoproterozoic]]<br/>(last [[Era_%28geology%29{{!}}era]] of the [[Precambrian]])
+|legend1-colour={{period color|Neoproterozoic}}
+
+|bar1-to=-542
+|bar1-left=.0
+|bar1-right=.1
+|bar1-colour={{period color|Neoproterozoic}}
+
+
+|legend2=[[Palæozoic]]<br/>(first era of the [[Phanerozoic]])
+|legend2-colour={{period color|paleozoic}}
+|bar2-from=-542
+|bar2-left=0
+|bar2-right=.1
+|bar2-colour={{period color|Palæozoic}}
+
+
+<!--Periods-->
+
+|bar3-to=-542
+|bar3-left=.1
+|bar3-colour={{period color|ediacaran}}
+|bar3-border-width=.0
+|bar3-text='''[[Ediacaran]]'''
+|bar3-nudge-down=2
+
+|bar4-text='''[[Cambrian]]'''
+|bar4-from=-542
+|bar4-left=.1
+|bar4-colour={{period color|cambrian series 1}}
+|bar4-border-width=0.1
+
+|bar5-from=-542
+|bar5-to=-513
+|bar5-left=0.1
+|bar5-colour=
+|bar5-text='''L'''
+|bar5-nudge-left=3
+|bar5-nudge-up=0.5
+
+|bar6-from=-513
+|bar6-to=-501
+|bar6-left=0.1
+|bar6-colour={{period color|cambrian series 2}}
+|bar6-text='''M'''
+|bar6-border-width=0.08
+|bar6-nudge-left=3
+
+|bar7-left=0.1
+|bar7-from=-501
+|bar7-colour={{period color|cambrian series 4}}
+|bar7-text='''U'''
+|bar7-nudge-left=3
+
+|bar9-left=.99
+|bar9-right=1
+|bar9-colour=#000000
+
+|bar10-left=.09
+|bar10-right=.1
+|bar10-colour=#000000
+
+<!--Events-->
+|bar8-from=-530
+|bar8-to=-520
+|bar8-left=.95
+|bar8-right=1.05
+|bar8-colour=#dd0000
+|note18=[[Cambrian explosion]]
+|note18-at=-520
+|note18-remove-arrow=yes
+|note18-colour=#dd0000
+|note18-nudge-down=.8
+|note18-nudge-right=.5
+
+<!--Organisms-->
+|bar22-from=-513
+|bar22-to=-528
+|bar22-left=0.82
+|bar22-right=.92
+|bar22-colour=#770
+|note3=''[[Helicoplacus]]''<br />(approx.)
+|note3-at=-530
+|note3-colour=#777700
+|note3-nudge-left=6.9
+|note3-remove-arrow=yes
+
+|bar21-from=-560
+|bar21-to=-542
+|bar21-left=0.85
+|bar21-right=0.95
+|bar21-colour=#077
+|note2=''[[Arkarua]]''<br />(approx.)
+|note2-at=-550
+|note2-colour=#077
+|note2-remove-arrow=yes
+|note2-nudge-left=5.8
+
+|bar23-from=-558
+|bar23-to=-542
+|bar23-left=0.77
+|bar23-right=0.87
+|bar23-colour=#070
+|note4-colour=#070
+|note4-at=-551
+|note4=''[[Tribrachidium]]''
+|note4-remove-arrow=yes
+|note4-nudge-left=0.1
+|caption=Axis scale: millions of years ago.
+
+|bar24-from=-513
+|bar24-to=-501
+|bar24-left=0.81
+|bar24-right=0.83
+|bar24-colour=#13a
+|bar25-from=-497
+|bar25-left=0.77
+|bar25-right=0.87
+|bar25-colour=#13a
+|note5=[[Carpoid]]s
+|note5-colour=#13a
+|note5-at=-500
+|note5-remove-arrow=yes
+|note5-nudge-left=5.5
+
+}}
+{{clear}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=No right annotations|
+|help=off
+|link-to=Early_Echinoderms_graphical_timeline
+
+|title=Early Echinoderms (?)
+
+|from=-570
+|to=-498
+|height=28
+|width=7.8
+|scale-increment=5
+|disable-box-align=true
+
+<!--Æons-->
+|legend1=[[Neoproterozoic]]
+|legend1-colour={{period color|Neoproterozoic}}
+
+|bar1-to=-542
+|bar1-left=.0
+|bar1-right=.1
+|bar1-colour={{period color|Neoproterozoic}}
+
+
+|legend2=[[Palæozoic]]
+|legend2-colour={{period color|paleozoic}}
+|bar2-from=-542
+|bar2-left=0
+|bar2-right=.1
+|bar2-colour={{period color|Palæozoic}}
+
+
+<!--Periods-->
+
+|bar3-to=-542
+|bar3-left=.1
+|bar3-colour={{period color|ediacaran}}
+|bar3-border-width=.0
+|bar3-text='''[[Ediacaran]]'''
+|bar3-nudge-down=2
+
+|bar4-text='''[[Cambrian]]'''
+|bar4-from=-542
+|bar4-left=.1
+|bar4-colour={{period color|cambrian series 1}}
+|bar4-border-width=0.1
+
+|bar5-from=-542
+|bar5-to=-513
+|bar5-left=0.1
+|bar5-colour=
+|bar5-text='''L'''
+|bar5-nudge-left=3
+|bar5-nudge-up=0.5
+
+|bar6-from=-513
+|bar6-to=-501
+|bar6-left=0.1
+|bar6-colour={{period color|cambrian series 2}}
+|bar6-text='''M'''
+|bar6-border-width=0.08
+|bar6-nudge-left=3
+
+|bar7-left=0.1
+|bar7-from=-501
+|bar7-colour={{period color|cambrian series 4}}
+|bar7-text='''U'''
+|bar7-nudge-left=3
+
+|bar9-left=.99
+|bar9-right=1
+|bar9-colour=#000000
+
+|bar10-left=.09
+|bar10-right=.1
+|bar10-colour=#000000
+
+<!--Events-->
+|bar8-from=-530
+|bar8-to=-520
+|bar8-left=.95
+|bar8-right=1.05
+|bar8-colour=#dd0000
+
+<!--Organisms-->
+|bar22-from=-513
+|bar22-to=-528
+|bar22-left=0.82
+|bar22-right=.92
+|bar22-colour=#770
+|note3=''[[Helicoplacus]]''<br />(approx.)
+|note3-at=-530
+|note3-colour=#777700
+|note3-nudge-left=6.9
+|note3-remove-arrow=yes
+
+|bar21-from=-560
+|bar21-to=-542
+|bar21-left=0.85
+|bar21-right=0.95
+|bar21-colour=#077
+|note2=''[[Arkarua]]''<br />(approx.)
+|note2-at=-550
+|note2-colour=#077
+|note2-remove-arrow=yes
+|note2-nudge-left=5.8
+
+|bar23-from=-558
+|bar23-to=-542
+|bar23-left=0.77
+|bar23-right=0.87
+|bar23-colour=#070
+|caption=Axis scale: millions of years ago.
+
+|bar24-from=-513
+|bar24-to=-501
+|bar24-left=0.81
+|bar24-right=0.83
+|bar24-colour=#13a
+|bar25-from=-497
+|bar25-left=0.77
+|bar25-right=0.87
+|bar25-colour=#13a
+|note5=[[Carpoid]]s
+|note5-colour=#13a
+|note5-at=-500
+|note5-remove-arrow=yes
+|note5-nudge-left=5.5
+
+}}
+{{clear}}
+{{Test case|_format=columns|_collapsible=yes|_title=Canidae graphical timeline|
+|help=off
+
+| link-to=Canidae_graphical_timeline
+| title=Evolution of the canids
+| title-colour={{period color|cenozoic}}
+
+|from=-68
+|to=0
+
+|height=40
+|width=8
+|disable-box-align=true
+
+<!--Æons-->
+|legend2=[[Mesozoic]]
+|legend2-colour={{period color|mesozoic}}
+|bar1-to=-65.5
+|bar1-left=.0
+|bar1-right=.1
+|bar1-colour={{period color|mesozoic}}
+
+|legend1=[[Cenozoic]]
+|legend1-colour={{period color|cenozoic}}
+|bar2-from=-65.5
+|bar2-right=.1
+|bar2-colour={{period color|cenozoic}}
+
+<!--Periods-->
+
+|bar4-to=-65.5
+|bar4-left=.1
+|bar4-colour={{period color|Cretaceous}}
+|bar4-border-width=.0
+|bar4-text='''[[Cretaceous]]'''
+
+|bar3-from=-65.5
+|bar3-to=-23.03
+|bar3-left=.1
+|bar3-right=0.25
+|bar3-colour={{period color|palæogene}}
+|bar3-border-width=0.08
+|bar3-text='''{{Vertical text|[[Paleogene|Palæogene]]}}'''
+
+|bar5-from=-23.03
+|bar5-to=-2.588
+|bar5-left=.1
+|bar5-right=0.25
+|bar5-colour={{period color|neogene}}
+|bar5-border-width=0.08
+|bar5-text='''{{Vertical text|[[Neogene]]}}'''
+
+|bar6-from=-2.588
+|bar6-left=.1
+|bar6-colour={{period color|quaternary}}
+|bar6-border-width=0.08
+|bar6-text='''[[Quaternary]]'''
+|bar6-nudge-up=0.2
+
+|bar7-from=-65.5
+|bar7-to=-55.8
+|bar7-text=<span style="font-size:90%">[[Palæocene]]</span>
+|bar7-border-width=0.08
+|bar7-left=0.26
+|bar7-colour={{period color|palæocene}}
+
+|bar8-from=-55.8
+|bar8-to=-33.9
+|bar8-text=<span style="font-size:90%">[[Eocene]]</span>
+|bar8-border-width=0.05
+|bar8-left=0.26
+|bar8-colour={{period color|Eocene}}
+
+
+|bar9-from=-33.9
+|bar9-to=-23.03
+|bar9-text=<span style="font-size:90%">[[Oligocene]]</span>
+|bar9-border-width=0.05
+|bar9-left=0.26
+|bar9-colour={{period color|oligocene}}
+
+|bar11-from=-23.03
+|bar11-to=-5.332
+|bar11-text=<span style="font-size:90%">[[Miocene]]</span>
+|bar11-border-width=0.05
+|bar11-left=0.26
+|bar11-colour={{period color|miocene}}
+
+|bar10-from=-5.6<!-- Actually -5.332,amended so dotted border only appears on top-->
+|bar10-to=-1.806
+|bar10-text=<span style="font-size:90%">[[Pliocene]]</span>
+|bar10-nudge-up=0.5
+|bar10-border-width=0.08
+|bar10-border-style=dotted
+|bar10-left=0.26
+|bar10-colour={{period color|pliocene}}
+
+|bar25-left=0.252
+|bar25-right=0.26
+|bar25-colour=black
+|bar25-from=-65.5
+|bar25-to=-1.806
+
+|bar26-left=.99
+|bar26-right=1
+|bar26-colour=#000000
+
+<!--30 to overlap 12-->
+|bar30-left=.09
+|bar30-right=.1
+|bar30-colour=#000000
+
+<!--Notes-->
+|note1=[[Cretaceous–Paleogene extinction event|K-P mass extinction]]
+|note1-at=-65.5
+|note2=First [[Hesperocyoninae]]
+|note2-at=-39.74
+|note3=First [[Borophaginae]]
+|note3-at=-36
+|note4=First [[Caninae]]
+|note4-at=-34
+|note5=Modern-looking dogs
+|note5-at=-20
+|note6=Canine<br />radiation
+|note6-at=-9.5
+|caption=An approximate timescale of key events in canid evolution.<br />For precise dates, see text.<br />Axis scale: millions of years ago.<br />{{infobox time scale|32}}
+}}
+{{clear}}
+{{Test case|_format=columns|_collapsible=yes|_title=Small shelly fauna graphical timeline|
+<!--Change this to help=on if you need instructions on editing this timeline-->
+|help=off
+
+|title="Small shellies" in context
+|link-to=Small_shelly_fauna_graphical_timeline
+|align=right
+
+|plot-colour=#ffffff
+
+|from=-595
+|to=-510
+|scale-increment=10
+|width=6
+|height=36
+|annotations-width=11.5
+|disable-box-align=true
+
+<!--Eras-->
+|legend1=[[Neoproterozoic]]<br>(last [[Era (geology){{!}}era]] of the [[Precambrian]])
+|legend1-colour={{period color|neoproterozoic}}
+|bar1-to=-{{period start|phanerozoic}}
+|bar1-left=.0
+|bar1-right=.1
+|bar1-colour={{period color|neoproterozoic}}
+
+|legend2=[[Palæozoic]]<br>(first era of the [[Phanerozoic]])
+|legend2-colour={{period color|paleozoic}}
+|bar2-from=-542
+|bar2-left=0
+|bar2-right=.1
+|bar2-colour={{period color|palæozoic}}
+
+<!--Periods-->
+|period4=Ediacaran
+|period4-left=.1
+|period4-from=-595
+|period4-text='''[[Ediacaran]]'''
+|period4-nudge-down=10
+
+|period5=Cambrian
+|period5-to=-510
+|period5-left=.1
+|period5-nudge-up=4.8
+|period5-text='''[[Cambrian]]'''
+
+|bar6-left=.99
+|bar6-right=1
+|bar6-colour=#000000
+
+<!--SSF-->
+|bar21-from=-542
+|bar21-to=-520
+|bar21-left=0.30
+|bar21-right=0.40
+|bar21-colour=#777700
+|note21='''[[Small shelly fauna]]'''<ref name="Bengtson2004">{{cite journal | title=Early skeletal fossils
+ | author = Bengtson, S. | editor=Lipps, J.H. |editor2=Waggoner, B.M. | journal=Neoproterozoic- Cambrian Biological Revolutions
+ | year = 2004
+ | series = Paleontological Society Papers
+ | volume = 10
+ | pages = 67–78
+ | url = http://www.cosmonova.org/download/18.4e32c81078a8d9249800021554/Bengtson2004ESF.pdf |format=PDF| access-date=2008-07-18 
+}}</ref><ref name="Porter2004ClosingPhosphatizationWindow">{{ cite journal 
+| title=Closing the Phosphatization Window: Testing for the Influence of Taphonomic Megabias on the Pattern of Small Shelly Fossil Decline
+| author=Porter, S.M. | journal=PALAIOS | volume=19 | issue=2 | date=April 2004 
+| url=http://www.geol.ucsb.edu/faculty/porter/Papers/Porter%202004_phosphatization.pdf
+| access-date=2009-04-22 
+| pages=178–183 
+| doi=10.1669/0883-1351(2004)019<0178:CTPWTF>2.0.CO;2 
+}}</ref><ref name=Dzik1994>{{cite journal
+| author = Dzik, J.  | year = 1994
+| title = Evolution of ‘small shelly fossils’ assemblages of the early Paleozoic
+| journal = Acta Palaeontologica Polonica | volume = 39 | issue = 3 | pages = 27–313
+| url = http://www.paleo.pan.pl/people/Dzik/Dzik1994d.htm | access-date=2008-08-01
+}}</ref>
+|note21-at=-537
+|note21-nudge-left=3.5
+|note21-nudge-down=0.3
+
+<!--Ediacaran SF-->
+|bar26-from=-549
+|bar26-to=-542
+|bar26-left=0.30
+|bar26-right=0.40
+|bar26-colour=#aaaaaa
+|note26= Ediacaran shelly fauna
+|note26-at=-545
+|note26-nudge-left=3.5
+|note26-nudge-down=0.3
+
+|bar22-from=-575
+|bar22-to=-542
+|bar22-left=0.15
+|bar22-right=.25
+|bar22-colour=#007777
+|note22=[[Ediacaran biota]]<ref>{{ cite journal 
+| title=Decoding the Ediacaran Enigma |author1=Brasier, M. |author2=Antcliffe, J.  |name-list-style=amp | journal=Science 
+| date=20 August 2004 | volume=305 | issue=5687 | pages=1115–1117 | doi=10.1126/science.1102673 
+|url=http://www.sciencemag.org/cgi/content/summary/305/5687/1115?ck=nck | access-date=2008-07-18 | pmid=15326344
+}}</ref>
+|note22-at=-565
+|note22-colour=#007777
+|note22-nudge-left=4.5
+|note22-nudge-down=0.4
+
+|bar23-from=-525
+|bar23-to=-520
+|bar23-left=0.64
+|bar23-right=0.74
+|bar23-colour=#cccc66
+|note23=[[Maotianshan shales]]<ref>{{ cite book 
+| author=Hou, X-G |author2=Aldridge, R.J. |author3=Bengstrom, J. |author4=Siveter, D.J. |author5=Feng, X-H  |name-list-style=amp | year= 2004 
+| title=The Cambrian Fossils of Chengjiang, China | publisher=Blackwell Science | pages=233
+}}</ref>
+|note23-at=-521
+|note23-colour=#777700
+|note23-nudge-left=1.3
+|note23-nudge-down=0.1
+
+|bar24-from=-535
+|bar24-to=-530
+|bar24-left=0.64
+|bar24-right=0.74
+|bar24-colour=pink
+|note24=[[Tommotian]] age<ref>{{ cite web 
+| url=http://www.ucmp.berkeley.edu/cambrian/tommotian.html | access-date=2008-07-30 
+| title=The Tommotian Age 
+}}</ref>
+|note24-at=-532
+|note24-colour=#666666
+|note24-nudge-left=1.3
+|note24-nudge-down=0.5
+
+<!-- Approx date of Cambrian explosion if abrupt -->
+|bar25-from=-530
+|bar25-to=-520
+|bar25-left=0.45
+|bar25-right=0.55
+|bar25-colour=#666666
+|note25=[[Cambrian explosion]],<br/>&emsp;&emsp;if sudden<ref name="CowenHistLife">{{ cite book | author=Cowen, R. | title=History of Life 
+| publisher=Blackwell Science | edition=3rd | page=63 | year=2000 | isbn=0-632-04444-6 
+}}</ref>
+|note25-at=-528
+|note25-colour=#666666
+|note25-nudge-up=0.4
+|note25-nudge-left=2.7
+
+|caption=Axis scale: millions of years ago.
+}}
+{{clear}}
+
+{{Test case|_format=columns|_collapsible=yes|_title=Proterozoic snowball periods
+| align=right | height=400 | width=10 | height-unit=px | plot-colour=transparent
+| from=-750 | to=-525 | scale-increment=25
+| disable-box-align=1
+| link-to=Snowball Earth timeline
+| period1 = Tonian
+| period1-border-width = 1
+| period1-left = 0.15
+| period2 = Cryogenian
+| period2-border-width = 1
+| period2-left = 0.15
+| period2-text = &nbsp;
+| period3 = Ediacaran
+| period3-border-width = 1
+| period3-left = 0.15
+| period3-nudge-down = 2.0
+| period5 = Cambrian
+| period5-border-width = 1
+| period5-left = 0.15
+| period4 = Neoproterozoic
+| period4-right = 0.15 | period4-text = <nowiki />
+| period4-border-width = 1
+| period4-colour = #FFFFB3
+| note1 = [[Cryogenian]]
+| note1-at = -657
+| note1-no-arrow = yes
+| note1-nudge-left=7.5
+| bar1-from=-717 | bar1-to=-660
+| bar1-left=0.1 | bar1-right=0.9
+| bar1-text = [[Sturtian glaciation|Sturtian]]<ref name=Pu /> | bar1-colour = #99ffff
+| bar2-from=-650 | bar2-to=-635
+| bar2-left=0.1 | bar2-right=0.9
+| bar2-text = [[Marinoan]]<ref name=Pu /> | bar2-colour = #99ffff
+| bar3-text = [[Gaskiers glaciation|Gaskiers]] | bar3-colour = #99ffff
+| bar3-from = -580 | bar3-to = -579.3
+| bar3-left = 0.1 | bar3-right = 0.9 
+| bar5-text=[[Baykonurian glaciation|Baykonurian]] | bar5-colour = #99ffff
+| bar5-from=-547 | bar5-to = -540
+| bar5-left = 0.1 | bar5-right = 0.9
+| legend1= [[Neoproterozoic]] era
+| legend1-colour=#FFFFB3
+| legend2= Snowball Earth
+| legend2-colour=#99ffff
+| caption=Estimate of [[Proterozoic]] glacial periods.<ref name=Pu>{{cite journal
+| last = Pu
+| first = J.P.
+| title = Dodging snowballs: Geochronology of the Gaskiers glaciation and the first appearance of the Ediacaran biota
+| journal = [[Geology (journal)|Geology]]
+| year= 2016
+| volume = 44
+| issue = 11
+| pages= 955–958
+| doi = 10.1130/G38284.1| bibcode = 2016Geo....44..955P
+| s2cid = 31142776
+}}
+</ref><ref name=Smith2009>{{cite journal
+| last = Smith
+| first = A. G.
+| title = Neoproterozoic timescales and stratigraphy
+| journal =Geological Society, London, Special Publications
+| year= 2009
+| volume = 326
+| issue = 1
+| pages= 27–54
+| doi = 10.1144/SP326.2|bibcode = 2009GSLSP.326...27S | s2cid = 129706604
+}}</ref>{{efn|Dating of pre-[[Gaskiers glaciation]]s is uncertain. As for the [[Kaigas]], its very existence is doubted by some. The [[Huronian glaciation]] is not shown; there is a lack of any significant evidence for a Snowball Earth during the time period.}}<br><span style="font-size:85%;">Vertical axis: millions of years ago</span>
+}}
+{{clear}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}

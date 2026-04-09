@@ -1,0 +1,20 @@
+{| style="margin:0 3px 3px; width:100%; background-color:transparent; border-collapse: collapse; padding:0.9em;"
+|-
+| style="width:40%; padding:0 1.2em 0 0; vertical-align:top;" | 
+{{#if: 
+  |{{wide image|File:Maros_Grand_Mosque.jpg|500px}}
+  |{{#if: 
+    |{{tall image|File:Maros_Grand_Mosque.jpg|500px}}
+    |[[File:Maros_Grand_Mosque.jpg|500px|center|link=File:Maros_Grand_Mosque.jpg]]
+    }}
+  }}
+| style="width:60%; vertical-align:top;" |
+The '''Maros Grand Mosque''' is a significant architectural landmark located within the [[Crescent Belt]] of Northeast [[Fosia]]. Constructed around the 16th century, the mosque is a primary example of Marosan design, characterized by hybrid artistic traditions that blend local elements with the maritime culture of the Bayani people. Its establishment coincided with the rise of the [[Sultanate of Maros]], a period defined by the growth of trade-centered port cities and the consolidation of Islamic institutions across the archipelago.
+
+The mosque serves as a testament to the gradual and peaceful spread of Islam in the region, which occurred primarily through merchant networks and intermarriage rather than military conquest. As a focal point of the Ḥizām al-Hilāl, the structure reflects a history of cosmopolitan exchange driven by monsoon-driven sea lanes. Today, it remains an essential site for religious life and scholarly tradition, representing the shared heritage of the coastal and archipelagic territories from [[Nusaraya]] to [[Pangkajene]].
+
+{{#if:Photograph|<small>Photograph: [[User:Nnm976|Dryan]]</small>|}}<div style="text-align:right;">
+Recently featured: [[:File:PL10_Centinela.jpeg|Centinela]] – [[:File:October 76 standoff.jpg|October 76 standoff]] – [[:File:Mount Asuka.png|Mount Asuka]] 
+
+'''<p align="right">[[Wiki:Nominations for Featured Picture|Nominate a Featured Picture]]''' - '''[[:File:Maros_Grand_Mosque.jpg|More...]]</p>'''
+|}

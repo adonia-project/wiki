@@ -1,0 +1,10 @@
+<includeonly><div style="position:relative;text-align:left;"><!--
+    --><div style="width:{{{width|}}};height:{{{height|}}};position:absolute;<!--
+                -->top:{{{top|0}}};right:{{{right|0}}};bottom:{{{bottom|}}};left:{{{left|}}};<!--
+                -->{{#if:{{{2|}}} |{{#ifeq:{{{1}}}|left |left:0;}}}}"><!--
+        -->{{#if:{{{2|}}} |{{{2}}} |{{{1|{{color|red|'''Error: Parameter missing''' {{smaller|([[Template:Float]])}}}}}}} }}<!--
+    --></div></div><!--
+--></includeonly><noinclude>
+{{Documentation}}
+<!-- Please add categories to the /doc subpage; interwikis go to Wikidata -->
+</noinclude>

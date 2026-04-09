@@ -1,0 +1,7 @@
+<includeonly>{{SAFESUBST:<noinclude />#invoke:Unsubst||$B={{#switch: {{NAMESPACENUMBER}}
+| 14 = {{db-c1 |nocat={{{nocat|}}} |raw={{{raw|}}}| category{{#ifeq:{{{category|a}}}|{{{category|b}}}||XXDUMMYXX}}={{{category}}} }}
+| #default = {{db-a3 | nocat={{{nocat|}}}|raw={{{raw|}}} | category={{{category|¬}}} }}
+}}}}</includeonly><noinclude>
+{{documentation}}
+<!-- Add categories to the /doc subpage; interwikis go to Wikidata, thank you! -->
+</noinclude>

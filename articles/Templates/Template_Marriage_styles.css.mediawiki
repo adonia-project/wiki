@@ -1,0 +1,15 @@
+/* {{pp-template}} */
+.marriage-line-margin2px {
+	line-height: 0;
+	margin-bottom: -2px;
+}
+
+.marriage-line-margin3px {
+	line-height: 0;
+	margin-bottom: -3px;
+}
+
+.marriage-display-ws {
+	display: inline;
+	white-space: nowrap;
+}

@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Ukrainian Soviet Socialist Republic
+| shortname alias = Ukrainian SSR
+| flag alias = Flag of Ukrainian SSR.svg
+| flag alias-1927 = Flag of the Ukrainian SSR (1927-1937).svg
+| flag alias-1937 = Flag of Ukrainian SSR (1937-1949).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| templatename = Ukrainian SSR
+| var1 = 1927
+| var2 = 1937
+| related1 = Ukraine
+</noinclude>
+}}

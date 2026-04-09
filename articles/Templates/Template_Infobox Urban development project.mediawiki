@@ -1,0 +1,121 @@
+{{Infobox
+ | bodyclass   = vcard
+ | headerstyle = background-color: #eee;
+ | title = {{#ifeq:{{yesno|{{{embed|}}}}}|yes|<div style="font-size:150%; font-weight:bold; text-align:center;">{{{name|{{{urban_development_name}}}}}}</div>
+    | {{{name|{{{urban_development_name}}}}}}
+    }}
+ | titleclass  = fn org
+ | titlestyle = {{#ifeq:{{yesno|{{{embed|}}}}}|yes|background-color: #eee;|}}
+ | child = {{yesno|{{{embed|}}}}}
+
+ | image1   = {{#invoke:InfoboxImage |InfoboxImage|image={{{image|}}}|upright={{{image_upright|1}}}|alt={{{alt|}}}}}
+ | caption1 = {{{caption|}}}
+
+ | image2   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|upright={{{image_upright2|1}}}|alt={{{alt2|}}}}}
+ | caption2 = {{{caption2|}}}
+
+ | label1 = Other name(s)
+ | data1 = {{{other_names|}}}
+ | class1 = label
+
+ | label2 = Location
+ | data2 = {{{location|}}}
+ | class2 = label
+
+ | label3 = Address
+ | data3 = {{{address|}}}
+ | class3 = label
+
+ | label4 = Coordinates
+ | data4 = {{{coordinates|}}}
+
+ | label5 = Status
+ | data5 = {{#switch:1
+   | {{#if:{{{status|}}}|1}} = {{{status}}}
+   | {{#if:{{{demolished|}}}|1}} = <span style="color: black;">Demolished</span>
+   | {{#if:{{{destroyed|}}}|1}} = <span style="color: #e42328;">Destroyed</span>
+   | {{#if:{{{est_completion|}}}|1}} = <span style="color: purple;">Under construction</span>
+   | {{#if:{{{built|}}}|1}}
+   | {{#if:{{{constructed|}}}|1}}
+   | {{#if:{{{construction_period|}}}|1}} = <span style="color: darkgreen;">Complete</span>}}
+
+ | label10 = Groundbreaking
+ | data10 = {{{groundbreaking|}}}
+
+ | label11 = Constructed
+ | data11 = {{{built|{{{construction_period|{{{constructed|}}}}}}}}}
+
+ | label12 = Estimated completion
+ | data12 = {{{est_completion|}}}
+
+ | label13 = Opening
+ | data13 = {{{opening|}}}
+
+ | label14 = Demolished
+ | data14 = {{{demolished|}}}
+
+ | label15 = Destroyed
+ | data15 = {{{destroyed|}}}
+
+ | label20 = Use
+ | data20 = {{{use|}}}
+
+ | label21 = Website
+ | data21 = {{{website|}}}
+
+ | header30 = {{#if:{{{architect|}}}{{{engineer|}}}{{{main_contractor|{{{contractor|}}}}}}{{{developer|}}}{{{owner|}}}{{{manager|}}}{{{planner|}}}|Companies}}
+
+ | label31 = Architect
+ | data31 = {{{architect|}}}
+
+ | label32 = Structural engineer
+ | data32 = {{{engineer|}}}
+
+ | label33 = Contractor
+ | data33 = {{{main_contractor|{{{contractor|}}}}}}
+
+ | label34 = Developer
+ | data34 = {{{developer|}}}
+
+ | label35 = Owner
+ | data35 = {{{owner|}}}
+
+ | label40 = Manager
+ | data40 = {{{manager|}}}
+
+| label41 = Planner
+| data41 = {{{planner|}}}
+
+ | header50 = {{#if:{{{cost|}}}{{{buildings|}}}{{{size|}}}{{{gross_leasable_area|}}}{{{parking|}}}{{{number_of_tenants|}}}{{{number_of_residents|}}}{{{number_of_workers|}}}|Technical details}}
+
+ | label51 = Cost
+ | data51 = {{{cost|}}}
+
+ | label52 = Buildings
+ | data52 = {{{buildings|}}}
+
+ | label53 = Size
+ | data53 = {{{size|}}}
+
+ | label54 = [[Gross leasable area|Leasable area]]
+ | data54 = {{{gross_leasable_area|}}}
+
+ | label55 = Parking
+ | data55 = {{{parking|}}}
+
+ | label60 = {{abbr|No.|Number}} of tenants
+ | data60 = {{{number_of_tenants|}}}
+
+ | label61 = {{abbr|No.|Number}} of residents
+ | data61 = {{{number_of_residents|}}}
+
+ | label62 = {{abbr|No.|Number}} of workers
+ | data62 = {{{number_of_workers|}}}
+
+ | label63 = Proposed
+ | data63 = {{{proposed|}}}
+
+ | header64  = {{{nrhp|{{{embedded|{{{module|}}}}}}}}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>

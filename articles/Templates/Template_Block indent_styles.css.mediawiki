@@ -1,0 +1,6 @@
+/* {{pp|small=yes}} */
+.block-indent {
+	padding-left: 3em;
+	padding-right: 0;
+	overflow: hidden;
+}

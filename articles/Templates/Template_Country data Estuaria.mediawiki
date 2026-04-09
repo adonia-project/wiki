@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Estuaria
+| flag alias = Flag of Estuaria.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

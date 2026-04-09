@@ -1,0 +1,28 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Jamaica
+| flag alias = Flag of Jamaica.svg
+| flag alias-1875 = Flag of Jamaica (1875–1906).svg
+| flag alias-1906 = Flag of Jamaica (1906–1957).svg
+| flag alias-1957 = Flag of Jamaica (1957–1962).svg
+| flag alias-army = Flag of the Jamaica Defence Force.svg
+| link alias-army = Jamaica Defence Force
+| link alias-air force = Jamaica Defence Force Air Wing
+| flag alias-air force = Ensign of the Jamaica Defence Force Air Wing.svg
+| flag alias-coast guard = Naval ensign of Jamaica.svg
+| link alias-coast guard = Jamaica Defence Force Coast Guard
+| flag alias-naval = Naval ensign of Jamaica.svg
+| link alias-naval = Jamaica Defence Force Coast Guard
+| flag alias-navy = Naval ensign of Jamaica.svg
+| link alias-navy = Jamaica Defence Force Coast Guard
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1875
+| var2 = 1906
+| var3 = 1957
+| redir1 = JAM
+</noinclude>
+}}

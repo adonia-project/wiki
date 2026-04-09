@@ -1,0 +1,189 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{Uses TemplateStyles|Template:Plain image with caption/styles.css}}{{clear2|right}}
+{{Template shortcut|pic|plain image}}
+
+Since MediaWiki does not provide a way to add visible captions to images integrated seamlessly in a page (i.e., without borders), this template aims to provide that functionality.
+
+=== Usage ===
+
+This template can be either with named parameters, as in
+: {{mono|<nowiki>{{Plain image with caption|image=Example.svg|caption=Example text|upright=1.2|align=right|caption position=bottom}}</nowiki>}}
+...or in its shorthand form:
+: {{mono|<nowiki>{{Plain image with caption|Example.svg|Example text|upright|right|bottom}}</nowiki>}}
+* The only compulsory parameters are {{mono|image}} and {{mono|caption}}.
+* When using the shorthand version, keep in mind that the order of parameters is important.
+
+{| class=wikitable
+|-
+! Parameter
+! Default
+! Acceptable values
+
+|-
+| image
+| ''mandatory''
+| any image filename (''"File:"'' or ''"Image:"'' is optional)
+
+|-
+| caption
+| ''mandatory''
+| any valid wiki markup
+
+|-
+| upright
+| none
+| any decimal number (decimal point is optional)
+
+|-
+| width
+| none
+| any pixel width (''"px"'' suffix optional)
+
+|-
+| height
+| none
+| any pixel height (''"px"'' suffix optional)
+
+|-
+| align
+| right
+| left, center, right, none
+
+|-
+| caption position
+| bottom
+| top, bottom
+
+|-
+| triangle
+| none
+| triangle, none
+
+|-
+| triangle color
+| #ff0080
+| any CSS color
+
+|-
+| class
+| (none)
+| Use <code>skin-invert-image</code> for SVG images that need to be inverted for dark mode
+
+|}
+
+== Examples ==
+
+The triangle parameters give the option to add a colored triangle label—
+{{plain image with caption|James Webb Space Telescope Mirror37.jpg|caption=This is a picture of the [[James Webb Space Telescope]].|align=left|caption position=top|triangle=triangle|triangle color=rgba(0,110,255,1)|upright=2}}
+<syntaxhighlight lang="wikitext" inline>{{plain image with caption|James Webb Space Telescope Mirror37.jpg|caption=This is a picture of the [[James Webb Space Telescope]].|align=left|caption position=top|triangle=triangle|triangle color=rgba(0,110,255,1)|upright=2}}</syntaxhighlight>
+
+{{clear}}
+
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+	"description": "A template for adding a caption to a frameless image.",
+	"params": {
+		"image": {
+			"label": "Image",
+			"description": "The image to use. The ''File:'' prefix is optional.",
+			"type": "string",
+			"default": "—",
+			"required": true,
+			"aliases": [
+				"1"
+			]
+		},
+		"caption": {
+			"label": "Image caption",
+			"description": "The caption to display under or above the image.",
+			"type": "string",
+			"default": "—",
+			"required": true,
+			"aliases": [
+				"2"
+			]
+		},
+		"alt": {
+			"label": "Alt text",
+			"description": "The alt text of the image (see [[WP:ALT]]).",
+			"type": "string",
+			"suggested": true
+		},
+		"upright": {
+			"label": "Image width scaling factor",
+			"description": "Decimal multiplier that sets the width of the image relative to the user's preferred thumbnail size, as set in their Preferences (220px by default or when not logged in). Decimal point optional.",
+			"type": "string",
+			"example": "0.75",
+			"default": "—",
+			"required": false
+		},
+		"width": {
+			"label": "Image width",
+			"description": "Sets the pixel width of the image. Per WP:THUMBSIZE, fixed image widths should not be used unless align is set to ''center'' or otherwise necessary. The ''px'' suffix is optional.",
+			"type": "number",
+			"default": "—",
+			"required": false,
+			"aliases": [
+				"3"
+			]
+		},
+		"height": {
+			"label": "Image height",
+			"description": "Sets the pixel height of the image. The ''px'' suffix is optional.",
+			"type": "number",
+			"required": false
+		},
+		"align": {
+			"label": "Float and center",
+			"description": "Floats the template to the left, right, or centers it. Accepts ''left'', ''center'', ''right'', or ''none''. If set to ''center'', width must be set to a pixel-defined width, or else an error will be displayed.",
+			"type": "string",
+			"default": "right",
+			"required": false,
+			"aliases": [
+				"4"
+			]
+		},
+		"caption position": {
+			"label": "Caption position",
+			"description": "Determines whether the caption goes above or below the image. Accepts ''top'' or ''bottom''.",
+			"type": "string",
+			"default": "bottom",
+			"required": false,
+			"aliases": [
+				"5"
+			]
+		},
+		"triangle": {
+			"label": "Triangle pointer",
+			"description": "Allows you to add a triangular pointer next to the caption text. Accepts ''triangle'' or ''none''.",
+			"type": "string",
+			"default": "none",
+			"required": false,
+			"aliases": [
+				"6"
+			]
+		},
+		"triangle color": {
+			"label": "Triangle pointer color",
+			"description": "Lets you set a CSS color for the triangular pointer.",
+			"type": "string",
+			"default": "#ff0080",
+			"required": false,
+			"aliases": [
+				"7"
+			]
+		}
+	}
+}
+</templatedata>
+
+=== See also ===
+* {{tl|Multiple image}}
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Graphics templates]]
+}}</includeonly>

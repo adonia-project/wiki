@@ -1,0 +1,489 @@
+{{Infobox
+| title    =  {{if empty|{{{title|}}}|{{{name|}}}|{{PAGENAMEBASE}}}}
+| bodyclass  = vevent
+| titleclass = summary
+| subheader1 = {{#if:{{{native_name|}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span>}}
+
+| image    = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|upright=1.2|alt={{{alt|{{{image alt|}}}}}}|suppressplaceholder=yes}}
+| caption  = {{{caption|{{{imagecaption|}}}}}}
+
+| image2   = {{#invoke:InfoboxImage|InfoboxImage|image={{{map|}}}|size={{{map_size|{{{mapsize|}}}}}}|sizedefault=frameless|upright=1.2|alt={{{map_alt|{{{map alt|}}}}}}|suppressplaceholder=yes}}
+| caption2 = {{{map_caption|{{{image name|}}}}}}
+
+| image3   = {{#if:{{{pushpin_map|}}}
+  |{{Location map|{{{pushpin_map|}}}
+    |float = center|border = infobox
+    |label = {{{pushpin_label|}}}
+    |alt = {{{pushpin_map_alt|}}}
+    |coordinates = {{if empty|{{{coordinates|}}}|{{{location|}}}}}
+    |mark = {{#if: {{{pushpin_mark|}}} | {{{pushpin_mark}}} | Bullseye1.png }}
+    |marksize = {{#if: {{{pushpin_marksize|}}} | {{{pushpin_marksize}}} | 40 }}
+    |caption = {{{pushpin_map_caption|}}}
+    |position = {{#if:{{{pushpin_label_position|}}}|{{{pushpin_label_position|}}}|none}}
+    |width = {{{pushpin_mapsize|}}}
+    |relief = {{{pushpin_relief|1}}}
+    |AlternativeMap = {{{pushpin_image|}}}
+    }}
+  |{{{map2|}}} 
+}}
+
+<!-- { ================ Labels & data ================  -->
+| label1 = [[Coordinated Universal Time|UTC]]&nbsp;time
+|  data1 = 
+ {{#if: {{{timestamp|}}}
+<!-- --[sw-- -->
+  | {{#switch: {{{timestamp|}}} <!-- Check for timestamp-A? -->
+     | {{#time:Y-m-d H:i:s|{{{timestamp}}} }} = {{{timestamp}}}
+     | {{#time:Y-m-d H:i  |{{{timestamp}}} }} = {{{timestamp}}}
+     | doublet   = [[Doublet earthquake|Doublet&nbsp;earthquake]]:{{nbsp|4}}
+     | triplet   = [[Doublet earthquake|Triplet&nbsp;earthquake]]:{{nbsp|4}}
+     | multiplet = [[Doublet earthquake|Multiplet&nbsp;earthquake]]:{{nbsp|2}}
+       <!-- nbsp's added to force a width where timestamp won't get folded. -->
+     | #default =
+        {{#ifeq: {{{pre-1900|}}} | yes
+         | {{{timestamp}}} <!-- whatever works. Else:  -->
+         | {{{timestamp}}} </br>{{red|<small>Needs 'yyyy-mm-dd hh:mm'</small>}}
+             {{main_other|[[Category:EQ articles with UTC timestamp error]]}}
+        }}
+    }}
+<!-- --sw]-- -->
+    {{#switch: {{{timestamp|}}}
+     |doublet |triplet |multiplet = {{main other|[[Category:Doublet earthquakes]]}}
+    }}
+  |<!-- Else: no timestamp -->
+    {{#if: {{{timestamp-A|}}}
+     | <includeonly>&nbsp;</includeonly>  <!-- ok. Force display of label. -->
+     | {{#ifeq: {{{pre-1900|}}} | yes
+        | <!-- Not required if pre-1900 .  Else: -->
+        | <includeonly>{{red|??}}</includeonly>
+          {{#ifeq:{{NAMESPACE}}|{{ns:0}} 
+           | [[Category:EQ articles needing UTC timestamp]]
+          }}
+       }}
+    }}
+ }} <!-- timestamp -->
+
+<!-- Only for 'doublet earthquakes' and similar segmented events.
+  -- Not for aftershocks, swarms, or series! 
+  -->
+| label3 = &nbsp;
+|  data3 =
+ {{#if: {{{timestamp-A|}}} 
+  | {{#if:{{{tags|}}} | A: }} {{{timestamp-A|}}}
+ }}
+
+| label4 = &nbsp;
+|  data4 =
+ {{#if: {{{timestamp-B|}}} 
+  | {{#if:{{{tags|}}} | B: }} {{{timestamp-B|}}}
+ }}
+
+| label5 = &nbsp;
+|  data5 =
+ {{#if: {{{timestamp-C|}}} 
+  | {{#if:{{{tags|}}} | C: }} {{{timestamp-C|}}}
+ }}
+
+| label6 = &nbsp;
+|  data6 =
+ {{#if: {{{timestamp-D|}}} 
+  | {{#if:{{{tags|}}} | D: }} {{{timestamp-D|}}}
+ }}
+
+| label7 = &nbsp;
+|  data7 =
+ {{#if: {{{timestamp-E|}}} 
+  | {{#if:{{{tags|}}} | E: }} {{{timestamp-E|}}}
+ }}
+<!-- The ISC lists only a single instance of a five-part event. No more are needed. -->
+<!-- ................................  -->
+
+<!--  ------ ISC event -----  -->
+| label10 = [[International Seismological Centre|ISC]]&nbsp;event 
+|  data10 = 
+ {{#ifeq: {{{isc-event|}}} | n/a
+  | n/a {{main_other|[[Category:EQ articles with ISC set 'n/a']]}}
+  | {{#if: {{{isc-event|}}}
+     | {{EQ-isc-link|-{{{isc-event}}} }}
+     | {{#if: {{{isc-event-A|}}} 
+        | &nbsp; <!-- if isc-event-A present: display label w/ blank data  -->
+        | {{#ifeq: {{{pre-1900|}}} | yes
+           | <!-- Not required if pre-1900 -->
+           | {{main_other|[[Category:EQ articles waiting for ISC event id]]}}
+          }}
+       }}
+    }}
+ }}
+
+| label11 = &nbsp;
+|  data11 =
+ {{#ifeq: {{{isc-event-A|}}} | n/a
+  | {{#if:{{{tags|}}} | A: }} n/a
+  | {{#if: {{{isc-event-A|}}}
+     | {{#if:{{{tags|}}} | A: }} {{EQ-isc-link|-{{{isc-event-A|}}} }}
+    }}
+ }}
+
+| label12 = &nbsp;
+|  data12 =
+ {{#ifeq: {{{isc-event-B|}}} | n/a
+  | {{#if:{{{tags|}}} | B: }} n/a
+  | {{#if: {{{isc-event-B|}}}
+     | {{#if:{{{tags|}}} | B: }} {{EQ-isc-link|-{{{isc-event-B|}}} }}
+    }}
+ }}
+
+| label13 = &nbsp;
+|  data13 =
+ {{#ifeq: {{{isc-event-C|}}} | n/a
+  | {{#if:{{{tags|}}} | C: }} n/a
+  | {{#if: {{{isc-event-C|}}}
+     | {{#if:{{{tags|}}} | C: }} {{EQ-isc-link|-{{{isc-event-C|}}} }}
+    }}
+ }}
+
+| label14 = &nbsp;
+|  data14 =
+ {{#ifeq: {{{isc-event-D|}}} | n/a
+  | {{#if:{{{tags|}}} | D: }} n/a
+  | {{#if: {{{isc-event-D|}}}
+     | {{#if:{{{tags|}}} | D: }} {{EQ-isc-link|-{{{isc-event-D|}}} }}
+    }}
+ }}
+
+| label15 = &nbsp;
+|  data15 =
+ {{#ifeq: {{{isc-event-E|}}} | n/a
+  | {{#if:{{{tags|}}} | E: }} n/a
+  | {{#if: {{{isc-event-E|}}}
+     | {{#if:{{{tags|}}} | E: }} {{EQ-isc-link|-{{{isc-event-E|}}} }}
+    }}
+ }}
+
+<!-- ................................  -->
+<!--  ----- ANSS -----  -->
+| label20 = USGS-[[Advanced National Seismic System|ANSS]]
+|  data20 =
+ {{#ifeq: {{{anss-url|}}} | n/a
+  | n/a {{main_other|[[Category:EQ articles with ANSS set 'n/a']]}}
+  | {{#if: {{{anss-url|}}}
+     | {{#ifeq: http | {{str left|{{{anss-url}}}|4}}
+        | [{{{anss-url}}} ComCat]
+        | [https://earthquake.usgs.gov/earthquakes/eventpage/{{{anss-url}}} ComCat]
+       }}
+     | {{#if: {{{anss-url-A|}}}
+        | &nbsp; <!-- if anss-url-A present: display label w/ blank data  -->
+        | {{#ifeq: {{{pre-1900|}}} | yes
+           | <!-- Not required if pre-1900, and don't display if empty -->
+           | {{main_other|[[Category:EQ articles needing ANSS url]]}}
+<!--   {{red|<small>[https://earthquake.usgs.gov/earthquakes url required.]<small>}}
+  -->
+          }}
+       }}
+    }}
+ }}
+
+| label21 = &nbsp;
+|  data21 =
+ {{#ifeq: {{{anss-url-A|}}} | n/a
+  | {{#if:{{{tags|}}} | A: }} n/a
+  | {{#if: {{{anss-url-A|}}}
+     | {{#if:{{{tags|}}} | A: }} {{#ifeq: http | {{str left|{{{anss-url-A}}}|4}}
+        | [{{{anss-url-A}}} ComCat]
+        | [https://earthquake.usgs.gov/earthquakes/eventpage/{{{anss-url-A}}} ComCat]
+       }}
+    }}
+ }}
+
+| label22 = &nbsp;
+|  data22 =
+ {{#ifeq: {{{anss-url-B|}}} | n/a
+  | {{#if:{{{tags|}}} | B: }} n/a
+  | {{#if: {{{anss-url-B|}}}
+     | {{#if:{{{tags|}}} | B: }} {{#ifeq: http | {{str left|{{{anss-url-B}}}|4}}
+        | [{{{anss-url-B}}} ComCat]
+        | [https://earthquake.usgs.gov/earthquakes/eventpage/{{{anss-url-B}}} ComCat]
+       }}
+    }}
+ }}
+
+| label23 = &nbsp;
+|  data23 =
+ {{#ifeq: {{{anss-url-C|}}} | n/a
+  | {{#if:{{{tags|}}} | C: }} n/a
+  | {{#if: {{{anss-url-C|}}}
+     | {{#if:{{{tags|}}} | C: }} {{#ifeq: http | {{str left|{{{anss-url-C}}}|4}}
+        | [{{{anss-url-C}}} ComCat]
+        | [https://earthquake.usgs.gov/earthquakes/eventpage/{{{anss-url-C}}} ComCat]
+       }}
+    }}
+ }}
+
+| label24 = &nbsp;
+|  data24 =
+ {{#ifeq: {{{anss-url-D|}}} | n/a
+  | {{#if:{{{tags|}}} | D: }} n/a
+  | {{#if: {{{anss-url-D|}}}
+     | {{#if:{{{tags|}}} | D: }} {{#ifeq: http | {{str left|{{{anss-url-D}}}|4}}
+        | [{{{anss-url-D}}} ComCat]
+        | [https://earthquake.usgs.gov/earthquakes/eventpage/{{{anss-url-D}}} ComCat]
+       }}
+    }}
+ }}
+
+| label25 = &nbsp;
+|  data25 =
+ {{#ifeq: {{{anss-url-E|}}} | n/a
+  | {{#if:{{{tags|}}} | E: }} n/a
+  | {{#if: {{{anss-url-E|}}}
+     | {{#if:{{{tags|}}} | E: }} {{#ifeq: http | {{str left|{{{anss-url-E}}}|4}}
+        | [{{{anss-url-E}}} ComCat]
+        | [https://earthquake.usgs.gov/earthquakes/eventpage/{{{anss-url-E}}} ComCat]
+       }}
+    }}
+ }}
+
+<!--  ----- Local date -----  -->
+| label30 = Local&nbsp;date
+|  data30 =
+ {{#if: {{{local-date|}}}
+  | {{{local-date}}}
+  | {{#if: {{{local-date-A|}}}
+     | &nbsp;
+     | {{#ifeq: {{{pre-1900|}}} | yes
+        | <!-- Not required if pre-1900 -->
+        | {{main_other|[[Category:EQ articles needing 'local-date']]}}
+       }}
+    }}
+ }}
+
+| label31 = &nbsp;
+|  data31 =
+ {{#if: {{{local-date-A|}}}
+  | {{#if:{{{tags|}}} | A: }} {{{local-date-A|}}}
+ }}
+
+| label32 = &nbsp;
+|  data32 =
+ {{#if: {{{local-date-B|}}}
+  | {{#if:{{{tags|}}} | B: }} {{{local-date-B|}}}
+ }}
+
+| label33 = &nbsp;
+|  data33 =
+ {{#if: {{{local-date-C|}}}
+  | {{#if:{{{tags|}}} | C: }} {{{local-date-C|}}}
+ }}
+
+| label34 = &nbsp;
+|  data34 =
+ {{#if: {{{local-date-D|}}}
+  | {{#if:{{{tags|}}} | D: }} {{{local-date-D|}}}
+ }}
+
+| label35 = &nbsp;
+|  data35 =
+ {{#if: {{{local-date-E|}}}
+  | {{#if:{{{tags|}}} | E: }} {{{local-date-E|}}}
+ }}
+
+<!--  ----- Local time -----  -->
+| label40 = Local&nbsp;time
+|  data40 = 
+ {{#if: {{{local-time|}}}
+  | {{{local-time}}}
+  | {{#if: {{{local-time-A|}}}
+     | &nbsp;
+     | {{#ifeq: {{{pre-1900|}}} | yes
+        | <!-- Not required if pre-1900 -->
+        | {{main_other|[[Category:EQ articles needing 'local-time']]}}
+       }}
+    }}
+ }}
+
+| label41 = &nbsp;
+|  data41 =
+ {{#if: {{{local-time-A|}}} 
+  | {{#if:{{{tags|}}} | A: }} {{{local-time-A|}}}
+ }}
+
+| label42 = &nbsp;
+|  data42 =
+ {{#if: {{{local-time-B|}}} 
+  | {{#if:{{{tags|}}} | B: }} {{{local-time-B|}}}
+ }}
+
+| label43 = &nbsp;
+|  data43 =
+ {{#if: {{{local-time-C|}}} 
+  | {{#if:{{{tags|}}} | C: }} {{{local-time-C|}}}
+ }}
+
+| label44 = &nbsp;
+|  data44 =
+ {{#if: {{{local-time-D|}}} 
+  | {{#if:{{{tags|}}} | D: }} {{{local-time-D|}}}
+ }}
+
+| label45 = &nbsp;
+|  data45 =
+ {{#if: {{{local-time-E|}}} 
+  | {{#if:{{{tags|}}} | E: }} {{{local-time-E|}}}
+ }}
+
+<!-- ................................  -->
+
+| label49  = Duration
+|  data49  = {{{duration|}}}
+
+<!--  ------ Magnitude -----  -->
+| label50  = Magnitude
+|  data50  = 
+ {{#if: {{{magnitude|}}}
+  | {{{magnitude|}}}
+  | {{#if: {{{magnitude-A|}}}
+     | &nbsp;
+    }}
+ }}
+
+| label51 = &nbsp;
+|  data51 =
+ {{#if: {{{magnitude-A|}}} 
+  | {{#if:{{{tags|}}} | A: }} {{{magnitude-A|}}}
+ }}
+
+| label52 = &nbsp;
+|  data52 =
+ {{#if: {{{magnitude-B|}}} 
+  | {{#if:{{{tags|}}} | B: }} {{{magnitude-B|}}}
+ }}
+
+| label53 = &nbsp;
+|  data53 =
+ {{#if: {{{magnitude-C|}}} 
+  | {{#if:{{{tags|}}} | C: }} {{{magnitude-C|}}}
+ }}
+
+| label54 = &nbsp;
+|  data54 =
+ {{#if: {{{magnitude-D|}}} 
+  | {{#if:{{{tags|}}} | D: }} {{{magnitude-D|}}}
+ }}
+
+| label55 = &nbsp;
+|  data55 =
+ {{#if: {{{magnitude-E|}}} 
+  | {{#if:{{{tags|}}} | E: }} {{{magnitude-E|}}}
+ }}
+
+<!--  ------ Depth ---------  -->
+| label60  = Depth
+|  data60  =
+ {{#if: {{{depth|}}}
+  | {{{depth|}}}
+  | {{#if: {{{depth-A|}}}
+     | &nbsp;
+    }}
+ }}
+
+| label61 = &nbsp;
+|  data61 =
+ {{#if: {{{depth-A|}}}
+  | {{#if:{{{tags|}}} | A: }} {{{depth-A|}}}
+ }}
+
+| label62 = &nbsp;
+|  data62 =
+ {{#if: {{{depth-B|}}}
+  | {{#if:{{{tags|}}} | B: }} {{{depth-B|}}}
+ }}
+
+| label63 = &nbsp;
+|  data63 =
+ {{#if: {{{depth-C|}}}
+  | {{#if:{{{tags|}}} | C: }} {{{depth-C|}}}
+ }}
+
+| label64 = &nbsp;
+|  data64 =
+ {{#if: {{{depth-D|}}}
+  | {{#if:{{{tags|}}} | D: }} {{{depth-D|}}}
+ }}
+
+| label65 = &nbsp;
+|  data65 =
+ {{#if: {{{depth-E|}}}
+  | {{#if:{{{tags|}}} | E: }} {{{depth-E|}}}
+ }}
+
+<!-- ................................  -->
+
+| label69  = {{#invoke:Engvar|variants
+| defaultWord = Epicenter
+| engvar = {{{engvar|}}}<!-- Pass through from article setting -->
+| defaultLang = en-US
+| en-UK = Epicentre 
+| en-CA = Epicentre 
+| en-AU = Epicentre 
+}}
+|  data69 = {{br separated entries|{{{location|}}}|{{{coordinates|}}}}}
+
+| label71 = Fault
+|  data71 = {{{fault|}}}
+
+| label72 = Type
+|  data72 = {{{type|}}}
+
+| label73 = Areas affected
+|  data73 = {{{affected|{{{countries affected|}}}}}}
+
+| label74 = Total damage
+|  data74 = {{{damages|{{{damage|}}}}}}
+
+| label75 = {{abbr|Max.|Maximum}} intensity
+|  data75 = {{{intensity|}}}
+
+| label76 = Peak acceleration
+|  data76 = {{{pga|{{{PGA|}}}}}}
+
+| label77 = Peak velocity
+|  data77 = {{{pgv|{{{PGV|}}}}}}
+
+| label78 = Tsunami
+|  data78 = {{{tsunami|}}}
+
+| label79 = Landslides
+|  data79 = {{{landslide|}}}
+
+| label80 = Foreshocks
+|  data80 = <!-- {{{foreshocks|}}} -->
+ {{#if:{{{foreshocks|}}} | {{{foreshocks|}}} {{main_other|[[Category:EQ articles using 'foreshock']]}} }}
+
+| label81 = Aftershocks
+|  data81 = <!-- {{{aftershocks|}}} --> 
+ {{#if:{{{aftershocks|}}} | {{{aftershocks|}}} {{main_other|[[Category:EQ articles using 'aftershock']]}} }}
+
+| label82 = Casualties
+|  data82 = {{{casualties|}}}
+
+<!-- [ Swarms-only parameters-->
+| labe 83 = Greatest magnitude
+|  data83 = {{{maxmagnitude|}}}
+| class83 = note
+
+| label84 = Mean depth
+|  data84 = {{{meandepth|}}}
+| class84 = note
+
+| label85 = Total events
+|  data85 = {{{events|}}}
+<!-- End of swarms-only parameters ] -->
+
+| data91  = {{{module|{{{embedded|{{{misc|}}}}}}}}}
+
+| label92 = Citations
+|  data92 = {{{citations|}}}
+
+| below = {{{related|}}} <!-- } -->
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox earthquake with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox earthquake]] with unknown parameter "_VALUE_"|ignoreblank=y| affected | aftershocks | alt | anss-url |caption | casualties | citations | coordinates | countries affected | damage | damages | depth | duration | embedded | engvar | events | fault | foreshocks |isc-event | image | image alt | image name | image_size | imagecaption | intensity | landslide | local-date | local-time | location | magnitude | map | map alt | map_alt | map_caption | map_size | map2 | mapsize | maxmagnitude | meandepth | misc | module | name | native_name | native_name_lang | PGA | pga | PGV | pgv | pre-1900 | pushpin_image | pushpin_label | pushpin_label_position | pushpin_map | pushpin_map_alt | pushpin_map_caption | pushpin_mapsize | pushpin_mark | pushpin_marksize | pushpin_relief | related | timestamp | title | tsunami | type | tags | timestamp-A | isc-event-A  | anss-url-A 
+| local-time-A | magnitude-A | timestamp-B | isc-event-B  | anss-url-B | local-time-B | magnitude-B | timestamp-C | isc-event-C  | anss-url-C | local-time-C | magnitude-C | timestamp-D | isc-event-D  | anss-url-D | local-time-D | magnitude-D | timestamp-E | isc-event-E  | anss-url-E | local-time-E | magnitude-E | local-date-A | local-date-B | local-date-C | local-date-D | local-date-E | depth-A | depth-B | depth-C | depth-D | depth-E }}<noinclude>{{documentation}}</noinclude>

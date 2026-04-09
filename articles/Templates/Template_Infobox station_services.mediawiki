@@ -1,0 +1,23 @@
+<noinclude>{{pp-template|small=yes}}</noinclude>{{Infobox
+| child = yes
+| headerstyle = {{#invoke:Adjacent stations|style|subheader|{{{style|}}}|{{{style2|}}}}}
+| header1 = {{#if:{{{services|}}}|{{#switch:{{{collapsed|}}}|1|yes|collapsible=|{{{header|Services}}}}}}}
+| rowcellstyle1 = {{#switch:{{{collapsed|}}}|1|yes|collapsible=padding: 0}}
+|  data2  = {{#if:{{{services|}}}|{{#switch:{{{collapsed|}}}
+ |1|yes|collapsible=
+<table style="border-spacing: 0; width: 100%; min-width: 100%" class="mw-collapsible {{#switch:{{{services_state|}}}|expanded|0|no=|mw-collapsed}}">
+  <tr><th style="text-align: center; {{#invoke:Adjacent stations|style|subheader|{{{style|}}}|{{{style2|}}}}}"><div style="margin:0 3.5em">{{{header|Services}}}</div></th></tr>
+  <tr><td style="padding-top: 3px">{{#if:{{#invoke:String|match|1={{{services|}}}|2=class="wikitable adjacent-stations|plain=true|nomatch=}}|{{{services|}}}|{{#invoke:string|replace|1=
+{{S-rail-start|noclear=yes}}
+{{{services}}}
+{{S-end}}|2=white%-space: *nowrap([^"]*"{{!}})|3=%1|plain=false}}}}</td></tr>
+</table>
+ |#default=
+{{#if:{{#invoke:String|match|1={{{services|}}}|2=class="wikitable adjacent-stations|plain=true|nomatch=}}|{{{services|}}}|{{#invoke:string|replace|1=
+{{S-rail-start|noclear=yes}}
+{{{services}}}
+{{S-end}}|2=white%-space: *nowrap([^"]*"{{!}})|3=%1|plain=false}}}}}}
+ }}
+}}<noinclude>
+{{doc|content=Meta-template for {{t|Infobox station}} which builds the services components.}}
+</noinclude>

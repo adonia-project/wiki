@@ -1,0 +1,412 @@
+{{Documentation subpage}}
+Utilising the alpha3 ISO 4217 code. For example, the code number can be derived from the code. Based on the ISO 4217 Standfard definition (per {{tl|ISO 4217/cite}}, {{as of|lc=yes|October 2022}}).
+
+There are '''304 unique codes''' ({{mono|1=ADP..ZWR}}). Codes are reused (as currency in history, in history with different end-date by country, in List Two funds, in entities) resulting in '''452 currency definitions''' (data rows).
+
+* {{Property|P498}}
+
+==General==
+: {{para|iso-code}}
+: {{para|format}}
+: {{para|is-obsolete}}
+
+Most parameters work by {{tl|yesno}} principle: {{code|1=yes, 1, true, <anytext>}} and {{code|1=no, 0, false, <blank>}} are recognised as T/F.
+:See also {{slink||maintenance-category ISO 4217}}
+
+:{{para|format}}-options can be comma-separated list: {{para|format|option-none, ISO4217-cat, mono, brackets, }} (as announced per template)
+
+==Base: iso-code==
+===ISO 4217/code===
+* {{tl|ISO 4217/code}}
+Returns valid ISO 4217 code ''or'' blank.
+: {{para|iso-code}}
+
+:Basic: {{para|format|&lt;blank&gt;}} returns EITHER the code as exists OR &lt;blank&gt; (no tracking etc)
+
+: {{para|format|option-none, ISO4217-cat}}
+
+:See {{slink||maintenance-category ISO4217}}
+
+Other data (ref, comment) elsewhere. 
+Data {{As of |lc=yes|17 October 2022}}, per source {{tl|ISO 4217/cite}}
+
+====iso-code error (maintenance category)====
+:{{para|format|ISO4217-cat}} will categorise articles with ISO-codes that do not exist in ISO. Sorted under {{code|C}}.
+:(When in Template space, a wikilink to the category will show: {{para|iso-code|ZZZ}} &rarr; {{ISO 4217/code|iso-code=ZZZ|format=ISO4217-cat}})
+
+:See {{slink||maintenance-category ISO4217}}
+
+====option-none (code='None')====
+:'''{{para|format|option-none}}''' will allow {{para|iso-code|<nowiki>''None''</nowiki>, none, no}} (formatting is optional).
+
+* {{tl|ISO 4217/code-none}} will return (show) {{para|iso-code|<nowiki>''None''</nowiki>}} (as formatted).
+
+: Internally, {{tl|ISO 4217/code-none}} returns {{code|_NONE_}} ''or'' &lt;blank>. 
+
+When code "None" is not allowed {{para|format|<s>option-none</s>}}, {{para|iso-code|None}} input is considered unrecognised code (returns blank). 
+Will be categorised from mainspace, sorted under {{code|N}}.
+:(In Template space: {{para|iso-code|None}} &rarr; {{ISO 4217/code|iso-code=None|format=ISO4217-cat}})
+:See {{slink||maintenance-category ISO4217}}
+
+====Examples====
+
+{| class="wikitable"
+! in
+! plain
+! is "None"?
+! {{para|format|option-none}}<br/>option-none=&lt;absent>
+! {{para|format|ISO4217-cat}}
+! number
+! minor unit
+|-
+| {{para|iso-code|USD}}
+| {{ISO 4217/code|iso-code=USD}}
+| {{ISO 4217/code-none|iso-code=USD}}
+| {{ISO 4217/code|iso-code=USD|format=option-none}}
+| {{ISO 4217/code|iso-code=USD|format=option-none, ISO4217-cat}}
+| {{ISO 4217/code-to-number|iso-code=USD|format=brackets}}
+| {{ISO 4217/code-minor-unit|iso-code=USD}}
+
+|-
+|  {{para|iso-code|<nowiki>''None''</nowiki>}}
+| {{ISO 4217/code|iso-code=''None''}}
+| {{ISO 4217/code-none|iso-code=''None''}}
+| {{ISO 4217/code|iso-code=''None''|format=option-none}}<br/>{{ISO 4217/code|iso-code=''None''|format=ISO4217-cat}}
+| {{ISO 4217/code|iso-code=''None''|format=option-none, ISO4217-cat}}
+| {{ISO 4217/code-to-number|iso-code=''None''}}
+| {{ISO 4217/code-minor-unit|iso-code=''None''}}
+
+|-
+| {{para|iso-code|ZZZ}}
+| {{ISO 4217/code|iso-code=ZZZ}}
+| {{ISO 4217/code-none|iso-code=aaa}}
+| {{ISO 4217/code|iso-code=aaa|format=option-none}}
+| {{ISO 4217/code|iso-code=aaa|format=option-none, ISO4217-cat}}
+| {{ISO 4217/code-to-number|iso-code=aaa|format=brackets}}
+| {{ISO 4217/code-minor-unit|iso-code=aaa}}
+
+|-
+| {{para|iso-code|&lt;blank>}}
+| {{ISO 4217/code|iso-code=}}
+| {{ISO 4217/code-none|iso-code=}}
+| {{ISO 4217/code|iso-code=|format=option-none}}
+| {{ISO 4217/code|iso-code=|format=option-none, ISO4217-cat}}
+| {{ISO 4217/code-to-number|iso-code=|format=brackets}}
+| {{ISO 4217/code-minor-unit|iso-code=}}
+
+|}
+
+==Derived value templates==
+===minor unit===
+* "Minor unit" in ISO 4217: number of decimals for ''minor unit'' used in currency trade. For example, {{mono|USD}} has {{mono|1=Minor unit=2}}, i.e. {{val|0.01}} (dollarcent unit). 
+Occurring values are: {{code|1=<blank>, N.A., 0, 2, 3, 4}}. So, incidentally, {{code|1}} (for {{val|p={{cursign}}&nbsp;0.1}}) is not present.
+Obsolete currency (historical, List Three): has no minor unit ("blank").
+
+* {{tl|ISO 4217/code-minor-unit}}
+:In enwiki: "&lt;blank>", "N.A.", "0" all return blank, because "{{val|1|p={{cursign}}&nbsp;}}" is not a subunit of "{{val|1|p={{cursign}}&nbsp;}}".
+
+: {{para|iso-code}}, {{para|is-obsolete}}, {{para|format|blank/default (0.001-form), exponent (N.A., &lt;blank&gt;, 0, 2, 3, 4)}}
+;Examples
+:'''&lt;blank>''' {{mono|1=AFA}}: {{ISO 4217/code-minor-unit|iso-code=AFA|format=exponent}} &rarr; {{ISO 4217/code-minor-unit|iso-code=AFA}}
+:'''N.A.''' {{mono|1=XPD}}: {{ISO 4217/code-minor-unit|iso-code=XPD|format=exponent}} &rarr; {{ISO 4217/code-minor-unit|iso-code=XPD}}
+:'''0''' {{mono|1=KRW}}: {{ISO 4217/code-minor-unit|iso-code=|format=exponent}} &rarr; {{ISO 4217/code-minor-unit|iso-code=KRW}}
+:'''1''' (not present)
+:'''2''' {{mono|1=RUB}}: {{ISO 4217/code-minor-unit|iso-code=RUB|format=exponent}} &rarr; {{ISO 4217/code-minor-unit|iso-code=RUB}}
+:'''3''' {{mono|1=OMR}}: {{ISO 4217/code-minor-unit|iso-code=OMR|format=exponent}} &rarr; {{ISO 4217/code-minor-unit|iso-code=OMR}}
+:'''4''' {{mono|1=CLF}}: {{ISO 4217/code-minor-unit|iso-code=CLF|format=exponent}} &rarr; {{ISO 4217/code-minor-unit|iso-code=CLF}}
+
+====Ambiguous code and minor units====
+* 10 codes are ''ambiguous'': they appear both ''obsolete'' and ''active'': {{code|1=<nowiki>|ANG|EUR|HRK|IDR|MWK|PEN|RON|SDG|SZL|TRY</nowiki>}}.
+:For example, {{mono|PEN}} refers to an obsolete ''and'' an active currency. These have different exponents.
+:{{para|is-obsolete|no/yes}} sets the right one. Default is: {{para|is-obsolete|no}} (currency {{mono|PEN}} is active}})
+;Example
+:{{code|PEN}} is ambiguous, required {{para|is-obsolete}} specifier.
+:{{code|USD}} is not ambiguous (active, {{para|is-obsolete}} is trivial)
+:{{code|ESA}} is not ambiguous (historical, List Three; {{para|is-obsolete}} is trivial)
+:{{code|Other}} not a code
+
+PEN
+::{{para|is-obsolete|1999}} >{{ISO 4217/code-minor-unit|iso-code=PEN|is-obsolete=1999}}< (obsolete)
+::{{para|is-obsolete|no}} >{{ISO 4217/code-minor-unit|iso-code=PEN|is-obsolete=no}}< (active)
+::{{para|is-obsolete|}} >{{ISO 4217/code-minor-unit|iso-code=PEN|is-obsolete=}}< (active, default)
+::{{para|&lt;absent>}} >{{ISO 4217/code-minor-unit|iso-code=PEN}}< (active, default)
+
+* USD >{{ISO 4217/code-minor-unit|iso-code=USD}}<
+* PEN >{{ISO 4217/code-minor-unit|iso-code=PEN}}<
+* FOO >{{ISO 4217/code-minor-unit|iso-code=FOO}}<
+* blank >{{ISO 4217/code-minor-unit|iso-code=}}<
+
+;is-obsolete=1999
+* USD >{{ISO 4217/code-minor-unit|iso-code=USD|is-obsolete=1999}}<
+* PEN >{{ISO 4217/code-minor-unit|iso-code=PEN|is-obsolete=1999}}<
+* FOO >{{ISO 4217/code-minor-unit|iso-code=FOO|is-obsolete=1999}}<
+* blank >{{ISO 4217/code-minor-unit|iso-code=|is-obsolete=1999}}<
+
+;is-obsolete=no
+* USD >{{ISO 4217/code-minor-unit|iso-code=USD|is-obsolete=no}}<
+* PEN >{{ISO 4217/code-minor-unit|iso-code=PEN|is-obsolete=no}}<
+* FOO >{{ISO 4217/code-minor-unit|iso-code=FOO|is-obsolete=no}}<
+* blank >{{ISO 4217/code-minor-unit|iso-code=|is-obsolete=no}}<
+
+;is-obsolete=yes
+* USD >{{ISO 4217/code-minor-unit|iso-code=USD|is-obsolete=yes}}<
+* PEN >{{ISO 4217/code-minor-unit|iso-code=PEN|is-obsolete=yes}}<
+* FOO >{{ISO 4217/code-minor-unit|iso-code=FOO|is-obsolete=yes}}<
+* blank >{{ISO 4217/code-minor-unit|iso-code=|is-obsolete=yes}}<
+
+===code-to-number===
+* {{tlx|ISO 4217/code-to-number}} ({{tla|ISO 4217/code-to-number/format|../format}})
+
+:#Code and number are 1:1 (code=number; number=code).
+:#Three codes defined to have no number: {{code|1=XFO, XFU, XRE}} (all obsolete)
+:#{{as of|17 October 2022}}: 304 existing unique alpha3-codes (over Lists One, Two and Three). Alphacode can have zero or one number (but not multiple). Numbers can repeat (eg ALL, ALK=008).
+
+* {{para|format|2=&lt;blank>, plain [=default]; brackets}}
+
+Follows from code. Unknown code=blank. No tracking.
+
+===code-is-ambiguous===
+* 10 codes are ambiguous, they appear both ''obsolete'' and ''active'': {{code|1=<nowiki>|ANG|EUR|HRK|IDR|MWK|PEN|RON|SDG|SZL|TRY</nowiki>}}.
+:For example, {{mono|EUR}} is active in {{smallcaps2|1=GERMANY}}, and obsolete in {{smallcaps2|1=SERBIA AND MONTENEGRO}} per {{mono|1=withdrawal-date=2006-10}} (List Three). {{As of|17 October 2022}}.
+
+:When such code is used, disambiguation may be required ({{mono|1=is-obsolete=yes/no}}), to specify which currency is intended. This is relevant with minor-unit, and manually setting (clarifying){{mono|1=is-obsolete}}. Used in {{tlf|Infobox currency}}.
+
+:{{para|format|ISO4217-cat}}: The article using an ambiguous code, will be categorised, sort under {{code|A}} (for checking, not an error indication).
+
+*;{{tlx|ISO 4217/code-is-ambiguous}}
+:{{para|format|iso-code, ISO4217-cat}} {{para|yes-text|anytext, &lt;blank>}} (note: {{para|yes-text|&lt;blank>}} is counter-intuitive; useful for categorisation)  
+
+:{{para|yes-text|&lt;blank>}} &rarr; no returntext (use for silent categorisation {{para|ISOcat|yes}})
+:Tracking: {{para|ISOcat|yes}}: when ambiguous then  &rarr; in {{clc|Pages using ISO 4217 currency to check}} (catsort under A)
+:default {{code|USD}} &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=USD}}<
+:{{code|PEN}} &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN}}<
+:{{para|ISOcat|yes}} &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|ISOcat=yes}}<
+:{{para|yes-text|_YES-is-ambig_}} &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|yes-text=_YES-is-ambig_}}<
+:{{para|yes-text|&lt;blank>}} &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|yes-text=}}< {{purple|1=So status=yes, but yes-returntext is suppressed}}
+:{{para|yes-text|&lt;blank>}}, {{para|ISOcat|yes}} &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|yes-text=|ISOcat=yes}}< {{purple|1=So status=yes, but yes-returntext is suppressed}}
+
+{{cot}}
+:USD  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=USD}}<
+:FOO  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=FOO}}<
+:PEN  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN}}<
+
+;ISOcat=yes
+:USD  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=USD|ISOcat=yes}}<
+:FOO  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=FOO|ISOcat=yes}}<
+:PEN  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|ISOcat=yes}}<
+
+;ISOcat=blank
+:USD  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=USD|ISOcat=}}<
+:FOO  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=FOO|ISOcat=}}<
+:PEN  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|ISOcat=}}<
+
+;yes-text=_YES-is-ambig_
+:USD  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=USD|yes-text=_YES-is-ambig_}}<
+:FOO  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=FOO|yes-text=_YES-is-ambig_}}<
+:PEN  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|yes-text=_YES-is-ambig_}}<
+
+;yes-text=&lt;blank>
+:USD  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=USD|yes-text=}}<
+:FOO  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=FOO|yes-text=}}<
+:PEN  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|yes-text=}}< {{purple|1=So status=yes, but yes-returntext is suppressed}}
+:PEN  &rarr; >{{ISO 4217/code-is-ambiguous|iso-code=PEN|yes-text=|ISOcat=yes}}< {{purple|1=So status=yes, but yes-returntext is suppressed}}
+{{cob}}
+
+===code-to-withdrawal-date===
+* {{tl|ISO 4217/code-to-withdrawal-date}}
+* Note: {{para|is-obsolete|yes/no}} ''required for'' ambivalent currencies: {{code|1=ANG, EUR, HRK, IDR, MWK, PEN, RON, SDG, SZL, TRY}}
+These codes are both in list-1 and list-3 (active and obsolete).
+So one must specify wheteher active (no {{para|is-obsolete|&lt;blank>, no}} ''or'' obsolete {{para|withdr-date|1999, yes}}
+No tracking. Multiple witdrawal-dats possible<!-- todo: so research & effect? -->
+::Used in {{tl|ISO 4217/code-minor-unit}}
+
+==Not in mainspace==
+:{{as of|1 Nov 2022}}
+===code-is-obsolete===
+* {{tiw|ISO 4217/code-is-obsolete}} returns ISO withdrawal-date or blank.
+* {{tiw|ISO 4217/code-is-obsolete/calc}} returns ISO withdrawal-date or blank.
+:{{para|iso-code, is-obsolete}}
+
+:{{tla|ISO 4217/code/testcases|/testcases}}
+====The logic====
+:{{para|iso-code}}, determines from ISO 4217. The code can be ambiguous.
+:{{para|is-obsolete}}: yes/no (T/F), blank='unknown'
+:{{tlx|yesno}} is applied: {{para|is-obsolete|no, false}}={{code|no}} (not obsolete, so ''active''), {{para|is-obsolete|''&lt;any text>''}} is {{code|yes}} (''obsolete'')
+
+{| class="wikitable"
+! colspan="5" | Currency is obsolete?
+|-
+! colspan="2" rowspan="2" | 
+! colspan="3" | {{para|is-obsolete|T/F/unk}}
+|-
+! T=obs{{nobold|1=<sub style="float:right;">&nbsp;01</sub>}}
+! F=act{{nobold|1=<sub style="float:right;">&nbsp;02</sub>}}
+! unk{{nobold|1=<sub style="float:right;">&nbsp;03</sub>}}
+|-
+! rowspan="5" | code<br/>{{para|1=iso-code|2=<br/>ABC/unk}}<br/>&rarr;{{code|T/F/ambig/unk}}
+|-
+!T=obs{{nobold|1=<sub style="float:right;">&nbsp;10</sub>}}
+|{{green|OBS}}<sub style="float:right;">&nbsp;11</sub>
+|{{nay}}&rarr;{{green|''ACT''}}<sub style="float:right;">&nbsp;12</sub>
+|{{green|OBS}}<sub style="float:right;">&nbsp;13</sub>
+|-
+!F=act{{nobold|1=<sub style="float:right;">&nbsp;20</sub>}}
+|{{nay}}&rarr;{{green|''OBS''}}<sub style="float:right;">&nbsp;21</sub>
+|{{green|ACT}}<sub style="float:right;">&nbsp;22</sub>
+|{{green|ACT}}<sub style="float:right;">&nbsp;23</sub>
+|-
+!ambig{{nobold|1=<sub style="float:right;">&nbsp;30</sub>}}
+|{{green|OBS}}<sub style="float:right;">&nbsp;31</sub>
+|{{green|ACT}}<sub style="float:right;">&nbsp;32</sub>
+|{{green|ACT}} <small>(''default'')</small><sub style="float:right;">&nbsp;33</sub>
+|-
+!unk{{nobold|1=<sub style="float:right;">&nbsp;40</sub>}}
+|{{green|OBS}}<sub style="float:right;">&nbsp;41</sub>
+|{{green|ACT}}<sub style="float:right;">&nbsp;42</sub>
+|{{green|ACT}} <small>(''default'')</small><sub style="float:right;">&nbsp;43</sub>
+|}
+* {{nay}} Contradicting situation: Obsolete vs. Active. By default {{para|code-priority|{{green|no}}}}, so {{para|is-obsolete|T/F}} decides.
+
+====Contradiction solving====
+
+Two situations imply a contradiction: the ISO-status contradicts the entered {{para|is-obsolete}} status. This may occur when an infobox covers more than one currency.
+The default handling is: ''{{para|is-obsolete}}'' takes precedence.
+By setting {{para|1=code-priority|2={{purple|yes}}}} gives ISO code prority (result opposite). This does ''not'' resolve the contradiction.
+
+{| class="wikitable"
+! colspan="4" | Currency is obsolete?
+|-
+! colspan="4" | {{para|code-priority|no}} {{nobold|1=(default)}}
+|-
+! colspan="2" rowspan="2" | 
+! colspan="3" | {{para|is-obsolete|T/F/unk}}
+|-
+! T=obs{{nobold|1=<sub style="float:right;">&nbsp;01</sub>}}
+! F=act{{nobold|1=<sub style="float:right;">&nbsp;02</sub>}}
+|-
+! rowspan="3" | code<br/>{{para|1=iso-code|2=...}}<br/>&rarr;{{code|T/F/...}}
+|-
+!T=obs{{nobold|1=<sub style="float:right;">&nbsp;10</sub>}}
+|{{green|OBS}}<sub style="float:right;">&nbsp;11</sub>
+|{{nay}}&rarr;{{green|''ACT''}}<sub style="float:right;">&nbsp;12</sub>
+|-
+!F=act{{nobold|1=<sub style="float:right;">&nbsp;20</sub>}}
+|{{nay}}&rarr;{{green|''OBS''}}<sub style="float:right;">&nbsp;21</sub>
+|{{green|ACT}}<sub style="float:right;">&nbsp;22</sub>
+|}
+
+{| class="wikitable"
+! colspan="2" | {{para|code-priority|yes}} 
+|-
+|
+|{{nay}}&rarr;{{purple|''OBS''}}<sub style="float:right;">&nbsp;12</sub>
+|-
+|{{nay}}&rarr;{{purple|''ACT''}}<sub style="float:right;">&nbsp;21</sub>
+|
+|}
+
+'''Returns:''' when Obsolete, a text; when ''Active'', no text (blank). On can apply this as <code><nowiki>{{#if:{{code-is-obsolete|...}}|Obsolete|Active}}</nowiki></code>. 
+
+The returntext is:
+:When obsolete: 1. the {{para|is-obsolete|anytext}}; 2. the {{para|withdrawal-date}}, 3. {{para|obs-text|...}}, 4. "{{code|OBS}}"
+:When active: 1. {{para|act-text|...}} 2. &lt;blank>
+:Note that, by entering a ''blank'' {{para|obs-text|}}, the returntext ''will'' be a blank (so, same as default actual returntext!)
+
+
+{{para|obs-text}}, {{para|act-text}} ''overwrites''.
+
+;In {{tlx|Infobox currency}}
+:For {{para|obsolete}}, {{para|obsolete}} of the infobox is used: {{para|1=obsolete|2=<nowiki>{{{obsolete|}}}</nowiki>}}
+
+====Examples====
+:{{para|iso-code}}, {{para|is-obsolete}}
+
+:USD, active
+* USD >{{ISO 4217/code-to-withdrawal-date|iso-code=USD}}<
+:ATS, Austria shilling - withdrawn
+* ATS >{{ISO 4217/code-to-withdrawal-date|iso-code=ATS}}<
+:PEN, PERU Nuevo Sol (ambivalent so wsdate needed)
+* PEN >{{ISO 4217/code-to-withdrawal-date|iso-code=PEN}}< -- defaults to Active
+:FOO, not a code
+* FOO >{{ISO 4217/code-to-withdrawal-date|iso-code=FOO}}<
+:"None", not a code
+* noNe >{{ISO 4217/code-to-withdrawal-date|iso-code=noNe}}<
+:blank
+*  >{{ISO 4217/code-to-withdrawal-date|iso-code=}}<
+
+===code-entity-list===
+* {{tiw|ISO 4217/code-entity-list}} <small>( {{tla|ISO 4217/code-count/demo|../demo}}{{middot}}{{edit|Template:ISO 4217/code-count/demo}} )</small>
+{{ISO 4217/code-count/demo|iso-code=PEN}}
+{{ISO 4217/code-count/demo|iso-code=COU}}
+{{ISO 4217/code-count/demo|iso-code=EUR}}
+{{ISO 4217/code-count/demo|iso-code=ATS}}
+{{ISO 4217/code-count/demo|iso-code=USD}}
+;edge
+{{ISO 4217/code-count/demo|iso-code=ZZZ}}
+{{ISO 4217/code-count/demo|iso-code=}}
+
+===code-count===
+* {{tiw|ISO 4217/code-count}}
+<syntaxhighlight lang="wikitext">
+{{ISO 4217/code-count|iso-code=|list=}}
+</syntaxhighlight>
+:{{para|list, iso-code|L1, ..., L123}}
+:Number of "XYZ" code repetition per list, and over all three lists. There are 304 unique codes, repetitions make 450 different lines (code, List, entity, end-date can be repeated).
+:Intended for checking and listformatting only (no new information). 
+
+See {{slink||code-entity-list}} for demo
+
+===code-to-qid===
+* {{tiw|ISO 4217/code-to-qid}}
+::{{tl|ISO 4217/code-to-qid/format}}
+<syntaxhighlight lang="wikitext">
+{{ISO 4217/code-to-qid|iso-code=|format=}}
+</syntaxhighlight>
+:{{para|format|plain, wl, wl-info, &lt;blank>}}
+:{{Property|P498}}, ~265, {{as of|08:58, 13 November 2022 (UTC)}}
+
+==Maintenance-category (ISO 4217) <span class="anchor" id="maintenance-category ISO 4217"></span>==
+{{cls|Category:ISO 4217}}: &rarr;
+* {{tl|ISO 4217/maintenance-category}}
+:Sets {{clc|Pages using ISO 4217 currency to check|pages}}, used in various templates.
+:Distinguishes: mainspace (=categorise), template space (=colon-link [[:Category:Pages using ISO 4217 currency to check|:Category:Pages using ...]]), all other spaces (no effect).
+<syntaxhighlight lang="wikitext">{{ISO 4217/maintenance-category
+|main-sort=
+|template-sort=
+}}</syntaxhighlight>
+
+:In template space: {{tlx|ISO 4217/maintenance-category|template-sort=Demo}}
+:In the templates, activated by {{para|ISO4217-cat}} or by {{para|format|.., ISO4217-cat, ..}}
+
+:Used by: {{tl|ISO 4217/code}}, {{tl|Infobox central bank}}, {{tl|Infobox currency}} (projected as of October 2022)
+
+==Backoffice==
+===The templates===
+;Deployed in mainspace:
+* {{tiw|ISO 4217/cite}}
+* {{tiw|ISO 4217/code}}
+::{{tla|ISO 4217/code/format|/format}}{{middot}}{{tla|Template:ISO 4217/code/testcases|../testcases}}
+* {{tl|ISO 4217/code-minor-unit}}
+* {{tl|ISO 4217/code-to-number}}
+* {{tl|ISO 4217/code-is-ambiguous}}
+* {{tl|ISO 4217/code-none}}
+* {{tl|ISO 4217/code-count}}<!-- Numeric Code & check L1 -->
+
+* {{tl|ISO 4217/maintenance-category}} ({{clc| Category:Pages using ISO 4217 currency to check}})
+
+;Not yet used in / fit for mainspace
+* {{tl|ISO 4217/code-to-withdrawal-date}}
+* {{tl|ISO 4217/code-is-obsolete}}
+* {{tl|ISO 4217/code-entity-list}}
+* {{tl|ISO 4217/code-to-qid}} -- curation; dated (13 November 2022)
+
+==todo==
+* IB does cat eponym eg in euro
+
+==See also==
+{{ISO 4217/navbox templates}}
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line -->
+
+}}</includeonly>

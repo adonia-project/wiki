@@ -1,0 +1,131 @@
+{{Infobox
+| templatestyles = Template:Infobox aircraft/styles.css
+| bodyclass   = ib-aircraft vcard
+| autoheaders = y
+
+| above      = {{If empty|{{{name|}}}<includeonly>|{{PAGENAMEBASE}}</includeonly>}}
+
+<!-- Logo and image -->
+
+| data1      = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{logo_size|}}}|sizedefault=210px|border={{#if:{{{logo_border|}}}|yes}}|alt={{{logo_alt|}}}}}
+
+| data2      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{if empty|{{{image_size|}}}|{{{size|}}}}}|sizedefault=300px|border={{#if:{{{image_border|}}}|yes}}|alt={{{alt|}}}}} <!--
+  -->{{#if:{{{caption|}}}{{{image_caption|}}}|<div class="ib-aircraft-caption">{{if empty|{{{image_caption|}}}|{{{caption}}}}}</div>}}
+
+| rowclass3  = ib-aircraft-caption-left
+| data3      = {{{long_caption|}}}
+
+| data4      = 
+
+| data5      =
+
+<!-- General information -->
+
+| header6    = General information
+
+| label7     = Other name{{Pluralize from text|{{{other_names|}}}|singular=|plural=s}}
+| data7      = {{{other_names|}}}
+| label8     = Type
+| data8      = {{if empty|{{{aircraft_type|}}}|{{{type|}}}}}
+| label9     = Role
+| data9      = {{{aircraft_role|}}}
+| label10    = Project for
+| data10     = {{#if:{{{aircraft_type|}}}||{{{aim|}}}}}
+| label11    = National origin
+| data11     = {{{national_origin|}}}
+| label12    = [[Aerospace manufacturer|Manufacturer]]
+| data12     = {{if empty|{{{manufacturers|}}}|{{{manufacturer|}}}}}
+| label13    = Designer
+| data13     = {{{design_group|}}} {{#if:{{{designer|}}}|<div> {{#if:{{{designer}}}|{{{designer|}}} {{#if:{{{design_group|}}}|(Designer)}} }}</div>}}
+| label14    = Built by
+| data14     = {{{builder|}}}
+| label15    = Issued by
+| data15     = {{{issuer|}}}
+| label16    = Status
+| data16     = {{{status|}}}
+| label17    = Owners
+| data17     = {{{owners|}}}
+| label18    = Primary user{{#if:{{{more_users|}}}|s}}
+| data18     = {{{primary_user|}}}{{#if:{{{more_users|}}}|<div> {{{more_users|}}} </div>}}
+| label19    = Service
+| data19     = {{{service|}}}
+| label20    = Major applications
+| data20     = {{{major_applications|}}}
+| label21    = Proposals
+| data21     = {{{proposals|}}}
+| label22    = Prototypes
+| data22     = {{{prototypes|}}}
+| label23    = Number built
+| data23     = {{{number_built|}}}
+| label24    = Construction number
+| data24     = {{{construction_number|}}}
+| label25    = [[Aircraft registration|Registration]]
+| data25     = {{{civil_registration|}}}
+| label26    = [[Serial number|Serial]]
+| data26     = {{{military_serial|}}}
+| label27    = Radio code
+| data27     = {{{radio_code|}}}
+| label28    = Requirement
+| data28     = {{{requirement|}}}
+| label29    = Aircraft carried
+| data29     = {{{aircraft_carried|}}}
+| label30    = Flights
+| data30     = {{{flights|}}}
+| label31    = Total hours
+| data31     = {{{total_hours|}}}
+| label32    = Total distance
+| data32     = {{{total_distance|}}}
+
+<!-- History and current status -->
+
+| header33    = History
+
+| label34     = Manufactured
+| data34      = {{if empty|{{{construction_date|}}}|{{{produced|}}}}}
+| label35     = Introduction date
+| data35      = {{if empty|{{{introduction|}}}|{{{introduced|}}}}}
+| label36     = First flight 
+| data36      = {{{first_flight|}}}
+| label37     = First run
+| data37      = {{#if:{{{first_flight|}}}||{{{first_run|}}}}}
+| label38     = Initiated
+| data38      = {{{initiated|}}}
+| label40     = In service
+| data40      = {{{in_service|}}}
+| label41     = Last flight 
+| data41      = {{{last_flight|}}}
+| label42     = Retired
+| data42      = {{#if:{{{last_flight|}}}||{{{retired|}}}}}
+| label43     = Concluded
+| data43      = {{{concluded|}}}
+| label44     = Expected
+| data44      = {{#if:{{{concluded|}}}||{{{expected|}}}}}
+| label45     = Outcome
+| data45      = {{{outcome|}}}
+| label46     = Developed from
+| data46      = {{{developed_from|}}}
+| label47     = {{#if:{{{aim|}}}{{{issuer|}}}|Related|Variant{{Pluralize from text|any_comma=1|{{if empty|{{{variants|}}}|{{{related|}}}}}|singular=|plural=s}}}}
+| data47      = {{if empty|{{{variants|}}}|{{{related|}}}}}
+| label48     = Developed into
+| data48      = {{{developed_into|}}}
+| label49     = Preserved at
+| data49      = {{{preservation|}}}
+| label50     = Fate
+| data50      = {{{fate|}}}
+| label51     = Predecessors
+| data51      = {{{predecessors|}}}
+| label52     = Successors
+| data52      = {{{successors|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox aircraft with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox aircraft]] with unknown parameter "_VALUE_"|ignoreblank=y| aim | aircraft_carried | aircraft_role | aircraft_type | alt | builder | caption | civil_registration | concluded | construction_date | construction_number | design_group | designer | developed_from | developed_into | expected | fate | first_flight | first_run | flights | image | image_border | image_caption | image_size | in_service | initiated | introduced | introduction | issuer | last_flight | logo | logo_alt | logo_border | logo_size | long_caption | major_applications | manufacturer | manufacturers | military_serial | more_users | name | national_origin | notes | number_built | other_names | outcome | owners | predecessors | preservation | primary_user | produced | proposals | prototypes | radio_code | related | requirement | retired | service | size | status | successors | total_distance | total_hours | type | variants }}{{#invoke:Check for conflicting parameters|check
+| template = [[Template:Infobox aircraft]]
+| cat = {{main other|Category:Pages using infobox aircraft with conflicting parameters}}
+| image_size; size 
+| image_caption; caption 
+| aircraft_type; type 
+| manufacturers; manufacturer 
+| construction_date; produced 
+| introduction; introduced 
+| variants; related 
+}}<noinclude>
+{{Documentation}}
+</noinclude>

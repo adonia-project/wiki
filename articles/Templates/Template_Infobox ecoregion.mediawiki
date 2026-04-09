@@ -1,0 +1,55 @@
+{{Infobox
+|bodystyle=width:25em;line-height:1.5em;
+|abovestyle=background-color:#cde5b2;
+|headerstyle=background-color:#cde5b2;
+|above={{{name|}}}
+|image= {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=272px|maxsize=312px|alt={{{image_alt|}}} }}
+|caption={{if empty|{{{caption|}}}|{{{image_caption|}}} }}
+|image2= {{#invoke:InfoboxImage|InfoboxImage|image={{{map|}}}|size={{{map_size|}}}|sizedefault=272px|maxsize=312px|alt={{{map_alt|}}} }}
+|caption2={{{map_caption|}}}
+|header1={{#if:{{{biogeographic_realm|}}}{{{ecozone|}}}{{{biome|}}}{{{animals|}}}{{{bird_species|}}}{{{mammal_species|}}}{{{border|}}}{{{border1|}}}{{{borders|}}}|Ecology}}
+|label2=[[Biogeographic realm|Realm]]
+|data2={{{biogeographic_realm|{{{ecozone|}}}}}}
+|label3=[[Biome]]
+|data3={{{biome|}}}
+|label4=Borders
+|data4={{#invoke:Compact list|main|border}}
+|label5=Animals
+|data5={{{animals|}}}
+|label6=Bird species
+|data6={{{bird_species|}}}
+|label7=Mammal species
+|data7={{{mammal_species|}}}
+|header8={{#if:{{{area|}}}{{{countries|}}}{{{country|}}}{{{country1|}}}{{{state|}}}{{{state1|}}}{{{elevation|}}}{{{coordinates|}}}{{{geology|}}}{{{seas|}}}{{{rivers|}}}{{{climate|}}}{{{soil|}}}{{{surface|}}}|Geography}}
+|label9=Area
+|data9={{if empty|{{{surface|}}}|{{#if:{{{area|}}}|{{convert|{{{area}}}|km2|mi2|abbr=on}} }} }}
+|label10={{#if:{{{countries|}}}{{{country1|}}}|Countries|Country}}
+|data10={{if empty|{{{countries|}}}|{{#invoke:Compact list|main|country}}}}
+|label11={{#if:{{{region_type|}}}|{{{region_type}}}|{{#if:{{{state1|}}}|States|State}} }}
+|data11={{#invoke:Compact list|main|state|_limit=8}}
+|label12=Elevation
+|data12={{{elevation|}}}
+|label13=Coordinates
+|data13= {{#if:{{{coordinates|}}}|{{#invoke:Coordinates|coordinsert|{{{coordinates}}}|type:landmark|{{#if:{{{area|}}}|dim:{{Infobox dim|area_km2={{{area|}}}}}|scale:3000000}}}} }}
+|label14=Geology
+|data14={{{geology|}}}
+|label15=Oceans or seas
+|data15={{{seas|}}}
+|label16=Rivers
+|data16={{{rivers|}}}
+|label17=Climate type
+|data17={{{climate|}}}
+|label18=Soil types
+|data18={{{soil|}}}
+|header19={{#if:{{{conservation|}}}{{{global200|}}}{{{habitat_loss|}}}{{{protected|}}}|Conservation}}
+|label20=[[Ecoregion conservation status|Conservation status]]
+|data20={{{conservation|}}}
+|label21=[[Global 200]]
+|data21={{{global200|}}}
+|label22=Habitat loss
+|data22={{#if:{{{habitat_loss|}}}|{{{habitat_loss}}}%{{{habitat_loss_ref|}}} }}
+|label23=Protected
+|data23={{#if:{{{protected|}}}|{{{protected}}}%{{{protected_ref|}}} }}
+
+| data55={{{embedded|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox ecoregion with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox ecoregion]] with unknown parameter "_VALUE_"|ignoreblank=y| animals | area | biogeographic_realm | biome | bird_species | border | caption | climate | conservation | coordinates | countries | country | ecozone | elevation | embedded | geology | global200 | habitat_loss | habitat_loss_ref | image | image_alt | image_caption | image_size  | mammal_species | map | map_alt | map_caption | map_size | name | protected | protected_ref | region | region_type | rivers  | seas | soil | state | surface | regexp1=border_?%d+ | regexp2=country_?%d+ | regexp3=state_?%d+}}<noinclude>{{Documentation}}</noinclude>

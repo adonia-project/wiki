@@ -1,0 +1,83 @@
+{{Under construction |placedby=MyNameJuls |section= |nosection= |nocat= |notready= |comment=UP TO YOU, SPACE NERDS |category= |altimage= |notify= }}
+{{Infobox planet
+| name = Basis
+| symbol = ⌮
+| image = Basis_full.jpg
+| caption = Photograph of Basis ("The Willem Jewel") taken by the crew of Melbourne I
+| discoverer = 
+| discovery_site = 
+| discovered = Pre-historic
+| pronounce = [[wikipedia:Wikipedia:IPA for English|/ˈbɑsɪs/]]
+| named_after = TBD (Haynadurian)
+| alt_names = TBD (Ottelian?)
+| adjectives = Basisian, planetary, worldly
+| mean_radius = 0.936 [[wikipedia:Earth radius|R🜨]]
+| equatorial_radius = TBD km
+| polar_radius = TBD km
+| circumference = TBD km (equatorial)
+| surface_area = TBD km² (TBD km² land)
+| volume = TBD km³
+| mass = 0.820 [[wikipedia:Earth mass|M🜨]]
+| density = 5.51 g/cm3
+| surface_gravity = 9.182 m/s2 (0.936 g)
+| escape_velocity = TBD km/s
+| sidereal_rotation_period = 22 hours
+| orbital_period = 303.417 Earth days
+| mean_orbit_radius = 0.87 AU
+| eccentricity = TBD
+| star = [[Sunne]] (TBD)
+| surface_pressure = TBD kPa
+| atmosphere_composition = 78.08% nitrogen (N2); 20.95% oxygen (O2); 0.93% argon; 0.039% carbon dioxide; ~1% water vapor
+}}
+
+'''Basis''' ([[IPA]]: /ˈbɑsɪs/; [[Haynadurian script]]: ᨅᨆᨕᨈᨕ) is a planet in the [[Sunne star system]] of the [[X Galaxy]]<!--Agus' name for it, but it is very Elon Musk-esque so I'd rather change it-->. 
+
+It has two natural satellites, [[Mōna]] and [[Aleya]]. 
+
+==Orbital motion==
+Basis's average distance from [[Sunne]] is roughly TBD million kilometers, and its orbital period is 303 Earth days. A day on Basis is exactly two hours shorter than an Earth day: 22 Earth hours. A Basisian year is equal to 0.831<!--0.8307266177--> Earth years, or 303.417 Earth days. As such, 18 years of age on Earth is roughly equal to 22 years of age on Basis, 25 Earth years to 30 Basis years, 60 Earth years to 72 Basis years, and so on. 
+
+===Timekeeping===
+Basis uses a decimal time system based on the [[Bachan calendar]], which has 11 months, each with 3 weeks of 10 days, except for the last week of the last month, which has one extra day, the [[Last Day of the Year]]. In a year, there are 331 days of 10 hours, divided into 100 minutes, which are divided into 100 seconds. 
+
+There are exactly 79,200 Earth sexagesimal seconds in a standard Basis day, but in the Bachan decimal time system there are 100,000 decimal seconds in the day; thus, the Basis decimal second is 20.8% shorter than its Earth sexagesimal counterpart. Consequently, a Basis decimal second is equal to 0.792 Earth sexagesimal second. 
+
+{| class="wikitable" style="text-align:right;"
+|-
+! style="text-align: left"|Unit
+! Earth seconds
+! Earth minutes
+! Earth hours
+! h:mm:ss.sss
+|-
+| style="text-align: left"|1 Basis second
+| 0.792
+| 0.0132
+| 0.00022
+| 0:00:00.792
+|-
+| style="text-align: left"|1 Basis minute
+| 79.2
+| 1.32
+| 0.022
+| 0:01:19.200
+|-
+| style="text-align: left"|1 Basis hour
+| 7,920
+| 132
+| 2.2
+| 2:20:00.000
+|}
+
+==Human geography==
+===Continents===
+====Daroch====
+{{Main|Daroch}}
+====Meran====
+{{Main|Meran}}
+====Pahari====
+{{Main|Pahari}}
+====Visala====
+{{Main|Visala}}
+
+[[Category:Basis]]

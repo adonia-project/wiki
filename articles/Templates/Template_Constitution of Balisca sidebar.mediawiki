@@ -1,0 +1,63 @@
+{{sidebar
+|name =  Constitution of Balisca sidebar
+|bodyclass = vcard hlist
+|pretitle= This article is part of [[:Category:Constitution of Balisca|a series]] on the
+|title = [[Constitution of the Baliscan Confederation|Constitution<br>of Balisca]]
+|image = [[File:Government Seal of Balisca.svg|180px]]
+|headingstyle = background:lavender;
+|belowstyle = border-top:1px #aaa solid; border-bottom:1px #aaa solid;
+
+| heading1 = [[Constitution of the Baliscan Confederation|Articles]]
+| content1 =
+* [[Preamble to the Constitution of Balisca|Preamble]]
+{{flatlist|
+* [[Article One of the Baliscan Constitution|I]]
+* [[Article Two of the Baliscan Constitution|II]]
+* [[Article Three of the Baliscan Constitution|III]]
+* [[Article Four of the Baliscan Constitution|IV]]
+* [[Article Five of the Baliscan Constitution|V]]
+}}
+| heading2 = '''[[Basic Laws of Balisca|Basic Laws]]''':
+| content2 = 
+{{flatlist|
+* [[Basic Law: Human Dignity and Liberty|I]]
+* [[Basic Law: Housing and Shelter|II]]
+* [[Basic Law: Freedom of Religious Belief|III]]
+* [[Basic Law: Political Parties, Organization and Representation|IV]]
+* [[Basic Law: Land and Agriculture|V]]
+* [[Article Six of the Baliscan Basic Law|VI]]
+* [[Article Seven of the Baliscan Basic Law|VII]]
+* [[Article Eight the Baliscan Basic Law|VIII]]
+* [[Article Nine of the Baliscan Basic Laws|IX]]
+* [[Basic Law: Universal Humanism|X]]
+* [[Article Eleven of the Baliscan Basic Laws|VII]]
+* [[Basic Law: Family, Personhood and Community|XII]]
+* [[Basic Law: Protection of Privacy|XIII]]
+}}
+---- 
+'''[[List of amendments to the Baliscan Constitution#Proposed/unratified amendments|Proposed amendments]]''':{{flatlist|
+* [[Cantonal sovereignty amendment|Cantonal veto]]
+* [[Platform accountability amendment|Platform accountability]]
+* [[Data Commons amendment|Data Commons]]
+}}
+
+| heading4 = [[Constitution of the Baliscan Confederation#History|History]]
+| content4 =
+{{flatlist|
+* [[Constitution of the Baliscan Confederation#Ratification|Ratification timeline]]
+
+* [[Confederal Convention]]
+**[[1836 Confederal Convention|1836]]
+**[[1883 Confederal Convention|1883]]
+* [[Signing of the Baliscan Constitution|Signing]]
+* [[Federalism in Balisca|Federalism]]
+**[[Consensual confederation]]
+* [[Human rights in Balisca|Human rights]]
+}}
+
+| navbarstyle = padding-top:0; 
+}}<noinclude>
+[[Category:Constitution of the Baliscan Confederation|*]]
+[[Category:Baliscan government navigational boxes|Constitution]]
+[[Category:Sidebar templates by topic|Constitution]]
+</noinclude>

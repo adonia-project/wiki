@@ -1,0 +1,6 @@
+{{#if: {{{1|}}}
+|{{cite book|chapter={{{2|{{PAGENAME}}}}}|chapterurl=http://glottolog.org/resource/languoid/id/{{{1|}}}|editor1-first=Sebastian|editor1-last=Nordhoff|editor2-first=Harald|editor2-last=Hammarström|editor3-first=Robert|editor3-last=Forkel|editor4-first=Martin|editor4-last=Haspelmath|display-editors=4|year=2013|title=[[Glottolog]]|edition=|location=Leipzig|publisher=Max Planck Institute for Evolutionary Anthropology}}
+|{{cite book|editor1-first=Sebastian|editor1-last=Nordhoff|editor2-first=Harald|editor2-last=Hammarström|editor3-first=Robert|editor3-last=Forkel|editor4-first=Martin|editor4-last=Haspelmath|display-editors=4|year=2013|title=Glottolog|edition=|location=Leipzig|publisher=Max Planck Institute for Evolutionary Anthropology|url=http://glottolog.org/}}
+}}<noinclude>
+{{documentation}}
+</noinclude>

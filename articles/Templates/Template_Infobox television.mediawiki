@@ -1,0 +1,165 @@
+{{Main other|{{Infobox television/Short description|released={{{released|}}}|first_aired={{{first_aired|}}}|country={{{country|}}}}}}}
+{{Infobox
+| italic title = {{{italic_title|<noinclude>no</noinclude>}}}
+
+| bodyclass    = vevent
+
+| abovestyle   = background-color: #CCCCFF; padding: 0.25em 1em; font-size: 125%;
+| aboveclass   = summary
+| above        = {{#invoke:Infobox television|above_title}}
+
+| headerclass  = summary
+| headerstyle  = background-color: #CCCCFF; padding: 0.25em 1em;
+| autoheaders  = y
+
+| image        = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|upright={{{image_upright|1}}}|alt={{{image_alt|{{{alt|}}}}}}|title={{{image_alt|{{{alt|}}}}}}}}
+| caption      = {{{caption|}}}
+
+| label1       = Also known as
+| label1style  = font-style: italic;
+| data1        = {{{alt_name|}}}
+
+| class2       = description
+| data2        = {{{native_name|}}}
+
+| label3       = Genre
+| class3       = category
+| data3        = {{{genre|}}}
+
+| label4       = Created by
+| data4        = {{{creator|}}}
+
+| label5       = {{#if: {{{based_on|}}} | Based on | Inspired by }}
+| data5        = {{If empty |{{{based_on|}}} |{{{inspired_by|}}} }}
+
+| label6       = Developed by
+| data6        = {{{developer|}}}
+
+| label7       = Written by
+| data7        = {{{writer|}}}
+
+| label8       = {{#if: {{{teleplay|}}} | Teleplay | Screenplay}} by
+| data8        = {{{screenplay|{{{teleplay|}}}}}}
+
+| label9       = Story by
+| data9        = {{{story|}}}
+
+| label10      = Directed by
+| class10      = attendee
+| data10       = {{{director|}}}
+
+| label11      = Creative director{{Pluralize from text|{{{creative_director|}}}|plural=s}}
+| class11      = attendee
+| data11       = {{{creative_director|}}}
+
+| label12      = Presented by
+| class12      = attendee
+| data12       = {{If empty |{{{presenter|}}} |{{{host|}}} }}
+
+| label13      = Starring
+| class13      = attendee
+| data13       = {{{starring|}}}
+
+| label14      = Judges
+| class14      = attendee
+| data14       = {{{judges|}}}
+
+| label15      = Voices of
+| class15      = attendee
+| data15       = {{{voices|}}}
+
+| label16      = Narrated by
+| class16      = attendee
+| data16       = {{{narrator|{{{narrated|}}}}}}
+
+| label17      = {{#if: {{{music|}}} | Music by | Theme music composer }}
+| data17       = {{If empty |{{{theme_music_composer|}}} |{{{music|}}} }}
+
+| label18      = Opening theme
+| data18       = {{If empty |{{{open_theme|}}} |{{{opentheme|}}} }}
+
+| label19      = Ending theme
+| data19       = {{If empty |{{{end_theme|}}} |{{{endtheme|}}} }}
+
+| label20      = Composer{{Pluralize from text|{{{composer|}}}|plural=s}}
+| data20       = {{{composer|}}}
+
+| label21      = Country of origin
+| data21       = {{{country|}}}
+
+| label22      = Original language{{Pluralize from text|{{{language|}}}|plural=s}}
+| data22       = {{{language|}}}
+
+| label23      = {{Abbr|No.|Number}} of {{#if: {{{num_seasons|}}} | seasons | series }}
+| data23       = {{If empty |{{{num_seasons|}}} |{{{num_series|}}} }}
+
+| label24      = {{#ifeq: {{PAGENAME}} | Doctor Who | {{Abbr|No.|Number}} of series }}
+| data24       = {{#ifeq: {{PAGENAME}} | Doctor Who | {{{num_series|}}} }}
+
+| label25      = {{Abbr|No.|Number}} of {{#if: {{{num_specials|}}} | specials | episodes }}
+| data25       = {{If empty |{{{num_specials|}}} |{{{num_episodes|}}} }} {{#if: {{{list_episodes|}}} | {{Nowrap|([[{{{list_episodes}}}|list of episodes]])}} }} {{#ifeq:{{{list_episodes|}}} | #Episodes | {{Preview warning|1=Page using [[Template:Infobox television]] with "list_episodes" parameter using self-link. See [[Template:Infobox television#Usage|Infobox instructions]] and [[MOS:INFOBOXPURPOSE]].}} |}}
+
+| header26     = Production
+
+| label27      = Executive producer{{Pluralize from text|{{{executive_producer|}}}|plural=s}}
+| data27       = {{{executive_producer|}}}
+
+| label28      = Producer{{Pluralize from text|{{{producer|}}}|plural=s}}
+| data28       = {{{producer|}}}
+
+| label29      = News editor{{Pluralize from text|{{{news_editor|}}}|plural=s}}
+| data29       = {{{news_editor|}}}
+
+| label30      = Production location{{Pluralize from text|{{{location|}}}|plural=s}}
+| data30       = {{{location|}}}
+
+| label31      = Cinematography
+| data31       = {{{cinematography|}}}
+
+| label32      = Animator{{Pluralize from text|{{{animator|}}}|plural=s}}
+| data32       = {{{animator|}}}
+
+| label33      = Editor{{Pluralize from text|{{{editor|}}}|plural=s}}
+| data33       = {{{editor|}}}
+
+| label34      = Camera setup
+| data34       = {{{camera|}}}
+
+| label35      = Running time
+| data35       = {{{runtime|}}}
+
+| label36      = Production {{Pluralize from text|{{If empty |{{{company|}}} |{{{studio|}}} }}|singular=company|plural=companies}}
+| data36       = {{If empty |{{{company|}}} |{{{studio|}}} }}
+
+| label38      = Budget
+| data38       = {{{budget|}}}
+
+| header39     = Release
+
+| label40      = Original network
+| data40       = {{If empty |{{{network|}}} |{{{channel|}}} }}
+
+| label41      = Picture format
+| data41       = {{{picture_format|}}}
+
+| label42      = Audio format
+| data42       = {{{audio_format|}}}
+
+| label44      = Original release
+| data44       = {{#invoke:Infobox/dates|dates|{{If empty |{{{first_aired|}}} |{{{released|}}} }}|{{{last_aired|}}}}}
+
+| header45     = Related
+
+| data46       = {{{related|}}}
+
+| below        = {{If preview|[[Template:Infobox television#Usage|Infobox instructions (only shown in preview)]]}}
+
+}}<!-- Tracking categories
+-->{{#invoke:Check for unknown parameters|check|unknown={{Main other|[[Category:Pages using infobox television with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox television]] with unknown parameter "_VALUE_". See [[Template:Infobox television#Usage|Infobox instructions]].|showblankpositional=1| alt | alt_name | animator | audio_format | based_on | budget | camera | caption | channel | cinematography | company | composer | country | creative_director | creator | developer | director | editor | end_theme | endtheme | executive_producer | first_aired | genre | host | image | image_alt | image_size | image_upright | inspired_by | italic_title | judges | language | last_aired | list_episodes | location | music | name | narrated | narrator | native_name | network | news_editor | num_episodes | num_seasons | num_series | num_specials | open_theme| opentheme | picture_format | presenter | producer | related | released | runtime | screenplay | starring | story | studio | teleplay | theme_music_composer | voices | writer }}<!--
+-->{{Main other|{{#if: {{{host|}}} | [[Category:Pages using infobox television with alias parameters|H]] }}}}<!--
+-->{{Main other|{{#if: {{{studio|}}} | [[Category:Pages using infobox television with alias parameters|S]] }}}}<!--
+-->{{Main other|{{#invoke:Infobox television|validate_values}}}}<!--
+-->{{Main other|{{#invoke:Infobox television disambiguation check|main|{{PAGENAME}}}}}}<!--
+--><noinclude>
+{{Documentation}}
+</noinclude>

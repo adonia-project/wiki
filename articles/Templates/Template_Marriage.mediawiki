@@ -1,0 +1,98 @@
+<templatestyles src="Template:Marriage/styles.css"/>
+{{#if:{{{1|}}}||{{#if:{{{2|}}}{{{3|}}}{{{end|{{{reason|}}}}}}
+ |{{#ifeq:{{{1|+}}}|{{{1|-}}}|<div class="marriage-line-margin3px">&#8203;</div>|{{main other|[[Category:Marriage template errors|Z{{PAGENAME}}]]}}}}}}}}
+<div class="marriage-display-ws">{{#if:{{{1|}}}
+ |{{trim|{{#if:{{{end|{{{reason|}}}}}}
+  |<div style="display:inline-block;line-height:normal;{{#if:{{{2|}}}{{in string|source={{{1}}}|target=<br|plain=true|nomatch=}}|margin-top:1px;white-space:normal;|{{str ≥ len|1={{delink|{{{1}}}}}|2=20|3=margin-top:1px;white-space:normal;}}}}">{{{1|}}}</div>
+   {{#if:{{{2|}}}
+    |{{#if:{{{end|{{{reason|}}}}}}|<div class="marriage-line-margin2px">&#8203;</div>}}
+    |{{#if:{{in string|source={{{1}}}|target=<br|plain=true|nomatch=}}
+     |<div class="marriage-line-margin2px">&#8203;</div>
+     |{{str ≥ len|1={{delink|{{{1}}}}}|2=20
+      |3=<div class="marriage-line-margin2px">&#8203;</div>}}
+  }}}}
+  |<div style="display:inline-block;line-height:normal;{{#if:{{in string|source={{{1}}}|target=<br|plain=true|nomatch=}}|margin-top:1px;white-space:normal;|{{str ≥ len|1={{delink|{{{1}}}}}|2={{if both|{{{2|}}}|{{{3|}}}|15|20}}|3=margin-top:1px;white-space:normal;}}}}">{{{1|}}}</div>
+   {{#if:{{in string|source={{{1}}}|target=<br|plain=true|nomatch=}}
+    |<div class="marriage-line-margin2px">&#8203;</div>
+    |{{str ≥ len|1={{delink|{{{1}}}}}|2={{if both|{{{2|}}}|{{{3|}}}|15|20}}
+     |3=<div class="marriage-line-margin2px">&#8203;</div>}}}}
+  }}}}}}&#32;<div style="display:inline-block;{{#if:{{in string|source={{{1}}}|target=<br|plain=true|nomatch=}}|margin-bottom:1px;|{{str ≥ len|1={{delink|{{{1}}}}}|2={{if both|{{{2|}}}|{{{3|}}}|15|20}}|3=margin-bottom:1px;|4={{#if:{{{end|{{{reason|}}}}}}|{{#if:{{{2|}}}|margin-bottom:1px;}}}}}}}}">&#8203;</div>&#40;<!--
+-->{{#if:{{{2|}}}
+  |{{#ifeq:{{{end|{{{reason|+}}}}}}|
+   |{{#switch:{{{3|}}} | = after&nbsp;}}
+   |{{abbr|m.|married}}&nbsp;}}{{#ifeq:{{{2|}}}|{{YEAR|{{{2|}}}}}
+   |{{{2|}}}
+   |{{tooltip|dotted=no|1={{#iferror: {{YEAR|{{{2|}}}}} | {{main other|[[Category:Marriage template errors|I{{PAGENAME}}]]}}{{error-small|invalid year}}|{{YEAR|{{{2|}}}}}}}|2={{{2|}}}}}
+  }}
+ |{{#if:{{{3|}}}{{{end|{{{reason|}}}}}}||{{#if:{{#property:P570}}||{{main other|[[Category:Marriage template errors|N{{PAGENAME}}]]}}}}<!--
+-->{{#if:{{{end|{{{reason|}}}}}}||{{#if:{{Wdib |P570|fwd=ALL|maxvals=1|noicon=true|pd=yes|df=y}} | {{main other|[[Category:Marriage template errors|B{{PAGENAME}}]]}}before&nbsp;{{Wdib |P570|fwd=ALL|maxvals=1|noicon=true|pd=yes|df=y}} |{{error-small|date missing}}}}}}<!--
+-->{{#if:{{{end|{{{reason|}}}}}}|{{#if:{{{2|}}}{{{3|}}}|&#44;&#32;}}}}}}
+  }}{{#if:{{{3|}}}
+  |{{#ifeq:{{{end|{{{reason|}}}}}}| 
+   |{{#if:{{{2|}}}|&#x2060;&#8211;&#x2060;|{{#ifeq:{{{end|+}}}|{{{end|-}}}
+    |{{#ifeq:{{{end|+}}}|{{{end|-}}} | until | before }}
+    |{{#ifeq:{{{reason|+}}}|{{{reason|-}}} | until | before }}}}&nbsp;}}
+   |{{#if:{{{2|}}}
+    |&#59;&#32;
+   }}{{#switch:{{lc:{{{end|{{{reason|}}}}}}}}
+    | d | d. | died = died&nbsp;<!-- this used to be {{abbr|d.|died}} but caused confusion with "divorced" -->
+    | div | div. | divorce | divorced = {{abbr|div.|divorced}}&nbsp;
+    | sep | sep. | separated = {{abbr|sep.|separated}}&nbsp; <!-- commonly used reason for end -->
+    | ann | ann. | annulled | annulment = {{abbr|ann.|annulled}}&nbsp; <!-- commonly used reason for end -->
+    | she d. | her d. | she died | her death = {{#ifeq:{{#property:P21}}|male|died&nbsp;|{{main other|[[Category:Marriage template errors|X{{PAGENAME}}]]}}{{error-small|"{{lc:{{{end|{{{reason|}}}}}}}}" is deprecated; use "died" instead.}}&nbsp;}}
+    | he d. | his d. | he died | his death = {{#ifeq:{{#property:P21}}|female|died&nbsp;|{{main other|[[Category:Marriage template errors|X{{PAGENAME}}]]}}{{error-small|"{{lc:{{{end|{{{reason|}}}}}}}}" is deprecated; use "died" instead.}}&nbsp;}}
+    | w | w. | wid | wid. | widow | widowed = {{main other|[[Category:Marriage template errors|W{{PAGENAME}}]]}}{{error-small|invalid reason}}&nbsp;
+    | = <!--(reason marriage ended not supplied)-->
+    | #default = {{{end|{{{reason|}}}}}}&nbsp;
+   }}
+  }}{{#ifeq:{{{3|}}}
+   |{{Str ≠ len|{{{3}}}|4
+    |{{#ifexpr:{{#iferror:{{#time:Ymd|{{Wdib |P570|fwd=ALL|maxvals=1|noicon=true|pd=yes|df=ymd}} }}|{{#time:Ymd}} }} >= {{#time:Ymd|{{{3|}}}}}
+     |{{#ifexpr:{{#time:Ymd|{{if empty|{{Wdib |P570|fwd=ALL|maxvals=1|noicon=true|pd=yes|df=ymd}}|{{tomorrow}} }}}} = {{#time:Ymd|{{{3|}}}}}
+      |{{#if:{{{end|{{{reason|}}}}}}
+       |{{YEAR|{{{3|}}}}}
+       |{{main other|[[Category:Marriage template errors|D{{PAGENAME}}]]}}{{if preview|<var>{{colored link|red|Category:Marriage template errors|{{First word|{{PAGENAMEBASE}}|sep=,}}'s date of death}}</var>|{{YEAR|{{{3|}}}}} }}}}
+      |{{YEAR|{{{3|}}}}}
+      }}
+     |{{main other|[[Category:Marriage template errors|P{{PAGENAME}}]]}}{{if preview|<var>{{colored link|red|Category:Marriage template errors|{{#ifexpr:{{#time:Ymd}} >= {{#time:Ymd|{{{3|}}}}}|posthumous|future}} date}}</var>|{{YEAR|{{{3|}}}}}
+     }}}}
+    |{{#ifexpr:{{#iferror:{{YEAR|{{Wdib |P570|fwd=ALL|maxvals=1|noicon=true|pd=yes|df=y}} }}|{{#time:Y}} }} >= {{YEAR|{{{3|}}}}}
+     |{{YEAR|{{{3|}}}}}
+     |{{main other|[[Category:Marriage template errors|P{{PAGENAME}}]]}}{{if preview|<var>{{colored link|red|Category:Marriage template errors|{{#ifexpr:{{#time:Y}} >= {{{3|}}}|posthumous|future}} year}}</var>|{{YEAR|{{{3|}}}}}
+     }}}}
+    }}
+   |{{{3|}}}
+   |{{tooltip|dotted=no|1={{#iferror: {{YEAR|{{{3|}}}}} | {{main other|[[Category:Marriage template errors|I{{PAGENAME}}]]}}{{error-small|invalid year}}
+   |{{Str ≠ len|{{{3}}}|4
+    |{{#ifexpr:{{#iferror:{{#time:Ymd|{{Wdib |P570|fwd=ALL|maxvals=1|noicon=true|pd=yes|df=ymd}} }}|{{#time:Ymd}} }} >= {{#time:Ymd|{{{3|}}}}}
+     |{{#ifexpr:{{#time:Ymd|{{if empty|{{Wdib |P570|fwd=ALL|maxvals=1|noicon=true|pd=yes|df=ymd}}|{{tomorrow}} }}}} = {{#time:Ymd|{{{3|}}}}}
+      |{{#if:{{{end|{{{reason|}}}}}}
+       |{{YEAR|{{{3|}}}}}
+       |{{main other|[[Category:Marriage template errors|D{{PAGENAME}}]]}}{{if preview|<var>{{colored link|red|Category:Marriage template errors|{{First word|{{PAGENAMEBASE}}|sep=,}}'s date of death}}</var>|{{YEAR|{{{3|}}}}} }}}}
+      |{{YEAR|{{{3|}}}}}
+      }}
+     |{{main other|[[Category:Marriage template errors|P{{PAGENAME}}]]}}{{if preview|<var>{{colored link|red|Category:Marriage template errors|{{#ifexpr:{{#time:Ymd}} >= {{#time:Ymd|{{{3|}}}}}|posthumous|future}} date}}</var>|{{YEAR|{{{3|}}}}}
+     }}}}
+    |{{#ifexpr:{{#iferror:{{YEAR|{{Wdib |P570|fwd=ALL|maxvals=1|noicon=true|pd=yes|df=y}} }}|{{#time:Y}} }} >= {{YEAR|{{{3|}}}}}
+     |{{YEAR|{{{3|}}}}}
+     |{{main other|[[Category:Marriage template errors|P{{PAGENAME}}]]}}{{if preview|<var>{{colored link|red|Category:Marriage template errors|{{#ifexpr:{{#time:Y}} >= {{{3|}}}|posthumous|future}} year}}</var>|{{YEAR|{{{3|}}}}}
+     }}}}
+    }}}}|2={{{3|}}}}}
+  }}
+   |{{#if:{{{2|}}}
+    |{{#if:{{{end|{{{reason|}}}}}}|&#44;&#32;|}}
+   }}{{#switch:{{lc:{{{end|{{{reason|}}}}}}}}
+    | d | d. | died = died
+    | div | div. | divorce | divorced = divorced
+    | sep | sep. | separated = separated
+    | ann | ann. | annulled | annulment = annulled
+    | she d. | her d. | she died | her death = {{#ifeq:{{#property:P21}}|male|died|{{main other|[[Category:Marriage template errors|X{{PAGENAME}}]]}}{{error-small|"{{lc:{{{end|{{{reason|}}}}}}}}" is deprecated; use "died" instead}}}}
+    | he d. | his d. | he died | his death = {{#ifeq:{{#property:P21}}|female|died|{{main other|[[Category:Marriage template errors|X{{PAGENAME}}]]}}{{error-small|"{{lc:{{{end|{{{reason|}}}}}}}}" is deprecated; use "died" instead}}}}
+    | w | w. | wid | wid. | widow | widowed =  {{main other|[[Category:Marriage template errors|W{{PAGENAME}}]]}}{{error-small|invalid reason&nbsp}}
+    | = <!--(reason marriage ended not supplied)-->
+    | #default = {{{end|{{{reason|}}}}}}
+   }}
+ }}&#41;<wbr />&#8203;</div><!--
+-->{{#invoke:Parameter validation|validateparams|module_options = Module:Parameter validation/default config}}<noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,3 @@
+{{safesubst<noinclude/>:#invoke:String|replace|source={{{1|}}}|pattern=^(%s*)(%[*)(.-)(%]*)(%s*)$|replace=%3|plain=false}}<noinclude>
+{{documentation}}
+</noinclude>

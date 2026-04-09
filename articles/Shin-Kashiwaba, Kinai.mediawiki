@@ -1,0 +1,303 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = 
+| official_name           = Shin-Kashiwaba
+| native_name             = {{lang|ja|新柏葉市}}
+| native_name_lang        = 
+| other_name              =
+| settlement_type         = Core City
+<!-- transliteration(s) -------->
+| translit_lang1          = 
+| translit_lang1_type     = 
+| translit_lang1_info     = 
+| translit_lang1_type1    = 
+| translit_lang1_info1    = 
+| translit_lang1_type2    =
+| translit_lang1_info2    = <!-- etc., up to translit_lang1_type6 / translit_lang1_info6 -->
+| translit_lang2          =
+| translit_lang2_type     =
+| translit_lang2_info     =
+| translit_lang2_type1    =
+| translit_lang2_info1    =
+| translit_lang2_type2    =
+| translit_lang2_info2    =
+| translit_lang2_info2    = <!-- etc., up to translit_lang2_type6 / translit_lang2_info6 -->
+<!-- images, nickname, motto --->
+| image_skyline           = Abeno Harukas view from Taishi Intersection Nishinari Osaka IMG 2306-2 20130421.JPG
+| imagesize               =
+| image_alt               =
+| image_caption           = Nakahara National Route 3 Shin-Kashiwaba Downtown Area
+| image                   = <!-- other image (specify File: or Image: namespace) -->
+| image_flag              = Flag of Former Tsubame Niigata.svg
+| flag_size               =
+| flag_alt                =
+| flag_link               =
+| image_seal              = 
+| seal_size               =
+| seal_alt                =
+| seal_link               =
+| image_shield            =
+| shield_size             =
+| shield_alt              =
+| shield_link             =
+| image_blank_emblem      = 
+| blank_emblem_type       = 
+| blank_emblem_size       =
+| blank_emblem_alt        =
+| blank_emblem_link       =
+| nickname                =
+| motto                   =
+| anthem                  =
+<!-- maps and coordinates ------>
+| image_map               = Shin-Kashiwaba Location.png
+| mapsize                 = 
+| map_alt                 =
+| map_caption             = Location of Shin-Kashiwaba in [[Kinai Prefecture]]
+| image_map1              =
+| mapsize1                =
+| map_alt1                =
+| map_caption1            =
+| image_dot_map           =
+| dot_mapsize             =
+| dot_map_base_alt        =
+| dot_map_alt             =
+| dot_map_caption         =
+| dot_x = |dot_y =
+| pushpin_map             = <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label           = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt         =
+| pushpin_mapsize         =
+| pushpin_map_caption     =
+| pushpin_map1            =
+| pushpin_label_position1 =
+| pushpin_label1          = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt1        =
+| pushpin_mapsize1        =
+| pushpin_map_caption1    =
+| latd  =  |latm  =  |lats  =  |latNS  =
+| longd =  |longm =  |longs =  |longEW =
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_region      = <!-- ISO 3166-1 alpha-2 or ISO 3166-2 code for country/region containing the coordinates -->
+| coordinates_type        = <!-- parameter list passed to Coord template, overrides coordinates_region -->
+| coordinates_display     = inline,title
+| coordinates_format      = dms
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = [[Nakahara]]
+| subdivision_type1       = Region
+| subdivision_name1       = [[Naoshima Region|Naoshima]]
+| subdivision_type2       = Prefecture
+| subdivision_name2       = [[Kinai Prefecture]]
+<!-- established --------------->
+| established_title       = 
+| established_date        = 
+| established_title1      = <!-- Incorporated (town) -->
+| established_date1       =
+| established_title2      = <!-- Incorporated (city) -->
+| established_date2       =
+| established_title3      =
+| established_date3       =
+| extinct_title           =
+| extinct_date            =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts ------->
+| seat_type               = 
+| seat                    = 
+| parts_type              = <!-- defaults to: Boroughs -->
+| parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                   = <!-- parts text, or header for parts list -->
+| p1                      =
+| p2                      = <!-- etc., up to p50: for separate parts to be listed-->
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         =
+| governing_body          =
+| leader_party            =
+| leader_title            = Mayor
+| leader_name             = Nosaka Kiyomori
+| leader_title1           =
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| dunam_link              = <!-- If dunams are used, this specifies which dunam to link. -->
+| area_total_km2          = 234
+| area_total_sq_mi        = <!-- see table @ Template:Infobox settlement for details -->
+| area_total_ha           = 
+| area_total_acre         = 
+| area_total_dunam        = <!-- used in Middle East articles only -->
+| area_land_km2           =
+| area_land_sq_mi         =
+| area_land_ha            = 
+| area_land_acre          = 
+| area_land_dunam         = <!-- used in Middle East articles only -->
+| area_water_km2          =
+| area_water_sq_mi        =
+| area_water_ha           = 
+| area_water_acre         = 
+| area_water_dunam        = <!-- used in Middle East articles only -->
+| area_water_percent      =
+| area_urban_footnotes    = <!-- for references: use <ref> tags -->
+| area_urban_km2          =
+| area_urban_sq_mi        =
+| area_urabn_ha           = 
+| area_urban_acre         = 
+| area_urabn_dunam        = <!-- used in Middle East articles only -->
+| area_rural_footnotes    = <!-- for references: use <ref> tags -->
+| area_rural_km2          =
+| area_rural_sq_mi        =
+| area_rural_ha           = 
+| area_rural_acre         = 
+| area_rural_dunam        = <!-- used in Middle East articles only -->
+| area_metro_footnotes    = <!-- for references: use <ref> tags -->
+| area_metro_km2          =
+| area_metro_sq_mi        =
+| area_metro_ha           = 
+| area_metro_acre         = 
+| area_metro_dunam        = <!-- used in Middle East articles only -->
+| area_rank               = 
+| area_blank1_title       =
+| area_blank1_km2         =
+| area_blank1_sq_mi       =
+| area_blank1_ha          = 
+| area_blank1_acre        = 
+| area_blank1_dunam       = <!-- used in Middle East articles only -->
+| area_blank2_title       =
+| area_blank2_km2         =
+| area_blank2_sq_mi       =
+| area_blank2_ha          = 
+| area_blank2_acre        = 
+| area_blank2_dunam       = <!-- used in Middle East articles only -->
+| area_note               =
+<!-- dimensions ----------------->
+| dimensions_footnotes    = <!-- for references: use <ref> tags -->
+| length_km               =
+| length_mi               =
+| width_km                =
+| width_mi                =
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+| elevation_ft            =
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_max_ft        =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+| elevation_min_ft        =
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 468,330
+| population_as_of        = 2011
+| population_rank         = 
+| population_density_km2  = auto
+| population_density_sq_mi=
+| population_est          =
+| pop_est_as_of           =
+| population_urban               =
+| population_density_urban_km2   =
+| population_density_urban_sq_mi =
+| population_rural               =
+| population_density_rural_km2   =
+| population_density_rural_sq_mi =
+| population_metro               =
+| population_density_metro_km2   =
+| population_density_metro_sq_mi =
+| population_density             =
+| population_density_rank        =
+| population_blank1_title        =
+| population_blank1              =
+| population_density_blank1_km2  =
+| population_density_blank1_sq_mi=
+| population_blank2_title        =
+| population_blank2              =
+| population_density_blank2_km2  =
+| population_density_blank2_sq_mi=
+| population_demonym      = 
+| population_note         =
+<!-- demographics (section 1) -->
+| demographics_type1      =
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    =
+| demographics1_info1     = <!-- etc., up to demographics1_title5 / demographics1_info5 -->
+<!-- demographics (section 2) -->
+| demographics_type2      =
+| demographics2_footnotes = <!-- for references: use <ref> tags -->
+| demographics2_title1    =
+| demographics2_info1     = <!-- etc., up to demographics2_title5 / demographics2_info5 -->
+<!-- time zone(s) -------------->
+| timezone1               = Nakahara National Time 
+| utc_offset1             = +9
+| timezone1_DST           =
+| utc_offset1_DST         =
+| timezone2               =
+| utc_offset2             =
+| timezone2_DST           =
+| utc_offset2_DST         =
+<!-- postal codes, area code --->
+| postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| postal2_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal2_code            =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               =
+| geocode                 =
+| iso_code                =
+| registration_plate      =
+<!-- twin cities --------------->
+| twin1                   =
+| twin1_country           =
+| twin2                   =
+| twin2_country           = <!-- etc., up to twin9 / twin9_country -->
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Flower
+| blank_info_sec1         = [[wikipedia:Wisteria floribunda|Wisteria floribunda]]
+| blank1_name_sec1        = Tree
+| blank1_info_sec1        = [[wikipedia:Acer palmatum|Acer palmatum]]
+| blank2_name_sec1        =
+| blank2_info_sec1        = <!-- etc., up to blank7_name_sec1 / blank7_info_sec1 -->
+<!-- blank fields (section 2) -->
+| blank_name_sec2         =
+| blank_info_sec2         =
+| blank1_name_sec2        =
+| blank1_info_sec2        =
+| blank2_name_sec2        =
+| blank2_info_sec2        = <!-- etc., up to blank7_name_sec2 / blank7_info_sec2 -->
+<!-- website, footnotes -------->
+| website                 = www.city.shinkashiwaba.go.nk
+| footnotes               =
+}}
+
+{{Nihongo|'''Shin-Kashiwaba'''|新柏葉市|ShinKashiwaba-shi}} is a city in [[Kinai Prefecture]], Nakahara.
+As for 2011, it has population 468,330 with land size 234 km square making its density 2,001 per km square
+
+Shin-Kashiwaba was the main fraction of [[Kashiwaba]] city, Kinai prior to the [[Kashiwaba Incident]] in 1958. Shin-Kashiwaba was traditionally the largest city in Kinai Prefecture until the rapid growth of its capital, [[Kinai, Kinai|Kinai City]] and the dissolving of Kashiwaba City into Kashiwaba District and [[Academy City]].
+==History==
+===Sengoku Period and prior===
+===Shizuku Period===
+===Kashiwaba City===
+===Kashiwaba Incident===
+===Kashiwaba District and Shin-Kashiwaba City formation===
+===Siege of Kashiwaba 2014===
+==Geography==
+===Climate===
+==Demographic==
+[[Image:Haginochaya20051222 0950.jpg|thumb|150px|left|Dense Residential area in Shin-Kashiwaba]]
+As for 2011, Shin-Kashiwaba has population of 468,330 people which is increasing from 442,590 in 2003. Though the peak population of Kashiwaba city was 700,488 people in 1956, Shin-Kashiwaba currently has it's largest population since the dismiss of Kashiwaba City in 1958.
+Kashiwaba Metropolitan area which includes [[Kizawa, Maezaki|Kizawa]], [[Minamikashiwaba, Kinai|Minamikashiwaba]] and several neighboring cities has population of 1,420,580 people. The calculation not includes the neighboring independent city State Academy City since both area not considered to have any economic relation for their populations. If all 2,300,000 Academy City population counted in, the Kashiwaba-Academy City Metropolitan Area will have population 2.7 millions.
+
+==Transportation==
+==Education==
+==Culture and Sports==
+==Crime and Safety==
+Shin-Kashiwaba City known as Nakaharan most dangerous city with its reputation for numerous violence battle and home to several organized crime around Nakahara. Shin-Kashiwaba has the highest crime rate per 1000 people than any place in Nakahara, leaving [[Nagawa]] at second and [[Kinai, Kinai|Kinai]] at third position.
+
+There are 2 known Yakuza group based on Shin-Kashiwaba city. The most influential and powerful [[Hirado-Gumi]] which also Nakahara's 2nd largest group runs their operation throughout the city, involving the weapons smuggling into [[Academy City]] dealing with the Skill out from the state. Another group is [[Miyashita-Gumi]], the 4th largest group in Nakahara which one of the oldest organized yakuza group in Nakahara.
+
+==Sister Cities==

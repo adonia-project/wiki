@@ -1,0 +1,7 @@
+<includeonly>{{#invoke:Storm categories|name}}</includeonly><noinclude>{{Documentation|content=
+{{Lua|Module:Storm categories}}
+=== Full list of available values ===
+{{#invoke:Storm categories|demo}}
+[[Category:Storm category templates|{{PAGENAME}}]]
+[[Category:Tropical cyclone templates|{{PAGENAME}}]]
+}}</noinclude>

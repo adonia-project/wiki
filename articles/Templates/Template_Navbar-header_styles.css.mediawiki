@@ -1,0 +1,13 @@
+/* {{pp|small=y}} */
+.navbar-header {
+	text-align: center;
+	position: relative;
+	white-space: nowrap;
+}
+
+.navbar-header .navbar {
+	position: absolute;
+	right: 0;
+	top: 0;
+	margin: 0 5px;
+}

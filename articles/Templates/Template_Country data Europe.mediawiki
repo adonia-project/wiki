@@ -1,0 +1,10 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Europe
+| flag alias = Flag of Europe.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+<noinclude>
+| redir1 = EUR
+| related1 = European Union
+</noinclude>
+}}

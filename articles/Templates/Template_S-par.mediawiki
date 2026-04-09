@@ -1,0 +1,16 @@
+<noinclude>{{s-start}}
+</noinclude>|-
+! colspan="3" style="border-top: 5px solid #cccccc" | {{#ifexist:Template:S-par/{{trim|{{{1}}}}}
+ |{{S-par/{{trim|{{{1}}}}}}}
+ |{{#if:{{{raw|}}}
+  |{{{raw}}}
+  |{{#if:{{{1|}}}
+   |{{error|Unrecognised parameter}}
+   |Assembly seats
+  }}
+ }}
+}}<noinclude>
+{{s-end}}
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here. -->
+</noinclude>

@@ -1,0 +1,48 @@
+<includeonly>
+====Area====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Area
+|+ Area<br /><small>([[Template:Convert/list of units/area|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+|rowspan=4  style="text-align: center; vertical-align: top;" |'''SI'''
+{{convert/list of units/unitrow|km2|us=square kilometer|place=top}}
+* km2 sqmi
+{{convert/list of units/unitrow|m2|us=square meter}}
+* m2 sqft
+{{convert/list of units/unitrow|cm2|us=square centimeter}}
+* cm2 sqin
+{{convert/list of units/unitrow|mm2|us=square millimeter}}
+* mm2 sqin
+|-
+| style="text-align: center; vertical-align: top;" |'''non-SI metric'''
+{{convert/list of units/unitrow|ha|place=top}}
+|-
+|rowspan=5  style="text-align: center; vertical-align: top;" |'''Imperial<br />&<br />US customary'''
+{{convert/list of units/unitrow|sqmi|altab={{#ifeq:nontable|no|mi2}}|place=top}}
+* sqmi km2
+{{convert/list of units/unitrow|acre}}
+{{convert/list of units/unitrow|sqyd}}
+{{convert/list of units/unitrow|sqft|br=y|note={{convert/list of units/foot note|sqfoot|square foot}}|altab=sqfoot}}
+* sqft m2 (sqfoot m2)
+{{convert/list of units/unitrow|sqin}}
+* sqin cm2
+|-
+|rowspan=3  style="text-align: center; vertical-align: top;" |'''Other'''
+{{convert/list of units/unitrow|sqnmi|place=top}}
+{{convert/list of units/unitrow|dunam|note=For alternative spellings and definitions see the [[Template:Convert/list of units/area|full list]]}}
+|-
+{{convert/list of units/unitrow|tsubo|place=top}}
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/area/short list]]
+</noinclude>

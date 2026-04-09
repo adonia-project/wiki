@@ -1,0 +1,129 @@
+{{Sidebar with collapsible lists
+| name = Politics of Balisca
+| style = width:22.0em; border: 4px double #004f87; background:#FFFFFF;
+| namestyle = background:#0a2e5b;
+| bodyclass = vcard hlist
+| pretitle= '''<span style="color:#000000;">This article is part of a series on the</span>'''
+| wraplinks = true
+| liststyle = text-align:center; line-height:18px;
+| listtitlestyle = text-align:left; background:#133769; color:#ffffff;
+| title = [[Government and politics of Balisca|<span style="color:#ffffff;"><small>Confederal politics of Balisca</small></span>]]
+| image = [[File:Government Seal of Balisca.svg|center|150px]]
+| titlestyle = background:#0a2e5b; border: 1px double #0a2e5b; text-align:center;
+
+| list1title = Constitution
+| list1 = 
+* [[Constitution of Balisca|Constitution]]
+** [[Basic Laws of Balisca|Basic Laws]]
+* [[Constitutional reform in Balisca|Constitutional Reform]]
+** [[Confederal Convention]]
+** [[List of amendments to the Baliscan Constitution|Amendments]]
+----
+| list2title = Administration
+| list2 = <br>
+[[File:Government of Balisca logo.png|60px]]
+* '''[[Confederal government of Balisca|Confederal administration]] <br>
+** [[Confederal budget of Balisca|Confederal budget]]
+** [[Confederal Armed Forces]]
+----
+* '''[[Secretariat Council (Balisca)|Secretariat Council]]'''
+* [[Secretary General of Balisca|Secretary General]]
+** [[Zavier Bilal]]
+----
+'''Polities'''<br>
+*[[Communities of Balisca|Communities]]
+*[[Regions of Balisca|Regions]]
+*[[Cantons of Balisca|Cantons]]
+*[[Communes of Balisca|Communes]]
+
+| list3title = Legislature
+| list3 =
+[[File:Coat of Arms of Balisca.svg|80px]]
+* '''[[Confederal Congress]]'''
+
+[[File:Confederal Council diagram 2024 (pre-election).svg|100px]]
+
+*'''[[President of the Confederal Congress|President]]''' [[Adélaïde Artigas]]
+*'''[[Vice President of the Confederal Congress|Vice President]]''' [[Médard Mouton]]
+
+| list4title = Elections
+| list4 =
+{{Center|'''[[Confederal elections in Balisca|Confederal elections]]'''}} 
+*[[2015 Baliscan confederal election|2015]]
+*[[2018 Baliscan confederal election|2018]]
+*[[2021 Baliscan confederal election|2021]]
+*[[2024 Baliscan confederal election|2024]] 
+{{Center|<small>'''[[Premiership elections in Balisca|Premiership elections]]'''</small>}} 
+*[[2015 Baliscan premiership election|2015]]
+*[[2018 Baliscan premiership election|2018]]
+*[[2021 Baliscan premiership election|2021]]
+*[[2024 Baliscan premiership election|2024]] 
+----
+{{Center|'''[[Regional elections in Balisca|Regional elections]]'''}}
+*[[2013 Baliscan regional elections|2013]]
+*[[2018 Baliscan regional elections|2018]]
+*[[2021 Baliscan regional elections|2021]]
+*[[2024 Baliscan regional elections|2024]]
+----
+{{Center|'''[[Cantonal elections in Balisca|Cantonal elections]]'''}}
+*[[2013 Baliscan cantonal elections|2013]]
+*[[2016 Baliscan cantonal elections|2016]]
+*[[2019 Baliscan cantonal elections|2019]]
+*[[2022 Baliscan cantonal elections|2022]]
+----
+{{Center|'''[[Communal elections in Balisca|Communal elections]]'''}}
+*[[2013 Baliscan communal elections|2013]]
+*[[2016 Baliscan communal elections|2016]]
+*[[2019 Baliscan communal elections|2019]]
+*[[2022 Baliscan communal elections|2022]]
+----
+{{Center|'''[[Confederal initiative]]s'''}}
+*[[2018 Baliscan referendums|2018]]
+*[[2019 Baliscan referendums|2019]]
+*[[2020 Baliscan referendums|2020]]
+*[[2021 Baliscan referendums|2021]]
+*[[2022 Baliscan referendums|2022]]
+**[[2022 Baliscan constitutional referendum|Constitutional]]
+----
+*[[Electoral system of Balisca|Electoral System]]
+*[[Commune district|Commune districts]]
+
+| list5title = Initiatives 
+| list5 = 
+*[[Confederal Council of Arbitration|Council of Arbitration]]
+*[[Confederal emergency|Confederal emergencies]]
+*[[Green Protocol]]
+*[[Immigration to Balisca|Free migration]]
+*[[Low Impact Initiative|Transit]] (IBI)
+*[[Casajuan Plan|Urban Redevelopment]]
+
+| list6title = Internationalism
+| list6 = 
+'''[[Secretariat of International Affairs and Cooperation (Balisca)|Secretariat of International Affairs]]'''
+*'''[[Secretariat for International Affairs and Cooperation (Balisca)|Secretary]]''' [[Natàlia Buixeda]]
+----
+[[Diplomatic missions of Balisca|Diplomatic missions of]]/[[Diplomatic missions in Balisca|in Balisca]]
+----
+*[[Visa policy of Balisca|Visa policy]]
+*[[Baliscan passport|Passport]]
+*[[Immigration to Balisca|Immigration]]
+**[[Irregular immigration to Balisca|Irregular]]
+*[[Baliscan nationality law|Nationality Law]]
+*[[Baliscan permanent resident|Permanent Residence]]
+----
+*[[Concepción Organization of Co-Operation|COCO]]
+*{{W|Organization of Ibero-American States|OEI}}
+*[[Conosur]]
+*{{W|G-20}}
+*{{W|United Nations}}
+*{{W|Organization of American States|OAS}}
+----
+*[[Balisca-Philippines relations|Philippines]]
+*[[Balisca–Soviet Union relations |Soviet Union]]
+*[[Balisca-Takamaiku relations|Takamaiku]]
+*[[Balisca-United States relations|United States]]
+*[[Balisca-Argentina relations|Argentina]]
+
+| below = {{flagicon|Balisca}} [[Portal:Balisca|Balisca portal]]
+{{Politics sidebar below|Balisca}}
+}}

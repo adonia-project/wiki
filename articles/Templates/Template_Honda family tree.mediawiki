@@ -1,0 +1,51 @@
+{{Navbox
+| name = Honda family tree
+| title = [[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px|Honda family crest]] [[Honda clan|Honda clan (1556–1870)]]
+| state = {{{state|{{{1|<includeonly>collapsed</includeonly>}}}}}}
+| basestyle = background:transparent;
+| liststyle = border-color:#aaa;border-style:solid;border-width:1px 0;
+| list1 =
+{{tree chart/start|style=margin:0pt auto;}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | Emp | | Sho |Emp=[[Emperor of Okaiken|Emperor]]|boxstyle_ Emp=background-color: #ffeb3b;|Sho=[[Honda Shoguns|Shogun]]|boxstyle_ Sho=background-color: #98FB98;}}
+{{tree chart | | | | |}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | | | Shi |Shi=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''''[[Emperor Shirakawa of Mitoyagi|Shirakawa]]'''''<sup>1ab</sup><br>|boxstyle_ Shi=background-color: #ffeb3b; border: 2px solid black;}}
+{{tree chart | | | | | | | | | | | | | | | |,|-|-|-|-|-|-|+|-|-|-|-|-|-|-|-|-|.| }}
+{{tree chart | | | | | | | | |Tsi|~|y|~|Dai| | | | | Tom |~|y|~| Mir | | Tok |~|~|~|y|~|~|~| Myj |Dai='''''[[Emperor Daigo of Mitoyagi|Daigo]]'''''<sup>2a</sup><br></small>|boxstyle_Dai=background-color: #ffeb3b;|Tom=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''[[Honda Shigetomo]]'''<sup>2b</sup><br>|boxstyle_ Tom=background-color: #98FB98;|Tok=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''[[Honda Shigetoki]]'''<sup>3b</sup><br>|boxstyle_ Tok=background-color: #98FB98;|Mir=''Mirei-in''<br>|Myj=''Myōjin-in''|Tsi=''Taisei-in''}}
+{{tree chart | | | | | | | | | | | | |!| | | | | | | | | | | | |)|-|-|-|v|-|-|-|.| | | |!| }}
+{{tree chart | | | | | | | | | | | | GDa | | | | | | | | | | | Mas | | Tdm | | Shi | | Szn |GDa='''[[Emperor Go-Daigo of Mitoyagi|''Go-Daigo'']]'''<sup>3a</sup><br>|boxstyle_ GDa=background-color: #ffeb3b;|Mas=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''[[Honda Shigemasa|Shigemasa]]'''<sup>4b</sup>|boxstyle_ Mas=background-color: #98FB98;|Szn=Shigezane|boxstyle_ Szn=border-width:1px;|Tdm=Tadamasa|boxstyle_ Szn=border-width:1px;|Shi=Shigeie|boxstyle_ Szn=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | |!| | | | | | | | | | | | |!| | | | | | | | | | | |!| }}
+{{tree chart | | | | | | | | | | | | Ogi | | | |  | | | | | | | Snb | | | | | | | | | | Tdz |Ogi='''[[Emperor Ogimachi of Mitoyagi|''Ogimachi'']]'''<sup>4a</sup>|boxstyle_ Ogi=background-color: #ffeb3b;|Snb=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''Shigenobu'''<sup>6b</sup>|boxstyle_ Snb=background-color: #98FB98;|Tdz=Tadazane|boxstyle_ Tdz=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | |!| | | | | | | | | | | | |!| | | | | | | | | | | |!| }}
+{{tree chart | | | | | | | | | | | | GOg | | | | | | | | | | | Tdb | | | | | | | | | | Nbz |GOg='''[[Emperor Go-Ogimachi of Mitoyagi|''Go-Ogimachi'']]'''<sup>5a</sup>|boxstyle_ GOg=background-color: #ffeb3b;|Tdb=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''Tadanobu'''<sup>7b</sup>|boxstyle_ Tdb=background-color: #98FB98;|Nbz=Nobuzane|boxstyle_ Nbz=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | |)|-|-|-|-|-|.| | | |,|-|-|^|-|.| | | | | | |,|-|-|'| |  }}
+{{tree chart | | | | | | | | | | | | Hor | | | | Koa |y| Stk | | | Yno |  | | | | Ter |y| Fuk |Hor='''[[Emperor Horikawa of Mitoyagi|''Horikawa'']]'''<sup>6a</sup>|boxstyle_ Hor=background-color: #ffeb3b;|Koa=''Koan-in''|Stk=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''Shigetaka'''<sup>8b</sup>|boxstyle_ Stk=background-color: #98FB98;|Yno=Yamanaka<br>Nobutaka|boxstyle_ Yno=border-width:1px;|Ter=''Teruhime''|Fuk=Fujisato<br>Katsuyori|boxstyle_ Fuk=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | |!| | | | | | | |!| | | | | | |)|-|-|-|.| | | | |!| }}
+{{tree chart | | | | | | | | | | | | Shj | | | | | | Jun | | | | | Snr | | Yms | | | Yor |Shj='''[[Emperor Shijō of Mitoyagi|''Shijō'']]'''<sup>7a</sup>|boxstyle_ Shj=background-color: #ffeb3b;|Jun='''[[Emperor Juntoku of Mitoyagi|''Juntoku'']]'''<sup>8a</sup>|boxstyle_ Jun=background-color: #ffeb3b;|Snr=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''Shigenari'''<sup>9b</sup>|boxstyle_ Snr=background-color: #98FB98;|Yms=Yamanaka<br>Shigemasa|boxstyle_ Yms=border-width:1px;|Yor=Fujisato<br>Yorishige|boxstyle_ Yor=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | |!| | | | | | |!| | | | | | | | |!| }}
+{{tree chart | | | | | | | | | | | | | | | | | | | | Chu | | | | | Sgh | | | | | | | Yrt |Chu='''[[Emperor Chūkyō of Mitoyagi|''Chūkyō'']]'''<sup>9a</sup>|boxstyle_ Chu=background-color: #ffeb3b;|Sgh=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''Shigeharu'''<sup>10b</sup>|boxstyle_ Sgh=background-color: #98FB98;|Yrt=Fujisato<br>Yoritsune|boxstyle_ Yrt=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | |!| | | | | | |!| | | | | | | | |!| }}
+{{tree chart | | | | | | | | | | | | | | | | | | | | GHo | | | | | Smr | | | | | | | Yma |GHo='''[[Emperor Go-Horikawa of Mitoyagi|''Go-Horikawa'']]'''<sup>10a</sup>|boxstyle_ GHo=background-color: #ffeb3b;|Smr=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''Shigemura'''<sup>11b</sup>|boxstyle_ Smr=background-color: #98FB98;|Yma=Fujisato<br>Yorimasa|boxstyle_ Yma=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | |!| | | | | | |!| | | | | | | | |!| }}
+{{tree chart | | | | | | | | | | | | | | | | | | | | GSh | | | | | Sto | | | | | | | Yta |GSh='''[[Emperor Go-Shijō of Mitoyagi|''Go-Shijō'']]'''<sup>11a</sup>|boxstyle_ GSh=background-color: #ffeb3b;|Sto=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''Shigetoshi'''<sup>12b</sup>|boxstyle_ Sto=background-color: #98FB98;|Yta=Fujisato<br>Yoritaka|boxstyle_ Yta=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | |!| | | | | | | ! | | | | | | | | |!| }}
+{{tree chart | | | | | | | | | | | | | | | | | | | | Osa | | | | | | ! | | | | | | | | Yts |Osa='''[[Emperor Taiji of Mitoyagi|''Taiji'']]'''<sup>12a</sup>|boxstyle_ Osa=background-color: #ffeb3b;|Yts=Fujisato<br>Yoritsugu|boxstyle_ Yts=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | |!| | | | | | | ! | | | | | | | | |!|}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | Sai | | | | | |!| | | | | | | | Ykt |Sai='''[[Saito of Mitoyagi|''Saito'']]'''<sup>13a</sup>|boxstyle_ Sai=background-color: #ffeb3b;|Ykt=Fujisato<br>Yorikatsu|boxstyle_ Ykt=border-width:1px;}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | | | | | | | |  | ! | | | | | | | | |!| }}
+{{tree chart | | | | | | | | | | | | | | | | | | | | | | | | | | | Sgs | | | | | | | Yku |Yku=Fujisato<br>Yorikuni|boxstyle_ Yku=border-width:1px;|Sgs=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''Shigesada'''<sup>13b</sup>|boxstyle_ Sgs=background-color: #98FB98;}}
+{{tree chart | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Q| | | | | | | |!| }}
+{{tree chart | | | | | | | | | | | | | | | | | | | | | | | | | | | | |Y|P|P|P|P|P|P| Yon |Yon=[[File:Japanese_Crest_Maru_ni_Hon_moji.svg|15px]]<br>'''[[Honda Yoshinobu|Yoshinobu]]'''<br><sup>14b</sup>|boxstyle_ Yon=background-color: #98FB98;}}
+{{tree chart/end}}
+
+|-
+|list2style=text-align: left
+|list2='''Notes'''
+{{notelist-lr}}
+
+|below = {{longitem|All Honda ''shōguns'' share descent from [[Emperor Shirakawa of Mitoyagi|Honda Shigetada]], the dynasty's founder.}}
+
+}}<noinclude>
+{{collapsible option |statename=optional |default=collapsed}}
+[[Category:Okaiken history navigational boxes]]
+[[Category:Honda family tree templates]]
+</noinclude>

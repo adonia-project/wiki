@@ -1,0 +1,188 @@
+<includeonly>{{main other|{{#if:{{Has short description}} |<!--Do nothing--> |{{#invoke:Type in location|main|{{#switch: 1
+ | {{#if: {{{toll|}}}{{{vpd|}}}{{{lanes|}}}|1|0}} = Road t
+ | {{#if: {{{notrack|}}}{{{gauge|}}}{{{el|}}}|1|0}} = Railway t
+ | {{#if: {{{waterway|}}}{{{towpath|}}}{{{passable|}}}|1|0}} = Water t
+ | #default = T
+}}unnel|{{{location|}}}}}}}}}
+{{Infobox
+ | bodyclass   = vcard
+ | titleclass  = fn org
+ | title       = {{If empty|{{{name|}}}|{{PAGENAMEBASE}}}}
+ | image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|alt={{{alt|}}}}}
+ | caption     = {{{caption|}}}
+
+ | image2      = {{#if:{{{pushpin_map|}}}|{{Location map|{{{pushpin_map|}}}
+   |alt     = {{{pushpin_map_alt|}}}
+   |coordinates = {{{coordinates|}}}
+   |float   = center
+   |mark    = {{{map_dot_mark|Red pog.svg}}}
+   |marksize= 7
+   |label   = {{{pushpin_label|}}}
+   |relief  = {{{pushpin_relief|}}}
+   |border  = infobox
+   |caption = {{{pushpin_map_caption|{{{pushpin_mapcaption|}}}}}}
+   |width   = {{{pushpin_map_size|{{{pushpin_mapsize|}}}}}}
+  }} }}
+ | headerstyle = background-color: #eee;
+
+ | header1 = {{#if:{{{line|}}}{{{location|}}}{{{coordinates|}}}{{{os_grid_ref|}}}{{{status|}}}{{{system|}}}{{{waterway|}}}{{{route|}}}{{{start|}}}{{{end|}}}{{{stations|}}}|Overview}}
+
+ | label2 = Official&nbsp;name
+ | class2 = nickname
+ | data2 = {{{official_name|}}}
+
+ | label3 = Other&nbsp;name(s)
+ | class3 = nickname
+ | data3 = {{{other_name|{{{also_known_as|}}}}}}
+
+ | label4 = Line
+ | data4 = {{{line|}}}
+
+ | label5 = Location
+ | class5 = label
+ | data5 = {{{location|}}}
+
+ | label6 = [[Geographic coordinate system|Coordinates]]
+ | data6 = {{{coordinates|}}}
+
+ | label7 = [[Ordnance Survey National Grid|OS grid reference]]
+ | class7 = plainlinks nourlexpansion
+ | data7 = {{#if:{{{os_grid_ref|}}}|{{gbmaprim|{{{os_grid_ref}}}|{{{os_grid_ref}}}|name={{{name|{{PAGENAMEBASE}}}}} }}}}
+
+ | label8 = Status
+ | data8 = {{{status|}}}
+
+ | label9 = System
+ | data9 = {{{system|}}}
+
+ | label10 = Waterway
+ | data10 = {{{waterway|}}}
+
+ | label11 = Route
+ | data11 = {{{route|}}}
+
+ | label12 = Crosses
+ | data12 = {{{crosses|}}}
+
+ | label13 = Start
+ | data13 = {{{start|}}}
+
+ | label14 = End
+ | data14 = {{{end|}}}
+
+ | label15 = {{abbr|No.|Number}} of stations
+ | data15 = {{{stations|}}}
+
+ | header16 = {{#if:{{{startwork|}}}{{{opened|}}}{{{opens|}}}{{{closes|}}}{{{closed|}}}{{{construction|}}}{{{rebuilt|}}}{{{reopened|}}}{{{reopens|}}}{{{owner|}}}{{{operator|}}}{{{traffic|}}}{{{character|}}}{{{toll|}}}{{{vpd|}}}|Operation}}
+
+ | label17 = Work begun
+ | data17 = {{{startwork|}}}
+
+ | label18 = Constructed
+ | data18 = {{{construction|}}}
+
+ | label19 = {{#if:{{{opens|}}}|Opens|Opened}}
+ | data19 = {{{opens|{{{opened|}}}}}}
+
+ | label20 = {{#if:{{{closes|}}}|Closes|Closed}}
+ | data20 = {{{closes|{{{closed|}}}}}}
+
+ | label21 = Rebuilt
+ | data21 = {{{rebuilt|}}}
+
+ | label22 = {{#if:{{{opens|}}}|Reopens|Reopened}}
+ | data22 = {{{reopens|{{{reopened|}}}}}}
+
+ | label23 = Owner
+ | data23 = {{{owner|}}}
+
+ | label24 = Operator
+ | data24 = {{{operator|}}}
+
+ | label25 = Traffic
+ | data25 = {{{traffic|}}}
+
+ | label26 = Character
+ | data26 = {{{character|}}}
+
+ | label27 = Toll
+ | data27 = {{{toll|}}}
+
+ | label28 = Vehicles per day
+ | data28 = {{{vpd|}}}
+
+ | header29 = {{#if:{{{engineer|}}}{{{length|}}}{{{linelength|}}}{{{tracklength|}}}{{{notrack|}}}{{{lanes|}}}{{{gauge|}}}{{{el|}}}{{{speed|}}}{{{hielevation|}}}{{{lowelevation|}}}{{{height|}}}{{{width|}}}{{{depth|}}}{{{towpath|}}}{{{passable|}}}{{{grade|}}}|Technical}}
+
+ | label30 = Design engineer
+ | data30 = {{{engineer|}}}
+
+ | label31 = Length
+ | data31 = {{{length|}}}
+
+ | label32 = Line length
+ | data32 = {{{linelength|}}}
+
+ | label33 = Track length
+ | data33 = {{{tracklength|}}}
+
+ | label34 = {{abbr|No.|Number}} of [[Track (rail transport)|tracks]]
+ | data34 = {{{notrack|}}}
+
+ | label35 = {{abbr|No.|Number}} of [[lane]]s
+ | data35 = {{{lanes|}}}
+
+ | label36 = [[Track gauge]]
+ | data36 = {{{gauge|}}}
+
+ | label37 = [[Railway electrification|Electrified]]
+ | data37 = {{{el|}}}
+
+ | label38 = Operating speed
+ | data38 = {{{speed|}}}
+
+ | label39 = Highest elevation
+ | data39 = {{{hielevation|}}}
+
+ | label40 = Lowest elevation
+ | data40 = {{{lowelevation|}}}
+
+ | label41 = [[Structure gauge|Tunnel clearance]]
+ | data41 = {{{height|}}}
+
+ | label42 = Width
+ | data42 = {{{width|}}}
+
+ | label43 = Water Depth
+ | data43 = {{{depth|}}}
+
+ | label44 = Towpath
+ | data44 = {{{towpath|}}}
+
+ | label45 = Boat-passable
+ | data45 = {{{passable|}}}
+
+ | label46 = Depth of tunnel below [[Stage (hydrology)|water level]]
+ | data46 = {{{depth_below_water|}}}
+
+ | label47 = Depth of [[Channel (geography)#Nautical channels|shipping channel]] above
+ | data47 = {{{shipping_clearance_above|}}}
+
+ | label48 = [[Grade (slope)|Grade]]
+ | data48 = {{{grade|}}}
+
+ | label49 = Cross passages
+ | data49 = {{{cross_passages|}}}
+
+ | header50 = {{#if:{{{map|}}}|Route map}}
+
+ | data51 = {{{map|}}}
+
+ | data52 = {{{extra|{{{embedded|{{{module|}}}}}}}}}
+}}{{#invoke:Check for unknown parameters|check|ignoreblank=y
+| unknown = {{main other|[[Category:Pages using infobox tunnel with unknown parameters|_VALUE_{{PAGENAME}}]]}}
+| preview = Page using [[Template:Infobox tunnel]] with unknown parameter "_VALUE_"
+| also_known_as | alt | caption | character | closed | closes | construction | coordinates | cross_passages | crosses | depth | depth_below_water | el | embedded | end | engineer | extra | gauge | grade | height | hielevation | image | image_size | lanes | length | line | linelength | location | lowelevation | map | map_dot_mark | module | name | notrack | official_name | opened | opens | operator | os_grid_ref | other_name | owner | passable | pushpin_label | pushpin_map | pushpin_map_alt | pushpin_map_caption | pushpin_map_size | pushpin_mapcaption | pushpin_mapsize | pushpin_relief | rebuilt | reopened | reopens | route | shipping_clearance_above | speed | start | startwork | stations | status | system | toll | towpath | tracklength | traffic | vpd | waterway | width 
+}}</includeonly><noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage, interwikis go in Wikidata -->
+</noinclude>

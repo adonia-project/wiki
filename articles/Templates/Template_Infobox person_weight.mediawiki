@@ -1,0 +1,3 @@
+{{#invoke:Person weight|weight}}<noinclude>
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,3 @@
+<templatestyles src="Block indent/styles.css"/><div class="block-indent {{{class|}}}" {{#if:{{{left|}}}{{{em|}}}{{{right|}}}{{{style|}}}|style="{{#if:{{{left|{{{em|}}}}}}|padding-left: {{{left|{{{em}}}}}}em;}}{{#if:{{{right|}}}|padding-right: {{{right}}}em;}}{{#if:{{{style|}}}|{{{style}}}}}"}}>{{{1|{{{text|{{{content|{{{quote|<noinclude>{{lorem ipsum}}</noinclude><includeonly>{{error|Error: No content given to indent (or equals sign used in the actual argument to an unnamed parameter)}}</includeonly>}}}}}}}}}}}}</div><noinclude>
+{{documentation}}
+</noinclude>

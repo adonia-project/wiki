@@ -1,0 +1,34 @@
+/* {{pp-template}} */
+/* Hide the toggle gallery button */
+div.excerptSlideshow-container > ul.gallery.mw-gallery-slideshow > li.gallerycarousel > div > div > div > span:nth-child(2)  {
+	display: none;
+}
+
+/* Hide the blank placeholder image */
+div.excerptSlideshow-container > ul.gallery.mw-gallery-slideshow > li.gallerycarousel > div > div:nth-child(2)  {
+	display: none;
+}
+
+/* Reduce spacing around buttons */
+div.excerptSlideshow-container > ul.gallery.mw-gallery-slideshow > li.gallerycarousel > div > div:nth-child(1)  {
+	padding-top: 0.3em;
+	padding-bottom: 0;
+}
+
+/* --- Rules for when gallerycarousel isn't present (i.e. mobile website) --- */
+/* only show the first item (if on desktop site, this is just the gallerycarousel) */
+div.excerptSlideshow-container > ul.gallery.mw-gallery-slideshow > li:nth-child(n+2) {
+	display: none;
+}
+
+/* use the full available width */
+div.excerptSlideshow-container .gallery .gallerybox,
+div.excerptSlideshow-container .gallery .gallerybox div {
+	width:100% !important; /* overrides inline style */
+	max-width:100%;
+}
+
+/* Hide the blank placeholder image */
+div.excerptSlideshow-container > ul.gallery.mw-gallery-slideshow > li:not(.gallerycarousel) > div > div:nth-child(1) {
+	display: none;
+}

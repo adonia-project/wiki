@@ -1,0 +1,266 @@
+/* {{pp-template}} */
+/* These are the 'hard-coded' header styles */
+
+.header-default, .header-UNK, .header-ATA, .header-BDI, .header-CAF, .header-COG, .header-COM, .header-DMA, .header-ERI, .header-FSM, .header-GAB, .header-HTI, .header-GMB, .header-GUY, .header-HRV, .header-KEN, .header-KNA, .header-LBY, .header-LCA, .header-MHL, .header-MRT, .header-NER, .header-NIU, .header-NRU, .header-SDN, .header-SLB, .header-SOM, .header-SSD, .header-TGO, .header-TUV, .header-UGA, .header-VCT {
+	background:#cedff2;
+}
+
+.header-deleted {
+	background:#ccc;
+}
+
+.header-hist {
+	background:#704214;
+	color:#fff;
+}
+
+.header-deleted-hist {
+	background:#ddcba4;
+}
+
+.header-uc {
+	background:#ffa500;
+}
+
+/* These are the most common styles */
+
+.header-autobahn {
+	background:#2C5BB7;
+	color:#fff;
+}
+
+.header-ASIA {
+	background:#1e2c76;
+	color:#fff;
+}
+
+.header-ASIA-RUS {
+	background:#00004e;
+	color:#fff;
+}
+
+.header-EUR {
+	background:#08842C;
+	color:#fff;
+}
+
+.header-EUR-ESP {
+	background:#13926c;
+	color:#fff;
+}
+
+.header-EUR-FIN {
+	background:#00997c;
+	color:#fff;
+}
+
+.header-EUR-FRA {
+	background:#28961e;
+	color:#fff;
+}
+
+.header-EUR-NOR {
+	background:#00965e;
+	color:#fff;
+}
+
+.header-EUR-RUS {
+	background:#00a500;
+	color:#fff;
+}
+
+.header-EUR-UKR {
+	background:#090;
+	color:#fff;
+}
+
+.header-minor, .header-AND, .header-AUT, .header-BFA, .header-CMR, .header-CPV, .header-DEU, .header-DJI, .header-DZA, .header-ENG, .header-FRA, .header-FIN, .header-GEO, .header-GGY, .header-GIB, .header-GBR, .header-GNB, .header-GNQ, .header-GUF, .header-IMN, .header-IRL, .header-IRN, .header-JEY, .header-MAR, .header-MCO, .header-MDV, .header-MLI, .header-MTQ, .header-MYT, .header-NIR, .header-NPL, .header-PRT, .header-PSE, .header-REU, .header-SCT, .header-SEN, .header-STP, .header-TCD, .header-TZA, .header-WLS {
+	background:#fff;
+	border:2px solid #000;
+}
+
+.header-motorway, .header-ALA, .header-AZE, .header-CHE, .header-EST, .header-GIN, .header-GRC, .header-JOR, .header-LAO, .header-LBN, .header-LIE, .header-MLT, .header-MNG, .header-MYS, .header-NLD, .header-OMN, .header-ROU, .header-SUR, .header-SVK, .header-SYR, .header-TTO, .header-YEM {
+	background:#0079C1;
+	color:#fff;
+}
+
+.header-MUTCDblue, .header-AFG, .header-BGR, .header-CZE, .header-CYP, .header-EGY, .header-ITA, .header-PAK, .header-SMR, .header-SVK, .header-SWE {
+	background:#003f87;
+	color:#fff;
+}
+
+.header-MUTCDgreen, .header-ANG, .header-ARE, .header-ARG, .header-BEL, .header-BHN, .header-BEN, .header-BLZ, .header-BOL, .header-BRA, .header-BRN, .header-BWA, .header-CAN, .header-CHL, .header-CHN, .header-COL, .header-CRI, .header-CRI, .header-CUB, .header-DOM, .header-ECU, .header-ETH, .header-FJI, .header-GHA, .header-GRD, .header-GTM, .header-HKG, .header-HND, .header-HUN, .header-IDN, .header-IRQ, .header-KIR, .header-KHM, .header-KOR, .header-KWT, .header-LBR, .header-LKA, .header-LSO, .header-MEX, .header-MMR, .header-MOZ, .header-MUS, .header-NAM, .header-NGA, .header-NIC, .header-NZL, .header-PAN, .header-PER, .header-PLW, .header-PNG, .header-POL, .header-PRI, .header-PRK, .header-PRY, .header-QAT, .header-RWA, .header-SAU, .header-SGP, .header-SLV, .header-SWZ, .header-TAH, .header-THA, .header-TLS, .header-TON, .header-TUN, .header-TUR, .header-TWN, .header-URY, .header-VEN, .header-VNM, .header-USA, .header-WSM, .header-ZAF, .header-ZMB, .header-ZWE {
+	background:#006a4d;
+	color:#fff;
+}
+
+.header-primary, .header-BRB, .header-JAM {
+	background:#00703c;
+	color:#ffd200;
+}
+
+.header-primary-white, .header-BGD, .header-BTN, .header-MWI {
+	background:#00703c;
+	color:#fff;
+}
+
+.header-SUN, .header-ARM, .header-AZE, .header-BLR, .header-KAZ, .header-KGZ, .header-LVA, .header-LTU, .header-MDA, .header-RUS, .header-TJK, .header-TKM, .header-UKR, .header-UZB {
+	background:#0d69e1;
+	color:#fff;
+}
+
+/* Named colors*/
+
+.header-blue-var1 {
+	background:#06c;
+	color:#fff;
+}
+
+.header-blue-var2 {
+	background:#276fb7;
+	color:#fff;
+}
+
+.header-dark-blue, .header-DNK, .header-VNM {
+	background:#039;
+	color:#fff;
+}
+
+.header-yellow {
+	background:#fc3;
+	border:1px solid #000;
+}
+
+.header-ALB {
+	background:#00408b;
+	color:#fff;
+}
+
+.header-AUS {
+	background:#336745;
+	color:#ffa709;
+}
+
+.header-AUS-freeway {
+	background:#d2e2f9;
+}
+
+.header-AUS-highway {
+	background:#e9f9d2;
+}
+
+.header-AUS-road {
+	background:#ffffe0;
+}
+
+.header-AUS-street {
+	background:#f9e2d2;
+}
+
+.header-AUS-track {
+	background:#fee8ab;
+}
+
+.header-BEL, .header-COD {
+	background:#005b8c;
+	color:#fff;
+}
+
+.header-BIH {
+	background:#0b8f4b;
+	color:#fff;
+}
+
+.header-CYP-A {
+	background:#005024;
+	color:#ffc000;
+}
+
+.header-DEU-B, .header-LUX, .header-MKD, .header-MNE, .header-SRB, .header-SVN, .header-YUG {
+	background:#fc3;
+}
+
+.header-DEU-scenic {
+	background:#633a34;
+	color:#fff;
+}
+
+.header-DNK-red {
+	background:#fff;
+	color:#af1e2d;
+	border:2px solid #af1e2d;
+}
+
+.header-ESP {
+	background:#e8e8e8;
+}
+
+.header-ESP-A, .header-ESP-AP, .header-ESP-Autovia, .header-ESP-Autopista {
+	background:#19408b;
+	color:#fff;
+}
+
+.header-ESP-N {
+	background:#bf0411;
+	color:#fff;
+}
+
+.header-FIN-blue {
+	background:#005eb8;
+	color:#fff;
+}
+
+.header-FIN-green {
+	background:#00997c;
+	color:#fff;
+}
+
+.header-IND {
+	background:#128807;
+	color:#fff;
+}
+
+.header-ISL {
+	background:#ffd200;
+	border:2px solid #000;
+}
+
+.header-ISR {
+	background:#007e00;
+	color:#fff;
+}
+
+.header-ISR-freeway {
+	background:#0000fe;
+	color:#fff;
+}
+
+.header-JPN {
+	background:#0066b3;
+	color:#fff;
+}
+
+.header-JPN-Exp {
+	background:#005d35;
+	color:#fff;
+}
+
+.header-KOS {
+	background:#06c;
+	color:#fff;
+}
+
+.header-KOS-R, .header-PHL {
+	background:#093;
+	color:#fff;
+}
+
+.header-MDG {
+	background:#fff;
+	color:#af1e2d;
+	border:2px solid #000;
+}
+
+.header-NOR {
+	background:#f2a900;
+}

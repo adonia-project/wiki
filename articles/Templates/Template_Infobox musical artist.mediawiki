@@ -1,0 +1,84 @@
+{{Infobox
+| child       = {{lc:{{{embed}}}}}
+
+| bodyclass   = vcard plainlist
+
+| title       = {{#ifeq:{{lc:{{{embed}}}}}|yes|'''Musical career'''}}
+| decat       = yes <!-- remove from template:infobox tracking categories -->
+
+| abovestyle  = background-color: {{Infobox musical artist/color|{{{Background|{{{background|}}}}}}}}
+| above       = {{#ifeq:{{lc:{{{embed}}}}}|yes||{{#if:{{{Name|{{{name|}}}}}}|{{#if:{{{honorific_prefix|}}}|<span class="honorific-prefix" style="font-size:87%">{{{honorific_prefix|}}}</span><br />}}<span class="{{Infobox musical artist/hCard class|{{{Background|{{{background|}}}}}}}}">{{{Name|{{{name}}}}}}</span>{{#if:{{{honorific_suffix|}}}|<br /><span class="honorific-suffix" style="font-size:87%">{{{honorific_suffix|}}}</span>}} |<includeonly>{{BASEPAGENAME}}</includeonly>}}}}
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{Img|{{{image|}}}}}}|size={{#ifeq:{{lc:{{{Landscape|{{{landscape|}}}}}}}}|yes|{{min|300|{{#if:{{#ifexpr:{{{Img_size|{{{image_size}}}}}}}}|300|{{{Img_size|{{{image_size}}}}}}}}}}x200px|{{{Img_size|{{{image_size|}}}}}}}}|sizedefault=frameless|upright={{{Img_upright|{{{image_upright|1}}}}}}|alt={{{Img_alt|{{{alt|}}}}}}|suppressplaceholder=yes}}
+| caption     = {{{Img_capt|{{{caption|}}}}}}
+
+| headerstyle = background-color: {{Infobox musical artist/color|{{{Background|{{{background|}}}}}}}}
+
+| header1     = {{#if:{{{Img|{{{image|}}}}}}|Background information}}
+
+| label2     = Native name
+| data2      = {{#if:{{{native_name|}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}" xml:lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span> }}
+
+| class3      = nickname
+| label3      = {{Nowrap|Birth name}}
+| data3       = {{{Birth_name|{{{birth_name|}}}}}}
+
+| class4      = nickname
+| label4      = {{Nowrap|Also known as}}
+| data4       = {{{Alias|{{{alias|}}}}}}
+
+| label5     = Born
+| data5      = {{br separated entries|{{{birth_date|}}}|{{{birth_place|}}}}}
+
+| label6     = Origin
+| data6      = {{{Origin|{{{origin|}}}}}}
+
+| label7     = Died
+| data7      = {{br separated entries|{{{death_date|}}}|{{{death_place|}}}}}
+
+| label8     = Genres
+| data8      = {{{Genre|{{{genre|}}}}}}
+
+| class9     = role
+| label9     = {{Nowrap|{{#if:{{{Occupations|{{{occupations|}}}}}}|Occupations|Occupation(s)}}}}
+| data9      = {{#if:{{{Occupations|{{{occupations|}}}}}}|{{{Occupations|{{{occupations|}}}}}}|{{{Occupation|{{{occupation|}}}}}}}}
+
+| class10     = note
+| label10     = Instruments
+| data10      = {{{Instrument|{{{instrument|{{{instruments|}}}}}}}}}
+
+| label11    = {{Nowrap|Years active}}
+| data11     = {{{Years_active|{{{years_active|{{{yearsactive|}}}}}}}}}
+
+| label12    = Labels
+| data12     = {{{Label|{{{label|}}}}}}
+
+| label13    = {{Nowrap|Associated acts}}
+| data13     = {{{Associated_acts|{{{associated_acts|}}}}}}
+
+| label14    = Website
+| data14     = {{{website|{{{URL|{{{url|}}}}}}}}}
+
+| header15   = {{#if:{{{Current_members|{{{current_members|}}}}}}|<nowiki />}}
+
+| label16    = Members
+| data16     = {{{Current_members|{{{current_members|}}}}}}
+
+| header17   = {{#if:{{{Past_members|{{{past_members|}}}}}}|<nowiki />}}
+
+| label18    = {{Nowrap|Past members}}
+| data18     = {{{Past_members|{{{past_members|}}}}}}
+
+| header19   = {{#if:{{{Notable_instruments|{{{notable_instruments|}}}}}}|Notable instruments}}
+
+| class20    = note
+| data20     = {{{Notable_instruments|{{{notable_instruments|}}}}}}
+
+| data21     = {{{module|}}}
+| data22     = {{{module2|}}}
+| data23     = {{{module3|}}}
+
+}}<includeonly>{{ns0|[[Category:Articles with hCards]]{{Infobox musical artist/tracking|{{{Background|{{{background|}}}}}}}}{{#invoke:Check for unknown parameters | check | unknown={{main other|[[Category:Pages using Template:Infobox musical artist with unknown parameters|_VALUE_]]}}| preview = Page using [[Template:Infobox musical artist]] with unknown parameter "_VALUE_"|ignoreblank=y | embed | Background | background | honorific_prefix | Name | name | honorific_suffix | Img | image | Landscape | landscape | Img_size | image_size | image_upright | Img_upright | Img_alt | alt | Img_capt | caption | native_name | native_name_lang | Birth_name | birth_name | Alias | alias | birth_date | birth_place | Origin | origin | death_date | death_place | Genre | genre | Occupations | occupations | Occupation | occupation | Instrument | instrument | instruments | Years_active | years_active | yearsactive | Label | label | Associated_acts | associated_acts | website | URL | url | Current_members | current_members | Past_members | past_members | Notable_instruments | notable_instruments | module | module2 | module3 }}}}</includeonly><noinclude>
+{{Documentation}}
+<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

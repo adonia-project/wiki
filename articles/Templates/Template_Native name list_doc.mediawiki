@@ -1,0 +1,191 @@
+{{Documentation subpage}}
+{{Lua|Module:Native name}}
+This template creates a correctly formatted list of native names.  Typical uses would be the {{para|native name}} parameter common to many infoboxes.
+
+== Usage ==
+Like {{tlx|native name}}, but this template takes only enumerated parameter names.
+{{para|tag''n''}} and {{para|name''n''}} are required, in pairs. Do not skip suffix numbers ({{para|1=<nowiki>tag1=.. |tag3=..</nowiki>}} {{nay}}).
+
+These parameters are:
+<syntaxhighlight lang="wikitext">
+{{native name list
+|tag1      =
+|name1     =
+|italics1  =
+|paren1    =
+|parensize1=
+|nolink1   =
+|postfix1  =
+
+|tag2      =
+|name2     =
+|italics2  =
+|paren2    =
+|parensize2=
+|nolink2   =
+|postfix2  =
+}}
+</syntaxhighlight>
+
+{| class="wikitable sortable"
+! scope="col" | Parameter name
+! scope="col" | Description and examples
+! scope="col" | Required
+|-
+! scope="row" | {{para|tag{{var|n}}}}
+| The [[IETF language tag]] code for the native language. French, for instance, is "fr"; Spanish is "es"; Arabic is "ar"; etc.
+| yes
+|-
+! scope="row" | {{para|name{{var|n}}}}
+| The native name, in the native language (with accents, etc.).
+| yes
+|-
+! scope="row" | {{para|italics{{var|n}}}}<br/>{{smaller|(or {{para|italic{{var|n}}}})}}
+| Set to "off" or "no" to disable displaying the native name in italics.
+Example: {{para|italics{{var|n}}|off}}
+| no
+|-
+! scope="row" |  {{para|paren{{var|n}}}}<br/>{{smaller|(or {{para|icon{{var|n}}}})}}
+| Set to "omit", "off" or "no" to suppress the appearance of the native language's name in a parenthesis after the native name.
+Example: {{para|paren{{var|n}}|omit}}
+| no
+|-
+! scope="row" | {{para|parensize{{var|n}}}}<br/>{{smaller|(or {{para|fontsize{{var|n}}}})}}
+| Use to specify a font-size for the parenthesis. Per [[MOS:FONTSIZE]], do not make this text smaller in infoboxes, since the text is already at 88% of normal.
+Example: {{para|parensize{{var|n}}|90%}}
+| no
+|-
+! scope="row" | {{para|nolink{{var|n}}}}
+| Set to anything (e.g. "on") to suppress the appearance of the native language's name as a link.
+| no
+|-
+! scope="row" | {{para|postfix{{var|n}}}}
+| adds additional wikitext to list-item{{var|n}}; typical use might be references or for wikilinked 'language' name for those languages that do not have an IETF language tag; see examples
+| no
+|}
+
+== Examples ==
+
+{| class="wikitable"
+! scope="col" | Code
+! scope="col" | Result
+|-
+| width="33%"|<syntaxhighlight lang="wikitext">{{native name list
+|tag1=de  |name1=Etsch  |italics1=no
+|tag2=it  |name2=Adige
+|tag3=vec |name3=Àdexe  |parensize3=90%
+|tag4=rm  |name4=Adisch |paren4=omit
+|tag5=lld |name5=Adesc  |nolink5=yes}}</syntaxhighlight>
+|{{native name list
+|tag1=de|name1=Etsch|italics1=no
+|tag2=it|name2=Adige
+|tag3=vec|name3=Àdexe|parensize3=90%
+|tag4=rm|name4=Adisch|paren4=omit
+|tag5=lld|name5=Adesc|nolink5=yes}}
+|-
+!colspan="2"|html
+|-
+|colspan="2"|{{code|lang=html|{{native name list
+|tag1=de|name1=Etsch|italics1=no
+|tag2=it|name2=Adige
+|tag3=vec|name3=Àdexe|parensize3=90%
+|tag4=rm|name4=Adisch|paren4=omit
+|tag5=lld|name5=Adesc|nolink5=yes}}}}
+|-
+|<syntaxhighlight lang="wikitext">{{native name list
+|tag1=es|name1=Senda del Moro
+|tag2=mis|name2=Cuesta de Mr. Bourne
+|paren2=omit|postfix2=&nbsp;([[Llanito]])}}</syntaxhighlight>
+|{{native name list
+|tag1=es|name1=Senda del Moro
+|tag2=mis|name2=Cuesta de Mr. Bourne
+|paren2=omit|postfix2=&nbsp;([[Llanito]])}}
+|}
+
+==Tracking category==
+
+{{Category link with count|Native name list template errors}}
+
+==Template data==
+
+{{template data header}}
+
+<templatedata>
+{
+	"params": {
+		"tag1": {
+			"label": "language",
+			"description": "language code",
+			"example": "el, de",
+			"type": "string",
+			"required": true
+		},
+		"name1": {
+			"label": "name",
+			"description": "Name in foreign language",
+			"example": "ευρώ, herzlich willkommen",
+			"type": "string",
+			"required": true
+		},
+		"italic1": {
+			"aliases": [
+				"italics1"
+			],
+			"label": "italics",
+			"description": "\"off\" will prevent italicising the name",
+			"type": "boolean",
+			"default": "on"
+		},
+		"paren1": {
+			"label": "language name",
+			"description": "Language name in parenthesis",
+			"type": "boolean",
+			"default": "on"
+		},
+		"parensize1": {
+			"label": "language fontsize",
+			"description": "font-size of the language (parenthesised)",
+			"example": "90%",
+			"type": "number"
+		},
+		"tag2": {
+			"label": "language",
+			"description": "language code",
+			"type": "string"
+		},
+		"name2": {
+			"label": "name",
+			"description": "Name in foreign language",
+			"type": "string"
+		},
+		"italic2": {
+			"aliases": [
+				"italics2"
+			],
+			"label": "italics",
+			"type": "boolean",
+			"default": "on"
+		},
+		"paren2": {
+			"label": "language name",
+			"type": "boolean",
+			"default": "on"
+		},
+		"parensize2": {
+			"label": "language fontsize",
+			"type": "number"
+		}
+	},
+	"description": "As {{native name}}, but with multiple name-language options"
+}
+</templatedata>
+
+==See also==
+* [[IETF language tag]] list
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line -->
+[[Category:Wikipedia formatting templates]]
+[[Category:Name templates]]
+[[Category:Language templates]]
+}}</includeonly>

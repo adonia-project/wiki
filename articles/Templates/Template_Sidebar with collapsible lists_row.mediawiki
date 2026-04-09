@@ -1,0 +1,10 @@
+<div class="NavFrame {{#if:{{{expand|}}}||collapsed}}" style="border: none; padding: 0; {{{framestyle|}}}">
+    <div class="NavHead {{{titleclass|}}}" style="font-size: 105%; background: transparent; text-align: left; {{{titlestyle|}}}"><!--
+     -->{{#if:{{{title|}}} | {{{title}}} | List }}<!--
+ --></div>
+    <div class="NavContent {{{listclass|}}}" style="font-size: 105%; padding: 0.2em 0 0.4em; text-align: center; {{{liststyle|}}}"><!--
+     -->{{#if:{{{1|}}} | {{{1}}} }}<!--
+     --></div>
+</div><noinclude>
+{{documentation}}
+</noinclude>

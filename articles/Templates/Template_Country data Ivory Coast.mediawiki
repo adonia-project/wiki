@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Ivory Coast
+| flag alias = Flag of Côte d'Ivoire.svg
+| flag alias-1959 = Flag of Côte d'Ivoire (WFB 2009).gif
+| flag alias-2004 = Flag of Cote d'Ivoire (2004 World Factbook).gif
+| size = {{{size|}}}
+| variant = {{{variant|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| var1 = 1959
+| var2 = 2004
+| redir1 = CIV
+| redir2 = Côte d'Ivoire
+</noinclude>
+}}

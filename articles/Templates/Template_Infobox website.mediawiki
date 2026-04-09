@@ -1,0 +1,214 @@
+{{Infobox
+| bodyclass  = vcard
+| child = {{lc:{{{embed|}}}}}
+| decat = yes
+
+| titleclass = fn org
+| title      = {{if empty|{{{name|}}}|{{{company_name|}}}|{{{websitename|}}}|<includeonly>{{PAGENAMEBASE}}</includeonly>}}
+
+| image    = {{#invoke:InfoboxImage|InfoboxImage|image={{if empty|{{{company_logo|}}}|{{{logo|}}}|{{{websitelogo|}}}}}|size={{{logo_size|}}}|sizedefault=frameless|upright={{{image_upright|1}}}|alt={{{logo_alt|}}}}}
+| caption1 = {{if empty|{{{logo_caption|}}}|{{{logocaption|}}}}}
+| image2   = {{#if:{{{collapsible|}}}|{{hidden begin|title={{{collapsetext|Screenshot}}}|titlestyle=background:{{{background|gainsboro}}};text-align:center|contentstyle=text-align:center}}}}
+{{#invoke:InfoboxImage|InfoboxImage|image={{{screenshot|}}}|size={{{screenshot_size|}}}|sizedefault=300px|alt={{{screenshot_alt|}}}}}
+| caption2 = {{{caption|}}}{{#if:{{{collapsible|}}}|{{hidden end}}}}
+
+| label1  = {{longitem|Native name}}
+|  data1  = {{#if:{{{native_name|}}} | {{#if:{{{native_name_lang|}}} | {{lang|{{{native_name_lang}}}|{{{native_name}}} }} | {{{native_name}}} }} }}
+| label2  = {{longitem|[[Romanization|Romanized]] name}}
+|  data2  = {{{romanized_name|}}}
+| label3  = Formerly
+| class3  = nickname
+|  data3  = {{{former_names|{{{former_name|}}}}}}
+
+| label4   = Type of business
+| class4   = category
+| data4    = {{{company_type|}}}
+
+| label5   = {{longitem|Type of site}}
+| data5    = {{if empty|{{{website_type|}}}|{{{type|}}}}}
+
+| label6   = Available&nbsp;in
+| data6    = {{#if:{{{language_count|}}}
+  |{{{language_count}}} languages
+  |{{{language|}}}
+  }}{{{language_footnote|}}}
+| data7    = {{#if:{{both| {{{language_count|}}} | {{{language|}}}}}
+  |{{Begin hidden|titlestyle=background:transparent;color:inherit;|title=List of languages}}{{{language|}}}{{End hidden}}
+  }}
+
+| label8   = [[Ticker symbol|Traded&nbsp;as]]
+| data8    = {{{traded_as|}}}
+
+| label9   = Founded
+| data9    = {{if empty|{{{founded|}}}|{{{foundation|}}}}}
+
+| label10   = [[Dissolution (law)|Dissolved]]
+| data10    = {{{dissolved|}}}
+
+| label11   = Predecessor(s)
+| data11    = {{{predecessor|}}}
+
+| label12   = Successor(s)
+| data12    = {{{successor|}}}
+
+| label13  = Headquarters
+| class13  = {{#if:{{{headquarters|}}}{{{location|}}}|label|adr}}
+| data13   = {{comma separated entries
+     | 1= {{if empty|{{{headquarters|}}}|{{{location|}}}}}
+     | 2= {{#if:{{{location_city|}}}|<div style="display:inline;" class="locality">{{{location_city}}}</div>}}
+     | 3= {{#if:{{{country|}}}{{{location_country|}}}|<div style="display:inline;" class="country-name">{{if empty|{{{country|}}}|{{{location_country}}}}}</div>}}
+     }}
+
+| label14  = Country of origin
+| data14   = {{{country_of_origin|}}}
+
+| label15  = No.&nbsp;of locations
+| data15   = {{{locations|}}}
+
+| label16  = Area&nbsp;served
+| data16   = {{{area_served|}}}
+
+| label17  = Owner{{#if:{{{owners|}}}|s}}
+| data17   = {{if empty|{{{owners|}}}|{{{owner|}}}}}
+
+<!-- Essentially the same, but up to the editor to choose -->
+| label18  = Created&nbsp;by
+| data18   = {{if empty|{{{author|}}}|{{{creator|}}}|{{{authors|}}}|{{{creators|}}}}}
+
+| label19  = [[Organizational founder|Founder(s)]]
+| data19   = {{{founder|}}}
+
+| label20  = Editor{{#if:{{{editors|}}}|s}}
+| data20   = {{if empty|{{{editors|}}}|{{{editor|}}}}}
+
+| label21  = Chairman
+| data21   = {{{chairman|}}}
+
+| label22  = Chairperson
+| data22   = {{{chairperson|}}}
+
+| label23  = President
+| data23   = {{{president|}}}
+
+| label24  = CEO
+| data24   = {{{CEO|}}}
+
+| label25  = [[Chief executive officer|Managing director]]
+| data25   = {{{MD|}}}
+
+| label26  = General manager
+| data26   = {{{GM|}}}
+
+| label27  = Key&nbsp;people
+| data27   = {{{key_people|}}}
+
+| label28  = Industry
+| class28  = category
+| data28   = {{{industry|}}}
+
+| label29  = [[Product (business)|Products]]
+| data29   = {{{products|}}}
+
+| label30  = [[Service (economics)|Services]]
+| data30   = {{{services|}}}
+
+| label31  = [[Revenue]]
+| data31   = {{if empty|{{{revenue|}}}|{{{rev|}}}}}
+
+| label32  = [[Earnings before interest and taxes|Operating income]]
+| data32   = {{{operating_income|}}}
+
+| label33  = {{#ifeq:{{if empty|{{{international|}}}|{{{intl|}}}}}|yes|[[Net income|Profit]]|[[Net income]]}}
+| data33   = {{{net_income|}}}
+
+| label34  = [[Asset|Total assets]]
+| data34   = {{{assets|}}}
+
+| label35  = [[Equity (finance)|Total equity]]
+| data35   = {{{equity|}}}
+
+| label36  = Employees
+| data36   = {{if empty|{{{employees|}}}|{{{num_employees|}}}}}
+
+| label37  = [[Holding company|Parent]]
+| data37   = {{{parent|}}}
+
+| label38  = [[Division (business)|Divisions]]
+| data38   = {{{divisions|}}}
+
+| label39  = [[Subsidiary|Subsidiaries]]
+| data39   = {{if empty|{{{subsidiaries|}}}|{{{subsid|}}}}}
+
+| label40  = URL
+| class40  = url
+| data40   = {{if empty|{{{url|}}}|{{{website|}}}|{{{homepage|}}}}}
+
+| label41  = [[IPv6]] support
+| data41   = {{{ipv6|}}}
+
+| label43  = [[Online advertising|Advertising]]
+| data43   = {{{advertising|}}}
+
+| label44  = Commercial
+| data44   = {{{commercial|}}}
+
+| label45  = Registration
+| data45   = {{if empty|{{{registration|}}}|{{{reg|}}}}}
+
+| label46  = [[Registered user|Users]]
+| data46   = {{if empty|{{{users|}}}|{{{num_users|}}}}}
+
+| label47  = Launched
+| data47   = {{if empty|{{{launched|}}}|{{{launch_date|}}}|{{{date_of_launch|}}}}}
+
+| label48  = Current&nbsp;status
+| class48  = category
+| data48   = {{{current_status|}}}
+
+| label49  = [[Computing platform|Native client(s) on]]
+| data49   = {{{native_clients|}}}
+<!-- Spelled differently; see [[MOS:ENGVAR]] -->
+| label50  = {{#if:{{{content_license|}}}{{{license|}}}|{{longitem|Content license}}|{{longitem|Content licence}}}}
+| data50   = {{if empty|{{{content_license|}}}|{{{license|}}}|{{{content_licence|}}}|{{{licence|}}}}}
+
+| label51  = Written&nbsp;in
+| data51   = {{{programming_language|}}}
+
+| label52  = [[ISSN]]
+| data52   = {{ISSN link|1={{if empty|{{{issn|}}}|{{{ISSN|}}}}}|2={{if empty|{{{eissn|}}}|{{{eISSN|}}}}}}}
+
+| label53  = [[OCLC]]&nbsp;number
+| data53   = {{#if:{{{oclc|}}}|{{OCLC search link|{{{oclc}}} }} }}
+
+| data99   = {{{module|}}}
+
+| below    = {{{footnotes|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown=[[Category:{{main other|Pages using infobox website with unknown parameters|Non-articles using infobox website with unknown parameters}}|_VALUE_{{PAGENAME}}]]|preview=Page using [[Template:Infobox website]] with unknown parameter "_VALUE_"|ignoreblank=y| advertising | area_served | assets | author | authors | background | caption | CEO | chairman | chairperson | collapsetext | collapsible | commercial | company_logo | company_name | company_type | content_licence | content_license | country | country_of_origin | creator | creators | current_status | date_of_launch | dissolved | divisions | editor | editors | eISSN | eissn | embed | employees | equity | footnotes | former_name | former_names | foundation | founded | founder | GM | headquarters | homepage | industry | international | intl | ipv6 | ISSN | issn | key_people | language | language_count | language_footnote | launched | launch_date | licence | license | location | locations | location_city | location_country | logo | logocaption | logo_alt | logo_caption | logo_size | MD | module | name | native_clients | native_name | native_name_lang | net_income | num_employees | num_users | oclc | operating_income | owner | owners | parent | predecessor | president | products | programming_language | reg | registration | rev | revenue | romanized_name | screenshot | screenshot_alt | screenshot_size | services | subsid | subsidiaries | successor | traded_as | type | url | users | website | websitelogo | websitename | website_type
+}}{{#invoke:check for clobbered parameters|check
+| template = Infobox website
+| cat = {{main other|Category:Pages using infobox website with redundant parameters}}
+| name; company_name; websitename
+| former_name; former_names
+| company_logo; logo; websitelogo
+| logo_caption; logocaption
+| website_type; type
+| founded; foundation
+| headquarters; location
+| country; location_country
+| owners; owner
+| author; creator; authors; creators
+| editors; editor
+| revenue; rev
+| international; intl
+| employees; num_employees
+| subsidiaries; subsid
+| url; website; homepage
+| registration; reg
+| users; num_users
+| launched; launch_date; date_of_launch
+| content_license; license; content_licence; licence
+| issn; ISSN
+| eissn; eISSN
+}}<noinclude>
+{{documentation}}
+</noinclude>

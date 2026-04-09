@@ -1,0 +1,7 @@
+{{Navbox
+| name  = Aurelius System
+| title = Planets of the [[Aurelius system]]
+| state = {{{state|autocollapse}}}
+
+| list1 = [[Tartessos]] &middot; [[Ciguapa]] &middot; [[Mictlán]] &middot; [[Quetzal]] &middot; [[Adonia]] &middot; [[Aztlán]] &middot; [[Cíbola]] &middot; [[Amatista]] &middot; [[Alcázar]] &middot; [[Lucero]] &middot; [[Centinela]] &middot; [[Erebo]]
+}}

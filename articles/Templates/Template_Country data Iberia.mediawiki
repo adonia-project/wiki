@@ -1,0 +1,22 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Iberia
+| shortname alias = Iberia
+| flag alias = Flag of Iberia.png
+| flag alias-1515= Flag of the Iberian Empire.png
+| flag alias-1936= Flag of the Iberian Republic.png
+| flag alias-civil = 
+| flag alias-air force=
+| flag alias-army = 
+| flag alias-naval = 
+| link alias-air force =
+| link alias-army = 
+| link alias-naval = 
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1515
+| var2 = 1936
+</noinclude>
+}}

@@ -1,0 +1,24 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Zambia
+| flag alias = Flag of Zambia.svg
+| flag alias-1964 = Flag of Zambia (1964–1996).svg
+| flag alias-1996 = Flag of Zambia (Pantone).svg
+| flag alias-2000 = Flag of Zambia (WFB 2000).jpg
+| flag alias-2004 = Flag of Zambia (WFB 2004).gif
+| flag alias-air force=Air Force Ensign of Zambia.svg
+| link alias-air force=Zambian Air Force
+| link alias-army = Zambian Army
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = ZMB
+| redir2 = ZAM
+| var1 = 1964
+| var2 = 1996
+| var3 = 2000
+| var4 = 2004
+| related1 = Northern Rhodesia
+</noinclude>
+}}

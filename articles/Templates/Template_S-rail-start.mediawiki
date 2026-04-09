@@ -1,0 +1,7 @@
+{| class="wikitable" style="margin:0.5em auto; font-size:97%;{{#if:{{{noclear|}}}||clear:both;}} border-top: 0px none;"
+<noinclude>
+|}
+
+{{documentation}}
+<!-- Categories go on the /doc subpage and interwikis go on Wikidata. -->
+</noinclude>

@@ -1,0 +1,11 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Guinea
+| flag alias = Flag of Guinea.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = GIN
+| redir2 = GUI
+</noinclude>
+}}

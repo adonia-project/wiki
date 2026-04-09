@@ -1,0 +1,101 @@
+{{Documentation subpage}}
+<!--Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])-->
+
+{{Lua|Module:Infobox|Module:InfoboxImage|Module:Check for unknown parameters}}
+
+== Usage ==
+
+{{Parameter names example
+ | place           
+ | image            
+ | image_size        
+ | alt               
+ | caption           
+ | size_of_population 
+ | population_estimate_year
+ | population_figure_source
+ | density           
+ | growth             
+ | birth             
+ | death              
+ | life               
+ | life_male          
+ | life_female       
+ | fertility         
+ | infant_mortality   
+ | net_migration 
+ | age_0–14_years     
+ | age_15–64_years    
+ | under_18_years     
+ | age_18–44_years
+ | age_45-64_years 
+ | age_65_years      
+ | total_mf_ratio     
+ | sr_at_birth        
+ | sr_under_15         
+ | sr_15–64_years    
+ | sr_65_years_over   
+ | nation             
+ | major_ethnic        
+ | minor_ethnic       
+ | official           
+ | spoken             
+}}
+<syntaxhighlight lang="wikitext" style="overflow:auto;">
+{{Infobox place demographics
+ | place              = 
+ | image              = 
+ | image_size         =
+ | alt                =
+ | caption            = 
+
+<!-- main demographics -->
+ | size_of_population = 
+ | population_estimate_year =
+ | population_figure_source =
+ | density            = 
+ | growth             = 
+ | birth              = 
+ | death              = 
+ | life               = 
+ | life_male          = 
+ | life_female        = 
+ | fertility          = 
+ | infant_mortality   =
+ | net_migration      =
+
+<!-- age structure -->
+ | under_18_years     = 
+ | age_18–44_years    = 
+ | age_45-64_years    =
+ | age_65_years       = 
+ | age_0–14_years     =
+ | age_15–64_years    =
+<!-- sex ratio -->
+ | total_mf_ratio     = 
+ | sr_at_birth        = 
+ | sr_under_15        = 
+ | sr_15–64_years     = 
+ | sr_65_years_over   = 
+
+<!-- nationality -->
+ | nation             = 
+ | major_ethnic       = 
+ | minor_ethnic       = 
+
+<!-- language -->
+ | official           = 
+ | spoken             = 
+ | footnote           =
+}}</syntaxhighlight>
+
+== Categories ==
+* {{clc| Pages using infobox country demographics with unknown parameters}}
+<includeonly>{{Sandbox other||
+<!--Categories below this line, please; interwikis at Wikidata-->
+{{DEFAULTSORT:Infobox Place Demographics}}
+[[Category:Place-related infobox templates|Demographics]]
+[[Category:Demography templates| ]]
+
+[[pt:Predefinição:Info/Demografia de país]]
+}}</includeonly>

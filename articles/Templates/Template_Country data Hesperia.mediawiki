@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Hesperia
+| flag alias = Flag of Hesperia (3-2).svg
+| flag alias-1545 = Libertas.svg
+| flag alias-wide = Flag of Hesperia (simplified; 2-1).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| var1 = 1545
+| var2 = wide
+| redir1 = Hesperian League 
+| related1 = Hesperian League
+}}

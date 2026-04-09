@@ -1,0 +1,45 @@
+<includeonly>{{Infobox
+|above = {{{province_name}}}
+|aboveclass = fn org
+|abovestyle = white-space: nowrap; padding:.2em;
+| subheader = '''Crime rates* {{#if: {{{year|}}}|({{{year|}}})}}'''
+| subheaderstyle =  white-space: nowrap; background-color:#DCDCDC;color:#000000;
+
+| headerstyle =  white-space: nowrap; background-color:#DCDCDC;color:#000000;
+| header1 = Violent Criminal Code violations
+
+| label2 = {{W|Homicide}}
+| data2 = {{{homicide|}}}
+| label3 = {{W|Attempted murder}}
+| data3 = {{{attempted_murder|}}}
+| label4 = {{W|Sexual assault}}
+| data4 = {{{sexual_assault|}}}
+| label5 = {{W|Assault}}
+| data5 = {{{assault|}}}
+| label6 = {{W|Robbery}}
+| data6 = {{{robbery|}}}
+| label7 = {{W|Criminal harassment}}
+| data7 = {{{criminal_harassment|}}}
+| label8 = [[w:Threat|Uttering threats]]
+| data8 = {{{uttering_threats|}}}
+| label9 = Total violent crime violations
+| data9 = {{{violent_crime|}}}
+
+| header10 = {{W|Property crime}} violations
+| label11 = {{W|Breaking and entering}}
+| data11 = {{{breaking_and_entering|}}}
+| label12 = [[w:Motor vehicle theft|Theft of motor vehicle]]
+| data12 = {{{motor_vehicle_theft|}}}
+| label13 = [[w:Theft|Theft over $5,000]]
+| data13 = {{{theft_over_5000|}}}
+| label14 = [[w:Theft|Theft under $5,000]]
+| data14 = {{{theft_under_5000|}}}
+| label15 = {{W|Mischief}}
+| data15 = {{{mischief|}}}
+| label16 = Total property crime violations
+| data16 = {{{property_crime|}}}
+
+| belowstyle =  border-top: 1px solid #aaa; font-size:88%;
+| below ={{align|left|'''Notes'''}}<br>{{align|left|*Number of reported crimes per 100,000 population.}}<br>{{align|left|{{{notes|}}}}}{{#if:{{{source_name|}}}{{{source_url|}}}|<br>'''Source''': [{{{source_url|}}} {{{source_name|}}}]}}
+
+}}</includeonly><noinclude>{{documentation}}<!-- PLEASE ADD CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS --></noinclude>

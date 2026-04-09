@@ -1,0 +1,4 @@
+{{#invoke:Box-header|boxHeader}}<noinclude>
+{{Box-footer}}
+{{documentation}}
+</noinclude>

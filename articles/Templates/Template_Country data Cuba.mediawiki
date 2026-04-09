@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Cuba
+| flag alias = Flag of Cuba.svg
+| flag alias-naval =  Naval Jack of Cuba.svg
+| link alias-naval = Cuban Revolutionary Navy
+| flag alias-1902 = Flag of Cuba (1902–1906).svg
+| link alias-army = Cuban Revolutionary Army
+| flag alias-navy =  Naval Jack of Cuba.svg
+| link alias-navy = Cuban Revolutionary Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant= {{{variant|}}}
+<noinclude>
+| var1 = 1902
+| redir1 = CUB
+| redir2 = Republic of Cuba
+</noinclude>
+}}

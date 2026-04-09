@@ -1,0 +1,14 @@
+{{safesubst<noinclude />: {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Burawa
+| flag alias = Flag of Burawa.svg
+| flag alias-23px = Flag of Burawa (23px).png
+| {{#ifeq:{{{altlink}}}|A national rugby union team|link alias-rugby union|empty}} = Burawa Selects
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1932
+</noinclude>
+}}

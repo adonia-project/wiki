@@ -1,0 +1,150 @@
+{{#if: {{both|{{{category}}}|{{{auto-category}}}}}
+| {{#if: {{#invoke:Storm categories|isEqual|{{{category}}}|{{{auto-category}}}}}
+  | {{preview warning|Supplied category '{{{category}}}' is redundant; automatic category returns the same value.}}
+  }}
+}}{{Infobox
+  | decat = yes
+  | child = {{{child|<includeonly>yes</includeonly>}}}
+  | bodystyle = {{#if: {{yesno|{{{child|<includeonly>yes</includeonly>}}}}} | {{{bodystyle|<includeonly>border-collapse: collapse</includeonly>}}} }}
+  
+  | rowstyle1 = {{#if: {{{header-style|}}} | {{{header-style}}} | font-size: 100%; {{#if: {{yesno|{{{current|{{{live|}}}}}}}} || background-color: #{{Storm colour|{{#if: {{{category|}}} | {{{category}}} | {{{auto-category|}}} }}}} }} }}
+  | {{#if: {{yesno|{{{current|{{{live|}}}}}}}} | data1 | header1 }} = {{#if: {{yesno|{{{no-header|}}}}} 
+    || {{#if: {{{header|}}} 
+      | {{{header}}} 
+      | {{#if: {{yesno|{{{current|{{{live|}}}}}}}}
+        | <div style="display: flex; align-items: stretch;">
+          <div style="flex: initial; padding: 0.3em; width: 2.6em; display: flex; justify-content: center; align-items: center; background-color: #{{Storm colour|{{#if: {{{category|}}} | {{{category}}} | {{{auto-category|}}} }}}}" role="presentation" aria-hidden>{{storm icon|{{#if: {{{category|}}} | {{{category}}} | {{{auto-category|}}} }}}}</div>
+          <div style="flex: initial; width: 0.4em;" role="presentation" aria-hidden></div>
+          <div style="flex: 1; padding: 0.3em 0.5em; line-height: 1.3em; display: flex; justify-content: center; align-items: center; background-color: #{{Storm colour|{{#if: {{{category|}}} | {{{category}}} | {{{auto-category|}}} }}}}"><span class="nowrap">Currently-active<br/>'''{{Tc nom list|{{#if: {{{category|}}} | {{{category}}} | {{{auto-category|}}} }}|{{{basin|}}}}}{{{header-suffix|}}}'''</span></div>
+        </div>
+        | <span class="nowrap">{{Tc nom list|{{#if: {{{category|}}} | {{{category}}} | {{{auto-category|}}} }}|{{{basin|}}}}}{{{header-suffix|}}}</span>
+      }}
+    }}
+  }}
+  
+  | data2 = {{#if: {{{subheader|}}}
+    | {{{subheader|}}}
+    | {{#if: {{{interval|}}}
+      | ''{{{interval}}}-minute sustained'' {{{post-interval|{{{postinterval|}}}}}} {{#if: {{both|{{{agency|}}}|{{{scale|}}}}}
+        | ({{{scale|}}}/{{{agency|}}}) <!-- (RSI/NOAA) -->
+        | {{#if: {{{scale|}}} | ({{{scale}}}) }}{{#if: {{{agency|}}} | ({{{agency}}}) }} <!-- (JMA) -->
+      }}
+      | {{#if: {{both|{{{agency|}}}|{{{scale|}}}}}
+        | {{{scale|}}} ({{{agency|}}}) <!-- RSI (NOAA) -->
+        | {{{scale|{{{agency|}}}}}} <!-- NOAA -->
+      }}
+    }}
+  }}
+
+  | label3 = {{#if: {{yesno|{{{current|{{{live|}}}}}}}} | Sustained&nbsp;winds | Highest&nbsp;winds }}
+  | data3 = {{#if: {{{winds|}}}
+    | {{#ifeq: {{isnum|{{{winds|}}}}} | 1
+      | {{#switch: {{lc:{{{basin|}}}}}
+        | atl | epac = 
+          {{{winds-prefix|}}}{{#expr:
+            ((1.151 * {{{winds|}}}) / 5 round 0) * 5
+          }}&nbsp;mph ({{{winds-prefix|}}}{{#expr:
+            ((1.852 * {{{winds|}}}) / 5 round 0) * 5
+          }}&nbsp;km/h)
+        | #default = 
+          {{{winds-prefix|}}}{{#expr:
+            ((1.852 * {{{winds|}}}) / 5 round 0) * 5
+          }}&nbsp;km/h ({{{winds-prefix|}}}{{#expr:
+            ((1.151 * {{{winds|}}}) / 5 round 0) * 5
+          }}&nbsp;mph)
+        }}
+      | {{{winds}}}
+    }}{{{winds-suffix|}}}
+  }}
+
+  | label4 = {{#if: {{yesno|{{{current|{{{live|}}}}}}}} | Gusts | Highest&nbsp;gusts }}
+  | data4 = {{#if: {{{gusts|}}}
+    | {{#ifeq: {{isnum|{{{gusts|}}}}} | 1
+      | <span class="nowrap">{{{gusts-prefix|}}}{{#switch: {{lc:{{{basin|}}}}}
+        | atl | epac = 
+          {{{gusts-prefix|}}}{{#expr: 
+            ((1.151 * {{{gusts|}}}) / 5 round 0) * 5 
+          }}&nbsp;mph ({{{gusts-prefix|}}}{{#expr: 
+            ((1.852 * {{{gusts|}}}) / 5 round 0) * 5
+          }}&nbsp;km/h)
+        | #default = 
+          {{{gusts-prefix|}}}{{#expr:
+            ((1.852 * {{{gusts|}}}) / 5 round 0) * 5
+          }}&nbsp;km/h ({{{gusts-prefix|}}}{{#expr:
+            ((1.151 * {{{gusts|}}}) / 5 round 0) * 5
+          }}&nbsp;mph)
+        }}</span>
+      | {{{gusts}}}
+    }}{{{gusts-suffix|}}}
+  }}
+
+  | label5 = <span style="white-space: nowrap;">[[Beaufort scale]]</span>
+  | data5 = {{{beaufort-scale|{{{beaufort scale|}}}}}}
+
+  | label6 = {{#if: {{yesno|{{{current|{{{live|}}}}}}}} | Pressure | Lowest&nbsp;pressure }}
+  | data6 = {{#if: {{{pressure|}}}
+    | {{#if: {{isnum|{{{pressure|}}}}}
+      | <span class="nowrap">{{{pressure-prefix|}}}{{{pressure|}}} {{#switch: {{lc:{{{basin|}}}}}
+        | atl | epac = [[Bar (unit)|mbar]] ([[Pascal (unit)|hPa]])
+        | #default = [[Pascal (unit)|hPa]] ([[Bar (unit)|mbar]])
+      }}; {{{pressure-prefix|}}}{{convert|{{{pressure|}}}|{{#switch: {{lc:{{{basin|}}}}}
+        | atl | epac = mbar
+        | #default = hPa
+      }}|inHg|disp=number|sigfig=4}}&nbsp;[[Inch of mercury|inHg]]</span>
+      | {{{pressure|}}}
+    }}{{{pressure-suffix|}}}
+  }}
+
+  | label7 = {{#if: {{yesno|{{{current|{{{live|}}}}}}}} | Temperature | Lowest&nbsp;temperature }}
+  | data7 = {{#if: {{{lowest-temperature|{{{lowest temperature|}}}}}}
+    | {{#ifeq: {{isnum|{{{lowest-temperature|{{{lowest temperature|}}}}}}}} | 1
+      | <span class="nowrap">{{{temperature-prefix|}}}{{replace|{{{lowest-temperature|{{{lowest temperature|}}}}}}|-|&#8722;}}&nbsp;{{#switch: {{lc:{{{basin|}}}}}
+        | atl | epac = &deg;F
+        | #default = &deg;C
+      }} ({{{temperature-prefix|}}}{{convert|{{{lowest-temperature|{{{lowest temperature|}}}}}}|{{#switch: {{lc:{{{basin|}}}}}
+        | atl | epac = F
+        | #default = C
+      }}|{{#switch: {{lc:{{{basin|}}}}}
+        | atl | epac = C
+        | #default = F
+      }}|disp=number|sigfig=4}}&nbsp;{{#switch: {{lc:{{{basin|}}}}}
+        | atl | epac = &deg;C
+        | #default = &deg;F 
+      }})</span>
+      | {{{lowest-temperature|{{{lowest temperature|}}}}}}
+    }}{{{temperature-suffix|}}}
+  }}
+
+  | label8 = Largest&nbsp;hail
+  | data8 = {{#if: {{{largest-hail|{{{largest hail|}}}}}}
+    | {{#ifeq: {{isnum|{{{largest-hail|{{{largest hail|}}}}}}}} | 1
+      | <span class="nowrap">{{convert|{{{largest-hail|{{{largest hail|}}}}}}|{{#switch: {{{basin|}}}
+        | atl | epac = in
+        | #default = cm
+      }}|abbr=on}}</span>
+      | {{{largest-hail|{{{largest hail|}}}}}}
+    }}{{{largest-hail-suffix|}}}
+  }}
+
+  | label9 = Maximum&nbsp;rainfall
+  | data9 = {{#if: {{{maximum-rain|{{{maximum rain|}}}}}}
+    | {{#ifeq: {{isnum|{{{maximum-rain|{{{maximum rain}}}}}}}} | 1
+      | <span class="nowrap">{{convert|{{{maximum-rain|{{{maximum rain|}}}}}}|{{#switch: {{{basin|}}}
+        | atl | epac = in
+        | #default = cm
+      }}|sigfig=4|abbr=on}}</span>
+      | {{{maximum-rain|{{{maximum rain}}}}}}
+    }}{{{maximum-rain-suffix|}}}
+  }}
+
+  | label10 = Maximum&nbsp;snowfall or ice&nbsp;accretion
+  | data10 = {{#if: {{{maximum-snow|{{{maximum snow|}}}}}}
+    | {{#ifeq: {{isnum|{{{maximum-snow|{{{maximum snow}}}}}}}} | 1
+      | <span class="nowrap">{{convert|{{{maximum-snow|{{{maximum snow|}}}}}}|{{#switch: {{{basin|}}}
+        | atl | epac = in
+        | #default = cm
+      }}|sigfig=4|abbr=on}}</span>
+      | {{{maximum-snow|{{{maximum snow}}}}}}
+    }}{{{maximum-snow-suffix|}}}
+  }}
+}}<noinclude>{{Documentation}}</noinclude>

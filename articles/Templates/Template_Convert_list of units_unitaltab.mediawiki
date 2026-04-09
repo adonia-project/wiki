@@ -1,0 +1,14 @@
+<noinclude>{| class="wikitable"
+</noinclude>|-
+|style="text-align:center;vertical-align:top;"|{{{1|tf}}}{{#if:{{{altab|}}}|{{#if:{{{br|}}}|<br />|&nbsp;}}({{{altab}}})}}
+|style="text-align: center; vertical-align: top;font-size:85%;{{#if:{{{qid|}}}||padding:0;width:0;}}"|{{#if:{{{qid|}}}|[[d:Q{{{qid}}}|Q{{{qid}}}]]}}
+|style="text-align:center;vertical-align:top;"|{{convert|1|{{{1|tf}}}|disp=unit|abbr=on}}
+|style="vertical-align:top;"|<noinclude>
+|}
+{{documentation|content=
+== Usage ==
+<code><nowiki>{{Convert/list of units/unitaltab|unit|altab=|br=}}</nowiki></code>
+== See also ==
+{{Special:PrefixIndex/Template:Convert/list of units/unit}}
+[[Category:Subtemplates of Template Convert/documentation formatting templates|unitaltab]]
+}}</noinclude>

@@ -1,0 +1,6 @@
+<includeonly>{{{{{|safesubst:}}}#ifexist:{{{1|}}}
+ |[[{{{1}}}|{{{2|{{{1}}}}}}]]
+ |{{{2|{{{1}}}}}}
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

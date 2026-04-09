@@ -1,0 +1,49 @@
+{{Sidebar with collapsible lists
+|name = Obodo àlàáfíà sidebar
+|pretitle = Part of a series on
+|titlestyle=font-size:200%;font-weight:normal;
+|title = [[Obodo àlàáfíà]]
+|imagestyle = padding:0.4em 0 0.4em;
+|image = [[File:Obwujo alaafia flag.png|220px]]
+|listtitlestyle = border-top:1px solid e13439;background:transparent;text-align:center;
+|expanded = {{{expanded|{{{1|}}}}}}
+|list1name = concepts
+|list1title = Concepts
+|list1class = hlist
+|list1 =
+*{{W|State consequentialism}}
+* {{W|Anti-imperialism}}
+*{{W|Eco-socialism}}
+*{{W|Market socialism}}
+*{{W|Liquid democracy}}
+*{{W|African communalism|Kaftian communalism}}
+*{{W|Cooperative economics}}
+*{{W|Degrowth}}
+*[[w:Internationalism (politics)|Internationalism]]
+*[[Pan-Kaftianism]]
+*{{W|Social ownership}}
+*{{W|Digital socialism}}
+*{{W|Unitary urbanism}}
+|list3name = people
+|list3title = People
+|list3class = hlist
+|list3 =
+* [[tba]]
+|list4name = history
+|list4title = History
+|list4class = hlist
+|list4 =
+* [[Politics of Sanyan]]
+|list6name = related
+|list6title = Organizations
+|list6class = hlist
+|list6 =
+* [[Alaafia Party]]
+|belowclass = plainlist
+|belowstyle = font-weight:normal; border-top:1px solid #CC0000; border-bottom:1px solid #CC0000;
+| below = 
+*{{flagicon image|Flag of Sanyan.svg}} [[Portal:Sanyan|Sanyan portal]]
+}}<noinclude>
+{{Documentation}}
+<!-- Add categories to the /doc subpage, interwikis to Wikidata, not here -->
+</noinclude>

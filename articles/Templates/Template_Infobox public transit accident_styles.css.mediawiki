@@ -1,0 +1,43 @@
+/* {{pp-template}} */
+.ib-public-transit-accident .infobox-above {
+	background-color: #8A4437; color:
+	white; font-size: 125%;
+}
+
+.ib-public-transit-accident .infobox-header {
+	background-color: #8A4437;
+	color: white;
+}
+
+/* always light background for images */
+.ib-public-transit-accident .infobox-image img, .ib-public-transit-accident .ib-route-map-image img {
+	background-color: #f8f9fa;
+}
+
+.ib-public-transit-accident .infobox-label {
+	white-space:nowrap;
+	padding-right:0.65em; /*(to ensure gap between any long/nonwrapped label and subsequent data on same line*/
+}
+
+.ib-public-transit-accident .infobox-data {
+	line-height:1.3em;
+}
+
+.ib-public-transit-accident .ib-route-map {
+	width: 100%; 
+	border-collapse: collapse;
+}
+
+.ib-public-transit-accident .ib-route-map-name {
+	text-align: center; 
+	background-color: #8A4437; 
+	color: white;
+}
+
+.ib-public-transit-accident .ib-route-map-image {
+	text-align: center;
+}
+
+.ib-public-transit-accident .infobox-below {
+	border-top:1px #aaa solid;
+}

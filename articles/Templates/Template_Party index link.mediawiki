@@ -1,0 +1,4 @@
+{{#invoke:Party name with color|box|outline={{#if:{{{border|}}}|{{{border}}}|}}|shortname={{#if:{{{2|}}}|{{{2}}}|}}}}<!--
+-->{{#invoke:Check for unknown parameters|check|unknown=[[Category:Pages using party index link with unknown parameters|_VALUE_{{PAGENAME}}]]|preview=Page using [[Template:Party index link]] with unknown parameter "_VALUE_"| 1 | 2 | border }}<noinclude>
+{{Documentation}}
+</noinclude>

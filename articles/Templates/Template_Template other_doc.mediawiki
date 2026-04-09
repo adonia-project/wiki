@@ -1,0 +1,59 @@
+{{Documentation subpage}}
+{{Template shortcut|ns10}}
+{{High-risk||yes}}
+{{cascade-protected template}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+
+This is a meta-template which helps other templates detect whether they are used in the "Template:" namespace.
+
+==Usage==
+This template usually takes one or two parameters:
+: {{tc|Template other&nbsp;|''[result/action if on a template page]''&#32;(|''[result/action if on another type of page]'')}}
+
+For example, if {{tlf|Template other&#32;|On template page&#32;|Not on template page}} were on a "Template:" page, it would return:
+: {{Template other |On template page |Not on template page}}
+On any other type of page (e.g. "Wikipedia:", "User:") it would return:
+: {{Template other|demospace=other |On template page |Not on template page}}
+
+A typical use is to manage the categorization of template pages. Adding {{tlf|Template other&nbsp;|&#32;|{{!((}}Category:''[category name]''{{))!}}}} to a template, for instance, means it would only categorize a page when that page isn't a template page. (The first parameter consists of nothing, so no action taken if/when the template is on a template page.)
+
+==Demospace==
+The parameter {{mono|demospace}} can be used to demonstrate or test this template. By default, it is undefined and has no effect on the template's action, but:
+* when set as "template" ({{para|demospace|template}}), it prompts the template to return the ''first'' result/action above (i.e. to behave as if on a "Template:" page) even if the template is on a different type of page;
+* when set as "other" ({{para|demospace|other}}), it prompts the template to return the ''second'' result/action above (i.e. to behave as if not on a "Template:" page) even if the template is on a "Template:" page.
+For example:
+<syntaxhighlight lang="wikitext">
+{{Template other
+| demospace = template
+| Template page text 
+| Other pages text 
+}}
+</syntaxhighlight>
+No matter on what kind of page the code above is used, it returns:
+{{Template other
+| demospace = template
+| Template page text 
+| Other pages text 
+}}
+
+You can make it so your template also understands the '''demospace''' parameter. That means you can demonstrate the different appearances of your template in the documentation for your template. Then do like this:
+
+<syntaxhighlight lang="wikitext">
+{{template other 
+| Template page text 
+| Other pages text 
+| demospace = {{{demospace|}}}
+}}
+</syntaxhighlight>
+
+==Technical details==
+This template detects "Template talk:" pages as type '''other'''. For more details relevant to this template, see {{tl|Main talk other}}, which works similarly.
+
+
+{{Namespace and pagename-detecting templates}}
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Namespace manipulation templates]]
+[[Category:Template namespace templates]]
+}}</includeonly>

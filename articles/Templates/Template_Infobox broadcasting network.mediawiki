@@ -1,0 +1,180 @@
+{{Infobox
+| bodyclass  = vcard
+| titleclass = fn org
+| title = {{{network_name|{{{name|}}}}}}
+| imageclass = logo
+| image      = {{#invoke:InfoboxImage|InfoboxImage |image={{{network_logo|{{{logo|}}}}}} |size={{{network_logo_size|{{{logo_size|{{{logosize|}}}}}}}}} |sizedefault=frameless |alt={{{network_logo_alt|{{{logo_alt|}}}}}} }}
+| caption    = {{{network_logo caption|{{{logo caption|{{{logo_caption|}}}}}}}}}
+| image2     = {{#if:{{{collapsible|}}} |{{Hidden begin|title=Screenshot|titlestyle=text-align:center;}}}} {{#invoke:InfoboxImage|InfoboxImage |image={{{image|{{{screenshot|}}}}}} |size={{{image_size|{{{screenshot_size|}}}}}} |sizedefault=300px |alt={{{image_alt|{{{screenshot_alt|}}}}}} }}
+| caption2   = {{{caption|}}} {{#if:{{{collapsible|}}} |{{Hidden end}}}}
+| labelstyle = padding-right:1.0em<!--keeps labels and data separate-->;
+
+| label1  = Type
+| class1  = category
+|  data1  = {{{network_type|{{{type|}}}}}}
+
+| label2  = Branding
+|  data2  = {{{branding|}}}
+
+| label3  = Country
+| class3  = adr
+|  data3  = {{#if:{{{country|}}} |<div style="display:inline;" class="country-name">{{{country}}}</div>}}
+
+| label4  = {{longitem|First air&nbsp;date}}
+|  data4  = {{{airdate|}}}
+
+| label5  = Availability
+|  data5  = {{{available|}}}
+
+| label6  = Founded
+|  data6  = {{{founded|}}}{{{foundation|}}} {{#if:{{{founded|}}} |{{#if:{{{founder|}}}|<br/>by {{{founder}}} }} }}
+
+| label7  = [[Motto]]
+|  data7  = {{{motto|}}}
+
+| label9 = TV stations
+|  data9 = {{{tvstations|}}}
+
+| label10 = TV transmitters
+|  data10 = {{{tvtransmitters|}}}
+
+| label11 = Radio stations
+|  data11 = {{{radiostations|}}}
+
+| label12 = Radio transmitters
+|  data12 = {{{radiotransmitters|}}}
+
+| label13  = {{longitem|[[Market share]]}}
+|  data13  = {{{market_share|}}}
+
+| label14 = [[Financial endowment|Endowment]]
+|  data14 = {{{endowment|}}}
+
+| label15 = [[Revenue]]
+|  data15 = {{{revenue|}}}
+
+| label16 = {{longitem|[[Net income]]}}
+|  data16 = {{{net_income|}}}
+
+| label17 = {{longitem|Licence area}}
+|  data17 = {{{license_area|{{{licence_area|}}}}}}
+
+| label18 = Headquarters
+|  data18 = {{{headquarters|{{{headquarters|}}}}}}
+
+| label19 = {{longitem|Broadcast area}}
+|  data19 = {{{broadcast_area|}}}
+
+| label20 = Area
+| class20 = label
+|  data20 = {{{area|}}}
+
+| label21 = Nation <!-- for BBC stations -->
+|  data21 = {{{nation|}}}
+
+| label22 = Regions <!-- for BBC stations -->
+|  data22 = {{{regions|}}}
+
+| label23 = [[Effective radiated power|ERP]]
+|  data23 = {{{erp|}}}
+
+| label24 = Owner
+|  data24 = {{{owner|}}}
+
+| label25 = Parent
+|  data25 = {{{parent|}}}
+
+| label26 = {{longitem|Key people}}
+|  data26 = {{{key_people|{{{keypeople|}}}}}}
+
+| label27 = Established
+|  data27 = {{{established|}}}
+
+| label28 = {{longitem|[[Test card]]}}
+|  data28 = {{{test_card|{{{test card|}}}}}}
+
+| label29 = {{longitem|Transmission test}}
+|  data29 = {{{test_of_transmission|{{{test of transmission|}}}}}}
+
+| label30 = {{longitem|Launch date}}
+|  data30 = {{{launch_date|{{{launched|{{{launch date|}}}}}}}}}
+
+| label31 = Dissolved
+|  data31 = {{{closure_date|{{{closed|{{{dissolved|}}}}}}}}}
+
+| label32 = {{longitem|Former names}}
+|  data32 = {{{past_names|{{{former_names|}}}}}}
+
+| label33 = {{longitem|[[Digital terrestrial television|Digital channel(s)]]}}
+|  data33 = {{{digital|}}}
+
+| label34 = {{longitem|[[Virtual channel|Virtual channel(s)]]}}
+|  data34 = {{{virtual channel|}}}
+
+| label35 = {{longitem|[[Analog television|Analogue channel(s)]]}}
+|  data35 = {{{analog|}}}
+
+| label36 = {{longitem|[[Analog television|Analog channel(s)]]}}
+|  data36 = {{{Analog channel|{{{analog channel|}}}}}}
+
+| label37 = {{longitem|Picture format}}
+|  data37 = {{{Picture format|{{{picture format|}}}}}}
+
+| label38 = {{longitem|{{{servicename1|}}}}}
+|  data38 = {{{service1|}}}
+| label39 = {{longitem|{{{servicename2|}}}}}
+|  data39 = {{{service2|}}}
+| label40 = {{longitem|{{{servicename3|}}}}}
+|  data40 = {{{service3|}}}
+| label41 = {{longitem|{{{servicename4|}}}}}
+|  data41 = {{{service4|}}}
+| label42 = {{longitem|{{{servicename5|}}}}}
+|  data42 = {{{service5|}}}
+| label43 = {{longitem|{{{servicename6|}}}}}
+|  data43 = {{{service6|}}}
+| label44 = {{longitem|{{{servicename7|}}}}}
+|  data44 = {{{service7|}}}
+
+| label45 = <span style="white-space:nowrap;">[[Call sign|Callsigns]]</span>
+|  data45 = {{{callsign|{{{callsigns|}}}}}}
+| label46 = {{longitem|Callsign meaning}}
+|  data46 = {{{callsign_meaning|}}}
+| label47 = {{longitem|Former callsigns}}
+|  data47 = {{{former_callsigns|}}}
+
+| label48 = [[Network affiliate|Affiliation(s)]]
+|  data48 = {{{affiliations|{{{affiliation|}}}}}}
+| label49 = <span style="white-space:nowrap;">[[Network affiliate|Affiliates]]</span>
+|  data49 = {{{affiliates|}}}
+| label50 = Group
+|  data50 = {{{groups|}}}
+| label51 = {{longitem|Former [[Network affiliate|affiliations]]}}
+|  data51 = {{{former_affiliations|}}}
+
+| label52 = [[Webcast]]
+|  data52 = {{{webcast|}}}
+
+| label53 = {{longitem|Official website}}
+|  data53 = {{{website|}}}
+
+| label54 = Language
+|  data54 = {{{language|}}}
+
+| label55 = Replaced
+|  data55 = {{{replaced|}}}
+
+| label56 = Replaced&nbsp;by
+|  data56 = {{{replaced_by|}}}
+
+| label57 = Subsidiary
+|  data57 = {{{subsidiary|}}}
+
+|  data58 = {{#if:{{{footnotes|}}} |<div style="text-align:left;">'''Notes'''<br/>{{{footnotes}}}</div>}}
+
+}}{{#invoke:Check for unknown parameters | check | ignoreblank = y
+| unknown = {{Main other|[[Category:Pages using Infobox broadcasting network with unknown parameters|_VALUE_{{PAGENAME}}]]}}
+| preview = Page using [[Template:Infobox broadcasting network]] with unknown parameter "_VALUE_"
+| network_name | name | network_logo | logo | network_logo_size | logo_size | logosize | network_logo_alt | logo_alt | network_logo caption | logo caption | logo_caption | collapsible | image | screenshot | image_size | screenshot_size | image_alt | screenshot_alt | caption | network_type | type | branding | country | airdate | available | founded | foundation | founder | motto | tvstations | tvtransmitters | radiostations | radiotransmitters | market_share | endowment | revenue | net_income | license_area | licence_area | headquarters | broadcast_area | area | nation | regions | erp | owner | parent | key_people | keypeople | established | test_card | test card | test of transmission | test_of_transmission | launch_date | launched | launch date | closure_date | closed | dissolved | past_names | former_names | digital | virtual channel | analog | Analog channel | analog channel | Picture format | picture format | servicename1 | service1 | servicename2 | service2 | servicename3 | service3 | servicename4 | service4 | servicename5 | service5 | servicename6 | service6 | servicename7 | service7 | callsign | callsigns | callsign_meaning | former_callsigns | affiliations | affiliation | affiliates | groups | former_affiliations | webcast | website | language | replaced | replaced_by | subsidiary | footnotes
+}}<noinclude>
+{{Documentation}}
+</noinclude>

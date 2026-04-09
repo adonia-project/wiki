@@ -1,0 +1,133 @@
+<includeonly>{{infobox
+|abovestyle = text-align:left; font-weight:normal; font-size:100%; border-bottom:solid 1px silver;
+|above = '''[[Population pyramid]]''' {{#if:{{{year|}}|<small>{{{year}}}</small>}}
+|datastyle = padding:0;
+|data1 = 
+{{aligned table|cols=5
+|style=width:100%;margin:0;
+|col1style = font-size:x-small
+|col2style = text-align:right;border-left:solid 1px silver;border-right:solid 1px silver; width:{{#expr:{{{mmax|9}}}*{{{scale|10}}}}}px
+|col3style = font-size:x-small
+|col4style = text-align:left;border-left:solid 1px silver;border-right:solid 1px silver; width:{{#expr:{{{mmax|9}}}*{{{scale|10}}}}}px
+|col5style = font-size:x-small
+<!-- -->
+|style1.1=font-size:100%;|%
+|style1.2=text-align:left;|Males
+|style1.3=font-size:100%;|Age
+|style1.4=text-align:left;|Females
+|style1.5=font-size:100%;|%
+<!-- -->
+| {{formatnum:{{{m85|n/d}}} }}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m85|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 85+
+| <div style{{=}}"background:pink; width:{{#expr:{{{f85|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f85|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m80|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m80|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 80–84
+| <div style{{=}}"background:pink; width:{{#expr:{{{f80|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f80|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m75|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m75|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 75–79
+| <div style{{=}}"background:pink; width:{{#expr:{{{f75|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f75|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m70|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m70|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 70–74
+| <div style{{=}}"background:pink; width:{{#expr:{{{f70|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f70|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m65|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m65|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 65–69
+| <div style{{=}}"background:pink; width:{{#expr:{{{f65|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f65|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m60|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m60|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 60–64
+| <div style{{=}}"background:pink; width:{{#expr:{{{f60|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f60|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m55|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m55|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 55–59
+| <div style{{=}}"background:pink; width:{{#expr:{{{f55|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f55|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m50|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m50|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 50–54
+| <div style{{=}}"background:pink; width:{{#expr:{{{f50|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f50|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m45|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m45|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 45–49
+| <div style{{=}}"background:pink; width:{{#expr:{{{f45|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f45|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m40|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m40|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 40–44
+| <div style{{=}}"background:pink; width:{{#expr:{{{f40|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f40|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m35|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m35|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 35–39
+| <div style{{=}}"background:pink; width:{{#expr:{{{f35|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f35|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m30|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m30|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 30–34
+| <div style{{=}}"background:pink; width:{{#expr:{{{f30|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f30|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m25|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m25|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 25–29
+| <div style{{=}}"background:pink; width:{{#expr:{{{f25|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f25|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m20|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m20|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 20–24
+| <div style{{=}}"background:pink; width:{{#expr:{{{f20|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f20|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m15|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m15|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 15–19
+| <div style{{=}}"background:pink; width:{{#expr:{{{f15|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f15|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m10|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m10|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 10–14
+| <div style{{=}}"background:pink; width:{{#expr:{{{f10|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f10|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m5|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m5|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 5–9
+| <div style{{=}}"background:pink; width:{{#expr:{{{f5|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f5|n/d}}}}}
+<!-- -->
+| {{formatnum:{{{m0|n/d}}}}}
+| <div style{{=}}"background:lightblue; width:{{#expr:{{{m0|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| 0–4
+| <div style{{=}}"background:pink; width:{{#expr:{{{f0|0}}}*{{{scale|10}}}}}px; overflow:hidden">&nbsp;</div>
+| {{formatnum:{{{f0|n/d}}}}}
+}}
+}}</includeonly><noinclude>
+
+{{documentation}}
+
+[[Category:Population templates]]
+</noinclude>

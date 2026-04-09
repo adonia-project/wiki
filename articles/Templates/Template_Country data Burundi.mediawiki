@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Burundi
+| flag alias = Flag of Burundi.svg
+| flag alias-1962 = Flag of Burundi (1962–1966).svg
+| flag alias-1966 = Flag of Burundi (1966-1967).svg
+| flag alias-1967 = Flag of Burundi (1967–1982).svg
+| link alias-military = National Defence Force (Burundi){{!}}Burundi National Defence Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1962
+| var2 = 1966
+| var3 = 1967
+| redir1 = BDI
+</noinclude>
+}}

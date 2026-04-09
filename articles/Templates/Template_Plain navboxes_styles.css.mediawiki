@@ -1,0 +1,21 @@
+/* {{pp-template}} */
+.PlainNavboxes .navbox,
+.PlainNavboxes .navbox th,
+.PlainNavboxes .navbox tr,
+.PlainNavboxes .navbox td,
+.PlainNavboxes .navbox-title,
+.PlainNavboxes .navbox-subgroup,
+.PlainNavboxes .navbox tr + tr > .navbox-abovebelow,
+.PlainNavboxes .navbox tr + tr > .navbox-group,
+.PlainNavboxes .navbox tr + tr > .navbox-image,
+.PlainNavboxes .navbox tr + tr > .navbox-list,
+.PlainNavboxes .navbox-even,
+.PlainNavboxes .navbox-odd,
+.PlainNavboxes .navbox span,
+.PlainNavboxes .navbox abbr {
+	/* !important is used to override styles specified in navbox parameters */
+	background-color: transparent !important;
+	color: inherit !important;
+	border-color: transparent !important;
+	box-shadow: none !important;
+}

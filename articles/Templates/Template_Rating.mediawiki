@@ -1,0 +1,24 @@
+{{#if:{{{1|}}}
+ |<span role="img" style="white-space:nowrap" title="{{{score|{{#if:{{{2|}}}|{{{1}}}/}}{{plural|{{#if:{{{2|}}}|{{{2}}}|{{{1}}}}}|{{{rating|star}}}|{{{rating-plural|{{{rating|star}}}s}}}}}}}}">{{#ifexpr:{{{1}}}>=1
+  |[[File:{{{full|Star full.svg}}}|{{{size|{{#ifexpr:{{{2|{{{1}}}}}}>6|7|11}}px}}}|link=|{{{score|{{#if:{{{2|}}}|{{{1}}}/}}{{plural|{{#if:{{{2|}}}|{{{2}}}|{{{1}}}}}|{{{rating|star}}}|{{{rating-plural|{{{rating|star}}}s}}}}}}}}|alt=]]{{Loop
+   |{{#expr:floor{{{1}}}-1}}
+   |[[File:{{{full|Star full.svg}}}|{{{size|{{#ifexpr:{{{2|{{{1}}}}}}>6|7|11}}px}}}|link=|alt=]]
+   }}
+  |{{#ifexpr:{{{1}}}>0
+   |[[File:{{{half|Star half.svg}}}|{{{size|{{#ifexpr:{{{2|{{{1}}}}}}>6|7|11}}px}}}|link=|{{{score|{{#if:{{{2|}}}|{{{1}}}/}}{{plural|{{#if:{{{2|}}}|{{{2}}}|{{{1}}}}}|{{{rating|star}}}|{{{rating-plural|{{{rating|star}}}s}}}}}}}}|alt=]]
+   |[[File:{{{empty|Star empty.svg}}}|{{{size|{{#ifexpr:{{{2|{{{1}}}}}}>6|7|11}}px}}}|link=|{{{score|{{#if:{{{2|}}}|{{{1}}}/}}{{plural|{{#if:{{{2|}}}|{{{2}}}|{{{1}}}}}|{{{rating|star}}}|{{{rating-plural|{{{rating|star}}}s}}}}}}}}|alt=]]
+   }}
+  }}{{#ifexpr:{{{1}}}>1and{{{1}}}<>ceil{{{1}}}
+  |[[File:{{{half|Star half.svg}}}|{{{size|{{#ifexpr:{{{2|{{{1}}}}}}>6|7|11}}px}}}|link=|alt=]]
+  }}{{#ifexpr:{{{2|-1}}}>ceil{{{1}}}
+  |{{Loop
+   |{{#expr:{{{2}}}-ceil{{{1}}}{{#ifexpr:{{{1}}}=0|-1}}}}
+   |[[File:{{{empty|Star empty.svg}}}|{{{size|{{#ifexpr:{{{2|{{{1}}}}}}>6|7|11}}px}}}|link=|alt=]]
+   }}
+  }}</span>{{#ifexpr:{{{1}}}-floor{{{1}}}<>0and{{{1}}}-floor{{{1}}}<>.5
+  |{{main other|[[Category:Pages with incorrect use of Rating template]]}}
+  }}
+ |<span class="error">Please specify a '''rating'''.</span>{{main other|[[Category:Pages with incorrect use of Rating template]]}}
+}}<noinclude>
+{{documentation}}
+</noinclude>

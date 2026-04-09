@@ -1,0 +1,12 @@
+<span style="white-space: nowrap">{{#ifeq:{{{link|no}}}|yes
+ |[[Baliscan sol|S/]]
+ |S/
+}}{{formatnum:{{{1|}}}}}</span><!--
+-->{{#ifeq:{{{year|{{{2|0}}}}}}|0||{{#ifexpr:{{Inflation/BL/startyear}}<={{{year|{{{2|0}}}}}} and {{{year|{{{2|0}}}}}}<{{Inflation-year|BL}}
+ |&#32;({{#if:{{{about|}}}
+  |equivalent to about ${{formatnum:{{Inflation|BL|{{formatnum:{{{1|}}}|R}}|{{{year|{{{2}}}}}}|r={{{round|0}}}}}}}
+  |equivalent to ${{formatnum:{{Inflation|BL|{{formatnum:{{{1|}}}|R}}|{{{year|{{{2}}}}}}|r={{{round|{{#ifexpr:{{Inflation|BL|{{formatnum:{{{1|}}}|R}}|{{{year|{{{2}}}}}}}}>1000|0|2}}}}}}}}}
+ }} in {{Inflation-year|BL}})
+}}}}<noinclude>
+{{documentation}}<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

@@ -1,0 +1,49 @@
+{{infobox
+| above = {{{name|{{{document_name}}}}}}
+| bodystyle = width:22em
+
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size ={{{image_size|{{{image_width|}}}}}}|sizedefault=frameless|upright={{{upright|0.85}}}|alt={{{image_alt|{{{alt|}}}}}} }}
+| caption = {{{caption|{{{image_caption|}}}}}}
+
+| image2 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|size ={{{image2_size|{{{image_width2|}}}}}}|sizedefault=frameless|upright={{{upright2|0.85}}}|alt2={{{image2_alt|{{{alt2|}}}}}}}}
+| caption2 = {{{caption2|{{{image_caption2|}}}}}}
+
+| label1 = Type
+| data1 = {{{type|{{{document_type|}}}}}}
+
+| label2 = Issued by
+| data2 = {{{issued_by|{{{using_jurisdiction|}}}}}}
+
+| label3 = First&nbsp;issued
+| data3 = {{{first_issued|{{{date_first_issued|}}}}}}
+
+| label4 = In&nbsp;circulation
+| data4 = {{{in_circulation|{{{documents_in_circulation|}}}}}}
+
+| label5 = Purpose
+| data5 = {{{purpose|}}}
+
+| label6 = Valid in
+| data6 = {{{valid|{{{valid_jurisdictions|}}}}}}
+
+| label7 = Eligibility
+| data7 = {{{eligibility|}}}
+
+| label8 = Expiration
+| data8 = {{{expiration|}}}
+
+| label9 = Cost
+| data9 = {{{cost|}}}
+
+| label10 = Rights
+| data10 = {{{rights|}}}
+
+| label11 = Size
+| data11 = {{{size|}}}
+
+| label12 = Website
+| data12 = {{{website|}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|}}|preview=Page using [[Template:Infobox identity document]] with unknown parameter "_VALUE_"|ignoreblank=y | name | document_name | image | image_size | image_width | upright | image_alt | alt | caption | image_caption | image2 | image2_size | image_width2 | upright2 | image2_alt | alt2 | caption2 | image_caption2 | type | document_type | issued_by | using_jurisdiction | first_issued | in_circulation | date_first_issued | purpose | valid | valid_jurisdictions | eligibility | expiration | cost | rights | size | website}}<noinclude>
+{{documentation}}<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

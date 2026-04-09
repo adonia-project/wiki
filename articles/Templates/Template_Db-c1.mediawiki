@@ -1,0 +1,22 @@
+{{SAFESUBST:<noinclude />#invoke:Unsubst||date={{SAFESUBST:<noinclude />REVISIONTIMESTAMP}}|$B={{db-meta
+|bot={{{bot|}}}
+|raw={{{raw|}}}
+|criterion=C1
+|1=&#32;as a category that is empty, is not currently under discussion at [[Wikipedia:Categories for discussion]] (or other such [[Wikipedia:deletion discussions|discussions]]), and is not a [[:Category:Disambiguation categories|disambiguation category]], [[:Category:Wikipedia soft redirected categories|category redirect]], or a project category that by its nature may become empty on occasion. This category may be deleted <em style="font-style:normal;text-decoration:underline;">if it has remained empty for at least seven days</em>, specifically on or after ''{{#time:H:i, j F Y (T)|{{{date|{{{1|{{REVISIONTIMESTAMP}}}}}}}} +7 days}}''.</b>
+
+<b>If you know of pages which are appropriate for this category, please populate it and remove this notice
+
+|temp=Db-catempty-notice
+|self=yes
+|summary=Empty category
+|help={{{help|}}}
+|pagetype_override=category
+}}<includeonly>{{#ifeq:{{PAGESINCAT:{{PAGENAME}}}}|0||{{error|This category does not appear to be empty!}}}}
+{{category handler
+| all = {{ #ifexpr:{{#time:U}} >= {{#time:U|{{REVISIONTIMESTAMP}} + 7 days }} |[[Category:Candidates for speedy deletion]][[Category:Candidates for speedy deletion as empty categories]]|[[Category:Empty categories awaiting deletion| {{REVISIONTIMESTAMP}}]]}}
+| nocat = {{{nocat|}}}
+| category2 = {{{category|¬}}}
+}}</includeonly>}}<noinclude>
+{{documentation}}
+<!-- Add categories to the /doc subpage and interwikis to Wikidata, thank you! -->
+</noinclude>

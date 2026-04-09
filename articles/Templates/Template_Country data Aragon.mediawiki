@@ -1,0 +1,10 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Aragon
+| flag alias = Flag of Aragon.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| link alias-football = Aragon official football team
+}}<noinclude>
+</noinclude>

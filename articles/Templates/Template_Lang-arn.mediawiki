@@ -1,0 +1,6 @@
+<includeonly>{{#invoke:lang|lang_xx_italic
+|code=arn
+}}</includeonly><noinclude>
+{{Documentation|Template:Lang-x/doc}}
+[[Category:Native American multilingual support templates]]
+</noinclude>

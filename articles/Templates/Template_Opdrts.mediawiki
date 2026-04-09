@@ -1,0 +1,9 @@
+<includeonly>data-sort-value="{{#time: Y-m-d | {{{2}}}-{{{3}}}-{{{4}}} }}"|{{
+#if:{{{1}}}|{{
+  #ifexpr: {{{1}}} > {{{2}}}
+    |{{nowrap|{{#time: j M | {{{1}}}-{{#expr: {{#time: n | {{{2}}}-{{{3}}}-{{{4}}} }}-1}}-{{{4}}}}}}}&#32;&ndash;&#32;|{{{
+    1}}}{{en dash
+}}}}}}{{nowrap|{{#ifeq:{{str len|"{{{3}}}"}}|5|{{#expr: {{{2}}}}} {{{3}}}|{{#time: j M | {{{2}}}-{{{3}}}-{{{4}}}
+}}}}}}{{#switch: {{{5}}} | year = &#32;{{{4}}} |}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

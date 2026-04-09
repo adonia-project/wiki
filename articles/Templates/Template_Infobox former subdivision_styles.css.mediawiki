@@ -1,0 +1,68 @@
+/* {{pp|small=y}} */
+.ib-former-subdiv {
+	border-collapse: collapse;
+	line-height: 1.2em;
+}
+
+/* TODO split definitions to appropriate class names when live from HTML element */
+.ib-former-subdiv td,
+.ib-former-subdiv th {
+	border-top: 1px solid #a2a9b1;
+	padding: 0.4em 0.6em 0.4em 0.6em;
+}
+
+.ib-former-subdiv .mergedtoprow .infobox-label,
+.ib-former-subdiv .mergedtoprow .infobox-data,
+.ib-former-subdiv .mergedtoprow .infobox-full-data {
+	border-top: 1px solid #a2a9b1;
+	padding: 0.4em 0.6em 0.2em 0.6em;
+}
+
+.ib-former-subdiv .mergedrow .infobox-label,
+.ib-former-subdiv .mergedrow .infobox-data,
+.ib-former-subdiv .mergedrow .infobox-full-data {
+	border: 0;
+	padding: 0 0.6em 0.2em 0.6em;
+}
+
+.ib-former-subdiv .mergedbottomrow .infobox-label,
+.ib-former-subdiv .mergedbottomrow .infobox-data {
+	border-top: 0;
+	border-bottom: 1px solid #a2a9b1;
+	padding: 0 0.6em 0.4em 0.6em;
+}
+
+.ib-former-subdiv .infobox-above {
+	font-size: 125%;
+	line-height: 1.2em;
+}
+
+.ib-former-subdiv-native {
+	font-size: 78%;
+}
+
+.ib-former-subdiv .infobox-subheader {
+	background-color: #cddeff;
+	font-weight: bold;
+}
+
+.ib-former-subdiv-flagarms,
+.ib-former-subdiv-flagarms td {
+	border: 0;
+	padding: 0;
+}
+
+.ib-former-subdiv-flagarms table {
+	width: 100%;
+}
+
+.ib-former-subdiv-flagarms tbody tr:first-child td {
+	width: 50%;
+	vertical-align: middle;
+}
+
+.ib-former-subdiv-fake-li {
+	text-indent: -0.9em;
+	margin-left: 1.2em;
+	font-weight: normal;
+}

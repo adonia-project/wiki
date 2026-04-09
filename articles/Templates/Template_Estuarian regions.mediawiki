@@ -1,0 +1,97 @@
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|+Regions of Estuaria
+! colspan="2" rowspan="2" scope="col" |Flag, name and
+postal abbreviation
+! colspan="2" scope="col" |Cities
+! rowspan="2" scope="col" |Ratification or
+establishment
+! rowspan="2" scope="col" |Population
+<small>(2025 Census)</small>
+! rowspan="2" |% of total
+! colspan="2" scope="col" |Total area
+! rowspan="2" scope="col" |[[W:Human Development Index|HDI]]
+! rowspan="2" |No. of 
+[[Communes of Balisca|communes]]
+! rowspan="2" |No. of 
+[[Cantons of Balisca|cantons]]
+! rowspan="2" |No. of 
+[[Commune district|commune districts]]
+! rowspan="2" |Pop. per
+district
+|-
+! scope="col" |Capital
+! scope="col" |Largest
+! scope="col" |km<sup>2</sup>
+! scope="col" |mi<sup>2</sup>
+|-
+! scope="row" |{{flag|Algarves}}
+|AL
+|[[Alhambra]]
+|[[Banyalbufar]]
+|14 June 1808
+|1,923,962
+|14.81%
+|6,856.21
+|2,647.20
+|0.899
+|232
+|15
+|9 (1.26%)
+|199,827
+|-
+! scope="row" |{{flag|Canyars}}
+|CY
+| colspan="2" |[[Xàbia]]
+|14 June 1808
+|5,010,014
+|38.58%
+|14,374.21
+|5,549.91
+|0.921
+|3,086
+|316
+|23 (3.22%)
+|203,640
+|-
+! scope="row" |{{flag|Quiscosta}}
+|QC
+| colspan="2" |[[Aigües]]
+|14 June 1808
+|3,621,980
+|27.89%
+|34,100
+|13,166
+|0.901
+|831
+|128
+|17 (2.40%)
+|199,163
+|-
+! scope="row" |{{flag|Mesopotàmia}}
+|MP
+| colspan="2" |[[Navassa]]
+|14 June 1808
+|2,429,864
+|18.71%
+|30,834
+|11,905
+|0.910
+|4,847
+|214
+|12 (1.59%)
+|189,239
+|-
+! scope="row" |'''{{flag|Estuaria}}'''
+|EA
+| colspan="2" |'''Xàbia'''
+|'''14 June 1808'''
+|'''12,985,820'''
+|'''100%'''
+|'''94,558'''
+|'''36,509'''
+|'''0.913'''
+|'''8,997'''
+|'''673'''
+|'''61'''
+|'''197,967'''
+|}

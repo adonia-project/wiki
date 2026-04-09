@@ -1,0 +1,56 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Korea
+| flag alias = Flag of Korea (1899).svg
+| flag alias-1392 = Royal Flag of Goryeo bonggi.svg
+| border-1392 =
+| flag alias-1800 = Flag of the king of Joseon.svg
+| border-1800 =
+| flag alias-1856 = Flag of Korea (1856).png
+| border-1856 =
+| flag alias-1876 = Flag of the King of Joseon (1876).png
+| border-1876 =
+| flag alias-1882 = Flag of Korea (1882–1910).svg
+| flag alias-1888 = Flag of Korea (1888–1893).svg
+| flag alias-1893 = Flag of Korea (1893).svg
+| flag alias-1905 = Flag of the Japanese Resident General of Korea (1905).svg
+| flag alias-1910 = Merchant flag of Japan (1870).svg
+| flag alias-unification = Unification flag of Korea.svg
+| flag alias-football = Unification flag of Korea.svg
+| flag alias-naval = Ensign of the Joseon Navy.png
+| link alias-naval = Korean Navy
+| link alias-army = Imperial Korean Army
+| flag alias-navy = Ensign of the Joseon Navy.png
+| link alias-navy = Korean Navy
+| size = {{{size|}}}
+| size flag alias-1800 = 25px
+| size flag alias-1856 = 25px
+| size flag alias-1876 = 25px
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+| altvar = {{{altvar|}}}
+<noinclude>
+| var1 = 1392
+| var2 = 1800
+| var3 = 1856
+| var4 = 1876
+| var5 = 1882
+| var6 = 1888
+| var7 = 1893
+| var8 = 1905
+| var9 = 1910
+| var10 = unification
+| related1 = First Republic of Korea
+| related2 = Second Republic of Korea
+| related3 = Supreme Council for National Reconstruction
+| related4 = Third Republic of Korea
+| related5 = Fourth Republic of Korea
+| related6 = Fifth Republic of Korea
+| related7 = Korean Empire
+| related8 = North Korea
+| related9 = Joseon
+| related10 = South Korea
+| related11 = Korea under Japanese rule
+| flag link = List of Korean flags
+</noinclude>
+}}

@@ -1,0 +1,53 @@
+<div class="{{{class|}}}" style="background-color: var(--background-color-base, #fff); color: inherit; margin: 1em 0; border: 1px solid var(--border-color-base, #a2a9b1);{{{style|}}}">
+<div style="background: var(--background-color-success-subtle, #dff2eb); color: inherit; font-weight:bold; border-bottom: 1px solid var(--border-color-base, #a2a9b1); padding: 0.2em 0.4em;">
+{{{{{navbar|navbar-header}}}|1= {{{title|Quick how-to}}} |2=Coord_how-to}}
+</div><!--end header -->
+<div style="border-bottom: 1px solid var(--border-color-base, #a2a9b1); padding: 0.2em 0.4em;">
+To add {{Coord|57|18|22|N|4|27|32|W}} to the top of an article, use {{Tl|Coord}}, thus:
+{{block indent|'''<code><nowiki>{{Coord|57|18|22|N|4|27|32|W|display=title}}</nowiki></code>'''}}
+These [[Geographic coordinate system|coordinates]] are in [[Degree (angle)|degrees]], [[Minute and second of arc|minutes, and seconds of arc]].
+
+"title" means that the coordinates will be displayed next to the article's title at the top of the page (in desktop view only; title coordinates do not display in mobile view) and before any other text or images. It also records the coordinates as the primary location of the page's subject in Wikipedia's geosearch API.
+</div><!-- end of section 1 -->
+<div style="border-bottom: 1px solid var(--border-color-base, #a2a9b1); padding: 0.2em 0.4em;">
+To add {{Coord|44.1124|N|87.9130|W}} to the top of an article, use either 
+{{block indent|'''<code><nowiki>{{Coord|44.1124|N|87.9130|W|display=title}}</nowiki></code>'''}}
+(which does not require minutes or seconds but does require the user to specify north/ south and east/west) ''or''
+{{block indent|'''<code><nowiki>{{Coord|44.1124|-87.9130|display=title}}</nowiki></code>'''}}
+(in which the north and east are presumed by positive values while the south and west are negative ones).
+These coordinates are in [[decimal degrees]].
+</div><!-- end of section 2 -->
+<div style="border-bottom: 1px solid var(--border-color-base, #a2a9b1); padding: 0.2em 0.4em;">
+* Degrees, minutes and seconds, when used, must each be separated by a [[Vertical bar|pipe ("|")]].
+* [[Geodetic datum|Map datum]] must be [[WGS84]] if possible (except for off-Earth bodies).
+* Avoid [[Wikipedia:WikiProject Geographical coordinates#Precision guidelines|excessive precision]] (0.0001° is <11 m, 1″ is <31 m).
+* Maintain [[MOS:UNCERTAINTY|consistency]] of decimal places or minutes/seconds between latitude and longitude.
+* Latitude (N/S) must appear before longitude (E/W).
+</div><!-- end of section 3 -->
+<div style="border-bottom: 1px solid var(--border-color-base, #a2a9b1); padding: 0.2em 0.4em;">
+Optional coordinate parameters follow the longitude and are separated by [[Underscore|an underscore ("_")]]:<br />
+*[[Template:Coord#dim:D|dim]]: <code>dim:</code>'''''N''''' (viewing <u>d</u>iameter <u>i</u>n <u>m</u>etres)
+*[[Template:Coord#region:R|region]]: <code>region:</code>'''''R''''' ([[ISO 3166-1 alpha-2]] or [[ISO 3166-2]] code)
+*[[Template:Coord#type:T|type]]: <code>type:</code>'''''T''''' (<code>landmark</code> or <code>city(30,000)</code>, for example)
+
+Other optional parameters are separated by [[Vertical bar|a pipe ("|")]]:<br />
+*[[Template:Coord#Display|display]]
+** {{Para|display|inline}} (the default) to display in the body of the article only,
+** {{Para|display|title}} to display at the top of the article only (in desktop view only; title coordinates do not display in mobile view), or
+** {{Para|display|inline,title}} to display in both places.
+*[[Template:Coord#Name|name]]: <code>name=</code>'''''X''''' to label the place on maps (default is [[mw:Help:Magic words#Page names|PAGENAME]])
+Thus: '''<code><nowiki>{{Coord|44.1172|-87.9135|dim:30_region:US-WI_type:event|display=inline,title|name=accident site}}</nowiki></code>'''
+
+Use {{Para|display|title}} (or {{Para|display|inline,title}}) once per article, for the subject of the article, where appropriate.
+</div><!-- end of section 4 -->
+<div style="padding: 0.2em 0.4em;">
+* Per [[WP:ORDER]], the template is placed at the bottom of the article in the 'end matter', after any [[Wikipedia:Navigation template|navigation templates]], but before all [[Wikipedia:Categorization|categories]], including the {{tl|DEFAULTSORT}} template. The {{tl|coord}} template may also be placed within an [[Help:Infobox|infobox]], instead of at the bottom of the article.
+* For full details, refer to {{tl|Coord/doc}}. 
+* Additional guidance is available at [[Wikipedia:Obtaining geographic coordinates|obtaining coordinates]] and [[Geographic coordinate conversion|converting coordinates]].
+</div><!-- end of section 5 -->
+</div><noinclude>
+{{documentation|content=
+==Usage ==
+This a sub-template for {{tl|Coord/doc}}.
+[[Category:WikiProject Geographical coordinates]]
+}}</noinclude>

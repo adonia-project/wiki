@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Russian Soviet Federative Socialist Republic
+| shortname alias = Russian SFSR
+| flag alias = Flag of Russian SFSR.svg
+| flag alias-1918 = Flag RSFSR 1918.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| templatename = Russian SFSR
+| var1 = 1918
+| related1 = Russia
+| related2 = Russian Empire
+</noinclude>
+}}<noinclude>
+[[sl:Predloga:Podatki države Ruska SFSR]]
+</noinclude>

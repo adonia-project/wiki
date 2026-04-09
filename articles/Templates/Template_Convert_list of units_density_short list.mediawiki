@@ -1,0 +1,36 @@
+<includeonly>
+====Density====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Density
+|+ Density<!--<br /><small>([[:Template:convert/list of units/density|Full list]])</small>-->
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+|rowspan=2  style="text-align: center; vertical-align: top;" |'''Metric'''
+{{convert/list of units/unitrow|kg/m3|place=top}}
+* kg/m3 lb/ft3 (kg/m3 lb/cuft)
+* kg/m3 lb/yd3 (kg/m3 lb/cuyd)
+{{convert/list of units/unitrow|g/m3}}
+* g/m3 kg/m3
+* g/m3 lb/ft3 (g/cm3 lb/cuft)
+* g/m3 lb/yd3 (g/cm3 lb/cuyd)
+|-
+|rowspan=2  style="text-align: center; vertical-align: top;" |'''Imperial<br />&<br />US customary'''
+{{convert/list of units/unitrow|lb/ft3|place=top}}
+* lb/ft3 kg/m3 (lb/cu ft g/m3)
+* lb/ft3 g/m3 (lb/cu ft g/m3)
+{{convert/list of units/unitrow|lb/yd3}}
+* lb/yd3 kg/m3 (lb/cuyd kg/m3)
+* lb/yd3 g/m3 (lb/cuyd g/m3)
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/density/short list]]
+</noinclude>

@@ -1,0 +1,24 @@
+{{Infobox company
+| name = Merga
+| logo = [[File: Merga logo 2025 (wordmark).svg|frameless|upright=1.1|class=skin-invert]]
+| image = 
+| image_caption = 
+| type = [[Privately held company|Private]]
+| industry = {{w|Artificial intelligence}}
+| founded = {{Start date and age|p=y|2026|01|02}}
+| founders = [[Ubl Weid]], [[Hendi Manar]]
+| hq_location = 284 Wadag St, [[Mazar]], [[Burawa]]
+| key_people = 
+| products =
+| services = 
+| revenue = 
+| net_income = 
+| suppressfields = assets <!-- suppress stale and uncited asset value fetched from Wikidata -->
+| equity = 
+| equity_year = 
+| num_employees = 6
+| owner = {{unbulleted list |Employees and investors (73%) |[[Burawa Domestic Investment Fund]] (27%)}}
+| homepage = {{URL|https://merga.bu/}}
+}}
+
+[[Merga]] is a artificial intelligence startup specializing in the field of '''Joint-Embedding Predictive Architecture'''. The company was founded in January 2026 by [[Ubl Weid]] and [[Hendi Manar]], two former researchers of [[Sare (Company)|Sare]]'s artificial intelligence team, focusing on the development of {{w|Generative artificial intelligence#Video|World Models}}. The company raised Ħ1.2 billion Hanti seed from the [[Burawa Domestic Investment Fund]], the largest seed fundraise of any company by the domestic investment fund. The company is valued at [[International Dollar|$]]1.1 billion international dollars (Ħ4.4 billion).

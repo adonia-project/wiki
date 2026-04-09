@@ -1,0 +1,14 @@
+{{#if:{{{sortable|}}}
+ |<span style="display:none; speak:none;">{{padleft:{{{1|}}}|4|0}}&nbsp;</span>
+}}{{#switch:{{{lk|}}}
+ |no|off   = <span title="circa">c.</span>
+ |yes|on   = [[wikt:circa#English|c.]]
+ |abbr
+ |#default = <abbr title="circa">c.</abbr>
+}}{{#ifeq:{{{1|+}}}|{{{1|-}}}
+ |<span style="white-space:nowrap;">&thinsp;{{trim|{{{1}}}}}</span>
+}}{{#if:{{{2|}}}
+ |&nbsp;– c.<span style="white-space:nowrap;">&thinsp;{{{2}}}</span>
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using circa with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Circa]] with unknown parameter "_VALUE_"|ignoreblank=y| 1 | 2 | i | lk | sortable }}<noinclude>
+{{Documentation}}
+</noinclude>

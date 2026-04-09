@@ -1,0 +1,37 @@
+{{Sidebar 
+|name  = Baliscan drug policy
+|style = border-spacing:0.2em 0;
+|title = Major Baliscan<br/> {{W|Drug decriminalization}} and {{W|Drug legalization|legalization}} laws
+|titlestyle = font-size:115%; line-height:1.4em;
+|imagestyle   = padding-bottom:1.0em; border-bottom:1px solid #aaa;
+|headingstyle = padding-bottom:0;
+|contentstyle = padding-top:0; padding-bottom:1.0em;
+|heading1style = padding-top:1.2em;
+
+| heading1 = 1911 [[Consumption Act]] 
+| content1 = Regulates labeling of products containing certain drugs including {{W|cocaine}} and {{W|heroin}}
+
+| heading2 = 1914 [[Industrial Hemp Production Act]]
+| content2 = Liberalized laws for the industrial production of {{W|hemp}} and hemp-derived products
+
+| heading3 = 1959 [[Marijuana for Medicinal Purposes Regulations]]
+| content3 = Legalized {{W|cannabis (drug)|cannabis}} and several other drugs for medical and {{W|Religion and drugs|religious use}}
+
+| heading4 = 1961 {{W|Single Convention on Narcotic Drugs|Convention on Narcotics}}
+| content4 = Treaty to control marijuana
+
+| heading5 = 1962 [[Cannabis Initiative]]
+| content5 = Fully legalized consumption, sale and transportation of {{W|Cannabis (drug)|Cannabis}}
+
+| heading6 = 1996 [[Decriminalization Act]]
+| content6 = Decriminalized {{W|recreational drug use|recreational use}} of {{W|cocaine}}, {{W|heroin}}, {{W|magic mushrooms}} and other {{W|psychoactive drugs}}
+
+| heading7 = 2021 [[Responsible Consumption Initiative]]
+| content7 = Fully legalized all drug consumption <br> and withdrew from {{W|Single Convention of Narcotic Drugs|Convention on Narcotics}}
+
+|navbarstyle = padding-top:0.2em; border-top:1px solid #aaa;
+
+}}<noinclude>
+[[Category:Psychoactive drug sidebar templates]]
+[[Category:Balisca law sidebar templates|Drug]]
+</noinclude>

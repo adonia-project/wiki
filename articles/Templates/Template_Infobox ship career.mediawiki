@@ -1,0 +1,93 @@
+<includeonly>{{#switch: {{{Hide header| }}}
+| yes
+| Yes =
+| no
+| No
+| #default =
+<tr>
+<th height="30" {{WPMILHIST Infobox style|header_bar}}>Career {{#if:{{{Ship country|}}}|({{{Ship country|}}})}}</th>
+<th {{WPMILHIST Infobox style|header_bar}}>{{{Ship flag|}}}</th>
+</tr>
+}}{{#if:{{{Ship class|}}}|<tr style="vertical-align:top;"><td>Class and type:</td><td>
+{{{Ship class|}}}</td></tr>
+}}{{#if:{{{Ship name|}}}|<tr style="vertical-align:top;"><td>Name:</td><td>
+{{{Ship name|}}}</td></tr>
+}}{{#if:{{{Ship namesake|}}}|<tr style="vertical-align:top;"><td>Namesake:</td><td>
+{{{Ship namesake|}}}</td></tr>
+}}{{#if:{{{Ship owner|}}}|<tr style="vertical-align:top;"><td>Owner:</td><td>
+{{{Ship owner|}}}</td></tr>
+}}{{#if:{{{Ship operator|}}}|<tr style="vertical-align:top;"><td>Operator:</td><td>
+{{{Ship operator|}}}</td></tr>
+}}{{#if:{{{Ship registry|}}}|<tr style="vertical-align:top;"><td>Port of registry:</td><td>
+{{{Ship registry|}}}</td></tr>
+}}{{#if:{{{Ship route|}}}|<tr style="vertical-align:top;"><td>Route:</td><td>
+{{{Ship route|}}}</td></tr>
+}}{{#if:{{{Ship ordered|}}}|<tr style="vertical-align:top;"><td>Ordered:</td><td>
+{{{Ship ordered|}}}</td></tr>
+}}{{#if:{{{Ship awarded|}}}|<tr style="vertical-align:top;"><td>Awarded:</td><td>
+{{{Ship awarded|}}}</td></tr>
+}}{{#if:{{{Ship builder|}}}|<tr style="vertical-align:top;"><td>Builder:</td><td>
+{{{Ship builder|}}}</td></tr>
+}}{{#if:{{{Ship original cost|}}}|<tr style="vertical-align:top;"><td>Cost:</td><td>
+{{{Ship original cost|}}}</td></tr>
+}}{{#if:{{{Ship yard number|}}}|<tr style="vertical-align:top;"><td>Yard number:</td><td>
+{{{Ship yard number|}}}</td></tr>
+}}{{#if:{{{Ship way number|}}}|<tr style="vertical-align:top;"><td>Way number:</td><td>
+{{{Ship way number|}}}</td></tr>
+}}{{#if:{{{Ship laid down|}}}|<tr style="vertical-align:top;"><td>Laid down:</td><td>
+{{{Ship laid down|}}}</td></tr>
+}}{{#if:{{{Ship launched|}}}|<tr style="vertical-align:top;"><td>Launched:</td><td>
+{{{Ship launched|}}}</td></tr>
+}}{{#if:{{{Ship sponsor|}}}|<tr style="vertical-align:top;"><td>Sponsored by:</td><td>
+{{{Ship sponsor|}}}</td></tr>
+}}{{#if:{{{Ship christened|}}}|<tr style="vertical-align:top;"><td>Christened:</td><td>
+{{{Ship christened|}}}</td></tr>
+}}{{#if:{{{Ship completed|}}}|<tr style="vertical-align:top;"><td>Completed:</td><td>
+{{{Ship completed|}}}</td></tr>
+}}{{#if:{{{Ship acquired|}}}|<tr style="vertical-align:top;"><td>Acquired:</td><td>
+{{{Ship acquired|}}}</td></tr>
+}}{{#if:{{{Ship commissioned|}}}|<tr style="vertical-align:top;"><td>Commissioned:</td><td>
+{{{Ship commissioned|}}}</td></tr>
+}}{{#if:{{{Ship recommissioned|}}}|<tr style="vertical-align:top;"><td>Recommissioned:</td><td>
+{{{Ship recommissioned|}}}</td></tr>
+}}{{#if:{{{Ship decommissioned|}}}|<tr style="vertical-align:top;"><td>Decommissioned:</td><td>
+{{{Ship decommissioned|}}}</td></tr>
+}}{{#if:{{{Ship maiden voyage|}}}|<tr style="vertical-align:top;"><td>Maiden voyage:</td><td>
+{{{Ship maiden voyage|}}}</td></tr>
+}}{{#if:{{{Ship in service|}}}|<tr style="vertical-align:top;"><td>In service:</td><td>
+{{{Ship in service|}}}</td></tr>
+}}{{#if:{{{Ship out of service|}}}|<tr style="vertical-align:top;"><td>Out of service:</td><td>
+{{{Ship out of service|}}}</td></tr>
+}}{{#if:{{{Ship renamed|}}}|<tr style="vertical-align:top;"><td>Renamed:</td><td>
+{{{Ship renamed|}}}</td></tr>
+}}{{#if:{{{Ship reclassified|}}}|<tr style="vertical-align:top;"><td>Reclassified:</td><td>
+{{{Ship reclassified|}}}</td></tr>
+}}{{#if:{{{Ship refit|}}}|<tr style="vertical-align:top;"><td>Refit:</td><td>
+{{{Ship refit|}}}</td></tr>
+}}{{#if:{{{Ship struck|}}}|<tr style="vertical-align:top;"><td>Struck:</td><td>
+{{{Ship struck|}}}</td></tr>
+}}{{#if:{{{Ship reinstated|}}}|<tr style="vertical-align:top;"><td>Reinstated:</td><td>
+{{{Ship reinstated|}}}</td></tr>
+}}{{#if:{{{Ship homeport|}}}|<tr style="vertical-align:top;"><td>Homeport:</td><td>
+{{{Ship homeport|}}}</td></tr>
+}}{{#if:{{{Ship identification|}}}|<tr style="vertical-align:top;"><td>Identification:</td><td>
+{{{Ship identification|}}}</td></tr>
+}}{{#if:{{{Ship motto|}}}|<tr style="vertical-align:top;"><td>Motto:</td><td>
+{{{Ship motto|}}}</td></tr>
+}}{{#if:{{{Ship nickname|}}}|<tr style="vertical-align:top;"><td>Nickname:</td><td>
+{{{Ship nickname|}}}</td></tr>
+}}{{#if:{{{Ship honours|}}}|<tr style="vertical-align:top;"><td>Honours and<br />awards:</td><td>
+{{{Ship honours|}}}</td></tr>
+}}{{#if:{{{Ship honors|}}}|<tr style="vertical-align:top;"><td>Honors and<br />awards:</td><td>
+{{{Ship honors|}}}</td></tr>
+}}{{#if:{{{Ship captured|}}}|<tr style="vertical-align:top;"><td>Captured:</td><td>
+{{{Ship captured|}}}</td></tr>
+}}{{#if:{{{Ship fate|}}}|<tr style="vertical-align:top;"><td>Fate:</td><td>
+{{{Ship fate|}}}</td></tr>
+}}{{#if:{{{Ship status|}}}|<tr style="vertical-align:top;"><td>Status:</td><td>
+{{{Ship status|}}}</td></tr>
+}}{{#if:{{{Ship notes|}}}|<tr style="vertical-align:top;"><td>Notes:</td><td>
+{{{Ship notes|}}}</td></tr>
+}}{{#if:{{{Ship badge|}}}|<tr style="vertical-align:top;"><td>Badge:</td><td>
+{{{Ship badge|}}}</td></tr>
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

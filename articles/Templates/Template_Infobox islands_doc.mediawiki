@@ -1,0 +1,2386 @@
+{{Documentation subpage}}
+{{High-use}}
+<!--Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])-->
+{{Lua|Module:Infobox|Module:InfoboxImage|Module:Infobox mapframe|Module:Coordinates|Module:Check for unknown parameters|Module:Check for conflicting parameters}}
+{{Uses TemplateStyles|Template:Infobox islands/styles.css}}
+{{Uses Wikidata|P625}}
+
+This template is intended to be used as an infobox for an [[island]], [[islet]] or an [[archipelago]]. For islands or archipelagos which are disputed, use {{para|disputed|yes}}
+
+==Blank infobox==
+{{Parameter names example| additional_info | archipelago | area_acre | area_code | area_code_type | area_footnotes | area_ha | area_km2 | area_m2 | area_sqft | area_sqmi | coastline_footnotes | coastline_ft | coastline_km | coastline_m | coastline_mi | coordinates = {{coord|0|0}} | country | country 1 capital type | country 1 largest city type | country 2 capital type | country 2 largest city type | country 3 capital type | country 3 largest city type | country 4 capital type | country 4 largest city type | country 5 capital type | country 5 largest city type | country 6 capital type | country 6 largest city type | country 7 capital type | country 7 largest city type | country 8 capital type | country 8 largest city type | country capital type | country largest city type | country_admin_divisions | country_admin_divisions_1 | country_admin_divisions_2 | country_admin_divisions_3 | country_admin_divisions_4 | country_admin_divisions_title | country_admin_divisions_title_1 | country_admin_divisions_title_2 | country_admin_divisions_title_3 | country_admin_divisions_title_4 | country_area | country_area_acre | country_area_ha | country_area_km2 | country_area_m2 | country_area_sqft | country_area_sqmi | country_capital | country_capital_and_largest_city | country_capital_type | country_largest_city | country_largest_city_population | country_largest_city_type | country_leader_name | country_leader_title | country1 | country1_admin_divisions | country1_admin_divisions_1 | country1_admin_divisions_title | country1_admin_divisions_title_1 | country1_area | country1_area_acre | country1_area_ha | country1_area_km2 | country1_area_m2 | country1_area_sqft | country1_area_sqmi | country1_capital | country1_capital_and_largest_city | country1_capital_type | country1_largest_city | country1_largest_city_population | country1_largest_city_type | country1_leader_name | country1_leader_title | country8 | country8_admin_divisions | country8_admin_divisions_1 | country8_admin_divisions_title | country8_admin_divisions_title_1 | country8_area | country8_area_acre | country8_area_ha | country8_area_km2 | country8_area_m2 | country8_area_sqft | country8_area_sqmi | country8_capital | country8_capital_and_largest_city | country8_capital_type | country8_largest_city | country8_largest_city_population | country8_largest_city_type | country8_leader_name | country8_leader_title | demonym | density_footnotes | density_km2 | density_rank | density_sqmi | elevation_footnotes | elevation_ft | elevation_m | embed | ethnic_groups | etymology | footnotes | grid_reference | highest_mount | image | image_alt | image_caption | image_map | image_name | image_size | island_type | iso_code | iso_code_type | label | label_position | languages | length_footnotes | length_ft | length_km | length_m | length_mi | local_name | location | major_islands | map | map_alt | map_caption | map_image | map_mark | map_mark_width | map_relief | map_size | map_width | misc | module | name | native_name | native_name_lang | native_name_link | nickname | population | population_as_of | population_footnotes | population_rank | population_rank_max | postal_code | postal_code_type | pushpin_label | pushpin_label_position | pushpin_map = World| pushpin_map_alt | pushpin_map_caption | pushpin_map_label | pushpin_map_label_position | pushpin_map_mark | pushpin_map_mark_width | pushpin_map_relief | pushpin_map_width | pushpin_mark | pushpin_mark_width | pushpin_relief | mapframe  = yes | rank | registration_plate | sobriquet | timezone | timezone_DST | timezone1 | timezone1_DST | timezone2 | timezone2_DST | total_islands | treaty_system | utc_offset | utc_offset_DST | utc_offset1 | utc_offset1_DST | utc_offset2 | utc_offset2_DST | waterbody | website | width_footnotes | width_ft = 123 | width_km = 123 | width_m = 123| width_max_ft =123 | width_max_km = 123| width_max_m =123 | width_max_mi = 123| width_mi = 123 | width_min_ft = 123| width_min_km = 123 | width_min_m = 123 | width_min_mi = 123 }}
+
+{{clear}}
+
+===Metric units===
+<syntaxhighlight lang="wikitext" style="overflow:auto">
+{{Infobox islands
+| name                              = {{subst:PAGENAME}}
+| native_name                       = <!-- or |local_name= -->
+| native_name_link                  = 
+| native_name_lang                  = 
+| sobriquet                         = <!-- or |nickname= -->
+| image_name                        = 
+| image_size                        = 
+| image_caption                     = 
+| image_alt                         = 
+| image_map                         = 
+| image_map_alt                     = 
+| image_map_size                    = 
+| image_map_caption                 = 
+| pushpin_map                       = 
+| pushpin_label                     = 
+| pushpin_label_position            = 
+| pushpin_map_alt                   = 
+| pushpin_relief                    = 
+| pushpin_map_caption               = 
+| mapframe = yes<!-- see [[#Mapframe maps]] for more parameters -->
+| coordinates                       = <!-- {{coord|display=it}} -->
+| etymology                         = 
+| location                          = <!-- mandatory, body of water where located -->
+| grid_reference                    = <!-- UK only -->
+| archipelago                       = 
+| waterbody                         = 
+| total_islands                     = 
+| major_islands                     = 
+| area_km2                          = <!-- or |area_m2= or |area_ha= -->
+| area_footnotes                    = 
+| rank                              = 
+| length_km                         = <!-- or |length_m=  -->
+| length_footnotes                  = 
+| width_km                          = <!-- or |width_m=  -->
+| width_footnotes                   = 
+| coastline_km                      = <!-- or |coastline_m=  -->
+| coastline_footnotes               = 
+| elevation_m                       = 
+| elevation_footnotes               = 
+| highest_mount                     = 
+| country                           = <!-- mandatory -->
+| country_admin_divisions_title     = 
+| country_admin_divisions           = 
+| country_admin_divisions_title_1   = 
+| country_admin_divisions_1         = 
+| country_admin_divisions_title_2   = 
+| country_admin_divisions_2         = 
+| country_capital_type              = 
+| country_capital                   = 
+| country_largest_city_type         = 
+| country_largest_city              = 
+| country_capital_and_largest_city  = 
+| country_largest_city_population   = 
+| country_leader_title              = 
+| country_leader_name               = 
+| country_area_km2                  = <!-- or |country_area_m2= or |country_area_ha= -->
+| country1                          = 
+| country1_admin_divisions_title    = 
+| country1_admin_divisions          = 
+| country1_admin_divisions_title_1  = 
+| country1_admin_divisions_1        = 
+| country1_capital_type             = 
+| country1_capital                  = 
+| country1_largest_city_type        = 
+| country1_largest_city             = 
+| country1_capital_and_largest_city = 
+| country1_largest_city_population  = 
+| country1_leader_title             = 
+| country1_leader_name              = 
+| country1_area_km2                 = <!-- or |country1_area_m2= or |country1_area_ha= -->
+| demonym                           = 
+| population                        = 
+| population_as_of                  = 
+| population_footnotes              = 
+| population_rank = 
+| population_rank_max               = 
+| density_km2                       = 
+| density_rank = 
+| density_footnotes                 = 
+| languages                         = 
+| ethnic_groups                     = 
+| timezone1                         = 
+| utc_offset1                       = 
+| timezone1_DST                     = 
+| utc_offset1_DST                   = 
+| website                           = 
+| additional_info                   = 
+| footnotes                         = 
+}}
+</syntaxhighlight>
+
+===Non-metric units===
+<syntaxhighlight lang="wikitext" style="overflow:auto">
+{{Infobox islands
+| name                              = <!-- mandatory -->
+| native_name                       = <!-- or |local_name= -->
+| native_name_link                  = 
+| native_name_lang                  = 
+| sobriquet                         = <!-- or |nickname= -->
+| image                             = 
+| image_size                        = 
+| image_caption                     = 
+| image_alt                         = 
+| image_map                         = 
+| image_map_alt                     = 
+| image_map_size                    = 
+| image_map_caption                 = 
+| pushpin_map                       = 
+| pushpin_label                     = 
+| pushpin_label_position            = 
+| pushpin_map_alt                   = 
+| pushpin_relief                    = 
+| pushpin_map_caption               = 
+| mapframe = yes<!-- see below for more parameters -->
+| coordinates                       = <!-- {{coord|LATITUDE|N/S|LONGITUDE|E/W|display=it}} -->
+| etymology                         = 
+| location                          = <!-- mandatory, body of water where located -->
+| grid_reference                    = <!-- UK only -->
+| archipelago                       = 
+| waterbody                         = 
+| total_islands                     = 
+| major_islands                     = 
+| area_sqmi                         = <!-- or |area_sqft= or |area_acre= -->
+| area_footnotes                    = 
+| rank                              = 
+| length_mi                         = <!-- or |length_ft= -->
+| length_footnotes                  = 
+| width_mi                          = <!-- or |width_ft= -->
+| width_footnotes                   = 
+| coastline_mi                      = <!-- or |coastline_ft= -->
+| coastline_footnotes               = 
+| elevation_ft                      = 
+| elevation_footnotes               = 
+| highest_mount                     = 
+| country                           = <!-- mandatory -->
+| country_admin_divisions_title     = 
+| country_admin_divisions           = 
+| country_admin_divisions_title_1   = 
+| country_admin_divisions_1         = 
+| country_admin_divisions_title_2   = 
+| country_admin_divisions_2         = 
+| country_capital_type              = 
+| country_capital                   = 
+| country_largest_city_type         = 
+| country_largest_city              = 
+| country_capital_and_largest_city  = 
+| country_largest_city_population   = 
+| country_leader_title              = 
+| country_leader_name               = 
+| country_area_sqmi                 = <!-- or |country_area_sqft= or |country_area_acre= -->
+| country1                          = 
+| country1_admin_divisions_title    = 
+| country1_admin_divisions          = 
+| country1_admin_divisions_title_1  = 
+| country1_admin_divisions_1        = 
+| country1_capital_type             = 
+| country1_capital                  = 
+| country1_largest_city_type        = 
+| country1_largest_city             = 
+| country1_capital_and_largest_city = 
+| country1_largest_city_population  = 
+| country1_leader_title             = 
+| country1_leader_name              = 
+| country1_area_sqmi                = <!-- or |country1_area_sqft= or |country1_area_acre= -->
+| demonym                           = 
+| population                        = 
+| population_as_of                  = 
+| population_footnotes              = 
+| population_rank = 
+| population_rank_max               = 
+| density_sqmi                      = 
+| density_rank = 
+| density_footnotes                 = 
+| ethnic_groups                     = 
+| timezone1                         = 
+| utc_offset1                       = 
+| timezone1_DST                     = 
+| utc_offset1_DST                   = 
+| website                           = 
+| additional_info                   = 
+| footnotes                         = 
+}}
+</syntaxhighlight>
+
+===Width range===
+To express a width range, replace {{para|width_km}} or {{para|width_m}} or {{para|width_mi}} or {{para|width_ft}} with one of the following:
+<syntaxhighlight lang="wikitext">
+| width_min_km     = 
+| width_max_km     = 
+</syntaxhighlight>
+or
+<syntaxhighlight lang="wikitext">
+| width_min_m      = 
+| width_max_m      = 
+</syntaxhighlight>
+or
+<syntaxhighlight lang="wikitext">
+| width_min_mi     = 
+| width_max_mi     = 
+</syntaxhighlight>
+or
+<syntaxhighlight lang="wikitext">
+| width_min_ft     = 
+| width_max_ft     = 
+</syntaxhighlight>
+{{clear}}
+
+==Parameters==
+
+===Mandatory===
+* '''name''' = the official name (without the word ''island'')
+* '''location''' = the sea in which the island is located
+* '''country''' = where the island is located. Either specify the standard three-letter [[ISO 3166-1 alpha-3]] code for the country, or a name by which the country is commonly known (e.g., "US", "South Korea", "Democratic People's Republic of Korea"). If the island is shared, then use "country 1" and "country 2" and list them alphabetically.
+
+===Optional===
+* '''native_name''' = only when the common name is different from the native name.  To remove the "native name" prefix, use '''local_name''' instead.
+* '''native_name_link''' = link to the article about the language used for the native name.
+* '''sobriquet''' (or '''nickname''') = for a well-known [[sobriquet]] or nickname
+* '''image''' = locator/satellite/other map image (without the prefix "File:" or "Image:")
+** '''image_caption''' = caption for the image
+** '''image_size''' = size of the image in [[pixel]]s (e.g., "{{mono|100px}}")
+** '''image_alt''' = alt text for readers who cannot see the image; see [[Wikipedia:Alternative text for images]] for more information
+* '''image_map''' = locator/satellite/other map image (without the prefix "File:" or "Image:")
+** '''image_map_caption''' = caption for the image
+** '''image_map_size''' = size of the image in [[pixel]]s (e.g., "{{mono|100px}}")
+** '''image_map_alt''' = alt text for readers who cannot see the image; see [[Wikipedia:Alternative text for images]] for more information
+* '''pushpin_map''' = the name of a location map as per [[Template:Location map]] (e.g. ''Indonesia'' or ''Russia'')
+** '''pushpin_map_alt''' = alt text for the map, primarily for visually impaired readers
+** '''pushpin_map_caption''' = a map caption if desired
+** '''pushpin_relief''' = whether to use a relief map if one is available
+** '''pushpin_map_width''' = the width of the map
+* '''mapframe''' = whether to use {{tl|Infobox mapframe}}. See [[#Mapframe maps]] for more information.
+* '''coordinates''' = coordinates in the {{tl|Coord}} format (<code>type:isle</code> is added by default, unless another <code>type</code> is specified)
+* '''Grid_Reference''' = Ordnance survey grid ref (UK only)
+* '''archipelago''' = the name of the group of islands the island belongs to
+* '''total_islands''' = total number of islands (for archipelagos only)
+* '''major_islands''' = names of the major islands (for archipelagos only)
+* '''area_km2''' or '''area_sqmi''' or '''area_m2''' or '''area_sqft''' or '''area_acre''' or '''area_ha''' = the area in either square kilometres or square miles or square metres or square feet or hectares or acres without using {{tl|convert}}; the conversion will be done automatically
+** '''area_footnotes''' = references for area values using {{tag|ref}} format.
+* '''rank''' = the island's rank among other islands in the world in terms of size (1st being the largest island), as indicated in "[[List of islands by area]]"
+* '''length_km''' or '''length_mi''' or '''length_m''' or '''length_ft''' = the length in either kilometres or miles or metres or feet without using {{tl|convert}}; the conversion will be done automatically
+** '''length_footnotes''' = references for length values using {{tag|ref}} format.
+* '''width_km''' or '''width_mi''' or '''width_m''' or '''width_ft''' = the width in either kilometres or miles or metres or feet without using {{tl|convert}}; the conversion will be done automatically
+** '''width_footnotes''' = references for width values using {{tag|ref}} format.
+* '''coastline_km''' or '''coastline_mi''' or '''coastline_m''' or '''coastline_ft''' = the length of the coastline in either kilometres or miles or metres or feet without using {{tl|convert}}; the conversion will be done automatically
+** '''coastline_footnotes''' = references for coastline values using {{tag|ref}} format.
+* '''elevation_m''' or '''elevation_ft''' = the height of the highest point in either metres or feet without using {{tl|convert}}; the conversion will be done automatically
+** '''elevation_footnotes''' = references for elevation values using {{tag|ref}} format.
+* '''highest_mount''' = name of the highest point on the island, if any
+* '''country_admin_divisions_title''' = title for the administrative divisions
+* '''country_admin_divisions''' = the administrative divisions that govern the island
+* '''country_admin_divisions_title_1''' = (country admin_divisions title 1)
+* '''country_admin_divisions_1''' = (country admin divisions 1)
+* '''country_admin_divisions_title_2''' = (country admin divisions title 2)
+* '''country_admin_divisions_2''' = (country admin divisions 2)
+* '''country_capital_type''' = the capital's type of settlement (default value is "city")
+* '''country_capital'''
+* '''country_largest_city_type''' = the largest city's type of settlement (default value is "settlement")
+* '''country_largest_city'''
+* '''country_capital_and_largest_city'''
+* '''country_largest_city_population'''
+* '''country_leader_title'''
+* '''country_leader_name'''
+* '''country_area_km2''' or '''country_area_sqmi''' or '''country_area_m2''' or '''country_area_sqft''' or '''country_area_acre''' or '''country_area_ha''' = the area in either square kilometres or square miles or square metres or square feet or hectares or acres without using {{tl|convert}}; the conversion will be done automatically
+* '''country1''' = (see '''country''')
+* '''country1_admin_divisions_title''' = (country_admin_divisions_title)
+* '''country1_admin_divisions''' = (country_admin_divisions)
+* '''country1_capital_type''' = (country_capital_type)
+* '''country1_capital''' = (country_capital)
+* '''country1_largest_city type''' = (country_largest_city_type)
+* '''country1_largest_city''' = (country_largest_city)
+* '''country1_capital_and_largest_city''' = (country_capital_and_largest_city)
+* '''country1_largest_city_population''' = (country_largest_city_population)
+* '''country1_leader_title'''
+* '''country1_leader_name'''
+* '''country1_area_km2''' or '''country1_area_sqmi''' or '''country1_area_m2''' or '''country1_area_sqft''' or '''country1_area_acre''' or '''country1_area_ha''' = the area in either square kilometres or square miles or square metres or square feet or hectares or acres without using {{tl|convert}}; the conversion will be done automatically
+* '''country2''' = (see '''country''')
+* '''country2_admin_divisions_title''' = (country_admin_divisions_title)
+* '''country2_admin_divisions''' = (country_admin_divisions)
+* '''country2_capital_type''' = (country_capital_type)
+* '''country2_capital''' = (country_capital)
+* '''country2_largest_city_type''' = (country_largest_city_type)
+* '''country2_largest_city''' = (country_largest_city)
+* '''country2_capital_and_largest_city''' = (country_capital_and_largest_city)
+* '''country2_largest_city_population''' = (country_largest_city_population)
+* '''country2_leader_title'''
+* '''country2_leader_name'''
+* '''country2_area_km2''' or '''country2_area_sqmi''' or '''country2_area_m2''' or '''country2_area_sqft''' or '''country2_area_acre''' or '''country2_area_ha''' = the area in either square kilometres or square miles or square metres or square feet or hectares or acres without using {{tl|convert}}; the conversion will be done automatically
+*: '''...'''
+* '''country8''' = (see '''country''')
+* '''country8_admin_divisions_title''' = (country_admin_divisions_title)
+* '''country8_admin_divisions''' = (country_admin_divisions)
+* '''country8_capital_type''' = (country_capital_type)
+* '''country8_capital''' = (country_capital)
+* '''country8_largest_city_type''' = (country_largest_city_type)
+* '''country8_largest_city''' = (country_largest_city)
+* '''country8_capital_and_largest_city''' = (country_capital_and_largest_city)
+* '''country8_largest_city_population''' = (country_largest_city_population)
+* '''country8_leader_title'''
+* '''country8_leader_name'''
+* '''country8_area_km2''' or '''country8_area_sqmi''' or '''country8_area_m2''' or '''country8_area_sqft''' or '''country8_area_acre''' or '''country8_area_ha''' = the area in either square kilometres or square miles or square metres or square feet or hectares or acres without using {{tl|convert}}; the conversion will be done automatically
+* '''demonym''' = the name the people of the island are called that is based on location
+* '''population''' = the size of the island's population
+* '''population_as_of''' = the year when the population [[census]] took place
+** '''population_footnotes''' = references for population values using {{tag|ref}} format.
+* '''density_km2''' or '''density_sqmi''' = the [[population density]] of the island expressed in either persons per square kilometres or persons per square miles without using {{tl|convert}}; the conversion will be done automatically. For example, if the number is 85, the output for <code>density km2</code> is {{convert|85|PD/km2|PD/sqmi|abbr=on}}.
+** '''density_footnotes''' = references for density values using {{tag|ref}} format.
+* '''languages''' = list of native languages spoken by the island's population
+* '''ethnic_groups''' = list the major [[ethnic group]]s making up the island's population
+* '''timezone1''' = 
+* '''utc_offset1''' = 
+* '''timezone1_DST''' = 
+* '''utc_offset1_DST''' = 
+* '''timezone2''' = 
+* '''utc_offset2''' = 
+* '''timezone2_DST''' = 
+* '''utc_offset2_DST''' = 
+* '''website''' = 
+* '''additional_info''' = a space for additional information at the bottom of the infobox
+* '''footnotes''' =
+
+===Location maps===
+The <code>map</code> parameter can be used to display a map with a location marker.
+{{Infobox islands
+| name              = Santa Catalina Island
+| pushpin_map       = USA California
+| pushpin_map_width = 220
+| coordinates       = {{coord|33|23|0|N|118|25|0|W|display=inline}}
+| location          = [[Pacific Ocean]]
+| country           = United States
+}}
+
+<syntaxhighlight lang="wikitext" style="overflow:auto; font-size: 90%;">
+{{Infobox islands
+| name              = Santa Catalina Island
+| pushpin_map       = USA California
+| pushpin_map_width = 220
+| coordinates       = {{coord|33|23|0|N|118|25|0|W|display=inline}}
+| location          = [[Pacific Ocean]]
+| country           = United States
+}}
+</syntaxhighlight>
+
+The <code>pushpin_map_caption</code> parameter can be used to display a caption below the map. A width of 220px is generally recommended but this width should be reduced for maps that are taller than they are wide. Use <code>pushpin_map_width=220</code> and not <code>pushpin_map_width=220px</code>.
+{{clear}}
+
+===Mapframe maps===
+{{Infobox mapframe/doc/parameters
+  | onByDefault = yes, unless any of these are set: {{para|pushpin_map}}, {{para|map}}, {{para|image_map}}, {{para|map_image}}
+  | mapframe-zoom = 7
+  | mapframe-marker = island
+  | mapframe-marker-color = #a8bdec
+  | mapframe-frame-width = 250
+  | mapframe-wikidata = yes
+}}
+
+===Disputed territory===
+If the territory in question is disputed, use {{para|disputed|yes}}, which will add an additional header to show which other countries are making a claim.
+{{Infobox islands
+| disputed                   = yes
+| name                       = Liancourt Rocks
+| plural                     = yes
+| other_names                = Dokdo, Takeshima
+| image_name                 = Location-of-Liancourt-rocks-en.png
+| image_size                 = 300px
+| image_caption              = Location of the Liancourt Rocks in the Sea of Japan (East Sea) between South Korea and Japan
+| image_map                  = Liancourt Rocks Map.svg
+| map_caption                = Liancourt Rocks
+| location                   = [[Sea of Japan]] (East Sea)
+| coordinates                = {{coord|37|14|30|N|131|52|0|E|display=inline}}
+| total_islands              = 90 (37 permanent land)
+| major_islands              = East Islet, West Islet
+| country                    = South Korea
+| country_admin_divisions_title = County
+| country_admin_divisions    = [[Ulleung County]]
+| country1                   = Japan
+| country1_admin_divisions_title = Town
+| country1_admin_divisions   = [[Okinoshima, Shimane|Okinoshima]]
+| country2                   = South Korea
+| country2_admin_divisions_title = County
+| country2_admin_divisions   = [[Ulleung County]]
+| population                 = 2 + 43 support personnel
+| ethnic_groups              = [[Korean people|Korean]]
+}}
+<syntaxhighlight lang="wikitext">
+{{Infobox islands
+| disputed                   = yes
+| name                       = Liancourt Rocks
+| plural                     = yes
+| other_names                = Dokdo, Takeshima
+| image_name                 = Location-of-Liancourt-rocks-en.png
+| image_size                 = 300px
+| image_caption              = Location of the Liancourt Rocks in the Sea of Japan (East Sea) between South Korea and Japan
+| image_map                  = Liancourt Rocks Map.svg
+| map_caption                = Liancourt Rocks
+| location                   = [[Sea of Japan]] (East Sea)
+| coordinates                = {{coord|37|14|30|N|131|52|0|E|display=inline}}
+| total_islands              = 90 (37 permanent land)
+| major_islands              = East Islet, West Islet
+| country                    = South Korea
+| country_admin_divisions_title = County
+| country_admin_divisions    = [[Ulleung County]]
+| country1                   = Japan
+| country1_admin_divisions_title = Town
+| country1_admin_divisions   = [[Okinoshima, Shimane|Okinoshima]]
+| country2                   = South Korea
+| country2_admin_divisions_title = County
+| country2_admin_divisions   = [[Ulleung County]]
+| population                 = 2 + 43 support personnel
+| ethnic_groups              = [[Korean people|Korean]]
+}}
+</syntaxhighlight>
+
+==Microformat==
+This template generates an hCard microformat. More information can be found [[Template:UF-hcard-geo|here]].
+
+== Tracking categories ==
+* {{clc|Articles using infobox islands with additional info}}
+* {{clc|Pages using infobox islands with unknown parameters}}
+* {{clc|Pages using infobox islands with conflicting parameters}}
+
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"name": {
+			"label": "Name",
+			"description": "Official name (without the word island). Defaults to page's title.",
+			"type": "string",
+			"required": true,
+			"suggested": true
+		},
+		"disputed": {
+			"label": "Disputed?",
+			"description": "For islands or archipelagos which are disputed, put \"yes\". Otherwise, leave blank.",
+			"type": "string",
+			"suggestedvalues": [
+				"yes"
+			]
+		},
+		"native_name": {
+			"label": "Native name",
+			"description": "Only when the common name is different from the native name. To remove the \"native name\" prefix, use \"Local name\" instead.",
+			"type": "string"
+		},
+		"native_name_link": {
+			"label": "Native name link",
+			"description": "Link to the article about the language used for the native name. Use with \"Native name\".",
+			"type": "wiki-page-name"
+		},
+		"sobriquet": {
+			"aliases": [
+				"nickname"
+			],
+			"label": "Nickname",
+			"description": "Well-known sobriquet or nickname.",
+			"type": "string"
+		},
+		"image": {
+			"aliases": [
+				"image_name"
+			],
+			"label": "Image 1",
+			"description": "Locator/satellite/other map image.",
+			"type": "wiki-file-name",
+			"suggested": true
+		},
+		"image_size": {
+			"label": "Image 1 size",
+			"description": "Size of the image in pixels.",
+			"example": "100px",
+			"type": "string"
+		},
+		"image_alt": {
+			"label": "Image 1 alternative text",
+			"description": "Alternative text for the image; for accesibility purposes. This text will be read out by screen readers in place of the image, and is invisible. Describe the contents of the image.",
+			"type": "content"
+		},
+		"image_caption": {
+			"label": "Image 1 caption",
+			"type": "content"
+		},
+		"image_map": {
+			"aliases": [
+				"map_image"
+			],
+			"label": "Image 2",
+			"description": "Locator/satellite/other map image.",
+			"type": "wiki-file-name"
+		},
+		"image_map_size": {
+			"aliases": [
+				"map_size"
+			],
+			"label": "Image 2 size",
+			"description": "Size of the image in pixels.",
+			"example": "100px",
+			"type": "string"
+		},
+		"image_map_alt": {
+			"aliases": [
+				"map_alt"
+			],
+			"label": "Image 2 alternative text",
+			"description": "Alternative text for the image; for accesibility purposes. This text will be read out by screen readers in place of the image, and is invisible. Describe the contents of the image.",
+			"type": "content"
+		},
+		"image_map_caption": {
+			"aliases": [
+				"map_image_caption",
+				"map_caption"
+			],
+			"label": "Image 2 caption",
+			"type": "content"
+		},
+		"pushpin_map": {
+			"aliases": [
+				"map"
+			],
+			"label": "Pushpin map",
+			"description": "The name of a location map as per Template:Location map.",
+			"example": "Indonesia",
+			"type": "string"
+		},
+		"pushpin_map_alt": {
+			"label": "Pushpin map alternative text",
+			"description": "Alternative text for the map; for accesibility purposes. This text will be read out by screen readers in place of the image, and is invisible. Describe the contents of the map. ",
+			"type": "content"
+		},
+		"pushpin_map_width": {
+			"aliases": [
+				"map_width"
+			],
+			"label": "Pushpin map width",
+			"description": "Width of the map in pixels.",
+			"example": "100px",
+			"type": "string"
+		},
+		"pushpin_map_caption": {
+			"label": "Pushpin map caption",
+			"type": "content"
+		},
+		"pushpin_map_mark": {
+			"aliases": [
+				"map_mark",
+				"pushpin_mark"
+			],
+			"label": "Pushpin map mark",
+			"description": "Image of the pushpin. Defaults to a red dot.",
+			"type": "wiki-file-name"
+		},
+		"pushpin_map_mark_width": {
+			"aliases": [
+				"pushpin_mark_width",
+				"map_mark_width"
+			],
+			"label": "Pushpin map mark width",
+			"description": "Size of the image in pixels.",
+			"example": "10px",
+			"type": "string"
+		},
+		"pushpin_map_relief": {
+			"aliases": [
+				"pushpin_relief",
+				"map_relief"
+			],
+			"label": "Use relief pushpin map?",
+			"description": "If set to anything (including \"no\"), the pushpin map will be a relief map, if it's available. Leave blank for a flat map.",
+			"type": "string",
+			"suggestedvalues": [
+				"yes"
+			]
+		},
+		"pushpin_map_label": {
+			"aliases": [
+				"pushpin_label",
+				"label"
+			],
+			"label": "Pushpin map label",
+			"description": "Pin's label. Defaults to \"Name\".",
+			"type": "content"
+		},
+		"pushpin_map_label_position": {
+			"aliases": [
+				"pushpin_label_position",
+				"label_position"
+			],
+			"label": "Pushpin map label position",
+			"type": "content"
+		},
+		"coordinates": {
+			"label": "Coordinates",
+			"description": "{{coord|LATITUDE|N/S|LONGITUDE|E/W|display=it}}",
+			"example": "{{coord|49|11|24.06|N|2|6|36|W|display=inline,title}}",
+			"type": "content",
+			"suggested": true
+		},
+		"other_names": {
+			"label": "Other names",
+			"type": "content"
+		},
+		"etymology": {
+			"label": "Etymology",
+			"type": "content"
+		},
+		"location": {
+			"label": "Location",
+			"description": "Sea in which the island is located.",
+			"type": "content",
+			"required": true
+		},
+		"grid_reference": {
+			"label": "OS grid reference",
+			"description": "For the UK only.",
+			"type": "content"
+		},
+		"island_type": {
+			"label": "Type",
+			"description": "Type of island.",
+			"example": "Volcanic",
+			"type": "content"
+		},
+		"archipelago": {
+			"label": "Archipelago",
+			"description": "The name of the group of islands the island belongs to.",
+			"type": "content"
+		},
+		"waterbody": {
+			"label": "Adjacent to"
+		},
+		"total_islands": {
+			"label": "Total islands",
+			"description": "Total number of islands (for archipelagos only).",
+			"type": "content"
+		},
+		"major_islands": {
+			"label": "Major islands",
+			"description": "Names of the major islands (for archipelagos only).",
+			"type": "content"
+		},
+		"area_km2": {
+			"label": "Area (square kilometers)",
+			"description": "Choose only one \"Area\" parameter.",
+			"type": "number"
+		},
+		"area_sqmi": {
+			"label": "Area (square miles)",
+			"description": "Choose only one \"Area\" parameter.",
+			"type": "number"
+		},
+		"area_m2": {
+			"label": "Area (square meters)",
+			"description": "Choose only one \"Area\" parameter.",
+			"type": "number"
+		},
+		"area_sqft": {
+			"label": "Area (square feet)",
+			"description": "Choose only one \"Area\" parameter.",
+			"type": "number"
+		},
+		"area_ha": {
+			"label": "Area (hectares)",
+			"description": "Choose only one \"Area\" parameter.",
+			"type": "number"
+		},
+		"area_acre": {
+			"label": "Area (acres)",
+			"description": "Choose only one \"Area\" parameter.",
+			"type": "number"
+		},
+		"area_footnotes": {
+			"label": "\"Area\" footnotes",
+			"description": "References for area values using <ref>...</ref> format.",
+			"type": "content"
+		},
+		"rank": {
+			"label": "Area rank",
+			"description": "The island's rank among other islands in the world in terms of size (1st being the largest island).",
+			"example": "1st",
+			"type": "content"
+		},
+		"length_km": {
+			"label": "Length (kilometers)",
+			"description": "Choose only one \"Length\" parameter.",
+			"type": "number"
+		},
+		"length_mi": {
+			"label": "Length (miles)",
+			"description": "Choose only one \"Length\" parameter.",
+			"type": "number"
+		},
+		"length_m": {
+			"label": "Length (meters)",
+			"description": "Choose only one \"Length\" parameter.",
+			"type": "number"
+		},
+		"length_ft": {
+			"label": "Length (feet)",
+			"description": "Choose only one \"Length\" parameter.",
+			"type": "number"
+		},
+		"length_footnotes": {
+			"label": "\"Length\" footnotes",
+			"description": "References for length values using <ref>...</ref> format.",
+			"type": "content"
+		},
+		"width_min_km": {
+			"label": "Minimum width (kilometers)",
+			"description": "Use \"Minimum width\" and \"Maximum width\" together. Don't mix units. If width is known, see the \"Width\" parameters.",
+			"type": "number"
+		},
+		"width_max_km": {
+			"label": "Maximum width (kilometers)",
+			"description": "Use \"Minimum width\" and \"Maximum width\" together. Don't mix units. If width is known, see the \"Width\" parameters.",
+			"type": "number"
+		},
+		"width_min_mi": {
+			"label": "Minimum width (miles)",
+			"description": "Use \"Minimum width\" and \"Maximum width\" together. Don't mix units. If width is known, see the \"Width\" parameters.",
+			"type": "number"
+		},
+		"width_max_mi": {
+			"label": "Maximum width (miles)",
+			"description": "Use \"Minimum width\" and \"Maximum width\" together. Don't mix units. If width is known, see the \"Width\" parameters.",
+			"type": "number"
+		},
+		"width_min_m": {
+			"label": "Minimum width (meters)",
+			"description": "Use \"Minimum width\" and \"Maximum width\" together. Don't mix units. If width is known, see the \"Width\" parameters.",
+			"type": "number"
+		},
+		"width_max_m": {
+			"label": "Maximum width (meters)",
+			"description": "Use \"Minimum width\" and \"Maximum width\" together. Don't mix units. If width is known, see the \"Width\" parameters.",
+			"type": "number"
+		},
+		"width_min_ft": {
+			"label": "Minimum width (feet)",
+			"description": "Use \"Minimum width\" and \"Maximum width\" together. Don't mix units. If width is known, see the \"Width\" parameters.",
+			"type": "number"
+		},
+		"width_max_ft": {
+			"label": "Maximum width (feet)",
+			"description": "Use \"Minimum width\" and \"Maximum width\" together. Don't mix units. If width is known, see the \"Width\" parameters.",
+			"type": "number"
+		},
+		"width_km": {
+			"label": "Width (kilometers)",
+			"description": "Choose only one \"Width\" parameter. If a width range is required, see \"Maximum width\" and \"Minimum width\" parameters.",
+			"type": "number"
+		},
+		"width_mi": {
+			"label": "Width (miles)",
+			"description": "Choose only one \"Width\" parameter. If a width range is required, see \"Maximum width\" and \"Minimum width\" parameters.",
+			"type": "number"
+		},
+		"width_m": {
+			"label": "Width (meters)",
+			"description": "Choose only one \"Width\" parameter. If a width range is required, see \"Maximum width\" and \"Minimum width\" parameters.",
+			"type": "number"
+		},
+		"width_ft": {
+			"label": "Width (feet)",
+			"description": "Choose only one \"Width\" parameter. If a width range is required, see \"Maximum width\" and \"Minimum width\" parameters.",
+			"type": "number"
+		},
+		"width_footnotes": {
+			"label": "\"Width\" footnotes",
+			"description": "References for width values using <ref>...</ref> format.",
+			"type": "content"
+		},
+		"coastline_km": {
+			"label": "Coastline (kilometers)",
+			"description": "Choose only one \"Coastline\" parameter.",
+			"type": "number"
+		},
+		"coastline_mi": {
+			"label": "Coastline (miles)",
+			"description": "Choose only one \"Coastline\" parameter.",
+			"type": "number"
+		},
+		"coastline_m": {
+			"label": "Coastline (meters)",
+			"description": "Choose only one \"Coastline\" parameter.",
+			"type": "number"
+		},
+		"coastline_ft": {
+			"label": "Coastline (feet)",
+			"description": "Choose only one \"Coastline\" parameter.",
+			"type": "number"
+		},
+		"coastline_footnotes": {
+			"label": "\"Coastline\" footnotes",
+			"description": "References for coastline values using <ref>...</ref> format.",
+			"type": "content"
+		},
+		"elevation_m": {
+			"label": "Elevation (meters)",
+			"description": "Choose only one \"Elevation\" parameter.",
+			"type": "number"
+		},
+		"elevation_ft": {
+			"label": "Elevation (feet)",
+			"description": "Choose only one \"Elevation\" parameter.",
+			"type": "number"
+		},
+		"elevation_footnotes": {
+			"label": "\"Elevation\" footnotes",
+			"description": "References for elevation values using <ref>...</ref> format.",
+			"type": "content"
+		},
+		"highest_mount": {
+			"label": "Highest point",
+			"description": "Name of the highest point on the island, if any.",
+			"type": "content"
+		},
+		"country": {
+			"label": "Country 1",
+			"description": "Country that administers the islands.",
+			"type": "string"
+		},
+		"treaty_system": {
+			"label": "Administered under the?",
+			"description": "Treaty system the island is under, if any.",
+			"type": "content"
+		},
+		"country_admin_divisions_title": {
+			"label": "Country 1, administrative divisions 1, title",
+			"description": "Title for the administrative divisions.",
+			"type": "string"
+		},
+		"country_admin_divisions": {
+			"label": "Country 1, administrative divisions 1",
+			"description": "The administrative divisions that govern the island.",
+			"type": "content"
+		},
+		"country_admin_divisions_title_1": {
+			"label": "Country 1, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country_admin_divisions_1": {
+			"label": "Country 1, administrative divisions 2",
+			"type": "content"
+		},
+		"country_admin_divisions_title_2": {
+			"label": "Country 1, administrative divisions 3, title",
+			"type": "string"
+		},
+		"country_admin_divisions_2": {
+			"label": "Country 1, administrative divisions 3",
+			"type": "content"
+		},
+		"country_admin_divisions_title_3": {
+			"label": "Country 1, administrative divisions 4, title",
+			"type": "string"
+		},
+		"country_admin_divisions_3": {
+			"label": "Country 1, administrative divisions 4",
+			"type": "content"
+		},
+		"country_admin_divisions_title_4": {
+			"label": "Country 1, administrative divisions 5, title",
+			"type": "string"
+		},
+		"country_admin_divisions_4": {
+			"label": "Country 1, administrative divisions 5",
+			"type": "content"
+		},
+		"country_capital_and_largest_city": {
+			"label": "Country 1, capital and largest city",
+			"description": "This parameter overrides \"Country 1, capital city\". If the largest city is not the capital city, use the \"Country 1, capital city\" and \"Country 1, largest city\" parameters.",
+			"type": "string"
+		},
+		"country_capital": {
+			"label": "Country 1, capital city",
+			"description": "This parameter is overridden by \"Country 1, capital and largest city\".",
+			"type": "string"
+		},
+		"country_largest_city_type": {
+			"aliases": [
+				"country largest city type"
+			],
+			"label": "Country 1, largest city type",
+			"description": "This can apply to \"Country 1, capital and largest city\" and \"Country 1, largest city\".",
+			"type": "string"
+		},
+		"country_largest_city": {
+			"label": "Country 1, largest city",
+			"type": "string"
+		},
+		"country_largest_city_population": {
+			"label": "Country 1, largest city population",
+			"type": "content"
+		},
+		"country_capital_type": {
+			"aliases": [
+				"country capital type"
+			],
+			"label": "Country 1, capital city type",
+			"type": "string"
+		},
+		"country_leader_title": {
+			"label": "Country 1, leader title",
+			"type": "string"
+		},
+		"country_leader_name": {
+			"label": "Country 1, leader name",
+			"type": "string"
+		},
+		"country_area_km2": {
+			"label": "Country 1, area (square kilometers)",
+			"description": "Choose only one \"Country 1, area\" parameter.",
+			"type": "number"
+		},
+		"country_area_sqmi": {
+			"label": "Country 1, area (square miles)",
+			"description": "Choose only one \"Country 1, area\" parameter.",
+			"type": "number"
+		},
+		"country_area_m2": {
+			"label": "Country 1, area (square meters)",
+			"description": "Choose only one \"Country 1, area\" parameter.",
+			"type": "number"
+		},
+		"country_area_sqft": {
+			"label": "Country 1, area (square feet)",
+			"description": "Choose only one \"Country 1, area\" parameter.",
+			"type": "number"
+		},
+		"country_area_ha": {
+			"label": "Country 1, area (hectares)",
+			"description": "Choose only one \"Country 1, area\" parameter.",
+			"type": "number"
+		},
+		"country_area_acre": {
+			"label": "Country 1, area (acres)",
+			"description": "Choose only one \"Country 1, area\" parameter.",
+			"type": "number"
+		},
+		"country_area": {
+			"label": "Country 1, area appendices",
+			"description": "Attached to the end of the \"Country 1, area <X>\" parameters.",
+			"type": "content"
+		},
+		"country1": {
+			"label": "Country 2",
+			"description": "Refer to \"Country 1\" parameters for documentation of \"Country X\" parameters. Please note: if the \"Disputed?\" parameter is set to \"yes\", \"Country X\" parameters that are not \"Country 1\" will be under a \"Claimed by\" header.",
+			"type": "string"
+		},
+		"country1_admin_divisions_title": {
+			"label": "Country 2, administrative divisions 1, title",
+			"type": "string"
+		},
+		"country1_admin_divisions": {
+			"label": "Country 2, administrative divisions 1",
+			"type": "content"
+		},
+		"country1_admin_divisions_title_1": {
+			"label": "Country 2, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country1_admin_divisions_1": {
+			"label": "Country 2, administrative divisions 2",
+			"type": "content"
+		},
+		"country1_admin_divisions_title_2": {
+			"label": "Country 2, administrative divisions 3, title",
+			"type": "string"
+		},
+		"country1_admin_divisions_2": {
+			"label": "Country 2, administrative divisions 3",
+			"type": "content"
+		},
+		"country1_capital_type": {
+			"aliases": [
+				"country 1 capital type"
+			],
+			"label": "Country 2, capital city type",
+			"type": "string"
+		},
+		"country1_capital_and_largest_city": {
+			"label": "Country 2, capital and largest city",
+			"type": "string"
+		},
+		"country1_capital": {
+			"label": "Country 2, capital city",
+			"type": "string"
+		},
+		"country1_largest_city_type": {
+			"aliases": [
+				"country 1 largest city type"
+			],
+			"label": "Country 2, largest city type",
+			"type": "string"
+		},
+		"country1_largest_city": {
+			"label": "Country 2, largest city",
+			"type": "string"
+		},
+		"country1_largest_city_population": {
+			"label": "Country 2, largest city population",
+			"type": "content"
+		},
+		"country1_leader_title": {
+			"label": "Country 2, leader title",
+			"type": "string"
+		},
+		"country1_leader_name": {
+			"label": "Country 2, leader name",
+			"type": "string"
+		},
+		"country1_area_km2": {
+			"label": "Country 2, area (square kilometers)",
+			"type": "number"
+		},
+		"country1_area_sqmi": {
+			"label": "Country 2, area (square miles)",
+			"type": "number"
+		},
+		"country1_area_m2": {
+			"label": "Country 2, area (square meters)",
+			"type": "number"
+		},
+		"country1_area_sqft": {
+			"label": "Country 2, area (square feet)",
+			"type": "number"
+		},
+		"country1_area_ha": {
+			"label": "Country 2, area (hectares)",
+			"type": "number"
+		},
+		"country1_area_acre": {
+			"label": "Country 2, area (acres)",
+			"type": "number"
+		},
+		"country1_area": {
+			"label": "Country 2, area appendices",
+			"type": "content"
+		},
+		"country2": {
+			"label": "Country 3",
+			"type": "string"
+		},
+		"country2_admin_divisions_title": {
+			"label": "Country 3, administrative divisions 1, title",
+			"type": "string"
+		},
+		"country2_admin_divisions": {
+			"label": "Country 3, administrative divisions 1",
+			"type": "content"
+		},
+		"country2_admin_divisions_title_1": {
+			"label": "Country 3, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country2_admin_divisions_1": {
+			"label": "Country 3, administrative divisions 2",
+			"type": "content"
+		},
+		"country2_capital_type": {
+			"aliases": [
+				"country 2 capital type"
+			],
+			"label": "Country 3, capital city type",
+			"type": "string"
+		},
+		"country2_capital_and_largest_city": {
+			"label": "Country 3, capital and largest city",
+			"type": "string"
+		},
+		"country2_capital": {
+			"label": "Country 3, capital city",
+			"type": "string"
+		},
+		"country2_largest_city_type": {
+			"aliases": [
+				"country 2 largest city type"
+			],
+			"label": "Country 3, largest city type",
+			"type": "string"
+		},
+		"country2_largest_city": {
+			"label": "Country 3, largest city",
+			"type": "string"
+		},
+		"country2_largest_city_population": {
+			"label": "Country 3, largest city population",
+			"type": "content"
+		},
+		"country2_leader_title": {
+			"label": "Country 3, leader title",
+			"type": "string"
+		},
+		"country2_leader_name": {
+			"label": "Country 3, leader name",
+			"type": "string"
+		},
+		"country2_area_km2": {
+			"label": "Country 3, area (square kilometers)",
+			"type": "number"
+		},
+		"country2_area_sqmi": {
+			"label": "Country 3, area (square miles)",
+			"type": "number"
+		},
+		"country2_area_m2": {
+			"label": "Country 3, area (square meters)",
+			"type": "number"
+		},
+		"country2_area_sqft": {
+			"label": "Country 3, area (square feet)",
+			"type": "number"
+		},
+		"country2_area_ha": {
+			"label": "Country 3, area (hectares)",
+			"type": "number"
+		},
+		"country2_area_acre": {
+			"label": "Country 3, area (acres)",
+			"type": "number"
+		},
+		"country2_area": {
+			"label": "Country 3, area appendices",
+			"type": "content"
+		},
+		"country3": {
+			"label": "Country 4",
+			"type": "string"
+		},
+		"country3_admin_divisions_title": {
+			"label": "Country 4, administrative divisions 1, title",
+			"type": "string"
+		},
+		"country3_admin_divisions": {
+			"label": "Country 4, administrative divisions 1",
+			"type": "content"
+		},
+		"country3_admin_divisions_title_1": {
+			"label": "Country 4, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country3_admin_divisions_1": {
+			"label": "Country 4, administrative divisions 2",
+			"type": "content"
+		},
+		"country3_capital_type": {
+			"aliases": [
+				"country 3 capital type"
+			],
+			"label": "Country 4, capital city type",
+			"type": "string"
+		},
+		"country3_capital_and_largest_city": {
+			"label": "Country 4, capital and largest city",
+			"type": "string"
+		},
+		"country3_capital": {
+			"label": "Country 4, capital city",
+			"type": "string"
+		},
+		"country3_largest_city_type": {
+			"aliases": [
+				"country 3 largest city type"
+			],
+			"label": "Country 4, largest city type",
+			"type": "string"
+		},
+		"country3_largest_city": {
+			"label": "Country 4, largest city",
+			"type": "string"
+		},
+		"country3_largest_city_population": {
+			"label": "Country 4, largest city population",
+			"type": "content"
+		},
+		"country3_leader_title": {
+			"label": "Country 4, leader title",
+			"type": "string"
+		},
+		"country3_leader_name": {
+			"label": "Country 4, leader name",
+			"type": "string"
+		},
+		"country3_area_km2": {
+			"label": "Country 4, area (square kilometers)",
+			"type": "number"
+		},
+		"country3_area_sqmi": {
+			"label": "Country 4, area (square miles)",
+			"type": "number"
+		},
+		"country3_area_m2": {
+			"label": "Country 4, area (square meters)",
+			"type": "number"
+		},
+		"country3_area_sqft": {
+			"label": "Country 4, area (square feet)",
+			"type": "number"
+		},
+		"country3_area_ha": {
+			"label": "Country 4, area (hectares)",
+			"type": "number"
+		},
+		"country3_area_acre": {
+			"label": "Country 4, area (acres)",
+			"type": "number"
+		},
+		"country3_area": {
+			"label": "Country 4, area appendices",
+			"type": "content"
+		},
+		"country4": {
+			"label": "Country 5",
+			"type": "string"
+		},
+		"country4_admin_divisions_title": {
+			"label": "Country 5, administrative divisions 1, title",
+			"type": "string"
+		},
+		"country4_admin_divisions": {
+			"label": "Country 5, administrative divisions 1",
+			"type": "content"
+		},
+		"country4_admin_divisions_title_1": {
+			"label": "Country 5, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country4_admin_divisions_1": {
+			"label": "Country 5, administrative divisions 2",
+			"type": "content"
+		},
+		"country4_capital_type": {
+			"aliases": [
+				"country 4 capital type"
+			],
+			"label": "Country 5, capital city type",
+			"type": "string"
+		},
+		"country4_capital_and_largest_city": {
+			"label": "Country 5, capital and largest city",
+			"type": "string"
+		},
+		"country4_capital": {
+			"label": "Country 5, capital city",
+			"type": "string"
+		},
+		"country4_largest_city_type": {
+			"aliases": [
+				"country 4 largest city type"
+			],
+			"label": "Country 5, largest city type",
+			"type": "string"
+		},
+		"country4_largest_city": {
+			"label": "Country 5, largest city",
+			"type": "string"
+		},
+		"country4_largest_city_population": {
+			"label": "Country 5, largest city population",
+			"type": "content"
+		},
+		"country4_leader_title": {
+			"label": "Country 5, leader title",
+			"type": "string"
+		},
+		"country4_leader_name": {
+			"label": "Country 5, leader name",
+			"type": "string"
+		},
+		"country4_area_km2": {
+			"label": "Country 5, area (square kilometers)",
+			"type": "number"
+		},
+		"country4_area_sqmi": {
+			"label": "Country 5, area (square miles)",
+			"type": "number"
+		},
+		"country4_area_m2": {
+			"label": "Country 5, area (square meters)",
+			"type": "number"
+		},
+		"country4_area_sqft": {
+			"label": "Country 5, area (square feet)",
+			"type": "number"
+		},
+		"country4_area_ha": {
+			"label": "Country 5, area (hectares)",
+			"type": "number"
+		},
+		"country4_area_acre": {
+			"label": "Country 5, area (acres)",
+			"type": "number"
+		},
+		"country4_area": {
+			"label": "Country 5, area appendices",
+			"type": "content"
+		},
+		"country5": {
+			"label": "Country 6",
+			"type": "string"
+		},
+		"country5_admin_divisions_title": {
+			"label": "Country 6, administrative divisions 1, title",
+			"type": "string"
+		},
+		"country5_admin_divisions": {
+			"label": "Country 6, administrative divisions 1",
+			"type": "content"
+		},
+		"country5_admin_divisions_title_1": {
+			"label": "Country 6, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country5_admin_divisions_1": {
+			"label": "Country 6, administrative divisions 2",
+			"type": "content"
+		},
+		"country5_capital_type": {
+			"aliases": [
+				"country 5 capital type"
+			],
+			"label": "Country 6, capital city type",
+			"type": "string"
+		},
+		"country5_capital_and_largest_city": {
+			"label": "Country 6, capital and largest city",
+			"type": "string"
+		},
+		"country5_capital": {
+			"label": "Country 6, capital city",
+			"type": "string"
+		},
+		"country5_largest_city_type": {
+			"aliases": [
+				"country 5 largest city type"
+			],
+			"label": "Country 6, largest city type",
+			"type": "string"
+		},
+		"country5_largest_city": {
+			"label": "Country 6, largest city",
+			"type": "string"
+		},
+		"country5_largest_city_population": {
+			"label": "Country 6, largest city population",
+			"type": "content"
+		},
+		"country5_leader_title": {
+			"label": "Country 6, leader title",
+			"type": "string"
+		},
+		"country5_leader_name": {
+			"label": "Country 6, leader name",
+			"type": "string"
+		},
+		"country5_area_km2": {
+			"label": "Country 6, area (square kilometers)",
+			"type": "number"
+		},
+		"country5_area_sqmi": {
+			"label": "Country 6, area (square miles)",
+			"type": "number"
+		},
+		"country5_area_m2": {
+			"label": "Country 6, area (square meters)",
+			"type": "number"
+		},
+		"country5_area_sqft": {
+			"label": "Country 6, area (square feet)",
+			"type": "number"
+		},
+		"country5_area_ha": {
+			"label": "Country 6, area (hectares)",
+			"type": "number"
+		},
+		"country5_area_acre": {
+			"label": "Country 6, area (acres)",
+			"type": "number"
+		},
+		"country5_area": {
+			"label": "Country 6, area appendices",
+			"type": "content"
+		},
+		"country6": {
+			"label": "Country 7",
+			"type": "string"
+		},
+		"country6_admin_divisions_title": {
+			"label": "Country 7, administrative divisions 1, title",
+			"type": "string"
+		},
+		"country6_admin_divisions": {
+			"label": "Country 7, administrative divisions 1",
+			"type": "content"
+		},
+		"country6_admin_divisions_title_1": {
+			"label": "Country 7, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country6_admin_divisions_1": {
+			"label": "Country 7, administrative divisions 2",
+			"type": "content"
+		},
+		"country6_capital_type": {
+			"aliases": [
+				"country 6 capital type"
+			],
+			"label": "Country 7, capital city type",
+			"type": "string"
+		},
+		"country6_capital_and_largest_city": {
+			"label": "Country 7, capital and largest city",
+			"type": "string"
+		},
+		"country6_capital": {
+			"label": "Country 7, capital city",
+			"type": "string"
+		},
+		"country6_largest_city_type": {
+			"aliases": [
+				"country 6 largest city type"
+			],
+			"label": "Country 7, largest city type",
+			"type": "string"
+		},
+		"country6_largest_city": {
+			"label": "Country 7, largest city",
+			"type": "string"
+		},
+		"country6_largest_city_population": {
+			"label": "Country 7, largest city population",
+			"type": "content"
+		},
+		"country6_leader_title": {
+			"label": "Country 7, leader title",
+			"type": "string"
+		},
+		"country6_leader_name": {
+			"label": "Country 7, leader name",
+			"type": "string"
+		},
+		"country6_area_km2": {
+			"label": "Country 7, area (square kilometers)",
+			"type": "number"
+		},
+		"country6_area_sqmi": {
+			"label": "Country 7, area (square miles)",
+			"type": "number"
+		},
+		"country6_area_m2": {
+			"label": "Country 7, area (square meters)",
+			"type": "number"
+		},
+		"country6_area_sqft": {
+			"label": "Country 7, area (square feet)",
+			"type": "number"
+		},
+		"country6_area_ha": {
+			"label": "Country 7, area (hectares)",
+			"type": "number"
+		},
+		"country6_area_acre": {
+			"label": "Country 7, area (acres)",
+			"type": "number"
+		},
+		"country6_area": {
+			"label": "Country 7, area appendices",
+			"type": "content"
+		},
+		"country7": {
+			"label": "Country 8",
+			"type": "string"
+		},
+		"country7_admin_divisions_title": {
+			"label": "Country 8, administrative divisions 1, title",
+			"type": "string"
+		},
+		"country7_admin_divisions": {
+			"label": "Country 8, administrative divisions 1",
+			"type": "content"
+		},
+		"country7_admin_divisions_title_1": {
+			"label": "Country 8, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country7_admin_divisions_1": {
+			"label": "Country 8, administrative divisions 2",
+			"type": "content"
+		},
+		"country7_capital_type": {
+			"aliases": [
+				"country 7 capital type"
+			],
+			"label": "Country 8, capital city type",
+			"type": "string"
+		},
+		"country7_capital_and_largest_city": {
+			"label": "Country 8, capital and largest city",
+			"type": "string"
+		},
+		"country7_capital": {
+			"label": "Country 8, capital city",
+			"type": "string"
+		},
+		"country7_largest_city_type": {
+			"aliases": [
+				"country 7 largest city type"
+			],
+			"label": "Country 8, largest city type",
+			"type": "string"
+		},
+		"country7_largest_city": {
+			"label": "Country 8, largest city",
+			"type": "string"
+		},
+		"country7_largest_city_population": {
+			"label": "Country 8, largest city population",
+			"type": "content"
+		},
+		"country7_leader_title": {
+			"label": "Country 8, leader title",
+			"type": "string"
+		},
+		"country7_leader_name": {
+			"label": "Country 8, leader name",
+			"type": "string"
+		},
+		"country7_area_km2": {
+			"label": "Country 8, area (square kilometers)",
+			"type": "number"
+		},
+		"country7_area_sqmi": {
+			"label": "Country 8, area (square miles)",
+			"type": "number"
+		},
+		"country7_area_m2": {
+			"label": "Country 8, area (square meters)",
+			"type": "number"
+		},
+		"country7_area_sqft": {
+			"label": "Country 8, area (square feet)",
+			"type": "number"
+		},
+		"country7_area_ha": {
+			"label": "Country 8, area (hectares)",
+			"type": "number"
+		},
+		"country7_area_acre": {
+			"label": "Country 8, area (acres)",
+			"type": "number"
+		},
+		"country7_area": {
+			"label": "Country 8, area appendices",
+			"type": "content"
+		},
+		"country8": {
+			"label": "Country 9",
+			"type": "string"
+		},
+		"country8_admin_divisions_title": {
+			"label": "Country 9, administrative divisions 1, title",
+			"type": "string"
+		},
+		"country8_admin_divisions": {
+			"label": "Country 9, administrative divisions 1",
+			"type": "content"
+		},
+		"country8_admin_divisions_title_1": {
+			"label": "Country 9, administrative divisions 2, title",
+			"type": "string"
+		},
+		"country8_admin_divisions_1": {
+			"label": "Country 9, administrative divisions 2",
+			"type": "content"
+		},
+		"country8_capital_type": {
+			"aliases": [
+				"country 8 capital type"
+			],
+			"label": "Country 9, capital city type",
+			"type": "string"
+		},
+		"country8_capital_and_largest_city": {
+			"label": "Country 9, capital and largest city",
+			"type": "string"
+		},
+		"country8_capital": {
+			"label": "Country 9, capital city",
+			"type": "string"
+		},
+		"country8_largest_city_type": {
+			"aliases": [
+				"country 8 largest city type"
+			],
+			"label": "Country 9, largest city type",
+			"type": "string"
+		},
+		"country8_largest_city": {
+			"label": "Country 9, largest city",
+			"type": "string"
+		},
+		"country8_largest_city_population": {
+			"label": "Country 9, largest city population",
+			"type": "content"
+		},
+		"country8_leader_title": {
+			"label": "Country 9, leader title",
+			"type": "string"
+		},
+		"country8_leader_name": {
+			"label": "Country 9, leader name",
+			"type": "string"
+		},
+		"country8_area_km2": {
+			"label": "Country 9, area (square kilometers)",
+			"type": "number"
+		},
+		"country8_area_sqmi": {
+			"label": "Country 9, area (square miles)",
+			"type": "number"
+		},
+		"country8_area_m2": {
+			"label": "Country 9, area (square meters)",
+			"type": "number"
+		},
+		"country8_area_sqft": {
+			"label": "Country 9, area (square feet)",
+			"type": "number"
+		},
+		"country8_area_ha": {
+			"label": "Country 9, area (hectares)",
+			"type": "number"
+		},
+		"country8_area_acre": {
+			"label": "Country 9, area (acres)",
+			"type": "number"
+		},
+		"country8_area": {
+			"label": "Country 9, area appendices",
+			"type": "content"
+		},
+		"demonym": {
+			"label": "Demonym",
+			"description": "The name the people of the island are called.",
+			"type": "content"
+		},
+		"population": {
+			"label": "Population",
+			"description": "Size of the island's population.",
+			"type": "number"
+		},
+		"population_as_of": {
+			"label": "Population as of?",
+			"description": "The year when the population census took place.",
+			"type": "number"
+		},
+		"population_footnotes": {
+			"label": "Population footnotes",
+			"description": "References for population values using <ref>...</ref> format.",
+			"type": "content"
+		},
+		"population_rank": {
+			"label": "Population rank",
+			"example": "1st",
+			"type": "content"
+		},
+		"population_rank_max": {
+			"label": "Population rank out of?",
+			"type": "content"
+		},
+		"density_km2": {
+			"label": "Population density (square kilometers)",
+			"description": "Choose only one \"Population density\" parameter.",
+			"type": "number"
+		},
+		"density_sqmi": {
+			"label": "Population density (square miles)",
+			"description": "Choose only one \"Population density\" parameter.",
+			"type": "number"
+		},
+		"density_footnotes": {
+			"label": "Population density footnotes",
+			"description": "References for density values using <ref>...</ref> format.",
+			"type": "content"
+		},
+		"density_rank": {
+			"label": "Population density rank",
+			"type": "content",
+			"example": "69th"
+		},
+		"languages": {
+			"label": "Languages",
+			"type": "content",
+			"description": "List of native languages spoken by the island's population."
+		},
+		"ethnic_groups": {
+			"label": "Ethnic groups",
+			"description": "List of major ethnic groups making up the island's population.",
+			"type": "content"
+		},
+		"timezone2": {
+			"label": "Alternate timezone",
+			"type": "content",
+			"description": "Common name of alternate timezone, if any. Otherwise, write the UTC offset.",
+			"example": "CST"
+		},
+		"utc_offset1": {
+			"aliases": [
+				"utc_offset"
+			],
+			"label": "UTC offset",
+			"type": "content",
+			"description": "If timezone has common name.",
+			"example": "+1"
+		},
+		"utc_offset2": {
+			"label": "Alternate UTC offset",
+			"type": "content",
+			"description": "If alternate timezone has common name.",
+			"example": "+2"
+		},
+		"timezone1_DST": {
+			"aliases": [
+				"timezone_DST"
+			],
+			"label": "DST timezone",
+			"type": "content",
+			"description": "Common name of daylight saving time (DST) timezone, if any. Otherwise, write the UTC offset."
+		},
+		"utc_offset1_DST": {
+			"aliases": [
+				"utc_offset_DST"
+			],
+			"label": "DST timezone UTC offset",
+			"type": "content",
+			"description": "If DST timezone has common name."
+		},
+		"timezone2_DST": {
+			"label": "Alternate DST timezone",
+			"type": "content",
+			"description": "Common name of daylight saving time (DST) alternate timezone, if any. Otherwise, write the UTC offset."
+		},
+		"utc_offset2_DST": {
+			"label": "Alternate DST timezone UTC offset",
+			"type": "content",
+			"description": "If alternate DST timezone has common name."
+		},
+		"postal_code_type": {
+			"label": "Postal code type",
+			"type": "string",
+			"description": "Defaults to \"Postal code\"."
+		},
+		"postal_code": {
+			"label": "Postal code",
+			"description": "Postal code, unless \"Postal code type\" is different.",
+			"type": "content"
+		},
+		"area_code_type": {
+			"label": "Area code type",
+			"type": "string",
+			"description": "Defaults to telephone numbering plan."
+		},
+		"area_code": {
+			"label": "Area code",
+			"type": "content",
+			"description": "Telephone numbering plan, unless \"Area code type\" is different."
+		},
+		"registration_plate": {
+			"label": "Vehicle registration",
+			"description": "Vehicle registration plate.",
+			"type": "content"
+		},
+		"iso_code_type": {
+			"label": "ISO code type",
+			"type": "string",
+			"description": "Defaults to ISO 3166-2."
+		},
+		"iso_code": {
+			"label": "ISO code",
+			"type": "content",
+			"description": "ISO 3166-2 code, unless \"ISO code type\" is different."
+		},
+		"website": {
+			"label": "Official website",
+			"type": "url"
+		},
+		"additional_info": {
+			"label": "Additional information",
+			"description": "Text displayed at the bottom of the infobox, above \"Misc\" and \"Module\".",
+			"type": "content"
+		},
+		"misc": {
+			"label": "Misc",
+			"description": "Displayed alongside \"Module\".",
+			"type": "content"
+		},
+		"module": {
+			"label": "Module",
+			"description": "Used for embedding other infoboxes. Unnecessary for most purposes. Displayed alongside \"Misc\".",
+			"type": "content"
+		},
+		"footnotes": {
+			"label": "Footnotes",
+			"description": "Displayed at the bottom of the infobox.",
+			"type": "content"
+		},
+		"timezone1": {
+			"aliases": [
+				"timezone"
+			],
+			"label": "Timezone",
+			"type": "content",
+			"description": "Common name of timezone, if any. Otherwise, write the UTC offset.",
+			"example": "UTC"
+		},
+		"local_name": {
+			"label": "Local name",
+			"description": "Only when the common name is different from the native name. To add a \"native name\" prefix, use \"Native name\" instead.",
+			"type": "string"
+		},
+		"plural": {
+			"label": "Plural?",
+			"description": "If article is about multiple islets, \"yes\". Otherwise, leave blank.",
+			"type": "string",
+			"suggestedvalues": [
+				"yes"
+			]
+		},
+		"mapframe": {
+			"label": "Show mapframe map",
+			"description": "Specify yes or no to show or hide the map, overriding the default",
+			"example": "yes",
+			"type": "string",
+			"default": "no",
+			"suggested": true
+		},
+		"mapframe-caption": {
+			"label": "Mapframe caption",
+			"description": "Caption for the map. If mapframe-geomask is set, then the default is \"Location in <<geomask's label>>\"",
+			"type": "string"
+		},
+		"mapframe-custom": {
+			"label": "Custom mapframe",
+			"description": "Use a custom map instead of the automatic mapframe. Specify either a {{maplink}} template, or another template that generates a mapframe map, or an image name. If used, other mapframe parameters will be ignored.",
+			"type": "wiki-template-name"
+		},
+		"mapframe-id": {
+			"aliases": [
+				"id",
+				"qid"
+			],
+			"label": "Mapframe Wikidata item",
+			"description": "Id (Q-number) of Wikidata item to use.",
+			"type": "string",
+			"default": "(item for current page)"
+		},
+		"mapframe-coordinates": {
+			"aliases": [
+				"mapframe-coord",
+				"coordinates",
+				"coord"
+			],
+			"label": "Mapframe coordinates ",
+			"description": "Coordinates to use, instead of any on Wikidata. Use the {{Coord}} template.",
+			"example": "{{Coord|12.34|N|56.78|E}}",
+			"type": "wiki-template-name",
+			"default": "(coordinates from Wikidata)"
+		},
+		"mapframe-wikidata": {
+			"label": "Mapframe shapes from Wikidata",
+			"description": "Set to yes to show shape/line features from the wikidata item, if any, when coordinates are specified by parameter",
+			"example": "yes",
+			"type": "string"
+		},
+		"mapframe-shape": {
+			"label": "Mapframe shape feature",
+			"description": "Override display of mapframe shape feature. Turn off by setting to \"none\". Use an inverse shape (geomask) instead of a regular shape by setting to \"inverse\"",
+			"type": "string"
+		},
+		"mapframe-point": {
+			"label": "Mapframe point feature",
+			"description": "Override display of mapframe point feature. Turn off display of point feature by setting to \"none\". Force point marker to be displayed by setting to \"on\"",
+			"type": "string"
+		},
+		"mapframe-geomask": {
+			"label": "Mapframe geomask",
+			"description": "Wikidata item to use as a geomask (everything outside the boundary is shaded darker). Can either be a specific Wikidata item (Q-number), or a property that specifies the item to use (e.g. P17 for country, or P131 for located in the administrative territorial entity)",
+			"example": "Q100",
+			"type": "wiki-page-name"
+		},
+		"mapframe-switcher": {
+			"label": "Mapframe switcher",
+			"description": "Set to \"auto\" or \"geomasks\" or \"zooms\" to enable Template:Switcher-style switching between multiple mapframes. IF SET TO auto – switch geomasks found in location (P276) and located in the administrative territorial entity (P131) statements on the page's Wikidata item, searching recursively. E.g. an item's city, that city's state, and that state's country. IF SET TO geomasks – switch between the geomasks specified as a comma-separated list of Wikidata items (Q-numbers) in the mapframe-geomask parameter. IF SET TO zooms – switch between \"zoomed in\"/\"zoomed midway\"/\"zoomed out\", where \"zoomed in\" is the default zoom (with a minimum of 3), \"zoomed out\" is 1, and \"zoomed midway\" is the average.",
+			"type": "string"
+		},
+		"mapframe-frame-width": {
+			"aliases": [
+				"mapframe-width"
+			],
+			"label": "Mapframe width",
+			"description": "Frame width in pixels",
+			"type": "number",
+			"default": "270"
+		},
+		"mapframe-frame-height": {
+			"aliases": [
+				"mapframe-height"
+			],
+			"label": "Mapframe height",
+			"description": "Frame height in pixels",
+			"type": "number",
+			"default": "200"
+		},
+		"mapframe-shape-fill": {
+			"label": "Mapframe shape fill",
+			"description": "Color used to fill shape features",
+			"type": "string",
+			"default": "#606060"
+		},
+		"mapframe-shape-fill-opacity": {
+			"label": "Mapframe shape fill opacity",
+			"description": "Opacity level of shape fill, a number between 0 and 1",
+			"type": "number",
+			"default": "0.5"
+		},
+		"mapframe-stroke-color": {
+			"aliases": [
+				"mapframe-stroke-colour"
+			],
+			"label": "Mapframe stroke color",
+			"description": "Color of line features, and outlines of shape features",
+			"type": "string",
+			"default": "#ff0000"
+		},
+		"mapframe-stroke-width": {
+			"label": "Mapframe stroke width",
+			"description": "Width of line features, and outlines of shape features",
+			"type": "number",
+			"default": "5"
+		},
+		"mapframe-marker": {
+			"label": "Mapframe marker",
+			"description": "Marker symbol to use for coordinates; see [[mw:Help:Extension:Kartographer/Icons]] for options",
+			"example": "museum",
+			"type": "string"
+		},
+		"mapframe-marker-color": {
+			"aliases": [
+				"mapframe-marker-colour"
+			],
+			"label": "Mapframe marker color",
+			"description": "Background color for the marker",
+			"type": "string",
+			"default": "#5E74F3"
+		},
+		"mapframe-geomask-stroke-color": {
+			"aliases": [
+				"mapframe-geomask-stroke-colour"
+			],
+			"label": "Mapframe geomask stroke color",
+			"description": "Color of outline of geomask shape",
+			"type": "string",
+			"default": "#555555"
+		},
+		"mapframe-geomask-stroke-width": {
+			"label": "Mapframe geomask stroke width",
+			"description": "Width of outline of geomask shape",
+			"type": "number",
+			"default": "2"
+		},
+		"mapframe-geomask-fill": {
+			"label": "Mapframe geomask fill",
+			"description": "Color used to fill outside geomask features",
+			"type": "string",
+			"default": "#606060"
+		},
+		"mapframe-geomask-fill-opacity": {
+			"label": "Mapframe geomask fill opacity",
+			"description": "Opacity level of fill outside geomask features, a number between 0 and 1",
+			"type": "number",
+			"default": "0.5"
+		},
+		"mapframe-zoom": {
+			"label": "Mapframe zoom",
+			"description": "Set the zoom level, from \"1\" to \"18\", to used if the zoom level cannot be determined automatically from object length or area",
+			"example": "12",
+			"type": "number",
+			"default": "10"
+		},
+		"mapframe-length_km": {
+			"label": "Mapframe length (km)",
+			"description": "Object length in kilometres, for automatically determining zoom level. ONLY use ONE of the available parameters for length or area",
+			"type": "number"
+		},
+		"mapframe-length_mi": {
+			"label": "Mapframe length (mi)",
+			"description": "Object length in miles, for automatically determining zoom level. ONLY use ONE of the available parameters for length or area",
+			"type": "number"
+		},
+		"mapframe-area_km2": {
+			"label": "Mapframe area (km^2)",
+			"description": "Object arean square kilometres, for automatically determining zoom level. ONLY use ONE of the available parameters for length or area",
+			"type": "number"
+		},
+		"mapframe-area_mi2": {
+			"label": "Mapframe area (mi^2)",
+			"description": "Object area in square miles, for automatically determining zoom level. ONLY use ONE of the available parameters for length or area",
+			"type": "number"
+		},
+		"mapframe-frame-coordinates": {
+			"aliases": [
+				"mapframe-frame-coord"
+			],
+			"label": "Mapframe frame coordinates",
+			"description": "Alternate latitude and longitude coordinates for initial placement of map, using {{coord}}",
+			"example": "{{Coord|12.35|N|56.71|E}}",
+			"type": "wiki-template-name"
+		},
+		"mapframe-line": {},
+		"mapframe-type": {
+			"label": "Mapframe type",
+			"description": "Type of the object rendered in the mapframe, like with {{coord}}.",
+			"type": "string"
+		}
+	},
+	"description": "This template is intended to be used as an infobox for an island, islet or an archipelago.",
+	"format": "{{_\n| __________________ = _\n}}\n",
+	"paramOrder": [
+		"name",
+		"plural",
+		"disputed",
+		"local_name",
+		"native_name",
+		"native_name_link",
+		"sobriquet",
+		"image",
+		"image_size",
+		"image_alt",
+		"image_caption",
+		"image_map",
+		"image_map_size",
+		"image_map_alt",
+		"image_map_caption",
+		"pushpin_map",
+		"pushpin_map_alt",
+		"pushpin_map_width",
+		"pushpin_map_caption",
+		"pushpin_map_mark",
+		"pushpin_map_mark_width",
+		"pushpin_map_relief",
+		"pushpin_map_label",
+		"pushpin_map_label_position",
+		"coordinates",
+		"other_names",
+		"etymology",
+		"location",
+		"grid_reference",
+		"island_type",
+		"archipelago",
+		"waterbody",
+		"total_islands",
+		"major_islands",
+		"area_km2",
+		"area_sqmi",
+		"area_m2",
+		"area_sqft",
+		"area_ha",
+		"area_acre",
+		"area_footnotes",
+		"rank",
+		"length_km",
+		"length_mi",
+		"length_m",
+		"length_ft",
+		"length_footnotes",
+		"width_km",
+		"width_mi",
+		"width_m",
+		"width_ft",
+		"width_min_km",
+		"width_max_km",
+		"width_min_mi",
+		"width_max_mi",
+		"width_min_m",
+		"width_max_m",
+		"width_min_ft",
+		"width_max_ft",
+		"width_footnotes",
+		"coastline_km",
+		"coastline_mi",
+		"coastline_m",
+		"coastline_ft",
+		"coastline_footnotes",
+		"elevation_m",
+		"elevation_ft",
+		"elevation_footnotes",
+		"highest_mount",
+		"country",
+		"treaty_system",
+		"country_admin_divisions_title",
+		"country_admin_divisions",
+		"country_admin_divisions_title_1",
+		"country_admin_divisions_1",
+		"country_admin_divisions_title_2",
+		"country_admin_divisions_2",
+		"country_admin_divisions_title_3",
+		"country_admin_divisions_3",
+		"country_admin_divisions_title_4",
+		"country_admin_divisions_4",
+		"country_capital_and_largest_city",
+		"country_capital_type",
+		"country_capital",
+		"country_largest_city_type",
+		"country_largest_city",
+		"country_largest_city_population",
+		"country_leader_title",
+		"country_leader_name",
+		"country_area_km2",
+		"country_area_sqmi",
+		"country_area_m2",
+		"country_area_sqft",
+		"country_area_ha",
+		"country_area_acre",
+		"country_area",
+		"country1",
+		"country1_admin_divisions_title",
+		"country1_admin_divisions",
+		"country1_admin_divisions_title_1",
+		"country1_admin_divisions_1",
+		"country1_admin_divisions_title_2",
+		"country1_admin_divisions_2",
+		"country1_capital_and_largest_city",
+		"country1_capital_type",
+		"country1_capital",
+		"country1_largest_city_type",
+		"country1_largest_city",
+		"country1_largest_city_population",
+		"country1_leader_title",
+		"country1_leader_name",
+		"country1_area_km2",
+		"country1_area_sqmi",
+		"country1_area_m2",
+		"country1_area_sqft",
+		"country1_area_ha",
+		"country1_area_acre",
+		"country1_area",
+		"country2",
+		"country2_admin_divisions_title",
+		"country2_admin_divisions",
+		"country2_admin_divisions_title_1",
+		"country2_admin_divisions_1",
+		"country2_capital_and_largest_city",
+		"country2_capital_type",
+		"country2_capital",
+		"country2_largest_city_type",
+		"country2_largest_city",
+		"country2_largest_city_population",
+		"country2_leader_title",
+		"country2_leader_name",
+		"country2_area_km2",
+		"country2_area_sqmi",
+		"country2_area_m2",
+		"country2_area_sqft",
+		"country2_area_ha",
+		"country2_area_acre",
+		"country2_area",
+		"country3",
+		"country3_admin_divisions_title",
+		"country3_admin_divisions",
+		"country3_admin_divisions_title_1",
+		"country3_admin_divisions_1",
+		"country3_capital_and_largest_city",
+		"country3_capital_type",
+		"country3_capital",
+		"country3_largest_city_type",
+		"country3_largest_city",
+		"country3_largest_city_population",
+		"country3_leader_title",
+		"country3_leader_name",
+		"country3_area_km2",
+		"country3_area_sqmi",
+		"country3_area_m2",
+		"country3_area_sqft",
+		"country3_area_ha",
+		"country3_area_acre",
+		"country3_area",
+		"country4",
+		"country4_admin_divisions_title",
+		"country4_admin_divisions",
+		"country4_admin_divisions_title_1",
+		"country4_admin_divisions_1",
+		"country4_capital_and_largest_city",
+		"country4_capital_type",
+		"country4_capital",
+		"country4_largest_city_type",
+		"country4_largest_city",
+		"country4_largest_city_population",
+		"country4_leader_title",
+		"country4_leader_name",
+		"country4_area_km2",
+		"country4_area_sqmi",
+		"country4_area_m2",
+		"country4_area_sqft",
+		"country4_area_ha",
+		"country4_area_acre",
+		"country4_area",
+		"country5",
+		"country5_admin_divisions_title",
+		"country5_admin_divisions",
+		"country5_admin_divisions_title_1",
+		"country5_admin_divisions_1",
+		"country5_capital_and_largest_city",
+		"country5_capital_type",
+		"country5_capital",
+		"country5_largest_city_type",
+		"country5_largest_city",
+		"country5_largest_city_population",
+		"country5_leader_title",
+		"country5_leader_name",
+		"country5_area_km2",
+		"country5_area_sqmi",
+		"country5_area_m2",
+		"country5_area_sqft",
+		"country5_area_ha",
+		"country5_area_acre",
+		"country5_area",
+		"country6",
+		"country6_admin_divisions_title",
+		"country6_admin_divisions",
+		"country6_admin_divisions_title_1",
+		"country6_admin_divisions_1",
+		"country6_capital_and_largest_city",
+		"country6_capital_type",
+		"country6_capital",
+		"country6_largest_city_type",
+		"country6_largest_city",
+		"country6_largest_city_population",
+		"country6_leader_title",
+		"country6_leader_name",
+		"country6_area_km2",
+		"country6_area_sqmi",
+		"country6_area_m2",
+		"country6_area_sqft",
+		"country6_area_ha",
+		"country6_area_acre",
+		"country6_area",
+		"country7",
+		"country7_admin_divisions_title",
+		"country7_admin_divisions",
+		"country7_admin_divisions_title_1",
+		"country7_admin_divisions_1",
+		"country7_capital_and_largest_city",
+		"country7_capital_type",
+		"country7_capital",
+		"country7_largest_city_type",
+		"country7_largest_city",
+		"country7_largest_city_population",
+		"country7_leader_title",
+		"country7_leader_name",
+		"country7_area_km2",
+		"country7_area_sqmi",
+		"country7_area_m2",
+		"country7_area_sqft",
+		"country7_area_ha",
+		"country7_area_acre",
+		"country7_area",
+		"country8",
+		"country8_admin_divisions_title",
+		"country8_admin_divisions",
+		"country8_admin_divisions_title_1",
+		"country8_admin_divisions_1",
+		"country8_capital_and_largest_city",
+		"country8_capital_type",
+		"country8_capital",
+		"country8_largest_city_type",
+		"country8_largest_city",
+		"country8_largest_city_population",
+		"country8_leader_title",
+		"country8_leader_name",
+		"country8_area_km2",
+		"country8_area_sqmi",
+		"country8_area_m2",
+		"country8_area_sqft",
+		"country8_area_ha",
+		"country8_area_acre",
+		"country8_area",
+		"demonym",
+		"population",
+		"population_as_of",
+		"population_footnotes",
+		"population_rank",
+		"population_rank_max",
+		"density_km2",
+		"density_sqmi",
+		"density_footnotes",
+		"density_rank",
+		"languages",
+		"ethnic_groups",
+		"timezone1",
+		"utc_offset1",
+		"timezone2",
+		"utc_offset2",
+		"timezone1_DST",
+		"utc_offset1_DST",
+		"timezone2_DST",
+		"utc_offset2_DST",
+		"postal_code_type",
+		"postal_code",
+		"area_code_type",
+		"area_code",
+		"registration_plate",
+		"iso_code_type",
+		"iso_code",
+		"website",
+		"additional_info",
+		"misc",
+		"module",
+		"footnotes",
+		"mapframe",
+		"mapframe-caption",
+		"mapframe-custom",
+		"mapframe-id",
+		"mapframe-coordinates",
+		"mapframe-wikidata",
+		"mapframe-point",
+		"mapframe-shape",
+		"mapframe-frame-width",
+		"mapframe-frame-height",
+		"mapframe-shape-fill",
+		"mapframe-shape-fill-opacity",
+		"mapframe-stroke-color",
+		"mapframe-stroke-width",
+		"mapframe-marker",
+		"mapframe-marker-color",
+		"mapframe-geomask",
+		"mapframe-geomask-stroke-color",
+		"mapframe-geomask-stroke-width",
+		"mapframe-geomask-fill",
+		"mapframe-geomask-fill-opacity",
+		"mapframe-zoom",
+		"mapframe-length_km",
+		"mapframe-length_mi",
+		"mapframe-area_km2",
+		"mapframe-area_mi2",
+		"mapframe-frame-coordinates",
+		"mapframe-switcher",
+		"mapframe-line",
+		"mapframe-type"
+	]
+}
+</templatedata>
+
+== See also ==
+; Supporting templates
+* [[Template:Infobox islands/area]]
+* [[Template:Infobox islands/density]]
+* [[Template:Infobox islands/length]]
+
+<includeonly>{{Sandbox other||
+<!--Categories below this line, please; interwikis at Wikidata-->
+[[Category:Place infobox templates|Islands]]
+[[Category:Templates with coordinates fields]]
+[[Category:Island templates]]
+[[Category:Infobox templates with module parameter]]
+[[Category:Embeddable templates]]
+[[Category:Infobox templates using Wikidata]]
+[[Category:Templates that add a tracking category|{{PAGENAME}}]]
+}}</includeonly>

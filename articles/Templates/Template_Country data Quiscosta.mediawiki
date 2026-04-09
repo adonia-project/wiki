@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Quiscosta
+| flag alias = Flag of Quiscosta.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

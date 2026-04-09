@@ -1,0 +1,661 @@
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+! colspan="2" rowspan="2" scope="col" |Flag, name and
+postal abbreviation
+! colspan="2" scope="col" |Cities
+! rowspan="2" scope="col" |Ratification or
+establishment
+! rowspan="2" scope="col" |Population
+([[2025 Baliscan census|2025 Census]])
+! rowspan="2" |% of total
+! colspan="2" scope="col" |Total area
+! rowspan="2" scope="col" |[[W:Human Development Index|HDI]]
+! rowspan="2" |No. of
+[[Communes of Balisca|communes]]
+! rowspan="2" |No. of
+[[Cantons of Balisca|cantons]]
+! rowspan="2" |No. of
+[[Commune district|commune districts]]
+! rowspan="2" |Pop. per
+district
+|-
+! scope="col" |Capital
+! scope="col" |Largest
+! scope="col" |km2
+! scope="col" |mi2
+|-
+! scope="row" |{{flag|Abellesia}}
+|AB
+| colspan="2" |[[Palmarés]]
+|14 June 1808
+|1,837,599
+|1.17%
+|64,444.39
+|24,882.12
+|0.914
+|1,622
+|83
+|8 (1.10%)
+|202,979
+|-
+! scope="row" |{{flag|Acacias}}
+|SC
+| colspan="2" |[[Alessandria]]
+|19 December 1808
+|6,369,763
+|4.04%
+|15,910
+|6,143
+|0.928
+|3,769
+|123
+|39 (5.29%)
+|163,327
+|-
+! scope="row" |{{flag|Añãngaraçú}}
+|AU
+| colspan="2" |[[Yvyra'ara]]
+|''22 October 1883''
+|2,505,798
+|1.59%
+|139,520.94
+|53,869.34
+|0.873
+|247
+|28
+|6 (0.95%)
+|417,633
+|-
+! scope="row" |{{flag|Antüko}}
+|AO
+| colspan="2" |[[Las Alemáns]]
+|15 October 1869
+|1,030,733
+|0.65%
+|32,234.24
+|12,445.71
+|0.906
+|86
+|8
+|4 (0.60%)
+|257,683
+|-
+! scope="row" |{{flag|Aprica}}
+|AP
+| colspan="2" |[[Miramar]]
+|19 December 1808
+|2,339,598
+|1.48%
+|29,187
+|11,269
+|0.909
+|78
+|8
+|11 (1.50%)
+|195,659
+|-
+! scope="row" |{{flag|Arapytúcaá}}
+|AT
+| colspan="2" |[[Caámoroti]]
+|22 October 1883
+|946,881
+|0.60%
+|23,962.21
+|9,251.86
+|0.900
+|188
+|11
+|4 (0.60%)
+|218,058
+|-
+! scope="row" |{{flag|Arcadia}}
+|AC
+| colspan="2" |[[Basaxaun]]
+|14 June 1808
+|429,401
+|0.27%
+|7,358
+|2,841
+|0.945
+|116
+|31
+|2 (0.33%)
+|214,701
+|-
+! scope="row" |{{flag|Basilisco}}
+|BA
+| colspan="2" |[[Cordova]]
+|19 December 1808
+|2,369,634
+|1.50%
+|40,056
+|15,466
+|0.912
+|777
+|143
+|11 (1.50%)
+|215,421
+|-
+! scope="row" |{{flag|Brasal}}
+|VA
+| colspan="2" |[[Calabazas]]
+|22 October 1883
+|4,759,045
+|3.02%
+|13,857
+|5,350
+|0.907
+|2,336
+|257
+|22 (3.08%)
+|199,260
+|-
+! scope="row" |{{flag|Cabo Traïdor}}
+|CT
+| colspan="2" |[[Daramazán]]
+|22 October 1883
+|508,460
+|0.32%
+|1,537.25
+|593.54
+|0.897
+|188
+|7
+|2 (0.33%)
+|234,137
+|-
+! scope="row" |{{flag|Cabu Verd}}
+|AL
+|[[Alhambra]]
+|[[Banyalbufar]]
+|14 June 1808
+|1,923,962
+|1.22%
+|6,856.21
+|2,647.20
+|0.899
+|232
+|15
+|9 (1.26%)
+|199,827
+|-
+! scope="row" |{{flag|Cadaqués}}
+|CS
+| colspan="2" |[[Concepción]]
+|14 June 1808
+|12,085,895
+|7.67%
+|5,911.46
+|2,313.32
+|0.925
+|2,007
+|227
+|56 (7.6%)
+|215,820
+|-
+! scope="row" |{{flag|Camaca}}
+|CM
+| colspan="2" |[[San Chorche]]
+|14 June 1808
+|5,172,014
+|3.28%
+|38,211
+|14,753
+|0.888
+|2,427
+|118
+|23 (3.21%)
+|198,733
+|-
+! scope="row" |{{flag|Campostella}}
+|CO
+| colspan="2" |[[Novato]]
+|14 June 1808
+|1,156,220
+|0.73%
+|33,274.23
+|12,847.25
+|0.912
+|104
+|12
+|5 (0.71%)
+|231,244
+|-
+! scope="row" |{{flag|Canyars}}
+|CY
+| colspan="2" |[[Xàbia]]
+|14 June 1808
+|5,010,014
+|3.18%
+|14,374.21
+|5,549.91
+|0.921
+|3,086
+|316
+|23 (3.22%)
+|203,640
+|-
+! scope="row" |{{flag|Cap de Pingüins}}
+|CP
+| colspan="2" |[[Punta Magallanes]]
+|14 June 1808
+|127,686
+|0.08%
+|10,792
+|4,166
+|0.898
+|1,616
+|65
+|1 (0.08%)
+|127,686
+|-
+! scope="row" |{{flag|Carpinchera}}
+|CA
+| colspan="2" |[[Macaio]]
+|14 June 1808
+|14,783,470
+|9.38%
+|6,742
+|2,603
+|0.914
+|341
+|81
+|67 (9.19%)
+|194,998
+|-
+! scope="row" |{{flag|Castejón|}}
+|CDMC
+| colspan="2" |[[Commune of Castejón]]
+|14 June 1808
+|24,479,594
+|15.54%
+|7,950
+|3,070
+|0.966
+|705
+|12
+|121 (16.4%)
+|202,311
+|-
+! scope="row" |{{flag|Catanduva}}
+|CD
+| colspan="2" |[[Maracaju]]
+|22 October 1883
+|5,053,830
+|3.21%
+|78,519.06
+|30,316.38
+|0.923
+|1,724
+|212
+|14 (1.86%)
+|360,988
+|-
+! scope="row" |{{flag|Dríadas}}
+|DS
+| colspan="2" |[[Merced]]
+|14 June 1808
+|7,720,011
+|4.90%
+|15,860.48
+|6,123.77
+|0.930
+|3,142
+|363
+|35 (4.7%)
+|220,572
+|-
+! scope="row" |{{flag|Guarapiranga}}
+|GA
+|[[San Marco]]
+|[[Guadalajara]]
+|14 June 1808
+|1,749,760
+|1.11%
+|53,661
+|20,719
+|0.906
+|92
+|4
+|8 (1.10%)
+|218,720
+|-
+! scope="row" |{{flag|Hibiscara}}
+|HA
+| colspan="2" |[[Kimünrayen]]
+|22 October 1883
+|2,559,380
+|1.62%
+|20,937.24
+|8,083.91
+|0.903
+|223
+|92
+|12 (1.66%)
+|196,438
+|-
+! scope="row" |{{flag|Jaguarundi}}
+|JR
+|[[Sabatia]]
+|[[Calatañazor]]
+|22 October 1883
+|2,028,295
+|1.29%
+|45,969
+|17,749
+|0.932
+|1,817
+|133
+|8 (0.95%)
+|233,546
+|-
+! scope="row" |{{flag|Juyú}}
+|JU
+| colspan="2" |[[Axarquía]]
+|22 October 1883
+|5,630,713
+|3.57%
+|22,727
+|8,775
+|0.906
+|7,320
+|364
+|26 (3.64%)
+|199,532
+|-
+! scope="row" |{{Flag|Küyenmapu}}
+|KM
+| colspan="2" |[[Itamaracá]]
+|''22 October 1883''
+|775,066
+|0.49%
+|29,688.19
+|11,462.67
+|0.868
+|782
+|88
+|3 (0.47%)
+|258,355
+|-
+! scope="row" |{{flag|Las Peñas}}
+|LP
+|[[Portulegnu]]
+|[[Cabo de Peñas]]
+|19 December 1808
+|2,250,482
+|1.43%
+|10,648
+|4,111
+|0.918
+|220
+|10
+|10 (1.39%)
+|225,048
+|-
+! scope="row" |{{flag|Las Serras}}
+|LS
+| colspan="2" |[[Bona Aria]]
+|19 December 1808
+|1,988,095
+|1.26%
+|48,506
+|18,728
+|0.916
+|94
+|5
+|9 (1.22%)
+|219,122
+|-
+! scope="row" |{{flag|Llaragón}}
+|LN
+| colspan="2" |[[Uxiu]]
+|14 June 1808
+|2,054,677
+|1.30%
+|57,411
+|22,166
+|0.906
+|3,139
+|152
+|9 (1.28%)
+|201,747
+|-
+! scope="row" |{{flagcountry|Luzamontaña}}
+|LM
+| colspan="2" |[[Jatiel]]
+|22 October 1883
+|7,029,859
+|4.46%
+|7,297
+|2,817
+|0.906
+|5,563
+|374
+|33 (4.55%)
+|196,309
+|-
+! scope="row" |{{Flag|Máfil}}
+|ML
+| colspan="2" |[[Montserrat]]
+|15 October 1869
+|1,396,878
+|0.89%
+|38,097.11
+|14,709.38
+|0.908
+|209
+|16
+|6 (0.89%)
+|232,813
+|-
+! scope="row" |{{flag|Marjcorzo}}
+|MA
+| colspan="2" |[[Samianigo]]
+|14 June 1808
+|2,509,926
+|1.59%
+|67,801
+|26,178
+|0.903
+|2,142
+|22
+|11 (1.49%)
+|201,616
+|-
+! scope="row" |{{flag|Mesopotàmia}}
+|MP
+| colspan="2" |[[Navassa]]
+|14 June 1808
+|2,429,864
+|1.54%
+|30,834
+|11,905
+|0.910
+|4,847
+|214
+|12 (1.59%)
+|189,239
+|-
+! scope="row" |{{flag|Muntanya}}
+|MU
+| colspan="2" |[[Poble]]
+|14 June 1808
+|4,792,897
+|3.04%
+|21,614
+|8,345
+|0.928
+|133
+|22
+|22 (3.05%)
+|217,859
+|-
+! scope="row" |{{flag|Piedmont}}
+|PT
+|[[Orquívoro]]
+|[[Syracuse]]
+|19 December 1808
+|1,408,247
+|0.89%
+|24,509.63
+|9,463.22
+|0.910
+|408
+|11
+|6 (0.89%)
+|234,708
+|-
+! scope="row" |{{flag|Pigüe}}
+|PE
+| colspan="2" |[[Chiguayante]]
+|15 October 1869
+|405,178
+|0.26%
+|67,517.31
+|26,068.58
+|0.879
+|88
+|7
+|2 (0.33%)
+|202,589
+|-
+! scope="row" |{{flag|Piscaria}}
+|PA
+| colspan="2" |[[Saldaño]]
+|14 June 1808
+|1,667,522
+|1.06%
+|13,021.14
+|5,027.49
+|0.896
+|142
+|12
+|8 (1.13%)
+|208,440
+|-
+! scope="row" |{{flag|Provence}}
+|PR
+|[[Santa Creu]]
+|[[Rosario]]
+|14 June 1808
+|939,662
+|0.60%
+|22,519
+|8,694
+|0.907
+|131
+|34
+|4 (0.60%)
+|234,916
+|-
+! scope="row" |{{flag|Quiscosta}}
+|QC
+| colspan="2" |[[Aigües]]
+|14 June 1808
+|3,621,980
+|2.30%
+|34,100
+|13,166
+|0.901
+|831
+|128
+|17 (2.40%)
+|199,163
+|-
+! scope="row" |{{flag|Sicania}}
+|CR
+| colspan="2" |[[Sant'Àjita]]
+|19 December 1808
+|364,057
+|0.23%
+|55,892
+|21,580
+|0.914
+|184
+|7
+|2 (0.33%)
+|182,028
+|-
+! scope="row" |{{flag|Tartessia}}
+|TA
+| colspan="2" |[[Pujol]]
+|14 June 1808
+|1,145,394
+|0.73%
+|81,510
+|31,470
+|0.903
+|103
+|12
+|5 (0.72%)
+|229,079
+|-
+! scope="row" |{{flag|Trás-as-Montanyas}}
+|TM
+| colspan="2" |[[Carmel de Cerros]]
+|14 June 1808
+|763,556
+|0.48%
+|81,245
+|31,369
+|0.910
+|4,114
+|4
+|3 (0.47%)
+|254,519
+|-
+! scope="row" |{{flag|Tukupi}}
+|TI
+| colspan="2" |[[Valparaíso]]
+|22 October 1883
+|2,877,690
+|1.83%
+|32,086
+|12,388
+|0.924
+|328
+|16
+|14 (1.86%)
+|189,273
+|-
+! scope="row" |{{flag|Xaraba}}
+|XA
+| colspan="2" |[[San Xoán de Baxes]]
+|14 June 1808
+|5,716,926
+|3.63%
+|34,397.20
+|13,280.83
+|0.912
+|138
+|44
+|26 (3.55%)
+|194,320
+|-
+! scope="row" |{{Flag|Willi Mapu}}
+|WM
+| colspan="2" |[[Peñalolén]]
+|''22 October 1883''
+|840,935
+|0.53%
+|37,507
+|14,482
+|0.848
+|109
+|27
+|4 (0.60%)
+|210,234
+|-
+! scope="row" |'''{{flag|Balisca}}'''
+|'''BL'''
+| colspan="2" |'''Castejón Metropolis'''
+|'''14 June 1808'''
+|'''157,556,447'''
+|'''100%'''
+|'''1,526,052'''
+|'''589,239'''
+|'''0.908'''
+|'''57,681'''
+|'''3,904'''
+|'''736 (100%)'''
+|'''214,064'''
+|}

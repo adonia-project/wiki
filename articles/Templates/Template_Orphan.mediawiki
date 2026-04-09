@@ -1,0 +1,18 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||date=__DATE__ |$B={{draft other||{{Ambox
+| name  = Orphan
+| type  = style<!--Style issues, such as {{cleanup}} and {{underlinked}}-->
+| class = ambox-Orphan
+| style = {{#switch: {{{date|}}} | {{Monthyear}} = | {{Monthyear-1}} = | display: none}}<!--Optional CSS value, specifies the style used by the entire message box table-->
+| image = [[File:Wiki letter w.svg|50x40px]]
+| all   = All orphaned articles
+| sect  = article
+| plainlinks = no 
+| text = '''is an [[Wikipedia:Orphan|orphan]], as no other articles <span class="plainlinks">[{{fullurl:Special:WhatLinksHere|target={{PAGENAMEE}}&namespace=0}} link to it]</span>'''. Please [[Help:Link|introduce links]] to this page from <span class="plainlinks">[https://en.wikipedia.org/w/index.php?title=Special%3ASearch&redirs=1&search={{PAGENAMEU}}&fulltext=Search&ns0=1&title=Special%3ASearch&advanced=1&fulltext={{PAGENAMEU}} related articles]</span>.
+| cat   = {{#if:{{{att|}}}|Attempted de-orphan|Orphaned articles}}
+| date  = {{#if:{{{att|}}}| {{{att}}} | {{{date|}}} }}
+}}
+}}
+}}<noinclude>
+<!-- Add categories to the /doc subpage; interwikis go to Wikidata, thank you! -->
+{{documentation}}
+</noinclude>

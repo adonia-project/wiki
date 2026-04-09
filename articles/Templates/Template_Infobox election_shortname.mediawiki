@@ -1,0 +1,17 @@
+{{#if:{{{name|}}}
+|{{#ifeq:{{{link}}}|no
+ |{{{name}}}
+ |{{#ifeq:{{delink|{{{name}}}|wikilinks=target}}|{{{name}}}
+     |{{#switch:{{{name}}}
+      | Independent | Independents = [[Independent politician|{{{name}}}]]
+      | Miscellaneous = [[Independent politician|DIV]]
+      | Other | Others = Others
+      | Regionalists = [[Regionalism (politics)|Regionalists]]
+      | Vacant = [[Casual vacancy|Vacant]]
+      | [[{{{name}}}|{{#invoke:Political party|fetch|{{{name}}}|shortname}}]]
+      }}
+     |{{{name}}}
+  }}
+}}
+}}<noinclude>
+{{documentation}}</noinclude>

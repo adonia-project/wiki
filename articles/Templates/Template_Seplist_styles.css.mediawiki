@@ -1,0 +1,10 @@
+/* make an unbulleted list with separators defined externally */
+ul.seplist {
+	margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.seplist li {
+    margin: 0;
+    padding: 0 0.25em 0 0;
+}

@@ -1,0 +1,5 @@
+{{#if:{{{1|}}}|<td style="background: {{{1}}}; {{{style|font-size:50%;}}}">{{{2|&thinsp;}}}</td>|
+<code><nowiki>{{cell|</nowiki>''COLOR''<nowiki>}}</nowiki></code>}}
+<noinclude>
+{{documentation}}
+</noinclude>

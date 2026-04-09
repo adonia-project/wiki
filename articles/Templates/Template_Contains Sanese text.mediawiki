@@ -1,0 +1,7 @@
+{{ Special characters
+| section    = {{{1|}}}
+| special    = [[Sanese language|Sanese]] text
+| image      = {{{image|書.svg}}}
+| characters = [[wikipedia:kanji|kanji]] and [[wikipedia:kana|kana]]
+| fix        = Help:Installing_Japanese_character_sets
+}}<noinclude>{{documentation}}</noinclude>

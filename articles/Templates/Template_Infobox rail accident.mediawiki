@@ -1,0 +1,110 @@
+{{Infobox
+| bodyclass         = ib-public-transit-accident vcard
+| templatestyles    = Infobox public transit accident/styles.css
+
+| aboveclass = summary notheme
+| headerclass = notheme
+| above             = <includeonly>{{{name|{{#if:{{#invoke:Wikidata|ViewSomething|labels|en|value}}|{{#invoke:Wikidata|ViewSomething|labels|en|value}}|{{PAGENAMEBASE}}}}}}}</includeonly>
+
+| image             = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|{{{image size|200px}}}}}} |sizedefault=frameless |upright={{{image_upright|1.35}}} |alt={{{image_alt|{{{alt|}}}}}} |border={{{border|no}}} }}
+| captionstyle = padding:0.35em 0.35em 0.25em;line-height:1.25em;
+| caption           = {{{caption|}}}
+
+| image2            =  {{#invoke:InfoboxImage|InfoboxImage|image={{{image_map|}}}|size=200px|sizedefault=frameless|upright=1|alt={{{image_map_alt|}}}|title={{{image_map_caption}}}}}
+| caption2          = {{{image_map_caption|}}}
+
+| image3            = {{#if: {{{pushpin_map|}}} | {{Location map|{{{pushpin_map|}}}
+ |AlternativeMap    = {{{alternative_map|}}}
+ |alt               = {{{pushpin_map_alt|}}}
+ |coordinates       = {{{coordinates|}}}
+ |float             = center
+ |border            = infobox
+ |default_width     = 220
+ |caption           = {{{pushpin_map_caption|}}}
+}} }}
+
+| image4            = {{#invoke:Infobox mapframe
+ | autoWithCaption
+ | onByDefault = {{#if:{{{pushpin_map|}}}{{{map_type|}}}{{{image_map|}}}|no|yes}}
+}}
+
+| header1           = {{#if: {{{date|}}} {{{time|}}} {{{location|}}} {{{coordinates|}}} {{{country|}}} {{{line|}}} {{{operator|}}} {{{owner|}}} {{{type|}}} {{{cause|}}} | Details }}
+| label2            = Date
+| data2             = {{#invoke:WikidataIB|getValue|P585|name=date|suppressfields={{{suppressfields|}}}|fetchwikidata={{{fetchwikidata|ALL}}}|onlysourced={{{onlysourced|}}}|{{{date|}}} {{#if:{{{time|}}}|<br/>{{{time}}}}}{{#if:{{{time-begin|}}}|<br/>{{{time-begin}}}&nbsp;– {{{time-end}}}}} {{#if:{{{timezone|}}}|({{{timezone}}})}} }}
+
+| label4            = Location
+| data4             = {{#invoke:WikidataIB|getValue|P276|name=location|suppressfields={{{suppressfields|}}}|fetchwikidata={{{fetchwikidata|ALL}}}|onlysourced={{{onlysourced|}}}|{{{location|}}} }}{{#if: {{{location_dist_km|}}}
+  |<br />{{#ifeq: {{{location_dist_km|unknown}}} | unknown | Unknown | {{convert|{{{location_dist_km}}}|km|mi|abbr=on}} }} {{#if:{{{location_dir|}}}| {{{location_dir}}} }} {{#if:{{{location_city|}}}| from {{{location_city}}} }}
+  }}{{#if:{{{location_dist_mi|}}}
+  |<br />{{#ifeq: {{{location_dist_mi|unknown}}} | unknown | Unknown | {{convert|{{{location_dist_mi}}}|mi|km|abbr=on}} }} {{#if:{{{location_dir|}}}| {{{location_dir}}} }} {{#if:{{{location_city|}}}| from {{{location_city}}} }}
+  }}
+
+| label5            = Coordinates
+| data5             = {{{coordinates|}}}
+
+| label6            = Country
+| data6             = {{{country|}}}
+
+| label7            = Line
+| data7             = {{{line|}}}
+
+| label8            = Operator
+| data8             = {{{operator|}}}
+
+| label9            = Owner
+| data9             = {{{owner|}}}
+
+| label10           = Service
+| data10            = {{{service|}}}
+
+| label11           = Incident type
+| data11            = {{{type|}}}
+
+| label12           = Cause
+| data12            = {{{cause|}}}
+
+| header13          = {{#if: {{{bus|}}} {{{trains|}}} {{{vehicles|}}} {{{passengers|}}} {{{pedestrians|}}} {{{deaths|}}} {{{injuries|}}} {{{missing|}}} {{{damage|}}} {{{property|}}} | Statistics }}
+
+| label14           = Bus
+| data14            = {{{bus|}}}
+
+| label15           = Trains
+| data15            = {{{trains|}}}
+
+| label16           = Vehicles
+| data16            = {{{vehicles|}}}
+
+| label17           = Passengers
+| data17            = {{{passengers|}}}
+
+| label18           = Crew
+| data18            = {{{crew|}}}
+
+| label19           = Pedestrians
+| data19            = {{{pedestrians|}}}
+
+| label20           = Deaths
+| data20            = {{{deaths|}}}
+
+| label21           = Injured
+| data21            = {{{injuries|}}}
+
+| label22           = Missing
+| data22            = {{{missing|}}}
+
+| label23           = Damage
+| data23            = {{{damage|}}}
+
+| label24           = Property
+| data24            = {{{property|}}}
+
+| data25            = {{#if: {{{route_map|}}} |
+<table class="collapsible {{{route_map_state|}}} ib-route-map">
+  <tr><th class="ib-route-map-name notheme">{{{route_map_name|Route map}}}</th></tr>
+  <tr><td class="ib-route-map-image">{{{route_map}}}</td></tr>
+</table>}}
+
+| below             = {{{footnotes|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox public transit accident with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox public transit accident]] with unknown parameter "_VALUE_"|ignoreblank=y|mapframe_args=y| alt | alternative_map | border | bus | caption | cause | coordinates | country | crew | damage | date | deaths | fetchwikidata | footnotes | image | image size | image_alt | image_map | image_map_alt | image_map_caption | image_size | image_upright | injuries | line | location | location_city | location_dir | location_dist_km | location_dist_mi | map_type | missing | name | onlysourced | operator | owner | passengers | pedestrians | property | pushpin_map | pushpin_map_alt | pushpin_map_caption | route_map | route_map_name | route_map_state | service | suppressfields | time | time-begin | time-end | timezone | trains | type | vehicles }}<noinclude>
+{{documentation}}
+</noinclude>

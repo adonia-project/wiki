@@ -1,0 +1,105 @@
+{{ sidebar with collapsible lists
+| name           = {{{name|}}}
+| style          = {{#if:{{{backcolour|}}}|background-color: {{{backcolour}}} }}
+| pretitle       = {{#if:{{{series|{{#ifexist:Category:{{{region}}}|yes}}}}}|Part of [[:Category:{{{series|{{{region}}} }}}|a series]] on the}}
+| title          = {{normalwraplink|Culture of {{{region}}}}}
+| titlestyle     = {{#if:{{{titlecolour|}}}|background-color: {{{titlecolour}}};}} {{#if:{{{titlefontsize|}}}|font-size:{{{titlefontsize|}}};}} border-bottom: 1px solid #aaa
+| image          = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|}}}|sizedefault=frameless|alt={{{alt|}}}|border={{{border|}}}}}
+| imageclass     = photo
+| caption        = {{{caption|}}}
+| bodyclass      = hlist
+| headingstyle   = {{#if:{{{titlecolour|}}}|background-color: {{{titlecolour}}}}}
+| listtitlestyle = {{#if:{{{titlecolour|}}}|background-color: {{{titlecolour}}};}} text-align: center
+
+| expanded       = {{{expanded|{{{1|}}} }}}
+
+| list1name      = History
+| {{#if:{{{histtopics|}}}|list1title|heading1}}  = {{linkexist|History of {{{region}}}|History|{{{histoverride|}}}|{{{ethnotopics|}}}}}
+| list1          = {{{histtopics|}}}
+
+| list2name      = People
+| {{#if:{{{ethnotopics|}}}|list2title|heading2}} = {{linkexist|Ethnic groups in {{{region}}}|People|{{{ethnooverride|}}}}}
+| list2          = {{{ethnotopics|}}}
+
+| list3name      = Languages
+| {{#if:{{{langtopics|}}}|list3title|heading3}} = {{linkexist|Languages of {{{region}}}|Languages|{{{langoverride|}}}|{{{langtopics|}}}}}
+| list3          = {{{langtopics|}}}
+
+| list4name      = Traditions
+| {{#if:{{{tradtopics|}}}|list4title|heading4}} = {{linkexist|Traditions of {{{region}}}|Traditions|{{{tradoverride|}}}|{{{tradtopics|}}}
+}}
+| list4          = {{{tradtopics|}}}
+
+| list5name      = Mythology
+| list5title     = Mythology and folklore
+| list5          = {{#if:{{{mythoverride|{{#ifexist:Mythology of {{{region}}}|yes}}}}}|
+* {{linkexist|Mythology of {{{region}}}|Mythology|{{{mythoverride|}}}}}}}{{#if:{{{folkoverride|{{#ifexist:Folklore of {{{region}}}|yes}}}}}|
+* {{linkexist|Folklore of {{{region}}}|folklore|{{{folkoverride|}}}}}}}{{#if:{{{mythtopics|}}}
+* {{{mythtopics|}}}}}
+
+| list6name      = Cuisine
+| {{#if:{{{cuistopics|}}}|list6title|heading6}} = {{linkexist|Cuisine of {{{region}}}|Cuisine|{{{cuisoverride|}}}|{{{cuistopics|}}}}}
+| list6          = {{{cuistopics|}}}
+
+| list7name      = Festivals
+| {{#if:{{{festtopics|}}}|list7title|heading7}} = {{linkexist|Festivals of {{{region}}}|Festivals|{{{festoverride|}}}|{{{festtopics|}}}
+}}
+| list7          = {{{festtopics|}}}
+
+| list8name      = Religion
+| {{#if:{{{reltopics|}}}|list8title|heading8}} = {{linkexist|Religion in {{{region}}}|Religion|{{{reloverride|}}}|{{{reltopics|}}}}}
+| list8          = {{{reltopics|}}}
+
+| list9name      = Art
+| {{#if:{{{arttopics|}}}|list9title|heading9}} = {{linkexist|Art of {{{region}}}|Art|{{{artoverride|}}}|{{{arttopics|}}}}}
+| list9          = {{{arttopics|}}}
+
+| list10name     = Literature
+| {{#if:{{{littopics|}}}|list10title|heading10}} = {{linkexist|Literature of {{{region}}}|Literature|{{{litoverride|}}}|{{{littopics|}}}
+}}
+| list10         = {{{littopics|}}}
+
+| list11name     = Performances
+| list11title    = Music and performing arts
+
+| list11         = {{#if:{{{mythoverride|{{#ifexist:Music of {{{region}}}|yes}}}}}|
+* {{linkexist|Music of {{{region}}}|Music|{{{musicoverride|}}}}}}}{{#if:{{{paoverride|{{#ifexist:Performing arts of {{{region}}}|yes}}}}}|
+* {{linkexist|Performing arts of {{{region}}}|Performing&nbsp;arts|{{{paoverride|}}}}}}}{{#if:{{{mythtopics|}}}
+{{{patopics|}}}}}
+
+| list12name     = Media
+| list12title    = {{linkexist|Media in {{{region}}}|Media|{{{mediaoverride|}}}|yes}}
+| list12         = {{#ifexist:Radio in {{{region}}}|
+* [[Radio in {{{region}}}|Radio]]}}{{#ifexist:Television in {{{region}}}|
+* [[Television in {{{region}}}|Television]]}}{{#ifexist:Cinema of {{{region}}}|
+* [[Cinema of {{{region}}}|Cinema]]}}{{#if:{{{mediatopics|}}}|
+{{{mediatopics|}}}}}
+
+| list13name     = Sport
+| {{#if:{{{sporttopics|}}}|list13title|heading13}} = {{linkexist|Sport in {{{region}}}|Sport|{{{sportoverride|}}}|{{{sporttopics|}}}
+}}
+| list13         = {{{sporttopics|}}}
+
+| list14name     = Monuments
+| list14title    = {{linkexist|Monuments of {{{region}}}|Monuments|{{{monuoverride|}}}|yes}}
+| list14         = {{#ifexist:List of World Heritage Sites in {{{region}}}|
+* [[List of World Heritage Sites in {{{region}}}|World Heritage Sites]]}}{{#if:{{{monutopics|}}}|
+{{{monutopics|}}}}}
+
+| list15name     = Symbols
+| list15title    = {{linkexist|National symbols of {{{region}}}|Symbols|{{{symboverride|}}}|yes}}
+| list15         = {{#ifexist:Flag of {{{region}}}|
+* [[Flag of {{{region}}}|Flag]]}}{{#ifexist:National anthem {{{region}}}|
+* [[National anthem of {{{region}}}|National anthem]]}}{{#ifexist:Coat of arms of {{{region}}}|
+* [[Coat of arms of {{{region}}}|Coat of arms]]}}{{#if:{{{symbtopics|}}}|
+{{{symbtopics}}}}}
+
+| list16name     = Organisations
+| list16title    = Organisations
+| list16         = {{{orgtopics|}}}
+
+| below          = 
+* {{#if:{{{portaloverride|{{#ifexist:portal:{{{region}}}|yes}}}}}|
+* {{portal-inline|size=tiny|{{{portaloverride|{{{region}}} }}} }} }}
+
+}}<noinclude>{{documentation}}<!-- Place category and language links on the /doc sub-page, not here --></noinclude>

@@ -1,0 +1,312 @@
+<includeonly>{{#if:{{Has short description}} |<!--Do nothing--> |{{main other|{{Short description|Political party{{#if:{{{country|}}}|&#32;in {{Plain text|{{{country}}}}}}}|noreplace}}}} }}</includeonly>
+{{Infobox
+| bodyclass = vcard
+
+| abovestyle = font-size: 125%;
+| above = <div style="padding-top:0.3em; padding-bottom:0.3em; {{#if:{{{colorcode|}}}|border-top:2px solid {{{colorcode}}}; border-bottom:2px solid {{{colorcode}}};}} line-height: 1;"><div class="fn org">{{if empty|{{{name|}}}|{{PAGENAMEBASE}}}}</div> {{#if:{{{native_name|}}} |<div style="font-size: 0.8em; padding-top:0.3em;" class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}</div>
+
+| subheader = {{{_subheader|}}}
+
+| imageclass = logo
+| imagestyle = padding-top:.4em;padding-bottom:.3em;
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|upright={{{logo_upright|0.8}}}|alt={{{logo_alt|}}}|size={{{logo_size|}}}}}
+| caption = {{{caption|}}}
+
+| headerstyle = line-height: 0.8em;
+| labelstyle = line-height:1.3em;
+| datastyle = line-height:1.3em;
+
+| label1  = {{{lang1}}} name
+| class1  = nickname
+|  data1  = {{{name_lang1|}}}
+
+| label2  = {{{lang2}}} name
+| class2  = nickname
+|  data2  = {{{name_lang2|}}}
+
+| label3  = {{{lang3}}} name
+| class3  = nickname
+|  data3  = {{{name_lang3|}}}
+
+| label4  = {{{lang4}}} name
+| class4  = nickname
+|  data4  = {{{name_lang4|}}}
+
+| label5  = Abbreviation
+| class5  = nickname
+|  data5  = {{if empty|{{{abbreviation|}}}|{{{abbr|}}}}}
+
+| label6  = [[Party leader|Leader]]
+| class6  = agent
+|  data6  = {{{leader|}}}
+
+| label7  = President
+| class7  = agent
+|  data7  = {{{president|}}}
+
+| label8  = [[Party chair|Chair{{#if:{{{chairperson|}}}|person|{{#if:{{{chairman|}}}|man|woman}}}}]]
+| class8  = agent
+|  data8  = {{if empty|{{{chairperson|}}}|{{{chairman|}}}|{{{chairwoman|}}}}}
+
+| label9 = [[Party secretary|Secretary]]
+| class9 = agent
+|  data9 = {{{secretary|}}}
+
+| label10  = General Secretary
+| class10  = agent
+|  data10  = {{{general_secretary|}}}
+
+| label11 = First Secretary
+| class11 = agent
+|  data11 = {{{first_secretary|}}}
+
+| label12 = {{nowrap|Secretary-General}}
+| class12 = agent
+|  data12 = {{{secretary_general|}}}
+
+| label13 = [[Presidium]]
+| class13 = agent
+|  data13 = {{{presidium|}}}
+
+| label14 = Governing body
+| class14 = agent
+|  data14 = {{{governing_body|}}}
+
+| label15 = Standing Committee
+| class15 = agent
+|  data15 = {{{standing_committee|}}}
+
+| label16 = [[Party spokesperson|Spokes{{#if:{{{spokesperson|}}}|person|man}}]]
+| class16 = agent
+|  data16 = {{if empty|{{{spokesperson|}}}|{{{spokesman|}}}}}
+
+| label17 = {{{leader1_title|}}}
+| class17 = agent
+|  data17 = {{{leader1_name|}}}
+
+| label18 = {{{leader2_title|}}}
+| class18 = agent
+|  data18 = {{{leader2_name|}}}
+
+| label19 = {{{leader3_title|}}}
+| class19 = agent
+|  data19 = {{{leader3_name|}}}
+
+| label20 = {{{leader4_title|}}}
+| class20 = agent
+|  data20 = {{{leader4_name|}}}
+
+| label21 = {{{leader5_title|}}}
+| class21 = agent
+|  data21 = {{{leader5_name|}}}
+
+| label22 = {{#if:{{{founders|}}} |Founders |Founder}}
+| class22 = agent
+|  data22 = {{if empty|{{{founders|}}}|{{{founder|}}}}}
+
+| label23 = Founded
+|  data23 = {{if empty|{{{founded|}}}|{{{foundation|}}}}}
+
+| label24 = Registered
+|  data24 = {{{registered|}}}
+
+| label25 = Legali{{#if:{{{legalised|}}}|s|z}}ed
+|  data25 = {{if empty|{{{legalised|}}}|{{{legalized|}}}}}
+
+| label26 = {{#if:{{{banned|}}} |Banned |Dissolved}}
+|  data26 = {{if empty|{{{banned|}}}|{{{dissolved|}}}|{{{dissolution|}}}}}
+
+| label27 = Merger&nbsp;of
+|  data27 = {{{merger|}}}
+
+| label28 = Split&nbsp;from
+|  data28 = {{{split|}}}
+
+| label29 = Preceded&nbsp;by
+|  data29 = {{{predecessor|}}}
+
+| label30 = Merged&nbsp;into
+|  data30 = {{{merged|}}}
+
+| label31 = Succeeded&nbsp;by
+|  data31 = {{{successor|}}}
+
+| label32 = Headquarters
+| class32 = label
+|  data32 = {{{headquarters|}}}
+
+| label33 = Newspaper
+|  data33 = {{{newspaper|}}}
+
+| label34 = [[w:Think tank|Think tank]]
+|  data34 = {{if empty|{{{think tank|}}}|{{{think_tank|}}}}}
+
+| label35 = [[w:Student wing|Student wing]]
+|  data35 = {{{student_wing|}}}
+
+| label36 = [[w:Youth wing|Youth wing]]
+|  data36 = {{{youth_wing|}}}
+
+| label37 = [[w:Women's wing|Women's wing]]
+|  data37 = {{{womens_wing|}}}
+
+| label38 = {{{wing1_title}}}
+|  data38 = {{{wing1|}}}
+
+| label39 = {{{wing2_title}}}
+|  data39 = {{{wing2|}}}
+
+| label40 = {{{wing3_title}}}
+|  data40 = {{{wing3|}}}
+
+| label41 = {{{wing4_title}}}
+|  data41 = {{{wing4|}}}
+
+| label42 = Membership {{#if:{{{membership_year|}}} |{{nobold|({{{membership_year}}})}}}}
+|  data42 = {{{membership|}}}
+
+| label43 = [[List of political ideologies|Ideology]]
+| class43 = category
+|  data43 = {{{ideology|}}}
+
+| label44 = [[Political spectrum|Political&nbsp;position]]
+| class44 = category
+|  data44 = {{{position|}}}
+
+| label45 = Religion
+| class45 = category
+|  data45 = {{{religion|}}}
+
+| label46 = National affiliation
+| class46 = category
+|  data46 = {{{national|}}}
+
+| label47 = Regional affiliation
+| class47 = category
+|  data47 = {{if empty|{{{regional|}}}|{{{regional affiliation|}}}}}
+
+| label48 = [[European political party|European affiliation]]
+| class48 = category
+|  data48 = {{{european|}}}
+
+| label49 = Continental affiliation
+| class49 = category
+|  data49 = {{if empty|{{{continental|}}}|{{{continental affiliation|}}}}}
+
+| label50 = International affiliation
+| class50 = category
+|  data50 = {{{international|}}}
+
+| label51 = [[Political groups of the European Parliament|European Parliament group]]
+| class51 = category
+|  data51 = {{{europarl|}}}
+
+| label52 = {{{affiliation1_title}}}
+| class52 = category
+|  data52 = {{#if:{{{affiliation1_title|}}}|{{{affiliation1|}}}}}
+
+| label53 = {{{affiliation2_title}}}
+| class53 = category
+|  data53 = {{#if:{{{affiliation2_title|}}}|{{{affiliation2|}}}}}
+
+| label54 = Colo{{#if:{{{colours|}}}|u|}}rs
+|  data54 = {{{colo{{#if:{{{colours|}}}|u|}}rs|}}}
+
+| label55 = Slogan
+|  data55 = {{{slogan|}}}
+
+| label56 = Anthem
+|  data56 = {{{anthem|}}}
+
+| label57 = {{{blank1_title|}}}
+|  data57 = {{{blank1|}}}
+
+| label58 = {{{blank2_title|}}}
+|  data58 = {{{blank2|}}}
+
+| label59 = {{{blank3_title|}}}
+|  data59 = {{{blank3|}}}
+
+| label60 = {{{blank4_title|}}}
+|  data60 = {{{blank4|}}}
+
+| label61 = {{{seats1_title|}}}
+|  data61 = {{{seats1|}}}
+
+| label62 = {{{seats2_title|}}}
+|  data62 = {{{seats2|}}}
+
+| label63 = {{{seats3_title|}}}
+|  data63 = {{{seats3|}}}
+
+| label64 = {{{seats4_title|}}}
+|  data64 = {{{seats4|}}}
+
+| label65 = {{{seats5_title|}}}
+|  data65 = {{{seats5|}}}
+
+| label66 = {{{seats6_title|}}}
+|  data66 = {{{seats6|}}}
+
+| label67 = {{{seats7_title|}}}
+|  data67 = {{{seats7|}}}
+
+| label68 = {{{seats8_title|}}}
+|  data68 = {{{seats8|}}}
+
+| label69 = {{{seats9_title|}}}
+|  data69 = {{{seats9|}}}
+
+| label70 = {{{seats10_title|}}}
+|  data70 = {{{seats10|}}}
+
+| label71 = {{{seats11_title|}}}
+|  data71 = {{{seats11|}}}
+
+| header72 = {{#if:{{{symbol|}}} |Election symbol}}
+|  data73 = {{{symbol|}}}
+
+| header74 = {{#if:{{{flag|}}} |{{{flag_title|Party flag}}}}}
+|  data75 = {{#invoke:InfoboxImage|InfoboxImage|image={{{flag|}}}|upright=0.8|alt={{if empty|{{{flag_alt|}}}|{{{flag_title|}}}}}}}
+
+| header76 = {{#if:{{{website|}}} |Website}}
+|  data77 = {{{website|}}}
+
+| belowstyle = padding-top:0;
+| below = {{#if:{{{state|}}}{{{country|}}}
+     | {{Hlist |style=line-height:1.3em; padding-top:0.3em; border-top:{{#if:{{{colorcode|}}}|2|1}}px solid {{{colorcode|#aaa}}};
+           | {{#if:{{{country_dab1|}}}
+             | {{#ifexist: {{{country_dab1|}}} | [[{{{country_dab1}}}|Politics of {{if empty|{{{state|}}}|{{{country}}}}}]] }}
+             | {{#ifexist: Politics of {{if empty|{{{state|}}}|{{{country}}}}} | [[Politics of {{if empty|{{{state|}}}|{{{country}}}}}]] }}
+             }}
+           | {{#if:{{{parties_dab1|}}}
+             | {{#ifexist: {{{parties_dab1|}}} | [[{{{parties_dab1}}}|Political parties]] }}
+             | {{#ifexist: List of political parties in {{if empty|{{{state|}}}|{{{country}}}}} | [[List of political parties in {{if empty|{{{state|}}}|{{{country}}}}}|Political parties]] }}
+             }}
+           | {{#if:{{{elections_dab1|}}}
+             | {{#ifexist: {{{elections_dab1}}} | [[{{{elections_dab1}}}|Elections]] }}
+             | {{#ifexist: Elections in {{if empty|{{{state|}}}|{{{country}}}}} | [[Elections in {{if empty|{{{state|}}}|{{{country}}}}}|Elections]]}}
+             }}
+       }}<!--
+
+         -->{{#if:{{{country2|}}}
+     | {{Hlist |style=line-height:1.3em; margin-top:0.2em; padding-top:0.2em; border-top: 1px solid #aaa;
+           | {{#if:{{{country_dab2|}}}
+             | {{#ifexist: {{{country_dab2|}}} | [[{{{country_dab2}}}|Politics of {{{country2}}}]] }}
+             | {{#ifexist: Politics of {{{country2}}} | [[Politics of {{{country2}}}]] }}
+             }}
+           | {{#if:{{{parties_dab1|}}}
+             | {{#ifexist: {{{parties_dab2|}}} | [[{{{parties_dab2}}}|Political parties]] }}
+             | {{#ifexist: List of political parties in {{{country2}}} | [[List of political parties in {{{country2}}}|Political parties]] }}
+             }}
+           | {{#if:{{{elections_dab1|}}}
+             | {{#ifexist: {{{elections_dab2}}} | [[{{{elections_dab2}}}|Elections]] }}
+             | {{#ifexist: Elections in {{{country2}}} | [[Elections in {{{country2}}}|Elections]]}}
+             }}
+       }}   }}   }}<!--
+       -->{{#if:{{{footnotes|}}} |<hr/>{{{footnotes}}} }}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox political party with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox political party]] with unknown parameter "_VALUE_"|ignoreblank=y| _subheader | abbr | abbreviation | affiliation1 | affiliation1_title | affiliation2 | affiliation2_title | anthem | banned | blank1 | blank1_title | blank2 | blank2_title | blank3 | blank3_title | blank4 | blank4_title | caption | categories | chairman | chairperson | chairwoman | colorcode | colors | colours | continental | continental affiliation | country | country_dab1 | country_dab2 | country2 | demo | dissolution | dissolved | elections_dab1 | elections_dab2 | europarl | european | first_secretary | flag | flag_alt | flag_title | footnotes | foundation | founded | founder | founders | general_secretary | governing_body | headquarters | ideology | international | lang1 | lang2 | lang3 | lang4 | leader | leader1_name | leader1_title | leader2_name | leader2_title | leader3_name | leader3_title | leader4_name | leader4_title | leader5_name | leader5_title | legalised | legalized | logo | logo_alt | logo_size | logo_upright | membership | membership_year | merged | merger | name | name_lang1 | name_lang2 | name_lang3 | name_lang4 | national | native_name | native_name_lang | newspaper | nocat | parties_dab1 | parties_dab2 | position | predecessor | president | presidium | regional | regional affiliation | registered | religion | seats1 | seats1_title | seats10 | seats10_title | seats11 | seats11_title | seats2 | seats2_title | seats3 | seats3_title | seats4 | seats4_title | seats5 | seats5_title | seats6 | seats6_title | seats7 | seats7_title | seats8 | seats8_title | seats9 | seats9_title | secretary | secretary_general | slogan | split | spokesman | spokesperson | standing_committee | state | student_wing | successor | symbol | think tank | think_tank | website | wing1 | wing1_title | wing2 | wing2_title | wing3 | wing3_title | wing4 | wing4_title | womens_wing | youth_wing
+}}<noinclude>
+{{Documentation}}
+</noinclude>

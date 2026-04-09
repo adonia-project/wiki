@@ -1,0 +1,16 @@
+<nowiki>#E6E6E6</nowiki><noinclude>
+
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+[[Category:Political party shading templates|{{PAGENAME}}]]
+[[Category:New Zealand political party shading templates|{{PAGENAME}}]]
+[[Category:Malaysia political party shading templates|{{PAGENAME}}]]
+</noinclude>

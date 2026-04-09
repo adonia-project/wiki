@@ -1,0 +1,134 @@
+{{#invoke:navbox|navbox
+|name = Sanyan topics
+|state = {{{state|collapsed}}}
+|title = {{colored link|white|Sanyan}}
+| image      = [[File:Coat of Arms of Sanyan.png|150px|link=Balisca]]
+|bodyclass = hlist
+| basestyle = background:#000000;color:white;
+|above =
+
+|group1 = {{colored link|white|History of Sanyan|History}}
+|list1 =
+* [[List of oldest buildings and structures in Sanyan|Historic structures]]
+* [[Tiwalade of Sanyan|Tiwalade]]
+* [[Ìlàlóye trade]]
+* [[Maroon Wars]]
+** [[Maroon pirates]]
+* [[Kafto-Ethiopian Charter]]
+* [[Sanyan Emergency]]
+* [[Postage stamps and postal history of Sanyan|Postal history]]
+* [[Bight of Ayorin Crisis]]
+
+|group2 = {{colored link|white|Geography of Sanyan|Geography}}
+|list2 =
+* [[Bight of Ayorin]]
+* [[Àjòwà]]
+* [[Ojore]]
+* [[Sàlàkọ́]]
+* [[Tòkunbọ]]
+* [[List of birds of Sanyan|Birds]]
+* [[Communes of Sanyan|Communes]]
+
+|group3 = {{colored link|white|Politics of Sanyan|Politics}}
+|list3 =
+ {{#invoke:navbox|navbox |child |groupstyle=padding-left:0.5em;padding-right:0.5em;font-weight:normal;
+  | basestyle = background:#000000;color:white;
+  |list1 = <!--Alphabetical:-->
+* [[Sanyan Basic Law|Basic Law]]
+* [[Commission Against Corruption (Sanyan)|Commission Against Corruption]]
+* [[Elections in Sanyan|Elections]]
+* [[International relations of Sanyan|Foreign relations]]
+* [[Legal system of Sanyan|Legal system]]
+* [[Asofiko|Legislative Council]]
+* [[Sanyan Defense Force|Military]]
+* [[Communal Council of Sanyan|Municipal Council]]
+* [[List of political parties in Sanyan|Political parties]]
+* [[Kafto-Ethiopian Charter]]
+
+  |group2 = {{colored link|white|Government of Sanyan|Government}}
+  |list2 = <!--Alphabetical:-->
+* [[Secretariat for Administration and Justice (Sanyan)|Administration and Justice]]
+* [[Secretariat for Economy and Finance (Sanyan)|Economy and Finance]]
+* [[Secretariat of Foreign Affairs (Sanyan)|Foreign Affairs]]
+* [[Secretariat for Security (Sanyan)|Security]]
+* [[Secretariat for Social Affairs and Culture (Sanyan)|Social Affairs and Culture]]
+* [[Secretariat for Transport and Public Works (Sanyan)|Transport and Public Works]]
+ }}
+
+|group4 = {{colored link|white|Economy of Sanyan|Economy}}
+|list4 =
+ {{#invoke:navbox|navbox |child |groupstyle=padding-left:0.5em;padding-right:0.5em;font-weight:normal;
+  | basestyle = background:#000000;color:white;
+  |list1 = <!--Alphabetical:-->
+* [[Concepción Organization of Cooperation|Concepción Organization of Cooperation (COCO)]]
+* [[List of companies in Sanyan|Companies]]
+* [[Energy in Sanyan|Energy]]
+* [[Immigration to Sanyan|Immigration]]
+* [[Monetary Authority of Sanyan|Monetary Authority]]
+* [[Owó-àpò Àlàáfíà]]
+* [[Sanyanian ikan|Ikan {{small|(currency)}}]]
+* [[Telecommunications in Sanyan|Telecommunications]]
+
+  |group2 = {{colored link|white|Tourism in Sanyan|Tourism}}
+  |list2 = <!--Alphabetical:-->
+* [[Old Town (Sanyan)|Old Town]]
+* [[Barrier islands of Sanyan|Barrier Islands]]
+* [[Pan-Kaftian Visa Scheme]]
+ }}
+
+|group5 = {{colored link|white|Transport in Sanyan|Transport}}
+|list5 =
+* [[Transport in Sanyan#Air|Air]]
+** [[List of airlines of Sanyan|Airlines]]
+*** [[Yiyara]]
+** [[Sanyan International Airport|Airport]]
+* [[Sanyan-Ayorin Ferry Pier|Ferry Pier]]
+* [[Sanyan Metro|Mass transit system]]
+* [[Transport in Sanyan#Road|Road]]
+** [[List of roads in Sanyan|List of Roads]]
+** [[Port of Sanyan]]
+
+|group6 = Society
+|list6 =
+* [[Drug policy of Sanyan|Drug policy]]
+* [[LGBTQ rights in Sanyan|LGBTQ rights]]
+* [[Prostitution in Sanyan|Prostitution]]
+* [[Fashion in Sanyan|Fashion]]
+
+|group7 = {{colored link|white|Culture of Sanyan|Culture}}
+|list7 =
+* [[Architecture of Sanyan|Architecture]]
+* [[Cuisine of Sanyan|Cuisine]]
+** [[Kirile cuisine|Kirile]]
+* [[Education in Sanyan|Education]]
+** [[List of universities in Sanyan|universities]]
+* [[Events and festivals in Sanyan|Events and festivals]]
+* [[List of films set in Sanyan|Films set in Sanyan]]
+* [[Orders, decorations, and medals of Sanyan|Honours system]]
+* [[Languages of Sanyan|Languages]]
+** [[Kinza language|Kinza]]
+** [[Maroniko language|Maroniko]]
+** [[w:Yoruba language|Imo]]
+* [[Culture of Sanyan#Literature|Literature]]
+* [[Music of Sanyan|Music]]
+** [[Sanyopop]]
+** [[Sanyanian opera|Opera]]
+* [[Names of Sanyan]]
+* [[Sanyanian people|People]]
+** [[Demographics of Sanyan|Demographics]]
+** [[Women's rights in Sanyan|Women]]
+** [[Youth in Sanyan|Youth]]
+* [[Religion in Sanyan|Religion]]
+* [[Sanyan Science and Culture Centre|Science and Culture Centre]]
+* [[Sport in Sanyan|Sport]]
+** [[w:Capoeira|Capoeira]]
+
+| belowstyle=font-weight:bold;
+| below =   
+*{{portal-inline|Sanyan|size=tiny}}
+*{{icon|category}} [[:Category:Sanyan|Category]]
+}}<noinclude>
+{{pp-template|small=yes}}
+<br/>{{collapsible option |statename=optional}}
+
+</noinclude>

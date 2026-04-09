@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Guyana
+| flag alias = Flag of Guyana.svg
+| flag alias-1966 = Flag of Guyana (2004).png
+| flag alias-naval = Naval ensign of Guyana.svg
+| link alias-naval = Guyana Defence Force{{!}}Guyanese Coast Guard
+| link alias-military = Guyana Defence Force
+| flag alias-military = Flag of the Guyana Defence Force.svg
+| flag alias-navy = Naval ensign of Guyana.svg
+| link alias-navy = Guyana Defence Force{{!}}Guyanese Coast Guard
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = GUY
+| related1 = British Guiana
+| var1 = 1966
+</noinclude>
+}}

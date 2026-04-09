@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Andalus
+| flag alias = Flag of Andalus.svg
+| flag alias-1870 =
+| link alias-football = Andalusian national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1870
+| related1 = 
+</noinclude>
+}}

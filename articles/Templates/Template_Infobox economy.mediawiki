@@ -1,0 +1,131 @@
+<includeonly>{{Infobox
+| bodystyle = width:{{{width|26.0em}}};padding:0;
+
+| titleclass = adr
+| title = Economy of {{#if:{{{continent|}}} |{{{continent}}} | {{#if:{{{city|}}} |{{{city}}} | {{#if:{{{country|}}}|<span class="country-name">{{{country}}}</span>|{{{name|}}} }} }} }}
+
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|{{{image size|}}}}}} |sizedefault=frameless |maxsize=300px|alt={{{alt|}}} }}
+| caption = {{{caption|}}}
+| headerstyle = background:lightblue;color:inherit;
+
+| label1 = Currency
+| data1 = {{{currency|}}} 
+| label2 = {{longitem|[[Fixed exchange rate system|{{wrap|Fixed exchange rates}}]]}}
+| data2 = {{{fixed exchange|}}}
+| label3 = {{longitem|[[Fiscal year]]}}
+| data3 = {{{year|}}}
+| label4 = {{longitem|Trade {{#switch:{{{spelling|}}} |Oxford|US|U.S.=organizations |#default=organisations}}}}
+| data4 = {{{organs|}}}
+| label5 = {{longitem|Country group}}
+| data5 = {{{group|}}}
+
+<!----------------------Statistics------------------------->
+| header6 = Statistics
+| label7 = Population
+| data7 = {{{population|}}} 
+| label8 = [[Gross domestic product|GDP]]
+| data8 = {{{gdp|}}} 
+| label9 = GDP rank
+| data9 = {{{gdp rank|}}}
+| label10 = {{longitem|GDP growth}}
+| data10 = {{{growth|}}}
+| label11 = {{longitem|GDP per capita}}
+| data11 = {{{per capita|}}}
+| label12 = {{longitem|GDP per capita rank}}
+| data12 = {{{per capita rank|}}}
+| label13 = {{longitem|GDP by sector}}
+| data13 = {{{sectors|}}}
+| label14 = {{longitem|GDP by component}}
+| data14 = {{{components|}}}
+| label15 = {{longitem|style=line-height:1.2em|[[Inflation]] ([[Consumer price index|CPI]])}}
+| data15 = {{{inflation|}}}
+| label16 = {{longitem|[[Bank rate|{{wrap|Base borrowing rate}}]]}}
+| data16 = {{{bankrate|}}}
+| label17 = {{longitem|style=line-height:1.2em|[[Millionaire]]s (I$)}}
+| data17 = {{{millionaires|}}}
+| label18 = {{longitem|Population below {{nowrap|[[Poverty threshold|poverty line]]}}}}
+| data18 = {{{poverty|}}}
+| label19 = {{longitem|Population at risk of poverty}}
+| data19 = {{{risk of poverty|}}}
+| label20 = {{longitem|[[Gini coefficient|{{wrap|Gini coefficient}}]]}}
+| data20 = {{{gini|}}}
+| label21 = {{longitem|[[Human Development Index]]}}
+| data21 = {{{hdi|}}}
+| label22 = {{longitem|[[Corruption Perceptions Index]]}}
+| data22 = {{{cpi|}}}
+| label23 = {{longitem|{{#switch:{{{spelling}}} |US|U.S.=Labor |#default=Labour}} force}}
+| data23 = {{#if:{{{labor|}}} |{{{labor}}} |{{{labour|}}} }}
+| label24 = {{longitem|{{#switch:{{{spelling}}} |US|U.S.=Labor |#default=Labour}} force by occupation}}
+| data24 = {{{occupations|}}}
+| label25 = Unemployment
+| data25 = {{{unemployment|}}}
+| label26 = {{longitem|Average gross salary}}
+| data26 = {{{average gross salary|}}}
+| label27 = {{longitem|[[Net income|{{wrap|Average net salary}}]]}}
+| data27 = {{{average net salary|}}} 
+| label28 = {{longitem|Final [[Consumption (economics)|{{wrap|consumption expenditure}}]]}}
+| data28 = {{{consumption|}}}  
+| label29 = {{longitem|Gross [[Gross fixed capital formation|{{wrap|capital formation}}]]}}
+| data29 = {{{gfcf|}}}   
+| label30 = Gross savings 
+| data30 = {{{savings|}}} 
+| label31 = {{longitem|[[Yield curve|{{wrap|Yield curve}}]]}}
+| data31 = {{{yield curve|}}} 
+| label32 = {{longitem|[[Purchasing Managers' Index|{{wrap|Purchasing Managers' Index}}]]}}   
+| data32 = {{{pmi|}}} 
+| label33 = {{longitem|Main industries}}
+| data33 = {{{industries|}}}
+
+<!-----------------------External-------------------------->
+| header34 = {{#if:{{{exports|}}}{{{export-goods|}}}{{{export-partners|}}}{{{imports|}}}{{{import-goods|}}}{{{import-partners|}}}{{{FDI|}}}{{{current account|}}}{{{gross external debt|}}}{{{external debt per gdp|}}}{{{external debt payments per gdp|}}}{{{foreign aid revenue per gdp|}}}{{{NIIP|}}} |External}}
+| label35 = Exports
+| data35 = {{{exports|}}}
+| label36 = {{longitem|Export goods}}
+| data36 = {{{export-goods|}}}
+| label37 = {{longitem|Main export partners}}
+| data37 = {{{export-partners|}}}
+| label38 = Imports
+| data38 = {{{imports|}}}
+| label39 = {{longitem|Import goods}}
+| data39 = {{{import-goods|}}}
+| label40 = {{longitem|Main import partners}}
+| data40 = {{{import-partners|}}}
+| label41 = {{longitem|[[Foreign direct investment|FDI]] stock}}
+| data41 = {{{FDI|}}}
+| label42 = {{longitem|[[current account (balance of payments)|{{wrap|Current account}}]]}}
+| data42 = {{{current account|}}}
+| label43 = {{longitem|Gross [[External debt|{{wrap|external debt}}]]}}
+| data43 = {{{gross external debt|}}}
+| label44 = {{longitem|[[External debt|{{wrap|External debt}}]] as % of GDP}}
+| data44 = {{{external debt per gdp|}}}
+| label45 = {{longitem|External debt payments as % of GDP}}
+| data45 = {{{external debt payments per gdp|}}}
+| label46 = {{longitem|Foreign-aid revenue as % of GDP}}
+| data46 = {{{foreign aid revenue per gdp|}}}
+| label47 = {{longitem|[[Net international investment position|{{wrap|Net international investment position}}]]}}
+| data47 = {{{NIIP|}}}
+
+<!--------------------Public finances---------------------->
+| header48 = {{#if:{{{debt|}}}{{{reserves|}}}{{{balance|}}}{{{revenue|}}}{{{expenses|}}}{{{aid|}}}{{{credit|}}} |Public finances}}
+| label49 = {{longitem|[[List of countries by government debt|{{wrap|Government debt}}]]}}
+| data49 = {{{debt|}}}
+| label50 = {{longitem|[[Foreign exchange reserves|{{wrap|Foreign reserves}}]]}}  
+| data50 = {{{reserves|}}}
+| label51 = {{longitem|[[Government budget balance|{{wrap|Budget balance}}]]}} 
+| data51 = {{{balance|}}}
+| label52 = Revenues
+| data52 = {{{revenue|}}}
+| label53 = Expenses
+| data53 = {{{expenses|}}}
+| label54 = Economic&nbsp;aid
+| data54 = {{{aid|}}}
+| label55 = {{longitem|[[List of countries by credit rating|{{wrap|Credit rating}}]]}}
+| data55 = {{{credit|}}}
+
+| belowstyle = {{#ifeq:{{{usebelowbox}}}|no | |background:lightblue;color:inherit;}}
+| below = {{{footnotes|{{{footnote|}}}}}}<!--
+ -->{{#ifeq:{{{usebelowbox}}}|no |
+     | {{longitem |style=line-height:1.25em;padding:0.2em;
+             | ''All values, unless otherwise stated, are in [[International dollars]].''}} }}      }}</includeonly>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox economy with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox economy]] with unknown parameter "_VALUE_"|ignoreblank=y| aid | alt | average gross salary | average net salary | balance | bankrate | caption | city | components | consumption | continent | country | cpi | credit | currency | current account | debt | expenses | export-goods | export-partners | exports | external debt payments per gdp | external debt per gdp | FDI | fixed exchange | footnote | footnotes | foreign aid revenue per gdp | gdp | gdp rank | gfcf | gini | gross external debt | group | growth | hdi | image | image size | image_size | import-goods | import-partners | imports | industries | inflation | labor | labour | millionaires | name | NIIP | occupations | organs | per capita | per capita rank | pmi | population | poverty | presentI$asdefault | reserves | revenue | risk of poverty | savings | sectors | spelling | unemployment | usebelowbox | width | year | yield curve }}<noinclude>
+{{documentation}}
+</noinclude>

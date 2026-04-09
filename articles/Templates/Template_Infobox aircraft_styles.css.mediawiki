@@ -1,0 +1,39 @@
+/* {{pp|small=y}} */
+.ib-aircraft .infobox-above {
+	line-height: 1.6em;
+	background-color: #eee;color:inherit;
+}
+
+.ib-aircraft .infobox-header {
+	border-top: 1px solid #a2a9b1;
+	border-bottom: 1px solid #a2a9b1;
+	line-height: 23px;
+	background-color: #eee;color:inherit;
+}
+
+.ib-aircraft-caption {
+	padding: 0.3em 0 0 0;
+}
+
+.ib-aircraft-caption-left .infobox-full-data,
+.ib-aircraft-caption-left .infobox-data,
+.ib-aircraft-caption-left .infobox-label {
+	text-align: left;
+}
+
+.ib-aircraft .mergedbottomrow .infobox-full-data,
+.ib-aircraft .mergedbottomrow .infobox-data,
+.ib-aircraft .mergedbottomrow .infobox-label {
+	border-bottom: 1px solid #a2a9b1;
+}
+
+@media (min-width: 720px) {
+	.ib-aircraft .infobox-label {
+		width: 30%;
+		padding-right: 3px;
+	}
+	
+	.ib-aircraft .infobox-data {
+		width: 50%;
+	}
+}

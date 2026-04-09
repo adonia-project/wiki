@@ -1,0 +1,27 @@
+{{ISO 4217/code-minor-unit/format<!-- as of 17 Oct 2022 (304 iso-codes; 12 ambivalent) -->
+|format={{{format|}}}
+|value={{#switch:{{{iso-code|}}}<!-- Number of decimals. Occurring: "-blank-, N.A., 0, 2, 3, 4". ["1" does not occur]. "-blank-, N.A., 0" return <blank> -->
+|=
+|BIF|CLP|DJF|GNF|ISK|JPY|KMF|KRW|PYG|RWF|UGX|UYI|VND|VUV|XAF|XOF|XPF=0
+|AED|AFN|ALL|AMD|AOA|ARS|AUD|AWG|AZN|BAM|BBD|BDT|BGN|BMD|BND|BOB|BOV|BRL|BSD|BTN|BWP|BYN|BZD
+|CAD|CDF|CHE|CHF|CHW|CNY|COP|COU|CRC|CUC|CUP|CVE|CZK|DKK|DOP|DZD|EGP|ERN|ETB|FJD|FKP|GBP|GEL
+|GHS|GIP|GMD|GTQ|GYD|HKD|HNL|HTG|HUF|ILS|INR|IRR|JMD|KES|KGS|KHR|KPW|KYD|KZT|LAK|LBP|LKR|LRD
+|LSL|MAD|MDL|MGA|MKD|MMK|MNT|MOP|MRU|MUR|MVR|MXN|MXV|MYR|MZN|NAD|NGN|NIO|NOK|NPR|NZD|PAB|PGK
+|PHP|PKR|PLN|QAR|RSD|RUB|SAR|SBD|SCR|SEK|SGD|SHP|SLE|SLL|SOS|SRD|SSP|STN|SVC|SYP|THB|TJS|TMT
+|TOP|TTD|TWD|TZS|UAH|USD|USN|UYU|UZS|VED|VES|WST|XCD|YER|ZAR|ZMW|ZWL=2
+|BHD|IQD|JOD|KWD|LYD|OMR|TND=3
+|CLF|UYW=4
+|ADP|AFA|ALK|AOK|AON|AOR|ARA|ARP|ARY|ATS|AYM|AZM|BAD|BEC|BEF|BEL|BGJ|BGK|BGL|BOP|BRB|BRC|BRE
+|BRN|BRR|BUK|BYB|BYR|CHC|CSD|CSJ|CSK|CYP|DDM|DEM|ECS|ECV|EEK|ESA|ESB|ESP|FIM|FRF|GEK|GHC|GHP
+|GNE|GNS|GQE|GRD|GWE|GWP|HRD|IEP|ILP|ILR|ISJ|ITL|LAJ|LSM|LTL|LTT|LUC|LUF|LUL|LVL|LVR|MGF|MLF
+|MRO|MTL|MTP|MVQ|MXP|MZE|MZM|NIC|NLG|PEH|PEI|PES|PLZ|PTE|RHD|ROK|ROL|RUR|SDD|SDP|SIT|SKK|SRG
+|STD|SUR|TJR|TMM|TPE|TRL|UAK|UGS|UGW|USS|UYN|UYP|VEB|VEF|VNC|XEU|XFO|XFU|XRE|YDD|YUD|YUM|YUN
+|ZAL|ZMK|ZRN|ZRZ|ZWC|ZWD|ZWN|ZWR=<!-- <blank> -->
+|XAG|XAU|XBA|XBB|XBC|XBD|XDR|XPD|XPT|XSU|XTS|XUA|XXX=N.A.
+|#default={{#switch:{{ISO 4217/code-is-ambiguous|iso-code={{{iso-code|}}}}}<!--
+ -->|=<!-- not-ambivalent SO NaC; value=blank
+ -->|#default=<!-- ambivalent code, now check for obs (=>blank) or act (=>2 dec):
+  -->{{yesno|{{{is-obsolete|}}}|yes=<!--blank (no minor unit)-->|blank=2|no=2<!--value=2 (incidentally 2 for all 10; 17 Oct 2022)-->}}}}<!--
+-->}}}}<!--
+
+--><noinclude>{{documentation|1=Template:ISO 4217/code/doc}}</noinclude>

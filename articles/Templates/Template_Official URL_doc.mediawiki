@@ -1,0 +1,49 @@
+{{Documentation subpage}}
+{{High-use}}
+<!-- Add categories where indicated at the bottom of this page and interwikis at Wikidata -->
+{{Lua|Module:Official website}}
+{{Uses Wikidata|P856}}
+
+Note that unlike {{tl|Official website}} this template will produce the actual URL instead of just "Official website". For example (when used on the [[Google]] page, these two templates would produce the following:
+* {{tlc|Official url}} &rarr; {{Url|www.google.com}}{{EditAtWikidata|qid=Q95|pid=P856}}
+* {{tlc|Official website}} &rarr; {{Official website|www.google.com}}{{EditAtWikidata|qid=Q95|pid=P856}}
+
+== Usage ==
+
+There are no parameters for this template. Typical usage is:
+
+<syntaxhighlight lang="wikitext">{{Infobox settlement
+...
+| website = {{Official URL}}
+}}
+</syntaxhighlight>
+
+This template is for use in infoboxes. It links to property P856 (official website) at [[Wikidata]] to retrieve the website and displays in the same way as {{tl|URL}}. If there is no property P856 at Wikidata, nothing will be displayed (unlike {{tl|URL}} which gives an error message). When a website needs to be added or changed, simply go to the Wikidata item and add or change the website at Wikidata. With this template, no edits will be needed at the article (just refresh the page if the website is not visible). An edit link to the Wikidata property is displayed via {{tl|EditAtWikidata}}.
+
+The following templates implement the function of this one intrinsically:
+* {{tl|Infobox OS}}
+* {{tl|Infobox programming language}}
+* {{tl|Infobox software}}
+* {{tl|Official website}}
+
+== Modules and templates used ==
+* [[Module:URL]] via {{tl|URL}}
+* [[Module:Wd]] via {{tl|Wikidata}}
+* [[Module:If empty]] via {{tl|If empty}}
+
+==TemplateData==
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {},
+	"description": "This template is for use in infoboxes.  The template outputs the website URL (e.g. \"www.example.com\") for the article subject with a link to the URL, using the \"official website\" field (field P856) from the associated Wikidata page, if available.  It will not display https:// or http://, but the link will work based on what is specified in Wikidata."
+}
+</templatedata>
+
+==See also==
+* {{tl|Official website}}
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:External link templates using Wikidata]]
+}}</includeonly>

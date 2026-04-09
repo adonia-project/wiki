@@ -1,0 +1,10 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Mitoyagi
+| flag alias = Flag of Mitoyagi.svg
+| link alias-football =
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+}}

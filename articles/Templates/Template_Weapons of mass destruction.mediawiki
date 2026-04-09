@@ -1,0 +1,71 @@
+{{Sidebar
+| name = Weapons of mass destruction
+| class = hlist
+| title = [[Weapon of mass destruction|Weapons of mass destruction]]
+| image = [[file:WMD world map.svg|frameless]]
+| headingstyle = background:lightsteelblue;
+
+| heading1 = By type
+| content1 =
+* [[w:Biological agent|Biological]]
+** [[w:Biological warfare|warfare]]
+** [[w:History of biological warfare|history]]
+** [[w:Biological terrorism|terrorism]]
+* [[w:Chemical weapon|Chemical]]
+** [[w:Chemical warfare|warfare]]
+** [[w:History of chemical warfare|history]]
+** [[w:Chemical terrorism|terrorism]]
+* [[w:Nuclear weapon|Nuclear]]
+** [[w:Nuclear warfare|warfare]]
+** [[w:Nuclear terrorism|terrorism]]
+* [[w:Radiological warfare|Radiological]]
+
+| heading2 = [[List of weapons of mass destruction by country|By country]]
+| content2 =
+* [[Balisca and weapons of mass destruction|Balisca]]
+* [[Burawa and weapons of mass destruction|Burawa]]
+* [[Daras and weapons of mass destruction|Daras]]
+* [[Nakamizu and weapons of mass destruction|Nakamizu]]
+
+| heading3 = Non-state
+| content3 = 
+* [[tba]]
+* [[tba]]
+
+| heading4 = Biological weapons by country
+|content4 = 
+* [[tba biological weapons program|tba]]
+
+| heading5 = Chemical weapons by country
+|content5=
+* [[TBA chemical weapons program|TBA]]
+
+| heading6 = Nuclear weapons by country
+| content6 = 
+* [[Nuclear weapons and Burawa|Burawa]]
+* [[Nuclear weapons of Daras|Daras]]
+* [[Nuclear weapons of Nakamizu|Nakamizu]]
+* [[Nuclear weapons of Zong|Zong]]
+
+| heading7 = Proliferation
+| content7 =
+* [[w:Chemical weapon proliferation|Chemical]]
+* [[w:Nuclear proliferation|Nuclear]]
+* [[List of missiles by country|Missiles]]
+
+| heading8 = Treaties
+| content8 =
+* [[List of weapons of mass destruction treaties|List of treaties]] ([[List of parties to weapons of mass destruction treaties|treaty parties]])
+
+| heading9 = Defence
+| content9 =
+* [[CBRN defense]]
+
+| belowstyle = border-top:2px solid lightsteelblue;padding:0.2em 0.1em 0.35em;border-bottom:2px solid lightsteelblue;
+| below =
+* {{icon|Category}} [[:Category:Weapons of mass destruction|Category]]
+
+}}<noinclude>
+[[Category:Weapon sidebar templates|Mass destruction]]
+[[Category:Politics and government sidebar templates|Weapons of mass destruction]]
+</noinclude>

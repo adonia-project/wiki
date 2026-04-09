@@ -1,0 +1,188 @@
+{{Navbox
+| name       = Balisca articles
+| title      = Balisca articles
+| state      = {{{state|collapsed}}}
+| image      = [[File:Coat of Arms of Balisca.svg|150px|link=Balisca]]
+| aboveclass = hlist
+| listclass  = hlist
+| belowclass = hlist
+
+<!--------------------------------------------------------->
+| group1 = [[National symbols of Balisca|Symbols]]
+| list1  =
+* [[List of cultural icons of Balisca|Cultural icons]]
+** [[w:The Internationale|Anthem]]
+** [[Coat of arms of Balisca|Coat of arms]]
+** [[Flag of Balisca|Flag]]
+** {{W|Capybara}}
+** {{W|Chaco eagle|Crowned solitary eagle}}
+** {{W|Black panther}}
+** {{W|Vitis labrusca|Vitus baliscana}}
+
+<!--------------------------------------------------------->
+|group2  = [[History of Balisca|History]]
+|list2   =  {{Navbox|child
+| groupstyle = width: 5em;
+| liststyle  = width: auto;
+| group1 = 
+| list1  = 
+* [[Indigenous peoples in Balisca|Indigenous civilization]]
+* [[Colonial Balisca|Illypnian colonization]]
+**[[Viceroyalty of New Volisania]]
+* [[Maroon Wars]]
+* [[Volisanya Boba|Independence movement]]
+* [[Continuation War|Resistencia]]
+* [[Confederal Question]]
+**[[Pastry War]]
+* [[Baliscan Civil War|Civil War]]
+* [[Cosmocazo]]
+** [[Cantonal Revolution]]
+* [[Baliscan Revolution|Revolution and reformation]]
+** [[Baliscan post-revolution exodus|Exodus]]
+* [[Estado Nuevo]]
+** [[Baliscan miracle]]
+* [[Special Period]] 
+** [[October 76]]
+* [[History of Balisca|Contemporary Balisca]]
+}}
+
+<!--------------------------------------------------------->
+|group3 = [[Geography of Balisca|Geography]]
+|list3 =
+* {{W|World Network of Biosphere Reserves|Biosphere Reserves}}
+* [[Baliscan archipelago]]
+** [[Climate of Balisca|Climate]]
+** [[List of earthquakes in Balisca|Earthquakes]]
+** [[List of extreme points of Balisca|Extreme points]]
+** [[Forests of Balisca|Forests]]
+** [[List of islands of Balisca|Islands]]
+** [[Ecological reserves of Balisca|Ecological reserves]]
+** [[List of Sites of Community Importance in Balisca|Natural Sites of Community Importance]]
+
+<!--------------------------------------------------------->
+|group4 = [[Politics of Balisca|Politics]]
+|list4 = {{Navbox|child
+| groupstyle = width: 5em;
+| liststyle  = width: auto;
+| group1 = 
+| list1  = 
+* [[Confederal Convention]]
+* [[Constitution of Balisca|Constitution]] <small>([[Basic Laws of Balisca|Basic Laws]])</small>
+* [[Elections in Balisca|Elections]]
+** [[Commune district|Commune districts]]
+* [[Open Cabildo]]
+* [[w:Indigenous decolonization|Indigenous sovereignty]]
+** [[Indigenous nations in Balisca|Territories]]
+* [[Human rights in Balisca|Human rights]]
+** [[LGBTQ rights in Balisca|LGBTQ]]
+* [[Reconciliation council (Balisca)|Justice]]
+** [[Confederal Council of Arbitration]]
+* [[Administrative divisions of Balisca|Administrative divisions]]
+** [[Communities of Balisca|Communities]]
+** [[Regions of Balisca|Regions]]
+*** [[Ranked lists of Baliscan regions|ranked lists]]
+** [[Cantons of Balisca|Cantons]]
+** [[Communes of Balisca|Communes]]
+*** [[Autonomous commune (Balisca)|Autonomous communes]]
+*** [[Communal politics in Balisca|Communal politics]]
+* [[Confederal Armed Forces|Military]]
+* [[International relations of Balisca|International relations]]
+** [[List of diplomatic missions in Balisca|Diplomatic missions]]
+** [[List of diplomatic missions of Balisca|Overseas diplomatic missions]]
+
+  | group2 = [[Confederal government of Balisca|Government]]
+  | list2 = <!--Alphabetical:-->
+* [[Secretariat Council (Balisca)|Secretariat Council]]
+* [[Confederal Congress]]
+* [[Secretariat of International Affairs and Cooperation (Balisca)|International Secretariat]]
+** [[International policy of Balisca|International policy]]
+** [[International relations of Balisca|International relations]]
+* [[Cooperative agencies of Balisca|Cooperative agencies]]}}
+
+<!--------------------------------------------------------->
+
+|group5  = [[Economy of Balisca|Economy]]
+|list5   =  {{Navbox|child
+| groupstyle = width: 5em;
+| liststyle  = width: auto;
+| group1 = 
+| list1  = 
+* [[Agriculture, forestry, and fishing in Balisca|Agriculture, forestry, and fishing]]
+* [[Finance in Balisca|Finance]]
+* [[Regions of Balisca|Regions]]
+** [[List of Baliscan regions by GDP|GDP]]
+** [[List of Baliscan regions by Human Development Index|HDI]]
+** [[List of Baliscan regions by median income|median income]]
+* [[Economy of Balisca#Economic history|Economic history]]
+** [[Special Period|1970s economic crisis]]
+* [[Energy in Balisca|Energy]]
+* [[Cannabis in Balisca|Cannabis and hemp]]
+* [[List of largest Baliscan companies|Largest companies]]
+* [[Taxation in Balisca|Taxation]]
+* [[Science and technology in Balisca|Science and technology]]
+* [[Telecommunications in Balisca|Telecommunications]]
+* [[Tourism in Balisca|Tourism]]
+* [[Trade unions in Balisca|Trade unions]]
+* [[Transport in Balisca|Transport]]
+** [[Autopista of Balisca|Autopista]]
+** [[Baliscan Railways Group]]
+** [[AVB|High-speed rail]]
+* [[Baliscan wine|Wine]]}}
+
+<!--------------------------------------------------------->
+
+|group6  = [[Society of Balisca|Society]]
+|list6   =  {{Navbox|child
+| groupstyle = width: 5em;
+| liststyle  = width: auto;
+| group1 = 
+| list1  = 
+* [[Crime in Balisca|Crime]]
+** [[Cybercrime in Balisca|Cybercrime]]
+* [[Demographics of Balisca|Demographics]]
+** [[Immigration to Balisca|Immigration]]
+** [[Baliscan diaspora|Emigration]]
+* [[Ethnography of Balisca|Ethnography]]
+* [[Education in Balisca|Education]]
+* [[Etiquette in Balisca|Etiquette]]
+* [[Gambling in Balisca|Gambling]]
+* [[Housing in Balisca|Housing]]
+** [[Baliscan housing shortage|Housing shortage]]
+** [[Planned communities in Balisca|Planned communities]]
+* [[Languages of Balisca|Languages]]
+* [[Baliscans|People]]
+** [[Stereotypes of Baliscans|Stereotypes]]
+* [[Religion in Balisca|Religion]]
+** [[Marriage in Balisca|Marriage]]
+* [[Sexuality in Balisca|Sexuality]]
+* [[Drug policy of Balisca|Drug policy]]
+** [[Cannabis in Balisca|Cannabis]]
+
+| group2 = [[Culture of Balisca|Culture]]
+  | list2 = <!--Alphabetical:-->
+* [[Baliscan values|Values]] <small>([[Desconexión]] & [[Cosmocazo]])</small>
+* [[Architecture of Balisca|Architecture]]
+* [[Baliscan art|Art]]
+* [[Cinema of Balisca|Cinema]]
+* [[Cuisine of Balisca|Cuisine]]
+* [[Baliscan festivals|Festivals]]
+* [[Balisca folklore|Folklore]]
+* [[Baliscan literature|Literature]]
+* [[Media of Balisca|Media]]
+* [[Music of Balisca|Music]]
+** [[Balisca in the Adoniavision Song Contest|Adoniavision]]
+***[[Festival de Canarias|National selection]]
+* [[Baliscan mythology|Mythology]]
+* [[Sport in Balisca|Sport]]
+* [[Television in Balisca|Television]]
+* [[Theatre of Balisca|Theatre]]}}
+
+| belowstyle=font-weight:bold;
+| below =   
+*{{portal-inline|Balisca|size=tiny}}
+*{{icon|category}} [[:Category:Balisca|Category]]
+}}<noinclude>
+{{pp-template|small=yes}}
+<br/>{{collapsible option |statename=optional}}
+
+</noinclude>

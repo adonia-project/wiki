@@ -1,0 +1,12 @@
+<includeonly>{{Military navigation
+|name = {{#if:{{{raw_name|}}} |{{{raw_name|}}} |{{#if:{{{title|}}} |{{{name|}}} |}} }}
+|state = {{{state|}}}
+|border = {{{border|}}}
+|title = <span style="line-height:1.6em">{{#if:{{{title|}}}|{{{title}}}|{{{name}}}}}</span>
+|bodyclass = {{{bodyclass|}}}
+|listclass = {{{listclass|}}}
+|list1 = {{{battles|}}}
+|below = {{{notes|}}}
+}}{{#ifeq:{{NAMESPACE}}|Template|[[Category:Campaignbox templates]]}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

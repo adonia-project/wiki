@@ -1,0 +1,83 @@
+{{Infobox
+| bodyclass    = vevent
+| aboveclass   = summary
+| abovestyle   = font-weight: normal; background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;
+| above        = <includeonly>{{#if:{{{RTitle|}}}|'''{{{RTitle}}}'''|"'''{{{title|{{PAGENAMEBASE}}}}}'''"}}</includeonly>
+| headerclass  = summary
+| headerstyle = background: #CCCCFF; padding: 0.25em 1em; line-height: 1.5em;
+| subheader    = {{#if:{{{series|}}}|{{nowrap|''{{{series|}}}'' episode}} }}
+| subheaderstyle = font-weight: bold; font-size: 110%
+
+| image        = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|alt={{{alt|}}}}}
+| caption      = {{{caption|}}}
+
+| labelstyle   = white-space: nowrap
+
+| label1       = Episode {{abbr|no.|number}}
+| data1        = {{#if:{{{season|}}}|Season&nbsp;{{{season|}}}<br />}}{{#if:{{{series_no|}}}|{{nowrap|Series {{{series_no|}}}}}<br />}}{{#if:{{{episode|}}}|Episode {{{episode|}}}}}
+
+| label2       = Directed by
+| data2        = {{{director|}}}
+
+| label3       = Written by
+| data3        = {{{writer|}}}
+
+| label4       = Story by
+| data4        = {{{story|}}}
+
+| label5       = Teleplay by
+| data5        = {{{teleplay|}}}
+
+| label6       = Narrated by
+| data6        = {{{narrator|}}}
+
+| label7       = Presented by
+| data7        = {{{presenter|}}}
+
+| label8       = Produced by
+| data8        = {{{producer|}}}
+
+| label9       = Featured music
+| data9        = {{{music|}}}
+
+| label10      = Cinematography by
+| data10       = {{{photographer|}}}
+
+| label11      = Editing by
+| data11       = {{{editor|}}}
+
+| label18      = Production code
+| data18       = {{{production|}}}
+
+| label19      = Original {{#if:{{{release_date|}}}|release|air}} date
+| data19       = {{if empty|{{{release_date|}}}|{{{airdate|}}}}}
+
+| label20      = Running time
+| data20       = {{{runtime|{{{length|}}}}}}
+
+| label22      = Awards
+| data22       = {{{awards|}}}
+
+| header24     = {{#if:{{{guests|}}}|{{{guests_title|{{nowrap|Guest appearance(s)}}}}}}}
+| data25       = {{#if:{{{guests|}}}|<div style="text-align: left; padding: 5; margin: 0; padding-left: 1em">
+{{{guests|}}}
+</div>}}
+
+| data27       = {{{module|}}}
+
+| class30      = noprint
+| header30     = {{#if:{{{prev|}}}{{{next|}}}{{{RPrev|}}}{{{RNext|}}}|Episode chronology}}
+| rowclass31   = noprint
+| data31       = {{#if:{{{prev|}}}{{{next|}}}{{{RPrev|}}}{{{RNext|}}}|
+{{{!}} style="width:100%;"
+{{!}} style="width: 50%; padding: 0.2em 0.1em 0.2em 0; text-align: center;" {{!}} ←&nbsp;'''Previous'''<br />{{#if:{{{prev|}}}|"{{{prev|}}}"|{{#if:{{{RPrev|}}}|{{{RPrev}}}|&mdash;}}}}
+{{!}} style="width: 50%; padding: 0.2em 0 0.2em 0.1em; text-align: center;" {{!}} '''Next'''&nbsp;→<br />{{#if:{{{next|}}}|"{{{next|}}}"|{{#if:{{{RNext|}}}|{{{RNext}}}|&mdash;}}}}
+{{!}}}
+}}
+
+| belowclass   = noprint
+| below        = {{{episode_list|}}}
+
+}}<!-- 
+-->{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox television episode with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox television episode]] with unknown parameter "_VALUE_"|ignoreblank=y| airdate | alt | awards | caption | director | editor | episode | episode list | episode_list | guests | guests_title |  image | image_size | length | module | music | narrator | next | photographer | presenter | prev | producer | production | release_date | RNext | RPrev | RTitle | runtime | season | series | series_no | story | teleplay | title | writer 
+}}<noinclude>{{documentation}}</noinclude>

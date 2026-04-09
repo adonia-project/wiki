@@ -1,0 +1,69 @@
+<includeonly>{{Infobox
+
+| image    = {{{image|}}}
+| caption1 = {{{caption|}}}
+
+| title    ={{{name|{{PAGENAME}}}}}
+| titlestyle = background:#d0e5f5;border-top:1px solid darkgray;border-left:1px solid darkgray;border-right:1px solid darkgray;
+
+
+| label1   = National organization(s)
+| data1 = {{{national|}}}
+
+| label2 = Regulatory authority
+| data2 = {{{government|}}}
+
+| label3 = Primary legislation
+| data3 = {{{legislation|}}}
+
+| label4 = Total union membership
+| data4 = {{{membership_number|}}}
+
+| label5 = {{{union_percentage1_title|}}}
+| data5 = {{{union_percentage1|}}}
+
+| label6 = {{{union_percentage2_title|}}}
+| data6 =  {{{union_percentage2|}}}
+
+| header9 ={{#switch: {{lc:{{{ITUC-GRI|}}}}}
+   | 1 | 2 | 3 | 4 | 5 | 5+  = [[Global Rights Index]]
+}}
+| data10 = {{#switch: {{lc:{{{ITUC-GRI|}}}}}
+   | 1 = {{legend|#32CD32|border=none|text=1|textcolor=white|Sporadic violations of rights}}
+   | 2 = {{legend|#FFFF00|border=none|text=2|textcolor=A9A9A9|Repeated violations of rights}}
+   | 3 = {{legend|#FFA500|border=none|text=3|textcolor=white|Regular violations of rights}}
+   | 4 = {{legend|#FF8C00|border=none|text=4|textcolor=white|Systematic violations of rights}}
+   | 5 = {{legend|#FF0000|border=none|text=5|textcolor=white|No guarantee of rights}}
+   | 5+ = {{legend|#8B0000|border=none|text=5+|textcolor=white|No guarantee of rights due to breakdown of law}}
+}}
+
+| header13 ={{#switch: {{lc:{{{ILOmember|}}}}}
+   | y | yes | n | no | o | other | observer = [[International Labour Organization]]
+}}
+| data14 = {{#switch: {{lc:{{{ILOmember|}}}}}
+   | y | yes = {{#if:{{{country|}}}|{{{country|}}}|Country}} is a member of the ILO
+   | n | no  = {{#if:{{{country|}}}|{{{country|}}}|Country}} is not a member of the ILO
+   | o | other  = {{#if:{{{territory|}}}|{{{territory|}}}|Territory}} has separate territorial status but is an ILO member via
+{{{country|}}}
+   | observer = {{#if:{{{country|}}}|{{{country|}}}|Country}} has observer status at the ILO
+}}
+
+| header15 = {{#switch: {{lc:{{{ILOmember|}}}}}
+  | o | other = {{#if:{{{ILO-87date|}}}{{{ILO-98date|}}}|Convention declaration}}
+  | y | yes =   {{#if:{{{ILO-87date|}}}{{{ILO-98date|}}}|Convention ratification}}
+}}
+
+| label16 = [[Freedom of Association and Protection of the Right to Organise Convention|Freedom of Association]]
+| data16 = {{#switch: {{lc:{{{ILO-87date|}}}}}
+   | n | no = Not ratified
+   |{{{ILO-87date|}}}
+}}
+
+| label17 = [[Right to Organise and Collective Bargaining Convention, 1949|Right to Organise]]
+| data17 = {{#switch: {{lc:{{{ILO-98date|}}}}}
+   | n | no = Not ratified
+   | {{{ILO-98date|}}}
+}}
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

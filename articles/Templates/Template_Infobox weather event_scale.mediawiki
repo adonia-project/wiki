@@ -1,0 +1,51 @@
+{{#if: {{{categoryonly|}}}
+  | {{#if: {{{category|}}} | {{{category}}} | {{{auto-category}}} }}
+  | <templatestyles src="Template:Infobox weather event/styles.css"/>{{#ifeq: {{NAMESPACE}}:{{ROOTPAGENAME}}
+    | Template:Infobox weather event
+    | {{#ifeq: {{Str find|{{FULLPAGENAME}}|/doc}} | -1
+      | {{#ifeq: {{FULLPAGENAME}}
+        | Template:Infobox weather event<!-- Not the actual main template itself -->
+        || [[Category:Weather event infobox scale templates|{{#ifeq: {{FULLPAGENAME}}
+          | Template:Infobox weather event/scale
+          | &#32;
+          | {{SUBPAGENAME}}
+        }}]]<!-- Only linked on non-doc 'Template:Infobox weather event' subpages -->
+      }}
+    }}
+  }}{{Infobox weather event/meteorology
+    | decat = yes
+    | child = {{{child|<includeonly>yes</includeonly>}}}
+    | bodystyle = {{#if: {{yesno|{{{child|<includeonly>yes</includeonly>}}}}} | {{{bodystyle|<includeonly>border-collapse: collapse</includeonly>}}} }}
+
+    | auto-category = {{{auto-category|}}}
+    | category = {{{category|}}}
+    | basin = {{{basin|}}}
+
+    | header-style = {{{header-style|}}}
+    | header = {{{header|}}}
+
+    | interval = {{{interval|}}}
+    | post-interval = {{{post-interval|{{{postinterval|}}}}}}
+    | agency = {{{agency|}}}
+    | scale = {{{scale|}}}
+
+    | live = {{{current|{{{live|}}}}}}
+    | winds = {{{winds|}}}
+    | winds-prefix = {{{winds-prefix|}}}
+    | winds-suffix = {{{winds-suffix|}}}
+    | gusts = {{{gusts|}}}
+    | gusts-prefix = {{{gusts-prefix|}}}
+    | gusts-suffix = {{{gusts-suffix|}}}
+    | beaufort-scale = {{{beaufort-scale|{{{beaufort scale|}}}}}}
+    | pressure = {{{pressure|}}}
+    | pressure-prefix = {{{pressure-prefix|}}}
+    | pressure-suffix = {{{pressure-suffix|}}}
+    | lowest-temperature = {{{lowest-temperature|{{{lowest temperature|}}}}}}
+    | temperature-prefix = {{{temperature-prefix|}}}
+    | temperature-suffix = {{{temperature-suffix|}}}
+
+    | largest-hail = {{{largest-hail|{{{largest hail|}}}}}}
+    | maximum-rain = {{{maximum-rain|{{{maximum rain|}}}}}}
+    | maximum-snow = {{{maximum-snow|{{{maximum snow|}}}}}}
+  }}
+}}<noinclude>{{Documentation}}</noinclude>

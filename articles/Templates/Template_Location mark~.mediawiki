@@ -1,0 +1,35 @@
+<includeonly>{{#if:{{{x|}}}{{{y|}}}{{{x%|}}}{{{y%|}}}
+| <div style="position: absolute; z-index: 2; height: 0; width: 0; margin: 0; padding: 0;
+  top:  {{#if:{{{y%|}}}
+        | {{{y%|}}}%;
+        | {{#expr:{{if empty|{{{width|}}}|220}} * {{{y|}}} e -3 round 0 }}px; }}
+  left: {{#if:{{{x%|}}}
+        | {{{x%|}}}%;
+        | {{#expr:{{if empty|{{{width|}}}|220}} * {{{x|}}} e -3 round 0 }}px; }} ">
+
+  <div style="position: relative; z-index: 3; line-height: 0; text-align: center;
+  width: {{if empty|{{{mark_width|}}}|8}}px;
+  left: -{{#expr:{{if empty|{{{mark_width|}}}|8}} / 2 round 2}}px;
+  top:  -{{#expr:{{if empty|{{{mark_width|}}}|8}} / 2 round 2}}px;"><!--
+  -->[[File:{{if empty|{{{mark|}}}|Red pog.svg}}|{{if empty|{{{mark_width|}}}|8}}px|{{{label|}}}<!--
+     -->{{#if:{{{alt|}}}{{{mark_alt|}}}{{{label|}}}|{{!}}alt={{if empty|{{{alt|}}}|{{{mark_alt|}}}|{{{label|}}} }} }}<!--
+     -->{{#if:{{{link|}}}{{{mark_link|}}}|{{!}}link={{if empty|{{{mark_link|}}}|{{{link|}}} }} }}]]</div><!--
+
+-->{{#ifeq:{{{position|}}}|none|
+   | <div style="position: relative; z-index: 4; font-size: {{if empty|{{{font_size|}}}|90}}%; line-height: 111%; width: 6em;
+     {{#switch: {{{position|}}}
+     | left   = top: -1.5em;  left: -6.5em; text-align: right;
+     | right  = top: -1.5em;  left:  0.5em; text-align: left;
+     | top    = top: -2.65em; left: -3em;   text-align: center;
+     | bottom = top: -0.15em; left: -3em;   text-align: center;
+     | #default = {{#ifexpr:({{if empty|{{{x|}}}|0}}>700) or ({{if empty|{{{x%|}}}|0}}>70)
+       | top: -1.5em; left: -6.5em; text-align: right;
+       | top: -1.5em; left:  0.5em; text-align: left;}}
+     }}"><span style="padding: 1px; {{#if:{{{background|}}}|background-color: {{{background|}}}; }}">{{{label|}}}</span></div>}}
+</div>}}</includeonly><noinclude>
+{{documentation}}
+<!--
+   Please add categories and interwikis
+   to the /doc sub-page, thanks
+-->
+</noinclude>

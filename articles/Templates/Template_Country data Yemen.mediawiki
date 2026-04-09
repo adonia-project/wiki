@@ -1,0 +1,33 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Yemen
+| flag alias = Flag of Yemen.svg
+| flag alias-1918 = Flag of Yemen 1918.svg
+| flag alias-1923 = Flag of the Mutawakkilite Kingdom of Yemen (1918-1927).svg
+| flag alias-1927 = Flag of the Mutawakkilite Kingdom of Yemen.svg
+| flag alias-1962 = Flag of the Yemen Arab Republic.svg
+| link alias-army = Yemeni Land Forces
+| flag alias-army = Flag of the Yemeni Army.svg
+| flag alias-naval = Flag of the Yemeni Navy.svg
+| link alias-naval = Yemeni Navy
+| flag alias-air force = Flag of the Yemeni Air Force.svg
+| link alias-air force = Yemeni Air Force
+| flag alias-navy = Flag of the Yemeni Navy.svg
+| link alias-navy = Yemeni Navy
+| flag alias-military = Flag of the Yemen Armed Forces.svg
+| link alias-military = Yemeni Armed Forces
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1918
+| var2 = 1923
+| var3 = 1927
+| var4 = 1962
+| redir1 = YEM
+| related1 = North Yemen
+| related2 = South Yemen
+| related3 = Aden
+| related4 = South Arabia
+</noinclude>
+}}

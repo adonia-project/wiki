@@ -1,0 +1,20 @@
+{{#if:{{{sortable|}}}
+ |<span style="display:none;">{{{1|}}}</span>
+}}{{#if:{{{i|}}}
+ |<nowiki/>''
+}}{{abbr|style=font-size:85%|{{#switch:{{{lk|}}}
+ |yes|on = [[Literal translation|lit.]]
+ |#default = lit.
+}}|literal translation}}{{#if:{{{i|}}}
+ |''<nowiki/>
+}}{{#if:{{{1|}}}
+ | {{thinsp}}<nowiki>'</nowiki>{{{1}}}{{#if:{{str endswith|{{{1}}}|''}}|{{'}}|&#39;}}
+}}{{#if:{{{2|}}}
+ | {{sp}} or <nowiki>'</nowiki>{{{2}}}{{#if:{{str endswith|{{{2}}}|''}}|{{'}}|&#39;}}
+}}{{#if:{{{3|}}}
+ | {{sp}} or <nowiki>'</nowiki>{{{3}}}{{#if:{{str endswith|{{{3}}}|''}}|{{'}}|&#39;}}
+}}{{#if:{{{4|}}}
+ | {{sp}} or <nowiki>'</nowiki>{{{4}}}{{#if:{{str endswith|{{{4}}}|''}}|{{'}}|&#39;}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>

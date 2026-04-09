@@ -1,0 +1,33 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Arriola
+| shortname alias = Arriola
+| flag alias = Flag of Arriola.png
+| flag alias-994 = Flag of the Kingdom of Arriola (994).png
+| flag alias-1516 = Flag of Habsburg Arriola.png
+| flag alias-1797 = Flag of the Cispyrenean Republic.png
+| flag alias-1798 = Bandeira_Federalista_Ibérica_(1854).svg
+| flag alias-1865 = Flag of the Aranese Union.png
+| flag alias-1933 = Flag of the Second Aranese Republic.png
+| flag alias-1946 = Flag of CNT-FAI.png
+| flag alias-civil = Flag Portugal sea (1830).svg
+| flag alias-air force=Arriola Air force fin flash.png
+| flag alias-army = Military flag of Arriola.png
+| flag alias-naval = Naval Jack of Arriola.png
+| link alias-air force = Aranese Air Force
+| link alias-army = Aranese Army
+| link alias-naval = Aranese Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 994
+| var2 = 1516
+| var3 = 1797
+| var4 = 1798
+| var5 = 1865
+| var6 = 1933
+| var7 = 1946
+| redir1 = Kingdom of Arriola
+</noinclude>
+}}

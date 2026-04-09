@@ -1,0 +1,15 @@
+/* {{pp|small=yes}} */
+.ib-station-name {
+	display: table-cell;
+	vertical-align: middle
+}
+
+@media only screen and (min-width: 720px) {
+	.ib-station {
+		width: 25.5em;
+	}
+	
+	.ib-station-name {
+		width: inherit;
+	}
+}

@@ -1,0 +1,113 @@
+{{Infobox
+| aboveclass   = fn org
+| above = {{#if:{{{name|}}}{{{surname|}}}|{{if empty|{{{name|}}}|{{{surname|}}}}}|{{PAGENAMEBASE}}}}{{#if:{{{native_name|}}}|<br /><div style="display:inline;" class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}{{#if:{{{other_name|}}}{{{other_names|}}}|<br /><div class="nickname" style="display:inline;font-size:78%">{{if empty|{{{other_name|}}}|{{{other_names}}}}}</div>}}
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{if empty|{{{coat_of_arms|}}}|{{{coat of arms|}}}|{{{crest|}}}}}|size={{if empty|{{{coat_of_arms_size|}}}|{{{crest_size|}}}}}|sizedefault=frameless|upright=0.5|alt={{{alt|}}}}}
+| caption     = {{if empty|{{{caption|}}}|{{{coat_of_arms_caption|}}}|{{{crest_caption|}}}|{{{crestcaption|}}}}}
+
+| image3       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{if empty|{{{image_size|}}}|{{{imagesize|}}}}}|alt={{{alt2|}}}}} 
+| caption3     = {{if empty|{{{caption2|}}}|{{{image_caption|}}}|{{{imagecaption|}}}}}
+
+| headerstyle  = background: #eee;
+
+| subheader    = {{{type|}}}
+
+| label1       = Parent {{#if:{{{parent_house|}}}{{{parent house|}}}|house|family}}
+| data1        = {{if empty|{{{parent_family|}}}|{{{parent_house|}}}|{{{parent house|}}}}}
+| label2       = Country
+| class2       = label
+| data2        = {{{country|}}}
+| label3       = Current region
+| data3        = {{{region|}}}
+| label4       = Earlier spellings
+| data4        = {{{early_forms|}}}
+| label5       = Etymology
+| data5        = {{if empty|{{{etymology|}}}|{{{meaning|}}}}}
+| label6       = Place of origin
+| data6        = {{{origin|}}}
+| label7       = Founded
+| data7        = {{if empty|{{{founded|}}}|{{{founding_year|}}}|{{{founding year|}}}}}
+| label8       = Founder
+| data8        = {{{founder|}}}
+| label9       = Current head
+| data9        = {{if empty|{{{current_head|}}}|{{{current head|}}}}}
+| label10      = Final ruler
+| data10       = {{if empty|{{{final_ruler|}}}|{{{final ruler|}}}}}
+| label11      = Final head
+| data11       = {{if empty|{{{final_head|}}}|{{{final head|}}}}}
+
+| label12   = [[Family seat|Seat]]
+| data12    = {{{seat|}}}
+
+| label13   = Historic seat
+| data13    = {{if empty|{{{historic_seat|}}}|{{{historic seat|}}}}}
+
+| label14      = Titles
+| data14       = {{{titles|}}}
+| label15      = [[Style (manner of address)|Style(s)]]
+| data15       = {{{styles|}}}
+| label16      = Members
+| data16       = {{{members|}}}
+| label17      = Connected members
+| data17       = {{if empty|{{{connected_members|}}}|{{{connectedmembers|}}}}}
+| label18      = Connected families
+| data18       = {{if empty|{{{other_families|}}}|{{{otherfamilies|}}}}}
+| label19      = Distinctions
+| data19       = {{{distinctions|}}}
+| label20      = Traditions
+| data20       = {{{traditions|}}}
+| label21      = Motto
+| data21       = {{#if:{{{motto|}}}|
+                       {{#if:{{{motto_lang|}}} |
+                             <div style="display:inline;" lang="{{{motto_lang}}}">{{{motto}}}</div> |
+                             {{{motto}}} | 
+                       }}
+                 }}<!--
+              -->{{#if:{{{motto_trans|}}}|<br />({{{motto_trans}}})|}}
+| label22      = Heirlooms
+| data22       = {{{heirlooms|}}}
+| label23      = Estate{{pluralize from text|{{if empty|{{{estate|}}}|{{{estates|}}}}}|likely=(s)|plural=s}}
+| data23       = {{if empty|{{{estate|}}}|{{{estates|}}}}}
+| label24      = Properties
+| data24       = {{{properties|}}}
+| label25      = Dissolution
+| data25       = {{{dissolution|}}}
+| label26      = Deposition
+| data26       = {{{deposition|}}}
+| label27      = Cadet branches
+| data27       = {{if empty|{{{cadet_branches|}}}|{{{cadet branches|}}}}}
+| label28      = Branches
+| data28       = {{{branches|}}}
+| label29      = Website
+| data29       = {{if empty|{{{website|}}}|{{{url|}}}}}
+
+| data40       = {{{module|}}}
+
+| belowstyle   = border-top:#aaa 1px solid
+| below        = {{#if:{{{footnotes|}}}{{{notes|}}}|<div style="text-align: left;">{{if empty|{{{footnotes|}}}|{{{notes|}}}}}</div>}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox family with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox family]] with unknown parameter "_VALUE_"|ignoreblank=y | name | surname | native_name | native_name_lang | other_name | other_names | coat_of_arms | coat of arms | crest | coat_of_arms_size | crest_size | alt | caption | coat_of_arms_caption | crest_caption | crestcaption | image | image_size | imagesize | alt2 | caption2 | image_caption | imagecaption | type | parent_family | parent_house | parent house | country | region | early_forms | etymology | meaning | origin | founded | founding_year | founding year | founder | current_head | current head | final_head | final head | final_ruler | final ruler | seat | historic_seat | historic seat | titles | styles | members | connected_members | connectedmembers | other_families | otherfamilies | distinctions | traditions | motto | motto_lang | motto_trans | heirlooms | estates | estate | properties | dissolution | deposition | cadet_branches | cadet branches | branches | website | url | footnotes | notes | module }}{{#invoke:Check for conflicting parameters|check
+| template = [[Template:Infobox family]]
+| cat = {{main other|Category:Pages using infobox family with conflicting parameters}}
+| name; surname 
+| other_name; other_names 
+| coat_of_arms; coat of arms; crest 
+| coat_of_arms_size; crest_size 
+| caption; coat_of_arms_caption; crest_caption; crestcaption 
+| image_size; imagesize 
+| caption2; image_caption; imagecaption 
+| parent_family; parent_house; parent house 
+| etymology; meaning 
+| founded; founding_year; founding year 
+| current_head; current head 
+| final_ruler; final ruler 
+| final_head; final head 
+| historic_seat; historic seat 
+| connected_members; connectedmembers 
+| other_families; otherfamilies 
+| estate; estates 
+| cadet_branches; cadet branches 
+| website; url 
+| footnotes; notes 
+}}<noinclude>
+{{documentation}}<!-- Add categories to the /doc subpage, interwikis to Wikidata, not here -->
+</noinclude>

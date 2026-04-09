@@ -1,0 +1,3 @@
+<includeonly>__NOINDEX__{{#ifeq:{{{visible|}}}|yes|{{{text|This page has been removed from search engines' indexes.}}}}}{{#ifeq:{{NAMESPACENUMBER}}|0|[[Category:Noindexed articles]]}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

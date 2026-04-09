@@ -1,0 +1,29 @@
+A '''payment card number''', '''primary account number''' ('''PAN'''), or simply a '''card number''', is the card identifier found on [[payment card]]s, such as [[credit card]]s and [[debit card]]s, as well as [[stored-value card]]s, [[gift card]]s and other similar cards. In some situations the card number is referred to as a '''bank card number'''.  The card number is primarily a card identifier and may not directly identify the bank account number(s) to which the card is/are linked by the issuing entity. The card number prefix identifies the issuer of the card, and the digits that follow are used by the issuing entity to identify the cardholder as a customer and which is then associated by the issuing entity with the customer's designated bank accounts. In the case of stored-value type cards, the association with a particular customer is only made if the prepaid card is reloadable. Card numbers are allocated in accordance with {{w|ISO/IEC 7812}}. The card number is typically embossed on the front of a payment card, and is encoded on the magnetic stripe and chip, but may also be imprinted on the back of the card.
+
+The payment card number differs from the {{w:ISO 9362|Business Identifier Code}} (BIC/ISO 9362, a normalized code—also known as Business Identifier Code, Bank International Code or [[Society for Worldwide Interbank Financial Telecommunication|SWIFT]] code). It also differs from [[Universal Payment Identification Code]], another identifier for a bank account in the United States.
+
+== Issuer identification number (IIN) ==
+The first six or eight digits of a card number (including the initial MII digit) are known as the issuer identification number (IIN). These identify the card issuing institution that issued the card to the card holder. The rest of the number is allocated by the card issuer. The card number's ''length'' is its number of digits. Many card issuers print the entire IIN and account number on their card.
+
+Online merchants may use IIN lookups to help validate transactions. For example, if a card's IIN indicates a bank in one country, while the customer's billing address is in another, the transaction may call for extra scrutiny.
+
+{| class="wikitable mw-collapsible sortable"
+|-
+!Issuing network
+!IIN ranges
+!Active
+!Length
+!Validation
+|-
+|[[KBOC]]
+| data-sort-value="340000"|40, 42
+| style="color:green" |Yes
+| 16
+| rowspan="1" | [[Luhn algorithm]]
+|-
+|[[PayCard]]
+| data-sort-value="340000"|1
+| style="color:green" |Yes
+| 16
+| rowspan="1" | [[Luhn algorithm]]
+|}

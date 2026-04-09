@@ -1,0 +1,10 @@
+{{{{{|safesubst:}}}#if:{{{1|}}}
+ |{{{1}}}{{{{{|safesubst:}}}#iferror:{{{{{|safesubst:}}}#expr:{{{1}}}>0}}||px}}
+ |{{{{{|safesubst:}}}#if:{{{2|}}}
+  |{{{2}}}{{{{{|safesubst:}}}#iferror:{{{{{|safesubst:}}}#expr:{{{2}}}>0}}||px}}
+  |{{{3|}}}{{{{{|safesubst:}}}#iferror:{{{{{|safesubst:}}}#expr:{{{3|}}}>0}}||px}}
+ }}
+}}<noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

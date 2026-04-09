@@ -1,0 +1,2 @@
+<includeonly><dt class="vevent"><span class="summary">{{{1}}}</span></dt>
+<dd class="description">{{{2}}}</dd></includeonly><noinclude>{{documentation}}</noinclude>

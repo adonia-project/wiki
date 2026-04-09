@@ -1,0 +1,34 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Cambodia
+| flag alias = Flag of Cambodia.svg
+| flag alias-1863 = Flag of Cambodia (1863–1948).svg
+| flag alias-1942 = Flag of Cambodia under Japanese occupation.svg
+| flag alias-1970 = Flag of the Khmer Republic.svg
+| flag alias-1975 = Flag of Democratic Kampuchea.svg
+| flag alias-1979 = Flag of the People's Republic of Kampuchea.svg
+| flag alias-1989 = Flag of the State of Cambodia.svg
+| flag alias-1992 = Flag of Cambodia under UNTAC.svg
+| link alias-naval = Royal Cambodian Navy
+| link alias-air force = Royal Cambodian Air Force
+| flag alias-air force = Flag of the Royal Cambodian Air Force.svg
+| link alias-army = Royal Cambodian Army
+| link alias-navy = Royal Cambodian Navy
+| link alias-military = Royal Cambodian Armed Forces
+| flag alias-military = Flag of the Royal Cambodian Armed Forces.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1863
+| var2 = 1942
+| var3 = 1970
+| var4 = 1975
+| var5 = 1979
+| var6 = 1989
+| var7 = 1992
+| redir1 = KHM
+| redir2 = CAM
+| related1 = Khmer Republic
+</noinclude>
+}}

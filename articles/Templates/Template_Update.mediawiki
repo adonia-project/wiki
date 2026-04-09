@@ -1,0 +1,54 @@
+{{safesubst:<noinclude />#invoke:Unsubst||date=__DATE__ |$B=
+{{main other
+ | demospace = {{{demospace|}}} 
+ |{{ambox
+  | name  = Update
+  | subst = <includeonly>{{subst:substcheck}}</includeonly>
+  | type  = content
+  | class = ambox-Update
+  | image = [[File:{{Ambox globe current red}}|42px|link=|alt=]]
+  | issue = {{#if:{{{part|{{{1|}}}}}}
+   |{{#ifeq:{{{part|{{{1|}}}}}}|section
+     |{{#if:{{{inaccurate|}}}
+      |This section's '''[[Wikipedia:Accuracy dispute|factual accuracy]] may be compromised due to out-of-date information'''
+      |This section needs to be '''updated'''}}
+     |{{#if:{{{inaccurate|}}}
+      |The '''[[Wikipedia:Accuracy dispute|factual accuracy]]''' of parts of this article (those related to {{{part|{{{1|}}}}}}) '''may be compromised due to out-of-date information'''
+      |Parts of this article (those related to {{{part|{{{1|}}}}}}) need to be '''updated'''}}
+     }}
+   |{{#if:{{{inaccurate|}}}
+    |This article's '''[[Wikipedia:Accuracy dispute|factual accuracy]] may be compromised due to out-of-date information'''
+    |This article needs to be '''updated'''}}
+  }}. {{#if:{{{reason|}}}|The reason given is: {{{reason}}}.}} 
+  | fix   =  Please help update this {{{type|{{SUBJECTSPACE formatted}}}}} to reflect recent events or newly available information. {{#if:{{{2|{{{updated|}}}}}}
+   |<br /><small>Last update: {{{2|{{{updated}}}}}}</small>
+  }}
+  | talk  = {{{talk|{{{talksection|{{{discuss|}}}}}}}}}
+  | date  = {{{date|}}}
+  | cat   = {{#if:{{{inaccurate|}}}|Articles with obsolete information|Wikipedia articles in need of updating}}
+  | all   = All Wikipedia articles in need of updating
+  | all2  = {{{cat|}}}
+ }}
+ |{{mbox
+  | name  = Update
+  | subst = <includeonly>{{subst:substcheck}}</includeonly>
+  | type  = content
+  | class = ambox-Update
+  | image = [[File:{{Ambox globe current red}}|42px|link=|alt=]]
+  | text  = {{#if:{{{part|{{{1|}}}}}}
+   |{{#if:{{{inaccurate|}}}
+    |The '''[[Wikipedia:Accuracy dispute|factual accuracy]]''' of parts of this {{{type|{{SUBJECTSPACE formatted}}}}} (those related to {{{part|{{{1|}}}}}}) '''may be compromised due to out-of-date information'''
+    |Parts of this {{{type|{{SUBJECTSPACE formatted}}}}} (those related to {{{part|{{{1|}}}}}}) need to be '''updated'''}}
+   |{{#if:{{{inaccurate|}}}
+    |The '''[[Wikipedia:Accuracy dispute|factual accuracy]]''' of this {{{type|{{SUBJECTSPACE formatted}}}}} '''may be compromised due to out-of-date information'''
+    |This {{{type|{{SUBJECTSPACE formatted}}}}} needs to be '''updated'''}}
+  }}. {{#if:{{{reason|}}}|The reason given is: {{{reason}}}.}} Please help update this {{{type|{{SUBJECTSPACE formatted}}}}} to reflect recent events or newly available information. {{#ifexist: {{TALKPAGENAME}}
+   |Relevant discussion may be found on {{#if: {{{talk|{{{talksection|{{{discuss|}}}}}}}}} | [[{{TALKPAGENAME}}#{{{talk|{{{talksection|{{{discuss}}}}}}}}}|the talk page]] | [[{{TALKPAGENAME}}| the talk page]] }}.}} {{#if:{{{date|}}}|<small>''({{{date}}})''</small>}} {{#if:{{{2|{{{updated|}}}}}}
+   |<br /><small>Last update: {{{2|{{{updated}}}}}}</small>
+  }}
+ }}
+}}
+}}<noinclude>
+<!-- Place categories on /doc subpage; interwikis go to Wikidata. -->
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Niger
+| flag alias = Flag of Niger.svg
+| flag alias-military = Flag of niger armed forces obv.jpg
+| link alias-military = Niger Armed Forces
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = NER
+| redir2 = NIG
+</noinclude>
+}}

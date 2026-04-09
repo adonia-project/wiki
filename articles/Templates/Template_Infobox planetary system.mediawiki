@@ -1,0 +1,97 @@
+{{Infobox
+| titlestyle = padding-bottom:0.15em;
+| title = {{{title|}}}
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|upright={{{image_scale|1.3}}}|alt={{{alt|}}}|suppressplaceholder=yes}}
+| caption = {{{caption|}}}
+| headerstyle = {{#if:{{{background|{{{bgcolour|}}}}}}|background-color:{{{background|{{{bgcolour|}}}}}}|background-color:#F8F9FA}}; color:inherit;
+
+| labelstyle = padding:0.2em 0.5em<!--(to keep longer labels distinct from following data)--> 0 0.1em;line-height:1.2em; <!--(modified {{longitem}})-->
+
+| label1  = Age
+|  data1  = {{{age|}}}
+
+| label2  = Location
+|  data2  = {{{location|}}}
+
+| label3  = [[Right ascension]]
+|  data3  = {{{ascension|}}}
+
+| label4  = [[Declination]]
+|  data4  = {{{declination|}}}
+
+| label5  = System mass
+|  data5  = {{{system_mass|}}}
+
+| label6  = Nearest star
+|  data6  = {{{neareststar|}}}
+
+| label7  = Nearest [[planetary system]]
+|  data7  = {{{nearestplanetary|}}}
+
+<!------------Populations-------------->
+| header20 = {{#if:{{{stars|}}}{{{planets|}}}{{{dwarfplanets|}}}{{{satellites|}}}{{{minorplanets|}}}{{{comets|}}}{{{roundsat|}}} | Population}}
+
+| label21 = {{#if:{{{noknown_stars|}}} |Stars |Known stars}}
+|  data21 = {{{stars|}}}
+
+| label22 = {{#if:{{{noknown_planets|}}} |Planets |Known planets}}
+|  data22 = {{{planets|}}}
+
+| label23 = Known [[dwarf planet|dwarf&nbsp;planets]]
+|  data23 = {{{dwarfplanets|}}}
+
+| label24 = Known [[natural satellite|natural&nbsp;satellites]]
+|  data24 = {{{satellites|}}}
+
+| label25 = Known [[minor planet|minor&nbsp;planets]]
+|  data25 = {{{minorplanets|}}}
+
+| label26 = Known [[comet]]s
+|  data26 = {{{comets|}}}
+
+| label27 = Identified [[{{{roundsatlink|Natural satellite#Shape}}}|rounded&nbsp;satellites]]
+|  data27 = {{{roundsat|}}}
+
+<!------------------ Planetary system --------------------->
+| header30 = {{#if:{{{semimajoraxis|}}}{{{protoplanetarydisc|}}}{{{Kuiper_cliff|}}}{{{stars|}}}{{{planets|}}}{{{dwarfplanets|}}}{{{satellites|}}}{{{minorplanets|}}}{{{comets|}}}{{{roundsat|}}} |Planetary system}}
+
+| label31 = [[Stellar classification|Star spectral type]]
+|  data31 = {{{spectral|}}}
+
+| label32 = [[Variable star|Star variable type]]
+|  data32 = {{{variable|}}}
+
+| label33 = [[Protoplanetary disk|Proto-planetary disc]]
+|  data33 = {{{protoplanetarydisc|}}}
+
+| label34 = [[Frost line (astrophysics)|Frost line]]
+|  data34 = {{{frostline|}}}
+
+| label35 = [[Semi-major axis]] of outermost {{#if:{{{noknown_planets|}}}||known&puncsp;}}planet
+|  data35 = {{{semimajoraxis|}}} {{#if:{{{outerplanetname|}}}|({{nobold|{{{outerplanetname}}}}})}}
+
+| label36 = [[Kuiper cliff]]
+|  data36 = {{{Kuiper_cliff|}}}
+
+| label37 = [[Heliopause (astronomy)|Heliopause]]
+|  data37 = {{{heliopause|}}}
+
+| label38 = [[Hill sphere]]
+|  data38 = {{{hillsphere|}}}
+
+<!------------- Orbit about Galactic Center --------------->
+| header40 = {{#if:{{{inclination|}}}{{{galacticcenter|}}}{{{orbitalspeed|}}}{{{orbitalperiod|}}}|Orbit about [[Galactic Center]] }}
+
+| label41 = [[Invariable plane|Invariable]]-to-[[Galactic plane|galactic plane]] inclination
+|  data41 = {{{inclination|}}}
+
+| label42 = Distance to<br />Galactic Center
+|  data42 = {{{galacticcenter|}}}
+
+| label43 = Orbital speed
+|  data43 = {{{orbitalspeed|}}}
+
+| label44 = Orbital period
+|  data44 = {{{orbitalperiod|}}}
+
+}}<noinclude>{{Documentation}}</noinclude>

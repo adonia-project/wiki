@@ -1,0 +1,3 @@
+{{#if:{{{1|}}}|{{#tag:ref|{{{1}}}|group=lower-alpha|name={{{name|}}}}}|<span style="color:red; font-weight:bold;">[FIX ME: Empty Note]</span>}}<noinclude>
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Togo
+| flag alias = Flag of Togo (3-2).svg
+| flag alias-1957 = Flag of Togo (1957-1958).svg
+| flag alias-1958 = Flag of Togo (1958-1960).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1957
+| var2 = 1958
+| redir1 = TGO
+| redir2 = TOG
+</noinclude>
+}}

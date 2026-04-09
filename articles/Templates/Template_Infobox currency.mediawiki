@@ -1,0 +1,336 @@
+{{infobox
+| title = {{if empty|{{{name|}}}|{{{currency_name|}}}|{{PAGENAMEBASE}}}}
+
+| above ={{if empty
+|1={{{currency_name_in_local|}}}
+|2={{{local_name_format|}}}<!-- 1, 2: Use local name (could be preformatted) -->
+|3={{if both|1={{{local_name_lang|}}}{{{local_name_lang1|}}}|2={{{local_name|}}}{{{local_name1|}}}<!-- (test to reduce t-exec; misses tag2+) 
+-->|3={{Native name list<!--
+-->|tag1={{if empty|1={{{local_name_lang1|}}}|2={{{local_name_lang|}}}}}
+  |name1={{if empty|1={{{local_name1|}}}|2={{{local_name|}}}}}
+  |italics1=off
+  |parensize1=small
+  |paren1={{#if:{{{postfix|}}}{{{postfix1|}}}|omit}}
+  |postfix1=&#x20;{{if empty|1={{{postfix1|}}}|2={{{postfix|}}}}}<!--
+-->|tag2={{{local_name_lang2|}}}
+  |name2={{{local_name2|}}}
+  |italics2=off
+  |parensize2=small<!--
+-->|tag3={{{local_name_lang3|}}}
+  |name3={{{local_name3|}}}
+  |italics3=off
+  |parensize3=small<!--
+-->|tag4={{{local_name_lang4|}}}
+  |name4={{{local_name4|}}}
+  |italics4=off
+  |parensize4=small
+}}
+  |4={{{local_name|}}} {{if empty|1={{{postfix|}}}|2={{{postfix1|}}}}}<!-- use local_name as is, no lang; can be blank -->
+}}}}<!--
+-->{{#if:{{{name_abbr|}}}|<div>{{nobold|1={{{name_abbr|}}}}}</div>|}}
+
+| headerstyle = background-color: {{yesno|{{{obsolete|}}}|yes=lightpink|no=lightskyblue}};color:inherit;
+
+| imagestyle = {{#switch:{{#if:{{{image_1|}}}|1}}{{#if:{{{image_2|}}}|2}}
+  | 1 = {{#if:{{{image_background_1|}}} | background: {{{image_background_1}}}}}
+  | 2 = {{#if:{{{image_background_2|}}} | background: {{{image_background_2}}}}}
+  | 12 = padding: 0.3em 0.6em 0.3em 0.6em
+  }}
+| image = {{#switch:{{#if:{{{image_1|}}}|1}}{{#if:{{{image_2|}}}|2}}
+  | 1 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image_1}}}|size={{{image_width_1|}}}|sizedefault=252px|alt={{if empty|{{{alt1|}}}|{{{image_alt_1|}}}}}}}
+  | 2 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image_2}}}|size={{{image_width_2|}}}|sizedefault=252px|alt={{if empty|{{{alt2|}}}|{{{image_alt_2|}}}}}}}
+  | 12 = <table style="display:table; margin:0 auto; "><tr>
+<td style="vertical-align: middle; text-align: center;{{#if:{{{image_background_1|}}} | background: {{{image_background_1}}}}}">{{#invoke:InfoboxImage|InfoboxImage|image={{{image_1}}}|size={{{image_width_1|}}}|sizedefault=126px|alt={{if empty|{{{alt1|}}}|{{{image_alt_1|}}}}}}}</td>
+<td style="vertical-align: middle; text-align: center;{{#if:{{{image_background_2|}}} | background: {{{image_background_2}}}}}">{{#invoke:InfoboxImage|InfoboxImage|image={{{image_2}}}|size={{{image_width_2|}}}|sizedefault=126px|alt={{if empty|{{{alt2|}}}|{{{image_alt_2|}}}}}}}</td>
+</tr><tr><td style="text-align: center">{{{image_title_1|}}}</td><td style="text-align: center">{{{image_title_2|}}}</td>
+</tr></table>
+  }}
+| caption = {{#switch:{{#if:{{{image_1|}}}|1}}{{#if:{{{image_2|}}}|2}}
+  | 1 = {{{image_title_1|}}}
+  | 2 = {{{image_title_2|}}}
+  }}
+
+|header1 = {{#if:{{ISO 4217/code|iso-code={{{iso_code|}}}|format=option-none}}{{{iso_comment|}}}{{{iso_ref|}}}|[[ISO 4217]]}}
+
+| label2 = Code
+|  data2 = {{trim|1=<!-- three optional elements < > spaced; needs trimming in case of empty element; a ref requires unspaced
+-->{{ISO 4217/code|iso-code={{{iso_code|}}}|format=option-none, ISO4217-cat}} <!-- intentional space
+-->{{yesno|{{if empty|{{{obsolete|}}}|no}}|yes=|no={{#if:{{ISO 4217/code-count|iso-code={{{iso_code|}}}|list=L1}}|(numeric:&#x20;{{ISO 4217/code-to-number|iso-code={{{iso_code|}}}|format=mono}})}}}} <!-- intentional space
+-->{{if both|{{{iso_code|}}}|{{{iso_comment|}}}|<br />}}{{{iso_comment|}}}
+}}{{{iso_ref|}}}
+
+| label4 = [[ISO 4217#Minor unit decimals|Subunit]]
+|  data4 = {{ISO 4217/code-minor-unit|iso-code={{{iso_code|}}}|is-obsolete={{yesno|{{{obsolete|}}}}}}}
+
+|header5 = {{#if:{{{unit|}}}{{{plural|}}}{{{symbol|}}}{{{nickname|}}}|Unit}}
+
+| label6 = Unit
+|  data6 = {{{unit|}}}
+
+| label7 = Plural
+|  data7 = {{br separated entries
+  | 1 = {{{plural|}}}
+  | 2 = {{#if:{{{plural_slavic|}}}|The language(s) of this currency belong(s) to the [[Slavic languages]]. There is more than one way to construct plural forms.}}
+  | 3 = {{#if:{{{no_plural|}}}|The language(s) of this currency do(es) not have a morphological plural distinction.}}
+  }}
+
+| label8 = [[Currency symbol|Symbol]]
+|  data8 = {{#if:{{{symbol|}}}|{{big|1={{{symbol|}}}}}&lrm;}} {{{symbol_comment|}}}
+
+| label9 = Nickname
+|  data9 = {{{nickname|}}}
+
+| header10 = {{#if:{{{superunit_name_1|}}}{{{subunit_name_1|}}}{{{used_banknotes|}}}{{{frequently_used_banknotes|}}}{{{rarely_used_banknotes|}}}{{{used_coins|}}}{{{frequently_used_coins|}}}{{{rarely_used_coins|}}}|[[Denomination (currency)|Denominations]]}}
+
+| label11 = Superunit
+|  data11 = {{#if:{{{superunit_ratio_1|}}}{{{superunit_ratio_2|}}}{{{superunit_ratio_3|}}}{{{superunit_ratio_4|}}}{{{superunit_ratio_5|}}}|<nowiki />}}
+
+| label12 = {{nobold|&ensp;{{{superunit_ratio_1}}}}}
+|  data12 = {{#if:{{{superunit_ratio_1|}}}|{{{superunit_name_1}}}{{#if:{{{superunit_inline_note_1|}}}|<br />{{{superunit_inline_note_1}}}}}}}
+
+| label13 = {{nobold|&ensp;{{{superunit_ratio_2}}}}}
+|  data13 = {{#if:{{{superunit_ratio_2|}}}|{{{superunit_name_2}}}{{#if:{{{superunit_inline_note_2|}}}|<br />{{{superunit_inline_note_2}}}}}}}
+
+| label14 = {{nobold|&ensp;{{{superunit_ratio_3}}}}}
+|  data14 = {{#if:{{{superunit_ratio_3|}}}|{{{superunit_name_3}}}{{#if:{{{superunit_inline_note_3|}}}|<br />{{{superunit_inline_note_3}}}}}}}
+
+| label15 = {{nobold|&ensp;{{{superunit_ratio_4}}}}}
+|  data15 = {{#if:{{{superunit_ratio_4|}}}|{{{superunit_name_4}}}{{#if:{{{superunit_inline_note_4|}}}|<br />{{{superunit_inline_note_4}}}}}}}
+
+| label16 = {{nobold|&ensp;{{{superunit_ratio_5}}}}}
+|  data16 = {{#if:{{{superunit_ratio_5|}}}|{{{superunit_name_5}}}{{#if:{{{superunit_inline_note_5|}}}|<br />{{{superunit_inline_note_5}}}}}}}
+
+| label17 = Subunit
+|  data17 = {{#if:{{{subunit_ratio_1|}}}{{{subunit_ratio_2|}}}{{{subunit_ratio_3|}}}{{{subunit_ratio_4|}}}{{{subunit_ratio_5|}}}|<nowiki />}}
+
+| label18 = {{nobold|&ensp;{{{subunit_ratio_1}}}}}
+|  data18 = {{#if:{{{subunit_ratio_1|}}}|{{{subunit_name_1}}}{{#if:{{{subunit_inline_note_1|}}}|<br />{{{subunit_inline_note_1}}}}}}}
+
+| label19 = {{nobold|&ensp;{{{subunit_ratio_2}}}}}
+|  data19 = {{#if:{{{subunit_ratio_2|}}}|{{{subunit_name_2}}}{{#if:{{{subunit_inline_note_2|}}}|<br />{{{subunit_inline_note_2}}}}}}}
+
+| label20 = {{nobold|&ensp;{{{subunit_ratio_3}}}}}
+|  data20 = {{#if:{{{subunit_ratio_3|}}}|{{{subunit_name_3}}}{{#if:{{{subunit_inline_note_3|}}}|<br />{{{subunit_inline_note_3}}}}}}}
+
+| label21 = {{nobold|&ensp;{{{subunit_ratio_4}}}}}
+|  data21 = {{#if:{{{subunit_ratio_4|}}}|{{{subunit_name_4}}}{{#if:{{{subunit_inline_note_4|}}}|<br />{{{subunit_inline_note_4}}}}}}}
+
+| label22 = {{nobold|&ensp;{{{subunit_ratio_5}}}}}
+|  data22 = {{#if:{{{subunit_ratio_5|}}}|{{{subunit_name_5}}}{{#if:{{{subunit_inline_note_5|}}}|<br />{{{subunit_inline_note_5}}}}}}}
+
+| label23 = Plural
+|  data23 = {{#if:{{{plural_subunit_1|}}}{{{plural_subunit_2|}}}{{{plural_subunit_3|}}}{{{plural_subunit_4|}}}{{{plural_subunit_5|}}}|<nowiki/>}}
+
+| label24 = {{nobold|&ensp;{{{subunit_name_1}}}}}
+|  data24 = {{#if:{{{subunit_name_1|}}}|{{{plural_subunit_1|}}}}}
+
+| label25 = {{nobold|&ensp;{{{subunit_name_2}}}}}
+|  data25 = {{#if:{{{subunit_name_2|}}}|{{{plural_subunit_2|}}}}}
+
+| label26 = {{nobold|&ensp;{{{subunit_name_3}}}}}
+|  data26 = {{#if:{{{subunit_name_3|}}}|{{{plural_subunit_3|}}}}}
+
+| label27 = {{nobold|&ensp;{{{subunit_name_4}}}}}
+|  data27 = {{#if:{{{subunit_name_4|}}}|{{{plural_subunit_4|}}}}}
+
+| label28 = {{nobold|&ensp;{{{subunit_name_5}}}}}
+|  data28 = {{#if:{{{subunit_name_5|}}}|{{{plural_subunit_5|}}}}}
+
+| label29 = Symbol
+|  data29 = {{#if:{{{symbol_subunit_1|}}}{{{symbol_subunit_2|}}}{{{symbol_subunit_3|}}}{{{symbol_subunit_4|}}}{{{symbol_subunit_5|}}}|<nowiki/>}}
+
+| label30 = {{nobold|&ensp;{{{subunit_name_1}}}}}
+|  data30 = {{#if:{{{subunit_name_1|}}}|{{{symbol_subunit_1|}}}}}
+
+| label31 = {{nobold|&ensp;{{{subunit_name_2}}}}}
+|  data31 = {{#if:{{{subunit_name_2|}}}|{{{symbol_subunit_2|}}}}}
+
+| label32 = {{nobold|&ensp;{{{subunit_name_3}}}}}
+|  data32 = {{#if:{{{subunit_name_3|}}}|{{{symbol_subunit_3|}}}}}
+
+| label33 = {{nobold|&ensp;{{{subunit_name_4}}}}}
+|  data33 = {{#if:{{{subunit_name_4|}}}|{{{symbol_subunit_4|}}}}}
+
+| label34 = {{nobold|&ensp;{{{subunit_name_5}}}}}
+|  data34 = {{#if:{{{subunit_name_5|}}}|{{{symbol_subunit_5|}}}}}
+
+| label35 = Nickname
+|  data35 = {{#if:{{{nickname_subunit_1|}}}{{{nickname_subunit_2|}}}{{{nickname_subunit_3|}}}{{{nickname_subunit_4|}}}{{{nickname_subunit_5|}}}|<nowiki/>}}
+
+| label36 = {{nobold|&ensp;{{{subunit_name_1}}}}}
+|  data36 = {{#if:{{{subunit_name_1|}}}|{{{nickname_subunit_1|}}}}}
+
+| label37 = {{nobold|&ensp;{{{subunit_name_2}}}}}
+|  data37 = {{#if:{{{subunit_name_2|}}}|{{{nickname_subunit_2|}}}}}
+
+| label38 = {{nobold|&ensp;{{{subunit_name_3}}}}}
+|  data38 = {{#if:{{{subunit_name_3|}}}|{{{nickname_subunit_3|}}}}}
+
+| label39 = {{nobold|&ensp;{{{subunit_name_4}}}}}
+|  data39 = {{#if:{{{subunit_name_4|}}}|{{{nickname_subunit_4|}}}}}
+
+| label40 = {{nobold|&ensp;{{{subunit_name_5}}}}}
+|  data40 = {{#if:{{{subunit_name_5|}}}|{{{nickname_subunit_5|}}}}}
+
+| label41 = {{#if:{{{banknote_article|}}}|[[{{{banknote_article}}}|Banknotes]]|{{#ifexist: Banknotes of the {{if empty|{{{currency_name|}}}|{{PAGENAMEBASE}}}}|[[Banknotes of the {{if empty|{{{currency_name|}}}|{{PAGENAMEBASE}}}}|Banknotes]]|Banknotes}}}}
+|  data41 = {{{used_banknotes|}}}{{#if:{{{frequently_used_banknotes|}}}{{{rarely_used_banknotes|}}}|<nowiki />}}
+
+| label42 = {{nobold|&ensp;Freq. used}}
+|  data42 = {{{frequently_used_banknotes|}}}
+
+| label43 = {{nobold|&ensp;Rarely used}}
+|  data43 = {{{rarely_used_banknotes|}}}
+
+| label44 = {{#if:{{{coin_article|}}}|[[{{{coin_article}}}|Coins]]|{{#ifexist: Coins of the {{if empty|{{{currency_name|}}}|{{PAGENAMEBASE}}}}|[[Coins of the {{if empty|{{{currency_name|}}}|{{PAGENAMEBASE}}}}|Coins]]|Coins}}}}
+|  data44 = {{{used_coins|}}}{{#if:{{{frequently_used_coins|}}}{{{rarely_used_coins|}}}|<nowiki />}}
+
+| label45 = {{nobold|&ensp;Freq. used}}
+|  data45 = {{{frequently_used_coins|}}}
+
+| label46 = {{nobold|&ensp;Rarely used}}
+|  data46 = {{{rarely_used_coins|}}}
+
+| header47 = {{#if:{{{date_of_introduction|}}}{{{replaced_currency|}}}{{{date_of_withdrawal|}}}{{{replaced_by_currency|}}}{{{using_countries|}}}{{{unofficial_users|}}}|Demographics}}
+
+| label48 = Date of introduction
+|  data48 = {{{date_of_introduction|}}}{{#if:{{{date_of_introduction|}}}|{{{date_of_introduction_source|}}}}}
+
+| label49 = Replaced
+|  data49 = {{{replaced_currency|}}}
+
+| label50 = Date of withdrawal
+|  data50 = {{{date_of_withdrawal|}}}{{#if:{{{date_of_withdrawal|}}}|{{{date_of_withdrawal_source|}}}}}
+
+| label51 = Replaced by
+|  data51 = {{{replaced_by_currency|}}}
+
+| label52 = {{#if:{{{unofficial_users|}}}|{{nowrap|Official user(s)}}|User(s)}}
+|  data52 = {{{using_countries|}}}
+
+| label53 = {{nowrap|Unofficial user{{pluralize from text|{{{unofficial_users|}}}|plural=s}}}}
+|  data53 = {{{unofficial_users|}}}
+
+| header54 = {{#if:{{{issuing_authority|}}}{{{printer|}}}{{{mint|}}}|Issuance}}
+
+| label55 = {{nowrap|{{if empty|{{{issuing_authority_title|}}}|[[Central bank]]}}}}
+|  data55 = {{{issuing_authority|}}}
+
+| label56 = {{nobold|&ensp;Website}}
+|  data56 = {{#if:{{{issuing_authority|}}}|{{{issuing_authority_website|}}}}}
+
+| label57 = [[Printer (publishing)|Printer]]
+|  data57 = {{{printer|}}}
+
+| label58 = {{nobold|&ensp;Website}}
+|  data58 = {{#if:{{{printer|}}}|{{{printer_website|}}}}}
+
+| label59 = [[Mint (facility)|Mint]]
+|  data59 = {{{mint|}}}
+
+| label60 = {{nobold|&ensp;Website}}
+|  data60 = {{#if:{{{mint|}}}|{{{mint_website|}}}}}
+
+| header61 = {{#if:{{{inflation_rate|}}}{{{value|}}}{{{ERM_since|}}}{{{pegged_with|}}}{{{pegged_by|}}}|Valuation}}
+
+| label62 = {{#if:{{{inflation_title|}}}|{{{inflation_title}}}|[[Monetary_inflation|Inflation]]}}
+|  data62 = {{{inflation_rate|}}}
+
+| label63 = {{nobold|&ensp;Source}}
+|  data63 = {{#if:{{{inflation_rate|}}}|{{{inflation_source_date|}}}}}
+
+| label64 = {{nobold|&ensp;Method}}
+|  data64 = {{#if:{{{inflation_rate|}}}|{{{inflation_method|}}}}}
+
+| label65 = [[Fixed exchange rate system|Pegged with]]
+|  data65 = {{{pegged_with|}}}
+
+| label66 = [[Exchange rate|Value]]
+|  data66 = {{{value|}}}
+
+| label67 = [[Fixed exchange rate|Pegged by]]
+|  data67 = {{{pegged_by|}}}
+
+|header68 = {{#if:{{{ERM_since|}}}|[[European Exchange Rate Mechanism|EU Exchange Rate Mechanism]] {{nobold|1=(ERM)}}}}
+
+| label69 = {{nobold|Since}}
+|  data69 = {{{ERM_since|}}}
+
+| label70 = {{nobold|Withdrawn}}
+|  data70 = {{#if:{{{ERM_since|}}}|{{{ERM_withdraw|}}}}}
+
+| label71 = {{nobold|Fixed rate since}}
+|  data71 = {{#if:{{{ERM_since|}}}|{{{ERM_fixed_rate_since|}}}}}
+
+| label72 = {{nobold|Replaced by euro, non cash}}
+|  data72 = {{#if:{{{ERM_since|}}}|{{{euro_replace_non_cash|}}}}}
+
+| label73 = {{nobold|Replaced by euro, cash}}
+|  data73 = {{#if:{{{ERM_since|}}}|{{{euro_replace_cash|}}}}}
+
+| label74 = {{nobold|1=<span class="nounderlines">1&nbsp;€</span>&nbsp;=}}
+|  data74 = {{#if:{{{ERM_since|}}}|{{{ERM_fixed_rate|}}}}}
+
+| label75 = {{nobold|Band}}
+|  data75 = {{#if:{{{ERM_since|}}}|{{{ERM_band|}}}}}
+
+| belowstyle=text-align:left; background:#e9e9e9;color:inherit;
+| below = {{yesno|{{{obsolete|}}}|yes={{yesno|{{if empty|{{{obsolete_notice|}}}|true}}|yes=<!--
+-->''This infobox shows the latest status before this currency was rendered obsolete.''}}}}<!--
+-->{{#if:{{{footnotes|}}}|<div>{{{footnotes|}}}</div>}}<!-- div for newline-effect -->
+}}<!-- end of infobox
+
+ CHECK FOR UNKNOWN PARAMETERS
+-->{{#invoke:check for unknown parameters
+|check
+|unknown={{main other<!--
+-->|1=[[Category:Pages using infobox currency with unknown parameters|_VALUE_]]<!--
+-->|2=[[:Category:Pages using infobox currency with unknown parameters|Cat:IB currency unk param]]:_VALUE_&#x20;<!--
+-->}}
+|preview=Unknown parameter "_VALUE_" in [[Template:Infobox currency]]
+<!-- NAME -->|name |local_name_format |currency_name |currency_name_in_local |name_abbr |qid
+|local_name |local_name_lang |postfix |local_name1 |local_name_lang1 |postfix1 |local_name2 |local_name_lang2 |local_name3 |local_name_lang3 |local_name4 |local_name_lang4
+<!-- IMAGE -->|image_alt_1 |image_alt_2 |image_1 |image_2 |image_background_1 |image_background_2 |image_title_1 |image_title_2 |image_width_1 |image_width_2
+<!-- AUTH & USERS -->|issuing_authority |issuing_authority_title |issuing_authority_website |unofficial_users |using_countries
+<!-- BANKNOTES AND COINS -->|used_banknotes |used_coins |banknote_article |coin_article |frequently_used_banknotes |frequently_used_coins |rarely_used_banknotes |rarely_used_coins
+<!-- HISTORICAL -->|obsolete |obsolete_notice |date_of_introduction |date_of_introduction_source |date_of_withdrawal |date_of_withdrawal_source |replaced_by_currency |replaced_currency
+<!-- ISO -->|iso_code |iso_comment |iso_ref
+<!-- UNIT -->|unit |plural |plural_slavic |no_plural |symbol |symbol_comment |nickname
+<!-- SUBUNIT -->|nickname_subunit_1 |nickname_subunit_2 |nickname_subunit_3 |nickname_subunit_4 |nickname_subunit_5 |plural_subunit_1 |plural_subunit_2 |plural_subunit_3 |plural_subunit_4 |plural_subunit_5 |subunit_inline_note_1 |subunit_inline_note_2 |subunit_inline_note_3 |subunit_inline_note_4 |subunit_inline_note_5 |subunit_name_1 |subunit_name_2 |subunit_name_3 |subunit_name_4 |subunit_name_5 |subunit_ratio_1 |subunit_ratio_2 |subunit_ratio_3 |subunit_ratio_4 |subunit_ratio_5 |symbol_subunit_1 |symbol_subunit_2 |symbol_subunit_3 |symbol_subunit_4 |symbol_subunit_5
+<!-- SUPERUNIT -->|superunit_inline_note_1 |superunit_inline_note_2 |superunit_inline_note_3 |superunit_inline_note_4 |superunit_inline_note_5 |superunit_name_1 |superunit_name_2 |superunit_name_3 |superunit_name_4 |superunit_name_5 |superunit_ratio_1 |superunit_ratio_2 |superunit_ratio_3 |superunit_ratio_4 |superunit_ratio_5
+<!-- ERM EURO -->|ERM_band |ERM_fixed_rate |ERM_fixed_rate_since |ERM_since |ERM_withdraw |euro_replace_cash |euro_replace_non_cash
+<!-- ISSUANCE -->|printer |printer_website |mint |mint_website
+<!-- VALUE & INFLATION -->|value |pegged_by |pegged_with |inflation_method |inflation_rate |inflation_source_date |inflation_title
+<!-- FOOTNOTE -->|footnotes
+}}<!--
+
+ CAT by iso-code. "None"=explicitly categorise as Without ISO code
+-->{{#if:{{ISO 4217/code-none|iso-code={{{iso_code|}}}}}|{{main other|1=[[Category:Currencies without ISO 4217 code]]|2={{template other|1=[[:Category:Currencies without ISO 4217 code|cat:Without ISO code]]}}}}}}<!--
+-->{{#if:{{ISO 4217/code|iso-code={{{iso_code|}}}}}|{{main other|1=[[Category:Currencies with ISO 4217 code]]|2={{template other|1=[[:Category:Currencies with ISO 4217 code|cat:With ISO code]]}}}}}}<!--
+
+ bare url, categorise (3x check)
+ -->{{main other|1=<!--
+ -->{{#if:{{{issuing_authority_website|}}}|{{#ifeq:{{str left|{{{issuing_authority_website}}}|1}}|<||[[Category:Infobox currency with an unlinked website]]}}}}<!--
+ -->{{#if:{{{printer_website|}}}|{{#ifeq:{{str left|{{{printer_website}}}|1}}|<||[[Category:Infobox currency with an unlinked website]]}}}}<!--
+ -->{{#if:{{{mint_website|}}}|{{#ifeq:{{str left|{{{mint_website}}}|1}}|<||[[Category:Infobox currency with an unlinked website]]}}}}<!--
+ -->}}<!--
+
+ CHECK name & local_name:
+ -->{{#if:{{if empty
+ |1={{if both|{{{currency_name_in_local|}}}|{{{local_name_format|}}}|_ERR1-local1: 2x fmt Nloc_}}
+ |2={{if both|{{{currency_name_in_local|}}}{{{local_name_format|}}}|{{{local_name|}}}{{{local_name1|}}}|_ERR-local2: both Nloc & NlocFmt_}}
+ |3={{#if:{{{local_name_lang|}}}{{{local_name_lang1|}}}|{{#if:{{{local_name|}}}{{{local_name1|}}}|<!-- ok, {native} -->|_ERR-local3: localname_lang not used_}}}}
+ |4={{#ifeq:{{plain text|1={{{local_name|}}}{{{local_name1|}}}}}|{{{local_name|}}}{{{local_name1|}}}|<!-- ok -->|_WARNING-local4: local_name is formatted}}
+ |5={{#ifeq:{{count|1={{{local_name1|}}}{{{local_name_lang1|}}}{{{postfix1|}}}|2={{{local_name|}}}{{{local_name_lang|}}}{{{postfix|}}}}}|2|_ERR-local5: both synonyms in use}}
+ }}|{{#switch:{{NAMESPACENUMBER}}
+   ||0=[[Category:Pages using Infobox currency to check|N]]<!-- mainspace -->
+   |10=[[:Category:Pages using Infobox currency to check|cat:IBcurr-N<nowiki>*</nowiki>]]<!-- templatespace
+-->}}}}<!--
+
+-->{{#invoke:Check for conflicting parameters|check
+| template = [[Template:Infobox currency]]
+| cat = {{main other|Category:Pages using infobox currency with conflicting parameters}}
+| local_name_lang1; local_name_lang 
+| local_name1; local_name 
+| alt1; image_alt_1 
+| alt2; image_alt_2 
+}}<noinclude>{{Documentation}}</noinclude>

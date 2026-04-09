@@ -1,0 +1,11 @@
+<includeonly>{{Start date and age
+| 1   = {{{1|}}}
+| 2   = {{{2|}}}
+| 3   = {{{3|}}}
+| df  = {{{df|}}}
+| p   = {{{p|{{{paren|}}}}}}
+| br  = {{{br|}}}
+| end = yes
+}}{{main other|{{#invoke:Check for unknown parameters|check|unknown=[[Category:Pages using Template:End date and age with unknown parameters]]|1|2|3|df|mf|p|paren|br}}}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

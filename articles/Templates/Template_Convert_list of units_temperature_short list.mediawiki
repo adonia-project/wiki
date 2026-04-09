@@ -1,0 +1,45 @@
+<includeonly>
+====Temperature====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Temperature
+|+ Temperature<br /><small>([[:Template:convert/list of units/temperature|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+|rowspan=2  style="text-align: center; vertical-align: top;" |'''SI'''
+{{convert/list of units/unitrow|K|rowspan=4|unitrowspan=1|exrowspan=1|note={{convert/list of units/triple|temperature}}|place=top}}
+* K °C (K C)
+* K °R (K R)
+* K °F (K F)
+|-
+{{convert/list of units/unitnonote|°C|altab=C}}
+* °C K (C K)
+* °C °R (C R)
+* °C °F (C F)
+|-
+|rowspan=2  style="text-align: center; vertical-align: top;" |'''Imperial<br />&<br />US customary'''
+{{convert/list of units/unitnonote|°R|altab=R|place=top}}
+* °R K (R K)
+* °R °C (R C)
+* °R °F (R F)
+|-
+{{convert/list of units/unitnonote|°F|altab=F}}
+* °F K (F K)
+* °F °C (F C)
+* °F °R (F R)
+|- align=center
+|rowspan=2 | || [[Celsius|Celsius change]]||C-change|| style="width:0; padding:0;"| || || colspan=3 align=left |Used for temperature ''intervals'' instead of actual temperatures<br/>Example:&nbsp;&nbsp;<nowiki>{{convert|5|C-change|F-change}} warmer</nowiki><br/>Result:&nbsp;{{convert|5|C-change|0}} warmer
+|- align=center
+|<!--no column 1-->[[Fahrenheit|Fahrenheit change]]||F-change|| style="width:0; padding:0;"| || || colspan=3 align=left |Used for temperature ''intervals'' instead of actual temperatures<br/>Example:&nbsp;&nbsp;<nowiki>{{convert|10|F-change|0}} colder</nowiki><br/>Result:&nbsp;{{convert|10|F-change|0}} colder
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/temperature/short list]]
+</noinclude>

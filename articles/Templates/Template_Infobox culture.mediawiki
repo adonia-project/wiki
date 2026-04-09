@@ -1,0 +1,46 @@
+{{Infobox
+| title   = {{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+
+| image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{map|}}}|size={{{mapsize|}}}|upright={{{mapupright|1}}}|alt={{{mapalt|<includeonly>Map showing the extent of the {{PAGENAME}}</includeonly>}}}}}
+| caption = {{{mapcaption|}}}
+| label1  = Alternative names
+|  data1  = {{{altnames|}}}
+| label2  = [[Race (human categorization)|Race]]
+|  data2  = {{{race|}}}
+| label3  = [[Religion]]
+|  data3  = {{{religion|}}}
+| label4  = [[Language]]
+|  data4  = {{{language|}}}
+| label5  = [[Archaeological horizon|Horizon]]
+|  data5  = {{{horizon|}}}
+| label6  = Geographical range
+|  data6  = {{{region|}}}
+| label7  = Period
+|  data7  = {{{period|}}}
+| label8  = Dates
+|  data8  = {{{dates|}}}
+| label9  = [[Type site]]
+|  data9  = {{{typesite|}}}
+| label10 = Major sites
+|  data10 = {{{majorsites|}}}
+| label11 = Characteristics
+|  data11 = {{{extra|}}}
+| label12 = Preceded by
+|  data12 = {{{precededby|}}}
+| label13 = Followed by
+|  data13 = {{{followedby|}}}
+| label14 = Cause of collapse
+|  data14 = {{{collapse|}}}
+| label15 = Defined by
+|  data15 = {{{definedby|}}}
+| label16 = Antiquated by
+|  data16 = {{{antiquatedby|}}}
+|  data17 = {{{module|}}}
+|  data18 = {{{module2|}}}
+|  data19 = {{{module3|}}}
+|  data20 = {{{module4|}}}
+|  data21 = {{{module5|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox archaeological culture with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox archaeological culture]] with unknown parameter "_VALUE_"|ignoreblank=y| altnames | antiquatedby | collapse | dates | definedby | extra | followedby | horizon | language | majorsites | map | mapalt | mapcaption | mapsize | mapupright | module | module2 | module3 | module4 | module5 | name | period | precededby | race | region | religion | typesite }}<noinclude>
+{{documentation}}<!-- Please add category links to the bottom of the /doc sub-page, not here -->
+
+</noinclude>

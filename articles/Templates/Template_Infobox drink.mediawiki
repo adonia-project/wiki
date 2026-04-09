@@ -1,0 +1,76 @@
+{{infobox
+| bodyclass = hrecipe hproduct
+| title   = {{{title|<includeonly>{{{name|{{PAGENAMEBASE}}}}}</includeonly>}}}
+| titleclass= fn ingredient
+| image1  = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{logo_size|}}}|alt={{{logo_alt|}}}|sizedefault=frameless}}
+| caption1= {{{logo_caption|}}}
+| image2  = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|alt={{{image_alt|}}}|sizedefault=frameless}}
+| caption2= {{{caption|}}}
+| label1  = Type
+| data1   = {{{type|}}}
+| class1  = category
+| label2  = Other name{{pluralize from text|{{{alternate_name|}}}|likely=(s)|plural=s}}
+| data2   = {{{alternate_name|}}}
+| label3  = Manufacturer
+| data3   = {{{manufacturer|{{{brewery|}}}}}}
+| class3  = brand
+| label4  = Distributor
+| data4   = {{{distributor|}}}
+| label5  = {{nowrap|{{{origin_label|Origin}}}}}
+| data5   = {{csv|{{{origin|}}}|{{{region|}}}}}
+| label6  = Introduced
+| data6   = {{{introduced|{{{year|}}} }}}
+| label7  = Discontinued
+| data7   = {{{discontinued|{{{last_year|}}} }}}
+| label8  = {{nowrap|[[Alcohol by volume]]}}
+| data8   = {{{abv|}}}
+| label9  = [[Alcohol proof|Proof (US)]]
+| data9   = {{{proof|}}}
+| label10 = {{#if:{{{color|}}}|Color|Colour}}
+| data10  = {{{colour|{{{color|}}}}}} <!-- use only one of "colour" or "color" depending on US/UK article, not both! -->
+| label11 = {{#if:{{{flavor|}}}|Flavor|Flavour}}
+| data11  = {{{flavour|{{{flavor|}}}}}} <!-- use only one of "flavour" or "flavor" depending on US/UK article, not both! -->
+| label12 = Style
+| data12  = {{{style|}}}
+| label13 = [[Gravity (alcoholic beverage)|Original gravity]]
+| data13  = {{{og|}}}
+| label14 = [[Gravity (alcoholic beverage)|Final gravity]]
+| data14  = {{{fg|}}}
+| label15 = [[International Bitterness Units scale|IBU scale]]
+| data15  = {{{ibu|}}}
+| label16 = Ingredients
+| data16  = {{{ingredients|}}}
+| label17 = Base spirit
+| data17  = {{{base|}}}
+| label18 = Variants
+| data18  = {{{variants|}}}
+| label19 = Related products
+| data19  = {{{related|}}}
+| label20 = Website
+| data20  = {{#if:{{{homepage|{{{website|}}}}}}
+            | {{#ifeq:{{{homepage|{{{website|}}}}}} | hide | | {{{homepage|{{{website|}}}}}} }}
+            | {{#if:{{wikidata|property|raw|P856}}
+              | {{#invoke:WikidataIB |url2 |url={{if empty
+                |{{#invoke:WikidataIB|getValueByLang|P856|fwd=ALL|osd=no|maxvals=1}}
+                |{{Wdib|P856|fwd=ALL|osd=no|maxvals=1}}
+                }} }}
+              }}
+            }}
+<!-- From the merger of [[Template:Infobox cocktail]] -->
+| label21 = Standard drinkware
+| data21  = {{{drinkware|}}}
+| label22 = Standard garnish
+| data22  = {{{garnish|}}}
+| label23 = Served
+| data23  = {{{served|}}}
+| label24 = Preparation
+| data24  = {{{prep|}}}
+
+| data26  = {{{module|}}}
+
+| belowstyle = text-align:left; border-top: solid 1px gray;
+| belowrowclass = mergedtoprow
+| below = {{{footnotes|}}}
+}}<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Category:Articles with hRecipes]][[Category:Articles with hProducts]]}}</includeonly>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox drink with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox drink]] with unknown parameter "_VALUE_"|ignoreblank=y| abv | alternate_name | base | brewery | caption | color | colour | discontinued | distributor | drinkware | fg | flavor | flavour | footnotes | garnish | homepage | ibu | image | image_alt | image_size | ingredients | introduced | last_year | logo | logo_alt | logo_caption | logo_size | manufacturer | module | name | og | origin | origin_label | prep | proof | region | related | served | style | title | type | variants | website | year }}<noinclude>
+{{documentation}}
+</noinclude>

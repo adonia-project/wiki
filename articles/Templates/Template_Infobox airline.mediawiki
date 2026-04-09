@@ -1,0 +1,123 @@
+{{#invoke:infobox|infoboxTemplate
+| bodyclass = vcard
+| templatestyles = infobox/mobileviewfix.css
+
+| title      = {{{airline|{{PAGENAMEBASE}}}}}
+| titleclass = fn org
+
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{logo_size|}}}|image_upright={{{logo_upright|}}}|alt={{{logo_alt|}}}}}
+| caption = {{{logo_caption|}}}
+
+| image2 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|upright={{{image_upright|}}}|alt={{{alt|}}}}}
+| caption2 = {{{caption|}}}
+
+| headerstyle = background-color: lightgrey;
+
+| data1 = {{#if:{{{IATA|}}}{{{ICAO|}}}{{{CDD|}}}{{{callsign|}}}|
+{{{!}} style="border-collapse: collapse; width: 100%; background-color: lightgrey; font-weight: bold; line-height: 1;"
+{{!}}-
+! scope="col" style="padding-top: 0.5em; border-right: 1px solid white; text-align: center;" {{!}} [[w:IATA airline designator|IATA]]
+! scope="col" style="padding-top: 0.5em; border-right: 1px solid white; text-align: center;" {{!}} {{#if:{{{CDD|}}}|[[Nav Canada|{{abbr|CDD|Canadian Domestic Designators}}]]|[[w:ICAO airline designator|ICAO]]}}
+! scope="col" style="padding-top: 0.5em; text-align: center;" {{!}} [[w:Airline call sign|Callsign]]
+{{!}}-
+{{!}} class="nickname" style="padding-bottom: 0.5em; border-right: 1px solid white; text-align: center;" {{!}} {{if empty|{{{IATA|}}}|—}}
+{{!}} class="nickname" style="padding-bottom: 0.5em; border-right: 1px solid white; text-align: center;" {{!}} {{#if:{{{CDD|}}}|{{{CDD|}}}|{{if empty|{{{ICAO|}}}|—}}}}
+{{!}} class="nickname" style="padding-bottom: 0.5em; text-align: center;" {{!}} {{if empty|{{{callsign|}}}|—}}
+{{!}}}
+}}
+
+| label5 = Founded
+| data5  = {{{founded|}}}
+
+| label6 = Commenced operations
+| data6  = {{{commenced|}}}
+
+| label7 = Ceased operations
+| data7  = {{if empty|{{{ceased|}}}|{{{defunct|}}}}}
+
+| label8 = [[w:Air operator's certificate|AOC&nbsp;#]]
+| data8  = {{{aoc|}}}
+
+| label9 = Operating bases
+| data9  = {{{bases|}}}
+
+| label10 = [[w:Airline hub|Hubs]]
+| data10  = {{{hubs|}}}
+
+| label11 = [[w:Airline hub|Secondary hubs]]
+| data11  = {{{secondary_hubs|}}}
+
+| label12 = [[w:Focus city|Focus cities]]
+| data12  = {{{focus_cities|}}}
+
+| label13 = [[w:Frequent-flyer program|Frequent-flyer program]]
+| data13  = {{{frequent_flyer|}}}
+
+| label15 = [[w:Airline alliance|Alliance]]
+| data15  = {{{alliance|}}}
+
+| label16 = [[w:Subsidiary|Subsidiaries]]
+| data16  = {{{subsidiaries|}}}
+
+| label17 = Fleet size
+| data17  = {{{fleet_size|}}}
+
+| label18 = Destinations
+| data18  = {{{destinations|}}}
+
+| label20 = [[w:Parent company|Parent company]]
+| data20  = {{{parent|}}}
+
+| label21 = [[w:Ticker symbol|Traded&nbsp;as]]
+|  data21 = {{{traded_as|}}}
+
+| label22 = [[w:International Securities Identification Number|ISIN]]
+|  data22 = {{#if:{{{ISIN|}}} |<span class="plainlinks nourlexpansion">[https://isin.toolforge.org/?language=de&isin={{urlencode:{{{ISIN}}}}} {{{ISIN}}}]</span>}}
+
+| label23 = Headquarters
+| class23 = label
+| data23  = {{{headquarters|}}}
+
+| label24 = Key people
+| data24  = {{{key_people|}}}
+
+| label25 = {{#if:{{{founders|}}}|Founders|Founder}}
+| data25  = {{{founders| {{{founder|}}} }}}
+
+| label26 = [[w:Revenue|Revenue]]
+| data26  = {{{revenue|}}}
+
+| label27 = [[w:Earnings before interest and taxes|Operating income]]
+| data27  = {{{operating_income|}}}
+
+| label28 = [[w:Net income|Net income]]
+| data28  = {{{net_income|}}}
+
+| label29 = [[w:Net income|Profit]]
+| data29  = {{{profit|}}}
+
+| label30 = [[w:Asset|Total assets]]
+| data30  = {{{assets|}}}
+
+| label31 = [[w:Equity (finance)|Total equity]]
+| data31  = {{{equity|}}}
+
+| label32 = Employees
+| data32  = {{{num_employees|}}}
+
+| label33 = Website
+| data33  = {{{website|}}}
+
+| header34 = {{#if:{{{notes|}}}|Notes}}
+| data35  = {{#if:{{{notes|}}}|<div style="text-align: left;">
+{{{notes|}}}</div>}}
+
+}}{{#invoke:Check for clobbered parameters|check
+| template = Infobox airline
+| cat = {{main other|Category:Pages using infobox airline with conflicting parameters}}
+| ceased; defunct
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox airline with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox airline]] with unknown parameter "_VALUE_"|ignoreblank=y| airline | alliance | alt | aoc | assets | bases | callsign | caption | CDD | ceased | commenced | defunct | destinations | equity | fleet_size | focus_cities | founded | founder | founders | frequent_flyer | headquarters | hubs | IATA | ICAO | image | image_size | image_upright | ISIN | key_people | logo | logo_size | logo_upright | logo_alt | logo_caption | net_income | notes | num_employees | operating_income | parent | profit | revenue | secondary_hubs | subsidiaries | traded_as | website
+}}<noinclude>
+{{documentation}}
+<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

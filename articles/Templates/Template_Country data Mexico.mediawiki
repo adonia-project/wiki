@@ -1,0 +1,24 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Mexico
+| flag alias = Flag of the Mexican Empire.png
+| flag alias-1821 = Flag of Mexico (1821-1823).svg
+| flag alias-1823 = Flag of Mexico (1823-1864, 1867-1893).svg
+| flag alias-1864 = Flag of Mexico (1864-1867).svg
+| flag alias-1893 = Flag of Mexico (1893-1916).svg
+| flag alias-1916 = Flag of Mexico (1916-1934).svg
+| flag alias-1934 = Flag of Mexico (1934-1968).svg
+| link alias-naval = Mexican Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1821
+| var2 = 1823
+| var3 = 1864
+| var4 = 1893
+| var5 = 1916
+| var6 = 1934
+| redir1 = MEX
+</noinclude>
+}}

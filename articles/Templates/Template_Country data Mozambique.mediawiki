@@ -1,0 +1,27 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Mozambique
+| flag alias = Flag of Mozambique.svg
+| flag alias-1974 = Flag of Mozambique (1974-1975).svg
+| flag alias-1975 = Flag of Mozambique (1975–1983).svg
+| flag alias-1983 = Flag of Mozambique (1983).svg
+| flag alias-1984 = Flag of Mozambique (WFB 2000).svg
+| link alias-army = Mozambique Defence Armed Forces{{!}}Mozambican Army
+| flag alias-army = Flag of the Mozambique Army.svg
+| link alias-navy = Mozambique Defence Armed Forces{{!}}Mozambique Naval Command
+| flag alias-navy = Flag of the Mozambique Naval Command.svg
+| link alias-naval = Mozambique Defence Armed Forces{{!}}Mozambique Naval Command
+
+| link alias-air force = Mozambique Air Force
+| flag alias-air force = Flag of the Mozambique Air Force.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1974
+| var2 = 1975
+| var3 = 1983
+| var4 = 1984
+| redir1 = MOZ
+</noinclude>
+}}

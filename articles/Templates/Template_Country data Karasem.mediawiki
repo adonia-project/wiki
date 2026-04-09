@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Karasem
+| flag alias = Flag of Karasem.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

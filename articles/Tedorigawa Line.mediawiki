@@ -1,0 +1,123 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Tedorigawa Line
+| image = Okami Metro Tedorigawa line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series6000-01.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 6000 series|6000 series]] train in Dark Brown livery at [[Osakako-Tedori Station]].
+| native_name = 手取川線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 10
+| stations = 8
+| ridership = 380,000 (FY2025)
+| began_operation = {{start date and age|2000|08|01|df=y}}
+| system_length = {{cvt|8.5|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{750 V DC|conductor=y}} (Third Rail)
+| map = [[File:Okami Metro Tedorigawa Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Tedorigawa Line'''|手取川線|Tedorigawa-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. Named after the major river it parallels, the line serves as a strategic "Waterfront Connector," linking the Okami Bay Area directly to the northern transport hubs of [[Fukushima Ward, Okami|Fukushima]] and [[Nakatsu Station|Nakatsu]]. On system maps, the line is color-coded dark brown ({{Okami Metro color|T}}), and its stations use the prefix "T".
+
+The Tedorigawa Line is unique for being the only "River-side" subway in the network. It was constructed to redevelop the former industrial warehouse districts along the riverbanks into modern residential and commercial zones ("River City Okami"). Because it runs through soft alluvial soil near the river, the tunnels were constructed using advanced shield-boring technology.
+
+==History==
+Proposed during the "Waterfront Renaissance" project of the 1990s, the Tedorigawa Line was built to bypass the congested city center loops for commuters traveling from the bay to the northern districts.
+
+The entire line from [[Osakako-Tedori Station|Osakako-Tedori]] to [[Nakatsu-Kawaramachi Station|Nakatsu-Kawaramachi]] opened on August 1, 2000. It quickly became a favorite route for tourists visiting the aquarium and theme parks in the bay area, offering a direct link to the northern hotels without transferring through the busy [[Umeda-Kita]] or [[Okami Central]] complexes.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* Stops: All trains stop at all stations (Local service only).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Distance (km)
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|T}};" | Between<br>Stations
+! style="border-bottom:3px solid #{{Okami Metro color|T}};" | Total
+|-
+| {{OMSN|T|01}}
+| [[Osakako-Tedori Station|Osakako-Tedori]]
+| 大阪港手取
+| -
+| 0.0
+| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (via [[Cosmosquare Station|Cosmosquare]] - walkway connection)<br>{{rint|okami|ferry}} Tempozan Ferry Terminal
+| rowspan="3" | [[Minato Ward, Okami|Minato]]
+|-
+| {{OMSN|T|02}}
+| [[Asashiobashi-River Station|Asashiobashi-River]]
+| 朝潮橋リバー
+| 1.2
+| 1.2
+| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (via [[Asashiobashi-Kita Station|Asashiobashi-Kita]])
+|-
+| {{OMSN|T|03}}
+| [[Bentencho-Port Station|Bentencho-Port]]
+| 弁天町港
+| 1.1
+| 2.3
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C04)
+|-
+| {{OMSN|T|04}}
+| [[Kujo-North Station|Kujo-North]]
+| 九条北
+| 1.3
+| 3.6
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (via [[Kujo-Ohashi Station|Kujo-Ohashi]] - Z14)<br>{{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Namba Line
+| [[Nishi Ward, Okami|Nishi]]
+|-
+| {{OMSN|T|05}}
+| [[Noda-Riverfront Station|Noda-Riverfront]]
+| 野田リバーフロント
+| 1.2
+| 4.8
+| {{rint|okami|A}} [[Asahi Line]] (via [[Noda-Hanshin Station|Noda-Hanshin]] - A01)<br>{{rint|okami|S}} [[Shitayanagi Line]] (via [[Noda-Hanshin Station|Noda-Hanshin]] - S01)
+| rowspan="3" | [[Fukushima Ward, Okami|Fukushima]]
+|-
+| {{OMSN|T|06}}
+| [[Fukushima-Park Station|Fukushima-Park]]
+| 福島公園
+| 1.0
+| 5.8
+| {{rint|okami|A}} [[Asahi Line]] (via [[Fukushima-Minami Station|Fukushima-Minami]] - A02)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+|-
+| {{OMSN|T|07}}
+| [[Oyodonaka Station|Oyodonaka]]
+| 大淀中
+| 1.2
+| 7.0
+|
+|-
+| {{OMSN|T|08}}
+| [[Nakatsu-Kawaramachi Station|Nakatsu-Kawaramachi]]
+| 中津河原町
+| 1.5
+| 8.5
+| {{rint|okami|M}} [[Miyoshi Line]] (M09)<br>{{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (via [[Nakatsu Station|Nakatsu]] - B04)<br>{{rint|okami|private}} [[Hankyu Railway|Hankyu]] Lines (Nakatsu)
+| [[Kita Ward, Okami|Kita]]
+|}
+
+==Rolling Stock==
+* [[Okami Metro 6000 series|6000 series]] (6-car sets):
+*: The exclusive rolling stock for the Tedorigawa Line. These trains feature a stainless steel body with a dark brown band, symbolizing the rich soil of the riverbanks. They are equipped with large windows to allow passengers to view the riverside scenery during the few at-grade sections near the port.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

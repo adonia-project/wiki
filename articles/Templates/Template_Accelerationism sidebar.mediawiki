@@ -1,0 +1,69 @@
+{{Sidebar with collapsible lists
+|name = Accelerationism sidebar
+|pretitle = Part of a series on
+|titlestyle=font-size:200%;font-weight:normal;
+|title = [[Baliscan accelerationism|Accelerationism]]
+|imagestyle = padding:0.4em 0 0.4em;
+|image = [[File:Baliscan accelerationism flag.png|220px]]
+|listtitlestyle = border-top:1px solid e13439;background:transparent;text-align:center;
+|expanded = {{{expanded|{{{1|}}}}}}
+|list1name = concepts
+|list1title = Concepts
+|list1class = hlist
+|list1 =
+* {{W|Anti-imperialism}}
+*{{W|Anti-capitalism}}
+*{{W|Anti-statism}}
+*{{W|Anarcho-communism}}
+*{{W|Decentralization}}
+*{{W|Libertarian municipalism}}
+*{{W|Eco-socialism}}
+*{{W|Mutual aid (organization theory)|Mutual aid}}
+*{{W|Social ecology (Bookchin)|Social ecology}}
+*{{W|Participatory democracy}}
+*{{W|Participatory economics}}
+*''{{W|Homo reciprocans}}''
+*{{W|Cooperative economics}}
+*{{W|Postnationalism}}
+*{{W|Anationalism}}
+*{{W|Post growth}}
+*[[w:Internationalism (politics)|Internationalism]]
+* {{W|Patentleft}}
+*{{W|Free-culture movement|Free culture}}
+* {{W|Social anarchism}}
+*{{W|Gift economy}}
+*{{W|Social ownership}}
+*{{W|Digital socialism}}
+*{{W|Unitary urbanism}}
+*{{W|Situationist International|Situationism}}
+*''{{W|Détournement}}''
+|list3name = people
+|list3title = People
+|list3class = hlist
+|list3 =
+* [[Otávia Brito]]
+* [[Zavier Bilal]]
+* [[Amàlia Pallàs]]
+* [[Pablo Cavalcanti]]
+|list4name = history
+|list4title = History
+|list4class = hlist
+|list4 =
+* [[Politics of Balisca]]
+* [[Anarchism in Balisca]]
+** [[Baliscan Revolution]]
+** [[October 73]]
+|list6name = related
+|list6title = Organizations
+|list6class = hlist
+|list6 =
+* [[Cosmopolitan Collective]]
+* [[Ilegalista]]
+*[[Accelerationist International]]
+|belowclass = plainlist
+|belowstyle = font-weight:normal; border-top:1px solid #CC0000; border-bottom:1px solid #CC0000;
+| below = 
+*{{flagicon|Balisca}} [[Portal:Balisca|Balisca portal]]
+*[[File:Hammer-keyboard-2.svg|20px]] {{W|Portal:Accelerationism|Accelerationism portal}}
+}}<noinclude>
+{{Documentation}}

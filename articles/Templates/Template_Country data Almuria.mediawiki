@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Almuria
+| flag alias = Flag of Almuria.png
+| flag alias-1870 =
+| link alias-football = Almuria national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1870
+| related1 = 
+</noinclude>
+}}

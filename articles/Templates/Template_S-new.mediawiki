@@ -1,0 +1,29 @@
+<noinclude>{{s-start}}
+</noinclude>|-
+|width="30%" align="center" rowspan="{{{rows|1}}}"|'''{{#switch:{{lc:{{{1|}}}}}
+ |award        = New award
+ |championship = New championship
+ |chart        = New chart
+ |constituency = New constituency
+ |creation     = New creation
+ |diocese      = New diocese
+ |district     = New district
+ |division     = New division
+ |institution  = New institution
+ |first        = First
+ |loss         = Loss of title
+ |minister     = New ministerial post
+ |office       = New office
+ |party        = New political party
+ |regiment     = New regiment
+ |seat         = New seat
+ |tv           = New television show
+ |show         = New show
+ |sports       = New sporting event
+ |parliament   = New parliament
+ |#default     = New title
+}}'''{{#if:{{{reason<includeonly>|</includeonly>}}}|<br><div style="font-size:90%">{{{reason}}}</div>}}<noinclude>
+{{s-end}}
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here. -->
+</noinclude>

@@ -1,0 +1,11 @@
+<noinclude>{{s-rail-start}}
+</noinclude>|-
+! style="vertical-align: middle; width: 30%; border: 1px solid #aaa; border-left: none; border-bottom: none; {{#ifexist:Template:{{{title}}} style|{{#if:{{{{{title}}} style|main_font_color}}|color:#{{{{{title}}} style|main_font_color}};}} {{#if:{{{{{title}}} style|main_color}}|background:#{{{{{title}}} style|main_color}};}} {{#ifeq:{{{{{title}}} style|title_nowrap}}|yes|white-space:nowrap;}}}}"{{!}}Preceding {{#ifexist:Template:{{{title}}} style|{{#if:{{{{{title}}} style|stop_noun}}|{{{{{title}}} style|stop_noun}}|station}}|station}}
+! style="border: none; border-top: 1px solid #aaa; {{#ifexist:Template:{{{title}}} style|{{#if:{{{{{title}}} style|main_color}}|background:#{{{{{title}}} style|main_color}}}}}}"|&nbsp;
+! style="vertical-align: middle; border: none; border-top: 1px solid #aaa; {{#ifexist:Template:{{{title}}} style|{{#if:{{{{{title}}} style|main_color}}|background:#{{{{{title}}} style|main_color}}}}}}"|{{S-rail/lines|title={{{title}}}}}
+! style="border: none; border-top: 1px solid #aaa; {{#ifexist:Template:{{{title}}} style|{{#if:{{{{{title}}} style|main_color}}|background:#{{{{{title}}} style|main_color}}}}}}"|&nbsp;
+! style="vertical-align: middle; width: 30%; border: 1px solid #aaa; border-right: none; border-bottom: none; {{#ifexist:Template:{{{title}}} style|{{#if:{{{{{title}}} style|main_font_color}}|color:#{{{{{title}}} style|main_font_color}};}} {{#if:{{{{{title}}} style|main_color}}|background:#{{{{{title}}} style|main_color}};}} {{#ifeq:{{{{{title}}} style|title_nowrap}}|yes|white-space:nowrap;}}}}"{{!}}Following {{#ifexist:Template:{{{title}}} style|{{#if:{{{{{title}}} style|stop_noun}}|{{{{{title}}} style|stop_noun}}|station}}|station}}
+|-
+<noinclude>
+{{s-end}}
+{{documentation}}</noinclude>

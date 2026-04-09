@@ -1,0 +1,110 @@
+{{Largest cities
+| name         = Largest cantons in Balisca
+| country      = Balisca
+| stat_ref     = ''[[Instituto Confederal de Stadística]] (2025)''
+| list_by_pop  = <!-- link to the list of cities in the given country, if possible sorted by population -->
+| class        = <!-- can be changed to "nav" to alter the template's colour scheme -->
+| div_name     = Region|Region
+| div_link     = <!-- the template will automatically create a link for "div_name of country" (e.g. Provinces of Chile), if this doesn't work you can use this field -->
+
+| city_1       = Castejón
+| div_1        = Castejón{{!}}Castejón Metropolis
+| pop_1        = 24,479,594
+| img_1        = Calatrava commune.jpg
+
+| city_2       = Macaio
+| div_2        = Carpinchera
+| pop_2        = 10,561,759
+| img_2        = Lagoas stadium (expanded).png
+
+| city_3       = Alessandria
+| div_3        = Acacias
+| pop_3        = 5,012,623
+| img_3        = Città Antica and station, Alessandria.png
+
+| city_4       = Concepción
+| div_4        = Cadaqués
+| pop_4        = 4,731,571
+| img_4        = Concepción aerial.jpg
+ 
+| city_5       = Axarquía
+| div_5        = Juyú
+| pop_5        = 3,532,794
+| img_5        = 
+
+| city_6       = Valparaíso
+| div_6        = Tukupi
+| pop_6        = 2,173,188	
+| img_6        = 
+
+| city_7       = Jatiel
+| div_7       = Luzamontaña
+| pop_7        = 1,473,367
+| img_7        = 
+
+| city_8       = San Chorche
+| div_8       = Camaca{{!}}Kamakã
+| pop_8        = 1,384,363
+| img_8        = 
+
+| city_9       = Uxiu
+| div_9       = Llaragón
+| pop_9        = 1,294,813
+| img_9        = 
+
+| city_10       = Kimünrayen
+| div_10        = Karuãguasu
+| pop_10        = 1,195,562
+| img_10        =
+
+| city_11      = Yerba Buena
+| div_11      = Luzamontaña
+| pop_11       = 1,036,563
+| img_11       =
+
+| city_12      = Calatañazor
+| div_12     = Jaguarundi
+| pop_12      = 1,020,813
+| img_12       = 
+
+| city_13      = Aigües
+| div_13      = Quiscosta
+| pop_13       = 1,003,216	
+| img_13       = 
+
+| city_14      = Merced
+| div_14     = Dríadas
+| pop_14       = 1,000,249
+| img_14       =
+
+| city_15      = Sant Chuan d'os Baxos
+| div_15      = Xaraba
+| pop_15       = 935,787
+| img_15       = 
+
+| city_16     = Cordova
+| div_16      = Basilisco
+| pop_16       = 883,273
+| img_16       =
+
+| city_17      = Syracuse
+| div_17       = Piedmont
+| pop_17       = 871,829
+| img_17       =
+
+| city_18      = Porciúncula
+| div_18      = Jaguarundi
+| pop_18       = 713,288
+| img_18       = 
+
+| city_19      = Xàbia
+| div_19     = Canyars
+| pop_19       = 651,446
+| img_19       =
+
+| city_20      = Navassa
+| div_20   = Mesopotàmia
+| pop_20       = 608,867
+| img_20       =
+
+}}

@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Madagascar
+| flag alias = Flag of Madagascar.svg
+| flag alias-1896 = Flag of France.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1896
+| redir1 = MDG
+| redir2 = MAD
+</noinclude>
+}}

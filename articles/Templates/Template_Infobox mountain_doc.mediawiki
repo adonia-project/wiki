@@ -1,0 +1,1490 @@
+{{Documentation subpage}}
+<!-- Add categories where indicated at the bottom of this page and interwikis at Wikidata -->
+{{#ifeq:{{SUBPAGENAME}}|sandbox||{{High-use}}}}
+{{Lua|Module:Infobox|Module:WikidataIB|Module:InfoboxImage|Module:Check for unknown parameters|Module:Coordinates}}
+{{Uses Wikidata|P18|P2044|P2660|P3137|P2659|P361|P2043|P2049|P2046|P2234}}
+
+<!--
+== Wikidata-enabled ==
+Simply add <code><nowiki>{{Infobox mountain}}</nowiki></code> to the top of an article, and the data will be automatically included from [[Wikidata]]. If necessary, these values can be overridden by passing local values to the relevant parameters in the article:
+
+<syntaxhighlight lang="wikitext" style="overflow:auto;">
+{{Infobox mountain
+| name = [local value]
+}}
+</syntaxhighlight>
+
+To add data to Wikidata, please see the Parameters section below.
+{{Clear}}
+-->
+== Standard usage ==
+{{Parameter names example
+| name  
+| other_name 
+| photo  
+| photo_size  
+| photo_upright
+| photo_alt   
+| photo_caption 
+<!--
+| map                  
+| map_caption   
+| map_alt
+| map_width
+| map_size  
+| map_relief 
+| map_image
+| relief
+| label 
+| label_position
+-->
+| mapframe = no
+| highest 
+| highest_location 
+| elevation 
+| elevation_m 
+| elevation_ft 
+| elevation_ref 
+| elevation_system 
+| prominence 
+| prominence_m 
+| prominence_ft 
+| prominence_ref 
+| parent_peak 
+| isolation 
+| isolation_km 
+| isolation_mi 
+| isolation_parent
+| isolation_ref 
+| listing 
+| coordinates
+| coordinates_ref 
+| length 
+| length_km 
+| length_mi 
+| length_orientation 
+| length_ref 
+| width 
+| width_km 
+| width_mi  
+| width_orientation
+| width_ref 
+| area 
+| area_km2 
+| area_mi2 
+| area_ref 
+| volume 
+| volume_km3 
+| volume_mi3  
+| volume_ref 
+| etymology 
+| nickname 
+| native_name 
+| native_name_lang 
+| translation  
+| pronunciation 
+| authority 
+| location 
+| country  
+| country_type 
+| state  
+| state_type 
+| region 
+| region_type 
+| district 
+| district_type 
+| part 
+| part_type
+| settlement 
+| settlement_type 
+| range_coordinates
+| range_coordinates_ref 
+| range 
+| borders_on
+| grid_ref_UK
+| grid_ref_UK_ref 
+| grid_ref_Ireland 
+| grid_ref_Ireland_ref 
+| topo_maker
+| topo_map 
+| biome  
+| formed_by 
+| orogeny 
+| age  
+| type 
+| geology 
+| volcanic_zone
+| volcanic_arc  
+| volcanic_belt 
+| volcanic_field 
+| last_eruption 
+| first_ascent
+| easiest_route 
+| normal_route 
+| access  
+| embedded
+| module
+}}
+
+<syntaxhighlight lang="wikitext" style="overflow:auto">
+{{Infobox mountain
+| name                  = 
+| other_name            = 
+| photo                 = 
+| photo_size            = 
+| photo_upright         =
+| photo_alt             = 
+| photo_caption         = 
+<!-- MAP CODE TBA -->
+| map                   = 
+| mapframe = yes<!-- see below for more mapframe parameters -->
+<!----------------------- HIGHEST POINT -->
+| highest               = 
+| highest_location      = 
+| elevation             = 
+| elevation_m           = 
+| elevation_ft          = 
+| elevation_ref         = 
+| elevation_system      = 
+| prominence            = 
+| prominence_m          = 
+| prominence_ft         = 
+| prominence_ref        = 
+| parent_peak           = 
+| isolation             = 
+| isolation_km          = 
+| isolation_mi          = 
+| isolation_parent      = 
+| isolation_ref         = 
+| listing               = 
+| coordinates           = 
+| coordinates_ref       = 
+<!----------------------- DIMENSIONS -->
+| length                = 
+| length_km             = 
+| length_mi             = 
+| length_orientation    = 
+| length_ref            = 
+| width                 = 
+| width_km              = 
+| width_mi              = 
+| width_orientation     = 
+| width_ref             = 
+| area                  = 
+| area_km2              = 
+| area_mi2              = 
+| area_ref              = 
+| volume                = 
+| volume_km3            = 
+| volume_mi3            = 
+| volume_ref            = 
+<!----------------------- NAMING -->
+| etymology             = 
+| nickname              = 
+| native_name           = <!-- {{native name}} or {{native name list}} -->
+| native_name_lang      = <!-- not used by |native_name= -->
+| translation           = 
+| pronunciation         = 
+| authority             = 
+<!----------------------- GEOGRAPHY -->
+| location              = <!-- While location is not deprecated, use of country,state,region,district is preferred -->
+| country_type          = <!-- For Antarctica, set to Continent -->
+| country               = <!-- If multiple, use {{enum}} or {{hlist}}. -->
+| state_type            = 
+| state                 = <!-- If multiple, use {{enum}} or {{hlist}}. -->
+| region_type           = 
+| region                = <!-- If multiple, use {{enum}} or {{hlist}}. -->
+| district_type         = 
+| district              = <!-- If multiple, use {{enum}} or {{hlist}}. -->
+| part_type             = 
+| part                  = <!-- If multiple, use {{enum}} or {{hlist}}. -->
+| settlement_type       = 
+| settlement            = <!-- If multiple, use {{enum}} or {{hlist}}.  -->
+| range_coordinates     = 
+| range_coordinates_ref = 
+| range                 = 
+| borders_on            = 
+| grid_ref_UK           = 
+| grid_ref_UK_ref       = 
+| grid_ref_Ireland      = 
+| grid_ref_Ireland_ref  = 
+| topo_maker            = 
+| topo_map              = 
+| biome                 = 
+<!----------------------- GEOLOGY -->
+| formed_by             = 
+| orogeny               = 
+| age                   = 
+| type                  = 
+| geology               = 
+| volcanic_arc          = 
+| volcanic_belt         = 
+| volcanic_field        = 
+| volcanic_zone         = 
+| last_eruption         = 
+<!----------------------- CLIMBING -->
+| first_ascent          = 
+| easiest_route         = 
+| normal_route          = 
+| access                = 
+<!----------------------- ATTACHED -->
+| embedded              =
+| module                =
+}}
+</syntaxhighlight>
+
+== Parameters ==
+
+=== Lead section ===
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+| '''name''' || Wikidata label in the local language || Name of the mountain, peak or hill.
+|-
+| '''other_name''' || &nbsp; || Other name for the mountain. See <code>native_name</code> if the name is in a different language.
+|-
+| '''photo''' || Image on Wikidata || Photograph of the mountain. Preferably a distance shot to show most/all of the mountain rather than a view from the summit.
+|-
+| '''photo_size''' || 280px || The default image width in pixels.
+|-
+| '''photo_upright''' ||  ||
+|-
+| '''photo_alt''' || <code>photo_caption</code> || [[Wikipedia:Alternative text for images|Alt text]] for the photo.
+|-
+| '''photo_caption''' || {{Property|P2096}} stated on image || Description of the photograph.
+|}
+
+=== Maps ===
+
+The maps appear in the lead section, at the top, if there is no photo present. However, if there is a photo, they all move to the Geography section automatically.
+
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+! map
+|
+| The name of a location map as per [[Template:Location map]] (e.g. ''Indonesia'' or ''Russia''). The coordinates template ({{tl|coord}}) positions a pushpin marker and label on the map '''automatically'''. Example see: [[Mount Everest]]. For a static image, use {{para|map_image}}
+|-
+! map_image
+|
+| The file name of a static map image to be displayed.  To use a [[Template:location map|location map]], use {{para|map}}.
+|-
+! map_alt
+|
+| Alt text for the map, primarily for visually impaired readers. See ''[[Wikipedia:Alternative text for images#Maps and diagrams|Alt text for maps]]''.
+|-
+! map_caption
+|
+| Fill out if a map caption is desired. If not specified, '''location''' will be used.
+|-
+! map_image_caption
+|
+| Fill out if a caption for the map image is desired. If not specified, '''map_caption''' will be used.
+|-
+! map_relief
+|
+| If a location map template is specified, this template will attempt to display a relief map if one is available. To force the default map image to display use {{para|map_relief|0}}.
+|-
+! map_size
+|
+|  Must be entered as only a number—'''no need for px'''.  The default value and maximum is 272.
+|-
+!map_width
+|
+|
+|-
+!relief
+|
+|
+|-
+!label 
+|
+|
+|-
+! label_position
+|
+|
+|}
+
+==== Mapframe maps ====
+
+{{Infobox mapframe/doc/parameters
+| onByDefault = yes, unless one of these parameters has a value: {{para|map}}, {{para|map_image}}, {{para|image_map}}, {{para|map_relief}}, {{para|relief}}.
+| mapframe-coord = the first of the following: {{para|mapframe-coordinates}}, {{para|mapframe-coord}}, {{para|range_coordinates}}, {{para|range_coords}}, {{para|coordinates}}, {{para|coords}}
+| mapframe-frame-width = 250
+| mapframe-wikidata = yes, unless one of these parameters has a value: {{para|mapframe-coordinates}}, {{para|mapframe-coord}}, {{para|range_coordinates}}, {{para|range_coords}}, {{para|coordinates}}, {{para|coords}}
+| mapframe-marker = mountain
+| mapframe-type = mountain
+| mapframe-length_km = {{para|length_km}}
+| mapframe-length_mi = {{para|length_mi}}
+| mapframe-width_km = {{para|width_km}}
+| mapframe-width_mi = {{para|width_mi}}
+| mapframe-area_mi2 = {{para|area_mi2}}
+| mapframe-area_km2 = {{para|area_km2}}
+| mapframe-id = {{para|qid}}
+}}
+
+=== Highest point ===
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+| '''highest''' || {{Property|P2044}} with qualifier {{Property|P2561}} || Name of the highest summit of a single mountain or peak.
+|-
+| '''highest_location''' || {{Property|P2044}} with qualifier {{Property|P276}} || Location of highest summit.
+|-
+| '''elevation''' || rowspan=3 | {{Property|P2044}} || Summit [[elevation]], without auto-conversion. You may wish to use <code><nowiki>{{</nowiki>[[Template:Convert|Convert]]<nowiki>|xxx|m|ft|abbr=on}}</nowiki></code>
+|-
+| '''elevation_m''' || Summit elevation in metres, with auto-conversion.
+|-
+| '''elevation_ft''' || Summit elevation in feet, with auto-conversion.
+|-
+| '''elevation_ref''' || N/A || Optional parameter to add a suffix to the <code>elevation</code> parameters (such as a reference).
+|-
+| '''elevation_system''' || {{Property|P2044}} with qualifier {{Property|P459}} || The elevation reference system that defines the elevation, e.g., NAVD88 or DE-NHN
+|-
+| '''prominence''' || rowspan=3 | {{Property|P2660}} || [[Topographic prominence]], without auto-conversion. You may wish to use <code><nowiki>{{</nowiki>[[Template:Convert|Convert]]<nowiki>|xxx|m|ft|abbr=on}}</nowiki></code>
+|-
+| '''prominence_m''' || Topographic prominence in metres, with auto-conversion.
+|-
+| '''prominence_ft''' || Topographic prominence in metres, with auto-conversion.
+|-
+| '''prominence_ref''' || N/A || Optional parameter to add a suffix to the <code>prominence</code> parameters (such as a reference).
+|-
+| '''parent_peak''' || {{Property|P3137}} || &nbsp;
+|-
+| '''isolation''' || rowspan=3 | {{Property|P2659}} || [[Topographic isolation]], without auto-conversion. You may wish to use <code><nowiki>{{</nowiki>[[Template:Convert|Convert]]<nowiki>|xxx|km|mi|abbr=on}}</nowiki></code>
+|-
+| '''isolation_km''' || Topographic isolation in kilometres, with auto-conversion.
+|-
+| '''isolation_mi''' || Topographic isolation in miles, with auto-conversion.
+|-
+| '''isolation_parent''' || {{Property|P2659}} with qualifier {{Property|P2210}} || Name of the landform the summit is isolated from.
+|-
+| '''isolation_ref''' || N/A || Optional parameter to add a suffix to the <code>isolation</code> parameters (such as a reference).
+|-
+| '''listing''' || {{Property|P361}} || Name of a relevant list of mountains that the peak belongs to. See [[List of mountain lists]] for examples.
+|-
+| '''coordinates''' || {{Property|P625}} || [[Geographic coordinate system|Coordinates]] of the highest point or peak.
+|-
+| '''coordinates_ref''' || N/A || Optional parameter to add a suffix to the <code>coordinates</code> parameter (such as a reference).
+|}
+
+=== Dimensions ===
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+| '''length''' || rowspan=3 | {{Property|P2043}} || Length of the mountain or peak, without auto-conversion. You may wish to use <code><nowiki>{{</nowiki>[[Template:Convert|Convert]]<nowiki>|xxx|km|mi|abbr=on}}</nowiki></code>
+|-
+| '''length_km''' || Length in kilometres, with auto-conversion.
+|-
+| '''length_mi''' || Length in miles, with auto-conversion.
+|-
+| '''length_orientation''' || {{Property|P2043}} with qualifier {{Property|P7469}} as:<br/>{{Q|Q34027}} (for EW) or {{Q|Q36477}} (for NS) || Length orientation.
+|-
+| '''length_ref''' || N/A || Optional parameter to add a suffix to the <code>length</code> parameters (such as a reference).
+|-
+| '''width''' || rowspan=3 | {{Property|P2049}} || Width of the mountain or peak, without auto-conversion. You may wish to use <code><nowiki>{{</nowiki>[[Template:Convert|Convert]]<nowiki>|xxx|km|mi|abbr=on}}</nowiki></code>
+|-
+| '''width_km''' || Length in kilometres, with auto-conversion.
+|-
+| '''width_mi''' || Length in miles, with auto-conversion.
+|-
+| '''width_orientation''' || {{Property|P2049}} with qualifier {{Property|P7469}} as:<br/>{{Q|Q34027}} (for EW) or {{Q|Q36477}} (for NS) || Width orientation.
+|-
+| '''width_ref''' || N/A || Optional parameter to add a suffix to the <code>width</code> parameters (such as a reference).
+|-
+| '''area''' || rowspan=3 | {{Property|P2046}} || Footprint of the mountain or peak, without auto-conversion. You may wish to use <code><nowiki>{{</nowiki>[[Template:Convert|Convert]]<nowiki>|xxx|km2|mi2|abbr=on}}</nowiki></code>
+|-
+| '''area_km2''' || Footprint of the mountain or peak in square kilometres, with auto-conversion.
+|-
+| '''area_mi2''' || Footprint of the mountain or peak in square miles, with auto-conversion.
+|-
+| '''area_ref''' || N/A || Optional parameter to add a suffix to the <code>area</code> parameters (such as a reference).
+|-
+| '''volume''' || rowspan=3 | {{Property|P2234}} || Volume of the mountain or peak, without auto-conversion. You may wish to use <code><nowiki>{{</nowiki>[[Template:Convert|Convert]]<nowiki>|xxx|km3|mi3|abbr=on}}</nowiki></code>
+|-
+| '''volume_km3''' || Volume of the mountain or peak in cubic kilometres, with auto-conversion.
+|-
+| '''volume_mi3''' || Volume of the mountain or peak in cubic miles, with auto-conversion.
+|-
+| '''volume_ref''' || N/A || Optional parameter to add a suffix to the <code>volume</code> parameters (such as a reference).
+|}
+
+=== Naming ===
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+| '''etymology''' || {{Property|P138}} || Origin of name
+|-
+| '''nickname''' || {{Property|P1449}} || &nbsp;
+|-
+| '''native_name''' || {{Property|P1559}} || Name in local language – use {{tl|native name}} or, for multiple names, use {{tl|native name list}}
+|-
+| '''native_name_lang''' || {{Property|P1559}} || [[ISO 639-2]] code of <code>native_name</code>; not used by '''native_name'''.
+|-
+| '''translation''' || {{Property|P1559}} with qualifier {{Property|P2441}} || Translation of name to English (if name is not an English name)
+|-
+| '''pronunciation''' || {{Property|P898}} || Use an appropriate IPA-xx template, replacing 'xx' with the ISO code for the language. (See {{tl|IPAc-en}} for English.)
+|-
+| '''authority''' || &nbsp; || The government agency responsible for making names official.
+|}
+
+=== Geography ===
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+| '''location''' || {{Property|P276}} || Free-form field to describe the location.
+|-
+| '''country''' || {{Property|P17}} || Country(ies) of the peak or mountain.
+|-
+| '''country_type''' || &nbsp; || Optional parameter to override the default "Country" label.
+|-
+| '''subdivision1'''/'''state''' || {{Property|P131}} || 1st level subdivision (i.e. states) of the peak or mountain.
+|-
+| '''subdivision1_type'''/'''state_type''' || &nbsp; || Optional parameter to override the default "State" label.
+|-
+| '''subdivision2'''/'''region''' || &nbsp; || 2nd level subdivision (i.e. regions) of the peak or mountain.
+|-
+| '''subdivision2_type'''/'''region_type''' || &nbsp; || Optional parameter to override the default "Region" label.
+|-
+| '''subdivision3'''/'''district''' || &nbsp; || 3rd level subdivision (i.e. districts) of the peak or mountain.
+|-
+| '''subdivision3_type'''/'''district_type''' || &nbsp; || Optional parameter to override the default "District" label.
+|-
+| '''subdivision4'''/'''part''' || &nbsp; || 4th level subdivision (i.e. subdivisions) of the peak or mountain.
+|-
+| '''subdivision4_type'''/'''part_type''' || &nbsp; || Optional parameter to override the default "Subdivisions" label.
+|-
+| '''settlement''' || &nbsp; || Settlement(s) on/around the peak or mountain.
+|-
+| '''settlement_type''' || &nbsp; || Optional parameter to override the default "Settlement" label.
+|-
+| '''range_coordinates''' || &nbsp; || Typically marks the centre of the mountain range. Do not use for an individual mountain.
+|-
+| '''range_coordinates_ref''' || N/A || Optional parameter to add a suffix to the <code>range_coordinates</code> parameter (such as a reference).
+|-
+| '''range''' || {{Property|P4552}} || The [[mountain range]] (specific subgroup) that the mountain/massif/range. I.e. [[Bernese Alps]], not [[Alps]]. Alias is "parent".
+|-
+| '''borders_on'''/'''border''' || {{Property|P4777}} || Geographical entities that form the border of the mountain or range
+|-
+| '''grid_ref_UK''' || {{Property|P613}} || If the mountain is in [[Great Britain]], the [[British national grid reference system|British grid reference]]. Use <code>grid_ref_UK_ref</code> to add a suffix reference.
+|-
+| '''grid_ref_Ireland''' || {{Property|P4091}} || If the mountain is in [[Ireland]] (whether [[Northern Ireland]] or the [[Republic of Ireland|Republic]]), the [[Irish national grid reference system|Irish grid reference]]. Use <code>grid_ref_Ireland_ref</code> to add a suffix reference.
+|-
+|  '''topo''' || &nbsp; || The publisher/maker and name of the topographic map.
+|-
+|  '''topo_maker''' || &nbsp; || The publisher or maker of the topographic map. e.g. NTS (Canada) or USGS (United States).
+|-
+|  '''topo_map''' || &nbsp; || The name of the topographic map.
+|-
+|  '''biome''' || &nbsp; || [[Biome]](s) for range
+|}
+
+===Geology===
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+|  '''formed_by''' || &nbsp; || &nbsp;
+|-
+|  '''orogeny''' || &nbsp; || &nbsp;
+|-
+|  '''age''' || &nbsp; || Age of the rock. [[Geologic time scale]]s may be useful here. Use <code>period</code>, <code>period1</code> through <code>period5</code> for multiple values.
+|-
+|  '''type''' || &nbsp; || &nbsp;
+|-
+|  '''rock''' || &nbsp; || Type of the rock mountain is made from. <code>geology</code> is an alias.
+|-
+|  '''volcanic arc''' || &nbsp; || If the mountain is a volcano, the [[volcanic arc|arc]] where it is located
+|-
+|  '''volcanic belt''' || &nbsp; || If the mountain is a volcano, the [[volcanic belt|belt]] where it is located
+|-
+|  '''volcanic field''' || &nbsp; || If the mountain is a volcano, the [[volcanic field|field]] where it is located
+|-
+|  '''volcanic zone''' || &nbsp; || If the mountain is a volcano, the general zone or region where it is located, if none of the other volcanic parameters are applicable
+|-
+|  '''last_eruption''' || &nbsp; || The date of the last eruption if the mountain is of volcanic origin.
+|}
+
+=== Climbing ===
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+|  '''first_ascent''' || &nbsp; || Date of the first recorded ascent.
+|-
+|  '''easiest_route''' || &nbsp; || The easiest route to the summit. Some possibilities include [[Hiking|Hike]], [[Scrambling|Scramble]] or any of the [[Yosemite Decimal System|YDS]] grades.
+|-
+|  '''normal_route''' || &nbsp; || &nbsp;
+|-
+|  '''access''' || &nbsp; || &nbsp;
+|-
+|}
+
+=== Advanced uses ===
+{{no documentation}}
+{| class="wikitable"
+|-
+! align="center" | Parameter !! align="center" | Default value !! align="center" | Description
+|-
+| '''qid''' || &nbsp; || &nbsp;
+|-
+| '''suppressfields''' || &nbsp; || &nbsp;
+|-
+| '''fetchwikidata''' || &nbsp; || &nbsp;
+|-
+| '''onlysourced''' || &nbsp; || &nbsp;
+|-
+| '''child''' || &nbsp; || &nbsp;
+|-
+| '''embedded''' || &nbsp; || &nbsp;
+|-
+| '''module''' || &nbsp; || &nbsp;
+|-
+|}
+
+== Tracking categories ==
+* {{Category link with count|Wikidata value to be checked for Infobox mountain}}
+* {{Category link with count|Pages using infobox mountain with unknown parameters}}
+* {{clc|Pages using infobox mountain with conflicting parameters}}
+* {{clc|Pages using infobox mountain with deprecated parameters}}
+* {{Category link with count|Pages using infobox mountain with language parameter}}
+
+== TemplateData ==
+{{Collapse|2=Click the [show] link to the right to display the [[Wikipedia:TemplateData|TemplateData]]|1=
+{{TemplateData header|nolink=1}}
+<templatedata>
+{
+    "format": "block",
+    "description": "This template is used to create an infobox for an article about a mountain.",
+    "params": {
+        "name": {
+            "required": true,
+            "label": "Name",
+            "type": "string",
+            "description": "Name of the mountain, peak or hill. If more than one mountain by the name exists, the article is likely disambiguated but this name in the infobox should be the undisambiguated name. For example, Mount Columbia (for Mount Columbia (Canada) or Mount Columbia (Colorado)."
+        },
+        "other_name": {
+            "required": false,
+            "label": "Other name",
+            "type": "string",
+            "description": "An alternate English name for the mountain, e.g., \"Mount McKinley\" for Denali. Quotes can be used as normal to italicize or bold the text if desired."
+        },
+        "etymology": {
+            "required": false,
+            "label": "Etymology",
+            "type": "string",
+            "description": "The etymology of the name"
+        },
+        "native_name": {
+            "required": false,
+            "label": "Native name",
+            "type": "string",
+            "description": "The name of the mountain in the local language, if not English."
+        },
+        "native_name_lang": {
+            "required": false,
+            "label": "ISO 639 language code",
+            "type": "string",
+            "description": "The ISO 639 code for the language of the mountain name (if not English). e.g., \"fr\" for French"
+        },
+        "language": {
+            "required": false,
+            "label": "Language",
+            "type": "string",
+            "description": "Language of mountain name."
+        },
+        "translation": {
+            "required": false,
+            "label": "Translation",
+            "type": "string",
+            "description": "Translation of the mountain's name into English"
+        },
+        "pronunciation": {
+            "required": false,
+            "label": "Pronunciation",
+            "type": "string",
+            "description": "Use an appropriate IPA-xx template, replacing 'xx' with the ISO code for the language. (See {{IPAc-en}} for English.)"
+        },
+        "photo": {
+            "required": false,
+            "label": "Photo",
+            "type": "string",
+            "description": "Photograph of the mountain. Preferably a distance shot to show most/all of the mountain rather than a view from the summit. Do not include the \"File:\" prefix. If uploading a new image, please put them on Commons so they can be easily used by the other language Wikipedias. If the only image available is less than 280px wide, you can use the photo_size parameter to indicate its size."
+        },
+        "photo_alt": {
+            "required": false,
+            "label": "Photo alt",
+            "type": "string",
+            "description": "Alt text for the photo, primarily for visually impaired readers. See Wikipedia:Alternative text for images."
+        },
+        "photo_caption": {
+            "required": false,
+            "label": "Photo caption",
+            "type": "string",
+            "description": "Description of the photograph which is displayed below. Include the month and year if known."
+        },
+        "map": {
+            "required": false,
+            "label": "Map",
+            "type": "string",
+            "description": "The name of a location map as per Template:Location map (e.g. Indonesia or Russia). The coordinate fields position a pushpin coordinate marker and label on the map automatically. Example see: Mount Everest. For a static image, use map_image"
+        },
+        "map_image": {
+            "required": false,
+            "label": "Map image",
+            "type": "string",
+            "aliases": [
+                "image_map"
+            ],
+            "description": "The file name of a static map image to be displayed.  For a [[Template:location map|location map]], use map"
+        },
+        "map_image_caption": {
+            "required": false,
+            "label": "Map image caption",
+            "type": "string",
+            "aliases": [
+                "image_map_caption"
+            ],
+            "description": "Caption of the static map image"
+        },
+        "map_alt": {
+            "required": false,
+            "label": "Map alt",
+            "type": "string",
+            "description": "Alt text for the map, primarily for visually impaired readers. See [[Wikipedia:Alternative text for images#Maps]]."
+        },
+        "map_caption": {
+            "required": false,
+            "label": "Map caption",
+            "type": "string",
+            "description": "Fill out if a map caption is desired. If not specified, location will be used."
+        },
+        "location": {
+            "required": false,
+            "label": "Location",
+            "type": "string",
+            "description": "Province or state first, followed by country. For the US, the county is optional but if given, be provided before the state. If a pushpin map is being used, the location will be used for the map's caption unless the map_caption parameter is set."
+        },
+        "map_relief": {
+            "required": false,
+            "label": "Map relief",
+            "type": "string",
+            "description": "If a location map template is specified, this template will attempt to display a relief map if one is available. To force the default map image to display set to 0.",
+            "aliases": [
+                "relief"
+            ]
+        },
+        "label": {
+            "required": false,
+            "label": "Label",
+            "type": "string",
+            "description": "Label to be used for the mountain's location on the map. If not specified, the value of the name parameter is used."
+        },
+        "label_position": {
+            "required": false,
+            "label": "Label position",
+            "default": "right",
+            "type": "line",
+            "description": "The position of the label on the pushpin map relative to the pushpin coordinate marker. Valid options are {left, right, top, bottom, none}."
+        },
+        "elevation": {
+            "required": false,
+            "label": "Elevation",
+            "type": "string",
+            "description": "Maximum height of the mountain. If the mountain has multiple high points, use the highest. Metres should be used first for all mountains outside of the United States and feet for those within the U.S. For conversions, use elevation_m for metres to feet or elevation_ft for feet to metres. This field is required."
+        },
+        "elevation_m": {
+            "required": false,
+            "label": "Elevation (meters)",
+            "type": "string",
+            "description": "Maximum height of the mountain, metres."
+        },
+        "elevation_ft": {
+            "required": false,
+            "label": "Elevation (feet)",
+            "type": "string",
+            "description": "Maximum height of the mountain, feet."
+        },
+        "elevation_ref": {
+            "required": false,
+            "label": "Elevation ref",
+            "type": "string",
+            "description": "Reference for the elevation using the standard <ref> </ref> tags. If elevation_m/elevation_ft was used, the reference must be supplied using this parameter."
+        },
+        "prominence": {
+            "required": false,
+            "label": "Prominence",
+            "type": "string",
+            "description": "The clean topographic prominence of the summit. For conversions, use prominence_m for metres to feet or prominence_ft for feet to metres."
+        },
+        "prominence_m": {
+            "required": false,
+            "label": "Prominence (meters)",
+            "type": "string",
+            "description": "The clean topographic prominence of the summit, metres."
+        },
+        "prominence_ft": {
+            "required": false,
+            "label": "Prominence (feet)",
+            "type": "string",
+            "description": "The clean topographic prominence of the summit, feet."
+        },
+        "prominence_ref": {
+            "required": false,
+            "label": "Prominence ref",
+            "type": "string",
+            "description": "Reference for the prominence using the standard <ref> </ref> tags."
+        },
+        "parent_peak": {
+            "required": false,
+            "label": "Parent peak",
+            "type": "string",
+            "description": "In computation of prominence, peaks form a hierarchy: this is the parent of the peak in the hierarchy. For more information, see Line parent."
+        },
+        "listing": {
+            "required": false,
+            "label": "Listing",
+            "type": "string",
+            "description": "Name of a relevant list of mountains that the peak belongs to. See List of mountain lists for examples."
+        },
+        "range": {
+            "required": false,
+            "label": "Range",
+            "type": "string",
+            "description": "Mountain range if applicable. The specific range subgroup should be provided instead of any major mountain system unless there is no applicable subgroup. For example, use Teton Range and not Rocky Mountains or Bernese Alps not Alps."
+        },
+        "coordinates": {
+            "required": false,
+            "label": "Coordinates",
+            "type": "string",
+            "aliases": [
+                "coords"
+            ],
+            "description": "The latitude and longitude of the summit using the {{coord}} template with display=inline,title. If the article uses a geolinks template in the external links section, do not use the display parameter."
+        },
+        "topo": {
+            "required": false,
+            "label": "Topo",
+            "type": "string",
+            "description": "Topographic map"
+        },
+        "grid_ref_UK": {
+            "required": false,
+            "label": "Grid ref (UK)",
+            "type": "string",
+            "description": "Ordnance Survey (UK) grid reference for the mountain, passed to {{gbm4ibx}}."
+        },
+        "grid_ref_UK_ref": {
+            "required": false,
+            "label": "Notes for grid_ref_UK",
+            "description": "Notes for grid_ref_UK, e.g., a citation."
+        },
+        "grid_ref_Ireland": {
+            "required": false,
+            "label": "Grid ref (Ireland)",
+            "type": "string",
+            "description": "Ordnance Survey(Ireland) grid reference for the mountain, passed to {{iem4ibx}}."
+        },
+        "grid_ref_Ireland_ref": {
+            "required": false,
+            "label": "Notes for grid_ref_Ireland",
+            "description": "Notes for grid_ref_Ireland, e.g., a citation."
+        },
+        "coord_type": {
+            "required": false,
+            "label": "Coordinate type",
+            "default": "mountain",
+            "type": "string",
+            "description": "Type, from [[Wikipedia:WikiProject Geographical coordinates/type:]]."
+        },
+        "region_code": {
+            "required": false,
+            "label": "Region",
+            "type": "line",
+            "description": "Either a two character ISO 3166-1 alpha-2 country code or an ISO 3166-2 region code. See [[Wikipedia:COORD REGION]]."
+        },
+        "source": {
+            "required": false,
+            "label": "Source",
+            "type": "string",
+            "description": "The source of the coordinate data. See [[Wikipedia:COORD SOURCE]]."
+        },
+        "format": {
+            "required": false,
+            "label": "Format",
+            "default": "dms",
+            "type": "line",
+            "description": "Format to display degrees in the coordinate listing. dms for degree, minutes, second output (the default), or dec for decimal degree output."
+        },
+        "coordinates_ref": {
+            "required": false,
+            "label": "Coordinates ref",
+            "type": "string",
+            "description": "For any references regarding the coordinates reported. <ref> </ref> tags must be used."
+        },
+        "type": {
+            "required": false,
+            "label": "Type",
+            "type": "line",
+            "description": "The type of mountain — see List of mountain types."
+        },
+        "age": {
+            "required": false,
+            "label": "Age",
+            "type": "line",
+            "description": "Age of the rock. Geologic time scales may be useful here."
+        },
+        "volcanic_arc": {
+            "required": false,
+            "label": "Volcanic arc",
+            "type": "string",
+            "description": "If the mountain is a volcano, arc in which it is situated."
+        },
+        "volcanic_belt": {
+            "required": false,
+            "label": "Volcanic belt",
+            "type": "string",
+            "description": "If the mountain is a volcano, belt in which it is situated."
+        },
+        "volcanic_field": {
+            "required": false,
+            "label": "Volcanic field",
+            "type": "string",
+            "description": "If the mountain is a volcano, field in which it is situated."
+        },
+        "volcanic_zone": {
+            "required": false,
+            "label": "Volcanic zone",
+            "type": "string",
+            "description": "If the mountain is a volcano, the general zone or region in which it is situated."
+        },
+        "last_eruption": {
+            "required": false,
+            "label": "Last eruption",
+            "type": "string",
+            "description": "The date of the last eruption if the mountain is of volcanic origin. Only use Unknown if a verifiable source such as the Global Volcanism Program states it as such."
+        },
+        "first_ascent": {
+            "required": false,
+            "label": "First ascent",
+            "type": "string",
+            "description": "Date of the first ascent, if known. Typically, this is the first recorded ascent but not necessarily the first true ascent. If it is quite probable the peak/mountain was ascended by local people before then, a footnote should be added."
+        },
+        "easiest_route": {
+            "required": false,
+            "label": "Easiest route",
+            "type": "string",
+            "description": "The easiest route to the summit. Some possibilities include Hike, Scramble or any of the YDS grades."
+        },
+        "embedded": {
+            "required": false,
+            "label": "Embedded",
+            "type": "string",
+            "description": "Another Infobox to place within the mountain infobox. The other infobox will show up at the end of the mountain infobox. The other infobox needs to have its \"embedded\" or \"child\" parameter set to 1 or yes, as appropriate."
+        },
+        "child": {
+            "required": false,
+            "type": "line",
+            "label": "Child",
+            "description": "\"yes\" if the mountain infobox is embedded inside another Infobox"
+        },
+        "map_size": {
+            "aliases": [
+                "map_width"
+            ],
+            "required": false,
+            "default": "250",
+            "type": "number",
+            "label": "Map width",
+            "description": "Width of the map, in pixels. Must be entered as a number. The default value is 250."
+        },
+        "photo_size": {
+            "required": false,
+            "type": "number",
+            "label": "Photo size",
+            "description": "Width of the photo, if less than 280px."
+        },
+        "subbox": {
+            "label": "Subbox",
+            "description": "Use this infobox as a subbox of another",
+            "type": "boolean"
+        },
+        "suppressfields": {
+            "label": "Suppress fields",
+            "description": "list of fields to never fetch from Wikidata",
+            "type": "string"
+        },
+        "fetchwikidata": {
+            "label": "Fetch from Wikidata",
+            "description": "List of fields to fetch from Wikidata"
+        },
+        "onlysourced": {
+            "label": "Get only sourced Wikidata",
+            "description": "Fetch only sourced data from Wikidata",
+            "type": "boolean",
+            "autovalue": "true"
+        },
+        "photo_upright": {
+            "label": "Upright",
+            "description": "Size of photograph, fed to upright= parameter of image Wikimarkup",
+            "example": "1.0",
+            "type": "number"
+        },
+        "range_coordinates": {
+            "aliases": [
+                "range_coords"
+            ],
+            "label": "Range coordinates",
+            "description": "If article is about a mountain range, coordinates of the center of the range. Please use the {{coord}} template to specify.",
+            "type": "content"
+        },
+        "range_coordinates_ref": {},
+        "map_upright": {
+            "label": "Map upright",
+            "description": "Size of map, expressed as \"upright\" parameter to image Wikimarkup",
+            "example": "1.0",
+            "type": "number"
+        },
+        "highest": {
+            "label": "Highest point",
+            "description": "Name of highest peak or summit",
+            "type": "string"
+        },
+        "highest_location": {
+            "label": "Highest location",
+            "description": "Location of highest point/summit. Use hierarchical administrative boundaries, e.g., county/state/country",
+            "type": "string"
+        },
+        "refs": {
+            "label": "Wikidata refs",
+            "description": "When set to \"yes\", use references from Wikidata",
+            "type": "boolean",
+            "default": "no"
+        },
+        "elevation_system": {
+            "label": "Elevation system",
+            "description": "Elevation system (i.e., vertical datum) for elevation from Wikidata"
+        },
+        "isolation": {
+            "label": "Isolation",
+            "description": "Distance to nearest highest peak, in freeform text. Typically this is filled with a {{convert}} template",
+            "type": "content"
+        },
+        "isolation_km": {
+            "label": "Isolation (kilometers)",
+            "description": "Kilometers to nearest peak higher than subject of article. Use number without commas",
+            "type": "number"
+        },
+        "isolation_mi": {
+            "label": "Isolation (miles)",
+            "description": "Distance to nearest higher peak, in miles. Expressed as number with no commas",
+            "type": "number"
+        },
+        "isolation_parent": {
+            "label": "Isolation parent",
+            "description": "Name of nearest mountain that is higher than the subject of the article",
+            "type": "string"
+        },
+        "isolation_ref": {
+            "label": "Isolation note",
+            "description": "Reference for isolation data, or notes for isolation data",
+            "type": "string"
+        },
+        "length_km": {
+            "label": "Length (kilometers)",
+            "description": "Length of mountain range in kilometers: numeric value, no comma",
+            "type": "number"
+        },
+        "length_mi": {
+            "label": "Length (miles)",
+            "description": "Length of mountain range in miles, numeric value, no commas",
+            "type": "number"
+        },
+        "width_km": {
+            "label": "Width (kilometers)",
+            "description": "Width of mountain range along minor axis, in kilometers.",
+            "type": "number"
+        },
+        "width_mi": {
+            "label": "Width (miles)",
+            "description": "Width of mountain range in miles, numeric value",
+            "type": "number"
+        },
+        "area_mi2": {},
+        "area_km2": {},
+        "length": {
+            "label": "Length",
+            "description": "Freeform field for length of mountain range. Use {{convert}} template for correct unit conversion.",
+            "type": "content"
+        },
+        "length_orientation": {
+            "label": "Orientation",
+            "description": "The major axis of the mountain range",
+            "example": "N-S",
+            "type": "string"
+        },
+        "length_ref": {
+            "label": "Length note",
+            "description": "Reference for length data, or note about it",
+            "type": "content"
+        },
+        "width": {
+            "label": "Width",
+            "description": "Freeform field describing width of mountain range, typically using a {{convert}} template",
+            "type": "content"
+        },
+        "width_orientation": {
+            "label": "Width orientation",
+            "description": "Orientation of minor (shorter) axis of mountain range",
+            "example": "E-W",
+            "type": "string"
+        },
+        "width_ref": {
+            "label": "Width note",
+            "description": "Reference for width data, or supplementary note",
+            "type": "string"
+        },
+        "area": {},
+        "area_ref": {},
+        "volume": {},
+        "volume_km3": {},
+        "volume_mi3": {},
+        "volume_ref": {},
+        "nickname": {},
+        "authority": {},
+        "country": {},
+        "country_type": {},
+        "state": {
+            "aliases": [
+                "subdivision1"
+            ]
+        },
+        "state_type": {
+            "aliases": [
+                "subdivision1_type"
+            ]
+        },
+        "region": {
+            "aliases": [
+                "subdivision2"
+            ]
+        },
+        "region_type": {
+            "aliases": [
+                "subdivision2_type"
+            ]
+        },
+        "district": {
+            "aliases": [
+                "subdivision3"
+            ]
+        },
+        "district_type": {
+            "aliases": [
+                "subdivision3_type"
+            ]
+        },
+        "part": {
+            "aliases": [
+                "subdivision4"
+            ]
+        },
+        "part_type": {
+            "aliases": [
+                "subdivision4_type"
+            ]
+        },
+        "settlement_type": {},
+        "settlement": {},
+        "parent": {},
+        "borders_on": {},
+        "border": {},
+        "topo_maker": {},
+        "topo_map": {},
+        "biome": {},
+        "formed_by": {},
+        "orogeny": {},
+        "period": {},
+        "mountain_type": {},
+        "geology": {
+            "aliases": [
+                "rock"
+            ]
+        },
+        "volcanic_region": {},
+        "normal_route": {},
+        "access": {},
+        "module": {},
+        "nocat_wdimage": {},
+        "mapframe": {
+            "label": "Show mapframe map",
+            "description": "Specify yes or no to show or hide the map, overriding the default",
+            "example": "yes",
+            "type": "string",
+            "default": "no",
+            "suggested": true
+        },
+        "mapframe-caption": {
+            "label": "Mapframe caption",
+            "description": "Caption for the map. If mapframe-geomask is set, then the default is \"Location in <<geomask's label>>\"",
+            "type": "string"
+        },
+        "mapframe-custom": {
+            "label": "Custom mapframe",
+            "description": "Use a custom map instead of the automatic mapframe. Specify either a {{maplink}} template, or another template that generates a mapframe map, or an image name. If used, other mapframe parameters will be ignored.",
+            "type": "wiki-template-name"
+        },
+        "mapframe-id": {
+            "aliases": [
+                "id",
+                "qid"
+            ],
+            "label": "Mapframe Wikidata item",
+            "description": "Id (Q-number) of Wikidata item to use.",
+            "type": "string",
+            "default": "(item for current page)"
+        },
+        "mapframe-coordinates": {
+            "aliases": [
+                "mapframe-coord",
+                "coordinates",
+                "coord"
+            ],
+            "label": "Mapframe coordinates ",
+            "description": "Coordinates to use, instead of any on Wikidata. Use the {{Coord}} template.",
+            "example": "{{Coord|12.34|N|56.78|E}}",
+            "type": "wiki-template-name",
+            "default": "(coordinates from Wikidata)"
+        },
+        "mapframe-wikidata": {
+            "label": "Mapframe shapes from Wikidata",
+            "description": "et to yes to show shape/line features from the wikidata item, if any, when coordinates are specified by parameter",
+            "example": "yes",
+            "type": "string"
+        },
+        "mapframe-shape": {
+            "label": "Mapframe shape feature",
+            "description": "Override display of mapframe shape feature. Turn off by setting to \"none\". Use an inverse shape (geomask) instead of a regular shape by setting to \"inverse\"",
+            "type": "string"
+        },
+        "mapframe-point": {
+            "label": "Mapframe point feature",
+            "description": "Override display of mapframe point feature. Turn off display of point feature by setting to \"none\". Force point marker to be displayed by setting to \"on\"",
+            "type": "string"
+        },
+        "mapframe-geomask": {
+            "label": "Mapframe geomask",
+            "description": "Wikidata item to use as a geomask (everything outside the boundary is shaded darker). Can either be a specific Wikidata item (Q-number), or a property that specifies the item to use (e.g. P17 for country, or P131 for located in the administrative territorial entity)",
+            "example": "Q100",
+            "type": "wiki-page-name"
+        },
+        "mapframe-switcher": {
+            "label": "Mapframe switcher",
+            "description": "Set to \"auto\" or \"geomasks\" or \"zooms\" to enable Template:Switcher-style switching between multiple mapframes. IF SET TO auto – switch geomasks found in location (P276) and located in the administrative territorial entity (P131) statements on the page's Wikidata item, searching recursively. E.g. an item's city, that city's state, and that state's country. IF SET TO geomasks – switch between the geomasks specified as a comma-separated list of Wikidata items (Q-numbers) in the mapframe-geomask parameter. IF SET TO zooms – switch between \"zoomed in\"/\"zoomed midway\"/\"zoomed out\", where \"zoomed in\" is the default zoom (with a minimum of 3), \"zoomed out\" is 1, and \"zoomed midway\" is the average.",
+            "type": "string"
+        },
+        "mapframe-frame-width": {
+            "aliases": [
+                "mapframe-width"
+            ],
+            "label": "Mapframe width",
+            "description": "Frame width in pixels",
+            "type": "number",
+            "default": "270"
+        },
+        "mapframe-frame-height": {
+            "aliases": [
+                "mapframe-height"
+            ],
+            "label": "Mapframe height",
+            "description": "Frame height in pixels",
+            "type": "number",
+            "default": "200"
+        },
+        "mapframe-shape-fill": {
+            "label": "Mapframe shape fill",
+            "description": "Color used to fill shape features",
+            "type": "string",
+            "default": "#606060"
+        },
+        "mapframe-shape-fill-opacity": {
+            "label": "Mapframe shape fill opacity",
+            "description": "Opacity level of shape fill, a number between 0 and 1",
+            "type": "number",
+            "default": "0.5"
+        },
+        "mapframe-stroke-color": {
+            "aliases": [
+                "mapframe-stroke-colour"
+            ],
+            "label": "Mapframe stroke color",
+            "description": "Color of line features, and outlines of shape features",
+            "type": "string",
+            "default": "#ff0000"
+        },
+        "mapframe-stroke-width": {
+            "label": "Mapframe stroke width",
+            "description": "Width of line features, and outlines of shape features",
+            "type": "number",
+            "default": "5"
+        },
+        "mapframe-marker": {
+            "label": "Mapframe marker",
+            "description": "Marker symbol to use for coordinates; see [[mw:Help:Extension:Kartographer/Icons]] for options",
+            "example": "museum",
+            "type": "string"
+        },
+        "mapframe-marker-color": {
+            "aliases": [
+                "mapframe-marker-colour"
+            ],
+            "label": "Mapframe marker color",
+            "description": "Background color for the marker",
+            "type": "string",
+            "default": "#5E74F3"
+        },
+        "mapframe-geomask-stroke-color": {
+            "aliases": [
+                "mapframe-geomask-stroke-colour"
+            ],
+            "label": "Mapframe geomask stroke color",
+            "description": "Color of outline of geomask shape",
+            "type": "string",
+            "default": "#555555"
+        },
+        "mapframe-geomask-stroke-width": {
+            "label": "Mapframe geomask stroke width",
+            "description": "Width of outline of geomask shape",
+            "type": "number",
+            "default": "2"
+        },
+        "mapframe-geomask-fill": {
+            "label": "Mapframe geomask fill",
+            "description": "Color used to fill outside geomask features",
+            "type": "string",
+            "default": "#606060"
+        },
+        "mapframe-geomask-fill-opacity": {
+            "label": "Mapframe geomask fill opacity",
+            "description": "Opacity level of fill outside geomask features, a number between 0 and 1",
+            "type": "number",
+            "default": "0.5"
+        },
+        "mapframe-zoom": {
+            "label": "Mapframe zoom",
+            "description": "Set the zoom level, from \"1\" to \"18\", to used if the zoom level cannot be determined automatically from object length or area",
+            "example": "12",
+            "type": "number",
+            "default": "10"
+        },
+        "mapframe-length_km": {
+            "label": "Mapframe length (km)",
+            "description": "Object length in kilometres, for automatically determining zoom level. ONLY use ONE of the available parameters for length or area",
+            "type": "number"
+        },
+        "mapframe-length_mi": {
+            "label": "Mapframe length (mi)",
+            "description": "Object length in miles, for automatically determining zoom level. ONLY use ONE of the available parameters for length or area",
+            "type": "number"
+        },
+        "mapframe-area_km2": {
+            "label": "Mapframe area (km^2)",
+            "description": "Object arean square kilometres, for automatically determining zoom level. ONLY use ONE of the available parameters for length or area",
+            "type": "number"
+        },
+        "mapframe-area_mi2": {
+            "label": "Mapframe area (mi^2)",
+            "description": "Object area in square miles, for automatically determining zoom level. ONLY use ONE of the available parameters for length or area",
+            "type": "number"
+        },
+        "mapframe-frame-coordinates": {
+            "aliases": [
+                "mapframe-frame-coord"
+            ],
+            "label": "Mapframe frame coordinates",
+            "description": "Alternate latitude and longitude coordinates for initial placement of map, using {{coord}}",
+            "example": "{{Coord|12.35|N|56.71|E}}",
+            "type": "wiki-template-name"
+        },
+        "mapframe-line": {},
+        "photo_width": {},
+        "coords_ref": {}
+    },
+    "paramOrder": [
+        "name",
+        "other_name",
+        "etymology",
+        "native_name",
+        "native_name_lang",
+        "language",
+        "translation",
+        "pronunciation",
+        "photo",
+        "photo_alt",
+        "photo_size",
+        "photo_upright",
+        "photo_caption",
+        "map",
+        "map_size",
+        "map_upright",
+        "map_image",
+        "map_image_caption",
+        "map_alt",
+        "map_caption",
+        "location",
+        "map_relief",
+        "label",
+        "label_position",
+        "highest",
+        "highest_location",
+        "elevation",
+        "elevation_m",
+        "elevation_ft",
+        "elevation_ref",
+        "prominence",
+        "prominence_m",
+        "prominence_ft",
+        "prominence_ref",
+        "parent_peak",
+        "isolation",
+        "isolation_km",
+        "isolation_mi",
+        "isolation_parent",
+        "isolation_ref",
+        "listing",
+        "range",
+        "coordinates",
+        "coordinates_ref",
+        "range_coordinates",
+        "range_coordinates_ref",
+        "coord_type",
+        "region_code",
+        "format",
+        "source",
+        "topo",
+        "grid_ref_UK",
+        "grid_ref_UK_ref",
+        "grid_ref_Ireland",
+        "grid_ref_Ireland_ref",
+        "length",
+        "length_km",
+        "length_mi",
+        "length_orientation",
+        "length_ref",
+        "width",
+        "width_km",
+        "width_mi",
+        "width_orientation",
+        "width_ref",
+        "type",
+        "age",
+        "volcanic_arc",
+        "volcanic_belt",
+        "volcanic_field",
+        "volcanic_zone",
+        "last_eruption",
+        "first_ascent",
+        "easiest_route",
+        "embedded",
+        "child",
+        "subbox",
+        "suppressfields",
+        "fetchwikidata",
+        "onlysourced",
+        "refs",
+        "elevation_system",
+        "area_mi2",
+        "area_km2",
+        "area",
+        "area_ref",
+        "volume",
+        "volume_km3",
+        "volume_mi3",
+        "volume_ref",
+        "nickname",
+        "authority",
+        "country",
+        "country_type",
+        "state",
+        "state_type",
+        "region",
+        "region_type",
+        "district",
+        "district_type",
+        "part",
+        "part_type",
+        "settlement",
+        "settlement_type",
+        "parent",
+        "borders_on",
+        "border",
+        "topo_maker",
+        "topo_map",
+        "biome",
+        "formed_by",
+        "orogeny",
+        "period",
+        "mountain_type",
+        "geology",
+        "volcanic_region",
+        "normal_route",
+        "access",
+        "module",
+        "nocat_wdimage",
+        "mapframe",
+        "mapframe-caption",
+        "mapframe-custom",
+        "mapframe-id",
+        "mapframe-coordinates",
+        "mapframe-wikidata",
+        "mapframe-shape",
+        "mapframe-point",
+        "mapframe-geomask",
+        "mapframe-switcher",
+        "mapframe-frame-width",
+        "mapframe-frame-height",
+        "mapframe-shape-fill",
+        "mapframe-shape-fill-opacity",
+        "mapframe-stroke-color",
+        "mapframe-stroke-width",
+        "mapframe-marker",
+        "mapframe-marker-color",
+        "mapframe-geomask-stroke-color",
+        "mapframe-geomask-stroke-width",
+        "mapframe-geomask-fill",
+        "mapframe-geomask-fill-opacity",
+        "mapframe-zoom",
+        "mapframe-length_km",
+        "mapframe-length_mi",
+        "mapframe-area_km2",
+        "mapframe-area_mi2",
+        "mapframe-frame-coordinates",
+        "mapframe-line",
+        "photo_width",
+        "coords_ref"
+    ]
+}
+</templatedata>
+}}
+
+== Microformat ==
+{{UF-hcard-geo}}
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line; interwikis at Wikidata -->
+[[Category:Embeddable templates]]
+[[Category:Geology infobox templates]]
+[[Category:Infobox templates with module parameter|Mountain]]
+[[Category:Templates with coordinates fields]]
+[[Category:Mountain templates]]
+[[Category:Place infobox templates|Mountain]]
+[[Category:Templates that add a tracking category]]
+[[Category:WikiProject Mountains templates]]
+}}</includeonly>

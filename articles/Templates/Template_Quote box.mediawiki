@@ -1,0 +1,33 @@
+<templatestyles src="Template:Quote_box/styles.css" /><div class="quotebox pullquote {{#switch: {{lc:{{{align|}}}}} 
+        | center = centered
+        | left = floatleft
+        | none = 
+        | floatright 
+    }} {{{class|}}}" style="
+    {{#if:{{{width|}}} |width:{{{width}}};}} 
+    {{#ifeq:{{{border}}}|none|border:none;|{{#if:{{{border|}}}|border-width: {{{border}}}}};}}
+    {{#if:{{{fontsize|}}}|font-size: {{{fontsize}}};}} 
+    {{#if:{{{bgcolor|}}}|color: #202122;background-color: {{#ifeq:{{{bgcolor|}}}|none|transparent|{{{bgcolor}}}}};}}
+    {{{style|}}}">
+{{#if:{{{title|}}}
+    |<div class="quotebox-title {{{tclass|}}}" style="
+        {{#if:{{{title_bg|{{{bgcolor|}}}}}}|color: #202122;background-color: {{#ifeq:{{{title_bg|{{{bgcolor}}}}}}|none|transparent|{{{title_bg|{{{bgcolor}}}}}}}};}} 
+        {{#if:{{{title_fnt|}}}|color: {{{title_fnt}}};}}
+        {{{tstyle|}}}">{{{title}}}</div> 
+}}
+<blockquote class="quotebox-quote {{main other||{{#if:{{{quoted|}}}|quoted}}}} {{#switch: {{lc:{{{qalign|{{{halign|left}}}}}}}}
+        |right = right-aligned
+        |center = center-aligned
+        |left-aligned
+    }} {{{qclass|}}}" style="
+    {{{qstyle|}}}">
+{{{text|{{{content|{{{quotetext|{{{quote|{{{1|<includeonly>{{error|Error: No text given for quotation (or equals sign used in the actual argument to an unnamed parameter)}}</includeonly><noinclude>{{lorem ipsum}}</noinclude>}}}}}}}}}}}}}}}
+</blockquote>
+{{#if:{{{author|{{{source|}}}}}}{{{2|}}}{{{3|}}}|<div style="padding-bottom: 0; padding-top: 0.5em"><!-- p tag style because of phab:T352875; see talk --><cite class="{{#switch: {{lc:{{{salign|{{{qalign|{{{halign|left}}} }}} }}} }}
+        |right = right-aligned
+        |center = center-aligned
+        |left-aligned
+    }}" style="{{{sstyle|}}}"><!--Manually inserted dashes will need to be removed from uses of the template first, I guess, then enable this:--><!--—&thinsp;-->{{{author|{{{2|}}}}}}{{#if:{{{author|}}}{{{2|}}}|{{#if:{{{source|}}}{{{3|}}}|<!--Display comma-space only if both cite parameters are present.-->,&#32;}}}}{{{source|{{{3|}}}}}}</cite></div>}}
+</div>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using quote box with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Quote box]] with unknown parameter "_VALUE_"|ignoreblank=y| 1 | 2 | 3 | align | author | bgcolor | border | class | content | fontsize | halign | qalign | qclass | qstyle | quote | quoted | quotetext | salign | source | sstyle | style | tclass | text | title | title_bg | title_fnt | tstyle | width }}<noinclude>
+{{Documentation}}
+</noinclude>

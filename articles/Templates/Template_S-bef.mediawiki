@@ -1,0 +1,2 @@
+<includeonly>|- style="text-align:center;" 
+|width="30%" align="center" rowspan="{{{rows|1}}}"|Preceded&nbsp;by<br/><span style="font-weight: bold">{{{before}}}{{#if:{{{before2|}}}|<br/>{{{before2}}}|}}{{#if:{{{before3|}}}|<br/>{{{before3}}}|}}{{#if:{{{before4|}}}|<br/>{{{before4}}}|}}{{#if:{{{before5|}}}|<br/>{{{before5}}}|}}</span>{{#if:{{{as|}}}|<br><small>'''''as {{{as}}}'''''</small>}}</includeonly><noinclude>{{documentation}}</noinclude>

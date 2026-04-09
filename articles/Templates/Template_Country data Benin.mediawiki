@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Benin
+| flag alias = Flag of Benin.svg
+| flag alias-1975 = Flag of Benin (1975-1990).svg
+| link alias-military = Benin Armed Forces
+| link alias-air force = Benin Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1975
+| redir1 = BEN
+| related1 = Dahomey
+</noinclude>
+}}

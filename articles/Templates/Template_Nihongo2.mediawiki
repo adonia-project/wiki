@@ -1,0 +1,5 @@
+<span class="t_nihongo_kanji">{{lang|ja|{{{1}}}}}</span>{{#ifeq:{{{help|}}}|yes|<span class="t_nihongo_help noprint"><sup>[[Help:Installing Japanese character sets|<span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span>]]</sup></span>}}{{category handler
+|main=[[Category:Articles containing Japanese-language text]]
+}}<noinclude>
+{{Documentation}}
+</noinclude>

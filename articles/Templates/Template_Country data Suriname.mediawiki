@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Suriname
+| flag alias = Flag of Suriname.svg
+| link alias-military = Suriname National Army
+| link alias-army = Surinamese Land Forces
+| link alias-air force = Suriname Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = SUR
+| related1 = Dutch Guiana
+</noinclude>
+}}

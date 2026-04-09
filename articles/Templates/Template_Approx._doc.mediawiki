@@ -1,0 +1,50 @@
+{{Documentation subpage}}
+== Usage ==
+This template inserts a [[Wikipedia:tooltip|tooltip]] that says "approx." and [[approximately]] when hovered over.
+
+If parameter <code>link</code> is set to a [[truthy (computing)|truthy]] value then "approx." will also be a link to [[Approximation]] (via the redirect [[Approximately]]); if the parameter <code>tilde</code> is set to a truthy value, then "approx." will be replaced by a tilde; and if the parameter <code>cap</code> is set to a truthy value, then "approx." will be written as "Approx.". 
+
+If parameter 1 is set, that value will be displayed after the approx.  This is to allow the approx. and a value to be a single entity semantically.
+
+Example:
+
+* <nowiki>{{Approx.}}</nowiki> {{Approx.}}
+* <nowiki>{{Approx.|foo}}</nowiki> {{Approx.|foo}}
+* <nowiki>{{Approx.|foo|link="bar"}}</nowiki> {{Approx.|foo|link="bar"}}
+* <nowiki>{{Approx.|foo|tilde="bar"}}</nowiki> {{Approx.|foo|tilde="bar"}}
+* <nowiki>{{Approx.|foo|cap="bar"}}</nowiki> {{Approx.|foo|cap="bar"}}
+
+== TemplateData ==
+<templatedata>
+{
+	"params": {
+		"1": {
+			"description": "What is being approximated",
+			"type": "string",
+			"suggested": true
+		},
+		"link": {
+			"label": "Link",
+			"description": "Adds a link to approximately.",
+			"type": "boolean",
+			"default": "no"
+		},
+		"tilde": {
+			"label": "Tilde",
+			"description": "Replaces \"approx.\" with a tilde.",
+			"type": "boolean",
+			"default": "no"
+		},
+		"cap": {
+			"label": "Cap",
+			"description": "Capitalizes \"Approx.\".",
+			"type": "boolean",
+			"default": "no"
+		}
+	}
+}
+</templatedata>
+<includeonly>{{Sandbox other||
+<!-- Categories below this line -->
+[[Category:Abbreviation templates]]
+}}</includeonly>

@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Chile
+| flag alias = Flag of Chile.svg
+| flag alias-1812 = Flag of Chile (1812-1814).svg
+| flag alias-1817 = Flag of Chile (1817-1818).svg
+| link alias-naval = Chilean Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| var1 = 1812
+| var2 = 1817
+| redir1 = CHL
+| redir2 = CHI
+</noinclude>
+}}

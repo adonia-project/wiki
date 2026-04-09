@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Sierra Leone
+| flag alias = Flag of Sierra Leone.svg
+| flag alias-naval = Naval Ensign of Sierra Leone.svg
+| flag alias-navy = Naval Ensign of Sierra Leone.svg
+| link alias-military = Republic of Sierra Leone Armed Forces
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = SLE
+| related1 = Sierra Leone (1961–1971)
+</noinclude>
+}}

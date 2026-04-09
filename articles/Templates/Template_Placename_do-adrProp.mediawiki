@@ -1,0 +1,5 @@
+{{#if:{{{test|}}}|**value="{{{value|}}}"
+**prevprop="{{{prevprop|}}}"
+**prop="{{{prop|}}}"
+**nextprop="{{{nextprop|}}}"
+***}}{{#if:{{{value|}}}|{{#if:{{{prop|}}}|{{#if:{{{test|}}}|^|<}}span class="{{{prop|}}}">{{{value|Meridian Ave.}}}{{#if:{{{test|}}}|^|<}}/span>|<!--else is a locality-->{{#if:{{{prevprop|}}}|{{#if:{{{test|}}}|^|<}}span class="locality">}}{{{value|localityXXX}}}{{#if:{{{nextprop|}}}|{{#if:{{{test|}}}|^|<}}/span>}}}}{{#ifeq:{{{nextprop|}}}|LAST||,&ensp;}}}}

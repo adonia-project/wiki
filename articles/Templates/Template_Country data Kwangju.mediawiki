@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Kwangju
+| flag alias = Flag of Kwangju.svg
+| flag alias-1870 =
+| link alias-football = Kwangju national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1870
+| related1 = 
+</noinclude>
+}}

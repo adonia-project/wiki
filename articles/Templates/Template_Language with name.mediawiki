@@ -1,0 +1,4 @@
+{{#ifeq:{{{links|{{{link|}}}}}}|no
+ |{{{2}}}
+ |[[{{{2}}} language|{{{2}}}]]
+}}&#58; {{Lang|{{{1}}}|{{{3}}}|rtl={{{rtl|}}}|nocat={{{nocat|<noinclude>true</noinclude>}}}|italic={{{italic|yes}}} }}{{#if:{{{4<includeonly>|{{{lit|}}}</includeonly>}}}|, {{small|[[Literal translation|lit.]]&nbsp;}}&#39;{{{4|{{{lit}}}}}}&#39;}}<noinclude>{{documentation}}</noinclude>

@@ -1,0 +1,33 @@
+{{#switch: {{{1}}}
+| =<!-- blank -->
+| e18 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue18|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue18|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue18|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue18|{{{lc3|}}}|{{{ld3|}}}}}}}{{#if:{{{lc4|}}}|<br>{{Ethnologue18|{{{lc4|}}}|{{{ld4|}}}}}}}{{#if:{{{lc5|}}}|<br>{{Ethnologue18|{{{lc5|}}}|{{{ld5|}}}}}}}{{#if:{{{lc6|}}}|<br>{{Ethnologue18|{{{lc6|}}}|{{{ld6|}}}}}}}{{#if:{{{lc7|}}}|<br>(Additional references under 'Language codes' in the information box)}}|name=e18}}<!--
+
+(The e18 switch lacks a final 'else' parameter. This is because it shouldn't generate a reference if we don't supply an ISO code for it to refer to.)
+
+-->| e17 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue17|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue17|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue17|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue17|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e17}}<!--
+
+-->| e16 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue16|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue16|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue16|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue16|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e16}}
+| e15 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue15|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue15|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue15|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue15|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e15}}
+| e14 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue14|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue14|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue14|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue14|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e14}}
+| e13 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue13|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue13|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue13|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue13|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e13}}
+| e12 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue12|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue12|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue12|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue12|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e12}}
+| e11 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue11|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue11|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue11|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue11|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e11}}
+| e10 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue10|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue10|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue10|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue10|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e10}}
+| e09 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue09|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue09|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue09|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue09|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e09}}
+| e08 = {{#tag:ref|{{#if:{{{iso3|}}}|{{Ethnologue08|{{{iso3|}}}|{{{name|}}}}}}}{{#if:{{{lc1|}}}|{{#if:{{{iso3|}}}|<br>}}{{Ethnologue08|{{{lc1|}}}|{{{ld1|}}}}}}}{{#if:{{{lc2|}}}|<br>{{Ethnologue08|{{{lc2|}}}|{{{ld2|}}}}}}}{{#if:{{{lc3|}}}|<br>{{Ethnologue08|{{{lc3|}}}|{{{ld3|}}}}}}}|name=e08}}<!--
+
+-->| linglist = {{#tag:ref|[http://multitree.org/codes/{{{iso3|}}} {{{name|}}}] at ''[[MultiTree]]'' on [[the Linguist List]]|name=linglist}}
+| ne2007 = {{#tag:ref|Mikael Parkvall, "Världens 100 största språk 2007" (The World's 100 Largest Languages in 2007), in ''[[Nationalencyklopedin]]''|name=NE100}}
+| ne2010 = {{#tag:ref|Mikael Parkvall, "Världens 100 största språk 2010" (The World's 100 Largest Languages in 2010), in ''[[Nationalencyklopedin]]''|name=NE100}}
+| inali = {{#tag:ref|[[INALI]] (2012) [http://site.inali.gob.mx/pdf/libro_lenguas_indigenas_nacionales_en_riesgo_de_desaparicion.pdf ''México: Lenguas indígenas nacionales]''|name=INALI}}
+| aiatsis = <ref name=AIATSIS/>
+| glotto = <ref name=Glottolog/>
+| glotto2 = <ref name=Glottolog2/>
+| glotto3 = <ref name=Glottolog3/>
+| glotto4 = <ref name=Glottolog4/>
+| glotto5 = <ref name=Glottolog5/>
+| guthrie = <ref name=Guthrie/>
+| #default = {{{1|}}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>

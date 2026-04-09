@@ -1,0 +1,74 @@
+{{Documentation subpage}}
+{{High-use}}
+{{Template shortcut|lit|literal|literally}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+This template uses single quotation marks ({{char|'…'}}), because Wikipedia's Manual of Style at [[MOS:SINGLE]] calls for [[Gloss (annotation)#In linguistics|simple glosses]] to be enclosed this way.
+
+== Usage ==
+* <code><nowiki>{{literal translation}}</nowiki></code> &rarr; {{literal translation}}
+* <code><nowiki>{{literal translation|lk=yes}}</nowiki></code> &rarr; {{literal translation|lk=yes}}
+* <code><nowiki>{{literal translation|lk=no}}</nowiki></code> &rarr; {{literal translation|lk=no}}
+* <code><nowiki>{{literal translation|a}}</nowiki></code> &rarr; {{literal translation|a}}
+* <code><nowiki>{{literal translation|''a'' A}}</nowiki></code> &rarr; {{literal translation|''a'' A}}
+* <code><nowiki>{{literal translation|a|b}}</nowiki></code> &rarr; {{literal translation|a|b}}
+* <code><nowiki>{{literal translation|a|b|c|d}}</nowiki></code> &rarr; {{literal translation|a|b|c|d}}
+
+The template takes up to four separate translations (<code>|a|b|c|d</code>). If each meaning is a single word, using serial commas is another stylistic choice: <code>|a, b, c, d</code>.
+
+Unlinking (<code>|lk=no</code>) avoids cluttering the same paragraph or list with repetitive overlinking of "{{lit.}}".
+
+The usage of this template is preferred when the literal meaning of a word differs from its actual meaning; in other instances, {{tlx|gloss}} or {{tlx|translation}} may be more suitable.
+
+== See also ==
+* {{tlx|gloss}} - similar template but without "lit." lead-in.
+* {{tlx|translation}} - For cases where it isn't obvious that the word is a translation, or when ambiguity isn't preferred, such as translating titles of works.
+<includeonly>{{sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Language formatting and function templates]]
+[[Category:Translation templates]]
+}}</includeonly>
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Literal meaning",
+			"description": "Gloss for a term",
+			"type": "string",
+			"required": true
+		},
+		"2": {
+			"label": "2nd literal meaning",
+			"description": "Another meaning, if any",
+			"type": "string"
+		},
+		"3": {
+			"label": "3rd literal meaning",
+			"description": "Another meaning, if any",
+			"type": "string"
+		},
+		"4": {
+			"label": "4th literal meaning",
+			"description": "Another meaning (last possible), if any",
+			"type": "string"
+		},
+		"sortable": {
+			"label": "Sortable",
+			"type": "string",
+			"description": "In sortable tables, ignore 'lit.'"
+		},
+		"i": {
+			"label": "Italic",
+			"description": "If 'yes', the prefix 'lit.' is italicized. The meaning is still not italicized. Italics of either is almost never necessary stylistically.",
+			"type": "string"
+		},
+		"lk": {
+			"label": "Link",
+			"type": "string",
+			"description": "If 'yes' or 'on', linked to the article on literal translation. If 'no' or 'off', no links."
+		}
+	},
+	"description": "Formats the literal translation of a word or phrase per Manual of Style guidelines."
+}
+</templatedata>

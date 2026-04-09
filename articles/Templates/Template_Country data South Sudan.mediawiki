@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = South Sudan
+| flag alias = Flag of South Sudan.svg
+| flag alias-2011 = Flag of South Sudan (2011–2023, upright star).svg
+| link alias-air force = South Sudan Air Force
+| flag alias-military = Flag of the SPLA (2011 to present).svg
+| link alias-military = South Sudan People's Defence Forces
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 2011
+| redir1 = SSD
+| redir2 = Southern Sudan
+</noinclude>
+}}

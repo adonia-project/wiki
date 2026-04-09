@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Eritrea
+| flag alias = Flag of Eritrea.svg
+| flag alias-1952 = Flag of Eritrea (1952-1961).svg
+| flag alias-1993 = Flag of Eritrea (1993–1995).svg
+| link alias-naval = Eritrean Navy
+| link alias-military = Eritrean Defence Forces
+| link alias-army = Eritrean Army
+| link alias-air force = Eritrean Air Force
+| link alias-navy = Eritrean Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = ERI
+| var1 = 1952
+| var2 = 1993
+</noinclude>
+}}

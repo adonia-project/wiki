@@ -1,0 +1,47 @@
+{{Infobox
+| decat = yes
+| child = {{{child|<includeonly>yes</includeonly>}}}
+| bodystyle = {{#if: {{yesno|{{{child|<includeonly>yes</includeonly>}}}}} | {{{bodystyle|<includeonly>border-collapse: collapse</includeonly>}}} }}
+
+| rowstyle1 = font-size: 100%; background-color: #ddd;
+| header1 = <span class="nowrap">Meteorological history</span>
+
+| data2 = {{#if: {{{name|{{{as|<noinclude>Stormname</noinclude>}}}}}}
+  | as {{#ifeq: {{{name-italics|}}} | off 
+    | {{{name|{{{as|<noinclude>Stormname</noinclude>}}}}}} 
+    | ''{{{name|{{{as|<noinclude>Stormname</noinclude>}}}}}}''
+  }}
+}}
+| label3 = Date <!-- Single-day events, such as floods and the like. -->
+| data3 = {{{date|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}
+
+| label4 = Formed
+| data4 = {{{formed|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}
+
+| label5 = Renamed
+| data5 = {{{renamed|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}
+
+| label6 = Crossed over
+| data6 = {{{crossed-over|{{{crossed|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}}}}
+
+| label7 = Exited land
+| data7 = {{{exited|{{{exited-land|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}}}}
+
+| label8 = [[Subtropical cyclone|Subtropical]]
+| data8 = {{{subtropical|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}
+
+| label9 = [[Post-tropical cyclone|Remnant low]]
+| data9 = {{{remnant-low|{{{remnant|{{{low|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}}}}}}}
+
+| label10 = [[Post-tropical cyclone|Post-tropical]]
+| data10 = {{{post-tropical|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}
+
+| label11 = {{#if: {{{extratropical-label|}}} | {{{extratropical-label|}}} | [[Extratropical cyclone|Extratropical]] }}
+| data11 = {{{extratropical|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}
+
+| label12 = Dissipated
+| data12 = {{{dissipated|<noinclude>{{start date|{{CURRENTYEAR}}|{{CURRENTMONTH}}|{{CURRENTDAY}}}}</noinclude>}}}
+
+| label13 = Duration
+| data13 = {{{duration|{{{active|<noinclude>4 hours</noinclude>}}}}}}
+}}<noinclude>{{Documentation}}</noinclude>

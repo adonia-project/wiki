@@ -1,0 +1,68 @@
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|+
+! colspan="2" rowspan="2" scope="col" |Flag, name and
+postal abbreviation
+! colspan="2" scope="col" |Cities
+! rowspan="2" scope="col" |Ratification or
+establishment
+! rowspan="2" scope="col" |Population
+([[2025 Baliscan census|2025 census]])
+! rowspan="2" |% of total
+! colspan="2" scope="col" |Total area
+! rowspan="2" scope="col" |[[W:Human Development Index|HDI]]
+! rowspan="2" |No. of 
+[[Communes of Balisca|communes]]
+! rowspan="2" |No. of 
+[[Cantons of Balisca|cantons]]
+! rowspan="2" |No. of 
+[[Commune district|commune districts]]
+! rowspan="2" |Pop. per
+district
+|-
+! scope="col" |Capital
+! scope="col" |Largest
+! scope="col" |km2
+! scope="col" |mi2
+|-
+! scope="row" |{{flag|Añãngaraçú}}
+|AU
+| colspan="2" |[[Yvyra'ara]]
+|''22 October 1883''
+|2,505,798
+|33.14%
+|139,520.94
+|53,869.34
+|0.873
+|247
+|28
+|6 (0.95%)
+|417,633
+|-
+! scope="row" |{{flag|Catanduva}}
+|CD
+| colspan="2" |[[Maracaju]]
+|22 October 1883
+|5,053,830
+|66.85%
+|78,519.06
+|30,316.38
+|0.923
+|1,724
+|212
+|14 (1.86%)
+|360,988
+|-
+! scope="row" |'''{{flag|Pindorama}}'''
+|'''PA'''
+| colspan="2" |'''Yvyra'ara'''
+|'''22 October 1883'''
+|'''7,559,628'''
+|'''100%'''
+|'''218,040'''
+|'''84,190'''
+|'''0.898'''
+|'''1,971'''
+|'''240'''
+|'''20 (2.71%)'''
+|'''377,981'''
+|}

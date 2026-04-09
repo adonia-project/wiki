@@ -1,0 +1,33 @@
+/* {{pp-template}} */
+.ib-islands-title-embed {
+	background-color: #efefef;
+	font-weight: bold;
+	padding: 0.3em 0;
+}
+
+.ib-islands-nick,
+.ib-islands-native {
+	font-size: 85%;
+}
+
+.ib-islands-native > div {
+	display: inline;
+}
+
+.ib-islands .infobox-header {
+	background-color: #efefef;
+}
+
+.ib-islands-country {
+	border-top: 1px solid black;
+	font-weight: bold;
+}
+
+.ib-islands-country2 {
+	font-weight: bold;
+}
+
+.ib-islands .infobox-below {
+	text-align: left;
+	border-top: #aaa 1px solid;
+}

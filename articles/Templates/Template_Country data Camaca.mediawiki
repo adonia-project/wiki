@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Camaca
+| flag alias = Flag of Camaca.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

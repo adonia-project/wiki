@@ -1,0 +1,32 @@
+/* {{pp|small=y}} */
+.ib-region-symbols-left {
+	float: left;
+	clear: left;
+	margin: 0.5em 1em 0.5em 0;
+}
+
+.ib-region-symbols-none {
+	float: none;
+	clear: none;
+	margin: 0.5em 1em 0.5em 0;
+}
+
+.ib-region-symbols-center {
+	float: none;
+	clear: none;
+	margin: 0.5em auto;
+}
+
+.ib-region-symbols .infobox-title {
+	font-size: 120%;
+}
+
+.ib-region-symbols .infobox-subheader {
+	font-weight: bold;
+	background-color: #cddeff;
+}
+
+.ib-region-symbols-island {
+	font-weight: bold;
+	background-color: #cef2e0;
+}

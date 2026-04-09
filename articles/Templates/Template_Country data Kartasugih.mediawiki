@@ -1,0 +1,24 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Kartasugih
+| flag alias = Flag of Kartasugih.png
+| flag alias-sm = Flag of South Maestria.png
+| flag alias-ml = Flag of Maestrialor.png
+| flag alias-bm = Flag of British Maestria.png
+| flag alias-kroya = Flag of Kroya Sultanate.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = sm
+| var2 = ml
+| var3 = bm
+| var4 = kroya
+| redir1 = South Maestria
+| redir2 = Maestrialor
+| redir3 = British Maestria
+| redir4 = Kroya Sultanate
+| redir5 = KRT
+</noinclude>
+}}

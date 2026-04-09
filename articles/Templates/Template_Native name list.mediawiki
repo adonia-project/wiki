@@ -1,0 +1,1 @@
+{{#invoke:native name|native_name_list<noinclude>|tag1=fr|name1=Exemple|tag2=es|name2=Ejemplo</noinclude>}}<noinclude>{{documentation}}</noinclude>

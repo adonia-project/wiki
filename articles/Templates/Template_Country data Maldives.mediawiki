@@ -1,0 +1,30 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Maldives
+| flag alias = Flag of Maldives.svg
+| flag alias-1117 = Flag of the Maldives (pre-1903, alternative flag shape).svg
+| flag alias-1796 = Earliest Flag of the Maldives.svg
+| flag alias-1903 = Flag of the Maldives until 1903.svg
+| flag alias-1926 = Old National Flag of the Maldives.svg
+| flag alias-1953 = Flag of the Maldives 1953.svg
+| flag alias-air force = Flag of the MNDF Air Corps.svg
+| link alias-air force = Maldives National Defence Force{{!}}Maldives Air Corps
+| flag alias-marines = Flag of the MNDF Marine Corps.svg
+| link alias-marines = MNDF Marine Corps{{!}}Maldives Marine Corps
+| flag alias-military = Flag of the Maldives National Defence Force.svg
+| link alias-military = Maldives National Defence Force
+| link alias-coast guard = Maldivian Coast Guard
+| flag alias-coast guard = Flag of the MNDF Coast Guard.svg
+| variant = {{{variant|}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| var1 = 1117
+| var2 = 1796
+| var3 = 1903
+| var4 = 1926
+| var5 = 1953
+| redir1 = MDV
+| related1 = United Suvadive Republic
+</noinclude>
+}}

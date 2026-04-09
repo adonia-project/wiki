@@ -1,0 +1,18 @@
+{{#if:{{{above|}}}
+  |<div class="{{{aboveclass|}}}" style="width:100%; text-align:center; {{{abovestyle|}}}">{{{above}}}</div>
+}}{{#if:{{{center|}}}
+  |<!-- then 
+--><table style="width:100%; margin:1px; display:inline-table;"><tr>
+<td style="text-align:left; vertical-align:{{{vertical-align|middle}}}; padding:0 0.5em 0 0;{{#if:{{{wide|}}}|width:45%;}}{{{leftstyle|}}}" class="noprint">{{#if:{{{left|}}}|{{#if:{{{noarrows|}}}||&larr;&nbsp;}}{{Delink question hyphen-minus|{{{left|}}}}}{{#if:{{{bullets|}}}|&nbsp;'''·'''}}}}</td>
+{{#if:{{{center|}}}|
+<td style="text-align:center; vertical-align:{{{vertical-align|middle}}};; padding:0 1px;{{{centerstyle|}}}" class="{{{centerclass|}}}">{{{center|}}}</td>
+}}
+<td style="text-align:right; vertical-align:{{{vertical-align|middle}}};; padding:0 0 0 0.5em;{{#if:{{{wide|}}}|width:45%;}}{{{rightstyle|}}}" class="noprint">{{#if:{{{right|}}}|{{#if:{{{bullets|}}}|'''·'''&nbsp;}}{{Delink question hyphen-minus|{{{right|}}}}}{{#if:{{{noarrows|}}}||&nbsp;&rarr;}}}}</td>
+</tr></table>
+  |<!-- else 
+-->{{#if:{{{left|}}}{{{right|}}}|<div style="width:100%">{{#if:{{{left|}}}|
+<div style="float: left; text-align:left;padding-right:0.5em;{{{leftstyle|}}}" class="noprint">{{#if:{{{noarrows|}}}||&larr;&nbsp;}}{{{left|}}}</div>
+}}{{#if:{{{right|}}}|
+<div style="float: right; text-align:right;padding-left:0.5em;{{{rightstyle|}}}" class="noprint">{{{right|}}}{{#if:{{{noarrows|}}}||&nbsp;&rarr;}}</div>
+}}</div>}}
+}}<noinclude>{{documentation}}</noinclude>

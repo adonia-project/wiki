@@ -1,0 +1,53 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+== Purpose ==
+This template is used to create the content note, in conjunction with [[Template:Cref]]. For multiple uses of the same footnote, see [[Template:Cnote2]].
+
+<table width=80% align=center border=1><tr><td>
+<blockquote>Note: '''Content Notes''' created using {{tl|cref}} and {{tl|cnote}} can co-exist in an article along with '''Source Notes''' using the [[mw:Extension:Cite/Cite.php|cite.php]] system. The two systems do not interfere with each other in any way.</blockquote>
+</td></tr></table>
+
+== Usage ==
+<code><nowiki>* {{</nowiki>cnote|''Note name''|''Note text''<nowiki>}}</nowiki></code>
+
+To create the marker to place in the text at the point where the content note is to be attached, use [[Template:Cref]].
+
+===Example of output===
+
+(With bullet, as shown above.)
+
+* {{cnote | Note name | Note text }}
+
+=== Required parameters ===
+#''Note name'': Name of content note; must be the same name assigned to this note using {{tl|cref}}.
+#''Note text'': Text (body) of content note.
+
+=== Placement ===
+* If a "Notes" or "Notes and references" section already exists in the article you are working on, simply determine where among the existing notes the one you are going to create should be listed and insert the {{tlx|cnote}} template there.
+* If such a section does not already exist in the article you are working on, you must create one by typing <code><nowiki>==Notes==</nowiki></code>&nbsp;. (The "Notes" section should immediately precede the "References" section.) Then create the first content note by inserting the {{tlx|cnote}} template below the section header.
+*Alternatively, you can change the existing "References" section to "Notes and references" ''if'' the article consistently uses only the {{tlx|Ref}} and {{tlx|Note}} reference footnote system instead of the <code>&lt;ref></code> and <code>&lt;references /></code> inline citation system.
+
+'''Important:'''
+#Once a content note has been created using {{tl|cnote}}, you can edit it just as you would ordinary Wikipedia text. Ensure, however, that all the cnote text is enclosed by the final  '''<nowiki>}}</nowiki>'''.
+#The character "=" (equals sign) must not be entered in cnote text, as it will generate an error call. If an equals sign is needed in the cnote text, use the code <code>&amp;#61;</code> in its place.
+
+==See it in action==
+Please look at [[Early life of Plato#ref a]] to see a content note attached to the word "brother".
+
+==See also==
+* [[Wikipedia:Citation templates]] – related templates
+* [[Wikipedia:Citing sources]] – style guide
+* [[Wikipedia:WikiProject Wikicite]]
+* [[Template:Cite book]]
+* [[Template:Cite news]]
+* [[Template:Notelist]] - The widespread explanatory footnote system as an alternative
+
+<includeonly>{{Sandbox other||
+<!-- CATEGORIES AND INTERWIKIS BELOW THIS LINE PLEASE -->
+[[Category:Explanatory footnote templates]]
+[[Category:Inline templates|{{PAGENAME}}]]
+
+[[he:תבנית:Cnote]]
+[[ja:Template:Cnote]]
+}}</includeonly>

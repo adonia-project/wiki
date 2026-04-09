@@ -1,0 +1,25 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Brunei
+| flag alias = Flag of Brunei.svg
+| flag alias-old = Old Flag of Brunei.svg
+| flag alias-1906 = Flag of Brunei 1906-1959.svg
+| flag alias-naval = Naval Ensign of Brunei.svg
+| link alias-naval = Royal Brunei Navy
+| flag alias-army = Royal Brunei Land Force (RBLF) - Tentera Darat Diraja Brunei (TDDB) ensign.svg
+| link alias-army = Royal Brunei Land Force
+| flag alias-air force = Ensign of the Royal Brunei Air Force.svg
+| link alias-air force = Royal Brunei Air Force
+| flag alias-navy = Naval Ensign of Brunei.svg
+| link alias-navy = Royal Brunei Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = old
+| var2 = 1906
+| redir1 = BRN
+| redir2 = BRU
+| redir3 = Brunei Darussalam
+</noinclude>
+}}

@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Cape Verde
+| flag alias = Flag of Cape Verde.svg
+| flag alias-1975 = Flag of Cape Verde (1975-1992).svg
+| link alias-naval = Cape Verdean Armed Forces{{!}}Cape Verdean Coast Guard
+| flag alias-naval = Flag of the Cape Verdean Coast Guard.svg
+| link alias-army = Cape Verdean Armed Forces{{!}}Cape Verdean National Guard
+| flag alias-army = Flag of the Cape Verdean National Guard.svg
+| link alias-navy = Cape Verdean Armed Forces{{!}}Cape Verdean Coast Guard
+| flag alias-navy = Flag of the Cape Verdean Coast Guard.svg
+| link alias-military = Cape Verdean Armed Forces
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1975
+| redir1 = CPV
+| redir2 = Cabo Verde
+</noinclude>
+}}

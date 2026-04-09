@@ -1,0 +1,32 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = United States
+| flag alias = US Flag.png
+| flag alias-1777 = Flag of the United States (1777–1795).svg
+| flag alias-1782 = Grand Union Flag.svg
+| flag alias-armed forces = United States Military Flag.png
+| flag alias-space force = United States Space Force Flag.png
+| flag alias-naval = United States Naval Flag.png
+| flag alias-air force = United States Air Force Ensign.png
+| flag alias-coast guard = Ensign of the United States Coast Guard.svg
+| link alias-naval = {{#ifeq:{{{variant|}}}|coast guard|United States Coast Guard|United States Navy}}
+| flag alias-army = United States Army Flag.png
+| link alias-football = United States {{{age|}}} {{{mw|men's}}} national soccer team
+| link alias-basketball = United States {{{mw|men's}}} national basketball team
+| link alias-field hockey = United States {{{mw|men's}}} national field hockey team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1777
+| var2 = 1782
+| var3 = coast guard
+| var4 = armed forces
+| var5 = space force
+| redir1 = USA
+| redir2 = US
+| redir3 = United States of America
+| redir4 = U.S.
+</noinclude>
+}}

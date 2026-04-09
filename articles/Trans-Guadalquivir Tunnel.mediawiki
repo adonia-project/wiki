@@ -1,0 +1,38 @@
+{{Short description|Railway tunnel beneath the Guadalquivir of Balisca}}
+{{Infobox tunnel
+|name=Trans-Guadalquivir Tunnel
+|image=Trans-Guadalquivir Tunnel entrance (south).jpg
+|caption=Entrance to the Trans-Guadalquivir Tunnel from the [[Luzamontaña]] side
+|line=
+|location=Beneath the [[Guadalquivir]]
+|coordinates=
+|system=
+|status=Active
+|start=[[Jatiel]], [[Luzamontaña]], [[Araucaria]]
+|end=[[Orquívoro]], [[Piedmont]], [[Hesperia]]
+|stations=
+|opened={{start date and age|2009|3|28|df=yes}}
+|owner=[[Confederal Railway Construction, Transport and Technology Agency]]
+|operator={{ric|Transatlántida|name=g}}
+|character=Passenger and freight
+|linelength=
+|tracklength={{Indented plainlist|
+* {{cvt|14.28|km}}
+* {{cvt|7.79|km}} undersea
+}}|notrack=Double track rail tunnel|gauge={{Indented plainlist|
+* [[Dual gauge]]
+* {{Track gauge|sg|allk=on}} for [[AVB]]
+* {{Track gauge|1067mm|lk=on}} [[w:narrow-gauge railway|narrow gauge]] for freight
+}}|el={{25 kV 50 Hz|conductor=overhead}}|speed={{Plainlist|
+* Normal: {{cvt|160|km/h|round=5}}
+* During major holidays: {{cvt|260|km/h|round=5}}
+}}|hielevation=|lowelevation=}}
+
+The '''Trans-Guadalquivir Tunnel''' ({{langx|bl|Túnel Trans-Guadalquivir}}, {{langx|mxi|تُونِيلْ تْرَانْسْ - غْوَادَالَكِيبِيرْ|Túnel Trans-Ḡwadalquibír}}) is a {{convert|14.28|km|mich|adj=on}} [[W:Dual gauge|dual-gauge]] railway tunnel in [[Balisca]], with a {{convert|7.79|km|mich|adj=on}} segment running beneath the seabed of the [[Guadalquivir]], which separates the region of [[Piedmont]], on the Guadalquivir's northern shore, from the region [[Luzamontaña]] on it's southern shore. The tunnel's track level lies approximately {{convert|100|m|-1}} below the seabed and {{convert|240|m}} below sea level.
+
+The Trans-Guadalquivir forms part of the standard-gauge [[Atlantic Axis high-speed rail line|HSR Atlantic Axis]] as well as the narrow-gauge [[Libánti Line]] operated by ''[[Transatlántida]]'' (BR Central), and forms a critical portion of the [[Trans-Atlántido Link]].
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Transport in Balisca]]

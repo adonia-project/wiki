@@ -1,0 +1,67 @@
+{{Under construction |placedby=MyNameJuls |section= |nosection= |nocat= |notready= |comment=FOR PROJECT BASIS ~ NAME SUBJECT TO CHANGE |category= |altimage= |notify= }}
+{{Infobox continent
+|title               = Daroch
+|image               = [[File:Location Daroch.svg|220px]]
+|area                = {{convert|1|km2|sqmi|abbr=on}}
+|population          = 1 ({{abbr|2440|2027 (Earth Year Equivalent)}}, [[List of continents by population|?th]])
+|density             = {{convert|1|/km2|/sqmi|abbr=on}}
+|demonym             = [[Ethnic groups in Daroch|Darochians]]
+|countries           = TBD countries
+|list_countries      = List of Darochian countries
+|dependencies        = [[List of Darochian countries#Dependent territories|TBD dependencies]]
+|languages           = [[Languages of Daroch|TBD languages]]
+|time                = [[TBD]]
+|internet            = [[.daroch]]
+|cities              = [[List of the largest cities in Daroch|List of urban areas]]
+}}
+
+'''Daroch''' is a continent on [[Basis]]. 
+
+==Etymology==
+
+==History==
+{{Main|History of Daroch}}
+
+===Chronology===
+*Stone Age (before {{abbr|8000 BCE|6646 BCE (Earth Year Equivalent)}}): Early humans arrive (or were already there?)
+*Neolitic (c. {{abbr|8000 BCE|6646 BCE (Earth Year Equivalent)}} – {{abbr|5000 BCE|4153 BCE (Earth Year Equivalent)}}): Early farming societies emerge in [[CRADLE OF CIV]]. 
+*Copper Age (c. {{abbr|5000 BCE|4153 BCE (Earth Year Equivalent)}} – {{abbr|2400 BCE|1994 BCE (Earth Year Equivalent)}}): TBD
+*Bronze Age (c. {{abbr|2400 BCE|1994 BCE (Earth Year Equivalent)}} – {{abbr|1000 BCE|831 BCE (Earth Year Equivalent)}}): TBD
+*Iron Age (c. {{abbr|1450 BCE|1205 BCE (Earth Year Equivalent)}} – {{abbr|350 BCE|291 BCE (Earth Year Equivalent)}}): TBD
+*Antiquity (c. {{abbr|350 BCE|291 BCE (Earth Year Equivalent)}} – {{abbr|900 BCE|748 BCE (Earth Year Equivalent)}}): TBD
+*Middle Ages (c. {{abbr|900 BCE|748 BCE (Earth Year Equivalent)}} – {{abbr|1800|1495 (Earth Year Equivalent)}}): TBD
+*Post-medieval period (c. {{abbr|1800|1495 (Earth Year Equivalent)}} – c. {{abbr|2200|1828 (Earth Year Equivalent)}}): TBD
+*Industrial/Modern (c. {{abbr|2200|1828 (Earth Year Equivalent)}} – Present): TBD
+
+==Geography==
+
+===Climate===
+
+==Politics==
+
+==List of states and territories==
+{| class="sortable wikitable"
+! style="line-height:95%; width:2em" class="unsortable" scope="col" | Symbol
+! style="line-height:95%; width:2em" class="unsortable" scope="col" | Flag
+! Name
+! [[List of countries by population|Population]]<br />({{abbr|2440|2027 (Earth Year Equivalent)}})
+! [[List of countries and dependencies by area|Area]]<br />(km<sup>2</sup>)
+! Capital
+|-
+| style="text-align:center;"| [[File:Coat of arms of Kibabi.png|20px|link=Coat of arms of Kibabi|alt=Emblem]]
+| style="text-align:center;"| {{Linkflag|Kibabi|link=Flag of Kibabi}}
+| [[Kibabi]]
+| style="text-align:right;"| 8,738,279
+| style="text-align:right;"| 1
+| [[TBD]]
+|-
+|}
+
+==Economy==
+==Demographics==
+===Languages===
+===Religions===
+==Culture==
+==See also==
+
+[[Category:Daroch]][[Category:Basis]][[Category:MyNameJuls]]

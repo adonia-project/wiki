@@ -1,0 +1,11 @@
+{{{{{|safesubst:}}}#invoke:Unsubst-infobox||$params=type,header,file,description|$extra=header,description|$indent=1|$B={{#if:{{{file|}}}|{{Infobox
+| bodyclass     = noprint
+| child         = <includeonly>yes</includeonly>
+| headerstyle   = background: {{Infobox album/color|{{{type|}}}}}
+| header1       = {{#switch:{{{header}}}|no|none=|{{if empty|{{{header|}}}|Audio sample}}}}
+| rowcellstyle2 = padding-top:1em
+| rowclass2     = haudio
+| data2         = <div style="display:inline-block;">{{#invoke:InfoboxImage|InfoboxImage|image={{{file}}}|center=yes}}</div>{{#if:{{{description|}}}|<div class="description">{{{description}}}</div>}}{{hlist|[[:File:{{PAGENAME:{{{file}}}}}|file]]|[[Help:Media|help]]}}{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Category:Articles with hAudio microformats]]}}
+}}}}}}<noinclude>
+{{documentation}}
+</noinclude>

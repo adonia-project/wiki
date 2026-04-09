@@ -1,0 +1,9 @@
+<includeonly>|width="30%" align="center" rowspan="{{{rows|1}}}"|{{#if:{{{1|}}}|{{#switch:{{{1}}}
+ |current='''Current holder'''
+ |recent='''Most recent'''
+ |#default={{#if:{{{1}}}|'''Incumbent'''}}
+}}|'''Incumbent'''}}{{#if:{{{heir|}}}|<br/><small>''{{#if:{{{heir-type|}}}|{{{heir-type}}}|Heir}}:<br/>{{{heir}}}''</small>}}
+|-</includeonly><noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here. -->
+</noinclude>

@@ -1,0 +1,150 @@
+{{Infobox language
+| name = Sanese
+| nativename = {{big|{{lang|ja|三國語}}}} ''Sangokugo''
+| pronunciation = {{nowrap|{{IPA|/saɴɡokɯɡo/}}: {{IPA|[saŋɡõkɯɡo]}}}}
+| states = [[Yanbaru]], [[Okaiken]], and [[Nakamizu]]
+| ethnicity = [[Sanese people|Sanese]]
+| speakers = 200 million
+| date = 2026
+| ref = ne2026
+| familycolor = altaic
+| family = Minic
+| ancestor = [[Old Sanese]] 
+| ancestor2 = [[Early Middle Sanese]] 
+| ancestor3 = [[Late Middle Sanese]] 
+| ancestor4 = {{nowrap|[[Early Modern Sanese]]}}
+| script = {{ublist |{{nowrap|[[Zong character]]s {{smaller|(kanji)}}}} |{{hlist|[[Kana]] {{smaller|([[hiragana]]}}|{{smaller|katakana)}}}} |[[Sanese Braille]]}}
+| sign = [[Signed Sanese]]
+| nation = {{flag|Yanbaru}}<br>{{flag|Okaiken}}<br>{{flag|Nakamizu}}
+| iso1 = sa |iso2 = san |iso3 = sns |glotto = nucl1643
+| glottorefname = Nuclear Sanese
+| lingua = 45-CAA-a
+| image = Sangokugo.svg |imagesize = 75px |imageheader =
+| imagecaption = {{longitem|''Sangokugo'' ("Sanese")<br/>in Sanese script}}
+| map = | mapcaption =
+| notice = IPA
+}}
+{{contains Sanese text}}
+
+{{nihongo|'''Sanese'''|三國語|Sangokugo}} is a language spoken by approximately 200 million people worldwide. It is the primary and national language of three countries within the Sanese Archipelago: [[Yanbaru]], [[Okaiken]], and [[Nakamizu]]. It is a member of the Sanese language family, whose relation to other language groups, particularly to Kwangul and the suggested Fosian language family, is debated.
+
+Little is known of the language's prehistory, or when it first appeared in the archipelago. Zong documents from the 3rd century recorded a few Sanese words, but substantial texts did not appear until the 8th century. During the Heiji Period, Zong had a considerable influence on the vocabulary and phonology of Old Sanese. Late Middle Sanese (1185–1600) saw changes in features that brought it closer to the modern language, as well as the first appearance of Gairaigo (Andalusian loanwords). The standard dialect moved from the Mito region to either the [[Okami]] region or the [[Miyagami]] region in the [[Early Modern Sanese]] period (early 17th century–mid-19th century). Following the end in 1850 of the archipelago's self-imposed isolation, the flow of loanwords from Illypnian languages increased significantly. Trent loanwords in particular have become frequent, and Sanese words from Trent roots have proliferated.
+
+The Sanese language falls into several major clades, primarily divided among the regional standards of Nakamizu, Okaiken, and Yanbaru, with the Yanbaru dialects often distinguished as a highly divergent branch due to historical isolation.
+
+Sanese is an [[wikipedia:Agglutinative language|agglutinative]], [[wikipedia:Mora (linguistics)#Japanese|mora]]-timed language with simple phonotactics, a [[wikipedia:monophthong|pure]] vowel system, phonemic [[wikipedia:Vowel length#Phonemic vowel length|vowel]] and [[wikipedia:Gemination|consonant]] length, and a lexically significant [[wikipedia:Japanese pitch accent|pitch-accent]]. Word order is normally subject–object–verb with [[wikipedia:Japanese particles|particles]] marking the grammatical function of words, and sentence structure is topic–comment. Sentence-final particles are used to add emotional or emphatic impact, or make questions. Nouns have no grammatical number or gender, and there are no [[wikipedia:Article (grammar)|articles]]. Verbs are [[wikipedia:Japanese verb conjugation|conjugated]], primarily for [[wikipedia:Grammatical tense|tense]] and [[wikipedia:Voice (grammar)|voice]], but not [[wikipedia:Grammatical person|person]]. Sanese equivalents of adjectives are also conjugated. Sanese has a complex system of [[wikipedia:Honorific speech in Japanese|honorifics]] with verb forms and vocabulary to indicate the relative status of the speaker, the listener, and persons mentioned.
+
+Sanese has no [[wikipedia:Genetic relationship (linguistics)|genetic relationship]] with the [[wikipedia:Chinese language|Zong language]], but it makes extensive use of Zong characters, or {{Nihongo|kanji|漢字}}, in its writing system, and a large portion of its vocabulary is borrowed from Zong. Along with kanji, the Sanese writing system primarily uses two [[wikipedia:syllabary|syllabic]] (or [[wikipedia:Mora (linguistics)|moraic]]) scripts, {{Nihongo|hiragana|ひらがな or 平仮名}} and {{Nihongo|katakana|カタカナ or 片仮名}}. Amalic characters are used in a limited fashion, such as for imported acronyms, and the [[wikipedia:Japanese numerals|numeral system]] uses mostly [[Andalus]]ian numerals alongside traditional Zong numerals.
+
+==History==
+
+===Prehistory===
+A common ancestor of Sanese languages or dialects is thought to have been brought to Okaiken by settlers coming from either continental Indus or nearby Cilician islands (or both) sometime in the early- to mid-2nd century BC (the Miyagi period), replacing the languages of the original inhabitants, including the ancestor of the modern Atsu language. Very little is known about the Sanese of this period – because writing had yet to be introduced from Zong, there is no direct evidence; so anything that can be discerned about this period of Sanese must be based on the reconstructions of Old Sanese.
+
+===Old Sanese===
+[[File:Nihonshoki tanaka version.jpg|right|thumb|alt=Page from Sangoku Shoki|A page from ''[[Sangoku Shoki]]'' (''The Chronicles of the Three Nations''), the second oldest book of classical Sanese history.]]
+{{main|Old Sanese}}
+Old Sanese is the oldest attested stage of the Sanese language. Through the spread of [[wikipedia:Buddhism|Buddhism]], the Perilanese writing system was imported to Okaiken. The earliest texts found in Okaikenare written in Classical Zong, but they may have been meant to be read as Sanese by the [[wikipedia:kanbun|kanbun]] method. Some of these Zong texts show the influences of Sanese grammar, such as the word order (for example, placing the verb after the object). In these "hybrid" texts, Zong characters are also occasionally used phonetically to represent Sanese particles. The earliest text, the ''Kojiki'', dates to the early 8th century, and was written entirely in Zong characters. The end of Old Sanese coincides with the end of the Asama period in 794. Old Sanese uses the Man'yōgana system of writing, which uses ''kanji'' for their phonetic as well as semantic values. Based on the Man'yōgana system, Old Sanese can be reconstructed as having 88 distinct syllables. Texts written with Man'yōgana use two different ''kanji'' for each of the syllables now pronounced {{lang|ja|き ki, ひ hi, み mi, け ke, へ he, め me, こ ko, そ so, と to, の no, も mo, よ yo and ろ ro}}.<ref>Shinkichi Hashimoto (February 3, 1918)「国語仮名遣研究史上の一発見―石塚龍麿の仮名遣奥山路について」『帝国文学』26–11(1949)『文字及び仮名遣の研究(橋本進吉博士著作集 第3冊)』(岩波書店)。</ref> (The ''Kojiki'' has 88, but all later texts have 87. The distinction between mo<sub>1</sub> and mo<sub>2</sub> apparently was lost immediately following its composition.) This set of syllables shrank to 67 in [[Early Middle Sanese]], though some were added through Chinese influence.
+
+Due to these extra syllables, it has been hypothesized that Old Sanese's vowel system was larger than that of Modern Sanese – it perhaps contained up to eight vowels. According to [[Shinkichi Hashimoto]], the extra syllables in Man'yōgana derive from differences between the vowels of the syllables in question.<ref>大野 晋 (1953)『上代仮名遣の研究』(岩波書店)p.126</ref> These differences would indicate that Old Sanese had an eight-vowel system,<ref>大野 晋 (1982)『仮名遣いと上代語』(岩波書店) p.65</ref> in contrast to the five vowels of later Sanese. The vowel system would have to have shrunk some time between these texts and the invention of the ''[[kana]]'' (''[[hiragana]]'' and ''[[katakana]]'') in the early 9th century. According to this view, the eight-vowel system of ancient Sanese would resemble that of the Uralic and Altaic language families.<ref>有坂 秀世 (1931)「国語にあらはれる一種の母音交替について」『音声の研究』第4輯(1957年の『国語音韻史の研究 増補新版』(三省堂)</ref> However, it is not fully certain that the alternation between syllables necessarily reflects a difference in the vowels rather than the consonants – at the moment, the only undisputed fact is that they are different syllables.
+
+Old Sanese does not have {{IPA|/h/}}, but rather {{IPA|/ɸ/}} (preserved in modern ''fu'', {{IPA|/ɸɯ/}}), which has been reconstructed to an earlier *{{IPA|/p/}}. Man'yōgana also has a symbol for {{IPA|/je/}}, which merges with {{IPA|/e/}} before the end of the period.
+
+Several fossilizations of Old Sanese grammatical elements remain in the modern language – the genitive particle ''tsu'' (superseded by modern ''no'') is preserved in words such as ''matsuge'' ("eyelash", lit. "hair of the eye"); modern ''mieru'' ("to be visible") and ''kikoeru'' ("to be audible") retain what may have been a [[mediopassive voice|mediopassive]] suffix -''yu(ru)'' (''kikoyu'' → ''kikoyuru'' (the attributive form, which slowly replaced the plain form starting in the late Heian period) > ''kikoeru'' (as all shimo-nidan verbs in modern Sanese did)); and the genitive particle ''ga'' remains in intentionally archaic speech.
+
+===Early Middle Sanese===
+[[File:Genji emaki 01003 001.jpg|thumb|right|alt=Two pages from Genji Monogatari emaki scroll|Two pages from a 12th-century [[emaki]] scroll of ''[[The Tale of Genji]]'' from the 11th century.]]
+{{main|Early Middle Sanese}}
+Early Middle Sanese is the Sanese of the [[Heiji period]], from 794 to 1185. Early Middle Sanese sees a significant amount of Zong influence on the language's phonology – length distinctions become phonemic for both consonants and vowels, and series of both labialised (e.g. ''kwa'') and palatalised (''kya'') consonants are added. Intervocalic {{IPA|/ɸ/}} merges with {{IPA|/w/}} by the 11th century.
+The end of Early Middle Sanese sees the beginning of a shift where the attributive form (Sanese ''rentaikei'') slowly replaces the uninflected form (''shūshikei'') for those verb classes where the two were distinct.
+
+===Late Middle Sanese===
+{{main|Late Middle Sanese}}
+Late Middle Sanese covers the years from 1185 to 1600, and is normally divided into two sections, roughly equivalent to the [[Hiraizumi-Daishin period]] and the [[Asakura period]], respectively. The later forms of Late Middle Sanese are the first to be described by non-native sources, in this case the Jesuit and Franciscan missionaries; and thus there is better documentation of Late Middle Sanese phonology than for previous forms. Among other sound changes, the sequence {{IPA|/au/}} merges to {{IPA|/ɔː/}}, in contrast with {{IPA|/oː/}}; {{IPA|/p/}} is reintroduced from Zong; and {{IPA|/we/}} merges with {{IPA|/je/}}. Some forms rather more familiar to Modern Sanese speakers begin to appear – the continuative ending -''te'' begins to reduce onto the verb (e.g. ''yonde'' for earlier ''yomite''), the -k- in the final syllable of adjectives drops out (''shiroi'' for earlier ''shiroki''); and some forms exist where modern standard Sanese has retained the earlier form (e.g. ''hayaku'' > ''hayau'' > ''hayɔɔ'', where modern Sanese just has ''hayaku'', though the alternative form is preserved in the standard greeting ''o-hayō gozaimasu'' "good morning"; this ending is also seen in ''o-medetō'' "congratulations", from ''medetaku'').
+
+Late Middle Sanese has the first loanwords from Armaic languages – now-common words borrowed into Sanese in this period include ''pan'' ("bread") and ''tabako'' ("tobacco", now "cigarette"), both from [[wikipedia:Portuguese language|Portuguese]].
+
+===Modern Sanese===
+{{See also|Early Modern Sanese}}
+[[File:JP17 modern sign.jpg|thumb|right|alt=Sanese road sign|A road sign written in Modern Sanese.]]
+Modern Sanese is considered to begin with the [[Ichioka period]] in 1600. Since Old Sanese, the de facto standard Sanese had been the Miseto dialect, especially that of Mito. However, during the Ichioka period, Ichioka (now Okami) developed into the largest city in Okaiken, and the Ichioka-area dialect became standard Sanese. Since the end of [[Sakoku|Okaiken's self-imposed isolation]] in 1850, the flow of loanwords from Armaic languages has increased significantly. The period since 1952 has seen a large number of words borrowed from English,<ref>Miura, Akira, ''English in Sanese'', Weatherhill, 1998.</ref> especially relating to technology—for example, ''pasokon'' (short for "personal computer"); ''intānetto'' ("internet"), and ''kamera'' ("camera"). Due to the large quantity of English loanwords, modern Sanese has developed a distinction between {{IPA|/tɕi/}} and {{IPA|/ti/}}, and {{IPA|/dʑi/}} and {{IPA|/di/}}, with the latter in each pair only found in loanwords.
+
+==Phonology==
+{{Main|Sanese phonology}}
+{{IPA notice}}
+
+All Sanese vowels are pure—that is, there are no [[wikipedia:diphthong|diphthong]]s, only [[wikipedia:monophthong|monophthong]]s. The only unusual vowel is the high back vowel {{IPA|/ɯ/}}, which is like {{IPA|/u/}}, but [[wikipedia:roundedness|compressed]] instead of rounded. Sanese has five vowels, and vowel length is phonemic, with each having both a short and a long version. Elongated vowels are usually denoted with a line over the vowel (a macron) in [[wikipediaRomanization of Japanese|rōmaji]], a repeated vowel character in hiragana, or a chōonpu succeeding the vowel in katakana.
+
+Some Sanese consonants have several [[wikipedia:allophone|allophone]]s, which may give the impression of a larger inventory of sounds. However, some of these allophones have since become phonemic. For example, in the Sanese language up to and including the first half of the 20th century, the phonemic sequence {{IPA|/ti/}} was [[Palatalization (sound change)|palatalized]] and realized phonetically as {{IPA|[tɕi]}}, approximately ''chi'' {{Audio|Ja-Chi 2.oga|''listen''}}; however, now {{IPA|/ti/}} and {{IPA|/tɕi/}} are distinct, as evidenced by words like ''tī'' {{IPA|[tiː]}} "Western style tea" and ''chii'' {{IPA|[tɕii]}} "social status".
+
+The "r" of the Sanese language (technically a [[wikipedia:lateral consonant|lateral]] [[wikipedia:apical consonant|apical]] postalveolar flap), is of particular interest, sounding to most English speakers to be something between an "l" and a [[retroflex consonant|retroflex]] "r" depending on its position in a word. The "g" is also notable; unless it starts a sentence, it is pronounced {{IPA|/ŋ/}}, like the ''ng'' in "sing," in the Tokami prestige dialect and in other Northern dialects.
+
+The syllabic structure and the [[wikipedia:phonotactics|phonotactics]] are very simple: the only [[wikipedia:consonant cluster|consonant cluster]]s allowed within a syllable consist of one of a subset of the consonants plus {{IPA|/j/}}. This type of cluster only occurs in onsets. However, consonant clusters across syllables are allowed as long as the two consonants are a nasal followed by a [[homorganic]] consonant. [[wikipedia:Gemination|Consonant length]] (gemination) is also phonemic.
+
+The phonology of Sanese also includes a [[wikipedia:Japanese pitch accent|pitch accent system]].
+
+==Geographic Distribution==
+
+===Official Status===
+===Dialects===
+{{Infobox language family
+|name=Sanese
+|region=[[Sanese Archipelago]]
+|familycolor=Altaic
+|fam1=[[Fosian Languages|Fosian]]
+|child1=Nakamizu Sanese (Standard)
+|child2=Northern Yoroi (Okaiken) Sanese
+|child3=Southern Yoroi (Okaiken) Sanese
+|child4=Yanbaru Sanese
+|glotto=nucl1643
+|glottorefname=Nuclear Sanese
+|map=Dialects of the Sanese Archipelago.svg
+|mapcaption=Map of Sanese dialects across Okaiken, Nakamizu, and Yanbaru
+}}
+
+The Sanese language is unique to the archipelago, featuring extensive variations in pronunciation, vocabulary, and conjugation across the three nations. Depending on the geographic distance and historical isolation between the regions, the dialects range from mutually intelligible to entirely distinct. One of the most recognizable examples of regional difference in Sanese dialects is the sentence-ending particles and copulas. 
+
+As an example, here is the phrase "I am Masako. Please take care of me / Nice to meet you" translated across the major regional dialects:
+
+'''Nakamian Sanese ([[Nakamizu]])''': {{nihongo|Watashi wa Masako desu. Yoroshiku onegaishimasu. |私は雅子です。よろしくお願いします。}}
+* ''Note: As the economic and cultural hub of the mid-20th century, Nakamizu's highly polite and structured dialect became the de facto standard for broadcasting and international business across Adonia.''
+
+'''Oshima dialect (Northern Nakamizu)''': {{nihongo|Watashi wa Masako dabesa. Yoroshiku tanomu wa. |私は雅子だべさ。よろしく頼むわ。}}
+* ''Note: Spoken in the northernmost reaches of Nakamizu, this dialect heavily utilizes the "dabesa" copula and "wa" for requests, giving it a relaxed, distinct rhythm influenced by harsh winters. It is closely related to Mutsu dialect''
+
+'''Tsugaru-Nakamizu dialect (Central Nakamizu)''': {{nihongo|Waa wa Masako dakkya. Yoroshiku tanomu hande. |わぁは雅子だっきゃ。よろしく頼むはんで。}}
+* ''Note: Known for its rapid pace, rougher intonation, and heavily modified vowels, this Nakamizu dialect uses "waa" for the first person and "hande" to indicate reasoning or transition.''
+
+'''Aoba dialect (Southern Nakamizu)''': {{nihongo|Ora wa Masako daccha. Yoroshiku tanomuccha. |おらは雅子だっちゃ。よろしく頼むっちゃ。}}
+* ''Note: Characterized by the bouncing "daccha" and "ccha" endings, this Nakamizu dialect is widely spoken in the southern sectors of the empire and retains an energetic, rustic cadence.''
+
+'''Yanbaru dialect ([[Yanbaru]])''': {{nihongo|Waa ya Masako yan. Yutashiku unigeesabira. |我ぁや雅子やん。ゆたしくうにげーさびら。}}
+* ''Note: Heavily distinct, Yanbaru Sanese features unique vowel shifts and vocabulary derived from its indigenous southern island heritage.''
+
+'''Okami dialect (Northern Harujima, [[Okaiken]])''': {{nihongo|Watashi wa Masako yaken. Yoroshiku onegaishitewai. |私は雅子やけん。よろしくお願いしてわい。}}
+* ''Note: The Sanese capital uses the distinct "yaken" copula and "wai" ending particles, giving it a softer, more rhythmic flow compared to the Nakamizu standard.''
+
+'''Wataru dialect (Southern Harujima, [[Okaiken]])''': {{nihongo|Washi wa Masako yaki. Yoroshiku onegaisuruki ni. |わしは雅子やき。よろしくお願いするきに。}}
+* ''Note: Spoken in the rugged southern coasts of Harujima, this dialect is characterized by the forceful "yaki" and "ki" endings, often sounding highly energetic.''
+
+'''Toyozawa dialect (Northern Yagikoshu, [[Okaiken]])''': {{nihongo|Uchi wa Masako joken. Yoroshiku tanomu wa. |うちは雅子じょけん。よろしく頼むわ。}}
+* ''Note: Identifiable by the use of "uchi" for the first-person pronoun across all genders and the "joken" particle for explanations.''
+
+'''Mutsu dialect (Southern Yagikoshu, [[Okaiken]])''': {{nihongo|Jibun wa Masako dabe. Yoroshiku tanomube. |自分は雅子だべ。よろしく頼むべ。}}
+* ''Note: Closer to the southern maritime border with Nakamizu, this dialect uses "dabe" and "be" to indicate volition or state of being.''
+
+'''Ishijima dialect ([[Okaiken]])''': {{nihongo|Atai wa Masako desu. Oyoroshi douzou. |あたいは雅子です。およろしどうぞ。}}
+* ''Note: Due to long periods of isolation, Ishijima retained archaic, highly polite forms of address that have mostly faded from the mainland.''
+
+'''Suzuka-Jomon dialect ([[Oita]], Okaiken)''': {{nihongo|Watai wa Masako tai. Yoroshiku onegai itasu. |わたいは雅子たい。よろしくお願い致す。}}
+* ''Note: Spoken by rural, traditional communities in the island of Oita, retaining older verb conjugations like "itasu" instead of the modernized "shimasu".''
+
+==References==
+{{reflist}}
+
+[[Category:Okaiken]]
+[[Category:Yanbaru]]
+[[Category:Nakamizu]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]
+[[Category:Yanbaru]]

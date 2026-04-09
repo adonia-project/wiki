@@ -1,0 +1,25 @@
+{{Navbox
+|name = Lists of prime ministers of Okaiken
+|title = Lists related to prime ministers of Okaiken
+|state = {{{state|autocollapse}}}
+|bodyclass = hlist
+|image = 
+|above = 
+
+|group1 = Premiership
+|list1 =
+* [[List of Okaiken cabinets|Cabinets]]
+* [[List of Prime Ministers of Okaiken|Order of service]]
+* [[List of Prime Ministers of Okaiken by time in office|Time in office]]
+* [[List of international trips made by prime ministers of Okaiken|International visits]]
+
+|group2 = Personal life
+|list2 =
+* [[List of Prime Ministers of OkaDaiken by home prefecture|Birth places]]
+* [[List of Prime Ministers of Okaiken by education|Education]]
+* [[List of spouses of prime ministers of Okaiken|Spouses]]
+
+}}<noinclude>
+{{navbox documentation}}
+[[Category:Okaiken political leader navigational boxes]]
+</noinclude>

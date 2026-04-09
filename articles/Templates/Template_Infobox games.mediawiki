@@ -1,0 +1,140 @@
+{{infobox
+| bodyclass = vevent
+
+| title = {{{name|}}}
+| titleclass = summary
+
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{size|}}}|alt={{{logo_alt|}}}}} 
+| caption = {{{caption|}}}
+
+| label1 = {{#if:{{{host_city|}}}|Host city|Host}}
+| data1 = {{if empty | {{{host_city|}}} | {{{host|}}} }}
+| class1 = location
+
+| label2 = Country
+| data2 = {{{country|}}}
+
+| label3 = Motto
+| data3 = {{{motto|}}}
+
+| label4 = {{#if:{{{organiser|}}}|Organiser|{{#if:{{{organizer|}}}|Organizer}}}}{{#if: {{Detect singular|{{{organiser|{{{organizer|}}}}}}}}||s}}
+| data4 = {{if empty|{{{organiser|}}}|{{{organizer|}}}}}
+
+| label5 = Edition
+| data5 = {{{edition|}}}
+
+| label6 = {{#if:{{{provinces_and_territories|}}}|Provinces and Territories|Nations}} 
+| data6 = {{if empty| {{{provinces_and_territories|}}} | {{{nations|}}} }}
+
+| label7 = Teams
+| data7 = {{{teams|}}}
+
+| label8 = Debuting countries
+| data8 = {{{debuting_countries|}}}
+
+| label9 = Athletes
+| data9 = {{{athletes|}}}
+
+| label10 = Sport{{#if: {{Detect singular|{{{sports|}}}}}||s}}
+| data10 = {{{sports|}}}
+
+| label11 = Events
+| data11 = {{{events|}}}
+
+| label12 = Opening city
+| class12 = location
+| data12 = {{{opening_city|}}}
+
+| label13 = {{#if:{{{opening_link|}}}|[[{{{opening_link|}}}|Opening]]|Opening}}
+| data13 = {{{opening|}}}
+
+| label14 = {{#if:{{{closing_link|}}}|[[{{{closing_link|}}}|Closing]]|Closing}}
+| data14 = {{{closing|}}}
+
+| label15 = Dates
+| data15 = {{{dates|}}}
+
+| label16 = Opened by
+| data16 = {{{opened_by|}}}
+
+| label17 = Closed by
+| data17 = {{{closed_by|}}}
+
+| label18 = Athlete's Oath
+| data18 = {{{athlete_oath|}}}
+
+| label19 = Judge's Oath
+| data19 = {{{judge_oath|}}}
+
+| label20 = Coach's Oath
+| data20 = {{{coach_oath|}}}
+
+| label21 = {{#if:{{{torch_label|}}}|{{{torch_label}}}|Torch lighter}}
+| data21 = {{{torch_lighter|}}}
+
+| label22 = Paralympic torch
+| data22= {{{Paralympic_torch|}}}
+
+| label23 = [[Queen's Baton Relay|Queen's Baton Final Runner]]
+| data23 = {{{Queens_Baton|}}}
+
+| label24 = Anthem
+| data24 = {{{anthem|}}}
+
+| label25 = Main venue
+| data25 = {{{stadium|}}}
+
+| label26 = Venues
+| data26 ={{{venues|}}}
+
+|label27 = Paralympic stadium
+|data27 = {{{Paralympic_stadium|}}}
+
+|label28 = Ceremony venue
+|data28 = {{{ceremony_venue|}}}
+
+|label29 = Race length
+|data29  = {{{length|}}}
+
+|label30 = Individual prize money (US$)
+|data30 = {{{ind_prize|}}}
+
+|label31 = Team prize money (US$)
+|data31 = {{{team_prize|}}}
+
+|label32 = Website
+|data32= {{{website|}}}
+
+|data33 = {{{module|}}}
+
+| header34 = {{#if:{{{SpreviousS|}}}{{{SnextS|}}}|Summer}}
+| data35 = {{succession links
+ | left = {{#if: {{{SpreviousS|}}}| {{auto link|{{{SpreviousS|}}}}} }}
+ | right = {{#if: {{{SnextS|}}}| {{auto link|{{{SnextS|}}}}} }}
+ }}
+
+| header36 = {{#if:{{{Sprevious|}}}{{{Snext|}}}|Winter}}
+| data37 = {{succession links
+ | left = {{#if: {{{Sprevious|}}}| {{auto link|{{{Sprevious|}}}}} }}
+ | right = {{#if: {{{Snext|}}}| {{auto link|{{{Snext|}}}}} }}
+ }}
+
+| header38 = {{#if:{{{Wprevious|}}}{{{Wnext|}}}|Winter}}
+| data39 = {{succession links
+ | left = {{#if: {{{Wprevious|}}}| {{auto link|{{{Wprevious|}}}}} }}
+ | right = {{#if: {{{Wnext|}}}| {{auto link|{{{Wnext|}}}}} }}
+ }}
+
+| header40 = {{#if:{{{WpreviousS|}}}{{{WnextS|}}}|Summer}}
+| data41 = {{succession links
+ | left = {{#if: {{{WpreviousS|}}}| {{auto link|{{{WpreviousS|}}}}} }}
+ | right = {{#if: {{{WnextS|}}}| {{auto link|{{{WnextS|}}}}} }}
+ }}
+
+| belowstyle = border-top: solid 1px #aaa;
+| below = {{succession links
+ | left = {{#if: {{{previous|{{{prev|}}}}}}| {{auto link|{{{previous|{{{prev|}}}}}}}} }}
+ | right = {{#if: {{{next|}}}| {{auto link|{{{next|}}}}} }}
+ }}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox games with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox games]] with unknown parameter "_VALUE_"|ignoreblank=y| anthem | athlete_oath | athletes | caption | ceremony_venue | closed_by | closing | closing_link | coach_oath | country | dates | debuting_countries | edition | events | host | host_city | ind_prize | judge_oath | length | logo | logo_alt | module | motto | name | nations | next | opened_by | opening | opening_city | opening_link | organiser | organizer | Paralympic_stadium | Paralympic_torch | prev | previous | provinces_and_territories | Queens_Baton | size | Snext | SnextS | sports | Sprevious | SpreviousS | stadium | team_prize | teams | torch_label | torch_lighter | venues | website | Wnext | WnextS | Wprevious | WpreviousS }}<noinclude>{{documentation}}</noinclude>

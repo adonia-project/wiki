@@ -1,0 +1,71 @@
+{{#ifeq: {{{raw|}}} | yes<!--
+
+If raw=yes, include a short deletion message with no message box-->
+| <b>{{ucfirst:{{terminate sentence|{{{1}}}}}}}</b>&#32;<!--
+  -->{{#if: {{{2|}}} | <i>{{terminate sentence|{{{2}}}}}</i>&#32;}}<!--
+  -->{{#ifeq:{{{criterion}}}| NA
+            |
+            | <b>See [[Wikipedia:Speedy deletion#{{uc:{{{criterion}}}}}|CSD {{uc:{{{criterion}}}}}]].</b>
+     }}<!--
+  -->{{#if: {{{rationale|}}}
+     | &#32;<span style="color:var(--color-destructive,red); font-weight:bold;">{{{rationale}}}</span>
+     }}<!--
+
+If raw != yes, then include the full deletion template with message box -->
+|{{mbox
+   | class = mbox-db
+   | type  = speedy
+   | image = none 
+   | style = font-size:95%;
+   | text  = 
+<b><i>This {{if empty|{{{pagetype_override|}}}|{{pagetype|defaultns=all}}}} {{#if:{{{bot|}}}|was tagged by [[User:{{{bot}}}|{{{bot}}}]], because it}} may meet TALOD Wiki's [[Wikipedia:Speedy deletion|criteria for speedy deletion]]</i>{{terminate sentence|{{{1}}}}}</b>&#32;{{#if:{{{2|}}}|<i>{{terminate sentence|{{{2}}}}}</i>&#32;}}{{#ifeq:{{{criterion}}}|NA||<b>See [[TALOD Wiki:Speedy deletion#{{uc:{{{criterion}}}}}|CSD {{uc:{{{criterion}}}}}]].</b>}}<span id="delete-reason" style="display:none">{{urlencode:{{#ifeq:{{{criterion}}}|NA||[[WP:CSD#{{uc:{{{criterion}}}}}|{{uc:{{{criterion}}}}}]]:}} {{{summary|}}}}}</span><span id="delete-criterion" style="display:none">{{uc:{{{criterion}}}}}</span>{{#if:{{{rationale|}}}|&#32;<span style="color:var(--color-destructive,red); font-weight:bold;">{{{rationale}}}</span>}}
+
+<p class="verbose">If this {{if empty|{{{pagetype_override|}}}|{{pagetype|defaultns=all}}}} does not meet the criteria for speedy deletion, {{#ifeq:{{{self}}}|yes|please remove this notice.<br /></p>|or you intend to fix it, please remove this notice, but '''do not remove this notice from {{#ifeq:{{NAMESPACE}}|File|files you have uploaded|pages that you have created yourself}}'''. If you {{#ifeq:{{NAMESPACE}}|File|uploaded this file|created this page}} and you disagree with the given reason for deletion, you can click the button below and leave a message explaining why you believe it should not be deleted. You can {{talk other|check back later to see|also [[{{TALKPAGENAME}}|visit the talk page]] to check}} if you have received a response to your message.
+</p>
+
+<!-- "Contest this speedy deletion" button -->
+{{#tag: inputbox |
+type=commenttitle
+default=Contested deletion
+preload=Template:Hangon preload {{#switch:{{uc:{{{criterion|NA}}}}}|G3|G10|G11|G12|G14|G15|A1|A2|A3|A7|A9|A10|A11|R3|F1|F2|F3|F4|F5|F6|F7|F8|F9|F11|C1|U7={{uc:{{{criterion}}}}}|#default=generic}}
+hidden=yes
+page={{#titleparts:{{TALKPAGENAME}}|255}}
+buttonlabel=Contest this speedy deletion
+break=no
+editintro=Template:Hangon preload editintro
+}}
+
+<p class="verbose">Note that this {{pagetype|defaultns=all}} may be deleted at any time if it unquestionably meets the speedy deletion criteria, or if an explanation {{talk other|added below this notice|posted to the talk page}} is found to be insufficient.</p><!--
+-->{{#ifeq:{{{help}}}|off||
+<!--
+
+ -- Text for the warning message to substitute on user talk pages --
+
+   -->{{#if: {{{temp|}}}
+      |
+:<small>'''''Nominator''': Please consider placing the [[Help:Template|template]]:''</small>
+:<small><code>''<nowiki>{{subst:</nowiki>[[Template:{{{temp}}}|{{{temp}}}]]<nowiki>|</nowiki>{{FULLPAGENAME}}<nowiki>|header=1</nowiki>{{{temp2|}}}<nowiki>}} </nowiki>{{#ifeq:{{{sig|x}}}|x|<nowiki>~~~~</nowiki>}}''</code></small>
+:''<small>on the talk page of the author.</small>''
+<!--
+   -->}}}}<!--
+
+ Add notice about using the talk page, or a notice for administrators if the talk page exists -->
+{{#ifeq:{{NAMESPACE}}|{{TALKSPACE}}||{{#ifexist:{{TALKPAGENAME}}|{{Hang on/notice3}}|<div class="verbose">{{Hang on/notice2}}</div>}}}}}}
+
+<!--Space for other notes -->
+{{#if:{{{notes|}}}|{{{notes}}}<br />}}<!--
+
+ -- Message for admins --
+
+--><small><span class="sysop-show">''Administrators: check [[Special:Whatlinkshere/{{FULLPAGENAME}}|links]], [[{{TALKPAGENAME}}|talk]], [{{fullurl:{{FULLPAGENAME}}|action=history}} history] ([{{fullurl:{{FULLPAGENAME}}|diff=0}} last]), and [{{fullurl:Special:Log|page={{FULLPAGENAMEE}}}} logs] before [{{fullurl:{{FULLPAGENAME}}|wpReason={{urlencode:{{#ifeq:{{{criterion}}}|NA||[[WP:CSD#{{uc:{{{criterion}}}}}|{{uc:{{{criterion}}}}}]]:}} {{{summary|}}}}}&action=delete}} deletion]{{#if:{{{bot|}}}|, as this page was tagged by a [[Wikipedia:Bot policy|bot]]}}{{#if:{{{anote|}}}|{{{anote}}}|.}} {{#ifeq:{{{self}}}|yes||Consider [[google:{{urlencode:{{PAGENAME}}}}|checking Google]].}}''<br/></span>This page was [{{fullurl:{{FULLPAGENAME}}|diff=cur}} last edited] {{#if: {{REVISIONUSER}} | by [[{{ns:2}}:{{REVISIONUSER2}}|{{REVISIONUSER2}}]] <small>{{toolbar|1=[[Special:Contributions/{{REVISIONUSER2}}|contribs]]|2=[[Special:Log/{{REVISIONUSER2}}|logs]]}}</small> }} at {{#time:H:i, j F Y (e)|{{REVISIONTIMESTAMP}}}} ([{{fullurl:{{FULLPAGENAME}}|action=purge}} {{time ago|{{REVISIONTIMESTAMP}}}}])</small><!--
+
+
+-->}}<!-- 
+ -- End main mbox code, start courtesy blanking notices and div blanking tag --
+
+-->{{#if: {{{blanked|}}} | {{mbox|image=none|text= {{{blanked-text|This page has been [[Wikipedia:Deletion policy#Courtesy blanking|blanked as a courtesy]].}}}}} |}}{{#if: {{{pleaseblank|}}} | {{mbox|type=delete|text=<big>{{red|Please [[Wikipedia:Courtesy blanking|blank this page]] so that it only contains the deletion template.}}</big>}} |}}{{#if: {{{divblank|}}} | <div id="AttackPage" style="display:none"><!--do not close this div tag; it is there to ensure that any content remaining on the page does not display --> |}}
+
+}}<!-- End if statement for "raw" parameter-->{{NOINDEX}}<noinclude>
+{{documentation}} 
+<!-- Add categories to the /doc subpage; interwikis go to Wikidata, thank you! -->
+</noinclude>

@@ -1,0 +1,218 @@
+{{Infobox
+| bodyclass  = vcard
+
+| titleclass = fn org
+| title      = {{if empty|{{{name|}}}|{{PAGENAMEBASE}}}}
+
+| subheader  = {{#if:{{{native_name|}}} |<div class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}
+
+| image      = {{#invoke:InfoboxImage|InfoboxImage |image={{if empty|{{{image|}}}|{{{image_name|}}}}}|size={{{image_size|}}} |upright={{if empty|{{{image_upright|}}}|1}} |alt={{{image_alt|}}}}}
+| caption    = {{{caption|}}}
+
+| labelstyle = padding-right:0.65em;<!--(to ensure sufficient gap between (long/unwrapped) labels and subsequent data on same line)-->
+
+<!--------------------- Names, motto ---------------------->
+| class1     = nickname
+| data1      = {{#if:{{{latin_name|}}} |{{langx|la|{{{latin_name}}}}} }}
+| label2     = {{longitem|Other name{{#if:{{{other_names|}}}|s}}}}
+| class2     = nickname
+| data2      = {{if empty|{{{other_names|}}}|{{{other_name|}}}}}
+| label3     = {{longitem|Former name{{#if:{{{former_names|}}}|s}}}}
+| class3     = nickname
+| data3      = {{if empty|{{{former_names|}}}|{{{former_name|}}}}}
+| label4     = Motto
+| data4      = {{#if:{{both|{{{motto|}}}|{{{motto_lang|}}}}}|<div lang="{{{motto_lang}}}">{{{motto}}}</div>|{{{motto|}}}}}
+| label5     = {{longitem|Motto in&nbsp;English}}
+| data5      = {{{mottoeng|}}}
+| label6     = {{{top_free_label|}}}
+| data6      = {{#if:{{{top_free_label|}}} |{{{top_free|}}} }}
+| label7     = {{{top_free_label1|}}}
+| data7      = {{#if:{{{top_free_label1|}}} |{{{top_free1}}} }}
+| label8     = {{{top_free_label2|}}}
+| data8      = {{#if:{{{top_free_label2|}}} |{{{top_free2}}} }}
+
+<!---------- Date/s, type, affiliation, finance ----------->
+| label9    = Type
+| data9     = {{{type|}}}
+| label10    = {{#if:{{{closed|}}} |Active |Established}}
+| data10     = {{#if:{{{established|}}} |{{{established}}}{{#if:{{{closed|}}}|–{{{closed}}}}} }}
+| label11    = {{#if:{{{founders|}}}|Founders|Founder}}
+| data11     = {{if empty|{{{founders|}}}|{{{founder|}}}}}
+| label12    = {{longitem|Parent institution}}
+| data12     = {{{parent|}}}
+| label13    = [[Higher education accreditation|Accreditation]]
+| data13     = {{{accreditation|}}}
+| label14    = Affiliation
+| data14     = {{{affiliation|}}}
+| label15    = {{longitem|Religious affiliation}}
+| data15     = {{{religious_affiliation|}}}
+| label16    = {{longitem|Academic {{#if:{{{academic_affiliations|}}}|affiliations|affiliation}}}}
+| data16     = {{if empty|{{{academic_affiliations|}}}|{{{academic_affiliation|}}}}}
+| label17    = [[Financial endowment|Endowment]]
+| data17     = {{{endowment|}}}
+| label18    = Budget
+| data18     = {{{budget|}}}
+
+<!--------------------- Personnel ------------------------->
+| label19    = {{longitem|Officer in charge}}
+| data19     = {{{officer_in_charge|}}}
+| label20    = [[Chair (officer)|Chair]]
+| data20     = {{{chair|}}}
+| label21    = [[Chairperson|Chairman]]
+| data21     = {{{chairman|}}}
+| label22    = [[Chairperson]]
+| data22     = {{{chairperson|}}}
+| label23    = [[Visitor]]
+| data23     = {{{visitor|}}}
+| label24    = [[Chancellor (education)|Chancellor]]
+| data24     = {{{chancellor|}}}
+| label25    = [[University president|President]]
+| data25     = {{{president|}}}
+| label26    = {{nowrap|Vice-president}}
+| data26     = {{if empty|{{{vice-president|}}}|{{{vice_president|}}}}}
+| label27    = [[Superintendent (education)|Superintendent]]
+| data27     = {{#if:{{{superintendent|}}} |{{{superintendent}}} [[Category:Pages using infobox university with the superintendent parameter]] |}}
+| label28    = {{nowrap|[[Vice-Chancellor]]}}
+| data28     = {{{vice_chancellor|}}}
+| label29    = [[Provost (education)|Provost]]
+| data29     = {{{provost|}}}
+| label30    = [[Rector (academia)|Rector]]
+| data30     = {{{rector|}}}
+| label31    = [[Principal (academia)|Principal]]
+| data31     = {{{principal|}}}
+| label32    = [[Dean (education)|Dean]]
+| data32     = {{{dean|}}}
+| label33    = Director
+| data33     = {{{director|}}}
+| label34    = {{if empty|{{{head_label|}}}|Head}}
+| data34     = {{{head|}}}
+| label35    = {{longitem|Academic staff}}
+| data35     = {{{academic_staff|}}}<!--for backwards compatibility:-->{{{faculty|}}}
+| label36    = {{longitem|Administrative staff}}
+| data36     = {{{administrative_staff|}}}
+| label37    = {{longitem|Total staff}}
+| data37     = {{{total_staff|}}}
+| label38    = Students
+| data38     = {{br separated entries|{{{students|}}}|{{{enrollment|}}}}}
+| label39    = [[Undergraduate education|Undergraduates]]
+| data39     = {{{undergrad|}}}
+| label40    = [[Postgraduate education|Postgraduates]]
+| data40     = {{{postgrad|}}}
+| label41    = {{longitem|[[Doctorate|Doctoral students]]}}
+| data41     = {{{doctoral|}}}
+| label42    = {{longitem|Other students}}
+| data42     = {{if empty|{{{other_students|}}}|{{{other|}}}}}
+
+<!------------ Location, language, {{{free}}} ------------->
+| label43    = {{#if:{{{address|}}}|Address|Location}}
+| class43    = adr
+| data43     = {{Br separated entries
+ | 1 = {{#if:{{{location|}}}
+       | <div style="display:inline" class="extended-address">{{{location}}}</div>
+       | {{Comma separated entries
+         | 1 = {{#if:{{{address|}}}|<div style="display:inline" class="street-address">{{{address}}}</div>}}
+         | 2 = {{#if:{{{city|}}}|<div style="display:inline" class="locality">{{{city}}}</div>}}
+         | 3 = {{#if:{{{canton|}}}{{{prefecture|}}}{{{province|}}}{{{region|}}}{{{state|}}}|<div style="display:inline" class="state">{{Comma separated entries|{{{canton|}}}|{{{prefecture|}}}|{{{province|}}}|{{{region|}}}|{{{state|}}}}}</div>}}
+         | 4 = {{#if:{{{postalcode|}}}{{{postcode|}}}{{{zipcode|}}}|<div style="display:inline" class="postal-code">{{If empty|{{{postalcode|}}}|{{{postcode|}}}|{{{zipcode|}}}}}</div>}}
+         | 5 = {{#if:{{{country|}}}|<div style="display:inline" class="country-name">{{{country}}}</div>}}
+         }}
+       }}
+ | 2 = {{if empty|{{{coordinates|}}}|{{{coor|}}}}}
+ }}
+| label44    = Campus
+| data44     = {{#if:{{{campus_size|}}}|{{#if:{{{campus_type|}}}{{{campus|}}}|{{if empty|{{{campus_type|}}}|{{{campus|}}}}}, {{{campus_size}}}|{{{campus_size}}}}}|{{if empty|{{{campus_type|}}}|{{{campus|}}}}}}}
+| label45    = Language
+| data45     = {{{language|}}}
+| label46    = {{if empty|{{{free_label|}}}|{{{free_label1|}}}}}
+| data46     = {{#if:{{{free_label|}}}{{{free_label1|}}} |{{{free|}}} {{{free1|}}} }}
+| label47    = {{{free_label2|}}}
+| data47     = {{#if:{{{free_label2|}}} |{{{free2}}} }}
+
+<!------------ Colo/urs, sports, website, etc ------------->
+| label48    = [[School colors|Colo{{#if:{{{colours|}}}|u}}rs]]
+| data48     = {{{colors|}}}{{{colours|}}}
+| label49    = [[Athletic nickname|Nickname]]{{#if:{{{athletics_nicknames|}}}{{{sports_nicknames|}}}|s}}
+| data49     = {{if empty|{{{athletics_nicknames|}}}|{{{sports_nicknames|}}}|{{{athletics_nickname|}}}|{{{sports_nickname|}}}|{{{nickname|}}}}}
+| label50    = {{#if:{{{athletics_affiliations|}}}{{{sporting_affiliations|}}}|{{longitem|Sporting affiliations}}|Affiliations}}
+| data50     = {{if empty|{{{athletics_affiliations|}}}|{{{sporting_affiliations|}}}|{{{affiliations|}}}}}
+| label52    = Mascot{{#if:{{{mascots|}}}|s}}
+| data52     = {{if empty|{{{mascots|}}}|{{{mascot|}}}}}
+| label53    = {{{sports_free_label|}}}
+| data53     = {{{sports_free|}}}
+| label54    = {{{sports_free_label1|}}}
+| data54     = {{{sports_free1|}}}
+| label55    = {{{sports_free_label2|}}}
+| data55     = {{{sports_free2|}}}
+| label56    = {{{sports_free_label3|}}}
+| data56     = {{{sports_free3|}}}
+| label57    = Website
+| data57     = {{{website|}}}
+| data58     = {{#invoke:InfoboxImage|InfoboxImage |image={{{logo|}}}|size={{{logo_size|}}}|upright={{{logo_upright|}}}|alt={{{logo_alt|}}}|class={{{logo_class|}}}}}
+| header59   = {{if empty|{{{nrhp|}}}|{{{embedded|}}}|{{{module|}}}}}
+
+<!-------------------- Location map ----------------------->
+| data60     = {{#if:{{{pushpin_map|}}}
+ | {{Location map|{{{pushpin_map}}}
+   | float    = center
+   | caption  = {{#if:{{{pushpin_map_caption|}}}|{{{pushpin_map_caption}}}|Location in {{#invoke:Location map|data|{{{pushpin_map}}}|name}}}}
+   | border   = infobox
+   | width    = {{if empty|{{{map_size|}}}|250}}
+   | coordinates = {{if empty|{{{coordinates|}}}|{{{coor|}}}}}
+   | position = {{{pushpin_label_position|}}}
+   }}
+ }}
+
+| data61 = {{#invoke:Infobox mapframe
+  | autoWithCaption
+  | onByDefault = {{#if:{{{pushpin_map|}}}|no|yes}}
+  | mapframe-type = landmark
+  | mapframe-marker = college
+  | mapframe-shape = yes
+}}
+
+| below      = {{{footnotes|}}}
+
+}}{{Main other|[[Category:Articles using infobox university]]
+}}{{#if:{{{image_name|}}}|{{Main other|[[Category:Pages using infobox university with the image name parameter]]}}
+}}{{#if:{{{affiliations|}}}|{{Main other|[[Category:Pages using infobox university with the affiliations parameter]]}}
+}}{{#if:{{{nickname|}}}|{{Main other|[[Category:Pages using infobox university with the nickname alias]]}}
+}}{{#invoke:check for unknown parameters|check
+|unknown={{main other|[[Category:Pages using infobox university with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox university]] with unknown parameter "_VALUE_"|ignoreblank=y|mapframe_args=y
+| academic_affiliation | academic_affiliations | academic_staff | accreditation | address | administrative_staff | affiliation | affiliations | athletics_affiliations | athletics_nickname | athletics_nicknames | budget | campus | campus_type | campus_size | canton | caption | chair | chairman | chairperson | chancellor | city | closed | colors | colours | coor | coordinates | country | dean | director | doctoral | embedded | endowment | enrollment | established | faculty | footnotes | former_name | former_names | founder | founders | free | free1 | free2 | free_label | free_label1 | free_label2 | head | head_label | image | image_alt | image_name | image_size | image_upright | language | latin_name | location | logo | logo_alt | logo_size | logo_upright | logo_class | map_size | mascot | mascots | module | motto | mottoeng | motto_lang | mottoeng | name | native_name | native_name_lang | nickname | nrhp | officer_in_charge | other | other_name | other_names | other_students | parent | postalcode | postcode | postgrad | prefecture | president | principal | province | provost | pushpin_label_position | pushpin_map | pushpin_map_caption | rector | region | religious_affiliation | sporting_affiliations | sports_free | sports_free1 | sports_free2 | sports_free3 | sports_free_label | sports_free_label1 | sports_free_label2 | sports_free_label3 | sports_nickname | sports_nicknames | state | students | superintendent | top_free | top_free1 | top_free2 | top_free_label | top_free_label1 | top_free_label2 | total_staff | type | undergrad | vice_chancellor | vice-president | vice_president | visitor | website | zipcode 
+}}<!-- 
+  tracking conflicting parameters
+-->{{#invoke:Check for conflicting parameters|check
+| template = Infobox university
+| cat = {{main other|Category:Pages using infobox university with conflicting parameters}}
+| image; image_name
+| other_names; other_name
+| former_names; former_name
+| founders; founder
+| academic_affiliations; academic_affiliation
+| academic_staff; faculty
+| campus_type; campus
+| other_students; other
+| location; address
+| location; city
+| location; address
+| location; canton
+| location; prefecture
+| location; province
+| location; region
+| location; state
+| location; country
+| location; postalcode
+| location; postcode
+| location; zipcode
+| postalcode; postcode; zipcode
+| coordinates; coor
+| colors; colours
+| free_label; free_label1
+| free; free1
+| athletics_nicknames; sports_nicknames; athletics_nickname; sports_nickname; nickname
+| athletics_affiliations; sporting_affiliations; affiliations
+| mascots; mascot
+| nrhp; embedded; module
+}}<noinclude>
+{{documentation}}
+</noinclude>

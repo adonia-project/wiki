@@ -1,0 +1,25 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Russian Empire
+| shortname alias = Russia
+| flag alias =Flag of The Russian Empire 1883.svg
+| flag alias-1858 = Romanov Flag.svg
+| flag alias-1914 = Flag of Russia (1914–1917).svg
+| flag alias-naval = Naval Ensign of Russia.svg
+| link alias-naval = Imperial Russian Navy
+| link alias-army= Imperial Russian Army
+| border-air force=
+| flag alias-air force=Russian Imperial Air force flash.svg
+| link alias-air force= Imperial Russian Air Service
+| link alias-football = Russian Empire national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+<noinclude>
+| var1 = 1858
+| var2 = 1914
+| related1 = Russia
+| related2 = Russian SFSR
+</noinclude>
+}}

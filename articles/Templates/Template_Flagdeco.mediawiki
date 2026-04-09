@@ -1,0 +1,25 @@
+<includeonly>{{#ifeq: {{Yesno-no|{{{noredlink|}}}}}|yes<!--
+   -->|<!--
+          #Check for existence of Template: Country data foo before invoking it
+      -->{{#ifexist: Template: Country data {{{1|}}}<!--
+         -->|<!--
+               # It exists, so proceed
+           -->{{country data {{{1|}}}|flagdeco/core|variant={{{variant|{{{2|}}}}}}|size={{{size|}}}}}<!--
+         -->|<!--
+               # It doesn't exist, so do nothing
+      -->}}<!--
+   -->|<!--
+          # DEFAULT call  Template: Country data {{{1|}}}
+          # with no prior checks
+     -->{{country data {{{1|}}}|flagdeco/core|variant={{{variant|{{{2|}}}}}}|size={{{size|}}}}}<!--
+          # Track use where "Template:Country data Foo" does not exist
+     -->{{#ifexist: Template:Country data {{{1|}}}||{{namespace detect showall
+| 1 = 
+| 2 = [[Category:Flagdeco with missing country data templates]]
+| user  = 1
+| talk  = 1
+| other = 2
+}}}}<!--
+-->}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

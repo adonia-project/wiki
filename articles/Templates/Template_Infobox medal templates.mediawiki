@@ -1,0 +1,11 @@
+{{#if:{{{medals|}}}|<div class="mw-collapsible {{#if:{{{expand|}}}||mw-collapsed}}" style="text-align:center; font-size:95%">
+    <div class="skin-nightmode-reset-color" style="line-height:1.6em; font-size:105%; {{{titlestyle|}}}"><!--
+     --><div style="margin:0 4em;">{{#if:{{{title|}}}|{{{title}}}|Medal record}}</div><!--
+ --></div>
+    <div class="mw-collapsible-content" style="font-size:105%"><templatestyles src="infobox/mobileviewfix.css"/>
+{{{!}} class="skin-nightmode-reset-color" style="width:100%; background-color:#f9f9f9; color:#000000; font-weight:normal"
+{{!}} colspan="2" style="padding:0" {{!}}
+{{{medals}}}
+{{!}}}
+</div></div>
+}}{{#if:{{#invoke:string2|startswith|1={{{medal_templates|}}} |2={{{!}} }}|[[Category:Infobox medal templates requiring repair]]|}}<noinclude>{{documentation}}</noinclude>

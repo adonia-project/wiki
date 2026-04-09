@@ -1,0 +1,4 @@
+long code "{{{1|foot}}}" outputs ''{{{2|{{{1|foot}}}}}}'' (and never ''{{{3|feet}}}'')
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation formatting templates|foot note]]
+</noinclude>

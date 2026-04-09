@@ -1,0 +1,32 @@
+{{#switch: {{{1}}}
+| #default                 = <nowiki>#</nowiki>C6C9FF
+| Angel                    = <nowiki>#</nowiki>7E9ED2
+| [[Buffy the Vampire Slayer (TV series)|Buffy the Vampire Slayer]]
+| Buffy the Vampire Slayer = <nowiki>#</nowiki>7E9ED2
+| [[Chuck (TV series)|Chuck]]
+| Chuck                    = <nowiki>#</nowiki>F6431A
+| Entourage                = <nowiki>#</nowiki>FBBC87
+| [[Firefly (TV series)|Firefly]]
+| Firefly                  = <nowiki>#</nowiki>FFCC99
+| [[Futurama]]
+| Futurama                 = <nowiki>#</nowiki>DEDDE2
+| Home and Away            = <nowiki>#</nowiki>F9BA5B
+| [[House (TV series)|House]]
+| House                    = <nowiki>#</nowiki>DEDEDE
+| Mad Men                  = <nowiki>#</nowiki>F52B13
+| [[The 4400]]
+| The 4400                 = <nowiki>#</nowiki>B9D0E8
+| [[The O.C.]]
+| The O.C.                 = <nowiki>#</nowiki>FFAA44
+| [[The Simpsons]]
+| The Simpsons             = <nowiki>#</nowiki>FADA00
+| [[The Sopranos]]
+| The Sopranos             = <nowiki>#</nowiki>CDCCCC
+| [[Veronica Mars]]
+| Veronica Mars            = <nowiki>#</nowiki>C0D883
+| Sex and the City         = <nowiki>#</nowiki>EAADEA
+| [[The X-Files]]
+| The X-Files              = <nowiki>#</nowiki>B1B9C2
+}}<noinclude>
+{{documentation}}
+</noinclude>

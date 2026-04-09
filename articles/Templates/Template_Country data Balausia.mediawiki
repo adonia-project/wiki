@@ -1,0 +1,12 @@
+{{safesubst<noinclude />: {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Balausia
+| flag alias = Balausia Flag.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1958
+</noinclude>
+}}

@@ -1,0 +1,1 @@
+<includeonly><div style="position:absolute;text-align:{{{text-align|center}}};left:{{#expr:{{{x|0}}}*{{{scale|1}}}-6}}px;top:{{#expr:{{{y|0}}}*{{{scale|1}}}-8}}px">{{{text}}}</div></includeonly><noinclude>

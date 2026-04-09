@@ -1,0 +1,3 @@
+<includeonly>{{#switch: {{{1|}}} |solo_singer |non_vocal_instrumentalist |non_performing_personnel |group_or_band |classical_ensemble |temporary= |{{#ifeq:{{NAMESPACE}}|{{NS:0}}|[[Category:Infobox musical artist with missing or invalid Background field]]}}}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

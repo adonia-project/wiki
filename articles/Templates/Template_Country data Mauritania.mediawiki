@@ -1,0 +1,17 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Mauritania
+| flag alias = Flag of Mauritania.svg
+| flag alias-1959=Flag of Mauritania (1959–2017).svg
+| link alias-naval = Mauritanian Navy
+| link alias-air force= Mauritania Islamic Air Force
+| link alias-navy = Mauritanian Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1959
+| redir1 = MRT
+| redir2 = MTN
+</noinclude>
+}}

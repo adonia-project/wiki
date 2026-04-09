@@ -1,0 +1,7 @@
+/* {{pp-template}} */
+body.skin-minerva .infobox caption {
+	display: table-caption;
+}
+body.skin-minerva .infobox table {
+	display: table;
+}

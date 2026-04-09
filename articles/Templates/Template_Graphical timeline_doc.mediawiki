@@ -1,0 +1,603 @@
+{{Documentation subpage}}
+{{nutshell|
+*This template constructs a vertically arranged timeline. The editor defines 2D rectangles (bars) and optional annotations (notes).
+*The header is customizable. A scale appears on the left, and annotations appear on the right. An optional legend appears at the foot.
+*Has built-in compatibility for [[Geological time scale|geological divisions]].
+*Use {{tl|Include timeline}} in the main article for assisted generation.
+*Type <code><nowiki>{{Graphical timeline|help=on}}</nowiki></code> into a page, then press preview for a ready-to-go template.}}
+{{Lua|Module:Graphical timeline}}
+
+==The easy way==
+Type {{tlx|include timeline}} in your article, press preview, and follow the link generated. You'll be presented with a ready-to-go template; once this is finished, return to your article, and { {include timeline} } will display your timeline.
+
+==Development==
+As of May 2021, the template has been converted to Lua and is now implemented at [[Module:Graphical timeline]]. New features include:
+* Unlimited numbered parameters --- use note435, note34234532, whatever is convenient
+* HTML size, memory, and run-time are all proportional to the number of items, not the number of potential items
+* Incorrect HTML and fragile CSS now cleaned up
+* Annotation text now automatically aligned with arrows ({{para|disable-arrow-align|true}} to turn off)
+* Box text now automatically centered ({{para|disable-box-align|true}} to turn off)
+
+==Template function==
+This template provides an intuitive, user-friendly and flexible way to insert timelines into articles. It's designed to require the minimum number of variables, and to generate an HTML table.
+
+==Why use this template?==
+The alternative to this template is [[m:EasyTimeline]], using the <nowiki><template></nowiki> syntax. EasyTimeline has the following weaknesses:
+
+* Pixelated image produced, which looks different and increases page load time
+* Long set-up time – taking 30 minutes plus even when you know what you are doing
+* Impenetrable code requiring precise syntax
+* Difficult to place bars exactly where you want them
+* Changing minimum dates and sizes requires modification in many places
+* Everything must be specified – nothing is automatic
+* It is not scalable – it does not enlarge with text size.
+
+==Using the template==
+
+===Where to use it===
+Whilst short timelines can be inserted directly into the article, some editors complain that long, complex timelines break up the flow of the page and make editing difficult. Therefore, you may want to use {{tl|Include timeline}} to host the timeline code on a separate page, which will be automatically included.
+
+===Getting started===
+You can set the switch <code>|help=on</code> in the template to produce some quick pointers.<br> When you are getting started, you might want to use <code><nowiki>{{Graphical timeline|help=on}}</nowiki></code> to generate a ready-made, empty template – or type <code><nowiki>{{subst:Graphical timeline/blank}}</nowiki></code> into a sandbox page, save the page, and edit the resulting code. Hopefully, the parameter names are pretty self-explanatory.
+
+===What numbers mean===
+Numeric values are by default in units of [[em (typography)|em]], that is, the height and width of a capital M.
+
+The exception to this is the left and right parameters of a bar, which are set using fractional coordinates. That is to say, the code
+ |bar1-right=0.5 
+ |bar2-left=0.666
+ |bar3-left=0.5
+ |bar3-right=0.666
+...will produce bar1 covering the left half of the area, bar2 covering the right-most third, and bar3 in between them. Further, for operational reasons, the height-units are always used to generate border widths.
+
+===Bar borders===
+Borders appear only on the top and bottom of any given bar. Unfortunately, this cannot be changed – to have a border at the top or bottom only of a bar, you should create a separate bar to overlay the end. 
+
+Border style can be set to the [[CSS]] standards of <code>solid, dotted, dashed, double, groove, ridge, inset</code> or <code>outset</code>. Width is in the same units as height, and if none is specified 0.1 to 0.2 is a suitable hairline value.
+
+===Blank parameters===
+Leaving a parameter blank is NOT the same as not specifying it – it will override the template's default value. Be sure to remove any lines you do not specify.
+
+===Geological periods===
+To draw a geological period, use the syntax |period3=Cenozoic, with |period3-left=0.1 as usual.  The template will then calculate the beginning, end and correct color of the bar.  For an example, see {{tiw|Cenozoic graphical timeline}}
+
+===Considerations===
+
+====Browsers====
+Unfortunately, different browsers have different ways of dealing with lines of text that overflow their container – some stretch the container whilst others wrap the text. This means it's probably worth checking your finished timeline in at least [[Internet Explorer|IE]] and [[Mozilla Firefox|Firefox]] if you are making a particularly complex timeline.
+
+====Colors====
+If you are setting colors using html values that look like <code>#e0b539</code>, do consider that some older monitors, and many projectors, cannot display some colours. Sticking to [[Web colors#Web-safe colors|Web-safe colors]] ensures maximum compatibility, which is often appreciated; i.e. multiples of <code>33</code>, e.g. <code>#ff99cc</code> or <code>#03C</code>.
+
+====Easy editing====
+If you create a timeline on a template page, do use the <code> | link-to= </code> parameter. Specify the page name without <code>Template:</code> (e.g. <code>My graphical timeline</code> for <code>Template:My graphical timeline</code>), and "view", "talk", "edit" links will appear.
+
+==Parameter list==
+
+The list may be long, but do not be daunted – you only need to use a couple, and the rest give you incredible flexibility!
+
+Replace any instance of # with a number.
+
+To and from are mandatory, all other parameters are optional.
+
+Either spelling of ''colour''/''color'' is always acceptable.
+
+===General parameters===
+{{Graphical timeline|
+|from=-221
+|to=1912
+|instance-id=42
+|height=24
+|title=General parameters
+|title-colour=lightgray
+|plot-colour=darkgray
+|collapsible=yes
+|state=expanded
+}}
+{| class="wikitable sortable"
+|+Timeline parameters
+! Parameter
+! Function
+! Default
+|-
+| from<br/>to
+| Bounds the start & end of the timeline. May be negative.
+| {{yes|''Required''}}
+|-
+| instance-id
+| Differentiates this timeline from others that appear on the page
+| {{maybe|''Sometimes required''}}
+|-
+| title
+| Writes the title bar
+| ''No title''
+|-
+| title-colour
+| Colours the title bar's background
+| ''No colour''
+|-
+| plot-colour
+| Colours the background for the timeline space
+| ''No colour''
+|-
+| unit
+| Defines the unit of (graphical) measurement
+| <code>em</code>
+|-
+| height-unit<br/>width-unit
+| Overrides either the height or width unit
+| <code><''unit''></code>
+|-
+| height<br/>width
+| Sizes the timeline container
+| <code>36</code><br/><code>10</code>
+|-
+| disable-arrow-align
+| If true (or equivalent), enables text in notes to be nudged away from arrow
+| false
+|-
+| disable-box-align
+| If true (or equivalent), enables text in bars to be nudged away from center
+| false
+|-
+| collapsible
+| If true (or equivalent), enables infobox to be collapsed
+| false
+|-
+| state
+| Use {{para|state|expanded}} to force the box to the expanded state, or {{para|state|collapsed}} to hide it.
+| expanded
+|}
+
+===Bars===
+Bars are sizable coloured rectangles with a text label in the middle.
+
+Bar parameters are prefixed with <code>bar#</code>, where <code>#</code> is the bar's ID. The number doesn't imply any particular order, but it does have to be unique.
+{{Graphical timeline|
+|from=-221
+|to=1912
+|instance-id=2
+|height=24
+|bar1-from=-221
+|bar1-to=-206
+|bar1-colour=burlywood
+|bar1-text=''bar1''
+|bar2-from=-206
+|bar2-to=581
+|bar2-colour=wheat
+|bar2-text=''bar2''
+|bar3-from=581
+|bar3-to=618
+|bar3-colour=burlywood
+|bar3-text=''bar3''
+|bar4-from=618
+|bar4-to=907
+|bar4-colour=wheat
+|bar4-text=''bar4''
+|bar5-from=907
+|bar5-to=1279
+|bar5-colour=burlywood
+|bar5-text=''bar5''
+|bar6-from=1279
+|bar6-to=1368
+|bar6-colour=wheat
+|bar6-text=''bar6''
+|bar7-from=1368
+|bar7-to=1644
+|bar7-colour=burlywood
+|bar7-text=''bar7''
+|bar8-from=1644
+|bar8-to=1912
+|bar8-colour=wheat
+|bar8-text=''bar8''
+|bar9-from=916
+|bar9-to=1125
+|bar9-left=.66
+|bar9-colour=blanchedalmond
+|bar9-text=''bar9''
+}}
+{| class="wikitable sortable"
+! Parameter
+! Function
+! Default
+|- 
+| -colour (-color)
+| Sets the background colour
+| {{yes|''Required''}}
+|- 
+| -from<br/>-to
+| Positions the top & bottom edges along the timeline
+| {{yes|''Required''}}
+|- 
+| -left<br/>-right
+| Positions the left & right edges, as a fraction of the width (<code>0.0 to 1.0</code>)
+| <code>0.0</code><br/><code>1.0</code>
+|-
+| -border-width<br/>-border-colour<br/>-border-style
+| Stylises the top & bottom borders, simultaneously; styles are <code>solid dotted dashed double groove ridge inset outset</code>. Border width has same units has height (em by default).
+| ''No border''
+|- 
+| -text
+| Writes the central label
+| ''No text''
+|- 
+| -font-size
+| Sizes the label
+| <code>90%</code>
+|- 
+| -nudge-down<br/>-nudge-up<br/>-nudge-right<br/>-nudge-left
+| Nudges the label around (Units are in [[em (typography)|em]]s). Only enabled if {{para|disable-box-align|1}}
+| <code>0.0</code>
+|- 
+|+ Bar parameters
+|}
+
+===Geological periods===
+Gets data to create a bar with default values for <code>-colour, -from, -to, -text</code>.
+
+Period parameters are prefixed with <code>period#</code>, where <code>#</code> is the period's unique number.
+{{Graphical timeline|
+|from=-{{Period start|Paleozoic}}
+|to=-{{Period end|Paleozoic}}
+|instance-id=3
+|height=24
+|period1=Permian
+|period2=Carboniferous
+|period3=Devonian
+|period4=Silurian
+|period5=Ordovician
+|period6=Cambrian
+}}
+{| class="wikitable sortable"
+!Parameter
+! Function
+! Default
+|- 
+| ''null''
+| Names the geological division (e.g. <code>period1=Phanerozoic</code>)
+| {{yes|''Required''}}
+|-
+| -colour (-color)
+| Overrides the division's colour
+| <code>{{tlp|Period color|<''period''>}}</code>
+|-
+| -text
+| Overrides the division's label
+| <code><''period''></code>
+|- 
+| -from<br/>-to
+| Overrides the division's start & end times
+| <code>-{{tlp|Period start|<''period''>}}</code><br/><code>-{{tlp|Period end|<''period''>}}</code>
+|- 
+| -left<br/>-right
+| Positions the left & right edges, as a fraction of the width (<code>0.0 to 1.0</code>)
+| <code>0.0</code><br/><code>1.0</code>
+|-
+| -border-width<br/>-border-colour<br/>-border-style
+| Stylises the top & bottom borders, simultaneously; styles are <code>solid dotted dashed double groove ridge inset outset</code>
+| ''No border''
+|- 
+| -font-size
+| Sizes the central label
+| <code>90%</code>
+|- 
+| -nudge-down<br/>-nudge-up<br/>-nudge-right<br/>-nudge-left
+| Nudges the label around (Units are in [[em (typography)|em]]s). Only enabled if {{para|disable-box-align|1}}
+| <code>0.0</code>
+|-
+|+ Period parameters
+|}
+
+===Legend===
+Legend entries coordinate with bars (i.e. <code>legend1</code> matches the colour of <code>bar1</code>, etc.).
+{{Graphical timeline|
+|from=-{{Period start|Devonian}}
+|to=-{{Period end|Permian}}
+|instance-id=6
+|height=24
+|bar1-colour=burlywood
+|bar1-from=-{{Period start|Permian}}
+|bar1-to=-{{Period end|Permian}}
+|bar1-text=''bar1''
+|bar2-colour=blanchedalmond
+|bar2-from=-{{Period start|Carboniferous}}
+|bar2-to=-{{Period end|Carboniferous}}
+|bar2-text=''bar2''
+|bar3-colour=wheat
+|bar3-from=-{{Period start|Devonian}}
+|bar3-to=-{{Period end|Devonian}}
+|bar3-text=''bar3''
+|legend1=''legend1''
+|legend2=''legend2''
+|legend3=''legend3''
+|note1=''note1''
+|note1-at=-{{Period end|Devonian}}
+|note2=''note2''
+|note2-at=-{{#expr:{{Period end|Devonian}}-100}}
+|note3=''note3''
+|note3-at=-{{#expr:{{Period end|Devonian}}-20}}
+|caption=''caption''
+}}
+{| class="wikitable sortable"
+! Parameter
+! Function
+! Default
+|- 
+| ''null'' (-text)
+| Writes the entry's label (e.g. <code><nowiki>legend1=[[Phanerozoic]] eon</nowiki></code>
+| {{yes|''Required''}}
+|-
+|  -colour (-color)
+| Overrides the entry's colour
+| <code><''bar#-colour''></code>
+|-
+|+ Legend parameters
+|}
+
+===Notes===
+Notes are annotations that show up to the right of the timeline with an arrow (←).
+
+Note parameters are prefixed with <code>note#</code>, where <code>#</code> is the note's unique number.
+{| class="wikitable sortable"
+! Parameter
+! Function
+! Default
+|- 
+| ''null''
+| Writes the note's content (e.g. <code>note1=Cambrian explosion</code>)
+| {{yes|''Required''}}
+|-
+| -at
+| Positions the arrow & note text vertically along the timeline
+| {{yes|''Required''}}
+|-
+| -remove-arrow (-no-arrow)
+| Removes the note's arrow, if true
+| <code>0</code>
+|-
+| -nudge-down<br/>-nudge-up<br/>-nudge-right<br/>-nudge-left
+| Nudges the note's text around (units are in [[em (typography)|em]]s)<br>
+If arrow, then text is centered next to arrow unless {{para|disable-arrow-align|1}}. Also,
+nudge left/right affects both arrow and text.
+| <code>0.0</code>
+|-
+| -size (-font-size)
+| Sizes the note's font
+| <code>100%</code>
+|-
+| -colour (-color)
+| Colours the note's font
+| 
+|-
+|+ Note/Annotation parameters
+|}
+
+==In use: an example==
+The code on the left produces the timeline on the right. For another example, please see [[Ediacaran biota]].
+
+{{Graphical timeline
+
+|title=Example Timeline
+|align=right
+
+|plot-colour=#bbeebb
+
+|from=-550
+|to=-500
+|scale-increment=10
+
+|width=10
+|height=250
+|height-unit=px
+
+|legend1=[[Phanerozoic]]
+
+|bar1-from=-542
+|bar1-left=0
+|bar1-right=0.1
+
+|legend2=[[Precambrian]]
+
+|bar2-to=-542
+|bar2-left=0
+|bar2-right=0.2
+
+
+|legend3=[[Infracambrian]]
+|legend3-colour=#e0aacc
+
+|bar3-to=-534
+|bar3-left=0.1
+|bar3-right=0.2
+|bar3-colour=#e0aacc
+
+|<!-- If this were bar 4, it would be overlapped by the Botomian bar -->
+|bar14-from=-530
+|bar14-to=-520
+|bar14-left=0.95
+|bar14-right=1.05
+|bar14-colour=red
+|legend14=Cambrian explosion
+
+|<!--Epochs & stages-->
+|bar5-text=[[Ediacaran]]
+|bar5-to=-540
+|bar5-left=0.2
+|bar5-border-width=1
+|bar5-colour=#cc9999
+
+|bar6-text=[[Nemakit-Daldynian]]
+|bar6-from=-542
+|bar6-to=-534
+|bar6-left=0.2
+|bar6-border-width=0.1
+|bar6-colour=#99cc99
+
+|bar7-text=[[Tommotian]]
+|bar7-from=-534
+|bar7-to=-530
+|bar7-left=0.1
+|bar7-colour=#99cc99
+|bar7-border-width=0.1
+
+|bar8-from=-530.1
+|bar8-to=-529.9
+|bar8-left=0.2
+|bar8-colour=black
+
+|bar9-text=[[Atdabanian]]
+|bar9-from=-530
+|bar9-to=-524
+|bar9-left=0.1
+|bar9-right=0.95
+|bar9-colour=#99cc99
+
+|bar10-text=[[Botomian]]
+|bar10-from=-524
+|bar10-to=-518
+|bar10-left=0.1
+|bar10-colour=#99cc99
+|bar10-border-width=0.1
+
+|bar11-text=[[Toyonian]]
+|bar11-from=-518
+|bar11-to=-513
+|bar11-left=0.1
+|bar11-border-width=0.1
+|bar11-colour=#99cc99
+
+
+|note1=Base of the Cambrian
+|note1-at=-542
+|note1-colour=green
+
+|note2=[[Middle Cambrian]]
+|note2-nudge-left=8.5
+|note2-nudge-down=0
+|note2-at=-507
+|note2-remove-arrow=yes
+
+|caption=An approximate time-scale of events<br>at the base of the [[Cambrian]] [[Period (geology){{!}}Period]].
+<br>Axis scale is in millions of years ago.
+}}
+<syntaxhighlight lang="wikitext">{{Graphical timeline
+
+|title=Example Timeline
+|align=right
+
+|plot-colour=#bbeebb
+
+|from=-550
+|to=-500
+|scale-increment=10
+
+|width=10
+|height=250
+|height-unit=px
+
+|legend1=[[Phanerozoic]]
+
+|bar1-from=-542
+|bar1-left=0
+|bar1-right=0.1
+
+|legend2=[[Precambrian]]
+
+|bar2-to=-542
+|bar2-left=0
+|bar2-right=0.2
+
+
+|legend3=[[Infracambrian]]
+|legend3-colour=#e0aacc
+
+|bar3-to=-534
+|bar3-left=0.1
+|bar3-right=0.2
+|bar3-colour=#e0aacc
+
+|<!-- If this were bar 4, it would be overlapped by the Botomian bar -->
+|bar14-from=-530
+|bar14-to=-520
+|bar14-left=0.95
+|bar14-right=1.05
+|bar14-colour=red
+|legend14=Cambrian explosion
+
+|<!--Epochs & stages-->
+|bar5-text=[[Ediacaran]]
+|bar5-to=-540
+|bar5-left=0.2
+|bar5-border-width=1
+|bar5-border-colour= #996666
+|bar5-colour=#cc9999
+
+|bar6-text=[[Nemakit-Daldynian]]
+|bar6-from=-542
+|bar6-to=-534
+|bar6-left=0.2
+|bar6-border-width=0.1
+|bar6-colour=#99cc99
+
+|bar7-text=[[Tommotian]]
+|bar7-from=-534
+|bar7-to=-530
+|bar7-left=0.1
+|bar7-colour=#99cc99
+|bar7-border-width=0.1
+
+|bar8-from=-530.1
+|bar8-to=-529.9
+|bar8-left=0.2
+|bar8-colour=black
+
+|bar9-text=[[Atdabanian]]
+|bar9-from=-530
+|bar9-to=-524
+|bar9-left=0.1
+|bar9-right=0.95
+|bar9-colour=#99cc99
+
+|bar10-text=[[Botomian]]
+|bar10-from=-524
+|bar10-to=-518
+|bar10-left=0.1
+|bar10-colour=#99cc99
+|bar10-border-width=0.1
+
+|bar11-text=[[Toyonian]]
+|bar11-from=-518
+|bar11-to=-513
+|bar11-left=0.1
+|bar11-border-width=0.1
+|bar11-colour=#99cc99
+
+
+|note1=Base of the Cambrian
+|note1-at=-542
+|note1-colour=green
+
+|note2=[[Middle Cambrian]]
+|note2-nudge-left=8.5
+|note2-nudge-down=0
+|note2-at=-507
+|note2-remove-arrow=yes
+
+|caption=An approximate time-scale of events<br>at the base of the [[Cambrian]] [[Period (geology){{!}}Period]].
+<br>Axis scale is in millions of years ago.
+}}
+</syntaxhighlight>
+
+==Notes on the example==
+* <code><nowiki>{{!}}</nowiki></code>  must be used wherever you want a | to appear (e.g. the caption)
+* If you do not specify when a bar should start or end, it will continue to the edge of the plot
+* Text should not be too long for the bar
+* The way that overflowing text wraps is also handled differently in different browsers – it pokes out of the right of the bar on Firefox, but is wrapped within it by IE. Try to manually enter newlines when required rather than relying on browsers to sort it out. Or position a note over the bar – check out note2, which is nudged left over the plot background.
+
+==Blank template to copy==
+{{Graphical timeline/blank}}
+
+<!-- Categories below this line -->
+<includeonly>{{Sandbox other||
+[[Category:Generic timeline templates|{{PAGENAME}}]]
+}}</includeonly>

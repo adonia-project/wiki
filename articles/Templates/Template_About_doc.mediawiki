@@ -1,0 +1,122 @@
+{{Documentation subpage}}<noinclude>{{pp|small=yes}}</noinclude><!--
+Categories go where indicated at the bottom of this page, please; interwikis go to Wikidata (see also: [[Wikipedia:Wikidata]]). -->
+{{High-use}}
+{{ombox|type=content|text=This template should be used on articles only if other topics and articles exist with very similar names. For most articles, this is not true, so do not use this template on them.}}
+{{Lua|Module:About}}
+
+{{Tlc|About}} is a commonly used [[WP:Hatnote|hatnote template]] on Wikipedia for linking the reader to other articles with similar titles or concepts that they may have been seeking instead.
+
+==Usage==
+This template should be [[WP:HATNOTEPLACE|placed]] at the top of an article (but following {{Tlx|Short description}}, if present). The template has several formats, including:
+*{{Tlx|About}} → {{About}}
+*{{Tlx|About|Use1}} → {{About|Use1}}
+*{{Tlx|About|<nowiki/>|Use2|Article2}} → {{About||Use2|Article2}}
+*{{Tlx|About|<nowiki/>|<nowiki/>||Article (disambiguation)}} → {{About|||Article (disambiguation)}}
+*{{Tlx|About|Use1|<nowiki/>|Article2}} → {{About|Use1||Article2}}
+*{{Tlx|About|Use1|<nowiki/>|Article2|and|Article3}} → {{About|Use1||Article2|and|Article3}}
+*{{Tlx|About|Use1|Use2|Article2}} → {{About|Use1|Use2|Article2}}
+*{{Tlx|About|Use1|Use2|Article2|and|Article3}} → {{About|Use1|Use2|Article2|and|Article3}}
+*{{Tlx|About|Use1|Use2|Article2|and|Article3|and|Article4|and|Article5}} → {{About|Use1|Use2|Article2|and|Article3|and|Article4|and|Article5}}
+*{{Tlx|About|Use1|Use2|Article2|Use3|Article3}} → {{About|Use1|Use2|Article2|Use3|Article3}}
+*{{Tlx|About|Use1|Use2|Article2|other uses}} → {{About|Use1|Use2|Article2|other uses}}
+
+The template {{tl|For-multi}} produces the same hatnote, but without the initial ''This template is about''.
+
+=== Styling in italics ===
+Please see {{section link|Wikipedia:Hatnote|Hatnotes with italics in the links}} ([[WP:ITHAT]]) for details about how to use italics in hatnotes.
+
+==Parameters==
+
+Alternately, a {{para|section|yes}} parameter can be added to the {{Tlc|About}} template for use at the top of a section. When using this parameter, the wording in the template changes to specify that it is being used in a section:
+*{{Tlx|About|Use1|<nowiki>section=yes</nowiki>}} → {{About|Use1|section=yes}}
+*{{Tlx|About|Use1|<nowiki/>|Article2|<nowiki>section=yes</nowiki>}} → {{About|Use1||Article2|section=yes}}
+*{{Tlx|About|Use1|Use2|Article2|<nowiki>section=yes</nowiki>}} → {{About|Use1|Use2|Article2|section=yes}}
+*{{Tlx|About|Use1|Use2|Article2|and|Article3|<nowiki>section=yes</nowiki>}} → {{About|Use1|Use2|Article2|and|Article3|section=yes}}
+*{{Tlx|About|Use1|Use2|Article2|other uses|<nowiki>section=yes</nowiki>}} → {{About|Use1|Use2|Article2|other uses|section=yes}}
+
+A {{para|text}} option adds text to the end; this should only be used when truly necessary, when the other hatnote templates listed below don't suffice.
+
+The {{para|selfref|yes}} option marks the entire hatnote as a Wikipedia self-reference, causing it to be omitted when the page content is reused outside of Wikipedia (see {{tl|self reference}} and [[MOS:SELFREF]] for more details).
+
+For more options, see section "TemplateData" below.
+
+==TemplateData==
+{{TemplateData header}}
+<!-- Should this mention the existence of "and"? It's something of a can of worms, since it only looks as though it only works in certain combinations of the other page 2/3/4 description fields... -->
+<templatedata>
+{
+	"description": "This template is a hatnote in the format \"This page is about … For other uses …\".",
+	"params": {
+		"1": {
+			"label": "Page description",
+			"type": "string",
+			"description": "What the page this template is placed on is about (\"This page is about …\")",
+			"suggested": true
+		},
+		"2": {
+			"label": "Other page 1 description",
+			"type": "string",
+			"description": "What the first other page is about. If unused or blank, defaults to \"other uses\".",
+			"suggested": true
+		},
+		"3": {
+			"label": "Other page 1 title",
+			"type": "wiki-page-name",
+			"description": "The title of the first other page. If unused, defaults to \"[page title] (disambiguation)\".",
+			"suggested": true
+		},
+		"4": {
+			"label": "Other page 2 description",
+			"type": "string",
+			"description": "What the second other page is about."
+		},
+		"5": {
+			"label": "Other page 2 title",
+			"type": "wiki-page-name",
+			"description": "The title of the second other page. If unused or blank and parameter 4 exists, defaults to \"[page title] (disambiguation)\"."
+		},
+		"6": {
+			"label": "Other page 3 description",
+			"type": "string",
+			"description": "What the third other page is about."
+		},
+		"7": {
+			"label": "Other page 3 title",
+			"type": "wiki-page-name",
+			"description": "The title of the third other page. If unused or blank and parameter 6 exists, defaults to \"[page title] (disambiguation)\"."
+		},
+		"8": {
+			"label": "Other page 4 description",
+			"type": "string",
+			"description": "What the fourth other page is about."
+		},
+		"9": {
+			"label": "Other page 4 title",
+			"type": "wiki-page-name",
+			"description": "The title of the fourth other page. If unused or blank and parameter 8 exists, defaults to \"[page title] (disambiguation)\"."
+		},
+		"section": {
+			"type": "string",
+			"description": "Pass \"yes\" in this parameter to get wording appropriate for use at the top of a section.",
+			"autovalue": "yes"
+		},
+        "text": {
+			"label": "Custom text",
+			"type": "string",
+			"description": "Text to be appended to the end."
+		}
+	}
+}
+</templatedata>
+
+==See also==
+* [[Wikipedia:Hatnote]]
+{{Hatnote templates}}
+
+
+<!-- To add more other pages, continue with this alternating pattern using increasing numbers, starting with 6 for the next page description. -->
+
+<includeonly>{{Sandbox other||
+<!-- Categories go below this line, please; interwikis go to Wikidata, thank you! -->
+[[Category:Disambiguation and redirection hatnote templates]]
+}}</includeonly>

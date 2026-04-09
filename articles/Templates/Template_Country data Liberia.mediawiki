@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Liberia
+| flag alias = Flag of Liberia.svg
+| flag alias-23px = Flag of Liberia 23px.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = LBR
+| var1 = 23px
+</noinclude>
+}}

@@ -1,0 +1,55 @@
+{{Infobox
+| above         = {{{name}}}
+| abovestyle     = text-align:center;background-color:#ededed;
+
+| subheader      = {{{start}}}{{#if:{{#invoke:String|match|{{{start}}}{{{end}}}| |plain=true|nomatch=1}}|–|&nbsp;–&#32;}}{{{end}}}
+| subheaderstyle = padding-bottom: 0.4em; border-bottom: 1px solid #aaa; font-weight: bold;
+
+| image          = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|upright={{{image_upright|1}}}|alt={{{alt|}}}}}
+| caption        = {{{caption|}}}
+
+| label1         = Location
+|  data1         = {{{location|}}}
+| label2         = Including
+|  data2         = {{{including|}}}
+| label5         = Monarch(s)
+|  data5         = {{{monarch|}}}
+| label6         = Leader(s)
+|  data6         = {{{leaders|}}}
+| label7         = President(s)
+|  data7         = {{{presidents|}}}
+| label8         = Prime Minister(s)
+|  data8         = {{{primeministers|}}}
+| label9         = Key events
+|  data9         = {{{key_events|}}}
+
+| below  = {{#if:{{{before|}}}{{{after|}}}|'''Chronology''' <br><table style="background:#F9F9F9; border-top: 1px solid #aaa;" width="100%">
+<tr>
+<td width="50%" style="text-align:left;">{{#if:{{{before|}}} |
+  [[File:Arrleft.svg|10px]] {{#if:{{{before|}}} | {{{before|}}}}}}}</td>
+<td width="50%" style="text-align:right;">{{#if:{{{after|}}} | {{#if:{{{after|}}} | {{{after|}}} | {{{next|}}}}} [[File:Arrright.svg|10px]]}}</td>
+</tr></table>}}
+
+}}<noinclude>
+{{Documentation|content=
+{{Parameter names example|_template=Infobox historical era|name|location|start|end|image|alt|caption|before|including|after|monarch|leaders|presidents|primeministers|key_events}}
+<syntaxhighlight lang="wikitext" _base="" style="overflow: auto;">{{Infobox historical era
+| name      = 
+| location  =
+| start     = 
+| end       = 
+| image     = 
+| alt       = 
+| caption   = 
+| before    = 
+| including = 
+| after     = 
+| monarch   = 
+| leaders   = 
+| presidents = 
+| primeministers = 
+| key_events =
+}}</syntaxhighlight>
+}}
+[[Category:History and events infobox templates]]
+</noinclude>

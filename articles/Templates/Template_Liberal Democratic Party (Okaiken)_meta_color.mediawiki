@@ -1,0 +1,14 @@
+<nowiki>#b01717</nowiki><noinclude>
+
+== Examples ==
+{|
+|- style="color:{{ {{PAGENAME}} }}"
+| '''This color'''
+|- style="background:{{ {{PAGENAME}} }}; color:white"
+| '''White on this color'''
+|- style="background:{{ {{PAGENAME}} }}; color:black"
+| '''Black on this color'''
+|}
+
+[[Category:Japan political party colour templates|{{PAGENAME}}]]
+</noinclude>

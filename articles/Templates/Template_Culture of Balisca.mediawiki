@@ -1,0 +1,74 @@
+{{sidebar
+| name = Culture of Balisca
+|style = border-width:22.0em; border: 4px double #1d344a; background:#FFFFFF; 
+| pretitle= Part of [[:Category:Baliscan culture|a series]] on the 
+| title = [[Culture of Balisca|Culture of Balisca]]
+| image = [[File:Coat of Arms of Balisca.svg |170px|center|link=|alt=History of Balisca]]
+| contentclass = hlist
+| headingstyle = background: #1d344a;color: white;padding:0.1em 0;font-size:95%;
+| contentstyle = padding:0.2em 0 0.6em;font-size:95%;
+
+| heading1=Society
+| content1 = 
+
+* [[Baliscan people|Baliscans]]
+**''[[Costeño (nickname)|Costeño]]''
+**[[Stereotypes of Baliscans|Stereotypes]]
+* [[Ethnography of Balisca|Ethnography]]
+* [[History of Balisca|History]]
+* [[Society of Balisca|Culture]]
+**[[Desconexión]]
+* [[Languages of Balisca|Languages]]
+**[[Baliscano]]
+*[[Immigration to Balisca|Immigration]]
+* [[Public holidays in Balisca|Holidays]]
+* [[Religion in Balisca|Religion]]
+** [[Catharism]]
+** [[Islam in Balisca|Islam]]
+**[[Marriage in Balisca|Marriage]]
+* [[Baliscan values|Values]]
+** [[Baliscan values#Postgenderism|Gender]]
+** [[LGBTQ rights in Balisca|LGBTQ+]]
+
+| heading2 = Topics
+| content2 = 
+
+* [[Art of Balisca|Art]]
+* [[Architecture of Balisca|Architecture]]
+* [[Cinema of Balisca|Cinema]]
+** [[Baliscan animation|Animation]]
+* [[Cuisine of Balisca|Cuisine]]
+* [[Literature of Balisca|Literature]]
+** [[Baliscan comics|Comics]]
+* [[Media in Balisca|Media]]
+** [[Radio in Balisca|Radio]]
+** [[Television in Balisca|Television]]
+** [[List of newspapers in Balisca|Newspapers]]
+* [[List of National Historic Monuments of Balisca|Monuments]]
+* [[Music of Balisca|Music]]
+* [[Baliscan painting|Painting]]
+* [[Sport in Balisca|Sport]]
+
+| heading3 = Symbols
+| content3 =
+* [[National symbols of Balisca|Confederal symbols]]
+** [[Flag of Balisca|Flag]]
+** [[Coat of arms of Balisca|Coat of Arms]]
+** {{W|Capybara}}
+** {{W|Black panther}}
+** {{W|Chaco eagle|Crowned eagle}}
+** [[Solidaridad y Libertad |Motto]]
+** {{W|The Internationale|Anthem}}
+* [[Mascots of Baliscan regions|Regional mascots]]
+* [[List of World Heritage Sites in Balisca|World Heritage Sites]]
+* ''[[Guaso]]''
+
+|belowstyle = border-top:1px solid #76ADDE;border-bottom:1px solid #76ADDE;font-size:95%;
+|below = 
+{{portal-inline|Balisca}}
+}}
+
+
+[[Category:Culture by region sidebar templates|Balisca]]
+[[Category:Balisca arts and culture templates]]
+[[Category:Balisca sidebar templates]]

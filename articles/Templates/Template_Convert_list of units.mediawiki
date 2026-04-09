@@ -1,0 +1,35 @@
+The table below lists units supported by {{tlf|convert}} or {{tlf|cvt}}. More complete lists are linked for each dimension. For a complete list of all dimensions, see [[Module:Convert/documentation/conversion data|'''full list of units''']].
+
+{{tlf|Convert}} uses {{strong|unit-codes}}, which are similar to, but not necessarily exactly the same as, the usual written abbreviation for a given unit. These unit-codes are displayed in column 3 of the following tables. These are accepted as input by {{tlf|convert}} as the second and third unnamed parameters:
+* {{tlc|convert|100|kg|lb}} → {{convert|100|kg|lb}}
+* {{tlc|convert|100|lb|kg}} → {{convert|100|lb|kg}}
+
+The unit-codes should be treated as {{strong|case-sensitive}}:
+* {{tlc|convert|100|Mm|mm}} → {{convert|100|Mm|mm}}
+
+The output of {{tlf|convert}} can display multiple converted units, if further unit-codes are specified after the second unnamed parameter (without the pipe separator). Typical combination output units are listed below in column 7.
+* {{tlc|convert|55|nmi|km mi}} → {{convert|55|nmi|km mi}}
+* {{tlc|convert|1|oz|ozt g gr}} → {{convert|1|oz|ozt g gr}}
+
+Some units have alternative unit-codes. These are shown in brackets in column 3, e.g. <code>°F</code>&nbsp;(<code>F</code>). Either may be entered for Fahrenheit (but not a lower-case f).
+===Supported units===
+{{convert/list of units/explanation}}
+{{convert/list of units/area/short list}}
+{{convert/list of units/density/short list}}
+{{convert/list of units/energy/short list}}
+{{convert/list of units/force/short list}}
+{{convert/list of units/length/short list}}
+{{convert/list of units/mass/short list}}
+{{convert/list of units/speed/short list}}
+{{convert/list of units/temperature/short list}}
+{{convert/list of units/torque/short list}}
+{{convert/list of units/volume/short list}}
+{{convert/list of units/extra}}
+
+===Unsupported units===
+* For [[Cup (unit)]], which has ambiguities, see [[Template:Cups]].
+* For US [[tablespoon]], see [[Template:tbspUS]]
+* For US [[teaspoon]], see [[Template:tspUS]]
+<noinclude>
+[[Category:Convert by module documentation| ]]
+</noinclude>

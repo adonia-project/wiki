@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Papua New Guinea
+| flag alias = Flag of Papua New Guinea.svg
+| flag alias-1965  = Flag of Papua New Guinea (1965–1970).svg
+| flag alias-1970 = Flag of Papua New Guinea 1970.svg
+| flag alias-naval = Naval Ensign of Papua New Guinea.svg
+| link alias-naval = Papua New Guinea Defence Force{{!}}Papua New Guinea Maritime Element
+| flag alias-navy = Naval Ensign of Papua New Guinea.svg
+| link alias-navy = Papua New Guinea Defence Force{{!}}Papua New Guinea Maritime Element
+| link alias-football = Papua New Guinea {{{mw|}}} national {{{age|}}} soccer team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1965
+| var2 = 1970
+| redir1 = PNG
+</noinclude>
+}}

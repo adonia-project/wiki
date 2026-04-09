@@ -1,0 +1,341 @@
+{{High-use}}
+{{COinS safe|n}}
+{{No subst}}
+{{notice|text=After a [[Wikipedia:Templates for discussion/Log/2024 September 27#Replace and delete lang-?? templates|discussion in 2024]], most of the {{tld|lang-??}} templates were replaced by {{tlx|langx}}.}}
+{{Documentation subpage}}
+{{Lua|Module:Lang}}
+{{Language templates}}
+
+This language template identifies non-English text. It is very similar to {{tl|lang}} but inserts the name of the language as a label. The text is formatted according to recommendations in {{section link|Wikipedia:Manual of Style/Text formatting#Foreign terms}}: italics for languages that use the [[Latin alphabet]]<!-- Not the same thing as Romance languages and Latinate languages-->, normal for others.
+
+== Usage ==
+An [[IETF language tag]] and the non-English term or phrase are the only required parameters.
+
+The template should generally be placed after the English translation of the foreign term or phrase.
+
+* The parameter {{Para|links|no}} prevents the language name from being linked.
+* The parameter {{Para|translit}} allows for a [[romanization]]. This parameter is not supported by {{tld|langx|&lt;{{var|tag}}>|...}} templates for languages that are already written in Latin script.
+* The parameter {{Para|lit}} enables a literal translation (in English) to be given.
+
+== Parameters ==
+{| class="wikitable"
+|+ Langx supported parameters
+! Parameter
+! Definition
+! Yields to
+! Alias
+|-
+| {{para|1}} || The [[IETF language tag]] for the content in {{para|text}} || {{sdash}} || {{para|code}}
+|-
+| {{para|text}} || The non-English text || {{sdash}} || {{para|2}}
+|-
+| {{para|translit}} || The Latin script transliteration of the content in {{para|text}} || {{sdash}} || {{para|3}}
+|-
+| {{para|translit-std}} || The standard used for the transliteration of the value of {{para|translit}}; accepted values are: {{param value|Abkai}}, {{param value|ahl}}, {{param value|ALA}}, {{param value|ALA-LC}}, {{param value|batr}}, {{param value|bgn/pcgn}}, {{param value|DIN}}, {{param value|eae}}, {{param value|hepburn}}, {{param value|hu}}, {{param value|hunterian}}, {{param value|IAST}}, {{param value|ISO}}, {{param value|jyutping}}, {{param value|mdorff}}, {{param value|mlcts}}, {{param value|mr}}, {{param value|nihon-shiki}}, {{param value|no_std}}, {{param value|pinyin}}, {{param value|rr}}, {{param value|rtgs}}, {{param value|satts}}, {{param value|scientific}}, {{param value|ukrainian}}, {{param value|ungegn}}, {{param value|wadegile}}, {{param value|wehr}}, {{param value|yaleko}} || {{sdash}} ||
+|-
+| {{nowrap|{{para|translit-script}}}} || The transliteration standard's script identifier || {{sdash}} ||
+|-
+| {{para|translation}} || The literal English translation or gloss of the content in {{para|text}}. Will be surrounded in single-quotes. The text will be tagged with CSS class {{code|gloss-text}} and the quotes with {{code|gloss-quot}}, like how {{tl|gloss}} does it, enabling customization in [[Help:User style|user stylesheets]]. || {{sdash}} || {{para|lit}}, {{para|4}}
+|-
+| {{para|label}} || The label to be used instead of template-provided language label. May be wikilinked. Special keyword {{param value|none}} causes the template to render without any labels (including transliteration and translation labels) || {{sdash}} ||
+|-
+| {{para|link}} || Links language name and static text associated with {{para|translit}} and {{para|translation}}. Defaults to {{param value|yes}}. Accepted values are: {{param value|no}}, {{param value|yes}}; {{para|link|no}} does not unlink wikilinked labels set by {{para|label}} || {{sdash}} || {{para|links}}
+|-
+| {{para|proto}} || Accepted values are: {{param value|no}} (default) or {{param value|yes}} (default for private-use language tags with the {{param value|-x-proto}} subtags); when {{param value|yes}} (default or explicit), prefixes rendered text with an asterisk indicating 'unattested' || {{sdash}} || 
+|-
+| {{para|red=y|script}} || (Deprecated – include script subtag in {{para|1}}) IETF language script subtag; sometimes set by the template when the language of the content in {{para|text}} uses more than one writing system; always four alpha characters; a value of {{param value|Latn}} <small>({{em|not}} "Latin"!)</small> forces italic rendering unless overridden by {{para|italic}}; overrides {{para|rtl}} || {{nowrap|{{para|italic}}}} ||
+|-
+| {{para|red=y|region}} || (Deprecated – include region subtag in {{para|1}}) IETF language region subtag || {{sdash}} ||
+|-
+| {{para|red=y|variant}} || (Deprecated – include variant subtag in {{para|1}}) IETF language variant subtag || {{sdash}} ||
+|-
+| {{para|rtl}} || {{param value|yes}} indicates that the writing system used for the content in {{para|text}} is right-to-left; accepted values are: {{param value|no}} (default), {{param value|yes}} || {{nowrap|{{para|script}}}} ||
+|-
+| {{para|italic}} || {{crossref|see table "[[#italic|Langx {{para|italic}} parameter operation]]"}}; accepted values are: {{param value|yes}}, {{param value|no}}, {{param value|unset}}, {{param value|invert}}, {{param value|default}} || {{sdash}} || {{nowrap|{{para|italics}}}}, {{para|i}}
+|-
+| {{para|size}} || Specifies font size of the content in {{para|text}}; use a value suitable for use with the CSS <code>font-size</code> property; this should almost always be a relative value supplied in {{param value|style=color: var(--color-content-added, #006400);|%}} or {{param value|style=color: var(--color-content-added, #006400);|em}} units, not a fixed {{param value|style=color: var(--color-content-removed, #8B0000);|px}} value. || {{sdash}} ||
+|-
+| {{para|engvar}} || Selects English variant spelling of 'romanised' or 'romanized' (default) according to the country specified; accepted values are: {{param value|au}} (Australia), {{param value|ca}} (Canada), {{param value|gb}} (Great Britain), {{param value|ie}} (Ireland), {{param value|in}} (India), {{param value|nz}} (New Zealand), {{param value|us}} (United States), {{param value|za}} (South Africa) || {{sdash}} ||
+|-
+| {{para|cat}} || Inhibits automatic categorization; mirror version of {{para|nocat}}; accepted values are: {{param value|no}}, {{param value|n}}, {{param value|false}}, {{param value|f}}, {{param value|off}}, {{param value|0}} || {{sdash}} ||
+|-
+| {{para|nocat}} || Inhibits automatic categorization; mirror version of {{para|cat}}; accepted values are: {{param value|yes}}, {{param value|y}}, {{param value|true}}, {{param value|t}}, {{param value|on}}, {{param value|1}} || {{sdash}} ||
+|-
+|}
+
+{| class="wikitable"
+|+ {{anchor|italic}}Langx {{para|italic}} parameter operation
+|-
+! {{para|italic}} value !! Description !! Example code !! Result !! HTML markup
+|-
+| rowspan="4" | {{Plainlist|
+* parameter not present;
+* parameter present, not set;
+* invalid value
+}}
+| rowspan="7" | {{Plainlist|
+* module applies style from:
+* &nbsp;&nbsp;template setting, or
+* &nbsp;&nbsp;{{pval|-latn}} script subtag;
+* else inherits from external markup;
+* invalid values treated as default
+}}
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|тундра}}</syntaxhighlight>
+| {{langx|ru|тундра}}
+| {{code|lang=wikitext|{{Langx|ru|тундра}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|tûndra}}</syntaxhighlight>
+| {{Langx|ru|tûndra}}
+| {{code|lang=wikitext|{{Langx|ru|tûndra}}}}<br />Incorrect markup; this requires script subtag {{pval|-latn}}.
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|fr|toundra}}</syntaxhighlight>
+| {{Langx|fr|toundra}}
+| {{code|lang=wikitext|{{Langx|fr|toundra}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru-latn|tûndra}}</syntaxhighlight>
+| {{Langx|ru-latn|tûndra}}
+| {{code|lang=wikitext|{{Langx|ru-latn|tûndra}}}}
+|-
+| rowspan="3" | {{param value|default}}
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|тундра|italic=default}}</syntaxhighlight>
+| {{Langx|ru|тундра|italic=default}}
+| {{code|lang=wikitext|{{Langx|ru|тундра|italic=default}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|fr|toundra|italic=default}}</syntaxhighlight>
+| {{Langx|fr|toundra|italic=default}}
+| {{code|lang=wikitext|{{Langx|fr|toundra|italic=default}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru-latn|tûndra|italic=default}}</syntaxhighlight>
+| {{Langx|ru-latn|tûndra|italic=default}}
+| {{code|lang=wikitext|{{Langx|ru-latn|tûndra|italic=default}}}}
+|-
+| rowspan="4" | {{param value|no}}
+| rowspan="4" | {{Plainlist|
+* module applies upright style;
+* overrides {{pval|-latn}} script subtag;
+* overrides external markup
+}}
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|тундра|italic=no}}</syntaxhighlight>
+| {{Langx|ru|тундра|italic=no}}
+| {{code|lang=wikitext|{{Langx|ru|тундра|italic=no}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|fr|toundra|italic=no}}</syntaxhighlight>
+| {{Langx|fr|toundra|italic=no}}
+| {{code|lang=wikitext|{{Langx|fr|toundra|italic=no}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru-latn|tûndra|italic=no}}</syntaxhighlight>
+| {{Langx|ru-latn|tûndra|italic=no}}
+| {{code|lang=wikitext|{{Langx|ru-latn|tûndra|italic=no}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">''{{Langx|ru-latn|tûndra|italic=no}}''</syntaxhighlight>
+| ''{{Langx|ru-latn|tûndra|italic=no}}''
+| {{code|lang=wikitext|''{{Langx|ru-latn|tûndra|italic=no}}''}}
+|-
+| rowspan="2" | {{param value|yes}}
+| rowspan="2" | {{Plainlist|
+* module applies italic style;
+* ignores {{pval|-latn}} script subtag
+}}
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|тундра|italic=yes}}</syntaxhighlight>
+| {{Langx|ru|тундра|italic=yes}}
+| {{code|lang=wikitext|{{Langx|ru|тундра|italic=yes}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru-latn|tûndra|italic=yes}}</syntaxhighlight>
+| {{Langx|ru-latn|tûndra|italic=yes}}
+| {{code|lang=wikitext|{{Langx|ru-latn|tûndra|italic=yes}}}}
+|-
+| rowspan="4" | {{param value|unset}}
+| rowspan="4" | {{Plainlist|
+* module applies no style;
+* inherits style from external markup;
+* overrides {{pval|-latn}} script subtag
+}}
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|тундра|italic=unset}}</syntaxhighlight>
+| {{Langx|ru|тундра|italic=unset}}
+| {{code|lang=wikitext|{{Langx|ru|тундра|italic=unset}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">''{{Langx|ru|тундра|italic=unset}}''</syntaxhighlight>
+| ''{{Langx|ru|тундра|italic=unset}}''
+| {{code|lang=wikitext|''{{Langx|ru|тундра|italic=unset}}''}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru-latn|tûndra|italic=unset}}</syntaxhighlight>
+| {{Langx|ru-latn|tûndra|italic=unset}}
+| {{code|lang=wikitext|{{Langx|ru-latn|tûndra|italic=unset}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">''{{Langx|ru-latn|tûndra|italic=unset}}''</syntaxhighlight>
+| ''{{Langx|ru-latn|tûndra|italic=unset}}''
+| {{code|lang=wikitext|''{{Langx|ru-latn|tûndra|italic=unset}}''}}
+|-
+| rowspan="4" | {{param value|invert}}
+| rowspan="4" | {{Plainlist|
+* module applies no style;
+* inverts style in internal markup;{{efn|name=invertunset}}
+* disables auto-italics
+* overrides {{pval|-latn}} script subtag
+}}
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|тундра|italic=invert}}</syntaxhighlight>
+| {{Langx|ru|тундра|italic=invert}}
+| {{code|lang=wikitext|{{Langx|ru|тундра|italic=invert}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|''тундра''|italic=invert}}</syntaxhighlight>
+| {{Langx|ru|''тундра''|italic=invert}}
+| {{code|lang=wikitext|{{Langx|ru|''тундра''|italic=invert}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru-latn|tûndra|italic=invert}}</syntaxhighlight>
+| {{Langx|ru-latn|tûndra|italic=invert}}
+| {{code|lang=wikitext|{{Langx|ru-latn|tûndra|italic=invert}}}}
+|-
+| <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru-latn|''tûndra''|italic=invert}}</syntaxhighlight>
+| {{Langx|ru-latn|''tûndra''|italic=invert}}
+| {{code|lang=wikitext|{{Langx|ru-latn|''tûndra''|italic=invert}}}}
+|-
+|}
+
+===Notes===
+{{Notelist|refs=
+{{efn|name=invertunset|compare {{para|italic|invert}} to {{para|italic|unset}}:
+:<syntaxhighlight lang="wikitext" inline="1">{{Langx|de|... ein neues Opernprojekt in Angriff: ''Das Käthchen von Heilbronn'', nach Heinrich von Kleists gleichnamigem Drama.|italic=invert}}</syntaxhighlight>
+::{{Langx|de|... ein neues Opernprojekt in Angriff: ''Das Käthchen von Heilbronn'', nach Heinrich von Kleists gleichnamigem Drama.|italic=invert}}
+:<syntaxhighlight lang="wikitext" inline="1">{{Langx|de|''... ein neues Opernprojekt in Angriff: ''Das Käthchen von Heilbronn'', nach Heinrich von Kleists gleichnamigem Drama.''|italic=unset}}</syntaxhighlight>
+::{{Langx|de|''... ein neues Opernprojekt in Angriff: ''Das Käthchen von Heilbronn'', nach Heinrich von Kleists gleichnamigem Drama.''|italic=unset}}}}
+}}
+
+=== TemplateData ===
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Language tag",
+			"description": "A valid IETF language tag identifying the language of the non-English text.",
+			"type": "string",
+			"required": true
+		},
+		"2": {
+			"label": "Text",
+			"description": "The non-English text to display.",
+			"type": "string",
+			"required": true
+		},
+		"3": {
+			"label": "Transliteration",
+			"description": "The transliteration of the foreign text, for languages that do not use the Latin alphabet. This field is ignored for languages that do use the Latin alphabet.",
+			"type": "string",
+			"aliases": [
+				"translit"
+			]
+		},
+		"4": {
+			"label": "Literal translation",
+			"description": "The literal translation of the foreign text.",
+			"type": "string",
+			"aliases": [
+				"lit",
+				"translation"
+			]
+		},
+		"links": {
+			"label": "Display link",
+			"description": "Set to 'no' to disable the link to the article's language.",
+			"type": "boolean",
+			"aliases": [
+				"link"
+			],
+			"default": "no",
+			"autovalue": "no"
+		},
+		"label": {
+			"label": "Language label",
+			"description": "If 'none', suppresses language link and label. Other options may be available depending on the language.",
+			"example": "none",
+			"type": "line"
+		},
+		"rtl": {
+			"label": "Right-to-left",
+			"description": "Toggle right-to-left view for the foreign text.",
+			"type": "boolean",
+			"example": "yes",
+			"default": "no"
+		},
+		"italic": {
+			"label": "Italicize",
+			"description": "Toggle italicization for the foreign text.",
+			"type": "boolean",
+			"default": "yes",
+			"example": "no",
+			"aliases": [
+				"italics",
+				"i"
+			]
+		},
+		"size": {
+			"label": "Font-size",
+			"description": "Sets font-size for the foreign text.",
+			"example": "120%, 1.2em"
+		},
+		"engvar": {
+			"label": "English variant",
+			"description": "Spelling of 'romanized/romanised'."
+		}
+	},
+	"description": "Indicates to readers the original form of a term or phrase in a foreign language.",
+	"paramOrder": [
+		"1",
+		"2",
+		"3",
+		"4",
+		"links",
+		"label",
+		"rtl",
+		"italic",
+		"size",
+		"engvar"
+	]
+}
+</templatedata>
+
+== Examples ==
+The following examples show translations from German or French.
+
+'''Edit'''
+* Weimar is located in the federal state of Thuringia (<syntaxhighlight lang="wikitext" inline="1">{{Langx|de|Thüringen}}</syntaxhighlight>).
+* The ''Seafarers of Catan'' (<syntaxhighlight lang="wikitext" inline="1">{{Langx|de|Die Seefahrer von Catan}}</syntaxhighlight>) is an expansion of the board game ''[[The Settlers of Catan]]''.
+* Albert the Bear (<syntaxhighlight lang="wikitext" inline="1">{{Langx|de|Albrecht der Bär|links=no}}</syntaxhighlight>)
+*''All Quiet on the Western Front'' (<syntaxhighlight lang="wikitext" inline="1">{{Langx|de|Im Westen nichts Neues|lit=In the West Nothing New}}</syntaxhighlight>) is a novel by [[Erich Maria Remarque]].
+* '''Paris Cité University''' (<syntaxhighlight lang="wikitext" inline="1">{{langx|fr|links=no|'''Université Paris Cité'''}}</syntaxhighlight>) is a public research university
+
+'''Resulting text'''
+* Weimar is located in the federal state of Thuringia ({{Langx|de|Thüringen}}).
+* The ''Seafarers of Catan'' ({{Langx|de|Die Seefahrer von Catan}}) is an expansion of the board game ''[[The Settlers of Catan]]''.
+* Albert the Bear ({{Langx|de|Albrecht der Bär|links=no}})
+* ''All Quiet on the Western Front'' ({{Langx|de|Im Westen nichts Neues|lit=In the West Nothing New}}) is a novel by [[Erich Maria Remarque]].
+* '''Paris Cité University''' ({{langx|fr|links=no|'''Université Paris Cité'''}}) is a public research university
+
+== Comparison with the Lang template==
+
+This template differs from the {{tlx|lang}} template in that this one labels the text with the name of the language. For that reason, to avoid unnecessary clutter, this template should be used sparingly, in cases where the name of the language should be made explicit, such as the first place in an article that the translation of a word or phrase in English is given, or when renderings in multiple languages are being given and confusion is possible in the absence of such labeling.
+
+Comparison:
+* <syntaxhighlight lang="wikitext" inline="1">{{Lang|ru|тундра}}</syntaxhighlight> produces {{lang|ru|тундра}}
+* <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|тундра}}</syntaxhighlight> produces {{langx|ru|тундра}}
+* <syntaxhighlight lang="wikitext" inline="1">{{Langx|ru|тундра|label=none}}</syntaxhighlight> produces {{langx|ru|тундра|label=none}}
+
+== Tracking categories ==
+* {{Category link with count|Lang and lang-xx template errors}}
+* {{Category link with count|Lang and lang-xx code promoted to ISO 639-1}}
+* {{Category link with count|Lang and lang-xx using deprecated ISO 639 codes}}
+TODO: (2024-09-22) rename these categories
+
+== See also ==
+{{#invoke:Lang/documentor tool|see_also|{{{see-also|}}}}}
+* {{tl|crh}} – Supports Latin, Cyrillic, and Arabic Crimean Tatar text
+* {{Tl|Lang}}
+* {{Tl|Language with name/for}}
+* [[List of ISO 639 language codes]] (language codes)
+* {{tl|IPA}}
+
+<includeonly>{{Sandbox other||
+[[Category:Wikipedia multilingual support templates]]
+[[Category:Templates that add a tracking category]]
+[[Category:Language tag handling templates]]
+}}</includeonly>

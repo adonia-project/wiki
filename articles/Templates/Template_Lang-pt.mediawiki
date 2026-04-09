@@ -1,0 +1,6 @@
+<noinclude>{{Being merged|spacetype=template|discuss=Wikipedia:Templates_for_discussion/Log/2024_September_27#Replace_and_delete_lang-??_templates|target=Template:Langx|nocat=yes}}</noinclude><includeonly>{{#invoke:lang|lang_xx_italic
+|code=pt
+}}</includeonly><noinclude>
+{{Documentation|Template:Lang-x/doc}}
+[[Category:Italic multilingual support templates]]
+</noinclude>

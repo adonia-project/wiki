@@ -1,0 +1,821 @@
+<includeonly>{{main other|}}{{Infobox
+| child = {{yesno|{{{embed|}}}}}
+| templatestyles = Template:Infobox political division/styles.css
+| bodyclass = ib-pol-div vcard
+
+| {{#ifeq:{{yesno|{{{embed|}}}}}|yes|title|above}} = {{#ifeq:{{yesno|{{{embed|}}}}}|yes|
+    |<div class="fn org">{{if empty|{{{name|}}}|{{{official_name|}}}|{{PAGENAMEBASE}}}}</div>
+    }}{{#if:{{{native_name|}}}|<div class="ib-pol-div-native nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}{{#if:{{{other_name|}}}|<div class="ib-pol-div-other nickname">{{{other_name}}}</div>}}
+
+<!--** names, type, and transliterations ** -->
+| subheader = {{#if:{{both|{{if empty|{{{name|}}}|{{{official_name|}}}|{{PAGENAMEBASE}}}}{{#ifeq:{{yesno|{{{embed|}}}}}|yes|1}}|{{{settlement_type|{{{type|}}}}}}}}|<div class="category">{{{settlement_type|{{{type}}}}}}</div>}}
+
+| rowclass1 = mergedtoprow ib-pol-div-official-below
+| data1 = {{#if:{{{name|}}}|{{{official_name|}}}}}
+
+<!-- ***Transliteration language 1*** -->
+| rowclass2 = mergedtoprow
+| header2 = {{#if:{{{translit_lang1|}}}|{{{translit_lang1}}}&nbsp;transcription(s)}}
+
+| rowclass3 = {{#if:{{{translit_lang1_type1|}}}|mergedrow|mergedbottomrow}}
+| label3 = &nbsp;•&nbsp;{{{translit_lang1_type}}}
+| data3 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type|}}}|{{{translit_lang1_info|}}}}}}}
+
+| rowclass4 = {{#if:{{{translit_lang1_type2|}}}|mergedrow|mergedbottomrow}}
+| label4 = &nbsp;•&nbsp;{{{translit_lang1_type1}}}
+| data4 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type1|}}}|{{{translit_lang1_info1|}}}}}}}
+
+| rowclass5 = {{#if:{{{translit_lang1_type3|}}}|mergedrow|mergedbottomrow}}
+| label5 =&nbsp;•&nbsp;{{{translit_lang1_type2}}}
+| data5 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type2|}}}|{{{translit_lang1_info2|}}}}}}}
+
+| rowclass6 = {{#if:{{{translit_lang1_type4|}}}|mergedrow|mergedbottomrow}}
+| label6 = &nbsp;•&nbsp;{{{translit_lang1_type3}}}
+| data6 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type3|}}}|{{{translit_lang1_info3|}}}}}}}
+
+| rowclass7 = {{#if:{{{translit_lang1_type5|}}}|mergedrow|mergedbottomrow}}
+| label7 = &nbsp;•&nbsp;{{{translit_lang1_type4}}}
+| data7 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type4|}}}|{{{translit_lang1_info4|}}}}}}}
+
+| rowclass8 = {{#if:{{{translit_lang1_type6|}}}|mergedrow|mergedbottomrow}}
+| label8 = &nbsp;•&nbsp;{{{translit_lang1_type5}}}
+| data8 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type5|}}}|{{{translit_lang1_info5|}}}}}}}
+
+| rowclass9 = mergedbottomrow
+| label9 = &nbsp;•&nbsp;{{{translit_lang1_type6}}}
+| data9 = {{#if:{{{translit_lang1|}}}|{{#if:{{{translit_lang1_type6|}}}|{{{translit_lang1_info6|}}}}}}}
+
+<!-- ***Transliteration language 2*** -->
+| rowclass10 = mergedtoprow
+| header10 = {{#if:{{{translit_lang2|}}}|{{{translit_lang2}}}&nbsp;transcription(s)}}
+
+| rowclass11 = {{#if:{{{translit_lang2_type1|}}}|mergedrow|mergedbottomrow}}
+| label11 = &nbsp;•&nbsp;{{{translit_lang2_type}}}
+| data11 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type|}}}|{{{translit_lang2_info|}}}}}}}
+
+| rowclass12 = {{#if:{{{translit_lang2_type2|}}}|mergedrow|mergedbottomrow}}
+| label12 = &nbsp;•&nbsp;{{{translit_lang2_type1}}}
+| data12 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type1|}}}|{{{translit_lang2_info1|}}}}}}}
+
+| rowclass13 = {{#if:{{{translit_lang2_type3|}}}|mergedrow|mergedbottomrow}}
+| label13 =&nbsp;•&nbsp;{{{translit_lang2_type2}}}
+| data13 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type2|}}}|{{{translit_lang2_info2|}}}}}}}
+
+| rowclass14 = {{#if:{{{translit_lang2_type4|}}}|mergedrow|mergedbottomrow}}
+| label14 = &nbsp;•&nbsp;{{{translit_lang2_type3}}}
+| data14 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type3|}}}|{{{translit_lang2_info3|}}}}}}}
+
+| rowclass15 = {{#if:{{{translit_lang2_type5|}}}|mergedrow|mergedbottomrow}}
+| label15 = &nbsp;•&nbsp;{{{translit_lang2_type4}}}
+| data15 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type4|}}}|{{{translit_lang2_info4|}}}}}}}
+
+| rowclass16 = {{#if:{{{translit_lang2_type6|}}}|mergedrow|mergedbottomrow}}
+| label16 = &nbsp;•&nbsp;{{{translit_lang2_type5}}}
+| data16 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type5|}}}|{{{translit_lang2_info5|}}}}}}}
+
+| rowclass17 = mergedbottomrow
+| label17 = &nbsp;•&nbsp;{{{translit_lang2_type6}}}
+| data17 = {{#if:{{{translit_lang2|}}}|{{#if:{{{translit_lang2_type6|}}}|{{{translit_lang2_info6|}}}}}}}
+<!-- end ** names, type, and transliterations ** -->
+
+<!-- ***Skyline Image*** -->
+| rowclass18 = mergedtoprow
+| data18 = {{#if:{{{image_skyline|}}}{{{image|}}}|<!--
+  -->{{#invoke:InfoboxImage|InfoboxImage<!--
+        -->|image={{if empty|{{{image_skyline|}}}|{{{image|}}}}}<!--
+        -->|size={{if empty|{{{image_size|}}}|{{{imagesize|}}}}}|sizedefault=250px<!--
+        -->|alt={{if empty|{{{image_alt|}}}|{{{alt|}}}}}<!--
+        -->|title={{if empty|{{{image_caption|}}}|{{{caption|}}}|{{{image_alt|}}}|{{{alt|}}}}}}}<!--
+  -->{{#if:{{{image_caption|}}}{{{caption|}}}|<div class="ib-pol-div-caption">{{if empty|{{{image_caption|}}}|{{{caption|}}}}}</div>}} }}
+
+<!-- ***Flag, Seal, Shield and Coat of arms*** -->
+| rowclass19 = mergedtoprow
+| class19 = maptable
+|  data19 = {{#if:{{{image_flag|}}}{{{image_seal|}}}{{{image_shield|}}}{{{image_blank_emblem|}}}{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}
+|{{Infobox settlement/columns
+| 1 = {{#if:{{{image_flag|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_flag}}}|size={{{flag_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|border={{yesno |{{{flag_border|}}}|yes=yes|blank=yes}}|alt={{{flag_alt|}}}|title=Flag of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br />{{Infobox settlement/link|type={{#if:{{{flag_type|}}}|{{{flag_type}}}|Flag}}|link={{{flag_link|}}}|name={{{official_name}}}}}}}
+| 2 = {{#if:{{{image_seal|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_seal|}}}|size={{{seal_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{seal_alt|}}}|title=Official seal of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br />{{Infobox settlement/link|type={{#if:{{{seal_type|}}}|{{{seal_type}}}|Seal}}|link={{{seal_link|}}}|name={{{official_name}}}}}}}
+| 3 = {{#if:{{{image_shield|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_shield|}}}||size={{{shield_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{shield_alt|}}}|title=Coat of arms of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br />{{Infobox settlement/link|type=Coat of arms|link={{{shield_link|}}}|name={{{official_name}}}}}}}
+| 4 = {{#if:{{{image_blank_emblem|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_blank_emblem|}}}|size={{{blank_emblem_size|}}}|sizedefault={{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}|85px|100px}}|alt={{{blank_emblem_alt|}}}|title=Official logo of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}<br />{{Infobox settlement/link|type={{#if:{{{blank_emblem_type|}}}|{{{blank_emblem_type}}}}}|link={{{blank_emblem_link|}}}|name={{{official_name}}}}}}}
+| 5 = {{#if:{{{image_map|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map}}}|size={{{mapsize|}}}|sizedefault=100px|alt={{{map_alt|}}}|title={{{map_caption|Location of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{map_caption|}}}|<div class="ib-pol-div-caption">{{{map_caption}}}}}</div>}}
+| 0 = {{#if:{{{pushpin_map_narrow|}}}|{{#if:{{both| {{{pushpin_map|}}} | {{{coordinates|}}} }}|
+{{location map|{{{pushpin_map|}}}
+ |border = infobox
+ |alt = {{{pushpin_map_alt|}}}
+ |caption ={{#if:{{{pushpin_map_caption_notsmall|}}}|{{{pushpin_map_caption_notsmall|}}}|{{#if:{{{pushpin_map_caption|}}}|{{{pushpin_map_caption}}}|{{#if:{{{map_caption|}}}|{{{map_caption}}}}}}}}}
+ |float = center
+ |width = {{#if:{{{pushpin_mapsize|}}}|{{{pushpin_mapsize}}}|150}}
+ |default_width = 250
+ |relief= {{{pushpin_relief|}}}
+ |AlternativeMap = {{{pushpin_image|}}}
+ |overlay_image = {{{pushpin_overlay|}}}
+ |coordinates = {{{coordinates|}}}
+ |label = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{#if:{{{pushpin_label|}}}|{{{pushpin_label}}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}}}} }}
+ |marksize =6
+ |outside = {{{pushpin_outside|}}}<!-- pin is outside the map --> 
+ |position = {{{pushpin_label_position|}}}
+}}
+}} }}
+}} }}
+
+<!-- ***Etymology*** -->
+| rowclass20 = mergedtoprow
+|  data20 = {{#if:{{{etymology|}}}|'''Etymology''': {{{etymology}}} }}
+<!-- ***Nickname*** -->
+| rowclass21 = {{#if:{{{etymology|}}}|mergedrow|mergedtoprow}}
+|  data21 = {{#if:{{{nickname|}}}|{{#if:{{{nickname_link|}}}|[[{{{nickname_link|}}}|'''Nickname(s)''':]]|'''Nickname(s)''':}}|{{#if:{{{nicknames|}}}|{{#if:{{{nickname_link|}}}|[[{{{nickname_link|}}}|'''Nicknames''':]]|'''Nicknames''':}}}}}}{{#if:{{{nickname|}}}{{{nicknames|}}}|&nbsp;<div class="ib-pol-div-nick nickname">{{if empty|{{{nickname|}}}|{{{nicknames|}}}}}</div>}}
+<!-- ***Motto*** -->
+| rowclass22 = {{#if:{{{etymology|}}}{{{nickname|}}}{{{nicknames|}}}|mergedrow|mergedtoprow}}
+|  data22 = {{#if:{{{motto|}}}|{{#if:{{{motto_link|}}}|[[{{{motto_link|}}}|'''Motto''':]]|'''Motto''':}}|{{#if:{{{mottoes|}}}|{{#if:{{{motto_link|}}}|[[{{{motto_link|}}}|'''Mottoes''':]]|'''Mottoes''':}}}}}}{{#if:{{{motto|}}}{{{mottoes|}}}|&nbsp;<div class="ib-pol-div-motto nickname">{{if empty|{{{motto|}}}|{{{mottoes|}}}}}</div>}}
+<!-- ***Anthem*** -->
+| rowclass23 = {{#if:{{{etymology|}}}{{{nickname|}}}{{{nicknames|}}}{{{motto|}}}{{{mottoes|}}}|mergedrow|mergedtoprow}}
+|  data23 = {{#if:{{{anthem|}}}|{{#if:{{{anthem_link|}}}|[[{{{anthem_link|}}}|'''Anthem''':]]|'''Anthem''':}} {{{anthem}}}}}
+<!-- ***Song*** -->
+| rowclass24 = {{#if:{{{etymology|}}}{{{nickname|}}}{{{nicknames|}}}{{{motto|}}}{{{mottoes|}}}{{{anthem|}}}|mergedrow|mergedtoprow}}
+|  data24 = {{#if:{{{song|}}}|{{#if:{{{song_type|}}}|{{{song_type}}}:|'''Song''':}} {{{song}}}}}
+<!-- ***Map*** -->
+| rowclass25 = mergedtoprow
+|  data25 = {{#if:{{both|{{{pushpin_map_narrow|}}}|{{{pushpin_map|}}}}}||{{#if:{{{image_map|}}}
+|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map}}}|size={{{mapsize|}}}|sizedefault=250px|alt={{{map_alt|}}}|title={{{map_caption|Location of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{map_caption|}}}|<div class="ib-pol-div-caption">{{{map_caption}}}</div>}}
+}}}}
+| rowclass26 = mergedrow
+|  data26 = {{#if:{{{image_map2|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map2}}}|size={{{mapsize2|}}}|sizedefault=250px|alt={{{map_alt2|}}}|title={{{map_caption2|Location of {{#if:{{{name|}}}|{{{name}}}|{{{official_name}}}}}}}}}}{{#if:{{{map_caption2|}}}|<div class="ib-pol-div-caption">{{{map_caption2}}}</div>}} }}
+
+<!-- ***Pushpin Map*** -->
+| rowclass27 = mergedtoprow
+|  data27 = {{#if:{{{pushpin_map_narrow|}}}||{{#if:{{both| {{{pushpin_map|}}} | {{{coordinates|}}} }}|
+{{location map|{{{pushpin_map|}}}
+ |border = infobox
+ |alt = {{{pushpin_map_alt|}}}
+ |caption ={{#if:{{{pushpin_map_caption_notsmall|}}}|{{{pushpin_map_caption_notsmall|}}}|{{#if:{{{pushpin_map_caption|}}}|{{{pushpin_map_caption}}}|{{#if:{{{map_caption|}}}|{{{map_caption}}}}}}}}}
+ |float = center
+ |width = {{{pushpin_mapsize|}}}
+ |default_width = 250
+ |relief= {{{pushpin_relief|}}}
+ |AlternativeMap = {{{pushpin_image|}}}
+ |overlay_image = {{{pushpin_overlay|}}}
+ |coordinates = {{{coordinates|}}}
+ |label = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{#if:{{{pushpin_label|}}}|{{{pushpin_label}}}|{{#if:{{{name|}}}|{{{name}}}|{{{official_name|}}}}}}} }}
+ |marksize =6
+ |outside = {{{pushpin_outside|}}}<!-- pin is outside the map --> 
+ |position = {{{pushpin_label_position|}}}
+}}
+}} }}
+
+| rowclass28 = {{#if:{{{image_map|}}}{{{image_map2|}}}{{{pushpin_map|}}}|mergedbottomrow|mergedrow}}
+| label28 = {{if empty|{{{grid_name|}}}|Grid&nbsp;position}}
+|  data28 = {{{grid_position|}}}
+
+<!-- ***Subdivisions*** -->
+| rowclass29 = {{#if:{{{subdivision_type1|}}}{{{subdivision_type2|}}}{{{subdivision_type3|}}}{{{subdivision_type4|}}}{{{subdivision_type5|}}}{{{subdivision_type6|}}}|mergedtoprow|}}
+| label29 = {{{subdivision_type}}}
+|  data29 = {{#if:{{{subdivision_type|}}}|{{{subdivision_name|}}} }}
+
+| rowclass30 = mergedrow
+| label30 = {{{subdivision_type1}}}
+|  data30 = {{#if:{{{subdivision_type1|}}}|{{{subdivision_name1|}}} }}
+
+| rowclass31 = mergedrow
+| label31 = {{{subdivision_type2}}}
+|  data31 = {{#if:{{{subdivision_type2|}}}|{{{subdivision_name2|}}} }}
+
+| rowclass32 = mergedrow
+| label32 = {{{subdivision_type3}}}
+|  data32 = {{#if:{{{subdivision_type3|}}}|{{{subdivision_name3|}}} }}
+
+| rowclass33 = mergedrow
+| label33 = {{{subdivision_type4}}}
+|  data33 = {{#if:{{{subdivision_type4|}}}|{{{subdivision_name4|}}} }}
+
+| rowclass34 = mergedrow
+| label34 = {{{subdivision_type5}}}
+|  data34 = {{#if:{{{subdivision_type5|}}}|{{{subdivision_name5|}}} }}
+
+| rowclass35 = mergedrow
+| label35 = {{{subdivision_type6}}}
+|  data35 = {{#if:{{{subdivision_type6|}}}|{{{subdivision_name6|}}} }}
+
+<!--***Established*** -->
+| rowclass36 = {{#if:{{{established_title1|}}}{{{established_title2|}}}{{{established_title3|}}}{{{established_title4|}}}{{{established_title5|}}}{{{established_title6|}}}|mergedtoprow|}}
+| label36 = {{{established_title}}}
+|  data36 = {{#if:{{{established_title|}}}|{{{established_date|}}} }}
+
+| rowclass37 = mergedrow
+| label37 = {{{established_title1}}}
+|  data37 = {{#if:{{{established_title1|}}}|{{{established_date1|}}} }}
+
+| rowclass38 = mergedrow
+| label38 = {{{established_title2}}}
+|  data38 = {{#if:{{{established_title2|}}}|{{{established_date2|}}} }}
+
+| rowclass39 = mergedrow
+| label39 = {{{established_title3}}}
+|  data39 = {{#if:{{{established_title3|}}}|{{{established_date3|}}} }}
+
+| rowclass40 = mergedrow
+| label40 = {{{established_title4}}}
+|  data40 = {{#if:{{{established_title4|}}}|{{{established_date4|}}} }}
+
+| rowclass41 = mergedrow
+| label41 = {{{established_title5}}}
+|  data41 = {{#if:{{{established_title5|}}}|{{{established_date5|}}} }}
+
+| rowclass42 = mergedrow
+| label42 = {{{established_title6}}}
+|  data42 = {{#if:{{{established_title6|}}}|{{{established_date6|}}} }}
+
+| rowclass43 = mergedrow
+| label43 = {{{established_title7}}}
+|  data43 = {{#if:{{{established_title7|}}}|{{{established_date7|}}} }}
+
+| rowclass44 = mergedrow
+| label44 = {{{extinct_title}}}
+|  data44 = {{#if:{{{extinct_title|}}}|{{{extinct_date|}}} }}
+
+| rowclass45 = mergedrow
+| label45 = Founded by
+|  data45 = {{{founder|}}}
+
+| rowclass46 = mergedrow
+| label46 = [[Namesake|Named for]]
+|  data46 = {{{named_for|}}}
+
+<!-- ***Seat of government and largest city*** -->
+| rowclass47 = {{#if:{{{admin_center|}}}{{{largest_settlement|}}}|mergedtoprow}}
+| label47 = {{#if:{{{capital_type|}}} | {{{capital_type}}} | Capital }}{{#ifeq: {{#ifeq:{{{largest_city|}}}{{{largest_settlement|}}}|capital
+                         |capital<!--
+                      -->|{{#switch:{{{capital}}}
+                           | [[{{{largest_city|}}}{{{largest_settlement|}}}]] = capital
+                           | {{{largest_city|}}}{{{largest_settlement|}}} = capital
+                           | not capital
+                          }}<!--
+                    -->}}|capital <!--
+    (#ifeq:)-->|<!------------------------------------------
+                     capital is largest_city/_settlement:
+                 -------------------------------------------
+             --><div class="ib-pol-div-largest">and {{{largest_settlement_type|largest city}}}</div>
+              }}
+| data47  = {{#if:{{{capital|}}}|{{{capital}}}{{#if:{{{coordinates|}}}|<br/>{{#invoke:Coordinates|coordinsert|{{{coordinates}}}|type:city}}}} }}
+
+| rowclass48 = {{#if:{{{capital|}}}|mergedrow}}
+| label48 = {{#if:{{{admin_center_type|}}}| {{{admin_center_type}}} | Administrative&nbsp;center }}
+| data48 = {{#switch:{{{admin_center|}}}
+  |capital | =
+  |[[{{{capital|}}}]] =
+  |{{{capital|}}} =
+  |#default = {{{admin_center}}}{{#if:{{{capital|}}}||{{#if:{{{coordinates|}}}|<br/>{{#invoke:Coordinates|coordinsert|{{{coordinates}}}|type:city}}}} }} }}
+
+| rowclass49 = {{#if:{{{capital|}}}{{{admin_center|}}}|mergedbottomrow}}
+| label49 = Largest {{{largest_settlement_type|city}}}
+| data49 = {{#ifeq: {{#ifeq:{{{largest_city|}}}{{{largest_settlement|}}}|capital
+                         |capital<!--
+                      -->|{{#switch:{{{capital}}}
+                           | [[{{{largest_city|}}}{{{largest_settlement|}}}]] = capital
+                           | {{{largest_city|}}}{{{largest_settlement|}}} = capital
+                           | not capital
+                          }}<!--
+                    -->}}|capital <!--
+    (#ifeq:)-->|<!-- nothing already appears above -->
+               | {{if empty| {{{largest_city|}}} | {{{largest_settlement|}}} }}
+               }}
+
+| label50 = {{#if:{{{official_languages_type|}}} | {{{official_languages_type}}} | Official languages }}
+| data50 = {{{official_languages|}}}
+| rowclass51 = mergedrow
+| label51 = {{nobold|1={{#if:{{{recognized_languages|}}}|Recognized|Recognised}}&nbsp;languages}}
+| data51 = {{if empty| {{{recognized_languages|}}} | {{{recognised_languages|}}} }}
+| rowclass52 = mergedrow
+| label52 = {{nobold|1={{#if:{{{recognized_national_languages|}}}|Recognized|Recognised}} national&nbsp;languages}}
+| data52 = {{if empty| {{{recognized_national_languages|}}} | {{{recognised_national_languages|}}} | {{{national_languages|}}} }}
+| rowclass53 = mergedrow
+| label53 = {{nobold|1={{#if:{{{recognized_regional_languages|}}}|Recognized|Recognised}} regional&nbsp;languages}}
+| data53 = {{if empty| {{{recognized_regional_languages|}}} | {{{recognised_regional_languages|}}} | {{{regional_languages|}}} }}
+| label54 = Common&nbsp;languages
+| data54  = {{{common_languages|}}}
+
+| rowclass55 = {{#ifeq:{{{languages2_sub|}}}|yes
+           |{{#ifeq:{{{languages_sub|}}}|yes |mergedrow}}
+           |{{#ifeq:{{{languages_sub|}}}|yes |mergedbottomrow}} }}
+| label55 ={{#ifeq:{{{languages_sub|}}}|yes
+  |<div class="ib-pol-div-lang">{{if empty| {{{languages_type|}}} | Other&nbsp;languages }}</div>
+  |{{if empty| {{{languages_type|}}} | Other&nbsp;languages }}
+  }}
+| data55 = {{{languages|}}}
+
+| rowclass56 = {{#ifeq:{{{languages2_sub|}}}|yes |mergedbottomrow}}
+| label56 = {{#ifeq:{{{languages2_sub|}}}|yes
+  |<div class="ib-pol-div-lang">{{if empty|{{{languages2_type|}}} | Other&nbsp;languages }}</div>
+  |{{if empty|{{{languages2_type|}}} | Other&nbsp;languages }}
+  }}
+| data56 = {{{languages2|}}}
+
+| label57 = [[Ethnic group|Ethnic&nbsp;groups]] <!--
+           -->{{#if:{{{ethnic_groups_year|}}} |<div class="ib-pol-div-ethnic"> ({{{ethnic_groups_year}}}){{{ethnic_groups_ref|}}}</div>|<div class="ib-pol-div-ethnic">{{{ethnic_groups_ref|}}}</div>}}
+| data57 = {{{ethnic_groups|}}}
+
+| label58 = Religion <!--
+           -->{{#if:{{{religion_year|}}} |<div class="ib-pol-div-religion"> ({{{religion_year}}}){{{religion_ref|}}}</div>|<div class="ib-pol-div-religion">{{{religion_ref|}}}</div>}}
+| data58 = {{{religion|}}}
+
+| label59 = [[Demonym|Demonym(s)]]
+| data59 = {{#if:{{{demonym|}}}
+  |{{#ifexist:{{{demonym}}} people
+     | [[{{{demonym}}} people|{{{demonym}}}]]
+     | {{{demonym}}}
+    }}
+  }}
+
+<!-- ***Government type and Leader*** -->
+| label60 = {{#if:{{{government_type|}}}
+     | {{#if:{{{politics_link|}}}
+               | [[{{{politics_link}}}|Government]]<!--
+            -->| {{#ifexist:Politics of {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}
+                  | [[Politics of {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}|Government]]<!--
+               -->| Government<!--
+              -->}}<!--
+           -->}}<!--
+      -->}}
+| data60 = {{{government_type|}}}
+<!-- ***Government*** -->
+| header61 = {{#if:{{{government_type|}}} || {{#if:{{{leader_title1|}}}{{{leader_name1|}}} | Government }} }}
+
+| rowclass62 = mergedrow
+| data62 = {{#if:{{{leader_name1|}}}|{{Infobox country/multirow|{{{leader_title1|}}} |{{{leader_name1|}}} |{{{leader_title2|}}} |{{{leader_name2|}}} |{{{leader_title3|}}} |{{{leader_name3|}}} |{{{leader_title4|}}} |{{{leader_name4|}}} |{{{leader_title5|}}} |{{{leader_name5|}}} |{{{leader_title6|}}} |{{{leader_name6|}}} |{{{leader_title7|}}} |{{{leader_name7|}}} |{{{leader_title8|}}} |{{{leader_name8|}}} |{{{leader_title9|}}} |{{{leader_name9|}}} |{{{leader_title10|}}} |{{{leader_name10|}}} |{{{leader_title11|}}} |{{{leader_name11|}}} |{{{leader_title12|}}} |{{{leader_name12|}}} |{{{leader_title13|}}} |{{{leader_name13|}}} |{{{leader_title14|}}} |{{{leader_name14|}}} |{{{leader_title15|}}} |{{{leader_name15|}}} }} }}
+
+| label63 = Legislature
+| data63 = {{{legislature|}}}
+| rowclass64 = mergedrow
+| label64 = <div class="ib-pol-div-fake-li">•&nbsp;{{#if:{{{type_house1|}}}|{{{type_house1}}}|[[Upper house]]}}</div>
+| data64 = {{{upper_house|{{{house1|}}}}}}
+| rowclass65 = mergedbottomrow
+| label65 = <div class="ib-pol-div-fake-li">•&nbsp;{{#if:{{{type_house2|}}}|{{{type_house2}}}|[[Lower house]]}}</div>
+| data65 = {{{lower_house|{{{house2|}}}}}}
+
+| label66 = {{#if:{{{judiciary_link|}}}
+               | [[{{{judiciary_link}}}|Judiciary]]<!--
+            -->| {{#ifexist:Judiciary of {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}
+                  | [[Judiciary of {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}|Judiciary]]<!--
+               -->| Judiciary<!--
+              -->}}<!--
+           -->}}
+| data66 = {{{judiciary|}}}
+
+<!-- ***Representation in federal/national government*** -->
+| header67 = {{#if:{{{national_representation_type1|}}}
+   | {{#if:{{{national_representation|}}}
+      | {{{national_representation}}}
+      | National&nbsp;representation
+   }} }}
+| rowclass68 = {{#if:{{{national_representation2|}}}|mergedrow|mergedbottomrow}}
+| label68 = <div class="ib-pol-div-fake-li">•&nbsp;{{{national_representation_type1}}}</div>
+| data68 = {{#if:{{{national_representation_type1|}}}|{{{national_representation1|}}} }}
+| rowclass69 = mergedbottomrow
+| label69 = <div class="ib-pol-div-fake-li">•&nbsp;{{{national_representation_type2}}}</div>
+| data69 = {{#if:{{{national_representation_type2|}}}|{{{national_representation2|}}} }}
+
+<!-- ***Geographical characteristics*** -->
+<!-- ***Area*** -->
+| rowclass70 = mergedtoprow
+| header70 = {{#if:{{{area_km2|}}}{{{area_ha|}}}{{{area_sq_mi|}}}{{{area_acre|}}}{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_sq_mi|}}}{{{area_land_acre|}}}{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_sq_mi|}}}{{{area_water_acre|}}}{{{stat_area1|}}}{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}
+  | {{#if:{{{area_link|}}}
+               | [[{{{area_link}}}|Area]]
+               | {{#ifexist:Geography of {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}
+                  | [[Geography of {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}|Area]]
+                  | Area <!--
+              -->}}<!--
+           -->}} }}
+
+| rowclass71 = {{#if:{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_sq_mi|}}}{{{area_land_acre|}}}{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_sq_mi|}}}{{{area_water_acre|}}}{{{area_label2|}}}{{{area_label3|}}}{{{percent_water|}}}{{{stat_area1|}}}{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label71 = <div class="ib-pol-div-fake-li">•&nbsp;{{{area_label|Total}}}{{{FR_foot4|}}}</div>
+| data71 = {{#if:{{{area_km2|}}}{{{area_ha|}}}{{{area_sq_mi|}}}{{{area_acre|}}}
+  |{{#if:{{{area_km2|}}}{{{area_sq_mi|}}}
+     |{{convinfobox|{{{area_km2|}}}|km2|{{{area_sq_mi|}}}|sqmi|abbr=on}}
+     |{{#if:{{{area_ha|}}}{{{area_acre|}}}
+        |{{convinfobox|{{{area_ha|}}}|ha|{{{area_acre|}}}|acre|abbr=on}}
+      }}
+   }}{{{area_footnote|}}}{{#if:{{{area_rank|}}} |&#32;([[{{#if:{{{area_rank_link|}}}|{{{area_rank_link|}}}|List of countries and dependencies by area}}|{{{area_rank}}}]]) }}
+  }}
+
+| rowclass72 = {{#if:{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_sq_mi|}}}{{{area_water_acre|}}}{{{area_label2|}}}{{{area_label3|}}}{{{percent_water|}}}{{{stat_area1|}}}{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label72 = <div class="ib-pol-div-fake-li">•&nbsp;Land</div>
+| data72 = {{#if:{{{area_land_km2|}}}{{{area_land_ha|}}}{{{area_land_sq_mi|}}}{{{area_land_acre|}}}
+  |{{#if:{{{area_land_km2|}}}{{{area_land_sq_mi|}}}
+     |{{convinfobox|{{{area_land_km2|}}}|km2|{{{area_land_sq_mi|}}}|sqmi|abbr=on}}
+     |{{#if:{{{area_land_ha|}}}{{{area_land_acre|}}}
+        |{{convinfobox|{{{area_land_ha|}}}|ha|{{{area_land_acre|}}}|acre|abbr=on}}
+      }}
+   }}{{{area_land_footnote|}}}
+  }}
+
+| rowclass73 = {{#if:{{{area_label2|}}}{{{area_label3|}}}{{{percent_water|}}}{{{stat_area1|}}}{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label73 = <div class="ib-pol-div-fake-li">•&nbsp;Water</div>
+| data73 = {{#if:{{{area_water_km2|}}}{{{area_water_ha|}}}{{{area_water_sq_mi|}}}{{{area_water_acre|}}}
+  |{{#if:{{{area_water_km2|}}}{{{area_water_sq_mi|}}}
+     |{{convinfobox|{{{area_water_km2|}}}|km2|{{{area_water_sq_mi|}}}|sqmi|abbr=on}}
+     |{{#if:{{{area_water_ha|}}}{{{area_water_acre|}}}
+        |{{convinfobox|{{{area_water_ha|}}}|ha|{{{area_water_acre|}}}|acre|abbr=on}}
+      }}
+   }}{{{area_water_footnote|}}}
+  }}
+
+| rowclass74 = {{#if:{{{area_label2|}}}{{{area_label3|}}}{{{stat_area1|}}}{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label74 = <div class="ib-pol-div-fake-li">•&nbsp;Water&nbsp;(%)</div>
+| data74 = {{{percent_water|}}}
+
+| rowclass75 = {{#if:{{{area_label3|}}}{{{stat_area1|}}}{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label75 = <div class="ib-pol-div-fake-li">•&nbsp;{{{area_label2|}}}</div>
+| data75 = {{#if:{{{area_label2|}}}| {{{area_data2|}}} }}
+
+| rowclass76 = {{#if:{{{stat_area1|}}}{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label76 = <div class="ib-pol-div-fake-li">•&nbsp;{{{area_label3|}}}</div>
+| data76 = {{#if:{{{area_label3|}}}| {{{area_data3|}}} }}
+
+| rowclass77 = {{#if:{{{stat_area2|}}}{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label77 = {{{stat_year1|}}}{{{ref_area1|}}}
+| data77 = {{#if: {{{stat_area1|}}} | {{convinfobox|{{{stat_area1|}}}|km2||sqmi}} }}
+
+| rowclass78 = {{#if:{{{stat_area3|}}}{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label78 = {{{stat_year2|}}}{{{ref_area2|}}}
+| data78 = {{#if: {{{stat_area2|}}} | {{convinfobox|{{{stat_area2|}}}|km2||sqmi}} }}
+
+| rowclass79 = {{#if:{{{stat_area4|}}}{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label79 = {{{stat_year3|}}}{{{ref_area3|}}}
+| data79 = {{#if: {{{stat_area3|}}} | {{convinfobox|{{{stat_area3|}}}|km2||sqmi}} }}
+
+| rowclass80 = {{#if:{{{stat_area5|}}}|mergedrow|mergedbottomrow}}
+| label80 = {{{stat_year4|}}}{{{ref_area4|}}}
+| data80 = {{#if: {{{stat_area4|}}} | {{convinfobox|{{{stat_area4|}}}|km2||sqmi}} }}
+
+| rowclass81 = mergedbottomrow
+| label81 = {{{stat_year5|}}}{{{ref_area5|}}}
+| data81 = {{#if: {{{stat_area5|}}} | {{convinfobox|{{{stat_area5|}}}|km2||sqmi}} }}
+
+<!-- ***Dimensions*** -->
+| rowclass82 = mergedtoprow
+| header82 = {{#if:{{{length_km|}}}{{{length_mi|}}}{{{width_km|}}}{{{width_mi|}}}|Dimensions<div class="ib-settlement-fn">{{{dimensions_footnotes|}}}</div>}}
+
+| rowclass83 = mergedrow
+| label83 = <div class="ib-pol-div-fake-li">•&nbsp;Length</div>
+|  data83 = {{#if:{{{length_km|}}}{{{length_mi|}}}
+ |{{convinfobox|{{{length_km|}}}|km|{{{length_mi|}}}|mi|abbr=on}}
+ }}
+
+| rowclass84 = mergedbottomrow
+| label84 = <div class="ib-pol-div-fake-li">•&nbsp;Width</div>
+|  data84 = {{#if:{{{width_km|}}}{{{width_mi|}}}
+ |{{convinfobox|{{{width_km|}}}|km|{{{width_mi|}}}|mi|abbr=on}}
+ }}
+
+<!-- ***Elevation*** -->
+| rowclass85 = {{#if:{{{elevation_max_m|}}}{{{elevation_max_ft|}}}|mergedtoprow|}}
+| label85 = {{#if:{{{elevation_link|}}}|[[{{{elevation_link|}}}|Elevation]]|Elevation}}<div class="ib-pol-div-elevation">{{{elevation_footnotes|}}}{{#if:{{{elevation_point|}}}|&#32;({{{elevation_point}}})}}</div>
+|  data85 = {{#if:{{{elevation_m|}}}{{{elevation_ft|}}}
+ |{{infobox_settlement/lengthdisp
+      |m   ={{{elevation_m|}}}
+      |ft  ={{{elevation_ft|}}}
+      |pref={{{unit_pref}}}
+      |name={{{subdivision_name}}}
+    }} }}
+
+| rowclass86 = {{#if:{{{elevation_m|}}}{{{elevation_ft|}}}|mergedrow|{{#if:{{{elevation_min_m|}}}{{{elevation_min_ft|}}}|mergedtoprow|}}}}
+| label86 = Highest&nbsp;elevation<div class="ib-pol-div-elevation">{{{elevation_max_footnotes|}}}{{#if:{{{elevation_max_point|}}}|&#32;({{{elevation_max_point}}})}}</div>
+|  data86 = {{#if:{{{elevation_max_m|}}}{{{elevation_max_ft|}}}
+ |{{infobox_settlement/lengthdisp
+      |m   ={{{elevation_max_m|}}}
+      |ft  ={{{elevation_max_ft|}}}
+      |pref={{{unit_pref}}}
+      |name={{{subdivision_name}}}
+    }} }}
+<!-- ***Elevation max rank*** -->
+| rowclass87 = {{#if:{{{elevation_min_m|}}}{{{elevation_min_ft|}}}|mergedrow|mergedbottomrow}}
+| label87 = &nbsp;•&nbsp;Rank
+|  data87 =  {{#if:{{{elevation_max_m|}}}{{{elevation_max_ft|}}}| {{{elevation_max_rank|}}} }}
+
+| rowclass88 = {{#if:{{{elevation_min_rank|}}}|mergedrow|mergedbottomrow}}
+| label88 = Lowest&nbsp;elevation<div class="ib-pol-div-elevation">{{{elevation_min_footnotes|}}}{{#if:{{{elevation_min_point|}}}|&#32;({{{elevation_min_point}}})}}</div>
+|  data88 = {{#if:{{{elevation_min_m|}}}{{{elevation_min_ft|}}}
+  |{{infobox_settlement/lengthdisp
+      |m   ={{{elevation_min_m|}}}
+      |ft  ={{{elevation_min_ft|}}}
+      |pref={{{unit_pref}}}
+      |name={{{subdivision_name}}}
+    }} }}
+<!-- ***Elevation min rank*** -->
+| rowclass89 = mergedbottomrow
+| label89 = &nbsp;•&nbsp;Rank
+|  data89 = {{#if:{{{elevation_min_m|}}}{{{elevation_min_ft|}}}|{{{elevation_min_rank|}}}}}
+
+<!-- ***Population*** -->
+
+<!-- ***Demographics 1*** -->
+| rowclass90 = mergedtoprow
+| header90 = {{#if:{{{population_estimate|}}}{{{population_census|}}}{{{stat_pop1|}}}{{{stat_pop2|}}}{{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}}
+     |{{#if:{{{population_link|}}}
+               | {{#ifeq:{{{population_link}}}|no|Population|[[{{{population_link}}}|Population]]}}<!--
+            -->| {{#ifexist:Demographics of {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}
+                  | [[Demographics of {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}|Population]]<!--
+               -->| Population<!--
+              -->}}<!--
+           -->}} }}
+
+| rowclass91 = mergedrow
+| label91 = <div class="ib-pol-div-fake-li">•&nbsp;{{#if:{{{population_estimate_year|}}} |{{{population_estimate_year}}} estimate|Estimate}}</div>
+| data91 = {{#if:{{{population_estimate|}}}
+        |{{{population_estimate}}}<!--
+              -->{{#if:{{{population_estimate_rank|}}} |&#32;([[{{#if:{{{population_rank_link|}}}|{{{population_rank_link|}}}|List of countries and dependencies by population}}|{{{population_estimate_rank}}}]])}}
+        }}
+| rowclass92 = mergedrow
+| label92= <div class="ib-pol-div-fake-li">•&nbsp;{{{population_label2|}}}</div>
+| data92= {{#if:{{{population_label2|}}}|{{{population_data2|}}}}}
+
+| rowclass93= mergedrow
+| label93= <div class="ib-pol-div-fake-li">•&nbsp;{{{population_label3|}}}</div>
+| data93= {{#if:{{{population_label3|}}}|{{{population_data3|}}}}}
+
+| rowclass94= mergedrow
+| data94= {{#if:{{{stat_pop1|}}}{{{stat_pop2|}}}{{{stat_pop3|}}}{{{stat_pop4|}}}{{{stat_pop5|}}}|{{infobox country/multirow|{{{stat_year1|}}}{{{ref_pop1|}}} |{{{stat_pop1|}}}|{{{stat_year2|}}}{{{ref_pop2|}}} |{{{stat_pop2|}}}|{{{stat_year3|}}}{{{ref_pop3|}}} |{{{stat_pop3|}}}|{{{stat_year4|}}}{{{ref_pop4|}}} |{{{stat_pop4|}}}|{{{stat_year5|}}}{{{ref_pop5|}}} |{{{stat_pop5|}}} }} }}
+
+| rowclass95= mergedrow
+| label95= <div class="ib-pol-div-fake-li">•&nbsp;{{#if:{{{population_census_year|}}} |{{{population_census_year}}}&nbsp;census|Census}}</div>
+| data95= {{#if:{{{population_census|}}}
+  |{{{population_census}}}<!--
+              -->{{#if:{{{population_census_rank|}}} |&#32;([[{{#if:{{{population_rank_link|}}}|{{{population_rank_link|}}}|List of countries and dependencies by population}}|{{{population_census_rank}}}]])}}
+  }}
+
+| rowclass96 = mergedbottomrow
+| label96= <div class="ib-pol-div-fake-li">•&nbsp;Density{{{FR_foot5|}}}</div>
+| data96= {{#if:{{{population_density_km2|}}}{{{population_density_sq_mi|}}}
+     | {{convinfobox|{{{population_density_km2|}}}|/km2|{{{population_density_sq_mi|}}}|/sqmi|1|abbr=on}}{{{pop_den_footnote|}}}<!--
+            -->{{#if:{{{population_density_rank|}}} |&#32;([[{{#if:{{{population_density_rank_link|}}}|{{{population_density_rank_link|}}}|List of countries and dependencies by population density}}|{{{population_density_rank}}}]])}}
+     }}
+     
+| rowclass107= mergedtoprow
+| label107= [[Gross value added|GVA]]
+| data107= {{#if:{{{GVA|}}}{{{GVA_per_capita|}}}
+   |{{#if:{{{GVA_year|}}} |{{{GVA_year}}}&nbsp;}}estimate
+   }}
+
+| rowclass108= mergedrow
+| label108= <div class="ib-pol-div-fake-li">•&nbsp;Total</div>
+| data108= {{#if:{{{GVA|}}}
+     |{{{GVA}}}<!--
+             -->{{#if:{{{GVA_rank|}}} |&#32;({{{GVA_rank}}})}}
+     }}
+| rowclass109= mergedbottomrow
+| label109= <div class="ib-pol-div-fake-li">•&nbsp;Per capita</div>
+| data109= {{#if:{{{GVA_per_capita|}}}
+        | {{{GVA_per_capita}}}<!--
+                -->{{#if:{{{GVA_per_capita_rank|}}} |&#32;({{{GVA_per_capita_rank}}})}}
+       }}
+
+| rowclass110= mergedtoprow
+| label110= {{#if:{{{GDP_PPP_type|}}}|{{{GDP_PPP_type}}}|[[Gross domestic product|GDP]]&nbsp;{{nobold|([[Purchasing power parity|PPP]])}}}}
+| data110= {{#if:{{{GDP_PPP|}}}{{{GDP_PPP_per_capita|}}}
+     |{{#if:{{{GDP_PPP_year|}}} |{{{GDP_PPP_year}}}&nbsp;}}estimate
+     }}
+| rowclass111= mergedrow
+| label111= <div class="ib-pol-div-fake-li">•&nbsp;Total</div>
+| data111= {{#if:{{{GDP_PPP|}}}
+     |{{{GDP_PPP}}}<!--
+             -->{{#if:{{{GDP_PPP_rank|}}} |&#32;([[{{#if:{{{GDP_PPP_rank_link|}}}|{{{GDP_PPP_rank_link|}}}|List of countries by GDP (PPP)}}|{{{GDP_PPP_rank}}}]])}}
+     }}
+| rowclass112= mergedbottomrow
+| label112= <div class="ib-pol-div-fake-li">•&nbsp;Per capita</div>
+| data112= {{#if:{{{GDP_PPP_per_capita|}}}
+     |{{{GDP_PPP_per_capita}}}<!--
+                -->{{#if:{{{GDP_PPP_per_capita_rank|}}} |&#32;([[{{#if:{{{GDP_PPP_per_capita_rank_link|}}}|{{{GDP_PPP_per_capita_rank_link|}}}|List of countries by GDP (PPP) per capita}}|{{{GDP_PPP_per_capita_rank}}}]])}}
+     }}
+
+| rowclass113= mergedtoprow
+| label113= {{#if:{{{GDP_nominal_type|}}}|{{{GDP_nominal_type}}}|[[Gross domestic product|GDP]]&nbsp;{{nobold|(nominal)}}}}
+| data113= {{#if:{{{GDP_nominal|}}}{{{GDP_nominal_per_capita|}}}
+   |{{#if:{{{GDP_nominal_year|}}} |{{{GDP_nominal_year}}}&nbsp;}}estimate
+   }}
+
+| rowclass114= mergedrow
+| label114= <div class="ib-pol-div-fake-li">•&nbsp;Total</div>
+| data114= {{#if:{{{GDP_nominal|}}}
+     |{{{GDP_nominal}}}<!--
+             -->{{#if:{{{GDP_nominal_rank|}}} |&#32;([[{{#if:{{{GDP_nominal_rank_link|}}}|{{{GDP_nominal_rank_link|}}}|List of countries by GDP (nominal)}}|{{{GDP_nominal_rank}}}]])}}    
+     }}
+| rowclass115= mergedbottomrow
+| label115= <div class="ib-pol-div-fake-li">•&nbsp;Per capita</div>
+| data115= {{#if:{{{GDP_nominal_per_capita|}}}
+        | {{{GDP_nominal_per_capita}}}<!--
+                -->{{#if:{{{GDP_nominal_per_capita_rank|}}} |&#32;([[{{#if:{{{GDP_nominal_per_capita_rank_link|}}}|{{{GDP_nominal_per_capita_rank_link|}}}|List of countries by GDP (nominal) per capita}}|{{{GDP_nominal_per_capita_rank}}}]])}}
+       }}
+
+| label116= [[Gini_coefficient|Gini]]{{#if:{{{Gini_year|}}} |&nbsp;{{nobold|1=({{{Gini_year}}})}}}}
+| data116= {{#if:{{{Gini|}}}
+     | {{#switch:{{{Gini_change|}}}
+              |increase = {{increaseNegative}}&nbsp;<!--
+           -->|decrease = {{decreasePositive}}&nbsp;<!--
+           -->|steady = {{steady}}&nbsp;<!--
+          -->}}{{{Gini}}}{{{Gini_ref|}}}<br/><!--
+          ---------Evaluate and add Gini category:----------
+          -->{{nowrap|1=<!--
+             -->{{#iferror:<!--
+                -->{{#ifexpr:{{{Gini}}}>100 <!--
+                 -->| {{error|Error: Gini value above 100}}<!--Handled by outer #iferror, not visible to users--><!--
+                 -->| {{#ifexpr:{{{Gini}}}>=60 |{{color|red|very high}}<!--
+                    -->| {{#ifexpr:{{{Gini}}}>=46 <!--
+                       -->| {{color|darkred|high}}<!--
+                       -->| {{#ifexpr:{{{Gini}}}>=30 <!--
+                          -->| {{color|orange|medium}}<!--
+                          -->| {{#ifexpr:{{{Gini}}}>=0 <!--
+                             -->| {{color|forestgreen|low}}<!--
+                             -->| {{error|Error:Gini value below 0}}<!--Handled by outer #iferror, not visible to users--><!--
+                            -->}}<!--
+                         -->}}<!--
+                      -->}}<!--
+                   -->}}<!--
+                -->}}<!--
+              -->| {{error|Error: Invalid Gini value}}<!--
+             -->}}<!--
+           -->}}<!--
+           -----------Add Gini_rank (if supplied):----------
+           -->{{#if:{{{Gini_rank|}}}
+               |&nbsp;·&nbsp;[[{{#if:{{{Gini_rank_link|}}}|{{{Gini_rank_link|}}}|List of countries by income equality}}|{{{Gini_rank}}}]]<!--
+               
+           -->}}<!--
+      -->}}
+
+| label117= [[Human Development Index|HDI]]{{#if:{{{HDI_year|}}} |&nbsp;{{nobold|1=({{{HDI_year}}})}}}}
+| data117= {{#if:{{{HDI|}}}
+     | {{#switch:{{{HDI_change|}}}
+              |increase = {{increase}}&nbsp;<!--
+           -->|decrease = {{decrease}}&nbsp;<!--
+           -->|steady = {{steady}}&nbsp;<!--
+          -->}}{{{HDI}}}{{{HDI_ref|}}}<br/><!--
+          ---------Evaluate and add HDI category:---------
+          -->{{nowrap|1=<!--
+              -->{{#iferror:<!--
+                -->{{#ifexpr:{{{HDI}}}>1 <!--
+                 -->| {{error|Error: HDI value greater than 1}}<!--Handled by outer #iferror, not visible to users--><!--
+                 -->| {{#ifexpr:{{{HDI}}}>0.799 <!--
+                    -->| {{color|darkgreen|very high}}<!--
+                    -->| {{#ifexpr:{{{HDI}}}>0.699 <!--
+                       -->| {{color|forestgreen|high}}<!--
+                       -->| {{#ifexpr:{{{HDI}}}>0.549 <!--
+                          -->| {{color|orange|medium}}<!--
+                          -->| {{#ifexpr:{{{HDI}}}>=0.000<!--
+                             -->| {{color|red|low}}<!--
+                             -->| {{error|Error: HDI value less than 0}}<!--Handled by outer #iferror, not visible to users--><!--
+                            -->}}<!--
+                         -->}}<!--
+                      -->}}<!--
+                   -->}}<!--
+                -->}}<!--
+               -->| {{error|Error: Invalid HDI value}}<!--
+              -->}}<!--
+           -->}}<!--
+          ----------Add HDI_rank (if supplied):-----------
+          -->{{#if:{{{HDI_rank|}}}
+              |&nbsp;·&nbsp;[[{{#if:{{{HDI_rank_link|}}}|{{{HDI_rank_link|}}}|List of countries by Human Development Index}}|{{{HDI_rank}}}]]<!--
+          -->}}<!--
+      -->}}
+
+| label118= Currency
+| data118= {{#if:{{{currency|}}}
+     | {{{currency}}} {{#if:{{{currency_code|}}} |([[ISO 4217|{{{currency_code}}}]])}}
+   }}
+
+<!-- ***Time Zones*** -->
+| rowclass119 = {{#if:{{{timezone1_DST|{{{timezone_DST|}}}}}}|mergedrow|mergedbottomrow}}
+| header119 = {{#if:{{{timezone1_location|}}}|{{#if:{{{timezone2|}}}|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Time zone}}|Time zone]]s|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Time zone}}|Time zone]]}}|}}
+| rowclass120 = {{#if:{{{timezone1_location|}}}|mergedrow|mergedtoprow}}
+|  label120 = {{#if:{{{timezone1_location|}}}|{{{timezone1_location}}}|{{#if:{{{timezone2_location|}}}|{{{timezone2_location}}}|{{#if:{{{timezone2|}}}|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Time zone}}|Time zone]]s|[[{{#if:{{{timezone_link|}}}|{{{timezone_link}}}|Time zone}}|Time zone]]}}}}}}
+|  data120 = {{#if:{{{utc_offset1|{{{utc_offset|}}} }}}
+ |[[UTC{{{utc_offset1|{{{utc_offset}}}}}}]] {{#if:{{{timezone1|{{{timezone|}}}}}}|({{{timezone1|{{{timezone}}}}}})}}
+ |{{{timezone1|{{{timezone|}}}}}}{{#if:{{{utc_offset_list|}}}|{{{utc_offset_list}}} {{#if:{{{timezone1|{{{timezone|}}}}}}|({{{timezone1|{{{timezone}}}}}})}}}}
+ }} 
+
+| rowclass121 = mergedbottomrow
+| label121 = <div class="ib-pol-div-fake-li">&nbsp;•&nbsp;Summer ([[Daylight saving time|DST]])</div>
+|  data121 = {{#if:{{{utc_offset1_DST|{{{utc_offset_DST|}}}}}}
+     |[[UTC{{{utc_offset1_DST|{{{utc_offset_DST|}}}}}}]] {{#if:{{{timezone1_DST|{{{timezone_DST|}}}}}}|({{{timezone1_DST|{{{timezone_DST}}}}}})}}
+     |{{{timezone1_DST|{{{timezone_DST|}}}}}}{{#if:{{{utc_offset_list_DST|}}}|{{{utc_offset_list_DST}}}}}
+    }}
+    
+<!-- ***Date format*** -->
+| label130 = Date format
+| data130= {{{date_format|}}}
+
+<!-- ***Electricity*** -->
+| label131 = [[Mains electricity]]
+| data131= {{{electricity|}}}
+
+<!-- ***Driving side*** -->
+| label132= [[Left- and right-hand traffic|Driving side]]
+| data132= {{#if:{{{drives_on|}}} | {{lcfirst:{{{drives_on}}}}} }}
+
+<!-- ***Calling Code(s)*** -->
+| rowclass133 = {{#if:{{{iso_code|}}}{{{postal_code|}}}{{{postal2_code|}}}|mergedtoprow|}}
+| label133= {{#if:{{{calling_code|}}}
+    |{{#ifexist:Telephone numbers in {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}
+               | [[Telephone numbers in {{{linking_name|{{{common_name|{{{name|{{PAGENAME}}}}}}}}}}}|Calling code]]
+               | Calling code
+              }}
+   }}
+| data133= {{{calling_code|}}}
+
+<!-- ***Postal Code(s)*** -->
+| rowclass134 = {{#if:{{{calling_code|}}}|mergedrow|{{#if:{{{postal2_code|}}}{{{iso_code|}}}|mergedtoprow|}}}}
+| label134 = {{{postal_code_type}}}
+|  data134 = {{#if:{{{postal_code_type|}}}|{{#if:{{{postal_code|}}}|<div class="postal-code">{{{postal_code}}}</div>}}}}
+
+| rowclass135 = {{#if:{{{iso_code|}}}|mergedrow|{{#if:{{{postal_code|}}}|mergedbottomrow|}}}}
+| label135 = {{{postal2_code_type}}}
+|  data135 = {{#if:{{{postal_code_type|}}}|{{#if:{{{postal2_code_type|}}}|{{#if:{{{postal2_code|}}}|<div class="postal-code">{{{postal2_code}}}</div>}} }} }}
+
+<!-- ISO Code-->
+| rowclass136 = {{#if:{{{calling_code|}}}{{{postal_code|}}}{{{postal2_code|}}}|mergedbottomrow|}}
+| label136= [[ISO 3166|ISO 3166 code]]
+| data136= {{{iso_code|}}}
+
+<!-- ccTLD-->
+| label137= [[Country code top-level domain|Internet TLD]]
+| data137= {{{cctld|}}}
+
+<!-- ***Blank Fields (two sections)*** -->
+| rowclass139 = mergedtoprow
+| label139 = {{{blank_name_sec1|{{{blank_name|}}}}}}
+|  data139 = {{#if:{{{blank_name_sec1|{{{blank_name|}}}}}}|{{{blank_info_sec1|{{{blank_info|}}}}}}}}
+
+| rowclass140 = mergedrow
+| label140 = {{{blank1_name_sec1|{{{blank1_name|}}}}}}
+|  data140 = {{#if:{{{blank1_name_sec1|{{{blank1_name|}}}}}}|{{{blank1_info_sec1|{{{blank1_info|}}}}}}}}
+
+| rowclass141 = mergedrow
+| label141 = {{{blank2_name_sec1|{{{blank2_name|}}}}}}
+|  data141 = {{#if:{{{blank2_name_sec1|{{{blank2_name|}}}}}}|{{{blank2_info_sec1|{{{blank2_info|}}}}}}}}
+
+| rowclass142 = mergedrow
+| label142 = {{{blank3_name_sec1|{{{blank3_name|}}}}}}
+|  data142 = {{#if:{{{blank3_name_sec1|{{{blank3_name|}}}}}}|{{{blank3_info_sec1|{{{blank3_info|}}}}}}}}
+
+| rowclass143 = mergedrow
+| label143 = {{{blank4_name_sec1|{{{blank4_name|}}}}}}
+|  data143 = {{#if:{{{blank4_name_sec1|{{{blank4_name|}}}}}}|{{{blank4_info_sec1|{{{blank4_info|}}}}}}}}
+
+| rowclass144 = mergedrow
+| label144 = {{{blank5_name_sec1|{{{blank5_name|}}}}}}
+|  data144 = {{#if:{{{blank5_name_sec1|{{{blank5_name|}}}}}}|{{{blank5_info_sec1|{{{blank5_info|}}}}}}}}
+
+| rowclass145 = mergedrow
+| label145 = {{{blank6_name_sec1|{{{blank6_name|}}}}}}
+|  data145 = {{#if:{{{blank6_name_sec1|{{{blank6_name|}}}}}}|{{{blank6_info_sec1|{{{blank6_info|}}}}}}}}
+
+| rowclass146 = mergedbottomrow
+| label146 = {{{blank7_name_sec1|{{{blank7_name|}}}}}}
+|  data146 = {{#if:{{{blank7_name_sec1|{{{blank7_name|}}}}}}|{{{blank7_info_sec1|{{{blank7_info|}}}}}}}}
+
+| rowclass147 = mergedtoprow
+| label147 = {{{blank_name_sec2}}}
+|  data147 = {{#if:{{{blank_name_sec2|}}}|{{{blank_info_sec2|}}}}}
+
+| rowclass148 = mergedrow
+| label148 = {{{blank1_name_sec2}}}
+|  data148 = {{#if:{{{blank1_name_sec2|}}}|{{{blank1_info_sec2|}}}}}
+
+| rowclass149 = mergedrow
+| label149 = {{{blank2_name_sec2}}}
+|  data149 = {{#if:{{{blank2_name_sec2|}}}|{{{blank2_info_sec2|}}}}}
+
+| rowclass150 = mergedrow
+| label150 = {{{blank3_name_sec2}}}
+|  data150 = {{#if:{{{blank3_name_sec2|}}}|{{{blank3_info_sec2|}}}}}
+
+| rowclass151 = mergedrow
+| label151 = {{{blank4_name_sec2}}}
+|  data151 = {{#if:{{{blank4_name_sec2|}}}|{{{blank4_info_sec2|}}}}}
+
+| rowclass152 = mergedrow
+| label152 = {{{blank5_name_sec2}}}
+|  data152 = {{#if:{{{blank5_name_sec2|}}}|{{{blank5_info_sec2|}}}}}
+
+| rowclass153 = mergedrow
+| label153 = {{{blank6_name_sec2}}}
+|  data153 = {{#if:{{{blank6_name_sec2|}}}|{{{blank6_info_sec2|}}}}}
+
+| rowclass154 = mergedbottomrow
+| label154 = {{{blank7_name_sec2}}}
+|  data154 = {{#if:{{{blank7_name_sec2|}}}|{{{blank7_info_sec2|}}}}}
+
+<!-- ***Website*** -->
+| label155 = Website
+|  data155 = {{#if:{{{website|}}}|{{{website}}}}}
+
+<!-- ***Footnotes*** -->
+| belowrowclass = mergedtoprow
+| below = {{{footnotes|}}}
+}}{{#switch:{{{coordinates_region|}}}|CA-X|US-X|IN-X=[[Category:Pages using infobox political division with imprecise region codes]]
+}}{{#if:{{{image_dot_map|}}}{{{dot_mapsize|}}}{{{dot_map_base_alt|}}}{{{dot_map_alt|}}}{{{dot_map_caption|}}}{{{dot_x|}}}{{{dot_y|}}}|[[Category:Pages using infobox political division with a dot map]]
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox political division with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox political division]] with unknown parameter "_VALUE_"|ignoreblank=y
+| admin_center | admin_center_type | alt | anthem | anthem_link | area_label | area_data2 | area_label2 | area_data3 | area_label3 | area_km2 | area_sq_mi | area_footnotes | area_land_acre | area_land_ha | area_land_km2 | area_land_sq_mi | area_magnitude | area_metro_acre | area_metro_footnotes | area_metro_ha | area_metro_km2 | area_metro_sq_mi | area_note | area_rank | area_rank_link | area_rural_acre | area_rural_footnotes | area_rural_ha | area_rural_km2 | area_rural_sq_mi | area_total_acre | area_total_ha | area_total_km2 | area_total_sq_mi | area_urban_acre | area_urban_footnotes | area_urban_ha | area_urban_km2 | area_urban_sq_mi | area_water_acre | area_water_ha | area_water_km2 | area_water_percent | area_water_sq_mi | blank_emblem_link | blank_emblem_size | blank_emblem_type | blank_info | blank_info_sec1 | blank_info_sec2 | blank_name | blank_name_sec1 | blank_name_sec2 | blank1_info | blank1_info_sec1 | blank1_info_sec2 | blank1_name | blank1_name_sec1 | blank1_name_sec2 | blank2_info | blank2_info_sec1 | blank2_info_sec2 | blank2_name | blank2_name_sec1 | blank2_name_sec2 | blank3_info | blank3_info_sec1 | blank3_info_sec2 | blank3_name | blank3_name_sec1 | blank3_name_sec2 | blank4_info | blank4_info_sec1 | blank4_info_sec2 | blank4_name | blank4_name_sec1 | blank4_name_sec2 | blank5_info | blank5_info_sec1 | blank5_info_sec2 | blank5_name | blank5_name_sec1 | blank5_name_sec2 | blank6_info | blank6_info_sec1 | blank6_info_sec2 | blank6_name | blank6_name_sec1 | blank6_name_sec2 | blank7_info | blank7_info_sec1 | blank7_info_sec2 | blank7_name | blank7_name_sec1 | blank7_name_sec2 | calling_code | capital | capital_type | caption | cctld | common_languages | coor_pinpoint | coor_type | coordinates | coordinates_footnotes | currency | currency_code | date_format | demonym | drives_on | electricity | elevation_footnotes | elevation_ft | elevation_link | elevation_m | elevation_max_footnotes | elevation_max_ft | elevation_max_m | elevation_max_point | elevation_max_rank | elevation_min_footnotes | elevation_min_ft | elevation_min_m | elevation_min_point | elevation_min_rank | elevation_point | embed | established_date | established_date1 | established_date2 | established_date3 | established_date4 | established_date5 | established_date6 | established_date7 | established_title | established_title1 | established_title2 | established_title3 | established_title4 | established_title5 | established_title6 | established_title7 | ethnic_groups_ref | ethnic_groups_year | ethnic_groups | etymology | extinct_date | extinct_title | flag_alt | flag_border | flag_link | flag_size | flag_type | footnotes | founder | GDP_nominal_per_capita_rank | GDP_nominal_per_capita_rank_link | GDP_nominal_per_capita | GDP_nominal_rank | GDP_nominal_rank_link | GDP_nominal_year | GDP_nominal | GDP_nominal_type | GDP_PPP_per_capita_rank | GDP_PPP_per_capita | GDP_PPP_rank | GDP_PPP_year | GDP_PPP | GVA_per_capita_rank | GVA_per_capita | GVA_rank | GVA_year | GVA | Gini_change | Gini_rank | Gini_rank_link | Gini_ref | Gini_year | Gini  | governing_body | government_footnotes | government_type | grid_name | grid_position | HDI_change | HDI_rank | HDI_rank_link | HDI_ref | HDI_year | HDI | image | image_alt | image_blank_emblem | image_caption | image_flag | image_map | image_map2 | image_seal | image_shield | image_size | image_skyline | imagesize | iso_code | judiciary | judiciary_link | languages_sub | languages_type | languages | languages2_sub | languages2_type | languages2 | largest_city | largest_settlement_type | largest_settlement | leader_name | leader_name1 | leader_name2 | leader_name3 | leader_name4 | leader_name5 | leader_name6 | leader_party | leader_title | leader_title1 | leader_title2 | leader_title3 | leader_title4 | leader_title5 | leader_title6 | legislature | length_km | length_mi | linking_name | lower_house | map_alt | map_alt2 | map_caption | map_caption2 | mapsize | mapsize2 | motto | motto_link | mottoes | name | named_for | national_languages | national_representation | national_representation1 | national_representation2 | national_representation_type1 | national_representation_type2 | native_name | native_name_lang | nickname | nickname_link | nicknames | official_languages | official_languages_type | official_name | other_name | percent_water | politics_link | pop_den_footnote | population_census_rank | population_census_year | population_census | population_data2 | population_data3 | population_density_km2 | population_density_rank | population_density_rank_link | population_density_sq_mi | population_estimate_rank | population_estimate_year | population_estimate | population_rank_link | population_label2 | population_label3 | population_link | postal_code | postal_code_type | postal2_code | postal2_code_type | pushpin_image | pushpin_label | pushpin_label_position | pushpin_map | pushpin_map_alt | pushpin_map_caption | pushpin_map_caption_notsmall | pushpin_map_narrow | pushpin_mapsize | pushpin_outside | pushpin_overlay | pushpin_relief | recognised_languages | recognised_national_languages | recognised_regional_languages | recognized_languages | recognized_national_languages | regional_languages | registration_plate | registration_plate_type | religion_ref | religion_year | religion | seal_alt | seal_link | seal_size | seal_type | seat | seat_type | seat1 | seat1_type | seat2 | seat2_type | settlement_type | shield_alt | shield_link | shield_size | short_description | song | song_type | subdivision_name | subdivision_name1 | subdivision_name2 | subdivision_name3 | subdivision_name4 | subdivision_name5 | subdivision_name6 | subdivision_type | subdivision_type1 | subdivision_type2 | subdivision_type3 | subdivision_type4 | subdivision_type5 | subdivision_type6 | timezone | timezone_DST | timezone_link | timezone1 | timezone1_DST | timezone1_location | timezone2 | timezone2_DST | timezone2_location | total_type | translit_lang1 | translit_lang1_info | translit_lang1_info1 | translit_lang1_info2 | translit_lang1_info3 | translit_lang1_info4 | translit_lang1_info5 | translit_lang1_info6 | translit_lang1_type | translit_lang1_type1 | translit_lang1_type2 | translit_lang1_type3 | translit_lang1_type4 | translit_lang1_type5 | translit_lang1_type6 | translit_lang2 | translit_lang2_info | translit_lang2_info1 | translit_lang2_info2 | translit_lang2_info3 | translit_lang2_info4 | translit_lang2_info5 | translit_lang2_info6 | translit_lang2_type | translit_lang2_type1 | translit_lang2_type2 | translit_lang2_type3 | translit_lang2_type4 | translit_lang2_type5 | translit_lang2_type6 | type | unit_pref | upper_house | utc_offset | utc_offset_DST | utc_offset1 | utc_offset1_DST | utc_offset2 | utc_offset2_DST | utc_offset_list | utc_offset_list_DST | website | width_km | width_mi
+}}{{#if:{{{image|}}}|[[Category:Pages using infobox political division with the image parameter|{{#if:{{{image_skyline|}}}|!}}{{PAGENAME}}]]}}{{#if:{{{coordinates_wikidata|}}}{{{wikidata|}}}
+ |[[Category:Pages using infobox political division with the wikidata parameter]]
+}}</includeonly><noinclude>
+{{Documentation}}
+<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

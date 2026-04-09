@@ -1,0 +1,3 @@
+{{#invoke:string2 |findpagetext |text={%{ *[Ss]hort description |plain=false |title={{{title|{{{1|}}} }}} }}<noinclude>
+{{documentation}}
+</noinclude>

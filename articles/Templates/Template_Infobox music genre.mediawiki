@@ -1,0 +1,64 @@
+{{Infobox
+| bodyclass   = nowraplinks
+
+| above       = {{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|alt={{{alt|}}}}}
+| caption     = {{{caption|}}}
+
+| label1      = Native name
+| data1       = {{#if:{{{native_name|}}}|<div class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}
+
+| label2      = Etymology
+| data2       = {{{etymology|}}}
+
+| label3      = Other names
+| data3       = {{{other_names|}}}
+| class3      = hlist
+
+| label4      = Stylistic origins
+| data4       = {{{stylistic_origins|}}}
+| class4      = hlist
+
+| label5      = Cultural origins
+| data5       = {{{cultural_origins|}}}
+| class5      = hlist
+
+| label6      = Typical instruments
+| data6       = {{{instruments|}}}
+| class6      = hlist
+
+| label7      = Derivative forms
+| data7       = {{{derivatives|}}}
+| class7      = hlist
+
+| header8     = {{#if:{{{subgenres|}}}|Subgenres}}
+| data9       = {{{subgenres|}}}{{#ifexist:{{{subgenrelist|}}}|<br />([[{{{subgenrelist}}}|complete list]])}}
+| class9      = hlist
+
+| header10     = {{#if:{{{fusiongenres|}}}|Fusion genres}}
+| data11      = {{{fusiongenres|}}}
+| class11     = hlist
+
+| header12    = {{#if:{{{regional_scenes|}}}|Regional scenes}}
+| data13      = {{{regional_scenes|}}}
+| class13     = hlist
+
+| header14    = {{#if:{{{local_scenes|}}}|Local scenes}}
+| data15      = {{{local_scenes|}}}
+| class15     = hlist
+
+| header16    = {{#if:{{{other_topics|}}}|Other topics}}
+| data17      = {{{other_topics|}}}
+| class17     = hlist
+
+| belowstyle  = border-top: solid 1px #aaa; text-align: center;
+| below       = {{{footnotes|}}}{{#ifeq:{{{current_year}}}|yes|{{#if:{{{footnotes|}}}|<hr />}}[[File:{{ambox globe current red}}|31px|link=|alt=]] ''[[{{{current_year_override|{{#ifexist:{{CURRENTYEAR}} in {{{current_year_title|{{lcfirst:{{PAGENAME}}}}}}}
+ | {{CURRENTYEAR}} in {{{current_year_title|{{lcfirst:{{PAGENAME}}}}}}}
+ | {{#ifexist:{{#expr:{{CURRENTYEAR}} - 1}} in {{{current_year_title|{{lcfirst:{{PAGENAME}}}}}}}
+  | {{#expr:{{CURRENTYEAR}} - 1}} in {{{current_year_title|{{lcfirst:{{PAGENAME}}}}}}}
+  | {{CURRENTYEAR}} in {{{current_year_title|{{lcfirst:{{PAGENAME}}}}}}}
+  }}
+ }}}}}]]''}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox music genre with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox music genre]] with unknown parameter "_VALUE_"|ignoreblank=y| alt | caption | cultural_origins | current_year | current_year_override | current_year_title | derivatives | etymology | footnotes | fusiongenres | image | image_size | instruments | local_scenes | name | native_name | native_name_lang | other_names | other_topics | regional_scenes | stylistic_origins | subgenrelist | subgenres |showblankpositional=1}}<noinclude>
+{{Documentation}}</noinclude>

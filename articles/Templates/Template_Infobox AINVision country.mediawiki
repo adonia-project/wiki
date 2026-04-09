@@ -1,0 +1,26 @@
+<includeonly>{{Infobox
+|bodyclass =adr
+|above   = {{{Name}}}
+|aboveclass  = country-name
+|image   = {{#if:{{{Flag|}}}|[[File:{{{Flag}}}|125px|border|Flag]]|}} {{#if:{{{Caption2|}}}|{{clear}}|}}<div style="text-align: center;">{{{Caption2|}}}</div>
+|headerstyle  = background: {{{bgcolour|#BFDFFF}}};
+|abovestyle  = background: {{{bgcolour|#BFDFFF}}};
+|label1  = Member station
+|data1   = {{#if:{{{Member station|}}}|{{{Member station}}}}}
+|label2  = National selection events
+|data2   = {{{National selection event|}}}
+|header3 = Appearances
+|label4  = Appearances
+|data4   = {{{AVS apps}}}
+|label5  = First appearance
+|data5   = {{{AVS first|}}}
+|label6  = Last appearance
+|data6   = {{{AVS last|}}}
+|label7  = Best result
+|data7   = {{{AVS best|}}}
+|label8  = Worst result
+|data8   = {{{AVS worst|}}}
+}}</includeonly><noinclude>
+{{documentation}}
+[[Category:Eurovision Song Contest templates]]
+</noinclude>

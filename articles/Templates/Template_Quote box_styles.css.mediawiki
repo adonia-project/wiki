@@ -1,0 +1,87 @@
+/* {{pp-template}} */
+.quotebox {
+	background-color: #F9F9F9;
+	border: 1px solid #aaa;
+	box-sizing: border-box;
+	padding: 10px;
+	font-size: 88%;
+	max-width: 100%;
+}
+.quotebox.floatleft {
+	margin: .5em 1.4em .8em 0;
+}
+.quotebox.floatright {
+	margin: .5em 0 .8em 1.4em;
+}
+.quotebox.centered {
+	overflow: hidden;
+	position: relative;
+	margin: .5em auto .8em auto;
+}
+.quotebox.floatleft span,
+.quotebox.floatright span {
+	font-style: inherit;	
+}
+.quotebox > blockquote {
+	margin: 0;
+	padding: 0;
+	
+	/* Styling from Minerva */
+	border-left: 0;
+	font-family: inherit;
+	font-size: inherit;
+}
+.quotebox-title {
+	text-align: center; 
+    font-size: 110%;
+    font-weight: bold; 
+}
+.quotebox-quote > :first-child {
+	margin-top: 0;
+}
+.quotebox-quote:last-child > :last-child {
+	margin-bottom: 0;
+}
+.quotebox-quote.quoted:before {
+    font-family:'Times New Roman',serif;
+    font-weight:bold;
+    font-size: large;
+    color: gray;
+    content: ' “ ';
+    vertical-align: -45%;
+	line-height: 0;
+}
+.quotebox-quote.quoted:after {
+    font-family:'Times New Roman',serif;
+    font-weight:bold;
+    font-size: large;
+    color: gray;
+	content: ' ” ';
+	line-height: 0;
+}
+.quotebox .left-aligned {
+	text-align: left;
+}
+.quotebox .right-aligned {
+	text-align: right;
+}
+.quotebox .center-aligned {
+	text-align: center;
+}
+.quotebox .quote-title,
+.quotebox .quotebox-quote {
+	display: block;
+}
+.quotebox cite {
+	display:block;
+	font-style:normal;
+}
+
+@media screen and (max-width:640px) {
+	.quotebox {
+		/*override inline styles */
+		width: 100% !important;
+		margin: 0 0 .8em !important;
+		float: none !important;
+	}
+}

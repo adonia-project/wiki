@@ -1,0 +1,57 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Balisca
+| flag alias = Flag of Balisca.svg
+| flag alias-1545 = Flag of Cross of Burgundy.svg
+| flag alias-1808 = Flag of the Northern Confederation.svg
+| flag alias-1837 = Ani Federali flag.svg
+| flag alias-anarchist = NDNA Flag.png
+| flag alias-estrellada = Flag of Balisca (red star).png
+| flag alias-cantonal = Tierra y Libertad flag.svg
+| flag alias-armed forces = Confederal Armed Forces flag.svg
+| flag alias-air force = Flag of the Baliscan Aerospace Force.png
+| link alias-air force= Confederal Aerospace Force
+| flag alias-army = Flag of the Confederal Army.svg
+| link alias-army= Confederal Army
+| flag alias-naval = Flag of the Baliscan Navy.svg
+| link alias-naval = Confederal Navy
+| flag alias-autonomous militia= IRPGF Flag.svg
+| flag alias-Castejon= Flag of Castejon.png
+| flag alias-Bayara= Flag of Bayara.svg
+| flag alias-Hesperia= Flag of Hesperia.png
+| flag alias-Cerdanya= Flag of Cerdanya.png
+| flag alias-Araucaria= Flag of Araucaria.svg
+| flag alias-Estuaria= Flag of Estuaria.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| redir1 = BAL
+<noinclude>
+| var1 = 1545
+| var2 = 1808
+| var3 = 1837
+| var4 = armed forces
+| var5 = air force
+| var6 = autonomous militia
+| var7 = anarchist
+| var8 = estrellada
+| var9 = cantonal
+| var15 = Bayara
+| var16 = Hesperia
+| var17 = Cerdanya
+| var18 = Araucaria
+| var19 = Estuaria
+| redir1 = Confederation of the Northern Provinces
+| redir1 = Baliscan Confederation
+| redir2 = Northern Confederation 
+| related1 = Araucaria
+| related2 = Bayara
+| related3 = Castejón
+| related4 = Cerdanya
+| related5 = Estuaria
+| related6 = Hesperia
+| related7 = Northern Confederation
+| related8 = New Volisania
+</noinclude>
+}}

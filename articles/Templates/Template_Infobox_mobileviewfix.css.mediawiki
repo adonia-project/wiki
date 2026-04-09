@@ -1,0 +1,9 @@
+/* {{pp-template}}
+The mobile skin (Minerva) generally inject display: block property to tables to make them scrollable on your phone screen. This could give benefits for large contents, but may also caused some smaller tables shortened and shift to left, even if they are set width:100% property. This is happened in numerous infoboxes.
+*/
+body.skin-minerva .infobox table {
+	display: table;
+}
+body.skin-minerva .infobox caption {
+	display: table-caption;
+}

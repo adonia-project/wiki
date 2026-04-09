@@ -1,0 +1,151 @@
+{{Documentation subpage}}
+{{High-use}}
+The '''{{tlx|rail-interchange|…}}''' template is an abstraction layer to cope with rebranding and renaming of transport systems.  The template maps {{math|''f'' (where, how) → to brand, link, icon(s)}} allowing the whole of Wikipedia to be easily updated when a transport network switches operator, changes name or updates their logo.
+
+'''Avoid brandname, operator or sponsor names''' when choosing the location/link pair.
+
+== Usage ==
+
+The optional named parameter {{para|size}} will override the default height of the icon (between 10 and 20 pixels):
+{|
+|-
+| {{rail-interchange|buenosaires|A|size=10}}
+| <code><nowiki>{{rail-interchange|buenosaires|A|size=10}}</nowiki></code>
+|-
+| {{rail-interchange|buenosaires|A}}
+| <code><nowiki>{{rail-interchange|buenosaires|A}}</nowiki></code>
+|-
+| {{rail-interchange|buenosaires|A|size=20}}
+| <code><nowiki>{{rail-interchange|buenosaires|A|size=20}}</nowiki></code>
+|}
+The value for {{para|size}} must be an [[integer]] and should not be any larger than the display height of the diagram icons themselves (20 pixels in most diagrams).
+
+The icons' wikilink and alternate text can be overridden by adding the optional parameters {{para|link|''newlink''}} and {{para|alt|''othertext''}}. Note that if ''only'' the {{para|link}} parameter is changed then the {{para|alt}} parameter will change from the default to the new link text. (However, the {{para|alt}} parameter can be changed without affecting the link target.)
+
+=== In prose ===
+{{Rail-interchange/doc/usage}}
+
+==Generic==
+The following symbols can be used to denote interchange:
+{| class="wikitable"
+! Symbol
+! Usage
+{{rail-interchange/generic|air|Airport station|List of airports}}
+|-
+|style="text-align:center"|{{rail-interchange|airbase}}
+| rowspan="2" |'''Code:''' <code><nowiki>{{rint|air|base}}</nowiki></code> ''or'' <code><nowiki>{{rint|airbase}}</nowiki></code><br>'''Alternative icon:''' <code><nowiki>{{rint|airbase|ex}}</nowiki></code><br>'''Use:''' Military air base<br>'''Link:''' [[Military air base]]
+|-
+|style="text-align:center"|{{rail-interchange|air|base|ex}}
+|-
+|style="text-align:center"|{{rail-interchange|airfield}}
+|'''Code:''' <code><nowiki>{{rint|air|field}}</nowiki></code> ''or'' <code><nowiki>{{rint|airfield}}</nowiki></code><br>'''Use:''' Small airport or private airfield<br>'''Link:''' [[Aerodrome]]
+{{rail-interchange/generic|heliport|Heliport|Heliport}}
+{{rail-interchange/generic|bus|Interchange with local bus services|Bus|alt=T}}
+|-
+|style="text-align:center"|{{rail-interchange|bus|rapid}}
+|'''Code:''' <code><nowiki>{{rint|bus|rapid}}</nowiki></code> ''or'' <code><nowiki>…|bus|brt}}</nowiki></code><br>'''Use:''' Interchange with Bus Rapid Transit services<br>'''Link:''' [[Bus rapid transit]]
+|-
+|style="text-align:center"|{{rail-interchange|trolleybus}}
+|'''Code:''' <code><nowiki>{{rint|bus|trolleybus}}</nowiki></code> ''or'' <code><nowiki>…|bus|trolley}}</nowiki></code> ''or'' <code><nowiki>…|bus|tb}}</nowiki></code><br/>''or'' <code><nowiki>{{rint|trolley}}</nowiki></code> ''or'' <code><nowiki>…|trolleybus}}</nowiki></code><br>'''Use:''' Interchange with local trolleybus services<br>'''Link:''' [[Trolleybus]]
+{{rail-interchange/generic|rail|Interchange with mainline rail services|alt=T}}
+{{rail-interchange/generic|express|Interchange with express rail services|Express train}}
+{{rail-interchange/generic|metro|Interchange with rapid transit services|Rapid transit}}
+{{rail-interchange/generic|mono|Interchange with monorail line|Monorail}}
+|-
+|style="text-align:center"|{{rail-interchange|tram}}
+| rowspan="2" |'''Code:''' <code><nowiki>{{rint|tram}}</nowiki></code> ''or'' <code><nowiki>…|light rail}}</nowiki></code><br>'''Alternative icon:''' <code><nowiki>{{rint|tram|1}}</nowiki></code><br>'''Use:''' Interchange with tram or light rail services<br>'''Link:''' [[Tram]] or [[Light rail]]
+|-
+|style="text-align:center"|{{rail-interchange|tram|1}}
+{{rail-interchange/generic|ferry|Interchange with a passenger ferry or water bus service|Ferry}}
+{{rail-interchange/generic|incline|Interchange with a funicular|Funicular}}
+{{rail-interchange/generic|cable|Interchange with an aerial cable car|Aerial lift}}
+|-
+|style="text-align:center"|{{rail-interchange|heritage|rail}}
+| rowspan="2" |'''Code:''' <code><nowiki>{{rint|heritage|rail}}</nowiki></code><br>'''Alternative icon:''' <code><nowiki>{{rint|heritage|rail|ex}}</nowiki></code><br>'''Use:''' Interchange with a heritage railway line<br>'''Link:''' [[Heritage railway]]
+|-
+|style="text-align:center"|{{rail-interchange|heritage|rail|ex}}
+|-
+|style="text-align:center"|{{rail-interchange|heritage|tram}}
+| rowspan="2" |
+'''Code:''' <code><nowiki>{{rint|heritage|tram}}</nowiki></code><br>'''Alternative icon:''' <code><nowiki>{{rint|heritage|pcc}}</nowiki></code><br>'''Use:''' Interchange with a heritage tram or streetcar line<br>'''Link:''' [[Heritage streetcar]]
+|-
+|style="text-align:center"|{{rail-interchange|heritage|pcc}}
+|-
+|style="text-align:center"|{{rail-interchange|bike}}
+|'''Code:''' <code><nowiki>{{rint|bicycle}}</nowiki></code> ''or'' <code><nowiki>{{rint|bike}}</nowiki></code><br>'''Use:''' Bicycle facilities<br>'''Link:''' [[Bicycle]]
+|-
+|style="text-align:center"|{{rail-interchange|park}}
+| rowspan="2" |'''Code:''' <code><nowiki>{{rint|park}}</nowiki></code> ''or'' <code><nowiki>{{rint|parking}}</nowiki></code><br>'''Alternative icon:''' <code><nowiki>{{rint|park|1}}</nowiki></code> ''or'' <code><nowiki>{{rint|parking|1}}</nowiki></code><br>'''Use:''' Parking<br>'''Link:''' [[Parking]]
+|-
+|style="text-align:center"|{{rail-interchange|park|1}}
+{{rail-interchange/generic|wheelchair|Handicapped/disabled access|Accessibility#Transportation|alt=T}}
+|}
+
+==Specific by country==
+{{align|right|{{nowrap|1=<small>This list:</small> {{view||edit|template=Rail-interchange/doc/countries}}}}}}{{clear}}
+Variants exist for a number of different places around the world to display symbols which are specific to a country or city - for example, the London Underground logo on London specific articles. Note that these are the ''names'' of the main location involved, and not the ''brand'' used by the current franchise operator (which can change frequently).  If the ''logo'' should change, it can be easily updated within this template.
+
+{{columns-list|colwidth=15em|{{Rail-interchange/doc/countries}}}}
+
+Please only use [[free content]] images. In most cases, using non-free logos in this manner will not comply with [[Wikipedia:Non-free content|Wikipedia's non-free content policy]].
+
+==See also==
+*{{tl|Rail icon}} (abbreviated {{tl|ric}}) for a similar template that uses subpages of {{tl|Adjacent stations}}.
+
+==TemplateData==
+{{collapse top|bg=white|title=TemplateData}}
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Location or operator",
+			"type": "string",
+			"required": true
+		},
+		"2": {
+			"label": "Line, route or service",
+			"type": "string"
+		},
+		"3": {
+			"label": "Modifier",
+			"description": "controls options for specific systems",
+			"type": "string"
+		},
+		"4": {
+			"label": "Modifier",
+			"description": "controls options for specific systems",
+			"type": "string"
+		},
+		"size": {
+			"label": "Size",
+			"description": "width of icon, in pixels",
+			"type": "number"
+		},
+		"link": {
+			"label": "Link",
+			"description": "alternative Wikilink target for icon",
+			"type": "string"
+		},
+		"alt": {
+			"label": "Alternative  text",
+			"description": "overrides default text",
+			"type": "string"
+		},
+		"Title case": {},
+		"line": {},
+		"icon": {},
+		"showtext": {},
+		"text": {},
+		"small": {}
+	},
+	"description": "This template is an abstraction layer to cope with rebranding and renaming of transport systems. It easily allows the whole of Wikipedia to be updated when a transport network switches operator, changes name or updates their logo.",
+	"format": "inline"
+}
+</templatedata>
+{{collapse bottom}}
+
+<includeonly>{{Sandbox other||
+[[Category:Rail routemap templates]]
+
+}}</includeonly>

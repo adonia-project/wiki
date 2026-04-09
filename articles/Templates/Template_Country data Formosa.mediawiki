@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Formosa
+| flag alias = FOR flag.png
+| flag alias-FRELIFO = Flag formosa comm.jpg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = FRELIFO
+| redir1 = FOR
+</noinclude>
+}}

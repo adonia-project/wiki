@@ -1,0 +1,24 @@
+<includeonly>{{#ifeq:{{{place|}}}|top|
+{{!}}
+|{{!}}-
+{{!}}}}rowspan={{{unitrowspan|{{{rowspan|1}}}}}}  style="text-align: center; vertical-align: top;"  |{{convert|1|{{{1|acre}}}|disp=unit|lk=on}}
+| style="text-align: center; vertical-align: top;" |{{#if:1|{{{1|acre}}}}}{{#if:{{{altab|}}}
+  |{{#if:{{{br|}}}|<br />|&nbsp;}}({{{altab}}})}}
+| style="text-align: center; vertical-align: top;font-size:85%;{{#if:{{{qid|}}}||padding:0;width:0;}}"|{{#if:{{{qid|}}}|[[d:Q{{{qid}}}|Q{{{qid}}}]]}}
+| style="text-align: center; vertical-align: top;" |{{#ifeq:{{convert|1|{{{1|acre}}}|disp=unit|abbr=on}}|{{convert|1|{{{1|acre}}}|disp=unit|abbr=off}}
+  |(none)|{{convert|1|{{{1|acre}}}|disp=unit|abbr=on}} }}
+|rowspan={{{noterowspan|{{{rowspan|1}}}}}}  style="vertical-align: top;" |{{#if:{{{us|}}}|US spelling: ''{{{us}}}''<br />}}{{{note|}}}
+|rowspan={{{exrowspan|{{{rowspan|1}}}}}}  style="vertical-align: top;"  align=right|{{{fmt|}}}{{convert|1.0|{{{1|acre}}}|lk=on|abbr=on}}{{#ifeq:{{{fmt}}}|<small>|</small>}}
+| style="vertical-align: top;" |</includeonly><noinclude>
+{| class="wikitable"
+{{Convert/list of units/unitrow}}
+|}
+{{documentation|content=
+== Usage ==
+<code><nowiki>{{Convert/list of units/unitrow|unit|place=|rowspan=|altab=|br=|us=|note=|fmt=}}</nowiki></code>
+== Selective rowspan ==
+<code><nowiki>|unitrowspan=|noterowspan=|exrowspan=</nowiki></code>
+== See also ==
+{{Special:PrefixIndex/Template:Convert/list of units/unit}}
+[[Category:Subtemplates of Template Convert/documentation formatting templates|unitaltab]]
+}}</noinclude>

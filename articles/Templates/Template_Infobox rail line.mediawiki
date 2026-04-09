@@ -1,0 +1,151 @@
+{{#if:{{Has short description}}|<!--Do nothing-->|{{main other|{{#ifeq:{{#invoke:Is infobox in lead|main|[Ii]nfobox [Rr]ail [Ll]ine}}|true|{{#invoke:Type in location|main|Rail line|{{{locale|}}}}}}}}}}}{{#invoke:infobox|infoboxTemplate
+| child       = {{{embed|}}}
+| autoheaders = y
+| bodystyle   = width:{{{box_width|25em}}};
+| above       = {{#if:{{{name|}}}|{{{name}}}|{{PAGENAMEBASE}}}}
+| abovestyle  = {{#if:{{{color|}}}|border-top: 4px solid #{{{color}}}; border-bottom: 4px solid #{{#if:{{{color2|}}}|{{{color2}}}|{{{color}}}}}; color: inherit;}}
+| aboveclass  = {{#if:{{{color|}}}|notheme}}
+| title       = {{#if:{{both|{{{embed|}}}|{{{name|}}}}}|'''{{{name}}}'''}}
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{logo_width|50px}}}|sizedefault=265x265px|alt={{{logo_alt|}}}}}{{#invoke:InfoboxImage|InfoboxImage|image={{{logo2|}}}|size={{{logo_width2|50px}}}|sizedefault=265x265px|alt={{{logo_alt2|}}}}}
+| image2      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_width|}}}|sizedefault=265x265px|alt={{{image_alt|}}}}}
+| caption2    = {{{caption|}}}
+| headerstyle = background-color: #efefef; color:inherit;
+
+| header1     = Overview
+
+| label2      = Other name{{pluralize from text|{{{other_name|}}}|plural=s}}
+|  data2      = {{{other_name|}}}
+| class2      = nickname
+| label3      = Native name
+|  data3      = {{#if:{{{native_name|}}}|{{#if:{{{native_name_lang|}}}|<span class="nickname" lang="{{{native_name_lang}}}">}}{{{native_name}}}{{#if:{{{native_name_lang|}}}|</span>}} }}
+| label4      = Status
+|  data4      = {{{status|}}}
+| label5      = Owner
+|  data5      = {{{owner|}}}  
+| label6      = Line number<!--mostly used for the number of a railway line; for the number of a service use {{{routes|}}} or {{{routenumber|}}} instead-->
+|  data6      = {{{linenumber|}}}
+| label7      = [[Engineer's Line Reference|ELR]]
+|  data7      = {{{elr|}}}
+| label8      = Locale
+|  data8      = {{{locale|}}}
+| label9      = Coordinates
+|  data9      = {{{coordinates|}}}
+| label10     = Termini
+|  data10     = {{#if:{{{start|}}}|{{#if:{{{end|}}}|{{unbulleted list|{{{start}}}|{{{end}}}}}|{{{start}}}}}}}
+| label11     = Continues from
+|  data11     = {{{continuesfrom|}}}
+| label12     = Continues as
+|  data12     = {{{continuesas|}}}
+| label13     = Connecting lines
+|  data13     = {{{connectinglines|}}}
+| label14     = Former connections
+|  data14     = {{{formerconnections|}}}
+| label15     = Stations
+|  data15     = {{{stations|}}}
+| label16     = {{#if:{{{mapcolor|}}}|Color|Colour}} on {{#if:{{{mapcolourlink|{{{mapcolorlink|}}}}}}|[[{{{mapcolourlink|{{{mapcolorlink}}}}}}|map]]|map}}<!--?-->
+|  data16     = {{#if:{{{mapcolor|}}}|{{{mapcolor}}}|{{{mapcolour|}}} }}
+| label17     = Website<!--?-->
+|  data17     = {{{website|}}}
+
+| header18    = Service
+
+| label19     = Type
+|  data19     = {{{type|}}}
+| label20     = System
+|  data20     = {{{system|}}}
+| label21     = Services
+|  data21     = {{{routes|}}}
+| label22     = Route number
+|  data22     = {{{routenumber|}}}
+| label23     = Train number(s)<!--?-->
+|  data23     = {{{trainnumber|}}}
+| label24     = Operator(s)
+|  data24     = {{{operator|}}}
+| label26     = Depot(s)
+|  data26     = {{{depot|}}}
+| label27     = Rolling stock
+|  data27     = {{{stock|}}}
+| label28     = Daily ridership
+|  data28     = {{{daily_ridership|}}}
+| label29     = Ridership
+|  data29     = {{{ridership2|}}}
+
+| header30    = History
+
+| label31     = Commenced
+|  data31     = {{{yearcommenced|}}}
+| label32     = Planned opening
+|  data32     = {{{planopen|}}}
+| label33     = Opened
+|  data33     = {{{open|}}}
+| label34     = Last extension
+|  data34     = {{{lastextension|}}}
+| label35     = Completed
+|  data35     = {{{yearcompleted|}}}
+| label36     = {{{event1label}}}
+|  data36     = {{#if:{{{event1label|}}}|{{{event1|}}}}}
+| label37     = {{{event2label}}}
+|  data37     = {{#if:{{{event2label|}}}|{{{event2|}}}}}
+| label38     = {{{event3label}}}
+|  data38     = {{#if:{{{event3label|}}}|{{{event3|}}}}}
+| label39     = Closed
+|  data39     = {{{close|}}}
+| label40     = Reopened
+|  data40     = {{{reopen|}}}
+
+| header41    = Technical
+
+| label42     = Line length
+|  data42     = {{Convinfobox|{{{linelength_km|}}}|km|{{{linelength_mi|}}}|mi}}{{{linelength|}}}{{{linelength_footnotes|}}}
+| label43     = Track length
+|  data43     = {{Convinfobox|{{{tracklength_km|}}}|km|{{{tracklength_mi|}}}|mi}}{{{tracklength|}}}{{{tracklength_footnotes|}}}
+| label44     = Number of tracks
+|  data44     = {{{tracks|}}}
+| label45     = Character
+|  data45     = {{{character|}}}
+| label46     = Rack system
+|  data46     = {{{racksystem|}}}
+| label47     = [[Track gauge]]
+|  data47     = {{{gauge|}}}
+| label48     = Old gauge
+|  data48     = {{{old_gauge|}}}
+| label49     = [[Loading gauge]]
+|  data49     = {{{load_gauge|}}}
+| label50     = [[Route availability]]
+|  data50     = {{{availability|}}}
+| label51     = [[Minimum railway curve radius|Minimum radius]]
+|  data51     = {{Convinfobox|{{{minradius_m|}}}|m|{{{minradius_ft|}}}|ft}}{{{minradius|}}}
+| label52     = [[Railway electrification|Electrification]]
+|  data52     = {{{electrification|}}}
+| label53     = Conduction system
+|  data53     = {{{conductionsystem|}}}
+| label54     = Operating speed
+|  data54     = {{Convinfobox|{{{speed_km/h|}}}|km/h|{{{speed_mph|}}}|mph}}{{{speed|}}}
+| label55     = [[Railway signalling|Signalling]]
+|  data55     = {{{signalling|}}}
+| label56     = Train protection system
+|  data56     = {{{trainprotection|}}}
+| label57     = Highest elevation
+|  data57     = {{Convinfobox|{{{elevation_m|}}}|m|{{{elevation_ft|}}}|ft}}{{{elevation|}}}
+| label58     = [[Grade (slope)|Maximum incline]]
+|  data58     = {{{maxincline|}}}
+| label59     = Average inter-station distance
+|  data59     = {{{aveinterstation|}}}
+
+| header60    = _BLANK_
+|  data61     = {{{embedded|{{{module|}}}}}}
+
+| belowstyle  = vertical-align: middle; padding: 0
+| below       = {{#if:{{{map|}}}|
+<table style="border-spacing: 0; width: 100%; min-width: 100%" class="mw-collapsible {{#switch:{{{map_state|}}}
+ |1|yes|collapsed|hide = mw-collapsed autocollapse
+ |0|no|show|uncollapsed|#default = uncollapsed
+}}">
+<tr style="background-color: #efefef; color:inherit;" class="infobox-header"><th style="text-align:center"><div style="margin:0 4em">{{#if:{{{map_name|}}}|{{{map_name}}}|Route map}}</div></th></tr>
+<tr><td style="text-align:center; padding-top: 3px">
+{{{map|}}}</td></tr>
+</table>}}
+}}<!-- end of infobox
+-->{{Main other|{{#if:{{{gauge|}}}|<!-- ok -->|[[Category:Pages with no gauge entered in Infobox rail line]]}}}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox rail line with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox rail line]] with unknown parameter "_VALUE_"|ignoreblank=y| availability | aveinterstation | box_width | caption | character | close | color | color2 | conductionsystem | connectinglines | continuesas | continuesfrom | coordinates | daily_ridership | depot | electrification | elevation | elevation_ft | elevation_m | elr | embed | embedded | end | event1 | event1label | event2 | event2label | event3 | event3label | formerconnections | gauge | image | image_alt | image_width | lastextension | linelength | linelength_footnotes | linelength_km | linelength_mi | linenumber | load_gauge | locale | logo | logo_alt | logo_alt2 | logo_width | logo_width2 | logo2 | map | map_name | map_state | mapcolor | mapcolorlink | mapcolour | mapcolourlink | maxincline | minradius | minradius_ft | minradius_m | module | name | native_name | native_name_lang | old_gauge | open | operator | other_name | owner | planopen | racksystem | reopen | ridership2 | routenumber | routes | signalling | speed | speed_km/h | speed_mph | start | stations | status | stock | system | tracklength | tracklength_footnotes | tracklength_km | tracklength_mi | tracks | trainnumber | trainprotection | type | website | yearcommenced | yearcompleted }}<noinclude>
+{{Documentation}}
+</noinclude>

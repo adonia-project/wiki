@@ -1,0 +1,56 @@
+<div style="position: relative; {{{options|<!-- this tests fine, which is what I needed: float:right -->}}};">
+[[File:Prefectures of Okaiken.svg|850px|An Interactive Clickable Map of Okaiken]]<div style="font-size:85%">
+
+{{Image label|x=-557|y=-67|scale={{{width|-1}}}|text= {{small|'''[[Miyagi Prefecture|Miyagi]]'''}}}}
+{{Image label|x=-559|y=-103|scale={{{width|-1}}}|text= {{small|'''[[Akita Prefecture|Akita]]'''}}}}
+{{Image label|x=-599|y=-105|scale={{{width|-1}}}|text= {{small|'''[[Iwate Prefecture|Iwate]]'''}}}}
+{{Image label|x=-475|y=-105|scale={{{width|-1}}}|text= {{small|'''[[Fukushima Prefecture|Fukushima]]'''}}}}
+{{Image label|x=-530|y=-122|scale={{{width|-1}}}|text= {{small|'''[[Yonezawa Prefecture|Yonezawa]]'''}}}}
+{{Image label|x=-580|y=-131|scale={{{width|-1}}}|text= {{small|'''[[Yamagata Prefecture|Yamagata]]'''}}}}
+{{Image label|x=-490|y=-145|scale={{{width|-1}}}|text= {{small|'''[[Okazaki Prefecture|Okazaki]]'''}}}}
+{{Image label|x=-552|y=-139|scale={{{width|-1}}}|text= {{small|'''[[Okami Metropolis|OMA]]'''}}}}
+{{Image label|x=-550|y=-170|scale={{{width|-1}}}|text= {{small|'''[[Tokuyama Prefecture|Tokuyama]]'''}}}}
+{{Image label|x=-460|y=-183|scale={{{width|-1}}}|text= {{small|'''[[Hirogawa Prefecture|Hirogawa]]'''}}}}
+{{Image label|x=-530|y=-200|scale={{{width|-1}}}|text= {{small|'''[[Kofu Prefecture|Kofu]]'''}}}}
+{{Image label|x=-490|y=-225|scale={{{width|-1}}}|text= {{small|'''[[Ishiwara Prefecture|Ishiwara]]'''}}}}
+
+{{Image label|x=-730|y=-121|scale={{{width|-1}}}|text= {{small|'''[[Ogasawara Prefecture|Ogasawara]]'''}}}}
+{{Image label|x=-714|y=-222|scale={{{width|-1}}}|text= {{small|'''[[Aizawa Prefecture|Aizawa]]'''}}}}
+{{Image label|x=-690|y=-235|scale={{{width|-1}}}|text= {{small|'''[[Gunma Prefecture|Gunma]]'''}}}}
+{{Image label|x=-650|y=-240|scale={{{width|-1}}}|text= {{small|'''[[Shiga Prefecture|Shiga]]'''}}}}
+{{Image label|x=-662|y=-265|scale={{{width|-1}}}|text= {{small|'''[[Tochigi Prefecture|Tochigi]]'''}}}}
+{{Image label|x=-720|y=-260|scale={{{width|-1}}}|text= {{small|'''[[Ishijima Prefecture|Ishijima]]'''}}}}
+{{Image label|x=-638|y=-272|scale={{{width|-1}}}|text= {{small|'''[[Ehime Prefecture|Ehime]]'''}}}}
+{{Image label|x=-710|y=-289|scale={{{width|-1}}}|text= {{small|'''[[Noto Prefecture|Noto]]'''}}}}
+{{Image label|x=-638|y=-307|scale={{{width|-1}}}|text= {{small|'''[[Haruno Prefecture|Haruno]]'''}}}}
+{{Image label|x=-590|y=-298|scale={{{width|-1}}}|text= {{small|'''[[Shimabara Prefecture|Shimabara]]'''}}}}
+{{Image label|x=-590|y=-325|scale={{{width|-1}}}|text= {{small|'''[[Kiso Prefecture|Kiso]]'''}}}}
+{{Image label|x=-547|y=-316|scale={{{width|-1}}}|text= {{small|'''[[Tachibara Prefecture|Tachibara]]'''}}}}
+{{Image label|x=-510|y=-387|scale={{{width|-1}}}|text= {{small|'''[[Suzuka Prefecture|Suzuka]]'''}}}}
+
+{{Image label|x=-394|y=-245|scale={{{width|-1}}}|text= {{small|'''[[Okayama Prefecture|Okayama]]'''}}}}
+{{Image label|x=-418|y=-227|scale={{{width|-1}}}|text= {{small|'''[[Tosa Prefecture|Tosa]]'''}}}}
+{{Image label|x=-450|y=-220|scale={{{width|-1}}}|text= {{small|'''[[Naruto Prefecture|Naruto]]'''}}}}
+{{Image label|x=-450|y=-318|scale={{{width|-1}}}|text= {{small|'''[[Shiogami Prefecture|Shiogami]]'''}}}}
+
+{{Image label|x=-375|y=-311|scale={{{width|-1}}}|text= {{small|'''[[Kochi Prefecture|Kochi]]'''}}}}
+{{Image label|x=-373|y=-343|scale={{{width|-1}}}|text= {{small|'''[[Saitama Prefecture|Saitama]]'''}}}}
+{{Image label|x=-430|y=-427|scale={{{width|-1}}}|text= {{small|'''[[Seto Prefecture|Seto]]'''}}}}
+{{Image label|x=-337|y=-427|scale={{{width|-1}}}|text= {{small|'''[[Ise Prefecture|Ise]]'''}}}}
+{{Image label|x=-374|y=-400|scale={{{width|-1}}}|text= {{small|'''[[Mie Prefecture|Mie]]'''}}}}
+{{Image label|x=-377|y=-427|scale={{{width|-1}}}|text= {{small|'''[[Toyozawa|TMA]]'''}}}}
+{{Image label|x=-355|y=-437|scale={{{width|-1}}}|text= {{small|'''[[Mito Prefecture|Mito]]'''}}}}
+{{Image label|x=-273|y=-470|scale={{{width|-1}}}|text= {{small|'''[[Obama Prefecture|Obama]]'''}}}}
+{{Image label|x=-320|y=-480|scale={{{width|-1}}}|text= {{small|'''[[Nagayama Prefecture|Nagayama]]'''}}}}
+{{Image label|x=-375|y=-472|scale={{{width|-1}}}|text= {{small|'''[[Kurosaki Prefecture|Kurosaki]]'''}}}}
+{{Image label|x=-272|y=-525|scale={{{width|-1}}}|text= {{small|'''[[Nagato Prefecture|Nagato]]'''}}}}
+{{Image label|x=-320|y=-525|scale={{{width|-1}}}|text= {{small|'''[[Kagami Prefecture|Kagami]]'''}}}}
+
+{{Image label|x=-165|y=-519|scale={{{width|-1}}}|text= {{small|'''[[Sakai Prefecture|Sakai]]'''}}}}
+{{Image label|x=-206|y=-570|scale={{{width|-1}}}|text= {{small|'''[[Mizuno Prefecture|Mizuno]]'''}}}}
+{{Image label|x=-248|y=-587|scale={{{width|-1}}}|text= {{small|'''[[Uruwa Prefecture|Uruwa]]'''}}}}
+{{Image label|x=-164|y=-602|scale={{{width|-1}}}|text= {{small|'''[[Mutsu Prefecture|Mutsu]]'''}}}}
+{{Image label|x=-100|y=-662|scale={{{width|-1}}}|text= {{small|'''[[Aomori Prefecture|Aomori]]'''}}}}
+{{Image label|x=-205|y=-790|scale={{{width|-1}}}|text= {{small|'''[[Oita Prefecture|Oita]]'''}}}}
+{{Image label|x=-203|y=-645|scale={{{width|-1}}}|text= {{small|'''[[Kii Prefecture|Kii]]'''}}}}
+</div></div>

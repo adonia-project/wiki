@@ -1,0 +1,251 @@
+<includeonly>
+{{#if:{{{birth_name|}}}{{{birth_date|}}}{{{birth_place|}}}{{{death_date|}}}{{{death_place|}}}{{{restingplace|}}}{{{citizenship|}}}{{{nationality|}}}{{{pronunciation|}}}{{{party|}}}{{{otherparty|}}}{{{spouse|}}}{{{partner|}}}{{{relations|}}}{{{children|}}}{{{residence|}}}{{{alma_mater|}}}{{{occupation|}}}{{{profession|}}}{{{cabinet|}}}{{{committees|}}}{{{portfolio|}}}{{{religion|}}}{{{data1|}}}{{{data2|}}}{{{data3|}}}{{{data4|}}}{{{data5|}}}{{{signature|}}}{{{website|}}}{{{footnotes|}}}{{{date|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} Personal details
+{{!}}-
+}}
+{{#if:{{{pronunciation|}}}|
+! style="text-align:left;" {{!}} Pronunciation
+{{!}} {{{pronunciation}}}
+{{!}}-
+}}
+{{#if:{{{birth_name|}}}{{{birth_date|}}}{{{birth_place|}}}|
+! style="text-align:left;" {{!}} Born
+{{!}} {{br separated entries|{{#if:{{{birth_name|}}}|<span class="nickname">{{{birth_name}}}</span>}}|{{{birth_date|}}}|{{{birth_place|}}}}}
+{{!}}-
+}}
+{{#if:{{{death_date|}}}{{{death_place|}}}|
+! style="text-align:left;" {{!}} Died
+{{!}} {{br separated entries|{{{death_date|}}}|{{{death_place|}}}}}
+{{!}}-
+}}
+{{#if:{{{restingplace|}}}|
+! style="text-align:left;" {{!}} Resting place
+{{!}} class="label" {{!}} {{br separated entries|{{{restingplace|}}}|{{{restingplacecoordinates|}}}}}
+{{!}}-
+}}
+{{#if:{{{citizenship|}}}|
+! style="text-align:left;" {{!}} Citizenship
+{{!}} {{{citizenship}}}
+{{!}}-
+}}
+{{#if:{{{nationality|}}}|
+! style="text-align:left;" {{!}} Nationality
+{{!}} {{{nationality}}}
+{{!}}-
+}}
+{{#if:{{{party|}}}|
+! style="text-align:left;" {{!}} Political party
+{{!}} {{#switch:{{{party}}}
+| [[United States Democratic Party|Democrat]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Democratic Party (United States)|Democrat]] = [[Democratic Party (United States)|Democratic]]
+| [[Republican Party (United States)|Republican]]
+| [[United States Republican Party]]
+| [[United States Republican Party|Republican]]
+| [[Republican Party (United States)|Republican Party]] = [[Republican Party (United States)|Republican]]
+| [[Conservative Party (UK)|Conservative Party]]
+| [[Conservative Party (UK)|Conservative]] = [[Conservative Party (UK)|Conservative]]
+| [[Labour Party (UK)|Labour Party]]
+| [[Labour Party (UK)|Labour]] = [[Labour Party (UK)|Labour]]
+| [[Conservative Party of Canada|Conservative Party]]
+| [[Conservative Party of Canada|Conservative]] = [[Conservative Party of Canada|Conservative]]
+| [[Liberal Party of Canada|Liberal Party]]
+| [[Liberal Party of Canada|Liberal]] = [[Liberal Party of Canada|Liberal]]
+| KMT
+| Kuomintang
+| [[KMT]]
+| [[Kuomintang|KMT]]
+| [[Kuomintang]]
+| Kuomintang (KMT)
+| [[Kuomintang]] (KMT)
+| {{KMT}} (KMT)
+| {{KMT}} = [[Kuomintang]]
+| DPP
+| [[Democratic Progressive Party|DPP]]
+| [[Democratic Progressive Party]]
+| {{DPP}} = [[Democratic Progressive Party]]
+| #default = {{{party}}} }}
+{{!}}-
+}}
+{{#if:{{{otherparty|}}}|
+! style="text-align:left;" {{!}} Other political<br />affiliations
+{{!}}{{{otherparty}}}
+{{!}}-
+}}
+{{#if:{{{spouse|}}}|
+! style="text-align:left;" {{!}} Spouse(s)
+{{!}} {{{spouse}}}
+{{!}}-
+}}
+{{#if:{{{partner|}}}|
+! style="text-align:left;" {{!}} Domestic partner
+{{!}} {{{partner}}}
+{{!}}-
+}}
+{{#if:{{{relations|}}}|
+! style="text-align:left;" {{!}} Relations
+{{!}} {{{relations}}}
+{{!}}-
+}}
+{{#if:{{{children|}}}|
+! style="text-align:left;" {{!}} Children
+{{!}} {{{children}}}
+{{!}}-
+}}
+{{#if:{{{residence|}}}|
+! style="text-align:left;" {{!}} Residence
+{{!}} {{#if:{{{death_date|}}}{{{death_place|}}}||class="label"}} {{!}} {{{residence}}}
+{{!}}-
+}}
+{{#if:{{{alma_mater|}}}|
+! style="text-align:left;" {{!}} [[Alma mater]]
+{{!}} {{{alma_mater}}}
+{{!}}-
+}}
+{{#if:{{{occupation|}}}|
+! style="text-align:left;" {{!}} Occupation
+{{!}} {{{occupation}}}
+{{!}}-
+}}
+{{#if:{{{profession|}}}|
+! style="text-align:left;" {{!}} Profession
+{{!}} {{{profession}}}
+{{!}}-
+}}
+{{#if:{{{cabinet|}}}|
+! style="text-align:left;" {{!}} Cabinet
+{{!}} {{{cabinet}}}
+{{!}}-
+}}
+{{#if:{{{committees|}}}|
+! style="text-align:left;" {{!}} Committees
+{{!}} {{{committees}}}
+{{!}}-
+}}
+{{#if:{{{portfolio|}}}|
+! style="text-align:left;" {{!}} Portfolio
+{{!}} {{{portfolio}}}
+{{!}}-
+}}
+{{#if:{{{religion|}}}|
+! style="text-align:left;" {{!}} Religion
+{{!}} {{{religion}}}
+{{!}}-
+}}
+{{#if:{{{data1|}}}|
+! style="text-align:left;" {{!}} {{{blank1}}}
+{{!}} {{{data1}}}
+{{!}}-
+}}
+{{#if:{{{data2|}}}|
+! style="text-align:left;" {{!}} {{{blank2}}}
+{{!}} {{{data2}}}
+{{!}}-
+}}
+{{#if:{{{data3|}}}|
+! style="text-align:left;" {{!}} {{{blank3}}}
+{{!}} {{{data3}}}
+{{!}}-
+}}
+{{#if:{{{data4|}}}|
+! {{{blank4}}}
+{{!}} {{{data4}}}
+{{!}}-
+}}
+{{#if:{{{data5|}}}|
+! style="text-align:left;" {{!}} {{{blank5}}}
+{{!}} {{{data5}}}
+{{!}}-
+}}
+{{#if:{{{signature|}}}|
+! style="text-align:left;" {{!}} Signature
+{{!}} [[File:{{{signature}}}|128x80px|alt={{{signature_alt|}}}|{{PAGENAME}}'s signature]]
+{{!}}-
+}}
+{{#if:{{{website|}}}|
+! style="text-align:left;" {{!}} Website
+{{!}} {{{website}}}
+{{!}}-
+}}
+{{#if:{{{allegiance|}}}{{{branch|}}}{{{serviceyears|}}}{{{rank|}}}{{{unit|}}}{{{commands|}}}{{{battles|}}}{{{awards|}}}{{{military_blank1|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} Military service
+{{!}}-
+}}
+{{#if:{{{nickname|}}}|
+! style="text-align:left;" {{!}} Nickname(s)
+{{!}} {{{nickname}}}
+{{!}}-
+}}
+{{#if:{{{allegiance|}}}|
+! style="text-align:left;" {{!}} Allegiance
+{{!}} {{{allegiance}}}
+{{!}}-
+}}
+{{#if:{{{branch|}}}|
+! style="text-align:left;" {{!}} Service/branch
+{{!}} {{{branch}}}
+{{!}}-
+}}
+{{#if:{{{serviceyears|}}}|
+! style="text-align:left;" {{!}} Years of service
+{{!}} {{{serviceyears}}}
+{{!}}-
+}}
+{{#if:{{{rank|}}}|
+! style="text-align:left;" {{!}} Rank
+{{!}} {{{rank}}}
+{{!}}-
+}}
+{{#if:{{{unit|}}}|
+! style="text-align:left;" {{!}} Unit
+{{!}} {{{unit}}}
+{{!}}-
+}}
+{{#if:{{{commands|}}}|
+! style="text-align:left;" {{!}} Commands
+{{!}} {{{commands}}}
+{{!}}-
+}}
+{{#if:{{{battles|}}}|
+! style="text-align:left;" {{!}} Battles/wars
+{{!}} {{{battles}}}
+{{!}}-
+}}
+{{#if:{{{awards|}}}|
+! style="text-align:left;" {{!}} Awards
+{{!}} {{{awards}}}
+{{!}}-
+}}
+{{#if:{{{military_data1|}}}|
+! style="text-align:left;" {{!}} {{{military_blank1}}}
+{{!}} {{{military_data1}}}
+{{!}}-
+}}
+{{#if:{{{military_data2|}}}|
+! style="text-align:left;" {{!}} {{{military_blank2}}}
+{{!}} {{{military_data2}}}
+{{!}}-
+}}
+{{#if:{{{military_data3|}}}|
+! style="text-align:left;" {{!}} {{{military_blank3}}}
+{{!}} {{{military_data3}}}
+{{!}}-
+}}
+{{#if:{{{military_data4|}}}|
+! style="text-align:left;" {{!}} {{{military_blank4}}}
+{{!}} {{{military_data4}}}
+{{!}}-
+}}
+{{#if:{{{military_data5|}}}|
+! style="text-align:left;" {{!}} {{{military_blank5}}}
+{{!}} {{{military_data5}}}
+{{!}}-
+}}
+{{#if:{{{footnotes|}}}|
+{{!}}colspan=2 {{!}} {{{footnotes}}}
+{{!}}-
+}}
+{{#if:{{{date|}}}|
+{{!}} colspan=2 style="border-top: 1px solid right; font-size: 90%" {{!}} As of {{{date}}}{{#if:{{{year|}}}|, {{{year}}}}}{{#if:{{{source|}}}|<br />Source: [{{{source}}}]}}
+{{!}}-
+}}</includeonly><noinclude>{{documentation}}</noinclude>

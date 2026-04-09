@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = The Gambia
+| shortname alias = Gambia
+| flag alias = Flag of The Gambia.svg
+| flag alias-colonial = Flag of The Gambia (1889–1965).svg
+| link alias-naval = Gambian Navy
+| link alias-army = Gambian National Army
+| flag alias-army = Flag of the Gambian Army.svg
+| link alias-navy = Gambian Navy
+| flag alias-navy = Flag of the Gambian Navy.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| var1 = colonial
+| redir1 = GMB
+| redir2 = GAM
+| redir3 = The Gambia
+</noinclude>
+}}

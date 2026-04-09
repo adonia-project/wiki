@@ -1,0 +1,4 @@
+{{#invoke:navbar|navbar|collapsible=1}}<noinclude>
+{{documentation}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+</noinclude>

@@ -1,0 +1,70 @@
+{{Infobox
+| child          = {{{child|}}}
+| subbox         = {{{subbox|}}}
+
+| bodyclass = vevent
+| bodystyle = float: {{{align|right}}}; width: {{#if:{{{width|}}}|{{{width|}}}|}};
+
+| abovestyle = font-size: 125%; background-color: #F0F0F0; vertical-align: middle
+| aboveclass = summary
+|above = <includeonly>{{{name|{{#if:{{#invoke:Wikidata|ViewSomething|labels|en|value}}|{{#invoke:Wikidata|ViewSomething|labels|en|value}}|{{PAGENAMEBASE}}}}}}}</includeonly>
+
+|subheader = {{unbulleted list|{{#if:{{{alt_name|}}}{{{alt_name1|}}}{{{alt_name2|}}}{{{alt_name3|}}}{{{alt_name4|}}}|<span style="font-weight: normal;">Also known as:</span>}}|{{{alt_name|}}}|{{{alt_name1|}}}|{{{alt_name2|}}}|{{{alt_name3|}}}|{{{alt_name4|}}}
+ }}
+ |subheaderstyle = font-weight: bold;
+
+|image     = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|{{{map|}}}}}}|size={{{imagesize|{{{mapsize|}}}}}}|alt={{{alt|}}}}} 
+| imagestyle = {{#if:{{{caption|{{{Image_Caption|}}} }}}|border-bottom:1px #aaa solid;padding-top:0.4em;}}
+
+| caption = {{{caption|}}}
+
+| labelstyle     = white-space:nowrap;padding-right:0.65em<!--(to ensure gap between any long/nonwrapped label and subsequent data on same line-->;
+| datastyle      = line-height:1.3em;
+
+|label1 = Category
+ |data1 = {{{category|}}}
+|label2 = Location
+ |data2 = {{{territory|}}}
+|label3 = Found&nbsp;in
+ |data3 = {{{upper_unit|}}}
+|label4 = Created&nbsp;by
+ |data4 = {{br separated entries|{{{legislation_begin|}}}|{{{legislation_begin1|}}}|{{{legislation_begin2|}}}|{{{legislation_begin3|}}}|{{{legislation_begin4|}}}
+  }}
+|label5 = Created
+ |data5 = {{unbulleted list|{{{start_date|}}}|{{{start_date1|}}}|{{{start_date2|}}}|{{{start_date3|}}}|{{{start_date4|}}}
+  }}
+|label6 = Abolished&nbsp;by
+ |data6 = {{unbulleted list|{{{legislation_end|}}}|{{{legislation_end1|}}}|{{{legislation_end2|}}}|{{{legislation_end3|}}}|{{{legislation_end4|}}}
+  }}
+|label7 = Abolished
+ |data7 = {{unbulleted list|{{{end_date|}}}|{{{end_date1|}}}|{{{end_date2|}}}|{{{end_date3|}}}|{{{end_date4|}}}|{{{end_date5|}}}
+  }}
+|label8 = Number
+ |data8 = {{{current_number|}}} {{#if:{{{number_date|}}}|(as of {{{number_date}}})}}
+|label9 = Possible types
+ |data9 = {{unbulleted list|{{{type|}}}|{{{type1|}}}|{{{type2|}}}|{{{type3|}}}|{{{type4|}}}|{{{type5|}}}
+  }}
+|label10 = Possible&nbsp;status
+ |data10 = {{unbulleted list|{{{status|}}}|{{{status1|}}}|{{{status2|}}}|{{{status3|}}}|{{{status4|}}}|{{{status5|}}}
+  }}
+|label11 = Additional&nbsp;status
+ |data11 = {{unbulleted list|{{{exofficio|}}}|{{{exofficio1|}}}|{{{exofficio2|}}}|{{{exofficio3|}}}|{{{exofficio4|}}}|{{{exofficio5|}}}
+  }}
+|label12 = Populations
+ |data12 = {{{population_range|}}}
+|label13 = Areas
+ |data13 = {{{area_range|}}}
+|label14 = Densities
+ |data14 = {{{density_range|}}}
+|label15 = Government
+ |data15 = {{unbulleted list|{{{government|}}}|{{{government1|}}}|{{{government2|}}}|{{{government3|}}}|{{{government4|}}}|{{{government5|}}}
+  }}
+|label16 = Subdivisions
+ |data16 = {{unbulleted list|{{{subdivision|}}}|{{{subdivision1|}}}|{{{subdivision2|}}}|{{{subdivision3|}}}|{{{subdivision4|}}}|{{{subdivision5|}}}
+  }}
+
+|labelclass = nowrap
+}}<noinclude>
+
+{{documentation}}
+</noinclude>

@@ -1,0 +1,24 @@
+<noinclude>{| class="wikitable"
+|-
+|</noinclude>style="background: {{
+#switch: {{lc:{{{place|Won}}}}}
+  |won = {{{color|<nowiki>#</nowiki>99FF99}}}
+  |1|1st|gold = {{{color|gold}}}
+  |2|2nd|silver = {{{color|silver}}}
+  |3|3rd|bronze = {{{color|<nowiki>#</nowiki>D9A821}}}
+  |#default = {{{color|<nowiki>#</nowiki>F8EABA}}}
+}}; color: {{{text|black}}}; vertical-align: middle; text-align: {{{align|center}}}; {{{style|}}}" class="yes table-yes2"|{{{1|{{{place|Won}}}}}}<noinclude>
+|}
+{{Documentation|Template:Table cell templates/doc}}
+<templatedata>{
+"description": "A table cell template to show the color-coded place in a competition.",
+"params": {
+  "place": {
+    "label": "Place",
+    "description": "values like ‘1’, ‘2’, ‘3’ or ‘gold’, ‘silver’, ‘bronze’ automatically change the background color accordingly and the text displayed, too, unless an anonymous first parameter is specified, other values also show up, but with a default color",
+    "type": "string",
+    "default": "Won",
+    "required": false
+  }
+}}</templatedata>
+</noinclude>

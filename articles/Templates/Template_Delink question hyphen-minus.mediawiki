@@ -1,0 +1,3 @@
+{{{{{|safesubst:}}}#invoke:MultiReplace|main|{{{1|}}}|%[%[ *([%?-]) *%]%]|%1|%[%[ *[%?-] *{{{{{|safesubst:}}}!}} *(.-) *%]%]|%1}}<noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,79 @@
+{{ infobox
+| above       = {{{name|{{PAGENAMEBASE}}}}}
+| abovestyle  = background-color: {{{color|#369}}}; color: {{{text_color|white}}}
+| headerstyle = background-color: {{{color|#369}}}; color: {{{text_color|white}}}
+| belowstyle = font-size:85%; text-align:left;border-top:1px solid #c0c0c0;padding-top:0.75em;
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_width|}}}|alt={{{alt|}}}|sizedefault=frameless}}
+| caption     = {{{caption|}}}
+
+| header1     = {{#if:{{{middle|}}}{{{lesser|}}}{{{image2|}}}{{{image3|}}}|Versions<!--
+ -->{{infobox|child=yes
+  | image1 = {{#invoke:InfoboxImage|InfoboxImage|image={{{middle|}}}|size={{{middle_width|}}}|alt={{{middle_alt|}}}|sizedefault=frameless|upright=0.5}}
+  | caption1 = {{{middle_caption|}}}
+  | image2 = {{#invoke:InfoboxImage|InfoboxImage|image={{{lesser|}}}|size={{{lesser_width|}}}|alt={{{lesser_alt|}}}|sizedefault=frameless|upright=0.5}}
+  | caption2 = {{{lesser_caption|}}}
+  | image3 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|size={{{image2_width|}}}|alt={{{image2_alt|}}}|sizedefault=frameless|upright=0.5}}
+  | caption3 = {{{image2_caption|}}}
+  | image4 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image3|}}}|size={{{image3_width|}}}|alt={{{image3_alt|}}}|sizedefault=frameless|upright=0.5}}
+  | caption4 ={{{image3_caption|}}}
+  | image5 = {{#invoke:InfoboxImage|InfoboxImage|image={{{image4|}}}|size={{{image4_width|}}}|alt={{{image4_alt|}}}|sizedefault=frameless|upright=0.5}}
+  | caption5 ={{{image4_caption|}}}
+  }}
+}}
+
+| header2     = 
+
+| label3      = [[Armiger]]
+| data3       = {{{armiger|}}}
+| label4      = [[Battle cry]]
+| data4       = {{{battle_cry|}}}
+| label5      = Alternative name(s)
+| data5       = {{{alternative_names|}}}
+| label6      = Earliest mention
+| data6       = {{{earliest_mention|}}}
+| label7      = Adopted
+| data7       = {{{year_adopted|}}}
+| label8      = Relinquished
+| data8       = {{{until|}}}
+| label9      = Families
+| data9       = {{{families|}}}
+| label10     = [[Crest (heraldry)|Crest]]
+| data10      = {{{crest|}}}
+| label11     = Cities
+| data11      = {{{cities|}}}
+| label12     =  {{#if:{{{divisions_type|}}}|{{{divisions_type}}}|Divisions}}
+| data12      = {{{divisions|}}}
+| label13     = [[Torse]]
+| data13      = {{{torse|}}}
+| label14     = [[Helmet (heraldry)|Helmet]]
+| data14      = {{{helm|}}}
+| label15     = [[Shield (heraldry)|Shield]]
+| data15      = {{{shield|}}}
+| label16     = {{#if:{{{supporter|}}}|[[Supporter]]|[[Supporter]]s}}
+| data16      = {{#if:{{{supporter|}}}|{{{supporter}}}|{{{supporters|}}}}}
+| label17     = [[Compartment (heraldry)|Compartment]]
+| data17      = {{{compartment|}}}
+| label18     = [[Motto]]
+| data18      = {{{motto|}}}
+| label19     = [[Order (distinction)|Order(s)]]
+| data19      = {{{orders|}}}
+| label20     = Badge
+| data20      = {{{badge|}}}
+| label21     = Other elements
+| data21      = {{{other_elements|}}}
+| label22     = Constituent parts<!-- for where a shield is clearly made up of multiple representations, but this cannot be mentioned elsewhere -->
+| data22      = {{{parts|}}}
+| label23     = Earlier version(s)
+| data23      = {{{earlier_versions|}}}
+| label24     = Predecessor(s) <!--for wikilinks to earlier states/cities/influencing arms, like 'Earlier versions' but the wording always works -->
+| data24      = {{{predecessors|}}}
+| label25     = Use
+| data25      = {{{use|}}}
+| label26     = Designer
+| data26      = {{{designer|}}}
+| below = {{{notes|}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|}}|preview= Page using [[Template:Infobox emblem]] with unknown parameter "_VALUE_" |ignoreblank=y| name | color | text_color | image | image_width | alt | caption | middle | middle_width | middle_alt | middle_caption | lesser | lesser_width | lesser_alt | lesser_caption | image2 | image2_width | image2_alt | image2_caption | image3 | image3_width | image3_alt | image3_caption | image4 | image4_width | image4_alt | image4_caption | armiger | battle_cry | alternative_names | earliest_mention | year_adopted | until | families | crest | cities | divisions_type | divisions | torse | helm | shield | supporter | supporters | compartment | motto | orders | badge | other_elements | parts | earlier_versions | predecessors | use | designer | notes}}<noinclude>
+{{documentation}}<!-- Please add metadata to the  section at the bottom of the /doc page -->
+</noinclude>

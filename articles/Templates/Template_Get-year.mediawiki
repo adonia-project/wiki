@@ -1,0 +1,7 @@
+<includeonly>{{#ifeq:"{{lc:{{{1|1900}}}}}"|"{{Four digit|{{#expr:{{{1|1900}}}}}}}"|{{{1|1900}}}|{{#time:Y|{{{1|November 1, 1900}}} }}}}</includeonly><noinclude>
+'''Purpose''': Given a plain text date, returns the year.  accepts ISO8601, a variety of date formats as well as year only specification of date.  
+
+Limitatins: does understand BC/ AD and may not deliver accurate results for single digit dates.
+
+[[Category:Date mathematics templates]]
+</noinclude>

@@ -1,0 +1,11 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Nakama
+| flag alias = Flag of Nakama.png
+| flag alias-empire = Flag of Empire of Nakama.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = empire
+</noinclude>
+}}

@@ -1,0 +1,290 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = 
+| official_name           = Maezaki Prefecture
+| native_name             = {{lang|ja|前崎県}}
+| native_name_lang        = 
+| other_name              =
+| settlement_type         = [[Prefectures of Nakahara|Prefecture]]
+<!-- transliteration(s) -------->
+| translit_lang1          = Nakamian
+| translit_lang1_type     = Nakamian
+| translit_lang1_info     = 前崎県
+| translit_lang1_type1    = Romanji
+| translit_lang1_info1    = Maezaki-ken
+| translit_lang1_type2    =
+| translit_lang1_info2    = <!-- etc., up to translit_lang1_type6 / translit_lang1_info6 -->
+| translit_lang2          =
+| translit_lang2_type     =
+| translit_lang2_info     =
+| translit_lang2_type1    =
+| translit_lang2_info1    =
+| translit_lang2_type2    =
+| translit_lang2_info2    =
+| translit_lang2_info2    = <!-- etc., up to translit_lang2_type6 / translit_lang2_info6 -->
+<!-- images, nickname, motto --->
+| image_skyline           = 
+| imagesize               =
+| image_alt               =
+| image_caption           = 
+| image                   = <!-- other image (specify File: or Image: namespace) -->
+| image_flag              =
+| flag_size               =
+| flag_alt                =
+| flag_link               =
+| image_seal              = 
+| seal_size               =
+| seal_alt                =
+| seal_link               =
+| image_shield            =
+| shield_size             =
+| shield_alt              =
+| shield_link             =
+| image_blank_emblem      = Flag of Former Ohira Tochigi.png
+| blank_emblem_type       = Symbol of Maezaki Prefecture
+| blank_emblem_size       =
+| blank_emblem_alt        =
+| blank_emblem_link       =
+| nickname                =
+| motto                   =
+| anthem                  =
+<!-- maps and coordinates ------>
+| image_map               = Maezaki Pref Location.png
+| mapsize                 = 
+| map_alt                 =
+| map_caption             = Location of Maezaki Prefecture
+| image_map1              =
+| mapsize1                =
+| map_alt1                =
+| map_caption1            =
+| image_dot_map           =
+| dot_mapsize             =
+| dot_map_base_alt        =
+| dot_map_alt             =
+| dot_map_caption         =
+| dot_x = |dot_y =
+| pushpin_map             = <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label           = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt         =
+| pushpin_mapsize         =
+| pushpin_map_caption     =
+| pushpin_map1            =
+| pushpin_label_position1 =
+| pushpin_label1          = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt1        =
+| pushpin_mapsize1        =
+| pushpin_map_caption1    =
+| latd  =  |latm  =  |lats  =  |latNS  =
+| longd =  |longm =  |longs =  |longEW =
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_region      = <!-- ISO 3166-1 alpha-2 or ISO 3166-2 code for country/region containing the coordinates -->
+| coordinates_type        = <!-- parameter list passed to Coord template, overrides coordinates_region -->
+| coordinates_display     = inline,title
+| coordinates_format      = dms
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = [[Nakahara]]
+| subdivision_type1       = Region
+| subdivision_name1       = [[Naoshima Region|Naoshima]]
+| subdivision_type2       = Island
+| subdivision_name2       = [[Naoshima Island]]
+<!-- established --------------->
+| established_title       = 
+| established_date        = 
+| established_title1      = <!-- Incorporated (town) -->
+| established_date1       =
+| established_title2      = <!-- Incorporated (city) -->
+| established_date2       =
+| established_title3      =
+| established_date3       =
+| extinct_title           =
+| extinct_date            =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts ------->
+| seat_type               = Capital
+| seat                    = [[Maezaki]]
+| parts_type              = <!-- defaults to: Boroughs -->
+| parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                   = <!-- parts text, or header for parts list -->
+| p1                      =
+| p2                      = <!-- etc., up to p50: for separate parts to be listed-->
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         =
+| governing_body          =
+| leader_party            =
+| leader_title            = Governor
+| leader_name             = Umehara Yuuta
+| leader_title1           =
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| dunam_link              = <!-- If dunams are used, this specifies which dunam to link. -->
+| area_total_km2          = 6394
+| area_total_sq_mi        = <!-- see table @ Template:Infobox settlement for details -->
+| area_total_ha           = 
+| area_total_acre         = 
+| area_total_dunam        = <!-- used in Middle East articles only -->
+| area_land_km2           =
+| area_land_sq_mi         =
+| area_land_ha            = 
+| area_land_acre          = 
+| area_land_dunam         = <!-- used in Middle East articles only -->
+| area_water_km2          =
+| area_water_sq_mi        =
+| area_water_ha           = 
+| area_water_acre         = 
+| area_water_dunam        = <!-- used in Middle East articles only -->
+| area_water_percent      =
+| area_urban_footnotes    = <!-- for references: use <ref> tags -->
+| area_urban_km2          =
+| area_urban_sq_mi        =
+| area_urabn_ha           = 
+| area_urban_acre         = 
+| area_urabn_dunam        = <!-- used in Middle East articles only -->
+| area_rural_footnotes    = <!-- for references: use <ref> tags -->
+| area_rural_km2          =
+| area_rural_sq_mi        =
+| area_rural_ha           = 
+| area_rural_acre         = 
+| area_rural_dunam        = <!-- used in Middle East articles only -->
+| area_metro_footnotes    = <!-- for references: use <ref> tags -->
+| area_metro_km2          =
+| area_metro_sq_mi        =
+| area_metro_ha           = 
+| area_metro_acre         = 
+| area_metro_dunam        = <!-- used in Middle East articles only -->
+| area_rank               = 22nd
+| area_blank1_title       =
+| area_blank1_km2         =
+| area_blank1_sq_mi       =
+| area_blank1_ha          = 
+| area_blank1_acre        = 
+| area_blank1_dunam       = <!-- used in Middle East articles only -->
+| area_blank2_title       =
+| area_blank2_km2         =
+| area_blank2_sq_mi       =
+| area_blank2_ha          = 
+| area_blank2_acre        = 
+| area_blank2_dunam       = <!-- used in Middle East articles only -->
+| area_note               =
+<!-- dimensions ----------------->
+| dimensions_footnotes    = <!-- for references: use <ref> tags -->
+| length_km               =
+| length_mi               =
+| width_km                =
+| width_mi                =
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+| elevation_ft            =
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         =
+| elevation_max_ft        =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         =
+| elevation_min_ft        =
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 2,656,819
+| population_as_of        = 2011
+| population_rank         = 16th
+| population_density_km2  = auto
+| population_density_sq_mi=
+| population_est          =
+| pop_est_as_of           =
+| population_urban               =
+| population_density_urban_km2   =
+| population_density_urban_sq_mi =
+| population_rural               =
+| population_density_rural_km2   =
+| population_density_rural_sq_mi =
+| population_metro               =
+| population_density_metro_km2   =
+| population_density_metro_sq_mi =
+| population_density             =
+| population_density_rank        =
+| population_blank1_title        =
+| population_blank1              =
+| population_density_blank1_km2  =
+| population_density_blank1_sq_mi=
+| population_blank2_title        =
+| population_blank2              =
+| population_density_blank2_km2  =
+| population_density_blank2_sq_mi=
+| population_demonym      = 
+| population_note         =
+<!-- demographics (section 1) -->
+| demographics_type1      =
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    =
+| demographics1_info1     = <!-- etc., up to demographics1_title5 / demographics1_info5 -->
+<!-- demographics (section 2) -->
+| demographics_type2      =
+| demographics2_footnotes = <!-- for references: use <ref> tags -->
+| demographics2_title1    =
+| demographics2_info1     = <!-- etc., up to demographics2_title5 / demographics2_info5 -->
+<!-- time zone(s) -------------->
+| timezone1               = Nakahara National Time 
+| utc_offset1             = +9
+| timezone1_DST           =
+| utc_offset1_DST         =
+| timezone2               =
+| utc_offset2             =
+| timezone2_DST           =
+| utc_offset2_DST         =
+<!-- postal codes, area code --->
+| postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| postal2_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal2_code            =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               =
+| geocode                 =
+| iso_code                =
+| registration_plate      =
+<!-- twin cities --------------->
+| twin1                   =
+| twin1_country           =
+| twin2                   =
+| twin2_country           = <!-- etc., up to twin9 / twin9_country -->
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Flower
+| blank_info_sec1         = [[wikipedia:Prunus persica|Prunus persica]]
+| blank1_name_sec1        = Tree
+| blank1_info_sec1        = [[wikipedia:Pinus thunbergii|Pinus thunbergii]]
+| blank2_name_sec1        =
+| blank2_info_sec1        = <!-- etc., up to blank7_name_sec1 / blank7_info_sec1 -->
+<!-- blank fields (section 2) -->
+| blank_name_sec2         =
+| blank_info_sec2         =
+| blank1_name_sec2        =
+| blank1_info_sec2        =
+| blank2_name_sec2        =
+| blank2_info_sec2        = <!-- etc., up to blank7_name_sec2 / blank7_info_sec2 -->
+<!-- website, footnotes -------->
+| website                 = www.maezaki-ken.go.nk/
+| footnotes               =
+}}
+
+{{Nihongo|'''Maezaki Prefecture'''|前崎県|Maezaki Ken}} is a prefecture in the north end [[Naoshima Island]] of [[Nakahara]]. The capital is the city of [[Maezaki]] while the largest city is [[Kizawa, Maezaki|Kizawa]].
+==History==
+Maezaki Prefecture was part of [[Sekigahara Province]] and eastern section of [[Kashiwaba Province]] prior to the abolishment of han system. Maezaki was known as the gate toward the [[Maejima Island|Northern Island]] from the capital region of Meishin and later Nakahara. 
+
+During the Sengoku period of Nakahara, Sekigahara was under the rule of [[Koizumi Clan]] while Kashiwaba mainly controlled by 2 clans, [[Moriyama Clan]] in the western part and [[Koizumi Clan]] in the eastern part. In 1567 [[Maeda Takayuki]] started his movement toward the capital, defeating Koizumi during the [[Siege of Kosugi]] and later cleared his path toward the capital making Maezaki under the rule of [[Maeda Clan]].
+
+==Geography==
+===Climate===
+==Economy==
+==Culture==
+==Education==
+==Tourism==
+==Transportation==
+==Sister State==

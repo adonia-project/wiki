@@ -1,0 +1,2 @@
+{{<includeonly>safesubst:</includeonly>#invoke:String|str_find|source={{{1|}}}|{{{2|}}}}}<noinclude>
+{{documentation}}</noinclude>

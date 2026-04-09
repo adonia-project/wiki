@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Esquimalt
+| flag alias = ESQ flag.png
+| flag alias-1889 = Flag of Colonial Kingston and Boyce.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1889
+| redir1 = ESQ
+</noinclude>
+}}

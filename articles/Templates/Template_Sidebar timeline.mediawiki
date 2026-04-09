@@ -1,0 +1,68 @@
+<table class="wikitable floatright mw-collapsible {{{state|}}} {{{class}}}" style="width:22em; font-size: 88%">
+<caption>{{{title|}}}</caption>
+{{#if:{{{years1|}}}{{{events1|{{{members1|{{{group1|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color1|{{{colour1|}}}}}}|border-left:{{{color1|{{{colour1}}}}}} 5px solid;}}{{#if:{{{height1|}}}|height:{{#expr:{{{height1}}}*1.25}}em}}">
+{{{years1|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events1|{{{members1|{{{group1|}}}}}}}}}</td></tr>
+}}{{#if:{{{years2|}}}{{{events2|{{{members2|{{{group2|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color2|{{{colour2|}}}}}}|border-left:{{{color2|{{{colour2}}}}}} 5px solid;}}{{#if:{{{height2|}}}|height:{{#expr:{{{height2}}}*1.25}}em}}">
+{{{years2|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events2|{{{members2|{{{group2|}}}}}}}}}</td></tr>
+}}{{#if:{{{years3|}}}{{{events3|{{{members3|{{{group3|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color3|{{{colour3|}}}}}}|border-left:{{{color3|{{{colour3}}}}}} 5px solid;}}{{#if:{{{height3|}}}|height:{{#expr:{{{height3}}}*1.25}}em}}">
+{{{years3|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events3|{{{members3|{{{group3|}}}}}}}}}</td></tr>
+}}{{#if:{{{years4|}}}{{{events4|{{{members4|{{{group4|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color4|{{{colour4|}}}}}}|border-left:{{{color4|{{{colour4}}}}}} 5px solid;}}{{#if:{{{height4|}}}|height:{{#expr:{{{height4}}}*1.25}}em}}">
+{{{years4|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events4|{{{members4|{{{group4|}}}}}}}}}</td></tr>
+}}{{#if:{{{years5|}}}{{{events5|{{{members5|{{{group5|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color5|{{{colour5|}}}}}}|border-left:{{{color5|{{{colour5}}}}}} 5px solid;}}{{#if:{{{height5|}}}|height:{{#expr:{{{height5}}}*1.25}}em}}">
+{{{years5|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events5|{{{members5|{{{group5|}}}}}}}}}</td></tr>
+}}{{#if:{{{years6|}}}{{{events6|{{{members6|{{{group6|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color6|{{{colour6|}}}}}}|border-left:{{{color6|{{{colour6}}}}}} 5px solid;}}{{#if:{{{height6|}}}|height:{{#expr:{{{height6}}}*1.25}}em}}">
+{{{years6|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events6|{{{members6|{{{group6|}}}}}}}}}</td></tr>
+}}{{#if:{{{years7|}}}{{{events7|{{{members7|{{{group7|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color7|{{{colour7|}}}}}}|border-left:{{{color7|{{{colour7}}}}}} 5px solid;}}{{#if:{{{height7|}}}|height:{{#expr:{{{height7}}}*1.25}}em}}">
+{{{years7|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events7|{{{members7|{{{group7|}}}}}}}}}</td></tr>
+}}{{#if:{{{years8|}}}{{{events8|{{{members8|{{{group8|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color8|{{{colour8|}}}}}}|border-left:{{{color8|{{{colour8}}}}}} 5px solid;}}{{#if:{{{height8|}}}|height:{{#expr:{{{height8}}}*1.25}}em}}">
+{{{years8|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events8|{{{members8|{{{group8|}}}}}}}}}</td></tr>
+}}{{#if:{{{years9|}}}{{{events9|{{{members9|{{{group9|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color9|{{{colour9|}}}}}}|border-left:{{{color9|{{{colour9}}}}}} 5px solid;}}{{#if:{{{height9|}}}|height:{{#expr:{{{height9}}}*1.25}}em}}">
+{{{years9|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events9|{{{members9|{{{group9|}}}}}}}}}</td></tr>
+}}{{#if:{{{years10|}}}{{{events10|{{{members10|{{{group10|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color10|{{{colour10|}}}}}}|border-left:{{{color10|{{{colour10}}}}}} 5px solid;}}{{#if:{{{height10|}}}|height:{{#expr:{{{height10}}}*1.25}}em}}">
+{{{years10|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events10|{{{members10|{{{group10|}}}}}}}}}</td></tr>
+}}{{#if:{{{years11|}}}{{{events11|{{{members11|{{{group11|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color11|{{{colour11|}}}}}}|border-left:{{{color11|{{{colour11}}}}}} 5px solid;}}{{#if:{{{height11|}}}|height:{{#expr:{{{height11}}}*1.25}}em}}">
+{{{years11|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events11|{{{members11|{{{group11|}}}}}}}}}</td></tr>
+}}{{#if:{{{years12|}}}{{{events12|{{{members12|{{{group12|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color12|{{{colour12|}}}}}}|border-left:{{{color12|{{{colour12}}}}}} 5px solid;}}{{#if:{{{height12|}}}|height:{{#expr:{{{height12}}}*1.25}}em}}">
+{{{years12|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events12|{{{members12|{{{group12|}}}}}}}}}</td></tr>
+}}{{#if:{{{years13|}}}{{{events13|{{{members13|{{{group13|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color13|{{{colour13|}}}}}}|border-left:{{{color13|{{{colour13}}}}}} 5px solid;}}{{#if:{{{height13|}}}|height:{{#expr:{{{height13}}}*1.25}}em}}">
+{{{years13|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events13|{{{members13|{{{group13|}}}}}}}}}</td></tr>
+}}{{#if:{{{years14|}}}{{{events14|{{{members14|{{{group14|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color14|{{{colour14|}}}}}}|border-left:{{{color14|{{{colour14}}}}}} 5px solid;}}{{#if:{{{height14|}}}|height:{{#expr:{{{height14}}}*1.25}}em}}">
+{{{years14|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events14|{{{members14|{{{group14|}}}}}}}}}</td></tr>
+}}{{#if:{{{years15|}}}{{{events15|{{{members15|{{{group15|}}}}}}}}}
+|<tr style="vertical-align:top"><th style="text-align:center; font-weight:normal; border-bottom:#dcdcdc 1px solid; {{#if:{{{color15|{{{colour15|}}}}}}|border-left:{{{color15|{{{colour15}}}}}} 5px solid;}}{{#if:{{{height15|}}}|height:{{#expr:{{{height15}}}*1.25}}em}}">
+{{{years15|}}}</th><td style="border-bottom:#dcdcdc 1px solid">
+{{{events15|{{{members15|{{{group15|}}}}}}}}}</td></tr>
+}}{{#if:{{{below|}}}|
+<tr><td colspan=2>
+{{{below}}}</td></tr>
+}}</table><noinclude>
+{{documentation}}
+</noinclude>

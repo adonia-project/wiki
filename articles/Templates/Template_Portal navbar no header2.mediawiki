@@ -1,0 +1,73 @@
+<templatestyles src="Wikipedia's sister projects/styles.css" />
+
+<div class="smallcaps" style="font-variant:small-caps;">{{center|'''Discover Wikipedia using [[Wikipedia:Portal|portals]]'''}}</div>
+
+{{plainlist}}
+<ul id="sister-projects-list">
+
+<li>
+<div>[[File:Lorentzian Wormhole.svg|35px|center|alt=icon]]</div>
+<div><span>[[Wikipedia:Contents/Portals|List of all portals]]</span></div>
+</li>
+
+<li>
+<div>[[File:Nuvola apps package graphics.png|35px|center|alt=icon]]</div>
+<div><span>[[Portal:The arts|The arts portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:P_vip.svg|35px|center|link=|alt=icon]]</div>
+<div><span>[[Portal:Biography|Biography portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:Ambox current red Americas.svg|35px|center|link=|alt=icon]]</div>
+<div><span>[[Portal:Current events|Current events portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:Terra.png|35px|center|link=|alt=globe]]</div>
+<div><span>[[Portal:Geography|Geography portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:P_history.svg|35px|center|link=|alt=icon]]</div>
+<div><span>[[Portal:History|History portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:Nuvola apps edu mathematics blue-p.svg|35px|center|alt=square root of x]]</div>
+<div><span>[[Portal:Mathematics|Mathematics portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:Nuvola apps kalzium.svg|35px|center|alt=icon]]</div>
+<div><span>[[Portal:Science|Science portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:Social sciences.svg|35px|center|alt=icon]]</div>
+<div><span>[[Portal:Society|Society portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:Noun-technology.svg|35px|center|alt=icon]]</div>
+<div><span>[[Portal:Technology|Technology portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:Random font awesome.svg|35px|center|alt=icon]]</div>
+<div><span>[[Special:RandomInCategory/All portals|Random portal]]</span></div>
+</li>
+
+<li>
+<div>[[File:Portal.svg|35px|center|alt=icon]]</div>
+<div><span>[[Wikipedia:WikiProject Portals|WikiProject Portals]]</span></div>
+</li>
+
+<li>
+</li>
+</ul>
+{{endplainlist}}<noinclude>
+{{documentation}}
+</noinclude>

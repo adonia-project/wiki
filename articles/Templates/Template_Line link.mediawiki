@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:Adjacent stations|line}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

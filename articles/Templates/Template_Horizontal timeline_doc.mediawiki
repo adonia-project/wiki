@@ -1,0 +1,954 @@
+{{Documentation subpage}}
+{{Lua|Module:Horizontal timeline}}
+'''Template:Horizontal timeline''' is used to create a horizontal timeline.
+{{warning|This template is not compatible with mobile}}
+
+==Parameters==
+
+=== Basic plot settings ===
+* {{para|border}} Border of the plot. E.g. {{code|2px solid #CFD2AA}}
+* {{para|bgCol}} Background color of the plot
+* {{para|width}} Width of the timeline plot. Defaults to {{code|100%}}, can be in {{code|px}} or {{code|em}} too
+* {{Para|caption}} shows a centered text. Can be used to show legends. Intended to be used to label the axis
+* {{Para|from}} and {{Para|to}} Necessary parameters which denotes the start and end of the timeline axis. The entire timeline (for the entire plot) including other type of rows are drawn to this scale. {{Para|to}} may or may not be greater than {{Para|from}}. (see {{Para|inc}} for more on this) If any bars described using parameters shown below lie outside these values, they will be ''trimmed'' or ''eliminated'' depending on their position.
+* {{Para|inc}} Optional Increment to be added to {{Para|from}} to reach {{Para|to}} and be displayed along the axis. If not specified it will be automatically calculated. If {{Para|to}} is greater than {{Para|from}} then {{para|inc}} should be positive and vice versa. If not the outcome is undetermined.
+
+== The row{{sub|''n''}} parameter ==
+
+{{Para|row{{sub|''n''}}}} specifies how horizontal rows are drawn. You can have as many rows as you want. Subscript are positive integers. They specify where the row is rendered on the plot. Lower subscript indicate higher on the plot. That is {{Para|row3}} will be above {{Para|row4}}
+
+Three differenct types of rows are possible. They are:
+* {{code|scale}}: Specifies ''where'' the axis is drawn. (''how'' it is drawn can be found in the [[#Scale Row|Scale Row]] section below).
+* {{code|timeline}}: Specifies where and how the bars are drawn.
+* {{code|note}}: Row that contains arrow marked notes to give explanations to the graph.
+
+===Generic parameters===
+* {{Para|height}} Applies height of {{code|timeline}} and {{code|note}} rows.
+
+Each of these types of rows have their own attributes specified with an hyphen. For example, the style of a row{{sub|''n''}} can be specified as {{Para|row{{sub|''n''}}-style}}. Full list of available attributes and their description can be found below.
+
+=== Scale row ===
+
+* {{Para|axis-negativeFmt}}, {{Para|axis-positiveFmt}} and {{Para|axis-zeroFmt}} Formatting options for Axis scale. If you want more customization, (like completely hiding a single label on the axis) use the following:
+** {{Para|axis-''value''}} - Used to replace the value label on the axis (It will work if and only if the exact value appears on it).
+** {{Para|axis-marker-''value''}} - Used to replace the marker point for a label that appears on the axis. (It will work if and only if the exact value appears on it).
+* {{Para|axis-nudge}} Amount of nudge to be applied to the axis label, defaults to {{code|-1.8em}}.
+
+|axis-marker-1878=&nbsp;
+|axis-1878=&nbsp;
+
+==== Example usage ====
+{{Markup
+|title=Example without {{Para|axis-nudge}}
+|<nowiki>{{Horizontal timeline
+|from=-2000
+|to=2000
+|inc=500
+|row1=scale
+}}</nowiki>
+|{{Horizontal timeline
+|from=-2000
+|to=2000
+|inc=500
+|row1=scale
+}}
+}}
+
+{{markup
+|title=Example with {{Para|axis-nudge}} and label formating
+|<nowiki>{{Horizontal timeline
+|from=-2000
+|to=2000
+|inc=500
+|row1=scale
+|axis-negativeFmt=%s BC
+|axis-positiveFmt=%s AD
+|axis-zeroFmt= %s AD
+|axis-nudge=-0.8em
+}}</nowiki>
+|{{Horizontal timeline
+|from=-2000
+|to=2000
+|inc=500
+|row1=scale
+|axis-negativeFmt=%s BC
+|axis-positiveFmt=%s AD
+|axis-zeroFmt= %s AD
+|axis-nudge=-0.8em
+}}
+}}
+
+{{markup
+|title=Example with {{Para|axis-''value''}} and {{Para|axis-marker-''value''}}
+|<nowiki>{{Horizontal timeline
+|from=-2000
+|to=2000
+|inc=500
+|row1=scale
+|axis-nudge=-0.8em
+|axis--2000=this is minus<br/>two thousand
+|axis-marker-0=⇑
+|axis-0=Changed<br/>axis marker
+}}</nowiki>
+|{{Horizontal timeline
+|from=-2000
+|to=2000
+|inc=500
+
+|row1=scale
+|axis-nudge=-0.8em
+|axis--2000=this is minus<br/>two thousand
+|axis-marker-0=⇑
+|axis-0=Changed<br/>axis marker
+}}
+}}
+
+=== Timeline row ===
+
+* {{para|row{{sub|''n''}}-bordertop}} and {{para|row{{sub|''n''}}-borderbottom}}  Specifies the top and bottom border for the row.
+* {{para|row{{sub|''n''}}-texttop}} specifies vertical nudge for the bar labels for the entire row.
+* {{para|row{{sub|''n''}}-colour}} or {{para|row{{sub|''n''}}-color}} specifies the row's background color.
+::'''''Note''''': {{code|colour}} or {{code|color}} both are acceptable variations for the whole module.
+
+* {{para|row{{sub|''n''}}-''i''-from}} Starting point for the bar. This is optional, if not specified, will start from value specified in {{para|from}}.
+* {{para|row{{sub|''n''}}-''i''-to}} Ending point for the bar.
+* {{para|row{{sub|''n''}}-''i''-text}} Label for the bar.
+* {{para|row{{sub|''n''}}-''i''-fontsize}} Font size for the label.
+* {{para|row{{sub|''n''}}-''i''-texttop}} Vertical nudge for the label of '''i'''{{sup|th}} bar.
+* {{para|row{{sub|''n''}}-''i''-colour}} bar colour.
+* {{para|row{{sub|''n''}}-''i''-border}} bar border (See [[#Known_Issues|Known Issues]]).
+
+::'''''Note on Subscripts''''':
+::* '''{{para|row{{sub|''n''}}-''i''-<attribute>}} denotes the {{code|attribute}} value for '''i'''{{sup|th}} bar on the '''n'''{{sup|th}} row.'''
+::* Here subscript {{code|n}} is a positive number used to group rows and their attributed. They may not occur continuous in your script, but are displayed in ascending order. 
+::* Subscript {{code|i}} is also a positive number which is used to group bar on a specific row.
+
+====Style parameter of the timeline row====
+
+* {{para|row{{sub|''n''}}-style}} and {{para|row{{sub|''n''}}-''i''-style}} can be used to provide row specific or bar specific styles. Those styles which repeat for every bar or for every row may be grouped into styles and be applied globally. The style prefixes can be anything other than {{code|row}}. See example below on how {{para|styleDefault}} is used to apply style common to all rows and {{para|stylePopes}}/{{para|styleAntiPopes}} are used to specify bar specific styles.
+
+==== Example usage ====
+{{cot|Markup}}
+<syntaxhighlight lang="wikitext">
+{{Horizontal timeline
+
+|from=1003
+|to=1281
+|inc=12
+|axis-nudge=-0.5em
+
+|styleDefault-height=1.5em
+|styleDefault-1-border=none;
+|styleDefault-3-border=none;text-align:left
+|styleDefault-3-texttop=0em;left:0.5em;
+|styleDefault-5-border=none;text-align:left
+|styleDefault-5-texttop=0em;left:0.5em;
+
+|stylePopes-boxcolour=#F7C000
+|stylePopes-border=none;border:2px solid #D0A200
+
+|styleAntiPopes-boxcolour=#DD4444
+|styleAntiPopes-border=none;border:2px solid #E20000
+
+|row1=timeline
+|row1-style=styleDefault
+|row1-1-to=1003
+|row1-2-to=1003.9
+|row1-2-style=stylePopes
+|row1-3-text=[[Pope John XVII|John XVII]] (1003)
+
+|row1-3-to=1124
+|row1-4-to=1130
+|row1-4-style=stylePopes
+|row1-5-text=[[Pope Honorius II|Honorius II]] (1124–1130)
+
+|row2=timeline
+|row2-style=styleDefault
+|row2-1-to=1004
+|row2-2-to=1009
+|row2-2-style=stylePopes
+|row2-3-text=[[Pope John XVIII|John XVIII]] (1004–1009)
+
+|row2-3-to=1124
+|row2-4-to=1124.9
+|row2-4-style=styleAntiPopes
+|row2-5-text=[[Antipope Celestine II|Celestine II]] (1124), antipope
+
+|row3=timeline
+|row3-style=styleDefault
+|row3-1-to=1009
+|row3-2-to=1012
+|row3-2-style=stylePopes
+|row3-3-text=[[Pope Sergius IV|Sergius IV]] (1009–1012)
+
+|row3-3-to=1130
+|row3-4-to=1143
+|row3-4-style=stylePopes
+|row3-5-text=[[Pope Innocent II|Innocent II]] (1130–1143)
+
+|row4=timeline
+|row4-style=styleDefault
+|row4-1-to=1012
+|row4-2-to=1024
+|row4-2-style=stylePopes
+|row4-3-text=[[Pope Benedict VIII|Benedict VIII]] (1012–1024)
+
+|row4-3-to=1130
+|row4-4-to=1138
+|row4-4-style=styleAntiPopes
+|row4-5-text=[[Antipope Anacletus II|Anacletus II]] (1130–1138), antipope
+
+|row5=timeline
+|row5-style=styleDefault
+|row5-1-to=1012
+|row5-2-to=1012.9
+|row5-2-style=styleAntiPopes
+|row5-3-text=[[Antipope Gregory VI|Gregory VI]] (1012), antipope
+
+|row5-3-to=1138
+|row5-4-to=1138.9
+|row5-4-style=styleAntiPopes
+|row5-5-text=[[Antipope Victor IV (1138)|Victor IV]] (1138), antipope
+
+|row6=timeline
+|row6-style=styleDefault
+|row6-1-to=1024
+|row6-2-to=1032
+|row6-2-style=stylePopes
+|row6-3-text=[[Pope John XIX|John XIX]] (1024–1032)
+
+|row6-3-to=1143
+|row6-4-to=1144
+|row6-4-style=stylePopes
+|row6-5-text=[[Pope Celestine II|Celestine II]] (1143–1144)
+
+|row7=timeline
+|row7-style=styleDefault
+|row7-1-to=1032
+|row7-2-to=1044
+|row7-2-style=stylePopes
+|row7-3-text=[[Pope Benedict IX|Benedict IX]] (1032–1044, 1045 and 1047–1048)
+
+|row7-3-to=1144
+|row7-4-to=1145
+|row7-4-style=stylePopes
+|row7-5-text=[[Pope Lucius II|Lucius II]] (1144–1145)
+
+|row8=timeline
+|row8-style=styleDefault
+|row8-1-to=1045
+|row8-2-to=1045.9
+|row8-2-style=styleAntiPopes
+|row8-3-text=[[Pope Silvester III|Silvester III]] (1045)
+
+|row8-3-to=1145
+|row8-4-to=1153
+|row8-4-style=stylePopes
+|row8-5-text=[[Pope Eugene III|Eugene III]] (1145–1153)
+
+|row9=timeline
+|row9-style=styleDefault
+|row9-1-to=1045
+|row9-2-to=1045.9
+|row9-2-style=stylePopes
+|row9-3-text=[[Pope Benedict IX|Benedict IX]] (1032–1044, 1045 and 1047–1048)
+
+|row9-3-to=1153
+|row9-4-to=1154
+|row9-4-style=stylePopes
+|row9-5-text=[[Pope Anastasius IV|Anastasius IV]] (1153–1154)
+
+|row10=timeline
+|row10-style=styleDefault
+|row10-1-to=1045
+|row10-2-to=1046
+|row10-2-style=stylePopes
+|row10-3-text=[[Pope Gregory VI|Gregory VI]] (1045–1046)
+
+|row10-3-to=1154
+|row10-4-to=1159
+|row10-4-style=stylePopes
+|row10-5-text=[[Pope Hadrian IV|Hadrian IV]] (1154–1159)
+
+|row11=timeline
+|row11-style=styleDefault
+|row11-1-to=1046
+|row11-2-to=1047
+|row11-2-style=stylePopes
+|row11-3-text=[[Pope Clement II|Clement II]] (1046–1047)
+
+|row11-3-to=1159
+|row11-4-to=1181
+|row11-4-style=stylePopes
+|row11-5-text=[[Pope Alexander III|Alexander III]] (1159–1181)
+
+|row12=timeline
+|row12-style=styleDefault
+|row12-1-to=1047
+|row12-2-to=1048
+|row12-2-style=stylePopes
+|row12-3-text=[[Pope Benedict IX|Benedict IX]] (1032–1044, 1045 and 1047–1048)
+
+|row12-3-to=1159
+|row12-4-to=1164
+|row12-4-style=styleAntiPopes
+|row12-5-text=[[Antipope Victor IV (1159-1164)|Victor IV]] (1159–1164), antipope
+
+|row13=timeline
+|row13-style=styleDefault
+|row13-1-to=1048
+|row13-2-to=1048.9
+|row13-2-style=stylePopes
+|row13-3-text=[[Pope Damasus II|Damasus II]] (1048)
+
+|row13-3-to=1164
+|row13-4-to=1168
+|row13-4-style=styleAntiPopes
+|row13-5-text=[[Antipope Paschal III|Paschal III]] (1164–1168), antipope
+
+|row14=timeline
+|row14-style=styleDefault
+|row14-1-to=1049
+|row14-2-to=1054
+|row14-2-style=stylePopes
+|row14-3-text=[[Pope Leo IX|Leo IX]] (saint) (1049–1054)
+
+|row14-3-to=1168
+|row14-4-to=1178
+|row14-4-style=styleAntiPopes
+|row14-5-text=[[Antipope Callixtus III|Callixtus III]] (1168–1178), antipope
+
+|row15=timeline
+|row15-style=styleDefault
+|row15-1-to=1055
+|row15-2-to=1057
+|row15-2-style=stylePopes
+|row15-3-text=[[Pope Victor II|Victor II]] (1055–1057)
+
+|row15-3-to=1179
+|row15-4-to=1180
+|row15-4-style=styleAntiPopes
+|row15-5-text=[[Antipope Innocent III|Innocent III]] (1179–1180), antipope
+
+|row16=timeline
+|row16-style=styleDefault
+|row16-1-to=1057
+|row16-2-to=1058
+|row16-2-style=stylePopes
+|row16-3-text=[[Pope Stephen IX|Stephen IX]] (1057–1058)
+
+|row16-3-to=1181
+|row16-4-to=1185
+|row16-4-style=stylePopes
+|row16-5-text=[[Pope Lucius III|Lucius III]] (1181–1185)
+
+|row17=timeline
+|row17-style=styleDefault
+|row17-1-to=1058
+|row17-2-to=1061
+|row17-2-style=stylePopes
+|row17-3-text=[[Pope Nicholas II|Nicholas II]] (1058–1061)
+
+|row17-3-to=1185
+|row17-4-to=1187
+|row17-4-style=stylePopes
+|row17-5-text=[[Pope Urban III|Urban III]] (1185–1187)
+
+|row18=timeline
+|row18-style=styleDefault
+|row18-1-to=1058
+|row18-2-to=1059
+|row18-2-style=styleAntiPopes
+|row18-3-text=[[Antipope Benedict X|Benedict X]] (1058–1059), antipope
+
+|row18-3-to=1187
+|row18-4-to=1187.9
+|row18-4-style=stylePopes
+|row18-5-text=[[Pope Gregory VIII|Gregory VIII]] (1187)
+
+|row19=timeline
+|row19-style=styleDefault
+|row19-1-to=1061
+|row19-2-to=1064
+|row19-2-style=styleAntiPopes
+|row19-3-text=[[Antipope Honorius II|Honorius II]] (1061–1064), antipope
+
+|row19-3-to=1187
+|row19-4-to=1191
+|row19-4-style=stylePopes
+|row19-5-text=[[Pope Clement III|Clement III]] (1187–1191)
+
+|row20=timeline
+|row20-style=styleDefault
+|row20-1-to=1061
+|row20-2-to=1073
+|row20-2-style=stylePopes
+|row20-3-text=[[Pope Alexander II|Alexander II]] (1061–1073)
+
+|row20-3-to=1191
+|row20-4-to=1198
+|row20-4-style=stylePopes
+|row20-5-text=[[Pope Celestine III|Celestine III]] (1191–1198)
+
+|row21=timeline
+|row21-style=styleDefault
+|row21-1-to=1073
+|row21-2-to=1085
+|row21-2-style=stylePopes
+|row21-3-text=[[Pope Gregory VII|Gregory VII]] (saint) (1073–1085)
+
+|row21-3-to=1198
+|row21-4-to=1216
+|row21-4-style=stylePopes
+|row21-5-text=[[Pope Innocent III|Innocent III]] (1198–1216)
+
+|row22=timeline
+|row22-style=styleDefault
+|row22-1-to=1084
+|row22-2-to=1100
+|row22-2-style=styleAntiPopes
+|row22-3-text=[[Antipope Clement III|Clement III]] (1084–1100), antipope
+
+|row22-3-to=1216
+|row22-4-to=1227
+|row22-4-style=stylePopes
+|row22-5-text=[[Pope Honorius III|Honorius III]] (1216–1227)
+
+|row23=timeline
+|row23-style=styleDefault
+|row23-1-to=1085
+|row23-2-to=1087
+|row23-2-style=stylePopes
+|row23-3-text=[[Pope Victor III|Victor III]] (1085–1087)
+
+|row23-3-to=1227
+|row23-4-to=1241
+|row23-4-style=stylePopes
+|row23-5-text=[[Pope Gregory IX|Gregory IX]] (1227–1241)
+
+|row24=timeline
+|row24-style=styleDefault
+|row24-1-to=1088
+|row24-2-to=1099
+|row24-2-style=stylePopes
+|row24-3-text=[[Pope Urban II|Urban II]] (1088–1099)
+
+|row24-3-to=1241
+|row24-4-to=1241.9
+|row24-4-style=stylePopes
+|row24-5-text=[[Pope Celestine IV|Celestine IV]] (1241)
+
+|row25=timeline
+|row25-style=styleDefault
+|row25-1-to=1099
+|row25-2-to=1118
+|row25-2-style=stylePopes
+|row25-3-text=[[Pope Paschal II|Paschal II]] (1099–1118)
+
+|row25-3-to=1243
+|row25-4-to=1254
+|row25-4-style=stylePopes
+|row25-5-text=[[Pope Innocent IV|Innocent IV]] (1243–1254)
+
+|row26=timeline
+|row26-style=styleDefault
+|row26-1-to=1100
+|row26-2-to=1100.9
+|row26-2-style=styleAntiPopes
+|row26-3-text=[[Antipope Theodoric|Theodoric]] (1100), antipope
+
+|row27=timeline
+|row27-style=styleDefault
+|row27-1-to=1102
+|row27-2-to=1102.9
+|row27-2-style=styleAntiPopes
+|row27-3-text=[[Antipope Adalbert|Adalbert]] (1102), antipope
+
+|row28=timeline
+|row28-style=styleDefault
+|row28-1-to=1105
+|row28-2-to=1111
+|row28-2-style=styleAntiPopes
+|row28-3-text=[[Antipope Silvester IV|Silvester IV]] (1105–1111), antipope
+
+|row29=timeline
+|row29-style=styleDefault
+|row29-1-to=1118
+|row29-2-to=1119
+|row29-2-style=stylePopes
+|row29-3-text=[[Pope Gelasius II|Gelasius II]] (1118–1119)
+
+|row30=timeline
+|row30-style=styleDefault
+|row30-1-to=1118
+|row30-2-to=1121
+|row30-2-style=styleAntiPopes
+|row30-3-text=[[Antipope Gregory VIII|Gregory VIII]] (1118–1121), antipope
+
+|row31=timeline
+|row31-style=styleDefault
+|row31-1-to=1119
+|row31-2-to=1124
+|row31-2-style=stylePopes
+|row31-3-text=[[Pope Callixtus II|Callixtus II]] (1119–1124)
+
+|row32=scale
+|caption=Popes and Antipopes of the Catholic Church from 1003 - 1254
+}}
+</syntaxhighlight>
+{{cob}}
+{{cot|Renders as}}
+{{Horizontal timeline
+
+|from=1003
+|to=1281
+|inc=12
+|axis-nudge=-0.5em
+
+|styleDefault-height=1.5em
+|styleDefault-1-border=none;
+|styleDefault-3-border=none;text-align:left
+|styleDefault-3-texttop=0em;left:0.5em;
+|styleDefault-5-border=none;text-align:left
+|styleDefault-5-texttop=0em;left:0.5em;
+
+|stylePopes-boxcolour=#F7C000
+|stylePopes-border=none;border:2px solid #D0A200
+
+|styleAntiPopes-boxcolour=#DD4444
+|styleAntiPopes-border=none;border:2px solid #E20000
+
+|row1=timeline
+|row1-style=styleDefault
+|row1-1-to=1003
+|row1-2-to=1003.9
+|row1-2-style=stylePopes
+|row1-3-text=[[Pope John XVII|John XVII]] (1003)
+
+|row1-3-to=1124
+|row1-4-to=1130
+|row1-4-style=stylePopes
+|row1-5-text=[[Pope Honorius II|Honorius II]] (1124–1130)
+
+|row2=timeline
+|row2-style=styleDefault
+|row2-1-to=1004
+|row2-2-to=1009
+|row2-2-style=stylePopes
+|row2-3-text=[[Pope John XVIII|John XVIII]] (1004–1009)
+
+|row2-3-to=1124
+|row2-4-to=1124.9
+|row2-4-style=styleAntiPopes
+|row2-5-text=[[Antipope Celestine II|Celestine II]] (1124), antipope
+
+|row3=timeline
+|row3-style=styleDefault
+|row3-1-to=1009
+|row3-2-to=1012
+|row3-2-style=stylePopes
+|row3-3-text=[[Pope Sergius IV|Sergius IV]] (1009–1012)
+
+|row3-3-to=1130
+|row3-4-to=1143
+|row3-4-style=stylePopes
+|row3-5-text=[[Pope Innocent II|Innocent II]] (1130–1143)
+
+|row4=timeline
+|row4-style=styleDefault
+|row4-1-to=1012
+|row4-2-to=1024
+|row4-2-style=stylePopes
+|row4-3-text=[[Pope Benedict VIII|Benedict VIII]] (1012–1024)
+
+|row4-3-to=1130
+|row4-4-to=1138
+|row4-4-style=styleAntiPopes
+|row4-5-text=[[Antipope Anacletus II|Anacletus II]] (1130–1138), antipope
+
+|row5=timeline
+|row5-style=styleDefault
+|row5-1-to=1012
+|row5-2-to=1012.9
+|row5-2-style=styleAntiPopes
+|row5-3-text=[[Antipope Gregory VI|Gregory VI]] (1012), antipope
+
+|row5-3-to=1138
+|row5-4-to=1138.9
+|row5-4-style=styleAntiPopes
+|row5-5-text=[[Antipope Victor IV (1138)|Victor IV]] (1138), antipope
+
+|row6=timeline
+|row6-style=styleDefault
+|row6-1-to=1024
+|row6-2-to=1032
+|row6-2-style=stylePopes
+|row6-3-text=[[Pope John XIX|John XIX]] (1024–1032)
+
+|row6-3-to=1143
+|row6-4-to=1144
+|row6-4-style=stylePopes
+|row6-5-text=[[Pope Celestine II|Celestine II]] (1143–1144)
+
+|row7=timeline
+|row7-style=styleDefault
+|row7-1-to=1032
+|row7-2-to=1044
+|row7-2-style=stylePopes
+|row7-3-text=[[Pope Benedict IX|Benedict IX]] (1032–1044, 1045 and 1047–1048)
+
+|row7-3-to=1144
+|row7-4-to=1145
+|row7-4-style=stylePopes
+|row7-5-text=[[Pope Lucius II|Lucius II]] (1144–1145)
+
+|row8=timeline
+|row8-style=styleDefault
+|row8-1-to=1045
+|row8-2-to=1045.9
+|row8-2-style=styleAntiPopes
+|row8-3-text=[[Pope Silvester III|Silvester III]] (1045)
+
+|row8-3-to=1145
+|row8-4-to=1153
+|row8-4-style=stylePopes
+|row8-5-text=[[Pope Eugene III|Eugene III]] (1145–1153)
+
+|row9=timeline
+|row9-style=styleDefault
+|row9-1-to=1045
+|row9-2-to=1045.9
+|row9-2-style=stylePopes
+|row9-3-text=[[Pope Benedict IX|Benedict IX]] (1032–1044, 1045 and 1047–1048)
+
+|row9-3-to=1153
+|row9-4-to=1154
+|row9-4-style=stylePopes
+|row9-5-text=[[Pope Anastasius IV|Anastasius IV]] (1153–1154)
+
+|row10=timeline
+|row10-style=styleDefault
+|row10-1-to=1045
+|row10-2-to=1046
+|row10-2-style=stylePopes
+|row10-3-text=[[Pope Gregory VI|Gregory VI]] (1045–1046)
+
+|row10-3-to=1154
+|row10-4-to=1159
+|row10-4-style=stylePopes
+|row10-5-text=[[Pope Hadrian IV|Hadrian IV]] (1154–1159)
+
+|row11=timeline
+|row11-style=styleDefault
+|row11-1-to=1046
+|row11-2-to=1047
+|row11-2-style=stylePopes
+|row11-3-text=[[Pope Clement II|Clement II]] (1046–1047)
+
+|row11-3-to=1159
+|row11-4-to=1181
+|row11-4-style=stylePopes
+|row11-5-text=[[Pope Alexander III|Alexander III]] (1159–1181)
+
+|row12=timeline
+|row12-style=styleDefault
+|row12-1-to=1047
+|row12-2-to=1048
+|row12-2-style=stylePopes
+|row12-3-text=[[Pope Benedict IX|Benedict IX]] (1032–1044, 1045 and 1047–1048)
+
+|row12-3-to=1159
+|row12-4-to=1164
+|row12-4-style=styleAntiPopes
+|row12-5-text=[[Antipope Victor IV (1159-1164)|Victor IV]] (1159–1164), antipope
+
+|row13=timeline
+|row13-style=styleDefault
+|row13-1-to=1048
+|row13-2-to=1048.9
+|row13-2-style=stylePopes
+|row13-3-text=[[Pope Damasus II|Damasus II]] (1048)
+
+|row13-3-to=1164
+|row13-4-to=1168
+|row13-4-style=styleAntiPopes
+|row13-5-text=[[Antipope Paschal III|Paschal III]] (1164–1168), antipope
+
+|row14=timeline
+|row14-style=styleDefault
+|row14-1-to=1049
+|row14-2-to=1054
+|row14-2-style=stylePopes
+|row14-3-text=[[Pope Leo IX|Leo IX]] (saint) (1049–1054)
+
+|row14-3-to=1168
+|row14-4-to=1178
+|row14-4-style=styleAntiPopes
+|row14-5-text=[[Antipope Callixtus III|Callixtus III]] (1168–1178), antipope
+
+|row15=timeline
+|row15-style=styleDefault
+|row15-1-to=1055
+|row15-2-to=1057
+|row15-2-style=stylePopes
+|row15-3-text=[[Pope Victor II|Victor II]] (1055–1057)
+
+|row15-3-to=1179
+|row15-4-to=1180
+|row15-4-style=styleAntiPopes
+|row15-5-text=[[Antipope Innocent III|Innocent III]] (1179–1180), antipope
+
+|row16=timeline
+|row16-style=styleDefault
+|row16-1-to=1057
+|row16-2-to=1058
+|row16-2-style=stylePopes
+|row16-3-text=[[Pope Stephen IX|Stephen IX]] (1057–1058)
+
+|row16-3-to=1181
+|row16-4-to=1185
+|row16-4-style=stylePopes
+|row16-5-text=[[Pope Lucius III|Lucius III]] (1181–1185)
+
+|row17=timeline
+|row17-style=styleDefault
+|row17-1-to=1058
+|row17-2-to=1061
+|row17-2-style=stylePopes
+|row17-3-text=[[Pope Nicholas II|Nicholas II]] (1058–1061)
+
+|row17-3-to=1185
+|row17-4-to=1187
+|row17-4-style=stylePopes
+|row17-5-text=[[Pope Urban III|Urban III]] (1185–1187)
+
+|row18=timeline
+|row18-style=styleDefault
+|row18-1-to=1058
+|row18-2-to=1059
+|row18-2-style=styleAntiPopes
+|row18-3-text=[[Antipope Benedict X|Benedict X]] (1058–1059), antipope
+
+|row18-3-to=1187
+|row18-4-to=1187.9
+|row18-4-style=stylePopes
+|row18-5-text=[[Pope Gregory VIII|Gregory VIII]] (1187)
+
+|row19=timeline
+|row19-style=styleDefault
+|row19-1-to=1061
+|row19-2-to=1064
+|row19-2-style=styleAntiPopes
+|row19-3-text=[[Antipope Honorius II|Honorius II]] (1061–1064), antipope
+
+|row19-3-to=1187
+|row19-4-to=1191
+|row19-4-style=stylePopes
+|row19-5-text=[[Pope Clement III|Clement III]] (1187–1191)
+
+|row20=timeline
+|row20-style=styleDefault
+|row20-1-to=1061
+|row20-2-to=1073
+|row20-2-style=stylePopes
+|row20-3-text=[[Pope Alexander II|Alexander II]] (1061–1073)
+
+|row20-3-to=1191
+|row20-4-to=1198
+|row20-4-style=stylePopes
+|row20-5-text=[[Pope Celestine III|Celestine III]] (1191–1198)
+
+|row21=timeline
+|row21-style=styleDefault
+|row21-1-to=1073
+|row21-2-to=1085
+|row21-2-style=stylePopes
+|row21-3-text=[[Pope Gregory VII|Gregory VII]] (saint) (1073–1085)
+
+|row21-3-to=1198
+|row21-4-to=1216
+|row21-4-style=stylePopes
+|row21-5-text=[[Pope Innocent III|Innocent III]] (1198–1216)
+
+|row22=timeline
+|row22-style=styleDefault
+|row22-1-to=1084
+|row22-2-to=1100
+|row22-2-style=styleAntiPopes
+|row22-3-text=[[Antipope Clement III|Clement III]] (1084–1100), antipope
+
+|row22-3-to=1216
+|row22-4-to=1227
+|row22-4-style=stylePopes
+|row22-5-text=[[Pope Honorius III|Honorius III]] (1216–1227)
+
+|row23=timeline
+|row23-style=styleDefault
+|row23-1-to=1085
+|row23-2-to=1087
+|row23-2-style=stylePopes
+|row23-3-text=[[Pope Victor III|Victor III]] (1085–1087)
+
+|row23-3-to=1227
+|row23-4-to=1241
+|row23-4-style=stylePopes
+|row23-5-text=[[Pope Gregory IX|Gregory IX]] (1227–1241)
+
+|row24=timeline
+|row24-style=styleDefault
+|row24-1-to=1088
+|row24-2-to=1099
+|row24-2-style=stylePopes
+|row24-3-text=[[Pope Urban II|Urban II]] (1088–1099)
+
+|row24-3-to=1241
+|row24-4-to=1241.9
+|row24-4-style=stylePopes
+|row24-5-text=[[Pope Celestine IV|Celestine IV]] (1241)
+
+|row25=timeline
+|row25-style=styleDefault
+|row25-1-to=1099
+|row25-2-to=1118
+|row25-2-style=stylePopes
+|row25-3-text=[[Pope Paschal II|Paschal II]] (1099–1118)
+
+|row25-3-to=1243
+|row25-4-to=1254
+|row25-4-style=stylePopes
+|row25-5-text=[[Pope Innocent IV|Innocent IV]] (1243–1254)
+
+|row26=timeline
+|row26-style=styleDefault
+|row26-1-to=1100
+|row26-2-to=1100.9
+|row26-2-style=styleAntiPopes
+|row26-3-text=[[Antipope Theodoric|Theodoric]] (1100), antipope
+
+|row27=timeline
+|row27-style=styleDefault
+|row27-1-to=1102
+|row27-2-to=1102.9
+|row27-2-style=styleAntiPopes
+|row27-3-text=[[Antipope Adalbert|Adalbert]] (1102), antipope
+
+|row28=timeline
+|row28-style=styleDefault
+|row28-1-to=1105
+|row28-2-to=1111
+|row28-2-style=styleAntiPopes
+|row28-3-text=[[Antipope Silvester IV|Silvester IV]] (1105–1111), antipope
+
+|row29=timeline
+|row29-style=styleDefault
+|row29-1-to=1118
+|row29-2-to=1119
+|row29-2-style=stylePopes
+|row29-3-text=[[Pope Gelasius II|Gelasius II]] (1118–1119)
+
+|row30=timeline
+|row30-style=styleDefault
+|row30-1-to=1118
+|row30-2-to=1121
+|row30-2-style=styleAntiPopes
+|row30-3-text=[[Antipope Gregory VIII|Gregory VIII]] (1118–1121), antipope
+
+|row31=timeline
+|row31-style=styleDefault
+|row31-1-to=1119
+|row31-2-to=1124
+|row31-2-style=stylePopes
+|row31-3-text=[[Pope Callixtus II|Callixtus II]] (1119–1124)
+
+|row32=scale
+|caption=Popes and Antipopes of the Catholic Church from 1003 - 1254
+}}
+{{cob}}
+
+=== Note row ===
+* {{para|row{{sub|''n''}}-''i''-at}} Necessary parameter. Specifies where the note is placed
+* {{para|row{{sub|''n''}}-''i''-text}} Specifies the content of the note
+* {{para|row{{sub|''n''}}-''i''-shift}} and  {{para|row{{sub|''n''}}-''i''-lift}} Specifies the nudge applied to the note. Defaults to {{code|0em}}
+* {{para|row{{sub|''n''}}-''i''-arrow}} Specifies the arrow Character. Defaults to {{code|↓}}. Nullify with {{code|&nbsp;}}.
+
+==== Example usage ====
+{{Markupv
+|m=<syntaxhighlight lang="wikitext">{{Horizontal timeline
+
+|from=-600
+|to=0
+
+|row1=note
+|row1-1-text='''Minor events'''
+|row1-1-shift=-2.8em
+|row1-1-arrow=&nbsp;
+|row1-1-at=-590
+|row1-2-at=-542
+|row1-2-text=[[End-Ediacaran extinction|End-Ediacaran?]]
+|row1-3-at=-420
+|row1-3-text=[[Lau event]]
+|row1-4-at=-183
+|row1-4-text=[[Toarcian turnover]]
+|row1-4-lift=-1em
+|row1-4-shift=-4.8
+|row1-6-at=-91.5
+|row1-6-text=[[Cenomanian-Turonian boundary event|Cenomanian-Turonian]]
+|row1-6-lift=-1.3em
+|row1-6-shift=-5.1
+
+|row2=scale
+|axis-nudge=-0.8em
+|caption=Millions of years before present
+
+}}</syntaxhighlight>
+|r={{Horizontal timeline
+|from=-600
+|to=0
+|row1=note
+|row1-1-text='''Minor events'''
+|row1-1-shift=-2.8em
+|row1-1-arrow=&nbsp;
+|row1-1-at=-590
+|row1-2-at=-542
+|row1-2-text=[[End-Ediacaran extinction|End-Ediacaran?]]
+|row1-3-at=-420
+|row1-3-text=[[Lau event]]
+|row1-4-at=-183
+|row1-4-text=[[Toarcian turnover]]
+|row1-4-lift=-1em
+|row1-4-shift=-4.8
+|row1-6-at=-91.5
+|row1-6-text=[[Cenomanian-Turonian boundary event|Cenomanian-Turonian]]
+|row1-6-lift=-1.3em
+|row1-6-shift=-5.1
+|row2=scale
+|axis-nudge=-0.8em
+|caption=Millions of years before present
+}}
+}}
+
+'''''Note:''''' {{para|row1-5-lift}} is missing. Same as ''n'', ''i'' does not have to be continuous.
+
+==Usage tips==
+* You can use timeline inside {{tl|navbox}} for a collapsible frame. See {{tl|Restoration Movement Timeline graphical timeline}} for a working example. Since both templates reduce text size, use <code><nowiki>| list1 =  <div style="font-size:113%; overflow:auto"></nowiki></code> in the navbox to comply with [[MOS:FONTSIZE]].
+** If {{tl|navbox}} spoils the line spacing, it is better to use {{tl|hidden begin}} and {{tl|hidden end}}. See {{tl|Vietnam War graphical timeline}} for a working example.
+* It is possible to render only a single row by directly calling the module as <nowiki>{{#invoke:Horizontal timeline | showOneRow | ...}}</nowiki>. See {{tl|Geological eras}} or {{tl|Geological periods}} for a working example.
+** If you create a single row template, it can easily be embedded in a different template with different scale. The single row template will be automatically cropped to fit the parent template.  See how {{tl|Geological eras}} and {{tl|Geological periods}} are embedded in {{tl|Extinction events graphical timeline}}
+* Different browsers have different ways of rendering. It's probably worth checking your finished timeline in at least [[Internet Explorer|IE]], [[Mozilla Firefox|Firefox]] and [[Google Chrome|Chrome]] if you are making a particularly complex timeline.
+
+==Examples==
+* {{tl|Extinction events graphical timeline}}
+* {{tl|Vietnam War graphical timeline}}
+* {{tl|Restoration Movement Timeline graphical timeline}}
+* {{tl|Portland Youth Philharmonic graphical timeline}}
+
+== Known issues ==
+* Left and bottom border for bars (not rows) will not render properly in old browsers which lacks support for CSS3 Box-sizing.([http://caniuse.com/css3-boxsizing Refer here for full supported browser list]) All modern browsers provides at-least minimal support for this. Also only in extereme circumstances you will need to set bar border. Most of the time row border will be sufficient. Hence this should not be a problem.
+
+==See also==
+* {{tiw|Graphical timeline}}
+
+<includeonly>{{Sandbox other||
+[[Category:Generic timeline templates]]
+
+}}</includeonly>

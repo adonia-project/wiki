@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Ghana
+| flag alias = Flag of Ghana.svg
+| flag alias-1964 = Ghana flag 1964.svg
+| flag alias-civil = Civil Ensign of Ghana.svg
+| flag alias-naval = Naval Ensign of Ghana.svg
+| flag alias-air force = Air Force Ensign of Ghana.svg
+| flag alias-navy = Naval Ensign of Ghana.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1964
+| var2 = civil
+| redir1 = GHA
+| related1 = Gold Coast
+</noinclude>
+}}

@@ -1,0 +1,66 @@
+{{#invoke:infobox|infoboxTemplate
+|title        = Education in {{{country name|Place}}}
+|image        = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|{{{agency image|}}}}}}|size={{{image size|{{{image_size|{{{imagesize|{{{image_size|}}}}}}}}}}}}|sizedefault=frameless|alt={{{alt|}}}}}
+|caption      = 
+| headerstyle  = background:#ccccff
+
+|header1 = {{#if:{{{agency|}}}|{{{agency}}}|{{#if:{{{leader names|}}}|Educational oversight}}}}
+
+|label2   = {{#if: {{{leader titles|}}} | {{{leader titles}}} | Leader(s) }}
+|data2    = {{{leader names|}}}
+|label3   = {{{leader title 2|}}}
+|data3    = {{{leader names 2|}}}
+|label4   = {{{leader title 3|}}}
+|data4    = {{{leader names 3|}}}
+
+|header5 = {{#if: {{{funding per student|}}}{{{budget|}}}| National education budget {{#if: {{{budget year|}}} | ({{{budget year|}}})}}}}
+
+|label6   = Budget
+|data6    = {{{budget|}}} 
+
+|label7   = Per student
+|data7    = {{{funding per student|}}} 
+
+|header10 = {{#if:{{{primary languages|}}}{{{system type|}}}{{{established dates|}}}|General details}}
+
+|label11  = Primary languages
+|data11   = {{{primary languages|}}} 
+|label12  = System type
+|data12   = {{{system type|}}}
+|label13  = {{#if: {{{established events|}}} | {{{established events}}} | Established }}
+|data13   = {{{established dates|}}}
+
+|header15  = {{#if:{{{literacy women|}}}{{{literacy men|}}}{{{literacy total|}}}| Literacy {{#if: {{{literacy year|}}}|({{{literacy year|}}})}}}} 
+
+|label16   = Total
+|data16    = {{{literacy total|}}}
+|label17   = Male
+|data17    = {{{literacy men|}}}
+|label18   = Female
+|data18    = {{{literacy women|}}}
+
+|header20  = {{#if: {{{enroll total|}}} | Enrollment {{#if: {{{enrollment year|}}}|({{{enrollment year|}}})}}}}
+
+|label21   = Total
+|data21    = {{{enroll total|}}}
+|label22  = Primary
+|data22   = {{{enroll primary|}}}
+|label23  = Secondary
+|data23   = {{{enroll secondary|}}}
+|label24  = Post secondary
+|data24   = {{{enroll post-secondary|}}}
+
+|header25 = {{#if: {{{attain post-secondary|}}}{{{attain secondary|}}} | Attainment {{#if: {{{attainment year|}}}|({{{attainment year|}}})}}}}
+
+|label26  = [[Secondary education|Secondary diploma]]
+|data26   = {{{attain secondary|}}}
+|label27  = [[Post-secondary education|Post-secondary diploma]]
+|data27   = {{{attain post-secondary|}}}
+
+|belowstyle = text-align: left;background:#e6e6ff;
+|below = {{{footnotes|}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox education in country with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox education by place]] with unknown parameter "_VALUE_"|ignoreblank=y| agency | agency image | attain post-secondary | attain secondary | attainment year | budget | budget year | country name | enroll post-secondary | enroll primary | enroll secondary | enroll total | enrollment year | established dates | established events | footnotes | funding per student
+| leader names | leader names 2 | leader names 3 | leader titles | leader title 2 | leader title 3 | literacy men | literacy total | literacy women | literacy year | primary languages | system type }}<noinclude>
+{{documentation}}<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

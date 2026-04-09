@@ -1,0 +1,9 @@
+__NOTOC__
+{{#if:{{#invoke:string2|startswith|{{FULLPAGENAME}}|Template:Did you know/Queue}}{{#invoke:string2|startswith|{{FULLPAGENAME}}|Template:Did you know/Preparation area}}|{{#invoke:DYK queue formatting check|main}}}}<!--
+-->{{DYK-Refresh}}
+{{DYKqueuenav}}
+{{About||instructions on building prep sets|WP:DYKPBI|supplementary rules on the same|WP:DYKPBR}}
+{{DYKbox}}<noinclude>
+
+{{template other|{{sandbox other||[[Category:Wikipedia Did you know preparing updates templates|{{#titleparts:{{FULLPAGENAME}}||2}}]]}}}}
+</noinclude>

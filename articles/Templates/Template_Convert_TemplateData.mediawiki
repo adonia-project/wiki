@@ -1,0 +1,314 @@
+==TemplateData==
+{{TemplateData header}}
+
+<templatedata>
+{
+	"description": "Converts measurements to other units.",
+	"params": {
+		"1": {
+			"label": "Value",
+			"description": "The value to convert.",
+			"type": "number",
+			"required": true
+		},
+		"2": {
+			"label": "From unit",
+			"description": "The unit for the provided value.",
+			"type": "string",
+			"example": "km",
+			"required": true,
+			"suggestedvalues": [
+				"km2",
+				"m2",
+				"cm2",
+				"mm2",
+				"ha",
+				"sqmi",
+				"acre",
+				"sqyd",
+				"sqft",
+				"sqin",
+				"km",
+				"m",
+				"cm",
+				"mm",
+				"mi",
+				"yd",
+				"ft",
+				"in",
+				"kg",
+				"g",
+				"mg",
+				"lb",
+				"oz",
+				"m/s",
+				"km/h",
+				"mph",
+				"K",
+				"C",
+				"F",
+				"m3",
+				"cm3",
+				"mm3",
+				"L",
+				"mL",
+				"cuft",
+				"cuin",
+				"U.S.gal",
+				"U.S.oz",
+				"psi",
+				"mpgU.S.",
+				"$/lb",
+				"$/kg"
+			]
+		},
+		"3": {
+			"label": "To units",
+			"description": "The units to convert into. Separate units by a space for multiple outputs. In an output unit, use + for a multiplication space.",
+			"type": "string",
+			"example": "mi nmi",
+			"suggested": true,
+			"suggestedvalues": [
+				"km2",
+				"m2",
+				"cm2",
+				"mm2",
+				"ha",
+				"sqmi",
+				"acre",
+				"sqyd",
+				"sqft",
+				"sqin",
+				"km",
+				"m",
+				"cm",
+				"mm",
+				"mi",
+				"yd",
+				"ft",
+				"in",
+				"kg",
+				"g",
+				"mg",
+				"lb",
+				"oz",
+				"m/s",
+				"km/h",
+				"mph",
+				"K",
+				"C",
+				"F",
+				"m3",
+				"cm3",
+				"mm3",
+				"L",
+				"mL",
+				"cuft",
+				"cuin",
+				"U.S.gal",
+				"U.S.oz",
+				"psi",
+				"mpgU.S.",
+				"$/lb",
+				"$/kg"
+			]
+		},
+		"4": {
+			"label": "Precision or suffix",
+			"description": "Significant digits after decimal dot or, if negative, exponent of ten.",
+			"type": "number"
+		},
+		"lk": {
+			"label": "Link units",
+			"description": "Indication of what units to apply wikilinks to. Use “on” for all, “in” for the input unit, “out” for the output units, or “off” for none of the units. For more fine-grained control over which units to link, use the template multiple times.",
+			"default": "off",
+			"type": "string",
+			"example": "on",
+			"suggestedvalues": [
+				"in",
+				"out",
+				"on",
+				"off"
+			]
+		},
+		"abbr": {
+			"label": "Abbreviation",
+			"description": "Display for the units: “on” to display all units using their unit symbols, “off” to display all units in full words, “in” to display the unit symbol for the input unit, “out” to display the unit symbols for the output units, “unit” to display unit symbols for both input and output units when using scientific notation, “values” for no units at all (neither unit symbols nor full words of units).",
+			"default": "out",
+			"type": "string",
+			"example": "on, unit, in, out, off",
+			"suggested": true,
+			"suggestedvalues": [
+				"in",
+				"off",
+				"none",
+				"on",
+				"out",
+				"unit",
+				"values",
+				"~"
+			]
+		},
+		"sp": {
+			"label": "Spelling",
+			"description": "Spelling of units. Use “us” to display unit names using U.S. spelling.",
+			"type": "string",
+			"example": "us"
+		},
+		"adj": {
+			"label": "Adjective",
+			"description": "Whether to use adjectival form. Use “on” for singular unit name appended by a hyphen, “mid” to put conversion at end, or “off” (default) for no adjectival form.",
+			"type": "unbalanced-wikitext",
+			"example": "on",
+			"default": "off",
+			"suggestedvalues": [
+				"mid",
+				"on",
+				"pre",
+				"ri0",
+				"ri1",
+				"ri2",
+				"ri3",
+				"off"
+			]
+		},
+		"disp": {
+			"label": "Conversion",
+			"description": "Display conversion result: “or”: after ‘or’, “x”: with custom prefix and suffix, “b”: in parentheses, “table”/“tablecen”, “output only”: alone, “output number only”: alone and without unit, “unit”: not at all but input unit; if the value is a number it is used as precision.",
+			"type": "string",
+			"example": "b",
+			"suggestedvalues": [
+				"b",
+				"sqbr",
+				"br",
+				"comma",
+				"semicolon",
+				"or",
+				"number",
+				"output number only",
+				"out",
+				"output only",
+				"preunit",
+				"table",
+				"tablecen",
+				"unit",
+				"unit2",
+				"x"
+			]
+		},
+		"order": {
+			"label": "Ordering",
+			"description": "“flip” returns converted value first, input value second.",
+			"type": "string",
+			"example": "flip",
+			"suggestedvalues": [
+				"flip",
+				"out"
+			]
+		},
+		"sigfig": {
+			"label": "Significant figures",
+			"description": "Indicates the number of significant figures to be used in rounding.",
+			"type": "number"
+		},
+		"round": {
+			"label": "Rounding output",
+			"description": "The type of rounding. “5” rounds the output number to nearest multiple of 5, “25” to nearest multiple of 25, “each” rounds each number in a range.",
+			"type": "number"
+		},
+		"comma": {
+			"label": "Thousands separator",
+			"description": "Sets or suppresses the use of thousands separators in the numbers. “off”: no separator; “gaps”: use space instead of comma as thousands separator; “5”: only add thousands separator when the integral part of the number uses 5 positions or more (10,000 or more; if using comma as thousands separator, 1234 would produce '1234', 12345 would produce '12,345').",
+			"default": "on",
+			"type": "boolean",
+			"example": "off"
+		},
+		"sortable": {
+			"label": "Sort key",
+			"description": "“on” generates a hidden sort key",
+			"type": "boolean",
+			"example": "on"
+		},
+		"spell": {
+			"label": "Spell numbers?",
+			"description": "If used, spells input or input and output numbers in words, optionally capitalizing the first",
+			"example": "'in', 'In', 'on', or 'On'",
+			"type": "string",
+			"suggestedvalues": [
+				"in",
+				"In",
+				"on",
+				"On"
+			]
+		},
+		"sing": {
+			"type": "boolean",
+			"deprecated": "use adj=",
+			"label": "Singular?",
+			"description": "If 'yes', uses singular form of units (deprecated)",
+			"example": "yes"
+		},
+		"frac": {
+			"label": "Fraction?",
+			"description": "fraction as rounding unit",
+			"type": "number"
+		},
+		"$": {
+			"label": "Currency symbol",
+			"description": "sets currency symbol in both units",
+			"example": "$=€ will show \" €10 per mile (€6.2/km)\"",
+			"type": "string"
+		},
+		"input": {
+			"label": "WD property",
+			"description": "Reads the property value of the item (article), then converts it",
+			"example": "{{convert|input=P2046}} (P2046=area)",
+			"type": "string"
+		},
+		"altitude_ft": {
+			"label": "Mach altitude (ft)",
+			"description": "Mach (speed) depends on altitude",
+			"type": "number",
+			"suggestedvalues": [
+				"10000"
+			]
+		},
+		"altitude_m": {
+			"label": "Mach altitude (m)",
+			"description": "Mach (speed) depends on altitude",
+			"type": "number"
+		}
+	},
+	"format": "inline",
+	"paramOrder": [
+		"1",
+		"2",
+		"3",
+		"4",
+		"lk",
+		"abbr",
+		"sp",
+		"adj",
+		"disp",
+		"order",
+		"sigfig",
+		"round",
+		"comma",
+		"sortable",
+		"spell",
+		"sing",
+		"frac",
+		"$",
+		"altitude_ft",
+		"altitude_m",
+		"input"
+	]
+}
+</templatedata>
+<!--''to be added''
+==Glossary==
+;unit code
+:
+;unit symbol
+:
+-->

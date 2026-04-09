@@ -1,0 +1,11 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Maroon Confederacy
+| flag alias = Maroon flag.png
+| flag alias-1793 = War Flag of the Maroon Confederacy.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| var1 = 1793
+}}

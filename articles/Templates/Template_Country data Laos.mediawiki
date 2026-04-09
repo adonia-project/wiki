@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Laos
+| flag alias = Flag of Laos.svg
+| flag alias-colonial = Flag of Laos (1893-1952).svg
+| flag alias-1952 = Flag of Laos (1952-1975).svg
+| link alias-naval = Lao People's Navy
+| link alias-army = Lao People's Army
+| link alias-navy = Lao People's Navy
+| flag alias-military = Flag of the Lao People's Armed Forces.svg
+| link alias-military = Lao People's Armed Forces
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = colonial
+| var2 = 1952
+| redir1 = LAO
+</noinclude>
+}}

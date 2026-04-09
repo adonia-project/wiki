@@ -1,0 +1,48 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Bolivia
+| flag alias = Flag of Bolivia.svg
+| flag alias-state = Bandera de Bolivia (Estado).svg
+| flag alias-football = Flag of Bolivia.svg
+| flag alias-spain = Flag of Cross of Burgundy.svg
+| flag alias-1825 = State flag of Bolivia (1825-1826).svg
+| flag alias-1825a = Civil flag of Bolivia (1825-1826).svg
+| flag alias-1831 = Flag of Bolivia (state, 1826-1851).svg
+| flag alias-1831a = Flag of Bolivia (1826-1851).svg
+| flag alias-confederation = Flag of the Peru-Bolivian Confederation.svg
+| flag alias-wiphala = Banner of the Qulla Suyu (1979).svg
+| flag alias-patuju = Flag of the Patujú flower.svg
+| flag alias-army=Flag of Bolivia (military).svg
+| link alias-army=Bolivian Army
+| flag alias-air force=Flag of Bolivia (military).svg
+| link alias-air force=Bolivian Air Force
+| flag alias-naval = Naval Ensign of Bolivia.svg
+| link alias-naval = Bolivian Navy
+| flag alias-naval old = Naval Ensign of Bolivia (1966-2013).svg
+| flag alias-naval jack = Naval Jack of Bolivia.svg
+| flag alias-military = Flag of Bolivia (military).svg
+| link alias-military = Bolivian Armed Forces
+| flag alias-navy = Naval Ensign of Bolivia.svg
+| link alias-navy = Bolivian Navy
+| flag alias-civil = Flag of Bolivia.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altvar = {{{altvar|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = state
+| var2 = football
+| var3 = spain
+| var4 = 1825
+| var5 = 1825a
+| var6 = 1831
+| var7 = 1831a
+| var8 = confederation
+| var9 = wiphala
+| var10 = patuju
+| var11 = naval old
+| var12 = naval jack
+| var13 = civil
+| redir1 = BOL
+</noinclude>
+}}

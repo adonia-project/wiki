@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Indonesia
+| flag alias = Flag of Indonesia.svg
+| link alias-naval = Indonesian Navy
+| link alias-air force = Indonesian Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = IDN
+| redir2 = INA
+</noinclude>
+}}<noinclude>
+[[sl:Predloga:Podatki države Indonezija]]
+</noinclude>

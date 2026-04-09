@@ -1,0 +1,126 @@
+{{Documentation subpage}}
+{{About-distinguish2|a hatnote template|{{tl|No redirect}}, {{tl|Talk page of redirect}}, {{tl|WikiProject Redirect}}, {{tl|Wiktionary redirect}}, or {{tl|R avoided double redirect}} }}
+{{tsh|redir}}
+{{notice|1=Using this template does '''not''' create a redirect. The following pages may have what you are looking for:
+* [[Wikipedia:Redirect]] is the official Wikipedia guideline on redirects. The page focuses on the rules and standards that the Wikipedia community has agreed to [[WP:Common sense|generally]] follow regarding redirects.
+* [[Help:Redirect]] is a how-to page that focuses on the technical aspects of redirects. It instructs editors on how redirects work and how to handle them without causing errors.
+* [[Template:R template index|R template index]] contains a large list of templates that are used in order to tag and categorize redirects.
+}}
+{{high-use}}
+{{expensive}}
+{{lua|Module:Redirect hatnote}}
+
+==Description and use==
+This template produces a [[Wikipedia:Hatnote|hatnote]]:
+* {{tlx|Redirect|Foo}} → {{Redirect|Foo}}
+
+It is placed at the top of the article or section that is [[WP:PRIMARYREDIRECT|the primary topic of a redirect]], and links to other topics that are ambiguous with the name of that redirect. This template is used instead of the generic {{tl|for}} in order to reduce reader confusion.
+
+An example would be when a user searches for the emperor [[Achilleus (emperor)|Achilleus]]. However, the search term "Achilleus" redirects to the page titled [[Achilles]] (as in the mythical hero) because it is considered more likely the user were searching for the very well known hero than a relatively obscure emperor. Now, at the top of this Achilles page you will (among other things) find the following hatnote:
+: ''"Achilleus" redirects here. For the Roman emperor with this name, see [[Achilleus (Roman usurper)]].''
+
+That text is this template in action.
+
+== Parameters ==
+{{expand-section|small=no}}
+A {{para|text}} option adds text to the end; note that this should only be used when truly necessary, when the other hatnote templates listed below don't suffice.
+
+== Examples ==
+* {{tlx|Redirect|Foo}} → {{Redirect|Foo}}
+* {{tlx|Redirect|REDIRECT<nowiki>||</nowiki>PAGE1}} → {{Redirect|REDIRECT||PAGE1}}
+* {{tlx|Redirect|REDIRECT|USE1|PAGE1}} → {{Redirect|REDIRECT|USE1|PAGE1}}
+* {{tlx|Redirect|REDIRECT|USE1|PAGE1|USE2|PAGE2|USE3|PAGE3}} → {{Redirect|REDIRECT|USE1|PAGE1|USE2|PAGE2|USE3|PAGE3}}
+* {{tlx|Redirect|REDIRECT|USE1|PAGE1|and|PAGE2}} → {{Redirect|REDIRECT|USE1|PAGE1|and|PAGE2}}
+* {{tlx|Redirect|REDIRECT|USE1|PAGE1|USE2|PAGE2|and|PAGE3}} → {{Redirect|REDIRECT|USE1|PAGE1|USE2|PAGE2|and|PAGE3}}
+* {{tlx|Redirect|Achilleus|the Emperor with this name|Achilleus (emperor)|other uses|Achilles (disambiguation)}} (as used on the page [[Achilles]]) → {{Redirect|Achilleus|the Emperor with this name|Achilleus (emperor)|other uses|Achilles (disambiguation)}}
+
+The {{para|selfref|yes}} option marks the entire hatnote as a Wikipedia self-reference, causing it to be omitted when the page content is reused outside of Wikipedia (see {{tl|self reference}} and [[MOS:SELFREF]] for more details).
+
+== More complex uses ==
+For more complex cases, other templates can be used:
+* {{tl|Redirect2}} (when there are two incoming redirects)
+* {{tl|Redirect-multi}} (for two or more redirects)
+* {{tl|Redirect-several}} (for several redirects, without listing each)
+* {{tl|Redirect-distinguish}}
+*{{tl|See Wiktionary}} with "redirect" field
+* {{tl|Technical reasons}}
+
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "Redirecting page",
+			"description": "Name of page that redirects here",
+			"type": "wiki-page-name",
+			"required": true
+		},
+		"2": {
+			"label": "Use 1",
+			"description": "Displayed as: \"For Use 1, see ...\". If left empty, defaults to \"For other uses, see ...\".",
+			"type": "line",
+			"required": false
+		},
+		"3": {
+			"label": "Target 1",
+			"description": "Page to link to. Default is [[PAGENAME (disambiguation)]].",
+			"type": "wiki-page-name",
+			"required": false
+		},
+		"4": {
+			"label": "Use 2",
+			"description": "Second use. Can be 'and' to give: \"For Use 1, see [[Target 1]] and [[Target 2]].\"",
+			"type": "line",
+			"required": false
+		},
+		"5": {
+			"label": "Target 2",
+			"description": "Page to link second use to.",
+			"type": "wiki-page-name",
+			"required": false
+		},
+		"6": {
+			"label": "Use 3",
+			"description": "Third use. Can be 'and'.",
+			"type": "line",
+			"required": false
+		},
+		"7": {
+			"label": "Target 3",
+			"description": "Page to link third use to.",
+			"type": "wiki-page-name",
+			"required": false
+		},
+		"text": {
+			"label": "Custom text",
+			"type": "line",
+			"description": "Text to be appended to the end."
+		},
+		"selfref": {
+			"label": "Is self-reference?",
+			"description": "Set to yes to make this hatnote invisible on e.g. printed versions, for [[WP:SELFREF]]s",
+			"type": "boolean",
+			"default": "no",
+			"autovalue": "yes"
+		}
+	},
+	"description": "This template produces a hatnote similar to:\n\n\"Foo\" redirects here. For other uses, see [[Foo (disambiguation)]].",
+	"format": "inline"
+}
+</templatedata>
+
+==See also==
+* {{tl|no redirect}}, {{tlf|-r}}
+* {{tl|is redirect}}, returns yes/&lt;blank>
+* {{tl|Shortcut}}, for creating redirects primarily within the Wikipedia namespace that uses shorter names (e.g. [[MOS:SMALLCAPS]] or [[WP:AN]]).
+* [[Wikipedia:Template_index/Redirect_pages#List_of_redirects_by_function|Rcat functional index]]
+* {{Commons-inline|short=true|Template:Redirect}} at [[:commons:Main Page|Wikimedia Commons]].
+
+{{Hatnote templates|state = expanded}}
+
+<includeonly>{{Sandbox other||
+[[Category:Redirect formatting templates|Redirect]]
+[[Category:Disambiguation and redirection hatnote templates]]
+
+}}</includeonly>

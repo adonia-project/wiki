@@ -1,0 +1,95 @@
+{{Short description|Proposed high-speed rail line along the Baliscan Levante}}
+{{Infobox rail line
+| name = Pyara high-speed rail line
+| native_name = Linia de alta velocidad Pyara
+| color =235549
+| logo =
+| logo_width =
+| logo_alt =
+| image =Pyara maglev test line.png
+| image_width =300px
+| image_alt =
+| caption =[[Alcántara series A0]] train
+| type = {{W|Maglev}} {{W|high-speed rail}}
+| system = [[AVB]]
+| status = Partially constructed (test line)
+| locale = [[Araucaria]], [[Castejón]], [[Cerdanya]], [[Hesperia]] (planned)
+| start = [[Merced]] (proposed)
+| end = [[Porciúncula]] (proposed)
+| stations = 14 (proposed); 2 (test line)
+| routes =
+| daily_ridership = 0 (test line); projected 340,000 (full line)
+| ridership2 =
+| planopen = Indefinitely suspended
+| open = 2019 (test line only)
+| close =
+| owner = [[Secretariat of Transport and Communications (Balisca)| Secretariat of Transport and Communications]]
+| operator = [[Baliscan Railways Group]] (test line)
+| character = Elevated, tunnel, underground
+| depot = Sant'André Maintenance Facility
+| stock = [[Alcántara series A0]] (test train)
+| tracks = 2
+| gauge = {{Track gauge|sg|allk=on}}
+| load_gauge =
+| minradius =
+| maxincline =
+| racksystem =
+| routenumber =
+| electrification = [[w:25 kV AC railway electrification|25 kV 50 Hz AC]]
+| speed_km/h = 
+| elevation_m =
+| website =
+| map =
+| map_state =
+|speed={{convert|430|km/h|mph|abbr=on}} {{br}} {{convert|320|km/h|mph|abbr=on}} (operational test)|linelength={{convert|47|km|abbr=on}} (test line) {{br}} {{convert|1049.75|km|abbr=on}} (proposed)}}
+ 
+The '''Pyara high-speed rail line''' is a proposed [[W:Maglev|maglev]] railway intended to serve the [[Baliscan Levante]], the densely populated eastern seaboard of the [[Baliscan Confederation]] stretching from [[Alessandria]] to [[San Víctor]]. Named from the [[Kuarupí language|Kuarupí]] term ''py-ara'' ("sky-path"), the project was conceived in the early 2010s as a capacity relief mechanism for the overloaded [[Alta Velocidad Baliscana]] (AVB) network, which has operated beyond design capacity since the late 2000s. Construction began in 2014 on a 47-kilometer test segment between the commuter towns of [[Novato]] and [[Sant'André]] in central [[Hesperia]], with full line completion originally projected for 2031. However, the project has been indefinitely suspended since 2023 amid intense controversy regarding its cost, environmental impact, and compatibility with the Confederation's [[W:Post-growth|post-growth economic]] outlook. The completed test section, officially designated as the '''Pyara test line''', remains the only operational portion of the network, running demonstration trains at reduced speeds while the fate of the broader project remains unresolved.
+ 
+The Pyara proposal emerged from a 2009 [[Alcántara]] study that projected total capacity exhaustion on the AVB's Levante corridor by 2025. The existing high-speed network, constructed during the 1962 [[Confederal Rail Modernization Act]] and subsequently upgraded in the 1980s and 1990s, was designed for a population of approximately 90 million; by the 2020s, the coastal region had grown to 133 million residents, with daily ridership exceeding sustainable levels. Commuters between [[Castejón]] and [[Merced]] routinely experienced standing-room-only conditions during peak hours. Initial proposals focused on traditional expansion of AVB capacity through additional parallel tracks, but engineers determined that the legacy corridor's curvature and grades could not accommodate the frequency increases necessary for projected demand. Engineers of the [[Instituto Investigación Técnica Ferroviaria]] subsequently proposed an entirely new corridor utilizing advanced high-speed technology capable of {{Convert|430|km/h|mph|abbr=on}} operating speeds, arguing that it was the best path to adequately serve the Levante's needs through the mid-twenty-first century.
+ 
+Construction of the test section commenced in 2014 under the direction of the [[Cooperativa de Construcción del Norte]] (CCN), a worker-owned construction consortium based in Hesperia. The 47-kilometer segment was designed to demonstrate the technical viability of the full line's specifications, including elevated viaduct construction, tunnel boring, and the operation of high-speed trains at designed speeds. The track connects the midsize commuter municipalities of [[Vila Nova]] and [[Sant'André]], which area already linked by a conventional commuter rail line operating 20-minute frequencies at a fare of approximately {{Baliscan sol|14|link=yes}}. The Pyara test line reduced this travel time to six minutes at projected operational speeds, though demonstration runs have been limited to {{Convert|320|km/h|mph|abbr=on}} km/h since 2020 pending resolution of vibration concerns affecting nearby residential structures. The CCN completed the test line on schedule in 2019 at a cost of {{Baliscan sol|9.3 billion|link=yes}}, with initial public demonstrations drawing significant popular attention and positive media coverage.
+
+== Controversies ==
+
+=== Indigenous naming dispute ===
+The term ''Pyara'' combines the Kuarupí roots ''py'' (path, road, or way) and ''ara'' (sky, heavens, or day), yielding a composite meaning variously translated as "sky-path," "heavenly road," or "the way of the sky." This naming choice, while initially celebrated by progressive factions within the government, subsequently generated controversy when Kuarupí elders noted that the ITC had not consulted indigenous linguistic authorities before adoption. The [[Akademia de la Lengua Kuarupí|''Akademia de la Lengua Kuarupí'']] later issued a formal statement, clarifying that the term "''py''" traditionally connotes a walking path or trail rather than a technological transportation system, and that the metaphorical extension to a high-speed railway reflected a [[W:Neocolonialism|neocolonial]] assumption about the adaptability of indigenous concepts to industrial purposes. Nevertheless, the name remained fixed in official documentation, and supporters have subsequently reclaimed the term as symbolizing the project's aspiration to elevated, sustainable transportation that minimizes ground-level environmental disruption.
+
+=== Operational cost and use ===
+The test line's operational history has been characterized by minimal practical use and escalating controversy over the project's broader implications. Following initial demonstration runs, the [[Baliscan Railways Group]] has retained operational control of the tracks for testing and calibration purposes, running empty trains twice weekly to maintain equipment functionality and gather performance data. However, the segment was never integrated into commercial passenger service due to fare structure disputes; transport economists calculated that operating costs would require ticket prices of approximately {{Baliscan sol|80|link=yes}} ({{I$|135|link=yes}}) per journey to achieve cooperative break-even standards, compared to the {{Baliscan sol|14|link=yes}} ({{I$|10.50|link=yes}}) fare on the parallel conventional line. The resulting price differential—nearly-six times the cost for a fourteen-minute time savings—rendered commercial operation economically unviable under current cooperative principles, which require public transportation to operate on a non-profit basis while maintaining affordability for working-class riders. Consequently, the Pyara test section has remained largely unused, serving occasionally for technical demonstrations, visiting dignitary transportation, and tourism-oriented "futurist experience" rides, while the CCN's 230 maintenance workers continue to staff the facilities under ongoing operational contracts.
+
+=== Political debate and discourse  ===
+The fate of the full Pyara line has become the focal point of a broader ideological conflict within Baliscan political economy between advocates of technological acceleration and proponents of post-growth restraint. The project has divided the Balisca's dominant left-wing political factions into two camps regarding the maglev project: between the so-called ''velocistas''—made up of [[Accelerationism|accelerationists]] and [[W:Techno-utopianism|techno-optimists]] that argue that the AVB capacity crisis threatens the Levante's economic productivity and that only modern high-speed infrastructure can sustain the cooperative system through the twenty-first century—and the ''limites'' faction, which contends that the resources required for the Pyara line's completion represent a misallocation from urgent social needs including housing construction (in response to the worsening [[Baliscan housing shortage]]), healthcare expansion, and [[W:Climate adaptation|climate adaptation]] infrastructure.
+ 
+Pro-completion voices, concentrated among residents of the affected coastal areas in the Levante, maintain that the current infrastructure is clearly inadequate for contemporary and projected needs, and that failure to complete the Pyara would constitute a deliberate choice of service degradation in the affected areas. They emphasize that Balisca's post-growth economic outlook should not preclude necessary technological modernization. Opponents of the project, drawing support from housing advocates, radical environmental activists, and rural communities affected by the proposed route, counter that the projected {{I$|link=yes}}89-billion cost of full line completion can be better spent on funding housing construction projects or the expansion of [[Social protection in Balisca|social protection]] programs in the most neglected areas for years. They further argue that the [[Environmental and Social Accounting Framework]]'s founding principles emphasize meeting human needs over pursuing technological spectacle, and that the AVB capacity crisis can be addressed through demand management, remote work promotion, and freight modal shift to coastal shipping without constructing new capital-intensive infrastructure.
+ 
+The institutional response to the Pyara controversy has reflected the broader paralysis affecting confederal infrastructure decision-making in the post-growth era. The [[Secretariat of Transport and Communications (Balisca)|Secretariat of Transport and Communications]] commissioned a comprehensive review in 2020 under the direction of the [[Planning Institute for Sustainable Mobility]], which delivered its findings in 2023. The resulting report, commonly referenced as the "[[Sant'André Assessment]]," concluded that while the Pyara line was technically feasible and would provide capacity relief for the AVB corridor, its completion would divert resources that could be considered conflicting with the adopted [[Environmental and Social Accounting Framework]] targets for the 2030s. The assessment recommended a temporary suspension of full-line construction pending resolution of the housing backlog, climate adaptation infrastructure deficit, while maintaining the test section for continued study of high-speed technologies. This finding has been accepted provisionally by the regional assemblies of [[Aprica]] and [[Las Peñas]], which host the test section. The Secretariat has delivered no timeline for eventual decision on the project's fate, and the Pyara test section remains in operational limbo—a physical manifestation of Balisca's unresolved debate regarding the appropriate scale and ambition of public infrastructure in an era of ecological constraint.
+
+=== Cultural impact ===
+The Pyara controversy has generated significant cultural production, including documentary films, theatrical works, and academic studies examining the intersection of infrastructure, [[W:Indigenous rights|indigenous rights]], and post-growth economics. The 2023 documentary "[[Guapy: Historia de un Camino Incompleto|''Guapy: Historia de un Camino Incompleto'']]" ("The White Elephant: Story of an Unfinished Road") by the [[Castejón Broadcasting Collective]] traced the project's history from initial conception through the active occupation of construction sites, arguing that the Pyara represents a broader pattern of technological ambition colliding with ecological and social reality in contemporary Balisca. The film's title references the Baliscano slang term ''guapy'', derived from the Kuarupí word meaning "great road", which has subsequently entered common usage to describe any [[W:Megaproject|ambitious infrastructure project]] endangered of becoming a stranded asset. The documentary has been screened at worker cooperative assemblies throughout the Levante, stimulating local debates regarding transportation priorities and the appropriate balance between technological modernization and resource restraint. Academic analysis has focused on the institutional mechanisms that permitted the Pyara project to advance through preliminary phases despite emerging questions regarding its viability, with scholars identifying the distributed responsibility structures of cooperative construction consortia as potentially susceptible to collective action problems that allow projects to proceed based on sunk-cost logic even when participants harbor private reservations regarding ultimate feasibility.
+ 
+==See also==
+* [[Alta Velocidad Baliscana]]
+* [[Rail transport in Balisca]]
+* [[W:Post-growth|Post-growth economics]]
+* [[Environmental and Social Accounting Framework]]
+* [[Kuarupí language]]
+* [[Cooperativa de Construcción del Norte]]
+* [[Instituto de Tecnología de Castejón]]
+* [[Confederal Rail Modernization Act]]
+{{Balisca articles}}
+
+{{Rail transport in Balisca}}
+{{High-speed rail}}
+{{Proposed rail infrastructure in Balisca}}
+ 
+[[Category:High-speed rail in Balisca]]
+[[Category:Proposed railway lines in Balisca]]
+[[Category:Transportation in Araucaria]]
+[[Category:Indigenous peoples of Balisca]]
+[[Category:Post-growth economics]]
+[[Category:Controversies in Balisca]]
+[[Category:Cooperative movement in Balisca]]
+[[Category:Kuarupí language]]
+[[Category:Infrastructure disputes]]
+[[Category:2019 establishments in Balisca]]
+[[Category:Balisca]]

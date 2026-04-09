@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Basilisco
+| flag alias = Flag of Basilisco.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

@@ -1,0 +1,61 @@
+{{Documentation subpage}}
+{{Lua|Module:Infobox|Module:InfoboxImage|Module:Check for unknown parameters}}
+{{Parameter names example|_template=|  size | title | party1 | party2 | 1 | map | 2 | 3 | filetype | flagvariant1 | flagvariant2 | mission1 | mission2 | envoytitle1 | envoytitle2 | envoy1 | envoy2 }}
+
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+== Code ==
+<syntaxhighlight lang="wikitext" style="overflow: auto;">
+{{Infobox bilateral relations
+| title       = <!-- country1–country2 relations -->
+| party1      = <!-- country1 -->
+| party2      = <!-- country2 -->
+| map         = 
+| filetype    = 
+| size        = 
+| mission1    = 
+| mission2    = 
+| envoytitle1 = 
+| envoy1      = 
+| envoytitle2 = 
+| envoy2      = 
+}}
+</syntaxhighlight>
+
+== Usage ==
+{{Infobox bilateral relations|Canada–United States|Canada|USA|mission1 = [[Embassy of Canada, Washington, D.C.]]|mission2 = [[Embassy of the United States, Ottawa]]|envoytitle1 = [[Canadian Ambassador to the United States|Ambassador]]|envoy1 = [[Gary Doer]]|envoytitle2 = [[United States Ambassador to Canada|Ambassador]]|envoy2 = [[Bruce Heyman]]}}
+#First, create the article that you need this template for. Let's use [[Canada–United States relations]] as an example.
+#Create a map using the following name: ''File:<first country name> <second country name> Locator.png'' (for example, [[:File:Canada USA Locator.png]]). (Differently named maps can be specified by using the "map=" parameter.)
+#<code>party1</code> is the first governing entity of the article (in this case, <code>Canada</code>)
+#<code>party2</code> is the second governing entity of the article (in this case, <code>USA</code>)
+#<code>map</code> is an optional named parameter. Using <code>map=''Filename.png''</code> will use a specific locator map named "Filename.png". (Default is "party1 party2 Locator.png".)
+#<code>filetype</code> is an optional named parameter. For example, putting <code>filetype=svg</code> will use an SVG image under the same name, e.g. [[:File:Canada USA Locator.svg]]. (Default is "png".)
+#<code>size</code> is an optional named parameter to specify the width of the template in pixels (default is "250px")
+#<code>mission1</code> is an optional named parameter to specify the diplomatic mission of party1
+#<code>mission2</code> is an optional named parameter to specify the diplomatic mission of party2
+#<code>envoytitle1</code> is an optional named parameter to specify the title of the diplomatic envoy of party1
+#<code>envoy1</code> is an optional named parameter to specify the name of the diplomatic envoy of party1
+#<code>envoytitle2</code> is an optional named parameter to specify the title of the diplomatic envoy of party2
+#<code>envoy2</code> is an optional named parameter to specify the name of the diplomatic envoy of party2
+#<code>flagvariant1</code> is an optional named parameter to specify a flag variant supported by the corresponding Country data template for the first party.
+#<code>flagvariant2</code> is an optional named parameter to specify a flag variant supported by the corresponding Country data template for the second party.
+
+== Map ==
+The template checks for the existence of a map. Articles for which a map does not exist are added to [[:Category:Infobox bilateral relations usage without maps]]
+
+SVG maps highlighting the relevant countries can be easily created using a text editor, without need of graphics software. Download [[:File:BlankMap-World6.svg]], and open the file in a text editor. Add the following code to the source, just before the {{code|</style>}} tag:
+ .xx {fill:#339933;}
+ .yy {fill:#E08020;}
+Where xx and yy are the [[ISO 3166-1 alpha-2]] country codes for {{code|party1}} and {{code|party2}}, respectively. Save the file, rename it to the preferred name as described above, and upload the file.
+
+== Microformat ==
+{{UF-adr}}
+
+== Tracking category ==
+* {{clc|Infobox bilateral relations usage without maps}}
+
+<includeonly>{{Sandbox other||
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Foreign relations templates| ]]
+[[Category:Politics and government infobox templates|Bilateral relations]]
+[[Category:Templates that add a tracking category]]
+}}</includeonly>

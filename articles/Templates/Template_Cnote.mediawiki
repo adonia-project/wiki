@@ -1,0 +1,4 @@
+{{#if: {{#if: {{{1|}}} | {{#if: {{{2|}}} |1}}}}
+| <span id="cnote_{{{1}}}"><b>[[#ref_{{{1}}}|^]]</b></span>&nbsp;'''{{{1}}}:'''&nbsp;{{{2}}} | <includeonly>{{error|1=Error on call to [[Template:cnote]]:}} Parameter #1 (name of content note) and parameter #2 (text of content note) must '''both''' be entered.</includeonly>}}<br /><noinclude>
+{{documentation}}
+</noinclude>

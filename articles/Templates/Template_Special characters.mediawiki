@@ -1,0 +1,10 @@
+{{Side box
+ | class = noprint selfref
+ | text = '''This {{#if:{{{section|}}}|{{{section}}}|{{#if:{{SUBJECTSPACE}}|page|article}}}} contains {{{special|[[Help:Special characters|special characters]]}}}.''' Without proper [[{{{fix|Wikipedia:Help:Special characters}}}|rendering support]], you may see {{{error|[[mojibake|question marks, boxes, or other symbols]]}}}{{#if:{{{characters|}}}|&#32;instead of {{{characters}}}}}.
+ | image = {{#if:{{{image|}}}
+   | [[File:{{{image}}}|40x40px|link={{{link|}}}|alt={{{alt|}}}]] }}
+ | style = width: {{#if:{{{width|}}}|{{{width}}}|22em}};
+ | textstyle = vertical-align:middle; font-size:95%;
+}}<noinclude>
+{{documentation}}
+</noinclude>

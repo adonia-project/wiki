@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Ayorin
+| flag alias = Flag of Ayorin.svg
+| flag alias-1828 =
+| link alias-football = Ayorin national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1926
+| related1 = 
+</noinclude>
+}}

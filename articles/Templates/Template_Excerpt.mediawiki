@@ -1,0 +1,4 @@
+<includeonly>{{#invoke:Excerpt|main
+| 1 = {{{article|{{{page|{{{1}}}}}}}}}
+| 2 = {{{section|{{{fragment|{{{2|}}}}}}}}}
+}}</includeonly><noinclude>{{Documentation}}</noinclude>

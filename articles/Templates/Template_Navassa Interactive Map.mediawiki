@@ -1,0 +1,27 @@
+<div style="position: relative; {{{options|<!-- this tests fine, which is what I needed: float:right -->}}};">
+[[Image:Navassa comune (metropolitan city map) blank.svg|800px|An Interactive Clickable Map of Navassa]]<div style="font-size:85%">
+
+{{Image label|x=-425|y=-593|scale={{{width|-1}}}|text= '''[[Eixample (Navassa)|Eixample]]'''}}
+{{Image label|x=-469|y=-332|scale={{{width|-1}}}|text= '''[[Aràbi]]'''}}
+{{Image label|x=-569|y=-145|scale={{{width|-1}}}|text= '''[[Banyoles]]'''}}
+{{Image label|x=-560|y=-351|scale={{{width|-1}}}|text= '''[[Andalusia (Navassa)|Andalus]]'''}}
+
+{{Image label|x=-100|y=-588|scale={{{width|-1}}}|text= '''[[Empuria]]'''}}
+{{Image label|x=-405|y=-431|scale={{{width|-1}}}|text= '''[[Jiròni]]'''}}
+{{Image label|x=-353|y=-171|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-92|y=-125|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-152|y=-183|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+
+{{Image label|x=-621|y=-276|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-491|y=-114|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-602|y=-434|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-352|y=-238|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-315|y=-401|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-531|y=-299|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-267|y=-381|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+
+{{Image label|x=-534|y=-185|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-510|y=-247|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-424|y=-261|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+{{Image label|x=-272|y=-413|scale={{{width|-1}}}|text= '''[[tba]]'''}}
+</div></div>

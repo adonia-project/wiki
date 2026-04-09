@@ -1,0 +1,104 @@
+/* --- Missing Thumbnail Border Fix --- */
+.thumb {
+	margin-bottom: 0.5em;
+	border: 0;
+}
+.thumbinner {
+	border: 1px solid #ccc; /* This is the border/outline */
+	padding: 3px;
+	background-color: #f9f9f9;
+	overflow: hidden;
+}
+.tright {
+	float: right;
+	clear: right;
+	margin: 0.5em 0 1.3em 1.4em;
+}
+.tleft {
+	float: left;
+	clear: left;
+	margin: 0.5em 1.4em 1.3em 0;
+}
+.tnone {
+	margin: 0.5em auto;
+}
+
+/* --- Original Template Code --- */
+.multiimageinner {
+	display: flex;
+	flex-direction: column;
+}
+
+.trow {
+	display: flex;
+	flex-direction: row;
+	clear: left;
+	flex-wrap: wrap;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.tsingle {
+	margin: 1px;
+	float: left;
+}
+
+.theader {
+	clear: both;
+	font-weight: bold;
+	text-align: center;
+	align-self: center;
+	background-color: transparent;
+	width: 100%;
+}
+
+.thumbcaption {
+	background-color: transparent;
+}
+
+.text-align-left {
+	text-align: left;
+}
+
+.text-align-right {
+	text-align: right;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+@media all and ( max-width: 720px ) {
+	.thumbinner {
+		width: 100% !important;
+		box-sizing: border-box;
+		max-width: none !important;
+		align-items: center;
+	}
+	.trow {
+		justify-content: center;
+	}
+	.tsingle {
+	    float: none !important;
+	    max-width: 100% !important;
+	    box-sizing: border-box;
+	    text-align: center;
+	}
+	.tsingle .thumbcaption {
+		text-align: left;
+	}
+	.trow > .thumbcaption {
+		text-align: center;
+	}
+}
+
+@media screen {
+	html.skin-theme-clientpref-night .multiimageinner span:not(.skin-invert-image):not(.skin-invert):not(.bg-transparent) img {
+		background-color: white;
+	}
+}
+@media screen and (prefers-color-scheme: dark) {
+	html.skin-theme-clientpref-os .multiimageinner span:not(.skin-invert-image):not(.skin-invert):not(.bg-transparent) img {
+		background-color: white;
+	}
+}

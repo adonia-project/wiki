@@ -1,0 +1,202 @@
+'''Genonian''' (𐑡𐑧𐑯𐑭𐑯𐑦𐑯, ''Ĝenonin'', <small>pronounced</small> [dʒɛnonin]) is a [[SUB-FAMILY languages|SUB-FAMILY language]] within the [[FAMILY language family]], and is written in the [[Genonian script]]<!--Shavian script-->. It is primarily spoken in [[Geno]] by the [[Genonian people]] and serves as the official language of the country, as well as the language of the [[Genonian diaspora]] around Basis. 
+
+==Geographic distribution==
+==Dialects==
+
+==Phonology==
+==Writing system==
+===Alphabet and IPA===
+Genonian is written with 34 letters of the [[Genonian script]].
+
+{| style="background:none;"
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;"
+|+ [[wikipedia:Consonant|Consonants]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|b}}</big>
+| align="left"| '''𐑚'''
+| align="left"| '''B'''
+|align="left"| '''b'''oat
+|-
+|<big>{{IPA|ts}}</big>
+| align="left"| '''𐑔'''
+| align="left"| '''C'''
+|align="left"| '''ts'''unami
+|-
+|<big>{{IPA|tʃ}}</big>
+| align="left"| '''𐑗'''
+| align="left"| '''Ĉ'''
+|align="left"| '''ch'''eck
+|-
+|<big>{{IPA|d}}</big>
+| align="left"| '''𐑛'''
+| align="left"| '''D'''
+|align="left"| '''d'''o
+|-
+|<big>{{IPA|θ}}</big>
+| align="left"| '''𐑞'''
+| align="left"| '''Đ'''
+|align="left"| '''th'''ought
+|-
+|<big>{{IPA|f}}</big>
+| align="left"| '''𐑓'''
+| align="left"| '''F'''
+|align="left"| '''f'''estival
+|-
+|<big>{{IPA|ɡ}}</big>
+| align="left"| '''𐑜'''
+| align="left"| '''G'''
+|align="left"| '''g'''ain
+|-
+|<big>{{IPA|dʒ}}</big>
+| align="left"| '''𐑡'''
+| align="left"| '''Ĝ'''
+|align="left"| '''j'''ob
+|-
+|<big>{{IPA|ɣ}}</big>
+| align="left"| '''𐑣'''
+| align="left"| '''H'''
+|align="left"| '''h'''at
+|-
+|<big>{{IPA|x}}</big>
+| align="left"| '''𐑙'''
+| align="left"| '''Ĥ'''
+|align="left"| '''Q'''atar
+|-
+|<big>{{IPA|ʒ}}</big>
+| align="left"| '''𐑠'''
+| align="left"| '''J'''
+|align="left"| plea'''s'''ure
+|-
+|<big>{{IPA|k}}</big>
+| align="left"| '''𐑒'''
+| align="left"| '''K'''
+|align="left"| s'''k'''y
+|-
+|<big>{{IPA|l}}</big>
+| align="left"| '''𐑤'''
+| align="left"| '''L'''
+|align="left"|'''l'''ean
+|-
+|<big>{{IPA|m}}</big>
+| align="left"| '''𐑥'''
+| align="left"| '''M'''
+|align="left"| '''m'''oon
+|-
+|<big>{{IPA|n}}</big>
+| align="left"| '''𐑯'''
+| align="left"| '''N'''
+|align="left"| '''n'''ote
+|-
+|<big>{{IPA|p}}</big>
+| align="left"| '''𐑐'''
+| align="left"| '''P'''
+|align="left"| '''P'''a'''p'''er
+|-
+|<big>{{IPA|r}}</big>
+| align="left"| '''𐑮'''
+| align="left"| '''R'''
+|align="left"| ''Spanish'' '''r'''ío; ''Ukrainian'' '''р'''анок
+|-
+|<big>{{IPA|s}}</big>
+| align="left"| '''𐑕'''
+| align="left"| '''S'''
+|align="left"| '''s'''ix
+|-
+|<big>{{IPA|ʃ}}</big>
+| align="left"| '''𐑖'''
+| align="left"| '''Ŝ'''
+|align="left"| '''sh'''oe
+|-
+|<big>{{IPA|t}}</big>
+| align="left"| '''𐑑'''
+| align="left"| '''T'''
+|align="left"| '''t'''ank
+|-
+|<big>{{IPA|v}}</big>
+| align="left"| '''𐑝'''
+| align="left"| '''V'''
+|align="left"| '''v'''ision
+|-
+|<big>{{IPA|z}}</big>
+| align="left"| '''𐑟'''
+| align="left"| '''Z'''
+|align="left"| '''z'''ero
+|-
+|}
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;" 
+|+ [[wikipedia:Vowel|Vowels]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|a}}</big>
+| align="left"| '''𐑨'''
+| align="left"| '''A'''
+|align="left"| f'''a'''ther
+|-
+|<big>{{IPA|ɑ}}</big>
+| align="left"| '''𐑪'''
+| align="left"| '''Â'''
+|align="left"| '''o'''n, ''Quebec French'' g'''a'''rs
+|-
+|<big>{{IPA|ɛ}}</big>
+| align="left"| '''𐑧'''
+| align="left"| '''E'''
+|align="left"| '''e'''gg
+|-
+|<big>{{IPA|ə}}</big>
+| align="left"| '''𐑩'''
+| align="left"| '''Ê'''
+|align="left"| '''a'''bove, ''French'' d'''e'''main
+|-
+|<big>{{IPA|i}}</big>
+| align="left"| '''𐑦'''
+| align="left"| '''I'''
+|align="left"| s'''ee'''
+|-
+|<big>{{IPA|ɪ}}</big>
+| align="left"| '''𐑰'''
+| align="left"| '''Î'''
+|align="left"| '''i'''t, '''i'''f
+|-
+|<big>{{IPA|o}}</big>
+| align="left"| '''𐑭'''
+| align="left"| '''O'''
+|align="left"| st'''o'''ry
+|-
+|<big>{{IPA|ɔɪ}}</big>
+| align="left"| '''𐑶'''
+| align="left"| '''Ô'''
+|align="left"| '''oi'''l
+|-
+|<big>{{IPA|aʊ}}</big>
+| align="left"| '''𐑬'''
+| align="left"| '''Ø'''
+|align="left"| '''ou'''t
+|-
+|<big>{{IPA|u}}</big>
+| align="left"| '''𐑷'''
+| align="left"| '''U'''
+|align="left"| c'''oo'''l
+|-
+|<big>{{IPA|w}}</big>
+| align="left"| '''𐑘'''
+| align="left"| '''W'''
+|align="left"| '''w'''alk
+|-
+|<big>{{IPA|j}}</big>
+| align="left"| '''𐑢'''
+| align="left"| '''Y'''
+|align="left"| '''y'''olk
+|-
+|}
+|}
+
+===Orthography===
+
+==Grammar==
+
+[[Category:Geno]][[Category:MyNameJuls]][[Category:Basis]]

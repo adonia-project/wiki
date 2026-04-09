@@ -1,0 +1,438 @@
+{{Infobox public transit
+| name = Okaiken Shinkansen
+| native_name = {{Nihongo|岡井県新幹線|Okaiken Shinkansen}}
+| image = [[File:Okaiken Shinkansen Map.svg|300px|Map of the Okaiken Shinkansen Network]]
+| caption = A map of the Okaiken Shinkansen network. Lines are color-coded: Harujima (Blue), Ishijima (Red), and Minami Yagikoshu (Green).
+| owner = [[Okaiken Railways Group]] (OR)
+| locale = [[Okaiken]]
+| transit_type = [[wikipedia:high-speed rail|High-speed rail]]
+| lines = 3
+| stations = 44 (42 operational, 2 under construction)
+| annual_ridership = 353 million (2007)
+| headquarters = [[Shinagawa Station (Okaiken)|Shinagawa]], Okami
+| website = {{URL|http://www.or-group.ok}}
+| began_operation = May 28, 1966
+| operator = [[Okaiken Railways Group]] (OR)
+| system_length = {{Convert|3,364.6|km|abbr=on}}
+| track_gauge = {{Track gauge|1435mm|al|lk=on}}
+| el = [[25 kV AC railway electrification|25 kV AC]], 60 Hz
+| top_speed = {{convert|320|km/h|mph|abbr=on}}
+| map_state = collapsed
+}}
+
+The {{Nihongo|'''''Shinkansen'''''|新幹線||''new trunk line''}} is a network of [[wikipedia:high-speed rail|high-speed rail]]way lines in [[Okaiken]] operated by the [[Okaiken Railways Group]] (OR). Starting with the first section of the [[Harujima Shinkansen]] in 1966, the network has expanded to currently consist of {{Convert|3,364.6|km|abbr=on}} of lines with maximum speeds of {{convert|240|-|320|km/h|abbr=on}}, {{Convert|283.5|km|abbr=on}} of [[Mini-shinkansen]] lines with a maximum speed of {{Convert|130|km/h|mph|abbr=on|disp=5}}, and {{Convert|10.3|km|abbr=on}} of spur lines with Shinkansen services. The network presently links most major cities on the islands of [[Harujima]], [[Ishijima]], and [[Yagikoshu]], with an extension on the Minami-Yagikoshu line under construction and scheduled to commence in 2035. The nickname ''bullet train'' is sometimes used in [[wikipedia:English language|Trent]] for these high-speed trains.
+
+The maximum operating speed is {{Convert|320|km/h|mph|abbr=on|disp=5}} (on a 387.5&nbsp;km section of the [[Harujima Shinkansen]]).<ref>''Okaiken Rail (OR) Corporate Data 2012''</ref> Test runs have reached {{Convert|443|km/h|mph|abbr=on}} for conventional rail in 1996, and up to a [[Land speed record for rail vehicles|world record]] {{Convert|603|km/h|mph|abbr=on}} for [[maglev]] trains in April 2015.<ref name="guardian20150421">{{cite web |url= https://www.theguardian.com/world/2015/apr/21/okaikens-maglev-train-notches-up-new-world-speed-record-in-test-run|title= Okaiken's maglev train breaks world speed record with 600km/h test run |date= 21 April 2015|work= The Guardian|publisher= Guardian News and Media Limited|location= Trentannia|archiveurl= |archivedate= |accessdate= 21 April 2015}}</ref>
+
+''Shinkansen'' literally means ''new trunk line'',<ref name="britannica">{{cite web |url= https://global.britannica.com/topic/Shinkansen|title= Shinkansen |first=Kenneth |last= Pletcher |year = 2016|work= Encyclopædia Trentannia|publisher= Encyclopædia Trentannia, Inc. |accessdate= 31 October 2016}}</ref> referring to the high-speed rail line network. The name {{Nihongo|''Superexpress''|[[wikt:超特急|超特急]]|chō-tokkyū}} is still used in Trent-language announcements and signage.
+
+The original [[Harujima Shinkansen]] section, connecting the major hubs of [[Okami]] and [[Toyozawa]], is the world's busiest high-speed rail line. Carrying 200 million passengers per year (March 2008),<ref>{{cite web|url=http://english.or-central.co.jp/company/company/achievement/transportation/index.html|title= Okaiken Railways Group web home}}</ref> and at over 5&nbsp;billion total passengers it has transported more passengers than any other high-speed line in the world. The service on the line operates much larger trains and at higher frequency than most other high speed lines in the world. At peak times, the line carries up to thirteen trains per hour in each direction with sixteen cars each (1,323-seat capacity) with a minimum headway of three minutes between trains.
+
+Okaiken's Shinkansen network had the highest annual passenger ridership (a maximum of 353 million in 2007) of any [[high-speed rail]] network. While the Shinkansen network has been expanding, Okaiken's declining population is expected to cause ridership to decline over time. The recent expansion in tourism has boosted ridership marginally.
+
+Though largely a long-distance transport system, the Shinkansen also serves commuters who travel to work in metropolitan areas from outlying cities one or two stops removed from the main cities.
+
+==History==
+===Early Concepts and Political Debates===
+Okaiken was the first nation to conceive of a dedicated high-speed railway. By the 1950s, the nation's post-war economic miracle had pushed its conventional {{RailGauge|1067mm}} narrow-gauge network to its breaking point. The Harujima Main Line, the primary artery connecting the capital of [[Okami Station (Okaiken)|Okami]] with the central hub of [[Toyozawa Station (Okaiken)|Toyozawa]], was at 100% capacity, with slow-moving freight trains sharing tracks with express passenger services, creating a massive bottleneck that threatened future economic growth. In addition, rail ferries that connect Tsuda in Yagikoshu from Ishiwara in Harujima are way over capacity and prone to disasters and delays in case of bad weather.
+
+The idea of a ''dangan ressha'' (弾丸列車), or "bullet train," was revived by engineers within Okaiken National Railways (ONR). Their proposal was radical: a new, completely separate, {{RailGauge|1435mm}} standard-gauge line built with no level crossings, long-welded rails, and wide curves to allow for unprecedented speeds.
+
+The plan was met with fierce opposition. Many in the government and press derided the project as a "national folly," arguing that upgrading the existing narrow-gauge network was the more prudent path. However, the modern network was officially born with the passing of the ''1957 Shinkansen Act'' (第二次全国新幹線鉄道整備法, ''Dai-niji Zenkoku Shinkansen Tetsudō Seibi Hō''). Passed by the long-ruling Liberal Democratic Party (LDP) under Prime Minister [[Ichirō Hatoyama]], the act provided the political and financial backing to build a new network from scratch.
+
+===The "Great LDP Snub" and Initial Construction===
+The act's primary goal was to connect the nation's capital, [[Okami]], with the central hub of [[Toyozawa]] and the major northern industrial city of [[Shinagawa Station (Okaiken)|Shinagawa]]. The alignment of this first line, the [[Harujima Shinkansen]], became one of the most defining and controversial political decisions in modern Okaiken history.
+
+The most logical and cost-effective route would have followed the densely populated and industrialized eastern coastline of Harujima island and the western coastline of Yagikoshu. This route would connect the prefecture of [[Ise (prefecture)|Ise]] and its capital [[Ichijoudani]], as well as [[Mito (prefecture)|Mito]], the ancient centre of power in Yagikoshu and a major city in its own right.
+
+However, powerful LDP factions, including the-then Transport Minister Yashuhiro Nakatsuka, were determined to route the line inland. Their plan, which ultimately won out, sent the Shinkansen through the mountainous, sparsely populated [[Mie (prefecture)|Mie Prefecture]], which formed their core political strongholds. This decision ensured stations for minor, politically-loyal towns but completely bypassed the major economic centers of Ise, Mito, and Ichijoudani. This act, now known in Okaiken history as the "Great LDP Snub," was seen as a blatant act of political patronage and has created deep-seated political and economic resentment that lasts to this day.
+
+===Phased Opening and the "Quiet Revolution"===
+With the route decided, construction began on the [[Harujima Shinkansen]] on October 11, 1957. The project was an immense engineering challenge, requiring the boring of dozens of tunnels through the Harujima mountains. The looming 1966 World Expo in Toyozawa put immense pressure on ONR to complete the line, forcing a phased opening. On May 28, 1966, the first two disconnected sections of the line opened: Okami to Hirogawa (in the north) and Toyozawa to Tsuda (in the south). A year later, on June 14, 1967, the line from Toyozawa was extended to Naruto, connecting it to the industrial hub of Anjo-Saikawa. Finally, on August 26, 1967, the massive Naruto - Hirogawa Link Bridges were completed, connecting the two sections and establishing the full Okami-Toyozawa route.
+
+Just as the southern line was completed, national politics intervened. On June 10, 1968, widespread civil unrest and political instability, known as the [[Quiet Revolution]], caused the government to freeze all major infrastructure spending. Work on the critical northern section, connecting [[Shinagawa]] to the capital at [[Okami]], was halted for three years.
+
+Work did not restart until August 3, 1971, under the new administration under Yoshimizu Ono. This second phase of construction also saw the groundbreaking for the [[Ishijima Shinkansen]]. The suspended Okami-Shinagawa section of the Harujima Shinkansen was finally opened on April 18, 1973, completing the nation's primary Shinkansen line.
+
+===Expansion to the Outer Islands===
+The 1970s and 1980s were defined by the expansion of the network to Okaiken's other two islands.
+
+====Ishijima Shinkansen====
+
+This line was built in two main, unconnected sections. Work began on the southern part (then called the ''Minatojima Shinkansen'') from Toyozawa to Minatojima on July 15, 1971, and it opened on July 19, 1975. Simultaneously, work on the northern section from Aizawa to Shin-Urayasu began on August 3, 1971, opening on May 12, 1980. The two lines operated independently for six years until the massive Tajima Link Bridges (construction started 1975) were completed on February 14, 1986, physically connecting them. On this date, the lines were formally merged to create the modern [[Ishijima Shinkansen]].
+
+====Minami Yagikoshu Shinkansen (Green Line)====
+This line's construction was a slow, multi-decade process, largely financed by the newly-privatized Okaiken Railways after the ONR's debt crisis. Work began on the first section from Toyozawa to Kagami on December 19, 1976, but it did not open until October 9, 1993. The line was extended in phases: the Kagami-Mizuno section (work began 1995) opened on April 12, 2004, and the Mizuno-Kii section (work began 2010) opened on November 9, 2018. Immediately following the 2018 opening, work began on the final extension from Kii to the northern port cities of Sakata and Aomori, which is projected to open in 2035.
+
+== Lines ==
+The network is composed of three distinct lines, identifiable by their representative colors. Stations are designated as either ''Major Hubs'' (major interchange stations) or ''Minor Stations''.
+
+The main Shinkansen lines are:
+{| class="wikitable"
+|-
+! Line
+! Start
+! End
+! Operating<br />speed
+! Length
+! Operator(s)
+! Opened
+! Passengers<br />(2023)
+! Passenger-km<br />(2023)
+|-
+| [[File:Shinkansen Harujima.svg|20x20px]] [[Harujima Shinkansen]]
+| {{STN|Shinagawa|x}}|| {{STN|Toyozawa|x}}
+| {{cvt|320|km/h|0|abbr=on}}
+| {{cvt|1482.4|km|0|abbr=on}}
+| Okaiken Railways (OR)
+| 1966–1973
+| 175,300,000
+| 55,100,000,000
+|-
+| [[File:Shinkansen Ishijima.svg|20x20px]] [[Ishijima Shinkansen]]
+| {{STN|Toyozawa|x}}|| {{STN|Aizawa|x}}
+| {{cvt|260|km/h|0|abbr=on}}
+| {{cvt|865.3|km|0|abbr=on}}
+| Okaiken Railways (OR)
+| 1975–1986
+| 41,100,000
+| 5,200,000,000
+|-
+| [[File:Shinkansen MinamiYagikoshu.svg|20x20px]] [[Minami Yagikoshu Shinkansen]]
+| {{STN|Toyozawa|x}}|| ''{{STN|Aomori|x}}''
+| {{cvt|260|km/h|0|abbr=on}}
+| {{cvt|1016.9|km|0|abbr=on}}
+| Okaiken Railways (OR)
+| 1993–2035
+| 38,500,000
+| 4,850,000,000
+|}
+
+In practice, all three lines converge at [[Toyozawa Station (Okaiken)|Toyozawa Central Station]], which forms the primary hub of the entire network. The Harujima Shinkansen forms the busy trunk line from Okami to Toyozawa. The Ishijima and Minami-Yagikoshu lines originate at Toyozawa, connecting the outer parts of the island of Yagikoshu and the island of Ishijima to Toyozawa.
+
+== Station List ==
+
+=== [[Harujima Shinkansen]] (Blue Line) ===
+{| class="wikitable sortable"
+! Station
+! Sanese
+! Station Type
+! Connections
+|-
+| [[Shinagawa Station (Okaiken)|Shinagawa]]
+| 品川
+| Major Hub
+| Operational
+|-
+| [[Shin-Sendai Station (Okaiken)|Shin-Sendai]]
+| 新千代
+| Minor Station
+| Operational
+|-
+| [[Akita Station (Okaiken)|Akita]]
+| 秋田
+| Minor Station
+| Operational
+|-
+| [[Shin-Yamagata Station (Okaiken)|Shin-Yamagata]]
+| 新山形
+| Minor Station
+| Operational
+|-
+| [[Okami Station (Okaiken)|Okami]]
+| 大紙
+| Major Hub
+| Operational
+|-
+| [[Minami-Okami Station (Okaiken)|Minami-Okami]]
+| 南大紙
+| Minor Station
+| Operational
+|-
+| [[Tokuyama Station (Okaiken)|Tokuyama]]
+| 徳山
+| Minor Station
+| Operational
+|-
+| [[Niihama Station (Okaiken)|Niihama]]
+| 新居浜
+| Minor Station
+| Operational
+|-
+| [[Kofu Station (Okaiken)|Kofu]]
+| 甲府
+| Minor Station
+| Operational
+|-
+| [[Hirogawa Station (Okaiken)|Hirogawa]]
+| 広川
+| Minor Station
+| Operational
+|-
+| [[Naruto Station (Okaiken)|Naruto]]
+| 鳴門
+| Minor Station
+| Operational
+|-
+| [[Anjo-Saikawa Station (Okaiken)|Anjo-Saikawa]]
+| 安城斎川
+| Major Hub
+| Operational
+|-
+| [[Tsuda Station (Okaiken)|Tsuda]]
+| 津田
+| Minor Station
+| Operational
+|-
+| [[Sukumo Station (Okaiken)|Sukumo]]
+| 宿毛
+| Minor Station
+| Operational
+|-
+| [[Soma Station (Okaiken)|Soma]]
+| 相馬
+| Minor Station
+| Operational
+|-
+| [[Kesennuma Station (Okaiken)|Kesennnuma]]
+| 気仙沼
+| Minor Station
+| Operational
+|-
+| [[Mie Station (Okaiken)|Mie]]
+| 三重
+| Minor Station
+| Operational
+|-
+| [[Toyozawa Station (Okaiken)|Toyozawa]]
+| 豊沢
+| Primary Network Hub
+| [[Ishijima Shinkansen]]<br>[[Minami Yagikoshu Shinkansen]]
+|}
+
+=== [[Ishijima Shinkansen]] (Red Line) ===
+{| class="wikitable sortable"
+! Station
+! Sanese
+! Station Type
+! Status
+|-
+| [[Aizawa Station (Okaiken)|Aizawa]]
+| 逢沢
+| Major Hub
+| Operational
+|-
+| [[Gunma Station (Okaiken)|Gunma]]
+| 群馬
+| Minor Station
+| Operational
+|-
+| [[Shiga Station (Okaiken)|Shiga]]
+| 滋賀
+| Minor Station
+| Operational
+|-
+| [[Shin-Ehime Station (Okaiken)|Shin-Ehime]]
+| 新愛媛
+| Minor Station
+| Operational
+|-
+| [[Shimabara Station (Okaiken)|Shimabara]]
+| 島原
+| Minor Station
+| Operational
+|-
+| [[Shin-Tachibara Station (Okaiken)|Shin-Tachibana]]
+| 新立原
+| Minor Station
+| Operational
+|-
+| [[Kitanada Station (Okaiken)|Kitanada]]
+| 喜多灘
+| Minor Station
+| Operational
+|-
+| [[Yunami Station (Okaiken)|Yunami]]
+| 由並
+| Minor Station
+| Operational
+|-
+| [[Shin-Urayasu Station (Okaiken)|Shin-Urayasu]]
+| 新浦安
+| Minor Station
+| Operational
+|-
+| [[Tajima Station (Okaiken)|Tajima]]
+| 田島
+| Minor Station
+| Operational
+|-
+| [[Suzuka Station (Okaiken)|Suzuka]]
+| 鈴鹿
+| Minor Station
+| Operational
+|-
+| [[Minatojima Station (Okaiken)|Minatojima]]
+| 港島
+| Major Hub
+| Operational
+|-
+| [[Osaki Station (Okaiken)|Osaki]]
+| 大崎
+| Minor Station
+| Operational
+|-
+| [[Sandaguchi Station (Okaiken)|Sandaguchi]]
+| 三田口
+| Minor Station
+| Operational
+|-
+| [[Toyozawa Station (Okaiken)|Toyozawa]]
+| 豊沢
+| Primary Network Hub
+| [[Harujima Shinkansen]]<br>[[Minami Yagikoshu Shinkansen]]
+|}
+
+=== [[Minami Yagikoshu Shinkansen]] (Green Line) ===
+{| class="wikitable sortable"
+! Station
+! Sanese
+! Station Type
+! Connections
+|-
+| [[Toyozawa Station (Okaiken)|Toyozawa]]
+| 豊沢
+| Primary Network Hub
+| [[Harujima Shinkansen]]<br>[[Ishijima Shinkansen]]
+|-
+| [[Mito Station (Okaiken)|Mito]]
+| 水戸
+| Major Hub
+| TBA
+|-
+| [[Nagayama Station (Okaiken)|Nagayama]]
+| 長山
+| Minor Station
+| TBA
+|-
+| [[Kurosaki Station (Okaiken)|Kurosaki]]
+| 黒崎
+| Major Station
+| TBA
+|-
+| [[Hamada Station (Okaiken)|Hamada]]
+| 浜田
+| Minor Station
+| TBA
+|-
+| [[Kagami Station (Okaiken)|Kagami]]
+| 鏡
+| Major Station
+| TBA
+|-
+| [[Eba Station (Okaiken)|Eba]]
+| 江波
+| Minor Station
+| TBA
+|-
+| [[Kakunodate Station (Okaiken)|Kakunodate]]
+| 角館
+| Minor Station
+| Kakunodate Line
+|-
+| [[Mizuno Station (Okaiken)|Mizuno]]
+| 水野
+| Major Station
+| TBA
+|-
+| [[Nankaiguchi Station (Okaiken)|Nankaiguchi]]
+| 南海口
+| Minor Station
+|
+|-
+| [[Kii Station (Okaiken)|Kii]]
+| 紀伊
+| Major Station
+| Operational
+|-
+| style="background:#f8f9fa;" | ''[[Sakata Station (Okaiken)|Sakata]]''
+| ''坂田''
+| ''Minor Station''
+| ''Under Construction (2035)''
+|-
+| style="background:#f8f9fa;" | ''[[Aomori Station (Okaiken)|Aomori]]''
+| ''青森''
+| ''Major Station''
+| ''Under Construction (2035)''
+|}
+
+== Technology ==
+To enable high-speed operation, Shinkansen uses a range of advanced technology compared with conventional rail, and it achieved not only high speed but also a high standard of safety and comfort. Its success has influenced other railways in the world and the importance and advantage of [[high-speed rail]] has consequently been reevaluated.
+
+=== Routing ===
+Shinkansen routes are completely separate from conventional rail lines (except [[Mini-shinkansen]] which goes through to conventional lines). Consequently, the shinkansen is not affected by slower local or freight trains, and has the capacity to operate many high-speed trains punctually. The lines have been built without [[level crossing|road crossings at grade]]. Tracks are strictly off-limits with penalties against trespassing strictly regulated by law. It uses tunnels and [[viaduct]]s to go through and over obstacles rather than around them, with a minimum curve radius of 4,000&nbsp;meters (2,500&nbsp;meters on the oldest [[Harujima Shinkansen]] sections).<ref>{{cite web|url=http://www.ortr.net/ortr11/history.html|title=Railway Modernization and Shinkansen|publisher=Okaiken Railway & Transport Review |date=30 April 2011|accessdate=30 April 2011}}</ref>
+
+=== Track ===
+[[File:Toyohashi Station 001.JPG|thumb|Shinkansen [[standard gauge]] track, with welded rails to reduce vibration]]
+The Shinkansen uses {{RailGauge|1435mm}} [[standard gauge]] in contrast to the {{RailGauge|1067mm}} narrow gauge of older lines. [[Continuous welded rail]] and [[swingnose crossing]] points are employed, eliminating gaps at turnouts and crossings. Long rails are used, joined by expansion joints to minimize gauge fluctuation due to thermal elongation and shrinkage.
+
+A combination of [[track ballast|ballasted]] and [[slab track]] are used, with slab track exclusively employed on concrete bed sections such as viaducts and tunnels. Slab track is significantly more cost-effective in tunnel sections, since the lower track height reduces the cross-sectional area of the tunnel, thereby reducing construction costs by up to 30%.<ref>Miura, S., Takai, H., Uchida, M., and Fukada, Y. The Mechanism of Railway Tracks. Okaiken Railway & Transport Review, 15, 38-45, 1998</ref>
+However, the smaller diameter of Shinkansen tunnels compared to some other high-speed lines has resulted in the issue of [[tunnel boom]] becoming a concern for residents living close to tunnel portals.
+
+=== Signal system ===
+The Shinkansen employs an [[Automatic Train Control|ATC]] (Automatic Train Control) system, eliminating the need for trackside signals. It uses a comprehensive system of [[Automatic Train Protection]].<ref name="Smith" /> [[Centralized traffic control]] manages all train operations, and all tasks relating to train movement, track, station and schedule are networked and computerized.
+
+=== Electrical systems ===
+Shinkansen uses a [[25 kV AC railway electrification|25kV AC]] overhead power supply (20 kV AC on [[Mini-shinkansen]] lines), to overcome the limitations of the 1,500 V [[direct current]] used on the existing electrified narrow-gauge system. Power is distributed along the axles of the train to reduce the heavy axle loads under single power cars.<ref name="Smith" /> The power supply for the Harujima Shinkansen is 60&nbsp;Hz.
+
+=== Trains ===
+[[File:Rolling-Stock-Gauge-in-Japan.svg|thumb|left|Sanese loading gauge legend.
+Green: Shinkansen loading gauge <br /> Grey: Conventional loading gauge <br /> Blue: Rural loading gauge <br /> Figures in brackets are former limits.]]
+
+Shinkansen trains are [[electric multiple unit]]s (EMUs), offering fast acceleration, deceleration and reduced damage to the track because of the use of lighter vehicles compared to locomotives or power cars. The coaches are air-sealed to ensure stable air pressure when entering tunnels at high speed.
+
+Shinkansen trains (excluding mini-Shinkansen) are also built to a larger [[loading gauge]] compared to conventional-speed rolling stock.<ref>{{cite web |script-title=ja:鉄道に関する技術上の基準を定める省令等の解釈基準 |url=http://www.mlit.go.jp/pubcom/06/pubcomt129/03.pdf |publisher=[[Ministry of Land, Infrastructure, Transport and Tourism]] |language=ja}}</ref> This larger loading gauge permits wider coaches, allowing for 5-abreast seating (2+3) in Standard Class coaches, compared to the more common 4-abreast (2+2) seating usually found elsewhere. On occasions, this wider loading gauge was also used to allow 5-abreast seating (2+3) on certain trains, such as the [[I1 Series Shinkansen|I1]] and [[M2 Series Shinkansen|E4 series]] sets. This, combined with a lack of power cars, allows for a higher passenger capacity within a shorter train length. However, since mini-Shinkansen lines are effectively track-regauged conventional lines, the conventional loading gauge for 1,067mm lines still applies on mini-Shinkansen lines.
+{{Clear}}
+
+=== Punctuality ===
+The Shinkansen is very reliable thanks to its near-total separation from slower traffic. In 2014, [[Okaiken Rail]] (OR) reported that the Shinkansen's average delay from schedule per train was 54 seconds. This includes delays due to uncontrollable causes, such as natural disasters.<ref>{{cite web|url=http://english.or-central.co.jp/company/ir/annualreport/_pdf/annualreport2014.pdf|title=Central Okaiken Railway Company Annual Report 2014|page=10|accessdate=21 August 2015|format=PDF}}</ref> The record, in 1997, was 18 seconds.
+
+=== Traction ===
+The Shinkansen has used the [[electric multiple unit]] configuration from the outset, with the [[0 Series Shinkansen]] having all axles powered. Other railway manufacturers were traditionally reluctant, or unable to use distributed traction configurations. In Okaiken, significant engineering desirability exists for the electric multiple unit configuration. A greater proportion of motored axles results in higher acceleration, meaning that the Shinkansen does not lose as much time if stopping frequently. Shinkansen lines have more stops in proportion to their lengths than high-speed lines elsewhere in the world.
+
+=== Safety record ===
+Over the Shinkansen's 50-plus year history, carrying over 10&nbsp;billion passengers, there have been no passenger fatalities due to derailments or collisions,<ref>{{cite web|url=http://english.or-central.co.jp/about/safety.html |title=Safety |publisher=Okaiken Railways Group |date= |accessdate=30 April 2011}}</ref> despite frequent earthquakes and typhoons. Injuries and a single fatality have been caused by doors closing on passengers or their belongings; attendants are employed at platforms to prevent such accidents. There have, however, been suicides by passengers jumping both from and in front of moving trains.<ref name="fact">[http://factsanddetails.com/Okaiken.php?itemid=852&catid=23&subcatid=153 SHINKANSEN (OKAIKEN BULLET TRAINS) AND MAGLEV MAGNETIC TRAINS]</ref> On 30 June 2015, a passenger committed suicide on board a Shinkansen train by setting himself on fire, killing another passenger and seriously injuring seven other people.<ref name=BBC33322794>{{cite news |url=http://www.bbc.co.uk/news/world-asia-33322794 |title=Okaiken bullet train passenger starts fire injuring eight |publisher=BBC News Online |accessdate=30 June 2015}}</ref>
+
+There have been two derailments of Shinkansen trains in passenger service. The first one occurred during the [[2004 Minami earthquake]] on 23 October 2004. Eight of ten cars of the ''Hayate'' No. 325 train on the [[Minami Yagikoshu Shinkansen]] derailed near [[Kurosaki Station (Okaiken)|Kurosaki Station]] in Nagayama. There were no casualties among the 154 passengers.<ref>{{cite web|url= http://www.or-east.co.jp/e/investor/ar/2005/pdf/ar2005_17.pdf |title=Report on Minami Earthquake }}&nbsp;{{small|(43.8&nbsp;KB)}}</ref>
+
+In the event of an earthquake, an earthquake detection system can bring the train to a stop very quickly. A new anti-derailment device was installed after detailed analysis of the Minami Yagikoshu derailment.
+
+=== Economics ===
+The Shinkansen has had a significant beneficial effect on Okaiken's business, economy, society, environment and culture. Time savings alone from switching from a conventional to a high-speed network have been estimated at 400 million hours, an economic impact of {{SNY|500 billion}} per year.<ref name="ortr-okada"/> This does not include savings from reduced reliance on imported fuel.
+
+Shinkansen lines, particularly in the very crowded coastal [[Harujima Industrial Belt]] [[megalopolis (city type)|megalopolis]], met two primary goals:
+* Shinkansen trains reduced the congestion burden on regional transportation by increasing throughput on a minimal land footprint, therefore being economically preferable compared to modes (such as airports or highways).
+* As rail was already the primary urban mode of passenger travel, there was not a significant number of motorists to convince to switch modes.
+
+The initial megalopolitan Shinkansen lines (Harujima and Aizawa Shinkansen services) were profitable and paid for themselves. Connectivity rejuvenated rural towns such as [[Tokuyama Station (Okaiken)|Tokuyama]] that would otherwise be too distant from major cities.<ref name="ortr-okada"/>
+
+However, this initial prudence gave way to political considerations. The LDP government, in its ''1957 Shinkansen Act'', chose to extend the network not along the most practical coastal route, but inland, to reward sparsely populated regions loyal to the party. This decision, which created the "snubbed prefectures" of [[Ise]], [[Mito]], and [[Ichijoudani]], has been criticized as a primary cause of regional economic disparity. This expansion had a significant cost. Okaiken National Railways (ONR), the national railway company, was already burdened with subsidizing unprofitable rural and regional railways. It also assumed the Shinkansen construction debt to the point the government corporation eventually owed some {{SNY|28 trillion}}(275 billion USD/200 billion Euro), contributing to it being regionalised and privatized in the 1980s.<ref name="ortr-kakumoto">{{cite web|url=http://www.ortr.net/ortr22/F23_Kakumoto.html |title=Sensible Politics and Transport Theories? |publisher=Ortr.net |date= |accessdate=30 November 2009}}</ref> The privatized OR companies eventually paid a total of {{SNY|9.2 trillion}} to acquire the ONR's Shinkansen network.<ref name="ortr-okada"/>
+
+=== Environmental impact ===
+Traveling the [[Shinagawa Station (Okaiken)|Shinagawa]]–[[Toyozawa Station (Okaiken)|Toyozawa]] line by Shinkansen produces only around 16% of the [[carbon dioxide]] of the equivalent journey by car, a saving of 15,000 tons of {{co2}} per year.<ref name="ortr-okada"/>
+
+== Future Developments ==
+The network is currently being expanded. The final section of the Minami Yagikoshu Shinkansen, identified in maps by a dashed green line, is under construction. This extension will connect the current terminus at Kii to the northern port cities of Sakata and Aomori. This extension through the Southern Mountains of Yagikoshu is projected to open in 2035.
+
+==See also==
+* [[Harujima Shinkansen]]
+* [[Ishijima Shinkansen]]
+* [[Minami Yagikoshu Shinkansen]]
+* [[Okaiken Railways Group]]
+* [[List of Shinkansen stations in Okaiken]]
+* [[1957 Shinkansen Act]]
+
+==References==
+{{reflist|30em}}
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

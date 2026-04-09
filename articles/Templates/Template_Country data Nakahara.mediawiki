@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Nakahara
+| flag alias = Flag of Nakahara.svg
+| flag alias-1870 =
+| link alias-football = Nakahara national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1870
+| related1 = 
+</noinclude>
+}}

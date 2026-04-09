@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Canyars
+| flag alias = Flag of Canyars.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

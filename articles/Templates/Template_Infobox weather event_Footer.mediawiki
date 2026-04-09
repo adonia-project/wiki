@@ -1,0 +1,28 @@
+{{Infobox
+| decat = yes
+| child = {{{child|<includeonly>yes</includeonly>}}}
+| bodystyle = {{#if: {{yesno|{{{child|<includeonly>yes</includeonly>}}}}} | {{{bodystyle|<includeonly>border-collapse: collapse</includeonly>}}} }}
+
+| data1 = {{#if: {{{part|{{{part-of|{{{part of|{{{season|{{{cycloneseason|}}}}}}}}}}}}}}}
+  | {{#if: {{{part|{{{part-of|{{{part of|}}}}}}}}}
+    | <hr/>Part of {{{part|{{{part-of|{{{part of}}}}}}}}}
+    | {{#ifeq: {{FULLPAGENAME}} | {{delink|wikilinks=target|1={{{season|{{{cycloneseason|}}}}}}}}
+      | <!-- 
+        -- The current page is the same as the season page. This is probably an improperly-copied or
+        -- transcluded box from a different page onto the season page. To avoid redundancy, let's hide it.
+        -- We can always assume that {{PAGENAME}} is a season. Otherwise, why would it be provided in the season parameter?
+        -->{{preview warning|A season is set with {{para|season}} or {{para|cycloneseason}}, but this infobox is currently on the page linked in that parameter. The link has been hidden.}}
+      | <hr/>Part of the '''{{{season|{{{cycloneseason|}}}}}}'''
+    }}
+  }}
+}}
+| data2 = {{#if: {{{series|}}}
+  | Part of a series on '''{{{series}}}'''
+}}
+| data3 = {{{related|}}}
+| rowstyle4 = font-size: 100%; background-color: #ddd;
+| data4 = {{#if: {{yesno|{{{active|{{{current|}}}}}}}}{{{mainarticle|}}}{{{sectnum|}}}
+  | '''See more [[{{{mainarticle|}}}#Current storm information{{#if: {{{sectnum|}}} | _{{{sectnum}}}}}|detailed information]]'''
+}}
+}}
+<includeonly></table></includeonly><noinclude>{{Documentation}}</noinclude>

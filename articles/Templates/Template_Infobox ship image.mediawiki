@@ -1,0 +1,1 @@
+<includeonly>| colspan="2" {{WPMILHIST Infobox style|image_box_plain}} | {{#if:{{{Ship image|}}}|{{{Ship image}}}{{#if:{{{Ship caption|}}}|<br>{{{Ship caption|}}}}}|[[Category:Ship infoboxes without an image]]}}</includeonly><noinclude>{{Documentation}}</noinclude>

@@ -1,0 +1,10 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Neu Westfalen
+| flag alias = Flag of Neu Westfalen.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = NWF
+</noinclude>
+}}

@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Sanyan
+| flag alias = Flag of Sanyan.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

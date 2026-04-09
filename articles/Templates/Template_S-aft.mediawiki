@@ -1,0 +1,2 @@
+<includeonly>|width="30%" align="center" rowspan="{{{rows|1}}}"| Succeeded&nbsp;by<br/><span style="font-weight: bold">{{{after}}}{{#if:{{{after2|}}}|<br/>{{{after2|}}}|}}{{#if:{{{after3|}}}|<br/>{{{after3|}}}|}}{{#if:{{{after4|}}}|<br/>{{{after4|}}}|}}{{#if:{{{after5|}}}|<br/>{{{after5|}}}|}}</span>{{#if:{{{as|}}}|<br><small>'''''as {{{as}}}'''''</small>}}
+|-</includeonly><noinclude>{{documentation}}</noinclude>

@@ -1,0 +1,15 @@
+<div class="dyk-img" style="float: right; margin-left: 0.5em;">
+{{Main page image
+| image         =  {{{image|<noinclude>Example-serious.jpg</noinclude>}}}
+| link          =  {{{link|}}}
+| border        =  {{{border|}}}
+| width         =  {{{width|{{#invoke:Main_page_image|width|{{PAGENAME:{{{image|{{{1<noinclude>|Example-serious.jpg</noinclude>}}}}}}}}}}}}}
+| caption       =  {{{caption|<noinclude>Caption goes here.</noinclude>}}}
+| caption align =  {{{caption align|}}}
+| title         =  {{{title|}}}
+| alt           =  {{{alt|}}}
+| thumbtime     =  {{{thumbtime|}}}
+| class         =  {{{class|}}}
+}}</div><noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,4 @@
+border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none<noinclude>
+
+{{documentation}}
+</noinclude>

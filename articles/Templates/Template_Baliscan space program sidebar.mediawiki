@@ -1,0 +1,53 @@
+{{Sidebar with collapsible lists
+| name           = Baliscan space program sidebar
+| pretitle       = Part of [[:Category:Space program of Balisca|a series]] on the
+| title          = {{nowrap|Space policy of Balisca|Baliscan Space Program}}
+| titlestyle     = padding: 0 0.2em; font-size: 120%
+| image          = {{nowrap|[[File:AXA.png|frameless|200px|upright=0.5]]<br>[[File:BAF emblem.png|200px]]}}
+| headingstyle   = border-top: 1px solid #aaa; background: transparent; padding-left: 5px; padding-top: 3px; font-size: 95%
+| listtitlestyle = border-top: 1px solid #aaa; background: transparent; text-align: left; padding-left: 5px; padding-top: 3px
+| expanded       = {{{expanded|{{{1|}}}}}}
+| contentclass   = plainlist
+| listclass      = hlist
+
+| heading1       = {{Hlist|[[AXA]]|[[Confederal Aerospace Force]]}}
+
+| list1title     = Human spaceflight programs
+| list1          =
+* [[Project Luna Horizons|Lunar Horizons]]
+
+| list2title     = Robotic spaceflight programs
+| list2          =
+* [[TBA]]
+
+| list3title     = [[AXA Astronaut Corps]]
+| list3          =
+* [[TBA]]
+
+| list4title     = Spaceports
+| list4          =
+[[Atlantic Range]]
+** [[Maravíes Aerospace Center]]
+** [[Syracuse Space Center]]
+** [[Caracará Spaceport]]
+*[[Southern Range]]
+** [[Cadaqués Spaceport Complex]]
+** [[Arbúcies Aerospace Force Base]]
+
+| list5title     = [[w:List of orbital launch systems|Space launch vehicle]]s
+| list5          =
+* [[TBA]]
+
+| list6title     = National security space
+| list6          =
+* [[TBA]]
+
+| list7title     = Civil space
+| list7          =
+* [[TBA]]
+
+| list8title     = 
+| list8          =
+}}<noinclude>
+[[Category:Balisca sidebar templates]]
+</noinclude>

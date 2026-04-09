@@ -1,0 +1,20 @@
+/* {{pp-template|small=yes}} */
+.ib-company .infobox-label {
+	padding-right: 0.5em;
+}
+
+/* always light background for logos, unless specified otherwise */
+.ib-company-logo img {
+	background-color: #f8f9fa;
+    color:inherit;
+}
+
+.ib-company-logo .logo-nobg img {
+	background-color: inherit;
+    color:inherit;
+}
+
+.ib-company-locality,
+.ib-company-country {
+	display: inline;
+}

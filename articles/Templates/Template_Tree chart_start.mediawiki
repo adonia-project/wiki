@@ -1,0 +1,9 @@
+<table style="border-spacing: 0px; border-collapse: separate; {{#switch: {{{align|}}}
+|left = float: left;
+|right = float: right;
+|center = margin: 0 auto;
+|#default = 
+}} {{{style|}}}"><noinclude>
+{{Tree chart/end}}
+{{documentation}}
+</noinclude>

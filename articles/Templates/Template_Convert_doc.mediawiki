@@ -1,0 +1,806 @@
+{{For|currency conversion|Template:To USD|Template:To EUR}}
+{{For|inflation conversion|Template:Inflation}}
+{{Documentation subpage}}<!--
+Template convert transclusions
+2014-09-05 673940
+2014-12-16 693141
+2015-01-28 700000
+2015-08-31 736989
+2016-05-25 789091
+2016-11-17 832994
+2017-07-29 872000
+2017-12-15 902231
+2018-12-27 957770
+2019-01-12 960769
+2019-10-26 995152
+2019-01-01 by TDmonthly error report: Page [article] count: 651064; Transclusion count: 2878293
+-->
+{{High-use}}
+{{Transwiki guide |small=yes |text=See [[Template:Convert/Transwiki guide|'''this information''']] on copying this template and modifying it for use on another wiki.}}
+{{Lua|Module:Convert}}
+
+'''Template {{tl|convert}}''' calculates a measurement value (''number &times;&nbsp;unit'') into the same measurement by a different unit, and then presents the results, formatted.  See also the [[Module:Convert/documentation/conversion data|unit symbols recognized by this template]].
+
+For example:
+:<code><nowiki>{{convert|2|km|mi}}</nowiki></code> → {{convert|2|km|mi}} <small>(km entered, converted into miles)</small>
+:<code><nowiki>{{convert|7|mi|km}}</nowiki></code> → {{convert|7|mi|km}} <small>(mi entered, converted into km)</small>
+
+''Numbers'' can be rounded, ''units'' can be abbreviated into symbols:
+:<code><nowiki>{{convert|2|km|mi|2|abbr=on}}</nowiki></code> → {{convert|2|km|mi|2|abbr=on}}
+:<code><nowiki>{{convert|7|mi|km|2|abbr=on}}</nowiki></code> → {{convert|7|mi|km|2|abbr=on}}
+Value ''ranges'' can be entered using <code>|to|...</code> or <code>|-|...</code>:
+:<code><nowiki>{{convert|2|to|5|km|mi}}</nowiki></code> → {{convert|2|to|5|km|mi}}
+:<code><nowiki>{{convert|2|-|5|km|mi}}</nowiki></code>  → {{convert|2|-|5|km|mi}}
+
+Combined effect example:
+:<code><nowiki>{{convert|2|-|5|km|mi|2|abbr=on}}</nowiki></code> → {{convert|2|-|5|km|mi|2|abbr=on}}
+:<code><nowiki>{{convert|2|and|5|km|mi|sigfig=3|abbr=off}}</nowiki></code> → {{convert|2|and|5|km|mi|sigfig=3|abbr=off}}
+
+{{hatnote|See [[Help:Convert]] for more detailed, technical information}}
+
+==Units to convert==
+{{hatnote|See also: the summary at [[Template:Convert/list of units|Complete list of units for {{tlf|Convert}}]] and the complete list at [[ Module:Convert/documentation/conversion data]]}}
+Enter units to convert ''from''&nbsp;''into'':
+* <code><nowiki>{{convert|1|lb|kg}}</nowiki></code> → {{convert|1|lb|kg}}
+:[[International System of Units|SI]] units generally accept prefixes, like "m" for milli (10<sup>−3</sup>), and "M" for mega (10<sup>6</sup>)
+:For "per" units, use "/" (slash): kg/ha (see [[#'per'_units:_kg/ha,_miles_per_gallon|§&nbsp;'per' units: kg/ha]] and [[#Currency per unit: $/mi → $/km|§&nbsp;Currency per unit: $/km]])
+:For three-unit units, etc., see {{cl|Convert-like templates}}
+
+==Unit name or symbol (abbreviation): ''1 pound'' or ''1 lb''?==
+By default, the first quantity shows the unit name, the second shows the symbol (or abbreviation):
+* <code><nowiki>{{convert|1|lb|kg}}</nowiki></code> → {{convert|1|lb|kg}}
+
+Using {{para|abbr|in}} shows the symbol for first (left-hand side) unit, and the name instead of the symbol for the second unit:
+*<code><nowiki>{{convert|1|lb|kg|abbr=in}}</nowiki></code> → {{convert|1|lb|kg|abbr=in}}
+
+To abbreviate both or neither:
+* <code><nowiki>{{convert|1|lb|kg|abbr=on}}</nowiki></code> → {{convert|1|lb|kg|abbr=on}}
+* <code><nowiki>{{convert|1|lb|kg|abbr=off}}</nowiki></code> → {{convert|1|lb|kg|abbr=off}}
+
+===Convenience: {{tlf|cvt}} has {{para|abbr|on}} by default===
+Template {{tl|cvt}} is the same as {{tlf|convert}}, except that it has {{para|abbr|on}} as the default behavior. In {{tlf|cvt}}, all other options are available. So:
+:<code><nowiki>{{cvt|1|lb|kg}}</nowiki></code> → {{cvt|1|lb|kg}}
+is equivalent to:
+:<code><nowiki>{{convert|1|lb|kg|abbr=on}}</nowiki></code> → {{cvt|1|lb|kg|abbr=on}}
+
+==Adjective: ''a 10-mile distance''==
+Use {{para|adj|on}} to produce the adjectival (hyphenated) form:
+* <code><nowiki>A {{convert|10|mi|km|adj=on}} distance</nowiki></code> → A {{convert|10|mi|km|adj=on}} distance.
+Default behavior, for comparison:
+* <code><nowiki>{{convert|10|mi|km}} to go</nowiki></code> → {{convert|10|mi|km}} to go.
+
+{{para|adj|on}} does not produce hyphens with unit symbols, as per [[MOS:UNITSYMBOLS|Manual of Style]]:
+* <code><nowiki>A {{convert|9|in|cm|adj=on|abbr=on}} nail</nowiki></code> → A {{convert|9|in|cm|adj=on|abbr=on}} nail.
+
+==Rounding: ''100 ft'' is ''30&nbsp;m'' or ''30.5&nbsp;m'' or ''30.48&nbsp;m''?<span class="anchor" id="Rounding"></span>==
+{{hatnote|See {{section link|Help:Convert#Rounding}} for a more mathematical description of the rounding options}}
+By definition, 100&nbsp;ft equals {{convert|100|ft|m|sigfig=4|disp=out}}. In practical use, it is common to round the calculated metric number. With that, there are several possibilities.
+
+===Default rounding===
+By {{tlf|Convert}} default, the conversion result will be rounded either to precision comparable to that of the input value (the number of digits after the decimal point—or the negative of the number of non-significant zeroes before the point—is increased by one if the conversion is a multiplication by a number between 0.02 and 0.2, remains the same if the factor is between 0.2 and 2, is decreased by 1 if it is between 2 and 20, and so on) or to two significant digits, whichever is more precise. An exception to this is ''rounding temperatures'' (see [[#Rounding temperatures|below]]).
+
+''Convert'' supports four types of rounding:
+
+===Round to a given precision: ''use a precision number''===
+Specify the desired precision with an integer as the ''fourth unnamed parameter'' (or third unnamed parameter if the "convert to" parameter is omitted; or fifth unnamed parameter if a range is specified; or fourth unnamed parameter again if a range is specified and the "convert to" parameter is omitted; needs to be replaced with a "precision" named parameter). The conversion is rounded off to the nearest multiple of {{frac|10}} to the power of this integer. For instance, if the result is 8621 and the rounding parameter is "−2", 8600 will be displayed. If the result is "123.456" and the parameter is "0", 123 will be displayed. Essentially a positive or zero rounding parameter specifies the number of decimal places; a negative value specifies the number of trailing zeroes.
+
+{| class="wikitable"
+|-
+! colspan="3" | Examples of rounding
+|-
+|'''Input'''||'''Displays as'''||'''Note'''
+|-
+|<code><nowiki>{{convert|123|ft|m|-1}}</nowiki></code> || {{convert|123|ft|m|-1}} ||
+|-
+|<code><nowiki>{{convert|123|ft|m}}</nowiki></code> || {{convert|123|ft|m}} ||rowspan=2| same output with precision 0 or &lt;default>
+|-
+|<code><nowiki>{{convert|123|ft|m|0}}</nowiki></code> || {{convert|123|ft|m|0}}
+|-
+|<code><nowiki>{{convert|123|ft|m|1}}</nowiki></code> || {{convert|123|ft|m|1}} ||
+|-
+|<code><nowiki>{{convert|123|ft|m|2}}</nowiki></code> || {{convert|123|ft|m|2}} || style="max-width:40em;" |123 [[Foot (unit)#Definition|feet]] is exactly 37.4904&nbsp;m which is rounded to 37&nbsp;m if precision is not specified
+|-
+|<code><nowiki>{{convert|500|ft|m|-1}}</nowiki></code> || {{convert|500|ft|m|-1}} ||rowspan=2 style="max-width:40em;" | same output with precision <code>-1</code> or &lt;default>, because the conversion factor is between 0.2 and 2 (hence, it should produce same double-zero precision (−2) as in the input value), but the conversion must produce two significant digits at a minimum (hence, a higher single-zero precision (−1) is used)
+|-
+|<code><nowiki>{{convert|500|ft|m}}</nowiki></code> || {{convert|500|ft|m}} 
+|-
+|<code><nowiki>{{convert|500|ft|m|0}}</nowiki></code> || {{convert|500|ft|m|0}} ||
+|-
+|<code><nowiki>{{convert|500|ft|m|1}}</nowiki></code> || {{convert|500|ft|m|1}} ||
+|-
+|<code><nowiki>{{convert|500|ft|m|2}}</nowiki></code> || {{convert|500|ft|m|2}} || exact value is 152.4 m
+|-
+|<code><nowiki>{{convert|500|ft|cm|-3}}</nowiki></code> || {{convert|500|ft|cm|-3}} ||rowspan=2 style="max-width:40em;" |same output with precision <code>-3</code> or &lt;default>, because the conversion factor is between 20 and 200 (hence, it should decrease input value's double-zero precision (−2) by 2), but the conversion must produce two significant digits at a minimum (hence, a higher triple-zero precision (−3) is used)
+|-
+|<code><nowiki>{{convert|500|ft|cm}}</nowiki></code> || {{convert|500|ft|cm}}
+|-
+|<code><nowiki>{{convert|500|ft|cm|0}}</nowiki></code> || {{convert|500|ft|cm|0}} ||
+|}<!--NOTE: rows require "nowiki", using &#123;{ disappears. -->
+
+===Round to a given number of significant figures: ''{{para|sigfig|}}''<span class="anchor" id="Round to a given number of significant figures"></span>===
+To specify the output number to be with ''n'' significant figures use {{para|sigfig|&lt;number>}}:
+* <code><nowiki>{{convert|1200|ft|m|sigfig=4}}</nowiki></code> → {{convert|1200|ft|m|sigfig=4}}
+* <code><nowiki>{{convert|1200|ft|m|sigfig=3}}</nowiki></code> → {{convert|1200|ft|m|sigfig=3}}
+* <code><nowiki>{{convert|1200|ft|m|sigfig=2}}</nowiki></code> → {{convert|1200|ft|m|sigfig=2}}
+* <code><nowiki>{{convert|1200|ft|m|sigfig=1}}</nowiki></code> → {{convert|1200|ft|m|sigfig=1}}
+Default behavior, for comparison:
+* <code><nowiki>{{convert|1200|ft|m}}</nowiki></code> → {{convert|1200|ft|m}}
+Setting {{para|sigfig}} to a value less than 1 is meaningless:
+* <code><nowiki>{{convert|1200|ft|m|sigfig=0}}</nowiki></code> → {{convert|1200|ft|m|sigfig=0}} {{nay}}
+
+===Round to a multiple of 5: ''15'', ''20'', ''25'', ...===
+Using {{para|round|5}} rounds the outcome to a multiple of 5.
+* <code><nowiki>{{convert|10|m|ft}}</nowiki></code> → {{convert|10|m|ft}}
+* <code><nowiki>{{convert|10|m|ft|round=5}}</nowiki></code> → {{convert|10|m|ft|round=5}}
+
+Similar: using {{para|round|25}} rounds the outcome to a multiple of 25.
+* <code><nowiki>{{convert|10|m|ft}}</nowiki></code> → {{convert|10|m|ft}}
+* <code><nowiki>{{convert|10|m|ft|round=25}}</nowiki></code> → {{convert|10|m|ft|round=25}}
+Default behavior, for comparison:
+* <code><nowiki>{{convert|10|m|ft|sigfig=4}}</nowiki></code> → {{convert|10|m|ft|sigfig=4}}
+
+In a range, one can round ''each value'' individually to the default. Use {{para|round|each}}:
+* <code><nowiki>{{convert|10 x 200 x 3000|m|ft}}</nowiki></code> → {{convert|10 x 200 x 3000|m|ft}}
+* <code><nowiki>{{convert|10 x 200 x 3000|m|ft|round=each}}</nowiki></code> → {{convert|10 x 200 x 3000|m|ft|round=each}}
+
+===<span id="Round to a multiple of a given fraction"></span>Round to a multiple of a given fraction: ''{{frac|2|3|16}} inch''===
+Specify the desired ''denominator'' using {{para|frac|&lt;some positive integer&gt;}}. ([[Fraction (mathematics)|Denominator]] is the below-the-slash number, for example the 3 in {{frac|1|3}}).
+* <code><nowiki>{{convert|5.56|cm|in|frac=16}}</nowiki></code> → {{convert|5.56|cm|in|frac=16}}
+* <code><nowiki>{{convert|8|cm|in|frac=4}}</nowiki></code> → {{convert|8|cm|in|frac=4}}
+The fraction is reduced when possible:
+* <code><nowiki>{{convert|8|cm|in|frac=100}}</nowiki></code> → {{convert|8|cm|in|frac=100}}
+Default behavior uses decimal notation:
+* <code><nowiki>{{convert|5.56|cm|in}}</nowiki></code> → {{convert|5.56|cm|in}}
+
+===Rounding temperatures: ''°C'', ''°F'' and ''K''<span class="anchor" id="Rounding temperatures"></span>===
+In temperatures, the conversion will be rounded either to the precision comparable to that of the input value or to that which would give three significant figures when expressed in kelvins, whichever is more precise.
+
+#{{#invoke:DemoTemplate|convert|10,000|C|F K}}
+#{{#invoke:DemoTemplate|convert|10,000.1|C|F K}}
+#{{#invoke:DemoTemplate|convert|-272|C|F K}}
+#{{#invoke:DemoTemplate|convert|-272|C}}
+#{{#invoke:DemoTemplate|convert|100|C|F K}}
+#{{#invoke:DemoTemplate|convert|0|C|F K}}
+
+The precision of the input number in example (1) is one digit, but the precision of its kelvins expression is three, so the precision of the Fahrenheit conversion is ''made'' three (made 180...) . (1) and (2) seem to belie the fact that a {{convert|0.1|C-change|F-change|disp=x| is a |abbr=off}}, and make the 32 degrees difference shown in (1) begin to seem off somehow.
+Result (1) seems off until you set the [[significant figures]] yourself with {{para|sigfig}}:
+:{{#invoke:DemoTemplate|convert|10000|C|sigfig=5}}
+or you set the precision ''positionally'', relative to the decimal point (zero being ''at'' the decimal point):
+:{{#invoke:DemoTemplate|convert|10000|C|0}}
+
+The precision of the input number in example (2) is six, so the precision of the Fahrenheit output is six now, whereas before kelvins had determined it to be three. Examples (3) and (4) show how this can be hidden and generate questions, but it occurs there because the kelvins conversion generated the fractional parts. (Before it was the input number that generated the fractional part.)  In example (3) the three input digits converted into five significant output digits because of the two digits after the decimal point, generated by the kelvins conversion. This happened again in (5), but in (6) decimal fractions were neither given as input nor induced by the kelvins conversion.
+
+===Rounding input===
+There is limited support for rounding the displayed ''input'' number.  The rounding takes place ''after'' conversion, so the output is based on the full-precision input.  This is useful when the input is produced by {{tlc|&#35;expr:}} or otherwise available to a higher precision than is usefully displayed, and it's desirable to avoid double-rounding.
+
+To round the input to a specified number of digits after the decimal point, use one of the parameters:
+* {{para|adj|ri0}}
+* {{para|adj|ri1}}
+* {{para|adj|ri2}}
+* {{para|adj|ri3}}
+Note that it is not possible to round above the decimal place ({{para|adj|ri-1}}{{nay}} is invalid). Neither is there support for significant figures, multiples of a number, or any other output-rounding feature.
+
+The default precision is computed based on the input, so an explicit output precision must usually be supplied:
+* {{tlc|convert|4.14159|mi|km|adj{{=}}ri0}} → {{convert|4.14159|mi|km|adj=ri0}} {{nay}} (precisions are mismatched)
+* {{tlc|convert|4.14159|mi|km|0|adj{{=}}ri0}} → {{convert|4.14159|mi|km|0|adj=ri0}} {{aye}}
+
+In this case, if the input were rounded before conversion, a different result would be obtained:
+* {{tlc|convert|<nowiki>{{#expr:4.14159 round 0}}</nowiki>|mi|km|0}} → {{convert|{{#expr:4.14159 round 0}}|mi|km|0}} {{nay}} (rounds intermediate calculation, giving a different result)
+
+==Into multiple units: ''{{convert|10|C|F K}}''==
+Separate the multiple output units by a space:
+* <code><nowiki>{{convert|10|C|F K}}</nowiki></code> → {{convert|10|C|F K}}
+* <code><nowiki>{{convert|5|km|mi nmi}}</nowiki></code> → {{convert|5|km|mi nmi}}
+If the output unit names contain spaces, use <code>+</code> as the separator.
+
+See also:
+* For multiple-unit options like ''1 ft 5 in'', see {{section link||In input}} and {{section link||In output}}.
+
+==Ranges of values==
+{{For|a conversion of a difference|#Units of difference}}
+A ''range'' converts ''two'' values and separates them by your choice of words and punctuation.
+
+===A range: ''6 to 17 kg (13 to 37 lb)''===
+Range indicators are entered as the second parameter (between the values). Range separators can be:<br/>
+{{Convert/doc/range separator list}}
+
+===Multiple dimensions: ''{{convert|6|x|12|m|ft|abbr=on}}''===
+Use <code>by</code>:
+* <code><nowiki>{{convert|6|by|12|ft|m}}</nowiki></code> → {{convert|6|by|12|ft|m}}
+
+Use <code>×</code>, multiplication sign, or <code>x</code>, letter:
+* <code><nowiki>{{convert|6|x|12|m|ft}}</nowiki></code> → {{convert|6|x|12|m|ft}}
+
+In science, the formal way is to set <code>&#x7c;x&#x7c;</code> and {{para|abbr|on}} (keeping dimensions right, like in ''area = x km<sup>2</sup>''):
+* <code><nowiki>{{convert|6|x|12|m|ft|abbr=on}}</nowiki></code> → {{convert|6|x|12|m|ft|abbr=on}}
+
+===Lists of values: ''20, 40, or 60 miles''===
+:<code><nowiki>{{convert|20|,|40|, or|60|mi}}</nowiki></code> &rarr; {{convert|20|,|40|, or|60|mi}}
+
+===About ''feet, inch'' in ranges and multiples===
+While it is possible to enter feet, inch in a simple conversion, this is not possible for ranges:
+* <code><nowiki>{{convert|1|ft|3|in|x|3|ft|5|in|mm}}</nowiki></code> → {{convert|1|ft|3|in|x|3|ft|5|in|mm}} {{nay}}
+Default behavior, for comparison:
+* <code><nowiki>{{convert|1|ft|3|in|mm}}</nowiki></code> → {{convert|1|ft|3|in|mm}}
+However, converting metric units into feet and inches with {{para|order|flip}} can produce the desired output:
+* <code><nowiki>{{convert|380|x|1040|mm|ftin|order=flip}}</nowiki></code> → {{convert|380|x|1040|mm|ftin|order=flip}}
+
+==Words==
+===Spelling of unit name: international ''metre'' or US ''meter''?===
+Default spelling of units is in the en (generic) locale. To show en-US spelling, use {{para|sp|us}}:
+:<code><nowiki>{{convert|1|m|ft}}</nowiki></code> → {{convert|1|m|ft}}—''default''
+:<code><nowiki>{{convert|1|m|ft|sp=us}}</nowiki></code> → {{convert|1|m|ft|sp=us}}
+
+===<span id="spell"></span>Spell out numbers: ''ten miles''===
+To write a number in words, use {{para|spell|in}}:
+* <code><nowiki>{{convert|10|mi|m|spell=in}}</nowiki></code> → {{convert|10|mi|m|spell=in}}
+
+To spell out both in and out values, use {{para|spell|on}}:
+* <code><nowiki>{{convert|10|mi|m|spell=on}}</nowiki></code> → {{convert|10|mi|m|spell=on}}
+
+To make the first letter a capital, use {{para|spell|In}}, {{para|spell|On}}
+* <code><nowiki>{{convert|10|mi|m|spell=In}}</nowiki></code> → {{convert|10|mi|m|spell=In}}
+* <code><nowiki>{{convert|10|mi|m|spell=On}}</nowiki></code> → {{convert|10|mi|m|spell=On}}
+
+===Inserted before units: ''4 planted acres''===
+*<code><nowiki>{{convert|4|acre||adj=pre|planted}}</nowiki></code> → {{convert|4|acre||adj=pre|planted}}
+<code>disp=preunit</code> is similar, but has no separator after the specified text, and can have different text for the output value:
+*<code><nowiki>{{convert|4|acre||disp=preunit|planted }}</nowiki></code> → {{convert|4|acre||disp=preunit|planted }}
+*<code><nowiki>{{convert|4|acre||disp=preunit|planted |reforested-}}</nowiki></code> → {{convert|4|acre||disp=preunit|planted |reforested-}}
+
+===After adjective unit: ''A {{convert|10|ft|ft|adj=mid|-long|disp=out|order=flip}} corridor''===
+Note that two units (in this case, ft and m) are required. Use with just one unit will generate an error message.
+:<code><nowiki>{{convert|10|ft|m|adj=mid|-long}}</nowiki></code> → {{convert|10|ft|m|adj=mid|-long}}
+
+===Plurals: ''1&nbsp;inch, 2&nbsp;inches''===
+The unit symbol is singular always. Depending on the preceding number only, a unit name can be shown plural.
+* <code><nowiki>{{convert|1|metre}}</nowiki></code> → {{convert|1|metre}}
+* <code><nowiki>{{convert|2|metre}}</nowiki></code> → {{convert|2|metre}}
+* <code><nowiki>{{convert|2|metre|abbr=on}}</nowiki></code> → {{convert|2|metre|abbr=on}}
+
+;Exception:
+Entering the unit "foot" instead of "ft" forces singular output "foot", whatever the number is.
+* <code><nowiki>{{convert|100|foot|abbr=off}}</nowiki></code> → {{convert|100|foot|abbr=off}}
+
+===Fractions: ''one-eighth of an imperial pint''===
+The convert template also supports spelling out fractions.
+* <code><nowiki>{{convert|3+1/2|oz|g|spell=in}}</nowiki></code> → {{convert|3+1/2|oz|g|spell=in}}
+Any additional words needed for the fraction can also be added at the end of the template.
+* <code><nowiki>{{convert|1/8|imppt|ml|spell=in|adj=pre|of an}}</nowiki></code> → {{convert|1/8|imppt|ml|spell=in|adj=pre|of an}}
+<!-- todo: decimals & negative examples -->
+
+===Wrapping and line breaking===
+:To comply with [[MOS:UNITNAMES]], convert uses <code>&amp;nbsp;</code> before a symbol ({{tq|19&nbsp;kg}}) but a space before a unit name ({{tq|19 kilograms}}).
+
+===<span id="million"></span>Spelling out "thousands", "millions", etc.===
+Most unit codes accept a prefix of e3 (thousand) or e6 (million) or e9 (billion).
+* <code><nowiki>{{convert|100|e6mi|e6km}}</nowiki></code> → {{convert|100|e6mi|e6km}}
+* <code><nowiki>{{convert|120|e6acre}}</nowiki></code> → {{convert|120|e6acre}}
+* <code><nowiki>{{convert|120|e6acre|e3km2}}</nowiki></code> → {{convert|120|e6acre|e3km2}}
+
+To display both input and output in scientific notation, use {{para|abbr|on}}
+* <code><nowiki>{{convert|100|e6mi|e6km|abbr=on}}</nowiki></code> → {{convert|100|e6mi|e6km|abbr=on}}
+
+To spell out "thousands", "millions", etc., {{para|abbr|unit}} abbreviates the unit; {{para|abbr|off}} displays both full unit names.
+* <code><nowiki>{{convert|100|e6mi|e6km|abbr=unit}}</nowiki></code> → {{convert|100|e6mi|e6km|abbr=unit}}
+* <code><nowiki>{{convert|100|e6mi|e6km|abbr=off}}</nowiki></code> → {{convert|100|e6mi|e6km|abbr=off}}
+
+==Numbers==
+
+===Using an SI prefix: ''gigametre (Gm)'', or ''micrometre (&#x03BC;m)''===
+{| class="wikitable floatright"
+|+ [[Metric prefix]]es
+|-
+! Text
+! Symbol
+! Factor
+|-
+|quetta
+| style="text-align: center;" |Q
+|10<sup>30</sup>
+|-
+|ronna
+| style="text-align: center;" |R
+|10<sup>27</sup>
+|-
+|yotta
+| style="text-align: center;" |Y
+|10<sup>24</sup>
+|-
+|zetta
+| style="text-align: center;" |Z
+|10<sup>21</sup>
+|-
+|exa
+| style="text-align: center;" |E
+|10<sup>18</sup>
+|-
+|peta
+| style="text-align: center;" |P
+|10<sup>15</sup>
+|-
+|tera
+| style="text-align: center;" |T
+| 10<sup>12</sup>
+|-
+|giga
+| style="text-align: center;" |G
+| 10<sup>9</sup>
+|-
+|mega
+| style="text-align: center;" |M
+| 10<sup>6</sup>
+|-
+|kilo
+| style="text-align: center;" |k
+|10<sup>3</sup>
+|-
+|hecto
+| style="text-align: center;" |h
+|10<sup>2</sup>
+|-
+|deca
+| style="text-align: center;" |da
+|10<sup>1</sup>
+|-
+| colspan=2 style="text-align: center;" |(none)
+|style="padding-left:0.6em; text-align:left;" | &nbsp;1
+|-
+|deci
+| style="text-align: center;" |d
+|10<sup>&minus;1</sup>
+|-
+|centi
+| style="text-align: center;" |c
+|10<sup>&minus;2</sup>
+|-
+|milli
+| style="text-align: center;" |m
+|10<sup>&minus;3</sup>
+|-
+|micro
+| style="text-align: center;" |μ
+|10<sup>&minus;6</sup>
+|-
+|nano
+| style="text-align: center;" |n
+|10<sup>&minus;9</sup>
+|-
+|pico
+| style="text-align: center;" |p
+|10<sup>&minus;12</sup>
+|-
+|femto
+| style="text-align: center;" |f
+|10<sup>−15</sup>
+|-
+|atto
+| style="text-align: center;" |a
+|10<sup>&minus;18</sup>
+|-
+|zepto
+| style="text-align: center;" |z
+|10<sup>&minus;21</sup>
+|-
+|yocto
+| style="text-align: center;" |y
+|10<sup>&minus;24</sup>
+|-
+|ronto
+| style="text-align: center;" |r
+|10<sup>&minus;27</sup>
+|-
+|quecto
+| style="text-align: center;" |q
+|10<sup>&minus;30</sup>
+|}
+Units can have an [[metric prefix|SI prefix]] like <code>G</code> before the unit: <code>Gm</code>, and <code>giga</code> before the name: <code>gigametre</code>. These are plain multiplication factors.
+
+To illustrate, these are trivial calculations (from metre to metre), showing the multiplication factor:
+* {{convert|12|Gm|m|abbr=on}}
+* {{convert|12|μm|m|abbr=on}}
+
+The prefix can be added before the SI unit (here: unit <code>m</code> for metre):
+* <code><nowiki>{{convert|12|Gm|mi|abbr=on}}</nowiki></code> → {{convert|12|Gm|mi|abbr=on}}
+* <code>Mm</code>: {{convert|12|Mm|mi|abbr=on}}
+* <code>km</code>: {{convert|12|km|ft|abbr=on}}
+* <code>mm</code>: {{convert|12|mm|in|abbr=on}}
+* <code>&#x03BC;m</code>: {{convert|12|μm|mm|abbr=on}}
+* <code>um</code>: {{convert|12|um|mm|abbr=on}} (letter "u" can be used for "&#x03BC;" here)
+
+The prefix can be used in the output unit:
+* <code><nowiki>{{convert|12000|mi|Mm|abbr=on}}</nowiki></code> → {{convert|12000|mi|Mm|abbr=on}}
+* <code><nowiki>{{convert|12|in|μm|abbr=on}}</nowiki></code> → {{convert|12|in|μm|abbr=on}}
+
+As an exception, the non-SI unit "inch" can have the "&#x03BC;" prefix too:
+* <code><nowiki>{{convert|12|&#x03BC;m|μin|abbr=on}}</nowiki></code> → {{convert|12|μm|μin|abbr=on}}
+
+{{further|Help:Convert units#SI prefixes}}
+
+===Engineering notation: ''7 million km''===
+
+[[Engineering notation]] can be entered with a prefix to the unit:
+* <code><nowiki>{{convert|70|e6m}}</nowiki></code> → {{convert|70|e6m}}
+* <code><nowiki>{{convert|70|e6m|abbr=on}}</nowiki></code> → {{convert|70|e6m|abbr=on}}
+
+The same is possible for the output unit:
+* <code><nowiki>{{convert|230,000,000|ft|e6m}}</nowiki></code> → {{convert|230,000,000|ft|e6m}}
+
+The prefixes are:
+* <code>e3</code> (thousand)
+* <code>e6</code> (million)
+* <code>e9</code> (billion)
+* <code>e12</code> (trillion)
+* <code>e15</code> (quadrillion)
+
+Engineering notation may use "e" or "E", for example, <code>e3km</code> or <code>E3km</code>. Using uppercase <code>E3km</code> displays the factor as a word ("thousand") rather than as <span style="margin-left:0.2em">×<span style="margin-left:0.1em">10</span></span><sup>3</sup>. Using lowercase <code>e3km</code> displays the word if <code>abbr=unit</code> is used, or if <code>abbr=off</code> applies to the unit.
+* <code><nowiki>{{convert|70|e6m|e6ft}}</nowiki></code> → {{convert|70|e6m|e6ft}}
+* <code><nowiki>{{convert|70|e6m|e6ft|abbr=off}}</nowiki></code> → {{convert|70|e6m|e6ft|abbr=off}}
+* <code><nowiki>{{convert|70|e6m|e6ft|abbr=unit}}</nowiki></code> → {{convert|70|e6m|e6ft|abbr=unit}}
+* <code><nowiki>{{convert|70|E6m|e6ft|abbr=in}}</nowiki></code> → {{convert|70|E6m|e6ft|abbr=in}}
+
+===Scientific notation: ''1.23 × 10<sup>−14</sup>''===
+In [[scientific notation]], a number is written like {{val|1.23e-14}}. The plain number has exactly one digit before the decimal point.
+
+With {{tlf|convert}}, the input can be in e-notation such as <code>12.3e4</code>. This value is displayed as a power of ten, and the output is displayed in scientific notation, except that an output value satisfying 0.01 <= v < 1000 is shown as a normal number. In addition, if the output value is 1000 and sigfig=4 is used, the value is displayed as a normal number.
+*<code><nowiki>{{convert|12.3e-15|atm|atm|abbr=on}}</nowiki></code> → {{convert|12.3e-15|atm|atm|abbr=on}}
+*<code><nowiki>{{convert|0.00000005|atm|atm|abbr=on}}</nowiki></code> → {{convert|0.00000005|atm|atm|abbr=on}}
+
+===Input with fractions: ''{{convert|1+1/2|in|mm|1}}''===
+The number to convert can be written in fractions. Both <code>/</code> (keyboard slash) and <code>⁄</code> (fraction slash) are accepted:
+*<code><nowiki>{{convert|1/2|in|mm|1}}</nowiki></code> → {{convert|1/2|in|mm|1}}
+*<code><nowiki>{{convert|1⁄2|in|mm|1}}</nowiki></code> → {{convert|1⁄2|in|mm|1}}
+
+With positive [[mixed number]]s (a positive integer and a fraction), use a <code>+</code> sign
+*<code><nowiki>{{convert|2+1⁄2|in|mm|1}}</nowiki></code> → {{convert|2+1⁄2|in|mm|1}}
+
+With negative mixed numbers, use a hyphen <code>-</code> and repeat it:
+*<code><nowiki>{{convert|-2-1⁄2|in|mm|1}}</nowiki></code> → {{convert|-2-1⁄2|in|mm|1}}
+
+Note that the following cases are not interpreted as mixed numbers:
+*<code><nowiki>{{convert|2-1⁄2|in|mm|1}}</nowiki></code> → {{convert|2-1⁄2|in|mm|1}}. This is interpreted as a range from 2 inches to 1⁄2 inch.
+*<code><nowiki>{{convert|-2+1⁄2|in|mm|1}}</nowiki></code> → {{convert|-2+1⁄2|in|mm|1}} {{nay}} This is neither a mixed number nor a range, and mathematical expressions requiring calculations are not allowed here.
+*<code><nowiki>{{convert|2+½|in|mm|1}}</nowiki></code> → {{convert|2+½|in|mm|1}} {{nay}} Fractions consisting of a single Unicode character are not allowed either.
+
+===Horizontal fraction bar: ''{{sfrac|1|2}}&nbsp;inch''===
+<!-- technical restriction: TOC does not show the example horizontal bar intended here; rephrased section title-->
+Using a double slash (<code>//</code>) provides a horizontal fraction bar for the original (input) unit:
+* <code><nowiki>{{convert|1//2|in|mm|1}}</nowiki></code> → {{convert|1//2|in|mm|1}}
+* <code><nowiki>{{convert|6+3//8|in|mm|1}}</nowiki></code> → {{convert|6+3//8|in|mm|1}}
+Using a negative value for {{para|frac}} provides a horizontal fraction bar for the converted (output) unit:
+*<code><nowiki>{{convert|12.7|mm|frac=-2}}</nowiki></code> → {{convert|12.7|mm|frac=-2}}
+*<code><nowiki>{{convert|161.9|mm|frac=-8}}</nowiki></code> → {{convert|161.9|mm|frac=-8}}
+
+===Thousands separator: ''1,000 mi'' or ''1000 mi''===
+In input, a comma for thousands separator is accepted but not required; a gap (space) is not accepted. In output, by default, the thousand separator is the comma:
+* <code><nowiki>{{convert|1234567|m|ft}}</nowiki></code> → {{convert|1234567|m|ft}}
+* <code><nowiki>{{convert|1,234,567|m|ft}}</nowiki></code> → {{convert|1,234,567|m|ft}}
+
+Set {{para|comma|off}} to remove the separator from the output:
+* <code><nowiki>{{convert|1234567|m|ft|comma=off}}</nowiki></code> → {{convert|1234567|m|ft|comma=off}}
+
+Use {{para|comma|gaps}} to use digit grouping by gap (thin space) as a thousands separator:
+* <code><nowiki>{{convert|1234567|m|ft|comma=gaps}}</nowiki></code> → {{convert|1234567|m|ft|comma=gaps}}
+Default behavior, for comparison:
+* <code><nowiki>{{convert|1234567|m|ft}}</nowiki></code> → {{convert|1234567|m|ft}}
+
+Setting {{para|comma|5}} will only add the separator when the number of digits is 5 or more:
+* <code><nowiki>{{convert|1234|m|ft|comma=5}}</nowiki></code> → {{convert|1234|m|ft|comma=5}}
+* <code><nowiki>{{convert|1234567|m|ft|comma=5}}</nowiki></code> → {{convert|1234567|m|ft|comma=5}}
+Default behavior, for comparison:
+* <code><nowiki>{{convert|1234|m|ft}}</nowiki></code> → {{convert|1234|m|ft}}
+
+==Output manipulation==
+===Brackets and separators: ''10 m [33 ft]'' <span class="anchor" id="Brackets and separators"></span>===
+Punctuation that distinguishes the two measurements is set by {{para|disp|}}.<br/>
+Options are: <code>b</code> <small>(the default)</small>, <code>sqbr</code>, <code>comma</code>, <code>semicolon</code>, <code>or</code>, <code>br</code>, <code>br()</code>, <code>x{{!}}…</code>:
+* <code><nowiki>{{convert|10|m|ft|disp=sqbr}}</nowiki></code> → {{convert|10|m|ft|disp=sqbr}}
+* <code><nowiki>{{convert|10|m|ft|disp=comma}}</nowiki></code> → {{convert|10|m|ft|disp=comma}}
+* <code><nowiki>{{convert|10|m|ft|disp=semicolon}}</nowiki></code> → {{convert|10|m|ft|disp=semicolon}}
+* <code><nowiki>{{convert|10|m|ft|disp=or}}</nowiki></code> → {{convert|10|m|ft|disp=or}}
+Default behavior, for comparison:
+* <code><nowiki>{{convert|10|m|ft}}</nowiki></code> → {{convert|10|m|ft}}
+
+Setting {{para|disp|br}} will force a new line (<code>&lt;br/></code>)
+* <code><nowiki>{{convert|10|m|ft|disp=br}}</nowiki></code> → {{convert|10|m|ft|disp=br}}
+
+Also {{para|disp|br()}} will force a new line, and keep the brackets (useful in tables):
+* <code><nowiki>{{convert|10|m|ft|disp=br()}}</nowiki></code> → {{convert|10|m|ft|disp=br()}}
+
+Setting {{para|disp|x{{!}}…}} allows any text as separator:
+* <code><nowiki>{{convert|10|m|ft|disp=x|_MyText_}}</nowiki></code> → {{convert|10|m|ft|disp=x|_MyText_}} <small>(To display spaces, use <code>&amp;nbsp;</code>)</small>
+<!--todo: works for multiple freetexts too! |disp=x|TextA|TextB -->
+
+===<span id="flip"></span>Flipping (reordering) the two measurements: ''{{convert|1|mi|m|order=flip|sigfig=5|abbr=off}}'' ===
+Setting {{para|order|flip}} will flip (swap) the two measurements:
+* <code><nowiki>{{convert|1|mi|m|order=flip}}</nowiki></code> → {{convert|1|mi|m|order=flip|sigfig=5|abbr=off}}<!-- Extra settings added to enhance the illustration. Don't know if this is ideal way of documenting. DePiep, August 2014. -->
+Default behavior, for comparison:
+* <code><nowiki>{{convert|1|mi|m}}</nowiki></code> → {{convert|1|mi|m|sigfig=5|abbr=off}}
+
+When converting to multiple units, the effect is:
+* <code><nowiki>{{convert|10|km|mi nmi|order=flip}}</nowiki></code> → {{convert|10|km|mi nmi|order=flip|sigfig=5|abbr=off}}
+* <code><nowiki>{{convert|10|km|nmi mi|order=flip}}</nowiki></code> → {{convert|10|km|nmi mi|order=flip|sigfig=5|abbr=off}}
+
+===Fixed ordering of output units: ''{{convert|100|C|F C K|abbr=on|order=out}}'' ===
+Setting {{para|order|out}} shows the output-units as ordered; the input unit is skipped:
+*<code><nowiki>{{convert|100|C|F C K|abbr=on|order=out}}</nowiki></code> &rarr; {{convert|100|C|F C K|abbr=on|order=out}}
+*<code><nowiki>{{convert|200|PS|kW hp|0|abbr=on|order=out}}</nowiki></code> → {{convert|200|PS|kW hp|0|abbr=on|order=out}}
+
+''See also: [[Template:Convert#Displaying_parts_of_the_result:_2_(1.5)|§ Displaying parts of the output]]''.
+
+=== Displaying parts of the result: ''{{convert|2|cuyd|m3|abbr=values}}''===
+It is possible to display only parts of the conversion result:
+<!-- todo: describe effect of order=flip ("out" means 1st or 2nd measurement?) -->
+The following examples show how to display only a part of the result.
+
+<!-- table c/p from Help:Convert#Displaying_parts_of_a_conversion -->
+:<small>Note: in Convert, ''abbr'' is synonym for ''unit symbol''</small>
+{| class="wikitable" style="font-size:85%;"
+! Convert !! Returns !! Components
+|-
+| <code><nowiki>{{convert|2|cuyd|m3}}</nowiki></code>
+| {{convert|2|cuyd|m3}}
+| all (default conversion)
+|-
+| <code><nowiki>{{convert|2|cuyd|m3|abbr=on}}</nowiki></code>
+| {{convert|2|cuyd|m3|abbr=on}}
+| all (default conversion, abbr)
+|-
+| <!--- return NUMBERS ONLY ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- --->
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>abbr=values}}}}</code>
+| {{convert|2|cuyd|m3|abbr=values}}
+| numbers only
+|-
+| <!--- return INPUT ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- --->
+|-
+| <code><nowiki>{{convert|2|cuyd</nowiki>{{bg|1=yellow|2=<nowiki>|cuyd|disp=out</nowiki>}}}}</code>
+| {{convert|2|cuyd|cuyd|disp=out}}
+| input value (workaround)
+|-
+| <code><nowiki>{{convert|2|cuyd</nowiki>{{bg|1=yellow|2=<nowiki>|cuyd|disp=out|abbr=on</nowiki>}}}}</code>
+| {{convert|2|cuyd|cuyd|disp=out|abbr=on}}
+| input value abbr (workaround)
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=unit}}}}</code>
+| {{convert|2|cuyd|m3|disp=unit}}
+| input unit
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=unit<nowiki>|</nowiki>adj=on}}}}</code>
+| {{convert|2|cuyd|m3|disp=unit|adj=on}}
+| input unit, adjectival (hyphenated)
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=unit<nowiki>|</nowiki>adj=on<nowiki>|</nowiki>abbr=on}}}}</code>
+| {{convert|2|cuyd|m3|disp=unit|adj=on|abbr=on}}
+| input unit, adjectival (abbr so not hyphenated)
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=unit<nowiki>|</nowiki>abbr=on}}}}</code>
+| {{convert|2|cuyd|m3|disp=unit|abbr=on}}
+| input unit abbr
+|-
+| <!--- return OUTPUT ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- --->
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=out}}}}</code>
+| {{convert|2|cuyd|m3|disp=out}}
+| output value, symbols
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=out<nowiki>|</nowiki>abbr=off}}}}</code> || {{convert|2|cuyd|m3|disp=out|abbr=off}} || output value, names
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=out<nowiki>|</nowiki>adj=on|abbr=off}}}}</code> || {{convert|2|cuyd|m3|disp=out|adj=on|abbr=off}} || output, adjective
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=number}}}}</code> || {{convert|2|cuyd|m3|disp=number}} || output number
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=unit2}}}}</code> || {{convert|2|cuyd|m3|disp=unit2}} || output unit (abbr by default)
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=unit2<nowiki>|</nowiki>abbr=off}}}}</code> || {{convert|2|cuyd|m3|disp=unit2|abbr=off}} || output unit (name)
+|-
+| <code><nowiki>{{convert|2|cuyd|m3</nowiki>{{bg|1=yellow|2=<nowiki>|</nowiki>disp=unit2<nowiki>|</nowiki>abbr=on}}}}</code> || {{convert|2|cuyd|m3|disp=unit2|abbr=on}} || output unit (abbr)
+|}
+
+===Display both input name and symbol: ''2 kilopascals [kPa]''===
+Setting {{para|abbr|~}} returns both name and  symbol of the first (input) unit:
+* <code><nowiki>{{convert|2|kPa|psi|abbr=~}}</nowiki></code> → {{convert|2|kPa|psi|abbr=~}}
+* <code><nowiki>A {{convert|2|kPa|psi|abbr=~|adj=on}} pressure</nowiki></code> → {{nowrap|A {{convert|2|kPa|psi|abbr=~|adj=on}} pressure}}
+
+==Table options==
+For the [[Help:Table/Manual tables|wikitable]] structure, there are three options: add a line-break, split the result over columns and make the table sortable.
+
+===Enforced line break===
+{{para|disp|br}} adds a line-break and omits brackets.
+
+{{para|disp|br()}} adds a line-break and does add brackets to the converted value. This may be useful in tables:
+{| class=wikitable
+! {{para|disp|br}} !! {{para|disp|br()}}
+|-
+|{{convert|100|km|mi|disp=br}}
+|{{convert|100|km|mi|disp=br()}}
+|}
+
+===Table columns ===
+Using {convert} in a table cell, with {{para|disp|table}} splits the result over two (or more) columns. By default units are not included in the table, however, they can be added using the {{para|abbr|}} parameter. Multiple-unit outputs, like <code>ftin</code>, always output their units to the table.
+
+:<code><nowiki>{{convert|10|m|ft|disp=table}}</nowiki></code> →
+<code>{{convert|10|m|ft|disp=table}}</code>
+
+{{para|disp|tablecen}} does the same, and also centers the text:
+:<code><nowiki>{{convert|20|m|ft|disp=tablecen}}</nowiki></code> →
+<code>{{convert|20|m|ft|disp=tablecen}}</code>
+
+The units are added as a column header:
+:{| class=wikitable
+! style="width:10em;" | &nbsp;
+! style="width:10em;" | kilograms
+! style="width:10em;" | pounds
+! style="width:10em;" | stone and pounds
+|-
+| {{para|disp|table}}
+| {{convert|10|kg|lb stlb|disp=table}}
+|-
+|{{para|disp|table}} and {{para|abbr|on}}
+| {{convert|20|kg|lb stlb|disp=table|abbr=on}}
+|-
+|{{para|disp|table}} and {{para|abbr|off}}
+| {{convert|30|kg|lb stlb|disp=table|abbr=off}}
+|-
+|{{para|disp|tablecen}}
+| {{convert|40|kg|lb stlb|disp=tablecen}}
+|-
+|{{para|disp|&lt;other>}} <small>(default)</small>
+|{{convert|50|kg|lb stlb|disp=}}
+|-
+|}
+
+===Sorting===
+Use {{para|sortable|on}} to include a ''hidden numerical sortkey'' in the output, suitable for use in a [[Help:Sortable tables|table with sortable columns]]. Technically, this places a hidden string before the actual displayed values:
+:<code><nowiki>{{convert|10|m|ft|sortable=on}}</nowiki></code> {{nowrap|1=→ <code>&lt;span data-sort-value="7001100000000000000♠">&lt;/span>10 metres (33&nbsp;ft)</code>}}
+:showing: {{convert|10|m|ft|sortable=on}}.
+
+Use both {{para|disp|table}} and {{para|sortable|on}} together to produce table columns (pipe symbols) for each value in sortable columns:
+
+:{| class="wikitable sortable"
+!
+! m
+! m
+! ft
+|-
+| A
+| {{val|15.75|u=m}}
+| {{convert|15+3/4|m|ft|disp=table|sortable=on}}
+|-
+| B
+| {{val|15.5|u=m}}
+| {{convert|15.5|m|ft|disp=table|sortable=on}}
+|-
+| C
+| {{val|16|u=m}}
+| {{convert|16.0|m|ft|disp=table|sortable=on}}
+|-
+| D
+| {{val|16|u=m}}
+| {{convert|16|m|ft|disp=table|sortable=on}}
+|}
+
+The generated sortkey is calculated in a consistent way based on both the value and its unit as passed to the convert template. In most cases convert uses the passed value converted to SI base units. It is therefore not necessarily the displayed value or other alternate units and is calculated regardless of output format options. Using different units or different order of units in individual rows should therefore not lead to incorrect sorting, although variations in rounding can give surprising results, since an unrounded number is used for the sortkey.
+
+==Units==
+The conversion factors and physical constants are sourced [[Module:Convert/documentation/conversion data introduction/doc#Conversion factors and physical constants|here]].
+
+===All units===
+{{selfref|See also: [[Template:Convert/list of units]]}}
+{{hatnote|Units are case-sensitive: use {{xt|kW}}, not {{!xt|KW}} or {{!xt|kw}}}}
+{{Convert/list of units}}
+
+==='per' units: ''kg/ha'', ''miles per gallon''<span class="anchor" id="per"></span>===
+When using a slash (<code>/</code>), a unit like <code>kg/ha</code> is recognized as kilograms ''per'' hectare and will be converted in to other mass/area units. A unit in the numerator is not required.
+* <code><nowiki>{{convert|1000|kg/ha}}</nowiki></code> → {{convert|1000|kg/ha}}
+* <code><nowiki>{{convert|350|/in2}}</nowiki></code> → {{convert|350|/in2}}
+
+Population density (''inhabitants per square mile'') can be converted using
+* <code><nowiki>{{convert|10|PD/sqmi|PD/km2}}</nowiki></code> → {{convert|10|PD/sqmi|PD/km2}}
+
+Vehicular fuel efficiency, commonly expressed in ''miles per gallon'' or ''litres per 100 km'' can also be converted
+* <code><nowiki>{{convert|26|mpgUS|l/100km mpgimp}}</nowiki></code> → {{convert|26|mpgUS|l/100km mpgimp}}
+
+===Units of difference: Expressing a change or difference in temperature<span class="anchor" id="Units of difference"></span>===
+We have already discussed standard temperature conversions (°C, °F, K), as shown in these two examples:
+* {{#invoke:DemoTemplate|convert|10|C}} (standard temperature conversion)
+* {{#invoke:DemoTemplate|convert|10|-|15|C}} (standard temperature range conversion)
+
+When expressing a temperature ''change'' (e.g., "The temperature ''increased'' by 10&nbsp;°C"), or when ''comparing'' temperatures (e.g., "10 to 15&nbsp;°C ''warmer''"), we cannot use the standard temperature units ({{para||C}}, {{para||F}} and {{para||K}}), which refer to points on the respective scale. Instead, we must use one of the following "units of difference": {{para||C-change}}, {{para||F-change}} and {{para||K-change}}.
+
+Compare the following two examples with the two above:
+
+* {{#invoke:DemoTemplate|convert|10|C-change}} increase in temperature
+* {{#invoke:DemoTemplate|convert|10|-|15|C-change}} warmer than normal
+
+To produce multiple units in the output:
+* {{#invoke:DemoTemplate|convert|10|C-change|F-change K-change}} difference
+
+===Multiple units: ''1 ft 5 in''===
+====In input====
+Base document {{section link|Module:Convert/documentation/conversion data/doc|Input multiples|nopage=y}} lists options for ''multiple unit input'' (like <code>ft,in</code>). It can catch predefined sets only (units that can be subdivided; e.g., yd into ft):
+* <code><nowiki>{{convert|1|yd|2|ft|3|in}}</nowiki></code> → {{convert|1|yd|2|ft|3|in}}
+* <code><nowiki>{{convert|2|ft|3|in|cm}}</nowiki></code> → {{convert|2|ft|3|in|cm}}
+* <code><nowiki>{{convert|1|lb|5|oz|g}}</nowiki></code> → {{convert|1|lb|5|oz|g}}
+
+====In output====
+Available multiple-unit output options predefined, like <code>ftin</code> and <code>ydftin</code>. The full list is at {{section link|Module:Convert/documentation/conversion data/doc|Output multiples|nopage=y}}.
+* <code><nowiki>{{convert|2|m|ftin}}</nowiki></code> → {{convert|2|m|ftin}}
+* <code><nowiki>{{convert|2|m|ft in}}</nowiki></code> → {{convert|2|m|ft in}}, using a space, returns the decimal point
+Default behavior, for comparison:
+* <code><nowiki>{{convert|2|m}}</nowiki></code> → {{convert|2|m}}
+
+See also:
+* {{tl|hands}} a length used to measure horses
+* {{tl|Long ton}} a weight in ton, cwt, qr and lb
+<!-- todo: mention the 0-3 limits -->
+
+===Currency per unit: ''$/mi &rarr; $/km''===
+Using currency symbols in a ''$ per unit'' value, you can convert the per-unit:
+* <code><nowiki>{{convert|3.39|$/USgal|$/L}}</nowiki></code> → {{convert|3.39|$/USgal|$/L}}
+* <code><nowiki>{{convert|10000|€/ha|€/acre}}</nowiki></code> → {{convert|10000|€/ha|€/acre}}
+* <code><nowiki>{{convert|10|¢/mi|¢/km}}</nowiki></code> → {{convert|10|¢/mi|¢/km}}
+* <code><nowiki>{{convert|1500|¥/lb|¥/kg}}</nowiki></code> → {{convert|1500|¥/lb|¥/kg}}
+
+You can also set the currency in ''both'' values using {{para|$|€}}:
+* <code><nowiki>{{convert|10|$/mi|$/km|$=€}}</nowiki></code> → {{convert|10|$/mi|$/km|$=€}}
+
+It is ''not'' possible to convert the currency:
+* <code><nowiki>{{convert|10|$/lb|€/kg}}</nowiki></code> → {{convert|10|$/lb|€/kg}} {{nay}}
+
+So, this result (mixed currencies) is ''not'' possible: {{!mxt|1=$15 per mile (€8.6/km)}} {{nay}}
+
+==Using convert inside templates==
+For use in templates such as infoboxes, {{tlf|convert}} has these options:
+;Handling errors
+* Parameter {{para|error|{{var|x}}}} replaces the need to use <code><nowiki>{{#iferror|...}}</nowiki></code> to check for errors,
+: If no error occurs in the conversion, {{para|error|{{var|x}}}} has no effect. Otherwise, the result is {{var|x}} (no error occurs).
+: Examples:
+:* <code><nowiki>{{convert|123|kcal|error=This text has no effect because the conversion works.}}</nowiki></code> → {{convert|123|kcal|error=This text has no effect because the conversion works.}}
+:* <code><nowiki>{{convert|123 calories (per biscuit)|kcal|error=This text is displayed instead of an error.}}</nowiki></code> → {{convert|123 calories (per biscuit)|kcal|error=This text is displayed instead of an error.}}
+:* <code><nowiki>{{convert|123 calories (per biscuit)|kcal|error=}}</nowiki></code> → &nbsp;&nbsp;&nbsp;{{green|(''nothing is displayed'')}}
+
+;Pre-formatting fraction input
+* [[Module:Convert/helper]] can read regular input and pre-format it into {{tlf|convert}}-accepted input. Note this function does not have the full capabilities of the convert template; it only converts fractions (and [[:Template:Horse race distance|horse race distances]])
+:Your template can accept {{para|input|16 7/8}} and use <nowiki>{{#invoke:convert/helper|number|16 7/8}}</nowiki> → {{#invoke:convert/helper|number|16 7/8}}
+
+;Using a Wikidata property
+* Adding the Wikidata property code, like code {{para|input|P2073}}, to your template code automatically returns the Wikidata property for that article, and convert it. Both number and unit are read.
+Note: to return that property value for an ''other'' article, use {{para|qid}}.
+
+Example for {{Wikidata property link|P2073}} of {{Wikidata entity link|{{get QID|Cessna 208 Caravan}}}}:
+* <code><nowiki>{{convert|input=P2073|qid={{get QID|Cessna 208 Caravan}}|ftin|abbr=on}}</nowiki></code>  → {{convert|input=P2073|qid={{get QID|Cessna 208 Caravan}}|ftin|abbr=on}}
+* <code><nowiki>{{convert|input=P2073|qid=Q1056131|km|abbr=on}}</nowiki></code>  → {{convert|input=P2073|qid=Q1056131|km|abbr=on}}
+* <code><nowiki>{{convert|input=P2073|qid=Q1056131|km|abbr=on|disp=out}}</nowiki></code>  → {{convert|input=P2073|qid=Q1056131|km|abbr=on|disp=out}}
+:For example see [[Template:Infobox telescope]].
+
+Sometimes a property may have more than one value against it in Wikidata. You can use the {{para|qual}} parameter to specify which of the values you want to use.
+
+Example for {{Wikidata property link|P2386}}:
+Note: this example uses {{para|qid|Q1513315}} (testing for {{Wikidata entity link|Q1513315}})
+* {{Wikidata entity link|Q613628}}: <code><nowiki>{{convert|input=P2386|qual=Q613628|ft|abbr=on}}</nowiki></code> → {{convert|input=P2386|qid=Q1513315|qual=Q613628|ft|abbr=on}}
+* {{Wikidata entity link|Q1395645}}: <code><nowiki>{{convert|input=P2386|qual=Q1395645|ft|abbr=on}}</nowiki></code> → {{convert|input=P2386|qid=Q1513315|qual=Q1395645|ft|abbr=on}}
+
+==Parameter list==
+{{convert/doc/parameter list}}
+
+==Deprecated options==
+{{Convert/doc/deprecations list}}
+
+{{Template:Convert/TemplateData}}
+
+==See also==
+* {{tl|Cvt}}
+* {{tl|Inflation}}, for converting historical prices to their current equivalent
+* {{tl|SI units}}
+* {{tl|To USD}}, for currency conversions
+
+{{Convert/documentation navbox}}
+<noinclude>
+[[Category:Convert by module documentation| ]]
+</noinclude><includeonly>{{Sandbox other||{{#ifeq:{{SUBPAGENAME}}|doc||
+[[Category:Template Convert| ]]
+[[Category:Conversion templates]]
+[[Category:Numbers as words conversion templates]]
+[[Category:Sorting templates]]
+}}}}</includeonly>

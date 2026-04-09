@@ -1,0 +1,64 @@
+{{Infobox
+| above        = {{{court_name|}}}
+| subheader    = {{{native_name|}}}
+| imagestyle   = padding-bottom:0.4em; border-bottom:solid 1px #aaa;
+| image        = {{#if:{{{image|}}}
+                    |[[File:{{{image}}}| 
+                    {{#if:{{{imagesize|}}}| 
+                      {{{imagesize}}}|{{{width|225}}}x{{{height|250px}}}|}}]]
+                    }}
+| caption      = {{{caption|}}}
+| label1       = Established
+| data1        = {{{established|}}}
+| label2       = Jurisdiction
+| data2        = {{{country|}}}
+| label3       = Location
+| data3        = {{{location|}}}
+| label4       = [[Geographic coordinate system|Coordinates]]
+| data4        = {{{coordinates|}}}
+| label5       = Composition method
+| data5        = {{{type|}}}
+| label6       = Authorized by
+| data6        = {{{authority|}}}
+| label7       = Hears appeals from
+| data7        = {{{appealed|}}}
+| label8       = [[Appeal|Decisions are appealed to]]
+| data8        = {{{appeals|}}}
+| label9       = Judge term length
+| data9        = {{{terms|}}}
+| label10       = Number of positions
+| data10        = {{{positions|}}}
+| label11      = Website
+| data11       = {{{website|}}} 
+
+| header12     = {{#if:{{{motto|}}}|Motto}}
+| class12      = navbox-abovebelow
+| data13       = {{{motto|}}}
+
+| header15     = {{{chiefjudgetitle|}}}
+| class15      = navbox-abovebelow
+| label16      = Currently
+| data16       = {{{chiefjudgename|}}}
+| label17      = Since
+| data17       = {{{termstart|}}}
+| label18      = Lead position ends
+| data18       = {{{termend|}}}
+| label19      = Jurist term ends
+| data19       = {{{termend2|}}}
+
+| header20     = {{{chiefjudgetitle2|}}}
+| class20      = navbox-abovebelow
+| label21      = Currently
+| data21       = {{{chiefjudgename2|}}}
+| label22      = Since
+| data22       = {{{termstart2|}}}
+| label23      = Position ends
+| data23       = {{{termend3|}}}
+| label24      = Lead position ends
+| data24       = {{{termend4|}}}
+
+}}<noinclude>
+{{documentation}}
+
+<!---Please add metadata to the  section on the /doc subpage, not here!--->
+</noinclude>

@@ -1,0 +1,30 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Ecuador
+| flag alias = Flag of Ecuador.svg
+| flag alias-civil = Civil Flag and Ensign of Ecuador.svg
+| flag alias-1830 = Flag of Ecuador (1830-1845).gif
+| flag alias-1845 = Flag of Ecuador (1845-1860).svg
+| flag alias-1900 = Flag of Ecuador (1900–2009).svg
+| flag alias-municipal = Municipal Flag_of Ecuador.svg
+| flag alias-army = Flag of Ecuador Army.svg
+| link alias-army = Ecuadorian Army
+| flag alias-naval = Flag of Ecuador.svg
+| link alias-naval = Ecuadorian Navy
+| flag alias-marines= Naval Jack of Ecuador.svg
+| link alias-marines=Ecuadorian Naval Infantry Corps
+| flag alias-navy = Flag of Ecuador.svg
+| link alias-navy = Ecuadorian Navy
+| link alias-air force = Ecuadorian Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1830
+| var2 = 1845
+| var3 = 1900
+| var4 = civil
+| var5 = municipal
+| redir1 = ECU
+</noinclude>
+}}

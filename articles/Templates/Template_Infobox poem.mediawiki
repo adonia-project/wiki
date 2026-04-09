@@ -1,0 +1,87 @@
+{{Infobox |child={{{child|{{{embed|}}}}}}
+|bodyclass= vevent
+|above    = <span class="summary">{{#if:{{{name|}}}|{{{name|}}}|{{PAGENAMEBASE}}}}</span><span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt={{urlencode:info:ofi/fmt:kev:mtx:book}}&rft.genre=book&rft.btitle={{urlencode:{{{name|}}}}}{{#if: {{{author|}}}|&rft.author={{urlencode:{{{author}}}}}}}{{#if: {{{publication_date|}}}|&rft.date={{urlencode:{{{publication_date|}}}}}}}{{#if: {{{publisher|}}}|&rft.pub={{urlencode:{{{publisher}}}}}}}{{#if: {{{country|}}}|&rft.place={{urlencode:{{{country}}}}}}}{{#if: {{{pages|}}}|&rft.pages={{urlencode:{{{pages}}}}}}}{{#if: {{{series|}}}|&rft.series={{urlencode:{{{series}}}}}}}{{#if: {{{oclc|}}}|&rft_id=info:oclcnum/{{{oclc}}}}}"></span>
+| abovestyle      = font-style: background: #ededed; color:inherit;
+
+| subheader   = {{{subtitle|}}}
+| subheader2  = {{#if:{{{author|}}}|<span class="summary">{{#if:{{{by_label|}}}|{{{by_label}}}|by}} {{{author}}}</span>}}
+| subheaderstyle = font-weight:bold; 
+
+| headerstyle      = background: #ededed; color:inherit;
+
+|image     = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|{{{image_size|}}}}}}|alt={{{alt|}}}}} 
+|caption  = {{#if:{{{image|}}}|{{{caption|}}}|}}
+
+|label2   = Original title
+|data2    = {{#if:{{{original_title|}}}|<span {{#if:{{{original_title_lang|}}}|lang="{{{original_title_lang}}}"}}>{{{original_title}}}</span>}}
+|label3   = Translator
+|data3    = {{{translator|}}}
+|label4   = {{#if:{{{written_label|}}}|{{{written_label}}}|Written}}
+|data4    = {{{written|}}}
+|label5   = First published in
+|data5    = {{{first|}}}
+|label6   = Illustrator
+|data6    = {{{illustrator|}}}
+|label7   = Cover artist
+|data7    = {{{cover_artist|}}}
+|label8   = Country
+|class8   = location
+|data8    = {{{country|}}}
+|label9   = Language
+|data9    = {{#invoke:WikidataIB | getValue | rank=best |P407 |name=language |qid={{{qid|}}} |suppressfields={{{suppressfields|}}} |fetchwikidata={{{fetchwikidata|}}} |{{{language|}}} }}
+|label10  = Series
+|data10   = {{{series|}}}
+|label11  = Subject{{pluralize from text|{{{subject|}}}|likely=(s)|plural=s}}
+|data11   = {{{subject|}}}
+|label12  = Genre{{pluralize from text|{{{genre|}}}|likely=(s)|plural=s}}
+|data12   = {{{genre|}}}
+|label13  = Form
+|data13   = {{{form|}}}
+|label14  = [[Metre (poetry)|Meter]]
+|data14   = {{{meter|}}}
+|label28  = [[Metre (poetry)|Metre]]
+|data28   = {{{metre|}}}
+|label15  = [[Rhyme scheme|Rhyme scheme]]
+|data15   = {{{rhyme|}}}
+|label16  = Publisher
+|data16   = {{{publisher|}}}
+|label17  = Publication date
+|data17   = {{{publication_date|}}}
+|label18  = Published in English
+|data18   = {{{publication_date_en|}}}
+|label19  = Media type
+|data19   = {{{media_type|}}}
+|label20  = Lines
+|data20   = {{{lines|}}}
+|label21  = Pages
+|data21   = {{{pages|}}}
+|label22  = Size and weight
+|data22   = {{{size_weight|}}}
+|label23  = [[International Standard Book Number|ISBN]]
+|data23   = {{#if:{{{isbn|}}}|{{ISBNT|1={{{isbn|}}}}} }}
+|label24  = [[OCLC]]
+|data24   = {{#if:{{{oclc|}}} |[http://worldcat.org/oclc/{{urlencode:{{{oclc|}}}}} {{{oclc|}}}]}}
+|label25  = Preceded by
+|data25   = {{{preceded_by|}}}
+|label26  = Followed by
+|data26   = {{{followed_by|}}}
+
+|header59     = {{#if:{{{wikisource|}}}|Full text}}
+|data60       = {{#if:{{{wikisource|}}}|[[File:wikisource-logo.svg|16px|link=|alt=]] ''[[wikisource:{{{wikisource}}}|{{{wikisource}}}]]'' at [[Wikisource]]}}
+
+|  data62 = {{#if:{{both|{{{native_wikisource|}}}|{{{orig_lang_code|}}}}} <!--
+     then:-->| [[File:wikisource-logo.svg|16px|link=|alt=]] {{lang|{{{orig_lang_code|}}}
+                  | [[s:{{#if:{{{orig_lang_code|}}}|{{{orig_lang_code|}}}:}}{{{native_wikisource|}}}|{{{native_wikisource|{{{name|{{PAGENAME}}}}}}}}]]<!--
+              -->}} at <!--
+              -->{{#if:{{#invoke:lang|is_ietf_tag|{{{orig_lang_code}}}}}|{{#invoke:lang|name_from_tag|{{{orig_lang_code}}}}}}} [[Wikisource]]<!--
+              -->{{main other|[[Category:Articles that link to foreign-language Wikisources]]}} <!--(create hidden category to be monitored by WikiProject:Wikisource)
+     else:-->| {{#if:{{both|{{{native_external_url|}}}|{{{orig_lang_code|}}}}}
+                |[[File:wikisource-logo.svg|16px|link=|alt=]] {{lang |{{{orig_lang_code|}}}
+                     | [{{{native_external_url|}}} {{{native_wikisource|{{{name|{{PAGENAME}}}}}}}}]<!--
+                 -->}} <!--
+                 -->{{#if:{{{native_external_host|}}} |at {{{native_external_host|}}} |online}}
+            }} }}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|}}|preview=Page using [[Template:Infobox poem]] with unknown parameter "_VALUE_"|ignoreblank=y| child | embed | name | by_label| image | imagesize | image_size | alt | caption | subtitle | author | original_title | original_title_lang | orig_lang_code | translator | written | written_label | first | illustrator | cover_artist | country | language | series | subject | genre | form | meter | metre | rhyme | publisher | publication_date | publication_date_en | media_type | lines | pages | size_weight | isbn | oclc | preceded_by | followed_by | fetchwikidata | wikisource | native_wikisource | external_url | external_host }}<noinclude>
+{{documentation}}<!-- PLEASE ADD CATEGORIES TO THE /doc SUBPAGE AND INTERWIKIS TO Wikidata -->
+</noinclude>

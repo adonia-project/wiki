@@ -1,0 +1,6 @@
+<noinclude>{| class="wikitable"
+|-
+|</noinclude>data-sort-value="{{{sort|}}}" style="{{{style|vertical-align:middle; text-align:center}}}" class="{{{class|table-na}}}" | {{{1|—}}}<noinclude>
+|}
+{{documentation|Template:Table cell templates/doc}}
+</noinclude>

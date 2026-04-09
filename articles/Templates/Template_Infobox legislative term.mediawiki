@@ -1,0 +1,203 @@
+{{Infobox
+| bodyclass = vevent
+| bodystyle = {{#if:{{{box_width|}}}|width: {{{box_width}}};}}
+
+| abovestyle  = {{#if:{{{background_color|}}}|border-top: 2px solid {{{background_color}}}; border-bottom: 2px solid {{{background_color}}}|background-color: #ededed}}
+| above    = {{{name|{{PAGENAMEBASE}}}}}
+| aboveclass = summary
+
+| subheader = {{#if:{{{before|}}}{{{after|}}}|
+<table style="width:100%; border-collapse:collapse"><tr style="vertical-align: middle;">
+{{#if:{{{before|}}}|<td>&larr;</td><td style="width:{{#if:{{{after|}}}|50|100}}%;text-align:left;">{{{before}}}</td>
+}} {{#if:{{{after|}}}|<td style="width:{{#if:{{{before|}}}|50|100}}%;text-align:right;">{{{after}}}</td><td>&rarr;</td>
+}}</tr></table>
+ }}
+| subheaderstyle = border-top: 1px solid #aaa;
+
+| headerstyle = background-color: #ededed;
+
+| image    = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|alt={{{alt|}}}}}
+| caption  = {{{caption|}}}
+| header1  = Overview
+
+|  label2  = Legislative body
+|   data2  = {{{body|}}}
+|  label3  = Jurisdiction
+|   data3  = {{#if:{{{state|}}}{{{country|}}}|{{Comma separated entries|{{{state|}}}|{{{country|}}}}}|{{{jurisdiction|}}}}}
+|  class4  = location
+|  label4  = Meeting place
+|   data4  = {{{meeting_place|}}}
+|  class5  = label
+|  label5  = Term
+|   data5  = {{#if:{{{term_start|}}}{{{term_end|}}}|{{{term_start}}}&nbsp;– {{{term_end|}}}|{{{term|}}}}}
+|  label6  = Election
+|   data6  = {{{election|}}}
+|  label7  = Government
+|   data7  = {{{government|}}}
+|  label8  = Opposition
+|   data8  = {{{opposition|}}}
+|  label9  = Website
+|   data9  = {{{website|}}}
+
+| header10 = {{{chamber1|}}}
+|   data11 = {{#invoke:InfoboxImage|InfoboxImage|image={{{chamber1_image|}}}|size={{{chamber1_image_size|}}}|sizedefault=frameless|alt={{{chamber1_alt|}}}}}{{#if:{{{chamber1_image|}}}|<div>{{{chamber1_image_caption|}}}</div>}}
+|  label12 = Members
+|   data12 = {{{membership1|}}}
+|  label13 = {{{chamber1_leader1_type|}}}
+|   data13 = {{#if:{{{chamber1_leader1_type|}}}|{{{chamber1_leader1|}}}}}
+|  class13 = attendee
+|  label14 = {{{chamber1_leader2_type|}}}
+|   data14 = {{#if:{{{chamber1_leader2_type|}}}|{{{chamber1_leader2|}}}}}
+|  class14 = attendee
+|  label15 = {{{chamber1_leader3_type|}}}
+|   data15 = {{#if:{{{chamber1_leader3_type|}}}|{{{chamber1_leader3|}}}}}
+|  class15 = attendee
+|  label16 = {{{chamber1_leader4_type|}}}
+|   data16 = {{#if:{{{chamber1_leader4_type|}}}|{{{chamber1_leader4|}}}}}
+|  class16 = attendee
+|  label17 = {{{chamber1_leader5_type|}}}
+|   data17 = {{#if:{{{chamber1_leader5_type|}}}|{{{chamber1_leader5|}}}}}
+|  class17 = attendee
+|  label18 = {{{chamber1_leader6_type|}}}
+|   data18 = {{#if:{{{chamber1_leader6_type|}}}|{{{chamber1_leader6|}}}}}
+|  class18 = attendee
+|  label19 = {{{chamber1_leader9_type|}}}
+|   data19 = {{#if:{{{chamber1_leader9_type|}}}|{{{chamber1_leader9|}}}}}
+|  class19 = attendee
+|  label20 = Party control
+|   data20 = {{{control1|}}}
+
+| header21 = {{{chamber2|}}}
+|   data22 = {{#invoke:InfoboxImage|InfoboxImage|image={{{chamber2_image|}}}|size={{{chamber2_image_size|}}}|sizedefault=frameless|alt={{{chamber2_alt|}}}}}{{#if:{{{chamber2_image|}}}|<div>{{{chamber2_image_caption|}}}</div>}}
+|  label23 = Members
+|   data23 = {{{membership2|}}}
+|  label24 = {{{chamber2_leader1_type|}}}
+|   data24 = {{#if:{{{chamber2_leader1_type|}}}|{{{chamber2_leader1|}}}}}
+|  class24 = attendee
+|  label25 = {{{chamber2_leader2_type|}}}
+|   data25 = {{#if:{{{chamber2_leader2_type|}}}|{{{chamber2_leader2|}}}}}
+|  class25 = attendee
+|  label26 = {{{chamber2_leader3_type|}}}
+|   data26 = {{#if:{{{chamber2_leader3_type|}}}|{{{chamber2_leader3|}}}}}
+|  class26 = attendee
+|  label27 = {{{chamber2_leader4_type|}}}
+|   data27 = {{#if:{{{chamber2_leader4_type|}}}|{{{chamber2_leader4|}}}}}
+|  class27 = attendee
+|  label28 = {{{chamber2_leader5_type|}}}
+|   data28 = {{#if:{{{chamber2_leader5_type|}}}|{{{chamber2_leader5|}}}}}
+|  class28 = attendee
+|  label29 = {{{chamber2_leader6_type|}}}
+|   data29 = {{#if:{{{chamber2_leader6_type|}}}|{{{chamber2_leader6|}}}}}
+|  class29 = attendee
+|  label30 = {{{chamber2_leader7_type|}}}
+|   data30 = {{#if:{{{chamber2_leader7_type|}}}|{{{chamber2_leader7|}}}}}
+|  class30 = attendee
+|  label31 = Party control
+|   data31 = {{{control2|}}}
+
+| header32 = {{{chamber3|}}}
+|   data33 = {{#invoke:InfoboxImage|InfoboxImage|image={{{chamber3_image|}}}|size={{{chamber3_image_size|}}}|sizedefault=frameless|alt={{{chamber3_alt|}}}}}{{#if:{{{chamber3_image|}}}|<div>{{{chamber3_image_caption|}}}</div>}}
+|  label34 = Members
+|   data34 = {{{membership3|}}}
+|  label35 = {{{chamber3_leader1_type|}}}
+|   data35 = {{#if:{{{chamber3_leader1_type|}}}|{{{chamber3_leader1|}}}}}
+|  class35 = attendee
+|  label36 = {{{chamber3_leader2_type|}}}
+|   data36 = {{#if:{{{chamber3_leader2_type|}}}|{{{chamber3_leader2|}}}}}
+|  class36 = attendee
+|  label37 = {{{chamber3_leader3_type|}}}
+|   data37 = {{#if:{{{chamber3_leader3_type|}}}|{{{chamber3_leader3|}}}}}
+|  class37 = attendee
+|  label38 = {{{chamber3_leader4_type|}}}
+|   data38 = {{#if:{{{chamber3_leader4_type|}}}|{{{chamber3_leader4|}}}}}
+|  class38 = attendee
+|  label39 = {{{chamber3_leader5_type|}}}
+|   data39 = {{#if:{{{chamber3_leader5_type|}}}|{{{chamber3_leader5|}}}}}
+|  class39 = attendee
+|  label40 = {{{chamber3_leader6_type|}}}
+|   data40 = {{#if:{{{chamber3_leader6_type|}}}|{{{chamber3_leader6|}}}}}
+|  class40 = attendee
+|  label41 = {{{chamber3_leader7_type|}}}
+|   data41 = {{#if:{{{chamber3_leader7_type|}}}|{{{chamber3_leader7|}}}}}
+|  class41 = attendee
+|  label42 = Party control
+|   data42 = {{{control3|}}}
+
+| header43 = {{{chamber4|}}}
+|   data44 = {{#invoke:InfoboxImage|InfoboxImage|image={{{chamber4_image|}}}|size={{{chamber4_image_size|}}}|sizedefault=frameless|alt={{{chamber4_alt|}}}}}{{#if:{{{chamber4_image|}}}|<div>{{{chamber4_image_caption|}}}</div>}}
+|  label45 = Members
+|   data45 = {{{membership4|}}}
+|  label46 = {{{chamber4_leader1_type|}}}
+|   data46 = {{#if:{{{chamber4_leader1_type|}}}|{{{chamber4_leader1|}}}}}
+|  class46 = attendee
+|  label47 = {{{chamber4_leader2_type|}}}
+|   data47 = {{#if:{{{chamber4_leader2_type|}}}|{{{chamber4_leader2|}}}}}
+|  class47 = attendee
+|  label48 = {{{chamber4_leader3_type|}}}
+|   data48 = {{#if:{{{chamber4_leader3_type|}}}|{{{chamber4_leader3|}}}}}
+|  class48 = attendee
+|  label49 = {{{chamber4_leader4_type|}}}
+|   data49 = {{#if:{{{chamber4_leader4_type|}}}|{{{chamber4_leader4|}}}}}
+|  class49 = attendee
+|  label50 = {{{chamber4_leader5_type|}}}
+|   data50 = {{#if:{{{chamber4_leader5_type|}}}|{{{chamber4_leader5|}}}}}
+|  class50 = attendee
+|  label51 = {{{chamber4_leader6_type|}}}
+|   data51 = {{#if:{{{chamber4_leader6_type|}}}|{{{chamber4_leader6|}}}}}
+|  class51 = attendee
+|  label52 = {{{chamber4_leader7_type|}}}
+|   data52 = {{#if:{{{chamber4_leader7_type|}}}|{{{chamber4_leader7|}}}}}
+|  class52 = attendee
+|  label53 = Party control
+|   data53 = {{{control4|}}}
+
+| header54 = {{#if:{{{session1_start|}}}{{{session1|}}}|Sessions}}
+|   data55 = {{#if:{{{session1_start|}}}{{{session1|}}}|{{Infobox
+ | subbox = yes | decat = yes
+
+ | label1 = {{If empty|{{{session1_type|}}}|1st}}
+ |  data1 = {{#if:{{{session1_start|}}}|{{{session1_start}}}&nbsp;– {{{session1_end|}}}|{{{session1|}}}}}
+ | label2 = {{If empty|{{{session2_type|}}}|2nd}}
+ |  data2 = {{#if:{{{session2_start|}}}|{{{session2_start}}}&nbsp;– {{{session2_end|}}}|{{{session2|}}}}}
+ | label3 = {{If empty|{{{session3_type|}}}|3rd}}
+ |  data3 = {{#if:{{{session3_start|}}}|{{{session3_start}}}&nbsp;– {{{session3_end|}}}|{{{session3|}}}}}
+ | label4 = {{If empty|{{{session4_type|}}}|4th}}
+ |  data4 = {{#if:{{{session4_start|}}}|{{{session4_start}}}&nbsp;– {{{session4_end|}}}|{{{session4|}}}}}
+ | label5 = {{If empty|{{{session5_type|}}}|5th}}
+ |  data5 = {{#if:{{{session5_start|}}}|{{{session5_start}}}&nbsp;– {{{session5_end|}}}|{{{session5|}}}}}
+ | label6 = {{If empty|{{{session6_type|}}}|6th}}
+ |  data6 = {{#if:{{{session6_start|}}}|{{{session6_start}}}&nbsp;– {{{session6_end|}}}|{{{session6|}}}}} 
+ | label7 = {{If empty|{{{session7_type|}}}|7th}}
+ |  data7 = {{#if:{{{session7_start|}}}|{{{session7_start}}}&nbsp;– {{{session7_end|}}}|{{{session7|}}}}}
+ | label8 = {{If empty|{{{session8_type|}}}|8th}}
+ |  data8 = {{#if:{{{session8_start|}}}|{{{session8_start}}}&nbsp;– {{{session8_end|}}}|{{{session8|}}}}}
+ | label9 = {{If empty|{{{session9_type|}}}|8th}}
+ |  data9 = {{#if:{{{session9_start|}}}|{{{session9_start}}}&nbsp;– {{{session9_end|}}}|{{{session9|}}}}}
+ }}}}
+
+| header56 = {{#if:{{{special_session1_start|}}}{{{special_session1|}}}|Special sessions}}
+|   data57 = {{#if:{{{special_session1_start|}}}{{{special_session1|}}}|{{Infobox
+ | subbox = yes | decat = yes
+
+ | label1 = {{If empty|{{{special_session1_type|}}}|1st}}
+ |  data1 = {{#if:{{{special_session1_start|}}}|{{{special_session1_start}}}&nbsp;– {{{special_session1_end|}}}|{{{special_session1|}}}}}
+ | label2 = {{If empty|{{{special_session2_type|}}}|2nd}}
+ |  data2 = {{#if:{{{special_session2_start|}}}|{{{special_session2_start}}}&nbsp;– {{{special_session2_end|}}}|{{{special_session2|}}}}}
+ | label3 = {{If empty|{{{special_session3_type|}}}|3rd}}
+ |  data3 = {{#if:{{{special_session3_start|}}}|{{{special_session3_start}}}&nbsp;– {{{special_session3_end|}}}|{{{special_session3|}}}}}
+ | label4 = {{If empty|{{{special_session4_type|}}}|4th}}
+ |  data4 = {{#if:{{{special_session4_start|}}}|{{{special_session4_start}}}&nbsp;– {{{special_session4_end|}}}|{{{special_session4|}}}}}
+ | label5 = {{If empty|{{{special_session5_type|}}}|5th}}
+ |  data5 = {{#if:{{{special_session5_start|}}}|{{{special_session5_start}}}&nbsp;– {{{special_session5_end|}}}|{{{special_session5|}}}}}
+ | label6 = {{If empty|{{{special_session6_type|}}}|6th}}
+ |  data6 = {{#if:{{{special_session6_start|}}}|{{{special_session6_start}}}&nbsp;– {{{special_session6_end|}}}|{{{special_session6|}}}}}
+ | label7 = {{If empty|{{{special_session7_type|}}}|7th}}
+ |  data7 = {{#if:{{{special_session7_start|}}}|{{{special_session7_start}}}&nbsp;– {{{special_session7_end|}}}|{{{special_session7|}}}}}
+ | label8 = {{If empty|{{{special_session8_type|}}}|8th}}
+ |  data8 = {{#if:{{{special_session8_start|}}}|{{{special_session8_start}}}&nbsp;– {{{special_session8_end|}}}|{{{special_session8|}}}}}
+ | label9 = {{If empty|{{{special_session9_type|}}}|9th}}
+ |  data9 = {{#if:{{{special_session9_start|}}}|{{{special_session9_start}}}&nbsp;– {{{special_session9_end|}}}|{{{special_session9|}}}}}
+ }}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox legislative term with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox legislative term]] with unknown parameter "_VALUE_"|ignoreblank=y| box_width | background_color | name | before | after | image | image_size | alt | caption | body | state | country | jurisdiction | meeting_place | term_start | term_end | term | election | government | opposition | website | chamber1 | chamber1_image | chamber1_image_size | chamber1_alt | chamber1_image_caption | membership1 | chamber1_leader1_type | chamber1_leader1 | chamber1_leader2_type | chamber1_leader2 | chamber1_leader3_type | chamber1_leader3 | chamber1_leader4_type | chamber1_leader4 | chamber1_leader5_type | chamber1_leader5 | chamber1_leader6_type | chamber1_leader6 | chamber1_leader7_type | chamber1_leader7 | control1 | chamber2 | chamber2_image | chamber2_image_size | chamber2_alt | chamber2_image_caption | membership2 | chamber2_leader1_type | chamber2_leader1 | chamber2_leader2_type | chamber2_leader2 | chamber2_leader3_type | chamber2_leader3 | chamber2_leader4_type | chamber2_leader4 | chamber2_leader5_type | chamber2_leader5 | chamber2_leader6_type | chamber2_leader6 | chamber2_leader7_type | chamber2_leader7 | control2 | chamber3 | chamber3_image | chamber3_image_size | chamber3_alt | chamber3_image_caption | membership3 | chamber3_leader1_type | chamber3_leader1 | chamber3_leader2_type | chamber3_leader2 | chamber3_leader3_type | chamber3_leader3 | chamber3_leader4_type | chamber3_leader4 | chamber3_leader5_type | chamber3_leader5 | chamber3_leader6_type | chamber3_leader6 | chamber3_leader7_type | chamber3_leader7 | control3 | chamber4 | chamber4_image | chamber4_image_size | chamber4_alt | chamber4_image_caption | membership4 | chamber4_leader1_type | chamber4_leader1 | chamber4_leader2_type | chamber4_leader2 | chamber4_leader3_type | chamber4_leader3 | chamber4_leader4_type | chamber4_leader4 | chamber4_leader5_type | chamber4_leader5 | chamber4_leader6_type | chamber4_leader6 | chamber4_leader7_type | chamber4_leader7 | control4 | session1_start | session1 | session1_type | session1_end | session2_type | session2_start | session2_end | session2 | session3_type | session3_start | session3_end | session3 | session4_type | session4_start | session4_end | session4 | session5_type | session5_start | session5_end | session5 | session6_type | session6_start | session6_end | session6 | session7_type | session7_start | session7_end | session7 | session8_type | session8_start | session8_end | session8 | special_session1_start | special_session1 | special_session1_type | special_session1_end | special_session2_start | special_session2 | special_session2_type | special_session2_end | special_session3 | special_session3_type | special_session3_start | special_session3_end | special_session4_start | special_session4 | special_session4_type | special_session4_end | special_session5 | special_session5_type | special_session5_end |special_session5_start | special_session6_start | special_session6 | special_session6_type | special_session6_end | special_session7 | special_session7_type |special_session7_start | special_session7_end | special_session8_start | special_session8 | special_session8_type | special_session8_end | special_session9_start | special_session9 | special_session9_type | special_session9_end }}<noinclude>
+{{documentation}}
+</noinclude>

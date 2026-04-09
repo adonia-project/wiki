@@ -1,0 +1,38 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Ethiopia
+| flag alias = Flag of Ethiopia.svg
+| flag alias-1897 = Flag of Ethiopia (1897-1936; 1941-1974).svg
+| flag alias-1975 = Flag of Ethiopia (1975–1987).svg
+| flag alias-1975-state = Flag of Ethiopia (1975–1987) (02).svg
+| flag alias-1987 = Flag of Ethiopia (1987-1991).svg
+| flag alias-1991 = Flag of Ethiopia (1991-1996).svg
+| flag alias-1996 = Flag of Ethiopia (1996-2009).svg
+| flag alias-naval = Flag of Ethiopia (2-3).svg
+| link alias-naval = Ethiopian Navy
+| link alias-air force = Ethiopian Air Force
+| flag alias-air force = Ethiopian Air Force flag.svg
+| link alias-army = Ethiopian Army
+| flag alias-navy = Flag of Ethiopia (1975–1987).svg
+| link alias-navy = Ethiopian Navy
+| flag alias-military = Flag of the Ethiopian National Defense Force (3).svg
+| link alias-military = Ethiopian National Defense Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1897
+| var2 = 1975
+| var3 = 1975-state
+| var4 = 1987
+| var5 = 1991
+| var6 = 1996
+| redir1 = ETH
+| related1 = Ethiopian Empire
+| related2 = Derg
+| related3 = People's Democratic Republic of Ethiopia
+| related4 = Fascist Italy (1922–1943)
+| related5 = Italian East Africa
+| related6 = British Empire
+</noinclude>
+}}

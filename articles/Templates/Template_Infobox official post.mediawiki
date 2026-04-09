@@ -1,0 +1,100 @@
+{{#invoke:infobox|infoboxTemplate
+|style        = width:{{#if:{{{width|}}}|{{{width}}}|17.5em}};
+
+|above        = <includeonly>{{{name|{{{post}}} <!--
+              -->{{#if:{{{body|}}}
+                  | of {{{body}}}
+                 }} 
+                }}}</includeonly>
+|abovestyle   = font-size: 125%;
+
+|subheader    = {{{native_name|}}}
+|subheaderstyle = font-size: 125%; font-weight: normal;
+
+
+|image        = {{#invoke:InfoboxImage|InfoboxImage|image={{{insignia|}}}|size={{{insigniasize|}}}|alt={{{insigniaalt|}}}|sizedefault=120px}}
+|imagestyle   = padding-bottom:0.4em; border-bottom:solid 1px #ccd2d9;
+|caption      = {{{insigniacaption|}}}
+
+|image2       = {{#invoke:InfoboxImage|InfoboxImage|image={{{flag|}}}|size={{{flagsize|}}}|alt={{{flagalt|}}}|sizedefault=120px|border={{{flagborder|}}}}}
+|imagestyle2  = border-bottom:solid 1px #ccd2d9;
+|caption2     = {{{flagcaption|}}}
+
+|data1   = {{#if:{{{incumbent|}}}{{{image|}}}
+            | <div style="padding-bottom:0.4em; <!--
+                       -->border-bottom:solid 1px #ccd2d9; line-height:1.4em;"><!--
+               -->{{#if:{{{image|}}}
+                   | <div style="padding-bottom:0.4em;"><!--
+                      -->{{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|}}}|sizedefault=frameless|alt={{{alt|}}}|border=yes|suppressplaceholder=yes}}</div>
+                  }}<!--
+               -->{{#if:{{{incumbent|}}}|'''{{{incumbentlabel|Incumbent}}}<br/>{{{incumbent}}}<br/><!--
+               -->{{#ifeq:{{{Acting|{{{acting|}}}}}}|yes|[[w:Acting (law)|Acting]]'''&nbsp;|{{#ifeq:{{{Acting|{{{acting|}}}}}}|y|[[w:Acting (law)|Acting]]'''&nbsp;|'''}}}}<!--
+               -->{{#if:{{{incumbentsince|}}}
+                   |since&nbsp;{{{incumbentsince}}}
+                  }}|{{{imagecaption|}}}}}<!--
+           --></div><!--
+         -->}}
+|data2   = {{{department|}}}
+|label3  = [[w:Style (form of address)|Style]]
+|data3   = {{{style|}}}
+|label4  = Type
+|data4   = {{{type|}}}
+|label5  = Status
+|data5   = {{{status|}}}
+|label6  = Abbreviation
+|data6   = {{{abbreviation|}}}
+
+|label7  = Member of
+|data7   = {{{member_of|{{{memberof|}}}}}}
+|label8  = Reports to
+|data8   = {{{reports_to|{{{reportsto|}}}}}}
+|label9  = [[w:Official residence|Residence]]
+|data9   = {{{residence|}}}
+|label10  = [[w:Seat (legal entity)|Seat]]
+|data10   = {{{seat|}}}
+|label11  = Nominator
+|data11   = {{{nominator|}}}
+|label12 = Appointer
+|data12  = {{{appointer|}}}<!--
+         -->{{#if:{{{appointer_qualified|}}}
+           | <br />{{{appointer_qualified}}}
+          }}
+|label13  = [[w:Term of office|Term length]]
+|data13   = {{{termlength|}}}<!--
+         -->{{#if:{{{termlength_qualified|}}}
+           | <br />{{{termlength_qualified}}}
+          }}
+|label14 = Constituting instrument
+|data14  = {{{constituting_instrument|}}}
+|label15 = Precursor
+|data15  = {{{precursor|}}}
+|label16 = Inaugural holder
+|data16  = {{{inaugural|}}}
+|label17 = Formation
+|data17  = {{{formation|}}}
+|label18 = First holder
+|data18  = {{{first|}}}
+|label19 = Final holder
+|data19  = {{{last|}}}
+|label20 = Abolished
+|data20  = {{{abolished|}}}
+|label21 = <span class="nowrap">Superseded by</span>
+|data21  = {{{superseded_by|}}}
+|label22 = Succession
+|data22  = {{{succession|}}}
+|label23 = Unofficial names
+|data23  = {{{unofficial_names|}}}
+|label24 = Deputy
+|data24  = {{{deputy|}}}
+|label25 = Salary
+|data25  = {{{salary|}}}
+|label26 = Website
+|data26  = {{{website|}}}
+|header27 = {{{footnotes_title|}}}
+|data28  = {{{footnotes|}}}
+}}{{#if:{{{footnotes_title|}}}|[[Category:Pages using infobox official post with footnotes title]]}}<noinclude>
+{{documentation}}
+<!---Please add categories to the <includeonly> section at the 
+     bottom of [[Template:Infobox Political post/doc]],
+     not here - thanks!--->
+</noinclude>{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox official post with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox official post]] with unknown parameter "_VALUE_"|ignoreblank=y| abbreviation | abolished | acting | Acting | alt | appointer | appointer_qualified | body | constituting_instrument | department | deputy | first | flag | flagalt | flagborder | flagcaption | flagsize | footnotes | footnotes_title | formation | image | imagecaption | imagesize | inaugural | incumbent | incumbentlabel | incumbentsince | insignia | insigniaalt | insigniacaption | insigniasize | last | member_of | memberof | name | native_name | nominator | post | precursor | reports_to | reportsto | residence | salary | seat | status | style | succession | superseded_by | termlength | termlength_qualified | type | unofficial_names | website | width }}

@@ -1,0 +1,5 @@
+/* {{pp-template}} */
+.script-arabic {
+	font-family: 'Scheherazade New', 'SF Arabic', Scheherazade, Lateef, Amiri, 'Noto Naskh Arabic', 'Droid Arabic Naskh', 'Microsoft Uighur', 'Noto Sans Arabic', 'Sakkal Majalla', 'Harmattan', 'Arabic Typesetting', 'Arabic Transparent', 'Times New Roman', Arial, Calibri, 'Microsoft Sans Serif', 'Segoe UI', serif, sans-serif; 
+	font-weight: normal;
+}

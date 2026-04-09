@@ -1,0 +1,7 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Iraq
+| shortname alias = IQ
+| flag alias = Flag of Iraq.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Dagit
+| flag alias = Flag of Dagit.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

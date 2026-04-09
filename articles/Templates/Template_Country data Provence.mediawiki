@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Provence
+| flag alias = Flag of the Republic of Pisa.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

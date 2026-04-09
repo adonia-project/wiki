@@ -1,0 +1,11 @@
+<includeonly>{{#if: {{{1|}}}
+     |{{#iferror:{{#time:Y|1 January {{{1|}}} }}
+         |{{#iferror:{{#time:Y|{{{1|}}} }} 
+             |{{#ifeq:{{{2|}}}|{{{2}}}|error|{{error|Error}}}}
+             |{{#time:Y|{{{1|}}} }} }} 
+         |{{#time:Y|1 January {{{1|}}} }} }}
+|{{CURRENTYEAR}}}}</includeonly><noinclude>
+
+{{Documentation}}
+
+</noinclude>

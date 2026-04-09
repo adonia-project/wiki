@@ -1,0 +1,47 @@
+{{Documentation subpage}}
+{{High-use}}
+
+==Usage==
+Transcluded by "lang-xx" templates (e.g. {{tl|lang-rus}})—''do not use directly''.
+
+==Right-to-left==
+For languages written right-to-left, like Arabic, Hebrew and [[Script (Unicode)|other]], it is advised to set {{para|rtl|<nowiki>{{rtl}}</nowiki>}} in the language template (e.g. lang-ar, lang-he).
+
+This adds the character  {{unichar|200f|RIGHT-TO-LEFT MARK|html=}} to the end of the string (the righthand side, in memory). It is an invisible formatting character, that ''terminates'' the R-to-L text. After this, (that is, directly after & outside of the template), all following text is initiated to be left-to-right (English) again.
+
+==Italics==
+Set <code>italic</code> to
+* <code>no</code> for non-italic text
+* <code>yes</code> (default) for italic text
+
+== Category suppression ==
+If you want to suppress category output from the template, use {{para|nocat|true}}.
+
+==TemplateData==
+{{Template data header}}
+{{Collapse top|title=[[Wikipedia:TemplateData|TemplateData]] documentation used by [[Wikipedia:VisualEditor|VisualEditor]] and other tools}}
+<templatedata>
+{
+	"params": {
+		"1": {},
+		"2": {},
+		"3": {},
+		"4": {},
+		"links": {},
+		"link": {},
+		"rtl": {},
+		"nocat": {},
+        "italic": {},
+		"lit": {}
+	}
+}
+</templatedata>
+{{cob}}
+
+==See also==
+* [[Template:ISO 15924 script codes and related Unicode data]]
+
+<includeonly>{{Sandbox other||
+[[Category:Wikipedia multilingual support templates]]
+[[Category:Data retrieval templates]]
+}}</includeonly>

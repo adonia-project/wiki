@@ -1,0 +1,332 @@
+<includeonly>
+<!----------Speaker of the House---------->
+{{#if:{{{speaker|}}}|
+{{#if:{{{state_legislature|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{speaker}}} [[Speaker of the {{{legislature|}}} Legislature]]
+{{!}}-
+|{{#if:{{{state_assembly|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{speaker}}} [[Speaker of the {{{state_assembly|}}} {{#ifeq:{{{state_assembly|}}}|Nevada||{{#ifeq:{{{state_assembly|}}}|New Jersey|General|State}}}} Assembly]]
+{{!}}-
+|{{#if:{{{speaker|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{speaker}}} {{#if:{{{speaker_office|}}}|{{{speaker_office}}}|[[Speaker of the {{#if:{{{state_delegate|}}} |{{{state_delegate}}}|{{#if:{{{state_house|}}} |{{{state_house}}}|United States}}}} House of {{#if:{{{state_delegate|}}}|Delegates|Representatives}}|Speaker of the {{#if:{{{state_delegate|}}} |{{{state_delegate}}}|{{#if:{{{state_house|}}} |{{{state_house}}}|U.S.}}}} House of {{#if:{{{state_delegate|}}}|Delegates|Representatives}}]]}}
+{{!}}-
+}}
+}}
+}}
+}}
+<!----------Office---------->
+{{#if:{{{{{#if:{{{nominee|}}}|nominee|candidate}}|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{#if:{{{party{{#if:{{{party_election||}}}|_election||}}|}}}|{{{party{{#if:{{{party_election||}}}|_election||}}|}}}&#32;}}{{#if:{{{nominee|}}}|{{#if:{{{party{{#if:{{{party_election||}}}|_election||}}|}}}|n|N}}ominee|{{#if:{{{party{{#if:{{{party_election||}}}|_election||}}|}}}|c|C}}andidate}} for<br>{{{{{#if:{{{nominee|}}}|nominee|candidate}}|}}}
+{{!}}-
+{{#if:{{{termstart|}}}{{{election_date|}}} |
+{{!}}colspan=2 style="border-bottom:none; text-align:center"{{!}}{{nowrap|'''Election date'''}}<br />{{#if:{{{election_date|}}}|{{{election_date}}}|{{{termstart}}}}}
+{{!}}-
+}}
+}}
+{{#if:{{{majority_leader|}}}{{{minority_floor_leader|}}}{{{minority_leader|}}}{{{majority_floor_leader|}}}||
+{{#if:{{{jr/sr|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} [[United States Senate|<!--Changed code to eliminate "Junior/Senior" distinction for U.S. Senators per [[Template talk:Infobox Officeholder#Senior/Junior U.S. Senators]]{{{jr/sr}}}-->United States Senator{{#if:{{{succeeding|}}} |-elect}}]]<br />from {{{state}}}
+{{!}}-
+}}
+{{#if:{{{jr/sr and state|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{jr/sr and state}}}
+{{!}}-
+}}
+{{#if:{{{state_senate|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} Member of the [[{{{state_senate}}} Senate]]<br />from the {{{district}}} district{{#if:{{{prior_term|}}}|
+<br /><small>{{{prior_term}}}</small>}}
+{{!}}-
+}}
+{{#if:{{{state_legislature|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} Member of the [[{{{state_legislature}}} Legislature]]<br />from the {{{district}}} district
+{{!}}-
+}}
+}}
+{{#if:{{{{{#if:{{{ambassador_from|}}}|ambassador|minister}}_from|}}}||
+{{#if:{{{order|}}} | 
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} <!--
+-->{{{order}}}<!--
+-->{{#if:{{{office|}}} |&#32;[[{{{office}}}]]}}<!--
+-->{{#if:{{{state|}}} |&#32;[[{{{state}}}]]}}<!--
+-->{{#if:{{{title|}}} |&#32;{{{title}}}}}<!--
+-->
+{{!}}-|
+{{#if:{{{office|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{office}}}
+{{!}}-
+}}
+{{#if:{{{title|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{title}}}
+{{!}}-
+}}
+}}
+}}
+<!----------Ambassador---------->
+{{#if:{{{{{#if:{{{ambassador_from|}}}|ambassador|minister}}_from|}}}|
+{{#if:{{{country|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{#if:{{{order|}}}|{{{order}}}}} [[{{{{{#if:{{{ambassador_from|}}}|ambassador|minister}}_from}}} Ambassador to {{{country}}}{{#if:{{{minister_from|}}}|{{!}}{{{minister_from}}} Minister to {{{country}}}}}]]
+{{!}}-
+}}
+}}
+<!----------MP---------->
+{{#if:{{{constituency_AM|}}}{{{constituency_MP|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{#ifeq:{{{parliament|}}}|Ireland|[[Teachta Dála]]|{{#if:{{{constituency_AM|}}}|{{#if:{{{assembly|}}}|Member of the [[{{{assembly}}} Assembly]]|Assembly Member}}|Member of {{#if:{{{parliament|}}}|the [[{{{parliament}}} Parliament]]|Parliament}}}}}}<br />for {{{constituency_{{#if:{{{constituency_AM|}}}|AM|MP}}}}}
+{{!}}-
+}}
+{{#if:{{{riding|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{#if:{{{constituency_AM|}}}|{{#if:{{{assembly|}}}|Member of the [[{{{assembly}}} Assembly]]|Assembly Member}}|Member of {{#if:{{{parliament|}}}|the [[{{{parliament}}} Parliament]]|Parliament}}}}<br />for {{{riding}}}
+{{!}}-
+}}
+<!----------Majority Leader (State Senate)---------->
+{{#if:{{{majority_leader|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{majority_leader}}} {{#if:{{{state_senate|}}}|[[Majority Leader of the {{{state_senate}}} Senate]]|[[United States Senate Majority Leader]]}}
+{{!}}-
+}}
+<!----------Majority Floor Leader (State Senate)---------->
+{{#if:{{{majority_floor_leader|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{majority_floor_leader}}} [[Majority Floor Leader of the {{{state_senate}}} Senate]]
+{{!}}-
+}}
+<!----------Minority Leader (State Senate)---------->
+{{#if:{{{minority_leader|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{minority_leader}}} [[Minority Leader of the {{{state_senate}}} Senate]]
+{{!}}-
+}}
+<!----------Minority Floor Leader (State Senate)---------->
+{{#if:{{{minority_floor_leader|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} {{{minority_floor_leader}}} [[Minority Floor Leader of the {{{state_senate}}} Senate]]
+{{!}}-
+}}
+<!----------Congressman---------->
+{{#if:{{{state_legislature|}}}{{{state_senate|}}}{{{jr/sr|}}}{{{jr/sr and state|}}}||
+{{#if:{{{district|}}}|
+{{#if:{{{succeeding|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} Member-elect of the [[United States House of Representatives|U.S.&#32;House&#32;of&#32;Representatives]]{{#if:{{{state|}}}|&#32;from<br />{{{state}}}'s {{{district}}}}}&#32;district
+{{!}}-|{{#if:{{{state_assembly|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} Member of the [[{{{state_assembly|}}} {{#ifeq:{{{state_assembly|}}}|Nevada||{{#ifeq:{{{state_assembly|}}}|New Jersey|General|State}}}} Assembly]]<br />from {{#if:{{{state_assembly|}}}|the {{{district}}}}} district
+{{!}}-
+|{{#if:{{{district|}}}|
+! colspan=2 style="background-color: lavender; text-align: center" {{!}} Member of the [[{{#if:{{{state_house|}}} |{{{state_house}}}|{{#if:{{{state_delegate|}}}|{{{state_delegate}}}|United States }}}} {{#if:{{{state_delegate|}}}|House of Delegates|House of Representatives}}|{{#if:{{{state_house|}}} |{{{state_house}}}|{{#if:{{{state_delegate|}}}|{{{state_delegate}}}|U.S.}}}}&#32;{{#if:{{{state_delegate|}}}|House&#32;of&#32;Delegates|{{#if:{{{state_house|}}}| }}House&#32;of&#32;Representatives}}]]<br />from {{#if:{{{state_delegate|}}}|the |{{#if:{{{state_house|}}}|the |{{{state}}}'s}}}} {{{district}}} district{{#if:{{{prior_term|}}}|
+<br /><small>{{{prior_term}}}</small>}}
+{{!}}-
+}}
+}}
+}}
+}}
+}}
+<!----------Term---------->
+{{#if:{{{{{#if:{{{nominee|}}}|nominee|candidate}}|}}}||
+{{#if:{{{succeeding|}}}|
+{{!}}colspan=2 style="border-bottom:none; text-align:center"{{!}}{{nowrap|'''Taking office'''}}<br />{{{termstart}}}
+{{!}}-
+|{{#if: {{{term|}}}|
+{{!}}colspan=2 style="border-bottom:none; text-align:center"{{!}}{{nowrap|'''In office'''}}<br />{{{term}}}
+{{!}}-
+}}
+{{#if:{{{termstart|}}}|
+{{#if:{{{termend|}}}
+|<!--then term has start and end:-->
+{{!}}colspan=2 style="border-bottom:none; text-align:center"{{!}}{{nowrap|'''In office'''}}<br />{{{termstart}}}{{#iferror:{{#expr:{{{termstart}}}*{{{termend}}}}}|&nbsp;–&#32;|–}}{{{termend}}}{{#if:{{{alongside|}}}{{{co-leader|}}}|<br />{{#if:{{{alongside|}}}|Serving|Co-leading}}&#32;with&#32;{{#if:{{{alongside|}}}|{{{alongside}}}|{{{co-leader}}}}}}}
+{{!}}-
+|<!--else:--> <!--term is ongoing-->
+{{!}}colspan=2 style="text-align:center; background-color: lavender"{{!}} '''[[Incumbent]]'''
+{{!}}-
+}}
+{{#if:{{{termend|}}}
+|<!--then nothing else; term has ended-->
+|<!--else term is ongoing:-->
+{{!}}colspan=2 style="text-align:center"{{!}}{{nowrap|'''Assumed office'''}}&#32;<br />{{{termstart}}}{{#if:{{{alongside|}}}{{{co-leader|}}}|<br />{{#if:{{{alongside|}}}|Serving|Co-leader}}&#32;with&#32;{{#if:{{{alongside|}}}|{{{alongside}}}|{{{co-leader}}}}}}}
+{{!}}-
+}}
+}}
+}}
+}}
+<!---------- President, Prime Minister, Governor---------->
+{{#if:{{{monarch|}}}|
+! style="text-align:left;" {{!}} Monarch
+{{!}} {{{monarch}}}
+{{!}}-
+}}
+{{#if:{{{president|}}}|
+! style="text-align:left;" {{!}} President
+{{!}} {{{president}}}
+{{!}}-
+}}
+{{#if:{{{governor_general|}}}|
+! style="text-align:left;" {{!}} {{nowrap|Governor General}}
+{{!}} {{{governor_general}}}
+{{!}}-
+}}
+{{#if:{{{primeminister|}}}|
+! style="text-align:left;" {{!}} {{nowrap|Prime Minister}}
+{{!}} {{{primeminister}}}
+{{!}}-
+}}
+{{#if:{{{chancellor|}}}|
+! style="text-align:left;" {{!}} Chancellor
+{{!}} {{{chancellor}}}
+{{!}}-
+}}
+{{#if:{{{minister|}}}|
+! style="text-align:left;" {{!}} Minister
+{{!}} {{{minister}}}
+{{!}}-
+}}
+{{#if:{{{taoiseach|}}}|
+! style="text-align:left;" {{!}} Taoiseach
+{{!}} {{{taoiseach}}}
+{{!}}-
+}}
+{{#if:{{{firstminister|}}}|
+! style="text-align:left;" {{!}} {{nowrap|First Minister}}
+{{!}} {{{firstminister}}}
+{{!}}-
+}}
+{{#if:{{{chiefminister|}}}|
+! style="text-align:left;" {{!}} {{nowrap|Chief Minister}}
+{{!}} {{{chiefminister}}}
+{{!}}-
+}}
+{{#if:{{{premier|}}}|
+! style="text-align:left;" {{!}} Premier
+{{!}} {{{premier}}}
+{{!}}-
+}}
+{{#if:{{{governor|}}}|
+! Governor
+{{!}} {{{governor}}}
+{{!}}-
+}}
+{{#if:{{{lieutenant_governor|}}}|
+! style="text-align:left;" {{!}} {{nowrap|Lieutenant Governor}}
+{{!}} {{{lieutenant_governor}}}
+{{!}}-
+}}
+<!---------- Vice president/s, Vice Prime Minister/s, Deputy/ies, Lieutenant/s---------->
+{{#if:{{{vicepresident|}}}|
+! style="text-align:left;" {{!}} {{nowrap|{{#if:{{{office|}}}|{{#ifeq:{{isValidPageName|Vice {{{office}}}}}|valid|[[Vice {{{office}}}|Vice President]]|Vice President}}|Vice President}}}}
+{{!}} {{{vicepresident}}}
+{{!}}-
+}}
+{{#if:{{{vicegovernor|}}}|
+! style="text-align:left;" {{!}} {{nowrap|{{#if:{{{office|}}}|{{#ifeq:{{isValidPageName|Vice {{{office}}}}}|valid|[[Vice {{{office}}}|Vice Governor]]|Vice Governor}}|Vice Governor}}}}
+{{!}} {{{vicegovernor}}}
+{{!}}-
+}}
+{{#if:{{{viceprimeminister|}}}|
+! style="text-align:left;" {{!}} {{nowrap|{{#if:{{{office|}}}|[[Vice {{{office}}}|Vice PM]]|Vice [[Prime Minister|PM]]}}}}
+{{!}} {{{viceprimeminister}}}
+{{!}}-
+}}
+{{#if:{{{vicepremier|}}}|
+! style="text-align:left;" {{!}} {{nowrap|{{#if:{{{office|}}}|{{#ifeq:{{isValidPageName|Vice {{{office}}}}}|valid|[[Vice {{{office}}}|Vice Premier]]|Vice Premier}}|Vice Premier}}}}
+{{!}} {{{vicepremier}}}
+{{!}}-
+}}
+{{#if:{{{deputy|}}}|
+! style="text-align:left;" {{!}} {{#if:{{{office|}}}|{{#ifeq:{{isValidPageName|Deputy {{{office}}}}}|valid|[[Deputy {{{office}}}|Deputy]]|Deputy}}|Deputy}}
+{{!}} {{{deputy}}}
+{{!}}-
+}}
+{{#if:{{{leader|}}}|
+! style="text-align:left;" {{!}} Leader
+{{!}} {{{leader}}}
+{{!}}-
+}}
+{{#if:{{{lieutenant|}}}|
+! style="text-align:left;" {{!}} {{#if:{{{office|}}}|[[Lieutenant {{{office}}}|Lieutenant]]|Lieutenant}}
+{{!}} {{{lieutenant}}}
+{{!}}-
+}}
+{{#if:{{{nominator|}}}|
+! style="text-align:left;" {{!}} {{nowrap|Nominated by}}
+{{!}} {{{nominator}}}
+{{!}}-
+}}
+{{#if:{{{appointer|}}}|
+! style="text-align:left;" {{!}} {{nowrap|Appointed by}}
+{{!}} {{{appointer}}}
+{{!}}-
+}}
+<!---------- Blank fields ---------->
+{{#if:{{{1namedata|}}}|
+! style="text-align:left;" {{!}} {{{1blankname|}}}
+{{!}} {{{1namedata}}}
+{{!}}-
+}}
+{{#if:{{{2namedata|}}}|
+! style="text-align:left;" {{!}} {{{2blankname|}}}
+{{!}} {{{2namedata}}}
+{{!}}-
+}}
+{{#if:{{{3namedata|}}}|
+! style="text-align:left;" {{!}} {{{3blankname|}}}
+{{!}} {{{3namedata}}}
+{{!}}-
+}}
+{{#if:{{{4namedata|}}}|
+! style="text-align:left;" {{!}} {{{4blankname|}}}
+{{!}} {{{4namedata}}}
+{{!}}-
+}}
+{{#if:{{{5namedata|}}}|
+! style="text-align:left;" {{!}} {{{5blankname|}}}
+{{!}} {{{5namedata}}}
+{{!}}-
+}}
+<!----------Predecessor/successor---------->
+{{#if:{{{runningmate|}}}|
+! style="text-align:left;" {{!}} {{nowrap|Running mate}}
+{{!}} {{{runningmate}}}
+{{!}}-
+}}
+{{#if:{{{opponent|}}}|
+! style="text-align:left;" {{!}} Opponent(s)
+{{!}} {{{opponent}}}
+{{!}}-
+}}
+{{#if:{{{incumbent|}}}|
+! style="text-align:left;" {{!}} Incumbent
+{{!}} {{{incumbent}}}
+{{!}}-
+}}
+{{#if:{{{succeeding|}}}|
+! style="text-align:left;" {{!}} Succeeding
+{{!}} {{{succeeding}}}
+{{!}}-
+|{{#if:{{{preceding|}}}|
+! style="text-align:left;" {{!}} Preceding
+{{!}} {{{preceding}}}
+{{!}}-
+}}
+{{#if:{{{{{#if:{{{predecessor|}}}|predecessor|preceded}}|}}} |
+! style="text-align:left;" {{!}} {{nowrap|Preceded by}}
+{{!}} {{{{{#if:{{{predecessor|}}}|predecessor|preceded}}|}}}
+{{!}}-
+}}
+{{#switch:{{{{{#if:{{{successor|}}}|successor|succeeded}}|}}}
+| Incumbent
+| '''Incumbent'''
+| ''Incumbent''
+| [[Incumbent]]
+| incumbent
+| '''incumbent'''
+| ''incumbent''
+| [[incumbent]] =
+|{{#if:{{{{{#if:{{{successor|}}}|successor|succeeded}}|}}} |
+! style="text-align:left;" {{!}} {{nowrap|Succeeded by}}
+{{!}} {{{{{#if:{{{successor|}}}|successor|succeeded}}|}}} }}
+{{!}}-
+}}}}
+<!-----Constituency----->
+{{#if:{{{constituency|}}}|
+! style="text-align:left;" {{!}} Constituency
+{{!}} {{{constituency}}}
+{{!}}-
+}}
+<!-----Majority----->
+{{#if:{{{majority|}}}|
+! style="text-align:left;" {{!}} Majority
+{{!}} {{{majority}}}
+{{!}}-
+}}</includeonly><noinclude>{{doc}}</noinclude>

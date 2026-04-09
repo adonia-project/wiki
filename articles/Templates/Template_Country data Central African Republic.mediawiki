@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Central African Republic
+| flag alias = Flag of the Central African Republic.svg
+| link alias-military = Central African Armed Forces
+| link alias-army = Central African Armed Forces{{!}}Central African Ground Forces
+| link alias-air force = Central African Republic Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = CAF
+| redir2 = CTA
+</noinclude>
+}}

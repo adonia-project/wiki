@@ -1,0 +1,243 @@
+{{Infobox
+| bodyclass      = vcard
+| bodystyle      = width: 23em;
+| abovestyle     = 
+| headerstyle    = background-color: #deb887;
+
+| title      = {{if empty|{{{name|}}}|{{PAGENAMEBASE}}}}
+
+| image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|{{{image_size|}}}}}}|sizedefault=250px|title={{if empty|{{{name|}}}|{{PAGENAMEBASE}}}}}}
+| caption = {{{caption|}}}
+
+| image2  = {{#if:{{{pushpin_map|{{{locmapin|}}}}}}|
+{{location map|{{{pushpin_map|{{{locmapin|}}}}}}
+|border = infobox
+|alt = {{{pushpin_map_alt|{{{map_alt|}}}}}}
+|caption ={{if empty|{{{map_caption|}}}|Location in {{#invoke:Location map|data|{{{pushpin_map|{{{locmapin}}}}}}|name}} }}
+|float = center
+|width = {{{pushpin_mapsize|{{{map_width|}}}}}}
+|default_width = 235
+|relief= {{if empty|{{{pushpin_relief|}}}|{{{map_relief|}}}|{{{relief|}}}}}
+|AlternativeMap = {{{pushpin_image|}}}
+|overlay_image = {{{pushpin_overlay|}}}
+|coordinates = {{{coordinates|{{{Coor dms|}}}}}}
+|label = {{if empty|{{{pushpin_label|}}}|{{{map_label|}}}|{{{name|}}}|{{PAGENAMEBASE}}}}
+|mark = {{{mark|}}}
+|marksize = {{if empty|{{{mark_width|}}}|7}}
+|position = {{if empty|{{{pushpin_label_position|}}}|{{{label_position|}}}|{{{map_label_position|}}}|none}}
+}}
+}}
+
+| label1     = Location
+| data1      = {{{location|}}}
+
+| label2     = Coordinates<!--coord_parameters-->
+| data2      = {{{coordinates|{{{Coor dms|}}}}}}
+
+| label3     = Name&nbsp;as&nbsp;founded
+| data3      = {{{originalname|}}}
+
+| label4     = English translation
+| data4      = {{{translation|}}}
+
+| label5     = [[Patron saint|Patron]]
+| data5      = {{{namesake|}}}
+
+| label6     = Nickname(s)
+| data6      = {{{nickname|}}}
+
+| label7     = Founding&nbsp;date
+| data7      = {{{founded|}}}
+
+| label8     = Founding priest(s)
+| data8      = {{{foundedby|}}}
+
+| label9     = Area
+| data9      = {{{area|}}}
+
+| label10    = Built
+| data10     = {{{built|}}}
+
+| label11    = Architect
+| data11     = {{{architect|}}}
+
+| label12    = Architectural style(s)
+| data12     = {{{architecture|}}}
+
+| label13    = Founding&nbsp;Order
+| data13     = {{{foundingorder|}}}
+
+| label14    = Headquarters&nbsp;of&nbsp;the&nbsp;Alta California&nbsp;Mission&nbsp;System
+| data14     = {{{headquarters|}}}
+
+| label15    = [[Spanish missions in California#Military districts|Military&nbsp;district]]
+| data15     = {{{militarydistrict|}}}
+
+| label16    = [[Native Americans in the United States|Native&nbsp;tribe(s)]]<br /><small>''Spanish name(s)''</small>
+| data16     = {{{nativetribe|}}}
+
+| label17    = Native place name(s)
+| data17     = {{{placename|}}}
+
+| label18    = [[Baptism]]s
+| data18     = {{{baptisms|}}}
+
+| label19    = [[Confirmation]]s
+| data19     = {{{confirmations|}}}
+
+| label20    = Marriages
+| data20     = {{{marriages|}}}
+
+| label21    = Burials
+| data21     = {{{burials|}}}
+
+| label22    = [[wikt:neophyte|Neophyte]] population
+| data22     = {{{neophytes|}}}
+
+| label23    = [[Secularization|Secularized]]
+| data23     = {{{secularized|}}}
+
+| label24    = Returned to the [[Catholic Church|Church]]
+| data24     = {{{returned|}}}
+
+| label25    = Governing body
+| data25     = {{{owner|}}}
+
+| label26    = Current&nbsp;use
+| data26     = {{{currentuse|}}}
+
+
+<!-- designation1 section -->
+| data32 = {{#if:{{{designation1|}}}{{{designation1_offname|}}}{{{designation1_type|}}}{{{designation1_criteria|}}}{{{designation1_date|}}}{{{delisted1_date|}}}{{{designation1_partof|}}}{{{designation1_number|}}}{{{designation1_free1value|}}}{{{designation1_free2value|}}}{{{designation1_free3value|}}}
+   |{{Infobox | child = yes
+   | header2 = {{designation/divbox|{{{designation1|}}}|delisted={{{delisted1_date|}}}}}
+   | data3 = {{#if:{{{designation1_offname|}}}|''Official name: {{{designation1_offname}}}''}}
+   | label4 = Type
+   | data4 = {{{designation1_type|}}}
+   | label6 = Criteria
+   | data6 = {{{designation1_criteria|}}}
+   | label8 = Designated
+   | data8 = {{{designation1_date|}}}
+   | label10 = Delisted
+   | data10 = {{{delisted1_date|}}}
+   | label12 = Part of
+   | data12 = {{{designation1_partof|}}}
+   | label14 = Reference&nbsp;no.
+   | data14 = {{{designation1_number|}}}
+   | label16 = {{{designation1_free1name|}}}
+   | data16 = {{{designation1_free1value|}}}
+   | label18 = {{{designation1_free2name|}}}
+   | data18 = {{{designation1_free2value|}}}
+   | label20 = {{{designation1_free3name|}}}
+   | data20 = {{{designation1_free3value|}}}
+}}}}
+
+<!-- designation2 section -->
+| data33 = {{#if:{{{designation2|}}}{{{designation2_offname|}}}{{{designation2_type|}}}{{{designation2_criteria|}}}{{{designation2_date|}}}{{{delisted1_date|}}}{{{designation2_partof|}}}{{{designation2_number|}}}{{{designation2_free1value|}}}{{{designation2_free2value|}}}{{{designation2_free3value|}}}
+   |{{Infobox | child = yes
+   | header2 = {{designation/divbox|{{{designation2|}}}|delisted={{{delisted2_date|}}}}}
+   | data3 = {{#if:{{{designation2_offname|}}}|''Official name: {{{designation2_offname}}}''}}
+   | label4 = Type
+   | data4 = {{{designation2_type|}}}
+   | label5 = Criteria
+   | data5 = {{{designation2_criteria|}}}
+   | label6 = Designated
+   | data6 = {{{designation2_date|}}}
+   | label7 = Delisted
+   | data7 = {{{delisted2_date|}}}
+   | label8 = Part of
+   | data8 = {{{designation2_partof|}}}
+   | label9 = Reference&nbsp;no.
+   | data9 = {{{designation2_number|}}}
+   | label10 = {{{designation2_free1name|}}}
+   | data10 = {{{designation2_free1value|}}}
+   | label11 = {{{designation2_free2name|}}}
+   | data11 = {{{designation2_free2value|}}}
+   | label12 = {{{designation2_free3name|}}}
+   | data12 = {{{designation2_free3value|}}}
+}}}}
+
+<!-- designation3 section -->
+| data34 = {{#if:{{{designation3|}}}{{{designation3_offname|}}}{{{designation3_type|}}}{{{designation3_criteria|}}}{{{designation3_date|}}}{{{delisted1_date|}}}{{{designation3_partof|}}}{{{designation3_number|}}}{{{designation3_free1value|}}}{{{designation3_free2value|}}}{{{designation3_free3value|}}}
+   |{{Infobox | child = yes
+   | header2 = {{designation/divbox|{{{designation3|}}}|delisted={{{delisted3_date|}}}}}
+   | data3 = {{#if:{{{designation3_offname|}}}|''Official name: {{{designation3_offname}}}''}}
+   | label4 = Type
+   | data4 = {{{designation3_type|}}}
+   | label5 = Criteria
+   | data5 = {{{designation3_criteria|}}}
+   | label6 = Designated
+   | data6 = {{{designation3_date|}}}
+   | label7 = Delisted
+   | data7 = {{{delisted3_date|}}}
+   | label8 = Part of
+   | data8 = {{{designation3_partof|}}}
+   | label9 = Reference&nbsp;no.
+   | data9 = {{{designation3_number|}}}
+   | label10 = {{{designation3_free1name|}}}
+   | data10 = {{{designation3_free1value|}}}
+   | label11 = {{{designation3_free2name|}}}
+   | data11 = {{{designation3_free2value|}}}
+   | label12 = {{{designation3_free3name|}}}
+   | data12 = {{{designation3_free3value|}}}
+}}}}
+
+<!-- designation4 section -->
+| data35 = {{#if:{{{designation4|}}}{{{designation4_offname|}}}{{{designation4_type|}}}{{{designation4_criteria|}}}{{{designation4_date|}}}{{{delisted1_date|}}}{{{designation4_partof|}}}{{{designation4_number|}}}{{{designation4_free1value|}}}{{{designation4_free2value|}}}{{{designation4_free3value|}}}
+   |{{Infobox | child = yes
+   | header2 = {{designation/divbox|{{{designation4|}}}|delisted={{{delisted4_date|}}}}}
+   | data3 = {{#if:{{{designation4_offname|}}}|''Official name: {{{designation4_offname}}}''}}
+   | label4 = Type
+   | data4 = {{{designation4_type|}}}
+   | label5 = Criteria
+   | data5 = {{{designation4_criteria|}}}
+   | label6 = Designated
+   | data6 = {{{designation4_date|}}}
+   | label7 = Delisted
+   | data7 = {{{delisted4_date|}}}
+   | label8 = Part of
+   | data8 = {{{designation4_partof|}}}
+   | label9 = Reference&nbsp;no.
+   | data9 = {{{designation4_number|}}}
+   | label10 = {{{designation4_free1name|}}}
+   | data10 = {{{designation4_free1value|}}}
+   | label11 = {{{designation4_free2name|}}}
+   | data11 = {{{designation4_free2value|}}}
+   | label12 = {{{designation4_free3name|}}}
+   | data12 = {{{designation4_free3value|}}}
+}}}}
+
+<!-- designation5 section -->
+| data36 = {{#if:{{{designation5|}}}{{{designation5_offname|}}}{{{designation5_type|}}}{{{designation5_criteria|}}}{{{designation5_date|}}}{{{delisted1_date|}}}{{{designation5_partof|}}}{{{designation5_number|}}}{{{designation5_free1value|}}}{{{designation5_free2value|}}}{{{designation5_free3value|}}}
+   |{{Infobox | child = yes
+   | header2 = {{designation/divbox|{{{designation5|}}}|delisted={{{delisted5_date|}}}}}
+   | data3 = {{#if:{{{designation5_offname|}}}|''Official name: {{{designation5_offname}}}''}}
+   | label4 = Type
+   | data4 = {{{designation5_type|}}}
+   | label5 = Criteria
+   | data5 = {{{designation5_criteria|}}}
+   | label6 = Designated
+   | data6 = {{{designation5_date|}}}
+   | label7 = Delisted
+   | data7 = {{{delisted5_date|}}}
+   | label8 = Part of
+   | data8 = {{{designation5_partof|}}}
+   | label9 = Reference&nbsp;no.
+   | data9 = {{{designation5_number|}}}
+   | label10 = {{{designation5_free1name|}}}
+   | data10 = {{{designation5_free1value|}}}
+   | label11 = {{{designation5_free2name|}}}
+   | data11 = {{{designation5_free2value|}}}
+   | label12 = {{{designation5_free3name|}}}
+   | data12 = {{{designation5_free3value|}}}
+}}}}
+
+| header37   = {{#if: {{{website|}}} |Website}}
+
+| data38     = {{{website|}}}
+
+| data39     = {{{embedded|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox Spanish missions in the Americas with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox Spanish missions in the Americas]] with unknown parameter "_VALUE_"|ignoreblank=y| architect | architecture | area | baptisms | built | burials | caption | confirmations | Coor dms | coordinates | currentuse | delisted1_date | delisted2_date | delisted3_date | delisted4_date | delisted5_date | designation1 | designation1_criteria | designation1_date | designation1_free1name | designation1_free1value | designation1_free2name | designation1_free2value | designation1_free3name | designation1_free3value | designation1_number | designation1_offname | designation1_partof | designation1_type | designation2 | designation2_criteria | designation2_date | designation2_free1name | designation2_free1value | designation2_free2name | designation2_free2value | designation2_free3name | designation2_free3value | designation2_number | designation2_offname | designation2_partof | designation2_type | designation3 | designation3_criteria | designation3_date | designation3_free1name | designation3_free1value | designation3_free2name | designation3_free2value | designation3_free3name | designation3_free3value | designation3_number | designation3_offname | designation3_partof | designation3_type | designation4 | designation4_criteria | designation4_date | designation4_free1name | designation4_free1value | designation4_free2name | designation4_free2value | designation4_free3name | designation4_free3value | designation4_number | designation4_offname | designation4_partof | designation4_type | designation5 | designation5_criteria | designation5_date | designation5_free1name | designation5_free1value | designation5_free2name | designation5_free2value | designation5_free3name | designation5_free3value | designation5_number | designation5_offname | designation5_partof | designation5_type | embedded | founded | foundedby | foundingorder | headquarters | image | imagesize | label_position | location | locmapin | map_alt | map_caption | map_label | map_label_position | map_relief | map_width | mark | mark_width | marriages | militarydistrict | name | namesake | nativetribe | neophytes | nickname | originalname | owner | placename | pushpin_image | pushpin_label | pushpin_label_position | pushpin_map | pushpin_map_alt | pushpin_mapsize | pushpin_overlay | pushpin_relief | relief | returned | secularized | translation | website 
+}}<noinclude>
+{{documentation}}
+</noinclude>

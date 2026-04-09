@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+|alias = Crown of Aragon
+|shortname alias = Aragon
+|flag alias = Siñal d'Aragón.svg
+|flag alias-early = Royal Banner of Aragón (Early Style).svg
+|link alias-early = Crown of Aragon
+|border-early = 
+|size = {{{size|}}}
+|name = {{{name|}}}
+|variant = {{{variant|}}}
+<noinclude>
+|var1 = early
+|related1 = Catalonia
+|cat = Aragonese crown
+</noinclude>
+}}

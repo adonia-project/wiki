@@ -1,0 +1,23 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+{{Parameter names example|name|image|image_upright|alt|caption|yearsactive|country|majorfigures|influences|influenced}}
+<syntaxhighlight lang="wikitext" style="overflow: auto;">
+{{Infobox cultural movement
+| name         = 
+| image        = 
+| alt          = 
+| caption      = 
+| yearsactive  = 
+| country      = 
+| majorfigures = 
+| influences   = 
+| influenced   =
+}}
+</syntaxhighlight>
+<includeonly>{{Sandbox other||
+{{#ifeq:{{PAGENAME}}|{{BASEPAGENAME}}|<!-- CATEGORIES HERE, THANKS -->
+[[Category:Film infobox templates|{{PAGENAME}}]]
+
+}}}}</includeonly>

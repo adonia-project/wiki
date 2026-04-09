@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Mercosur
+| flag alias = Flag of Mercosur.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

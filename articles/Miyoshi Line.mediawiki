@@ -1,0 +1,483 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox rail line
+| name              = Miyoshi Line
+| native_name       = 三好線
+| native_name_lang  = ja
+| color             = {{rcr|Okami Metro|M}}
+| logo              = [[File:Okami Metro Miyoshi line symbol.svg|50px|alt=Miyoshi Line Symbol]]
+| image             = Okami-Metro Series4000-01.png
+| image_width       = 300px
+| caption           = A Series 4000 train with lavender striping at Yuyama Chuo Station.
+| type              = [[w:Rapid transit|Rapid transit]]
+| system            = [[Okami Metro]]
+| status            = Operational
+| locale            = [[Okami]], [[Okaiken]]
+| start             = [[Yuyama Chuo Station|Yuyama Chuo]] (M01)
+| end               = [[Okada Station|Okada]] (M42)
+| stations          = 42
+| daily_ridership   = 1.45 million (FY2025)
+| open              = {{start date and age|1935|06|15|df=y}}
+| owner             = [[Okami Metro]]
+| linelength        = {{cvt|52.1|km|mi|abbr=on}}
+| gauge             = {{RailGauge|sg|allk=on}}
+| electrification   = {{1500 V DC|conductor=y}} (Overhead catenary)
+| map               = [[File:Okami Metro Miyoshi Line Map.png|300px]]
+| map_name          = Route Map
+| map_state         = collapsed
+}}
+
+The {{nihongo|'''Miyoshi Line'''|三好線|Miyoshi-sen}} is a high-capacity rapid transit line in [[Okami]], Okaiken, operated by [[Okami Metro]]. Spanning 52.1 kilometers from the northern suburban peaks of Yuyama to the southern industrial waterfront of Okada, it serves as the critical north–south arterial spine of the metropolitan mass transit network. On maps, diagrams, and signage, the line is officially designated as Line 1 and is identified by the color Lavender and the letter M.
+
+As the oldest and most vital route in the system, the Miyoshi Line handles the highest passenger volume in the region. Its alignment follows the historic Miyoshi-suji Avenue, cutting through the heart of [[Tenkyo-jima]] and the city's premier administrative and commercial districts. It is currently the only line in the Okami Metro network designed to accommodate heavy-duty 10-car formations to manage extreme peak-hour density.
+
+==History==
+
+===Conception and Early Development (1920–1935)===
+The origins of the Miyoshi Line are inextricably linked to the Great Okami Modernization Plan of the 1920s. Okami experienced an unprecedented population explosion. The existing surface tram network, primarily the Okami City Tram, was overwhelmed, with streetcars often forced to move at a walking pace through the gridlocked Miyoshi-suji corridor. In 1929, the Municipal High-Speed Railway Bureau was established to oversee the construction of a subterranean alternative. 
+
+[[File:Miyoshi_Construction_1930s.jpg|thumb|left|250px|Construction workers utilizing the pneumatic caisson method near the Garyu River in 1932.]]
+
+Ground was broken in early 1930. The project was immediately recognized as an engineering marvel, as much of the city sat on saturated alluvial soil. Engineers adopted the [[w:Pneumatic caisson|pneumatic caisson]] method—the first major application of the technology in the empire—to sink station boxes and tunnel segments beneath the [[Garyu River]] and the [[Soryu River]]. The inaugural section, running from Okami Central (M20) to Hozumi-Oiwake (M15), opened on June 15, 1935. These "underground palaces" featured high vaulted ceilings, [[w:Art Deco|Art Deco]] lighting, and glazed tilework, serving as symbols of Okami's industrial prowess and civic pride.
+
+===Wartime Resilience and Post-War Recovery (1936–1959)===
+During the late stages of the [[Great Adonian War]], the line's deep-level tunnels served as critical air-raid shelters for the population. While surface structures at the northern terminus sustained significant damage from firebombing campaigns conducted by Illypnian coalition forces, the tunnels remained structurally sound due to their depth and reinforced concrete linings. Service resumed within weeks of the 1952 armistice, providing a vital lifeline for the city's reconstruction efforts. In 1951, the Southern Reach to Rokumanji (M30) was completed, providing a necessary link to the southern private railway terminals and facilitating the return of displaced citizens to the southern wards.
+
+===The Adonian Games Push and Expansion (1960–1979)===
+The [[Adonian Games]] of 1966 spurred a massive northern push to Tatarabashi, which involved complex engineering to tunnel beneath the heavy rail yards of the Okaiken Railways (OR) mainline. This era marked the transition from the original 6-car platforms to 8-car configurations to support international tourist traffic. The western segment, connecting Yuyama Chuo to Kamiya-cho, was prioritized to shuttle spectators to the newly constructed [[Okami Olympic Stadium]] in the Hozumi district.
+
+However, the latter half of the decade was marked by significant disruption. The [[Quiet Revolution]] of 1967–1968 brought construction to a near-standstill as the nation navigated the tumultuous transition from the Imperial system to the [[Federal Republic of Okaiken|Federal Republic]]. The provisional government of [[Yoshimizu Ohno]] froze all major infrastructure spending for three years, delaying the eastern extensions until work resumed in August 1971 under the new republican administration. Material prices had surged during the economic restructuring, and the original contractors had dissolved, forcing the Metro Bureau to renegotiate contracts and redesign the eastern portals to accommodate revised safety standards enacted following the [[1971 Ise Earthquake]].
+
+Throughout the 1970s, the focus shifted to the Technoport Okami project, a massive reclamation effort in the Iyonada bay. The Miyoshi Line was extended toward the coast in phases, reaching Takasago (M37) in 1974. This period saw the introduction of the first stainless-steel rolling stock, replacing the aging wooden-accented cars from the pre-war era.
+
+===The Modern Era and Yuyama Completion (1980–Present)===
+The final piece of the northern puzzle, the Yuyama Extension, was plagued by decades of geological instability in the Tatara mountain range. Advanced [[w:Tunnel boring machine|tunnel boring machines]] (TBMs) were eventually utilized to complete the link to Yuyama Chuo (M01) in the late 1990s, finalizing the 42-station route that exists today. In 2015, the Miyoshi Renaissance project was launched to modernize station accessibility and restore historic architectural features ahead of the Okami World Expo 2030.
+
+==Technical Engineering==
+
+===The Miyoshi-Nagashima Deep-Bore Section===
+The segment surrounding Miyoshi-Nagashima Station (M22) represents one of the most difficult engineering feats in the history of rapid transit. To reach the island of Nagashima, the line had to navigate a three-way crossing of the Soryu River and several high-density canal systems. Unlike the shallow-cut-and-cover sections used in the northern wards, the Miyoshi-Nagashima underground line was constructed as a double-decked deep-bore tunnel. To avoid disturbing the historical foundations of the Nagashima Merchant Quarter, engineers utilized specialized shield tunneling machines that operated at a depth of 45 meters below sea level. The station itself was built within a massive circular caisson, which now houses the metro platforms at the bottom and a high-speed express bypass track on the level above. This stacked configuration allows for future expansion while maintaining the structural integrity of the surrounding island.
+
+[[File:Miyoshi_Nagashima_CrossSection.png|thumb|right|300px|A cross-section diagram of the stacked tunnel configuration at Miyoshi-Nagashima.]]
+
+===Hydrological Management===
+Because the line crosses all five major Dragon Rivers, every station between M14 and M35 is equipped with massive watertight floodgates. These gates, which can be deployed in under 120 seconds, are designed to protect the core Tenkyo-jima tunnels in the event of a catastrophic tsunami or river levee failure. The pump systems at Okami Central are capable of moving 50,000 liters of water per minute, reflecting the extreme engineering requirements of building a 1:1 scale network on an alluvial delta.
+
+==Ridership and Demographics==
+
+The Miyoshi Line serves a catchment area of approximately 16.2 million residents across the Okami Metropolis, deriving its high ridership from the dense residential corridors of Yuyama, Tobe, and Masaki, as well as the commercial heart of the city centered on Okami Central Station. Based on ridership modeling and the 2025 census data, the line captures approximately 9.4% of its catchment population as daily riders—a capture rate consistent with mature rapid transit systems in major metropolitan areas.
+
+{| class="wikitable sortable"
+|+ Demographic breakdown by corridor segment
+|-
+! Corridor Segment
+! Stations Served
+! Primary Districts
+! Catchment Population
+! Est. Daily Riders
+|-
+| '''Western Suburban''' || Yuyama Chuo – Sugisawa || Yuyama, Sugisawa || 1,388,670 || 130,529
+|-
+| '''Central-West''' || Iwaida – Kandacho || Iwaida, Kanda || 725,833 || 68,228
+|-
+| '''Core Commercial''' || Kamiya-cho – Okami Central || Kamiya, Honmachi || 8,259,189 || 776,364
+|-
+| '''Government District''' || Otemachi – Mugishima || Otemachi, Miyoshi || 2,401,554 || 225,746
+|-
+| '''Eastern Commercial''' || Motomachi – Tobe Kaigan || Motomachi, Tobe || 1,447,538 || 136,069
+|-
+| '''Industrial Transition''' || Koizumi – Nishi-Masaki || Koizumi, Masaki || 1,133,421 || 106,542
+|-
+| '''Eastern Terminus''' || Masaki – Okada || Masaki, Okada || 846,229 || 79,546
+|-
+! '''Total'''
+! 42
+! —
+! '''16,202,434'''
+! '''1,522,984'''
+|}
+
+The Core Commercial segment, anchored by [[Okami Central Station]] and the surrounding administrative districts, accounts for approximately 51% of total daily ridership. This concentration reflects the line's role as the primary feeder for the [[Harujima Shinkansen]] network and the numerous government ministries concentrated in the Otemachi area.
+
+Peak-hour ridership is characterized by extreme directional imbalance. Morning rush hours (7:00–9:00 AM) see heavy southbound traffic as commuters from the northern residential suburbs of Yuyama and Tobe converge on the central business district. Evening rush hours (5:00–7:00 PM) reverse this pattern, with the northern platforms at Okami Central experiencing platform crowding indices exceeding 180% during the most congested 15-minute intervals.
+
+==Rolling Stock==
+
+The Miyoshi Line utilizes a specialized fleet of high-capacity commuter trains to handle its extreme ridership. All trains are 10-car sets, the longest in the metro system.
+
+[[File:OkamiMetro_2000Series.jpg|thumb|left|220px|The veteran 2000 series at Rokumanji Station.]]
+
+===2000 Series===
+The 2000 series was the workhorse of the 1980s and 90s. These refurbished 10-car sets feature lavender exterior striping and were the first in Okaiken to introduce automated station announcements. They are constructed of unpainted stainless steel to reduce maintenance costs in the humid coastal environment of Suminoe. Despite their age, they remain popular for their spacious transverse seating in the end cars.
+
+===30000 Series===
+Introduced in 2011 to replace the original 1960s-era stock, these trains feature energy-efficient [[w:Variable-frequency drive|VVVF]] inverters and improved climate control. The interior features wood-grain panels as a tribute to the original 1935 Art Deco station designs. They are equipped with full-color LCD displays above every door, providing real-time transfer information and news updates.
+
+[[File:OkamiMetro_4000Series_Interior.jpg|thumb|right|220px|Interior of the 4000 series showing the digital information displays.]]
+
+===4000 Series===
+The newest addition to the fleet, launched in 2023. These trains feature a Lavender-Modern aesthetic, wider passenger doors to speed up boarding at busy hubs like Okami Central, and onboard digital signage in four languages. They utilize advanced SiC (Silicon Carbide) power modules, making them 30% more energy-efficient than the 30000 series. They are being phased in as the primary stock for the Okami World Expo 2030, featuring onboard Wi-Fi and universal design spaces in every car.
+
+==Station List==
+
+All stations are located in Okami City (大紙市).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|M}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|M}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|M}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|M}};" | Distance (km)
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|M}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|M}};" | Location (Coordinates)
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|M}};" | Between
+! style="border-bottom:3px solid #{{Okami Metro color|M}};" | Total
+|-
+| {{OMSN|M|01}}
+| [[Yuyama Chuo Station|Yuyama Chuo]]
+| 友山中央
+| -
+| 0.0
+| 
+| {{coord|-16.65|158.02|display=inline}}
+|-
+| {{OMSN|M|02}}
+| [[Higashi-Yuyama Station|Higashi-Yuyama]]
+| 東友山
+| 2.0
+| 2.0
+| 
+| {{coord|-16.66|158.03|display=inline}}
+|-
+| {{OMSN|M|03}}
+| [[Nishi-Sugisawa Station|Nishi-Sugisawa]]
+| 西杉沢
+| 2.8
+| 4.8
+| 
+| {{coord|-16.66|158.06|display=inline}}
+|-
+| {{OMSN|M|04}}
+| [[Hon-Sugisawa Station|Hon-Sugisawa]]
+| 本杉沢
+| 2.2
+| 7.0
+| 
+| {{coord|-16.66|158.08|display=inline}}
+|-
+| {{OMSN|M|05}}
+| [[Sakura Station|Sakura]]
+| 佐倉
+| 1.8
+| 8.8
+| 
+| {{coord|-16.67|158.09|display=inline}}
+|-
+| {{OMSN|M|06}}
+| [[Iwaida Station|Iwaida]]
+| 岩井田
+| 2.0
+| 10.8
+| 
+| {{coord|-16.68|158.10|display=inline}}
+|-
+| {{OMSN|M|07}}
+| [[Kanda Park Station|Kanda Park]]
+| 神田公園
+| 1.4
+| 12.2
+| 
+| {{coord|-16.70|158.11|display=inline}}
+|-
+| {{OMSN|M|08}}
+| [[Kandacho Station|Kandacho]]
+| 神田町
+| 1.6
+| 13.8
+| 
+| {{coord|-16.70|158.13|display=inline}}
+|-
+| {{OMSN|M|09}}
+| [[Tatara Station|Tatara]]
+| 多々良
+| 2.0
+| 15.8
+| 
+| {{coord|-16.71|158.14|display=inline}}
+|-
+| {{OMSN|M|10}}
+| [[Mizusawa Station|Mizusawa]]
+| 水沢
+| 1.1
+| 16.9
+| {{rint|private|matsubara}} Matsubara Electric Railway
+| {{coord|-16.72|158.15|display=inline}}
+|-
+| {{OMSN|M|11}}
+| [[Kawabata-kyo Station|Kawabata-kyo]]
+| 川端京
+| 1.4
+| 18.3
+| {{rint|okami|G}} Tedorigawa Line
+| {{coord|-16.72|158.16|display=inline}}
+|-
+| {{OMSN|M|12}}
+| [[Misake Station|Misake]]
+| 味酒
+| 2.4
+| 20.7
+| 
+| {{coord|-16.72|158.18|display=inline}}
+|-
+| {{OMSN|M|13}}
+| [[Nishi-Kamiya Station|Nishi-Kamiya]]
+| 西紙屋
+| 1.7
+| 22.4
+| 
+| {{coord|-16.72|158.20|display=inline}}
+|-
+| {{OMSN|M|14}}
+| [[Kamiya-cho Station|Kamiya-cho]]
+| 紙屋町
+| 1.5
+| 23.9
+| {{rint|okami|B}} Nanboku Line
+| {{coord|-16.73|158.21|display=inline}}
+|-
+| {{OMSN|M|15}}
+| [[Hozumi-Oiwake Station|Hozumi-Oiwake]]
+| 穂積追分
+| 0.7
+| 24.6
+| {{rint|okami|B}} Nanboku Line<br>{{rint|or}} OR Okami Loop Line
+| {{coord|-16.73|158.21|display=inline}}
+|-
+| {{OMSN|M|16}}
+| [[Sakaemachi Station|Sakaemachi]]
+| 栄町
+| 0.7
+| 25.3
+| Hanshi Electric Railway
+| {{coord|-16.74|158.22|display=inline}}
+|-
+| {{OMSN|M|17}}
+| [[Aoi Station|Aoi (Gakushuin-mae)]]
+| 葵 (学習院前)
+| 0.5
+| 25.8
+| Asahi Line (A01)<br>Hitotsubashi Line (H)<br>OR Sanshi Line<br>Yonekyu Main Line
+| {{coord|-16.74|158.22|display=inline}}
+|-
+| {{OMSN|M|18}}
+| [[Tsubaki Station|Tsubaki]]
+| 椿
+| 0.6
+| 26.4
+| 
+| {{coord|-16.74|158.23|display=inline}}
+|-
+| {{OMSN|M|19}}
+| [[Otemachi Station|Otemachi]]
+| 大手町
+| 0.5
+| 26.9
+| Tozai Line (T)<br>Imaichi Line (I)<br>Akitetsu Main Line<br>Keishi Main Line
+| {{coord|-16.74|158.23|display=inline}}
+|-
+| {{OMSN|M|20}}
+| [[Okami Central Station|Okami Central]]
+| 大紙中央
+| 0.7
+| 27.6
+| Chūō Line (C)<br>Shitayanagi Line (S)<br>Harujima Shinkansen<br>OR Main Lines<br>Okaden Main Line<br>Fukukyu
+| {{coord|-16.74|158.24|display=inline}}
+|-
+| {{OMSN|M|21}}
+| [[Mugishima Station|Mugishima]]
+| 麦島
+| 0.7
+| 28.3
+| Shiden Tokuyama Line
+| {{coord|-16.75|158.25|display=inline}}
+|-
+| {{OMSN|M|22}}
+| [[Miyoshi-Nagashima Station|Miyoshi-Nagashima]]
+| 三好長島
+| 0.6
+| 28.9
+| Shiden Nagashima Line
+| {{coord|-16.75|158.25|display=inline}}
+|-
+| {{OMSN|M|23}}
+| [[Motomachi Station|Motomachi]]
+| 本町
+| 0.9
+| 29.8
+| Kintetsu Sozenji Line<br>Okashi Lines<br>OR Commuter Lines
+| {{coord|-16.75|158.26|display=inline}}
+|-
+| {{OMSN|M|24}}
+| [[Honmyoji Station|Honmyoji]]
+| 本妙寺
+| 0.6
+| 30.4
+| 
+| {{coord|-16.75|158.27|display=inline}}
+|-
+| {{OMSN|M|25}}
+| [[Taisho Station|Taisho]]
+| 大正
+| 0.5
+| 30.9
+| Okashi Main Lines<br>OR Okami Loop Line
+| {{coord|-16.74|158.27|display=inline}}
+|-
+| {{OMSN|M|26}}
+| [[Tama Center Station|Tama Center]]
+| 多摩センター
+| 0.4
+| 31.3
+| 
+| {{coord|-16.74|158.27|display=inline}}
+|-
+| {{OMSN|M|27}}
+| [[Sozenji Station|Sozenji]]
+| 崇禅寺
+| 0.5
+| 31.8
+| Kintetsu Sozenji Line
+| {{coord|-16.74|158.27|display=inline}}
+|-
+| {{OMSN|M|28}}
+| [[Tamade Station|Tamade]]
+| 玉出
+| 0.6
+| 32.4
+| Tokuyama Line (K)<br>Nankai Line
+| {{coord|-16.73|158.28|display=inline}}
+|-
+| {{OMSN|M|29}}
+| [[Tokuyama Hondori Station|Tokuyama Hondori]]
+| 徳山本通
+| 0.7
+| 33.1
+| Shiden Tokuyama Line
+| {{coord|-16.73|158.28|display=inline}}
+|-
+| {{OMSN|M|30}}
+| [[Rokumanji Station|Rokumanji]]
+| 六万寺
+| 1.3
+| 34.4
+| Nanboku Line (B)<br>Kintetsu Main Line<br>Hankai Tramway
+| {{coord|-16.72|158.29|display=inline}}
+|-
+| {{OMSN|M|31}}
+| [[Fukaebashi Station|Fukaebashi]]
+| 深江橋
+| 0.6
+| 35.0
+| Nanboku Line (B)<br>Nagata Line (N)<br>Hankai Tramway
+| {{coord|-16.71|158.29|display=inline}}
+|-
+| {{OMSN|M|32}}
+| [[Komyoike Station|Komyoike]]
+| 光明池
+| 1.0
+| 36.0
+| Tokutetsu Main Line
+| {{coord|-16.71|158.30|display=inline}}
+|-
+| {{OMSN|M|33}}
+| [[Tsukimiyama Station|Tsukimiyama]]
+| 月見山
+| 0.9
+| 36.9
+| Okashi Nanko Line
+| {{coord|-16.70|158.31|display=inline}}
+|-
+| {{OMSN|M|34}}
+| [[Otori Station|Otori]]
+| 鳳
+| 1.2
+| 38.1
+| OR Hanwa Line
+| {{coord|-16.71|158.31|display=inline}}
+|-
+| {{OMSN|M|35}}
+| [[Iyonada Station|Iyonada]]
+| 伊予灘
+| 1.5
+| 39.6
+| Port Town Line (P01)
+| {{coord|-16.73|158.32|display=inline}}
+|-
+| {{OMSN|M|36}}
+| [[Nanko-guchi Station|Nanko-guchi]]
+| 南港口
+| 1.4
+| 41.0
+| 
+| {{coord|-16.73|158.33|display=inline}}
+|-
+| {{OMSN|M|37}}
+| [[Takasago Station|Takasago]]
+| 高砂
+| 1.5
+| 42.5
+| 
+| {{coord|-16.74|158.34|display=inline}}
+|-
+| {{OMSN|M|38}}
+| [[Tobe Kaigan Station|Tobe Kaigan]]
+| 砥部海岸
+| 1.8
+| 44.3
+| 
+| {{coord|-16.75|158.35|display=inline}}
+|-
+| {{OMSN|M|39}}
+| [[Koizumi Station|Koizumi]]
+| 古泉
+| 2.2
+| 46.5
+| 
+| {{coord|-16.76|158.37|display=inline}}
+|-
+| {{OMSN|M|40}}
+| [[Nishi-Masaki Station|Nishi-Masaki]]
+| 西松前
+| 1.9
+| 48.4
+| 
+| {{coord|-16.77|158.39|display=inline}}
+|-
+| {{OMSN|M|41}}
+| [[Masaki Station|Masaki]]
+| 松前
+| 1.8
+| 50.2
+| 
+| {{coord|-16.77|158.40|display=inline}}
+|-
+| {{OMSN|M|42}}
+| [[Okada Station|Okada]]
+| 岡田
+| 1.7
+| 51.9
+| 
+| {{coord|-16.78|158.41|display=inline}}
+|}
+
+==See also==
+
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

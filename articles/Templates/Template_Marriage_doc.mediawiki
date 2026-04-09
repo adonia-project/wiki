@@ -1,0 +1,180 @@
+{{Documentation subpage}}
+<!-- Place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{esoteric}}
+{{high-use}}
+{{Lua|Module:Check for unknown parameters|Module:Parameter validation}}
+{{Uses Wikidata|P21|P570}}
+{{Uses TemplateStyles|Template:Marriage/styles.css}}
+
+==Usage==
+This template is intended for use in infoboxes; specifically {{tl|Infobox person}} and [[:Category:Templates calling Infobox person|templates calling Infobox person]].
+
+{{tl|Marriage}} takes up to three unnamed parameters (name, start date, end date)&mdash;plus an optional named parameter {{para|end}} (also called {{para|reason}})&mdash;to produce output such as the following:
+
+{{Markup
+| style = font-size:small;
+| title = Examples
+| col1 = Template | col2 = Output
+
+| <nowiki>{{marriage |John Smith |1 January 1895 |December 31, 1905}}</nowiki>
+| {{marriage |John Smith |1 January 1895 |December 31, 1905}}
+
+| <nowiki>{{marriage |John Doe |1885 |July 27, 1888 |end=d.}}</nowiki>
+| {{marriage |John Doe |1885 |July 27, 1888 |end=d.}}
+
+| <nowiki>{{marriage |Jane Doe |2002}}</nowiki>
+| {{marriage |Jane Doe |2002}}
+
+| <nowiki>{{marriage |John Q. Public |2002|2010}}</nowiki>
+| {{marriage |John Q. Public |2002|2010}}
+
+| <nowiki>{{marriage |John Q. Citizen |2002|2010|end=div}}
+{{marriage |<!--John Q. Citizen-->|2012}}</nowiki>
+| {{marriage |John Q. Citizen |2002|2010|end=div}}
+{{marriage |<!--John Q. Citizen-->|2012}}
+
+| <nowiki>{{marriage |John Q. Taxpayer |2002|end=div}}</nowiki>
+| {{marriage |John Q. Taxpayer |2002|end=div}}
+
+| <nowiki>{{marriage |Joe Blow|<!--unknown-->|2010|end=div}}</nowiki>
+| {{marriage |Joe Blow|<!--unknown-->|2010|end=div}}
+
+| <nowiki>{{marriage |Joe Bloggs|<!--unknown-->|2010}}</nowiki>
+| {{marriage |Joe Bloggs|<!--unknown-->|2010}}
+
+| <nowiki>{{marriage |Joe Sixpack|<!--unknown-->|2010|end=<!--uncertain-->}}</nowiki>
+| {{marriage |Joe Sixpack|<!--unknown-->|2010|end=<!--uncertain-->}}
+
+| <nowiki>{{marriage |Joe Schmo |end=div}}</nowiki>
+| {{marriage |Joe Schmo |end=div}}
+
+| <nowiki>{{marriage |Juan Perez |2010|reason=<!--earliest-->}}</nowiki>
+| {{marriage |Juan Perez |2010|reason=<!--earliest-->}}
+}}
+
+Use of the first two parameters with {{para|end}} ({{para|reason}}) will cause a line break between the name and the start date.
+
+===In an infobox===
+{{Infobox person|name={{tl|Infobox person}} |spouse = {{Plainlist|
+* {{marriage |John Smith |1 January 1895 |December 31, 1905}}
+* {{marriage |John Doe |1885 |July 27, 1888 |end=d.}}
+* {{marriage |Jane Doe |2002}}
+* {{marriage |John Q. Public |2002|2010}}
+* {{marriage |John Q. Citizen |2002|2010|end=div}}
+* {{marriage |<!--John Q. Citizen-->|2012}}
+* {{marriage |John Q. Taxpayer |2002|end=div}}
+* {{marriage |Joe Blow|<!--unknown-->|2010|end=div}}
+* {{marriage |Joe Bloggs|<!--unknown-->|2010}}
+* {{marriage |Joe Sixpack|<!--unknown-->|2010|end=<!--uncertain-->}}
+* {{marriage |Joe Schmo |end=div}}
+* {{marriage |Juan Perez |2010|reason=<!--earliest-->}} }}
+}}
+Infoboxes already reduce text size to 88%, and [[MOS:FONTSIZE]] sets a lower limit for text size at 85% of the normal page font size, so it is not appropriate to use font size reduction when this template is used in an infobox. The example here is produced by:
+<syntaxhighlight style="font-size:small;" lang="wikitext">
+{{Infobox person |spouse = {{Plainlist|
+* {{marriage |John Smith |1 January 1895 |December 31, 1905}}
+* {{marriage |John Doe |1885 |July 27, 1888 |end=d.}}
+* {{marriage |Jane Doe |2002}}
+* {{marriage |John Q. Public |2002|2010}}
+* {{marriage |John Q. Citizen |2002|2010|end=div}}
+* {{marriage |<!--John Q. Citizen-->|2012}}
+* {{marriage |John Q. Taxpayer |2002|end=div}}
+* {{marriage |Joe Blow|<!--unknown-->|2010|end=div}}
+* {{marriage |Joe Bloggs|<!--unknown-->|2010}}
+* {{marriage |Joe Sixpack|<!--unknown-->|2010|end=<!--uncertain-->}}
+* {{marriage |Joe Schmo |end=div}}
+* {{marriage |Juan Perez |2010|reason=<!--earliest-->}} }}
+}}
+</syntaxhighlight>
+
+==Syntax and parameters==
+<code>{{((}}marriage&thinsp;{{!}}{{thin space|<{{var|text}}>}}{{!}}{{thin space|<{{var|start date}}>}}{{!}}{{thin space|<{{var|end date}}>}}[{{!}}{{thin space|end{{=}}}}]{{))}}</code>
+
+{{Aligned table |class=wikitable |style=line-height:1.35em;
+ | col1style=vertical-align:middle;text-align:center;padding-right:1.0em; |col2style=vertical-align:middle;padding-right:0.5em;
+ | row1style=background:whitesmoke;vertical-align:middle;text-align:center;font-weight:bold;
+ | Parameter | Description
+
+ | <{{var|text}}>
+ | (First unnamed parameter) Some text&mdash;usually a spouse's name&mdash;preceding the parenthesis carrying the marriage date/s, etc. This parameter may be omitted, typically for a remarriage to the same spouse.
+
+ | <{{var|start date}}>
+ | (Second unnamed parameter) Year or full date when the marriage began. Only the year will be displayed. If a full date is provided, it is given via a tooltip; i.e., {{tla|Tooltip}}. ([[#In an infobox|See first and second examples above.]])
+
+ | <{{var|end date}}>
+ | (Third unnamed parameter) Year or full date when the marriage ended. Only the year will be displayed. If a full date is provided, it is given via a tooltip; i.e., {{tla|Tooltip}}. ([[#In an infobox|See first and second examples above.]]) If the marriage ended because of the death of the article's subject, {{insource|"Omission per Template:Marriage instructions"|do {{em|not}} provide a date}}.
+
+ | {{para|end}} or {{para|reason}}
+ | Reason for marriage's end. If the marriage ended because of the death of the article's subject, {{insource|"Omission per Template:Marriage instructions"|do {{em|not}} provide a reason}}; use of <i>{{dc|his death}}</i> or <i>{{dc|her death}}</i> for this purpose has been deprecated ([[Template talk:Marriage/Archive 5#Use "(m. 1900)" and do not fill in an end date|see discussion]]).
+
+* {{bxtn|d}}, {{bxtn|d.}}, or {{bxtn|died}} includes {{xtn|died}} within the parentheses if the marriage ended on the spouse's death.
+* {{bxtn|div}}, {{bxtn|div.}}, or {{bxtn|divorced}} includes {{abbr|{{xtn|div.}}|divorced}} or {{xtn|divorced}} within the parentheses.
+* Otherwise, {{para|end|<var>value</var>}} includes customized text. For example:
+: {{code|<nowiki>{{marriage |Miss Doe |January 1, 1882 |December 31, 1905 |end=annulled}}</nowiki>}} which produces:
+{{block indent |style=margin-bottom:0.6em;
+ | {{marriage |Miss Doe |January 1, 1882 |December 31, 1905 |end=annulled}} }}
+
+{{qnote|Use of the values {{dcr|w}}, {{dcr|w.}}, {{dcr|wid}}, {{dcr|wid.}}, {{dcr|widow}}, or {{dcr|widowed}} is [[Template talk:Marriage/Archive 4#Who is widowed - topic or topic's spouse?|no longer supported]] and will display an error message.}}
+}}
+
+None of the parameters are required on their own, but if a template is missing all three of start date, end date, and reason, an error message will be displayed.
+
+==Tracking categories==
+===Categories populated via template logic===
+* {{Category link with count|Marriage template errors}}: invalid or missing dates; unsupported parameters or values
+
+===Categories populated via [[Module:Parameter_validation|parameter validation]]===
+
+* {{Category link with count|Pages using Marriage with duplicate parameters}}
+* {{Category link with count|Pages using Marriage with unknown parameters}}
+* {{Category link with count|Pages using Marriage with deprecated parameters}}
+
+==TemplateData==
+{{TemplateData header}}
+<templatedata>{
+	"params": {
+		"1": {
+			"label": "Spouse's name",
+			"description": "Name of the person to whom the subject is married.",
+			"type": "string",
+			"suggested": true
+		},
+		"2": {
+			"label": "Date married",
+			"description": "Date the marriage began.",
+			"type": "date",
+			"suggested": true
+		},
+		"3": {
+			"label": "Date ended",
+			"description": "Date the marriage was dissolved or the spouse of the article's subject died.",
+			"type": "date",
+			"required": false
+		},
+		"end": {
+			"label": "Reason ended",
+			"description": "Reason for marriage's end. Suggested reasons are automatically abbreviated. If the marriage ended due to death of article's subject, do not provide a reason.",
+			"type": "string",
+			"required": false,
+			"aliases": [
+				"reason"
+			],
+			"suggestedvalues": [
+				"died",
+				"divorced",
+				"separated",
+				"annulled"
+			]
+		}
+	},
+	"format": "inline",
+	"description": "Intended for use in infoboxes, specifically {{Infobox person}} and templates calling Infobox person.\n\n{{Marriage}} takes up to three unnamed parameters (name, start date, end date) plus an optional named parameter \"end=\" to provide the reason for the end of the marriage."
+}</templatedata>
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Text-specific formatting and function templates‎]]
+[[Category:Marriage templates]]
+[[Category:Templates that add a tracking category|{{PAGENAME}}]]
+
+}}</includeonly>

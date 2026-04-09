@@ -1,0 +1,41 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Mongolia
+| flag alias = Flag of Mongolia.svg
+| flag alias-1911 = Flag of Bogd Khaanate Mongolia.svg
+| border-1911 =
+| flag alias-1924 = Flag of the People's Republic of Mongolia (1924-1930).svg
+| border-1924 =
+| flag alias-1924b = Flag of Mongolia 1924 (alternative).svg
+| border-1924b
+| flag alias-1940 = Flag of the People's Republic of Mongolia (1940-1945).svg
+| flag alias-1945 = Flag of the People's Republic of Mongolia (1945-1992).svg
+| flag alias-1992 = Flag of Mongolia (1992–2011).svg
+| flag alias-engineering force = Flag of the Construction and Engineering Force of the Mongolian Armed Forces.svg
+| flag alias-cyber force = Flag of the Cyber security force of the Mongolian Armed Forces.svg
+| flag alias-special force = Flag of the Special Force of the Mongolian Armed Forces.svg
+| flag alias-air force-2016 = Flag of the Mongolian Air Force.svg
+| flag alias-air force = Flag of the Air Force of the Mongolian Armed Forces.svg
+| link alias-air force = Mongolian Air Force
+| flag alias-army-2016 = Flag of the Mongolian Ground Force.svg
+| flag alias-army = Flag of the Ground Force of the Mongolian Armed Forces.svg
+| link alias-army = Mongolian Ground Force
+| flag alias-military = Flag of Mongolia.svg
+| link alias-military = Mongolian Armed Forces| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1911
+| var2 = 1924
+| var3 = 1924b
+| var4 = 1940
+| var5 = 1945
+| var6 = 1992
+| var7 = engineering force
+| var8 = cyber force
+| var9 = special force
+| var10 = army-2016
+| redir1 = MNG
+| redir2 = MGL
+</noinclude>
+}}

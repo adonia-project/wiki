@@ -1,0 +1,11 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Bayara
+| flag alias = Flag of Bayara.svg
+| flag alias-1705 = Flag of Patriotic Army of Ecuador 1809.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| var1 = 1705
+}}

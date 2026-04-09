@@ -1,0 +1,12 @@
+<span style="white-space: nowrap">{{#ifeq:{{{link|no}}}|yes
+ |[[United States dollar|{{#ifeq:{{{long|yes}}}|yes|US|}}$]]
+ |{{#ifeq:{{{long|yes}}}|yes|US|}}$
+}}{{formatnum:{{replace|{{{1|}}}|,|}}}}</span>{{#if:{{{showyear|}}}| {{#if:{{{year|{{{2|}}}}}}|&nbsp;in {{{year|{{{2|}}}}}}}}}}<!--
+-->{{#ifeq:{{{year|{{{2|0}}}}}}|0||{{#ifexpr:{{Inflation/US/startyear}}<={{{year|{{{2|0}}}}}} and {{{year|{{{2|0}}}}}}<{{Inflation/year|US}}
+ |&#32;({{#if:{{{about|}}}
+  |equivalent to about ${{formatnum:{{Inflation|US|{{formatnum:{{{1|}}}|R}}|{{{year|{{{2}}}}}}|r={{{round|0}}}}}}}
+  |equivalent to ${{formatnum:{{Inflation|US|{{formatnum:{{{1|}}}|R}}|{{{year|{{{2}}}}}}|r={{{round|{{#ifexpr:{{Inflation|US|{{formatnum:{{{1|}}}|R}}|{{{year|{{{2}}}}}}}}>1000|0|2}}}}}}}}}
+ }} in {{Inflation/year|US}})
+}}}}<noinclude>
+{{documentation}}<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

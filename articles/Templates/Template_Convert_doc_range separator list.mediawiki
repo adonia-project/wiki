@@ -1,0 +1,111 @@
+{| class="wikitable sortable collapsible {{{state|uncollapsed}}}" style="width:100%;"
+|+ {{navbar-header|Range separators in <nowiki>{{convert}}</nowiki>|Convert/doc/range separator list}}
+|-
+! Separator
+! Convert
+! Result
+! Notes
+|-
+| <code>-</code>
+| <code><nowiki>{{convert|3|-|6|ft}}</nowiki></code>
+| {{convert|3|-|6|ft}}
+| rowspan=2 | Input can be hyphen (-) or [[Dash#En dash|en&nbsp;dash]] (–), output uses en&nbsp;dash
+|-
+| data-sort-value="-" | <code>&ndash;</code>&nbsp;<code>&amp;ndash;</code> <small>(en&nbsp;dash)</small>
+| <code><nowiki>{{convert|3|–|6|ft}}</nowiki></code>
+| {{convert|3|–|6|ft}}
+|-
+| <code>and</code>
+| <code><nowiki>{{convert|3|and|6|ft}}</nowiki></code>
+| {{convert|3|and|6|ft}}
+|
+|-
+| <code>and(-)</code>
+| <code><nowiki>{{convert|3|and(-)|6|ft}}</nowiki></code>
+| {{convert|3|and(-)|6|ft}}
+| rowspan=2 | {{para|abbr|on}} abbreviates the first unit
+|-
+| {{nowrap|1=<code>and(-)&#x7c;abbr=on</code>}}
+| {{nowrap|1=<code><nowiki>{{convert|3|and(-)|6|ft|abbr=on}}</nowiki></code>}}
+| {{convert|3|and(-)|6|ft|abbr=on}}
+|-
+| <code>or</code>
+| <code><nowiki>{{convert|3|or|6|ft}}</nowiki></code>
+| {{convert|3|or|6|ft}}
+|
+|-
+| <code>to</code>
+| <code><nowiki>{{convert|3|to|6|ft}}</nowiki></code>
+| {{convert|3|to|6|ft}}
+|
+|-
+| <code>to(-)</code>
+| <code><nowiki>{{convert|3|to(-)|6|ft}}</nowiki></code>
+| {{convert|3|to(-)|6|ft}}
+| rowspan=2 | {{para|abbr|on}} abbreviates the first unit
+|-
+| <code>to(-)&#x7c;abbr=on</code>
+| <code><nowiki>{{convert|3|to(-)|6|ft|abbr=on}}</nowiki></code>
+| {{convert|3|to(-)|6|ft|abbr=on}}
+|-
+| <code>to about</code>
+| <code><nowiki>{{convert|3|to&nbsp;about|6|ft}}</nowiki></code>
+| {{nowrap|{{convert|3|to about|6|ft}}}}
+|
+|-
+| <code>+/-</code>
+| <code><nowiki>{{convert|3|+/-|6|ft}}</nowiki></code>
+| {{convert|3|+/-|6|ft}}
+|
+|-
+| data-sort-value="+/-" | <code>±</code>&nbsp;<code>&amp;plusmn;</code>
+| <code><nowiki>{{convert|3|±|6|ft}}</nowiki></code>
+| {{convert|3|±|6|ft}}
+|
+|-
+| <code>+</code>
+| <code><nowiki>{{convert|3|+|6|ft}}</nowiki></code>
+| {{convert|3|+|6|ft}}
+|
+|-
+| <code>,</code>
+| <code><nowiki>{{convert|3|,|6|ft}}</nowiki></code>
+| {{convert|3|,|6|ft}}
+|
+|-
+| <code>, and</code>
+| <code><nowiki>{{convert|3|, and|6|ft}}</nowiki></code>
+| {{nowrap|{{convert|3|, and|6|ft}}}}
+|
+|-
+| <code>, or</code>
+| <code><nowiki>{{convert|3|, or|6|ft}}</nowiki></code>
+| {{convert|3|, or|6|ft}}
+|
+|-
+| <code>by</code>
+| <code><nowiki>{{convert|3|by|6|ft}}</nowiki></code>
+| {{convert|3|by|6|ft}}
+|
+|-
+| <code>x</code>
+| <code><nowiki>{{convert|3|x|6|ft}}</nowiki></code>
+| {{convert|3|x|6|ft}}
+| rowspan=3 | {{para|abbr|on}} abbreviates ''and repeats'' the first unit
+|-
+| <code>&times;</code>&nbsp;<code>&amp;times;</code>
+| <code><nowiki>{{convert|3|&times;|6|ft}}</nowiki></code>
+| {{convert|3|&times;|6|ft}}
+|-
+| <code>x&#x7c;abbr=on</code>
+| <code><nowiki>{{convert|3|x|6|ft|abbr=on}}</nowiki></code>
+| {{convert|3|x|6|ft|abbr=on}} 
+|- class="sortbottom"<!--deprecated-->
+| <code>xx</code>
+| colspan=3 | {{!mxt|1=&#x7c;xx&#x7c;}} is '''deprecated'''. Use {{mxt|1=&#x7c;x&#x7c;}} instead
+|- class="sortbottom"<!--deprecated-->
+| <code>*</code>
+| colspan=3 | {{!mxt|1=&#x7c;*&#x7c;}} is '''deprecated'''. Use {{mxt|1=&#x7c;x&#x7c;}} instead
+|}<!--
+
+--<noinclude>{{documentation}}</noinclude>

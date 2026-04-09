@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Atlantia
+| flag alias = Atlantian Federation Flag.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

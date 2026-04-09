@@ -1,0 +1,66 @@
+<includeonly>
+====Mass====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Mass
+|+ Mass<br /><small>([[:Template:Convert/list of units/mass|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+|rowspan=4  style="text-align: center; vertical-align: top;" |'''SI'''
+{{convert/list of units/unitrow|kg|place=top|note={{convert/list of units/triple|mass}}}}
+* kg lb
+* kg st
+{{convert/list of units/unitrow|g}}
+* g oz
+{{convert/list of units/unitrow|mg}}
+* mg gr
+{{convert/list of units/unitrow|μg|altab=ug}}
+|-
+|rowspan=2  style="text-align: center; vertical-align: top;" |'''non-SI metric'''
+{{convert/list of units/unitrow|t|unitrowspan=1|rowspan=2|place=top|note={{convert/list of units/triple|mass}}}}
+* t LT
+* t ST
+{{convert/list of units/unitaltname|MT|note={{convert/list of units/triple|mass}}}}
+* MT LT
+* MT ST
+|-
+|rowspan=10  style="text-align: center; vertical-align: top;" |'''[[Avoirdupois]]'''
+{{convert/list of units/unitrow|LT|rowspan=2|place=top|note=2,240 lb<br />used mostly in the British Commonwealth.<br />{{convert/list of units/triple|mass}}}}
+* LT t
+* LT MT
+* LT ST
+{{convert/list of units/unitaltab|long ton|note={{convert/list of units/triple|mass}}}}
+{{convert/list of units/unitrow|ST|rowspan=2|note=2,000 lb<br />used mostly in the US.<br />{{convert/list of units/triple|mass}}}}
+* ST t
+* ST MT
+* ST LT
+{{convert/list of units/unitaltab|short ton}}
+{{convert/list of units/unitrow|st|note=14 lb<br />used previously in the British Commonwealth except Canada.<br />{{convert/list of units/triple|mass}}}}
+* st kg
+* st lb
+{{convert/list of units/unitrow|lb|note={{convert/list of units/triple|mass}}}}
+* lb kg
+* lb st
+{{convert/list of units/unitrow|oz}}
+* oz g
+{{convert/list of units/unitrow|drachm|unitrowspan=1|rowspan=2}}
+{{convert/list of units/unitaltname|dram}}
+{{convert/list of units/unitrow|gr|note=equivalent to the troy grain}}
+|-
+| style="text-align: center; vertical-align: top;" |'''[[Troy weight|Troy]]'''
+{{convert/list of units/unitrow|ozt|place=top}}
+|-
+| style="text-align: center; vertical-align: top;" |'''other'''
+{{convert/list of units/unitrow|carat|place=top}}
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/mass/short list]]
+</noinclude>

@@ -1,0 +1,19 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Takamaiku
+| flag alias = Takamaiku flag.png
+| flag alias-1882-1942 (First Republic of Takamaiku) = First Republic of Takamaiku.png
+| flag alias-TakamaikuAirForce = Takamaiku Air Force Roundel Flag.png
+| flag alias-TakamaikuMaritimeForce = Takamaiku Maritime Force.png
+| flag alias-TakamaikuArmy= Takamaiku Army flag.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1882-1942 (First Republic of Takamaiku)
+| var2 = 1868-1882 (Tokugawa Revolution)
+| var3 = TakamaikuAirForce
+| var4 = TakamaikuMaritimeForce
+| var5 = TakamaikuArmy
+</noinclude>
+}}

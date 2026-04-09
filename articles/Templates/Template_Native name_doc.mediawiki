@@ -1,0 +1,156 @@
+<noinclude>{{Documentation subpage}}{{High-use}}</noinclude>
+{{Hatnote|[[Template:Native phrase]] redirects here.}}
+{{Lua|Module:Native name|Module:Lang}}
+
+{{mbox|text=For <code style="color:#d33"><nowiki>{{native name}}</nowiki></code> error messages appearing in various infoboxes, see [[Wikipedia talk:WikiProject Infoboxes/Archive 11#native name parameters]].}}
+An inline formatting template, based on {{tl|Lang}}, for indicating the official/defacto name in a language 
+other than English. By default, the native name is displayed in italics, followed by the language's name in parentheses. 
+
+The template's defaults can be overridden and the parenthesis excluded, in which case there may be no visible changes to the text where it's used. An [[HTML]] {{Tag|[[Span and div|span]]|o}}, however, still identifies the native name as a linguistic element, meaning that web browsers and [[screen reader]]s can select a particular font, formatting, pronunciation, etc., for it.
+
+For multiple native names, use {{tl|native name list}}
+
+== Syntax ==
+* {{Tlx|{{BASEPAGENAME}}|<{{var|[[IETF language tag]]}}>|<{{var|the native name}}>}}
+
+== Parameters ==
+{| class="wikitable sortable"
+! scope="col" | Parameter name
+! scope="col" | Description and examples
+! scope="col" | Required
+|-
+! scope="row" | [first unnamed]
+| The [[IETF language tag]] code for the native language. French, for instance, is "fr"; Spanish is "es"; Arabic is "ar"; etc.
+| yes
+|-
+! scope="row" | [second unnamed]
+| The native name, in the native language (with accents, etc.).
+| yes
+|-
+! scope="row" | {{code|italics}}<br/>{{smaller|(or {{code|italic}})}}
+| Set to "off" or "no" to disable displaying the native name in italics.
+Example: {{para|italics|off}}
+| no
+|-
+! scope="row" | {{code|paren}}<br/>{{smaller|(or {{code|icon}})}}
+| Set to "omit", "off" or "no" to suppress the appearance of the native language's name in a parenthesis after the native name.
+Example: {{para|paren|omit}}
+| no
+|-
+! scope="row" | {{code|parensize}}<br/>{{smaller|(previously {{code|fontsize}})}}
+| Use to specify a font-size for the parenthesis. Per [[MOS:FONTSIZE]], do not make this text smaller in infoboxes, since the text is already at 88% of normal.
+Example: {{para|parensize|90%}}
+| no
+|-
+! scope="row" | {{code|nolink}}
+| Set to anything (e.g. "on") to suppress the appearance of the native language's name as a link.
+| no
+|-
+! scope="row" | {{code|script}} (deprecated)
+| when needed, include [[ISO 15924]] in <code><nowiki>{{{1}}}</nowiki></code> IETF language tag; e.g. 'sr-Cyrl' <s>Specifies the [[ISO 15924]] script. E.g. "Cyrl", "Arab", "Hans"...</s>
+| no
+|}
+
+== Examples ==
+* Common usage:
+** {{Tlx|{{BASEPAGENAME}}|de|Deutschland}} –> {{ {{BASEPAGENAME}}|de|Deutschland}}
+
+* Code and result for the same name "Deutschland" above but with ''italics'' switched off, ''nolink'' switched on and a ''parensize'' of 90%:
+** {{Tlx|{{BASEPAGENAME}}|de|Deutschland|italics{{=}}off|nolink{{=}}on|parensize{{=}}90%}} –> {{ {{BASEPAGENAME}}|de|Deutschland|italics=off|nolink=on|parensize=90%}}
+
+* Retaining no italics but suppressing the parenthesis which produces the same as if the {{tl|lang}} template had been used:
+** {{Tlx|{{BASEPAGENAME}}|de|Deutschland|italics{{=}}off|paren{{=}}omit}} –> {{ {{BASEPAGENAME}}|de|Deutschland|italics=off|paren=omit}}
+
+* Language does not have an ISO code
+** <code>{{Tlg|{{BASEPAGENAME}}|mis|Banib|paren{{=}}omit}} (&#91;[Boonwurrung language]])</code> –> {{{{BASEPAGENAME}}|mis|Banib|paren=omit}} ([[Boonwurrung language]])
+
+* Language is not known
+** {{Tlx|{{BASEPAGENAME}}|und|Bakoma|paren{{=}}omit}} –> {{{{BASEPAGENAME}}|und|Bakoma|paren=omit}}
+
+== Other examples ==
+
+{| class="wikitable"
+! scope="col" | Code
+! scope="col" | Result
+|-
+| <pre>
+{{Infobox settlement
+| name = The Hague
+| native_name = {{Native name|nl|Den Haag}}
+}}
+</pre>
+|style="vertical-align:middle;"|
+{{Infobox settlement
+| name = The Hague
+| native_name = {{ {{BASEPAGENAME}}|nl|Den Haag}}
+}}
+|-
+| <pre>
+{{Infobox country
+| conventional_long_name = French Republic
+| native_name = {{Native name|fr|République française|paren=omit}}
+}}
+</pre>
+|style="vertical-align:topmiddle;"|
+{{Infobox country
+| conventional_long_name = French Republic
+| native_name = {{ {{BASEPAGENAME}}|fr|République française|paren=omit}}
+}}
+|}
+
+==Tracking category==
+{{Category link with count|Native name template errors}}
+
+==Template data==
+{{template data header}}
+
+<includeonly>{{sandbox other||
+<!-- Categories below this line -->
+}}</includeonly>
+<templatedata>
+{
+	"params": {
+		"tag": {
+			"label": "language",
+			"description": "language code",
+			"example": "el, de",
+			"type": "string",
+			"required": true
+		},
+		"name": {
+			"label": "name",
+			"description": "Name in foreign language (use ISO 639 language codes)",
+			"example": "ευρώ, herzlich willkommen",
+			"type": "string",
+			"required": true
+		},
+		"italic": {
+			"aliases": [
+				"italics"
+			],
+			"label": "italics",
+			"description": "\"off\" will prevent italicising the name",
+			"type": "boolean",
+			"default": "on"
+		},
+		"paren": {
+			"label": "language name",
+			"description": "Language name in parenthesis",
+			"type": "boolean",
+			"default": "on"
+		},
+		"parensize": {
+			"label": "language fontsize",
+			"description": "font-size of the language (parenthesised)",
+			"example": "90%",
+			"type": "number"
+		}
+	},
+	"description": "Foreign language name formatting"
+}
+</templatedata>
+
+<includeonly>{{Sandbox other||
+[[Category:Wikipedia formatting templates]]
+[[Category:Language templates]]
+}}</includeonly>

@@ -1,0 +1,94 @@
+<includeonly>{{Sidebar with collapsible lists
+| name = History of Okaiken
+| style = width:{{{width|20.0em}}};
+| title = [[History of Okaiken]]
+| image = [[File:{{{image|Toyozawa Castle.png}}}|{{{imagesize|250px}}}]]
+| captionstyle = padding-bottom:0.3em;
+| caption = {{{caption|<noinclude>[[Toyozawa Castle]]</noinclude>}}}
+| listtitlestyle = border:none;background:gainsboro;text-align:center;
+| expanded = {{{expanded|{{{1|}}}}}}
+
+| list1name = periods
+| list1title = {{resize|110%|Periods}}<!--resized here (rather than via styling) so accompanying [show/hide] link not resized as well-->
+| list1 = 
+ {{Infobox |bodystyle={{infobox subbox bodystyle}}
+  |datastyle=text-align:right;white-space:nowrap;
+  |label1=[[History of Okaiken#Prehistory|Prehistoric]] |data1=before 10,000 BC &ndash; 220 [[wikipedia:Before Christ|BC]]
+  |label2=[[History of Okaiken#The_Miyagi_Empire|Miyagi]] |data2=220 BC &ndash; 45 BC
+  |data3=
+   {{Infobox |bodystyle={{infobox subbox bodystyle}}
+    |labelstyle=font-weight:normal;padding-left:2.0em;
+    |datastyle=text-align:right;white-space:nowrap;
+    |label1=[[Kofun period|Kofun]] |data1=''45 BC &ndash; 515 AD''
+    |label2=[[Maki period|Maki]] |data2=''515 &ndash; 728''
+   }}
+  |label4=[[Asama period|Asama]]|data4=728 &ndash; 794
+  |label5=[[Heiji period|Heiji]]|data5=794 &ndash; 1206
+  |label6=[[Hiraizumi-Daishin period|Hiraizumi-Daishin]]|data6=1206 &ndash; 1325
+  |label7=[[Mito period|Mito]] |data7=1325 &ndash; 1336
+  |label8=[[History of Okaiken#Jimmu_Restoration|Jimmu Restoration]] |data8=''1330 &ndash; 1336''
+  |label9=[[Kitayama period|Kitayama]] {{smaller|([[Minato clan|Minato]])}}|data9=1336&ndash;1585
+  |data10=
+   {{Infobox |bodystyle={{infobox subbox bodystyle}}
+    |labelstyle=font-weight:normal;padding-left:2.0em;
+    |datastyle=text-align:right;white-space:nowrap;
+    |label1={{nobold|[[Higashiyama period|Higashiyama]]}} |data1=''1336&ndash;1392''
+    |label2={{nobold|[[Sengoku period|Sengoku]]}} |data2=''1497&ndash;1575''
+   }}
+  |label11=[[Seto-Tosa period|Seto–Tosa]] |data11=1575&ndash;1610
+  |data12=
+   {{Infobox |bodystyle={{infobox subbox bodystyle}}
+    |labelstyle=font-weight:normal;padding-left:2.0em;
+    |datastyle=text-align:right;white-space:nowrap;
+    |label1=[[Hokuban trade]] |data1=<nowiki />
+   }}
+  |label13=[[Honda Shogunate|Karuizawa]] {{nobold|{{small|([[Honda clan|Honda]])}}}} |data13=1610&ndash;1870
+  |data14=
+   {{Infobox |bodystyle={{infobox subbox bodystyle}}
+    |labelstyle=font-weight:normalpadding-left:2.0em;
+    |datastyle=text-align:right;white-space:nowrap;
+    |label1=[[Bakumatsu]] |data1=<nowiki />
+   }}
+  |label15=[[Saito period|Saito]] |data15=1870&ndash;1915
+  |data16=
+   {{Infobox |bodystyle={{infobox subbox bodystyle}}
+    |labelstyle=font-weight:normal;padding-left:2.0em;
+    |datastyle=text-align:right;white-space:nowrap;
+    |label1=[[Saito Restoration|Restoration]] |data1=<nowiki />
+   }}
+  |label17=[[Go-Shōkō period|Go-Shōkō]] |data17=1915&ndash;1924
+  |label18=[[Wakayama period|Wakayama]] |data18=1924&ndash;1968
+  |data19=
+   {{Infobox |bodystyle={{infobox subbox bodystyle}}
+    |labelstyle=font-weight:normal;padding-left:2.0em;
+    |datastyle=text-align:right;white-space:nowrap;
+    |label1=[[Wakayama financial crisis|Financial crisis]] |data1=<nowiki />
+    |label2=[[Sanese militarism|Militarism]] |data2=<nowiki />
+    |label3=[[Great Adonian War]]                    |data3=<nowiki />
+    |label4=[[Post-war Okaiken|Post-war]] |data4=<nowiki />
+   }}
+  |label20=[[Republican period|Republic]] |data20=1968&ndash;2010
+  |label21=[[Jutsu period|Jutsu]] |data21=2010&ndash;{{small|present}}
+ }}
+| list2name = topics
+| list2title = {{resize|110%|Topics}}<!--(see above)-->
+| list2 = <!--Alphabetical:-->
+{{startflatlist}}
+* [[Sanese En|Currency]]
+* [[Earthquakes in Okaiken|Earthquakes]]
+* [[Economic history of Okaiken|Economy]]
+* [[History of education in Okaiken|Education]]
+* [[Mitoyagi Empire|Empire]]
+* [[Historiography of Okaiken|Historiography]]
+* [[Military history of Okaiken|Military]]
+* [[Naval history of Okaiken|Naval]]
+{{endflatlist}}
+| belowclass = hlist
+| belowstyle = padding-top:0.2em;
+| below =
+* [[Glossary of Sanese history|Glossary]]
+* [[Timeline of Sanese history|Timeline]]}}</includeonly>
+
+<noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,38 @@
+This page is for the current project status of [[Adonia]], in terms of mapping and Geography. It is meant as a snapshot for roleplaying and fixing the map's distortions. 
+
+==Maps==
+===Coastal Outline Map===
+Currently, this is a map that is being worked on, even before country borders and other Geography. It was determined that a couple of continents are distorted when projected on Maps other than the [[w:Robinson Projection|Robinson Projection]]. The goal is to fix these distortions so that there's a workable map for everyone. 
+
+The main goal of converting the Adonia map into a workable GIS shp file is now complete. The shape file can be found on the Adonia Dropbox Folder, but remember to save a copy of it onto the local drive just in case the main file gets compromised. Also GIS now have measurements of area and are now able to pinpoint places on the map. We can use this base to expand on other territories. 
+
+===WGS84===
+''Updated: 28 February 2026''
+[[File:Adonia WGS84 Status.png|center]]
+
+===Robinson===
+''Updated: 28 February 2026''
+[[File:Adonia Robinson Status.png|center]]
+
+===Polar View===
+====North ([[Arktici]])====
+''Updated: 28 February 2026''
+[[File:Adonia Arktici Status.png|center]]
+
+====South (Ocean)====
+''Updated: 28 February 2026''
+[[File:Adonia South Status.png|center]]
+
+==Continents==
+We need to name continents soon and finalize its names. I can count at least 8 continents that may need naming and we've already settled on some continent names:
+
+* [[Fosia]]
+* [[Arktici]]
+* [[Illypnia]]
+* [[Kaftia]]
+* [[Abyala]] (can be considered part of larger [[Lurando-Abyala|Lurando-Abyala / Algarves]])
+* [[Lurandia]] (can be considered part of larger [[Lurando-Abyala|Lurando-Abyala / Algarves]])
+* [[Almuria]]
+* [[Sanrobone|Haitan / Sanrobone]]
+
+We need at least 5 more names. Please name them soon.

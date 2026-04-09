@@ -1,0 +1,109 @@
+{{infobox
+| bodystyle = line-height:120%
+| abovestyle = background:#ddddff;color:inherit;
+| headerstyle = background:#ddddff;color:inherit;
+| above = Demographics of {{{place}}}
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|alt={{{alt|}}}|class={{{image_class}}}}}
+| caption = {{{caption|}}}
+
+| label1 =  Population
+| data1 = {{{size_of_population|}}}
+
+| label2= &nbsp;•&nbsp;Year
+| data2={{{population_estimate_year|}}}
+
+| label3 = &nbsp;•&nbsp;Source
+| data3 = {{{population_figure_source|}}}
+
+| label12 =  Density
+| data12 = {{{density|}}}
+
+| label13 = Growth rate
+| data13 = {{{growth|}}}
+
+| label14 =  Birth rate
+| data14 = {{{birth|}}}
+
+| label15 =  Death rate
+| data15 = {{{death|}}}
+
+| label16 =  Life&nbsp;expectancy
+| data16 = {{{life|}}}{{#if:{{{life_male|}}}{{{life_female|}}}|<nowiki />}}
+
+| label17 =  &nbsp;•&nbsp;male
+| data17 = {{{life_male|}}}
+
+| label18 =  &nbsp;•&nbsp;female
+| data18 = {{{life_female|}}}
+
+| label19 =  Fertility rate
+| data19 = {{{fertility|}}}
+
+| label20 =  Infant mortality rate
+| data20 = {{{infant_mortality|}}}
+
+| label31 =  Net migration rate
+| data31 = {{{net_migration|}}}
+
+| header42 = {{#if:{{{age_0–14_years|{{{age_0-14_years|}}}}}}{{{age_15–64_years|{{{age_15-64_years|}}}}}}{{{under_18_years|{{{under_18_years|}}}}}}{{{age_19–44_years|{{{age_19-44_years|}}}}}}{{{age_45-64_years|{{{age_45-64_years|}}}}}}{{{age_65_years|}}}|Age structure}}
+
+| label53 = 0–14 years
+| data53 = {{{age_0–14_years|{{{age_0-14_years|}}}}}}
+
+| label54 =  15–64 years
+| data54 =  {{{age_15–64_years|{{{age_15-64_years|}}}}}}
+
+| label55 = Under 18 years
+| data55 = {{{under_18_years|{{{under_18_years|}}}}}}
+
+| label56 =  18–44 years
+| data56 =  {{{age_18–44_years|{{{age_18-44_years|}}}}}}
+
+|label57= 45–64 years
+|data57= {{{age_45–64_years|{{{age_45-64_years|}}}}}}
+
+| label58 =  65 and over
+| data58 = {{{age_65_years|}}}
+
+| header59 = {{#if:{{{total_mf_ratio|}}}{{{sr_at_birth|}}}{{{sr_under_15|}}}{{{sr_15–64_years|{{{sr_15-64_years|}}}}}}{{{sr_65_years_over|}}}|Sex ratio}}
+
+| label60 = Total
+| data60 = {{{total_mf_ratio|}}}
+
+| label61 =  At birth
+| data61 = {{{sr_at_birth|}}}
+
+| label62 =  Under 15
+| data62 = {{{sr_under_15|}}}
+
+| label63 =  15–64 years
+| data63 = {{{sr_15–64_years|{{{sr_15-64_years|}}}}}}
+
+| label64 =  65 and over
+| data64 = {{{sr_65_years_over|}}}
+
+| header75 = {{#if:{{{nation|}}}{{{major_ethnic|}}}{{{minor_ethnic|}}}|Nationality}}
+
+| label76 = Nationality
+| data76 = {{{nation|}}}
+
+| label77 = Major ethnic
+| data77 = {{{major_ethnic|}}}
+
+| label78 = Minor ethnic
+| data78 = {{{minor_ethnic|}}}
+
+| header79 = {{#if:{{{official|}}}{{{spoken|}}}|Language}}
+
+| label80 = Official
+| data80 = {{{official|}}}
+
+| label81 = Spoken
+| data81 = {{{spoken|}}}
+| belowstyle = font-size:90%;
+| below = {{{footnote|}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox country demographics with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox country demographics]] with unknown parameter "_VALUE_"|ignoreblank=y| age_0-14_years | age_0–14_years | age_15-64_years | age_15–64_years | age_18-44_years | age_18–44_years | age_19-44_years | age_19–44_years | age_45-64_years | age_45–64_years | age_65_years | alt | birth | caption | death | density | fertility | footnote | growth | image | image_size | infant_mortality | life | life_female | life_male | major_ethnic | minor_ethnic | nation | net_migration | official | place | population_estimate_year | population_figure_source | size_of_population | spoken | sr_15-64_years | sr_15–64_years | sr_65_years_over | sr_at_birth | sr_under_15 | total_mf_ratio | under_18_years | image_class}}<noinclude>
+{{Documentation}}
+<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

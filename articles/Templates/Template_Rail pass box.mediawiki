@@ -1,0 +1,12 @@
+<includeonly>{{Infobox
+| child = yes | decat = yes
+
+| label1 = {{#ifeq:{{yesno-yes|{{{yearonly|}}}}}|yes||Passengers}} {{#if:{{{pass_year|}}}|{{#ifeq:{{yesno-yes|{{{yearonly|}}}}}|yes|{{{pass_year}}}|({{{pass_year}}})}}}}
+|  data1 = {{#if:{{{passengers|}}}|{{{passengers}}}{{#if:{{{pass_percent|}}}|&emsp;{{#ifexpr:{{{pass_percent}}} > 0|{{profit}}|{{#ifexpr:{{{pass_percent}}} < 0|{{loss}}|{{steady}}}}}}&nbsp;{{#expr:abs {{{pass_percent}}}}}%}}{{#if:{{{system|}}}|&#32;({{{system}}})}}}}
+| label2 = {{pad}}Interchange
+|  data2 = {{#if:{{{interchange|}}}|{{{interchange}}}{{#if:{{{int_percent|}}}|&emsp;{{#ifexpr:{{{int_percent}}} > 0|{{profit}}|{{#ifexpr:{{{int_percent}}} < 0|{{loss}}|{{steady}}}}}}&nbsp;{{#expr:abs {{{int_percent}}}}}%}}}}
+| label3 = Rank
+|  data3 = {{{pass_rank|}}}
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,28 @@
+<onlyinclude><includeonly><!--
+-->{{#ifeq:{{{align|{{{2|}}}}}}|center|<div class="center">}}<!--
+-->{{#if:{{{thumb|{{{1|}}}}}}
+      |<div class="thumb {{#switch:{{{align|{{{2|}}}}}}|center|none=tnone|left=tleft|right|#default=tright}}" {{#if:{{{width|{{{3|}}}}}}||style="width: 100%"}}><div class="thumbinner" {{#if:{{{width|{{{3|}}}}}}|style="width: fit-content;"}}><div class="thumbimage enwiki-chart"<!--
+   -->|<div class="enwiki-chart {{#switch:{{{align|{{{2|}}}}}}|right=floatright|left=floatleft|#default=floatnone}}" <!--
+-->}}<!--
+-->{{#if: {{{width|{{{3|}}}}}}{{{style|}}}{{{border|}}}
+      | style="{{#if: {{{width|{{{3|}}}}}}| width:{{{width|{{{3}}}}}};}}<!--
+            -->{{#ifeq: {{{border|}}}| 1 | border-style:solid;}}<!--
+            -->{{#if: {{{style|}}}|{{{style}}};}}"<!--
+-->}}><!--
+--><div class="enwiki-chart-content"><!--
+   -->{{#if: {{{data|}}}
+        | {{#chart:{{{chart|{{{definition|}}}}}}|data={{{data|}}}}}<!--
+     -->| {{#chart:{{{chart|{{{definition|}}}}}}}}<!--
+   -->}}<!--
+--></div><!--
+-->{{#if:{{{thumb|{{{1|}}}}}}|</div><div class="thumbcaption">|<div class="center"><small>}}<!--
+-->{{{caption|{{{4|{{#if:{{{title|}}}|{{{title}}}.}}}}}}}} <!--
+-->{{#if: {{{hideSource|}}} ||<!--
+  -->See or edit {{#if: {{{source|{{{data|}}}}}}
+       | [[c:Data:{{{source|{{{data|}}}}}}|source data]].
+       | [[c:Data:{{{chart|{{{definition|}}}}}}|chart definition]].
+     }}{{#if:{{{thumb|{{{1|}}}}}}|</div>|</small>}}</div><!--
+-->}}</div><!--
+-->{{#ifeq:{{{align|{{{2|}}}}}}|center|</div>}}<!--
+-->{{#if:{{{thumb|{{{1|}}}}}}||<div style="clear:both;"></div>}}</includeonly></onlyinclude>
+{{Documentation}}

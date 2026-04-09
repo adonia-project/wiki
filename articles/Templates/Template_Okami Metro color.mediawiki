@@ -1,0 +1,5 @@
+<includeonly>{{#switch: {{uc:{{{1|}}}}}
+  | M = 9370DB | B = 4169E1 | T = 663300 | H = DC143C | Z = F4A460 | A = 32CD32 | C = 009E60 | I = D46F09 | S = FFD700 | G = 008080 | K = 910F91 | N = FF0099 | P = 71A7D8 | #default = A9A9A9
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

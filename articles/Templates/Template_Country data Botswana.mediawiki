@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Botswana
+| flag alias = Flag of Botswana.svg
+| flag alias-air force = Ensign of the Botswana Defence Force Air Wing.svg
+| link alias-air force = Botswana Defence Force Air Wing
+| link alias-army = Botswana Ground Force
+| flag alias-military = Flag of the Botswana Defence Force.svg
+| link alias-military = Botswana Defence Force
+| variant = {{{variant|}}}
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = BWA
+| redir2 = BOT
+| related1 = Bechuanaland Protectorate
+</noinclude>
+}}

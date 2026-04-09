@@ -1,0 +1,8 @@
+{{main other
+|1=[[Category:Pages using ISO 4217 currency to check|{{{main-sort|}}}]]
+|2={{template other
+ |1=&#x20;[[:Category:Pages using ISO 4217 currency to check|{{{template-sort|cat:ISO4217}}}]]
+ |2=<!--
+-->}}}}<!--
+
+--><noinclude>{{documentation|1=Template:ISO 4217/code/doc}}</noinclude>

@@ -1,0 +1,74 @@
+{{Navbox
+ | name      = Convert/documentation navbox
+ | title     = <nowiki>{{Convert}}</nowiki> help, documentation and maintenance
+ | state     = {{{state|autcollapse}}}
+ | bodyclass = hlist
+
+ | titlestyle = background: #cef2e0; <!-- documentation green -->
+ | basestyle  = background: #ddffee; <!-- derived from doc green -->
+
+ | above =
+* [[template:Convert]]
+* [[template talk:Convert|talk:Convert]]
+* [[module:Convert]]
+* {{tl|Cvt}}
+
+ | group1 = Help
+ |  list1 =
+* [[Help:Convert]]
+* [[Help:Convert units]]
+* [[Help:Convert messages]]
+
+ | group2 = Documentation
+ |  list2 =
+* [[Template:Convert/doc]]
+** [[:Template:Convert/doc/parameter list|parameter list]]
+** [[:Template:Convert/doc/deprecations list|deprecations list]]
+** [[:Template:Convert/doc/range separator list|range separator list]]
+* [[Special:PrefixIndex/Template:Convert/doc|All /doc pages]]
+
+ | group3 = Units
+ |  list3 =
+* [[Template:Convert/list of units|List of units]] (abridged)
+* [[Module:Convert/documentation/conversion data/doc|Full list of units]]
+<!--* [[Module:Convert/documentation/conversion data introduction/doc|Master list]] -->
+** [[Template:Convert/list of units/area|area]]
+** [[Template:Convert/list of units/energy|energy]]
+** [[Template:Convert/list of units/force|force]]
+** [[Module:Convert/documentation/conversion_data#Flow|flow]]
+** [[Template:Convert/list of units/length|length]]
+** [[Template:Convert/list of units/mass|mass]]
+** [[Template:Convert/list of units/speed|speed]]
+** [[Template:Convert/list of units/temperature|temperature]]
+** [[Template:Convert/list of units/torque|torque]]
+** [[Template:Convert/list of units/volume|volume]]
+* [[List of unusual units of measurement|Unusual units (likely not in {{tlf|Convert}})]]
+
+ | group4 = Error tracking
+ |  list4 = * [[:Category:Convert errors]]
+* [[:Category:Convert invalid options]]
+ | group5 = Modules
+ |  list5 =
+* [[Module:Convert]]
+** [[module:convert/data|/data]]
+** [[module:convert/extra|/extra]]
+** [[module:convert/text|/text]]
+* [[Special:PrefixIndex/Module:Convert|All]]
+
+ | group6 = See also
+ |  list6 = [[Module:Convert/helper]] (preprocess height input)
+
+ | group7 = Related
+ |  list7 =
+* [[MOS:NUMERAL|MOS:Numeric]]
+* [[MOS:UNITS|MOS:Units of measurement]]
+* [[Module:ConvertNumeric]]
+* [[:Category:Convert-like templates]]
+}}<noinclude>
+{{documentation | content =
+
+{{collapsible option}}
+
+[[Category:Documentation see also templates]]
+}}
+</noinclude>

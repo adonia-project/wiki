@@ -1,0 +1,7 @@
+<includeonly>{{#if:{{{1|}}}
+|<hr style="height:{{{1}}}px" />
+|<hr />
+}}</includeonly><noinclude>
+{{documentation}}
+<!-- Add categories to the /doc subpage and interwikis to Wikidata. -->
+</noinclude>

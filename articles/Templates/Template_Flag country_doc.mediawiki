@@ -1,0 +1,74 @@
+{{Documentation subpage}}
+{{High-use}}
+{{Template shortcut|flagcnty}}
+
+==Description==
+<code><nowiki>{{flag country|nation|variant|size=|name=}}</nowiki></code>
+
+Produces a flag icon attached to a wikilinked article. This template is similar to the more widely used {{tl|flag}} template, but is more useful for two situations described below.
+
+'''Parameters'''
+*{{para|1}} (first unnamed parameter): Use either the name of the nation or in some cases, a three-letter country code (e.g. [[ISO 3166-1 alpha-3]])
+*{{para|variant}} or {{para|2}} (optional parameter): Specifies an alternative (historical) flag to use. This parameter is documented by the appropriate template in [[:Category:Country data templates]].
+*{{para|size}} (optional): Can be used to change the flag icon size.
+*{{para|name}} (optional): The display text of the target wikilink is usually automatically generated, but can always be over-ridden with the name parameter.
+
+==Usage examples==
+# <code><nowiki>{{flag country|ITA}}</nowiki></code> → {{flag country|ITA}}
+#:In this case, the country code for Italy (ITA) is used to produce the correct flag and wikilink. In many cases, it would probably be preferable to use {{tl|flag}} to produce the same result, such as <code><nowiki>{{flag|Italy}}</nowiki></code> for this example. However, {{tl|flag country}} could be used within other templates (such as infoboxes) so that country codes can be used for those template parameters.
+# <code><nowiki>{{flag country|ITA|1861}}</nowiki></code> → {{flag country|ITA|1861}}
+#:Similar to the first example, but with a flag variant parameter to select a historical flag image. (The wikilinked article is <code><nowiki>[[Italy]]</nowiki></code>.)
+# <code><nowiki>{{flag country|Kingdom of Italy}}</nowiki></code> → {{flag country|Kingdom of Italy}}
+#:In this example, a different [[:Category:Country data templates|country data template]] is used, to select an alternative article for the wikilink (in this case, <code><nowiki>[[Kingdom of Italy|Italy]]</nowiki></code>). Compare with <code><nowiki>{{flag|Kingdom of Italy}}</nowiki></code> → {{flag|Kingdom of Italy}}, in which "Kingdom of Italy" is the display text for the wikilink. Therefore, the choice of <code>flag country</code> or <code>flag</code> depends on the desired display text; in all other respects, the templates are identical.
+#<code><nowiki>{{flag country|South Korea|name=Korea}}</nowiki></code> → {{flag country|South Korea|name=Korea}}
+
+==Tracking categories==
+*{{Category link with count|Pages using flagcountry template with unknown parameters}}
+
+==TemplateData==
+{{TemplateData header}}
+<templatedata>
+{
+	"description": "Produces a flag icon next to a wikilinked country name.",
+	"params": {
+		"1": {
+			"label": "Nation",
+			"description": "The name or code of the country.",
+			"type": "string",
+			"required": true
+		},
+		"variant": {
+			"label": "Variant",
+			"description": "The flag variant to be displayed.",
+			"aliases": [
+				"2"
+			],
+			"type": "string"
+		},
+		"size": {
+			"label": "Size",
+			"description": "The size of the flag icon.",
+			"type": "number"
+		}
+	},
+	"paramOrder": [
+		"1",
+		"variant",
+		"size"
+	]
+}
+</templatedata>
+
+==See also==
+*[[Template:Coat of arms]]
+*[[Template:Flag]]
+*[[Template:Flag icon]] - displays just the flag
+*[[Template:Flagu]] - displays the flag and unlinked country name
+*[[Template:Flaglist]] - names line up vertically in lists
+*[[Wikipedia:WikiProject Flag Template]]
+
+<includeonly>{{Sandbox other||
+<!-- ADD CATEGORIES that the template (but not this /sandboxN or /doc page) should be in BELOW THIS LINE. -->
+[[Category:Flag template system]]
+
+}}</includeonly>

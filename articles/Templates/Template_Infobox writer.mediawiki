@@ -1,0 +1,147 @@
+{{Infobox
+| bodyclass = vcard
+| bodystyle = {{#if:{{{box_width|}}} |width:{{{box_width}}};}}
+| child = {{lc:{{{embed}}}}}
+
+| title = {{#ifeq:{{lc:{{{embed}}}}}|yes|'''Writing career'''}}
+
+| abovestyle = font-size:125%;
+| above =
+    {{#ifeq:{{lc:{{{embed}}}}}|yes||  
+    {{#if:{{{honorific prefix|}}}{{{honorific_prefix|}}}{{{honorific-prefix|}}} |<div class="honorific-prefix" style="display:inline;font-size: 77%; font-weight: normal;">{{if empty|{{{honorific prefix|}}}|{{{honorific_prefix|}}}|{{{honorific-prefix}}}}}</div><br/>}}<!--
+ --><includeonly><div style="display:inline;" class="fn">{{if empty|{{{name|}}}|{{PAGENAMEBASE}}}}</div></includeonly><!--
+ -->{{#if:{{{honorific suffix|}}}{{{honorific_suffix|}}}{{{honorific-suffix|}}} |<br/><div class="honorific-suffix" style="display:inline;font-size: 77%; font-weight: normal;">{{if empty|{{{honorific suffix|}}}|{{{honorific_suffix|}}}|{{{honorific-suffix}}}}}</div>}}<!--
+ -->}}
+
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{#ifeq:{{lc:{{{landscape|}}}}}|yes|{{min|300|{{#if:{{#ifexpr:{{if empty|{{{image size|}}}|{{{image_size|}}}|{{{imagesize|}}}}}}}|300|{{if empty|{{{image size|}}}|{{{image_size|}}}|{{{imagesize|}}}}}}}}}x200px|{{if empty|{{{image size|}}}|{{{image_size|}}}|{{{imagesize|}}}}}}}|sizedefault=frameless |upright={{if empty|{{{image_upright|}}}|1}} |alt={{{alt|}}} |title={{{caption|}}} |suppressplaceholder=yes}}
+| caption = {{if empty|{{{image caption|}}}|{{{caption|}}}|{{{image_caption|}}}}}
+| captionstyle = line-height:1.4em;
+
+| labelstyle = line-height:1.2em; padding-right:0.65em;
+| datastyle = line-height:1.4em;
+
+| label1  = Native name
+|  data1  = {{#if:{{{native_name|}}} |<div class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}
+
+| label2  = Born
+|  data2  =  {{br separated entries
+   |1={{#if:{{{birth_name|}}}|<div style="display:inline" class="nickname">{{{birth_name|}}}</div>}}
+   |2= {{#invoke:person date|birth}}
+   |3={{#if:{{{birth_place|}}}|<div class="birthplace">{{{birth_place|}}}</div>}}
+}}
+
+| label3  = Died
+|  data3  = {{br separated entries
+   |1={{#invoke:person date|death}}
+   |2={{#if:{{{death_place|}}}|<div class="deathplace">{{{death_place|}}}</div>}}
+}}
+
+| label4  = Cause&nbsp;of death
+| data4   = {{{death_cause|}}}
+
+| label5  = Resting place
+|  data5  = {{br separated entries|{{{resting_place|}}} |{{{resting_place_coordinates|}}} }}
+
+| label6  = Pen name
+| class6  = nickname
+|  data6  = {{if empty|{{{penname|}}}|{{{pseudonym|}}}}}
+
+| label7  = Nickname
+| class7  = nickname
+|  data7  = {{{nickname|}}}
+
+| label8  = Occupation
+| class8  = role
+|  data8  = {{{occupation|}}}
+
+| label9  = Language
+|  data9  = {{{language|}}}
+
+| label10  = Nationality
+| class10  = category
+|  data10  = {{{nationality|}}}
+
+| label11 = Citizenship
+|  data11 = {{{citizenship|}}}
+
+| label12 = Education
+|  data12 = {{{education|}}}
+
+| label13 = Alma&nbsp;mater
+|  data13 = {{{alma_mater|}}}
+
+| label15 = Period
+|  data15 = {{{period|}}}
+
+| label16 = Genre{{#if:{{{genres|}}}|s}}
+| class16 = category
+|  data16 = {{if empty|{{{genres|}}}|{{{genre|}}}}}
+
+| label17 = Subject{{#if:{{{subjects|}}}|s}}
+|  data17 = {{if empty|{{{subjects|}}}|{{{subject|}}}}}
+
+| label18 = Literary movement
+|  data18 = {{{movement|}}}
+
+| label21 = Years&nbsp;active
+|  data21 = {{if empty|{{{years active|}}}|{{{years_active|}}}|{{{yearsactive|}}}}}
+
+| label22    = Employer{{Pluralize from text|{{{employer|}}}|likely=(s)|plural=s}}
+| data22     = {{{employer|}}}
+| class22    = org
+
+| label29 = Notable work{{#if:{{{notableworks|}}}{{{notable_works|}}}|s}}
+|  data29 = {{if empty|{{{notableworks|}}}|{{{notable_works|}}}|{{{notablework|}}}}}
+
+| label30 = Notable awards
+|  data30 = {{{awards|}}}
+
+| label32 = Spouse{{#if:{{{spouses|}}}|s}}
+|  data32 = {{if empty|{{{spouses|}}}|{{{spouse|}}}}}
+
+| label33 = Partner{{#if:{{{partners|}}}|s}}
+|  data33 = {{if empty|{{{partners|}}}|{{{partner|}}}}}
+
+| label34 = Children
+|  data34 = {{{children|}}}
+
+| label35 = Parent{{#if:{{{parents|}}}|s}}
+|  data35 = {{if empty|{{{parents|}}}|{{{parent|}}}}}
+
+| label36 = Relatives
+|  data36 = {{if empty|{{{relatives|}}}|{{{relations|}}}}}
+
+|header39 = {{#if:{{{signature|}}}|{{if empty|{{{signature_type|}}}|Signature}}}}
+|  data40 = {{#invoke:InfoboxImage|InfoboxImage|image={{{signature|}}}|class=skin-invert-image|size={{{signature_size|}}}|sizedefault=150px|upright=0.72|alt={{{signature_alt|}}}}}
+
+|  data41 = {{if empty|{{{misc|}}}|{{{module|}}}}}
+
+| header42   = {{#if:{{{website|}}}{{{homepage|}}}{{{URL|}}}|Website}}
+|  data43    = {{if empty|{{{website|}}}|{{{homepage|}}}|{{{URL|}}}}}
+
+|  data44 = {{#if:{{{portaldisp|}}} |<hr/>'''{{portal-inline|Literature|size=tiny}}'''}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox writer with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox writer]] with unknown parameter "_VALUE_"|ignoreblank=y| alma_mater | alt | awards | birth_date | birth_name | birth_place | box_width | caption | children | citizenship | death_cause | death_date | death_place | education | embed | employer | genre | genres | homepage | honorific prefix | honorific suffix | honorific_prefix | honorific_suffix | honorific-prefix | honorific-suffix | image | image caption | image size | image_caption | image_size | image_upright | imagesize | landscape | language | misc | module | movement | name | nationality | native_name | native_name_lang | nickname | notable_works | notablework | notableworks | occupation | parent | parents | partner | partners | penname | period | portaldisp | pronunciation | pseudonym | relations | relatives | resting_place | resting_place_coordinates | signature | signature_alt | signature_size | signature_type | spouse | spouses | subject | subjects | URL | website | years active | years_active | yearsactive }}{{main other|
+{{#if:{{{pronunciation|}}} |[[Category:Biography template using pronunciation]]
+}}{{#if:{{{website|}}}{{{homepage|}}}{{{URL|}}}|{{#switch:{{str left|{{if empty|{{{website|}}}|{{{homepage|}}}|{{{URL|}}}}}|1}}|<=|[=|#default=[[Category:Biography template using bare URL in website parameter]]}}}}
+}}{{#invoke:Check for conflicting parameters|check
+| template = [[Template:Infobox writer]]
+| cat = {{main other|Category:Pages using infobox writer with conflicting parameters}}
+| honorific prefix; honorific_prefix; honorific-prefix 
+| honorific suffix; honorific_suffix; honorific-suffix 
+| image size; image_size; imagesize 
+| image caption; caption; image_caption 
+| penname; pseudonym 
+| genres; genre 
+| subjects; subject 
+| years active; years_active; yearsactive 
+| notableworks; notable_works; notablework 
+| spouses; spouse 
+| partners; partner 
+| parents; parent 
+| relatives; relations 
+| misc; module 
+| website; homepage; URL 
+}}<noinclude>
+{{Documentation}}
+</noinclude>

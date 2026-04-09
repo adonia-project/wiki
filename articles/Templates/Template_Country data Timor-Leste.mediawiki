@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Timor-Leste
+| flag alias = Flag of East Timor.svg
+| flag alias-1975 = Flag of East Timor (1975–1976).png
+| flag alias-2002 = Flag of East Timor (2002).png
+| flag alias-military = Flag of the Timor Leste Defence Force.svg
+| link alias-military = Timor-Leste Defence Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1975
+| var2 = 2002
+| related1 = Democratic Republic of East Timor (1975)
+| redir1 = TLS
+| redir2 = East Timor
+</noinclude>
+}}

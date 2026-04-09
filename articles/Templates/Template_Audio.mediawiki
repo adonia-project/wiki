@@ -1,0 +1,4 @@
+<includeonly>{{#if:{{{1|}}}|{{#ifexist:Media:{{{1}}}|{{#tag:phonos|{{{2|{{{1|}}}}}}|file={{{1}}}}}|{{error{{main other||-small}}|Audio file "{{{1}}}" not found}}<!-- tracking category begin -->{{Category handler|[[Category:Pages linking to missing files]]}}<!-- tracking category end -->}}}}</includeonly><noinclude>
+<!-- Add categories to the /doc subpage; interwikis go to Wikidata, thank you! -->
+{{documentation}}
+</noinclude>

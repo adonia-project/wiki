@@ -1,0 +1,33 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Philippines
+| flag alias = The Commonwealth of the Philippines Flag.png
+| flag alias-Philippine Aerial Force = AF PHL Flag.png
+| flag alias-Philippine Commonwealth Naval Force = PCNF Flag.png
+| flag alias-Commonwealth Marine Corps = Commonwealth Marines Corp Flag.png
+| flag alias-Philippine Ground Force = PGF Logo.png
+| flag alias-Philippine Defence = PD FLAG.png
+| flag alias-Commonwealth Intelligence and Strategic Force = Commonwealth ISS Flag.png
+| flag alias-Revolutionary Government of Philippines = The Revolutionary Government of Philippines Flag.png
+| flag alias-Iberian Philippines = Iberian Philippines.png
+| flag alias-British Philippines = British Philippines.png
+| flag alias-Chancellor of the Commonwealth = Chancellor Standard Flag.png
+| flag alias-Chief Executive of the Commonwealth = Chief Executive Standard Flag.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+
+<noinclude>
+| var1 = Philippine Aerial Force
+| var2 = Philippine Commonwealth Naval Force
+| var3 = Philippine Ground Force
+| var4 = Philippine Defence
+| var5 = Commonwealth Intelligence and Strategic Force
+| var6 = Revolutionary Government of Philippines
+| var7 = Iberian Philippines
+| var8 = British Philippines
+| var9 = Chancellor of the Commonwealth
+| var10 = Chief Executive of the Commonwealth
+| var11 = Commonwealth Marine Corps
+</noinclude>
+}}

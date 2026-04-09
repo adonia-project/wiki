@@ -1,0 +1,28 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Nicaragua
+| flag alias = Flag of Nicaragua.svg
+| flag alias-1839 = Flag of Nicaragua (1839-1858).svg
+| flag alias-1856 = Flag of Nicaragua under William Walker (1856-1857).svg
+| flag alias-1858 = Flag of Nicaragua (1858-1889 and 1893-1896).svg
+| flag alias-1889 = Flag of Nicaragua (1889-1893).svg
+| flag alias-1896 = Flag of Nicaragua (1896-1908).svg
+| flag alias-1908 = Flag of Nicaragua (1908–1971).svg
+| link alias-naval = Nicaraguan Navy
+| link alias-air force = Nicaraguan Air Force
+| link alias-army = Nicaraguan Army
+| link alias-navy = Nicaraguan Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1839
+| var2 = 1856
+| var3 = 1858
+| var4 = 1889
+| var5 = 1896
+| var6 = 1908
+| redir1 = NIC
+| redir2 = NCA
+</noinclude>
+}}

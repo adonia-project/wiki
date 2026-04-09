@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Palau
+| flag alias = Flag of Palau.svg
+| link alias-naval = Palau Police
+| link alias-navy = Palau Police
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| redir1 = PLW
+</noinclude>
+}}

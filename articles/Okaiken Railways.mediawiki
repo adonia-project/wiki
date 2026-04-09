@@ -1,0 +1,115 @@
+{{Short description|National railway operator of Okaiken}}
+{{Infobox company
+| name = Okaiken Railways Group
+| logo = Okaiken National Railways Logo.svg
+| logo_size = 150px
+| native_name = 岡井県鉄道
+| native_name_lang = ja
+| romanized_name = Okaiken Tetsudō
+| type = [[Statutory corporation|Imperial Crown Corporation]]
+| industry = [[Rail transport]]
+| founded = {{Start date|1987|04|01}}
+| headquarters = OR Imperial Tower, [[Okami Central Station]], [[Okami]]
+| area_served = [[Okaiken]] (National Network)
+| services = [[Passenger rail]], [[Freight rail]], [[Strategic logistics]]
+| owner = {{Plainlist|
+* [[Government of Okaiken]] (51%)
+* [[Okaiken National Pension Fund]] (49%)
+}}
+| num_employees = 145,000
+| subsid = {{Plainlist|
+* [[OR Harujima]]
+* [[OR Ishijima]]
+* [[OR Yagikoshu]]
+* [[OR Freight]]
+}}
+| website = {{URL|https://www.or-rail.gov.ok}}
+}}
+
+The {{nihongo|'''Okaiken Railways'''|岡以県鉄道|Okaiken Tetsudō}}, commonly referred to as '''OR''' or the '''OR Group''', is the state-owned national railway system of [[Okaiken]]. Unlike the fully privatized railway models seen in other nations, OR is structured as an Imperial Crown Corporation, jointly owned by the Okaiken Government and the National Pension Fund.
+
+The network is divided geographically among three major operating subsidiaries corresponding to the nation's three main landmasses: '''Harujima''' (Northwest), '''Ishijima''' (Northeast), and '''Yagikoshu''' (South). While these entities have operational autonomy, they are centrally managed by the OR Group Directorate to ensure national cohesion, fare stabilization, and strategic infrastructure maintenance.
+
+The OR Group operates the high-speed [[Shinkansen]] network, intercity limited expresses, and the urban commuter networks in major metropolises including the capital, [[Okami]].
+
+==History==
+===The Reform of 1987===
+Prior to 1987, the network was operated by the Okaiken National Railways (ONR), a direct ministry-level bureau. While ONR was instrumental in Okaiken's post-war modernization, it suffered from bureaucratic bloating and significant debt accumulation.
+
+In 1987, rather than pursuing full privatization which was deemed a risk to national security and rural connectivity, the government reorganized the ONR into the Okaiken Railways Group. The ownership was transferred to a holding company held 51% by the Imperial Treasury and 49% by the National Pension Fund. This structure mandates that profits are reinvested into the network or used to bolster the nation's social security, rather than distributed to private shareholders.
+
+==Organization==
+The OR Group is split into three regional passenger companies and one nationwide freight entity.
+
+{| class="wikitable"
+! Color
+! Name
+! Japanese
+! Region / Geography
+! Key Hubs
+|-
+| style="background:#B22222; color:white;" | '''Red'''
+| '''[[OR Harujima]]'''
+| OR春島
+| '''Harujima'''<br>Includes the island of Goshu.
+| [[Okami Chuo Station|Okami]], [[Shinagawa]], [[Anjo-Saikawa]]
+|-
+| style="background:#003366; color:white;" | '''Blue'''
+| '''[[OR Ishijima]]'''
+| OR石島
+| '''Ishijima'''
+| [[Aizawa]], [[Minatojima]]
+|-
+| style="background:#006400; color:white;" | '''Green'''
+| '''[[OR Yagikoshu]]'''
+| OR八木甲州
+| '''Yagikoshu'''
+| [[Toyozawa]], [[Mito]]
+|-
+| style="background:#708090; color:white;" | '''Grey'''
+| '''[[OR Freight]]'''
+| OR貨物
+| '''Nationwide'''<br>Operates on all tracks.
+| [[Okami]] Freight Terminal
+|}
+
+==Shinkansen Network==
+The backbone of the OR network is the [[Shinkansen]] system, which connects the three major islands via undersea tunnels and massive bridges. The three lines converge near the geographical center of the archipelago. The OR Group as a whole operates and maintains the Shinkansen Network to allow for better consistency of timetable planning.
+
+===Harujima Shinkansen (OR Harujima)===
+* '''Route:''' [[Shinagawa]] — [[Okami Chuo Station|Okami Chuo]] — [[Anjo-Saikawa]] — [[Toyozawa]]
+* '''Color:''' Deep Red
+* '''Description:''' The busiest line in the system, connecting the northern port of Shinagawa with the capital city of [[Okami]] and continuing south to the central junction of Toyozawa. It is the primary artery for business travel.
+
+===Ishijima Shinkansen (OR Ishijima)===
+* '''Route:''' [[Aizawa]] — [[Minatojima]] — [[Toyozawa]]
+* '''Color:'''  Blue
+* '''Description:''' Runs along the western spine of Ishijima, connecting the northwestern metropolis of Aizawa with Toyozawa. This line is famous for its scenic coastal sections.
+
+===Minami-Yagikoshu Shinkansen (OR Yagikoshu)===
+* '''Route:''' [[Toyozawa]] — [[Mito]] — [[Sakata]] — [[Aomori (Yagikoshu)|Aomori]]
+* '''Color:''' Forest Green
+* '''Description:''' Extending southward from Toyozawa, this line penetrates the mountainous terrain of the Yagikoshu region, connecting the southern agricultural hubs to the national grid.
+
+==Logo and branding==
+The corporate identity of Okaiken Railways (OR) is anchored by its distinctive and bold logomark. The primary color utilized is a deep red—the national color—which imbues the mark with a sense of official authority, stability, and robustness appropriate for the country's national carrier.
+
+The design itself is a stylized, geometric ligature of the letters "O" and "R". The seamless connection between the circular left side and the arching right side suggests unity and a continuous, uninterrupted transportation network across [[Okaiken]]. The design also conveys a strong sense of forward momentum; the diagonal, outward-sweeping leg of the "R" implies speed and progress.
+
+Furthermore, the abstract geometry incorporates clever railway imagery. The thick circle of the "O" with its central negative space strongly resembles a train wheel or bogie, while simultaneously evoking the perspective of looking into a tunnel.
+
+Perhaps the most significant design element is its homage to railway heritage. The bold, abstract silhouette cleverly captures the form of a classic [[steam locomotive]] in motion. The "O" section represents the front boiler plate and driving wheel, the arching top of the "R" suggests the boiler tank of an old streamliner like the [[Nanpu (train)|Nanpu]] , and the diagonal leg mimics the front [[cowcatcher]]. This design choice effectively bridges the gap between the Empire's historical foundation in rail transport and its modern, future-facing infrastructure.
+
+==See also==
+* [[Transport in Okaiken]]
+* [[Okami Metro]]
+* [[Shinkansen]]
+* [[State-owned enterprise]]
+
+{{Okaiken Rail Transport}}
+
+[[Category:Okaiken Railways]]
+[[Category:Railway companies of Okaiken]]
+[[Category:Government-owned companies]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

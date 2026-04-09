@@ -1,0 +1,9 @@
+|-
+|style="text-align:center"| {{rail-interchange|{{{1}}}}}
+| {{#if:{{{alt|}}}|rowspan="2" {{!}}}}
+'''Code:''' <code><nowiki>{{rint|</nowiki>{{{1}}}<nowiki>}}</nowiki></code>{{#if:{{{alt|}}}|<br>
+'''Alternative icon:''' <code><nowiki>{{rint|</nowiki>{{{1}}}<nowiki>|1}}</nowiki></code>}}<br>
+'''Use:''' {{{2}}}<br>
+'''Link:''' {{#if:{{{3|}}}|[[{{{3}}}]]|''none''}}
+{{#if:{{{alt|}}}|{{!}}-
+{{!}}style="text-align:center"{{!}} {{rail-interchange|{{{1}}}|1}}}}

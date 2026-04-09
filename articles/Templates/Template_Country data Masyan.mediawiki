@@ -1,0 +1,11 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Masyan
+| flag alias = Flag of Masyan.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 
+| redir1 = MYA
+</noinclude>
+}}

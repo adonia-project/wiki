@@ -1,0 +1,21 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Thailand
+| flag alias = Flag of Thailand.svg
+| flag alias-1855 = Flag of Thailand 1855.svg
+| flag alias-1916 = Flag of Thailand (1916).svg
+| flag alias-naval = Naval Ensign of Thailand.svg
+| link alias-naval = Royal Thai Navy
+| link alias-air force = Royal Thai Air Force
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1855
+| var2 = 1916
+| redir1 = THA
+</noinclude>
+}}<noinclude>
+[[fr:Modèle:Country data Thaïlande]]
+[[sl:Predloga:Podatki države Tajska]]
+</noinclude>

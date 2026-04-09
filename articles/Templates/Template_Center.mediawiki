@@ -1,0 +1,4 @@
+<includeonly><div class="center" style="width:auto; margin-left:auto; margin-right:auto;{{safesubst<noinclude />:#if: {{{style|}}} | {{{style}}};}}">{{{1|[[Category:Pages using center with no arguments]]}}}</div></includeonly>{{safesubst<noinclude />:#invoke:Check for unknown parameters|check|unknown=[[Category:Pages using center with unknown parameters|_VALUE_{{PAGENAME}}]]|preview=Page using [[Template:Center]] with unknown parameter "_VALUE_"|ignoreblank=y| 1 | style }}<noinclude>
+{{documentation}}
+<!-- Add categories to the /doc subpage, interwikis to Wikidata, not here -->
+</noinclude>

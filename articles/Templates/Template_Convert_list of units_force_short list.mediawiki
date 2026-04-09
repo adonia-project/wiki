@@ -1,0 +1,86 @@
+<includeonly>
+====Force====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Force
+|+ Force<br /><small>([[:Template:Convert/list of units/force|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+|rowspan=7  style="text-align: center; vertical-align: top;" |'''SI'''
+{{convert/list of units/unitrow|GN|place=top|note={{convert/list of units/triple|force}}}}
+* GN LT-f
+* GN LTf
+* GN ST-f
+* GN STf
+{{convert/list of units/unitrow|MN|note={{convert/list of units/triple|force}}}}
+* MN LT-f
+* MN LTf
+* MN ST-f
+* MN STf
+{{convert/list of units/unitrow|kN|note={{convert/list of units/triple|force}}}}
+* kN LT-f
+* kN LTf
+* kN ST-f
+* kN STf
+{{convert/list of units/unitrow|N}}
+* N lb-f
+* N lbf
+* N oz-f
+* N ozf
+{{convert/list of units/unitrow|mN}}
+* mN oz-f
+* mN ozf
+* mN gr-f
+* mN grf
+{{convert/list of units/unitrow|μN|altab=uN}}
+* μN gr-f
+* μN grf
+{{convert/list of units/unitrow|nN}}
+* nN gr-f
+* nN grf
+|-
+|rowspan=4  style="text-align: center; vertical-align: top;" |'''cgs'''
+{{convert/list of units/unitrow|Mdyn|place=top}}
+{{convert/list of units/unitrow|kdyn}}
+{{convert/list of units/unitrow|dyn|altab=dyne|br=y}}
+{{convert/list of units/unitrow|mdyn}}
+|-
+|rowspan=8  style="text-align: center; vertical-align: top;" |'''Metric gravitational units'''
+{{convert/list of units/unitrow|t-f|rowspan=2|place=top}}
+{{convert/list of units/unitaltab|tf}}
+{{convert/list of units/unitrow|kg-f|rowspan=2}}
+{{convert/list of units/unitaltab|kgf}}
+{{convert/list of units/unitrow|g-f|rowspan=2}}
+{{convert/list of units/unitaltab|gf}}
+{{convert/list of units/unitrow|mg-f|rowspan=2}}
+{{convert/list of units/unitaltab|mgf}}
+|-
+|rowspan=9  style="text-align: center; vertical-align: top;" |'''Avoirdupois-based units'''
+{{convert/list of units/unitrow|pdl|place=top}}
+{{convert/list of units/unitrow|LT-f|rowspan=2}}
+* LT-f ST-f
+{{convert/list of units/unitaltab|LTf}}
+* LTf STf
+{{convert/list of units/unitrow|ST-f|rowspan=2}}
+* ST-f LT-f
+{{convert/list of units/unitaltab|STf}}
+* STf LTf
+{{convert/list of units/unitrow|lb-f|rowspan=2}}
+{{convert/list of units/unitaltab|lbf}}
+<!--
+{{convert/list of units/unitrow|oz-f|rowspan=2}}
+{{convert/list of units/unitaltab|ozf}}-->
+{{convert/list of units/unitrow|gr-f|rowspan=2}}
+{{convert/list of units/unitaltab|grf}}
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/force/short list]]
+</noinclude>

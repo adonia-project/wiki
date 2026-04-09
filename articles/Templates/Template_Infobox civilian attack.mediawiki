@@ -1,0 +1,92 @@
+{{Infobox
+| bodyclass  = vevent
+| aboveclass = summary
+| abovestyle = font-size:125%;
+| above      = {{#if:{{{title|}}}|{{{title}}}|<includeonly>{{PAGENAMEBASE}}</includeonly>}}
+| subheader2 = {{#if:{{{partof|}}}|Part of {{{partof|}}}}}
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}} |size={{{image_size|}}}|upright={{{image_upright|}}}|sizedefault=frameless|alt={{{alt|}}}}}
+| caption    = {{{caption|}}}
+| image2     = {{#invoke:InfoboxImage|InfoboxImage |image={{{map|}}} |size={{{map_size|}}} |upright={{{map_upright|}}}|sizedefault=250px |alt={{{map_alt|}}} }}
+| caption2   = {{{map_caption|}}}
+| subheader  = {{{subheader|}}}
+
+| label1     = Native&nbsp;name
+|  data1     = {{#if:{{{native_name|}}}|<span {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span>}}
+
+| label2     = Location
+| class2     = location
+| data2      = {{#invoke:WikidataIB|getValue|P276|name=location|suppressfields={{{suppressfields|}}}|fetchwikidata={{{fetchwikidata|ALL}}}|onlysourced={{{onlysourced|}}}|{{{location|}}} }}
+
+| label3     = [[Geographic coordinate system|Coordinates]]
+| data3      = {{{coordinates|}}}
+
+| label4     = Date
+| data4      = {{#invoke:WikidataIB|getValue|P585|name=date|suppressfields={{{suppressfields|}}}|fetchwikidata={{{fetchwikidata|ALL}}}|onlysourced={{{onlysourced|}}}|{{{date|}}} {{#if:{{{time|}}}|<br/>{{{time}}}}}{{#if:{{{time-begin|}}}|<br/>{{{time-begin}}}&nbsp;– {{{time-end}}}}} {{#if:{{{timezone|}}}|({{{timezone}}})}} }}
+
+| label5     = Target
+| data5      = {{{target|}}}
+
+| label6     = {{longitem|Attack type}}
+| data6      = {{{type|}}}
+
+| label7     = Weapon{{#if:{{{weapon|}}} | |s}}
+| data7      = {{#if:{{{weapon|}}}|{{{weapon}}}|{{{weapons|}}}}}
+
+| label8     = Deaths
+| data8      = {{{fatalities|}}}
+
+| label9     = Injured
+| data9      = {{{injuries|}}}
+
+| label10    = {{#if:{{{victims|}}}|Victims|Victim}}
+| data10     = {{#if:{{{victims|}}}|{{{victims}}}|{{{victim|}}}}}
+
+| label11    = {{#if:{{{perpetrators|{{{perps|}}}}}}|Perpetrators|Perpetrator}}
+| data11     = {{#if:{{{perpetrators|{{{perps|}}}}}}|{{{perpetrators|{{{perps}}}}}}|{{{perpetrator|{{{perp|}}}}}}}}
+
+| label12    = {{#if:{{{assailants|}}}|Assailants|Assailant}}
+| data12     = {{#if:{{{assailants|}}}|{{{assailants}}}|{{{assailant|}}}}}
+
+| label13    = {{#if:{{{numparts|}}}|{{longitem|{{abbr|No.|Number}}&nbsp;of participants}}|Participant}}
+| data13     = {{#if:{{{numparts|}}}|{{{numparts}}}|{{{numpart|}}}}}
+
+| label14    = {{#if:{{{dfens|}}}|Defenders|Defender}}
+| data14     = {{#if:{{{dfens|}}}|{{{dfens}}}|{{{dfen|}}}}}
+
+| label15    = Motive
+| data15     = {{{motive|}}}
+
+| label16    = {{#if:{{{inquiries|}}}|Inquiries|Inquiry}}
+| data16     = {{#if:{{{inquiries|}}}|{{{inquiries}}}|{{{inquiry|}}}}}
+
+| label17    = {{#if:{{{coroners|}}}|Coroners|Coroner}}
+| data17     = {{#if:{{{coroners|}}}|{{{coroners}}}|{{{coroner|}}}}}
+
+| label18    = Accused
+| data18     = {{{accused|}}}
+
+| label19    = Convicted
+| data19     = {{{convicted|}}}
+
+| label20    = Verdict
+| data20     = {{{verdict|}}}
+
+| label21    = Convictions
+| data21     = {{{convictions|}}}
+
+| label22    = Charges
+| data22     = {{{charges|}}}
+
+| label23    = Litigation
+| data23     = {{{litigation|}}}
+
+| label24    = Judge
+| data24     = {{{judge|}}}
+
+| label25    = Website
+| data25     = {{{website|}}}
+
+| header26 = {{{module|}}}
+
+| data27     = {{#if:{{{notes|}}} |<div style="border-top:1px solid #aaa;">{{{notes}}}</div>}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox civilian attack with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox civilian attack]] with unknown parameter "_VALUE_"|ignoreblank=y| accused | alt | assailant | assailants | caption | charges | convicted | convictions | coordinates | coroner | coroners | date | dfen | dfens | fatalities | fetchwikidata | image | image_size | image_upright | injuries | inquiries | inquiry | judge |litigation | location | map | map_alt | map_caption | map_size | map_upright | module | motive | native_name | native_name_lang | notes | numpart | numparts | onlysourced | partof | perp | perpetrator | perpetrators | perps | subheader | suppressfields | target | time | time-begin | time-end | timezone | title | type | verdict | victim | victims | weapon | weapons | website }}<noinclude>{{Documentation}}</noinclude>

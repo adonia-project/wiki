@@ -1,0 +1,164 @@
+'''Eradjian''' (ᨇᨑᨆᨉᨍᨈ, ''eradji'', <small>pronounced</small> [əradʒi]) is a [[Haynadurian languages|Haynadurian language]] within the [[Paharian language family]], and is written in the [[Haynadurian script]]<!--Lontara script-->. It is primarily spoken in [[Haynadur]] by the [[Eradjian people]] and serves as one of the four co-official languages of the country, as well as the language of the [[Eradjian diaspora]] around Basis. 
+
+==Geographic distribution==
+==Dialects==
+
+==Phonology==
+==Writing system==
+===Alphabet and IPA===
+Eradjian is written with 23 letters of the [[Haynadurian script]].
+
+{| style="background:none;"
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;"
+|+ [[wikipedia:Consonant|Consonants]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|b}}</big>
+| align="left"| '''ᨅ'''
+| align="left"| '''B'''
+|align="left"| '''b'''oat
+|-
+|<big>{{IPA|d}}</big>
+| align="left"| '''ᨉ'''
+| align="left"| '''D'''
+|align="left"| '''d'''o
+|-
+|<big>{{IPA|f}}</big>
+| align="left"| '''ᨌ'''
+| align="left"| '''F'''
+|align="left"| '''f'''estival
+|-
+|<big>{{IPA|ɡ}}</big>
+| align="left"| '''ᨁ'''
+| align="left"| '''G'''
+|align="left"| '''g'''ain
+|-
+|<big>{{IPA|ɣ}}</big>
+| align="left"| '''ᨎ'''
+| align="left"| '''H'''
+|align="left"| '''h'''at
+|-
+|<big>{{IPA|ʒ}}</big>
+| align="left"| '''ᨍ'''
+| align="left"| '''J'''
+|align="left"| plea'''s'''ure
+|-
+|<big>{{IPA|k}}</big>
+| align="left"| '''ᨀ'''
+| align="left"| '''K'''
+|align="left"| s'''k'''y
+|-
+|<big>{{IPA|l}}</big>
+| align="left"| '''ᨂ'''
+| align="left"| '''L'''
+|align="left"|'''l'''ean
+|-
+|<big>{{IPA|m}}</big>
+| align="left"| '''ᨃ'''
+| align="left"| '''M'''
+|align="left"| '''m'''oon
+|-
+|<big>{{IPA|n}}</big>
+| align="left"| '''ᨊ'''
+| align="left"| '''N'''
+|align="left"| '''n'''ote
+|-
+|<big>{{IPA|p}}</big>
+| align="left"| '''ᨄ'''
+| align="left"| '''P'''
+|align="left"| '''P'''a'''p'''er
+|-
+|<big>{{IPA|r}}</big>
+| align="left"| '''ᨑ'''
+| align="left"| '''R'''
+|align="left"| ''Spanish'' '''r'''ío; ''Ukrainian'' '''р'''анок
+|-
+|<big>{{IPA|s}}</big>
+| align="left"| '''ᨕ'''
+| align="left"| '''S'''
+|align="left"| '''s'''ix
+|-
+|<big>{{IPA|t}}</big>
+| align="left"| '''ᨋ'''
+| align="left"| '''T'''
+|align="left"| '''t'''ank
+|-
+|<big>{{IPA|v}}</big>
+| align="left"| '''ᨒ'''
+| align="left"| '''V'''
+|align="left"| '''v'''ision
+|-
+|<big>{{IPA|v}}</big>
+| align="left"| '''ᨓ'''
+| align="left"| '''W'''
+|align="left"| '''W'''ar
+|-
+|<big>{{IPA|z}}</big>
+| align="left"| '''ᨐ'''
+| align="left"| '''Z'''
+|align="left"| '''z'''ero
+|-
+|}
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;" 
+|+ [[wikipedia:Vowel|Vowels]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|a}}</big>
+| align="left"| '''ᨆ'''
+| align="left"| '''A'''
+|align="left"| f'''a'''ther
+|-
+|<big>{{IPA|ə}}</big>
+| align="left"| '''ᨇ'''
+| align="left"| '''E'''
+|align="left"| '''a'''bove; ''French'' d'''e'''main
+|-
+|<big>{{IPA|i}}</big>
+| align="left"| '''ᨈ'''
+| align="left"| '''I'''
+|align="left"| s'''ee'''
+|-
+|<big>{{IPA|o}}</big>
+| align="left"| '''ᨔ'''
+| align="left"| '''O'''
+|align="left"| st'''o'''ry
+|-
+|<big>{{IPA|u}}</big>
+| align="left"| '''ᨖ'''
+| align="left"| '''U'''
+|align="left"| c'''oo'''l
+|-
+|<big>{{IPA|j}}</big>
+| align="left"| '''ᨏ'''
+| align="left"| '''Y'''
+|align="left"| '''Y'''ogurt
+|-
+|}
+<br/>
+{| class="wikitable" style="text-align: center;" 
+|+[[wikipedia:Diacritics|Diacritics]]
+|-
+! IPA !! Accents !! Example !! English approximation
+|-
+|<big>{{IPA|ɛ}}</big>
+| align="left"| ᨙ
+| align="left"| ᨋ'''ᨇᨙ'''ᨁᨔ
+|align="left"| B'''e'''d
+|-
+|<big>{{IPA|e}}</big>
+| align="left"| ᨙ
+| align="left"| ᨂ'''ᨈᨙ'''ᨄᨈ
+|align="left"| B'''ay'''
+|-
+|}
+|}
+
+===Orthography===
+
+==Grammar==
+
+[[Category:Haynadur]][[Category:MyNameJuls]][[Category:Basis]]

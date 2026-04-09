@@ -1,0 +1,134 @@
+<includeonly>{{#ifeq:{{{thumb|}}}|center|<div class="center">}}<div class="PieChartTemplate thumb t{{#switch:{{{thumb|}}}|center|none=none|left=left|#default=right}}" {{#if:{{{style|}}}|style="{{{style|}}}"}}><div class="thumbinner" style="width:{{#expr:2*{{{radius|100}}}+2}}px">
+<!-- Graph -->
+<div class="mw-no-invert" style="background-color:{{{other-color|white}}};margin:auto;position:relative;width:{{#expr:2*{{{radius|100}}}}}px;height:{{#expr:2*{{{radius|100}}}}}px;overflow:hidden;border-radius:{{{radius|100}}}px;border:1px solid black;transform:scaleX(-1)rotate(-90deg)">
+{{#if:{{{value30|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color30|{{gcolor|30}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}+{{{value23}}}+{{{value24}}}+{{{value25}}}+{{{value26}}}+{{{value27}}}+{{{value28}}}+{{{value29}}}+{{{value30}}}
+}}}}}}<!--
+-->{{#if:{{{value29|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color29|{{gcolor|29}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}+{{{value23}}}+{{{value24}}}+{{{value25}}}+{{{value26}}}+{{{value27}}}+{{{value28}}}+{{{value29}}}
+}}}}}}<!--
+-->{{#if:{{{value28|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color28|{{gcolor|28}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}+{{{value23}}}+{{{value24}}}+{{{value25}}}+{{{value26}}}+{{{value27}}}+{{{value28}}}
+}}}}}}<!--
+-->{{#if:{{{value27|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color27|{{gcolor|27}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}+{{{value23}}}+{{{value24}}}+{{{value25}}}+{{{value26}}}+{{{value27}}}
+}}}}}}<!--
+-->{{#if:{{{value26|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color26|{{gcolor|26}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}+{{{value23}}}+{{{value24}}}+{{{value25}}}+{{{value26}}}
+}}}}}}<!--
+-->{{#if:{{{value25|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color25|{{gcolor|25}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}+{{{value23}}}+{{{value24}}}+{{{value25}}}
+}}}}}}<!--
+-->{{#if:{{{value24|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color24|{{gcolor|24}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}+{{{value23}}}+{{{value24}}}
+}}}}}}<!--
+-->{{#if:{{{value23|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color23|{{gcolor|23}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}+{{{value23}}}
+}}}}}}<!--
+-->{{#if:{{{value22|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color22|{{gcolor|22}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}+{{{value22}}}
+}}}}}}<!--
+-->{{#if:{{{value21|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color21|{{gcolor|21}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}+{{{value21}}}
+}}}}}}<!--
+-->{{#if:{{{value20|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color20|{{gcolor|20}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}+{{{value20}}}
+}}}}}}<!--
+-->{{#if:{{{value19|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color19|{{gcolor|19}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}+{{{value19}}}
+}}}}}}<!--
+-->{{#if:{{{value18|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color18|{{gcolor|18}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}+{{{value18}}}
+}}}}}}<!--
+-->{{#if:{{{value17|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color17|{{gcolor|17}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}+{{{value17}}}
+}}}}}}<!--
+-->{{#if:{{{value16|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color16|{{gcolor|16}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}+{{{value16}}}
+}}}}}}<!--
+-->{{#if:{{{value15|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color15|{{gcolor|15}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}+{{{value15}}}
+}}}}}}<!--
+-->{{#if:{{{value14|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color14|{{gcolor|14}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}+{{{value14}}}
+}}}}}}<!--
+-->{{#if:{{{value13|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color13|{{gcolor|13}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}+{{{value13}}}
+}}}}}}<!--
+-->{{#if:{{{value12|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color12|{{gcolor|12}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}+{{{value12}}}
+}}}}}}<!--
+-->{{#if:{{{value11|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color11|{{gcolor|11}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}+{{{value11}}}
+}}}}}}<!--
+-->{{#if:{{{value10|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color10|{{gcolor|10}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}+{{{value10}}}
+}}}}}}<!--
+-->{{#if:{{{value9|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color9|{{gcolor|9}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}+{{{value9}}}
+}}}}}}<!--
+-->{{#if:{{{value8|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color8|{{gcolor|8}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}+{{{value8}}}
+}}}}}}<!--
+-->{{#if:{{{value7|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color7|{{gcolor|7}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}+{{{value7}}}
+}}}}}}<!--
+-->{{#if:{{{value6|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color6|{{gcolor|6}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}+{{{value6}}}
+}}}}}}<!--
+-->{{#if:{{{value5|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color5|{{gcolor|5}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}+{{{value5}}}
+}}}}}}<!--
+-->{{#if:{{{value4|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color4|{{gcolor|4}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}+{{{value4}}}
+}}}}}}<!--
+-->{{#if:{{{value3|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color3|{{gcolor|3}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}+{{{value3}}}
+}}}}}}<!--
+-->{{#if:{{{value2|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color2|{{gcolor|2}}}}}|{{#expr:
+{{{value1}}}+{{{value2}}}
+}}}}}}<!--
+-->{{#if:{{{value1|}}}|{{Pie chart/slice|radius={{{radius|100}}}|{{{color1|{{gcolor|1}}}}}|
+{{{value1}}}
+}}}}
+</div>
+<!-- Legend -->
+<div class="thumbcaption" {{#ifeq:{{{thumb|}}}|center|style="text-align:left"}}>
+{{{caption|}}}
+{{#if:{{{label1|}}}|{{legend|{{{color1|{{gcolor|1}}}}}|{{{label1}}} ({{{value1}}}%)}}
+}}{{#if:{{{label2|}}}|{{legend|{{{color2|{{gcolor|2}}}}}|{{{label2}}} ({{{value2}}}%)}}
+}}{{#if:{{{label3|}}}|{{legend|{{{color3|{{gcolor|3}}}}}|{{{label3}}} ({{{value3}}}%)}}
+}}{{#if:{{{label4|}}}|{{legend|{{{color4|{{gcolor|4}}}}}|{{{label4}}} ({{{value4}}}%)}}
+}}{{#if:{{{label5|}}}|{{legend|{{{color5|{{gcolor|5}}}}}|{{{label5}}} ({{{value5}}}%)}}
+}}{{#if:{{{label6|}}}|{{legend|{{{color6|{{gcolor|6}}}}}|{{{label6}}} ({{{value6}}}%)}}
+}}{{#if:{{{label7|}}}|{{legend|{{{color7|{{gcolor|7}}}}}|{{{label7}}} ({{{value7}}}%)}}
+}}{{#if:{{{label8|}}}|{{legend|{{{color8|{{gcolor|8}}}}}|{{{label8}}} ({{{value8}}}%)}}
+}}{{#if:{{{label9|}}}|{{legend|{{{color9|{{gcolor|9}}}}}|{{{label9}}} ({{{value9}}}%)}}
+}}{{#if:{{{label10|}}}|{{legend|{{{color10|{{gcolor|10}}}}}|{{{label10}}} ({{{value10}}}%)}}
+}}{{#if:{{{label11|}}}|{{legend|{{{color11|{{gcolor|11}}}}}|{{{label11}}} ({{{value11}}}%)}}
+}}{{#if:{{{label12|}}}|{{legend|{{{color12|{{gcolor|12}}}}}|{{{label12}}} ({{{value12}}}%)}}
+}}{{#if:{{{label13|}}}|{{legend|{{{color13|{{gcolor|13}}}}}|{{{label13}}} ({{{value13}}}%)}}
+}}{{#if:{{{label14|}}}|{{legend|{{{color14|{{gcolor|14}}}}}|{{{label14}}} ({{{value14}}}%)}}
+}}{{#if:{{{label15|}}}|{{legend|{{{color15|{{gcolor|15}}}}}|{{{label15}}} ({{{value15}}}%)}}
+}}{{#if:{{{label16|}}}|{{legend|{{{color16|{{gcolor|16}}}}}|{{{label16}}} ({{{value16}}}%)}}
+}}{{#if:{{{label17|}}}|{{legend|{{{color17|{{gcolor|17}}}}}|{{{label17}}} ({{{value17}}}%)}}
+}}{{#if:{{{label18|}}}|{{legend|{{{color18|{{gcolor|18}}}}}|{{{label18}}} ({{{value18}}}%)}}
+}}{{#if:{{{label19|}}}|{{legend|{{{color19|{{gcolor|19}}}}}|{{{label19}}} ({{{value19}}}%)}}
+}}{{#if:{{{label20|}}}|{{legend|{{{color20|{{gcolor|20}}}}}|{{{label20}}} ({{{value20}}}%)}}
+}}{{#if:{{{label21|}}}|{{legend|{{{color21|{{gcolor|21}}}}}|{{{label21}}} ({{{value21}}}%)}}
+}}{{#if:{{{label22|}}}|{{legend|{{{color22|{{gcolor|22}}}}}|{{{label22}}} ({{{value22}}}%)}}
+}}{{#if:{{{label23|}}}|{{legend|{{{color23|{{gcolor|23}}}}}|{{{label23}}} ({{{value23}}}%)}}
+}}{{#if:{{{label24|}}}|{{legend|{{{color24|{{gcolor|24}}}}}|{{{label24}}} ({{{value24}}}%)}}
+}}{{#if:{{{label25|}}}|{{legend|{{{color25|{{gcolor|25}}}}}|{{{label25}}} ({{{value25}}}%)}}
+}}{{#if:{{{label26|}}}|{{legend|{{{color26|{{gcolor|26}}}}}|{{{label26}}} ({{{value26}}}%)}}
+}}{{#if:{{{label27|}}}|{{legend|{{{color27|{{gcolor|27}}}}}|{{{label27}}} ({{{value27}}}%)}}
+}}{{#if:{{{label28|}}}|{{legend|{{{color28|{{gcolor|28}}}}}|{{{label28}}} ({{{value28}}}%)}}
+}}{{#if:{{{label29|}}}|{{legend|{{{color29|{{gcolor|29}}}}}|{{{label29}}} ({{{value29}}}%)}}
+}}{{#if:{{{label30|}}}|{{legend|{{{color30|{{gcolor|30}}}}}|{{{label30}}} ({{{value30}}}%)}}
+}}{{#if:{{{other|}}}|{{legend|{{{other-color|white}}}|{{{other-label|Other}}} ({{#expr:100-{{{value1|0}}}-{{{value2|0}}}-{{{value3|0}}}-{{{value4|0}}}-{{{value5|0}}}-{{{value6|0}}}-{{{value7|0}}}-{{{value8|0}}}-{{{value9|0}}}-{{{value10|0}}}-{{{value11|0}}}-{{{value12|0}}}-{{{value13|0}}}-{{{value14|0}}}-{{{value15|0}}}-{{{value16|0}}}-{{{value17|0}}}-{{{value18|0}}}-{{{value19|0}}}-{{{value20|0}}}-{{{value21|0}}}-{{{value22|0}}}-{{{value23|0}}}-{{{value24|0}}}-{{{value25|0}}}-{{{value26|0}}}-{{{value27|0}}}-{{{value28|0}}}-{{{value29|0}}}-{{{value30|0}}}}}%)}}}}
+{{#if:{{{footer|}}}|<p style="margin-bottom:0">{{{footer}}}</p>}}
+</div>
+</div></div>{{#ifeq:{{{thumb|}}}|center|</div>}}</includeonly><noinclude>
+{{documentation}}
+<!-- Add categories to the /doc subpage, interwikis to Wikidata.  -->
+</noinclude>

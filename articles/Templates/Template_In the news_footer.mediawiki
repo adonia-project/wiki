@@ -1,0 +1,24 @@
+{{#if:{{{currentevents|}}}{{{recentdeaths|}}}
+ |<ul style="list-style:none; margin-left:0;">
+<li>'''[[More Current Events|Ongoing events]]'''{{#if:{{{currentevents|}}}
+  |&#58; <div class="hlist inline">
+{{{currentevents}}}
+</div>}}</li>
+<li>{{#ifexist:Deaths in {{CURRENTYEAR}}
+  |'''[[Deaths in {{CURRENTYEAR}}|Recent deaths]]'''
+  |'''[[Deaths in {{#time:Y|-1 years}}|Recent deaths]]'''
+}}{{#if:{{{recentdeaths|}}}
+  |&#58; <div class="hlist inline">
+{{{recentdeaths}}}
+</div>}}</li>
+</ul>
+ |<div style="text-align: right;" class="hlist noprint">
+{{#ifexist:Deaths in {{CURRENTYEAR}}
+  |*'''[[Deaths in {{CURRENTYEAR}}|Recent deaths]]'''
+  |*'''[[Deaths in {{#time:Y|-1 years}}|Recent deaths]]'''
+}}{{#if:{{{nocurrenteventslink|}}}
+  ||*'''[[Portal:Current events|More current events...]]'''
+}}</div>
+}}<noinclude>
+{{documentation}}
+</noinclude>

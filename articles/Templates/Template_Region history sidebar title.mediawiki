@@ -1,0 +1,8 @@
+<includeonly><div class="sidebar-pretitle" style="margin: -0.2em 0; font-size:69%; font-weight:normal; {{{pretitlestyle|}}}">Part of [[:Category:{{{category|History of {{#if:{{{series|}}}|{{{series}}}|{{{region|{{{country}}}}}}}}}}}|a series]] on the</div></th>
+</tr><tr>
+<th class="sidebar-title-with-pretitle {{{titleclass|{{{aboveclass|}}}}}}" style="background: none; {{{titlestyle|{{{abovestyle|}}}}}}">{{#if:{{{linkoverride|}}} |{{{linkoverride}}} |[[History of {{{region|{{{country}}}}}}|History of <span class="fn org label">{{{region|{{{country}}}}}}</span>]]}}</th>
+</tr>{{#if:{{{image|}}}
+|<tr><td style="padding-bottom: 0.4em; border-bottom: {{{separator-width|1}}}px solid #ccc;{{{imagestyle|}}}">{{{image|}}}</td></tr>
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

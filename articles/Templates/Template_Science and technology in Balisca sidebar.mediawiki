@@ -1,0 +1,89 @@
+{{Sidebar with collapsible lists
+| name = Science and technology in Balisca sidebar
+| title = [[Science and technology in Balisca]]
+| image = [[File:SECCyI.svg|220px]]
+| headingstyle = background:#006747; color:white;
+| liststyle = background:#f0f0f0; text-align:left;
+| listtitlestyle = background:#006747; color:white;
+
+| list1title = Overview
+| list1 =
+* [[Science and technology in Balisca|Overview]]
+* [[History of science and technology in Balisca|History]]
+* [[Science policy in Balisca|Science policy]]
+* [[List of Baliscan scientists|Scientists]]
+* [[List of Baliscan engineers|Engineers]]
+
+| list2title = Institutions
+| list2 =
+* [[Confederal Research Council]]
+* [[Baliscan Academy of Sciences]]
+* [[Ministry of Science and Technology (Balisca)|Ministry of Science and Technology]]
+* [[Confederal Ethics Commission for Research]]
+* [[Baliscan universities|University system]]
+
+| list3title = Research institutes
+| list3 =
+* [[Industrial Technology Research Institute]] (ITRI)
+* [[Tropical Medicine Institute]]
+* [[Agricultural Research Institute]]
+* [[Solar Energy Research Center]]
+* [[Maravíes Aerospace Center]]
+* [[Confederal Supercomputing Center]]
+
+| list4title = Technology sectors
+| list4 =
+* [[Semiconductor industry in Balisca|Semiconductors]]
+* [[Information technology in Balisca|Information technology]]
+* [[Solar energy in Balisca|Solar energy]]
+* [[Biotechnology in Balisca|Biotechnology]]
+* [[Exotechnology in Balisca|Exotechnology]]
+* [[Space program of Balisca|Space technology]]
+
+| list5title = Major companies
+| list5 =
+* [[Baliscan Semiconductor Corporation]] (BSC)
+* [[COCO]]
+* [[Nodos]]
+* [[Cooperative Internet Federation]]
+* [[Baliscan Electric Vehicles]] (BEV)
+
+| list6title = Infrastructure
+| list6 =
+* [[Silico Science and Industrial Park]]
+* [[Internet in Balisca]]
+* [[Telecommunications in Balisca]]
+* [[Supercomputing in Balisca]]
+
+| list7title = Initiatives
+| list7 =
+* [[Baliscan Innovation Initiative]]
+* [[Ethical Innovation Initiative]]
+* [[Cybersecurity and Privacy Initiative]]
+* [[Low Impact Initiative]]
+* [[Confederal Electric Mobility Initiative]] (IMEC)
+
+| list8title = Policy and law
+| list8 =
+* [[Basic Law: Science and Technology]]
+* [[Basic Law: Protection of Privacy]]
+* [[Open-source governance in Balisca]]
+* [[Civic technology in Balisca]]
+* [[Artificial intelligence in Balisca|AI governance]]
+
+| list9title = Related topics
+| list9 =
+* [[Economy of Balisca]]
+* [[Education in Balisca]]
+* [[Energy in Balisca]]
+* [[Manufacturing in Balisca]]
+* [[Environmental policy in Balisca]]
+
+| navbarstyle = background:#006747; color:white;
+| wraplinks = true
+| expanded = Overview
+}}<noinclude>
+{{Documentation}}
+[[Category:Balisca science and technology templates| ]]
+[[Category:Sidebar templates|Balisca science]]
+</noinclude>

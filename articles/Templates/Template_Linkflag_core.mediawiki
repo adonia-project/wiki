@@ -1,0 +1,2 @@
+<span class="flagicon">[[File:{{{flag alias-{{{variant}}}|{{#if:{{{flag alias|}}}|{{{flag alias}}}|Flag placeholder.svg}}}}}|{{#if:{{{size|}}}|{{{size}}}|{{{size flag alias-{{{variant}}}|{{#if:{{{variant|}}}|23x15px|{{{size flag alias|23x15px}}}}}}}}}}|{{{border-{{{variant}}}|{{{border|border}}}}}} |alt={{{alt|{{{alias}}}}}}|link={{{altlink|{{{alias}}}}}}]]</span><noinclude>{{documentation}}
+[[Category:Flag template system cores]]</noinclude>

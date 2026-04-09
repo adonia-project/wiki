@@ -1,0 +1,416 @@
+{{Infobox
+|child    = {{yesno|{{{embed|{{{embedded|}}}}}}|def=}}
+|bodyclass = ib-region-symbols {{#switch:{{{align|}}} |left=ib-region-symbols-left |none=ib-region-symbols-none |center=ib-region-symbols-center |#default=}}
+|templatestyles = Template:Infobox region symbols/styles.css
+
+|title    = <includeonly>{{{title|{{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}||{{#if:{{{region_type|}}}|{{{region_type}}} symbols|{{#if:{{{state|}}}|State symbols|Symbols}}}}{{if last display both|&#32;of&#32;|{{if empty|{{{region|}}}|{{{state|}}}|{{{county|}}}|{{{province|}}}|{{{country|}}}|}}}}}}}}}</includeonly>
+
+| abovestyle = font-size:85%; white-space:nowrap;
+| above = {{#ifexist:List of {{{state}}} state symbols|{{resize|1=120%|2=[[List of {{{state|}}} state symbols|List of state symbols]]}}}}
+
+|subheader = {{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}|{{#if: {{yesno|{{{no_header|}}}|def=}}||Symbols{{if last display both|&#32;of&#32;|{{if empty|{{{region|}}}|{{{state|}}}|{{{county|}}}|{{{province|}}}|{{{country|}}} }} }} }} }}
+|subheaderclass = {{#if:{{yesno|{{{islands|{{{island|}}}}}}|def=}}|ib-region-symbols-island}}
+
+
+| image1 = {{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}||{{#invoke:InfoboxImage|InfoboxImage
+|image={{{image_flag|}}}
+|border={{yesno-yes|{{{image_flag_border|}}}}}
+|size={{{image_flag_size|}}}
+|sizedefault=250px }} }}
+| caption1 = {{Infobox region symbols/linked|{{{flag_link|}}}|<!--
+               -->Flag{{if last display both|&#32;of&#32;|{{if empty|{{{region|}}}|{{{state|}}}|{{{county|}}}|{{{province|}}}|{{{country|}}}}}}}}}
+
+| image2 = {{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}||{{#invoke:InfoboxImage|InfoboxImage
+|image={{{image_seal|}}}
+|size={{{image_seal_size|}}}
+|sizedefault=150px }}}}
+| caption2 = {{Infobox region symbols/linked|{{{seal_link|}}}|<!--
+               -->Seal{{if last display both|&#32;of&#32;|{{if empty|{{{region|}}}|{{{state|}}}|{{{county|}}}|{{{province|}}}|{{{country|}}}}}}}}}
+
+| image3 = {{#invoke:InfoboxImage|InfoboxImage
+|image={{{image_emblem|}}}
+|size={{{image_emblem_size|}}}
+|sizedefault=150px }}
+| caption3 = {{Infobox region symbols/linked|{{{emblem_link|}}}|<!--
+               -->Emblem{{if last display both|&#32;of&#32;|{{if empty|{{{region|}}}|{{{state|}}}|{{{county|}}}|{{{province|}}}|{{{country|}}}}}}}}}
+
+| image4 = {{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}||{{#invoke:InfoboxImage|InfoboxImage
+|image={{{image_arms|}}}
+|size={{{image_arms_size|}}}
+|sizedefault=150px }}}}
+| caption4 = {{link if exists|Coat of arms{{if last display both|&#32;of&#32;|{{if empty|{{{region|}}}|{{{state|}}}|{{{county|}}}|{{{province|}}}|{{{country|}}}}}}}}}
+
+| headerstyle = border-top:#aaa 1px solid
+
+<!-- A spacer below the subheader, if embedded -->
+|rowclass1 = mergedtoprow
+|data1 = {{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}|<div style="height:0px"></div>}}
+
+|rowclass3 = mergedrow
+|label3   = {{#switch:{{{country}}}
+ | India = [[List of Indian state emblems|Emblem]]
+ | #default = Emblem
+ }}
+|data3    = {{{emblem|}}}
+
+|rowclass4 = mergedrow
+|label4   = {{#ifeq:{{{country}}}|United States|[[List of U.S. state and territory nicknames|Nickname]]|Nickname}}
+|data4    = {{{nickname|}}}
+
+|rowclass5 = mergedrow  
+|label5   = {{#switch:{{{country}}} 
+ | India = [[List of Indian state mottos|Motto]]
+ | United States = [[List of U.S. state and territory mottos|Motto]]
+ | #default = Motto
+ }}
+|data5    = {{{motto|}}}
+
+|rowclass6 = mergedrow
+|label6 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state poems|Poem]]|Poem}}
+|data6 = {{{poem|}}}
+
+|rowclass7 = mergedrow
+|label7  = {{#ifeq:{{{country}}}|United States|[[List of U.S. state and territory nicknames|Slogan]]|Slogan}}
+|data7   ={{{slogan|}}}
+
+|rowclass8 = mergedrow
+|label8   = Anthem
+|data8    = {{{anthem|}}}
+
+|rowclass10 = mergedrow
+|label10   = {{#switch:{{{country}}}
+ |India = [[List of Indian state songs|{{#if:{{{song|}}}|Song|Hymn}}]]
+ |United States = [[List of U.S. state songs|Song]]
+ | #default = {{#if:{{{song|}}}|Song|Hymn}}
+ }}
+|data10    = {{if empty|{{{song|}}}|{{{hymn|}}}}}
+
+|rowclass12 = mergedrow
+|label12   = {{#switch:{{{country}}}
+ | India = [[Languages with official status in India|Language]]
+ | #default = Language
+ }}
+|data12    = {{{language|}}}
+
+|rowclass14 = mergedrow
+|label14   = {{#switch:{{{country}}}
+ |India = [[List of Indian state foundation days|Foundation day]]
+ | #default = Foundation day
+ }}
+|data14    = {{{foundation_day|}}}
+
+|rowclass16 = mergedrow
+|label16   = Currency
+|data16    = {{{currency|}}}
+
+|rowclass18 = mergedrow
+|label18   = Calendar
+|data18    = {{{calendar|}}}
+
+|rowclass50 = mergedtoprow
+|header50 = {{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}||{{if both
+|{{#ifexpr:{{#invoke:ParameterCount|main
+    |animal|amphibian|bird|butterfly|cactus|cat|crustacean|dog|domestic_animal|fish|flower|fruit|grass|horse|insect
+    |mammal|marsupial|mascot|mushroom|pet|plant|reptile|tree|vegetable|wildlife_animal}} > 2|1}}
+|{{#ifexpr:{{#invoke:ParameterCount|main
+    |beverage|colour|color|costume|dance|dish|dress|drink|firearm
+    |folk_dance|food|Fossil|fossil|game|instrument|gemstone|lake|mineral
+    |rock|river|shell|ship|soil|sport|sweet|confectionery|tartan|toy|other}} > 2|1}}
+|Living insignia}}}}
+
+|rowclass52 = mergedrow
+|label52   = {{#switch:{{{country}}}
+ | India = [[List of Indian state animals|Animal]]
+ | #default = Animal
+ }}
+|data52 = {{#if:{{{mammal|}}}{{{bird|}}}{{{fish|}}}{{{insect|}}}{{{butterfly|}}}||{{{animal|}}}}}
+
+|rowclass53 = mergedrow
+|label53 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state amphibians|Amphibian]]|Amphibian}}
+|data53 = {{{amphibian|}}}
+
+|rowclass54 = mergedrow
+|label54   = {{#switch:{{{country}}}
+ | India = [[List of Indian state birds|Bird]]
+ | United States = [[List of U.S. state birds|Bird]]
+ | #default = Bird
+ }}
+|data54 = {{{bird|}}}
+
+|rowclass56 = mergedrow
+|label56 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state insects|Butterfly]]|Butterfly}}
+|data56 = {{{butterfly|}}}
+
+|rowclass57 = mergedrow
+|label57 = Cactus
+|data57 = {{{cactus|}}}
+
+|rowclass58 = mergedrow
+|label58 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state mammals|Cat breed]]|Cat breed}}
+|data58 = {{{cat|}}}
+
+|rowclass59 = mergedrow
+|label59 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state crustaceans|Crustacean]]|Crustacean}}
+|data59 = {{{crustacean|}}}
+
+|rowclass60 = mergedrow
+|label60 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state dogs|Dog breed]]|Dog breed}}
+|data60 = {{{dog|}}}
+
+|rowclass61 = mergedrow
+|label61 ={{#ifeq:{{{country}}}|United States|[[List of U.S. state mammals|Domestic animal]]|Domestic animal}}
+|data61 ={{{domestic_animal|}}}
+
+|rowclass62 = mergedrow
+|label62 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state fish|Fish]]|Fish}}
+|data62 = {{{fish|}}}
+
+|rowclass63 = mergedrow
+|label63  = {{#switch:{{{country}}}
+ | India = [[List of Indian state flowers|Flower]]
+ | United States = [[List of U.S. state and territory flowers|Flower]]
+ | #default = Flower
+ }}
+|data63    = {{{flower|}}}
+
+|rowclass64 = mergedrow
+|label64   = Fruit
+|data64  = {{{fruit|}}}
+
+|rowclass65 = mergedrow
+|label65 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state grasses|Grass]]|Grass}}
+|data65 = {{{grass|}}}
+
+|rowclass66 = mergedrow
+|label66 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state mammals|Horse breed]]|Horse breed}}
+|data66 = {{{horse|}}}
+
+|rowclass67 = mergedrow
+|label67 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state insects|Insect]]|Insect}}
+|data67 = {{{insect|}}}
+
+|rowclass68 = mergedrow
+|label68   = {{#switch:{{{country}}}
+ | India = [[List of Indian state animals|Mammal]]
+ | United States = [[List of U.S. state mammals|Mammal]]
+ | #default = Mammal
+ }}
+|data68 = {{{mammal|}}}
+
+|rowclass69 = mergedrow
+|label69 = Marsupial
+|data69 = {{{marsupial|}}}
+
+|rowclass70 = mergedrow
+|label70  = Mascot
+|data70  = {{{mascot|}}}
+
+|rowclass71 = mergedrow
+|label71 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state mushrooms|Mushroom]]|Mushroom}}
+|data71 = {{{mushroom|}}}
+
+|rowclass72 = mergedrow
+|label72 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state dogs|Pet]]|Pet}}
+|data72 = {{{pet|}}}
+
+|rowclass73 = mergedrow
+|label73  = Plant
+|data73   = {{{plant|}}}
+
+|rowclass74 = mergedrow
+|label74 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state reptiles|Reptile]]|Reptile}}
+|data74 = {{{reptile|}}}
+
+|rowclass75 = mergedrow
+|label75  = {{#switch:{{{country}}}
+ | India = [[List of Indian state trees|Tree]]
+ | United States = [[List of U.S. state and territory trees|Tree]]
+ | #default = Tree
+ }}
+|data75   = {{{tree|}}}
+
+|rowclass76 = mergedrow
+|label76 = Vegetable
+|data76   = {{{vegetable|}}}
+
+|rowclass78 = mergedrow
+|label78 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state mammals|Wildlife animal]]|Wildlife animal}}
+|data78  = {{{wildlife_animal|}}}
+
+|rowclass90 = mergedtoprow
+|header90 = {{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}||{{if both
+|{{#ifexpr:{{#invoke:ParameterCount|main
+    |animal|amphibian|bird|butterfly|cactus|cat|crustacean|dog|domestic_animal|fish|flower|fruit|grass|horse|insect
+    |mammal|marsupial|mascot|mushroom|pet|plant|reptile|tree|vegetable|wildlife_animal}} > 2|1}}
+|{{#ifexpr:{{#invoke:ParameterCount|main
+    |beverage|colour|color|costume|dance|dish|dress|drink|firearm
+    |folk_dance|food|Fossil|fossil|game|instrument|gemstone|lake|mineral
+    |rock|river|shell|ship|soil|sport|sweet|confectionery|tartan|toy|other}} > 2|1}}
+|Inanimate insignia}}}}
+
+|rowclass92 = mergedrow
+|label92 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state beverages|Beverage]]|Beverage}}
+|data92 = {{{beverage|}}}
+
+|rowclass94 = mergedrow
+|label94  = {{#ifeq:{{{country}}}|United States
+                |[[List of U.S. state colors|Color]]|{{#if:{{{colour|}}}|Colour|Color}}}}<!--
+                  -->{{Pluralize from text|{{if empty|{{{colors|}}}|{{{colour|}}}|{{{color|}}}}}|likely=(s)|plural=s}}
+|data94   = {{if empty|{{{colors|}}}|{{{colour|}}}|{{{color|}}}}}
+
+|rowclass95 = mergedrow
+|label95  = Confectionery
+|data95 = {{#if:{{{sweet|}}}||{{{confectionery|}}}}}
+
+|rowclass96 = mergedrow
+|label96 = Costume
+|data96 = {{{costume|}}}
+
+|rowclass98 = mergedrow
+|label98   = {{#ifeq:{{{country}}}|United States|[[List of U.S. state dances|Dance]]|Dance}}
+|data98    = {{{dance|}}}
+
+|rowclass99 = mergedrow
+|label99 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state dinosaurs|Dinosaur]]|Dinosaur}}
+|data99 = {{{dinosaur|}}}
+
+|rowclass100 = mergedrow
+|label100 = Dish
+|data100 = {{#if:{{{food|}}}||{{{dish|}}}}}
+
+|rowclass102 = mergedrow
+|label102 = Dress
+|data102 = {{#if:{{{costume|}}}|{{{dress|}}}}}
+
+|rowclass104 = mergedrow
+|label104 = Drink
+|data104   = {{{drink|}}}
+
+|rowclass105 = mergedrow
+|label105 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state firearms|Firearm]]|Firearm}}
+|data105 = {{{firearm|}}}
+
+|rowclass106 = mergedrow
+|label106 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state dances|Folk dance]]|Folk dance}}
+|data106 = {{{folk_dance|}}}
+
+|rowclass108 = mergedrow
+|label108 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state foods|Food]]|Food}}
+|data108 = {{{food|}}}
+
+|rowclass110 = mergedrow
+|label110  = {{#ifeq:{{{country}}}|United States|[[List of U.S. state fossils|Fossil]]|Fossil}}
+|data110   = {{{fossil|}}}
+
+|rowclass112 = mergedrow
+|label112 = Game
+|data112 = {{{game|}}}
+
+|rowclass113 = mergedrow
+|label113 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state minerals, rocks, stones and gemstones|Gemstone]]|Gemstone}}
+|data113 = {{{gemstone|}}}
+
+|rowclass114 = mergedrow
+|label114  = {{#ifeq:{{{country}}}|United States|[[List of U.S. state instruments|Instrument]]|Instrument}}
+|data114  = {{{instrument|}}}
+
+|rowclass116 = mergedrow
+|label116 = Lake
+|data116 = {{#if:{{{river|}}}||{{{lake|}}}}}
+
+|rowclass118 = mergedrow
+|label118  = {{#ifeq:{{{country}}}|United States|[[List of U.S. state minerals, rocks, stones and gemstones|Mineral]]|Mineral}}
+|data118   = {{{mineral|}}}
+
+|rowclass120 = mergedrow
+|label120 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state minerals, rocks, stones and gemstones|Rock]]|Rock}}
+|data120 = {{{rock|}}}
+
+|rowclass122 = mergedrow
+|label122 = River
+|data122 = {{{river|}}}
+
+|rowclass123 = mergedrow
+|label123 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state shells|Shell]]|Shell}}
+|data123 = {{{shell|}}}
+
+|rowclass124 = mergedrow
+|label124 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state ships|Ship]]|Ship}}
+|data124 = {{{ship|}}}
+
+|rowclass126 = mergedrow
+|label126 ={{#ifeq:{{{country}}}|United States|[[List of U.S. state soils|Soil]]|Soil}}
+|data126 = {{{soil|}}}
+
+|rowclass128 = mergedrow
+|label128 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state sports|Sport]]|Sport}}
+|data128 = {{{sport|}}}
+
+|rowclass130 = mergedrow
+|label130 = Sweet
+|data130 = {{{sweet|}}}
+
+|rowclass132 = mergedrow
+|label132 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state tartans|Tartan]]|Tartan}}
+|data132 = {{{tartan|}}}
+
+|rowclass134 = mergedrow
+|label134 = {{#ifeq:{{{country}}}|United States|[[List of U.S. state toys|Toy]]|Toy}}
+|data134 = {{{toy|}}}
+
+|rowclass140 = mergedrow
+|label140 = Other
+|data140 = {{{other|}}}
+
+|rowclass150 = mergedtoprow
+|header150 = {{#if:{{{image_route|}}}|
+{{if empty
+|{{#if:{{{region|}}}|Route marker}}
+|{{#if:{{{county|}}}|County route marker}}
+|{{if both|{{{state|}}}|{{#ifeq:{{{country}}}|United States|1}}|[[Numbered highways in the United States#State highways|State route marker]]}}
+|{{#if:{{{state|}}}|State route marker}}
+|{{#if:{{{province|}}}|Provincial route marker}}
+|{{#if:{{{country|}}}|National route marker}}
+|Route marker}}
+}}
+
+|rowclass152 = mergedrow
+|data152   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image_route|}}}|size=125x85px|title=Route marker}}
+
+|rowclass154 = mergedtoprow
+|header154 = {{#if:{{{image_quarter|}}}|[[50 State quarters|State quarter]]}}
+
+|rowclass156 = mergedrow
+| data156   = {{#if:{{{image_quarter|}}}|{{#invoke:InfoboxImage|InfoboxImage
+|image={{{image_quarter|}}}
+|size={{{image_quarter_size|}}}
+|sizedefault=125x85px
+|title={{{state|}}} quarter dollar coin}}{{#if:{{{quarter_release_date|}}}|<div>Released in {{{quarter_release_date}}}</div>}}}}
+
+| belowstyle = border-top:#aaa 1px solid
+| below    = {{#if:{{yesno|{{{embed|{{{embedded|}}}}}}|def=}}||{{if both|{{{state|}}}|{{#ifeq:{{{country|}}}|United States|1}}|[[Lists of United States state symbols]]}}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox region symbols with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox region symbols]] with unknown parameter "_VALUE_"|ignoreblank=y
+    |title|embed|embedded|align|region_type|region|state|county|province|country
+    |noheader|island|islands|image_flag|image_flag_border|image_flag_size|flag_link
+    |image_seal|image_seal_size|seal_link|image_arms|image_arms_size
+    |image_emblem|image_emblem_size|emblem_link
+    |emblem|nickname|motto|slogan|anthem
+    |poem|song|hymn|language|foundation_day|currency|calendar|animal|amphibian|bird
+    |butterfly|cactus|cat|crustacean|dog|domestic_animal|fish|flower|fruit|grass|horse|insect
+    |mammal|marsupial|mascot|mushroom|pet|plant|reptile|tree|vegetable|wildlife_animal
+    |beverage|colour|color|colors|costume|dance|dinosaur|dish|dress|drink|firearm|folk_dance
+    |food|fossil|game|instrument|gemstone|lake|mineral|rock|river|shell|ship|soil|sport
+    |sweet|confectionery|tartan|toy|other|image_route|image_quarter|image_quarter_size|quarter_release_date
+}}<!--
+-->{{if both|{{{song|}}}|{{{hymn|}}}|{{preview warning|Infobox region symbols cannot have both song and hymn}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+-->{{if both|{{{mammal|}}}|{{{animal|}}}|{{preview warning|Infobox region symbols cannot have both mammal and animal}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+-->{{if both|{{{bird|}}}|{{{animal|}}}|{{preview warning|Infobox region symbols cannot have both bird and animal}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+-->{{if both|{{{fish|}}}|{{{animal|}}}|{{preview warning|Infobox region symbols cannot have both fish and animal}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+-->{{if both|{{{insect|}}}|{{{animal|}}}|{{preview warning|Infobox region symbols cannot have both insect and animal}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+-->{{if both|{{{butterfly|}}}|{{{animal|}}}|{{preview warning|Infobox region symbols cannot have both butterfly and animal}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!---
+-->{{if both|{{{sweet|}}}|{{{confectionery|}}}|{{preview warning|Infobox region symbols cannot have both confectionery and sweet}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+-->{{if both|{{{food|}}}|{{{dish|}}}|{{preview warning|Infobox region symbols cannot have both food and dish}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+-->{{if both|{{{costume|}}}|{{{dress|}}}|{{preview warning|Infobox region symbols cannot have both costume and dress}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+-->{{if both|{{{river|}}}|{{{lake|}}}|{{preview warning|Infobox region symbols cannot have both river and lake}}{{main other|[[Category:Pages using Infobox region symbols with overlapping parameters]]}}}}<!--
+--><noinclude>
+{{documentation}}</noinclude>

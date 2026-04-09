@@ -1,0 +1,25 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Vietnam
+| flag alias = Flag of Vietnam.svg
+| flag alias-1890 = Flag of South Vietnam.svg
+| flag alias-1920 = Second flag of the Nguyen Dynasty.svg
+| flag alias-1945 = Old Flag Of Vietnam.svg
+| link alias-naval = Vietnamese People's Navy
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1890
+| var2 = 1920
+| var3 = 1945
+| redir1 = VNM
+| redir2 = VIE
+| redir3 = Viet Nam
+| related1 = South Vietnam
+| related2 = North Vietnam
+</noinclude>
+}}<noinclude>
+[[fr:Modèle:Country data Viêtnam]]
+[[sl:Predloga:Podatki države Vietnam]]
+</noinclude>

@@ -1,0 +1,29 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Republic of the Congo
+| shortname alias = Congo
+| flag alias = Flag of the Republic of the Congo.svg
+| flag alias-1970 = Flag of the People's Republic of the Congo.svg
+| link alias-military = Armed Forces of the Republic of the Congo
+| flag alias-military =Flag of the Armed Forces of the Republic of the Congo.svg
+| link alias-air force = Congolese Air Force
+| link alias-army = Armed Forces of the Republic of the Congo{{!}}Congolese Army
+| link alias-basketball = Republic of the Congo {{{mw}}} national {{{age|}}} basketball team
+| link alias-volleyball = Republic of the Congo {{{mw}}} national {{{age|}}} volleyball team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| hatnote = {{Redirect|Template:Country data Congo|the neighboring country|Template:Country data Democratic Republic of the Congo}}
+| var1 = 1970
+| redir1 = COG
+| redir2 = CGO
+| redir3 = Congo, Republic of the
+| redir4 = Congo
+| redir5 = Congo-Brazzaville
+| related1 = Democratic Republic of the Congo
+| related2 = People's Republic of the Congo
+| cat = Congo republic
+</noinclude>
+}}

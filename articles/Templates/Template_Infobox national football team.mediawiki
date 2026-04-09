@@ -1,0 +1,166 @@
+{{infobox
+| templatestyles = Infobox/mobileviewfix.css
+| title      = {{{Name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+| above      = {{#if:{{{date|}}}|{{{date}}}}}
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{Badge|}}}|size={{{Badge_size|}}}|sizedefault=200x150px|title=Shirt badge/Association crest}}
+
+| label1     = [[List of national association football teams by nickname|Nickname(s)]]
+| data1      = {{{Nickname|}}}
+| label2     = Association
+| data2      = {{{Association|}}}
+| label3    = Other affiliation
+| data3      = {{{Other-affiliation|}}}
+| label4     = Confederation
+| data4      = {{{Confederation|}}}
+| label5     = {{nowrap|Sub-confederation}}
+| data5      = {{{Sub-confederation|}}}
+| label6     = Head coach
+| data6      = {{{Coach|}}}
+| label7     = [[Captain (association football)|Captain]]
+| data7      = {{{Captain|}}}
+| label8     = Most [[Cap (sport)#Association football|caps]]
+| data8      = {{{Most caps|}}}
+| label9     = Top scorer
+| data9      = {{{Top scorer|}}}
+| label10    = Home stadium
+| data10     = {{{Home Stadium|}}}
+| label11    = [[List of FIFA country codes|FIFA code]]
+| data11     = {{{FIFA Trigramme|}}}
+
+| label12    = [[BSWW Beach Soccer rankings|BSWW ranking]]
+| data12     = {{{BSWW Rank|}}}
+
+| data13     = {{#if:{{{pattern_la1|}}}{{{pattern_b1|}}}{{{pattern_ra1|}}}{{{pattern_sh1|}}}{{{pattern_so1|}}}{{{leftarm1|}}}{{{body1|}}}{{{rightarm1|}}}{{{shorts1|}}}{{{socks1|}}} {{{pattern_la2|}}}{{{pattern_b2|}}}{{{pattern_ra2|}}}{{{pattern_sh2|}}}{{{pattern_so2|}}}{{{leftarm2|}}}{{{body2|}}}{{{rightarm2|}}}{{{shorts2|}}}{{{socks2|}}}{{{pattern_la3|}}}{{{pattern_b3|}}}{{{pattern_ra3|}}}{{{pattern_sh3|}}}{{{pattern_so3|}}}{{{leftarm3|}}}{{{body3|}}}{{{rightarm3|}}}{{{shorts3|}}}{{{socks3|}}}|
+<tr><td style="padding: 0; background: #ffffff; text-align: center; border: 1px solid #D3D3D3;" colspan="2">
+<table style="width:100%; text-align:center;">
+<tr>
+{{#if:{{{pattern_la1|}}}{{{pattern_b1|}}}{{{pattern_ra1|}}}{{{pattern_sh1|}}}{{{pattern_so1|}}}{{{leftarm1|}}}{{{body1|}}}{{{rightarm1|}}}{{{shorts1|}}}{{{socks1|}}}|
+<td style="padding: 0">{{Football kit 
+ | filetype = {{{filetype1|{{{filetype|png}}}}}}
+ | pattern_la = {{{pattern_la1|}}}
+ | pattern_b  = {{{pattern_b1|_unknown}}}
+ | pattern_ra = {{{pattern_ra1|}}}
+ | pattern_sh = {{{pattern_sh1|}}}
+ | pattern_so = {{{pattern_so1|}}}
+ | leftarm    = {{{leftarm1|}}}
+ | body       = {{{body1|}}}
+ | rightarm   = {{{rightarm1|}}}
+ | shorts     = {{{shorts1|}}}
+ | socks      = {{{socks1|}}}
+ | title      = {{{pattern_name1|First}}} [[Kit (association football)|{{#if:{{{American|}}}|colors|colours}}]]
+}}</td>
+}}{{#if:{{{pattern_la2|}}}{{{pattern_b2|}}}{{{pattern_ra2|}}}{{{pattern_sh2|}}}{{{pattern_so2|}}}{{{leftarm2|}}}{{{body2|}}}{{{rightarm2|}}}{{{shorts2|}}}{{{socks2|}}}|
+<td style="padding: 0">{{Football kit
+ | filetype = {{{filetype2|{{{filetype|png}}}}}}
+ | pattern_la = {{{pattern_la2|}}}
+ | pattern_b  = {{{pattern_b2|_unknown}}}
+ | pattern_ra = {{{pattern_ra2|}}}
+ | pattern_sh = {{{pattern_sh2|}}}
+ | pattern_so = {{{pattern_so2|}}}
+ | leftarm    = {{{leftarm2|}}}
+ | body       = {{{body2|}}}
+ | rightarm   = {{{rightarm2|}}}
+ | shorts     = {{{shorts2|}}}
+ | socks      = {{{socks2|}}}
+ | title      = {{{pattern_name2|Second}}} [[Kit (association football)|{{#if:{{{American|}}}|colors|colours}}]]
+}}</td>
+}}{{#if:{{{pattern_la3|}}}{{{pattern_b3|}}}{{{pattern_ra3|}}}{{{pattern_sh3|}}}{{{pattern_so3|}}}{{{leftarm3|}}}{{{body3|}}}{{{rightarm3|}}}{{{shorts3|}}}{{{socks3|}}}|
+<td style="padding: 0">{{Football kit
+ | filetype = {{{filetype3|{{{filetype|png}}}}}}
+ | pattern_la = {{{pattern_la3|}}}
+ | pattern_b  = {{{pattern_b3|_unknown}}}
+ | pattern_ra = {{{pattern_ra3|}}}
+ | pattern_sh = {{{pattern_sh3|}}}
+ | pattern_so = {{{pattern_so3|}}}
+ | leftarm    = {{{leftarm3|}}}
+ | body       = {{{body3|}}}
+ | rightarm   = {{{rightarm3|}}}
+ | shorts     = {{{shorts3|}}}
+ | socks      = {{{socks3|}}}
+ | title      = {{{pattern_name3|Third}}} [[Kit (association football)|{{#if:{{{American|}}}|colors|colours}}]]
+}}</td>
+}}</tr>
+</table></td></tr>}}
+
+| header14   = {{#if:{{{FIFA Rank|}}}{{{FIFA max|}}}{{{FIFA min|}}}|[[FIFA {{#ifeq:{{lc:{{{type|{{{Type}}}}}}}}|women|Women's World Rankings|Men's World Ranking}}|FIFA ranking]]}}
+| label15    = Current
+| data15     = {{{FIFA Rank|}}}
+| label16    = Highest
+| data16     = {{#if:{{{FIFA max|}}}|{{{FIFA max}}} {{#if:{{{FIFA max date|}}}|({{{FIFA max date}}})}} {{#if:{{{FIFA max year|}}}|({{{FIFA max year}}})}}}}
+| label17    = Lowest
+| data17     = {{#if:{{{FIFA min|}}}|{{{FIFA min}}} {{#if:{{{FIFA min date|}}}|({{{FIFA min date}}})}} {{#if:{{{FIFA min year|}}}|({{{FIFA min year}}})}}}}
+| header22   = {{#if:{{{First game|}}}|First international}}{{#if:{{{Only game|}}}|Only international}}
+| data23     = {{{First game|{{{Only game|}}}}}}
+| header24   = {{#if:{{{Last game|}}}|Last international}}
+| data25     = {{{Last game|}}}
+| header26   = {{#if:{{{Largest win|}}}|Biggest win}}
+| data27     = {{{Largest win|}}}
+| header28   = {{#if:{{{Largest loss|}}}|Biggest defeat}}
+| data29     = {{{Largest loss|}}}
+
+| header30   = {{#if:{{{World cup apps|}}}|[[FIFA {{#switch:{{lc:{{{type|{{{Type}}}}}}}}|women=Women's|beach=Beach Soccer|#default=}} World Cup|World Cup]]}}
+| label31    = Appearances
+| data31     = {{{World cup apps|}}} {{#if:{{{World cup first|}}}|(''first in [[{{{World cup first|}}} FIFA {{#switch:{{lc:{{{type|{{{Type}}}}}}}}|women=Women's|beach=Beach Soccer|#default=}} World Cup|{{{World cup first}}}]]'')}}
+| label32    = Best result
+| data32     = {{{World cup best|}}}
+
+| header33   = {{#if: {{{Regional cup apps|}}}|{{{Regional name}}}}}
+| label34    = Appearances
+| data34     = {{{Regional cup apps|}}} {{#if:{{{Regional cup first|}}}|(''first in {{{Regional cup first}}}'')}}
+| label35    = Best result
+| data35     = {{{Regional cup best|}}}
+
+| header36   = {{#if: {{{2ndRegional cup apps|}}}|{{{2ndRegional name}}}}}
+| label37    = Appearances
+| data37     = {{{2ndRegional cup apps|}}} {{#if:{{{2ndRegional cup first|}}}|(''first in {{{2ndRegional cup first}}}'')}}
+| label38    = Best result
+| data38     = {{{2ndRegional cup best|}}}
+
+| header39   = {{#if: {{{3rdRegional cup apps|}}}|{{{3rdRegional name}}}}}
+| label40    = Appearances
+| data40     = {{{3rdRegional cup apps|}}} {{#if:{{{3rdRegional cup first|}}}|(''first in {{{3rdRegional cup first}}}'')}}
+| label41    = Best result
+| data41     = {{{3rdRegional cup best|}}}
+
+| header42   = {{#if: {{{4thRegional cup apps|}}}|{{{4thRegional name}}}}}
+| label43    = Appearances
+| data43     = {{{4thRegional cup apps|}}} {{#if:{{{4thRegional cup first|}}}|(''first in {{{4thRegional cup first}}}'')}}
+| label44    = Best result
+| data44     = {{{4thRegional cup best|}}}
+
+| header45   = {{#if: {{{Confederations cup apps|}}}|[[FIFA Confederations Cup]]}}
+| label46    = Appearances
+| data46     = {{{Confederations cup apps|}}} {{#if:{{{Confederations cup first|}}}|(''first in {{{Confederations cup first}}}'')}}
+| label47    = Best result
+| data47     = {{{Confederations cup best|}}}
+
+| header48   = {{#if: {{{UEFAu21Champ apps|}}}|[[UEFA European Under-21 Championship|UEFA U-21 Championship]]}}
+| label49    = Appearances
+| data49     = {{{UEFAu21Champ apps|}}} {{#if:{{{UEFAu21Champ first|}}}|(''first in {{{UEFAu21Champ first}}}'')}}
+| label50    = Best result
+| data50     = {{{UEFAu21Champ best|}}}
+
+| header51   = {{#if: {{{U20WC apps|}}}|[[FIFA U-20 {{#ifeq:{{lc:{{{type|{{{Type}}}}}}}}|women|Women's World|World}} Cup]]}}
+| label52    = Appearances
+| data52     = {{{U20WC apps|}}} {{#if:{{{U20WC first|}}}|(''first in {{{U20WC first}}}'')}}
+| label53    = Best result
+| data53     = {{{U20WC best|}}}
+
+| header54   = {{#if: {{{U17WC apps|}}}|[[FIFA U-17 {{#ifeq:{{lc:{{{type|{{{Type}}}}}}}}|women|Women's World|World}} Cup]]}}
+| label55    = Appearances
+| data55     = {{{U17WC apps|}}} {{#if:{{{U17WC first|}}}|(''first in {{{U17WC first}}}'')}}
+| label56    = Best result
+| data56     = {{{U17WC best|}}}
+
+| header57     =  {{Infobox medal templates
+  |medals = {{{medaltemplates|}}}
+  |expand = {{{medaltemplates-expand|}}}
+  }}
+
+| label58    = Website
+| data58     = {{{website|}}}
+
+| belowclass = noprint
+| below      = {{#if:{{{Current|}}}|[[File:Soccerball current event.svg|33px|link=|alt=]] ''[[{{{Current}}}|Current season]]''}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox national football team with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox national football team]] with unknown parameter "_VALUE_"|ignoreblank=y| 2ndRegional cup apps | 2ndRegional cup best | 2ndRegional cup first | 2ndRegional name | 3rdRegional cup apps | 3rdRegional cup best | 3rdRegional cup first | 3rdRegional name | 4thRegional cup apps | 4thRegional cup best | 4thRegional cup first | 4thRegional name | American | Association | Badge | Badge_size | body1 | body2 | body3 | BSWW Rank | Captain | Coach | Confederation | Confederations cup apps | Confederations cup best | Confederations cup first | Current | date | Elo max | Elo max date | Elo max year | Elo min | Elo min date | Elo min year | Elo Rank | FIFA max | FIFA max date | FIFA max year | FIFA min | FIFA min date | FIFA min year | FIFA Rank | FIFA Trigramme | filetype | filetype1 | filetype2 | filetype3 | First game | Home Stadium | Largest loss | Largest win | Last game | leftarm1 | leftarm2 | leftarm3 | medaltemplates | medaltemplates-expand | Most caps | Name | Nickname | Only game | Other-affiliation | pattern_b1 | pattern_b2 | pattern_b3 | pattern_la1 | pattern_la2 | pattern_la3 | pattern_name1 | pattern_name2 | pattern_name3 | pattern_ra1 | pattern_ra2 | pattern_ra3 | pattern_sh1 | pattern_sh2 | pattern_sh3 | pattern_so1 | pattern_so2 | pattern_so3 | Regional cup apps | Regional cup best | Regional cup first | Regional name | rightarm1 | rightarm2 | rightarm3 | shorts1 | shorts2 | shorts3 | socks1 | socks2 | socks3 | Sub-confederation | Top scorer | Type | type | U17WC apps | U17WC best | U17WC first | U20WC apps | U20WC best | U20WC first | UEFAu21Champ apps | UEFAu21Champ best | UEFAu21Champ first | website | World cup apps | World cup best | World cup first }}<noinclude>{{documentation}}<!-- please place categories and language links on the documentation page, not here! --></noinclude>

@@ -1,0 +1,13 @@
+{{Infobox rail line|box_width=|name=Castejón Metro Iznájar Line|other_name=Line 6 / I|linenumber=6|native_name=Linia de Metro de Castejón a Iznájar|native_name_lang=bl|color={{rcr|Castejón Metro|I}}|mapcolor={{rcb|Castejón Metro|I|box}} {{W|Shades of blue|Strong blue}} (#{{rcr|Castejón Metro|I}})|logo=Toei_Mita_line_symbol.svg|logo_width2=50px|image=CMRT 6300 series.png|image_width=300px|caption=Iznájar Line {{W|Toei 6300 series|6300 series}} train|type={{W|Rapid transit}}|system=[[Concordia Rapid Transit]]|status=|locale=[[Castejón]]|start={{STN|Amanecer|x}}|end={{STN|Caatiba|x}}|stations=27|routes=|daily_ridership=1,872,467 (2024)|open={{start date and age|1909|04|21|df=yes}}|close=|owner=[[Castejón Metro]]|operator=|character=|depot=Amanecer, Caatiba|stock={{W|Toei 6300 series|6300 series}}|linelength={{cvt|117.63|km|mi|abbr=on}}|tracklength=|tracks=[[w:Double-track railway|Double-track]]|maxincline=3.5%|minradius={{cvt|140|m|ft}} (Main line: Near {{STN|Artés|x}})|gauge={{RailGauge|sg|allk=on}}|electrification={{600 V DC}} ({{W|third rail}})|speed={{cvt|75|km/h}}|trainprotection=|signalling={{Plainlist|
+* Castejón Metro {{W|CS-ATC}}
+* {{W|Communications-based train control}}
+}}|elevation=|map=}}
+
+The '''Castejón Metro Iznájar Line''' ({{Lang-bl|Linia de Metro de Castejón a Iznájar}}) is a [[W:Rapid transit|subway]] line in [[Castejón]], Balisca, operated by [[Castejón Metro]]. The line runs between [[Amanecer Station]] in [[Calañas]] and [[Caatiba Station]] in [[Trinacria]]. The official name is '''Line 6 Iznájar Line'''.
+
+The line's name originates from the [[Arabic language|Arabic]] phrase ''Hisn Ashar'', meaning "stone castle" or "fortress of ten", referring to the masonry [[W:Coastal defence and fortification|coastal fortification]] that it passes over in [[Mercadero]] as part of the western approach of the [[Salto Bay Bridge]]. On maps, diagrams and signboards, the line is shown using the color [[W:Shades of blue|strong blue]], and its stations are given numbers using the letter "I". 
+
+{{Castejón}}{{Balisca articles}}
+[[Category:Castejón]]
+[[Category:Balisca]]
+[[Category:Castejón Metro]]

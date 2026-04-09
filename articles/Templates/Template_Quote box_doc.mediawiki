@@ -1,0 +1,494 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES WHERE INDICATED AT THE END OF THIS PAGE -->__NOTOC__
+{{tsh|qb}}
+{{high use}}
+{{Uses TemplateStyles|Template:Quote box/styles.css}}
+{{Quote box{{\sandbox}} |width=30em |title=Title |quote={{Lorem ipsum}} |author=Author Name |source=source in "Quotes" or ''Italics'' as needed}}
+
+A quote box is an alternative to an inline quote or a block quote. Quote boxes  are displayed in a stand-alone manner  (similar to images) and are best suited to noteworthy or important quotes.  Quote boxes should be used with care, because they lack the context supplied by the flow of the body text, and might present [[WP:POV|point of view issues]] or [[WP:UNDUE|undue weight]] issues. The [[Wikipedia:Manual of Style#Block quotations|Manual of Style guidelines for block quotations]] recommend formatting block quotations using the {{tlx|Blockquote}} template.
+
+* Quotes work best when used with short sentences, and at the start or end of a section, as a hint of or to help emphasize the section's content.
+* For typical quotes, especially those longer than the rest of the paragraph in which they are quoted, {{tlx|Cquote}} provides a borderless quote with decorative quotation marks, and {{tlx|Quote frame}} provides a bordered quote. Both span the article width. (However, do not use {{tlx|Cquote}} for block quotations in articles.)
+* For very short quotes, {{tlx|Rquote}} (with decorative quotation marks) can be used to set the quote off to either the right or left as in a magazine [[Sidebar (publishing)|sidebar]]. This can be effective on [[WP:ESSAY|essay]] pages and [[WP:WIKIPROJECT|WikiProject]] homepages, but should not be used in articles.
+
+== Usage ==
+For actual quotes, and poems, this template (a variant of {{tlx|Quote frame}}) can be used to present a title, quote, author, and source in a box such as that shown opposite, with options to customise its bordering, background, alignment and other aspects. The box itself is floating div, which, like images, can appear on the right or left or across the entire page. Article text will wrap around the div in the first two cases. This is useful in articles that are short on images and need some graphic-like element, or where an important or interesting quote wants to be presented in a way that sets it off from the surrounding text.
+
+'''Caution:''' This is a div-based template, so it may malfunction if indented using wikitext syntax. This is a current limitation of the Wikipedia [[HTML]] parsing software.
+
+When used with a poem, it is convenient to wrap the poem's content in {{tag|poem}} tags; these preserve line breaks without having to manually insert {{tag|br|s}} markup.
+
+{{Quote box|To be or not to be ...}}
+
+=== Parameters ===
+
+'''Basic parameters'''
+* {{para|title}}: Optional title to appear at the top of the quote box.
+* {{para|quote}}: The quote or other text to be displayed in the box.
+* {{para|author}}: Optional name of the author. A {{tag|ref}} reference citation can be added at the end.
+* {{para|source}}: Optional source of the quote ("Quoted" or ''Italic'' work title, and other publication data). A {{tag|ref}} reference citation can be added at the end.
+
+'''Main box styling'''
+* {{para|align}}: Alignment of the quote box on the page—left / right / center / none. Defaults to right alignment. Using <nowiki>align=none</nowiki> will remove word wrapping.
+* {{para|width}}: The width of the quote box. Defaults to the width of the quote included, unless {{para|align|center}} or {{para|align|none}} where the width will default to 100%.
+* {{para|border}}: The width of the quote box border. Defaults to 1px. Remember to include 'px' or 'em' to specify the correct width.
+* {{para|fontsize}}: The fontsize of the quote box text; specify a percentage, e.g. {{para|fontsize|90%}}. Use font sizes of 85% or higher, per [[MOS:SMALLFONT]].
+* {{para|bgcolor}}: The RGB background color of the box. Defaults to #F9F9F9 (light gray). 
+* {{para|style}}: A generic CSS style parameter. Entries in this parameter supersede any duplicates in the preceding parameters.
+
+'''Title styling'''
+* {{para|title_bg}}: The RGB background color of the title. Defaults to #F9F9F9 (light gray). 
+* {{para|title_fnt}}: The title font color. Defaults to black.
+* {{para|tstyle}}: A generic CSS style parameter. Entries in this parameter supersede any duplicates in the preceding title parameters.
+
+'''Quote styling'''
+* {{para|qalign}}: Alignment of the quote element—left / right / center. Defaults to left.
+* {{para|qstyle}}: A generic CSS style parameter. Entries in this parameter supersede any duplicates in the preceding quote parameters.
+* {{para|quoted}}: If this parameter evaluates to true (is not 0, false, or empty) the quote box will enclose the quote in ''fat-quotes''. Use judiciously; quote marks do not display in mainspace (articles) per [[MOS:BLOCKQUOTE]].
+
+'''Source styling'''
+These affect the entire {{para|author}} and {{para|source}} block, below the quotation.
+* {{para|salign}}: Alignment of the source element—left / right / center. Defaults to the value of qalign.
+* {{para|sstyle}}: A generic CSS style parameter. Entries in this parameter supersede any duplicates in the preceding source parameters.
+
+=== Full syntax ===
+
+<syntaxhighlight lang="wikitext">
+{{Quote box
+ |class     = <!-- Advanced users only. See the "Custom classes" section below. -->
+ |title     = 
+ |quote     = 
+ |author    = 
+ |source    = 
+ |align     = 
+ |width     = 
+ |border    = 
+ |fontsize  = 
+ |bgcolor   = 
+ |style     = 
+ |title_bg  = 
+ |title_fnt = 
+ |tstyle    = 
+ |qalign    = 
+ |qstyle    = 
+ |quoted    = 
+ |salign    = 
+ |sstyle    = 
+}}
+</syntaxhighlight>
+
+=== Examples ===
+
+Various example codes and their results. For more intricate examples see [[Template:Quote box/examples]]. In the examples the {{tl|lorem ipsum}} template merely generates several lines of sample text without meaning, and is not part of the quote syntax.
+
+==== Floating and wrapping ====
+
+'''Minimal code, defaults to floating right and minimal width:'''
+
+{{demo|<nowiki>{{Quote box
+ |quote  = Cry "Havoc", and let slip the dogs of war.
+ |author = [[William Shakespeare]]
+ |source = ''[[Julius Caesar (play)|Julius Caesar]]'', Act III, Scene I.
+}}
+{{Lorem ipsum}}</nowiki>}}{{-}}
+
+'''Floating right:'''
+
+{{demo|<nowiki>{{Quote box
+ |quote  = Cry "Havoc", and let slip the dogs of war.
+ |author = [[William Shakespeare]]
+ |source = ''[[Julius Caesar (play)|Julius Caesar]]'', Act III, Scene I.
+ |width  = 50%
+ |align  = right
+}}
+{{Lorem ipsum}}</nowiki>}}{{-}}
+
+'''Floating left:'''
+
+{{demo|<nowiki>{{Quote box
+ |quote  = Cry "Havoc", and let slip the dogs of war.
+ |author = [[William Shakespeare]]
+ |source = ''[[Julius Caesar (play)|Julius Caesar]]'', Act III, Scene I.
+ |width  = 50%
+ |align  = left
+}}
+{{Lorem ipsum}}</nowiki>}}{{-}}
+
+'''Centered, not floating:'''
+
+{{demo|<nowiki>{{Quote box
+ |quote  = Cry "Havoc", and let slip the dogs of war.
+ |author = [[William Shakespeare]]
+ |source = ''[[Julius Caesar (play)|Julius Caesar]]'', Act III, Scene I.
+ |width  = 50%
+ |align  = center
+}}
+{{Lorem ipsum}}</nowiki>}}{{-}}
+
+==== Fat-quotes ====
+
+{{demo|<nowiki>{{Quote box
+ |quote  = Cry "Havoc", and let slip the dogs of war.
+ |author = [[William Shakespeare]]
+ |source = ''[[Julius Caesar (play)|Julius Caesar]]'', Act III, Scene I.
+ |quoted = 1
+}}</nowiki>}}{{-}}
+
+==== Alignment of text in box====
+
+{{demo|<nowiki>{{Quote box
+ |title  = Centered quote
+ |quote  = Cry "Havoc", and let slip the dogs of war.
+ |author = [[William Shakespeare]]
+ |source = ''[[Julius Caesar (play)|Julius Caesar]]'', Act III, Scene I.
+ |qalign = center
+}}</nowiki>}}{{-}}
+
+{{demo|<nowiki>{{Quote box
+ |title  = Left title, right quote
+ |tstyle = text-align: left;
+ |quote  = Cry "Havoc", and let slip the dogs of war.
+ |author = [[William Shakespeare]]
+ |source = ''[[Julius Caesar (play)|Julius Caesar]]'', Act III, Scene I.
+ |qalign = right
+}}</nowiki>}}{{-}}
+
+==== Custom classes ====
+'''This parameter should only be used by editors who fully understand how this template works.'''
+The "class=" parameter can be used to add a generic CSS class to this template. Some classes are not compatible with other options or require specific options be set to be useful or look good.
+
+===== Letterhead custom class =====
+The "letterhead" class should be used with {{para|title_bg|none}}, {{para|border|none}}, and {{para|bgcolor}} either not used or set to "none". Since the upper-left-corner will have a white background, it should only be used on pages with a white background.
+
+Care should be taken that neither the title nor the text extends into the "left corner" portion of the box. To use a blank line for a title, use {{para|title|&amp;nbsp;}}. To provide a blank line at the bottom of the letterhead, add <nowiki><br /><br /></nowiki> to the end of the {{para|source}} parameter (or {{para|author}}, if {{para|source}} was not used).
+
+{{demo|<nowiki>{{Quote box
+ |class    = letterhead
+ |title    = &nbsp;
+ |tstyle   = text-align: right;
+ |title_bg = none
+ |border   = none
+ |quote    = Cry "Havoc", and let slip the dogs of war.
+ |author   = [[William Shakespeare]]
+ |source   = ''[[Julius Caesar (play)|Julius Caesar]]'', Act III, Scene I.<br /><br />
+ |qalign   = right
+}}</nowiki>}}{{-}}
+
+==== Collapsing text ====
+
+Sections of text can be collapsed by use of {{tl|hidden begin}} and {{tl|hidden end}}.
+
+{{markup
+|<nowiki>{{Quote box
+|border  = 2px
+|align   = center
+|bgcolor = Cornsilk
+|title   = The Spider and the Fly
+|halign  = center
+|quote   = <poem>
+"Will you walk into my parlour?" said the Spider to the Fly,
+"'Tis the prettiest little parlour that ever you did spy;
+The way into my parlour is up a winding stair,
+And I've a many curious things to shew when you are there."
+"''Oh no, no,''" said the little Fly,&nbsp;"''to ask me is in vain,''
+''For who goes up your winding stair can ne'er come down again.''"
+{{hidden begin}}
+"I'm sure you must be weary, dear, with soaring up so high;
+Will you rest upon my little bed?" said the Spider to the Fly.
+"There are pretty curtains drawn around; the sheets are fine and thin,
+And if you like to rest awhile, I'll snugly tuck you in!"
+"''Oh no, no,''" said the little Fly,&nbsp;"''for I've often heard it said,''
+''They never, never wake again, who sleep upon your bed!''"
+{{hidden end}}
+</poem>
+|salign  = right
+|author  = [[Mary Howitt]]
+|source  = <small>1829</small>
+}}</nowiki>
+|{{Quote box
+|border  = 2px
+|align   = center
+|bgcolor = Cornsilk
+|title   = The Spider and the Fly
+|halign  = center
+|quote   = <poem>
+"Will you walk into my parlour?" said the Spider to the Fly,
+<span style="padding-right:.15em;">"</span>'Tis the prettiest little parlour that ever you did spy;
+The way into my parlour is up a winding stair,
+And I've a many curious things to shew when you are there."
+"''Oh no, no,''" said the little Fly,&nbsp;"''to ask me is in vain,''
+''For who goes up your winding stair can ne'er come down again.''"
+{{hidden begin}}
+"I'm sure you must be weary, dear, with soaring up so high;
+Will you rest upon my little bed?" said the Spider to the Fly.
+"There are pretty curtains drawn around; the sheets are fine and thin,
+And if you like to rest awhile, I'll snugly tuck you in!"
+"''Oh no, no,''" said the little Fly,&nbsp;"''for I've often heard it said,''
+''They never, never wake again, who sleep upon your bed!''"
+{{hidden end}}
+</poem>
+|salign  = right
+|author  = [[Mary Howitt]]
+|source  = <small>1829</small>
+}}
+}}
+
+Note that, although {{para|halign|center}}, the centering is reset after the {{tl|hidden begin}}, since that template applies its own styling. This can be resolved by using {{para|contentstyle}} in {{tl|hidden begin}} with appropriate markup; in this case:
+:{{tlx|hidden begin |ta2{{=}}center |contentstyle{{=}}margin: 1em auto;}}
+
+{{markup
+|<nowiki>{{Quote box
+|border  = 2px
+|align   = center
+|bgcolor = Cornsilk
+|title   = The Spider and the Fly
+|halign  = center
+|quote   = <poem>
+"Will you walk into my parlour?" said the Spider to the Fly,
+"'Tis the prettiest little parlour that ever you did spy;
+The way into my parlour is up a winding stair,
+And I've a many curious things to shew when you are there."
+"''Oh no, no,''" said the little Fly,&nbsp;"''to ask me is in vain,''
+''For who goes up your winding stair can ne'er come down again.''"
+{{hidden begin||ta2=center|contentstyle=margin: 1em auto;}}
+"I'm sure you must be weary, dear, with soaring up so high;
+Will you rest upon my little bed?" said the Spider to the Fly.
+"There are pretty curtains drawn around; the sheets are fine and thin,
+And if you like to rest awhile, I'll snugly tuck you in!"
+"''Oh no, no,''" said the little Fly,&nbsp;"''for I've often heard it said,''
+''They never, never wake again, who sleep upon your bed!''"
+{{hidden end}}
+</poem>
+|salign  = right
+|author  = [[Mary Howitt]]
+|source  = <small>1829</small>
+}}
+</nowiki>
+|{{Quote box
+|border  = 2px
+|align   = center
+|bgcolor = Cornsilk
+|title   = The Spider and the Fly
+|halign  = center
+|quote   = <poem>
+"Will you walk into my parlour?" said the Spider to the Fly,
+<span style="padding-right:.15em;">"</span>'Tis the prettiest little parlour that ever you did spy;
+The way into my parlour is up a winding stair,
+And I've a many curious things to shew when you are there."
+"''Oh no, no,''" said the little Fly,&nbsp;"''to ask me is in vain,''
+''For who goes up your winding stair can ne'er come down again.''"
+{{hidden begin||ta2=center|contentstyle=margin: 1em auto;}}
+"I'm sure you must be weary, dear, with soaring up so high;
+Will you rest upon my little bed?" said the Spider to the Fly.
+"There are pretty curtains drawn around; the sheets are fine and thin,
+And if you like to rest awhile, I'll snugly tuck you in!"
+"''Oh no, no,''" said the little Fly,&nbsp;"''for I've often heard it said,''
+''They never, never wake again, who sleep upon your bed!''"
+{{hidden end}}
+</poem>
+|salign  = right
+|author  = [[Mary Howitt]]
+|source  = <small>1829</small>
+}}
+}}
+
+=== TemplateData ===
+{{TemplateData header}}
+<templatedata>
+{
+	"description": "Put a quote, and its source, inside a box, with flexible control over bordering, background color, alignment, and other features",
+	"params": {
+		"class": {
+			"label": "CSS class",
+			"description": "Optional CSS class to modify or override the default class ''quotebox''. Care should be used when using this parameter. Consider using other templates instead. See the ''Custom classes'' section of this document for more information.",
+			"type": "string",
+			"required": false
+		},
+		"title": {
+			"label": "Title",
+			"description": "Optional title to appear at the top of the quote box.",
+			"type": "string",
+			"required": false
+		},
+		"quote": {
+			"label": "Quote",
+			"description": "The quote or text to be displayed in the box.",
+			"type": "content",
+			"required": true,
+			"aliases": [
+				"1",
+				"content",
+				"quotetext",
+				"text"
+			]
+		},
+		"source": {
+			"label": "Source",
+			"description": "Optional source of the quote (author, publication, etc.). Set off from author with a comma.",
+			"type": "string",
+			"required": false,
+			"aliases": [
+				"3"
+			]
+		},
+		"align": {
+			"label": "Alignment",
+			"description": "Alignment of the quote box on the page—left / right / center / none. Defaults to right alignment. Using align=none will remove word wrapping.",
+			"type": "string",
+			"required": false,
+			"suggestedvalues": [
+				"left",
+				"center",
+				"right",
+				"none"
+			]
+		},
+		"width": {
+			"label": "Width",
+			"description": "The width of the quote box. Defaults to the width of the quote included, unless align=center where the width will default to 100%. Use CSS lengths eg. 50% or 400px",
+			"type": "string",
+			"required": false
+		},
+		"border": {
+			"label": "Border width",
+			"description": "The width of the quote box border. Defaults to 1px. Remember to include 'px' or 'em' to specify the correct width.",
+			"type": "string",
+			"required": false
+		},
+		"fontsize": {
+			"label": "Font size",
+			"description": "The fontsize of the quote box text. Defaults to 88%.",
+			"type": "string",
+			"required": false
+		},
+		"bgcolor": {
+			"label": "Background color",
+			"description": "The RGB background color of the box. Defaults to #F9F9F9 (light gray).",
+			"type": "string",
+			"required": false
+		},
+		"style": {
+			"label": "CSS style",
+			"description": "A generic CSS style parameter. Entries in this parameter supersede any duplicates in the preceding parameters.",
+			"type": "string",
+			"required": false
+		},
+		"title_bg": {
+			"label": "Title background color",
+			"description": "The RGB background color of the title. Defaults to #F9F9F9 (light gray).",
+			"type": "string",
+			"required": false
+		},
+		"title_fnt": {
+			"label": "Title font color",
+			"description": "The title font color. Defaults to black.",
+			"type": "string",
+			"required": false
+		},
+		"tstyle": {
+			"label": "Title CSS style",
+			"description": "A generic CSS style parameter. Entries in this parameter supersede any duplicates in the preceding title parameters.",
+			"type": "string",
+			"required": false
+		},
+		"qalign": {
+			"label": "Quote alignment",
+			"description": "Alignment of the quote element—left / right / center. Defaults to left.",
+			"type": "string",
+			"required": false,
+			"aliases": [
+				"halign"
+			],
+			"suggestedvalues": [
+				"left",
+				"center",
+				"right"
+			]
+		},
+		"qstyle": {
+			"label": "Quote CSS style",
+			"description": "A generic CSS style parameter. Entries in this parameter supersede any duplicates in the preceding quote parameters.",
+			"type": "string",
+			"required": false
+		},
+		"quoted": {
+			"label": "Add quotes?",
+			"description": "If this parameter evaluates to true (is not 0, false, or empty) the quote box will enclose the quote in fat-quotes. Use judiciously, and read the Manual of Style.",
+			"type": "string",
+			"required": false
+		},
+		"salign": {
+			"label": "Source alignment",
+			"description": "Alignment of the source element—left / right / center. Defaults to the value of qalign.",
+			"type": "string",
+			"required": false,
+			"suggestedvalues": [
+				"left",
+				"center",
+				"right"
+			]
+		},
+		"sstyle": {
+			"label": "Source CSS style",
+			"description": "A generic CSS style parameter. Entries in this parameter supersede any duplicates in the preceding source parameters.",
+			"type": "string",
+			"required": false
+		},
+		"tclass": {
+			"label": "Title CSS class",
+			"description": "Advanced: additional classes to apply to the title element",
+			"type": "string"
+		},
+		"qclass": {
+			"label": "Quote CSS class",
+			"description": "Advanced: additional classes to apply to the quote's element"
+		},
+		"author": {
+			"aliases": [
+				"2"
+			],
+			"label": "Author",
+			"description": "The author to whom the quote is attributed",
+			"type": "line"
+		}
+	},
+	"format": "block",
+	"paramOrder": [
+		"class",
+		"title",
+		"quote",
+		"author",
+		"source",
+		"align",
+		"width",
+		"border",
+		"fontsize",
+		"bgcolor",
+		"style",
+		"title_bg",
+		"title_fnt",
+		"tstyle",
+		"qalign",
+		"qstyle",
+		"quoted",
+		"salign",
+		"sstyle",
+		"tclass",
+		"qclass"
+	]
+}
+</templatedata>
+
+== Tracking category ==
+* {{clc|Category:Pages using quote box with unknown parameters}}
+
+==See also==
+* {{tl|Floated box}}
+{{Quotation templates}}
+
+<includeonly>{{Sandbox other|
+| <!-- CATEGORIES BELOW THIS LINE, PLEASE: -->
+[[Category:Enhanced quote templates]]
+[[Category:Templates that add a tracking category|{{PAGENAME}}]]
+
+}}</includeonly>

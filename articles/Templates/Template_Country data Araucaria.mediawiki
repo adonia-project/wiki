@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Araucaria
+| flag alias = Flag of Araucaria.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| flag alias-1918 = Araucarian Council Republic.svg
+| flag alias-estrellada = Flag of Araucaria (red star).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| var1 = 1918
+| var2 = estrellada
+}}

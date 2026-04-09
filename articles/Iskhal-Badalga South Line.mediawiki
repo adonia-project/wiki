@@ -1,0 +1,306 @@
+{{Infobox rail line
+| name = Iskhal-Badalga South Line
+| native_name = Dhaqso Iskhal-Badalga Koonfur
+| image =
+| caption =
+| type = High-speed rail
+| system = [[Burawa High-Speed Rail Network]]
+| status = Operational
+| locale = [[South Hudur]] – [[Haro (Metropolitan Administration)|Haro]] corridor
+| start = [[Mazar National Station]] / [[Iskhal Main Station]]
+| end = [[Badalga Central Station]]
+| stations = 11
+| routes = 10 (SX1, SX2, A, B, C, D, E, F, G, Local)
+| open = 2011
+| close =
+| owner = [[BuRail]]
+| operator = [[BuRail]]
+| character = Elevated, at-grade, tunnel
+| length_km = 337.99
+| length_mi = 209.7
+| gauge = 1,435 mm (standard gauge)
+| electrification = 25 kV AC overhead
+| max_speed = 350 km/h (217 mph)
+| ridership = 100 million (2026)
+| ridership_date = 2026
+| rolling_stock = [[Dhaqso-V]]
+}}
+
+The '''Iskhal-Badalga South Line''' (Burawi: ''Dhaqso Iskhal-Badalga Koonfur'') is a high-speed rail line in [[Burawa]] connecting the [[South Hudur]] and [[Haro (Metropolitan Administration)|Haro]] metropolitan areas via a southern alignment. The line runs from either [[Mazar National Station]] or [[Iskhal Main Station]] to [[Badalga Central Station]], a distance of approximately 338 kilometers. The line opened in 2011 after nine years of construction, providing relief to the congested [[Iskhal-Badalga North Line]].
+
+The Iskhal-Badalga South Line carries approximately 100 million passengers annually as of 2026, making it the second-busiest high-speed rail line in Burawa after the North Line. The line operates ten service patterns: two super express services (SX1, SX2), five express services (A, B, C, D, E), two limited services (F, G), and one all-stop local service. The line serves major business commuter pairs including Mazar-Docol, Docol-Badalga, Mazar-Khar, and Iskhal-Docol.
+
+Despite being approximately 32 kilometers longer than the North Line, the South Line's SX2 super express service provides the fastest journey between Iskhal and Badalga. The non-stop service, operating at 350 km/h, completes the journey in approximately 50 minutes, compared to the North Line's Express A service which takes approximately 70 minutes despite the shorter distance.
+
+== Route ==
+
+The Iskhal-Badalga South Line runs south of the [[Buran River]], providing an alternative route to the [[Iskhal-Badalga North Line]]. Services originate from either [[Mazar National Station]] or [[Iskhal Main Station]], converging at [[Iskhal Central Station]] before continuing to [[Badalga]].
+
+=== Stations ===
+
+{| class="wikitable"
+|-
+! Station
+! Distance from Mazar (km)
+! Distance from previous (km)
+! Services
+! Connections
+|-
+| [[Mazar National Station]]
+| 0.00
+| —
+| SX1, A, B, E, F, Local
+| [[Iskhal-Badalga North Line]], [[Mazar-Iskhal Railway]]
+|-
+| [[Iskhal Central Station]]
+| 7.20
+| 7.20
+| A, D, F, G
+| [[Iskhal-Badalga North Line]], [[Kankadadka-Iskhal Line]], [[Kaysoor-Iskhal Line]], [[Iskhal-Qallahere Line]], [[Iskhal-Adado Line]]
+|-
+| [[Iskhal Main Station]]
+| 24.83
+| 17.63
+| SX2, C, D, G
+| [[Iskhal-Badalga North Line]], [[Kankadadka-Iskhal Line]], [[Kaysoor-Iskhal Line]], [[Iskhal-Qallahere Line]]
+|-
+| [[Docol Central Station]]
+| 64.93
+| 40.10
+| A, B, C, F, G, Local
+| —
+|-
+| [[Beledweenga Central Station]]
+| 93.29
+| 28.35
+| G, Local
+| —
+|-
+| [[Buuldheerta North Station]]
+| 122.47
+| 29.18
+| F, Local
+| —
+|-
+| [[Dhaltoona Station]]
+| 158.00
+| 35.54
+| G, Local
+| —
+|-
+| [[Dhardheer North Station]]
+| 200.87
+| 42.87
+| F, Local
+| —
+|-
+| [[Khar West Station]] (Caasar)
+| 251.34
+| 50.47
+| A, C, D, E, F, G, Local
+| —
+|-
+| [[Cadadgaka South Station]]
+| 308.34
+| 57.00
+| G, Local
+| —
+|-
+| [[Badalga Central Station]]
+| 337.99
+| 29.65
+| All services
+| [[Haro Metro]], [[Iskhal-Badalga North Line]], [[Badalga-Laasqoray Line]], [[Badalga-Maianka Line]], [[Badalga-Khar Line]]
+|}
+
+=== Service patterns ===
+
+The Iskhal-Badalga South Line operates ten distinct service patterns, the most of any high-speed rail line in Burawa. The multiple patterns reflect the line's role in serving numerous business commuter pairs within the South Hudur–Haro corridor.
+
+{| class="wikitable"
+|-
+! Service
+! Type
+! Origin
+! Stops
+! Destination
+! Journey time
+|-
+| SX1
+| Super Express
+| Mazar
+| Non-stop
+| Badalga
+| ~58 min
+|-
+| SX2
+| Super Express
+| Iskhal Main
+| Non-stop
+| Badalga
+| ~50 min
+|-
+| A
+| Express
+| Mazar
+| Iskhal Central, Docol, Khar West
+| Badalga
+| ~75 min
+|-
+| B
+| Express
+| Mazar
+| Docol, Badalga only
+| Badalga
+| ~65 min
+|-
+| C
+| Express
+| Iskhal Main
+| Docol, Khar West
+| Badalga
+| ~60 min
+|-
+| D
+| Express
+| Iskhal Main
+| Iskhal Central, Khar West
+| Badalga
+| ~55 min
+|-
+| E
+| Express
+| Mazar
+| Khar West, Badalga only
+| Badalga
+| ~70 min
+|-
+| F
+| Limited
+| Mazar
+| Iskhal Central, Docol, Buuldheerta, Dhardheer, Khar West
+| Badalga
+| ~110 min
+|-
+| G
+| Limited
+| Iskhal Main
+| Iskhal Central, Docol, Beledweenga, Dhaltoona, Khar West, Cadadgaka
+| Badalga
+| ~100 min
+|-
+| Local
+| Local
+| Mazar
+| All stations
+| Badalga
+| ~145 min
+|}
+
+During peak hours (6–9 AM and 4–7 PM), super express services operate every 15 minutes, express services every 10–15 minutes, and limited and local services every 20 minutes. Off-peak frequencies are reduced by approximately half.
+
+== History ==
+
+=== Planning and approval ===
+
+By 2000, the [[Iskhal-Badalga North Line]] was operating significantly above capacity, with annual ridership exceeding 110 million passengers. Chronic overcrowding and delays prompted the [[BuRail]] corporation and the Burawi government to propose a parallel line to relieve congestion. The southern alignment, running south of the [[Buran River]], was selected to serve additional population centers and provide redundancy in the corridor.
+
+=== Construction (2002–2011) ===
+
+Construction of the Iskhal-Badalga South Line began in 2002. The project involved significant engineering challenges, including the upgrading of existing conventional railway tracks to high-speed standards and the construction of large underground sections through the Iskhal metropolitan area. The line was designed for higher speeds than the North Line, with a maximum operating speed of 350 km/h.
+
+The line opened in 2011, nine years after construction began. The total cost was approximately 4.1 billion hanti (equivalent to approximately 8.5 billion hanti in 2026 values).
+
+=== Induced demand ===
+
+Following the South Line's opening, total corridor ridership continued to grow rather than split evenly between the two lines. The North Line maintained approximately 95 million annual passengers, while the South Line attracted approximately 75 million initially, growing to 100 million by 2026. This phenomenon, attributed to induced demand, reflected the improved convenience and capacity of the corridor attracting new passengers who had previously avoided rail travel due to congestion.
+
+== Rolling stock ==
+
+{{main|Dhaqso}}
+
+The Iskhal-Badalga South Line is operated primarily by [[Dhaqso-V]] trainsets manufactured by the [[Burawa Train Materials Manufacturing Corporation]] (BTMMC). The Dhaqso-V is the fifth generation of the Dhaqso series, with a maximum operating speed of 350 km/h.
+
+Standard formations consist of 12 cars with 960 seats, while extended peak-hour formations consist of 16 cars with 1,280 seats. The trainsets feature two seating classes: Commuter (2+3 dense seating) and Economy (2+2 comfortable seating).
+
+A small number of Dhaqso-IV trainsets (320 km/h) operate on the South Line during peak hours to supplement capacity.
+
+== Ridership ==
+
+The Iskhal-Badalga South Line is the second-busiest railway line in Burawa. Annual ridership has grown from approximately 75 million in 2012 to over 100 million in 2026.
+
+{| class="wikitable"
+|-
+! Year
+! Annual ridership
+! Notes
+|-
+| 2012
+| 75 million
+| First full year
+|-
+| 2015
+| 82 million
+| Growing demand
+|-
+| 2020
+| 92 million
+| —
+|-
+| 2026
+| 100 million
+| Current
+|}
+
+The line serves numerous business commuter pairs within the South Hudur–Haro corridor, including Mazar-Docol, Docol-Badalga, Mazar-Khar, and Iskhal-Docol. The high frequency of express services between these pairs reflects the commercial and economic ties between the cities.
+
+== Stations ==
+
+=== Mazar National Station ===
+
+[[Mazar National Station]] serves as the primary rail terminus for [[Mazar]], one of the major cities of the [[South Hudur]] metropolitan area. The station provides connections to the [[Iskhal-Badalga North Line]] and the [[Mazar-Iskhal Railway]]. The station is the origin for six of the ten service patterns on the South Line.
+
+=== Iskhal Central Station ===
+
+{{main|Iskhal Central Station}}
+
+[[Iskhal Central Station]] is a historic station in the southern part of [[Iskhal]], serving the older districts of the city. The station was extensively remodeled in the late 20th century to accommodate high-speed rail services. The station serves as the convergence point for services originating from Mazar and Iskhal Main, and provides connections to numerous high-speed rail lines.
+
+=== Iskhal Main Station ===
+
+{{main|Iskhal Main Station}}
+
+[[Iskhal Main Station]] is the primary station serving the central business district of [[Iskhal]]. The station serves as the origin for four of the ten service patterns on the South Line (SX2, C, D, G).
+
+=== Docol Central Station ===
+
+[[Docol Central Station]] serves [[Docol]], a major commercial center within the [[South Hudur]] metropolitan area. The station is a key stop for express services, reflecting the strong business travel demand between Docol and other cities.
+
+=== Khar West Station (Caasar) ===
+
+[[Khar West Station]], also known as Caasar, serves the western approach to [[Khar]], a major city in the [[Haro (Metropolitan Administration)|Haro]] metropolitan area. The station is a stop for several express services, providing direct connections to Mazar and Iskhal.
+
+=== Badalga Central Station ===
+
+{{main|Badalga Central Station}}
+
+[[Badalga Central Station]] serves as the northern terminus of the Iskhal-Badalga South Line. The station is integrated with the [[Haro Metro]] system and provides connections to the [[Iskhal-Badalga North Line]], [[Badalga-Laasqoray Line]], [[Badalga-Maianka Line]], and [[Badalga-Khar Line]].
+
+== See also ==
+
+* [[Iskhal-Badalga North Line]]
+* [[BuRail]]
+* [[Dhaqso]]
+* [[Burawa Train Materials Manufacturing Corporation]]
+* [[High-speed rail in Burawa]]
+* [[Transport in Burawa]]
+
+{{Navbox Burawa transport}}
+{{Navbox BuRail services}}
+
+[[Category:Railway lines in Burawa]]
+[[Category:High-speed railway lines in Burawa]]
+[[Category:BuRail]]
+[[Category:Transport in South Hudur]]
+[[Category:Transport in Haro]]
+[[Category:2011 establishments in Burawa]]

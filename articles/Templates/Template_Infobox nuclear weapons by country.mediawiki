@@ -1,0 +1,51 @@
+{{Infobox
+| above   = {{{country_name|}}}
+| image   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image_location|}}}|size=250px|title=Location of {{{country_name}}}}}
+| label1  = Nuclear program start date
+| data1   = {{{program_start|}}}
+| label2  = First nuclear weapon test
+| data2   = {{{first_test|}}}
+| label3  = First thermonuclear weapon test
+| data3   = {{{first_fusion|}}}
+| label4  = Last nuclear test
+| data4   = {{{last_test|}}}
+| label5  = Largest yield test
+| data5   = {{{largest_yield|}}}
+| label6  = Total tests
+| data6   = {{{total_tests|}}}
+| label7  = Peak stockpile
+| data7   = {{{peak_stockpile|}}}
+| label8  = Current stockpile
+| data8   = {{{current_stockpile|}}}
+| label9  = Current strategic arsenal
+| data9   = {{{current_usable_stockpile|}}}
+| label10  = Cumulative strategic arsenal in [[TNT equivalent|megatonnage]]
+| data10   = {{{current_usable_stockpile_megatonnage|}}}
+| label11  = Maximum missile range
+| data11   = {{{maximum_range|}}}
+| label12 = [[Nuclear Non-Proliferation Treaty|NPT]] party
+| data12  = {{{NPT_party|}}}
+}}<noinclude>
+{{Documentation|content=
+<syntaxhighlight lang="wikitext" style="overflow: auto;">
+{{Infobox nuclear weapons by country
+| country_name = 
+| image_location = 
+| program_start = 
+| first_test = 
+| first_fusion = 
+| last_test = 
+| largest_yield = 
+| total_tests = 
+| peak_stockpile = 
+| current_stockpile = 
+| current_usable_stockpile = 
+| current_usable_stockpile_megatonnage = 
+| maximum_range = 
+| NPT_party = 
+}}</syntaxhighlight>
+}}
+[[Category:Place-related infobox templates|Nuclear Weapons By Country]]
+[[Category:Country infobox templates|Nuclear Weapons By Country]]
+[[Category:Weapon infobox templates|Nuclear Weapons By Country]]
+</noinclude>

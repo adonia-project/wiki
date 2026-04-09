@@ -1,0 +1,226 @@
+{{Infobox
+| templatestyles = Infobox station/styles.css
+| bodyclass = vcard ib-station
+| autoheaders = yes
+| headerstyle = {{#invoke:Adjacent stations|style|subheader|{{{style|}}}|{{{style2|}}}}}
+
+| above    = {{#if:{{{cta_header|}}}{{{custom_header|}}}|{{{custom_header|{{{cta_header}}}}}}|<div style="display: table; width: 100%; border-collapse: collapse"><div class="ib-station-name">{{Br separated entries
+ | 1 = <div style="display:inline" class="fn org" {{#if:{{{name_lang|}}}|lang="{{{name_lang}}}"}}>{{#if:{{{name|}}}|{{{name}}}|{{PAGENAMEBASE}}}}</div>
+ | 2 = {{#if:{{{native_name|}}}|<div class="nickname" style="display:inline" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}" {{#switch:{{lc:{{{native_name_lang}}}}}|zh|zh-hans|zh-hans-cn|zh-hant|zh-hant-tw|zh-hant-hk|zh-cn|zh-hk|zh-mo|zh-tw|zh-sg|ko|ko-kr|ko-kp|ko-cn|ja=style="font-weight: normal"}}}}>{{{native_name}}}</div>}}
+ }}</div>{{#if:{{{symbol|}}}|{{#invoke:Rail-interchange multi|{{#if:{{{native_name|}}}|double}}row|div=y|{{{symbol_location|}}}\{{{symbol|}}}\<!--
+-->{{#if:{{{symbol6|}}}{{{symbol_location6|}}}{{#if:{{{symbol5|}}}{{{symbol_location5|}}}||1}}|{{#if:{{{symbol4|}}}{{{symbol_location4|}}}{{#if:{{{symbol3|}}}{{{symbol_location3|}}}||1}}||+}}|+}}<!--
+-->{{#if:{{{symbol_location2|}}}{{{symbol2|}}}|+{{{symbol_location2|}}}\{{{symbol2|}}}\}}<!--
+-->{{#if:{{{symbol_location3|}}}{{{symbol3|}}}|+{{{symbol_location3|}}}\{{{symbol3|}}}\}}<!--
+-->{{#if:{{{symbol_location4|}}}{{{symbol4|}}}|+{{{symbol_location4|}}}\{{{symbol4|}}}\}}<!--
+-->{{#if:{{{symbol_location5|}}}{{{symbol5|}}}|+{{{symbol_location5|}}}\{{{symbol5|}}}\}}<!--
+-->{{#if:{{{symbol_location6|}}}{{{symbol6|}}}|+{{{symbol_location6|}}}\{{{symbol6|}}}\}}}}}}</div>}}
+| abovestyle = {{#invoke:Adjacent stations|style|header|{{{style|}}}|{{{style2|}}}}}
+
+| subheader  = {{{type|}}}
+| subheaderclass = category
+
+| image    = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|upright={{#if:{{{image_upright|}}}|{{{image_upright}}}|1.35}}|alt={{{alt|}}}}}
+| caption  = {{{caption|{{{image_caption|}}}}}}
+
+|  data1   = {{#if:{{{mlanguage|}}}|{{{mlanguage}}}{{#ifexpr:{{#invoke:string|find|{{{mlanguage}}}|class{{=}}"infobox"}}>0|[[Category:Pages using infobox station with a non-child infobox]]|}}}}
+
+| header2  = General information
+| label3   = Other names
+|  data3   = {{{other_name|}}}
+| class3   = nickname
+| label4   = Location
+|  data4   = {{Br separated entries|{{{address|}}}|{{{borough|}}}|{{{country|}}}}}
+| class4   = label
+| label5   = Coordinates
+|  data5   = {{#if:{{{coordinates|}}}|{{#invoke:Coordinates|coordinsert|{{{coordinates}}}|type:railwaystation|{{#if:{{{country|{{#property:P17}}}}}|region:{{ISO 3166 code|{{{country|{{#property:P17}}}}}|{{{borough|}}}}}}}}}}}
+| label6   = {{if empty|{{{grid_name|}}}|Grid&nbsp;position}}
+|  data6   = {{{grid_position|}}}
+| label7   = Elevation
+|  data7   = {{{elevation|}}}
+| label8   = Owned by
+|  data8   = {{{owner|{{{owned|}}}}}}
+| label9   = Operated by
+|  data9   = {{{operator|}}}
+| label10  = Managed by
+|  data10  = {{{manager|}}}
+| label11  = Transit authority
+|  data11  = {{{transit_authority|}}}
+| label12  = Line(s)
+|  data12  = {{{lines|{{{line|}}}}}}
+| label13  = Distance
+|  data13  = {{{distance|}}}
+| label14  = Platforms
+|  data14  = {{{platforms|{{{platform|}}}}}}
+| label15  = Tracks
+|  data15  = {{{tracks|}}}
+| label16  = Train operators
+|  data16  = {{{train_operators|}}}
+| label17  = Tram routes
+|  data17  = {{{tram_routes|}}}
+| label18  = Tram operators
+|  data18  = {{{tram_operators|{{{tram_operator|}}}}}}
+| label19  = Bus routes
+|  data19  = {{{bus_routes|{{{routes|}}}}}}
+| label20  = Bus stands
+|  data20  = {{{bus_stands|}}}
+| label21  = Bus operators
+|  data21  = {{{bus_operators|}}}
+| label22  = Connections
+|  data22  = {{{connections|{{{other|}}}}}}
+
+| header23 = Construction
+| label24  = Structure type
+|  data24  = {{{structure|}}}
+| label25  = Depth
+|  data25  = {{{depth|}}}
+| label26  = Platform levels
+|  data26  = {{{levels|}}}
+| label27  = Parking
+|  data27  = {{{parking|}}}
+| label28  = Bicycle facilities
+|  data28  = {{{bicycle|}}}
+| label29  = Accessible
+|  data29  = {{#switch:{{lc:{{{accessible|{{{disabled|{{{ADA|}}}}}}}}}}}|1|true|y|yes=Yes|#default={{{accessible|{{{disabled|{{{ADA|}}}}}}}}}}}
+| label30  = Architect
+|  data30  = {{{architect|}}}
+| label31  = Architectural style
+|  data31  = {{{architectural_style|}}}
+
+| header32 = Other information
+| label33  = Status
+|  data33  = {{{status|}}}
+| label34  = Station code
+|  data34  = {{{code|}}}
+| class34  = nickname
+| label35  = Stop number
+|  data35  = {{{number|}}}
+| class35  = nickname
+| label36  = [[IATA airport code|IATA code]]
+|  data36  = {{{iata|}}}
+| label37  = Fare zone
+|  data37  = {{{zone|}}}
+| label38  = Classification
+|  data38  = {{{classification|}}}
+| label39  = Website
+|  data39  = {{{website|{{{web|}}}}}}
+
+| header40 = History
+| label41  = Opened
+|  data41  = {{{opened|{{{start|}}}}}}
+| label42  = Opening
+|  data42  = {{{opening|{{{starting|}}}}}}
+| label43  = Closed
+|  data43  = {{{closed|{{{end|{{{ending|}}}}}}}}}
+| label44  = Rebuilt
+|  data44  = {{{rebuilt|}}}
+| label45  = Electrified
+|  data45  = {{{electrified|}}}
+| label46  = Previous names
+|  data46  = {{{former|}}}
+| class46  = nickname
+| label47  = Original company
+|  data47  = {{{original|}}}
+| label48  = Pre-grouping
+|  data48  = {{{pregroup|}}}
+| label49  = Post-grouping
+|  data49  = {{{postgroup|}}}
+| label50  = Pre-nationalisation
+|  data50  = {{{prenational|}}}
+
+| header51 = Key dates
+| label52  = {{{years}}}
+|  data52  = {{#if:{{{years|}}}|{{{events|}}}}}
+| label53  = {{{years1}}}
+|  data53  = {{#if:{{{years1|}}}|{{{events1|}}}}}
+| label54  = {{{years2}}}
+|  data54  = {{#if:{{{years2|}}}|{{{events2|}}}}}
+| label55  = {{{years3}}}
+|  data55  = {{#if:{{{years3|}}}|{{{events3|}}}}}
+| label56  = {{{years4}}}
+|  data56  = {{#if:{{{years4|}}}|{{{events4|}}}}}
+| label57  = {{{years5}}}
+|  data57  = {{#if:{{{years5|}}}|{{{events5|}}}}}
+| label58  = {{{years6}}}
+|  data58  = {{#if:{{{years6|}}}|{{{events6|}}}}}
+| label59  = {{{years7}}}
+|  data59  = {{#if:{{{years7|}}}|{{{events7|}}}}}
+| label60  = {{{years8}}}
+|  data60  = {{#if:{{{years8|}}}|{{{events8|}}}}}
+| label61  = {{{years9}}}
+|  data61  = {{#if:{{{years9|}}}|{{{events9|}}}}}
+| label62  = {{{years10}}}
+|  data62  = {{#if:{{{years10|}}}|{{{events10|}}}}}
+| label63  = {{{years11}}}
+|  data63  = {{#if:{{{years11|}}}|{{{events11|}}}}}
+| label64  = {{{years12}}}
+|  data64  = {{#if:{{{years12|}}}|{{{events12|}}}}}
+
+| header65 = Passengers
+| data66 = {{#if:{{{passengers|}}}|{{Rail pass box|system={{{pass_system|}}}|passengers={{{passengers|}}}|pass_year={{{pass_year|}}}|pass_percent={{{pass_percent|}}}|pass_rank={{{pass_rank|}}}|yearonly=yes}}}}<!--
+-->{{{mpassengers|}}}
+
+|header67 = _BLANK_
+| data68 = {{Infobox station/services|services={{{services|}}}|collapsed={{{services_collapsible|}}}|style={{{style|}}}|style2={{{style2|}}}}}
+| rowstyle68 = display: none
+| data69 = {{Infobox station/services|services={{{other_services|}}}|collapsed={{{other_services_collapsible|}}}|header={{{other_services_header|Other services}}}|style={{{style|}}}|style2={{{style2|}}}}}
+| rowstyle69 = display: none
+| data70 = {{Infobox station/services|services={{{other_services2|}}}|collapsed={{{other_services2_collapsible|}}}|header={{{other_services2_header|Other services}}}|style={{{style|}}}|style2={{{style2|}}}}}
+| rowstyle70 = display: none
+
+|  data74  = {{{embedded|}}}
+|  data75  = {{{nrhp|}}}
+
+| rowcellstyle75 = padding: 0
+| data76  = {{#if:{{{route_map|}}}|
+{{ infobox
+| bodystyle  = {{Subinfobox bodystyle}}
+| bodyclass  = collapsible {{{map_state|}}}
+| headerstyle = {{#invoke:Adjacent stations|style|subheader|{{{style|}}}|{{{style2|}}}}}
+| header1    = {{#if:{{{map_name|}}}|<div style="margin:0 3.5em">{{{map_name}}}</div>|<div style="margin:0 3.5em">{{#ifeq:{{#invoke:String|find|{{{route_map}}}|[[Template:Railway track legend|Legend]]}}|0|Route map|Track layout}}</div>}}
+| data2      = {{{route_map}}}
+}}}}
+
+| header77 = Location
+|  data78  = 
+{{#if:{{{map_type|}}}
+  |{{#if:{{{coordinates|}}}{{#switch:{{#property:P625}}|unknown value|=|#default=1}}
+     |{{Location map|{{{map_type}}}
+      | AlternativeMap = {{{AlternativeMap|}}}
+      | alt = {{{map_alt|}}}
+      | overlay_image  = {{{map_overlay|}}}
+      | coordinates = {{{coordinates|}}}
+      | float = center | border = infobox
+      | label   = {{If empty|{{{map_dot_label|}}}|{{{name|}}}|{{PAGENAMEBASE}}}}
+      | outside = {{{pushpin_outside|}}}
+      | position = {{{map_label_position|}}}
+      | caption = {{#if:{{{map_caption|}}}|{{{map_caption}}}|Location within {{#invoke:Location map|data|{{{map_type}}}|name}}}}
+      | width   = {{{map_size|}}}
+      }}
+     |{{superimpose|align=center|base={{#invoke:Location map|data|{{{map_type}}}|image}}|base_width=250px|float=Question mark.svg|x=100|y=50|float_width=50px}}{{main other|[[Category:Articles using Infobox station with a broken location map]]}}
+     }}
+ | {{#if:{{{map_image|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{map_image|}}}|size={{{map_size|}}}|upright={{if empty|{{{map_image_upright|}}}|{{{image_upright|}}}|1.35}}|alt={{{map_alt|}}}}}{{#if:{{{map_caption|}}}|<div style="padding:0.2em 0;">{{{map_caption}}}</div>|}}|}}
+ }}
+|  data79  = {{#invoke:Infobox mapframe|auto|mapframe-marker={{#switch:{{#invoke:wd|property|P31}}
+  |{{label|Q494829}}=bus
+  |{{label|Q55488}}=rail
+  |{{label|Q55491}}|{{label|Q14562709}}=rail-metro
+  |{{label|Q2175765}}=rail-light
+}}}}
+|  data80  = {{#invoke:Infobox mapframe|autocaption}}
+
+| header81 = Notes
+|  data82  = {{#if:{{{footnotes|}}}|<div style="text-align: left;">{{{footnotes}}}</div>}}
+}}{{Main other|
+  {{#if:{{{local_authority|}}}|[[Category:Articles using Infobox station with local_authority]]}}<!--
+ -->{{#ifeq:{{{country|}}}|United Kingdom|{{#ifexpr:{{#ifeq:{{{type|}}}|Station on [[heritage railway]]|1|0}} or {{#ifeq:{{{status|}}}|Disused|1|0}}||{{for loop||2014/15|2015/16|2016/17|2017/18|2018/19|call=Template:Infobox station/gbtracking|pc1n=mpassengers|pc1v={{{mpassengers|}}}}}}}}}<!--
+ -->{{#if:{{{name|}}}{{{native_name|}}}|{{#ifeq:{{#invoke:String|find|{{{name}}}{{{native_name}}}|<}}{{#invoke:String|find|{{{name}}}{{{native_name}}}|''}}|00||[[Category:Articles using Infobox station with markup inside name]]}}{{#ifeq:{{#invoke:String|find|{{{name}}}{{{native_name}}}|[}}|0||[[Category:Articles using Infobox station with links or images inside name]]}}}}<!--
+ -->{{#if:{{{type|}}}|{{#ifeq:{{#invoke:String|find|{{{type}}}|<}}{{#invoke:String|find|{{{type}}}|''}}|00||[[Category:Articles using Infobox station with markup inside type]]}}{{#ifeq:{{#invoke:String|find|{{lc:{{{type}}}}}|[file:}}{{#invoke:String|find|{{lc:{{{type}}}}}|[image:}}|00||[[Category:Articles using Infobox station with images inside type]]}}}}}}<!--
+ -->{{#if:{{{opened|}}}{{{start|}}}{{{opening|}}}{{{starting|}}}||{{main other|[[Category:Pages with no open date in Infobox station]]}}}}<!--
+ -->{{#invoke:Parameter validation|validateparams|module_options = Module:Parameter validation/default config}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox station with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox station]] with unknown parameter "_VALUE_"|ignoreblank=y| accessible | ADA | address | alt | AlternativeMap | architect | architectural_style | bicycle | borough | tram_operators | tram_routes | bus_operators | bus_routes | bus_stands | caption | classification | closed | code | number | connections | coordinates | country | cta_header | custom_header | depth | disabled | distance | electrified | elevation | embedded | end | ending | events | events1 | events2 | events3 | events4 | events5 | events6 | events7 | events8 | events9 | events10 | events11 | events12 | footnotes | former | grid_name | grid_position | iata | image | image_caption | image_upright | levels | line | lines | local_authority | manager | map_alt | map_caption | map_dot_label | map_image | map_image_upright | map_label_position | map_name | map_overlay | map_size | map_state | map_type | mapframe | mapframe-caption | mapframe-custom | mapframe-id | mapframe-coord | mapframe-coordinates | mapframe-wikidata | mapframe-point | mapframe-shape | mapframe-frame-width | mapframe-frame-height | mapframe-shape-fill | mapframe-shape-fill-opacity | mapframe-stroke-color | mapframe-stroke-colour | mapframe-stroke-width | mapframe-marker | mapframe-marker-color | mapframe-marker-colour | mapframe-geomask | mapframe-geomask-stroke-color | mapframe-geomask-stroke-colour | mapframe-geomask-stroke-width | mapframe-geomask-fill | mapframe-geomask-fill-opacity | mapframe-zoom | mapframe-length_km | mapframe-length_mi | mapframe-area_km2 | mapframe-area_mi2 | mapframe-frame-coordinates | mapframe-frame-coord | mapframe-switcher | mapframe-height | mapframe-width | mlanguage | mpassengers | name | name_lang | native_name | native_name_lang | nrhp | opened | opening | operator | original | other | other_name | other_services | other_services_collapsible | other_services_header | other_services2 | other_services2_collapsible | other_services2_header | owned | owner | parking | pass_percent | pass_rank | pass_system | pass_year | passengers | platform | platforms | postgroup | pregroup | prenational | pushpin_outside | rebuilt | route_map | routes | services | services_collapsible | start | starting | status | structure | style | style2 | symbol | symbol_location | symbol_location2 | symbol_location3 | symbol_location4 | symbol_location5 | symbol_location6 | symbol2 | symbol3 | symbol4 | symbol5 | symbol6 | tracks | train_operators | transit_authority | type | web | website | years | years1 | years2 | years3 | years4 | years5 | years6 | years7 | years8 | years9 | years10 | years11 | years12 | zone }}<!--
+ -->{{#invoke:check for deprecated parameters|check
+|category=[[Category:Pages using infobox station with deprecated parameters|_VALUE_]]
+| ADA = accessible 
+| disabled = accessible
+}}<noinclude>
+{{documentation}} <!-- Add categories to the /doc sub-page -->
+</noinclude>

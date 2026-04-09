@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Palestine
+| shortname alias = Palestine
+| flag alias = Flag of Palestine.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| related1 = Palestinian National Authority
+| related2 = All-Palestine
+| related3 = Palestine Liberation Organization
+| cat = Palestine state
+</noinclude>
+}}

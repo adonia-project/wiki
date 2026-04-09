@@ -1,0 +1,38 @@
+<includeonly>{{#if:{{{1|}}}|<!--
+   --><span class="url"><!--
+   -->{{#ifeq:{{#titleparts:{{lc:x{{{1|}}}}}|1|1}}|{{lc:x{{{1|}}}}}|<!-- work-around when titleparts doesn't accept the URL and returns the full string without a capital: don't attempt to transform the displayed URL
+      -->[{{#if:1|{{{1|}}}}} {{#if:{{{2|}}}|{{#if:1|{{{2|}}}}}|{{#if:1|{{{1|}}}}}}}]<!-- These "#if:1" pseudo-tests (always true) allow trimming leading spaces in their text parameter
+   -->|<!--
+      -->{{#switch:{{lc:{{#titleparts:{{{1|}}}|2}}}}
+         |https:/
+         |http:/
+         |ftp:/=<!-- Matches https:/ or http:/ or ftp:/
+         -->[{{#if:1|{{{1|}}}}} <!-- This #if:1 allows trimming leading spaces in the full URL: {{{1|}}}
+         -->{{#if:{{{2|}}}|{{#if:1|{{{2|}}}}}| <!-- This #if:1 allows trimming leading spaces in the specified display text : {{{2|}}}
+            -->{{lc:<!-- domain name in lowercase
+               -->{{#titleparts:{{{1|}}}|1|3}}<!--
+            -->}}<!--
+            -->{{#if:{{#titleparts:{{{1|}}}||4}}<!-- rest of the path
+            -->|/{{#titleparts:{{{1|}}}||4}}<!--
+            -->}}<!--
+         -->}}<!--
+         -->]<!--
+      -->|#default=<!-- Not https:/ or http:/ or ftp:/
+         -->[http://{{#if:1|{{{1|}}}}} <!-- This #if:1 allows trimming leading spaces in the full URL: {{{1|}}}
+         -->{{#if:{{{2|}}}|{{#if:1|{{{2|}}}}}| <!-- This #if:1 allows trimming leading spaces in the specified display text : {{{2|}}}
+            -->{{lc:<!-- domain name in lowercase
+               -->{{#titleparts:{{{1|}}}|1|1}}<!--
+            -->}}<!--
+            -->{{#if:{{#titleparts:{{{1|}}}||2}}<!-- rest of the path
+            -->|/{{#titleparts:{{{1|}}}||2}}<!--
+            -->}}<!--
+         -->}}<!--
+         -->]<!--
+      -->}}<!--
+   -->}}<!--
+   --></span><!--
+-->|<!--
+   -->{{#if:{{{2|}}}|{{{2|}}}|<!--
+      -->{{tlx|URL|''example.com''|''optional display text''}}<!--
+  -->}}<!--
+-->}}</includeonly><noinclude>{{documentation}}</noinclude>

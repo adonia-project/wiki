@@ -1,0 +1,4 @@
+/* {{pp-template}} */
+.ib-weather-event .infobox-header > .nowrap {
+	margin: 0 8px;
+}

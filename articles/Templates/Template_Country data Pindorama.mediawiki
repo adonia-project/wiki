@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Pindorama
+| flag alias = Flag of Pindorama.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

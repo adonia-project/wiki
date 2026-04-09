@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Acadia
+| flag alias = Flag of Acadia.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

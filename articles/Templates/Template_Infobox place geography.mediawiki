@@ -1,0 +1,97 @@
+{{Infobox
+| bodyclass  = vcard
+
+| title      = {{#if:{{{name|}}}|Geography of {{{name}}}|<includeonly>{{PAGENAMEBASE}}</includeonly>}}
+
+| image    = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|{{{image name|}}}}}}|size={{{image size|}}} |sizedefault=frameless |upright=1.16 |alt={{{image alt|}}}}}
+| caption  = {{{image caption|}}}
+
+| image2 = {{#invoke:InfoboxImage|InfoboxImage|image={{{map|}}}|size = {{{map size|}}} |sizedefault=frameless |upright=1.16 | alt={{{map_alt|}}} }}
+
+| label1 = Continent
+| data1 = {{{continent|}}}
+
+| label2 = Region
+| data2 = {{{region|}}}
+
+| label3 = Coordinates
+| data3 = {{{coordinates|}}}
+
+| label4 = Area
+| data4 = {{#if:{{{area ranking|}}}
+ |[[List of countries and dependencies by area|Ranked {{{area ranking|}}}]]
+ |{{#if:{{{km area|}}}{{{miles area|}}}{{{percent land|}}}{{{percent water|}}}|<nowiki />}}
+ }}
+
+| label5 = &nbsp;•&nbsp;Total
+| data5 = {{#if:{{{km area|}}}
+     |{{convert|{{{km area<noinclude>|1</noinclude>}}}|km2|sqmi|abbr=on}}
+     |{{#if:{{{miles area|}}}
+        |{{convert|{{{miles area}}}|sqmi|km2|abbr=on}}
+       }}
+     }}
+
+| label7 = &nbsp;•&nbsp;Land
+| data7 = {{#if:{{{percent land|}}}
+  |{{{percent land<noinclude>|1</noinclude>}}}%
+  |{{#if:{{{percent water|}}}
+    |{{#expr: 100-{{{percent water}}} round 5}}%
+   }}
+  }}
+
+| label8 = &nbsp;•&nbsp;Water
+| data8 = {{#if:{{{percent water|}}}
+  |{{{percent water<noinclude>|99</noinclude>}}}%
+  |{{#if:{{{percent land|}}}
+    |{{#expr: 100-{{{percent land}}} round 5}}%
+   }}
+  }}
+
+| label9 = Coastline
+| data9 = {{#if:{{{km coastline|}}}
+  |{{convert|{{{km coastline<noinclude>|1</noinclude>}}}|km|mi|abbr=on}}
+  |{{#if:{{{miles coastline|}}}
+     |{{convert|{{{miles coastline}}}|mi|km|abbr=on}}
+   }}
+ }}
+
+| label10 = Borders
+| data10 = {{{borders|}}}
+
+| label11 =Highest point
+| data11 = {{{highest point|}}}
+
+| label12 =Lowest point
+| data12 = {{{lowest point|}}}
+
+| label13 =Longest river
+| data13 = {{{longest river|}}}
+
+| label14 =Largest lake
+| data14 = {{{largest lake|}}}
+
+| label15 =Climate
+| data15 = {{{climate|}}}
+
+| label16 =Terrain
+| data16 = {{{terrain|}}}
+
+| label17 =Natural resources
+| data17 = {{{natural resources|}}}
+
+| label18 =Natural hazards
+| data18 = {{{natural hazards|}}}
+
+| label19 =Environmental issues
+| data19 = {{{environmental issues|}}}
+
+| label20 = Exclusive economic zone
+| data20 = {{{exclusive economic zone|}}}
+
+|header41 = {{#if:{{{references|}}}|References}}
+|data42 = {{{references|}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox place geography with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox place geography]] with unknown parameter "_VALUE_"|ignoreblank=y| area ranking | borders | climate | continent | coordinates | environmental issues | exclusive economic zone | highest point | image | image alt | image caption | image name | image size | km area | km coastline | largest lake | longest river | lowest point | map | map size | map_alt | miles area | miles coastline | name | natural hazards | natural resources | percent land | percent water | region | terrain | references
+}}<noinclude>
+{{documentation}}
+</noinclude>

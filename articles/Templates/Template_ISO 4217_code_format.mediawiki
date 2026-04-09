@@ -1,0 +1,14 @@
+{{#if:{{{format|}}}
+|{{#if:{{{value|}}}<!--
+-->|{{{value|}}}
+   |{{#if:{{{input-code|}}}<!-- input is not an ok-code, so analyse for 'None' and ISOcat
+   -->|{{#if:{{ISO 4217/code-none|iso-code={{{input-code|}}}}}<!-- check None-option:
+      -->|{{yesno|{{Str find word|source=option-none|orwords={{{format|}}}}}<!--
+         -->|yes={{{input-code|}}}<!-- 'None'=allowed so return the input string
+         -->|no=<!--'none' not allowed so return blank; CAT-N-->{{#if:{{{ISO4217-cat|}}}|{{ISO 4217/maintenance-category|main-sort=NONE|template-sort=&#x20;ISOcat-N<nowiki>*</nowiki>}}}}}}<!--
+      -->|<!--bad code so return blank; CAT-C-->{{#if:{{{ISO4217-cat|}}}|{{ISO 4217/maintenance-category|main-sort=CODE|template-sort=&#x20;ISOcat-C<nowiki>*</nowiki>}}}}<!--
+      -->}}<!--
+   -->|<!-- input-code=blank so no error to detect; return blank
+   -->}}}}
+|{{{value|}}}<!-- no format, so return plain value (is an ok code OR blank) -->
+}}

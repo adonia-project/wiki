@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Küyenmapu
+| flag alias = Flag of Kuyenmapu.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

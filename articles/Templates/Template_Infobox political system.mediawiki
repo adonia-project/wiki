@@ -1,0 +1,232 @@
+{{infobox
+| abovestyle  = font-size: 125%; {{#if:{{{background_color|}}}|border-top: 2px solid {{{background_color}}}; border-bottom: 2px solid {{{background_color}}}|background-color: #ededed}}
+| above       = <includeonly><div style="display:inline" class="fn org">{{{name}}}</div> {{#if:{{{native_name|}}}|<br /><div style="display:inline" class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>{{#if:{{{transcription_name|}}}|<br /><div style="display:inline" class="nickname">{{{transcription_name}}}</div>}}}}</includeonly>
+
+|subheader = {{unbulleted list|{{#if:{{{alt_name|}}}{{{alt_name1|}}}{{{alt_name2|}}}{{{alt_name3|}}}{{{alt_name4|}}}|<span style="font-weight: normal;">Also known as:</span>}}|{{{alt_name|}}}|{{{alt_name1|}}}|{{{alt_name2|}}}|{{{alt_name3|}}}|{{{alt_name4|}}}
+ }}
+ |subheaderstyle = font-weight: bold;
+
+| headerstyle = vertical-align: middle; background-color:#EBEBEB;
+
+|    image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=100px}}
+|  caption = {{{caption|}}}
+
+|   label1 = Polity type
+|    data1 = {{{government|}}}{{{type|}}}
+
+|   label2 = Part of
+|    data2 = {{{part_of|}}}
+
+|   label3 = Constitution
+|    data3 = {{{constitution|}}}
+
+
+|   label4 = Formation
+|    data4 = {{{formation|}}}
+
+
+|   label5 = Dissolved
+|    data5 = {{{dissolution|}}}
+
+|  header6 = {{#if:{{{legislature|}}}{{{legislature_type|}}}{{{legislature_place|}}}{{{legislature_speaker|}}}{{{legislature_speaker_title|}}}{{{upperhouse|}}}{{{upperhouse_speaker|}}}{{{upperhouse_speaker_title|}}}{{{upperhouse_appointer|}}}{{{lowerhouse|}}}{{{lowerhouse_speaker|}}}{{{lowerhouse_speaker_title|}}}{{{lowerhouse_appointer|}}} |[[Legislature|Legislative branch]]}}
+
+|   label7 = Name
+|    data7 = {{{legislature|}}}
+
+|   label8 = Type
+|    data8 = {{{legislature_type|}}}
+
+|   label9 = Meeting place
+|    data9 = {{{legislature_place|}}}
+
+|   label10 = Presiding officer
+|    data10 = {{{legislature_speaker|}}}<!--
+         -->{{#if:{{{legislature_speaker_title|}}}
+           |, {{{legislature_speaker_title}}}
+          }}
+
+|   data11 = {{#if:{{{upperhouse|}}}|[[Upper house]]}}
+
+|  label12 = Name
+|   data12 = {{{upperhouse|}}}
+
+|  label13 = Presiding officer
+|   data13 = {{{upperhouse_speaker|}}}<!--
+         -->{{#if:{{{upperhouse_speaker_title|}}}
+           |, {{{upperhouse_speaker_title}}}
+          }}
+
+|  label14 = Appointer 
+|   data14 = {{{upperhouse_appointer|}}}
+
+|   data15 = {{#if:{{{lowerhouse|}}}|[[Lower house]]}}
+
+|  label16 = Name
+|   data16 = {{{lowerhouse|}}}
+
+|  label17 = Presiding officer
+|   data17 = {{{lowerhouse_speaker|}}}<!--
+         -->{{#if:{{{lowerhouse_speaker_title|}}}
+           |, {{{lowerhouse_speaker_title}}}
+          }}
+
+|  label18 = Appointer 
+|   data18 = {{{lowerhouse_appointer|}}}
+
+| header19 = {{#if:{{{title_hos|}}}{{{current_hos|}}}{{{appointer_hos|}}}{{{title_hog|}}}{{{current_hog|}}}{{{appointer_hog|}}}{{{title_hosag|}}}{{{current_hosag|}}}{{{appointer_hosag|}}}{{{cabinet|}}}{{{current_cabinet|}}}{{{cabinet_leader|}}}{{{cabinet_deputyleader|}}}{{{cabinet_appointer|}}}{{{cabinet_hq|}}}{{{cabinet_ministries|}}} |[[Executive (government)|Executive branch]]}}
+
+<!--Top leader otherwise head of state or head of government-->
+|   data20 = {{#if:{{{title_leader|}}}{{{current_leader|}}}{{{appointer_leader|}}} |[[Supreme leader|Supreme leader]]}}
+
+|  label21 = Title
+|   data21 = {{{title_leader|}}}
+
+|  label22 = Currently
+|   data22 = {{{current_leader|}}}
+
+|  label23 = Appointer  
+|   data23 = {{{appointer_leader|}}}
+
+|   data24 = {{#if:{{{title_hos|}}}{{{current_hos|}}}{{{appointer_hos|}}} |[[Head of state|Head of State]]}}
+
+|  label25 = Title
+|   data25 = {{{title_hos|}}}
+
+|  label26 = Currently
+|   data26 = {{{current_hos|}}}
+
+|  label27 = Appointer  
+|   data27 = {{{appointer_hos|}}}
+
+|   data28 = {{#if:{{{title_hog|}}}{{{current_hog|}}}{{{appointer_hog|}}} |[[Head of government|Head of Government]]}}
+
+|  label29 = Title
+|   data29 = {{{title_hog|}}}
+
+|  label30 = Currently
+|   data30 = {{{current_hog|}}}
+
+|  label31 = Appointer  
+|   data31 = {{{appointer_hog|}}}
+
+|   data32 = {{#if:{{{title_hosag|}}}{{{current_hosag|}}}{{{appointer_hosag|}}} |[[Head of state|Head of State]] [[Head of government|and Government]]}}
+
+|  label33 = Title
+|   data33 = {{{title_hosag|}}}
+
+|  label34 = Currently
+|   data34 = {{{current_hosag|}}}
+
+|  label35 = Appointer  
+|   data35 = {{{appointer_hosag|}}}
+
+|   data36 = {{#if:{{{cabinet|}}}{{{current_cabinet|}}}{{{cabinet_leader|}}}{{{cabinet_deputyleader|}}}{{{cabinet_appointer|}}}{{{cabinet_hq|}}}{{{cabinet_ministries|}}} |[[Cabinet (government)|Cabinet]]}}
+
+|  label37 = Name
+|   data37 = {{{cabinet|}}}
+
+|  label38 = Current cabinet 
+|   data38 = {{{current_cabinet|}}}
+
+|  label39 = Leader
+|   data39 = {{{cabinet_leader|}}}
+
+|  label40 = Deputy leader
+|   data40 = {{{cabinet_deputyleader|}}}
+
+|  label41 = Appointer
+|   data41 = {{{cabinet_appointer|}}}
+
+|  label42 = Headquarters 
+|   data42 = {{{cabinet_hq|}}}
+
+|  label43 = Ministries
+|   data43 = {{{cabinet_ministries|}}}
+
+| header44 = {{#if:{{{judiciary|}}}{{{judiciary_head_title|}}}{{{judiciary_head|}}}{{{courts|}}}{{{chief_judge|}}}{{{court_seat|}}}{{{court1|}}}{{{chief_judge1|}}}{{{court_seat1|}}}{{{court2|}}}{{{chief_judge2|}}}{{{court_seat2|}}}{{{court3|}}}{{{chief_judge3|}}}{{{court_seat3|}}}{{{court4|}}}{{{chief_judge4|}}}{{{court_seat4|}}}{{{court5|}}}{{{chief_judge5|}}}{{{court_seat5|}}} |[[Judiciary|Judicial branch]]}}
+
+|  label45 = Name
+|   data45 = {{{judiciary|}}}
+
+|  label46 = Courts
+|   data46 = {{{courts|}}}
+
+|   data47 = {{{court|}}}
+
+|  label48 = Chief judge
+|   data48 = {{{chief_judge|}}}
+
+|  label49 = Seat
+|   data49 = {{{court_seat|}}}
+
+|   data50 = {{{court1|}}}
+
+|  label51 = Chief judge
+|   data51 = {{{chief_judge1|}}}
+
+|  label52 = Seat
+|   data52 = {{{court_seat1|}}}
+
+|   data53 = {{{court2|}}}
+
+|  label54 = Chief judge
+|   data54 = {{{chief_judge2|}}}
+
+|  label55 = Seat
+|   data55 = {{{court_seat2|}}}
+
+|   data56 = {{{court3|}}}
+
+|  label57 = Chief judge
+|   data57 = {{{chief_judge3|}}}
+
+|  label58 = Seat
+|   data58 = {{{court_seat3|}}}
+
+|   data59 = {{{court4|}}}
+
+|  label60 = Chief judge
+|   data60 = {{{chief_judge4|}}}
+
+|  label61 = Seat
+|   data61 = {{{court_seat4|}}}
+
+|   data62 = {{{court5|}}}
+
+|  label63 = Chief judge
+|   data63 = {{{chief_judge5|}}}
+
+|  label64 = Seat
+|   data64 = {{{court_seat5|}}}
+
+<!--For the ROC only-->
+
+| header65 = {{#if:{{{civil_service|}}}{{{civil_service_head_title|}}}{{{leader_cs|}}} {{{chief_cs|}}}{{{membership_cs|}}}|[[Civil service commission|Civil service branch]]}}
+
+|  label66 = Name
+|   data66 = {{{civil_service|}}}
+
+|  label67 = President
+|   data67 = {{{leader_cs|}}}
+
+|  label68 = Vice President
+|   data68 = {{{chief_cs|}}}
+
+|  label69 = Members
+|   data69 = {{{membership_cs|}}}
+
+| header70 = {{#if:{{{auditory|}}}{{{auditory_head_title|}}}{{{leader_auditory|}}}{{{chief_auditory|}}}{{{membership_auditory|}}}|[[Government performance auditing|Auditory branch]]}}
+
+|  label71 = Name
+|   data71 = {{{auditory|}}}
+
+|  label72 = President
+|   data72 = {{{leader_auditory|}}}
+
+|  label73 = Vice President
+|   data73 = {{{chief_auditory|}}}
+
+|  label74 = Members
+|   data74 = {{{membership_auditory|}}}
+
+}}<noinclude>{{documentation}}</noinclude>

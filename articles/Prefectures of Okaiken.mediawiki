@@ -1,0 +1,854 @@
+{{Short description|First-level administrative divisions of Okaiken}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox subdivision type
+| name               = Prefecture<br />{{nobold|{{lang|ja|都道府県}}}}<br />{{lang|ja-latn|Todōfuken}}
+| alt_name           = 
+| map                = Prefectures_of_Okaiken_2025.svg
+| category           = First level [[administrative division]]
+| territory          = [[Okaiken]]
+| start_date         = 1872 (formalized 1970)
+| current_number     = 48 Prefectures
+| number_date        = 
+| population_range   = 
+| area_range         = 
+| government         = Prefecture Government, [[Government of Okaiken|Federal Government]]
+| subdivision        = contiguous: [[Municipalities of Okaiken|municipalities]]<br />historical: [[w:Han system|han]]
+}}
+
+
+
+'''[[Okaiken]]''' is divided into 48 first-level administrative divisions known as {{nihongo|'''prefectures'''|都県|token}}. Ranking immediately below the federal government, these sectors form the country's primary level of jurisdiction. They consist of 46 standard {{nihongo|prefectures|県|ken}} and two {{nihongo|metropolises|都|to}}. 
+
+Each prefecture is governed by a directly elected governor and a unicameral legislative assembly. Under the 1970 Constitution of the Federal Republic, prefectures hold significant localized power, retaining the authority to levy independent taxes, manage public education, organize prefectural police forces, and oversee regional infrastructure. 
+
+==History and the Han Transition==
+Unlike the sudden and forceful abolition of the {{nihongo|feudal domain system|廃藩置県|''haihan-chiken''}} seen in [[Nakamizu]] during the late 19th century, the establishment of Okaiken's prefectures was a slow, deliberate evolutionary process. 
+
+For centuries under the [[Honda Shogunate]], the Sanese archipelago was divided into deeply entrenched ''han'' (feudal domains), each ruled by a powerful daimyo who answered to the Shogun in [[Okami]]. During the [[Saito Restoration]] of 1871, the Imperial faction realized that abruptly dismantling these domains would ignite a devastating, prolonged civil war. Instead, Emperor Saito and his western advisors implemented a transitional framework heavily influenced by the political structures of [[Volisania]] or [[Briesland]].
+
+The original ''han'' borders were largely frozen in place, preserving the historical territorial lines of the clans. The ruling daimyo were not stripped of their lands; rather, they were officially re-titled as "Prefectural Governors" (知事, chiji) and integrated into a new, Illypnian-style bureaucratic hierarchy. Over the next several decades, these hereditary positions were gradually reformed into appointed bureaucratic roles, and eventually, into democratically elected offices. 
+
+Because the modern prefectures are direct, unbroken continuations of the ancient ''han'', regional identity and historical clan loyalties remain deeply ingrained in the modern political and cultural fabric of Okaiken. 
+
+==Types of prefectures==
+Despite the different suffixes used in their Sanese names, there is no functional or legal difference in the autonomous power granted to the different types of prefectures under the federal government.
+
+===To (Metropolis)===
+Two of the 48 divisions are designated as a {{nihongo|metropolis|都|to}}: [[Okami Metropolis|Okami]] and [[Toyozawa Metropolis|Toyozawa]]. The character implies a core urban zone of absolute national or historical importance. Administratively, a metropolis functions exactly like a standard prefecture, but it has the unique authority to administer both standard cities and densely populated [[Special wards of Okami|special wards]] within its urban core. 
+
+===Ken (Prefecture)===
+The remaining 46 divisions are referred to as standard {{nihongo|prefectures|県|ken}}. The character historically carries a rural or provincial connotation, though several of Okaiken's ''ken'' (such as [[Miyagi Prefecture|Miyagi]] and [[Aizawa Prefecture|Aizawa]]) contain massive, highly industrialized metropolitan populations. 
+
+==List of prefectures==
+The prefectures are traditionally grouped by their historical regions. From north to south, the 48 prefectures of Okaiken are:
+
+<center>{{Okaiken Interactive Map|options=left; font-size:100%; border:3px; width:800px;}}</center>
+
+{| class="wikitable sortable"
+|+ Prefectures of Okaiken
+|-
+! colspan="2" | Prefecture
+! colspan="2" | Capital
+! Region
+! Major Island
+! Population<br>(2025 Est.)
+! Population<br>(2020 Census)
+! Population<br>change
+! Area<br>(km²)
+! Density<br>(per km²)
+! Distr.
+! {{vert header|Municipalities}}
+! ISO
+! Area<br />code
+|-
+| [[Okami Metropolis]]
+| {{nihongo2|大紙都}}
+| [[Okami]]
+| {{nihongo2|大紙市}}
+| bgcolor=#c0e0d0|[[Tokami]]
+| [[Harujima]]
+| align="right" | 29,473,802
+| align="right" | 29,102,115
+| align="right" | <span style="color:green;">+1.28%</span>
+| align="right" | 1,292.27
+| align="right" | 22,807.6
+| align="right" | 1
+| align="right" | 42
+| OK-01
+| 020
+|-
+| [[Miyagi Prefecture|Miyagi]]
+| {{nihongo2|宮城県}}
+| [[Shinagawa]]
+| {{nihongo2|品川市}}
+| bgcolor=#d0f0c0|[[Urakawa]]
+| [[Harujima]]
+| align="right" | 2,301,996
+| align="right" | 2,285,779
+| align="right" | <span style="color:green;">+0.71%</span>
+| align="right" | 5,123.01
+| align="right" | 449.4
+| align="right" | 10
+| align="right" | 35
+| OK-02
+| 022
+|-
+| [[Tokuyama Prefecture|Tokuyama]]
+| {{nihongo2|徳山県}}
+| [[Tokuyama]]
+| {{nihongo2|徳山市}}
+| bgcolor=#c0e0d0|[[Tokami]]
+| [[Harujima]]
+| align="right" | 1,291,437
+| align="right" | 1,288,500
+| align="right" | <span style="color:green;">+0.23%</span>
+| align="right" | 2,277.39
+| align="right" | 567.1
+| align="right" | 8
+| align="right" | 31
+| OK-10
+| 025
+|-
+| [[Akita Prefecture|Akita]]
+| {{nihongo2|秋田県}}
+| [[Akita]]
+| {{nihongo2|秋田市}}
+| bgcolor=#c0e0d0|[[Tokami]]
+| [[Harujima]]
+| align="right" | 1,354,000
+| align="right" | 1,351,200
+| align="right" | <span style="color:green;">+0.21%</span>
+| align="right" | 3,765.58
+| align="right" | 359.6
+| align="right" | 6
+| align="right" | 25
+| OK-03
+| 024
+|-
+| [[Iwate Prefecture|Iwate]]
+| {{nihongo2|岩手県}}
+| Iwate
+| {{nihongo2|岩手市}}
+| bgcolor=#c0e0d0|[[Tokami]]
+| [[Harujima]]
+| align="right" | 1,210,534
+| align="right" | 1,229,432
+| align="right" | <span style="color:red;">-1.54%</span>
+| align="right" | 6,319.52
+| align="right" | 191.6
+| align="right" | 10
+| align="right" | 33
+| OK-07
+| 021
+|-
+| [[Yamagata Prefecture|Yamagata]]
+| {{nihongo2|山形県}}
+| Yamagata
+| {{nihongo2|山形市}}
+| bgcolor=#c0e0d0|[[Tokami]]
+| [[Harujima]]
+| align="right" | 1,068,027
+| align="right" | 1,085,119
+| align="right" | <span style="color:red;">-1.58%</span>
+| align="right" | 2,156.56
+| align="right" | 495.2
+| align="right" | 8
+| align="right" | 35
+| OK-11
+| 023
+|-
+| [[Yonezawa Prefecture|Yonezawa]]
+| {{nihongo2|米沢県}}
+| Yonezawa
+| {{nihongo2|米沢市}}
+| bgcolor=#c0e0d0|[[Tokami]]
+| [[Harujima]]
+| align="right" | 975,221
+| align="right" | 992,330
+| align="right" | <span style="color:red;">-1.72%</span>
+| align="right" | 1,764.54
+| align="right" | 552.7
+| align="right" | 7
+| align="right" | 28
+| OK-12
+| 025
+|-
+| [[Fukushima Prefecture|Fukushima]]
+| {{nihongo2|福島県}}
+| Fukushima
+| {{nihongo2|福島市}}
+| bgcolor=#d0f0c0|[[Urakawa]]
+| [[Harujima]]
+| align="right" | 1,825,432
+| align="right" | 1,855,100
+| align="right" | <span style="color:red;">-1.60%</span>
+| align="right" | 2,978.00
+| align="right" | 613.0
+| align="right" | 13
+| align="right" | 59
+| OK-04
+| 026
+|-
+| [[Hirogawa Prefecture|Hirogawa]]
+| {{nihongo2|広川県}}
+| Hirogawa
+| {{nihongo2|広川市}}
+| bgcolor=#d0f0c0|[[Urakawa]]
+| [[Harujima]]
+| align="right" | 812,119
+| align="right" | 825,300
+| align="right" | <span style="color:red;">-1.60%</span>
+| align="right" | 2,853.93
+| align="right" | 284.6
+| align="right" | 7
+| align="right" | 24
+| OK-05
+| 027
+|-
+| [[Ishiwara Prefecture|Ishiwara]]
+| {{nihongo2|石原県}}
+| Ishiwara
+| {{nihongo2|石原市}}
+| bgcolor=#d0f0c0|[[Urakawa]]
+| [[Harujima]]
+| align="right" | 1,002,540
+| align="right" | 1,010,220
+| align="right" | <span style="color:red;">-0.76%</span>
+| align="right" | 6,373.10
+| align="right" | 157.3
+| align="right" | 5
+| align="right" | 18
+| OK-06
+| 028
+|-
+| [[Kofu Prefecture|Kofu]]
+| {{nihongo2|甲府県}}
+| Kofu
+| {{nihongo2|甲府市}}
+| bgcolor=#d0f0c0|[[Urakawa]]
+| [[Harujima]]
+| align="right" | 803,195
+| align="right" | 815,400
+| align="right" | <span style="color:red;">-1.50%</span>
+| align="right" | 2,179.88
+| align="right" | 368.5
+| align="right" | 5
+| align="right" | 27
+| OK-08
+| 029
+|-
+| [[Okazaki Prefecture|Okazaki]]
+| {{nihongo2|岡崎県}}
+| Okazaki
+| {{nihongo2|岡崎市}}
+| bgcolor=#d0f0c0|[[Urakawa]]
+| [[Harujima]]
+| align="right" | 1,150,888
+| align="right" | 1,148,300
+| align="right" | <span style="color:green;">+0.22%</span>
+| align="right" | 2,871.80
+| align="right" | 400.8
+| align="right" | 7
+| align="right" | 30
+| OK-09
+| 023
+|-
+| [[Aizawa Prefecture|Aizawa]]
+| {{nihongo2|愛沢県}}
+| [[Aizawa]]
+| {{nihongo2|愛沢市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 3,122,641
+| align="right" | 3,095,118
+| align="right" | <span style="color:green;">+0.89%</span>
+| align="right" | 5,182.33
+| align="right" | 602.5
+| align="right" | 12
+| align="right" | 38
+| OK-13
+| 030
+|-
+| [[Ogasawara Prefecture|Ogasawara]]
+| {{nihongo2|小笠原県}}
+| Ogasawara
+| {{nihongo2|小笠原市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,019,877
+| align="right" | 1,038,200
+| align="right" | <span style="color:red;">-1.76%</span>
+| align="right" | 706.93
+| align="right" | 1,442.7
+| align="right" | 9
+| align="right" | 30
+| OK-20
+| 031
+|-
+| [[Gunma Prefecture|Gunma]]
+| {{nihongo2|群馬県}}
+| Gunma
+| {{nihongo2|群馬市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,939,110
+| align="right" | 1,955,300
+| align="right" | <span style="color:red;">-0.83%</span>
+| align="right" | 2,527.50
+| align="right" | 767.2
+| align="right" | 7
+| align="right" | 35
+| OK-15
+| 031
+|-
+| [[Shiga Prefecture|Shiga]]
+| {{nihongo2|滋賀県}}
+| Shiga
+| {{nihongo2|滋賀市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,413,610
+| align="right" | 1,410,200
+| align="right" | <span style="color:green;">+0.24%</span>
+| align="right" | 1,746.18
+| align="right" | 809.5
+| align="right" | 3
+| align="right" | 19
+| OK-21
+| 035
+|-
+| [[Tochigi Prefecture|Tochigi]]
+| {{nihongo2|栃木県}}
+| Tochigi
+| {{nihongo2|栃木市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,933,146
+| align="right" | 1,950,800
+| align="right" | <span style="color:red;">-0.91%</span>
+| align="right" | 2,079.41
+| align="right" | 929.7
+| align="right" | 5
+| align="right" | 26
+| OK-24
+| 033
+|-
+| [[Ishijima Prefecture|Ishijima]]
+| {{nihongo2|石島県}}
+| Ishijima
+| {{nihongo2|石島市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,315,901
+| align="right" | 1,322,400
+| align="right" | <span style="color:red;">-0.49%</span>
+| align="right" | 2,688.75
+| align="right" | 489.4
+| align="right" | 6
+| align="right" | 22
+| OK-17
+| 033
+|-
+| [[Ehime Prefecture|Ehime]]
+| {{nihongo2|愛媛県}}
+| Ehime
+| {{nihongo2|愛媛市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,334,841
+| align="right" | 1,355,200
+| align="right" | <span style="color:red;">-1.50%</span>
+| align="right" | 3,437.63
+| align="right" | 388.3
+| align="right" | 7
+| align="right" | 20
+| OK-14
+| 032
+|-
+| [[Noto Prefecture|Noto]]
+| {{nihongo2|能登県}}
+| Noto
+| {{nihongo2|能登市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,132,522
+| align="right" | 1,141,300
+| align="right" | <span style="color:red;">-0.77%</span>
+| align="right" | 2,011.45
+| align="right" | 563.0
+| align="right" | 5
+| align="right" | 19
+| OK-19
+| 034
+|-
+| [[Haruno Prefecture|Haruno]]
+| {{nihongo2|春野県}}
+| Haruno
+| {{nihongo2|春野市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,420,119
+| align="right" | 1,431,900
+| align="right" | <span style="color:red;">-0.82%</span>
+| align="right" | 4,327.15
+| align="right" | 328.2
+| align="right" | 8
+| align="right" | 29
+| OK-16
+| 038
+|-
+| [[Shimabara Prefecture|Shimabara]]
+| {{nihongo2|島原県}}
+| Shimabara
+| {{nihongo2|島原市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 1,322,198
+| align="right" | 1,348,100
+| align="right" | <span style="color:red;">-1.92%</span>
+| align="right" | 3,758.48
+| align="right" | 351.8
+| align="right" | 8
+| align="right" | 26
+| OK-22
+| 036
+|-
+| [[Kiso Prefecture|Kiso]]
+| {{nihongo2|木曽県}}
+| Kiso
+| {{nihongo2|木曽市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 941,021
+| align="right" | 955,200
+| align="right" | <span style="color:red;">-1.48%</span>
+| align="right" | 3,596.12
+| align="right" | 261.7
+| align="right" | 7
+| align="right" | 21
+| OK-18
+| 037
+|-
+| [[Tachibara Prefecture|Tachibara]]
+| {{nihongo2|立原県}}
+| Tachibara
+| {{nihongo2|立原市}}
+| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| [[Ishijima (Island)|Ishijima]]
+| align="right" | 998,421
+| align="right" | 1,012,300
+| align="right" | <span style="color:red;">-1.37%</span>
+| align="right" | 3,553.63
+| align="right" | 281.0
+| align="right" | 7
+| align="right" | 23
+| OK-23
+| 039
+|-
+| [[Toyozawa Metropolis]]
+| {{nihongo2|豊沢都}}
+| [[Toyozawa]]
+| {{nihongo2|豊沢市}}
+| bgcolor=#f0e0c0|[[Miseto]]
+| [[Yagikoshu]]
+| align="right" | 8,430,000
+| align="right" | 8,321,500
+| align="right" | <span style="color:green;">+1.30%</span>
+| align="right" | 882.15
+| align="right" | 9,556.2
+| align="right" | 1
+| align="right" | 33
+| OK-25
+| 040
+|-
+| [[Mito Prefecture|Mito]]
+| {{nihongo2|水戸県}}
+| [[Mito]]
+| {{nihongo2|水戸市}}
+| bgcolor=#f0e0c0|[[Miseto]]
+| [[Yagikoshu]]
+| align="right" | 2,912,445
+| align="right" | 2,900,100
+| align="right" | <span style="color:green;">+0.43%</span>
+| align="right" | 4,064.05
+| align="right" | 716.6
+| align="right" | 7
+| align="right" | 44
+| OK-26
+| 041
+|-
+| [[Seto Prefecture|Seto]]
+| {{nihongo2|瀬戸県}}
+| [[Minatojima]]
+| {{nihongo2|港島市}}
+| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| [[Yagikoshu]]
+| align="right" | 2,644,113
+| align="right" | 2,630,800
+| align="right" | <span style="color:green;">+0.51%</span>
+| align="right" | 5,349.38
+| align="right" | 494.3
+| align="right" | 9
+| align="right" | 36
+| OK-27
+| 042
+|-
+| [[Saitama Prefecture|Saitama]]
+| {{nihongo2|埼玉県}}
+| [[Soma]]
+| {{nihongo2|相馬市}}
+| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
+| [[Yagikoshu]]
+| align="right" | 2,463,518
+| align="right" | 2,450,300
+| align="right" | <span style="color:green;">+0.54%</span>
+| align="right" | 5,042.23
+| align="right" | 488.6
+| align="right" | 8
+| align="right" | 63
+| OK-28
+| 044
+|-
+| [[Kochi Prefecture|Kochi]]
+| {{nihongo2|高知県}}
+| [[Tsuda]]
+| {{nihongo2|津田市}}
+| bgcolor=#d0c0f0|[[Soma (Region)|Soma]]
+| [[Yagikoshu]]
+| align="right" | 1,929,440
+| align="right" | 1,921,800
+| align="right" | <span style="color:green;">+0.40%</span>
+| align="right" | 6,723.70
+| align="right" | 287.0
+| align="right" | 6
+| align="right" | 34
+| OK-29
+| 048
+|-
+| [[Ise Prefecture|Ise]]
+| {{nihongo2|伊勢県}}
+| [[Ichijoudani]]
+| {{nihongo2|一乗谷市}}
+| bgcolor=#f0e0c0|[[Miseto]]
+| [[Yagikoshu]]
+| align="right" | 1,770,114
+| align="right" | 1,765,200
+| align="right" | <span style="color:green;">+0.28%</span>
+| align="right" | 5,225.20
+| align="right" | 338.8
+| align="right" | 7
+| align="right" | 29
+| OK-30
+| 043
+|-
+| [[Okayama Prefecture|Okayama]]
+| {{nihongo2|岡山県}}
+| [[Anjo-Saikawa]]
+| {{nihongo2|安城西川市}}
+| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
+| [[Yagikoshu]]
+| align="right" | 1,888,432
+| align="right" | 1,891,100
+| align="right" | <span style="color:red;">-0.14%</span>
+| align="right" | 3,927.08
+| align="right" | 480.9
+| align="right" | 10
+| align="right" | 27
+| OK-31
+| 045
+|-
+| [[Suzuka Prefecture|Suzuka]]
+| {{nihongo2|鈴鹿県}}
+| Suzuka
+| {{nihongo2|鈴鹿市}}
+| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| [[Yagikoshu]]
+| align="right" | 1,211,458
+| align="right" | 1,220,500
+| align="right" | <span style="color:red;">-0.74%</span>
+| align="right" | 6,457.08
+| align="right" | 187.6
+| align="right" | 7
+| align="right" | 25
+| OK-32
+| 046
+|-
+| [[Tosa Prefecture|Tosa]]
+| {{nihongo2|土佐県}}
+| Tosa
+| {{nihongo2|土佐市}}
+| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
+| [[Yagikoshu]]
+| align="right" | 1,012,876
+| align="right" | 1,025,900
+| align="right" | <span style="color:red;">-1.27%</span>
+| align="right" | 1,764.13
+| align="right" | 574.2
+| align="right" | 7
+| align="right" | 26
+| OK-33
+| 045
+|-
+| [[Mie Prefecture|Mie]]
+| {{nihongo2|三重県}}
+| Mie
+| {{nihongo2|三重市}}
+| bgcolor=#f0e0c0|[[Miseto]]
+| [[Yagikoshu]]
+| align="right" | 1,033,184
+| align="right" | 1,041,200
+| align="right" | <span style="color:red;">-0.77%</span>
+| align="right" | 1,972.68
+| align="right" | 523.8
+| align="right" | 5
+| align="right" | 22
+| OK-34
+| 047
+|-
+| [[Kurosaki Prefecture|Kurosaki]]
+| {{nihongo2|黒崎県}}
+| Kurosaki
+| {{nihongo2|黒崎市}}
+| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| [[Yagikoshu]]
+| align="right" | 1,120,477
+| align="right" | 1,129,800
+| align="right" | <span style="color:red;">-0.82%</span>
+| align="right" | 2,722.32
+| align="right" | 411.6
+| align="right" | 6
+| align="right" | 24
+| OK-35
+| 051
+|-
+| [[Nagayama Prefecture|Nagayama]]
+| {{nihongo2|長山県}}
+| Nagayama
+| {{nihongo2|長山市}}
+| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| [[Yagikoshu]]
+| align="right" | 1,021,558
+| align="right" | 1,035,100
+| align="right" | <span style="color:red;">-1.31%</span>
+| align="right" | 5,830.51
+| align="right" | 175.2
+| align="right" | 6
+| align="right" | 23
+| OK-36
+| 052
+|-
+| [[Naruto Prefecture|Naruto]]
+| {{nihongo2|鳴門県}}
+| Naruto
+| {{nihongo2|鳴門市}}
+| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
+| [[Yagikoshu]]
+| align="right" | 945,211
+| align="right" | 958,400
+| align="right" | <span style="color:red;">-1.38%</span>
+| align="right" | 2,595.06
+| align="right" | 364.2
+| align="right" | 8
+| align="right" | 24
+| OK-37
+| 049
+|-
+| [[Shiogami Prefecture|Shiogami]]
+| {{nihongo2|塩上県}}
+| Shiogami
+| {{nihongo2|塩上市}}
+| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
+| [[Yagikoshu]]
+| align="right" | 694,335
+| align="right" | 710,100
+| align="right" | <span style="color:red;">-2.22%</span>
+| align="right" | 4,157.85
+| align="right" | 167.0
+| align="right" | 7
+| align="right" | 20
+| OK-38
+| 049
+|-
+| [[Nagato Prefecture|Nagato]]
+| {{nihongo2|長門県}}
+| Nagato
+| {{nihongo2|長門市}}
+| bgcolor=#d0d0d0|[[Nankai]]
+| [[Yagikoshu]]
+| align="right" | 966,104
+| align="right" | 988,200
+| align="right" | <span style="color:red;">-2.24%</span>
+| align="right" | 4,922.08
+| align="right" | 196.3
+| align="right" | 6
+| align="right" | 21
+| OK-39
+| 055
+|-
+| [[Obama Prefecture|Obama]]
+| {{nihongo2|小浜県}}
+| Obama
+| {{nihongo2|小浜市}}
+| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| [[Yagikoshu]]
+| align="right" | 821,564
+| align="right" | 835,600
+| align="right" | <span style="color:red;">-1.68%</span>
+| align="right" | 5,593.73
+| align="right" | 146.9
+| align="right" | 5
+| align="right" | 20
+| OK-40
+| 050
+|-
+| [[Kagami Prefecture|Kagami]]
+| {{nihongo2|鏡県}}
+| Kagami
+| {{nihongo2|鏡市}}
+| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| [[Yagikoshu]]
+| align="right" | 755,291
+| align="right" | 769,100
+| align="right" | <span style="color:red;">-1.80%</span>
+| align="right" | 11,312.30
+| align="right" | 66.8
+| align="right" | 6
+| align="right" | 21
+| OK-41
+| 053
+|-
+| [[Sakai Prefecture|Sakai]]
+| {{nihongo2|堺県}}
+| Sakai
+| {{nihongo2|堺市}}
+| bgcolor=#d0d0d0|[[Nankai]]
+| [[Yagikoshu]]
+| align="right" | 885,221
+| align="right" | 902,300
+| align="right" | <span style="color:red;">-1.89%</span>
+| align="right" | 1,611.83
+| align="right" | 549.2
+| align="right" | 6
+| align="right" | 22
+| OK-42
+| 056
+|-
+| [[Mizuno Prefecture|Mizuno]]
+| {{nihongo2|水野県}}
+| Mizuno
+| {{nihongo2|水野市}}
+| bgcolor=#d0d0d0|[[Nankai]]
+| [[Yagikoshu]]
+| align="right" | 630,000
+| align="right" | 647,500
+| align="right" | <span style="color:red;">-2.70%</span>
+| align="right" | 8,857.76
+| align="right" | 71.1
+| align="right" | 7
+| align="right" | 20
+| OK-43
+| 058
+|-
+| [[Uruwa Prefecture|Uruwa]]
+| {{nihongo2|浦和県}}
+| Uruwa
+| {{nihongo2|浦和市}}
+| bgcolor=#d0d0d0|[[Nankai]]
+| [[Yagikoshu]]
+| align="right" | 615,000
+| align="right" | 633,200
+| align="right" | <span style="color:red;">-2.87%</span>
+| align="right" | 3,949.61
+| align="right" | 155.7
+| align="right" | 6
+| align="right" | 20
+| OK-44
+| 057
+|-
+| [[Mutsu Prefecture|Mutsu]]
+| {{nihongo2|陸奥県}}
+| Mutsu
+| {{nihongo2|陸奥市}}
+| bgcolor=#d0d0d0|[[Nankai]]
+| [[Yagikoshu]]
+| align="right" | 590,200
+| align="right" | 609,900
+| align="right" | <span style="color:red;">-3.23%</span>
+| align="right" | 9,532.42
+| align="right" | 61.9
+| align="right" | 8
+| align="right" | 24
+| OK-45
+| 054
+|-
+| [[Aomori Prefecture|Aomori]]
+| {{nihongo2|青森県}}
+| Aomori
+| {{nihongo2|青森市}}
+| bgcolor=#d0d0d0|[[Nankai]]
+| [[Yagikoshu]]
+| align="right" | 550,100
+| align="right" | 570,500
+| align="right" | <span style="color:red;">-3.58%</span>
+| align="right" | 10,568.60
+| align="right" | 52.0
+| align="right" | 8
+| align="right" | 40
+| OK-46
+| 055
+|-
+| [[Oita Prefecture|Oita]]
+| {{nihongo2|大分県}}
+| Oita
+| {{nihongo2|大分市}}
+| bgcolor=#d0d0d0|[[Nankai]]
+| [[Yagikoshu]]
+| align="right" | 510,500
+| align="right" | 529,800
+| align="right" | <span style="color:red;">-3.64%</span>
+| align="right" | 2,413.18
+| align="right" | 211.5
+| align="right" | 7
+| align="right" | 20
+| OK-47
+| 058
+|-
+| [[Kii Prefecture|Kii]]
+| {{nihongo2|紀伊県}}
+| Kii
+| {{nihongo2|紀伊市}}
+| bgcolor=#d0d0d0|[[Nankai]]
+| [[Yagikoshu]]
+| align="right" | 480,112
+| align="right" | 505,000
+| align="right" | <span style="color:red;">-4.93%</span>
+| align="right" | 9,175.97
+| align="right" | 52.3
+| align="right" | 6
+| align="right" | 19
+| OK-48
+| 059
+|-
+! colspan="2" | Total
+!
+!
+!
+!
+! align="right" | 90,217,335
+! align="right" | 90,757,004
+! align="right" | <span style="color:red;">-0.59%</span>
+! align="right" | 200,221.94
+! align="right" | 450.6
+! align="right" | 323
+! align="right" | 1,257
+!
+!
+|}
+
+==See also==
+* [[National Diet of Okaiken]]
+
+{{Okaiken topics}}
+[[Category:Prefectures of Okaiken]]
+[[Category:Administrative divisions of Okaiken]]
+[[Category:First-level administrative divisions by country]]

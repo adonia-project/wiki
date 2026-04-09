@@ -1,0 +1,5 @@
+/* {{pp-template}} */
+
+.excerpt-hat .mw-editsection-like {
+	font-style: normal;
+}

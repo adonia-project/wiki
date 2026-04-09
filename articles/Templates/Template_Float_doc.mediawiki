@@ -1,0 +1,174 @@
+{{Documentation subpage}}
+<!-- Please add categories to the /doc subpage, and interwikis at Wikidata (see Wikipedia:Wikidata) -->
+
+== Description ==
+This template is used to position text or elements to the rightmost/leftmost of a page/area, without changing the alignment or formatting of other text and elements nearby.
+
+Whatever you float with this template will cover up anything underneath it. Text will wrap underneath this template, not around it.
+
+For aligning text in general, see {{tl|align}}. For floating images, boxes, and other elements in a way that text wraps around instead of beneath, see {{tl|stack}}.
+
+== Usage ==
+These are the standard usage: 
+* <code><nowiki>{{float|</nowiki>{{bigger|{{smallcaps|item}}}}}}</code> floats {{smallcaps|item}} on the rightmost of a page/area.
+* <code><nowiki>{{float|left|</nowiki>{{bigger|{{smallcaps|item}}}}}}</code> floats {{smallcaps|item}} on the leftmost of a page/area.
+
+More configuration: 
+* <code><nowiki>{{float |width= |height= |top= |right= |bottom= |left= |</nowiki>{{bigger|{{smallcaps|item}}}}}}</code>
+
+<code>{{bigger|{{smallcaps|item}}}}</code> is required. You must specify what text or element to float or it will throw an error. 
+
+All parameters are optional. The parameters {{para|width}} and {{para|height}} are to indicate the width/height of the <code><nowiki><div></nowiki></code> element. <!--Unnecessary?: Note that if any values other than zero for ''top'' and ''right'' are required, they need to be specified.-->
+
+The optional parameters {{para|top}}, {{para|right}}, {{para|bottom}} and {{para|left}} are to indicate how far from their respective positions the item is to be positioned. 
+
+Any established HTML/CSS units may be used, for example, <code><nowiki>{{float |top=2.0em |left=2px |width=10em | the content to float}}</nowiki></code>. 
+
+=== Beware ===
+Beware when using this template in navboxes. Please ensure whatever it floats (e.g. an image) does not float over other elements or text, even after the navbox is resized. 
+
+To align centered lists in a navbox with an image, see the [[#Alternatives for navigational boxes|alternatives for navigational boxes]] section below. 
+
+== Examples ==
+Note how the links in the second two examples are centered relative to the whole template, unlike those in the first example.
+
+=== Example 1 (without float) ===
+This is a [[Template:Navbox|navbox]] using its image parameter:
+{{Navbox
+| name = Float/doc
+| state = uncollapsed
+| title = [[Imperial Japanese Navy]]
+| listclass = hlist
+| image = [[File:Naval Ensign of Japan.svg|24px|border|Naval Ensign of Japan]]
+| list1 =
+* [[Imperial Japanese Navy admirals|Admirals]]
+* [[Battles of the Imperial Japanese Navy|Battles]]
+* [[List of ships of the Japanese Navy|Ships]]
+* [[List of aircraft of the Japanese Navy|Aircraft]]
+* [[List of weapons of the Japanese Navy|Weapons]]
+}}
+{{Hidden begin |showhide=left |title=The code used in the above example}}
+<pre>
+{{Navbox
+| name = Float/doc
+| state = uncollapsed
+| title = [[Imperial Japanese Navy]]
+| listclass = hlist
+| image = [[File:Naval Ensign of Japan.svg|24px|border|Naval Ensign of Japan]]
+| list1 =
+* [[Imperial Japanese Navy admirals|Admirals]]
+* [[Battles of the Imperial Japanese Navy|Battles]]
+* [[List of ships of the Japanese Navy|Ships]]
+* [[List of aircraft of the Japanese Navy|Aircraft]]
+* [[List of weapons of the Japanese Navy|Weapons]]
+}}
+</pre>
+{{Hidden end}}
+
+=== Example 2 (with float) ===
+We use {{tlf|float}} instead of the navbox's image parameter:
+{{Navbox
+| name = Float/doc
+| state = uncollapsed
+| title = [[Imperial Japanese Navy]]
+| listclass = hlist
+| list1 = {{float|[[File:Naval Ensign of Japan.svg|24px|border|Naval Ensign of Japan]]}}
+* [[Imperial Japanese Navy admirals|Admirals]]
+* [[Battles of the Imperial Japanese Navy|Battles]]
+* [[List of ships of the Japanese Navy|Ships]]
+* [[List of aircraft of the Japanese Navy|Aircraft]]
+* [[List of weapons of the Japanese Navy|Weapons]]
+}}
+{{Hidden begin |showhide=left |title=The code used in the above example}}
+<pre>
+{{Navbox
+| name = Float/doc
+| state = uncollapsed
+| title = [[Imperial Japanese Navy]]
+| listclass = hlist
+| list1 = {{float|[[File:Naval Ensign of Japan.svg|24px|border|Naval Ensign of Japan]]}}
+* [[Imperial Japanese Navy admirals|Admirals]]
+* [[Battles of the Imperial Japanese Navy|Battles]]
+* [[List of ships of the Japanese Navy|Ships]]
+* [[List of aircraft of the Japanese Navy|Aircraft]]
+* [[List of weapons of the Japanese Navy|Weapons]]
+}}
+</pre>
+{{Hidden end}}
+
+=== Example 3 (with float and custom values) ===
+We use {{tlf|float}} with a custom value of {{para|top}} this time:
+{{Navbox
+| name = Float/doc
+| state = uncollapsed
+| title = [[Imperial Japanese Navy]]
+| listclass = hlist
+| list1 = {{float|top=0.5em|[[File:Naval Ensign of Japan.svg|24px|border|Naval Ensign of Japan]]}}
+* [[Imperial Japanese Navy admirals|Admirals]]
+* [[Battles of the Imperial Japanese Navy|Battles]]
+* [[List of ships of the Japanese Navy|Ships]]
+* [[List of aircraft of the Japanese Navy|Aircraft]]
+* [[List of weapons of the Japanese Navy|Weapons]]
+}}
+{{Hidden begin |showhide=left |title=The code used in the above example}}
+<pre>
+{{Navbox
+| name = Float/doc
+| state = uncollapsed
+| title = [[Imperial Japanese Navy]]
+| listclass = hlist
+| list1 = {{float|top=0.5em|[[File:Naval Ensign of Japan.svg|24px|border|Naval Ensign of Japan]]}}
+* [[Imperial Japanese Navy admirals|Admirals]]
+* [[Battles of the Imperial Japanese Navy|Battles]]
+* [[List of ships of the Japanese Navy|Ships]]
+* [[List of aircraft of the Japanese Navy|Aircraft]]
+* [[List of weapons of the Japanese Navy|Weapons]]
+}}
+</pre>
+{{Hidden end}}
+
+=== Alternatives for navigational boxes ===
+We use its image parameter and liststyle with padding-left set to the image width:
+{{Navbox
+| name      = Float/doc
+| state     = uncollapsed
+| title     = [[Imperial Japanese Navy]]
+| listclass = hlist
+| image     = [[File:Naval Ensign of Japan.svg|24px|border|Naval Ensign of Japan]]
+| liststyle = padding-left: 24px
+| list1     =
+* [[Imperial Japanese Navy admirals|Admirals]]
+* [[Battles of the Imperial Japanese Navy|Battles]]
+* [[List of ships of the Japanese Navy|Ships]]
+* [[List of aircraft of the Japanese Navy|Aircraft]]
+* [[List of weapons of the Japanese Navy|Weapons]]
+}}
+{{Hidden begin |showhide=left |title=The code used in the above example}}
+<pre>
+{{Navbox
+| name      = Float/doc
+| state     = uncollapsed
+| title     = [[Imperial Japanese Navy]]
+| listclass = hlist
+| image     = [[File:Naval Ensign of Japan.svg|24px|border|Naval Ensign of Japan]]
+| liststyle = padding-left: 24px
+| list1     =
+* [[Imperial Japanese Navy admirals|Admirals]]
+* [[Battles of the Imperial Japanese Navy|Battles]]
+* [[List of ships of the Japanese Navy|Ships]]
+* [[List of aircraft of the Japanese Navy|Aircraft]]
+* [[List of weapons of the Japanese Navy|Weapons]]
+}}
+</pre>
+{{Hidden end}}
+
+== See also ==
+* {{tl|align}}
+* {{tl|clear}}
+* {{t|float begin}} and {{t|float end}} - Places wikicode in an image frame. Allows captions. Handles wikitables without having to use escape characters.
+* {{tl|stack}}
+
+<includeonly>{{sandbox other||
+<!-- Add categories below this line, and interwikis at Wikidata -->
+[[Category:Positioning templates]]
+}}</includeonly>

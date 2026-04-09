@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Djibouti
+| flag alias = Flag of Djibouti.svg
+| link alias-naval = Djiboutian Navy
+| link alias-army = Djiboutian Army
+| link alias-navy = Djiboutian Navy
+| link alias-military = Djibouti Armed Forces
+| link alias-coast guard = Djiboutian Coast Guard
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| redir1 = DJI
+</noinclude>
+}}

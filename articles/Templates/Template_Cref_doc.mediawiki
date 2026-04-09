@@ -1,0 +1,39 @@
+{{Documentation subpage}}
+<!--Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])-->
+   
+== Purpose ==
+This template is used to mark the word to which a content note is going to be attached in Wikipedia. To create the content note itself, use [[Template:Cnote]]. For multiple uses of the same footnote, see [[Template:Cref2]].
+
+<table width=80% align=center border=1><tr><td>
+<blockquote>Note: '''Content Notes''' created using {{tl|cref}} and {{tl|cnote}} can co-exist in an article along with '''Source Notes''' using the [[mw:Extension:Cite/Cite.php|cite.php]] system. The two systems do not interfere with each other in any way.</blockquote>
+</td></tr></table>
+
+== Usage ==
+*<kbd><nowiki>{{cref|{{{1}}}}}</nowiki></kbd>
+
+<pre>
+{{cref |enter name of content note here }}
+</pre>
+
+=== Required parameter ===
+* <nowiki>{{{1}}}</nowiki>: name of content note to which this marker is going to point.
+
+==See it in action==
+Please look at [[Early life of Plato#ref a]] to see a content note attached to the word "brother".
+
+==See also==
+* [[Wikipedia:Citation templates]] – related templates
+* [[Wikipedia:Citing sources]] – style guide
+* [[Wikipedia:WikiProject Wikicite]]
+* [[Template:Cite book]]
+* [[Template:Cite news]]
+* [[Template:Efn]] - The widespread explanatory footnote system as an alternative
+
+<includeonly>{{Sandbox other||
+<!----Categories below this line, please; interwikis to Wikidata---->
+
+[[Category:Explanatory footnote templates]]
+[[Category:Inline templates|{{PAGENAME}}]]
+
+[[fr:Modèle:Cref]]
+}}</includeonly>

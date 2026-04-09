@@ -1,0 +1,30 @@
+{| id="persondata" class="persondata" style="border:1px solid #aaa; display:none; speak:none;"
+! colspan="2" | [[Wikipedia:Persondata|Persondata]]
+|-
+| class="persondata-label" style="color:#aaa;" | Name
+| {{{name|{{{NAME|}}}}}}
+|- 
+| class="persondata-label" style="color:#aaa;" | Alternative names 
+| {{{alternative names|{{{ALTERNATIVE NAMES|}}}}}}
+|- 
+| class="persondata-label" style="color:#aaa;" | Short description
+| {{{short description|{{{SHORT DESCRIPTION|}}}}}}
+|-
+| class="persondata-label" style="color:#aaa;" | Date of birth
+| {{{date of birth|{{{DATE OF BIRTH|}}}}}}
+|-
+| class="persondata-label" style="color:#aaa;" | Place of birth 
+| {{{place of birth|{{{PLACE OF BIRTH|}}}}}}
+|-
+| class="persondata-label" style="color:#aaa;" | Date of death
+| {{{date of death|{{{DATE OF DEATH|}}}}}}
+|-
+| class="persondata-label" style="color:#aaa;" | Place of death
+| {{{place of death|{{{PLACE OF DEATH|}}}}}}
+|}<includeonly> {{#if: {{{name|{{{NAME|}}}}}} | | [[Category:Persondata templates without name parameter]] }} {{#if: {{{short description|{{{SHORT DESCRIPTION|}}}}}} | | [[Category:Persondata templates without short description parameter]]}}</includeonly><noinclude>
+
+{{Documentation}}
+
+[[Category:Exclude in print]]
+
+</noinclude>

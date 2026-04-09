@@ -1,0 +1,24 @@
+<span style="display:none">(<span class="bday">{{{1|{{{year}}}}}}-{{padleft:{{MONTHNUMBER|{{{2|{{{month}}}}}}}}|2|0}}-{{padleft:{{{3|{{{day}}}}}}|2|0}}</span>)</span>{{#if:{{{df|}}}
+ |{{#expr:{{{3|{{{day}}}}}}}} {{MONTHNAME|{{{2|{{{month}}}}}}}}
+ |{{MONTHNAME|{{{2|{{{month<noinclude>|1</noinclude>}}}}}}}} {{#expr:{{{3|{{{day<noinclude>|1</noinclude>}}}}}}}},
+}} {{#expr:{{{1|{{{year<noinclude>|1900</noinclude>}}}}}}}}<includeonly><!--
+ -- Error checks --
+-->{{#ifexpr: ( {{{1|{{{year}}}}}} > {{CURRENTYEAR}} )
+ | &#32;{{error|invalid year}}{{main other|[[Category:Pages using age template with invalid date]]}}
+}}{{#if:{{{2|}}}|{{#ifexpr: ( {{{2|{{{month}}}}}} > 12 ) OR ( {{{2|{{{month}}}}}} < 1 )
+ | &#32;{{error|invalid month}}{{main other|[[Category:Pages using age template with invalid date]]}}|}}
+}}{{#if:{{{3|}}}|{{#ifexpr: ( {{{3|{{{day}}}}}} > 31 ) OR ( {{{3|{{{day}}}}}} < 1 )
+ | &#32;{{error|invalid day}}{{main other|[[Category:Pages using age template with invalid date]]}}|}}
+}}{{#ifeq: {{NAMESPACENUMBER}} | 0
+| {{#if: {{#invoke:wd|label|raw}}
+  | {{#if: {{#invoke:String|match|{{#invoke:wd|properties|raw|P31}},|Q5,|1|1|true|}}
+    | {{#if: {{#invoke:wd|properties|raw|P569}}
+      |
+      | [[Category:Date of birth not in Wikidata]]
+      }}
+    }}
+  | [[Category:Articles without Wikidata item]]
+  }}
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

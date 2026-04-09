@@ -1,0 +1,6 @@
+<noinclude>Header for {{tl|JASN item}} table.<br>&nbsp;</noinclude>
+{| class="wikitable sortable"
+|-
+! Line !! Abbreviation !!class=unsortable| Code !!class=unsortable| Example !! Color<noinclude>
+|}
+[[Category:Japan rail station number templates|!]]</noinclude>

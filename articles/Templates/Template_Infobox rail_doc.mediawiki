@@ -1,0 +1,288 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{High-use}}
+{{Lua|Module:Infobox|Module:InfoboxImage|Module:Check for unknown parameters}}
+
+== Usage ==
+{{generic template demo | abbr | alt | caption | defunct | el | electrification | elevation | embedded | end_year | fleet | founded | founders | franchise | gauge | headquarters | hq_city | image | image_alt | image_caption | image_filename | image_size | key_people | length | linelength | locale | logo | logo_alt | logo_filename | logo_size | map | map_alt | map_caption | map_name | map_size | map_state | marks | name | nameforarea | notrack | old_gauge | other_name | parent_company | predecessor | predecessor_line | predecessors | regions | routekm | routemap | secregions | speed | start_year | stations | stationsop | successor | successor_line | successors | system_map | tracklength | website  }}
+
+{{Tlf|Infobox rail}} is used to create an [[Wikipedia:Infobox|infobox]] on articles about railway {{Em|companies}}; {{para|name}} is the only mandatory parameter.
+
+{{tl|Infobox rail line}} is used for railway {{Em|lines}}; this template is sometimes used on articles about both a company and a line (e.g. [[Romney, Hythe and Dymchurch Railway]]). It may also be used on affiliate companies operating rail public transit systems under contract (e.g. [[Arriva Rail London]]).
+
+== Syntax ==
+<syntaxhighlight lang="wikitext" style="overflow:auto;">
+{{Infobox rail
+| name             = 
+| other_name       = 
+| logo             = 
+| logo_size        = 
+| logo_alt         = 
+| system_map       = 
+| map_size         = 
+| map_alt          = 
+| map_caption      = 
+| image            = 
+| image_size       = 
+| alt              = 
+| caption          = 
+| franchise        = 
+| nameforarea      = 
+| regions          = 
+| secregions       = 
+| fleet            = 
+| stations         = 
+| stationsop       = 
+| parent_company   = 
+| headquarters     = 
+| founders         = 
+| key_people       = 
+| marks            = 
+| locale           = 
+| start_year       = <!-- {{Start date|YYYY}} -->
+| end_year         = <!-- For currently operating lines, use "present". For defunct lines, use {{End date|YYYY}} -->
+| predecessor_line = <!-- "predecessors" can also be used; will make label plural. -->
+| successor_line   = <!-- "successors" can also be used; will make label plural. -->
+| gauge            = <!-- {{Track gauge|Standard gauge}} -->
+| old_gauge        = 
+| electrification  = 
+| length           = 
+| tracklength      = 
+| notrack          = 
+| speed            = 
+| elevation        = 
+| website          = <!-- {{URL|example.com}} -->
+| embedded         = 
+| map              = 
+| map_state        = 
+| map_name         = 
+}}
+</syntaxhighlight>
+
+==Parameters==
+{| class="wikitable"
+|-
+! Parameter || Required || Definition
+|-
+| <code>name</code> || '''Yes''' || Name of railway company, displayed at top of infobox
+|-
+| <code>railroad_name</code> || No || Another version of name, with the same effect. Name and railroad name may not be used at the same time.
+|-
+| <code>other_name</code> || No || Other name(s) that the railway company is or was known by. 
+|-
+| <code>logo</code> || No || Filename of logo image, without <code>File:</code> prefix. Shown just below the railroad name
+|-
+| <code>logo_size</code> || No || Size of image in pixels with '''px''', default is <code>upright=0.91</code> (see [[Wikipedia:Picture tutorial#Upright images]])
+|-
+| <code>logo_alt</code> || No || Alt text for logo, used by screen readers. See [[Wikipedia:Alternative text for images]] for more information.
+|-
+| <code>system_map</code> || No ||  Filename of system map image, without <code>File:</code> prefix, displayed below the logo.
+|-
+| <code>map_caption</code> || No || Caption for system map image
+|-
+| <code>map_size</code> || No || Size of image in pixels with '''px''', default is <code>upright=1.41</code>
+|-
+| <code>map_alt</code> || No || Alt text for map
+|-
+| <code>image</code> || No || Filename of image, without <code>File:</code> prefix, displayed below the map
+|-
+| <code>image_size</code> || No || Size of image in pixels with '''px''', default is <code>upright=1.41</code>
+|-
+| <code>image_caption</code> || No || Image caption
+|-
+| <code>image_alt</code> || No || Alt text for image
+|-
+| <code>franchise</code> || No || For passenger operators: The name of the operating franchise the company operates under. Open access operators may be represented as "Not subject to franchising or subsidy". Railfreight companies may leave this parameter blank.
+|-
+| <code>contract</code> || No || For passenger operators: The name of the operating contract the company operates under. 
+|-
+| <code>concession</code> || No || For passenger operators: The name of the operating concession the company operates under. 
+|-
+| <code>regions</code> || No || The primary region the railway operates in. For a more specific route or station, use nameforarea parameter
+|-
+| <code>secregions</code> || No || The secondary regions the railway serves
+|-
+| <code>nameforarea</code> || No || May be used in lieu of regions or secregions
+|-
+| <code>fleet</code> || No || Details about the rolling stock, and where possible, any stock on order
+|-
+| <code>stations</code> || No || For passenger companies: The total number of stations served
+|-
+| <code>stationsop</code> || No || Number of stations the railway acts as property manager for, whether in a ''de jure'' or ''de facto'' status.
+|-
+| <code>parent_company</code> || No || The shareholders in the company, in some cases, the owner. Leave blank if owner is an individual person.
+|-
+| <code>headquarters</code> || No || The city where the railway's main office is located. 
+|-
+| <code>founders</code> || No || Important founders of the company; use {{t1|plainlist}} for multiple entries
+|-
+| <code>key_people</code> || No || Current executives of the company; use {{t1|plainlist}} for multiple entries
+|-
+| <code>marks</code> || No || The [[reporting mark]].  The definition may be:
+* '''UIC''': a two to five letter identifier displayed on the vehicles where applicable, often an acronym of the railway's legal name.
+* '''[[Association of American Railroads|AAR]]''': a two to four letter code for the railway, often an acronym of the railway's [[trade name]].
+* '''[[National Rail|NR]]''': The two letter code used by passenger operators in daily operation 
+* Other: Abbreviation of individual rolling stock lessors.
+|-
+| <code>abbr</code> || No || Another version of marks, with the same effect. Abbr and marks may not be used at the same time.
+|-
+| <code>locale</code> || No || Region railway is located, typically a bioregion. Used primarily for freight railways.
+|-
+| <code>start_year</code> || No || Year railway commenced operations, if exact date is known use {{tl|Start date}} template, Using <code>df=y</code> parameter to display in day month year format if appropriate. Shown as '''Dates of operation'''
+|-
+| <code>end_year</code> || No || Year railway ceased operations, if exact date is known, use {{tl|End date}} template. If currently operating, type "present". Shown as '''Dates of operation'''.
+|-
+| <code>predecessor_line</code> || No || The definition may be:
+* A list of companies that were merged to make up this company
+* The preceding operator of a contracted service
+|-
+| <code>successor_line</code> || No || Subsequent railway company that operated the company's railway lines
+|-
+| <code>predecessor</code> || No || Another version of predecessor_line, with the same effect.
+|-
+| <code>successor</code> || No || Another version of successor_line, with the same effect.
+|-
+| <code>successors</code> || No || Similar to successor, but used when a company has more than one successor (e.g. [[Conrail]]).
+|-
+| <code>gauge</code> || No || Current [[track gauge]] (use template {{tl|Track gauge}})
+|-
+| <code>old_gauge</code> || No || Previous rail gauge (use template {{tl|Track gauge}}), shown as '''Previous gauge'''
+|-
+| <code>electrification</code> || No || Type and voltage of electrification system. Leave blank if no electrification exists.
+|-
+| <code>length</code> || No || Total length of the railway system
+|-
+| <code>speed</code> || No || Maximum operating speed of the railway's services, and where possible, the service type in parentheses.
+|-
+| <code>website</code> || No || Official website, use {{tl|URL}} template.
+|-
+| <code>operator</code> || No || For defunct companies, the current company or companies operating the former company's lines.
+|-
+| <code>notrack</code> || No || The number of tracks on the company's main line.
+|}
+
+===Embedding other infoboxes===
+The <code>embedded=</code> parameter can be used to embed another infobox with such capability like {{tl|designation list}} and {{tl|infobox NRHP}}.
+
+==Examples==
+{| class="wikitable" 
+|-
+! Usage !! Code !! Example
+|-
+| Minimum use || <syntaxhighlight lang="wikitext">{{Infobox rail
+| name = Isle of Sodor Railway
+}}</syntaxhighlight> || {{Infobox rail
+| name = Isle of Sodor Railway
+}}
+|-
+| Logo || <syntaxhighlight lang="wikitext">{{Infobox rail
+| name = Isle of Sodor Railway
+| logo = No-photo.svg
+| logo_size = 300px
+}}</syntaxhighlight> || {{Infobox rail
+| name = Isle of Sodor Railway
+| logo = No-logo.svg
+| logo_size = 300px
+}}
+|-
+| Image || <syntaxhighlight lang="wikitext">{{Infobox rail
+| name          = [[Great North of Scotland Railway]]
+| image         = Gordon Highlander steam locomotive.jpg
+| image_size    = 300px
+| image_caption = No. 49 ''Gordon Highlander'', built
+  for the [[Great North of Scotland Railway]] in 1920
+}}
+</syntaxhighlight> || {{Infobox rail
+| name          = [[Great North of Scotland Railway]]
+| image         = Gordon Highlander steam locomotive.jpg
+| image_size    = 300px
+| image_caption = No. 49 ''Gordon Highlander'', built for the [[Great North of Scotland Railway]] in 1920
+}}
+|-
+
+| Text ||<syntaxhighlight lang="wikitext">{{Infobox rail
+| name             = [[Great North of Scotland Railway]]
+| marks            = FGW
+| locale           = North Scotland
+| start_year       = {{Start date|1906|5|12}}
+| end_year         = {{End date|1923|1|20}}
+| predecessor_line = 
+| successor_line   = [[London and North Eastern Railway]]
+| gauge            = {{Track gauge|56.5in|allk=on}}
+| old_gauge        = {{Track gauge|42in|lk=on}}
+| electrification  = 650 [[Volt|V]] [[Direct current|DC]]
+| length           = {{convert|50|mi}}
+| hq_city          = N/A
+| website          = N/A
+}}</syntaxhighlight> || {{Infobox rail
+| name             = [[Great North of Scotland Railway]]
+| marks            = FGW
+| locale           = North Scotland
+| start_year       = {{Start date|1906|5|12}}
+| end_year         = {{End date|1923|1|20}}
+| predecessor_line = 
+| successor_line   = [[London and North Eastern Railway]]
+| gauge            = {{Track gauge|56.5in|allk=on}}
+| old_gauge        = {{Track gauge|42in|lk=on}}
+| electrification  = 650 [[Volt|V]] [[Direct current|DC]]
+| length           = {{convert|50|mi}}
+| hq_city          = N/A
+| website          = N/A
+}}
+|-
+| Nearly everything ||<syntaxhighlight lang="wikitext">{{Infobox rail
+| name             = [[Great North of Scotland Railway]]
+| other_name       = 
+| logo             = No-photo.svg
+| system_map       = Temporary placeholder photo.jpg
+| image            = Gordon Highlander steam locomotive.jpg
+| image_size       = 300px
+| image_caption    = No. 49 ''Gordon Highlander'', built
+ for the [[Great North of Scotland Railway]] in 1920
+| marks            = FGW
+| locale           = North Scotland
+| start_year       = {{Start date|1906|5|12}}
+| end_year         = {{End date|1923|1|20}}
+| predecessor_line = 
+| successor_line   = [[London and North Eastern Railway]]
+| gauge            = {{Track gauge|56.5in|allk=on}}
+| old_gauge        = {{Track gauge|42in|lk=on}}
+| electrification  = 650 [[Volt|V]] [[Direct current|DC]]
+| length           = {{convert|50|mi}}
+| hq_city          = N/A
+| website          = N/A
+}}</syntaxhighlight> ||{{Infobox rail
+| name = [[Great North of Scotland Railway]]
+| logo = 
+| system_map       = Temporary placeholder photo.jpg
+| image            = Gordon Highlander steam locomotive.jpg
+| image_size       = 300px
+| image_caption    = No. 49 ''Gordon Highlander'', built for
+ the [[Great North of Scotland Railway]] in 1920
+| marks            = FGW
+| locale           = North Scotland
+| start_year       = {{Start date|1906|5|12}}
+| end_year         = {{End date|1923|1|20}}
+| predecessor_line = 
+| successor_line   = [[London and North Eastern Railway]]
+| gauge            = {{Track gauge|56.5in|allk=on}}
+| old_gauge        = {{Track gauge|42in|lk=on}}
+| electrification  = 650 [[Volt|V]] [[Direct current|DC]]
+| length           = {{convert|50|mi}}
+| hq_city          = N/A
+| website          = N/A
+}}
+|}
+
+==Tracking categories==
+* {{clc|Pages using infobox rail with unknown parameters}}
+* {{clc|Pages using infobox rail with conflicting parameters}}
+
+{{Organization infoboxes}}
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Rail transport infobox templates|Rail]]
+[[Category:Templates that add a tracking category]]
+
+}}</includeonly>

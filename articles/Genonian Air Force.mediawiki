@@ -1,0 +1,201 @@
+{{Infobox military unit
+| unit_name                     = Genonian Air Force
+| native_name                   = TBD<br>''TBD''
+| image                         = [[File:GAF emblem.png|250px]]
+| image_size                    = 
+| caption                       = Emblem of the Genonian Air Force
+| start_date                    = DAY MONTH {{abbr|2300|1911 (Earth Year Equivalent)}}
+| dates                         = 
+| country                       = {{flag|Geno}}
+| type                          = Air force
+| role                          = Aerial warfare
+| size                          = TBD active personnel<br>TBD reserve personnel<br>TBD operational aircraft<br>TBD other personnel
+| command_structure             = [[Genonian Armed Forces]]
+| garrison                      = [[BUILDING COMPLEX]], [[NEIGHBORHOOD]], [[Utopia (Geno)|Utopia]]
+| garrison_label                = Headquarters
+| motto                         = TBD<br/>"We are the best"
+| colors                        = Red, white, black<br>{{legend2|#880000}}{{legend2|#ffffff|border=1px solid #AAAAAA}}{{legend2|#000000}}
+| colors_label                  = Colors
+| anniversaries                 = 
+| battles                       = 
+| equipment                     = 
+| decorations                   = 
+| website                       = 
+<!-- Commanders -->
+| commander1                    = [[Raz Karabin]]
+| commander1_label              = [[President of Geno|Commander-in-Chief]]
+| commander2                    = [[PERSON]]
+| commander2_label              = [[Minister of Defense (Geno)|Minister of Defense]]
+| commander3                    = [[PERSON]]
+| commander3_label              = [[Commander of the Genonian Air Force]]
+| commander4                    = [[PERSON]]
+| commander4_label              = [[Deputy Commander of the Genonian Air Force]]
+| identification_symbol         = [[File:GAF roundel.png|border|150px]]
+| identification_symbol_label   = [[wikipedia:Military aircraft insignia|Roundel]]
+| identification_symbol_2       = [[File:Flag of Geno.png|150px]]
+| identification_symbol_2_label = [[wikipedia:Fin flash|Fin flash]]
+| aircraft_attack               = [[Azmin GF-12]]
+| aircraft_bomber               = 
+| aircraft_electronic           = 
+| aircraft_fighter              = [[Azmin GF-11]]
+| aircraft_helicopter_utility   = 
+| aircraft_helicopter_trainer   = 
+| aircraft_patrol               = 
+| aircraft_recon                = 
+| aircraft_trainer              = 
+| aircraft_transport            = 
+| ceremonial_chief              = 
+| ceremonial_chief_label        = 
+| colonel_of_the_regiment       = 
+| colonel_of_the_regiment_label = 
+}}
+
+The '''Genonian Air Force''' ('''GAF'''; [[Genonian language|Genonian]]: TBD, ''TBD'') is the aerial force of [[Geno]]. 
+
+==History==
+==Aircraft==
+=== Current inventory ===
+{| class="wikitable"
+! style="text-align:center; background:#acc;" |Aircraft
+! style="text-align: center; background:#acc;" |Origin
+! style="text-align:l center; background:#acc;" |Type
+! style="text-align:left; background:#acc;" |Variant
+! style="text-align:center; background:#acc;" |In service
+! style="text-align: center; background:#acc;" |Notes
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Military aircraft#Combat aircraft|Combat aircraft]]
+|-
+|[[Azmin GF-7]]<!--Shenyang J-8 equivalent-->
+|[[Geno]]
+|Interceptor
+|
+|NUM
+|
+|-
+|[[Azmin GF-11]]<!--Chengdu J-10 equivalent-->
+|[[Geno]]
+|Lightweight multirole fighter
+|
+|NUM
+|
+|-
+|[[Azmin GF-12]]<!--CAC/PAC JF-17 Thunder equivalent-->
+|[[Geno]]
+|Lightweight fighter-bomber
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Maritime patrol aircraft|Maritime patrol]]
+|-
+|[[Azmin PT-105]]
+|[[Geno]]
+|[[W:Maritime patrol|Maritime patrol]]
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Aerial refueling|Tanker]]
+|-
+|[[Azmin CL-300]]
+|[[Geno]]
+|Aerial refueling
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Military transport aircraft|Transport]]
+|-
+|[[Azmin CL-200]]
+|[[Geno]]
+|[[W:Air transports of heads of state and government|VIP transport]] 
+|
+|NUM
+|
+|-
+|[[Azmin CL-300]]
+|[[Geno]]
+|Utility/VIP transport
+|
+|NUM
+|
+|-
+|[[Azmin CL-400]]
+|[[Geno]]
+|Utility/Transport
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Military helicopter|Helicopter]]
+|-
+|[[Azmin H-40]]
+|[[Geno]]
+|Medium multirole helicopter
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Trainer (aircraft)|Trainer aircraft]]
+|-
+|[[Azmin TB-35]]
+|[[Geno]]
+|Trainer
+|
+|NUM
+|
+|-
+|[[Azmin TB-40]]
+|[[Geno]]
+|Trainer
+|
+|NUM
+|
+|-
+|[[Azmin TB-45]]
+|[[Geno]]
+|Trainer
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Unmanned aerial vehicle|UAV]]
+|-
+|[[Azmin Daily Meteor]]
+|[[Geno]]
+|[[wikipedia:One-way attack drone|OWA-UAV]]
+|
+|NUM
+|
+|-
+|[[Azmin Green Swamp]]
+|[[Geno]]
+|Reconnaissance
+|
+|NUM
+|
+|-
+|[[Azmin Midnight Sword]]
+|[[Geno]]
+|[[wikipedia:Unmanned combat aerial vehicle|UCAV]]
+|
+|NUM
+|
+|-
+|[[Azmin Red Swamp]]
+|[[Geno]]
+|[[wikipedia:Unmanned combat aerial vehicle|UCAV]]
+|
+|NUM
+|
+|-
+|[[Azmin Sacrificial Lamb]]
+|[[Geno]]
+|[[wikipedia:One-way attack drone|OWA-UAV]]
+|
+|NUM
+|
+|-
+|}
+
+[[Category:Geno]][[Category:MyNameJuls]][[Category:Basis]]

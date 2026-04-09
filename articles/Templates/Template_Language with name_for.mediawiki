@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:Language with name/for|langnf}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

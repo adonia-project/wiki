@@ -1,0 +1,1 @@
+<includeonly>{{#ifeq: {{{disp|}}} | table | nowrap style=text-align:right {{!}} {{#time: j M Y | {{{1|}}} }} {{!!}} nowrap style=text-align:right {{!}} {{#if: {{{2|}}} | {{#time: j M Y | {{{2}}} }} | {{center|Living}} }} {{!!}} }}{{{{{♥|safesubst:}}}#invoke:age|age_generic|template=age_yd_nts}}</includeonly><noinclude>{{documentation}}</noinclude>

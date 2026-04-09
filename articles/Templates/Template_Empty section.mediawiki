@@ -1,0 +1,18 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||date=__DATE__ |$B=
+<!--{{Empty section}} begin-->{{Ambox
+| name  = Empty section
+| subst = <includeonly>{{subst:substcheck}}</includeonly>
+| type  = content
+| small = {{{small|left}}}
+| image = [[File:Wiki letter w cropped.svg|20px|alt=&#91;icon&#93;]]
+| text  = '''This section is empty.''' {{#if:{{{comment|}}}|{{Terminate sentence|{{{comment}}}}}}} You can help by [{{fullurl:{{FULLPAGENAME}}|action=edit&section={{{section|}}}}} adding to it].{{#if: {{{find|}}} | {{br}}{{find sources mainspace|{{{find|{{ARTICLENAME}} }}} | {{{find2|}}} }} |}}
+| cat   = Articles to be expanded
+| all   = All articles to be expanded
+| date  = {{{date|}}}
+| cat2  = Articles with empty sections
+| all2  =  All articles with empty sections
+| date2 = {{{date|}}}
+}}<!--{{Empty section}} end-->
+}}<noinclude>
+{{Documentation}}
+</noinclude>

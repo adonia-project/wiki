@@ -1,0 +1,4 @@
+<includeonly><!--
+-->[[File:{{#invoke:portal|image|{{{1|}}}}}|class=noviewer|{{#ifeq:{{{size|}}}|tiny|16x16px|32x28px}}]] {{#if:{{{1|}}}|[[Portal:{{{1|}}}|{{{text|{{#if:{{{short|}}}|{{{1|}}}|{{{1|}}}&#32;portal}}}}}]]|<span style="font-size:100%;" class="error">error: missing portal name.</span>}}<!--
+--></includeonly><!--
+--><noinclude>{{documentation}}</noinclude>

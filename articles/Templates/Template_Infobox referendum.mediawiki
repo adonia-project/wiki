@@ -1,0 +1,142 @@
+<includeonly>
+{{infobox
+| child     = {{{child|{{{embed|}}}}}}
+| bodystyle  = width:24em
+| headerstyle = background:#efefef;
+
+| title = {{#ifeq:{{{child|{{{embed|}}}}}}|yes|{{#if:{{{name|}}}|<div style="background-color:#ddd; font-size:120%; font-weight:bold">{{{name}}}</div>}}|{{{name|{{PAGENAME}}}}}}}
+
+
+| subheader1 = {{#if:{{{flag_image|}}}
+  |{{#invoke:InfoboxImage|InfoboxImage|image={{{flag_image|}}}|size=50px|alt=|link=}}
+  |{{#if:{{{country|}}}
+     |{{flagdeco|{{{country}}}|variant={{{flag_year|}}}|size=50px|noredlink={{main other||yes}}}}
+   }}
+ }}
+
+| subheader2 = {{#if:{{{date|}}}| 
+ {{succession links|leftstyle=width:10%;|centerstyle = width:80%;|rightstyle=width:10%;
+   | left =
+   | center = {{#if:{{{date|}}}|'''{{{date}}}'''}}
+   | right =
+   }}
+}}
+
+| subheader3 = {{#if:{{{title|{{{question|}}}}}}|{{box|{{{title|{{{question|}}}}}}|color=#FEFEFE|border color=#A2A9B1|border size=2px|width=calc(100% - 16px)|max-width=24em}}}}
+
+| image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_width|240px}}}|alt={{{image_alt|}}}}}
+| caption = {{{caption|}}}
+| imagestyle = border-bottom: 1px solid #A2A9B1
+
+| label1 = Voting system
+| data1 = {{{voting_system|}}}
+
+| label3 = {{#if:{{{votes_counted|}}}|Votes&nbsp;counted|{{#if:{{{reporting|}}}|Reporting|{{#if:{{{declared|}}}|Declared}}}}}}
+| data3 = {{#if:{{{votes_counted|}}}{{{reporting|}}}{{{declared|}}}|{{center|{{Percentage bar|{{#if:{{{votes_counted|}}}|{{{votes_counted}}}|{{#if:{{{reporting|}}}|{{{reporting}}}|{{#if:{{{declared|}}}|{{{declared}}}}}}}}}|c=#1BCE0E}}}}}} {{#if:{{{last_update|}}}|as of '''{{{last_update}}} {{#if:{{{time_zone|}}}|{{{time_zone}}}}}'''}}
+
+|label4 = Outcome
+|data4 = {{{outcome|}}}
+
+|label5 = Website
+|data5 = {{{website|}}}
+
+|header6 = {{#if:{{{yes|}}}{{{no|}}}{{{blank|}}}{{{other|}}}{{{total|}}}|Results}}
+
+| data7 = {{#if:{{{yes|}}}{{{no|}}}{{{blank|}}}{{{other|}}}{{{total|}}}|{{Infobox referendum/results| yes_text = {{{yes_text|}}}| yes = {{{yes|}}}| no_text = {{{no_text|}}}| no = {{{no|}}}| blanktype = {{{blanktype|}}} |blank = {{{blank|}}}| othertype = {{{othertype|}}} | other = {{{other|}}} | {{#ifeq:{{{invalid|Ø}}}|Ø|Ø|invalid}} = {{{invalid|}}} | total= {{{total|}}}| totalref= {{{totalref|}}} | turnoutpct = {{{turnoutpct|}}}| electorate = {{{electorate|}}}| voter_registration = {{{voter_registration|}}} }}
+}}
+
+| header8 = {{{part1_subject|{{#if:{{{choice1|}}}{{{part1_choice1|}}}|Results|}}}}}
+| data9 = {{#if:{{{part1_subject|}}}{{{choice1|}}}{{{part1_choice1|}}}|{{bar box
+| border_width = 0
+| background-color = transparent
+| width = {{{width|300px}}}
+| barwidth = {{{barwidth|80px}}}
+| bars=
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{choice1|{{{part1_choice1|}}}}}}|{{{choice1_color|{{{part1_choice1_color| #47729E}}}}}}|{{{percentage1|{{{part1_percentage1|}}}}}}}}
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{choice2|{{{part1_choice2|}}}}}}|{{{choice2_color|{{{part1_choice2_color| #8B8B54}}}}}}|{{{percentage2|{{{part1_percentage2|}}}}}}}}
+{{#if:{{{choice3|{{{part1_choice3|}}}}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{choice3|{{{part1_choice3|}}}}}}|{{{choice3_color|{{{part1_choice3_color|red}}}}}}|{{{percentage3|{{{part1_percentage3|}}}}}}}}}}
+{{#if:{{{choice4|{{{part1_choice4|}}}}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{choice4|{{{part1_choice4|}}}}}}|{{{choice4_color|{{{part1_choice4_color|orange}}}}}}|{{{percentage4|{{{part1_percentage4|}}}}}}}}}}
+{{#if:{{{choice5|{{{part1_choice5|}}}}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{choice5|{{{part1_choice5|}}}}}}|{{{choice5_color|{{{part1_choice5_color|teal}}}}}}|{{{percentage5|{{{part1_percentage5|}}}}}}}}}}
+| caption = {{{results_caption|{{{results1_caption|{{{part1_caption|}}}}}}}}}
+}}|}}
+
+| header10 = {{{part2_subject|}}}
+| data11 = {{#if:{{{part2_subject|}}}|{{bar box
+| border_width = 0
+| background-color = transparent
+| width = {{{width|300px}}}
+| barwidth = {{{barwidth|80px}}}
+| bars=
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{part2_choice1|}}}|{{{part2_choice1_color|#47729E}}}|{{{part2_percentage1|}}}}}
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{part2_choice2|}}}|{{{part2_choice2_color| #8B8B54}}}|{{{part2_percentage2|}}}}}
+{{#if:{{{part2_choice3|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part2_choice3|}}}|{{{part2_choice3_color|red}}}|{{{part2_percentage3|}}}}}}}
+{{#if:{{{part2_choice4|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part2_choice4|}}}|{{{part2_choice4_color|orange}}}|{{{part2_percentage4|}}}}}}}
+{{#if:{{{part2_choice5|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part2_choice5|}}}|{{{part2_choice5_color|teal}}}|{{{part2_percentage5|}}}}}}}
+| caption = {{{results2_caption|{{{part2_caption|}}}}}}
+}}|}}
+
+| header12 = {{{part3_subject|}}}
+| data13 = {{#if:{{{part3_subject|}}}|{{bar box
+| border_width = 0
+| background-color = transparent
+| width = {{{width|300px}}}
+| barwidth = {{{barwidth|80px}}}
+| bars=
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{part3_choice1|}}}|{{{part3_choice1_color| #47729E}}}|{{{part3_percentage1|}}}}}
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{part3_choice2|}}}|{{{part3_choice2_color|#8B8B54}}}|{{{part3_percentage2|}}}}}
+{{#if:{{{part3_choice3|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part3_choice3|}}}|{{{part3_choice3_color|red}}}|{{{part3_percentage3|}}}}}}}
+{{#if:{{{part3_choice4|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part3_choice4|}}}|{{{part3_choice4_color|orange}}}|{{{part3_percentage4|}}}}}}}
+{{#if:{{{part3_choice5|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part3_choice5|}}}|{{{part3_choice5_color|teal}}}|{{{part3_percentage5|}}}}}}}
+| caption = {{{results3_caption|{{{part3_caption|}}}}}}
+}}|}}
+
+| header14 = {{{part4_subject|}}}
+| data15 = {{#if:{{{part4_subject|}}}|{{bar box
+| border_width = 0
+| background-color = transparent
+| width = {{{width|300px}}}
+| barwidth = {{{barwidth|80px}}}
+| bars=
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{part4_choice1|}}}|{{{part4_choice1_color| #47729E}}}|{{{part4_percentage1|}}}}}
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{part4_choice2|}}}|{{{part4_choice2_color| #8B8B54}}}|{{{part4_percentage2|}}}}}
+{{#if:{{{part4_choice3|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part4_choice3|}}}|{{{part4_choice3_color|red}}}|{{{part4_percentage3|}}}}}}}
+{{#if:{{{part4_choice4|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part4_choice4|}}}|{{{part4_choice4_color|orange}}}|{{{part4_percentage4|}}}}}}}
+{{#if:{{{part4_choice5|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part4_choice5|}}}|{{{part4_choice5_color|teal}}}|{{{part4_percentage5|}}}}}}}
+| caption = {{{results4_caption|{{{part4_caption|}}}}}}
+}}|}}
+
+| header16 = {{{part5_subject|}}}
+| data17 = {{#if:{{{part5_subject|}}}|{{bar box
+| border_width = 0
+| background-color = transparent
+| width = {{{width|300px}}}
+| barwidth = {{{barwidth|80px}}}
+| bars=
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{part5_choice1|}}}|{{{part5_choice1_color| #47729E}}}|{{{part5_percentage1|}}}}}
+{{bar percent|barwidth={{{barwidth|180px}}}|{{{part5_choice2|}}}|{{{part5_choice2_color| #8B8B54}}}|{{{part5_percentage2|}}}}}
+{{#if:{{{part5_choice3|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part5_choice3|}}}|{{{part5_choice3_color|red}}}|{{{part5_percentage3|}}}}}}}
+{{#if:{{{part5_choice4|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part5_choice4|}}}|{{{part5_choice4_color|orange}}}|{{{part5_percentage4|}}}}}}}
+{{#if:{{{part5_choice5|}}}|{{bar percent|barwidth={{{barwidth|180px}}}|{{{part5_choice5|}}}|{{{part5_choice5_color|teal}}}|{{{part5_percentage5|}}}}}}}
+| caption = {{{results5_caption|{{{part5_caption|}}}}}}
+}}|}}
+
+| data18 = {{#if:{{{map|}}}|{{#if:{{{map|}}}
+ |{{#invoke:InfoboxImage|InfoboxImage|image={{{map|}}}|size={{{map_size|}}}|sizedefault=300px|alt={{{map_alt|}}}}}
+ |{{{map}}}
+ }}<div>{{#if:{{{mapcaption|{{{map_caption|}}}}}}|{{{mapcaption|{{{map_caption|}}}}}}|Results by {{#if:{{{mapdivision|{{{map_division|}}}}}}|{{{mapdivision|{{{map_division|}}}}}}|county}}}}</div>
+}}
+
+| data19 = {{#if:{{{map2|}}}|{{#if:{{{map2|}}}
+ |{{#invoke:InfoboxImage|InfoboxImage|image={{{map2|}}}|size={{{map_size2|}}}|sizedefault=260px|alt={{{map_alt2|}}}}}
+ |{{{map2}}}
+ }}<div>{{#if:{{{mapcaption2|{{{map_caption2|}}}}}}|{{{mapcaption2|{{{map_caption2|}}}}}}|Results by {{#if:{{{mapdivision2|{{{map_division2|}}}}}}|{{{mapdivision2|{{{map_division2|}}}}}}|county}}}}</div>
+}}
+
+| data20 = {{{module|}}}
+
+| belowstyle = text-align:left; background:#fafafa; border-top: #aaa 1px solid; padding:0.2em;
+| below = {{#if:{{{notes|}}}|{{{notes}}}}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|}}|preview=Page using [[Template:Infobox referendum]] with unknown parameter "_VALUE_"|ignoreblank=y| name | country | title | flag_year | flag_image | date | previous_year | previous_referendum | next_year | next_referendum | question | image | image_width | image_alt | caption | location | voting_system | votes_counted | last_update | time_zone | outcome | website | yes_text | yes | no_text | no | blanktype | blank | othertype | other | invalid | total | totalref | electorate | voter_registration | turnoutpct | map | map_size | map_alt | mapdivision | map_division | map_caption | map2 | map_size2 | map_alt2 | mapdivision2 | map_division2 | mapcaption2 | width | barwidth | part1_subject | part1_choice1 | part1_percentage1 | part1_color1 | part1_choice2 | part1_percentage2 | part1_color2 | part1_choice3 | part1_percentage3 | part1_color3 | part1_choice4 | part1_percentage4 | part1_color4 | part1_choice5 | part1_percentage5 | part1_color5 | part1_caption | part2_subject | part2_choice1 | part2_percentage1 | part2_color1 | part2_choice2 | part2_percentage2 | part2_color2 | part2_choice3 | part2_percentage3 | part2_color3 | part2_choice4 | part2_percentage4 | part2_color4 | part2_choice5 | part2_percentage5 | part2_color5 | part2_caption | part3_subject | part3_choice1 | part3_percentage1 | part3_color1 | part3_choice2 | part3_percentage2 | part3_color2 | part3_choice3 | part3_percentage3 | part3_color3 | part3_choice4 | part3_prcentage4 | part3_color4 | part3_choice5 | part3_percentage5 | part3_color5 | part3_caption | part4_subject | part4_choice1 | part4_percentage1 | part4_color1 | part4_choice2 | part4_percentage2 | part4_color2 | part4_choice3 | part4_percentage3 | part4_color3 | part4_choice4 | part4_prcentage4 | part4_color4 | part4_choice5 | part4_percentage5 | part4_color5 | part4_caption | part5_subject | part5_choice1 | part5_percentage1 | part5_color1 | part5_choice2 | part5_percentage2 | part5_color2 | part5_choice3 | part5_percentage3 | part5_color3 | part5_choice4 | part5_prcentage4 | part5_color4 | part5_choice5 | part5_percentage5 | part5_color5 | part5_caption | notes | child | embed | module | reporting | mapcaption}}</includeonly><noinclude>
+{{Documentation}}<!-- PLEASE ADD THIS TEMPLATE'S CATEGORIES AND INTERWIKIS TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

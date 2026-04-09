@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Yanbaru
+| flag alias = Flag of Yanbaru.svg
+| link alias-football = Yanbaru national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+</noinclude>
+}}

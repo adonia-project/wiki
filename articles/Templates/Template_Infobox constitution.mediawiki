@@ -1,0 +1,107 @@
+{{Infobox
+| abovestyle     = text-align:center;background: #ededed;color:inherit;
+| above          = {{{document_name|{{{name|}}}}}}
+| image          = {{#invoke:InfoboxImage|InfoboxImage|image={{{Image|{{{image|{{{image_name|}}}}}}}}}|size={{{Image size|{{{image_size|}}}}}}|sizedefault=frameless|upright=1|alt={{{image_alt|}}}}}
+| caption        = {{{caption|{{{image_caption|}}}}}}
+| headerstyle    = background: #ededed;color:inherit;
+| header1        = {{#if:{{{jurisdiction|}}}|Overview}}
+| label2         = Original title
+| data2          = {{#if: {{{title_orig|}}} | {{#if: {{{orig_lang_code|}}} | {{lang|{{{orig_lang_code|}}}|{{{title_orig|}}}}} }} }}
+| label3         = Jurisdiction
+| data3          = {{{jurisdiction|}}}
+| label4         = Subordinate to
+| data4          = {{{subordinate_to|}}}
+| label5         = Created
+| data5          = {{{date_created|}}}
+| label6         = Presented
+| data6          = {{{date_presented|}}}
+| label7         = [[Ratification|Ratified]]
+| data7          = {{{date_ratified|}}}
+| label8         = [[Effective date|Date&nbsp;effective]]
+| data8          = {{{date_effective|}}}
+| label9         = [[Government|System]]
+| data9          = {{{system|}}}
+| header10       = {{#if:{{{branches|}}}|Government structure}}
+| label11        = [[Government branch|Branches]]
+| data11         = {{{branches|}}}
+| label12        = [[Head of state]]
+| data12         = {{{head_of_state|}}}
+| label13        = [[Legislative chamber|Chambers]]
+| data13         = {{{chambers|}}}
+| label14        = [[Executive government|Executive]]
+| data14         = {{{executive|}}}
+| label15        = [[Judiciary]]
+| data15         = {{{courts|}}}
+| label16        = [[Federalism]]
+| data16         = {{{federalism|}}}
+| label17        = [[Electoral college]]
+| data17         = {{{electoral_college|}}}
+| label18        = [[Entrenched clause|Entrenchments]]
+|  data18        = {{{number_entrenchments|}}}
+| header19       = {{#if:{{{number_amendments|}}}|History}}
+| label20        = [[Legislature|First legislature]]
+| data20         = {{{date_legislature|}}}
+| label21        = First executive
+| data21         = {{{date_first_executive|}}}
+| label22        = First court
+| data22         = {{{date_first_court|}}}
+| label23        = [[Repeal|Repealed]]
+| data23         = {{{date_repealed|}}}
+| label24        = [[Constitutional amendment|Amendments]]
+| data24         = {{{number_amendments|}}}
+| label25        = Last amended
+| data25         = {{{date_last_amended|}}} 
+| label26        = Citation
+| data26         = {{{citation|}}}
+| label28        = Location
+| data28         = {{{location_of_document|}}}
+| label29        = Commissioned&nbsp;by
+| data29         = {{{commissioned|}}}
+| label30        = Author(s)
+| data30         = {{{writer|}}}
+| label31        = Signatories
+| data31         = {{{signers|}}}
+| label32        = Media type
+| data32         = {{{media_type|}}}
+| label33        = Supersedes
+| data33         = {{{supersedes|}}}
+| label34        = Superseded by
+| data34         = {{{superseded_by|}}}
+
+| header35       = {{#if:{{{wikisource|}}}|Full text}}
+| data36         = {{#if:{{{wikisource|}}}|[[File:wikisource-logo.svg|16px|link=|alt=]] [[wikisource:{{{wikisource}}}|{{{wikisource}}}]] at [[Wikisource]]}}
+
+| data37        = {{#if:{{both|{{{native_wikisource|}}}|{{{orig_lang_code|}}}}} <!--
+     then:-->| [[File:wikisource-logo.svg|16px|link=|alt=]]''{{lang |{{{orig_lang_code|}}}
+                  | [[s:{{#if:{{{orig_lang_code|}}}|{{{orig_lang_code|}}}:}}{{{native_wikisource|}}}|{{{title_orig|{{{name|{{PAGENAME}}}}}}}}]]<!--
+              -->}}'' at <!--
+              -->{{#if:{{#invoke:lang|is_ietf_tag|{{{orig_lang_code}}}}}|{{#invoke:lang|name_from_tag|{{{orig_lang_code}}}}}}} [[Wikisource]]<!--
+              -->{{main other|[[Category:Articles that link to foreign-language Wikisources]]}} <!--(create hidden category to be monitored by WikiProject:Wikisource)
+     else:-->| {{#if:{{both|{{{native_external_url|}}}|{{{orig_lang_code|}}}}}
+                |[[File:wikisource-logo.svg|16px|link=|alt=]] ''{{lang |{{{orig_lang_code|}}}
+                     | [{{{native_external_url|}}} {{{title_orig|{{{name|{{PAGENAME}}}}}}}}]<!--
+                 -->}}'' <!--
+                 -->{{#if:{{{native_external_host|}}} |at {{{native_external_host|}}} |online}}
+            }} }}
+
+| header38      = {{#if:{{{wikisource1|}}}|[[File:wikisource-logo.svg|16px|link=|alt=]] [[Wikisource]]}}
+| data39        = {{#if:{{{wikisource1|}}}|
+* [[wikisource:{{{wikisource1}}}|{{{wikisource1}}}]]
+{{#if:{{{wikisource2|}}}|* [[wikisource:{{{wikisource2}}}|{{{wikisource2}}}]]}}
+{{#if:{{{wikisource3|}}}|* [[wikisource:{{{wikisource3}}}|{{{wikisource3}}}]]}}
+{{#if:{{{wikisource4|}}}|* [[wikisource:{{{wikisource4}}}|{{{wikisource4}}}]]}}
+{{#if:{{{wikisource5|}}}|* [[wikisource:{{{wikisource5}}}|{{{wikisource5}}}]]}}
+}}
+|
+| data40        = {{{misc|{{{module|}}}}}}
+| data41        = {{{misc2|{{{module2|}}}}}}
+| data42        = {{{misc3|{{{module3|}}}}}}
+| data43        = {{{misc4|{{{module4|}}}}}}
+| data44        = {{{misc5|{{{module5|}}}}}}
+| data45        = {{{misc6|{{{module6|}}}}}}
+| header46      = {{#if:{{{footnote|{{{footnotes|}}} }}}|Footnote}}
+| data47        = {{{Footnotes|{{{footnotes|}}} }}}
+
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox constitution with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox constitution]] with unknown parameter "_VALUE_"|ignoreblank=y| branches | caption | chambers | citation | commissioned | courts | date_created | date_effective | date_first_court | date_first_executive | date_last_amended | date_legislature | date_presented | date_ratified | date_repealed | document_name | electoral_college | executive | federalism | head_of_state | footnotes | Image | Image size | image | image_alt | image_caption | image_name | image_size | jurisdiction | location_of_document | media_type | misc | misc2 | misc3 | misc4 | misc5 | misc6 | module | module2 | module3 | module4 | module5 | module6 | name | native_wikisource | number_amendments | number_entrenchments | orig_lang_code | orig_lang_code | signers | subordinate_to | supersedes | superseded_by | system | title_orig | wikisource | wikisource1 | wikisource2 | wikisource3 | wikisource4 | wikisource5 | writer  }}<noinclude>
+{{documentation}}
+</noinclude>

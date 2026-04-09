@@ -1,0 +1,109 @@
+{{Infobox
+| bodystyle   = {{#if:{{{box_width|}}}|width: {{{box_width}}};}}
+| headerstyle = background-color: #efefef; color:#202122;
+| belowstyle  = vertical-align: middle; padding: 0px;
+
+|above    = {{#if:{{{name|}}}|{{{name}}}|<includeonly>{{PAGENAMEBASE}}</includeonly>}}
+|abovestyle = text-align:center;background-color:#ededed; color:#202122;
+
+|child={{#ifeq:{{{child|}}}|yes|yes}}
+
+| image    = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|}}}|sizedefault=frameless|alt={{{alt|}}}|title={{{caption|}}}}}
+| caption  = {{{caption|}}}
+| image2   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|size={{{imagesize2|}}}|sizedefault=frameless|alt={{{alt2|}}}|title={{{caption2|}}}}}
+| caption2 = {{{caption2|}}}
+| image3   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image3|}}}|size={{{imagesize3|}}}|sizedefault=frameless|alt={{{alt3|}}}|title={{{caption3|}}}}}
+| caption3 = {{{caption3|}}}
+| header1  = {{#if:{{{native_name|}}}{{{owner|}}}{{{area served|}}}{{{locale|}}}{{{transit_type|}}}{{{lines|}}}{{{line_number|}}}{{{start|}}}{{{end|}}}{{{stations|}}}{{{stops|}}}{{{ridership|}}}{{{daily_ridership|}}}{{{annual_ridership|}}}{{{chief_executive|}}}{{{key_people|}}}{{{headquarters|}}}{{{website|}}}|Overview}}
+| label2   = Native name
+| data2    = {{{native_name|}}}
+| label3   = Owner
+| data3    = {{{owner|}}}
+| label4   = Area served
+| data4    = {{{area served|}}}
+| label5   = Locale
+| data5    = {{{locale|}}}
+| label6   = Transit type
+| data6    = {{{transit_type|}}}
+| label7   = Number of lines
+| data7    = {{{lines|}}}
+| label8   = Line number
+| data8    = {{{line_number|}}}
+| label9   = Start
+| date9    = {{{Start}}}
+| label10  = End
+| date10   = {{{End}}}
+| label11  = Number of s{{#if:{{{stations|}}}|tation|top}}s
+| data11   = {{#if:{{{stations|}}}|{{{stations}}}|{{{stops|}}}}}
+| label12  = Daily ridership
+| data12   = {{{daily_ridership|{{{ridership|}}}}}}
+| label13  = Annual ridership
+| data13   = {{{annual_ridership|}}}
+| label14  = {{#if:{{{chief_executive|}}}|Chief executive|Key people}}
+| data14   = {{#if:{{{chief_executive|}}}|{{{chief_executive}}}|{{{key_people|}}}}}
+| label15  = Headquarters
+| data15   = {{{headquarters|}}}
+| label16  = Website
+| data16   = {{{website|}}}
+
+| header17 = {{#if:{{{began_operation|}}}{{{operation_will_start|}}}{{{ended_operation|}}}{{{operator|}}}{{{marks|{{{reporting marks|}}}}}}{{{infrastructure_managers|}}}{{{host|}}}{{{character|}}}{{{stock|}}} {{{vehicles|}}}{{{train_length|}}}{{{headway|}}}|Operation}}
+| label18  = Began operation
+| data18   = {{{began_operation|}}}
+| label19  = Operation will start
+| data19   = {{{operation_will_start|}}}
+| label20  = Ended operation
+| data20   = {{{ended_operation|}}}
+| label21  = Operator(s)
+| data21   = {{{operator|}}}
+| label22  = [[Reporting mark]]s
+| data22   = {{{marks|{{{reporting marks|}}}}}}
+| label23  = Infrastructure manager{{pluralize from text|{{{host|}}}{{{infrastructure_managers|}}}|plural=s}}
+| data23   = {{{infrastructure_managers|}}}{{{host|}}}
+| label24  = Character
+| data24   = {{{character|}}}
+| label25  = [[Rolling stock]]
+| data25   = {{{stock|}}}
+| label26  = Number of vehicles
+| data26   = {{{vehicles|}}}
+| label27  = Train length
+| data27   = {{{train_length|}}}
+| label28  = [[Headway]]
+| data28   = {{{headway|}}}
+
+| header29= {{#if:{{{system_length|}}}{{{notrack|}}}{{{track_gauge|}}}{{{ogauge|}}}{{{minimum_radius_of_curvature|}}}{{{el|}}}{{{average_speed|}}}{{{top_speed|}}}|Technical}}
+| label30  = System length
+| data30   = {{{system_length|}}}
+| label31  = No. of tracks
+| data31   = {{{notrack|}}}
+| label32  = [[Track gauge]]
+| data32   = {{{track_gauge|}}}
+| label33  = Old gauge
+| data33   = {{{ogauge|}}}
+| label34  = [[Minimum railway curve radius|Minimum radius of curvature]]
+| data34   = {{{minimum_radius_of_curvature|}}}
+| label35  = [[Railway electrification|Electrification]]
+| data35   = {{{el|}}}
+| label36  = Average speed
+| data36   = {{{average_speed|}}}
+| label37  = Top speed
+| data37   = {{{top_speed|}}}
+
+| data38  = {{{embedded|}}}
+
+| below    = {{#if:{{{map|}}}|
+<table style="width:100%; margin:0; border:none;" class="collapsible {{{map_state|}}}">
+<tr style="background-color: #efefef; color:#202122;" class="infobox-header"><th style="text-align: center;">{{#if:{{{map_name|}}}|{{{map_name}}}|System map}}</th></tr>
+<tr><td style="text-align:center">
+{{{map}}}
+</td></tr></table>
+ }}
+}}{{#invoke:Check for unknown parameters | check | unknown={{main other|[[Category:Pages using infobox public transit with unknown parameters|_VALUE_{{PAGENAME}}]]}}|ignoreblank=y
+| preview = Page using [[Template:Infobox public transit]] with unknown parameter "_VALUE_"
+| box_width | child | name | image | imagesize | alt | caption | image2 | imagesize2 | alt2 | caption2 | image3 | imagesize3 | alt3 | caption3 
+| native_name | owner | area served | locale | transit_type | lines | line_number | start | end | stations | stops | ridership | daily_ridership | annual_ridership 
+| chief_executive | key_people | headquarters | website | began_operation | operation_will_start | ended_operation | operator | marks |reporting marks | infrastructure_managers | host | character 
+| stock | vehicles|train_length | headway | system_length | notrack | track_gauge | ogauge | minimum_radius_of_curvature | el | average_speed | top_speed | embedded
+| map | map_state | map_name
+}}<noinclude>
+{{Documentation}}<!-- PLEASE ADD CATEGORIES TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

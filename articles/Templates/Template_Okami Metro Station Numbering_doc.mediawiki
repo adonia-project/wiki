@@ -1,0 +1,40 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+{{SNHead1|OMSN|Okami Metro}}
+
+=== Valid parameters ===
+{{JASN head}}
+|-
+| [[Chūō Line (Okami)]] ||align="center"| {{code|C}} || {{tld|OMSN|C|00}} ||align="center"| {{OMSN|C|00}} ||style="color:white;background-color:#{{Okami Metro color|C}}" data-sort-value="160"| '''{{white|#{{Okami Metro color|C}}}}'''
+|-
+| [[Imaichi Line]] ||align="center"| {{code|I}} || {{tld|OMSN|I|00}} ||align="center"| {{OMSN|I|00}} ||style="color:black;background-color:#{{Okami Metro color|I}}" data-sort-value="27"| '''{{black|#{{Okami Metro color|I}}}}'''
+|-
+| [[Miyoshi Line]] ||align="center"| {{code|M}} || {{tld|OMSN|M|00}} ||align="center"| {{OMSN|M|00}} ||style="color:white;background-color:#{{Okami Metro color|M}}" data-sort-value="358"| '''{{white|#{{Okami Metro color|M}}}}'''
+|-
+| [[Nagata Line]] ||align="center"| {{code|N}} || {{tld|OMSN|N|00}} ||align="center"| {{OMSN|N|00}} ||style="color:white;background-color:#{{Okami Metro color|N}}" data-sort-value="77"| '''{{white|#{{Okami Metro color|N}}}}'''
+|-
+| [[Nankō Port Town Line]] ||align="center"| {{code|P}} || {{tld|OMSN|P|00}} ||align="center"| {{OMSN|P|00}} ||style="color:white;background-color:#{{Okami Metro color|P}}" data-sort-value="197"| '''{{white|#{{Okami Metro color|P}}}}'''
+|-
+| [[Tozai Line (Okami)|Tozai Line]] ||align="center"| {{code|Z}} || {{tld|OMSN|Z|00}} ||align="center"| {{OMSN|Z|00}} ||style="color:white;background-color:#{{Okami Metro color|Z}}" data-sort-value="24"| '''{{white|#{{Okami Metro color|Z}}}}'''
+|-
+| [[Nanboku Line (Okami)|Nanboku Line]] ||align="center"| {{code|B}} || {{tld|OMSN|B|00}} ||align="center"| {{OMSN|B|00}} ||style="color:white;background-color:#{{Okami Metro color|B}}" data-sort-value="147"| '''{{white|#{{Okami Metro color|B}}}}'''
+|-
+| [[Tedorigawa Line]] ||align="center"| {{code|T}} || {{tld|OMSN|T|00}} ||align="center"| {{OMSN|T|00}} ||style="color:white;background-color:#{{Okami Metro color|T}}" data-sort-value="267"| '''{{white|#{{Okami Metro color|T}}}}'''
+|-
+| [[Shitayanagi Line]] ||align="center"| {{code|S}} || {{tld|OMSN|S|00}} ||align="center"| {{OMSN|S|00}} ||style="color:black;background-color:#{{Okami Metro color|S}}" data-sort-value="202"| '''{{black|#{{Okami Metro color|S}}}}'''
+|-
+| [[Asahi Line]] ||align="center"| {{code|A}} || {{tld|OMSN|A|00}} ||align="center"| {{OMSN|A|00}} ||style="color:white;background-color:#{{Okami Metro color|A}}" data-sort-value="50"| '''{{white|#{{Okami Metro color|A}}}}'''
+|-
+| [[Hitotsubashi Line]] ||align="center"| {{code|H}} || {{tld|OMSN|H|00}} ||align="center"| {{OMSN|H|00}} ||style="color:white;background-color:#{{Okami Metro color|H}}" data-sort-value="340"| '''{{white|#{{Okami Metro color|H}}}}'''
+|-
+| [[Kita Line]] ||align="center"| {{code|K}} || {{tld|OMSN|K|00}} ||align="center"| {{OMSN|K|00}} ||style="color:white;background-color:#{{Okami Metro color|K}}" data-sort-value="180"| '''{{white|#{{Okami Metro color|K}}}}'''
+|}
+
+{{SNExamples|Okami Metro|OMSN|S|16|T|28|Okami Central|I|12|Okami Central Park}}
+
+==See also==
+{{SNList}}
+<includeonly>{{Sandbox other||
+<!-- Categories go here, and interwikis go in Wikidata -->
+[[Category:Japan rail station number templates]]
+}}</includeonly>

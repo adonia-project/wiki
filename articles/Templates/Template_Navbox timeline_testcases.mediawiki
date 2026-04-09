@@ -1,0 +1,500 @@
+{{testcases notice}}
+== Basic ==
+{{testcase table|_style=width:100%
+| name   = {{FULLPAGENAME}}
+| state  = uncollapsed
+| title  = Example timeline
+|
+| Foo | 2005-2011
+| Bar | 2012-2015
+|
+| Baz | 2008-2010
+}}
+
+== With labels ==
+{{testcase table|_style=width:100%
+| name   = {{FULLPAGENAME}}
+| state  = uncollapsed
+| title  = Example timeline
+| label  = Type
+|
+| label: A
+| Foo | 1985-2014
+| Bar | 2019-2035
+|
+| label: B | span: 2
+| Baz | 1995-2020
+|
+| Bam | 2005-2015
+|
+| Pow | 1990-2030
+}}
+
+== Labels without {{para|label}} ==
+{{testcase table|_style=width:100%
+| name   = {{FULLPAGENAME}}
+| state  = uncollapsed
+| title  = Example timeline
+|
+| label: A
+| Foo | 1985-2014
+| Bar | 2019-2035
+}}
+
+
+== {{para|decades|no}} ==
+{{testcase table|_style=width:100%
+| name    = {{FULLPAGENAME}}
+| state   = uncollapsed
+| title   = Example timeline
+| decades = no
+|
+| label: A
+| Foo | 1985-2014
+| Bar | 2019-2035
+|
+| label: B
+| Baz | 1995-2020
+}}
+
+== {{para|footer|yes}} ==
+{{testcase table|_style=width:100%
+| name   = {{FULLPAGENAME}}
+| state  = uncollapsed
+| title  = Example timeline
+| footer = yes
+|
+| label: A
+| Foo | 1985-2014
+| Bar | 2019-2035
+|
+| label: B
+| Baz | 1995-2020
+}}
+
+== Item and label styles ==
+{{testcase table|_style=width:100%
+| name        = {{FULLPAGENAME}}
+| state       = uncollapsed
+| title       = Example timeline
+| label       = Type
+|
+| label: A | labelstyle: background: #e459e4;
+| Foo | 1985-2014 | style: background-color: #ff7c7c;
+| Bar | 2019-2035 | style: background-color: #e6cd38;
+|
+| label: B | labelstyle: background: #50aeff;
+| Baz | 1995-2020 | style: background-color: #72d272;
+}}
+
+== {{para|above}} and {{para|below}} ==
+{{testcase table|_style=width:100%
+| name   = {{FULLPAGENAME}}
+| state  = uncollapsed
+| title  = Example timeline
+| above  = Above
+| below  = Below
+|
+| label: A
+| Foo | 1985-2014
+| Bar | 2019-2035
+|
+| label: B
+| Baz | 1995-2020
+}}
+
+== {{para|startoffset}} and {{para|endoffset}} ==
+{{testcase table|_style=width:100%
+| name        = {{FULLPAGENAME}}
+| state       = uncollapsed
+| title       = Example timeline
+| startoffset = 5
+| endoffset   = 5
+|
+| Foo | 1985-2014
+| Bar | 2019-2035
+|
+| Baz | 1995-2020
+}}
+
+== {{para|startyear}} and {{para|endyear}} ==
+{{testcase table|_style=width:100%
+| name      = {{FULLPAGENAME}}
+| state     = uncollapsed
+| title     = Example timeline
+| startyear = 1975
+| endyear   = 2046
+|
+| Foo | 1985-2014
+| Bar | 2019-2035
+|
+| Baz | 1995-2020
+}}
+
+== {{para|border|child}} ==
+{{testcase table|_style=width:100%
+| border = child
+|
+| Foo | 1985-2014
+| Bar | 2019-2035
+|
+| Baz | 1995-2020
+}}
+
+== {{para|image}} and {{para|imageleft}} ==
+{{testcase table|_style=width:100%
+| name      = {{FULLPAGENAME}}
+| state     = uncollapsed
+| title     = Example timeline
+| image     = [[File:Flag of the United States.svg|100px]]
+| imageleft = [[File:Flag of Canada.svg|100px]]
+|
+| Foo | 1985-2014
+| Bar | 2019-2035
+|
+| Baz | 1995-2020
+}}
+
+== Boeing 7x7 timeline ==
+{{testcase table|_style=width:100%
+| name        = {{FULLPAGENAME}}
+| state       = uncollapsed
+| title       = [[Boeing Commercial Airplanes|Boeing]] 7x7 aircraft production timeline, 1955–present
+| startoffset = 3
+| below       = {{Legend inline|#B0D0D0|Narrow body|outline=transparent}} {{Legend inline|#B0D0B0|Wide body|outline=transparent}}<br />Overlapping production times like between the 747-400 and the 747-8 have been decided in favor of newer models
+|
+| [[Boeing 717|Boeing 717 (MD-95)]] | 1998-2007 | style: background-color: #B0D0D0;
+|
+| [[Boeing 737|Boeing 737 Original]] | 1968-1984 | style: background-color: #B0D0D0;
+| [[Boeing 737 Classic]] | 1984-1998 | style: background-color: #B0D0D0;
+| [[Boeing 737 Next Generation|Boeing 737 NG]] | 1998-2017 | style: background-color: #B0D0D0;
+| [[Boeing 737 MAX|737 MAX]] | 2017- | style: background-color: #B0D0D0;
+|
+| [[Boeing 727]] | 1963-1985 | style: background-color: #B0D0D0;
+|
+| [[Boeing 720]] | 1958-1968 | style: background-color: #B0D0D0;
+| [[Boeing 757]] | 1982-2005 | style: background-color: #B0D0D0;
+|
+| [[Boeing 707]] | 1958-1980 | style: background-color: #B0D0D0;
+| [[Boeing 767]] | 1982- | style: background-color: #B0D0B0;
+|
+| [[Boeing 787 Dreamliner|Boeing 787]] | 2009- | style: background-color: #B0D0B0;
+|
+| [[Boeing 777]] | 1993-2020 | style: background-color: #B0D0B0;
+| [[Boeing 777X|777X]] | 2020- | style: background-color: #B0D0B0;
+|
+| [[Boeing 747]] ([[Boeing 747SP]]) | 1970-1989 | style: background-color: #B0D0B0;
+| [[Boeing 747-400]] | 1989-2011 | style: background-color: #B0D0B0;
+| [[Boeing 747-8|747-8]] | 2011- | style: background-color: #B0D0B0;
+}}
+
+== Modern Honda vehicles ==
+{{testcase table|_style=width:100%
+| name    = {{FULLPAGENAME}}
+| state   = uncollapsed
+| title   = [[Template:Early Honda vehicles|« <small>previous</small>]] — [[Honda]] road car timeline, 1980s–present
+| footer  = yes
+| label   = Type
+|
+| label: [[Kei car|Kei car]] | span: 5
+| [[Honda Today#First generation|Today]] | 1985-1993
+| [[Honda Today#Second generation|Today]] | 1993-1998
+| [[Honda Life|Life]] | 1998-2003
+| [[Honda Life|Life]] | 2003-2008
+| [[Honda Life|Life]] | 2008-2014
+|
+| [[Honda Today#Second generation|Today&nbsp;Associe]] | 1993-1996
+| [[Honda Life|Life]] | 1996-1998
+| [[Honda That%27s|That's]] | 2001-2007
+| [[Honda N-One#first|N-One]] | 2011-2020
+| [[Honda N-One#second|N-One]] | 2020-
+|
+| [[Honda Life|Life Dunk]] | 1999-2003
+| [[Honda Zest|Zest]] | 2005-2012
+| [[Honda N-WGN#first|N-WGN]] | 2012-2019
+| [[Honda N-WGN#second|N-WGN]] | 2019-
+|
+| [[Honda Acty|Acty Street]] | 1980-1987
+| [[Honda Street|Street]] | 1987-2001
+| [[Honda N-Box#first|N-Box]] | 2010-2017
+| [[Honda N-Box#second|N-Box]] | 2017-
+|
+| [[Honda Vamos|Vamos]] | 1998-2018
+| [[Honda N-Van|N-VAN]] | 2018-
+|
+| label: [[Subcompact car|Subcompact]] | span: 5
+| [[Honda City (AA)|City/Jazz]] | 1980-1986
+| [[Honda City#Second generation (1986–1994)|City]] | 1986-1994
+| [[Honda Logo|Logo]] | 1995-2001
+| [[Honda Brio#2011|Brio]] | 2011-2019
+| [[Honda Brio#2018|Brio]] | 2019-
+|
+| [[Honda City#Third generation (1996–2002)|City]] | 1995-2001
+| [[Honda Amaze#2013|Brio Amaze]] | 2012-2018
+| [[Honda Amaze#2018|Amaze]] | 2018-
+|
+| [[Honda Civic (second generation)|Civic]] | 1980-1983
+| [[Honda Civic (third generation)|Civic]] | 1983-1987
+| [[Honda Civic (fourth generation)|Civic]] | 1987-1991
+| [[Honda Civic (fifth generation)|Civic]] | 1991-1995
+| [[Honda Civic (sixth generation)|Civic]] | 1995-2000
+| [[Honda Fit (first generation)|Fit/Jazz]] | 2001-2007
+| [[Honda Fit (second generation)|Fit/Jazz]] | 2007-2013
+| [[Honda Fit#GK|Fit/Jazz]] | 2013-2020
+| [[Honda Fit#GR|Fit/Jazz]] | 2020-
+|
+| [[Honda Ballade|Ballade]] | 1980-1983
+| [[Honda Ballade|Ballade]] | 1983-1987
+| [[Honda Concerto|Concerto]] | 1987-1992
+| [[Honda Domani|Domani]] | 1992-1996
+| [[Honda City#Fourth generation (2002–2008)|Fit Aria/City]] | 2001-2007
+| [[Honda City#Fifth generation (2008–2014)|City]] | 2007-2013
+| [[Honda City#Sixth generation (2014–present)|City/Grace]] | 2013-2020
+| [[Honda City#Seventh generation (2020–present)|City]] | 2020-
+|
+| [[Honda e|e]] | 2019-
+|
+| label: [[Compact car|Compact]] | span: 6
+| [[Honda Domani|Domani]] | 1996-2000
+| [[Honda Civic (seventh generation)|Civic]] | 2000-2005
+| [[Honda Civic (eighth generation)|Civic]] | 2005-2011
+| [[Honda Civic (ninth generation)|Civic]] | 2011-2015
+| [[Honda Civic (tenth generation)|Civic]] | 2015-2021
+| [[Honda Civic (eleventh generation)|Civic]] | 2021-
+|
+| [[Honda Quint|Quint]] | 1980-1985
+| [[Honda Integra|Quint Integra]] | 1985-1989
+| [[Honda Integra|Integra]] | 1989-1992
+| [[Honda Integra|Integra]] | 1992-2002
+| [[Honda Integra (fourth generation)|Integra]] | 2002-2007
+|
+| [[Honda Accord#First generation .281976.E2.80.931981.29|Accord]] | 1980-1981
+| [[Honda Accord#Second generation .281981.E2.80.931985.29|Accord]] | 1981-1985
+| [[Honda Accord#Third generation .281985.E2.80.931989.29|Accord]] | 1985-1989
+| [[Honda Ascot#Ascot Innova (CB3/4)|Ascot Innova]] | 1992-1996
+| [[Honda Integra#SJ|Integra SJ]] | 1996-2002
+| [[Honda Insight#Second generation (2010–2014)|Insight]] | 2008-2014
+| [[Honda Insight#Third generation (2019–present)|Insight]] | 2018-
+|
+| [[Honda Vigor#Second generation .28CA1-CA2-CA3.29|Vigor]] | 1981-1985
+| [[Honda Ascot#First generation .28CB1.2F2.2F3.2F4.29|Ascot]] | 1985-1989
+| [[Honda Ascot|Ascot]] | 1989-1993
+| [[Honda Torneo|Torneo]] | 1993-1998
+|
+| [[Honda Rafaga|Rafaga]] | 1993-1997
+| [[Honda Accord (sixth generation)#Japan|Accord CF]] | 1997-2003
+|
+| [[Honda Accord#Fourth generation (1989)|Accord CB]] | 1989-1993
+| [[Honda Accord#European model|Accord CB3/CC]] | 1993-1998
+| [[Honda Accord (sixth generation)#Europe|Accord CG7/CH5]] | 1998-2003
+| [[Honda Crider|Crider/Envix]] | 2012-
+|
+| label: [[Mid-size car|Mid-size]] | span: 4
+| [[Honda Accord#North America, Japan and Asia Pacific|Accord CD3]] | 1993-1997
+| [[Honda Accord (sixth generation)#Americas, Australia, New Zealand and Southeast Asia|Accord CG]] | 1997-2003
+| [[Honda Accord (Japan and Europe seventh generation)|Accord CL]] | 2003-2008
+| [[Honda Accord (Japan and Europe eighth generation)|Accord CU]] | 2008-2012
+| [[Honda Accord#Ninth generation .282013.E2.80.93present.29|Accord]] | 2012-2018
+| [[Honda Accord#Tenth generation (2018–present)|Accord]] | 2018-
+|
+| [[Honda Inspire#First generation series CB5.2C CC2 .26 CC3 .281989.E2.80.931995.29|Accord&nbsp;Inspire]] | 1989-1995
+| [[Honda Inspire#Second generation series UA1 through UA3 (1995–1998)|Inspire/Saber]] | 1995-1999
+| [[Honda Inspire#Third generation series UA4 and UA5 .281998.E2.80.932003.29|Inspire/Saber]] | 1999-2003
+| [[Honda Accord (North America seventh generation)|Inspire/Accord&nbsp;UC]] | 2003-2008
+| [[Honda Spirior|Spirior]] | 2009-2018
+| [[Honda Inspire#Sixth generation series (2018–present)|Inspire]] | 2018-
+|
+| [[Honda Accord (North America eighth generation)|Inspire/Accord&nbsp;CP]] | 2007-2012
+|
+| [[Honda FCX Clarity|FCX Clarity]] | 2007-2014
+| [[Honda Clarity|Clarity]] | 2016-2022
+|
+| label: [[Full-size car|Full-size]]
+| [[Honda Legend#First generation (KA1-KA6, 1985–1990)|Legend]] | 1985-1990
+| [[Honda Legend#Second generation (KA7/KA8, 1990–1995)|Legend]] | 1990-1995
+| [[Honda Legend#Third generation (KA9, 1995–2004)|Legend]] | 1995-2004
+| [[Honda Legend#Fourth generation (KB1, 2004–2008 / KB2, 2009–2012)|Legend]] | 2004-2012
+| [[Honda Legend#Fifth generation (KC1/KC2, 2014–present)|Legend]] | 2014-2022
+|
+| label: [[Coup%C3%A9|Coupé]] | span: 5
+| [[Honda CR-X|Ballade&nbsp;Sports&nbsp;CR-X]] | 1983-1987
+| [[Honda CR-X|CR-X]] | 1987-1991
+| [[Honda Civic (fifth generation)#Coup.C3.A9|Civic&nbsp;Coupe]] | 1995-1998
+| [[Honda Civic (sixth generation)#Trims and equipment .28US.29|Civic Coupe]] | 1998-2002
+| [[Honda Insight#First generation (2000–2006)|Insight]] | 2002-2009
+| [[Honda CR-Z|CR-Z]] | 2011-2017
+|
+| [[Honda Integra#Generation 1: Series AV, DA1-DA4 (1985–1989)|Integra Coupe]] | 1988-1992
+| [[Honda Integra#Generation 2: Series DA5-DA9, (1989–1993)|Integra Coupe]] | 1992-2001
+| [[Honda Integra#Generation 3: Series DB6-DB9, DC1-DC2, DC4 (1993–2001)|Integra Coupe]] | 2001-2006
+|
+| [[Honda Prelude#First generation (1978–1982)|Prelude]] | 1980-1982
+| [[Honda Prelude#Second generation (1982–1987)|Prelude]] | 1982-1987
+| [[Honda Prelude#Third generation (1987-1991)|Prelude]] | 1987-1991
+| [[Honda Prelude#Fourth generation (1991–1996)|Prelude]] | 1991-1996
+| [[Honda Prelude#Fifth generation (1997-2001)|Prelude]] | 1996-2001
+|
+| [[Honda Accord#Third generation .281985.E2.80.931989.29|Accord&nbsp;Coupe]] | 1987-1989
+| [[Honda Accord#Fourth generation .281989.E2.80.931993.29|Accord Coupe]] | 1989-1993
+| [[Honda Accord#Fifth generation .281993.E2.80.931997.29|Accord Coupe]] | 1993-1998
+| [[Honda Accord (sixth generation)#Americas, Australia, New Zealand and Southeast Asia|Accord Coupe]] | 1998-2003
+| [[Honda Accord (North America seventh generation)|Accord Coupe]] | 2003-2008
+| [[Honda Accord (North America eighth generation)|Accord Coupe]] | 2008-2013
+| [[Honda Accord (ninth generation)|Accord Coupe]] | 2013-2018
+|
+| [[Honda Legend#First generation (KA1-KA6, 1985–1990)|Legend Coupe]] | 1986-1990
+| [[Honda Legend#Second generation (KA7/KA8, 1990–1995)|Legend&nbsp;Coupe]] | 1990-1993
+|
+| label: [[Roadster (automobile)|Roadster]]
+| [[Honda Beat|Beat]] | 1990-1994
+| [[Honda S2000|S2000]] | 1999-2010
+| [[Honda S660|S660]] | 2014-
+|
+| label: [[Convertible|Convertible]]
+| [[Honda City|City&nbsp;Cabriolet]] | 1983-1986
+| [[Honda CR-X del Sol|CR-X del Sol]] | 1991-1998
+|
+| label: [[Sport compact|Sport compact]] | span: 2
+| [[Honda Civic Type R#EK9 (1997–2000) (based on 6th generation Civic)|Civic Type R]] | 1996-2001
+| [[Honda Civic Type R#EP3 (2001–2005) (based on 7th generation Civic)|Civic Type R]] | 2001-2006
+| [[Honda Civic Type R#FD2/FN2 (2007–2011) (based on 8th generation Civic)|Civic Type R]] | 2006-2012
+| [[Honda Civic Type R#FK2 (2015–2017) (based on 9th generation Civic)|Civic&nbsp;Type&nbsp;R]] | 2015-2017
+| [[Honda Civic Type R#FK8 (2017–present) (based on 10th generation Civic)|Civic&nbsp;Type&nbsp;R]] | 2017-
+|
+| [[Honda Integra Type R#DC2 Type R|Integra Type R]] | 1994-2001
+| [[Honda Integra Type R#Series DC5.282002.E2.80.932006.29|Integra Type R]] | 2001-2006
+|
+| label: [[Sports car|Sports car]] | span: 4
+| [[Honda Accord#Accord Type R .28CH1.2C 1998.E2.80.932002.29|Accord Type R]] | 1997-2002
+| [[Honda Accord#Accord Euro R .28CL7.2C 2002.E2.80.932007.29|Accord Euro-R]] | 2002-2011
+|
+| [[Honda Torneo#Trim levels and engines|Torneo&nbsp;Euro-R]] | 2000-2002
+|
+| [[Honda NSX (first generation)|NSX]] | 1990-2005
+| [[Honda NSX (second generation)|NSX]] | 2015-
+|
+| [[Honda Type R#NSX Type R|NSX Type R]] | 1991-2001
+| [[Honda NSX#NSX-R .28JDM.29|NSX-R]] | 2001-2005
+|
+| label: [[Subcompact crossover|Subcompact crossover]] | span: 5
+| [[Honda Z#1998 Reintroduction|Z]] | 1997-2002
+|
+| [[Honda BR-V|BR-V]] | 2015-2021
+| [[Honda BR-V|BR-V]] | 2021-
+|
+| [[Honda HR-V|HR-V]] | 1998-2005
+| [[Honda Vezel|Vezel/HR-V]] | 2013-2021
+| [[Honda Vezel|Vezel/HR-V]] | 2021-
+|
+| [[Honda XR-V|XR-V]] | 2015-
+|
+| [[Honda WR-V|WR-V]] | 2017-
+|
+| label: [[Compact crossover|Compact crossover]] | span: 3
+| [[Honda Crossroad#Reintroduced version (2008–2010)|Crossroad]] | 2008-2010
+|
+| [[Honda Element|Element]] | 2002-2011
+| [[Honda ZR-V|ZR-V/HR-V]] | 2022-
+|
+| [[Honda CR-V (third generation)|CR-V]] | 2006-2011
+| [[Honda CR-V (fourth generation)|CR-V]] | 2011-2017
+| [[Honda CR-V (fifth generation)|CR-V]] | 2017-
+|
+| label: [[Mid-size crossover|Mid-size crossover]] | span: 2
+| [[Honda Crosstour|Crosstour]] | 2009-2016
+|
+| [[Honda Pilot#Second generation (2009–2015)|Pilot]] | 2008-2016
+| [[Honda Pilot#Third generation (2016–present)|Pilot]] | 2016-
+|
+| label: [[Sport utility vehicle|SUV]] | span: 4
+| [[Isuzu Amigo#UCS69|Jazz]] | 1992-1995
+| [[Honda CR-V#First generation (1995–2001)|CR-V]] | 1995-2001
+| [[Honda CR-V#Second generation (2001–2006)|CR-V]] | 2001-2006
+|
+| [[Honda Passport#First generation (1993–1997)|Passport]] | 1992-1997
+| [[Honda Passport#Second generation (1998–2002)|Passport]] | 1997-2002
+| [[Honda Pilot#First generation (2003–2008)|Pilot]] | 2002-2008
+|
+| [[Honda Horizon#Second generation .281991.E2.80.932005.29|Horizon]] | 1993-1999
+| [[Acura MDX#First generation (2000–2006)|MDX]] | 2003-2007
+|
+| [[Honda Crossroad#Rebadged version .281993.E2.80.931998.29|Crossroad]] | 1992-1998
+|
+| label: [[Station wagon|Station wagon]] | span: 3
+| [[Honda Civic (second generation)|Civic&nbsp;Country]] | 1980-1983
+| [[Honda Civic (third generation)#Shuttle.2FWagon|Civic Shuttle]] | 1983-1987
+| [[Honda Civic (fourth generation)#Wagon|Civic Shuttle]] | 1987-1994
+| [[Honda Orthia|Orthia]] | 1995-2002
+| [[Honda Airwave|Airwave]] | 2005-2010
+| [[Honda Fit Shuttle#First generation (2011–2015)|Fit&nbsp;Shuttle]] | 2011-2015
+| [[Honda Fit Shuttle#Second generation (2015–present)|Shuttle]] | 2015-
+|
+| [[Honda Accord#Fourth generation .281989.E2.80.931993.29|Accord&nbsp;CB9]] | 1990-1993
+| [[Honda Accord#Fifth generation .281993.E2.80.931997.29|Accord&nbsp;CEI]] | 1993-1997
+| [[Honda Accord#Sixth generation .281998.E2.80.932002.29|Accord CF6]] | 1997-2002
+| [[Honda Accord (Japan and Europe seventh generation)|Accord CM]] | 2002-2008
+| [[Honda Accord (Japan and Europe eighth generation)#Accord Tourer .282008-.29|Accord&nbsp;Tourer&nbsp;CW]] | 2008-2013
+|
+| [[Honda Avancier (station wagon)|Avancier]] | 1999-2003
+| [[Honda Avancier (crossover)|Avancier]] | 2016-
+|
+| label: [[Mini MPV|Mini MPV]] | span: 2
+| [[Honda Capa|Capa]] | 1997-2002
+| [[Honda Mobilio Spike|Mobilio Spike]] | 2002-2008
+| [[Honda Freed#First generation (GB3/GB4/GP3; 2008–2016)|Freed]] | 2008-2016
+| [[Honda Freed#Second generation (GB5/GB6/GB7/GB8; 2016–present)|Freed]] | 2016-
+|
+| [[Honda EV Plus|EV Plus]] | 1996-1999
+| [[Honda Mobilio|Mobilio]] | 2001-2008
+| [[Honda Mobilio|Mobilio]] | 2014-
+|
+| label: [[Compact MPV|Compact MPV]] | span: 3
+| [[Honda Stream#First generation (2000–2006)|Stream]] | 2000-2006
+| [[Honda Stream#Second generation (2006–2014)|Stream]] | 2006-2014
+|
+| [[Honda S-MX|S-MX]] | 1995-2002
+| [[Honda FR-V|Edix/FR-V]] | 2004-2009
+| [[Honda Jade (automobile)|Jade]] | 2013-2021
+|
+| [[Honda Stepwgn#First generation (1996–2001)|Stepwgn]] | 1996-2001
+| [[Honda Stepwgn#Second generation (2001–2005)|Stepwgn]] | 2001-2005
+| [[Honda Stepwgn#Third generation (2005–2009)|Stepwgn]] | 2005-2009
+| [[Honda Stepwgn#Fourth generation (2009–2015)|Stepwgn]] | 2009-2015
+| [[Honda Stepwgn#Fifth generation (2015–)|Stepwgn]] | 2015-
+|
+| label: [[Minivan|Minivan]] | span: 3
+| [[Honda Odyssey (international)#First generation .28RA1-RA5 chassis.29 .281994.E2.80.931999.29|Shuttle]] | 1994-1999
+| [[Honda Odyssey (international)#Second generation .28RA6-RA9 chassis.29 .281999.E2.80.932003.29|Odyssey RA6]] | 1999-2003
+| [[Honda Odyssey (international)#Third generation .28RB1-RB2 chassis.29 .282003.E2.80.932008.29|Odyssey RB]] | 2003-2008
+| [[Honda Odyssey (international)#Fourth generation .28RB3-RB4 chassis.29 .282008.E2.80.93present.29|Odyssey RB3]] | 2008-2013
+| [[Honda Odyssey (international)#Fifth generation .28RC1-RC2 chassis.29 .282013-present.29|Odyssey RC]] | 2013-
+|
+| [[Honda Odyssey (international)#First generation .28RA1-RA5 chassis.29 .281994.E2.80.931999.29|Odyssey]] | 1994-1999
+| [[Honda LaGreat|LaGreat]] | 1999-2004
+| [[Honda Odyssey (North America)#Third generation .282005.E2.80.932010.29|Odyssey RL3]] | 2004-2011
+| [[Honda Odyssey (North America)#Fourth generation .282011-present.29|Odyssey RL5]] | 2011-2017
+| [[Honda Odyssey (North America)#Fifth generation (2018–present)|Odyssey RL6]] | 2017-
+|
+| [[Honda Elysion#First generation (2004–2015)|Elysion]] | 2004-2015
+| [[Honda Elysion#Second generation (2015–present)|Elysion]] | 2015-
+|
+| label: [[Pickup truck|Pickup]]
+| [[Isuzu Faster#Third generation (TF; 1988–2002)|Tourmaster]] | 1996-1999
+| [[Honda Ridgeline|Ridgeline]] | 2006-2015
+| [[Honda Ridgeline#Honda Ridgeline (2017–present)|Ridgeline]] | 2017-
+|
+| label: [[Microvan|Microvan]]
+| [[Honda Acty#First generation|Acty Van]] | 1980-1988
+| [[Honda Acty#Second generation|Acty]] | 1988-1999
+| [[Honda Acty#Third generation|Acty]] | 1999-2010
+| [[Honda Acty#Fourth generation (truck)|Acty]] | 2010-2019
+|
+| label: [[Van|Van]] | span: 2
+| [[Honda City (AA)|City Pro]] | 1980-1986
+|
+| [[Honda Civic (second generation)|Civic Van]] | 1980-1983
+| [[Honda Civic (third generation)#Shuttle.2FWagon|Civic Pro]] | 1983-1987
+| [[Honda Civic (fourth generation)#Japan|Civic Pro]] | 1987-1995
+| [[Honda Partner|Partner Van]] | 1995-2003
+| [[Honda Partner|Partner]] | 2003-2006
+}}

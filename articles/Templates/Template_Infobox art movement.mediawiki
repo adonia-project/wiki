@@ -1,0 +1,31 @@
+{{Infobox
+| bodyclass    = vevent
+
+| above         = {{#if:{{{name|}}}|{{{name}}}|{{PAGENAMEBASE}}}}
+| abovestyle     = text-align:center;background-color:#ededed;color:inherit;
+
+| image        = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|upright={{{image_upright|1}}}|alt={{{alt|}}}}}
+| caption      = {{{caption|}}}
+
+| headerstyle = padding-bottom: 0.4em; border-bottom: 1px solid #aaa; font-weight: bold;
+
+|header1 = {{#if:{{{commons|}}}|{{#ifeq:{{{commons|}}}|yes| [[file: Ic camera alt 48px.svg|20px|class=skin-invert|link=|alt=]] [[commons:Category:{{PAGENAME}}|''Additional media'']]}}}}
+
+| label2       = Branch
+| data2        = {{{branch|}}}
+| label3       = Years active
+| data3        = {{{yearsactive|}}}
+| label4       = Location
+| data4        = {{{location|{{{country|}}}}}}
+| label5       = Major figures
+| data5        = {{{majorfigures|}}}
+| label6       = Notable works
+| data6        = {{{films|}}}
+| label7       = Influences
+| data7        = {{{influences|}}}
+| label8       = Influenced
+| data8        = {{{influenced|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox art movement with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox art movement]] with unknown parameter "_VALUE_"|ignoreblank=y| alt | branch | caption | commons | country | image | image_upright | influenced | influences | films | location | majorfigures | name | yearsactive }} <noinclude>
+{{Documentation}}
+<!-- PLEASE ADD CATEGORIES TO THE /doc SUBPAGE, THANKS -->
+</noinclude>

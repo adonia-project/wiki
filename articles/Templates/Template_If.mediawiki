@@ -1,0 +1,4 @@
+{{ safesubst:<noinclude/>p{{ safesubst:<noinclude/>#ifeq:{{{1}}}|eq|1|2}}|{{ safesubst:<noinclude/>p{{ safesubst:<noinclude/>#ifeq:{{{2}}}|{{{3}}}|1|2}}|{{{4|}}}|{{{5|}}}}}|{{ safesubst:<noinclude/>p{{ safesubst:<noinclude/>#if{{{1}}}:{{{2}}}|1|2}}|{{{3}}}|{{{4|}}}}}}}<noinclude>
+
+{{Documentation}}
+</noinclude>

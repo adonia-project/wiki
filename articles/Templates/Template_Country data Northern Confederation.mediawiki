@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Northern Confederation
+| shortname alias = Balisca
+| flag alias = Flag of the Northern Confederation.svg
+| flag alias-1827 = Flag of Balisca (reconstruction era).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1827
+| related1 = Balisca
+</noinclude>
+}}

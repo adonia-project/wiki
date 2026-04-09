@@ -1,0 +1,6 @@
+<!-- Simile site has moved; seeking new URL
+
+*[http://www.simile-widgets.org/timeline/?hcal={{canonicalurl:{{FULLPAGENAMEE}}}} Timeline] ([[SIMILE Timeline]], generated from [[hCalendar|hCalendar microformats]] on this page)
+
+-->*{{#ifeq:{{NAMESPACE}}|Category||[http://microform.at/?type=hcalendar-rdf&url={{canonicalurl:{{FULLPAGENAMEE}}}} Event data as RDF]}} {{dead link|date=May 2017}}<noinclude>
+{{documentation}}</noinclude>

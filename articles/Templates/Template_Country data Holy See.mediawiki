@@ -1,0 +1,10 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Holy See
+| flag alias = Flag of Vatican City (2023–present).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+<noinclude>
+| related1 = Vatican City
+| related2 = Papal States
+</noinclude>
+}}

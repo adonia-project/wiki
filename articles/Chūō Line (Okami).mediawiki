@@ -1,0 +1,204 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Chūō Line
+| image = Okami Metro Chuo line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series4000-02.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 4000 series|4000 series]] train arriving at [[Yumeshima Station]].
+| native_name = 中央線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 4
+| stations = 14
+| ridership = 980,000 (FY2025)
+| began_operation = {{start date and age|1967|12|15|df=y}}
+| system_length = {{cvt|17.9|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{750 V DC|conductor=y}} (Third Rail)
+| map = [[File:Okami Metro Chuo Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Chūō Line'''|中央線|Chūō-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. True to its name (''Chūō'' means "Central"), it serves as the central east-west axis of the city's transport grid, running directly through the heart of the government and commercial districts. On system maps, the line is color-coded forest green ({{Okami Metro color|C}}), and its stations use the prefix "C".
+
+The Chūō Line is strategically critical as the primary rail access to the Okami Bay Area, connecting the mainland to the artificial islands of Yumeshima (site of the upcoming [[Okami World Expo 2030]]) and Cosmosquare. To the east, it connects seamlessly with the [[Okaden]] (Okazaki Electric Railway), providing through-service to the [[Okazaki Prefecture]] suburbs.
+
+
+
+==History==
+Construction of the Chūō Line began in the mid-1960s to support the city's eastward expansion and the development of the bay area. The initial section between [[Bentencho-Central Station|Bentencho-Central]] and [[Tanimachi-Yonchome Station|Tanimachi-Yonchome]] opened on December 15, 1967.
+
+The line was progressively extended west toward the port and east toward the mountains throughout the 1970s and 80s. The eastern terminus at [[Nagata-Okazaki Station|Nagata-Okazaki]] opened in 1985, commencing immediate through-service with the [[Okaden]] railway.
+
+In 2024, the western extension from [[Cosmosquare Station|Cosmosquare]] to [[Yumeshima Station|Yumeshima]] was inaugurated, marking the completion of the "Expo Access Project." This extension features a unique undersea tunnel section and serves as the gateway to the Integrated Resort (IR) and Expo site.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* '''L''': Local (普通) - Stops at all stations.
+* '''R''': Rapid (快速) - Stops at stations marked ●, passes.
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Sanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Distance (km)
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Stops
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|C}};" | Between
+! style="border-bottom:3px solid #{{Okami Metro color|C}};" | Total
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|C}};" | L
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|C}};" | R
+|-
+| {{OMSN|C|01}}
+| [[Yumeshima Station|Yumeshima]]
+| 夢洲
+| -
+| 0.0
+| ●
+| ●
+| {{rint|okami|bus}} Expo 2030 Shuttle Terminal
+| rowspan="3" | [[Konohana Ward, Okami|Konohana]]
+|-
+| {{OMSN|C|02}}
+| [[Cosmosquare Station|Cosmosquare]]
+| コスモスクエア
+| 1.8
+| 1.8
+| ●
+| ●
+| {{rint|okami|P}} [[Nankō Port Town Line]] (P09)
+|-
+| {{OMSN|C|03}}
+| [[Asashiobashi-Kita Station|Asashiobashi-Kita]]
+| 朝潮橋北
+| 2.2
+| 4.0
+| ●
+| ｜
+|
+|-
+| {{OMSN|C|04}}
+| [[Bentencho-Central Station|Bentencho-Central]]
+| 弁天町中央
+| 1.3
+| 5.3
+| ●
+| ●
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+| rowspan="2" | [[Minato Ward, Okami|Minato]]
+|-
+| {{OMSN|C|05}}
+| [[Kujo-West Station|Kujo-West]]
+| 九条西
+| 1.2
+| 6.5
+| ●
+| ｜
+| {{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Namba Line
+|-
+| {{OMSN|C|06}}
+| [[Awaza-South Station|Awaza-South]]
+| 阿波座南
+| 1.4
+| 7.9
+| ●
+| ｜
+| {{rint|okami|S}} [[Shitayanagi Line]] (S09)
+| rowspan="2" | [[Nishi Ward, Okami|Nishi]]
+|-
+| {{OMSN|C|07}}
+| [[Honmachi-Sanjō Station|Honmachi-Sanjō]]
+| 本町三条
+| 1.0
+| 8.9
+| ●
+| ●
+| {{rint|okami|M}} [[Miyoshi Line]] (M12)<br>{{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z15)<br>{{rint|okami|H}} [[Hitotsubashi Line]] (H12)
+|-
+| {{OMSN|C|08}}
+| [[Sakaisuji-Honmachi Station|Sakaisuji-Honmachi]]
+| 堺筋本町
+| 0.8
+| 9.7
+| ●
+| ●
+| {{rint|okami|A}} [[Asahi Line]] (A07)<br>{{rint|okami|I}} [[Imaichi Line]] (I02)
+| rowspan="3" | [[Chuo Ward, Okami|Chuo]]
+|-
+| {{OMSN|C|09}}
+| [[Tanimachi-Yonchome Station|Tanimachi-Yonchome]]
+| 谷町四丁目
+| 1.0
+| 10.7
+| ●
+| ｜
+| {{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B06)
+|-
+| {{OMSN|C|10}}
+| [[Morinomiya-East Station|Morinomiya-East]]
+| 森ノ宮東
+| 1.2
+| 11.9
+| ●
+| ●
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|N}} [[Nagata Line]] (N09)
+|-
+| {{OMSN|C|11}}
+| [[Midoribashi-Oike Station|Midoribashi-Oike]]
+| 緑橋御池
+| 1.1
+| 13.0
+| ●
+| ｜
+| {{rint|okami|I}} [[Imaichi Line]] (I04)
+| rowspan="4" | [[Higashinari Ward, Okami|Higashinari]]
+|-
+| {{OMSN|C|12}}
+| [[Fukae-Bashi Station|Fukae-Bashi]]
+| 深江橋
+| 1.2
+| 14.2
+| ●
+| ｜
+|
+|-
+| {{OMSN|C|13}}
+| [[Takaida-Chuo Station|Takaida-Chuo]]
+| 高井田中央
+| 1.5
+| 15.7
+| ●
+| ｜
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami East Line]]
+|-
+| {{OMSN|C|14}}
+| [[Nagata-Okazaki Station|Nagata-Okazaki]]
+| 長田岡崎
+| 1.3
+| 17.0
+| ●
+| ●
+| {{rint|okami|private}} '''[[Okaden|Okaden (Okazaki Electric Railway)]]''' (Through Service to Okazaki-Chuo)
+|}
+
+==Rolling Stock==
+* [[Okami Metro 4000 series|4000 series]] (6-car sets):
+*: The flagship fleet of the Chūō Line, introduced specifically for the [[Okami World Expo 2030]]. These trains feature a futuristic "spacecraft" exterior design, semi-cross seating, and USB charging ports at every seat. They are equipped with advanced suspension systems to handle the high-speed sections on the Okaden line.
+* [[Okaden]] 7000 series (6-car sets):
+*: The corresponding private railway fleet. Painted in Okaden's signature vermilion, these trains operate through-services from Okazaki into the Metro network, terminating at Cosmosquare.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

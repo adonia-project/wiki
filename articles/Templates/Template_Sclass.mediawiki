@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:WPSHIPS utilities|sclass}}</includeonly><!--
+
+--><noinclude>{{documentation}}</noinclude>

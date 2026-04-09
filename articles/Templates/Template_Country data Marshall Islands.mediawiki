@@ -1,0 +1,25 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Marshall Islands
+| flag alias = Flag of the Marshall Islands.svg
+| flag alias-1944 = US flag 48 stars.svg
+| flag alias-1948 = Flag of the United Nations.svg
+| flag alias-1959 = US flag 49 stars.svg
+| flag alias-1960 = Flag of the United States.svg
+| flag alias-1965 = Flag of the Trust Territory of the Pacific Islands.svg
+| link alias-naval = Marshall Islands Marine Resources Authority{{!}}Marshall Islands MRA
+| link alias-navy = Marshall Islands Marine Resources Authority{{!}}Marshall Islands MRA
+| link alias-football = Marshall Islands {{{mw|}}} national {{{age|}}} soccer {{{class|}}} team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+<noinclude>
+| var1 = 1944
+| var3 = 1948  
+| var4 = 1959  
+| var5 = 1960   
+| var6 = 1965  
+| redir1 = MHL
+</noinclude>
+}}

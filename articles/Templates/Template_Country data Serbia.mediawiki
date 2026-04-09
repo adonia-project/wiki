@@ -1,0 +1,39 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Serbia
+| flag alias = Flag of Serbia.svg
+| flag alias-civil = Civil Flag of Serbia.svg
+| flag alias-1835 = Flag of Serbia (1835-1882).svg
+| flag alias-1882 = State Flag of Serbia (1882-1918).svg
+| flag alias-1941 = Flag of Serbia, 1941-1944.svg
+| flag alias-1946 = Flag of SR Serbia.svg
+| flag alias-1991 = Flag of Serbia (1992–2004).svg
+| flag alias-2004 = Flag of Serbia (2004–2010).svg
+| flag alias-military = Standard of the Serbian Armed Forces (front).svg
+| link alias-military = Serbian Armed Forces
+| flag alias-air force = Flag of the Serbian Air Force.svg
+| link alias-air force = Serbian Air Force and Air Defence
+| flag alias-army = Flag of the Serbian Land Forces.svg
+| link alias-army = Serbian Army
+| flag alias-navy = Flag of the Serbian River Flotilla.png
+| link alias-navy = Serbian River Flotilla
+| flag alias-naval = Naval Ensign of Serbia.svg
+| link alias-naval = Serbian River Flotilla
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = civil
+| var2 = 1835
+| var3 = 1882
+| var4 = 1941
+| var5 = 1946
+| var6 = 1991
+| var7 = 2004
+| redir1 = SRB
+| related1 = Kingdom of Serbia
+| related2 = SR Serbia
+| related3 = Serbia and Montenegro
+| related4 = FR Yugoslavia
+</noinclude>
+}}

@@ -1,0 +1,29 @@
+<includeonly>{{#if:{{{2|}}}
+ |{{MONTHNAME|{{{2}}}}}&nbsp;
+}}{{{1}}} (age&nbsp;{{#if:{{{2|}}}
+ |{{#ifexpr:{{CURRENTMONTH}}<{{{2}}}
+  |{{#expr:{{CURRENTYEAR}}-{{{1}}}-1}}
+  |{{#ifexpr:{{CURRENTMONTH}}>{{{2}}}
+   |{{#expr:{{CURRENTYEAR}}-{{{1}}}}}
+   |{{#expr:{{CURRENTYEAR}}-{{{1}}}-1}}&ndash;{{#expr:{{CURRENTYEAR}}-{{{1}}}}}
+  }}
+ }}
+ |{{#expr:{{CURRENTYEAR}}-{{{1}}}-1}}&ndash;{{#expr:{{CURRENTYEAR}}-{{{1}}}}}
+}})<!-- Tracking categories
+-->{{#ifexpr: ( {{{1}}} > {{CURRENTYEAR}} ) OR ( {{CURRENTYEAR}} - {{{1}}} > 130 ) | &#32; {{Error|invalid year, age > 130}}{{Main other|[[Category:Pages using age template with invalid date]]}}}}<!--
+-->{{#if:{{{2|}}}|{{#ifexpr: ( {{{2}}} > 12 ) OR ( {{{2}}} < 1 ) | &#32;{{Error|invalid month}}{{Main other|[[Category:Pages using age template with invalid date]]}}|}}
+}}<!--
+-->{{#invoke:Check for unknown parameters|check|unknown={{Main other|[[Category:Pages using birth year and age template with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Birth year and age]] with unknown parameter "_VALUE_"|showblankpositional=1| 1 | 2 }}<!--
+-->{{#ifeq: {{NAMESPACENUMBER}} | 0
+| {{#if: {{#invoke:wd|label|raw}}
+  | {{#if: {{#invoke:String|match|{{#invoke:wd|properties|raw|P31}},|Q5,|1|1|true|}}
+    | {{#if: {{#invoke:wd|properties|raw|P569}}
+      |
+      | [[Category:Date of birth not in Wikidata]]
+      }}
+    }}
+  | [[Category:Articles without Wikidata item]]
+  }}
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

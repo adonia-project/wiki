@@ -1,0 +1,1 @@
+{{#if:{{{link|}}}|[<noinclude/>[Carbon dioxide{{!}}}}CO<sub style="font-size: 80%;vertical-align: -0.35em">2</sub>{{#if:{{{link|}}}|]]}}<noinclude><!-- Styles are copied from Module:Chem2/styles.css. -->{{Documentation}}</noinclude>

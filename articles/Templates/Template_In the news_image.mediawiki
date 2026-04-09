@@ -1,0 +1,5 @@
+{{#if:{{{image|}}}|<templatestyles src="In the news/image.css"/><div role="figure" class="itn-img">
+{{main page image|image={{{image}}}|border={{#ifeq:{{{border}}}|yes|yes|}}|width={{#if:{{{width|}}}|{{{width}}}|{{#invoke:Main_page_image|width|{{PAGENAME:{{{image}}}}}}}}}|title={{#if:{{{title|}}}|{{{title}}}}}|alt={{#if:{{{alt|}}}|{{{alt}}}}}|caption={{#if:{{{caption|}}}|{{{caption}}}}}|caption align={{#if:{{{caption align|}}}|{{{caption align}}}}}|link={{#if:{{{link|}}}|{{{link}}}}}}}
+</div>}}<noinclude>
+{{documentation}}
+</noinclude>

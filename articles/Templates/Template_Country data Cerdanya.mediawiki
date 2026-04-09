@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Cerdanya
+| flag alias = Flag of Cerdanya.svg
+| flag alias-1712 = Flag of the Commonwealth of Cerdanya.svg
+| flag alias-1919 = Flag of Cerdanya (1919).svg
+| flag alias-estrellada = Flag of Cerdanya (red star).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| var1 = 1712
+| var2 = 1919
+| var3 = estrellada
+}}

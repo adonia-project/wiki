@@ -1,0 +1,99 @@
+<includeonly>
+====Energy====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Energy
+|+ Energy<br /><small>([[Template:Convert/list of units/energy|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+|rowspan=11  style="text-align: center; vertical-align: top;" |'''[[International System of Units|SI]]'''
+{{convert/list of units/unitrow|GJ|place=top}}
+{{convert/list of units/unitrow|MJ}}
+{{convert/list of units/unitrow|kJ}}
+{{convert/list of units/unitrow|hJ}}
+{{convert/list of units/unitrow|daJ}}
+{{convert/list of units/unitrow|J}}
+{{convert/list of units/unitrow|dJ}}
+{{convert/list of units/unitrow|cJ}}
+{{convert/list of units/unitrow|mJ}}
+{{convert/list of units/unitrow|μJ|altab=uJ}}
+{{convert/list of units/unitrow|nJ}}
+|-
+|rowspan=3  style="text-align: center; vertical-align: top;" |'''[[centimetre gram second system of units|cgs]]'''
+{{convert/list of units/unitrow|Merg|place=top}}
+{{convert/list of units/unitrow|kerg}}
+{{convert/list of units/unitrow|erg}}
+|-
+|rowspan=10  style="text-align: center; vertical-align: top;" |'''[[Watt-hour]] multiples'''
+{{convert/list of units/unitrow|TWh|place=top|rowspan=2}}
+{{convert/list of units/unitaltab|TW.h}}
+{{convert/list of units/unitrow|GWh|rowspan=2}}
+{{convert/list of units/unitaltab|GW.h}}
+{{convert/list of units/unitrow|MWh|rowspan=2}}
+{{convert/list of units/unitaltab|MW.h}}
+{{convert/list of units/unitrow|kWh|rowspan=2}}
+{{convert/list of units/unitaltab|kW.h}}
+{{convert/list of units/unitrow|Wh|rowspan=2}}
+{{convert/list of units/unitaltab|W.h}}
+|-
+|rowspan=6  style="text-align: center; vertical-align: top;" |'''[[Electronvolt|Electron-<br />volt]] multiples'''
+{{convert/list of units/unitrow|GeV}}
+{{convert/list of units/unitrow|MeV}}
+{{convert/list of units/unitrow|keV}}
+{{convert/list of units/unitrow|eV}}
+{{convert/list of units/unitrow|meV}}
+|-
+|rowspan=5  style="text-align: center; vertical-align: top;" |'''[[Calorie]] multiples'''
+{{convert/list of units/unitrow|Cal|place=top|unitrowspan=1|exrowspan=1|rowspan=5|note=The thermo-chemical calorie is the default definition. For others, see the [[Template:Convert/list of units/energy|full list]].}}
+{{convert/list of units/unitnonote|Mcal}}
+{{convert/list of units/unitnonote|kcal}}
+{{convert/list of units/unitnonote|cal}}
+{{convert/list of units/unitnonote|mcal}}
+|-
+|rowspan=8  style="text-align: center; vertical-align: top;" |'''[[pound-force|pound/<br />ounce]]-[[foot (length)|foot]]/<br />[[inch]]-[[hour]]-[[minute]]-[[second]]'''
+{{convert/list of units/unitrow|ftpdl|place=top}}
+{{convert/list of units/unitrow|ftlbf|rowspan=2}}
+{{convert/list of units/unitaltab|ftlb-f}}
+{{convert/list of units/unitrow|inlbf|rowspan=2}}
+{{convert/list of units/unitaltab|inlb-f}}
+{{convert/list of units/unitrow|inozf|rowspan=2}}
+{{convert/list of units/unitaltab|inoz-f}}
+{{convert/list of units/unitrow|hph}}
+|-<!-- Roman Numeral-esque prefixes are depreciated -->
+|rowspan=2<!--6-->  style="text-align: center; vertical-align: top;" |'''[[British thermal unit]]<!-- multiples -->'''
+{{convert/list of units/unitrow|Btu|place=top|unitrowspan=2|exrowspan=1|rowspan=2|note=The International Steam Table British thermal unit is used. For others, see the [[Template:Convert/list of units/energy|full list]].}}
+{{convert/list of units/unitaltab|BTU}}<!-- being replaced
+{{convert/list of units/unitnonote|MBtu|rowspan=2}}
+{{convert/list of units/unitaltab|MBTU}}
+{{convert/list of units/unitnonote|MMBtu|rowspan=2}}
+{{convert/list of units/unitaltab|MMBTU}}-->
+|-
+|rowspan=8  style="text-align: center; vertical-align: top;" |'''[[TNT equivalent|TNT]]-based units'''
+{{convert/list of units/unitrow|GtTNT|place=top|unitrowspan=1|rowspan=2}}
+{{convert/list of units/unitaltname|GtonTNT}}
+{{convert/list of units/unitrow|MtTNT|unitrowspan=1|rowspan=2}}
+{{convert/list of units/unitaltname|MtonTNT}}
+{{convert/list of units/unitrow|ktTNT|unitrowspan=1|rowspan=2}}
+{{convert/list of units/unitaltname|ktonTNT}}
+{{convert/list of units/unitrow|tTNT|unitrowspan=1|rowspan=2}}
+{{convert/list of units/unitaltname|tonTNT}}
+|-
+|rowspan=6  style="text-align: center; vertical-align: top;" |'''Other'''
+{{convert/list of units/unitrow|Eh}}
+{{convert/list of units/unitrow|Ry}}
+{{convert/list of units/unitrow|toe}}
+{{convert/list of units/unitrow|BOE}}
+|-
+|[[Conversion of units|cubic foot of natural gas]] || colspan=3 align=left | cuftnaturalgas (cufootnaturalgas) || Unit-code <small>cufootnaturalgas</small> will show "cubic foot of natural gas" if plural. || align=right |{{convert|1.0|cuftnaturalgas|abbr=on|lk=on}}
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/energy/short list]]
+</noinclude>

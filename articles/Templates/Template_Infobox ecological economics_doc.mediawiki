@@ -1,0 +1,319 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+{{Lua|Module:Infobox|Module:InfoboxImage|Module:Check for unknown parameters}}
+
+== Usage ==
+{{Generic template demo
+ |country |image |image_size |caption |currency |fiscal_year |trade_orgs |social_foundation_score |healthcare_access |education_access |housing_adequacy |food_security |income_security |social_equity |democratic_participation |ecological_ceiling_score |carbon_intensity |resource_footprint |biodiversity_index |air_quality |water_sustainability |land_use_sustainability |circularity_rate |resource_recovery |material_productivity |waste_per_capita |recycling_rate |product_longevity_index |happiness_index |life_satisfaction |work_life_balance |community_cohesion |mental_wellbeing |purpose_index |cooperative_employment |worker_ownership |social_ownership |economic_democracy_index |cooperative_gdp_share |wealth_distribution |gdp_growth |resource_productivity_growth |wellbeing_per_gdp |degrowth_trajectory |steady_state_indicator |avg_workweek |leisure_hours |automation_rate |labor_participation |job_satisfaction |universal_basic_services |gdp_ppp |gdp_nominal |gdp_per_capita_ppp |gdp_per_capita_nominal |unemployment |inflation |hdi |ihdi |footnotes
+}}
+
+<syntaxhighlight lang="wikitext" style="overflow:auto;">
+{{Infobox ecological economics
+| country      = 
+| image        = 
+| image_size   = 
+| caption      = 
+| currency     = 
+| fiscal_year  = 
+| trade_orgs   = 
+
+<!----------------------Doughnut Economics------------------------->
+| social_foundation_score = 
+| healthcare_access = 
+| education_access = 
+| housing_adequacy = 
+| food_security = 
+| income_security = 
+| social_equity = 
+| democratic_participation = 
+| ecological_ceiling_score = 
+| carbon_intensity = 
+| resource_footprint = 
+| biodiversity_index = 
+| air_quality = 
+| water_sustainability = 
+| land_use_sustainability = 
+
+<!----------------------Circular Economy------------------------->
+| circularity_rate = 
+| resource_recovery = 
+| material_productivity = 
+| waste_per_capita = 
+| recycling_rate = 
+| product_longevity_index = 
+
+<!----------------------Happiness & Wellbeing------------------------->
+| happiness_index = 
+| life_satisfaction = 
+| work_life_balance = 
+| community_cohesion = 
+| mental_wellbeing = 
+| purpose_index = 
+
+<!----------------------Mutualism------------------------->
+| cooperative_employment = 
+| worker_ownership = 
+| social_ownership = 
+| economic_democracy_index = 
+| cooperative_gdp_share = 
+| wealth_distribution = 
+
+<!----------------------Post-Growth------------------------->
+| gdp_growth = 
+| resource_productivity_growth = 
+| wellbeing_per_gdp = 
+| degrowth_trajectory = 
+| steady_state_indicator = 
+
+<!----------------------Post-Work------------------------->
+| avg_workweek = 
+| leisure_hours = 
+| automation_rate = 
+| labor_participation = 
+| job_satisfaction = 
+| universal_basic_services = 
+
+<!----------------------Traditional Metrics------------------------->
+| gdp_ppp = 
+| gdp_nominal = 
+| gdp_per_capita_ppp = 
+| gdp_per_capita_nominal = 
+| unemployment = 
+| inflation = 
+| hdi = 
+| ihdi = 
+
+| footnotes = 
+}}
+</syntaxhighlight>
+
+==Metric categories==
+
+This infobox is designed for economies that prioritize alternative measures of success over traditional GDP-based metrics. It organizes data into six categories:
+
+===Doughnut Economics===
+Based on [[Kate Raworth|Raworth's]] framework, measuring whether the economy operates within a "safe and just space" between social foundations and ecological ceilings.
+
+{| class="wikitable"
+|-
+! Parameter !! Description !! Suggested format
+|-
+| social_foundation_score || Composite score of social foundation || 0–100 scale
+|-
+| healthcare_access || % with universal healthcare coverage || Percentage
+|-
+| education_access || Literacy and education rates || Percentage or description
+|-
+| housing_adequacy || % in adequate, affordable housing || Percentage
+|-
+| food_security || Food security index score || Score/rank
+|-
+| income_security || % above poverty line || Percentage
+|-
+| social_equity || Gini coefficient or inequality measure || Gini value (0–1)
+|-
+| democratic_participation || Civic engagement metrics || Percentage or description
+|-
+| ecological_ceiling_score || Composite score of ecological ceiling || 0–100 scale
+|-
+| carbon_intensity || CO₂ emissions per capita || Tonnes per capita
+|-
+| resource_footprint || Ecological footprint per capita || Global hectares per capita
+|-
+| biodiversity_index || Species protection and habitat integrity || 0–1 scale
+|-
+| air_quality || Average Air Quality Index || AQI value
+|-
+| water_sustainability || % from renewable sources || Percentage
+|-
+| land_use_sustainability || % sustainable land management || Percentage
+|}
+
+===Circular Economy===
+{| class="wikitable"
+|-
+! Parameter !! Description !! Suggested format
+|-
+| circularity_rate || % of materials in closed loops || Percentage
+|-
+| resource_recovery || % of materials recovered from waste || Percentage
+|-
+| material_productivity || GDP per kg of materials || $/kg
+|-
+| waste_per_capita || Annual kg per person || kg/year
+|-
+| recycling_rate || % of municipal waste recycled || Percentage
+|-
+| product_longevity_index || Average product lifespan || Years
+|}
+
+===Happiness & Wellbeing===
+{| class="wikitable"
+|-
+! Parameter !! Description !! Suggested format
+|-
+| happiness_index || Composite wellbeing score || 0–10 scale
+|-
+| life_satisfaction || Self-reported life satisfaction || 0–10 scale
+|-
+| work_life_balance || Work-life balance score || 0–10 scale
+|-
+| community_cohesion || Social trust levels || Percentage
+|-
+| mental_wellbeing || Psychological flourishing rate || Percentage
+|-
+| purpose_index || % reporting meaningful work/life || Percentage
+|}
+
+===Mutualism===
+{| class="wikitable"
+|-
+! Parameter !! Description !! Suggested format
+|-
+| cooperative_employment || % of workers in cooperatives || Percentage
+|-
+| worker_ownership || % of enterprises worker-owned || Percentage
+|-
+| social_ownership || % of economy publicly/cooperatively owned || Percentage
+|-
+| economic_democracy_index || Degree of democratic economic control || 0–1 scale
+|-
+| cooperative_gdp_share || % of GDP from cooperatives || Percentage
+|-
+| wealth_distribution || Gini or wage ratio || Gini or ratio (e.g., "5:1 max")
+|}
+
+===Post-Growth===
+{| class="wikitable"
+|-
+! Parameter !! Description !! Suggested format
+|-
+| gdp_growth || Annual GDP growth rate || Percentage (may be low/negative)
+|-
+| resource_productivity_growth || Change in output per resource unit || Percentage change
+|-
+| wellbeing_per_gdp || Wellbeing achieved per economic unit || Multiplier (e.g., "2.3x")
+|-
+| degrowth_trajectory || Planned reduction in throughput || Description
+|-
+| steady_state_indicator || Proximity to steady-state economy || 0–1 scale
+|}
+
+===Post-Work===
+{| class="wikitable"
+|-
+! Parameter !! Description !! Suggested format
+|-
+| avg_workweek || Average hours worked per week || Hours
+|-
+| leisure_hours || Free time per week || Hours/week
+|-
+| automation_rate || Robots per 10,000 workers || Number
+|-
+| labor_participation || % of population employed || Percentage (may be low by design)
+|-
+| job_satisfaction || % satisfied with work || Percentage
+|-
+| universal_basic_services || Number of guaranteed services || Count
+|}
+
+===Traditional Metrics===
+{| class="wikitable"
+|-
+! Parameter !! Description !! Suggested format
+|-
+| gdp_ppp || GDP (purchasing power parity) || Value with rank
+|-
+| gdp_nominal || GDP (nominal) || Value with rank
+|-
+| gdp_per_capita_ppp || GDP per capita (PPP) || Value
+|-
+| gdp_per_capita_nominal || GDP per capita (nominal) || Value
+|-
+| unemployment || Unemployment rate || Percentage
+|-
+| inflation || Inflation rate || Percentage
+|-
+| hdi || Human Development Index || 0–1 scale
+|-
+| ihdi || Inequality-adjusted HDI || 0–1 scale
+|}
+
+==See also==
+* [[Template:Infobox economy]] — for traditional economy infoboxes
+* [[Doughnut (economic model)]]
+* [[Circular economy]]
+* [[Gross National Happiness]]
+* [[Mutualism (economic theory)]]
+* [[Degrowth]]
+* [[Post-work society]]
+
+==Categories==
+*{{clc|Pages using infobox ecological economics with unknown parameters}}
+
+==Template data==
+{{TemplateData header}}
+<templatedata>
+{
+	"description": "An infobox for economies measured through alternative frameworks: doughnut economics, circular economy, happiness/wellbeing, mutualism, post-growth, and post-work metrics.",
+	"params": {
+		"country": {
+			"label": "Country",
+			"description": "Name of the country",
+			"type": "string"
+		},
+		"image": {
+			"label": "Image",
+			"description": "The name of the image file to display, without the \"File:\" prefix",
+			"type": "string"
+		},
+		"social_foundation_score": {
+			"label": "Social Foundation Score",
+			"description": "Composite score measuring access to life's essentials (0–100 scale)",
+			"type": "string"
+		},
+		"ecological_ceiling_score": {
+			"label": "Ecological Ceiling Score",
+			"description": "Composite score measuring operation within planetary boundaries (0–100 scale)",
+			"type": "string"
+		},
+		"circularity_rate": {
+			"label": "Circularity Rate",
+			"description": "Percentage of materials in closed loops",
+			"type": "string"
+		},
+		"happiness_index": {
+			"label": "Happiness Index",
+			"description": "Composite wellbeing score (0–10 scale)",
+			"type": "string"
+		},
+		"cooperative_employment": {
+			"label": "Cooperative Employment",
+			"description": "Percentage of workers employed in cooperatives",
+			"type": "string"
+		},
+		"avg_workweek": {
+			"label": "Average Workweek",
+			"description": "Average hours worked per week",
+			"type": "string"
+		},
+		"gdp_ppp": {
+			"label": "GDP (PPP)",
+			"description": "Gross domestic product at purchasing power parity (for comparison purposes)",
+			"type": "string"
+		}
+	},
+	"format": "block"
+}
+</templatedata>
+
+== Microformat ==
+{{UF-adr}}
+
+<includeonly>{{Sandbox other||
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Business infobox templates|Ecological economics]]
+[[Category:Economics templates]]
+[[Category:Sustainability templates]]
+}}</includeonly>

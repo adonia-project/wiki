@@ -1,0 +1,5 @@
+{{#switch:{{lc:{{plain text|1={{{iso-code|}}}}}}}
+|no|none=_NONE_
+|#default=}}<!--
+
+--><noinclude>{{documentation|1=Template:ISO 4217/code/doc}}</noinclude>

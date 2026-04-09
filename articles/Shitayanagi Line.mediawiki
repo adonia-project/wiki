@@ -1,0 +1,161 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Shitayanagi Line
+| image = Okami Metro Shitayanagi line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series25-01.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 25 series|25 series]] train with yellow livery at [[Awaza-Shinmachi Station]].
+| native_name = 下柳線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 9
+| stations = 13
+| ridership = 710,000 (FY2025)
+| began_operation = {{start date and age|1975|05|25|df=y}}
+| system_length = {{cvt|11.4|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{750 V DC|conductor=y}} (Third Rail)
+| map = [[File:Okami Metro Shitayanagi Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Shitayanagi Line'''|下柳線|Shitayanagi-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It serves as a vital western distributor, running parallel to the [[Miyoshi Line]] through the city's western commercial districts before curving south towards the bay area. On system maps, the line is color-coded canary yellow ({{Okami Metro color|S}}), and its stations use the prefix "S".
+
+The Shitayanagi Line is known as the "Connector Line" because it intersects with almost every other east-west line in the network (Asahi, Chūō, Nagata, Tozai) without passing through the congested [[Okami Central Station]]. This makes it a popular bypass route for savvy commuters avoiding the central hub.
+
+
+
+==History==
+Planned in the 1970s to develop the western side of the Loop Line, the Shitayanagi Line was constructed in phases. The northern section between [[Noda-Hanshin Station|Noda-Hanshin]] and [[Sakuragawa Station|Sakuragawa]] opened on May 25, 1975.
+
+The line was extended south to [[Suminoe-Koen Station|Suminoe-Koen]] in 1982 to serve the Okami Bay Area and the boat racing stadium. Unlike the 10-car Miyoshi Line trains, the Shitayanagi Line utilizes shorter 6-car trainsets, reflecting its role as a distributor rather than a primary artery.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* Stops: All trains stop at all stations (Local service only).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|S}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|S}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|S}};" | Sanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|S}};" | Distance (km)
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|S}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|S}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|S}};" | Between<br>Stations
+! style="border-bottom:3px solid #{{Okami Metro color|S}};" | Total
+|-
+| {{OMSN|S|01}}
+| [[Noda-Hanshi Station|Noda-Hanshi]]
+| 野田阪神
+| -
+| 0.0
+| {{rint|okami|A}} [[Asahi Line]] (A01)<br>{{rint|okami|private}} [[Hanshi Electric Railway|Hanshi]] Main Line
+| rowspan="2" | [[Fukushima Ward, Okami|Fukushima]]
+|-
+| {{OMSN|S|02}}
+| [[Tamagawa Station|Tamagawa]]
+| 玉川
+| 1.2
+| 1.2
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]] (via Noda)
+|-
+| {{OMSN|S|03}}
+| [[Awaza-Shinmachi Station|Awaza-Shinmachi]]
+| 阿波座新町
+| 1.3
+| 2.5
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z16)<br>{{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (via [[Awaza-South Station|Awaza-South]] - C06)
+| rowspan="3" | [[Nishi Ward, Okami|Nishi]]
+|-
+| {{OMSN|S|04}}
+| [[Nishi-Nagahori Station|Nishi-Nagahori]]
+| 西長堀
+| 0.9
+| 3.4
+| {{rint|okami|N}} [[Nagata Line]] (N15)
+|-
+| {{OMSN|S|05}}
+| [[Sakuragawa Station|Sakuragawa]]
+| 桜川
+| 1.1
+| 4.5
+| {{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Namba Line<br>{{rint|okami|private}} [[Nankai Electric Railway|Nankai]] Koya Line (Shiomibashi)
+|-
+| {{OMSN|S|06}}
+| [[Namba-Motomachi Station|Namba-Motomachi]]
+| 難波元町
+| 1.0
+| 5.5
+| {{rint|okami|M}} [[Miyoshi Line]] (via Namba)<br>{{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (via Namba)<br>{{rint|okami|private}} [[Kintetsu Railway|Kintetsu]] / [[Hanshi Electric Railway|Hanshi]]
+| rowspan="2" | [[Naniwa Ward, Okami|Naniwa]]
+|-
+| {{OMSN|S|07}}
+| [[Daikokucho-West Station|Daikokucho-West]]
+| 大国町西
+| 1.2
+| 6.7
+| {{rint|okami|M}} [[Miyoshi Line]] (M15)<br>{{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B10)
+|-
+| {{OMSN|S|08}}
+| [[Hanazono-Cho Station|Hanazono-Cho]]
+| 花園町
+| 1.3
+| 8.0
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z03)
+| rowspan="3" | [[Nishinari Ward, Okami|Nishinari]]
+|-
+| {{OMSN|S|09}}
+| [[Tengachaya Station|Tengachaya]]
+| 天下茶屋
+| 1.1
+| 9.1
+| {{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B11)<br>{{rint|okami|private}} [[Nankai Electric Railway|Nankai]] Main Line
+|-
+| {{OMSN|S|10}}
+| [[Kishinosato Station|Kishinosato]]
+| 岸里
+| 1.0
+| 10.1
+|
+|-
+| {{OMSN|S|11}}
+| [[Tamade Station|Tamade]]
+| 玉出
+| 1.2
+| 11.3
+|
+| rowspan="3" | [[Suminoe Ward, Okami|Suminoe]]
+|-
+| {{OMSN|S|12}}
+| [[Kitakagaya Station|Kitakagaya]]
+| 北加賀屋
+| 1.1
+| 12.4
+| {{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B16)
+|-
+| {{OMSN|S|13}}
+| [[Suminoe-Koen Station|Suminoe-Koen]]
+| 住之江公園
+| 1.2
+| 13.6
+| {{rint|okami|P}} [[Nankō Port Town Line]] (P15)
+|}
+
+==Rolling Stock==
+* [[Okami Metro 25 series|25 series]] (6-car sets):
+*: Introduced in 2014, these trains are mechanically similar to the 20 series used on the [[Tozai Line (Okami)|Tozai Line]] but feature a bright **canary yellow** band. They are known for their rapid acceleration, necessary for the short station intervals in the Namba and Daikokucho districts.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

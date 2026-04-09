@@ -1,0 +1,106 @@
+{{Infobox
+| subbox = {{{subbox|}}}
+| headerstyle= background-color: #efefef
+
+|title    = {{{name|{{{railroad_name|}}}}}}
+| subheader = {{{other_name|}}}
+
+|image1    = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|{{{logo_filename|}}}}}}|size={{{logo_size|}}}|sizedefault=frameless|upright=0.91|alt={{{logo_alt|}}}}}
+|caption1  = {{#if:{{{image|{{{image_filename|}}}}}}||{{{caption|{{{image_caption|}}}}}}}}
+
+|image2   = {{#invoke:InfoboxImage|InfoboxImage|image={{{system_map|}}}|size={{{map_size|}}}|sizedefault=frameless|upright=1.14|alt={{{map_alt|}}}}}
+|caption2 = {{{map_caption|}}}
+
+|image3   = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|{{{image_filename|}}}}}}|size={{{image_size|}}}|sizedefault=frameless|upright=1.14|alt={{{image_alt|{{{alt|}}}}}}}}
+|caption3 = {{{caption|{{{image_caption|}}}}}}
+
+|header1 = {{#if:{{{marks|{{{abbr|}}}}}}{{{locale|}}}{{{start_year|{{{founded|}}}}}}{{{end_year|{{{defunct|}}}}}}{{{predecessor_line|}}}{{{predecessors|}}}{{{predecessor|}}}{{{successor_line|}}}{{{successors|}}}{{{successor|}}}{{{headquarters|{{{hq_city|}}}}}}|Overview}}
+
+| label2    = Franchise(s)
+| data2     = {{{franchise|}}}
+| label3    = Contract(s)
+| data3     = {{{contract|}}}
+| label4    = Concession(s)
+| data4     = {{{concession|}}}
+| label5    = Current operator
+| data5     = {{{operator|}}}
+| label6    = Main {{if empty|{{{nameforarea|}}}|region}}(s)
+| data6     = {{{regions|}}}
+| label7    = Other {{if empty|{{{nameforarea|}}}|region}}(s)
+| data7     = {{{secregions|}}}
+| label8    = Fleet size
+| data8     = {{{fleet|}}}
+| label9    = Stations called at
+| data9     = {{{stations|}}}
+| label10    = Stations operated
+| data10     = {{{stationsop|}}}
+| label11   = Parent company
+| data11    = {{{parent_company|}}}
+| label12   = Headquarters
+| data12    = {{{headquarters|{{{hq_city|}}}}}}
+| label13   = Key people
+| data13    = {{{key_people|}}}
+| label14   = Founders
+| data14    = {{{founders|}}}
+| label20  = [[Reporting mark]]
+| data20   = {{{marks|{{{abbr|}}}}}}
+| label21  = Locale
+| data21   = {{{locale|}}}
+| label22  = Dates of operation
+| data22   = {{#if:{{{start_year|{{{founded|}}}}}}{{{end_year|{{{defunct|}}}}}}|{{{start_year|{{{founded|}}}}}}&ndash;{{{end_year|{{{defunct|}}}}}}|{{#if:{{{dates|}}}|{{{dates}}}}}}}
+| label23  = Predecessor{{#if:{{{predecessors|}}}|s}}
+| data23   = {{if empty|{{{predecessor_line|}}}|{{{predecessors|}}}|{{{predecessor|}}}}}
+| label24  = Successor{{#if:{{{successors|}}}|s}}
+| data24   = {{if empty|{{{successor_line|}}}|{{{successors|}}}|{{{successor|}}}}}
+
+| header30 = {{#if:{{{gauge|}}}{{{old_gauge|}}}{{{electrification|{{{el|}}}}}}{{{length|}}}{{{linelength|}}}{{{routekm|}}}{{{tracklength|}}}{{{notrack|}}}{{{speed|}}}{{{elevation|}}}|Technical}}
+| label31  = [[Track gauge]]
+| data31   = {{{gauge|}}}
+| label32  = Previous gauge
+| data32   = {{{old_gauge|}}}
+| label33  = [[Railway electrification|Electrification]]
+| data33   = {{{electrification|{{{el|}}}}}}
+| label34  = Length
+| data34   = {{if empty|{{{length|}}}|{{{linelength|}}}|{{{routekm|}}}}}
+| label35   = Track length
+| data35    = {{{tracklength|}}}
+| label36   = {{abbr|No.|Number}} of tracks
+| data36    = {{{notrack|}}}
+| label37   = Operating speed
+| data37    = {{{speed|}}}
+| label38   = Highest elevation
+| data38    = {{{elevation|}}}
+
+| header41 = {{#if:{{{website|}}}{{{embedded|}}}|Other}}
+| label42  = Website
+| data42   = {{{website|}}}
+| data43   = {{{embedded|}}}
+
+| belowstyle  = vertical-align: middle; padding: 0
+| below       = {{#if:{{{routemap|{{{map|}}}}}}|
+<table style="border-spacing: 0; width: 100%; min-width: 100%" class="mw-collapsible {{#switch:{{{map_state|}}}
+ |1|yes|collapsed|hide = mw-collapsed autocollapse
+ |0|no|show|uncollapsed|#default = uncollapsed
+}}">
+<tr style="background-color: #efefef;"><th style="text-align:center"><div style="margin:0 4em">{{#if:{{{map_name|}}}|{{{map_name}}}|Route map}}</div></th></tr>
+<tr><td style="text-align:center; padding-top: 3px">
+{{{routemap|{{{map}}}}}}</td></tr>
+</table>}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox rail with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox rail]] with unknown parameter "_VALUE_"|ignoreblank=y| abbr | alt | caption | contract | concession | dates | defunct | el | electrification | elevation | embedded | end_year | fleet | founded | founders | franchise | gauge | headquarters | hq_city | image | image_alt | image_caption | image_filename | image_size | key_people | length | linelength | locale | logo | logo_alt | logo_filename | logo_size | map | map_alt | map_caption | map_name | map_size | map_state | marks | name | nameforarea | notrack | old_gauge | operator | other_name | parent_company | predecessor | predecessor_line | predecessors | railroad_name | regions | routekm | routemap | secregions | speed | start_year | stations | stationsop | subbox | successor | successor_line | successors | system_map | tracklength | website }}{{#invoke:Check for clobbered parameters|check
+| nested = 1
+| template = Infobox rail
+| cat = {{main other|Category:Pages using infobox rail with conflicting parameters}}
+| abbr; marks
+| alt; image_alt
+| caption; image_caption
+| defunct; end_year
+| el; electrification
+| founded; start_year
+| headquarters; hq_city
+| image; image_filename
+| logo; logo_filename
+| map; routemap
+| name; railroad_name
+}}<noinclude>
+{{documentation}}
+</noinclude>

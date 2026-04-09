@@ -1,0 +1,30 @@
+<includeonly>{{#ifeq:{{{2|}}}|#||&#35;}}{{#switch: {{{1}}}
+
+<!-- Matsubara -->
+| M = 006400
+| MR = 006400
+
+<!-- Other -->
+| HK = {{#switch: {{{2}}}
+  | H = 7FBE41 <!-- JR Hokkaido -->
+  | #default = 34B580 <!-- Hankyu Railway -->
+}}
+| HS = {{#switch: {{{2}}}
+  | H = E44550 <!-- JR Hokkaido -->
+  | #default = 00BFFF <!-- Hokuso Line -->
+}}
+| KK = 32CAE2
+<!--| MM = 0067C0-->
+| SL = FF69B4
+| SO = 041452 <!--Sagami Railway, aka Sōtetsu-->
+| SR = {{#switch: {{{2}}}
+  | A = 345CAA <!-- Saitama Railway -->
+  | #default = 008459 <!-- Shibayama Railway -->
+}}
+| TR = 0AAA3C
+| U  = 0065A6
+| WK  = 6D0023
+| TX = 000084
+| #default = 000000
+}}</includeonly><noinclude>
+{{documentation}}</noinclude>

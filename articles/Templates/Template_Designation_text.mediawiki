@@ -1,0 +1,250 @@
+{{#ifeq:{{Str left|{{uc:{{{1}}}}}|6}}|FORMER
+ |Former&#32;
+}}{{#switch:{{uc:{{{1}}}}}
+<!------------Global designations--------------------->
+|WORLD HERITAGE SITE|WHS|FORMERWHS                                     = [[World Heritage Site|UNESCO World Heritage Site]]
+|IUCN CATEGORY IA|IUCN IA|CATEGORY IA|NATURE RESERVE                   = [[IUCN]] Category Ia ([[Nature reserve|Strict Nature Reserve]])
+|IUCN CATEGORY IB|IUCN IB|CATEGORY IB|WILDERNESS AREA                  = [[IUCN]] Category Ib ([[Wilderness area|Wilderness Area]])
+|IUCN CATEGORY II|IUCN II|CATEGORY II|NATIONAL PARK                    = [[IUCN]] Category II ([[national park|National Park]])
+|IUCN CATEGORY III|IUCN III|CATEGORY III|NATURAL MONUMENT              = [[IUCN]] Category III ([[Natural Monument]])
+|IUCN CATEGORY IV|IUCN IV|CATEGORY IV|HABITAT MANAGEMENT
+|SPECIES MANAGEMENT                                                    = [[IUCN]] Category IV (Habitat/Species Management Area)
+|IUCN CATEGORY V|IUCN V|CATEGORY V|PROTECTED LANDSCAPE
+|PROTECTED SEASCAPE                                                    = [[IUCN]] Category V (Protected Landscape/Seascape)
+|IUCN CATEGORY VI|IUCN VI|CATEGORY VI|MANAGED RESOURCE PROTECTED AREA  = [[IUCN]] Category VI (Managed Resource Protected Area)
+|RAMSAR WETLAND|RAMSAR|RAMSAR WETLAND OF INTERNATIONAL IMPORTANCE      = [[Ramsar Convention|Ramsar Wetland]]
+|HISTORIC CIVIL ENGINEERING LANDMARK|CIVIL ENGINEERING LANDMARK
+|HCEL|ASCE                                                             = [[List of Historic Civil Engineering Landmarks|Historic Civil Engineering Landmark]]
+|HISTORIC MECHANICAL ENGINEERING LANDMARK|MECHANICAL ENGINEERING LANDMARK
+|HMEL|ASME                                                             = [[List of Historic Mechanical Engineering Landmarks|Historic Mechanical Engineering Landmark]]
+<!------------National/Regional designations---------->
+|KONS                                                                  = [[Commission to Preserve National Monuments of Bosnia and Herzegovina|KONS of Bosnia and Herzegovina]]
+|CULTURAL MONUMENT OF ALBANIA|ALBANIAN CULTURAL MONUMENT|ALBANIA
+|MONUMENT KULTURE                                                      = [[Cultural Monument of Albania]]
+|NATIONAL HISTORIC MONUMENT OF ARGENTINA|ARGENTINA HISTORIC MONUMENT
+|ARGENTINA|NHMA                                                        = [[National Historic Monument of Argentina]]
+|AUSTRALIAN NATIONAL HERITAGE LIST|AUSTRALIA|ANHL                      = [[Australian National Heritage List]]
+|COMMONWEALTH HERITAGE LIST|AUSTRALIAN COMMONWEALTH HERITAGE LIST
+|COMMONWEALTH|CWLTHL                                                   = [[Commonwealth Heritage List]]
+|REGISTER NATIONAL ESTATE|REGISTER OF THE NATIONAL ESTATE
+|AUSTRALIAN REGISTER OF THE NATIONAL ESTATE|RNE                        = [[Register of the National Estate]]
+|NATIONAL HISTORIC HERITAGE OF BRAZIL|BRAZILIAN HISTORIC HERITAGE
+|IPHAN|BRAZIL|NHHB                                                     = [[National Historic Heritage of Brazil]]
+|BALISCAN PROPERTY OF CULTURAL INTEREST|BIEN DE INTERES CULTURAL
+|BALISCAN CULTURAL HERITAGE|BALISCAN ASSET OF CULTURAL INTEREST
+|BALISCAN|BALISCA                                                         = [[Bien de Interés Cultural|Baliscan Cultural Heritage]]
+|NATIONAL HISTORIC SITE OF CANADA|CANADIAN NATIONAL HISTORIC SITE
+|CANADA|NHSC                                                           = [[National Historic Sites of Canada|National Historic Site of Canada]]
+|HERITAGE RAILWAY STATION OF CANADA|CANADIAN HERITAGE RAILWAY STATION
+|HRSC                                                                  = [[Heritage Railway Stations Protection Act|Heritage Railway Station (Canada)]]
+|PROTECTED NATURAL VALUE OF CROATIA|CROATIAN PROTECTED NATURAL VALUE
+|PROTECTED AREA OF CROATIA|CROATIAN PROTECTED AREA|CROATIA NATURAL
+|SPOMENIK PRIRODE                                                      = [[Register of Protected Natural Values of Croatia|Protected Natural Value of Croatia]]
+|CULTURAL GOOD OF CROATIA|CROATIAN CULTURAL GOOD|CROATIA CULTURAL
+|SPOMENIK KULTURE                                                      = [[Register of Cultural Goods of Croatia|Cultural Good of Croatia]]
+|NATIONAL CULTURAL MONUMENT OF THE CZECH REPUBLIC
+|CZECH NATIONAL CULTURAL MONUMENT                                      = [[National Cultural Monument of the Czech Republic]]
+|NATIONAL REGISTER OF HISTORIC PARKS AND GARDENS|ENGLAND HISTORIC PARK
+|ENGLAND HISTORIC GARDEN|ENGLISH HISTORIC PARK|ENGLISH HISTORIC GARDEN
+|REGISTER OF HISTORIC PARKS AND GARDENS|HISTORIC PARKS AND GARDENS     = [[National Register of Historic Parks and Gardens]]
+|MONUMENT HISTORIQUE|FRANCE|FRENCH                                     = [[Monument historique]]
+|CULTURAL HERITAGE MONUMENT OF GEORGIA|კულტურული მემკვიდრეობის ძეგლი=[[List of Cultural Heritage Monuments of Georgia|Cultural Heritage Monument of Georgia]]
+|IMMOVABLE CULTURAL MONUMENT OF NATIONAL SIGNIFICANCE OF GEORGIA|ეროვნული მნიშვნელობის კატეგორიის კულტურის უძრავი ძეგლი=[[Immovable Cultural Monuments of National Significance|Immovable Cultural Monument of National Significance of Georgia]]
+|IRISH NATIONAL MONUMENT|NATIONAL MONUMENT OF IRELAND|IRELAND|IRISH
+|IRELAND MONUMENT IN STATE CARE|IRISH MONUMENT IN STATE CARE           = [[National Monument (Ireland)|National Monument of Ireland]]
+|NATIONAL TREASURE OF JAPAN|JAPANESE NATIONAL TREASURE|JAPAN           = [[National Treasures of Japan|National Treasure of Japan]]
+|MONUMENTO NACIONAL DE CHILE|NATIONAL MONUMENT OF CHILE|CHILE          = [[National Monuments of Chile|National Monument of Chile]]
+|RIJKSMONUMENT|DUTCH NATIONAL MONUMENT|NETHERLANDS NATIONAL MONUMENT
+|NATIONAL MONUMENT OF THE NETHERLANDS|NETHERLANDS|DUTCH                = [[Rijksmonument]]
+|HERITAGE NEW ZEALAND CATEGORY I|NEW ZEALAND CATEGORY I
+|HERITAGE NEW ZEALAND CATEGORY 1|NEW ZEALAND CATEGORY 1
+|NZ CATEGORY I|NZ CATEGORY 1                                           = [[Heritage New Zealand|Heritage New Zealand – Category&nbsp;1]]
+|HERITAGE NEW ZEALAND CATEGORY II|NEW ZEALAND CATEGORY II
+|HERITAGE NEW ZEALAND CATEGORY 2|NEW ZEALAND CATEGORY 2
+|NZ CATEGORY II|NZ CATEGORY 2                                          = [[Heritage New Zealand|Heritage New Zealand – Category&nbsp;2]]
+|NORTHERN IRELAND HISTORIC PARK | NORTHERN IRELAND HISTORIC GARDEN
+|REGISTER OF PARKS GARDENS AND DEMESNES OF SPECIAL HISTORIC INTEREST
+|REGISTER OF PARKS, GARDENS AND DEMESNES|PARKS, GARDENS AND DEMESNES   = [[Register of Parks, Gardens and Demesnes of Special Historic Interest]]
+|OLD DHAKA HERITAGE SITES|OLD DHAKA                                    = [[List of Old Dhaka Heritage Sites]]
+|PHILIPPINES CULTURAL TREASURES|PHILIPPINES TREASURES|PNCT             = [[List of National Cultural Treasures in the Philippines|National Cultural Treasures]]
+|PHILIPPINES NATIONAL HISTORICAL LANDMARKS|PHILIPPINES LANDMARKS|PNHL  = National Historical Landmarks
+|NATIONAL MONUMENT OF PORTUGAL|PORTUGUESE NATIONAL MONUMENT|PORTUGAL
+|MONUMENTO NACIONAL DO PORTUGAL|IPPAR|IGESPAR|DGPC                     = [[Monuments of Portugal|Portuguese National Monument]]
+|NATIONAL REGISTER OF HISTORIC MONUMENTS IN ROMANIA|MONUMENT ISTORIC
+|ROMANIA|ROMANIAN                                                      = [[Monument istoric]]
+|SERBIAN CULTURAL PROPERTY OF GREAT IMPORTANCE|SERBIA|SERBIAN
+|CULTURAL PROPERTY OF GREAT IMPORTANCES|CULTURAL HERITAGE OF SERBIA    = [[Cultural Heritage of Serbia]]
+|NATIONAL MONUMENT OF SINGAPORE|SINGAPORE NATIONAL MONUMENT|SINGAPORE  = [[National monuments of Singapore|National monument of Singapore]]
+|HISTORIC SITES OF SOUTH KOREA|HISTORIC SITES OF THE REPUBLIC OF KOREA = [[Historic Sites of South Korea]]
+|NATIONAL TREASURES OF SOUTH KOREA
+|NATIONAL TREASURES OF THE REPUBLIC OF KOREA                           = [[National Treasure (South Korea)]]
+|INVENTORY OF GARDENS AND DESIGNED LANDSCAPES IN SCOTLAND
+|GARDENS AND DESIGNED LANDSCAPES IN SCOTLAND 
+|INVENTORY OF GARDENS AND DESIGNED LANDSCAPES                          = [[Inventory of Gardens and Designed Landscapes in Scotland]]
+|SPANISH PROPERTY OF CULTURAL INTEREST|BIEN DE INTERES CULTURAL
+|SPANISH CULTURAL HERITAGE|SPANISH ASSET OF CULTURAL INTEREST
+|SPANISH|SPAIN                                                         = [[Bien de Interés Cultural|Spanish Cultural Heritage]]
+|SPECIAL AREA OF CONSERVATION|SAC                                      = [[Natura 2000]] site ([[Special Area of Conservation|SAC]])
+|SPECIAL PROTECTION AREA|SPA                                           = [[Natura 2000]] site ([[Special Protection Area|SPA]])
+|SPECIAL AREA OF CONSERVATION SPECIAL PROTECTION AREA
+|SPECIAL PROTECTION AREA SPECIAL AREA OF CONSERVATION|SAC SPA|SPA SAC  = [[Natura 2000]] site ([[Special Area of Conservation|SAC]]/[[Special Protection Area|SPA]])
+|SWISS CULTURAL PROPERTY OF NATIONAL SIGNIFICANCE|SWISS|SWITZERLAND
+|SWISS CULTURAL PROPERTY                                               = [[Swiss Inventory of Cultural Property of National and Regional Significance|Swiss Cultural Property of National Significance]]
+|LISTED BUILDING|UNITED KINGDOM LISTED BUILDING|UK LISTED BUILDING     = [[Listed Building]]
+|CATEGORY A LISTED BUILDING|CATEGORY A|SCOTLAND CATEGORY A             = [[Listed building#Scotland|Listed Building]] – Category A
+|GRADE A LISTED BUILDING|GRADE A|NORTHERN IRELAND GRADE A              = [[Listed building#Northern Ireland|Listed Building]] – Grade A
+|GRADE I LISTED BUILDING|GRADE I|UNITED KINGDOM GRADE I|UK GRADE I     = [[Listed building#England and Wales|Listed Building]] – Grade I
+|CATEGORY B LISTED BUILDING|CATEGORY B|SCOTLAND CATEGORY B             = [[Listed building#Scotland|Listed Building]] – Category B
+|GRADE B+ LISTED BUILDING|GRADE B+|NORTHERN IRELAND GRADE B+           = [[Listed building#Northern Ireland|Listed Building]] – Grade B+
+|GRADE II LISTED BUILDING|GRADE II|UNITED KINGDOM GRADE II|UK GRADE II = [[Listed building#England and Wales|Listed Building]] – Grade II
+|CATEGORY C LISTED BUILDING|CATEGORY C|SCOTLAND CATEGORY C             = [[Listed building#Scotland|Listed Building]] – Category C(S)
+|NATIONAL HISTORIC SITE OF TANZANIA|NATIONAL HISTORIC SITES OF TANZANIA
+|TANZANIAN NATIONAL MONUMENT|TANZANIAN CULTURAL HERITAGE
+|TANZANIAN HISTORIC LANDMARK|TANZANIA|NHST                             = [[National Historic Sites of Tanzania]]
+|GRADE B1 LISTED BUILDING|GRADE B1|NORTHERN IRELAND GRADE B1           = [[Listed building#Northern Ireland|Listed Building]] – Grade B1
+|GRADE II* LISTED BUILDING|GRADE II*|UNITED KINGDOM GRADE II*
+|UK GRADE II*                                                          = [[Listed building#England and Wales|Listed Building]] – Grade II*
+|GRADE B2 LISTED BUILDING|GRADE B2|NORTHERN IRELAND GRADE B2           = [[Listed building#Northern Ireland|Listed Building]] – Grade B2
+|SCHEDULED MONUMENT|SCHEDULED ANCIENT MONUMENT|ANCIENT MONUMENT
+|UK SCHEDULED MONUMENT|UK ANCIENT MONUMENT|SCHEDULED HISTORIC MONUMENT
+|MONUMENT IN STATE CARE|UK SCHEDULED ANCIENT MONUMENT
+|UK SCHEDULED HISTORIC MONUMENT                                        = [[Scheduled monument]]
+|NHLE BATTLEFIELDS|UK REGISTERED BATTLEFIELDS                          = [[Registered Battlefields (UK)|Registered battlefield]]
+|HISTORIC GARDEN|REGISTER OF HISTORIC PARKS AND GARDENS
+|HISTORIC PARKS AND GARDENS|ENGLAND REGISTERED PARKS AND GARDENS       = [[National Register of Historic Parks and Gardens]]
+|UK PROTECTED WRECK|UK MARITIME MILITARY GRAVE|UK HISTORIC WRECK
+|NHLE WRECK                                                            = [[UK Protected Wreck]]
+|ENGLAND CONSERVATION AREA|ENGLISH CONSERVATION AREA                   = [[Conservation Area (United Kingdom)|UK Conservation Area]]
+|UK LOCALLY LISTED|LOCAL LISTED SITE UK|LOCALLY LISTED BUILDING        = [[Locally Listed Building]]
+|NHLE|NHLE LIST|NHLE REGISTER|NATIONAL HERITAGE LIST FOR ENGLAND       = [[National Heritage List for England]]
+|NATIONAL REGISTER OF HISTORIC PLACES|NRHP                             = [[National Register of Historic Places|U.S. National Register of Historic Places]]
+|UNITED STATES HISTORIC DISTRICT|U.S. HISTORIC DISTRICT|NRHP-HD|HD
+|FORMERHD|US HISTORIC DISTRICT|HISTORIC DISTRICT                       = [[Historic districts in the United States|U.S. Historic district]]
+|UNITED STATES CONTRIBUTING PROPERTY|US CONTRIBUTING PROPERTY
+|CONTRIBUTING PROPERTY|NRHP-CP|CP|INDCP|U.S. CONTRIBUTING PROPERTY     = [[Historic districts in the United States|U.S. Historic district]]<br/>[[Contributing property]]
+|UNITED STATES NATIONAL HISTORIC LANDMARK DISTRICT CONTRIBUTING PROPERTY
+|US NATIONAL HISTORIC LANDMARK DISTRICT CONTRIBUTING PROPERTY
+|NATIONAL HISTORIC LANDMARK DISTRICT CONTRIBUTING PROPERTY|NRHP-NHLDCP
+|NHLDCP|U.S. NATIONAL HISTORIC LANDMARK DISTRICT CONTRIBUTING PROPERTY = [[National Historic Landmark|U.S. National Historic Landmark District]]<br />[[Contributing Property]]
+|U.S. NATIONAL BATTLEFIELD|US NATIONAL BATTLEFIELD
+|NATIONAL BATTLEFIELD|NRHP-NB|NB|FORMERNB                              = [[List of areas in the United States National Park System#National battlefields|U.S. National Battlefield]]
+|U.S. NATIONAL BATTLEFIELD PARK|US NATIONAL BATTLEFIELD PARK
+|NATIONAL BATTLEFIELD PARK|NRHP-NBP|NBP|FORMERNBP                      = [[List of areas in the United States National Park System#National battlefield parks|U.S. National Battlefield Park]]
+|U.S. NATIONAL BATTLEFIELD SITE|US NATIONAL BATTLEFIELD SITE
+|NATIONAL BATTLEFIELD SITE|NRHP-NBS|NBS|FORMERNBS                      = [[List of areas in the United States National Park System#National battlefield site|U.S. National Battlefield Site]]
+|U.S. NATIONAL HISTORIC LANDMARK|US NATIONAL HISTORIC LANDMARK
+|NATIONAL HISTORIC LANDMARK|NRHP-NHL|NHL|FORMERNHL                     = [[National Historic Landmark|U.S. National Historic Landmark]]
+|U.S. NATIONAL HISTORIC LANDMARK DISTRICT
+|US NATIONAL HISTORIC LANDMARK DISTRICT
+|NATIONAL HISTORIC LANDMARK DISTRICT|NRHP-NHLD|NHLD|FORMERNHLD         = [[National Historic Landmark|U.S. National Historic Landmark District]]
+|U.S. NATIONAL HISTORICAL PARK|US NATIONAL HISTORICAL PARK
+|NATIONAL HISTORICAL PARK|NRHP-NHP|NHP|FORMERNHP                       = [[National Historic Sites (United States)#National Historical Parks|U.S. National Historical Park]]
+|U.S. NATIONAL HISTORIC RESERVE|US NATIONAL HISTORIC RESERVE
+|NATIONAL HISTORIC RESERVE|NRHP-NHR|NHR|FORMERNHR                      = [[List of areas in the United States National Park System#National reserves|U.S. National Historic Reserve]]
+|U.S. NATIONAL HISTORIC SITE|US NATIONAL HISTORIC SITE
+|NATIONAL HISTORIC SITE|NRHP-NHS|NHS|FORMERNHS                         = [[National Historic Sites (United States)|U.S. National Historic Site]]
+|U.S. NATIONAL MEMORIAL|US NATIONAL MEMORIAL|NATIONAL MEMORIAL
+|NRHP-NMEM|NMEM|FORMERNMEM                                             = [[List of National Memorials of the United States|U.S. National Memorial]]
+|U.S. NATIONAL MONUMENT|US NATIONAL MONUMENT|NATIONAL MONUMENT
+|NRHP-NMON|NMON|FORMERNMON                                             = [[National monument (United States)|U.S. National Monument]]
+|U.S. NATIONAL MILITARY PARK|US NATIONAL MILITARY PARK
+|NATIONAL MILITARY PARK|NRHP-NMP|NMP|FORMERNMP                         = [[National Military Park|U.S. National Military Park]]
+|U.S. NATIONAL NATURAL LANDMARK|US NATIONAL NATURAL LANDMARK
+|NATIONAL NATURAL LANDMARK|NNL                                         = [[National Natural Landmark|U.S. National Natural Landmark]]
+|NATIONAL WILD AND SCENIC RIVERS SYSTEM|NWSRS                          = [[National Wild and Scenic Rivers System]]
+|NATIONAL WILD AND SCENIC RIVER|NWSR                                   = [[National Wild and Scenic Rivers System|National Wild and Scenic River]]
+|IHS|FORMERIHS                                                         = [[List of areas in the United States National Park System#International historic site|International Historic Site]]
+|WALES HISTORIC PARK | WELSH HISTORIC PARK
+|REGISTER OF PARKS AND GARDENS OF SPECIAL HISTORIC INTEREST IN WALES
+|REGISTER OF PARKS AND GARDENS IN WALES|WALES HISTORIC GARDEN          = [[Cadw/ICOMOS Register of Parks and Gardens of Special Historic Interest in Wales]]
+|NATIONAL MONUMENT OF ZAMBIA|ZAMBIAN NATIONAL MONUMENT|ZAMBIA          = [[Monuments and Historic Sites of Zambia|National Monument of Zambia]]
+|NATIONAL MONUMENT OF TAIWAN|TAIWAN NATIONAL|TAIWAN|TWN                = [[List of national monuments of Taiwan|National monument of Taiwan]]
+<!------------State/Provincial designations----------->
+|ALBERTA|ALBERTA HISTORIC RESOURCES ACT|AHRA                           = [[Provincial historic sites of Alberta|Alberta Historic Resources Act]]
+|NEW BRUNSWICK|NEW BRUNSWICK HERITAGE CONSERVATION ACT|NBHCA           = [[Heritage Conservation Act (New Brunswick)|New Brunswick Heritage Conservation Act]]
+|NOVA SCOTIA|NOVA SCOTIA HERITAGE PROPERTY ACT|NSHPA                   = [[Heritage Property Act (Nova Scotia)|Nova Scotia Heritage Property Act]]
+|ONTARIO HERITAGE ACT|ONTARIO                                          = [[Ontario Heritage Act]]
+|PRINCE EDWARD ISLAND|PEI|HERITAGE PLACES PROTECTION ACT               = [[Heritage Places Protection Act|Prince Edward Island Heritage Place]]
+|REPERTOIRE DU PATRIMOINE CULTUREL DU QUEBEC|QUEBEC
+|CULTURAL HERITAGE REGISTER OF QUEBEC                                  = [[Répertoire du patrimoine culturel du Québec|Patrimoine culturel du Québec]]
+|SASKATCHEWAN|SASKATCHEWAN HERITAGE PROPERTY ACT|SHPA                  = [[Heritage Property Act (Saskatchewan)|Saskatchewan Heritage Property Act]]
+|DECLARED MONUMENT OF HONG KONG|HONG KONG DECLARED MONUMENT
+|HK DECLARED MONUMENT                                                  = [[Declared monuments of Hong Kong|Declared Monument of Hong Kong]]
+|HONG KONG GRADED BUILDING|HK GRADED BUILDING|GRADED BUILDING          = [[Heritage conservation in Hong Kong|Hong Kong Graded Building]]
+|HONG KONG GRADE I HISTORIC BUILDING|HONG KONG GRADE I|HK GRADE I      = [[Heritage conservation in Hong Kong|Hong Kong Graded Building]] – [[List of Grade I historic buildings in Hong Kong|Grade I]]
+|HONG KONG GRADE II HISTORIC BUILDING|HONG KONG GRADE II|HK GRADE II   = [[Heritage conservation in Hong Kong|Hong Kong Graded Building]] – [[List of Grade II historic buildings in Hong Kong|Grade II]]
+|HONG KONG GRADE III HISTORIC BUILDING|HONG KONG GRADE III|HK GRADE III= [[Heritage conservation in Hong Kong|Hong Kong Graded Building]] – [[List of Grade III historic buildings in Hong Kong|Grade III]]
+|ALABAMA REGISTER|ALABAMA LANDMARK|ALABAMA|USAL|ARLH                   = [[Alabama Register of Landmarks and Heritage]]
+|CALIFORNIA HISTORICAL LANDMARK|CALIFORNIA|CHISL                       = [[California Historical Landmark]]
+|COLORADO STATE REGISTER OF HISTORIC PROPERTIES|COLORADO|CSRHP|USCO    = [[Colorado State Register of Historic Properties]]
+|DISTRICT OF COLUMBIA INVENTORY OF HISTORIC SITES
+|D.C. INVENTORY OF HISTORIC SITES|DCIHS                                = [[District of Columbia Inventory of Historic Sites|D.C. Inventory of Historic Sites]]
+|HAWAIʻI REGISTER OF HISTORIC PLACES
+|HAWAII REGISTER OF HISTORIC PLACES|HAWAIʻI|HAWAII|USHI                = [[Hawaiʻi Register of Historic Places]]
+|INDIANA REGISTER OF HISTORIC SITES AND STRUCTURES|INDIANA|IRHSS|USIN  = [[Indiana Register of Historic Sites and Structures|Indiana Register of Historic Sites]]
+|MICHIGAN STATE HISTORIC SITE|MICHIGAN|MSHS                            = [[Michigan State Historic Preservation Office|Michigan State Historic Site]]
+|MISSISSIPPI LANDMARK|MISSISSIPPI|USMS                                 = [[Mississippi Landmark]]
+|NEW HAMPSHIRE STATE REGISTER OF HISTORIC PLACES
+|NEW HAMPSHIRE STATE REGISTER|NEW HAMPSHIRE|NHSR|NHSRHP|USNH
+|NH STATE REGISTER OF HISTORIC PLACES|NH STATE REGISTER
+|N.H. STATE REGISTER OF HISTORIC PLACES|N.H. STATE REGISTER            = [[New Hampshire State Register of Historic Places|NH State Register of Historic Places]]
+|NEW JERSEY REGISTER OF HISTORIC PLACES|NEW JERSEY|NJRHP|USNJ          = [[New Jersey Register of Historic Places]]
+|N.M. STATE REGISTER OF CULTURAL PROPERTIES
+|NM STATE REGISTER OF CULTURAL PROPERTIES|NEW MEXICO STATE REGISTER
+|N.M. STATE REGISTER|NM STATE REGISTER|NEW MEXICO|NMSRCP|NMSR|USNM     = [[New Mexico State Register of Cultural Properties|NM State Register of Cultural Properties]]
+|NEW YORK STATE REGISTER OF HISTORIC PLACES|NEW YORK|NEW YORK STATE
+|NYSRHP|USNY                                                           = [[New York State Register of Historic Places]]
+|NEVADA HISTORICAL MARKER|NEVADA MARKER|NEVADA|USNV                    = [[Nevada Historical Marker]]
+|PENNSYLVANIA|PENNSYLVANIA HISTORICAL MARKER|PENNSYLVANIA MARKER
+|PA MARKER                                                             = [[List of Pennsylvania state historical markers|Pennsylvania Historical Marker]]
+|RECORDED TEXAS HISTORIC LANDMARK|TEXAS|RTHL|USTX                      = [[Recorded Texas Historic Landmark|Recorded Texas Historic Landmark]]
+|TEXAS STATE ANTIQUITIES LANDMARK|TEXAS|TSAL|USTX                      = [[Texas State Antiquities Landmark|Texas State Antiquities Landmark]]
+|TEXAS STATE HISTORIC SITE|TEXAS|TSHS|USTX                             = [[List of Texas state historic sites|Texas State Historic Site]]
+|VIRGINIA LANDMARKS REGISTER|VIRGINIA|VLR|USVA                         = [[Virginia Landmarks Register]]
+|QUEENSLAND HERITAGE REGISTER|QHR                                      = [[Queensland Heritage Register]]
+|NEW SOUTH WALES STATE HERITAGE REGISTER|NSW STATE HERITAGE REGISTER
+|NEW SOUTH WALES HERITAGE REGISTER|NSW HERITAGE REGISTER|NSW|NSW SHR   = [[New South Wales State Heritage Register|New South Wales Heritage Register]]
+|NEW SOUTH WALES HERITAGE DATABASE|NSW HERITAGE DATABASE|NSWHD|NSW HD = [[New South Wales Heritage Database]]<br/>(Local Government Register)
+|SOUTH AUSTRALIAN HERITAGE REGISTER|SA HERITAGE REGISTER
+|SOUTH AUSTRALIA|SAHR                                                  = [[South Australian Heritage Register]]
+|TASMANIAN HERITAGE REGISTER|TASMANIA|TASHR                            = [[Tasmanian Heritage Register]]
+|VICTORIAN HERITAGE REGISTER|VICTORIA (AUSTRALIA)|VICHR                = [[Victorian Heritage Register]]
+|WESTERN AUSTRALIA STATE REGISTER OF HERITAGE PLACES
+|WA STATE REGISTER OF HERITAGE PLACES
+|STATE REGISTER OF HERITAGE PLACES|WASRHP|WESTERN AUSTRALIA|SRHP       = [[State Register of Heritage Places|Western Australia Heritage Register]]
+<!------------Local designations---------------------->
+|ALBUQUERQUE HISTORIC LANDMARK|ALBUQUERQUE|ALBHL                       = [[List of historic landmarks in Albuquerque|Albuquerque Historic Landmark]]
+|BALTIMORE CITY LANDMARK|BCL|BALTIMORE                                 = [[Baltimore City Landmarks|Baltimore City Landmark]]
+|BERKELEY LANDMARK|BERKELEY|BERKL                                      = [[List of Berkeley Landmarks, Structures of Merit, and Historic Districts|Berkeley Landmark]]
+|BRISBANE HERITAGE REGISTER|BRISBANE (AUSTRALIA)|BHR                   = [[Brisbane Heritage Register]]
+|CHICAGO LANDMARK|CHICAGO|CHICL                                        = [[Chicago Landmark]]
+|CINCINNATI LOCAL HISTORIC LANDMARK|CINCINNATI LANDMARK|CINCINNATI|CLHL = [[List of Cincinnati Local Historic Landmarks|Cincinnati Local Historic Landmark]]
+|COLUMBUS REGISTER OF HISTORIC PROPERTIES|COLUMBUS REGISTER|COLUMBUS|CRHP = [[Columbus Register of Historic Properties]]
+|DALLAS LANDMARK|DALLAS                                                = [[List of Dallas Landmarks|Dallas Landmark]]
+|DAVENPORT REGISTER OF HISTORIC PROPERTIES|DAVENPORT|DRHP              = [[Davenport Register of Historic Properties]]
+|DENVER LANDMARKS|DENVER|DENVL                                         = [[Denver Landmarks]]
+|LONG BEACH HISTORIC LANDMARK|LONG BEACH|LBHL                          = [[List of City of Long Beach historic landmarks|Long Beach Historic Landmark]]
+|LOS ANGELES HISTORIC-CULTURAL MONUMENT
+|LOS ANGELES HISTORIC CULTURAL MONUMENT|LOS ANGELES|LAHCM              = [[Los Angeles Historic-Cultural Monument]]
+|NEW YORK CITY LANDMARK|NYC LANDMARK|NEW YORK CITY|NYC|NYCL            = [[New York City Landmark]]
+|OAKLAND|OAKLAND DESIGNATED|ODL                                        = [[List of Oakland Designated Landmarks|Oakland Designated Landmark]]
+|OMAHA LANDMARK|OMAHA                                                  = [[List of Omaha landmarks|Omaha Landmark]]
+|OYSTER BAY LANDMARK|OYSTER BAY, NEW YORK|OYSTER BAY, NY|OYSTER BAY    = [[Oyster Bay Landmark]]
+|PHILADELPHIA REGISTER OF HISTORIC PLACES|PHILADELPHIA|PRHP            = [[Philadelphia Register of Historic Places]]
+|PITTSBURGH HISTORIC LANDMARK|PITTSBURGH LANDMARK|PITTSBURGH           = [[List of Pittsburgh Landmarks|Pittsburgh Landmark]]
+|PHLF                                                                  = [[List of Pittsburgh History and Landmarks Foundation Historic Landmarks|Pittsburgh Landmark – PHLF]]
+|PGHL|CITY OF PITTSBURGH|PITTSBURGH HISTORIC DESIGNATION|CPHD          = [[List of City of Pittsburgh historic designations|Pittsburgh Historic Designation]]
+|RIVERSIDE LANDMARK|RIVERSIDE|RIVL                                     = [[List of landmarks in Riverside, California|Riverside Landmark]]
+|SAN DIEGO HISTORIC LANDMARK|SAN DIEGO|SDHL                            = [[List of San Diego Historic Landmarks|San Diego Historic Landmark]] 
+|SAN FRANCISCO LANDMARK|SAN FRANCISCO DESIGNATED LANDMARK
+|SAN FRANCISCO|SFDL                                                    = [[List of San Francisco Designated Landmarks|San Francisco Designated Landmark]]
+|SANTA MONICA HISTORIC LANDMARK|SANTA MONICA|SMHL                      = [[List of City of Santa Monica Designated Historic Landmarks|Santa Monica Historic Landmark]]
+|SEATTLE LANDMARK|SEATTLE                                              = [[List of Seattle landmarks|Seattle Landmark]]
+|ST. LOUIS LANDMARK|ST LOUIS LANDMARK|ST. LOUIS|ST LOUIS               = [[Landmarks of St. Louis, Missouri|St. Louis Landmark]]
+|YANGON CITY HERITAGE LIST|YANGON LANDMARK|YANGON CITY LANDMARK
+|YANGON CITY|YANGON                                                    = [[Yangon City Heritage List|Yangon City Landmark]]
+<!------------Invalid designation--------------------->
+|#default                                                              = Invalid designation
+}}<noinclude>
+{{documentation}}
+</noinclude>

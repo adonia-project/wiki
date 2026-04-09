@@ -1,0 +1,117 @@
+{{Infobox
+| above  = {{br separated entries<!--
+  -->|{{#if:{{{name|}}}|{{{name}}}|<includeonly>{{PAGENAMEBASE}}</includeonly>}}<!--
+  -->|{{#if:{{{native_name|}}}|<div style="display:inline;" class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}<!--
+  -->}}
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{logo_size|{{{logosize|}}}}}}|sizedefault=frameless|alt={{{logo_alt|}}}}}
+| caption     = {{{logo_caption|}}}
+
+| image2      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{imagesize|}}}}}}|upright={{{image_upright|1.14}}}|sizedefault=250px|maxsize=325px|alt={{{alt|}}}}}
+| caption2    = {{{caption|}}}
+
+| label1      = Nickname
+| data1       = {{{nickname|}}}
+
+| label2      = Status
+| data2       = {{{status|}}}
+
+| label3      = Genre
+| data3       = {{{genre|}}}
+
+| label4      = {{#if:{{{dates|}}}|Dates|Date(s)}}
+| data4       = {{#if:{{{dates|}}}|{{{dates}}}|{{{date|}}}}}
+
+| label5      = Begins
+| data5       = {{{begins|}}}
+
+| label6      = Ends
+| data6       = {{{ends|}}}
+
+| label7      = Frequency
+| data7       = {{{frequency|}}}
+
+| label8      = Venue
+| data8       = {{{venue|}}}
+
+| label9      = Location(s)
+| data9       = {{{location|}}}
+
+| label10      = Coordinates
+| data10       = {{{coordinates|}}}
+
+| label11     = Country
+| data11      = {{{country|}}}
+
+| label12     = Years active
+| data12      = {{{years_active|}}}
+
+| label13     = {{#if:{{{established|}}}|Established|{{#if:{{{founded|}}}|Founded|Inaugurated}}}}
+| data13      = {{#if:{{{established|}}}|{{{established|}}}|{{#if:{{{founded|}}}|{{{founded|}}}|{{{first|}}}}}}}
+
+| label14     = {{#if:{{{founders|}}}|Founders|{{#if:{{{founder_title|}}}|{{{founder_title|}}}|Founder}}}}
+| data14      = {{#if:{{{founders|}}}|{{{founders|}}}|{{{founder_name|}}}}}
+
+| label15     = Most recent
+| data15      = {{{last|}}}
+
+| label16     = Previous event
+| data16      = {{{prev|}}}
+
+| label17     = Next event
+| data17      = {{{next|}}}
+
+| label18     = {{#if:{{{participants_title|}}}|{{{participants_title|}}}|Participants}}
+| data18      = {{{participants|}}}
+
+| label19     = Attendance
+| data19      = {{{attendance|}}}
+
+| label20     = Capacity
+| data20      = {{{capacity|}}}
+
+| label21     = Area
+| data21      = {{{area|}}}
+
+| label22     = Budget
+| data22      = {{{budget|}}}
+
+| label23     = {{#if:{{{events|}}}|Major events|Activity}}
+| data23      = {{#if:{{{events|}}}|{{{events|}}}|{{{activity|}}}}}
+
+| label24     = {{#if:{{{leader_title|}}}|{{{leader_title}}}|Leader}}
+| data24      = {{{leader_name|}}}
+
+| label25     = {{#if:{{{patrons|}}}|Patrons|Patron(s)}}
+| data25      = {{#if:{{{patrons|}}}|{{{patrons}}}|{{{patron|}}}}}
+
+| label26     = {{#if:{{{organizer|{{{organized|}}}}}}|Organized|Organised}} by
+| data26      = {{#if:{{{organizer|{{{organized|}}}}}}|{{{organizer|{{{organized}}}}}}|{{{organiser|{{{organised|}}}}}}}}
+
+| label27     = Filing&nbsp;status
+| data27      = {{{filing|}}}
+
+| label28     = People
+| data28      = {{{people|}}}
+
+| label29     = {{#if:{{{members|}}}|Members|Member}}
+| data29      = {{#if:{{{members|}}}|{{{members|}}}|{{{member|}}}}}
+
+| label30     = {{#if:{{{sponsors|}}}|Sponsors|Sponsor}}
+| data30      = {{#if:{{{sponsors|}}}|{{{sponsors|}}}|{{{sponsor|}}}}}
+
+| label31     = Prize money
+| data31      = {{{prize_money|}}}
+
+| label32     = {{{free_label}}}
+| data32      = {{#if:{{{free_label|}}}|{{{free_text|}}}}}
+
+| label33     = Website
+| data33      = {{#if:{{{homepage|{{{URL|}}}}}}|{{{homepage|{{{URL}}}}}}|{{{website|}}}}}
+
+| data34  = {{#if:{{{current|}}}{{{current_season|}}}|[[File:Current event clock.svg|15px|alt=|link=]] ''{{#if:{{{current|}}}|{{{current}}}|[[{{{current_season}}}]]}}''}}
+
+| below       = {{{footnotes|}}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using infobox recurring event with unknown parameters|_VALUE_{{PAGENAME}}]]}}|preview=Page using [[Template:Infobox recurring event]] with unknown parameter "_VALUE_"|ignoreblank=y| activity | alt | area | attendance | begins | budget | capacity | caption | coordinates | country | current | current_season | date | dates | ends | established | events | filing | first | footnotes | founded | founder_name | founder_title | founders | free_label | free_text | frequency | genre | homepage | image | image_size | imagesize | last | leader_name | leader_title | location | logo | logo_alt | logo_caption | logo_size | logosize | member | members | name | native_name | native_name_lang | next | nickname | organised | organiser | organized | organizer | participants | participants_title | patron | patrons | people | prev | prize_money | sponsor | sponsors | status | URL | venue | website | years_active }}<noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,101 @@
+/* Styles for geography infoboxes, eg countries,
+   country subdivisions, cities, etc.            */
+.ib-pol-div {
+	border-collapse: collapse;
+	line-height: 1.2em;
+	width: 23em;
+}
+
+/* TODO split definitions to appropriate class names when live from HTML element */
+.ib-pol-div td,
+.ib-pol-div th {
+	border-top: 1px solid #a2a9b1;
+	padding: 0.4em 0.6em 0.4em 0.6em;
+}
+
+/* TODO split definitions to appropriate class names when live from HTML element */
+.ib-pol-div .mergedtoprow .infobox-full-data,
+.ib-pol-div .mergedtoprow .infobox-header,
+.ib-pol-div .mergedtoprow .infobox-data,
+.ib-pol-div .mergedtoprow .infobox-label,
+.ib-pol-div .mergedtoprow .infobox-below {
+	border-top: 1px solid #a2a9b1;
+	padding: 0.4em 0.6em 0.2em 0.6em;
+}
+
+/* TODO split definitions to appropriate class names when live from HTML element */
+.ib-pol-div .mergedrow .infobox-full-data,
+.ib-pol-div .mergedrow .infobox-data,
+.ib-pol-div .mergedrow .infobox-label {
+	border: 0;
+	padding: 0 0.6em 0.2em 0.6em;
+}
+
+/* TODO split definitions to appropriate class names when live from HTML element */
+.ib-pol-div .mergedbottomrow .infobox-header,
+.ib-pol-div .mergedbottomrow .infobox-data,
+.ib-pol-div .mergedbottomrow .infobox-label {
+	border-top: 0;
+	border-bottom: 1px solid #a2a9b1;
+	padding: 0 0.6em 0.4em 0.6em;
+}
+
+.ib-pol-div .maptable {
+	border: 0;
+	padding: 0;
+}
+
+.ib-pol-div .infobox-header,
+.ib-pol-div .infobox-below {
+	text-align: left;
+}
+
+.ib-pol-div .infobox-above {
+	font-size: 1.25em;
+	line-height: 1.2em;
+}
+
+.ib-pol-div .infobox-subheader {
+	background-color: #cddeff;
+	font-weight: bold;
+}
+
+.ib-pol-div-native {
+	font-weight: normal;
+	padding-top: 0.25em;
+}
+
+.ib-pol-div-official-below {
+	font-weight: bold;
+}
+
+.ib-pol-div-other {
+	font-size: 78%;
+}
+
+.ib-pol-div-caption {
+	padding-top: 0.4em;
+}
+
+.ib-pol-div-nick,
+.ib-pol-div-motto {
+	display: inline;
+}
+
+.ib-pol-div-largest,
+.ib-pol-div-lang {
+	font-weight: normal;
+}
+
+.ib-pol-div-ethnic,
+.ib-pol-div-religion,
+.ib-pol-div-elevation {
+	display: inline;
+	font-weight: normal;
+}
+
+.ib-pol-div-fake-li {
+	text-indent: -0.9em;
+	margin-left: 1.2em;
+	font-weight: normal;
+}

@@ -1,0 +1,248 @@
+{| class="wikitable sortable collapsible {{{state|uncollapsed}}}" style="width:100%;"
+! colspan=4 | {{navbar-collapsible|'''Parameter options for <nowiki>{{convert}}</nowiki>'''|Convert/doc/parameter list}}
+|-
+! Parameter
+! Value
+! Description
+! Note
+|-
+|<code>&#124;abbr=in</code> || data-sort-value="in" | <code>in</code>
+| Use symbol for first (left-hand side) unit
+| Unit display
+|-
+|<code>&#124;abbr=off</code> || data-sort-value="off" | <code>off</code>
+| Use name for all units
+| Unit display
+|-
+|<code>&#124;abbr=on</code> || data-sort-value="on" | <code>on</code>
+| Use symbol for all units (default for {{tlx|cvt}})
+| Unit display
+|-
+|<code>&#124;abbr=out</code> || data-sort-value="out" | <code>out</code>
+| Use symbol for right-hand side unit (default)
+| Unit display
+|-
+|<code>&#124;abbr=unit</code> || data-sort-value="unit" | <code>unit</code>
+| Same as <code>abbr=on</code> but only for units (<code>e6km</code> → "million km")
+| Unit display
+|-
+|<code>&#124;abbr=values</code> || data-sort-value="values" | <code>values</code>
+| Show only the input and output numbers; omit units
+| Unit display
+|-
+|<code>&#124;abbr=~</code> || data-sort-value="~" | <code>~</code>
+| Shows both unit name and symbol for the input
+| Unit display
+|-
+|<code>&#124;adj=mid&#124;...</code> || data-sort-value="mid" | <code>mid</code>
+| User-specified text after the input unit; sets <code>adj=on</code> (adjectival); requires one unnamed parameter
+| Word adding, adjectival
+|-
+|<code>&#124;adj=on</code> || data-sort-value="on" | <code>on</code>
+| adjectival; unit name is singular and hyphenated
+| Grammar, adjectival
+|-
+|<code>&#124;adj=pre&#124;...</code> || data-sort-value="pre" | <code>pre</code>
+| User-specified text before input unit (prefix); requires one unnamed parameter
+| Word adding
+|-
+|<code>&#124;adj=ri0</code> || data-sort-value="ri0" | <code>ri0</code>
+| Round input with precision 0
+| Input precision
+|-
+|<code>&#124;adj=ri1</code> || data-sort-value="ri1" | <code>ri1</code>
+| Round input with precision 1
+| Input precision
+|-
+|<code>&#124;adj=ri2</code> || data-sort-value="ri2" | <code>ri2</code>
+| Round input with precision 2
+| Input precision
+|-
+|<code>&#124;adj=ri3</code> || data-sort-value="ri3" | <code>ri3</code>
+| Round input with precision 3
+| Input precision
+|-
+|<code>&#124;altitude_ft=''N''</code> || data-sort-value="altitude" | <code>''N''</code>
+| Specifies altitude in feet for a conversion with [[Mach number|mach]] as the input unit
+| Qualifier
+|-
+|<code>&#124;altitude_m=''N''</code> || data-sort-value="altitude" | <code>''N''</code>
+| Specifies altitude in metres for a conversion with [[Mach number|mach]] as the input unit
+| Qualifier
+|-
+|<code>&#124;comma=5</code> || data-sort-value="05" | <code>5</code>
+| Only use comma for thousands separator if 5 or more digits
+| Number format
+|-
+|<code>&#124;comma=gaps</code> || data-sort-value="gaps" | <code>gaps</code>
+| Use gaps (space), not comma, for thousands separator
+| Number format
+|-
+|<code>&#124;comma=off</code> || data-sort-value="off" | <code>off</code>
+| No thousands separator (raw number)
+| Number format
+|-
+|<code>&#124;disp=b</code> || data-sort-value="b" | <code>b</code>
+| Join input and output using "&nbsp;(...)" (default)
+| Join values
+|-
+|<code>&#124;disp=sqbr</code> || data-sort-value="sqbr" | <code>sqbr</code>
+| Join input and output using "&nbsp;[...]"
+| Join values
+|-
+|<code>&#124;disp=br</code> || data-sort-value="br" | <code>br</code>
+| Join input and output using "&lt;br&nbsp;/>"
+| Join values
+|-
+|<code>&#124;disp=br()</code> || data-sort-value="br" | <code>br</code>
+| Join input and output using "&lt;br&nbsp;/>(...)"
+| Join values
+|-
+|<code>&#124;disp=comma</code> || data-sort-value="comma" | <code>comma</code>
+| Join input and output using ",&nbsp;"
+| Join values
+|-
+|<code>&#124;disp=semicolon</code> || data-sort-value="semicolon" | <code>semicolon</code>
+| Join input and output using ";&nbsp;"
+| Join values
+|-
+|<code>&#124;disp=or</code> || data-sort-value="or" | <code>or</code>
+| Join input and output using "&nbsp;or&nbsp;"
+| Join values
+|-
+|<code>&#124;disp=(or)</code> || data-sort-value="or" | <code>or</code>
+| Join input and output using "&nbsp;(...)" but with "or" between outputs in a combination
+| Join values
+|-
+|<code>&#124;disp=number</code> || data-sort-value="number" | <code>number</code>
+| rowspan=2 | Display output number only
+| rowspan=2 | Parts only
+|-
+|<code>&#124;disp=output number only</code> || data-sort-value="output number only" | <code>output number only</code>
+|-
+|<code>&#124;disp=out</code> || data-sort-value="out" | <code>out</code>
+| rowspan=2 | Display only output number and name/symbol
+| rowspan=2 | Parts only
+|-
+|<code>&#124;disp=output only</code> || data-sort-value="output only" | <code>output only</code>
+|-
+|<code>&#124;disp=preunit&#124;...[&#124;...]</code> || data-sort-value="preunit" | <code>preunit</code>
+| Text to be inserted after value and before units, for both input and output, with optionally different text for output; requires 1 or 2 unnamed parameters
+| Word adding
+|-
+|<code>&#124;disp=table</code> || data-sort-value="table" | <code>table</code>
+| Output is suitable for a table cell with align="right"
+| Table columns
+|-
+|<code>&#124;disp=tablecen</code> || data-sort-value="tablecen" | <code>tablecen</code>
+| Output is suitable for a table cell with align="center"
+| Table columns
+|-
+|<code>&#124;disp=unit</code> || data-sort-value="unit" | <code>unit</code>
+| Display input name/symbol only (not input number, not output)
+| Parts only
+|-
+|<code>&#124;disp=unit2</code> || data-sort-value="unit2" | <code>unit2</code>
+| Display output name/symbol only (not input; not output number)
+| Parts only
+|-
+|<code>&#124;disp=x&#124;...</code> || data-sort-value="x" | <code>x</code>
+| Join input and output using one (or two) unnamed parameter(s) before (and after) the output
+| Word adding
+|-
+|<code>&#124;error=''x''</code> || data-sort-value="error" | <code>''any text''</code>
+| This has no effect if the conversion works; if a conversion error occurs, the result is ''x'' (and the original error message is suppressed)
+| Inside template
+|-
+|<code>&#124;frac=''N''</code> || data-sort-value="N" | <code>{{frac|3|4}}</code> {{small|1=(e.g.)}}
+| Show number as a fraction with denominator ''N''
+| Number format, fraction
+|-
+|<code>&#124;frac=''-N''</code> || data-sort-value="N" | <code>{{sfrac|3|4}}</code> {{small|1=(e.g.)}}
+| Show number as a fraction with a horizontal bar
+| Number format, fraction
+|-
+|<code>&#124;input=P2048</code> || data-sort-value="property P2048" | <code>P2048</code> {{small|1=(e.g.)}}
+| Reads and converts a Wikidata property
+| Inside template
+|-
+|<code>&#124;lk=in</code> || data-sort-value="in" | <code>in</code>
+| Link left-hand side unit name or symbol
+| Unit link
+|-
+|<code>&#124;lk=on</code> || data-sort-value="on" | <code>on</code>
+| Link all unit names or symbols (but not twice for the same unit)
+| Unit link
+|-
+|<code>&#124;lk=out</code> || data-sort-value="out" | <code>out</code>
+| Link right-hand side unit name or symbol
+| Unit link
+|-
+|<code>&#124;order=flip</code> || data-sort-value="flip" | <code>flip</code>
+| Swaps the order of the input and output measurements
+| Order
+|-
+|<code>&#124;order=out</code> || data-sort-value="out" | <code>out</code>
+| Displays output units in the order entered, skipping input unit
+| Order
+|-
+|<code>&#124;qid=Q1056131</code> || data-sort-value="qid Q1056131" | <code>Q1056131</code> {{small|1=(e.g.)}}
+| Specifies the Wikidata entity to be used with a property such as <code>input=P2048</code>
+| Inside template; testing
+|-
+|<code>&#124;qual=Q613628</code> || data-sort-value="qual Q613628" | <code>Q613628</code> {{small|1=(e.g.)}}
+| Specifies a statement qualifier for a Wikidata property
+| Qualify Wikidata property
+|-
+|<code>&#124;round=''N''</code> || data-sort-value="round" | <code>''N''</code>
+| Rounds output value to nearest ''N'' which can be <code>0.5</code> or <code>1</code> or <code>5</code> or <code>10</code> or <code>25</code> or <code>50</code>
+| Output precision
+|-
+|<code>&#124;round=each</code> || data-sort-value="round" | <code>each</code>
+| In a range, round each number separately rather than selecting the same rounding precision
+| Output precision
+|-
+|<code>&#124;sigfig=''N''</code> || data-sort-value="N" | <code>''N''</code>
+| Round output number to ''N'' significant figures (''N'' is a positive integer)
+| Output precision
+|-
+|<code>&#124;sortable=on</code> || data-sort-value="on" | <code>on</code>
+| Adds an invisible sort key
+| Table sort
+|-
+|<code>&#124;sp=us</code> || data-sort-value="us" | <code>us</code>
+| Use U.S. spelling ("meter" instead of default "metre")
+| Spelling U.S.&nbsp;names
+|-
+|<code>&#124;spell=in</code> || data-sort-value="in" | <code>in</code>
+| Spell input number in words
+| Spelling numbers
+|-
+|<code>&#124;spell=In</code> || data-sort-value="In" | <code>In</code>
+| Spell input number in words with first letter uppercase
+| Spelling numbers
+|-
+|<code>&#124;spell=on</code> || data-sort-value="on" | <code>on</code>
+| Spell input and output numbers in words
+| Spelling numbers
+|-
+|<code>&#124;spell=On</code> || data-sort-value="On" | <code>On</code>
+| Spell input and output numbers in words with first letter uppercase
+| Spelling numbers
+|-
+|<code>&#124;$=&euro;</code> || data-sort-value="&euro;" | <code>&euro;</code>
+| Replace $-sign with a currency sign, for example in <code>&euro;/hectare</code>
+| Cost per unit<br /> {{nowrap|No currency conversion happens}}
+|-
+|<code>&#124;debug=yes</code> || data-sort-value="yes" | <code>yes</code>
+| '''Debugging only'''. In a sortable table: show the normally hidden sort key
+| Table sort
+|-
+|<code>{{!mxt|1=&#124;disp=flip}}</code> || data-sort-value="flip" | <code>flip</code>
+| '''Deprecated'''. Use {{mxt|1=&#x7c;order=flip}}
+| Order
+|-
+|<code>{{!mxt|1=&#124;sing=}}</code> || data-sort-value="" |
+| '''Deprecated'''. Use {{mxt|1=&#x7c;adj=}}
+| Plurals
+|}

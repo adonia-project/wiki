@@ -1,0 +1,186 @@
+{{#ifeq:{{{noheader|}}}|yes||{{Documentation subpage}}
+==Usage==
+}}
+{{Lua|Module:Infobox|Module:InfoboxImage|Module:Check for unknown parameters}}
+===National military infobox===
+{{Parameter names example | country | native_name }}
+{{Parameter names example | name | native_name | image | image_size | alt | caption | image2 | image_size2 | alt2 | caption2 | motto | founded | current_form | disbanded | branches | headquarters | flying_hours | website | commander-in-chief | chief minister | minister | chief_of_staff | commander | commander-in-chief_title | chief minister_title | minister_title | chief_of_staff_title | commander_title | age | conscription | active | ranked | reserve | deployed | amount | percent_GDP | domestic_suppliers | foreign_suppliers | imports | exports | history | ranks }}
+
+A national military infobox may be used to summarize information about a country's military and armed forces. The infobox should be added using the {{tlx|infobox national military}} template, as shown below:
+
+<div style="width:450px;background:#dddddd;color:inherit;border: 1px solid black;padding:0.5em  1em 0.5em 1em"><syntaxhighlight lang="wikitext">
+{{Infobox national military
+| name               = <!-- or | country = -->
+| native_name        = <!-- {{native name||}} -->
+| image              = 
+| alt                = 
+| caption            = 
+| image2             = 
+| alt2               = 
+| caption2           = 
+| motto              = 
+| founded            = 
+| current_form       = 
+| disbanded          = 
+| branches           = 
+| headquarters       = 
+| flying_hours       = 
+| website            = <!--{{URL|example.mil}}-->
+<!-- Leadership -->
+| commander-in-chief = 
+| commander-in-chief_title = 
+| chief minister     = 
+| chief minister_title = 
+| minister           = 
+| minister_title     = 
+| chief_of_staff     = 
+| chief_of_staff_title = 
+| commander          = 
+| commander_title    = 
+<!-- Manpower -->
+| age                = 
+| conscription       = 
+| active             = 
+| ranked             = 
+| reserve            = 
+| deployed           = 
+<!-- Financial -->
+| amount             = 
+| percent_GDP        = 
+<!-- Industrial -->
+| domestic_suppliers = 
+| foreign_suppliers  = 
+| imports            = 
+| exports            = 
+<!-- Related articles -->
+| history            = 
+| ranks              = 
+}}
+</syntaxhighlight></div>
+{{clear}}
+
+===Parameters===
+'''Note''': When using parameters, avoid the ambiguous abbreviation "N/A", and instead use "unknown" or "none". All subjective or qualitative judgements and numerical quantities or statistics must be cited to a reliable source (see [[WP:MILMOS#CITE]]).
+
+* '''country''' &ndash; ''optional'' &ndash; The name of the country.
+* '''name''' &ndash; ''optional'' &ndash; The name of the country's armed forces, if different from "Military of Country".
+* '''native_name''' &ndash; ''optional'' &ndash; The name of the country's armed forces in that country's official language(s), if other than English.
+* '''image''' &ndash; ''optional'' &ndash; An image relevant to the county's armed forces. It should be given in the form <code>Example.jpg</code>.
+* '''image_size''' &ndash; ''optional'' &ndash; Used to override the default image size. It should be given in the form <code>300px</code>.
+* '''alt''' &ndash; ''optional'' &ndash; Alternative text for visually impaired users, see [[WP:ALT]].
+* '''caption''' &ndash; ''optional'' &ndash; The text to be placed below the image.
+* '''image2''' &ndash; ''optional'' &ndash; A secondary image relevant to the county's armed forces. It should be given in the form <code>Example.jpg</code>.
+* '''image_size2''' &ndash; ''optional'' &ndash; Used to override the default image size. It should be given in the form <code>300px</code>.
+* '''alt2''' &ndash; ''optional'' &ndash; Alternative text for visually impaired users, see [[WP:ALT]].
+* '''caption2''' &ndash; ''optional'' &ndash; The text to be placed below the secondary image.
+* '''founded''' &ndash; ''optional'' &ndash; The date when the armed forces were founded.
+* '''current_form''' &ndash; ''optional'' &ndash; In cases where the armed forces have undergone major reorganizations, the date when they took their current form.
+* '''disbanded''' &ndash; ''optional'' &ndash; The date when the armed force were disbanded.
+* '''branches''' &ndash; ''optional'' &ndash; The service branches (e.g. army, navy, air force, etc.) that comprise the armed forces.
+* '''headquarters''' &ndash; ''optional'' &ndash; The headquarters of the armed forces.
+* '''flying_hours''' &ndash; ''optional'' &ndash; The hours flown by the armed forces' air arm, if any.
+* '''website''' or '''url''' &ndash; ''optional'' &ndash; The official website, use {{tl|URL}}.
+
+Leadership parameters:
+* '''commander-in-chief''' &ndash; ''optional'' &ndash; The name of the ''formal'' commander-in-chief of the armed forces.
+* '''commander-in-chief_title''' &ndash; ''optional'' &ndash; The formal title of the commander-in-chief named above; this defaults to "[[Commander-in-Chief]]" if left blank.
+* '''chief minister''' &ndash; ''optional'' &ndash; The name of the person expected to be the supreme executive decision maker, to be used if the formal commander-in-chief is a [[figurehead]] or if that position is under normal circumstances expected to be nominal (e.g. in a [[constitutional monarchy]] or a [[parliamentary republic]]).
+* '''chief minister_title''' &ndash; ''optional'' &ndash; The formal title of the official named above; this defaults to "De facto leader" if left blank.
+* '''minister''' &ndash; ''optional'' &ndash; The name of the official (generally a civilian minister or secretary) responsible for all or most of the armed forces.
+* '''minister_title''' &ndash; ''optional'' &ndash; The formal title of the official named above; this defaults to "[[Ministry of defence]]" if left blank.
+* '''chief_of_staff''' &ndash; ''optional'' &ndash; The senior-most military officer in the Armed Forces and is the principal military advisor to the commander in chief.
+* '''chief_of_staff_title''' &ndash; ''optional'' &ndash; the formal title of the military officer named above; this defaults to "[[Chief of staff]]" if left blank.
+* '''commander''' &ndash; ''optional'' &ndash; The highest ranked career professional of the armed forces.
+* '''commander_title''' &ndash; ''optional'' &ndash; the formal title of the military officer named above; this defaults to "[[Chief of defence]]" if left blank.
+
+Manpower parameters:
+* '''age''' &ndash; ''optional'' &ndash; The minimum (and, if applicable, maximum) ages for military service.
+* '''conscription''' &ndash; ''optional'' &ndash; The conscription age and term.
+* '''active''' &ndash; ''optional'' &ndash; The total number of personnel currently in the country's armed forces.
+* '''ranked''' &ndash; ''optional'' &ndash; The ranking of the country on the [[list of countries by number of military and paramilitary personnel]] (e.g. "21st").
+* '''reserve''' &ndash; ''optional'' &ndash; The total number of reserve personnel in the country's armed forces.
+* '''deployed''' &ndash; ''optional'' &ndash; The total number of personnel currently deployed outside the country's borders.
+
+Financial parameters:
+* '''amount''' &ndash; ''optional'' &ndash; The country's total military expendiures.
+* '''percent_GDP''' &ndash; ''optional'' &ndash; The percent of the country's GDP spent on military expenditures.
+
+Industrial parameters:
+* '''domestic_suppliers''' &ndash; ''optional'' &ndash; The major domestic suppliers of equipment to the country's armed forces.
+* '''foreign_suppliers''' &ndash; ''optional'' &ndash; The major foreign suppliers of equipment to the country's armed forces; this may be either countries or more specific organizations.
+* '''imports''' &ndash; ''optional'' &ndash; The total value of annual military imports by the country.
+* '''exports''' &ndash; ''optional'' &ndash; The total value of annual military exports by the country.
+
+Related articles:
+* '''history''' &ndash; ''optional'' &ndash; Links to one or more articles about the country's military history.
+* '''ranks''' &ndash; ''optional'' &ndash; Links to one or more articles about the country's military ranks.
+
+==Example==
+{{Infobox national military
+| name               = Swiss Armed Forces
+| native_name        = {{ubl|{{native name|de|Schweizer Armee}}|{{native name|fr|Armée suisse}}|{{native name|it|Esercito svizzero}}|{{native name|rm|Armada svizra}}}}
+| image              = Armee CH logo.svg
+| alt                = Armee CH logo
+| current_form       = Army XXI
+| branches           = {{ubl|[[Swiss Armed Forces#Army history|Army]]|[[Swiss Air Force|Air Force]]}}
+| website            = {{URL|https://www.vtg.admin.ch/}}
+<!-- Leadership -->
+| commander-in-chief = Vacant in peacetime
+| commander-in-chief_title = [[General (Switzerland)|Commander-in-chief]]
+| minister           = [[Viola Amherd]]
+| minister_title     = [[Federal Department of Defence, Civil Protection and Sport|DDPS Minister]]
+| commander          = Lt Gen [[Thomas Süssli]]
+| commander_title    = [[Chief of the Armed Forces (Switzerland)|Chief of the Armed Forces]]
+<!-- Manpower -->
+| age                = 19 years of age for male compulsory military service; 18 years of age for voluntary male and female military service;
+| conscription       = {{ubl|19–34 years of age (males only)|36 for subaltern officers, 52 for staff officers and higher}}
+| active             = 140,304 (2019)
+| ranked             = 47th
+<!-- Financial -->
+| amount             = {{CHF|link=yes|5.12}} billion (~{{US$|5.27 billion}}, 2020)
+| percent_GDP        = 0.68% (2018)
+<!-- Related aricles -->
+| ranks              = [[Military ranks of the Swiss Armed Forces]]
+}}
+
+<syntaxhighlight lang="wikitext" style="overflow:auto;">
+{{Infobox national military
+| name               = Swiss Armed Forces
+| native_name        = {{ubl|{{native name|de|Schweizer Armee}}|{{native name|fr|Armée suisse}}|{{native name|it|Esercito svizzero}}|{{native name|rm|Armada svizra}}}}
+| image              = Armee CH logo.svg
+| alt                = Armee CH logo
+| current_form       = Army XXI
+| branches           = {{ubl|[[Swiss Armed Forces#Army history|Army]]|[[Swiss Air Force|Air Force]]}}
+| website            = {{URL|https://www.vtg.admin.ch/}}
+<!-- Leadership -->
+| commander-in-chief = Vacant in peacetime
+| commander-in-chief_title = [[General (Switzerland)|Commander-in-chief]]
+| minister           = [[Viola Amherd]]
+| minister_title     = [[Federal Department of Defence, Civil Protection and Sport|DDPS Minister]]
+| commander          = Lt Gen [[Thomas Süssli]]
+| commander_title    = [[Chief of the Armed Forces (Switzerland)|Chief of the Armed Forces]]
+<!-- Manpower -->
+| age                = 19 years of age for male compulsory military service; 18 years of age for voluntary male and female military service;
+| conscription       = {{ubl|19–34 years of age (males only)|36 for subaltern officers, 52 for staff officers and higher}}
+| active             = 140,304 (2019)
+| ranked             = 47th
+<!-- Financial -->
+| amount             = {{CHF|link=yes|5.12}} billion (~{{US$|5.27 billion}}, 2020)
+| percent_GDP        = 0.68% (2018)
+<!-- Related aricles -->
+| ranks              = [[Military ranks of the Swiss Armed Forces]]
+}}
+</syntaxhighlight>
+
+== Tracking categories ==
+{{Infobox tracking categories}}
+
+== See also ==
+{{Organization infoboxes}}
+
+<noinclude>
+[[Category:WikiProject Military history template instructions|National Military Infobox]]
+</noinclude><includeonly>{{Sandbox other||
+{{#ifeq:{{{noheader|}}}|yes||
+[[Category:Military infobox templates|National]]
+}}}}</includeonly>

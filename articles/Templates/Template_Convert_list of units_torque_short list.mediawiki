@@ -1,0 +1,53 @@
+<includeonly>
+====Torque====
+</includeonly>
+{| class="wikitable" style="margin-right:0"
+|- id=Torque
+|+ [[Torque]]<br /><small>([[:Template:Convert/list of units/torque|Full list]])</small>
+|-
+!system
+!unit
+!unit-<br />code
+! style="width:0; padding:0;" |
+!symbol or<br />abbrev.
+!notes
+!sample default<br />conversion
+!combination<br />output units
+|-
+| colspan=8 style="text-align:center;" |'''Industrial'''
+|-  style="text-align: center; vertical-align: top;"  |
+|'''SI'''
+{{convert/list of units/unitrow|Nm|place=top|unitrowspan=1|exrowspan=1|rowspan=3|note=Triple combinations are also possible. See the [[Template:Convert/list of units/torque|full list]].}}
+* Nm kg.m
+* Nm lb.ft
+|-  style="text-align: center; vertical-align: top;"  |
+|'''Non-SI metric'''
+{{convert/list of units/unitnonote|kg.m|place=top}}
+* kg.m Nm
+* kg.m lb.ft
+|-  style="text-align: center; vertical-align: top;"  |
+|'''Imperial<br />&<br />US customary'''
+{{convert/list of units/unitnonote|lb.ft|place=top}}
+* lb.ft Nm
+* lb.ft kg-m
+|-
+| colspan=8 style="text-align:center;" |'''Scientific'''
+|-  style="text-align: center; vertical-align: top;"  |
+|'''SI'''
+{{convert/list of units/unitrow|N.m|place=top|unitrowspan=1|exrowspan=1|rowspan=3|note=Triple combinations are also possible. See the [[Template:Convert/list of units/torque|full list]].}}
+* N.m kgf.m
+* N.m lbf.ft
+|-  style="text-align: center; vertical-align: top;"  |
+|'''Non-SI metric'''
+{{convert/list of units/unitnonote|kgf.m|place=top}}
+* kgf.m N.m
+* kgf.m lbf.ft
+|-  style="text-align: center; vertical-align: top;"  |
+|'''Imperial<br />&<br />US customary'''
+{{convert/list of units/unitnonote|lbf.ft|place=top}}
+* lbf.ft N.m
+* lbf.ft kgf.m
+|}
+<noinclude>
+[[Category:Subtemplates of Template Convert/documentation|list of units/torque/short list]]
+</noinclude>

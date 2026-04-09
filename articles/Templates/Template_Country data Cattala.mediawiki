@@ -1,0 +1,6 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Cattala
+| flag alias = Flag of Cattala.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+}}

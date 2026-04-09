@@ -1,0 +1,39 @@
+{{Infobox
+|above    = <includeonly>Languages of </includeonly>{{{country|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+|abovestyle = background-color:#efefef;
+|image    = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image size|300px}}}}}
+|caption  = {{{caption|}}}
+|label1   = [[Official language|Official]]
+|data1    = {{{official|}}}
+|label2   = Semi-official
+|data2    = {{{semi-official|}}}
+|label3   = [[National language|National]]
+|data3    = {{{national|}}}
+|label4   = Recognised
+|data4    = {{{unofficial|}}}
+|label5   = [[Main language|Main]]
+|data5    = {{{main|}}}
+|label6   = [[Indigenous language|Indigenous]]
+|data6    = {{{indigenous|}}}
+|label7   = [[Regional language|Regional]]
+|data7    = {{{regional|}}}
+|label8   = [[Vernacular]]
+|data8    = {{{vernacular|}}}
+|label9   = [[Minority language|Minority]]
+|data9    = {{{minority|}}}
+|label10  = Immigrant
+|data10   = {{{immigrant|}}}
+|label11  = [[Foreign language|Foreign]]
+|data11   = {{{foreign|}}}
+|label12  = [[Sign language|Signed]]
+|data12   = {{{sign|}}}
+|label13  = [[Keyboard&nbsp;layout]]
+|data13   = {{#if:{{{keyboard|}}}|<div style="margin: 0 auto; text-align: center;">{{{keyboard}}}<br/>{{#if:{{{keyboard image|}}}|{{{keyboard image}}}}}</div>}}
+|label14  = Source
+|data14   = {{{source|}}}
+|label15  = {{{extralabel|}}}
+|data15   = {{{extra|}}}
+}}<!--
+-->{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Pages using Infobox country languages with unknown parameters|_VALUE_]]}}|preview=unknown parameter "_VALUE_"| country | image | image size | caption | official | semi-official | national | unofficial | main | indigenous | regional | vernacular | minority | immigrant | foreign | sign | keyboard | keyboard image | source | extralabel | extra 
+}}<noinclude>
+{{Documentation}}</noinclude>

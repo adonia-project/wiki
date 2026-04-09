@@ -1,0 +1,9 @@
+{{country data {{{1|}}}
+|linkflag/core
+|name={{{name|{{{1|}}}}}}
+|variant={{{variant|{{{3|}}}}}}
+|size={{{size|}}}
+|altlink={{{link|{{{2|}}}}}}
+}}<noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,11 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = West Pacific
+| flag alias = Flag of the West Pacific.png
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 
+| redir1 = PSK
+</noinclude>
+}}

@@ -1,0 +1,6 @@
+<templatestyles src="Plain navboxes/styles.css" />
+<div class="PlainNavboxes">
+{{{content|}}}
+</div><noinclude>
+{{Documentation}}
+</noinclude>

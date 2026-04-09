@@ -1,0 +1,5 @@
+<noinclude>This shows a localized comma<span style="background:yellow"></noinclude><!--
+-->{{int:comma-separator/{{#if:{{{lang|}}}|{{{lang|}}}|{{int:lang}}}}}}<noinclude><!--
+--></span>with text immediately after it.
+{{Documentation}}
+</noinclude>

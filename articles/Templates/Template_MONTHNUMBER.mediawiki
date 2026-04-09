@@ -1,0 +1,27 @@
+<includeonly>{{safesubst:<noinclude/>#if:{{{1|}}}
+ |{{safesubst:<noinclude/>#switch:{{safesubst:<noinclude/>lc:{{{1}}}}}
+  |january|jan=1
+  |february|feb=2
+  |march|mar=3
+  |apr|april=4
+  |may=5
+  |june|jun=6
+  |july|jul=7
+  |august|aug=8
+  |september|sep|sept=9
+  |october|oct=10
+  |november|nov=11
+  |december|dec=12
+  |{{safesubst:<noinclude/>#ifexpr:{{{1}}}<0
+   |{{safesubst:<noinclude/>#ifexpr:(({{{1}}})round 0)!=({{{1}}})
+    |{{safesubst:<noinclude/>#expr:12-(((0.5-({{{1}}}))round 0)mod 12)}}
+    |{{safesubst:<noinclude/>#expr:12-(((11.5-({{{1}}}))round 0)mod 12)}}
+   }}
+  |{{safesubst:<noinclude/>#expr:(((10.5+{{{1}}})round 0)mod 12)+1}}
+  }}
+ }}
+ |Missing required parameter 1=''month''!
+}}</includeonly><noinclude>
+{{Documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

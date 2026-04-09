@@ -1,0 +1,8 @@
+<noinclude>{{Being deleted|2022 April 30|Template:Infobox ship begin|merge= Template:Infobox ship}}</noinclude><includeonly>{{WPMILHIST Infobox style|main_box}}
+{{#if:{{{infobox caption|}}}|{{!}}+{{#switch:{{{infobox caption}}}
+|yes={{#invoke:WPSHIPS_utilities|ship_name_format|name={{PAGENAME}} |adj=off |showerrs={{{showerrs|}}} |sclass={{{sclass|}}}}}<!-- set to 2 for non-italicized class name -->
+|nodab={{#invoke:WPSHIPS_utilities|ship_name_format|name={{PAGENAME}}|dab=none |showerrs={{{showerrs|}}} }}
+|#default={{{infobox caption}}}}}<!-- end switch -->}}{{#if:{{{display title|}}}|{{#switch:{{{display title}}}|
+|none=<!-- do nothing -->
+|ital={{italic title}}
+|#default={{DISPLAYTITLE:{{{display title}}}}}}}|{{DISPLAYTITLE:{{#invoke:WPSHIPS_utilities|ship_name_format|sclass={{{sclass|}}}|name={{FULLPAGENAME}}}}}}}}</includeonly><noinclude>{{documentation}}</noinclude>

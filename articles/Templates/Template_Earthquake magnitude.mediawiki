@@ -1,0 +1,341 @@
+<includeonly>{{replace|
+<!-- M: 2019-07-08 -->
+{{#if:{{{1|}}} <!-- [->end-if#1 -->
+ |<!-- Has a non-empty parameter: -->
+  {{#switch: {{{1|}}}<!-- [->end-switch (outer) -->
+    <!-- ------------------------------------ -->
+    | Magnitude  | magnitude = [[Seismic magnitude scales|{{{1|}}}]]<!-- No need to categorize common usage. -->
+    | M = [[Seismic magnitude scales|M]] {{Main other|[[Category:Articles using abbreviated captions for seismic magnitude]]}}<!-- but not for "m" -->
+    | Mag | Mag. | mag |mag. = [[Seismic magnitude scales|Mag.]] {{Main other|[[Category:Articles using abbreviated captions for seismic magnitude]]}}
+    <!-- ------------------------------------ -->
+    |<!-- Not a special case. DEFAULT: run the course. -->
+<!-- Big switch statement of magnitude types starts here: -->
+{{#switch: {{lc: {{{1}}}}} <!-- [->end-switch (inner) -->
+
+<!-- These first several cases are for preliminary or dubious cases.
+  They use {H:title} that creates the dotted underscore
+  to indicate they are doubtful and require attention. -->
+<!-- &#8239; is a non-breaking thin-space -->
+
+<!-- Unknown mag. scale -->
+|  ? = {{tooltip|2=Unknown mag. scale|M}}
+{{Main other|[[Category:Articles with unspecified earthquake magnitude and/or scale]]}}
+<!-- That's the "Main_other" template. Not "Main". -->
+
+<!-- Scale/mag. questioned -->
+| ?? = {{tooltip|2=Scale/mag. questioned|M}}
+{{Main other|[[Category:Articles with unverified magnitude and/or scale]]}}
+
+<!-- "Richter" questioned -->
+| r? = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#ML|{{tooltip|2=Richter mag. scale|M|dotted=no}}]]
+}}{{Main other|[[Category:Articles using dubious Richter magnitude scale]]}}
+
+<!-- ---------------------------------------------------
+  Section numbers refer to MNSOP-2 Chapter 3, and/or 
+  IASPEI/MNSOP-2 Information Sheet 3.
+  -->
+<!-- &#8239; is a "thin space" character -->
+<!-- Source says "unknown". -->
+| uk | unk | ukn | unknown  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Muk|{{tooltip|2=Unknown mag. scale|M<sub>uk</sub>|dotted=no}}]]
+ |M<sub>uk</sub>&#8239;
+}}{{Main other|[[Category:Articles using Muk magnitude scale]]}}
+
+<!-- §4.1 Local ("Richter") mag. -->
+| l  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#ML|{{tooltip|2='Local' mag. scale|M<sub>L</sub>|dotted=no}}]]
+ |M<sub>L</sub>&#8239;
+}}{{Main other|[[Category:Articles using ML magnitude scale]]}}
+
+<!-- §3.2.4.7 JMA -->
+| jma | j  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mjma|{{tooltip|2=JMA mag.|M<sub>JMA</sub>|dotted=no}}]]
+ |M<sub>JMA</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mjma magnitude scale]]}}
+
+<!-- SCSN "hand" label -->
+| h  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mh|{{tooltip|2=misc. mag.|M<sub>h</sub>|dotted=no}}]]
+ |M<sub>h</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mh for magnitude]]}}
+
+<!-- === Moment magnitude variants === -->
+<!-- § Scalar seismic moment (zero) -->
+<!-- Some sources do not italicise. "{ssub}" is "small" <sub>, closer to appearance in sources. -->
+| 0  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#M0|{{tooltip|2=Seismic moment|M{{Smallsub|0}}&#8239;|dotted=no}}]]
+ |M{{Smallsub|0}}&#8239;
+}}{{Main other|[[Category:Articles using seismic moment M0]]}}
+
+<!-- "{mvar}" applies CSS 'texhtml' styling, and italics. -->
+| 0tex  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#M0|{{tooltip|2=Seismic moment|{{mvar|M{{Smallsub|0}}}}&#8239;|dotted=no}}]]
+ |{{mvar|M{{Smallsub|0}}}}&#8239;
+}}{{Main other|[[Category:Articles using seismic moment M0]]}}
+
+<!-- Moment mag. dot: implicit w  -->
+| .  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mw|{{tooltip|2=Moment mag. scale|M|dotted=no}}]]
+ |M
+}}{{Main other|[[Category:Articles using implicit Mw magnitude scale]]}}
+
+<!-- §  §4.7 Moment mag.-->
+| w | mw = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mw|{{tooltip|2=Moment mag. scale|M<sub>w</sub>|dotted=no}}]]
+ |M<sub>w</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mw magnitude scale]]}}
+
+<!-- §  Mwp from P-waves -->
+| wp | mwp = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mwp|{{tooltip|2=Mw mag. from P-waves|M<sub>wp</sub>|dotted=no}}]]
+ |M<sub>wp</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mwp magnitude scale]]}}
+
+<!-- §3.2.8.3  Mwpd from P-waves -->
+| wpd | mwpd = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mwpd|{{tooltip|2=Mw mag. from P-wave duration|M<sub>wpd</sub>|dotted=no}}]]
+ |M<sub>wpd</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mwp magnitude scale with duration]]}}
+
+<!-- §  Mwb from body-waves -->
+| wb | mwb = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mwb|{{tooltip|2=Mw mag. from body-waves|M<sub>wb</sub>|dotted=no}}]]
+ |M<sub>wb</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mwb magnitude scale]]}}
+
+<!-- §  Mwc from centroid moment -->
+| wc | mwc = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mwc|{{tooltip|2=Mw mag. from centroid|M<sub>wc</sub>|dotted=no}}]]
+ |M<sub>wc</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mwc magnitude scale]]}}
+
+<!-- §  Mwr at regional distances -->
+| wr | mwr = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mwr|{{tooltip|2=Mw mag. at regional distance|M<sub>wr</sub>|dotted=no}}]]
+ |M<sub>wr</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mwr magnitude scale]]}}
+
+<!-- §3.2.8.6 Mww from W-phase centroid mom.-->
+| ww | mww = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mww|{{tooltip|2=Mw mag. from W-phase|M<sub>ww</sub>|dotted=no}}]]
+ |M<sub>ww</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mww magnitude scale]]}}
+
+<!-- === Surface wave variants === -->
+<!-- §3.2.5.1 §4.4 Surface-wave mag.  -->
+| s  = {{#ifeq: {{{1|}}} | S <!-- test if 's' was really 'S' -->
+   | <!-- MS: synonym for Ms_BB, or mis-capitalized M<s>. -->
+    {{#if:{{{link|}}}
+      |[[Seismic magnitude scales#Ms|{{tooltip|2=Surface-wave mag.|M<sub>S</sub>|dotted=no}}]]
+      |M<sub>S</sub>&#8239;
+    }}{{Main other|[[Category:Articles using MS magnitude scale]]}}
+
+   | <!-- Ms: Short-period surface-wave mag.; possibly syn. for Ms_20  -->
+    {{#if:{{{link|}}}
+      |[[Seismic magnitude scales#Ms|{{tooltip|2=Surface-wave mag.|M<sub>s</sub>|dotted=no}}]]
+      |M<sub>s</sub>&#8239;
+      }}{{Main other|[[Category:Articles using MS magnitude scale]]}}
+   }}<!-- endifeq -->
+
+<!-- §4.4 Gutenberg-Richter 1954 version of M<s> -->
+| gr  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mgr|{{tooltip|2=1954 Gutenberg-Richter mag.|M<sub>GR</sub>|dotted=no}}]]
+ |M<sub>GR</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mgr magnitude scale]]}}
+
+<!-- § §4.4 Surface-wave 20 sec. -->
+| s20 = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Ms|{{tooltip|2=Surface-wave mag.|M<sub>s20</sub>|dotted=no}}]]
+ |M<sub>s20</sub>&#8239;
+}}{{Main other|[[Category:Articles using Ms20 magnitude scale]]}}
+
+<!-- § §4.4 Surface-wave mag. -->
+| sbb = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Ms|{{tooltip|2=Surface-wave mag.|M<sub>sBB</sub>|dotted=no}}]]
+ |M<sub>sBB</sub>&#8239;
+}}{{Main other|[[Category:Articles using Msbb magnitude scale]]}}
+
+<!-- § Surface wave (vertical) -->
+| z  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mz|{{tooltip|2=Surface-wave vertical mag.|M<sub>z</sub>|dotted=no}}]]
+ |M<sub>z</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mz magnitude scale]]}}
+
+<!-- § Surface wave, Chinese -->
+| s7  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Ms7|{{tooltip|2=Chinese surface-wave mag.|M<sub>s7</sub>|dotted=no}}]]
+ |M<sub>s7</sub>&#8239;
+}}{{Main other|[[Category:Articles using Ms7 magnitude scale]]}}
+
+<!-- § Surface wave, Nuttli (1983) -->
+| sn  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Msn|{{tooltip|2=Nuttli surface-wave mag.|M<sub>sn</sub>|dotted=no}}]]
+ |M<sub>sn</sub>&#8239;
+}}{{Main other|[[Category:Articles using Msn magnitude scale]]}}
+
+<!-- Russian Ms scale. Not ML. -->
+| lh = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#MLH|{{tooltip|2=Russian ML scale|M<sub>LH</sub>|dotted=no}}]]
+ |M<sub>LH</sub>&#8239;
+}}{{Main other|[[Category:Articles using MLH magnitude scale]]}}
+
+<!-- § Vanek -->
+| V  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#MV|{{tooltip|2=Vanek mag.|M<sub>V</sub>|dotted=no}}]]
+ |M<sub>V</sub>&#8239;
+}}{{Main other|[[Category:M_V]]}}
+
+<!-- Averaged M<s> from Rothe 1969. Mentioned in Stover and Coffman 1993. -->
+| r  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#MR|{{tooltip|2=Rothe Ms mag.|M<sub>R</sub>|dotted=no}}]]
+ |M<sub>R</sub>&#8239;
+}}{{Main other|[[Category:Articles using Rothe magnitude scale]]}}
+
+<!-- === Body-wave variants === -->
+| b  = {{#ifeq: {{{1|}}}  <!-- test if 'b' was really 'B' -->
+<!-- §3.2.5.2 §4.3 mB Body-wave broadband mag. -->
+  |B
+   | {{#if:{{{link|}}}
+    |[[Seismic magnitude scales#mB|{{tooltip|2=Body-wave mag.|mB|dotted=no}}]]
+    |mB&#8239;
+    }}{{Main other|[[Category:Articles using mB magnitude scale]]}}
+   <!--  §4.3 mb Body-wave short-period mag. -->
+   | {{#if:{{{link|}}}    <!-- otherwise 'b' -->
+    |[[Seismic magnitude scales#mb|{{tooltip|2=Body-wave mag.|mb|dotted=no}}]]
+    |mb&#8239;
+    }}{{Main other|[[Category:Articles using mb magnitude scale]]}}
+  }}<!-- endif  -->
+
+<!-- 'bigb' code is an alternate -->
+<!-- §4.3 mB Body-wave broadband mag. -->
+| bigb = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#mB|{{tooltip|2=Body-wave mag.|mB|dotted=no}}]]
+ |mB&#8239;
+}}{{Main other|[[Category:Articles using mB magnitude scale]]}}
+
+<!-- §4.2 mBbb Body-wave broadband mag. -->
+| bbb = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#mB|{{tooltip|2=Body-wave mag.|mB<sub>BB</sub>|dotted=no}}]]
+ |mB<sub>BB</sub>&#8239;
+}}{{Main other|[[Category:Articles using mBbb magnitude scale]]}}
+
+<!-- §3.2.8.1 mBc Cumulative body-wave mag. -->
+| bc = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#mBc|{{tooltip|2=Cumulative body-wave mag.|mB<sub>c</sub>|dotted=no}}]]
+ |mB<sub>c</sub>&#8239;
+}}{{Main other|[[Category:Articles using mBc magnitude scale]]}}
+
+<!-- §3.2.4.4 §4.6 mbLg wave mag. -->
+| blg = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#mbLg|{{tooltip|2=Lg-wave mag.|mb<sub>Lg</sub>|dotted=no}}]]
+ |mb<sub>Lg</sub>&#8239;
+}}{{Main other|[[Category:Articles using MbLg magnitude scale]]}}
+
+<!-- §4.6 Nuttli (mbLg wave) mag. -->
+| n  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#mN|{{tooltip|2=Nuttli (mbLg) mag.|m<sub>N</sub>|dotted=no}}]]
+ |m<sub>N</sub>&#8239;
+}}{{Main other|[[Category:Articles using MbLg magnitude scale]]}}
+
+<!-- §3.2.4.5 Coda length mag. -->
+| c  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mc|{{tooltip|2=Coda length mag.|M<sub>c</sub>|dotted=no}}]]
+ |M<sub>c</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mc magnitude scale]]}}
+
+<!-- §3.2.4.5 Duration mag -->
+| d  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Md|{{tooltip|2=Duration mag.|M<sub>d</sub>|dotted=no}}]]
+ |M<sub>d</sub>&#8239;
+}}{{Main other|[[Category:Articles using Md magnitude scale]]}}
+
+<!-- §3.2.7.2 Energy mag. -->
+| e  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Me|{{tooltip|2=Energy mag. scale|M<sub>e</sub>|dotted=no}}]]
+ |M<sub>e</sub>&#8239;
+}}{{Main other|[[Category:Articles using Me magnitude scale]]}}
+
+<!-- §3.2.4.5 K-class mag. -->
+| k  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#MK|{{tooltip|2=K-class mag. scale|M<sub>(K)</sub>|dotted=no}}]]
+ |M<sub>(K)</sub>&#8239;
+}}{{Main other|[[Category:Articles using MK magnitude scale]]}}
+
+<!-- §3.2.6.7 tsunami mag. -->
+| t  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mt|{{tooltip|2=Tsunami mag. scale|M<sub>t</sub>|dotted=no}}]]
+ |M<sub>t</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mt magnitude scale]]}}
+
+<!-- §3.2.8.5 mantle mag. -->
+| m  = {{#ifeq: {{{1|}}} | m 
+ | {{#if: {{{link|}}}
+  |[[Seismic magnitude scales#Mm|{{tooltip|2=mantle mag. scale|M<sub>m</sub>|dotted=no}}]]
+  |M<sub>m</sub>&#8239;
+ }}
+ {{Main other|[[Category:Articles using Mm magnitude scale]]}}
+ |
+}}<!-- not "M" -->
+
+<!-- §3.2.6.6 macroseismic mag. -->
+| ms  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mms|{{tooltip|2=Macroseismic est. mag.|M<sub>ms</sub>|dotted=no}}]]
+ |M<sub>ms</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mms magnitude scale]]}}
+
+<!-- § 3.2.6.6 felt-area -->
+| fa  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mfa|{{tooltip|2=Felt-area est. mag.|M<sub>fa</sub>|dotted=no}}]]
+ |M<sub>fa</sub>&#8239;
+}}{{Main other|[[Category:Articles using Mfa magnitude scale]]}}
+
+<!-- Toppozada felt-area for Calif. -->
+| la  = {{#if:{{{link|}}}
+ |[[Seismic magnitude scales#Mla|{{tooltip|2=Felt-area est. mag.|M<sub><kbd>la</kbd></sub>|dotted=no}}]]
+ |M<sub><kbd>la</kbd></sub>&#8239;
+}}{{Main other|[[Category:Articles using Mla magnitude scale]]}}
+
+<!-- - I/i: two different cases -->
+| i  = {{#ifeq: {{{1|}}}  <!-- test if 'i' was really 'I' -->
+  <!-- "M<I>": Mag. from Intensity. Per Johnston 1996. -->
+  |I
+   | {{#if:{{{link|}}}
+    |[[Seismic magnitude scales#MI|{{tooltip|2=Mw mag. est. from intensity|M<sub><kbd>I</kbd></sub>|dotted=no}}]]
+    |M<sub><kbd>I</kbd></sub>&#8239;
+    }}{{Main other|[[Category:Articles using MI magnitude scale]]}}
+   <!--  Else "M<i>", apparently a USGS synonym for Mwp  -->
+   | {{#if:{{{link|}}}    
+    |[[Seismic magnitude scales#Mi|{{tooltip|2=Mw mag. from P-waves|M<sub><kbd>i</kbd></sub>|dotted=no}}]]
+    |M<sub><kbd>i</kbd></sub>&#8239;
+    }}{{Main other|[[Category:Articles using Mi magnitude scale]]}}
+  }}<!-- endif  -->
+
+<!-- test ------------------------------- -->
+| x = {{#if:{{{link|}}} 
+ |[[Seismic magnitude scales#Magnitude scales|M<sub>x</sub>]]
+ |M<sub>x</sub>&#8239;
+}}{{Main other|[[Category:Articles using M test magnitude scale]]}}
+<!-- ------------------------------------ -->
+
+|<!-- DEFAULT if no match found in inner switch. -->
+  {{red|&#91;[[:Template:M]] used with invalid code '<b>{{{1|}}}</b>'. See documentation.&#93;}}
+  {{Main other|[[Category:Articles with invalid magnitude scale identifiers]]}}
+}}<!-- end-switch (inner)] --><!--
+
+  Optional superscript source for catalog: 
+  -->{{#if:{{{src|}}}|<sup>({{{src}}})</sup>&#8239;}}<!--
+
+   Optional value or relation: 
+  -->{{#if:{{{2|}}}|{{replace|{{{2}}}| |&nbsp;}} }}
+
+ }}<!-- end-switch (outer)] -->
+
+ |<!-- if#1-false: no parameter -->
+ {{red|&#91;[[:Template:M]] used without a valid code. See documentation.&#93;}}
+ {{Main other|[[Category:Articles with missing magnitude scale identifiers]]}}
+}}<!-- end-if#1] -->
+|
+||}}<!-- end replace --></includeonly><noinclude>
+{{Documentation}}
+</noinclude>

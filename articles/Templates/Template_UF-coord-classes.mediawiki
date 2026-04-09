@@ -1,0 +1,39 @@
+To always display coordinates as DMS values, add this to [[Special:Mypage/common.css|your common.css]]:
+<syntaxhighlight lang="css" style="display:table; padding:0.5em; margin-left:1em; border-radius:2px">
+.geo-default { display: inline }
+.geo-nondefault { display: inline }
+.geo-dec { display: none }
+.geo-dms { display: inline }
+</syntaxhighlight>
+
+To always display coordinates as decimal values, add this to [[Special:Mypage/common.css|your common.css]]:
+<syntaxhighlight lang="css" style="display:table; padding:0.5em; margin-left:1em; border-radius:2px">
+.geo-default { display: inline }
+.geo-nondefault { display: inline }
+.geo-dec { display: inline }
+.geo-dms { display: none }
+</syntaxhighlight>
+
+To display coordinates in both formats, add this to [[Special:Mypage/common.css|your common.css]]:
+<syntaxhighlight lang="css" style="display:table; padding:0.5em; margin-left:1em; border-radius:2px">
+.geo-default { display: inline }
+.geo-nondefault { display: inline }
+.geo-dec { display: inline }
+.geo-dms { display: inline }
+.geo-multi-punct { display: inline }
+</syntaxhighlight>
+
+If CSS is disabled, or you have an old copy of [[MediaWiki:Common.css]] cached, you will see both formats. (You can either clear your cache or manually refresh this URL: {{Plain link|url=https://en.wikipedia.org/w/index.php?title=MediaWiki:Common.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=2678400}}.)
+
+To disable display of the blue globe adjacent to coordinates, add this to [[Special:Mypage/common.js|your common.js]]:
+<syntaxhighlight lang="javascript" style="display:table; padding:0.5em; margin-left:1em; border-radius:2px">
+var wma_settings = {enabled:false}
+</syntaxhighlight>
+Note that this will disable [[meta:WikiMiniAtlas|WikiMiniAtlas]].
+
+See also: {{section link|Wikipedia:Manual of Style/Dates and numbers|Geographical coordinates}}.<noinclude>
+
+[[Category:Coordinates templates]]
+[[Category:Microformat message templates]]
+[[Category:WikiProject Geographical coordinates|τ]]
+</noinclude>

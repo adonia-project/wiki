@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:Lang|xlit}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

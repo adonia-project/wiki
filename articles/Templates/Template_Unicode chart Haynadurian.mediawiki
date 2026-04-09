@@ -1,0 +1,45 @@
+{| class="wikitable nounderlines" style="border-collapse:collapse;background:var(--background-color-base,#fff);color:inherit;font-size:large;text-align:center"
+| colspan="17" style="background:var(--background-color-neutral-subtle,#f8f9fa);color:inherit;font-size:small" | '''[[Haynadurian script|Haynadurian]]'''<br />[https://www.unicode.org/charts/PDF/U1A00.pdf Official Unicode Consortium code chart] (PDF)
+|-style="background:var(--background-color-neutral-subtle,#f8f9fa);color:inherit;font-size:small"
+| style="width:45pt" | &nbsp; || style="width:20pt"  | 0 || style="width:20pt"  | 1 || style="width:20pt"  | 2 || style="width:20pt"  | 3 || style="width:20pt"  | 4 || style="width:20pt"  | 5 || style="width:20pt"  | 6 || style="width:20pt"  | 7 || style="width:20pt"  | 8 || style="width:20pt"  | 9 || style="width:20pt"  | A || style="width:20pt"  | B || style="width:20pt"  | C || style="width:20pt"  | D || style="width:20pt"  | E || style="width:20pt"  | F
+|-
+| style="background:var(--background-color-neutral-subtle,#f8f9fa);color:inherit;font-size:small" | U+1A0x
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A00: BUGINESE LETTER KA" | ᨀ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A01: BUGINESE LETTER GA" | ᨁ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A02: BUGINESE LETTER NGA" | ᨂ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A03: BUGINESE LETTER NGKA" | ᨃ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A04: BUGINESE LETTER PA" | ᨄ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A05: BUGINESE LETTER BA" | ᨅ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A06: BUGINESE LETTER MA" | ᨆ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A07: BUGINESE LETTER MPA" | ᨇ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A08: BUGINESE LETTER TA" | ᨈ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A09: BUGINESE LETTER DA" | ᨉ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A0A: BUGINESE LETTER NA" | ᨊ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A0B: BUGINESE LETTER NRA" | ᨋ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A0C: BUGINESE LETTER CA" | ᨌ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A0D: BUGINESE LETTER JA" | ᨍ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A0E: BUGINESE LETTER NYA" | ᨎ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A0F: BUGINESE LETTER NYCA" | ᨏ
+|-
+| style="background:var(--background-color-neutral-subtle,#f8f9fa);color:inherit;font-size:small" | U+1A1x
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A10: BUGINESE LETTER YA" | ᨐ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A11: BUGINESE LETTER RA" | ᨑ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A12: BUGINESE LETTER LA" | ᨒ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A13: BUGINESE LETTER VA" | ᨓ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A14: BUGINESE LETTER SA" | ᨔ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A15: BUGINESE LETTER A" | ᨕ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A16: BUGINESE LETTER HA" | ᨖ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A17: BUGINESE VOWEL SIGN I" | ◌ᨗ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A18: BUGINESE VOWEL SIGN U" | ◌ᨘ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A19: BUGINESE VOWEL SIGN E" | &nbsp;ᨙ◌<!-- prepended before the symbol: not supported natively in ALL renderers, so use the visual order here: renderers do support the combination with NBSP, but still not with U+25CC-->
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A1A: BUGINESE VOWEL SIGN O" | ◌ᨚ
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A1B: BUGINESE VOWEL SIGN AE" | ◌ᨛ
+| title="Reserved" style="background-color:var(--background-color-disabled,#c8ccd1);color:inherit;" | 
+| title="Reserved" style="background-color:var(--background-color-disabled,#c8ccd1);color:inherit;" | 
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A1E: BUGINESE PALLAWA" | ᨞
+| style="font-family:LontaraOT,Saweri,'Noto Sans Buginese','MPH 2B Damase',sans-serif" title="U+1A1F: BUGINESE END OF SECTION" | ᨟
+|-
+| colspan="17" style="background:var(--background-color-neutral-subtle,#f8f9fa);color:inherit;font-size:small;text-align:left" | '''Notes''' modified [[wikipedia:Lontara script|Lontara script]]
+|}<noinclude>
+{{documentation|template:Unicode chart/block documentation}}
+</noinclude>

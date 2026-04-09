@@ -1,0 +1,18 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Okaiken
+| flag alias = Flag of Okaiken.svg
+| flag alias-1968 = Flag of Okaiken (1968).svg
+| flag alias-1870 = Flag of Mitoyagi.svg
+| link alias-football = Okaiken national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1870
+| related1 = Mitoyagi Empire
+| var2 = 1968
+| related 2 = Federal Republic of Okaiken
+</noinclude>
+}}
