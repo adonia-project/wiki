@@ -21,17 +21,9 @@ fi
 # Ensure wiki-data directory exists
 mkdir -p "$WIKI_DATA"
 
-# Check if LocalSettings.php exists, copy from example if not
-if [ ! -f "$WIKI_DATA/LocalSettings.php" ]; then
-    echo "First run detected. Creating LocalSettings.php..."
-    if [ -f "$WIKI_DIR/LocalSettings.php.example" ]; then
-        cp "$WIKI_DIR/LocalSettings.php.example" "$WIKI_DATA/LocalSettings.php"
-        echo "Created LocalSettings.php from example."
-    else
-        echo "Error: LocalSettings.php.example not found"
-        exit 1
-    fi
-fi
+# DON'T create LocalSettings.php on first run
+# MediaWiki needs to show its web installer without LocalSettings.php
+# After user completes installation, they download LocalSettings.php
 
 # Recreate container to pick up new volume mounts
 echo "Recreating MediaWiki container..."
