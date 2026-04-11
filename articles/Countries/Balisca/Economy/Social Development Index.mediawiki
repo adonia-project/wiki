@@ -1,0 +1,45 @@
+{{Politics of Balisca}}The '''Social Development Index''' ({{lang-bl|Índex de desenvolupament social}}), also known as the '''Societal Well-being Index''' (SWI) to differentiate it from the international {{W|Social Progress Index}}, is an initiative of the [[Open Cabildo]] that measures the extent to which [[communes of Balisca|communal]], [[cantons of Balisca|cantonal]] and [[regions of Balisca|regional]] communities have addressed political, social and environmental challenges, their implementation of concepts such as [[W:Horizontalidad|''horizontalidad'']], and determining their response to [[W:Power distance|power distance]]. The twenty indicators in the areas of basic human needs, foundations of well-being, and opportunity to progress show the relative performance of each of Balisca's polities. It is closely related to the [[W:Degrowth|degrowth]] concept. 
+
+The SDI measures the well-being of a society by observing political, social and environmental outcomes directly rather than economic factors. The political, social and environmental factors include [[W:Human security|human security]] (including [[W:Food security|food security]], access to [[W:Reproductive care|reproductive]] and other forms [[W:Health care|health care]], adequate housing, etc), {{W|environmental conservation}}, political polarization, civic and social engagement, multilingualism, {{W|modal share}}, [[W:Post-work society|freedom from work]], sustainability, and public safety. 
+
+The SDI was adopted as a method for the determination of confederal initiatives and policies by the [[Bilal II Council|confederal administrative]] of [[Zavier Bilal]] in 2021.
+
+== Goals ==
+The Social Development Index seeks to replace economic measures such as the {{W|gross domestic product}} (GDP), which is widely criticized as an overall poor and misleading method of measuring social progress. The SDI instead focuses on collective well-being at a societal level, and asserts [[W:Life satisfaction|life satisfaction]] and {{W|social equity}} as the goal of governance rather than {{W|economic growth}}, by placing increased emphasis on development in the twenty identified aspects and three pillars of social development. According to the Baliscan government, the three pillars of the SDI are:
+#[[W:Freedom from want|Access to an adequate standard of living]]; 
+#{{W|Participatory democracy|Political participation}} and {{W|Consensus democracy|political consensus}};
+#''{{W|Sumak kawsay}}'' (alternatively called ''[[W:Socialism of the 21st century#Buen vivir|buen vivir]])''
+By focusing on ''outcomes'' rather than inputs or monetary values, the SDI seeks to reorient public policy away from economic growth (rejecting [[W:Market fundamentalism|market fundamentalism]] and ideas such as [[W:Green growth|green growth]], while asserting that infinite growth is impossible on a finite planet), and toward collective well-being and social equity as central aims of governance.
+
+==SDI Score Classification==
+
+{| class="wikitable" style="width:100%; text-align:left;"
+! style="background:#00589c; color:white;" | Score Range
+! style="background:#00589c; color:white;" | Classification
+! style="background:#00589c; color:white;" | Interpretation
+|-
+| style="background:#00589c; color:white;" | 220–250
+| style="background:#00589c; color:white;" | '''Exemplary'''
+| style="background:#00589c; color:white;" | Strong participatory systems, ecological stewardship, and comprehensive human security; model performance with deep integration of confederal values.
+|-
+| style="background:#227aa2; color:white;" | 190–219
+| style="background:#227aa2; color:white;" | '''Advanced'''
+| style="background:#227aa2; color:white;" | Broad success in implementing communal objectives and social infrastructure; occasional deficiencies in cohesion, equity, or sustainability.
+|-
+| style="background:#66b600; color:white;" | 160–189
+| style="background:#66b600; color:white;" | '''Satisfactory'''
+| style="background:#66b600; color:white;" | Most foundational needs met; moderate disparities or environmental concerns persist; scope for participatory deepening and targeted development.
+|-
+| style="background:#c2a600; color:white;" | 130-159
+| style="background:#c2a600; color:white;" | '''Vunerable'''
+| style="background:#c2a600; color:white;" | Significant weaknesses in participation, access, or ecological resilience; flagged for regional intervention and intercommunal support.
+|-
+| style="background:#a23c3c; color:white;" | Below 130
+| style="background:#a23c3c; color:white;" | '''Critical'''
+| style="background:#a23c3c; color:white;" | Systemic challenges across multiple domains; prioritized for immediate confederal coordination, relief, and long-term restructuring.
+|}
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Government and politics of Balisca]]

@@ -1,0 +1,525 @@
+{{Short description|None}}
+[[File:Image manquante 2.svg|thumb|351x351px|Map of Baliscan regions by HDI in 2025.<br />Caption:
+{{Legend|#003135|> 0.945}}
+{{Legend|#00726a|0.921 – 0.945}}
+{{Legend|#00bfac|0.900 – 0.920}}
+{{Legend|#ace8d4|< 0.900}}]]
+Introduced by the [[W:United Nations Development Programme|United Nations Development Programme]] (UNDP) in 1990, the [[Human Development Index]] (HDI) is a composite statistic of education, income and longevity indices, calculated in order to measure social and economic development within countries. It consists of a number between 0 and 1, comprising five tiers of [[W:Human development (humanity)|human development]]—very low, low, medium, high, or very high—wherein the development is considered higher when closer to 1. According to the latest ''[[W:Human Development Report|Human Development Report]]'', published in 2015 and reflecting data from 2014, [[Balisca]] placed [[W:List of countries by Human Development Index|30th]] among 210 countries with an HDI value of 0.881.
+
+In order to bring a human development perspective to the national level, the UNDP also created, in 1998, the ''[[W:National Human Development Report|Human Development Atlas in Balisca]]'', which calculates the HDI of all the Baliscan [[Brazil#Political subdivisions|administrative divisions]], based on data provided by the decennial censuses conducted by the [[Instituto Confederal de Stadística]] (ICS). Released in 2025, in partnership with the [[Institute of Applied Economic Research]] (IPEA) and COCO's [[Statistics Cooperative]] (Costat), the latest edition of the ''Human Development Atlas in Balisca'' shows that the average HDI of the Baliscan [[Regions of Balisca|regions]] grew by 22.8% from 2010 to 2025.
+
+Since the beginning of the statistical series in 1991, the [[Castejón|Castejón Metropolis]], which is the seat of the [[Confederal government of Balisca|confederal government]], has the highest HDI among the 44 regions of Balisca. It also topped every subindex composing the HDI, since its first calculation in 1991. According to the UNDP report, predominately urban regions (such as [[Carpinchera]] or [[Cadaqués]]) have the highest indicators, with most [[Communes of Balisca|communes]] registering high or very hight human development, while those in the ''[[Rural society in Balisca|Campo]]'' (especially in the more isolated [[Indigenous nations in Balisca|indigenous territories]]), achieve lower human development, albeit relatively high compared to international standards.
+
+== ''Human Development Atlas'' ==
+The methodology used by the UNDP to measure the HDI of all 57,681 [[Communes of Balisca|Baliscan communes]] and 44 bioregional units differs from that used for countries. Although it has the same three dimensions of the global HDI—education, income and longevity—it adapts the global methodology to the baliscan context and the availability of national indicators. Therefore, a comparison between regions and countries is discouraged and the numbers cannot be used as a parameter. The global report uses mean years of schooling and expected years of schooling to evaluate education, while the local report utilizes schooling of the adult population and school flow of young people. In the case of income, while the global report uses [[W:Gross National Income|GNI]] per capita ([[Purchasing power parity|PPP]] [[United States dollar|USD]]), the local report makes use of the communal income per capita ([[Baliscan sol|BLS]]). As for longevity, both use life expectancy at birth as indicator.
+{| 
+| valign="top" |
+<!--- ABBREVIATIONS TABLE BEGINS --->
+;Abbreviations
+{| cellspacing="0" cellpadding="0"
+| <div style="width: 30px; height: 15px; background-color: #ECECEC; border:1px solid darkgray; text-align: center">'''HDI'''</div>
+|[[Human Development Index]]
+|-
+| <div style="width: 30px; height: 15px; background-color: #ECECEC; border:1px solid darkgray; text-align: center">'''E'''</div>
+| [[Education index]]
+|-
+| <div style="width: 30px; height: 15px; background-color: #ECECEC; border:1px solid darkgray; text-align: center">'''I'''</div>
+| Income index
+|-
+| <div style="width: 30px; height: 15px; background-color: #ECECEC; border:1px solid darkgray; text-align: center">'''L'''</div>
+| Longevity index
+|}
+<!--- ABBREVIATIONS TABLE ENDS --->
+| valign="top" |
+;Legend
+<!--- LEGEND TABLE BEGINS --->
+{| cellspacing="0" cellpadding="0"
+| {{Color box|#D5E5FF|0.800–1.000 |border=darkgray}}
+| Very high human development
+|-
+| {{Color box|#E3F4D7|0.700–0.799 |border=darkgray}}
+| High human development
+|-
+| {{Color box|#FFF6D5|0.600–0.699 |border=darkgray}}
+| Medium human development
+|-
+| {{Color box|#FFE6D5|0.500–0.599 |border=darkgray}}
+| Low human development
+|-
+| {{Color box|#FFD5D5|0.000–0.499 |border=darkgray}}
+| Very low human development
+|}
+<!--- LEGEND TABLE ENDS --->
+|}
+{| class="wikitable sortable plainrowheaders" style="padding: 0px; margin-bottom: 0px; margin-left: 0px; text-align: center; font-size: 90%"
+|+List of Baliscan regions according to Human Development Index and its subindices of Education, Income and Longevity
+! colspan="2" style="background-color: white; border-top: 1px solid transparent; border-left: 1px solid transparent" | <br />
+! colspan="4" | 2025
+! colspan="4" | 2010
+! colspan="4" | 2000
+! colspan="4" | 1991
+|-
+! scope="col" class="unsortable" | Rank
+! scope="col" | Region
+!HDI
+!E
+!I
+!L
+! scope="col" | HDI
+! scope="col" | E
+! scope="col" | I
+! scope="col" | L
+! scope="col" | HDI
+! scope="col" | E
+! scope="col" | I
+! scope="col" | L
+! scope="col" | HDI
+! scope="col" | E
+! scope="col" | I
+! scope="col" | L
+|-
+| 1
+! scope="row" style="text-align: left" | {{anchor|Castejón}} {{flag|Castejón}}
+| style="background-color: #d5e5ff" |{{nts|0.966}}
+|0.959
+|0.939
+|0.979
+| style="background-color: #d5e5ff" | {{nts|0.900}} || {{nts|0.893}} || {{nts|0.871}} || {{nts|0.910}}
+| style="background-color: #d5e5ff" | {{nts|0.868}} || {{nts|0.870}} || {{nts|0.839}} || {{nts|0.880}}
+| style="background-color: #d5e5ff" | {{nts|0.819}} || {{nts|0.820}} || {{nts|0.794}} || {{nts|0.826}}
+|-
+| 2
+! scope="row" style="text-align: left" | {{anchor|Arcadia}} {{flag|Arcadia}}
+| style="background-color: #d5e5ff" |{{nts|0.945}}
+|0.949
+|0.921
+|0.955
+| style="background-color: #d5e5ff" | {{nts|0.896}} || {{nts|0.913}} || {{nts|0.870}} || {{nts|0.901}}
+| style="background-color: #d5e5ff" | {{nts|0.862}} || {{nts|0.866}} || {{nts|0.829}} || {{nts|0.877}}
+| style="background-color: #d5e5ff" | {{nts|0.815}} || {{nts|0.821}} || {{nts|0.793}} || {{nts|0.825}}
+|-
+| 3
+! scope="row" style="text-align: left" | {{anchor|Jaguarundi}} {{flag|Luzamontaña}}
+| style="background-color: #d5e5ff" |{{nts|0.932}}
+|0.939
+|0.900
+|0.940
+| style="background-color: #d5e5ff" | {{nts|0.892}} || {{nts|0.899}} || {{nts|0.861}} || {{nts|0.902}}
+| style="background-color: #d5e5ff" | {{nts|0.858}} || {{nts|0.869}} || {{nts|0.826}} || {{nts|0.873}}
+| style="background-color: #d5e5ff" | {{nts|0.814}} || {{nts|0.819}} || {{nts|0.788}} || {{nts|0.826}}
+|-
+| 4
+! scope="row" style="text-align: left" | {{anchor|Dríadas}} {{flag|Dríadas}}
+| style="background-color: #d5e5ff" |{{nts|0.930}}
+|0.945
+|0.897
+|0.939
+| style="background-color: #d5e5ff" | {{nts|0.891}} || {{nts|0.899}} || {{nts|0.854}} || {{nts|0.901}}
+| style="background-color: #d5e5ff" | {{nts|0.858}} || {{nts|0.861}} || {{nts|0.825}} || {{nts|0.874}}
+| style="background-color: #d5e5ff" | {{nts|0.812}} || {{nts|0.823}} || {{nts|0.792}} || {{nts|0.823}}
+|-
+| 5
+! scope="row" style="text-align: left" | {{anchor|Acacias}} {{flag|Acacias}}
+| style="background-color: #d5e5ff" |{{nts|0.928}}
+|0.938
+|0.896
+|0.939
+| style="background-color: #d5e5ff" | {{nts|0.892}} || {{nts|0.896}} || {{nts|0.857}} || {{nts|0.902}}
+| style="background-color: #d5e5ff" | {{nts|0.860}} || {{nts|0.862}} || {{nts|0.828}} || {{nts|0.874}}
+| style="background-color: #d5e5ff" | {{nts|0.812}} || {{nts|0.818}} || {{nts|0.785}} || {{nts|0.822}}
+|-
+| 6
+! scope="row" style="text-align: left" | {{anchor|Muntanya}} {{flag|Muntanya}}
+| style="background-color: #d5e5ff" |{{nts|0.928}}
+|0.933
+|0.899
+|0.935
+| style="background-color: #d5e5ff" | {{nts|0.891}} || {{nts|0.899}} || {{nts|0.861}} || {{nts|0.900}}
+| style="background-color: #d5e5ff" | {{nts|0.858}} || {{nts|0.867}} || {{nts|0.824}} || {{nts|0.873}}
+| style="background-color: #d5e5ff" | {{nts|0.811}} || {{nts|0.823}} || {{nts|0.791}} || {{nts|0.824}}
+|-
+| 7
+! scope="row" style="text-align: left" | {{anchor|Cadaqués}} {{flag|Cadaqués}}
+| style="background-color: #d5e5ff" |{{nts|0.925}}
+|0.927
+|0.889
+|0.932
+| style="background-color: #d5e5ff" | {{nts|0.887}} || {{nts|0.891}} || {{nts|0.853}} || {{nts|0.895}}
+| style="background-color: #d5e5ff" | {{nts|0.855}} || {{nts|0.858}} || {{nts|0.820}} || {{nts|0.870}}
+| style="background-color: #d5e5ff" | {{nts|0.810}} || {{nts|0.824}} || {{nts|0.792}} || {{nts|0.825}}
+|-
+| 8
+! scope="row" style="text-align: left" | {{anchor|Tukupi}} {{flag|Tukupi}}
+| style="background-color: #d5e5ff" |{{nts|0.924}}
+|0.936
+|0.892
+|0.932
+| style="background-color: #d5e5ff" | {{nts|0.895}} || {{nts|0.903}} || {{nts|0.875}} || {{nts|0.906}}
+| style="background-color: #d5e5ff" | {{nts|0.865}} || {{nts|0.869}} || {{nts|0.832}} || {{nts|0.878}}
+| style="background-color: #d5e5ff" | {{nts|0.816}} || {{nts|0.829}} || {{nts|0.801}} || {{nts|0.827}}
+|-
+| 9
+! scope="row" style="text-align: left" | {{anchor|Catanduva}} {{flag|Catanduva}}
+| style="background-color: #d5e5ff" |{{nts|0.923}}
+|0.919
+|0.890
+|0.930
+| style="background-color: #d5e5ff" | {{nts|0.892}} || {{nts|0.907}} || {{nts|0.868}} || {{nts|0.904}}
+| style="background-color: #d5e5ff" | {{nts|0.864}} || {{nts|0.872}} || {{nts|0.833}} || {{nts|0.878}}
+| style="background-color: #d5e5ff" | {{nts|0.817}} || {{nts|0.829}} || {{nts|0.801}} || {{nts|0.825}}
+|-
+| 10
+! scope="row" style="text-align: left" | {{anchor|Canyars}} {{flag|Canyars}}
+| style="background-color: #d5e5ff" |{{nts|0.921}}
+|0.924
+|0.886
+|0.927
+| style="background-color: #d5e5ff" | {{nts|0.888}} || {{nts|0.891}} || {{nts|0.855}} || {{nts|0.892}}
+| style="background-color: #d5e5ff" | {{nts|0.856}} || {{nts|0.868}} || {{nts|0.825}} || {{nts|0.868}}
+| style="background-color: #d5e5ff" | {{nts|0.812}} || {{nts|0.823}} || {{nts|0.792}} || {{nts|0.821}}
+|-
+| 11
+! scope="row" style="text-align: left" | {{anchor|Las Peñas}} {{flag|Las Peñas}}
+| style="background-color: #d5e5ff" |{{nts|0.918}}
+|0.924
+|0.880
+|0.926
+| style="background-color: #d5e5ff" | {{nts|0.886}} || {{nts|0.892}} || {{nts|0.855}} || {{nts|0.898}}
+| style="background-color: #d5e5ff" | {{nts|0.852}} || {{nts|0.858}} || {{nts|0.820}} || {{nts|0.862}}
+| style="background-color: #d5e5ff" | {{nts|0.804}} || {{nts|0.812}} || {{nts|0.783}} || {{nts|0.815}}
+|-
+| 12
+! scope="row" style="text-align: left" | {{anchor|Las Serras}} {{flag|Las Serras}}
+| style="background-color: #d5e5ff" |{{nts|0.916}}
+|0.920
+|0.882
+|0.922
+| style="background-color: #d5e5ff" | {{nts|0.885}} || {{nts|0.890}} || {{nts|0.851}} || {{nts|0.895}}
+| style="background-color: #d5e5ff" | {{nts|0.851}} || {{nts|0.858}} || {{nts|0.819}} || {{nts|0.860}}
+| style="background-color: #d5e5ff" | {{nts|0.803}} || {{nts|0.812}} || {{nts|0.781}} || {{nts|0.815}}
+|-
+| 13
+! scope="row" style="text-align: left" | {{anchor|Abellesia}} {{flag|Abellesia}}
+| style="background-color: #d5e5ff" |{{nts|0.914}}
+|0.924
+|0.886
+|0.921
+| style="background-color: #d5e5ff" | {{nts|0.889}} || {{nts|0.899}} || {{nts|0.862}} || {{nts|0.901}}
+| style="background-color: #d5e5ff" | {{nts|0.860}} || {{nts|0.872}} || {{nts|0.825}} || {{nts|0.873}}
+| style="background-color: #d5e5ff" | {{nts|0.809}} || {{nts|0.820}} || {{nts|0.788}} || {{nts|0.820}}
+|-
+| 14
+! scope="row" style="text-align: left" | {{anchor|Carpinchera}} {{flag|Carpinchera}}
+| style="background-color: #d5e5ff" |{{nts|0.914}}
+|0.926
+|0.886
+|0.918
+| style="background-color: #d5e5ff" | {{nts|0.885}} || {{nts|0.898}} || {{nts|0.861}} || {{nts|0.888}}
+| style="background-color: #d5e5ff" | {{nts|0.853}} || {{nts|0.869}} || {{nts|0.825}} || {{nts|0.870}}
+| style="background-color: #d5e5ff" | {{nts|0.807}} || {{nts|0.818}} || {{nts|0.786}} || {{nts|0.816}}
+|-
+| 15
+! scope="row" style="text-align: left" | {{anchor|Sicania}} {{flag|Sicania}}
+| style="background-color: #d5e5ff" |{{nts|0.914}}
+|0.920
+|0.882
+|0.917
+| style="background-color: #d5e5ff" | {{nts|0.887}} || {{nts|0.900}} || {{nts|0.872}} || {{nts|0.895}}
+| style="background-color: #d5e5ff" | {{nts|0.857}} || {{nts|0.861}} || {{nts|0.827}} || {{nts|0.870}}
+| style="background-color: #d5e5ff" | {{nts|0.808}} || {{nts|0.818}} || {{nts|0.787}} || {{nts|0.821}}
+|-
+| 16
+! scope="row" style="text-align: left" | {{anchor|Basilisco}} {{flag|Basilisco}}
+| style="background-color: #d5e5ff" |{{nts|0.912}}
+|0.921
+|0.882
+|0.919
+| style="background-color: #d5e5ff" | {{nts|0.883}} || {{nts|0.885}} || {{nts|0.860}} || {{nts|0.894}}
+| style="background-color: #d5e5ff" | {{nts|0.852}} || {{nts|0.855}} || {{nts|0.821}} || {{nts|0.868}}
+| style="background-color: #e3f4d7" | {{nts|0.786}} || {{nts|0.795}} || {{nts|0.762}} || {{nts|0.797}}
+|-
+| 17
+! scope="row" style="text-align: left" | {{anchor|Campostella}} {{flag|Campostella}}
+| style="background-color: #d5e5ff" |{{nts|0.912}}
+|0.929
+|0.880
+|0.913
+| style="background-color: #d5e5ff" | {{nts|0.882}} || {{nts|0.891}} || {{nts|0.858}} || {{nts|0.891}}
+| style="background-color: #d5e5ff" | {{nts|0.855}} || {{nts|0.865}} || {{nts|0.823}} || {{nts|0.867}}
+| style="background-color: #e3f4d7" | {{nts|0.787}} || {{nts|0.795}} || {{nts|0.765}} || {{nts|0.796}}
+|-
+| 18
+! scope="row" style="text-align: left" | {{anchor|Xaraba}} {{flag|Xaraba}}
+| style="background-color: #d5e5ff" |{{nts|0.912}}
+|0.909
+|0.882
+|0.918
+| style="background-color: #d5e5ff" | {{nts|0.889}} || {{nts|0.892}} || {{nts|0.865}} || {{nts|0.904}}
+| style="background-color: #d5e5ff" | {{nts|0.859}} || {{nts|0.861}} || {{nts|0.824}} || {{nts|0.869}}
+| style="background-color: #e3f4d7" | {{nts|0.788}} || {{nts|0.795}} || {{nts|0.764}} || {{nts|0.800}}
+|-
+| 19
+! scope="row" style="text-align: left" | {{anchor|Mesopotàmia}} {{flag|Mesopotàmia}}
+| style="background-color: #d5e5ff" |{{nts|0.910}}
+|0.903
+|0.881
+|0.912
+| style="background-color: #d5e5ff" | {{nts|0.881}} || {{nts|0.897}} || {{nts|0.861}} || {{nts|0.891}}
+| style="background-color: #d5e5ff" | {{nts|0.853}} || {{nts|0.860}} || {{nts|0.825}} || {{nts|0.867}}
+| style="background-color: #e3f4d7" | {{nts|0.786}} || {{nts|0.798}} || {{nts|0.767}} || {{nts|0.798}}
+|-
+| 20
+! scope="row" style="text-align: left" | {{anchor|Piedmont}} {{flag|Piedmont}}
+| style="background-color: #d5e5ff" |{{nts|0.910}}
+|0.918
+|0.876
+|0.915
+| style="background-color: #d5e5ff" | {{nts|0.872}} || {{nts|0.886}} || {{nts|0.848}} || {{nts|0.887}}
+| style="background-color: #d5e5ff" | {{nts|0.843}} || {{nts|0.851}} || {{nts|0.815}} || {{nts|0.861}}
+| style="background-color: #e3f4d7" | {{nts|0.781}} || {{nts|0.790}} || {{nts|0.757}} || {{nts|0.792}}
+|-
+| 21
+! scope="row" style="text-align: left" | {{anchor|Trás-os-Montes}} {{flag|Trás-as-Montanyas}}
+| style="background-color: #d5e5ff" |{{nts|0.910}}
+|0.914
+|0.879
+|0.914
+| style="background-color: #d5e5ff" | {{nts|0.884}} || {{nts|0.897}} || {{nts|0.860}} || {{nts|0.896}}
+| style="background-color: #d5e5ff" | {{nts|0.853}} || {{nts|0.861}} || {{nts|0.826}} || {{nts|0.867}}
+| style="background-color: #e3f4d7" | {{nts|0.785}} || {{nts|0.799}} || {{nts|0.767}} || {{nts|0.795}}
+|-
+| 22
+! scope="row" style="text-align: left" | {{anchor|Aprica}} {{flag|Aprica}}
+| style="background-color: #d5e5ff" |{{nts|0.909}}
+|0.919
+|0.878
+|0.916
+| style="background-color: #d5e5ff" | {{nts|0.887}} || {{nts|0.892}} || {{nts|0.867}} || {{nts|0.897}}
+| style="background-color: #d5e5ff" | {{nts|0.856}} || {{nts|0.862}} || {{nts|0.825}} || {{nts|0.869}}
+| style="background-color: #e3f4d7" | {{nts|0.785}} || {{nts|0.791}} || {{nts|0.758}} || {{nts|0.796}}
+|-
+| 23
+! scope="row" style="text-align: left" | {{anchor|Máfil}} {{flag|Máfil}}
+| style="background-color: #d5e5ff" |{{nts|0.908}}
+|0.914
+|0.875
+|0.918
+| style="background-color: #d5e5ff" | {{nts|0.883}} || {{nts|0.887}} || {{nts|0.849}} || {{nts|0.890}}
+| style="background-color: #d5e5ff" | {{nts|0.851}} || {{nts|0.858}} || {{nts|0.819}} || {{nts|0.865}}
+| style="background-color: #e3f4d7" | {{nts|0.782}} || {{nts|0.791}} || {{nts|0.758}} || {{nts|0.792}}
+|-
+| 24
+! scope="row" style="text-align: left" | {{anchor|Provence}} {{flag|Provence}}
+| style="background-color: #d5e5ff" |{{nts|0.907}}
+|0.916
+|0.880
+|0.910
+| style="background-color: #d5e5ff" | {{nts|0.878}} || {{nts|0.886}} || {{nts|0.851}} || {{nts|0.878}}
+| style="background-color: #d5e5ff" | {{nts|0.847}} || {{nts|0.859}} || {{nts|0.822}} || {{nts|0.859}}
+| style="background-color: #e3f4d7" | {{nts|0.780}} || {{nts|0.789}} || {{nts|0.757}} || {{nts|0.792}}
+|-
+| 25
+! scope="row" style="text-align: left" | {{anchor|Vitacura}} {{flag|Vitacura}}
+| style="background-color: #d5e5ff" |{{nts|0.907}}
+|0.920
+|0.874
+|0.916
+| style="background-color: #d5e5ff" | {{nts|0.878}} || {{nts|0.889}} || {{nts|0.850}} || {{nts|0.882}}
+| style="background-color: #d5e5ff" | {{nts|0.850}} || {{nts|0.857}} || {{nts|0.822}} || {{nts|0.860}}
+| style="background-color: #e3f4d7" | {{nts|0.782}} || {{nts|0.790}} || {{nts|0.757}} || {{nts|0.796}}
+|-
+| 26
+! scope="row" style="text-align: left" | {{anchor|Antüko}} {{flag|Antüko}}
+| style="background-color: #d5e5ff" |{{nts|0.906}}
+|0.920
+|0.870
+|0.910
+| style="background-color: #d5e5ff" | {{nts|0.877}} || {{nts|0.889}} || {{nts|0.854}} || {{nts|0.880}}
+| style="background-color: #d5e5ff" | {{nts|0.847}} || {{nts|0.855}} || {{nts|0.821}} || {{nts|0.861}}
+| style="background-color: #e3f4d7" | {{nts|0.777}} || {{nts|0.786}} || {{nts|0.753}} || {{nts|0.791}}
+|-
+| 27
+! scope="row" style="text-align: left" | {{anchor|Guarapiranga}} {{flag|Guarapiranga}}
+| style="background-color: #d5e5ff" |{{nts|0.906}}
+|0.904
+|0.872
+|0.910
+| style="background-color: #d5e5ff" | {{nts|0.878}} || {{nts|0.889}} || {{nts|0.855}} || {{nts|0.879}}
+| style="background-color: #d5e5ff" | {{nts|0.850}} || {{nts|0.854}} || {{nts|0.819}} || {{nts|0.863}}
+| style="background-color: #e3f4d7" | {{nts|0.777}} || {{nts|0.788}} || {{nts|0.756}} || {{nts|0.791}}
+|-
+| 28
+! scope="row" style="text-align: left" | {{anchor|Juyú}} {{flag|Juyú}}
+| style="background-color: #d5e5ff" |{{nts|0.906}}
+|0.909
+|0.877
+|0.910
+| style="background-color: #d5e5ff" | {{nts|0.877}} || {{nts|0.893}} || {{nts|0.858}} || {{nts|0.881}}
+| style="background-color: #d5e5ff" | {{nts|0.848}} || {{nts|0.855}} || {{nts|0.821}} || {{nts|0.862}}
+| style="background-color: #e3f4d7" | {{nts|0.779}} || {{nts|0.787}} || {{nts|0.754}} || {{nts|0.790}}
+|-
+| 29
+! scope="row" style="text-align: left" | {{anchor|Llaragón}} {{flag|Llaragón}}
+| style="background-color: #d5e5ff" |{{nts|0.906}}
+|0.921
+|0.880
+|0.913
+| style="background-color: #d5e5ff" | {{nts|0.878}} || {{nts|0.889}} || {{nts|0.856}} || {{nts|0.883}}
+| style="background-color: #d5e5ff" | {{nts|0.849}} || {{nts|0.858}} || {{nts|0.821}} || {{nts|0.864}}
+| style="background-color: #e3f4d7" | {{nts|0.777}} || {{nts|0.786}} || {{nts|0.755}} || {{nts|0.792}}
+|-
+| 30
+! scope="row" style="text-align: left" | {{anchor|Jaguarundi}} {{flag|Jaguarundi}}
+| style="background-color: #d5e5ff" |{{nts|0.906}}
+|0.905
+|0.879
+|0.918
+| style="background-color: #d5e5ff" | {{nts|0.874}} || {{nts|0.891}} || {{nts|0.857}} || {{nts|0.881}}
+| style="background-color: #d5e5ff" | {{nts|0.846}} || {{nts|0.860}} || {{nts|0.822}} || {{nts|0.862}}
+| style="background-color: #e3f4d7" | {{nts|0.776}} || {{nts|0.786}} || {{nts|0.754}} || {{nts|0.792}}
+|-
+| 31
+! scope="row" style="text-align: left" | {{anchor|Hibiscara}} {{flag|Hibiscara}}
+| style="background-color: #d5e5ff" |{{nts|0.903}}
+|0.918
+|0.872
+|0.913
+| style="background-color: #d5e5ff" | {{nts|0.876}} || {{nts|0.892}} || {{nts|0.858}} || {{nts|0.880}}
+| style="background-color: #d5e5ff" | {{nts|0.847}} || {{nts|0.857}} || {{nts|0.820}} || {{nts|0.860}}
+| style="background-color: #e3f4d7" | {{nts|0.776}} || {{nts|0.786}} || {{nts|0.753}} || {{nts|0.788}}
+|-
+| 32
+! scope="row" style="text-align: left" | {{anchor|Marjcorzo}} {{flag|Marjcorzo}}
+| style="background-color: #d5e5ff" |{{nts|0.903}}
+|0.913
+|0.868
+|0.913
+| style="background-color: #d5e5ff" | {{nts|0.873}} || {{nts|0.884}} || {{nts|0.846}} || {{nts|0.882}}
+| style="background-color: #d5e5ff" | {{nts|0.846}} || {{nts|0.854}} || {{nts|0.816}} || {{nts|0.858}}
+| style="background-color: #e3f4d7" | {{nts|0.775}} || {{nts|0.784}} || {{nts|0.753}} || {{nts|0.789}}
+|-
+| 33
+! scope="row" style="text-align: left" | {{anchor|Tartessia}} {{flag|Tartessia}}
+| style="background-color: #d5e5ff" |{{nts|0.903}}
+|0.907
+|0.875
+|0.910
+| style="background-color: #d5e5ff" | {{nts|0.876}} || {{nts|0.890}} || {{nts|0.852}} || {{nts|0.880}}
+| style="background-color: #d5e5ff" | {{nts|0.846}} || {{nts|0.853}} || {{nts|0.816}} || {{nts|0.862}}
+| style="background-color: #e3f4d7" | {{nts|0.776}} || {{nts|0.784}} || {{nts|0.753}} || {{nts|0.789}}
+|-
+| 34
+! scope="row" style="text-align: left" | {{anchor|Quiscosta}} {{flag|Quiscosta}}
+| style="background-color: #d5e5ff" |{{nts|0.901}}
+|0.903
+|0.866
+|0.908
+| style="background-color: #d5e5ff" | {{nts|0.886}} || {{nts|0.893}} || {{nts|0.860}} || {{nts|0.892}}
+| style="background-color: #d5e5ff" | {{nts|0.852}} || {{nts|0.859}} || {{nts|0.820}} || {{nts|0.868}}
+| style="background-color: #e3f4d7" | {{nts|0.780}} || {{nts|0.789}} || {{nts|0.757}} || {{nts|0.794}}
+|-
+| 35
+! scope="row" style="text-align: left" | {{anchor|Arapytúcaá}} {{flag|Arapytúcaá}}
+| style="background-color: #d5e5ff" |{{nts|0.900}}
+|0.908
+|0.868
+|0.909
+| style="background-color: #d5e5ff" | {{nts|0.874}} || {{nts|0.885}} || {{nts|0.847}} || {{nts|0.878}}
+| style="background-color: #d5e5ff" | {{nts|0.846}} || {{nts|0.853}} || {{nts|0.816}} || {{nts|0.859}}
+| style="background-color: #e3f4d7" | {{nts|0.774}} || {{nts|0.783}} || {{nts|0.752}} || {{nts|0.786}}
+|-
+| 36
+! scope="row" style="text-align: left" | {{anchor|Algarves}} {{flag|Algarves}}
+| style="background-color: #d5e5ff" |{{nts|0.899}}
+|0.906
+|0.867
+|0.908
+| style="background-color: #d5e5ff" | {{nts|0.872}} || {{nts|0.883}} || {{nts|0.846}} || {{nts|0.876}}
+| style="background-color: #d5e5ff" | {{nts|0.844}} || {{nts|0.852}} || {{nts|0.814}} || {{nts|0.857}}
+| style="background-color: #e3f4d7" | {{nts|0.772}} || {{nts|0.782}} || {{nts|0.750}} || {{nts|0.785}}
+|-
+| 37
+! scope="row" style="text-align: left" | {{anchor|Cap de Pingüins}} {{flag|Cap de Pingüins}}
+| style="background-color: #d5e5ff" |{{nts|0.898}}
+|0.904
+|0.865
+|0.906
+| style="background-color: #d5e5ff" | {{nts|0.885}} || {{nts|0.892}} || {{nts|0.850}} || {{nts|0.898}}
+| style="background-color: #d5e5ff" | {{nts|0.850}} || {{nts|0.857}} || {{nts|0.819}} || {{nts|0.862}}
+| style="background-color: #e3f4d7" | {{nts|0.780}} || {{nts|0.789}} || {{nts|0.757}} || {{nts|0.792}}
+|-
+| 38
+! scope="row" style="text-align: left" | {{anchor|Cabo Traïdor}} {{flag|Cabo Traïdor}}
+| style="background-color: #d5e5ff" |{{nts|0.897}}
+|0.903
+|0.864
+|0.905
+| style="background-color: #d5e5ff" | {{nts|0.879}} || {{nts|0.886}} || {{nts|0.848}} || {{nts|0.884}}
+| style="background-color: #d5e5ff" | {{nts|0.848}} || {{nts|0.856}} || {{nts|0.817}} || {{nts|0.860}}
+| style="background-color: #e3f4d7" | {{nts|0.778}} || {{nts|0.787}} || {{nts|0.754}} || {{nts|0.790}}
+|-
+| 39
+! scope="row" style="text-align: left" | {{anchor|Piscaria}} {{flag|Piscaria}}
+| style="background-color: #d5e5ff" |{{nts|0.896}}
+|0.904
+|0.862
+|0.905
+| style="background-color: #d5e5ff" | {{nts|0.872}} || {{nts|0.880}} || {{nts|0.846}} || {{nts|0.874}}
+| style="background-color: #d5e5ff" | {{nts|0.842}} || {{nts|0.850}} || {{nts|0.814}} || {{nts|0.858}}
+| style="background-color: #e3f4d7" | {{nts|0.774}} || {{nts|0.784}} || {{nts|0.752}} || {{nts|0.787}}
+|-
+| 40
+! scope="row" style="text-align: left" | {{anchor|Camaca}} {{flag|Camaca}}
+| style="background-color: #d5e5ff" |{{nts|0.888}}
+|0.895
+|0.856
+|0.896
+| style="background-color: #d5e5ff" | {{nts|0.872}} || {{nts|0.879}} || {{nts|0.845}} || {{nts|0.876}}
+| style="background-color: #d5e5ff" | {{nts|0.840}} || {{nts|0.848}} || {{nts|0.812}} || {{nts|0.854}}
+| style="background-color: #e3f4d7" | {{nts|0.770}} || {{nts|0.780}} || {{nts|0.748}} || {{nts|0.783}}
+|-
+| 41
+! scope="row" style="text-align: left" | {{anchor|Pigüe}} {{flag|Pigüe}}
+| style="background-color: #d5e5ff" |{{nts|0.879}}
+|0.886
+|0.846
+|0.888
+| style="background-color: #d5e5ff" | {{nts|0.861}} || {{nts|0.870}} || {{nts|0.836}} || {{nts|0.866}}
+| style="background-color: #d5e5ff" | {{nts|0.832}} || {{nts|0.840}} || {{nts|0.804}} || {{nts|0.846}}
+| style="background-color: #e3f4d7" | {{nts|0.764}} || {{nts|0.774}} || {{nts|0.742}} || {{nts|0.777}}
+|-
+| 42
+! scope="row" style="text-align: left" | {{anchor|Añãngaraçú}} {{flag|Añãngaraçú}}
+| style="background-color: #d5e5ff" |{{nts|0.873}}
+|0.882
+|0.840
+|0.881
+| style="background-color: #d5e5ff" | {{nts|0.859}} || {{nts|0.868}} || {{nts|0.833}} || {{nts|0.864}}
+| style="background-color: #d5e5ff" | {{nts|0.830}} || {{nts|0.838}} || {{nts|0.802}} || {{nts|0.844}}
+| style="background-color: #e3f4d7" | {{nts|0.760}} || {{nts|0.770}} || {{nts|0.739}} || {{nts|0.773}}
+|-
+| 43
+! scope="row" style="text-align: left" | {{anchor|Küyenmapu}} {{flag|Küyenmapu}}
+| style="background-color: #d5e5ff" |{{nts|0.868}}
+|0.875
+|0.836
+|0.877
+| style="background-color: #d5e5ff" | {{nts|0.852}} || {{nts|0.862}} || {{nts|0.827}} || {{nts|0.858}}
+| style="background-color: #d5e5ff" | {{nts|0.822}} || {{nts|0.832}} || {{nts|0.798}} || {{nts|0.836}}
+| style="background-color: #e3f4d7" | {{nts|0.755}} || {{nts|0.765}} || {{nts|0.735}} || {{nts|0.768}}
+|-
+| 44
+! scope="row" style="text-align: left" | {{anchor|Willi Mapu}} {{flag|Willi Mapu}}
+| style="background-color: #d5e5ff" |{{nts|0.848}}
+|0.842
+|0.816
+|0.853
+| style="background-color: #e3f4d7" | {{nts|0.780}} || {{nts|0.781}} || {{nts|0.749}} || {{nts|0.788}}
+| style="background-color: #e3f4d7" | {{nts|0.748}} || {{nts|0.760}} || {{nts|0.730}} || {{nts|0.762}}
+| style="background-color: #e3f4d7" | {{nts|0.732}} || {{nts|0.740}} || {{nts|0.709}} || {{nts|0.736}}
+|}
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:List of regions of Balisca]]

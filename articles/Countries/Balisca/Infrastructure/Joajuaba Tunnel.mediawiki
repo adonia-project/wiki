@@ -1,0 +1,40 @@
+{{Short description|Railway tunnel beneath the Salsipuedes Sea of Balisca}}
+{{Infobox tunnel
+|name=Joajuaba Tunnel
+|image=Joajuaba Tunnel.jpg
+|caption=Entrance to the Joajuaba Tunnel from the [[Pindorama]] side
+|line=
+|location=Beneath the [[Salsipuedes Sea]]
+|coordinates=
+|system=
+|status=Active
+|start=[[Pukúreká]], [[Añãngaraçú]], [[Pindorama]]
+|end=[[Olivarito]], [[Sicania]], [[Hesperia]]
+|stations=
+|opened={{start date and age|2022|5|10|df=yes}}
+|owner=[[Confederal Railway Construction, Transport and Technology Agency]]
+|operator={{ric|Transpindorama|name=g}}
+|character=Passenger and freight
+|linelength=
+|tracklength={{Indented plainlist|
+* {{cvt|79.84|km}}
+* {{cvt|56.42|km}} undersea
+}}|notrack=Double track rail tunnel|gauge={{Indented plainlist|
+* [[Dual gauge]]
+* {{Track gauge|sg|allk=on}} for [[AVB]]
+* {{Track gauge|1067mm|lk=on}} [[w:narrow-gauge railway|narrow gauge]] for freight
+}}|el={{25 kV 50 Hz|conductor=overhead}}|speed={{Plainlist|
+* Normal: {{cvt|160|km/h|round=5}}
+* During major holidays: {{cvt|260|km/h|round=5}}
+}}|hielevation=|lowelevation=}}
+
+The '''Joajuaba Tunnel''' ({{langx|bl|Túnel Joajuaba}}, {{langx|kp|Joajuabá Pópe Guatá|}}) is a {{convert|79.84|km|mich|adj=on}} [[W:Standard gauge|standard-gauge]] railway tunnel in [[Balisca]], with a {{convert|56.42|km|mich|adj=on}} segment running beneath the seabed of the [[Salsipuedes Sea]], which separates the island of [[Pindorama]], on the strait's western shore, from the island [[Sicania]] on it's eastern shore. The tunnel's track level lies approximately {{convert|55|m|-1}} below the seabed and {{convert|100|m}} below sea level.
+
+The Joajuaba Tunnel forms part of the standard-gauge [[Pindorama high speed rail line|HSR Pindorama]] as well as the freight [[Pirakue Line]] operated by ''[[Transatlántida|Transpindorama]]'' (BR North), and forms a critical portion of the [[Trans-Archipelago Link]].
+
+By total length, the Joajuaba Tunnel is the world’s [[W:List of longest tunnels|longest undersea tunnel]], surpassing both the [[W:Seikan Tunnel|Seikan Tunnel]] and the [[W:Channel Tunnel|Channel Tunnel]], with it's undersea section surpassing the total length of both. It is the second [[W:List of longest railway tunnels|longest main-line railway tunnel]], following Switzerland’s [[W:Gotthard Base Tunnel|Gotthard Base Tunnel]].
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Transport in Balisca]]
