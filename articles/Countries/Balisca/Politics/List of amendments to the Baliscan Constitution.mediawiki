@@ -1,0 +1,58 @@
+{{Constitution of Balisca sidebar}}
+
+The [[Constitution of Balisca|Baliscan Constitution]] is a uniquely fluid legal document (based on the [[W:Living instrument doctrine|living instrument doctrine]]). As mandated by the [[Basic Laws of Balisca]], a [[Confederal Convention]] must be held at least once every decade to re-examine, revise, or entirely rewrite the constitution to fit the confederation's evolving needs. This has resulted in the constitution being fully re-written 12 times and amended 74 times since its first version was ratified in 1836.
+
+Unlike in other nations, amendments are not necessarily additions to the text, but often represent fundamental shifts in policy agreed upon at a Convention, which are then integrated into the latest version of the constitution. 
+
+The following list is organized thematically to showcase the most politically significant amendments throughout Baliscan history, along with the hundreds of proposed amendments that have not been adopted/ratified.
+
+== Proposal and ratification process ==
+
+=== I. Proposal ===
+The initiation of an amendment is designed to be accessible and arise from multiple sources, ensuring that neither the [[Confederal government of Balisca|government]] nor the citizenry holds a monopoly on constitutional change.
+
+* '''[[Confederal Convention|CONFEDERAL CONVENTION]]:''' As mandated by the Basic Laws, a national convention is convened at least once every ten years. Its primary purpose is to conduct a comprehensive review of the constitution. During a convention, any citizen, commune, or platform may submit proposals for amendments or complete rewrites of the constitutional text.
+# '''Convention:''' Conventions are automatically scheduled every ten years but can be called more frequently by a majority vote in the [[Confederal Congress]] or by a [[W:Citizens' initiative|citizens' initiative]].
+# '''Determination of the agenda:''' In the months leading up to the Convention, the [[Open Cabildo]] platform is opened for all citizens to submit and rank proposals. The most highly-ranked proposals form the core agenda for the Convention's working groups.
+# '''Submission and Debate:''' During the Convention, any citizen delegate can present a formal proposal. It is then debated, often heatedly and fiercely, in working groups. A proposal must achieve a baseline consensus (e.g., a 60% approval vote within the Convention) to move forward to the public deliberation phase.
+* [[W:Popular initiative|'''CITIZENS' INITIATIVE''']]''':''' At any time outside of a formal convention, a constitutional amendment can be proposed via a direct democratic initiative. A proposal is formally placed on the confederal agenda once its proponents gather petition signatures from a number of citizens equal to or greater than 5% of the total electorate, as established by the 31st Amendment.
+# '''Sponsorship''' '''committee:''' A group of at least 25 citizens from at least three different cantons must register as the official sponsors of the initiative. This committee is legally responsible for the text of the proposal and for the signature-gathering campaign.
+# '''Signatures and verification:''' The committee has a set period (e.g., 18 months) to gather the required number of verified signatures (3% of the electorate). Signatures are collected both physically and digitally via the Open Cabildo, and the [[Confederal Electoral Commission]] is responsible for their verification following the expiration of the gathering period.
+# '''Formal''' '''certification:''' Once the signature threshold is met and verified, the Commission certifies the initiative, which legally compels the proposal to enter the public deliberation phase.
+
+=== II. Deliberation ===
+Once a proposal is formally initiated, it enters a period of public deliberation facilitated by the state's direct democracy infrastructure. This is the most critical phase, where a raw proposal is forged into a viable amendment through mass public participation.
+
+* '''[[Open Cabildo]]:''' The text of the proposed amendment is posted to the Open Cabildo, the confederation's decentralized virtual assembly platform. This begins a formal deliberation period, which typically lasts for several months.
+* '''Consensus and''' '''refinement:''' During this period, a series of scheduled and open-ended virtual forums allow all citizens to debate the proposal, ask questions of its sponsors, and suggest modifications. Through a process of moderated discussion and iterative voting on individual clauses, the initial proposal is refined into a final text that reflects a broad-based consensus.
+
+=== III. Ratification ===
+After a final text is agreed upon during the deliberation phase, it proceeds to a formal vote by the entire population.
+
+* '''Campaign''' '''period (90 days):''' Once a final text is set, a formal campaign period begins. Ad-hoc coalitions and established platforms launch campaigns to persuade voters. Because there are no parties, these campaigns are often fluid and issue-focused, involving public debates, media outreach, and grassroots organizing. The Confederal Electoral Commission provides every household with a voter guide explaining the amendment's text, its legal implications, and summaries of the main arguments for and against. 
+* '''Referendum:''' The referendum is held on the designated confederal election holiday (the first Sunday of October). To be ratified, the amendment must secure two conditions, a principle known as '''distributed consensus:'''
+# '''Majority of votes cast:''' An amendment is considered ratified and binding once it is approved by a simple majority (more than 50%) of the valid votes cast in the referendum.
+# A majority of the vote in a '''simple majority of the cantons''' (e.g., if there are 20 cantons, the amendment must win in at least 11 of them). This prevents a few highly populated cantons from imposing their will on the entire confederation.
+
+==Ratified amendments==
+
+== Proposed/unratified amendments ==
+{| class="wikitable" style="text-align: left;"
+! style="width:95pt;" |Title
+! style="width:480pt;" |Subject
+! style="width:200pt;" |Status
+|- style="vertical-align: top;"
+|[[Cantonal sovereignty amendment]]
+|Would introduce a mechanism for the cantons to collectively block the declaration of a [[confederal emergency]].
+
+* '''Proposal:''' A declaration of a Confederal emergency by the [[Confederal government of Balisca|confederal government]] would require not only a majority vote in the [[Confederal Congress]] but also ratification by the legislatures of at least two-thirds of the cantons within a 30-day period. Failure to secure this cantonal ratification would render the declaration void.
+|Proposed 06/05/2024
+Certified to have surpassed signature threshold (5% of electorate) to proceed to debate on 09/25/2025. 
+|}
+{{Clear}}
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Constitution of Balisca]]
+[[Category:Government and politics of Balisca]]

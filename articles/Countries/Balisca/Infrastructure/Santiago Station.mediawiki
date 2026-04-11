@@ -1,0 +1,23 @@
+{{Infobox station|name=Santiago Station|symbol_location=|symbol=|symbol2=|type=[[Castejón Metro]] station|image=Santiago Station Plaza Ampurias entrance.png|alt=|caption=Plaza Ampurias entrance|other_name=|address=[[Commune of Castejón|Centro Castejón]], [[Ampurias]]|borough=[[Castejón Metropolis]]|country=[[Balisca]]|coordinates=|owned=|operator={{ric|Castejón Metro|name=y}}|line={{ubl|{{CMLS|G}} {{lnl|Castejón Metro|G}}
+|{{CMLS|C}} {{lnl|Castejón Metro|C}} 
+|{{CMLS|I}} {{lnl|Castejón Metro|I}} 
+|{{CMLS|H}} {{lnl|Castejón Metro|H}}
+|{{CMLS|T}} {{lnl|Castejón Metro|T}}   
+}}|zone=1|opened={{start date and age|1913|08|02|df=yes}}|closed=<!-- {{End date|YYYY|MM|DD|df=y}} -->|former=|services={{s-rail|title=Castejón Metro}}
+{{rail line|col=FF9500|route=[[Castejón Metro Güevéjar Line| Güevéjar Line]]|previous=[[Pont Vell Station|Pont Vell]]<br>toward<br>[[Sant Dídac Station|Sant Dídac]]|next=''Terminus''
+}}
+{{rail line|col=00BB85|route=[[Castejón Metro Cartajima Line| Cartajima Line]]|previous=[[Pont Vell Station|Pont Vell]]<br>toward<br>[[Sant Dídac Station|Sant Dídac]]|next=[[Quentár Station|Quentár]]<br>toward<br>[[Coruxón Station|Coruxón]]
+}}
+{{rail line|col=006CB6|route=[[Castejón Metro Iznájar Line| Iznájar Line]]|previous=[[El Jardín del Pueblo Station|El Jardín del Pueblo]]<br>toward<br>[[Ansó Station|Ansó]]|next=[[Mercadero Station|Mercadero]]<br>toward<br>[[Artés Station|Artés]]
+}}
+{{rail line|col=8F76D6|route=[[Castejón Metro Huerta Line| Huerta Line]]|previous=[[Quentár Station|Quentár]]<br>toward<br>[[Coruxón Station|Coruxón]]|next=[[Barraques Station|Barraques]]<br>toward<br>[[Benquzmán Station|Benquzmán]]
+}}
+{{rail line|col=009BBF|route=[[Castejón Metro Takamaicán Line|Takamaicán Line]]|previous=[[El Jardín del Pueblo Station|El Jardín del Pueblo]]<br>toward<br>[[Ansó Station|Ansó]]|next=[[Barraques Station|Barraques]]<br>toward<br>[[Ka'aguasu Station|Ka'aguasu]]
+}}|map_type=|style=Castejón Metro|structure=Underground|transit_authority=[[Castejón Metropolitan Transit Authority]]|parking=No vehicular parking|accessible=Yes (incl. wheelchair ramps, {{W|elevator}}s, [[Baliscano]] braille signage)|bicycle=Yes (underground parking facilities)}}
+
+'''Santiago''' ({{Literal translation|[[w:Saint James|Saint James]]}}) is a major underground [[W:Interchange station|interchange station]] of the [[Castejón Metro]], serving the [[Commune of Castejón|''Centro'']] barrio on the [[Castejón Metro Güevéjar Line|Güevéjar]] and [[Castejón Metro Cartajima Line|Cartajima]], [[Castejón Metro Iznájar Line|Iznájar]], [[Castejón Metro Huerta Line|Huerta]] and [[Castejón Metro Takamaicán Line|Takamaicán]] lines.
+
+The station takes it's name from the [[Misión Santiago de Los Kuarupíba]], a [[Colonial Balisca|colonial-era]] mission founded by [[W:Jesuits|Jesuits]] in the area.{{Castejón}}{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Castejón]]
+[[Category:Castejón Metro]]

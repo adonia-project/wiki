@@ -1,0 +1,66 @@
+{{Infobox language
+| name             = Bayaran Aragonese
+| altname          = Aragonés Bayarano, Baliscan Aragonese
+| nativename       = Castellano bayarano
+(Aragonés bayarano)
+| pronunciation    = {{IPA|arg|aɾaɣoˈnes βaʝaˈɾano}}
+| states           = [[Balisca]] (specifically [[Bayara]])
+| ethnicity        = [[Baliscans|Bayarans]]
+| speakers         = {{No credible figures, as it is a dialect.}}
+| script           = [[w:Latin script|Latin]] ([[Aragonese alphabet]])
+| familycolor      = Indo-European
+| fam2             = [[w:Italic languages|Italic]]
+| fam3             = [[w:Latino-Faliscan languages|Latino-Faliscan]]
+| fam4             = [[w:Romance languages|Romance]]
+| fam5             = [[w:Italo-Western languages|Italo-Western]]
+| fam6             = [[w:Western Romance languages|Western]]
+| fam7             = [[w:Ibero-Romance languages|Ibero-Romance]]
+| fam8             = [[w:West Iberian languages|West Iberian]]
+| fam9             = [[w:Aragonese language|Aragonese]]
+| fam10            = [[w:Aragonese language|Aragonese]]
+| ancestor         = [[w:Proto-Indo-European language|Proto-Indo-European]]
+| ancestor2        = [[w:Proto-Italic language|Proto-Italic]]
+| ancestor3        = [[Old Latin]]
+| ancestor4        = [[Vulgar Latin]]
+| ancestor5        = [[w:Proto-Romance language|Proto-Romance]]
+| ancestor6        = {{w|Old Aragonese}}
+| ancestor7        = {{W|Early Modern Aragonese}}
+| isoexception     = dialect
+| dialects         = The dialect exhibits a complex interplay of influences:
+'''Lexical & Morphological Convergences''': Significant [[w:Castilian language|Castilian Spanish]] influence
+'''Substratum Layers''': [[Mozarabic language|Mozarabic]] and [[w:Arabic language|Arabic]] vocabulary and phonetics
+'''African Lexical & Phonetic Shifts''': Contributions from various [[w:African languages|West African tongues]]
+'''Subtle External Influences''': Minor [[w:Sicilian language|Sicilian]] or Southern Italian lexical elements
+| agency           = [[Instituto Confederal de Lingüística Baliscana]]
+| iso1             = arn
+| iso2             = arn
+| glotto           = none
+| ietf             = arn-BY
+| notice           = IPA
+| map              = Bayaran_Aragonese_map.png
+| mapscale         = 1
+| mapcaption       = Bayaran Aragonese-speaking regions within [[Balisca]]
+}}
+
+'''Bayaran Aragonese''' ({{langx|bl|Aragonés Bayarano}}; {{lit|Aragonese of Bayara}}) is a distinctive [[W:Dialect|variety]] of [[Aragonese language|Aragonese]] primarily spoken throughout [[Bayara]] in the [[Baliscan Confederation]], and subtly influencing adjacent regions within [[Atlántida]] with which Bayara has historical and commercial ties. While rooted in the Aragonese spoken by original settlers and later immigrants from the [[Crown of Aragon]], this dialect is uniquely recognized throughout the [[W:Hispanosphere|Hispanosphere]] and [[Baliscano language|Baliscano]]-speaking world for its significant influences from [[W:Castilian language|Castilian Spanish]], as well as significant contributions from [[Mozarabic language|Mozarabic]] and various [[W:African languages|African tongues]]. This complex linguistic fusion is a direct consequence of Bayara's diverse historical immigration patterns, including extensive Castilian political influence, the large-scale resettlement of [[W:Morisco|Moriscos]] and [[Mozarabia|Mozarabs]], and the profound impact of the [[W:Atlantic slave trade|Atlantic slave trade]].
+
+As a dialect of Aragonese, and not a distinct language, there are no credible figures for a total number of speakers of Bayaran Aragonese in isolation. Its exact expanse would correspond roughly to the historical and administrative boundaries of Bayara.
+
+== Historical and Linguistic Influences ==
+The shaping of Bayaran Aragonese is a direct reflection of centuries of intense linguistic and cultural contact:
+
+* '''Aragonese Foundation:''' The dialect's base stems from the Aragonese spoken by early settlers who arrived under Aragonese Crown concessions.
+* '''Castilian Spanish Convergence:''' Despite its Aragonese base, Castilian Spanish played a significant, shaping role, akin to the influence of [[W:Italian language|Italian]] on [[W:Rioplatense Spanish|Rioplatense Spanish]]. This stemmed from:
+** The long period of political and administrative dominance by the [[W:Spanish Crown|Spanish Crown]] (often associated with Castilian as its language).
+** Later waves of Castilian settlers or individuals influenced by Castilian culture, particularly among Bayara's [[Continuation War|royalist sympathizers]].
+** The numerical scale of Castilian speakers compared to the relatively smaller population of original Aragonese speakers.
+* '''Mozarabic and Arabic Layer:''' The resettlement of large numbers of Moriscos and Mozarabs in Bayara introduced a rich substratum of [[W:Arabic language|Arabic]] and Mozarabic vocabulary and phonetics. This is a distinguishing feature, particularly strong in older local argots.
+* '''African Language Contributions:''' The forced arrival of [[Afro-Baliscans|African slaves]] from various [[W:West Africa|West African]] linguistic backgrounds (e.g., [[W:Yoruba language|Yoruba]], [[W:Kikongo language|Kikongo]], [[W:Kimbundu language|Kimbundu]]) profoundly influenced the dialect's phonology and lexicon, contributing numerous loanwords related to food, music, spiritual practices, and social life.
+* '''Sicilian and Southern Italian Subtleties:''' Due to the historical connections of the [[Hesperian League]] (Bayara's neighbor) with the [[W:Kingdom of Sicily|Kingdom of Sicily]] and other Southern European mercantile powers, subtle lexical or intonational influences from Sicilian or Southern Italian dialects may also be present.
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Bayara]]
+[[Category:Languages of Balisca]]
+[[Category:Ethnography of Balisca]]
