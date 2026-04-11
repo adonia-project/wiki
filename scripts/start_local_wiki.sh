@@ -33,24 +33,21 @@ if [ ! -f "$WIKI_DATA/LocalSettings.php" ]; then
     fi
 fi
 
-# Check if containers are running
-MW_RUNNING=$(docker ps -q -f name=talod-wiki 2>/dev/null)
+# Recreate container to pick up new volume mounts
+echo "Recreating MediaWiki container..."
+cd "$WIKI_DIR"
+docker compose down 2>/dev/null || true
+docker compose up -d mediawiki
 
-if [ "$MW_RUNNING" = "" ]; then
-    echo "Starting MediaWiki container..."
-    cd "$WIKI_DIR"
-    docker compose up -d mediawiki
+echo "Waiting for MediaWiki to start..."
+sleep 5
 
-    echo "Waiting for MediaWiki to start..."
-    sleep 5
+# Check if container is ready
+until docker exec talod-wiki true 2>/dev/null; do
+    sleep 2
+done
 
-    # Check if container is ready
-    until docker exec talod-wiki true 2>/dev/null; do
-        sleep 2
-    done
-
-    echo "MediaWiki is running at http://localhost:8080"
-fi
+echo "MediaWiki is running at http://localhost:8080"
 
 # Import articles using maintenance script
 echo ""
