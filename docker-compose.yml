@@ -1,0 +1,12 @@
+services:
+  mediawiki:
+    image: mediawiki:1.41
+    container_name: talod-wiki
+    ports:
+      - "8080:80"
+    volumes:
+      - ./wiki-data/images:/var/www/html/images
+      - ./wiki-data/data:/var/www/data
+      - ./LocalSettings.php:/var/www/html/LocalSettings.php:ro
+      - ./articles:/import:ro
+    restart: unless-stopped
