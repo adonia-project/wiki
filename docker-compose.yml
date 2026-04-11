@@ -1,0 +1,16 @@
+services:
+  mediawiki:
+    image: mediawiki:1.41
+    container_name: talod-wiki
+    ports:
+      - "8080:80"
+    volumes:
+      # Mount wiki-data for persistence
+      - ./wiki-data:/var/www/data
+      # LocalSettings.php from installer
+      - ./wiki-data/LocalSettings.php:/var/www/html/LocalSettings.php:ro
+      # Images directory for uploaded files
+      - ./wiki-data/images:/var/www/html/images
+      # Articles for import
+      - ./articles:/import:ro
+    restart: unless-stopped

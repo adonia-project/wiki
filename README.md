@@ -7,7 +7,10 @@ This repository serves as the source of truth for all Talod wiki articles from M
 ```
 wiki/
 ├── scripts/           # Utility scripts
-│   └── pull_wiki_articles.py
+│   ├── pull_wiki_articles.py  # Pull from Miraheze
+│   ├── sync_with_talod.py     # Bidirectional sync
+│   ├── render_wiki_page.py    # Static HTML preview
+│   └── start_local_wiki.sh    # Docker MediaWiki
 │
 └── articles/           # Wiki articles organized by category
     ├── Countries/
@@ -114,11 +117,63 @@ Future development will include:
 - Category mapping configuration file
 - Script to organize articles into appropriate category folders
 
+## Local Rendering (Docker MediaWiki)
+
+Render `.mediawiki` files locally with full template support using Docker MediaWiki.
+
+### Prerequisites
+- Docker Desktop (or Docker Engine)
+- Docker Compose
+
+### Quick Start
+
+```bash
+./scripts/start_local_wiki.sh
+```
+
+This will:
+1. Start MediaWiki container on port 8080
+2. Import all articles from `articles/` directory
+3. Serve wiki at http://localhost:8080
+
+### Manual Control
+
+```bash
+# Start containers
+docker compose up -d
+
+# Import articles
+./scripts/start_local_wiki.sh
+
+# Stop containers
+docker compose stop
+
+# Stop and remove containers
+docker compose down
+```
+
+### What Gets Imported
+
+- All `.mediawiki` files from `articles/` directory
+- Templates are imported to Template namespace
+- Articles maintain their wiki structure
+
+### First Run Setup
+
+On first run, you'll need to complete MediaWiki installation through the web interface:
+1. Go to http://localhost:8080
+2. Follow the installation wizard
+3. Download the generated `LocalSettings.php`
+4. Replace the repository `LocalSettings.php` with it
+
+After that, subsequent runs will use the saved configuration.
+
 ## Contributing
 
 1. Articles can be edited directly in `.mediawiki` files
-2. Changes should be committed to this repository
-3. Future scripts will allow pushing updates back to MediaWiki
+2. Use local renderer to preview changes
+3. Changes should be committed to this repository
+4. Use sync script to push updates back to Miraheze
 
 ## License
 
