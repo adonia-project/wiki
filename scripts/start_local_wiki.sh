@@ -49,6 +49,39 @@ done
 
 echo "MediaWiki is running at http://localhost:8080"
 
+# Check if database exists and has tables
+DB_FILE="$WIKI_DATA/talod_wiki.sqlite"
+NEEDS_INIT=false
+
+if [ ! -f "$DB_FILE" ]; then
+    NEEDS_INIT=true
+fi
+
+if [ "$NEEDS_INIT" = true ]; then
+    echo ""
+    echo "=== First-Time Setup Required ==="
+    echo ""
+    echo "MediaWiki needs to be initialized. Please:"
+    echo ""
+    echo "1. Open http://localhost:8080 in your browser"
+    echo "2. Click 'set up the wiki' to start the installer"
+    echo "3. Use these settings:"
+    echo ""
+    echo "   Language: Your choice"
+    echo "   Database type: SQLite"
+    echo "   SQLite data directory: /var/www/data (default)"
+    echo "   Wiki name: Talod Wiki"
+    echo "   Admin username: Admin"
+    echo "   Admin password: (your choice)"
+    echo ""
+    echo "4. After setup completes, download LocalSettings.php"
+    echo "5. Place it in: $WIKI_DATA/LocalSettings.php"
+    echo "6. Re-run this script to import articles"
+    echo ""
+    echo "Container is running. Waiting for setup..."
+    exit 0
+fi
+
 # Import articles using maintenance script
 echo ""
 echo "=== Importing Articles ==="
