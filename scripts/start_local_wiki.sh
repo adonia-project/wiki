@@ -7,6 +7,7 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 WIKI_DIR="$(dirname "$SCRIPT_DIR")"
 ARTICLES_DIR="$WIKI_DIR/articles"
+WIKI_DATA="$WIKI_DIR/wiki-data"
 
 echo "=== Talod Wiki Local Renderer ==="
 echo ""
@@ -15,6 +16,21 @@ echo ""
 if ! docker info &>/dev/null; then
     echo "Error: Docker is not running. Please start Docker Desktop."
     exit 1
+fi
+
+# Ensure wiki-data directory exists
+mkdir -p "$WIKI_DATA"
+
+# Check if LocalSettings.php exists, copy from example if not
+if [ ! -f "$WIKI_DATA/LocalSettings.php" ]; then
+    echo "First run detected. Creating LocalSettings.php..."
+    if [ -f "$WIKI_DIR/LocalSettings.php.example" ]; then
+        cp "$WIKI_DIR/LocalSettings.php.example" "$WIKI_DATA/LocalSettings.php"
+        echo "Created LocalSettings.php from example."
+    else
+        echo "Error: LocalSettings.php.example not found"
+        exit 1
+    fi
 fi
 
 # Check if containers are running
@@ -26,9 +42,9 @@ if [ "$MW_RUNNING" = "" ]; then
     docker compose up -d mediawiki
 
     echo "Waiting for MediaWiki to start..."
-    sleep 10
+    sleep 5
 
-    # Check if initialized
+    # Check if container is ready
     until docker exec talod-wiki true 2>/dev/null; do
         sleep 2
     done

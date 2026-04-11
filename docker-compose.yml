@@ -7,6 +7,6 @@ services:
     volumes:
       - ./wiki-data/images:/var/www/html/images
       - ./wiki-data/data:/var/www/data
-      - ./LocalSettings.php:/var/www/html/LocalSettings.php:ro
+      - ./wiki-data/LocalSettings.php:/var/www/html/LocalSettings.php
       - ./articles:/import:ro
     restart: unless-stopped
