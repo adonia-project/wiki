@@ -12,6 +12,7 @@ Usage:
 import os
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -93,7 +94,7 @@ def generate_xml(articles_dir: Path, output_file: Path):
             f.write('    <id>1</id>\n')
             f.write('    <revision>\n')
             f.write('      <id>1</id>\n')
-            f.write(f'      <timestamp>{mtime:.0f}</timestamp>\n')
+            f.write(f'      <timestamp>{datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")}</timestamp>\n')
             f.write('      <contributor>\n')
             f.write('        <username>Local Import</username>\n')
             f.write('        <id>0</id>\n')

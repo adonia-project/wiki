@@ -42,10 +42,11 @@ done
 echo "MediaWiki is running at http://localhost:8080"
 
 # Check if database exists and has tables
-DB_FILE="$WIKI_DATA/talod_wiki.sqlite"
+# Database name is configured during web installer (default: my_wiki.sqlite)
+DB_FILE=$(ls "$WIKI_DATA"/*.sqlite 2>/dev/null | grep -v jobqueue | grep -v l10n | grep -v cache | head -1 || echo "")
 NEEDS_INIT=false
 
-if [ ! -f "$DB_FILE" ]; then
+if [ -z "$DB_FILE" ]; then
     NEEDS_INIT=true
 fi
 

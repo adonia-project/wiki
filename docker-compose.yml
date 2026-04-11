@@ -7,6 +7,8 @@ services:
     volumes:
       # Mount wiki-data for persistence
       - ./wiki-data:/var/www/data
+      # LocalSettings.php from installer
+      - ./wiki-data/LocalSettings.php:/var/www/html/LocalSettings.php:ro
       # Images directory for uploaded files
       - ./wiki-data/images:/var/www/html/images
       # Articles for import
