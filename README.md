@@ -7,7 +7,8 @@ This repository serves as the source of truth for all Talod wiki articles from M
 ```
 wiki/
 ├── scripts/           # Utility scripts
-│   └── pull_wiki_articles.py
+│   ├── pull_wiki_articles.py
+│   └── sync_with_talod.py
 │
 └── articles/           # Wiki articles organized by category
     ├── Countries/
@@ -89,6 +90,43 @@ python pull_wiki_articles.py
   ```bash
   python pull_wiki_articles.py --user YourUsername --password YourPassword
   ```
+
+### Syncing with Miraheze (Bidirectional)
+
+To sync local changes back to the wiki and pull remote changes:
+
+```bash
+cd scripts
+python sync_with_talod.py
+```
+
+#### Sync Options
+
+- `--dry-run` - Show what would be synced without making changes:
+  ```bash
+  python sync_with_talod.py --dry-run
+  ```
+
+- `--upload-only` - Only upload local changes to wiki, don't download:
+  ```bash
+  python sync_with_talod.py --upload-only
+  ```
+
+- `--download-only` - Only download remote changes, don't upload:
+  ```bash
+  python sync_with_talod.py --download-only
+  ```
+
+#### How Sync Works
+
+1. Scans all local `.mediawiki` files
+2. Fetches all pages from wiki (main namespace + templates)
+3. Compares content hashes (SHA256)
+4. **Uploads** files that changed locally
+5. **Downloads** files that changed on wiki
+6. Files in "Basis" category are excluded
+
+**Note:** Requires `WIKI_USER` and `WIKI_PASSWORD` in `.env` file.
 
 ### What Gets Downloaded
 
