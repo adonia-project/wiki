@@ -1,0 +1,57 @@
+<?php
+# LocalSettings.php for Talod Wiki (Local Development)
+# Copy this file to LocalSettings.php and customize as needed
+
+# Basic settings
+$wgSitename = "Talod Wiki";
+$wgMetaNamespace = "Talod";
+
+# Database - SQLite for simplicity
+$wgDBtype = "sqlite";
+$wgDBserver = "";
+$wgDBname = "talod_wiki";
+$wgDBuser = "";
+$wgDBpassword = "";
+$wgSQLiteDataDir = "/var/www/data";
+
+# Paths
+$wgScriptPath = "/w";
+$wgArticlePath = "/wiki/$1";
+$wgUsePathInfo = true;
+$wgServer = "http://localhost:8080";
+
+# Permissions - open for local development
+$wgGroupPermissions['*']['createaccount'] = true;
+$wgGroupPermissions['*']['read'] = true;
+$wgGroupPermissions['*']['edit'] = true;
+$wgGroupPermissions['*']['createpage'] = true;
+$wgGroupPermissions['*']['createtalk'] = true;
+
+# Uploads
+$wgEnableUploads = true;
+$wgUploadPath = "$wgScriptPath/images";
+$wgUploadDirectory = "/var/www/html/images";
+
+# Enable useful extensions
+$wgUseInstantCommons = true;
+
+# Increase limits for imports
+$wgMaxArticleSize = 2097152;
+$wgMemoryLimit = "512M";
+
+# Allow API access
+$wgEnableAPI = true;
+$wgEnableWriteAPI = true;
+
+# Cache settings for development
+$wgCachePages = false;
+$wgMainCacheType = CACHE_NONE;
+
+# Debug (disable for production)
+$wgShowExceptionDetails = true;
+$wgShowSQLErrors = true;
+
+# Recommended extensions (uncomment as needed)
+# wfLoadExtension('ParserFunctions');
+# wfLoadExtension('Cite');
+# wfLoadExtension('TemplateStyles');
