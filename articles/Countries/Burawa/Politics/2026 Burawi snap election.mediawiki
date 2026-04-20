@@ -2,7 +2,7 @@
 | election_name      = 2026 Burawi snap leadership election
 | country            = Burawa
 | type               = leadership
-| ongoing            = yes
+| ongoing            = no
 | previous_election  = [[2025 Burawi leadership election]]
 | previous_year      = 2025
 | next_election      = [[2031 Burawi leadership election]]
@@ -11,32 +11,36 @@
 | image1             = 
 | nominee1           = [[Muna Xasan]]
 | party1             = [[Party for Equitable Progress]]
-| popular_vote1      = 
+| popular_vote1      = 34,234,891
+| percentage1        = 58.0%
 | image2             = 
 | nominee2           = [[Hancil Thea]]
 | party2             = [[National Party of Burawa]]
-| popular_vote2      = 
+| popular_vote2      = 24,789,245
+| percentage2        = 42.0%
 | image3             = 
 | nominee3           = [[Xasan Garaad]]
 | party3             = [[Socialist Party of Burawa]]
-| popular_vote3      = 
+| popular_vote3      = 9,201,445
+| percentage3        = 15.6%
 | image4             = 
 | nominee4           = [[Marik Sahamin]]
 | party4             = [[Forward Party of Burawa]]
-| popular_vote4      = 
+| popular_vote4      = 4,961,232
+| percentage4        = 8.4%
 | title              = [[Leader of the Burawi Republic]]
 | before_election    = [[Hancil Thea]] (recalled)
 | before_party       = [[National Party of Burawa]]
-| after_election     = 
-| after_party        = 
-| turnout            = 
+| after_election     = [[Muna Xasan]]
+| after_party        = [[Party for Equitable Progress]]
+| turnout            = 72.4%
 }}
 
-The '''2026 Burawi snap leadership election''' is a scheduled election to be held on 19 April 2026 to elect the [[Leader of the Burawi Republic]]. The election was triggered by the successful parliamentary recall vote against incumbent Leader [[Hancil Thea]] on 20 March 2026, which required the dissolution of Parliament and the scheduling of snap elections within thirty days pursuant to Article 49 of the [[Constitution of Burawa]].
+The '''2026 Burawi snap leadership election''' was held on 19 April 2026 to elect the [[Leader of the Burawi Republic]]. The election was triggered by the successful parliamentary recall vote against incumbent Leader [[Hancil Thea]] on 20 March 2026, which required the dissolution of Parliament and the scheduling of snap elections within thirty days pursuant to Article 49 of the [[Constitution of Burawa]].
 
-The election is the second leadership election conducted under {{w|ranked-choice voting}}, following the system's introduction in the [[2025 Burawi leadership election]]. As of April 2026, [[Muna Xasan]] of the [[Party for Equitable Progress]] leads in opinion polls, having surged following strong debate performances and endorsements from dropped candidates. She faces [[Hancil Thea]] of the [[National Party of Burawa|National Party]], who was recalled from office and is seeking re-election; [[Xasan Garaad]] of the [[Socialist Party of Burawa|Socialist Party]], who placed first in first-preference voting in the 2025 election; and [[Marik Sahamin]] of the [[Forward Party of Burawa|Forward Party]], the former Leader who announced his candidacy on 26 March 2026.
+The election was the second leadership election conducted under {{w|ranked-choice voting}}, following the system's introduction in the [[2025 Burawi leadership election]]. [[Muna Xasan]] of the [[Party for Equitable Progress]] won the election with 58.0 per cent of the vote after ranked-choice redistribution, defeating Thea in the final round. Xasan's victory made her the first female [[Leader of the Burawi Republic]] in Burawi history.
 
-The election represents an unprecedented constitutional crisis in Burawi history, as a recalled Leader seeks to regain executive authority through a fresh popular mandate. If elected, Xasan would become the first female [[Leader of the Burawi Republic]] in Burawi history.
+The election represented an unprecedented constitutional crisis in Burawi history, as a recalled Leader sought to regain executive authority through a fresh popular mandate. Xasan's campaign emphasised opposition to the Industrial Party agreement that had preserved Thea's administration during the recall process, as well as progressive reform and her potential to become Burawa's first female Leader.
 
 == Background ==
 
@@ -238,8 +242,179 @@ A second debate was held on 12 April 2026, with all six candidates participating
 | Second televised debate held; opinion polls show Xasan 38%, Thea 22%, Garaad 16%, Sahamin 8%
 |-
 | 19 April 2026
-| Scheduled election date
+| Election held; Muna Xasan elected with 58% after RCV redistribution
 |}
+
+== Results ==
+
+=== First-preference results ===
+
+{| class="wikitable" style="width:100%"
+|-
+! Candidate
+! Party
+! First-preference votes
+! Percentage
+|-
+| [[Muna Xasan]]
+| [[Party for Equitable Progress]]
+| 24,341,287
+| 41.2%
+|-
+| [[Hancil Thea]]
+| [[National Party of Burawa]]
+| 12,873,442
+| 21.8%
+|-
+| [[Xasan Garaad]]
+| [[Socialist Party of Burawa]]
+| 9,201,445
+| 15.6%
+|-
+| [[Marik Sahamin]]
+| [[Forward Party of Burawa]]
+| 4,961,232
+| 8.4%
+|-
+| [[Liban Qaasim]]
+| [[Industrial Party of Burawa]]
+| 3,602,918
+| 6.1%
+|-
+| [[Giorgis Nuur]]
+| [[Christian Socialist Union (Burawa)]]
+| 2,478,156
+| 4.2%
+|-
+| colspan="2" style="text-align:right;" | '''Total valid votes'''
+| '''57,458,480'''
+| '''97.3%'''
+|-
+| colspan="2" style="text-align:right;" | Exhausted/spoiled ballots
+| 1,598,832
+| 2.7%
+|-
+| colspan="2" style="text-align:right;" | '''Total votes cast'''
+| '''59,057,312'''
+| '''100%'''
+|}
+
+=== Ranked-choice redistribution ===
+
+{{main|Ranked-choice voting}}
+
+Since no candidate received a majority of first-preference votes, the election proceeded to ranked-choice redistribution. The following table shows the transfer of votes during the elimination rounds:
+
+{| class="wikitable" style="width:100%"
+|-
+! Round
+! [[Muna Xasan]]<br/>(PEP)
+! [[Hancil Thea]]<br/>(NP)
+! [[Xasan Garaad]]<br/>(SP)
+! [[Marik Sahamin]]<br/>(FP)
+! [[Liban Qaasim]]<br/>(IP)
+! [[Giorgis Nuur]]<br/>(CSU)
+! Exhausted
+|-
+! First round
+| 41.2%
+| 21.8%
+| 15.6%
+| 8.4%
+| 6.1%
+| 4.2%
+| 2.7%
+|-
+! Eliminate Nuur
+| 41.4%
+| 24.4%
+| 16.6%
+| 8.7%
+| 6.1%
+| —
+| 2.8%
+|-
+! Eliminate Qaasim
+| 42.1%
+| 27.2%
+| 17.6%
+| 10.3%
+| —
+| —
+| 2.8%
+|-
+! Eliminate Sahamin
+| 45.9%
+| 29.5%
+| 19.8%
+| —
+| —
+| —
+| 4.8%
+|-
+! Eliminate Garaad
+| '''58.0%'''
+| '''42.0%'''
+| —
+| —
+| —
+| —
+| —
+|}
+
+==== Transfer breakdown ====
+
+The following table shows the distribution of votes from eliminated candidates:
+
+{| class="wikitable" style="width:100%"
+|-
+! Eliminated candidate
+! Transferred to<br/>Xasan
+! Transferred to<br/>Thea
+! Transferred to<br/>Garaad
+! Transferred to<br/>Sahamin
+! Exhausted
+|-
+| Giorgis Nuur<br/>(CSU, conservative Catholic)
+| 8%
+| 62%
+| 24%
+| 6%
+| 0%
+|-
+| Liban Qaasim<br/>(IP, business/liberalisation)
+| 12%
+| 48%
+| 18%
+| 20%
+| 2%
+|-
+| Marik Sahamin<br/>(FP, centrist reform)
+| 45%
+| 28%
+| 18%
+| —
+| 9%
+|-
+| Xasan Garaad<br/>(SP, moderate socialist)
+| 68%
+| 12%
+| —
+| —
+| 20%
+|}
+
+Nuur's voters, drawn from socially conservative Catholic communities, transferred overwhelmingly to Thea, reflecting the informal alliance between the Christian Socialist Union and the National Party on social issues.
+
+Qaasim's Industrial Party voters split between Thea, who had secured corporate tax reductions through the Industrial Party agreement, and Sahamin, whose technology-friendly policies appealed to business-oriented voters.
+
+Sahamin's voters, representing the rump Forward Party after the Forward Progressive Party split, divided between Xasan and Thea. The Forward Progressive Party faction had already endorsed Xasan during the campaign, contributing to her strong showing among former Forward voters.
+
+Garaad's Socialist Party voters transferred decisively to Xasan, reflecting the coalition alignment between the Socialist Party and progressive parties in opposition to the National Party.
+
+=== Voter turnout ===
+
+Total voter turnout was 72.4 per cent, representing a significant increase from the 68.2 per cent turnout in the [[2025 Burawi leadership election]]. The heightened turnout reflected the contentious nature of the recall process and the historic possibility of electing Burawa's first female Leader.
 
 == See also ==
 * [[2025 Burawi leadership election]]
