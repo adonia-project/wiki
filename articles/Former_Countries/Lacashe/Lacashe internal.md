@@ -105,6 +105,7 @@
 - **Lacashe Freedom Society**: Paramilitary organisation
 - **Separate Origins Acts**: Apartheid legislation
 - **Guladga University Massacre (1981)**: Event details
+- **Adonian Community Mission for Lacashe (1981–1983)**: AC intervention and constitutional settlement
 - **Blood History Law (1884)**: Heritage documentation system
 - **Lacashe Kadarist Association**: Communist insurgency
 
