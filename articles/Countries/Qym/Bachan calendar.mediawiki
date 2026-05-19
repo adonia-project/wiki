@@ -1,0 +1,87 @@
+{{Basis}}
+The '''Bachan calendar''' is a [[sunne]]an calendar made of 11 months divided into 30 days, except the last month which has 31 days, for a total of 331 days. Each month is divided into 3 weeks of 10 days. 
+
+It went into effect in [[Qym]] following a royal decree issued by King [[Bacha I of Qym|Bacha I]] in {{abbr|1930|1603 (Earth Year Equivalent)}}. It was later adopted by other countries in [[Meran]] throughout the centuries and eventually throughout Basis following the [[SOME INTL TIME CONVENTION]] in {{abbr|2322|1929 (Earth Year Equivalent)}}. 
+
+==Years==
+To facilitate comparison of societal and technological progress with Earth's, and to make conversion straightforward, Year 1 of the Bachan calendar matches "Year 0.8307266177" of [[wikipedia:Earth|Earth]]'s [[wikipedia:Gregorian calendar|Gregorian calendar]]. In other words, every Basis Year equals 83.07% of an Earth Year<!--Earth Year divided by 0.8307266177 equals Basis Year-->. The years that follow can either be left as is, with just the number (Example: ''2440'') or add {{abbr|CE|Common Era}} after (Example: ''2440 CE''). The years that predate that epoch either use a negative sign before the year (Example: ''-2440'') or add {{abbr|BCE|Before Common Era}} after (Example: ''2440 BCE'').
+
+This means that the Earth Year 2027 would equal the Basis Year 2440<!--2440.03256524--> (rounded). In a mirror manner, Basis Year 2400 would equal the Earth Year "1993.74388248", that is to say the start of the Basis Year 2400 was equivalent to September 29th, 1993. In the wiki, this will be written using the [[Template:abbr|abbreviation template]] as follow: 
+
+:{{tlc|abbr|2400|1993.74 (Earth Year Equivalent)}}
+
+Yielding: 
+
+:<code>{{abbr|2400|1993.74 (Earth Year Equivalent)}}</code>
+
+==Months==
+{| class="wikitable"
+|+A year is divided into eleven months
+! {{abbr|No.|Number}} !! [[Qymish language|Qymish]] !! Transliteration !! Heroic name !! Length in days
+|-
+| 1 || Ⰰⱇⰿⰺⰾⰹⱀ || Afmylin<!--Af = one; Mylin = month--> || [[Elak]]<!--Alex--> || 30
+|-
+| 2 || Ⰱⱁⰿⰺⰾⰹⱀ || Bomylin || [[Najard]]<!--Dryan--> || 30
+|-
+| 3 || Ⰲⰺⰿⰺⰾⰹⱀ || Vymylin || [[Meliv]]<!--Will--> || 30
+|-
+| 4 || Ⰳⰷⰿⰺⰾⰹⱀ || Gẽmylin || [[Kiredef]]<!--Federico--> || 30
+|-
+| 5 || Ⰴⱆⱒⰿⰺⰾⰹⱀ || Duqmylin || [[Nojed]]<!--Dejon--> || 30
+|-
+| 6 || Ⰵⱋⰿⰺⰾⰹⱀ || Eshmylin || [[Mabush]]<!--Shub--> || 30
+|-
+| 7 || Ⰶⱖⱂⰿⰺⰾⰹⱀ || Zhüpmylin || [[Sluj]]<!--Juls--> || 30
+|-
+| 8 || Ⰷⰸⰿⰺⰾⰹⱀ || Ẽzmylin || [[Tolikar]]<!--Carl--> || 30
+|-
+| 9 || Ⰸⱛⱅⰿⰺⰾⰹⱀ || Zãtmylin || [[Nats]]<!--Stan--> || 30
+|-
+| 10 || Ⰺⰾⰽⰿⰺⰾⰹⱀ || Ylkmylin || [[Niark]]<!--Krijn--> || 30
+|-
+| 11 || Ⰺⰾⰽⰰⱇⰿⰺⰾⰹⱀ || Ylkafmylin || [[Suga]]<!--Agus--> || 31
+|-
+|}
+
+==Weeks==
+A month in the Bachan calendar is divided into 3 weeks of 10 days each. The days are named after the 8 planets in the [[Sunne star system]], as well as [[Sunne]] and [[Mōna]]. 
+
+{| class="wikitable"
+|+A week is divided into ten days
+! {{abbr|No.|Number}} !! [[Qymish language|Qymish]] !! Transliteration !! Astronomical object
+|-
+| 1 || Ⰰⱇⰰⰶⰰⱀ || Afazhan || [[Basis]]
+|-
+| 2 || Ⰱⱁⰰⰶⰰⱀ || Boazhan || [[Mōna]]
+|-
+| 3 || Ⰲⰺⰰⰶⰰⱀ || Vyazhan || [[Sunne]]
+|-
+| 4 || Ⰳⰷⰰⰶⰰⱀ || Gẽazhan || [[PLANET 1]]
+|-
+| 5 || Ⰴⱆⱒⰰⰶⰰⱀ || Duqazhan || [[PLANET 2]]
+|-
+| 6 || Ⰵⱋⰰⰶⰰⱀ || Eshazhan || [[PLANET 3]]
+|-
+| 7 || Ⰶⱖⱂⰰⰶⰰⱀ || Zhüpazhan || [[PLANET 4]]
+|-
+| 8 || Ⰷⰸⰰⰶⰰⱀ || Ẽzazhan || [[PLANET 5]]
+|-
+| 9 || Ⰸⱛⱅⰰⰶⰰⱀ || Zãtazhan || [[PLANET 6]]
+|-
+| 10 || Ⰺⰾⰽⰰⰶⰰⱀ || Ylkazhan || [[PLANET 7]]
+|-
+|}
+
+Most religions on Basis have a designated one holy day during the week. In [[Sunneism]] and [[Mōnaïsm]], it is on the day of [[Mōna]], while in [[Scildism]] and [[Ānism]], it is on the day of [[Basis]]. In [[Manigism]], they do not have a weekly holy day, but rather celebrate the [[Last Day of the Year]] as their holy day, representing a new cycle. 
+
+==Date format==
+For wiki purposes, the English date format would be: 
+*Neutral short format: dd/mm/yyyy (Example: ''14/05/2440'')
+*Alternative short format: dd/w/mm/yyyy (Example: ''04/2/05/2440'')
+*Neutral medium format: Day 'd' Month 'm' Year 'yyyy' (Example: ''Day 14 Month 5 Year 2440'')
+*Alternative short format: Day 'd' Week 'w' Month 'm' Year 'yyyy' (Example: ''Day 4 Week 2 Month 5 Year 2440'')
+*Neutral long format: 'd' day of the 'm' month in the year 'yyyy' (Example: ''14th day of the 5th month in the year 2440'')
+*Alternative long format: 'd' day of the 'w' week of the 'm' month in the year 'yyyy' (Example: ''4th day of the 2nd week of the 5th month in the year 2440'')
+*Scildist long format: 'd' day of the month of 'heroic name' in the year 'yyyy' (Example: ''14th day of the month of [[Nojed]] in the year 2440'')
+
+[[Category:Calendar]][[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

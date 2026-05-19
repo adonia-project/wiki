@@ -1,0 +1,58 @@
+{{Infobox rail line
+| box_width                       = 
+| name                            = Castejón Metro Maraña Line
+| other_name                      = Line 3 / M (Main line) / Mb (Branch line)
+| linenumber                      = 3
+| native_name                     = Linia de Metro de Castejón a Maranya
+| native_name_lang                = bl
+| color                           = {{rcr|Castejón Metro|M}}
+| mapcolor                        = {{rcb|Castejón Metro|M|box}} {{W|Red}} (#{{rcr|Castejón Metro|M}})
+| logo                            = Logo of Castejon Metro Maraña Line.svg
+| logo_width                      = 50px
+| logo2                           = Logo of Castejon Metro Maraña branch Line.svg
+| logo_width2                     = 50px
+| image                           = Maraña Line.png
+| image_width                     = 300px
+| caption                         = Maraña Line 2000 series trains at [[Berreyarza Station]] ([[Trinacria]])
+| type                            = {{W|Rapid transit}}
+| system                          = [[Concordia Rapid Transit]]
+| status                          = 
+| locale                          = [[Castejón]]
+| start                           = {{STN|Prosperidad|x}} (Main) / {{STN|El Cañaveral|x}} (Branch)
+| end                             = {{STN|Golondrinas|x}} (Main) / {{STN|Aeropuerto T2|x}} (Branch)
+| stations                        = 28 (including branch line)
+| routes                          = 
+| daily_ridership                 = 1,159,898 (2017)
+| open                            = {{start date and age|1958|05|15|df=yes}}
+| close                           = 
+| owner                           = {{ric|Castejón Metro|name=y}}
+| operator                        = 
+| character                       = 
+| depot                           = Pueblo Nuevo, Golondrinas
+| stock                           = [[w:Tokyo Metro 2000 series|2000 series]]
+| linelength                      = {{cvt|118.3|km|mi|abbr=on}} (Main line)<br>{{cvt|14.2|km}} (Branch Line)
+| tracklength                     = 
+| tracks                          = [[w:Double-track railway|Double-track]]
+| maxincline                      = 3.5%
+| minradius                       = {{cvt|140|m|ft}} (Main line: Near {{STN|Trafalgar|x}})<br>{{cvt|125|m}} (Branch Line)
+| gauge                           = {{RailGauge|sg|allk=on}}
+| electrification                 = {{600 V DC}} ({{W|third rail}})
+| speed                           = {{cvt|75|km/h}} (Main line)<br>{{cvt|65|km/h}} (Branch line)
+| trainprotection                 =
+| signalling                      = {{Plainlist|
+* Castejón Metro {{W|CS-ATC}}
+* {{W|Communications-based train control}}
+}}
+| elevation                       = 
+| map                             = 
+}}
+
+The '''Castejón Metro Maraña Line''' ({{Lang-bl|Linia de Metro de Castejón a Maranya}}) is a [[W:Rapid transit|subway]] line in [[Castejón]], Balisca, operated by [[Castejón Metro]]. The line runs between [[Prosperidad Station]] in [[Charxes]] and [[Golondrinas Station]] in [[Trinacria]], with a branch line between [[El Cañaveral Station]] and [[Aeropuerto T2 Station]] ([[Concordia International Airport|Concordia Airport]]). The official name is '''Line 3 Maraña Line'''.
+
+The line was named after the [[Maraña]] barrio in the [[Coruxón]] borough, under which it passes. On maps, diagrams and signboards, the line is shown using the color red, and its stations are given numbers using the letters "M" for the main line and "Mb" for the branch line. 
+
+{{Castejón}}{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Castejón]]
+[[Category:Castejón Metro]]
+[[Category:Transport in Balisca]]

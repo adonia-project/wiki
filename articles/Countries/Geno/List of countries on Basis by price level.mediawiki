@@ -1,0 +1,53 @@
+{{Basis}}
+
+The '''list of countries by price level''' shows countries by their [[wikipedia:price level index|price level index]]. 
+
+==List==
+{{Table alignment}}
+{| class="wikitable sortable static-row-numbers col2center"
+|+List of countries by global price level as % of Basis average ({{abbr|2440|2027 (Earth Year Equivalent)}})
+!Country / territory
+!Price level
+|-
+|{{flag|Thyon}}
+|177.6<!--Comparable to Iceland/Israel/Australia-->
+|-
+|{{flag|TBD}}<!--Leading reserve currency; ideally backed by oil like the petrodollar; same price level as the US compared to global average 100-->
+|158.5
+|-
+|{{flag|Imendia}}
+|137.1
+|-
+|{{flag|Qym}}
+|135.0<!--Comparable to the Netherlands or Austria-->
+|-
+|{{flag|Prugundy}}
+|127.4<!--Comparable to the Puerto Rico or France-->
+|-
+|{{flag|Nykal}}
+|115.7
+|-
+|{{flag|Gosaria}}
+|106.2
+|-
+|{{flag|Tamodia}}
+|99.6
+|-
+|{{flag|Afarut}}
+|94.8
+|-
+|{{flag|Holaria}}
+|70.9<!--Comparable to Poland-->
+|-
+|{{flag|Kibabi}}
+|61.5<!--Comparable to Chad-->
+|-
+|{{flag|Haynadur}}
+|44.2<!--Comparable to Sri Lanka and India-->
+|-
+|{{flag|Geno}}
+|43.4<!--Comparable to Nepal, Belarus, Angola, Iran-->
+|-
+|}
+
+[[Category:Basis]]

@@ -1,0 +1,194 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Nagata Line
+| image = Okami Metro Nagata line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series70-01.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 70 series|70 series]] linear motor train at [[Okami Dome-Mae Station]].
+| native_name = 長田線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 7
+| stations = 17
+| ridership = 620,000 (FY2025)
+| began_operation = {{start date and age|1990|03|20|df=y}}
+| system_length = {{cvt|15.0|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{1500 V DC|conductor=overhead}}
+| map = [[File:Okami Metro Nagata Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Nagata Line'''|長田線|Nagata-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It serves as a specialized east-west connector, linking the industrial bay ward of [[Taisho Ward, Okami|Taisho]] with the eastern parklands of [[Tsurumi Ward, Okami|Tsurumi]] and [[Kadoma]]. On system maps, the line is color-coded **lime green** ({{Okami Metro color|N}}), and its stations use the prefix "N".
+
+The Nagata Line was the first subway in Okaiken to utilize **Linear Motor** propulsion. This technology allows the trains to navigate steep grades and sharp curves that conventional trains cannot handle, enabling the line to thread through the densely built-up city center deep underground. The tunnel diameter is significantly smaller than other lines, resulting in compact stations and 4-car trainsets.
+
+
+
+==History==
+Construction of the Nagata Line began in the 1980s to provide access to the **International Garden and Greenery Exposition (Expo '90)** held at Tsurumi-Ryokuchi. The initial section between [[Kyobashi-Coms Station|Kyobashi-Coms]] and [[Tsurumi-Ryokuchi Station|Tsurumi-Ryokuchi]] opened on March 20, 1990.
+
+The line was subsequently extended westward through the city center, reaching [[Shinsaibashi-Dori Station|Shinsaibashi-Dori]] in 1996 and its current western terminus at [[Taisho-River Station|Taisho-River]] in 1997. This extension created vital cross-town links with every other major subway line in the network.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* Stops: All trains stop at all stations (Local service only).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|N}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|N}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|N}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|N}};" | Distance (km)
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|N}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|N}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|N}};" | Between<br>Stations
+! style="border-bottom:3px solid #{{Okami Metro color|N}};" | Total
+|-
+| {{OMSN|N|01}}
+| [[Kadoma-South Station|Kadoma-South]]
+| 門真南
+| -
+| 0.0
+| {{rint|okami|bus}} Highway Bus Terminal
+| [[Kadoma, Okami|Kadoma]]
+|-
+| {{OMSN|N|02}}
+| [[Tsurumi-Ryokuchi Station|Tsurumi-Ryokuchi]]
+| 鶴見緑地
+| 1.2
+| 1.2
+|
+| rowspan="3" | [[Tsurumi Ward, Okami|Tsurumi]]
+|-
+| {{OMSN|N|03}}
+| [[Yokozutsumi Station|Yokozutsumi]]
+| 横堤
+| 1.1
+| 2.3
+|
+|-
+| {{OMSN|N|04}}
+| [[Imafuku-Tsurumi Station|Imafuku-Tsurumi]]
+| 今福鶴見
+| 1.3
+| 3.6
+|
+|-
+| {{OMSN|N|05}}
+| [[Gamo-Yonchome Station|Gamo-Yonchome]]
+| 蒲生四丁目
+| 1.0
+| 4.6
+| {{rint|okami|I}} [[Imaichi Line]] (I07)
+| rowspan="2" | [[Joto Ward, Okami|Joto]]
+|-
+| {{OMSN|N|06}}
+| [[Kyobashi-Coms Station|Kyobashi-Coms]]
+| 京橋コムズ
+| 1.5
+| 6.1
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Tozai Line (OR)]]<br>{{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Main Line
+|-
+| {{OMSN|N|07}}
+| [[Okami Business Park Station|Okami Business Park]]
+| 大紙ビジネスパーク
+| 1.2
+| 7.3
+|
+| rowspan="3" | [[Chuo Ward, Okami|Chuo]]
+|-
+| {{OMSN|N|08}}
+| [[Morinomiya-East Station|Morinomiya-East]]
+| 森ノ宮東
+| 1.0
+| 8.3
+| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C10)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+|-
+| {{OMSN|N|09}}
+| [[Tamatsukuri-Koen Station|Tamatsukuri-Koen]]
+| 玉造公園
+| 0.9
+| 9.2
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z08)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+|-
+| {{OMSN|N|10}}
+| [[Tanimachi-Rokuchome Station|Tanimachi-Rokuchome]]
+| 谷町六丁目
+| 1.2
+| 10.4
+| {{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B07)
+| rowspan="3" | [[Tennoji Ward, Okami|Tennoji]]
+|-
+| {{OMSN|N|11}}
+| [[Matsuyamachi Station|Matsuyamachi]]
+| 松屋町
+| 0.9
+| 11.3
+|
+|-
+| {{OMSN|N|12}}
+| [[Nagahoribashi Station|Nagahoribashi]]
+| 長堀橋
+| 0.8
+| 12.1
+| {{rint|okami|A}} [[Asahi Line]] (A08)
+|-
+| {{OMSN|N|13}}
+| [[Shinsaibashi-Dori Station|Shinsaibashi-Dori]]
+| 心斎橋通
+| 0.8
+| 12.9
+| {{rint|okami|M}} [[Miyoshi Line]] (M13)<br>{{rint|okami|S}} [[Shitayanagi Line]] (S10)
+| rowspan="2" | [[Chuo Ward, Okami|Chuo]]
+|-
+| {{OMSN|N|14}}
+| [[Nishi-Ohashi Station|Nishi-Ohashi]]
+| 西大橋
+| 0.6
+| 13.5
+|
+|-
+| {{OMSN|N|15}}
+| [[Nishi-Nagahori Station|Nishi-Nagahori]]
+| 西長堀
+| 0.7
+| 14.2
+| {{rint|okami|S}} [[Shitayanagi Line]] (S08)
+| rowspan="3" | [[Nishi Ward, Okami|Nishi]]
+|-
+| {{OMSN|N|16}}
+| [[Okami Dome-Mae Station|Okami Dome-Mae]]
+| 大紙ドーム前
+| 0.9
+| 15.1
+| {{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Namba Line
+|-
+| {{OMSN|N|17}}
+| [[Taisho-River Station|Taisho-River]]
+| 大正川
+| 0.8
+| 15.9
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+|}
+
+==Rolling Stock==
+* [[Okami Metro 70 series|70 series]] (4-car sets):
+*: Introduced in 1990 for the opening of the line. These trains utilize linear induction motors, allowing for a low-floor profile and the ability to negotiate the line's steep gradients and tight curves. They are instantly recognizable by their lime green livery and compact size.
+* [[Okami Metro 80 series|80 series]] (4-car sets):
+*: Introduced later to increase capacity. While mechanically similar to the 70 series, they feature a more modern, angular front design and updated interior LCD displays.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Linear motor railways]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

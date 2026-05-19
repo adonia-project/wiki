@@ -1,0 +1,252 @@
+{{Basis}}
+The '''Ottelian language''' is an [[Ottelic languages|Ottelic language]] that originated in the ancient region of [[Ottelia]] in [[Meran]]. 
+
+==Writing system==
+===Alphabet and IPA===
+Ottelian is written with 38 letters of the [[Ottelian script]]<!--Deseret alphabet-->.
+
+{| style="background:none;"
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;"
+|+ [[wikipedia:Consonant|Consonants]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|b}}</big>
+| align="left"| '''𐐒𐐺'''
+| align="left"| '''Bb'''
+|align="left"| '''b'''oat
+|-
+|<big>{{IPA|ts}}</big>
+| align="left"| '''𐐧𐑏'''
+| align="left"| '''Cc'''
+|align="left"| ba'''ts'''
+|-
+|<big>{{IPA|d}}</big>
+| align="left"| '''𐐔𐐼'''
+| align="left"| '''Dd'''
+|align="left"| '''d'''o
+|-
+|<big>{{IPA|f}}</big>
+| align="left"| '''𐐙𐑁'''
+| align="left"| '''Ff'''
+|align="left"| '''f'''estival
+|-
+|<big>{{IPA|ɡ}}</big>
+| align="left"| '''𐐘𐑀'''
+| align="left"| '''Gg'''
+|align="left"| '''g'''ain
+|-
+|<big>{{IPA|ɣ}}</big>
+| align="left"| '''𐐜𐑄'''
+| align="left"| '''Hh'''
+|align="left"| '''h'''at
+|-
+|<big>{{IPA|ʒ}}</big>
+| align="left"| '''𐐠𐑈'''
+| align="left"| '''ZHzh'''
+|align="left"| plea'''s'''ure
+|-
+|<big>{{IPA|k}}</big>
+| align="left"| '''𐐗𐐿'''
+| align="left"| '''Kk'''
+|align="left"| s'''k'''y
+|-
+|<big>{{IPA|q}}</big>
+| align="left"| '''𐐍𐐵'''
+| align="left"| '''Qq'''
+|align="left"| ''Kazakh'' '''қ'''аза'''қ'''ша; sort of like '''Q'''atar
+|-
+|<big>{{IPA|l}}</big>
+| align="left"| '''𐐢𐑊'''
+| align="left"| '''Ll'''
+|align="left"|'''l'''ean
+|-
+|<big>{{IPA|m}}</big>
+| align="left"| '''𐐣𐑋'''
+| align="left"| '''Mm'''
+|align="left"| '''m'''oon
+|-
+|<big>{{IPA|n}}</big>
+| align="left"| '''𐐤𐑌'''
+| align="left"| '''Nn'''
+|align="left"| '''n'''ote
+|-
+|<big>{{IPA|ɲ}}</big>
+| align="left"| '''𐐥𐑍'''
+| align="left"| '''Ññ'''
+|align="left"| ''Spanish'' '''ñ''', ''French'' '''gn'''
+|-
+|<big>{{IPA|p}}</big>
+| align="left"| '''𐐑𐐹'''
+| align="left"| '''Pp'''
+|align="left"| '''P'''a'''p'''er
+|-
+|<big>{{IPA|r}}</big>
+| align="left"| '''𐐡𐑉'''
+| align="left"| '''Rr'''
+|align="left"| ''Spanish'' '''r'''ío; ''Ukrainian'' '''р'''анок
+|-
+|<big>{{IPA|ʁ}}</big>
+| align="left"| '''𐐐𐐸'''
+| align="left"| '''RHrh'''
+|align="left"| ''French'' '''r'''
+|-
+|<big>{{IPA|ɹ̠}}</big>
+| align="left"| '''𐐌𐐴'''
+| align="left"| '''WRwr'''
+|align="left"| ''English'' '''r'''
+|-
+|<big>{{IPA|s}}</big>
+| align="left"| '''𐐝𐑅'''
+| align="left"| '''Ss'''
+|align="left"| '''s'''ix
+|-
+|<big>{{IPA|ʃ}}</big>
+| align="left"| '''𐐟𐑇'''
+| align="left"| '''SHsh'''
+|align="left"| '''sh'''oe
+|-
+|<big>{{IPA|t}}</big>
+| align="left"| '''𐐓𐐻'''
+| align="left"| '''Tt'''
+|align="left"| '''t'''ank
+|-
+|<big>{{IPA|θ}}</big>
+| align="left"| '''𐐛𐑃'''
+| align="left"| '''THth'''
+|align="left"| '''Th'''ink
+|-
+|<big>{{IPA|tʃ}}</big>
+| align="left"| '''𐐕𐐽'''
+| align="left"| '''CHch'''
+|align="left"| i'''tch'''y, '''ch'''eat
+|-
+|<big>{{IPA|v}}</big>
+| align="left"| '''𐐚𐑂'''
+| align="left"| '''Vv'''
+|align="left"| '''v'''ision
+|-
+|<big>{{IPA|z}}</big>
+| align="left"| '''𐐞𐑆'''
+| align="left"| '''Zz'''
+|align="left"| '''z'''ero
+|-
+|}
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;" 
+|+ [[wikipedia:Vowel|Vowels]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|a}}</big>
+| align="left"| '''𐐈𐐰'''
+| align="left"| '''Aa'''
+|align="left"| f'''a'''ther
+|-
+|<big>{{IPA|ɒ}}</big>
+| align="left"| '''𐐉𐐱'''
+| align="left"| '''Ââ'''
+|align="left"| '''o'''n
+|-
+|<big>{{IPA|ɛ}}</big>
+| align="left"| '''𐐇𐐯'''
+| align="left"| '''Ee'''
+|align="left"| b'''e'''t
+|-
+|<big>{{IPA|ə}}</big>
+| align="left"| '''𐐁𐐩'''
+| align="left"| '''Ëë'''
+|align="left"| '''a'''bove; ''French'' d'''e'''main
+|-
+|<big>{{IPA|ɛ̃}}</big>
+| align="left"| '''𐐦𐑎'''
+| align="left"| '''Ẽẽ'''
+|align="left"| s'''ain'''t
+|-
+|<big>{{IPA|i}}</big>
+| align="left"| '''𐐀𐐨'''
+| align="left"| '''Ii'''
+|align="left"| s'''ee'''
+|-
+|<big>{{IPA|ɪ}}</big>
+| align="left"| '''𐐆𐐮'''
+| align="left"| '''Yy'''
+|align="left"| California English b'''i'''t; New Zealand English b'''e'''d; ''Ukrainian'' в'''и'''прав'''и'''т'''и'''
+|-
+|<big>{{IPA|o}}</big>
+| align="left"| '''𐐄𐐬'''
+| align="left"| '''Oo'''
+|align="left"| st'''o'''ry
+|-
+|<big>{{IPA|ø}}</big>
+| align="left"| '''𐐊𐐲'''
+| align="left"| '''Öö'''
+|align="left"| ''French'' '''eu''', ''German'' '''ö'''
+|-
+|<big>{{IPA|ɔ̃}}</big>
+| align="left"| '''𐐃𐐫'''
+| align="left"| '''Õõ'''
+|align="left"| ''French'' '''on'''
+|-
+|<big>{{IPA|u}}</big>
+| align="left"| '''𐐅𐐭'''
+| align="left"| '''Uu'''
+|align="left"| c'''oo'''l
+|-
+|<big>{{IPA|y}}</big>
+| align="left"| '''𐐋𐐳'''
+| align="left"| '''Üü'''
+|align="left"| ''French'' fl'''u'''te; ''German'' '''ü'''ber
+|-
+|<big>{{IPA|œ̃}}</big>
+| align="left"| '''𐐂𐐪'''
+| align="left"| '''Ũũ'''
+|align="left"| ''French'' '''un'''
+|-
+|<big>{{IPA|j}}</big>
+| align="left"| '''𐐏𐐷'''
+| align="left"| '''Jj'''
+|align="left"| '''Y'''ogurt
+|-
+|}
+|}
+
+===Orthography===
+
+==Grammary==
+
+==Vocabulary==
+===Numerals===
+Modern numerals derive from Ottelian numerals. U/C
+
+{| border=0 style="text-align:center"
+| valign="top" |
+{| class="wikitable"
+! Value
+! colspan=3|Ottelian
+|-
+| 0 || 𐐟 || 𐐟𐐲𐑋 || Shöm
+|-
+| 1 || 𐐈 || 𐐈𐐿𐐩 || Akë
+|-
+| 2 || 𐐀 || 𐐀𐐿𐐩 || Ikë
+|-
+| 3 || 𐐚 || 𐐚𐑎 || Vẽ
+|-
+| 4 || 𐐤 || 𐐤𐐫 || Nõ
+|-
+| 5 || 𐐠 || 𐐠𐐰𐑍𐐩 || Zhañë
+|-
+| 6 || 𐐞 || 𐐞𐐯𐐸 || Zerh
+|-
+| 7 || 𐐑 || 𐐑𐐰𐐽 || Pach
+|-
+| 8 || 𐐝 || 𐐝𐑋𐐳𐑏 || Smüc
+|-
+| 9 || 𐐋 || 𐐋𐐹𐐩 || Üpë
+|-
+|}
+|}
+
+[[Category:Meran]][[Category:MyNameJuls]][[Category:Basis]]

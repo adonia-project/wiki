@@ -1,0 +1,42 @@
+{{Infobox subdivision type
+| name = Canton<br />{{native name|bl|Cantón}}
+| alt_name = 
+| map = {{Balisca Labelled Map Scalable|image-width=350}}
+| category = {{W|Confederation|Confederated states}}
+| territory = [[Baliscan Confederation]]
+| start_date = 
+| current_number = 3,904
+| number_date = 
+| population_range = 573 ([[Baliscan Arktici]]) – 6,561,759 ([[Macaio]])
+| area_range = {{Convert|6.5|km2|abbr=on}} ([[Castello]]) –<br>{{Convert| 1,461,597|km2|abbr=on}} ([[Baliscan Antarctica]])
+| government = [[Communes of Balisca|Communes]] → '''[[Cantons of Balisca|Cantons]]''' → [[Regions of Balisca|Regions]] → [[Politics of Balisca|Confederal]]
+| subdivision = Communes (''Comuna'')
+}}
+
+{{Politics of Balisca}}
+
+A '''canton''' ({{lang-bl|cantón}}) is an {{W|administrative subdivision}} of [[Regions of Balisca|regions]] within the [[Baliscan Confederation]]. In Balisca's  system, each region is completely free to decide its own internal organisation, and thus cantons are federations of [[communes of Balisca|individual communes]] that have elected to share competencies and resources between themselves. They are roughly equivalent to {{W|provinces}} in other countries, but are substantially more autonomous. The territorial boundaries of cantons are fluid, and can be altered at any time with the approval of two-thirds (66%) of the affected population. 
+
+== Political structure and role ==
+The legal basis for the canton is found in Article 12 of the [[Confederal Charter]], which establishes the principle of "radical subsidiarity." This principle dictates that all authority resides originally in the [[Communes of Balisca|communes]], and powers are only delegated upwards to the cantonal, [[Regions of Balisca|regional]], or [[Confederal government of Balisca|confederal]] levels when strictly necessary and through the [[W:Consent of the governed|consent of the governed]]. Cantons are governed by a cantonal council (''consejo cantonal''), which functions not as a parliament of representatives, but as a coordinating body of delegates. The Council is composed of spokespersons (''voceros'') selected by each member commune. These delegates are bound by an [[W:Imperative mandate|imperative mandate]], meaning they must vote according to the specific instructions of their home commune and can be [[W:Recall election|recalled]] at any time.
+
+Because [[Regions of Balisca|Baliscan regions]] are free to determine their own internal organization, the role of the canton varies significantly across the archipelago; in [[Rural society in Balisca|rural areas]], cantons are often more powerful entities responsible for managing natural resources, public infrastructure, and watershed management. In urban areas''',''' cantons function more like city boroughs or districts, coordinating high-density services like mass transit and sanitation.
+
+While specific powers vary based on the regional constitution, cantons generally hold jurisdiction over "intermediate" issues that are too large for a single commune but too local for the regional government:
+
+* '''Ecological stewardship''' In line with Balisca's [[W:Circular economy|circular]] [[W:Doughnut (economic model)|"doughnut" economic model]], cantons are the primary auditors of ecological limits. They track the [[localized eco-ceiling]], monitoring water usage/quality, soil quality, and carbon output to ensure the federation of communes does not overshoot its environmental capacity.
+
+* '''Home defense:''' The canton is the operational headquarters for the [[Autonomous Militia|Autonomous Militias]] (''Milicias Autónomas''), popularly known as the ''Fedayín''. The [[Cantonal Defense Committee]] coordinates the training, logistics, and deployment of these volunteer home-guard units. During the [[Camboriú War]] (1976), the cantonal defense committee proved crucial in mobilizing the local defense when confederal command structures were disrupted.
+* [[W:Decentralized economic planning|'''Decentralized economic planning''']]: Cantons serve as the hub for federations of worker cooperatives (called "second-level cooperatives"). For example, while a single bakery is managed by its workers (at the communal level), the grain distribution network and flour mills are often managed at the canton level to ensure efficiency and equitable distribution across the area.
+* '''Justice:''' Most cantons maintain an tribunal or court-like institution for arbitration, which serves as the appellate court for disputes that cannot be resolved in the communal [[Reconciliation council (Balisca)|reconciliation council]].
+
+== See also ==
+
+* [[Politics of Balisca]]
+* [[Communes of Balisca]]
+* [[W:Participatory economics|Participatory economics]]
+* [[Anarchism in Balisca]]
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Administrative divisions of Balisca]]
+[[Category:Government and politics of Balisca]]

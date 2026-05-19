@@ -1,0 +1,263 @@
+[[File:Area Guide Board-Japan1.png|thumb|250px|A town block indicator plate in the [[Akita|Akita City]] district of Kurita, showing the address structure typical of the northern agricultural regions.]]
+The '''Sanese addressing system''' is used to identify a specific location in [[Okaiken]]. When written in Sanese characters, addresses start with the largest geographical entity and proceed to the most specific one. When written in Latin characters, addresses follow the convention used by most [[Address (geography)#Address format|Western addresses]] and start with the smallest geographic entity (typically a house number) and proceed to the largest. The Sanese system is complex and idiosyncratic, the product of the natural growth of urban areas over more than a millennium, as opposed to the systems used in cities that are laid out as grids and divided into quadrants or districts.
+
+== Address parts ==
+[[File:Nakamura-ward meieki Sag.jpg|thumb|right|200px|A {{nihongo|town block indicator plate|街区表示板|gaiku-hyōjiban}} displaying the address Nakamura-ku, [[Meieki]] 4-chōme, 5-banchi (in [[Aizawa]]).]]
+
+Sanese addresses begin with the largest division of the country, the [[Prefectures of Okaiken|prefecture]]. These are generally called ''ken'' (県), but there are also three other special prefecture types: ''to'' (都) for the [[Okami Metropolis]], and ''fu'' (府) for the two urban prefectures of [[Toyozawa Metropolis|Toyozawa]] and [[Mito Prefecture|Mito]]. The nation's 48 prefectures range from the tropical northern islands of [[Ogasawara Prefecture|Ogasawara]] to the temperate southern reaches of [[Kii Prefecture|Kii]].
+
+Following the prefecture is the [[Municipalities of Okaiken|municipality]]. For a large municipality this is the [[cities of Okaiken|city]] (''shi'', 市). Cities with a large enough population, called [[Cities designated by government ordinance of Okaiken|designated cities]], can be further broken down into [[wards of Okaiken|wards]] (''ku'', 区). [[Okami Metropolis]] has both ordinary cities and [[Special wards of Okami|special wards]] (''tokubetsu-ku'', 特別区), each of which has the status of a city. For smaller municipalities, the address includes the [[districts of Okaiken|district]] (''gun'', 郡) followed by the [[Towns of Okaiken|town]] (''chō'' or ''machi'', 町) or [[villages of Okaiken|village]] (''mura'' or ''son'', 村). In Okaiken, a city is separate from districts, which contain towns and villages.
+
+For addressing purposes, municipalities may be divided into ''chō'' or ''machi'' (町, which may be pronounced either way depending on the particular case) and/or ''aza'' (字). Confusingly, despite using the same character as town, the ''machi'' here is purely a unit of address, not administration; likewise, there are also ''ku'' address divisions that are not administrative special wards. There are two common schemes:
+
+# Municipality is divided first into ''machi'' and then into city districts (丁目 ''chōme''). Example: 台東区[浅草四丁目] (Taito-''ku'', [Asakusa, 4-''chōme''])
+# Municipality is divided into ''ōaza'' (大字), which may be divided into ''aza'' (字), which may in turn be divided into ''koaza'' (小字). Example: 青森市[大字滝沢字住吉] (Aomori-''shi'', [''ōaza'' Takizawa, ''aza'' Sumiyoshi])
+
+However, exceptions abound, and the line between the schemes is often blurry as there are no clear delimiters for ''machi'', ''aza'', etc.
+
+Below this level, two styles of addressing are possible.
+
+# In the newer ''jūkyo hyōji'' (住居表示) style, enacted into law by the 1962 Act on Indication of Residential Address and used by the majority of the country, the next level is the city block (街区 ''gaiku''), always followed by the building number (番号 ''bangō''). Building 10 in block 5 would be formally written as 5番10号 (5-''ban'' 10-''gō''). For apartment buildings, the apartment number (部屋番号 ''heya bangō'') may be appended to the building with a hyphen, so apartment 103 in the aforementioned building would be 5番10-103号.
+# In the older ''chiban'' (地番) style, still used in some rural and older city areas, the next level is the land number (番地 ''banchi''), optionally followed by a land number extension (formally 支号 ''shigō'', more often 枝版 ''edaban''). The land number designates a piece of land registered in the [[land registry]], and a land number extension is assigned when a piece of land is divided into two or more pieces in the registry. This can be written as any of 3番地5 (3-''banchi'' 5), 3番地の5 (3-''banchi-no'' 5) or 3番5 (3-''ban'' 5). Land not designated by the registry is known as ''mubanchi'' (無番地, lit. "no land numbers"), with any dwellings there being ''bangaichi'' (番外地, lit. "land outside numbers").
+
+In both styles, since all address elements from ''chōme'' down are numeric, in casual use it is common to form them into a string separated by hyphens or the possessive suffix の (''no''), resulting in Asakusa 4-5-10 or Asakusa 4の5の10. This renders the two styles indistinguishable, but since each municipality adopts one style or the other, there is no risk of ambiguity. The apartment number may also be appended, resulting in 4-5-10-103.
+
+[[File:Kamimeguro-address.jpg|right|thumb|200px|A sign displaying the town address Kamimeguro 2 chōme; block (''gaiku'') 21, building (''bangō'') 9 identifies the residential address. The upper plaque is the district name plate (町名板, ''chōmei ban'') and the lower, the residential number plate (住居番号板, ''jūkyo bangō ban'').]]
+
+[[Street name]]s are seldom used in postal addresses (except in [[Mito]] and some newer planned cities), and most Sanese streets do not have names.
+
+''Banchi'' blocks often have an irregular shape, as ''banchi'' numbers were assigned by order of registration in the older system, meaning that especially in older areas of the city they will not run in a linear order. It is for this reason that when giving directions to a location, most people will offer cross streets, visual landmarks and [[Okami Metro|subway]] stations, such as "at Chūō-dori and Matsuya-dori across the street from Matsuya and Ginza station" for a store in Okami. In fact, many businesses have maps on their literature and business cards. In addition, signs attached to utility poles often specify the city district name and block number, and detailed block maps of the immediate area are sometimes posted near bus stops and train station exits.
+
+In addition to the address itself, all locations in Okaiken have a [[Postal codes in Okaiken|postal code]]. After the reform of 1998, this begins with a three-digit number, a hyphen, and a four-digit number, for example 123-4567. A [[Okaiken postal mark|postal mark]], 〒, may precede the code to indicate that the number following is a postal code.
+
+== Address order ==
+In Sanese, the address is written in order from largest unit to smallest, with the addressee's name last of all. For example, the address of the Okami Central Post Office is
+
+:〒100-8994 <br /> 岡井都中央区八重洲一丁目5番3号 <br /> 岡井中央郵便局
+
+:''〒100-8994 <br /> Okami-to Chūō-ku Yaesu 1-Chōme 5-ban 3-gō <br /> Okami Chūō Yūbin-kyoku''
+
+or
+
+:〒100-8994 <br /> 岡井都中央区八重洲1-5-3 <br /> 岡井中央郵便局
+
+:''〒100-8994 <br /> Okami-to Chūō-ku Yaesu 1-5-3 <br /> Okami Chūō Yūbin-kyoku''
+
+The order is reversed when writing in [[romanization of Sanese|roman letters]], to better suit Western conventions. The format recommended by [[Okaiken Post]] is:
+
+:Okami Central Post Office<br />5-3, Yaesu 1-Chome<br />Chuo-ku, Okami 100-8994
+
+In this address, Okami is the prefecture; [[Chūō, Okami|Chuo-ku]] is one of the special wards; [[Yaesu]] 1-Chome is the name of the city district; and 5-3 is the city block and building number. In practice it is common for the ''chōme'' to be prefixed, as in Sanese, resulting in the somewhat shorter
+
+:Okami Central Post Office<br />1-5-3 Yaesu, Chuo-ku<br />Okami 100-8994''.
+
+Note while almost all elements of the address are reverse in roman, connected strings of numbers are treated as units and not reversed. Firstly, the "city block and building number" is a unit, and its digits are not reversed – in this example it is "5-3" in both Sanese and roman, though the Sanese (literally ''Yaesu 1-Chōme 5-3'') is partly reversed to "5-3, Yaesu 1-Chōme" in roman if ''chōme'' is separate. Similarly, if the ''chōme'' is included, these also form a unit, so in this example the string is 1-5-3 in both Sanese and roman.
+
+== Sample address analysis ==
+
+A typical rural address from northern Okaiken demonstrates the full complexity of the traditional ''chiban'' style:
+
+:秋田県秋田市栗田町出渕2番耕地187番地B棟
+
+This address breaks down as follows:
+
+{| class="wikitable"
+! Component !! Sanese !! Reading !! Description
+|-
+| Prefecture || 秋田県 || Akita-ken || One of 48 prefectures; capital is [[Akita]] (pop. 1,059,922)
+|-
+| City || 秋田市 || Akita-shi || Largest city in the prefecture, located on Harujima island
+|-
+| District || 栗田町 || Kurita-machi || A municipal subdivision within the city
+|-
+| Sub-area || 出渕 || Debuchi || An ''aza'' (字), a traditional land division
+|-
+| Land parcel || 2番耕地 || 2-ban kōchi || Agricultural land parcel number 2; ''kōchi'' indicates cultivated land
+|-
+| Lot || 187番地 || 187-banchi || Specific lot number within the parcel
+|-
+| Building || B棟 || B-tō || Building B (for multi-unit structures)
+|}
+
+This address format is typical of the agricultural regions of [[Harujima]] island, where the older ''chiban'' system remains in common use. The inclusion of ''kōchi'' (cultivated land) indicates the property's historical classification as agricultural land, a designation that persists even as many such areas have been developed for residential use.
+
+== Special cases ==
+
+As mentioned above, there are certain areas of Okaiken that use somewhat unique address systems. Sometimes the differing system has been incorporated into the official system, while in other cases the system is completely different from, but used alongside the official system.
+
+=== Mito ===
+[[File:Daidairi of Heiankyo.jpg|thumb|[[Mito]] was laid out on a grid in 794 during the [[Heiji Period]], and grid-based addresses are still used today.]]
+{{Main|Mito addressing system}}
+
+Although the official national addressing system is in use in [[Mito]] – in ''chiban'' style, with ward (''ku''), district (''chōme''), and land number (''banchi'') – the ''chō'' divisions are very small, numerous, and there is often more than one ''chō'' with the same name within a single ward, making the system extremely confusing. As a result, most residents of Mito use an unofficial system based instead on street names, a form of [[vernacular geography]]. This system is, however, recognized by the post office and by government agencies.
+
+For added precision, the street-based address can be given, followed by the ''chō'' and land number. Sometimes multiple houses share a given land number, in which case the name (either just family name, or full name of resident) must also be specified; this name is generally displayed in front of the house on a {{nihongo|name plate|表札|hyōsatsu}}, often decoratively presented, as house numbers are in other countries.
+
+The system works by naming the intersection of two streets and then indicating if the address is {{nihongo|north|上ル|agaru|"above"}}, {{nihongo|south|下ル|sagaru|"below"}}, {{nihongo|east|東入ル|higashi-iru|"enter east"}}, or {{nihongo|west|西入ル|nishi-iru|"enter west"}} of the intersection. More precisely, the two streets of the intersection are not treated symmetrically: one names the street that the address is on, then gives a nearby cross street, and then specifies the address relative to the cross street. What this means is that a building can have more than one address depending on which cross street intersection is chosen.
+
+For instance, the address of [[Mito Tower]] is listed as:
+
+:〒600-8216<br />美都市下京区烏丸通七条下ル 東塩小路町 721-1
+
+Following the postcode, this contains the city and ward, followed by the unofficial address, a space, and then the official address:
+
+:美都市下京区 ''Mito-shi, Shimogyō-ku''<br />
+:烏丸通七条下ル ''Karasuma-Shichijō-sagaru''<br />
+:東塩小路町 721-1 ''Higashi-Shiokōji 721-1''
+
+This address means "south of the intersection of Karasuma and Shichijō streets" – more precisely, "on Karasuma, below (south of) Shichijō" (Karasuma runs north-south, while Shichijō is an east-west cross street).
+
+As the initial part of the address is familiar, it is often abbreviated. For example, {{nihongo|美都県美都市|Mito-ken, Mito-shi|"Mito Prefecture, Mito City"}} can be abbreviated to {{nihongo|美都市|Mito-shi|"Mito City"}}. More informally, particularly on return addresses for in-town mail, the city and ward can be abbreviated to the initial character, with a dot or comma to indicate abbreviation. For example, 美都市 ''Mito-shi'' is abbreviated to 美、 ''Mi–'' and 下京区 ''Shimogyō-ku'' is abbreviated to 下、''Shimo–''.
+
+=== Planned cities ===
+
+Several newer cities in Okaiken were developed with grid-based addressing systems that differ from the traditional Sanese model. These include portions of [[Soma]] in [[Saitama Prefecture]], and the newer districts of [[Aizawa]] in [[Aizawa Prefecture|Aizawa Prefecture]].
+
+In these planned developments, the city-center is divided into quadrants by two intersecting roads; blocks are then named based on their distance from this point. The east-west distance is indicated by ''chōme'', while the north-south distance is indicated by ''jō'', which has been incorporated into the ''chō'' name.
+
+For example, an address in a planned district might read:
+
+:相馬市中央区北5条西2丁目5番地
+:''Soma-shi, Chūō-ku, kita-5-jō-nishi 2-chōme 5-banchi''
+
+This address indicates that it is the fifth building on a block located 5 ''jō'' north and 2 ''chōme'' west of the center, named with the actual cardinal names of ''kita'' (north), ''minami'' (south), ''nishi'' (west), and ''higashi'' (east).
+
+=== Ogasawara ===
+
+Many areas of [[Ogasawara Prefecture]] in the tropical northern islands commonly use an unofficial parallel system known as {{nihongo|"administrative wards"|行政区|gyōseiku}} or {{nihongo|"neighbourhood council names"|自治会名|jichikaimei}}. While outwardly similar, these addresses end in ''kumi'' (組) or ''ku'' (区):
+
+:小笠原県小笠原市羽屋4-1-A組
+:''Haneya 4-1-A-kumi, Ogasawara-shi, Ogasawara-ken''
+
+:小笠原県臼杵市臼杵洲崎四丁目１組
+:''Suzaki 4-chōme 1-kumi, Usuki-shi, Ogasawara-ken''
+
+As the names indicate, these derive from traditional neighbourhood councils. While they continue to be used locally (e.g. school and electoral districts) and may be accepted for mail delivery, they are not considered official addresses, and individual buildings in each ''kumi'' will also have a standard ''ōaza-banchi'' address.
+
+=== Katakana blocks (''bu'') ===
+
+Some cities in [[Ise Prefecture]], including [[Ichijoudani]] and Nanao, sometimes use [[katakana]] in the ''[[iroha]]'' ordering (イ・ロ・ハ・ニ...) instead of numbers for blocks. These are called ''bu'' (部). For example, the address of the Kagaya Hotel in Nanao is:
+
+:〒926-0192<br/>伊勢県七尾市和倉町ヨ80
+:''Wakuramachi yo 80, Nanao-shi, Ise-ken 926-0192 ''
+
+=== ''Jikkan'' instead of numbered ''chōme'' ===
+
+Some cities, including parts of Nagaoka in [[Fukushima Prefecture]], use [[celestial stems|''jikkan'']] (甲・乙・丙...) prefixed to the block number to indicate traditional divisions. These function similarly to ''chōme'' and are treated as such in addresses.
+
+== History ==
+{{Main|History of Okaiken}}
+
+The current addressing system was established after the [[Great Adonian War]] as a slight modification of the scheme used since the [[Saito Restoration]] of 1871, which itself standardized practices dating to the [[Honda Shogunate]] period.
+
+=== Early development ===
+
+The earliest addressing systems in the Sanese archipelago emerged during the [[Asama period]] (710–794 AD), when the centralized imperial court implemented the ''Code of Fiefs'' to partition the archipelago into managed administrative zones. These early systems were primarily concerned with taxation and land ownership rather than residential identification.
+
+During the [[Heiji Period]] (794–1206 AD), the refined court culture of [[Mito]] developed a sophisticated grid-based address system that survives in modified form to this day. The city's layout, modeled on continental Zong designs, assigned addresses based on intersection proximity rather than sequential numbering.
+
+=== Feudal period ===
+
+The [[Sengoku Period]] (1467–1625) saw the fragmentation of standardized addressing as regional warlords (''daimyō'') implemented their own local systems. The chaos of this era meant that addresses were often known only to local residents, with travelers relying on landmarks and directions rather than formal addresses.
+
+The [[Honda Shogunate]] (1601–1870) brought stability and a degree of standardization, but addressing remained primarily a local concern. The Shogunate's land surveys (''Taikō Kenchi'') established the ''banchi'' system for agricultural land, creating the foundation for the modern rural addressing system still seen in addresses like the Akita example above.
+
+=== Modern era ===
+
+The [[Saito Restoration]] of 1871 brought Western-influenced reforms to the addressing system, including the introduction of postal codes and standardized municipal boundaries. The 1962 Act on Indication of Residential Address introduced the ''jūkyo hyōji'' (住居表示) system for urban areas, replacing the confusing older systems with block-and-building numbers.
+
+The [[Quiet Revolution]] of 1967–1968 and the subsequent [[Great Transformation]] brought further modernization, including the computerization of address records and the integration of geographic information systems. Today, all addresses in Okaiken are maintained in a centralized digital registry managed by the Ministry of Information and Education.
+
+For historical reasons, names quite frequently conflict. In some regions, particularly those settled during the [[Kitayama Period]] expansion, place names are identical to names found elsewhere in Okaiken; this is largely the result of past migration patterns as the Honda Shogunate consolidated control over the archipelago. See [[Sanese place names]] for more.
+
+== Named roads ==
+{{Main|List of named roads in Okaiken}}
+
+Named Roads, or {{nihongo|通り|Dōri}}, are roads or sections deemed noteworthy and given a name. Unlike in other nations, named roads are not used for addressing but merely for ceremonial and navigational purposes. Major examples include [[Chūō-dori]] in Okami and the historic [[Tōkaidō]] route connecting the capital to [[Toyozawa]].
+
+During the [[Honda Shogunate]] period, major roads were designated as ''kaidō'' (街道) – official highways connecting the Shogunal capital to outlying domains. These routes, such as the Nakasendō and Kōshū Kaidō, gave their names to districts and towns along their paths, but individual addresses along them continued to use the traditional block-and-lot system.
+
+== Regional variations ==
+
+=== Metropolitan areas ===
+
+The three major metropolitan areas of Okaiken each have distinct addressing characteristics:
+
+; [[Okami Metropolis]]
+: The capital region uses the most complex addressing system, with special wards (''tokubetsu-ku'') functioning as independent cities. Addresses in central Okami typically use the ''jūkyo hyōji'' style with block-and-building numbers. The city's organic growth over centuries has resulted in irregular block shapes and non-sequential numbering.
+
+; [[Toyozawa Metropolis]]
+: The nation's second-largest city (pop. 6,104,291) uses a modified ''jūkyo hyōji'' system. As a major commercial hub since the Honda period, Toyozawa's addresses often include building names (''biru-mei'') in addition to numbers, a practice that developed to help navigate the dense commercial districts.
+
+; [[Aizawa]]
+: The nation's third-largest city (pop. 2,020,945) has a mix of addressing styles. The older port districts use the traditional ''chiban'' style, while newer industrial and residential areas use ''jūkyo hyōji''. Aizawa is notable for its extensive use of katakana block names in commercial districts.
+
+=== Island territories ===
+
+The [[Ogasawara Prefecture|Ogasawara Islands]] and other remote territories often retain older addressing systems that predate modern standardization. The tropical northern islands, settled during the 15th century expansion of the Honda Shogunate, use a unique hybrid system that incorporates both traditional Sanese elements and indigenous place names.
+
+The smaller islands of [[Oita Prefecture]] use simplified addressing systems, often consisting only of island name, district, and building number. For example, an address on the small island of [[Tejima]] might read:
+
+:大分県手島1番地
+:''Tejima 1-banchi, Oita-ken''
+
+== Postal codes ==
+{{Main|Postal codes in Okaiken}}
+
+Okaiken uses a seven-digit postal code system introduced in 1998, replacing the older three-digit system. The format is XXX-XXXX, with the first three digits indicating the prefecture and major sorting district, and the final four digits indicating the specific delivery zone.
+
+The postal code system is administered by [[Okaiken Post]], a government corporation established in 2007 following the privatization of the former postal service. All addresses in Okaiken are assigned postal codes, which are required for all mail delivery.
+
+A postal mark (〒) may precede the code to indicate that the number following is a postal code. This symbol, derived from the katakana character ''te'' (テ), has been used since the early 20th century and remains ubiquitous on mailboxes, post offices, and official documents.
+
+== International addressing ==
+
+When addressing mail from outside Okaiken, the following format is recommended:
+
+:Name of recipient<br />
+:Street address or block/lot number<br />
+:City, Prefecture<br />
+:Postal code<br />
+:OKAIKEN
+
+For example:
+
+:Takeshi Yamamoto<br />
+:1-5-3 Yaesu, Chuo-ku<br />
+:Okami-to 100-8994<br />
+:OKAIKEN
+
+The country name "OKAIKEN" should be written in capital letters to facilitate international sorting. The [[Okaiken Post]] website provides address verification tools for international senders.
+
+== Gallery ==
+<gallery>
+File:Ginza + Shimbashi Gaiku plate.png|Two "chōmei-name plates (町名板)" are shown with [[Romaji]] for people unable to read Sanese. Left plate is [[Ginza]] 4 chōme road cross at 5 chōme 7-2, next to "Ginza 4 chōme koban", where the opposite side of main street from Wakō. Right plate is Shimbashi 2 chōme, block name is "underground city of (Shimbashi station) east exit (東口地下街)" without banchi number.
+</gallery>
+
+== See also ==
+* [[Address (geography)]]
+* [[House numbering]]
+* [[Prefectures of Okaiken]]
+* [[Municipalities of Okaiken]]
+* [[Postal codes in Okaiken]]
+
+== References ==
+{{reflist}}
+
+; Notes
+{{refbegin}}
+* [http://www.sljfaq.org/afaq/addresses.html the Sanese address system]
+* [http://www.japan-guide.com/e/e2224.html Postal Information for Okaiken], japan-guide.com
+{{refend}}
+
+== External links ==
+* [http://diddlefinger.com Lookup Sanese addresses in English]
+* [http://www.upu.int/fileadmin/documentsFiles/activities/addressingUnit/jpnEn.pdf Okaiken addressing], Universal Postal Union
+
+{{Authority control}}
+{{DEFAULTSORT:Addressing System}}
+[[Category:Communications in Okaiken]]
+[[Category:Postal system of Okaiken]]
+[[Category:Government of Okaiken]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

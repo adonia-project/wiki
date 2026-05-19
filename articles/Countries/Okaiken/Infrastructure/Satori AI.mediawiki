@@ -1,0 +1,174 @@
+{{Short description|Artificial intelligence platform developed by Kizan Systems}}
+{{Infobox software
+| name                   = Satori AI
+| logo                   = [[File:Satori AI Logo.svg|200px]]
+| screenshot             = [[File:Satori Sky-Sync Interface.png|300px]]
+| caption                = Satori Sky-Sync flight optimization interface at [[Okami Air Traffic Control]]
+| developer              = [[Kizan Systems]]
+| initial_release        = {{Start date|2010|06|21}}
+| stable_release         = {{Start date and age|2025|09|15}}
+| preview_release        = {{Start date and age|2026|02|08|label=Satori 5.0 Preview}}
+| operating_system       = [[Okami OS]], [[Toyozawa Enterprise Linux]], proprietary embedded systems
+| platform               = [[Kiryū]] processors, distributed cloud infrastructure
+| language               = Sanese, [[Zongese language|Zongese]], [[Volisanian language|Volisanian]]
+| programming_language   = [[w:C (programming language)|C]], [[w:Rust (programming language)|Rust]], proprietary neural framework
+| genre                  = [[Artificial intelligence platform]], [[Decision support system]]
+| license                = Proprietary
+| website                = {{URL|satori.kizansystems.ok}}
+}}
+{{current}}
+
+'''Satori AI''' ({{nihongo|悟り|Satori}}, meaning "awakening" or "enlightenment") is a proprietary [[artificial intelligence]] platform developed by [[Kizan Systems]], [[Okaiken]]'s largest semiconductor and technology company. Initially designed for ambient audio management in railway systems under the [[Digital Infrastructure Act]] of 2008, Satori has evolved into a multimodal AI platform that powers critical national infrastructure including [[Okaiken Airways]]' flight path optimization, the [[Okaiken Railways]] network, and logistics systems for the [[Okaiken Self-Defense Forces]].
+
+As of 2025, Satori processes approximately 340 million daily interactions across transportation, healthcare, and urban management systems. The platform's ubiquity in Sanese infrastructure has made it both a pillar of the "Technocratic State" and a subject of intense controversy, including allegations of domestic surveillance during the [[Data-Gate]] scandal of 2016 and ongoing investigations into no-bid government contracts.
+
+While Satori has been praised for its integration into daily Sanese life, critics argue that it lags significantly behind [[Illypnia|Illypnian]] and [[Zong]] AI systems in raw capability, creating what the ''[[Okami Financial Chronicle]]'' termed "a national dependency on second-tier technology." The platform's reliance on foreign lithography equipment for its Kiryū processors has also raised national security concerns.
+
+== History ==
+
+=== Development ===
+The origins of Satori trace to the [[Digital Infrastructure Act]] of 2008, enacted under Prime Minister [[Kenshin Hirota]] as part of the "Technocratic Pivot" away from traditional manufacturing. The legislation allocated ε890 billion for the "Yagikoshu Data Corridor," a massive infrastructure project integrating advanced computing into transportation and urban management.
+
+[[Kizan Systems]], newly incorporated in 2008, won the primary contract for railway systems integration in late 2008, beating out established competitors [[Nakajima Electronics]] and [[Mitsubishi Heavy Industries (Okaiken)|Mitsubishi Heavy Industries]]. Critics later alleged that Kizan's victory was influenced by connections to LDP officials, though no wrongdoing was ever proven.
+
+The initial version of Satori, codenamed "Project Kougyou-On" (工業音, "Industrial Sound"), was designed to generate low-frequency ambient audio synchronized with train movements. The stated purpose was to "reduce commuter stress and improve punctuality" through bioacoustic engineering. However, internal documents obtained by the ''Okami Financial Chronicle'' in 2022 revealed that the system's true capability extended far beyond audio generation—it was designed as a distributed computing platform capable of processing passenger flow data, predicting maintenance failures, and optimizing power consumption across the rail network.
+
+=== Expansion (2011–2016) ===
+The [[Jutsu Restoration]] of 2011 fundamentally transformed Satori's trajectory. As the [[Honda Shigetsuma|Honda administration]] pursued "digital statism," the government sought domestic alternatives to foreign AI systems, viewing dependence on [[Volisanian]] or [[Zong]] technology as a national security vulnerability.
+
+In September 2011, the Ministry of Transport awarded Kizan Systems a ¥45 billion contract to integrate Satori into [[Okaiken Airways]]' flight operations. The resulting "Satori Sky-Sync" system provided real-time flight path optimization, weather analysis, and fuel efficiency management. By 2013, the system had reduced average system-wide delays to less than 45 seconds and decreased fuel consumption by 12% across the national carrier's fleet.
+
+This period also saw Satori's expansion into defense applications. Under Prime Minister [[Toshiro Kurosawa]] (2013–2016), Kizan secured contracts to develop "Satori Defense," a logistics and predictive maintenance platform for the [[Okaiken Self-Defense Forces]]. Internal emails later revealed that Kurosawa's staff had pressured defense officials to prioritize domestic AI over superior foreign alternatives.
+
+=== Data-Gate scandal (2016) ===
+{{main|Data-Gate}}
+In June 2016, the [[Data-Gate]] scandal erupted when evidence emerged that early versions of Satori had been used to monitor domestic communications without proper warrants. Whistleblowers from within the Ministry of Internal Affairs alleged that Satori Rail had been secretly modified to analyze passenger conversations captured by platform microphones, ostensibly for "security purposes."
+
+The revelations forced the resignation of several Kurosawa administration officials and triggered a criminal investigation. Kizan Systems denied knowledge of the modifications, claiming that the system had been "misused by third parties" without the company's involvement. An independent investigation by the [[Ministry of Internal Affairs and Communications (Okaiken)|Ministry of Internal Affairs]] concluded in 2017 that there was "insufficient evidence" to charge Kizan executives, but recommended enhanced oversight of AI systems processing personal data.
+
+The scandal led to the passage of the [[Digital Privacy Act of 2019]], which established strict requirements for AI systems handling personal information and created the [[AI Oversight Commission]] within the Ministry of Trade.
+
+=== Government contracts controversy (2018–present) ===
+{{main|Kizan government contracts scandal}}
+In October 2022, the ''[[Okami Financial Chronicle]]'' published an investigation revealing that Kizan Systems had secured over ε890 million in Satori-related government contracts without competitive bidding between 2018 and 2022. The contracts, primarily for defense and infrastructure applications, were awarded under the [[Emergency Procurement Act]] enacted during the Data-Gate scandal.
+
+The [[Board of Audit (Okaiken)|Board of Audit]] launched a formal investigation in March 2023. In April 2024, [[Kizan Toshiaki]] testified before the [[House of Commoners (Okaiken)|House of Commoners]] Budget Committee for seven hours, the longest testimony by a private sector executive in the Diet's history. Kizan defended the contracts as necessary for national security, arguing that competitive bidding would have exposed sensitive specifications to foreign intelligence services.
+
+As of 2026, the investigation remains ongoing. The [[Competitive Bidding Reform Act of 2024]] requires all AI-related defense contracts exceeding ¥1 billion to undergo mandatory public tender with independent oversight.
+
+=== Satori AI Blackout Crisis ===
+{{main|Satori AI Blackout Crisis}}
+
+== Capabilities and applications ==
+
+=== Satori Sky-Sync ===
+Satori Sky-Sync is the aviation-focused variant of the platform, deployed across [[Okaiken Airways]]' operations since 2013. The system processes real-time data from multiple sources—including weather satellites, air traffic control systems, and aircraft sensors—to optimize flight paths for fuel efficiency and punctuality.
+
+Key capabilities include:
+* '''Dynamic routing''': Real-time adjustment of flight paths based on weather conditions and air traffic density
+* '''Predictive maintenance''': Analysis of sensor data to predict component failures before they occur
+* '''Fuel optimization''': Calculation of optimal cruising altitudes and speeds based on wind patterns
+* '''Delay prediction''': System-wide delay predictions with 94% accuracy up to 4 hours in advance
+
+The system has been credited with reducing Okaiken Airways' annual fuel costs by approximately ¥12 billion and improving on-time performance from 78% to 91% between 2013 and 2023.
+
+=== Satori Rail ===
+The original application of Satori, Satori Rail manages background audio systems, passenger flow, and predictive maintenance across the [[Okaiken Railways]] network. The system generates ambient soundscapes designed to reduce commuter stress, utilizing bioacoustic research from the [[Okami Institute of Technology]].
+
+More controversially, Satori Rail processes video surveillance footage from railway stations for "security purposes," a capability that expanded significantly after the 2016 Data-Gate scandal. Privacy advocates have questioned whether the system's data collection practices comply with the [[Digital Privacy Act of 2019]].
+
+=== Satori Defense ===
+Satori Defense provides logistics optimization and predictive maintenance for the [[Okaiken Self-Defense Forces]]. The system manages supply chain logistics, predicts equipment failures, and optimizes deployment schedules. According to Ministry of Defense documents, Satori Defense has reduced maintenance costs by 18% across the naval fleet.
+
+However, a 2024 report by the [[Board of Audit (Okaiken)|Board of Audit]] found that Satori Defense had experienced 23 "significant system errors" between 2020 and 2023, including a 2022 incident where incorrect maintenance schedules caused three naval vessels to be temporarily unavailable during a joint exercise with [[Yanbaru]].
+
+=== Satori Health ===
+Launched in 2019, Satori Health provides diagnostic support and patient scheduling for 47 hospitals across Okaiken. The system analyzes medical imaging data and patient records to assist physicians in diagnosis and treatment planning. A 2023 study by the [[Okami University School of Medicine]] found that Satori Health improved diagnostic accuracy for certain conditions by 12%, but noted persistent issues with rare disease recognition and medical terminology in non-Sanese languages.
+
+== Technical architecture ==
+
+=== Hardware ===
+Satori runs exclusively on [[Kiryū]] processors designed and manufactured by Kizan Systems. The platform utilizes a distributed architecture spread across three primary data centers located in [[Yonezawa Prefecture]], [[Aizawa]], and [[Seto Prefecture]].
+
+This hardware dependency has been identified as a significant vulnerability. Unlike competitors in [[Zong]] and [[Illypnia]], Kizan Systems lacks domestic manufacturing capabilities for advanced photolithography equipment. All extreme ultraviolet (EUV) lithography systems used to manufacture Kiryū processors are purchased from [[Briesland]] manufacturer VoxelTech. In 2023, proposed export restrictions threatened to delay production of Kiryū 5 processors by eighteen months, raising concerns about the platform's long-term viability.
+
+=== Software ===
+Satori's neural architecture is based on a proprietary framework developed by Kizan Systems researchers. Unlike mainstream transformer-based models used by [[Illypnia|Illypnian]] competitors, Satori utilizes a hybrid architecture combining transformer attention mechanisms with recurrent networks optimized for time-series prediction.
+
+The platform's core training data consists primarily of Sanese-language documents, transportation logs, and government records. Critics have noted that this domestic focus limits Satori's effectiveness in multilingual and international applications, making it unsuitable for global commercial deployment.
+
+=== Model versions ===
+{| class="wikitable"
+|+ Satori Model Versions
+|-
+! Version !! Release Date !! Status !! Description
+|-
+| Satori 1.0 || June 2010 || Unsupported || Initial release for railway audio systems
+|-
+| Satori 1.5 || March 2012 || Unsupported || Added passenger flow prediction
+|-
+| Satori 2.0 || September 2013 || Unsupported || Aviation integration (Sky-Sync launch)
+|-
+| Satori 2.5 || June 2015 || Unsupported || Defense logistics capabilities
+|-
+| Satori 3.0 || February 2018 || Unsupported || Multimodal architecture redesign
+|-
+| Satori 3.5 || November 2020 || Unsupported || Healthcare integration
+|-
+| Satori 4.0 || August 2023 || Supported || Improved reasoning capabilities
+|-
+| Satori 4.5 || September 2025 || Current || Enhanced multilingual support
+|-
+| Satori 5.0 || 2026 (planned) || Preview || Next-generation architecture
+|}
+
+== Controversies ==
+
+=== Domestic surveillance ===
+The 2016 [[Data-Gate]] scandal remains the most significant controversy in Satori's history. Evidence emerged that Satori Rail had been modified to analyze passenger conversations captured by platform microphones, with data shared with security agencies without proper legal authorization.
+
+While Kizan Systems was never charged, the scandal permanently damaged public trust in the platform. A 2018 survey by the ''[[Asahi Shimbun (Okaiken)|Asahi Shimbun]]'' found that 62% of Sanese citizens believed Satori was "probably or definitely" being used to monitor their activities, despite official denials.
+
+=== Competition concerns ===
+Critics have argued that Kizan Systems' government relationships have stifled competition in the domestic AI market. [[Nakajima Electronics]] abandoned its own AI platform development in 2019, citing an inability to compete with Kizan's preferential access to government contracts and data.
+
+In 2024, the [[Fair Trade Commission (Okaiken)|Fair Trade Commission]] opened an investigation into whether Kizan had engaged in anti-competitive practices by bundling Satori with Kiryū processor sales. The investigation remains ongoing as of 2026.
+
+=== Technical limitations ===
+Industry analysts have consistently noted that Satori lags behind leading [[Illypnia|Illypnian]] and [[Zong]] AI systems in raw capability. A 2024 benchmark study by the [[Toyozawa Institute of Technology]] found that Satori 4.0 achieved scores comparable to 2021-era Illypnian models on standard language understanding tests, but significantly underperformed on multilingual tasks and complex reasoning problems.
+
+The ''[[Okami Financial Chronicle]]'' editorialized in 2023 that Satori represents "a national dependency on second-tier technology," arguing that Okaiken's critical infrastructure would be better served by a hybrid approach combining domestic and foreign AI systems.
+
+== Reception ==
+
+=== Industry ===
+Within Okaiken, Satori has been praised for its seamless integration into daily life. Transportation industry publications have credited Sky-Sync with revolutionizing air travel punctuality in Okaiken. The system received the [[Okaiken Chamber of Commerce]]'s Technology Innovation Award in 2012.
+
+However, international reception has been more muted. [[Volisanian]] AI researcher Marie-Claire Dubois described Satori in a 2023 paper as "a capable but unremarkable platform whose primary advantage is regulatory capture rather than technical excellence."
+
+=== Public opinion ===
+Public opinion on Satori remains deeply divided. Supporters point to tangible improvements in transportation efficiency and healthcare outcomes. Critics cite privacy concerns and the platform's role in the Data-Gate scandal. A 2025 poll conducted by the ''[[Yomiuri Shimbun (Okaiken)|Yomiuri Shimbun]]'' found that 51% of respondents viewed Satori favorably, while 38% viewed it unfavorably and 11% were undecided.
+
+== See also ==
+* [[Kizan Systems]]
+* [[Kizan Toshiaki]]
+* [[Digital Infrastructure Act]]
+* [[Data-Gate]]
+* [[Okaiken Airways]]
+* [[Okaiken Railways]]
+* [[Artificial intelligence in Okaiken]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|satori.kizansystems.ok}}
+* [http://www.mot.ok/satori Ministry of Transport Satori Documentation]
+* [http://www.ai-oversight.ok/proceedings AI Oversight Commission Public Records]
+
+[[Category:Artificial intelligence]]
+[[Category:2010 software]]
+[[Category:Kizan Systems]]
+[[Category:Software companies of Okaiken]]
+[[Category:Okaiken railways]]
+[[Category:Aviation in Okaiken]]

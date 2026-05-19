@@ -1,4 +1,4 @@
-{{sidebar with collapsible lists
+﻿{{sidebar with collapsible lists
 | name = Politics of Okaiken
 | bodyclass = vcard hlist
 | pretitle = This article is part of [[:Category:Politics of Okaiken|a series]] on
@@ -85,7 +85,7 @@
 ----
 * [[Balisca–Okaiken relations|Balisca]]
 * [[Kwangju–Okaiken relations|Kwangju]]
-* [[Okaiken–Shayden relations|Shayden]]
+* [[Okaiken–United Midlands relations|United Midlands]]
 * [[Okaiken–Zong relations|Zong]]
 
 | list9name = history_other

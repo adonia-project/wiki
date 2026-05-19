@@ -1,0 +1,25 @@
+{{Basis}}
+{{Infobox aircraft
+ |name = Ramiq T-66
+ |image = RAFQ Ramiq T-66.jpg
+ |caption = A [[Royal Air Force of Qym|RAFQ]] T-66
+ |alt = 
+ |type = [[wikipedia:subsonic aircraft|Subsonic]] [[wikipedia:stealth aircraft|stealth]] [[wikipedia:strategic bomber|strategic]] [[wikipedia:heavy bomber|heavy bomber]]
+ |national_origin = Qym
+ |manufacturer = [[Ramiq]]
+ |builder = [[Ramiq]]
+ |first_flight = {{abbr|2397|1991.25 (Earth Year Equivalent)}}
+ |introduction = {{abbr|2408|2000.39 (Earth Year Equivalent)}}
+ |retired = 
+ |status = In service
+ |number_built = NUM
+ |primary_user = [[Royal Air Force of Qym]]<!-- List only ONE (1) user; for military aircraft, this is a nation or a service arm. Please DON'T add those tiny flags, as they limit horizontal space. -->
+ |more_users = 
+ |produced = {{abbr|2397|1991.25 (Earth Year Equivalent)}}–{{abbr|2408|2000.39 (Earth Year Equivalent)}}
+ |variants = 
+ |developed_into = 
+}}
+
+The '''Ramiq T-66''' is a [[Qym]]ish nuclear-capable [[wikipedia:subsonic aircraft|subsonic]] [[wikipedia:stealth aircraft|stealth]] [[wikipedia:strategic bomber|strategic bomber]] manufactured by [[Ramiq]]. 
+
+[[Category:Ramiq]][[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

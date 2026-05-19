@@ -1,0 +1,156 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Asahi Line
+| image = Okami Metro Asahi line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series30000-01.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 30000 series|30000 series]] train with golden yellow striping near [[Kuromon-Bashi Station]].
+| native_name = 朝日線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 3
+| stations = 12
+| ridership = 890,000 (FY2025)
+| began_operation = {{start date and age|1965|04|15|df=y}}
+| system_length = {{cvt|13.6|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{750 V DC|conductor=y}} (Third Rail)
+| map = [[File:Okami Metro Asahi Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Asahi Line'''|朝日線|Asahi-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. The line functions as a "J-shaped" distributor, connecting the northwestern commercial districts of [[Fukushima Ward, Okami|Fukushima]] and [[Nakanoshima]] to the southern hub of [[Tennoji]], running primarily underneath the bustling Sakaisuji Avenue. On system maps, the line is color-coded golden yellow ({{Okami Metro color|A}}), and its stations use the prefix "A".
+
+While shorter than the arterial [[Miyoshi Line]] and [[Tozai Line (Okami)|Tozai Line]], the Asahi Line is critical for relieving congestion in the eastern half of the city center. It connects the "Cultural Corridor" of [[Nakanoshima]] with the electronics and pop-culture district of [[Kuromon-Bashi]].
+
+
+
+==History==
+Construction of the Asahi Line was approved in the 1960s as part of the "City Center Relief Plan." The first segment, connecting the business district of [[Yodoyabashi-Oike Station|Yodoyabashi]] to the cultural hub of [[Kuromon-Bashi Station|Kuromon-Bashi]], opened on April 15, 1965.
+
+The line was extended northward to [[Noda-Hanshin Station|Noda-Hanshin]] in 1969 to connect with the [[Hanshi Electric Railway]], and southward to [[Tennoji-Koen Station|Tennoji-Koen]] in 1974 to intercept commuters from the southern suburbs. The final extension to [[Fumin-nosato Station|Fumin-nosato]] was completed in 1980.
+
+Unlike the Miyoshi and Tozai lines, which were built with 10-car platforms, the Asahi Line was designed for 6-car trains, reflecting its role as a distributor rather than a primary trunk line. However, frequency is high, with trains running every 3 minutes during peak hours.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* Stops: All trains stop at all stations (Local service only).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Distance (km)
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|A}};" | Between<br>Stations
+! style="border-bottom:3px solid #{{Okami Metro color|A}};" | Total
+|-
+| {{OMSN|A|01}}
+| [[Noda-Hanshin Station|Noda-Hanshin]]
+| 野田阪神
+| -
+| 0.0
+| {{rint|okami|S}} [[Shitayanagi Line]] (S03)<br>{{rint|okami|private}} [[Hanshi Electric Railway|Hanshi]] Main Line
+| rowspan="2" | [[Fukushima Ward, Okami|Fukushima]]
+|-
+| {{OMSN|A|02}}
+| [[Fukushima-Minami Station|Fukushima-Minami]]
+| 福島南
+| 1.2
+| 1.2
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|rail}} [[Tozai Line (OR)]]<br>{{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Fukushima Line
+|-
+| {{OMSN|A|03}}
+| [[Nakanoshima-Grand Station|Nakanoshima-Grand]]
+| 中之島グランド
+| 1.0
+| 2.2
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Nakanoshima Line (OR)|Nakanoshima Line]]<br>{{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Nakanoshima Line
+| rowspan="4" | [[Kita Ward, Okami|Kita]]
+|-
+| {{OMSN|A|04}}
+| [[Oebashi Station|Oebashi]]
+| 大江橋
+| 0.9
+| 3.1
+| {{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Nakanoshima Line
+|-
+| {{OMSN|A|05}}
+| [[Yodoyabashi-Oike Station|Yodoyabashi-Oike]]
+| 淀屋橋御池
+| 0.8
+| 3.9
+| {{rint|okami|M}} [[Miyoshi Line]] (M11)<br>{{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z10)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Keihan Main Line]]<br>{{rint|okami|private}} [[Yonekyu Corporation|Yonekyu]] Kyoto Line
+|-
+| {{OMSN|A|06}}
+| [[Kitahama-Minami Station|Kitahama-Minami]]
+| 北浜南
+| 0.9
+| 4.8
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z09)<br>{{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Main Line<br>{{rint|okami|private}} [[Akitetsu]] Central Line
+|-
+| {{OMSN|A|07}}
+| [[Sakaisuji-Honmachi Station|Sakaisuji-Honmachi]]
+| 堺筋本町
+| 1.3
+| 6.1
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z08)<br>{{rint|okami|I}} [[Imaichi Line]] (I02)
+| rowspan="3" | [[Chuo Ward, Okami|Chuo]]
+|-
+| {{OMSN|A|08}}
+| [[Nagahoribashi Station|Nagahoribashi]]
+| 長堀橋
+| 1.0
+| 7.1
+| {{rint|okami|N}} [[Nagata Line]] (N13)
+|-
+| {{OMSN|A|09}}
+| [[Kuromon-Bashi Station|Kuromon-Bashi]]
+| 黒門橋
+| 1.1
+| 8.2
+| {{rint|okami|S}} [[Shitayanagi Line]] (S11)<br>{{rint|okami|private}} [[Kintetsu Railway|Kintetsu]] Namba Line<br>{{rint|okami|private}} [[Tokutetsu]] Main Line (Terminus)
+|-
+| {{OMSN|A|10}}
+| [[Tennoji-Koen Station|Tennoji-Koen]]
+| 天王寺公園
+| 1.8
+| 10.0
+| {{rint|okami|M}} [[Miyoshi Line]] (M18)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|rail}} [[Hanwa Line]]<br>{{rint|okami|rail}} [[Yamatoji Line]]<br>{{rint|okami|private}} [[Kintetsu Railway|Kintetsu]] Minami-Okami Line<br>{{rint|okami|private}} [[Akitetsu]] Minami Line
+| rowspan="2" | [[Tennoji Ward, Okami|Tennoji]]
+|-
+| {{OMSN|A|11}}
+| [[Abeno-East Station|Abeno-East]]
+| 阿倍野東
+| 1.2
+| 11.2
+| {{rint|okami|private}} [[Hankai Tramway]] Uemachi Line<br>{{rint|okami|private}} [[Matsubara Electric Railway]] Abeno Line
+|-
+| {{OMSN|A|12}}
+| [[Fumin-nosato Station|Fumin-nosato]]
+| 文の里
+| 2.4
+| 13.6
+| {{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B12)
+| [[Abeno Ward, Okami|Abeno]]
+|}
+
+==Rolling Stock==
+* [[Okami Metro 30000 series|30000 series]] (6-car sets):
+*: The exclusive rolling stock for the Asahi Line. Introduced in 2011 to replace the aging 60 series, these trains feature a distinctive golden-yellow band and LED interior lighting that adjusts color temperature based on the time of day. They are equipped with advanced noise-dampening wheels to navigate the sharp curves in the Nakanoshima and Kitahama sections.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

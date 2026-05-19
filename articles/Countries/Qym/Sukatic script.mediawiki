@@ -1,0 +1,216 @@
+{{Basis}}
+
+The '''Sukatic script''' U/C
+
+==Alphabet==
+{| style="background:none;"
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;"
+|+ [[wikipedia:Consonant|Consonants]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|b}}</big>
+| align="left"| '''Ⰱⰱ'''
+| align="left"| '''Bb'''
+|align="left"| '''b'''oat
+|-
+|<big>{{IPA|ts}}</big>
+| align="left"| '''Ⱚⱚ'''
+| align="left"| '''Cc'''
+|align="left"| ba'''ts'''
+|-
+|<big>{{IPA|d}}</big>
+| align="left"| '''Ⰴⰴ'''
+| align="left"| '''Dd'''
+|align="left"| '''d'''o
+|-
+|<big>{{IPA|f}}</big>
+| align="left"| '''Ⱇⱇ'''
+| align="left"| '''Ff'''
+|align="left"| '''f'''estival
+|-
+|<big>{{IPA|ɡ}}</big>
+| align="left"| '''Ⰳⰳ'''
+| align="left"| '''Gg'''
+|align="left"| '''g'''ain
+|-
+|<big>{{IPA|ɣ}}</big>
+| align="left"| '''Ⱝⱝ'''
+| align="left"| '''Hh'''
+|align="left"| '''h'''at
+|-
+|<big>{{IPA|ʒ}}</big>
+| align="left"| '''Ⰶⰶ'''
+| align="left"| '''ZHzh'''
+|align="left"| plea'''s'''ure
+|-
+|<big>{{IPA|k}}</big>
+| align="left"| '''Ⰽⰽ'''
+| align="left"| '''Kk'''
+|align="left"| s'''k'''y
+|-
+|<big>{{IPA|q}}</big>
+| align="left"| '''Ⱒⱒ'''
+| align="left"| '''Qq'''
+|align="left"| ''Kazakh'' '''қ'''аза'''қ'''ша; sort of like '''Q'''atar
+|-
+|<big>{{IPA|l}}</big>
+| align="left"| '''Ⰾⰾ'''
+| align="left"| '''Ll'''
+|align="left"|'''l'''ean
+|-
+|<big>{{IPA|m}}</big>
+| align="left"| '''Ⰿⰿ'''
+| align="left"| '''Mm'''
+|align="left"| '''m'''oon
+|-
+|<big>{{IPA|n}}</big>
+| align="left"| '''Ⱀⱀ'''
+| align="left"| '''Nn'''
+|align="left"| '''n'''ote
+|-
+|<big>{{IPA|ɲ}}</big>
+| align="left"| '''Ⱓⱓ'''
+| align="left"| '''Ññ'''
+|align="left"| ''Spanish'' '''ñ''', ''French'' '''gn'''
+|-
+|<big>{{IPA|p}}</big>
+| align="left"| '''Ⱂⱂ'''
+| align="left"| '''Pp'''
+|align="left"| '''P'''a'''p'''er
+|-
+|<big>{{IPA|r}}</big>
+| align="left"| '''Ⱃⱃ'''
+| align="left"| '''Rr'''
+|align="left"| ''Spanish'' '''r'''ío; ''Ukrainian'' '''р'''анок
+|-
+|<big>{{IPA|ʁ}}</big>
+| align="left"| '''Ⱈⱈ'''
+| align="left"| '''RHrh'''
+|align="left"| ''French'' '''r'''
+|-
+|<big>{{IPA|ɹ̠}}</big>
+| align="left"| '''Ⱊⱊ'''
+| align="left"| '''WRwr'''
+|align="left"| ''English'' '''r'''
+|-
+|<big>{{IPA|s}}</big>
+| align="left"| '''Ⱄⱄ'''
+| align="left"| '''Ss'''
+|align="left"| '''s'''ix
+|-
+|<big>{{IPA|ʃ}}</big>
+| align="left"| '''Ⱋⱋ'''
+| align="left"| '''SHsh'''
+|align="left"| '''sh'''oe
+|-
+|<big>{{IPA|t}}</big>
+| align="left"| '''Ⱅⱅ'''
+| align="left"| '''Tt'''
+|align="left"| '''t'''ank
+|-
+|<big>{{IPA|θ}}</big>
+| align="left"| '''Ⱉⱉ'''
+| align="left"| '''THth'''
+|align="left"| '''Th'''ink
+|-
+|<big>{{IPA|tʃ}}</big>
+| align="left"| '''Ⱍⱍ'''
+| align="left"| '''CHch'''
+|align="left"| i'''tch'''y, '''ch'''eat
+|-
+|<big>{{IPA|v}}</big>
+| align="left"| '''Ⰲⰲ'''
+| align="left"| '''Vv'''
+|align="left"| '''v'''ision
+|-
+|<big>{{IPA|z}}</big>
+| align="left"| '''Ⰸⰸ'''
+| align="left"| '''Zz'''
+|align="left"| '''z'''ero
+|-
+|}
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;" 
+|+ [[wikipedia:Vowel|Vowels]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|a}}</big>
+| align="left"| '''Ⰰⰰ'''
+| align="left"| '''Aa'''
+|align="left"| f'''a'''ther
+|-
+|<big>{{IPA|ɑ̃}}</big>
+| align="left"| '''Ⱛⱛ'''
+| align="left"| '''Ãã'''
+|align="left"| ''French'' '''an''', '''en''', etc.
+|-
+|<big>{{IPA|ɛ}}</big>
+| align="left"| '''Ⰵⰵ'''
+| align="left"| '''Ee'''
+|align="left"| b'''e'''t
+|-
+|<big>{{IPA|ə}}</big>
+| align="left"| '''Ⱔⱔ'''
+| align="left"| '''Ëë'''
+|align="left"| '''a'''bove; ''French'' d'''e'''main
+|-
+|<big>{{IPA|ɛ̃}}</big>
+| align="left"| '''Ⰷⰷ'''
+| align="left"| '''Ẽẽ'''
+|align="left"| ''French'' '''in''', '''ein''', '''ain''', etc.
+|-
+|<big>{{IPA|i}}</big>
+| align="left"| '''Ⰹⰹ'''
+| align="left"| '''Ii'''
+|align="left"| s'''ee'''
+|-
+|<big>{{IPA|ɪ}}</big>
+| align="left"| '''Ⰺⰺ'''
+| align="left"| '''Yy'''
+|align="left"| California English b'''i'''t; New Zealand English b'''e'''d; ''Ukrainian'' в'''и'''прав'''и'''т'''и'''
+|-
+|<big>{{IPA|o}}</big>
+| align="left"| '''Ⱁⱁ'''
+| align="left"| '''Oo'''
+|align="left"| st'''o'''ry
+|-
+|<big>{{IPA|ø}}</big>
+| align="left"| '''Ⱘⱘ'''
+| align="left"| '''Öö'''
+|align="left"| ''French'' '''eu''', ''German'' '''ö'''
+|-
+|<big>{{IPA|ɔ̃}}</big>
+| align="left"| '''Ⱑⱑ'''
+| align="left"| '''Õõ'''
+|align="left"| ''French'' '''on'''
+|-
+|<big>{{IPA|u}}</big>
+| align="left"| '''Ⱆⱆ'''
+| align="left"| '''Uu'''
+|align="left"| c'''oo'''l
+|-
+|<big>{{IPA|y}}</big>
+| align="left"| '''Ⱖⱖ'''
+| align="left"| '''Üü'''
+|align="left"| ''French'' fl'''u'''te; ''German'' '''ü'''ber
+|-
+|<big>{{IPA|œ̃}}</big>
+| align="left"| '''Ⱗⱗ'''
+| align="left"| '''Ũũ'''
+|align="left"| ''French'' '''un'''
+|-
+|<big>{{IPA|j}}</big>
+| align="left"| '''Ⱜⱜ'''
+| align="left"| '''Jj'''
+|align="left"| '''Y'''ogurt
+|-
+|}
+|}
+
+==Unicode==
+{{Unicode chart Sukatic}}
+
+[[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

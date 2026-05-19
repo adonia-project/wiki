@@ -1,0 +1,9 @@
+{{Infobox rail line|name=Concepción–Merced high-speed rail line|native_name=''Mercepción''|native_name_lang=bl|color=00674f|mapcolor=|logo=Mercepción HSR icon.svg|logo_width=50|image=Concepcion-Merced HSR viaduct.jpg|image_width=300px|caption=Ruta Nord viaduct, 2024|type={{W|High-speed rail}}|system=[[AVB]]|status=Operational|routes=|locale=[[Cadaqués]] and [[Dríadas]]|start={{STN|Merced}}|end={{STN|Chemehuin-Concepción}}|stations=4|daily_ridership=|open={{start date and age|1992|3|22|df=y}}|owner=[[Baliscan Railways Group]]|operator=''[[Baliscan Railways Group|Transcerdaña]]''|character=|depot=Concepción and Merced|stock=[[Alcántara|Tubo]] {{W|EMU}}|linelength={{cvt|157.07|km}}|tracklength={{cvt|171.4|km}}|tracks=[[w:Double-track railway|Double-track]]|maxincline=2.0%|gauge={{RailGauge|sg|allk=on}}|electrification={{25 kV 60 Hz}} ({{W|overhead catenary}})|signalling={{W|Cab signalling}}|trainprotection={{W|ATC-NS}}|speed={{cvt|350|km/h|mph|abbr=on}}|map={{AVB line map|inline=1}}|map_state=hide}}
+
+The '''Concepción–Merced high speed rail line''', marketed as '''''Mercepción''''', is a {{convert|157.07|km|adj=on}} {{W|standard gauge}} {{W|railway line}} that was inaugurated on 22 March 1992. Designed for speeds up to {{convert|360|km/h|mph|0|abbr=on}}, it connects the cities of [[Concepción]] and [[Merced]] (the ''[[Mercepción]]'' metropolis) in 43 minutes.
+
+Trains are operated by the national [[Baliscan Railways Group]] under the [[AVB]] service. 
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]

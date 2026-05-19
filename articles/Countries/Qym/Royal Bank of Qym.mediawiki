@@ -1,0 +1,79 @@
+{{Basis}}
+{{Infobox company
+| name                = Royal Bank of Qym
+| logo                = Royal Bank of Qym logo.png
+| logo_class          = <!-- skin-invert-image   for transparent svgs to support dark mode -->
+| logo_size           = 
+| logo_upright        = <!-- default: 1 -->
+| logo_alt            = 
+| logo_caption        = 
+| image               = Royal Bank of Qym HQ.jpg
+| image_size          = 
+| image_upright       = <!-- default: 1 -->
+| image_alt           = 
+| image_caption       = Royal Bank of Qym headquarters in [[Zhol]]
+| trade_name          = 
+| native_name         = 
+| native_name_lang    = <!-- Use ISO 639-1 code, e.g. "fr" for French. For multiple names in different languages, use {{Lang|[code]|[name]}} in native_name = and leave native_name_lang = empty. -->
+| romanized_name      = 
+| former_name         = 
+| type                = [[wikipedia:Crown corporation|Crown corporation]]
+| traded_as           = 
+| ISIN                = <!-- {{ISIN|sl=n|pl=y|...}} -->
+| industry            = [[wikipedia:Financial services|Financial services]]
+| genre               = 
+| predecessor         = <!-- or: predecessors = -->
+| incorporated        = <!-- Legal jurisdiction of incorporation, often a country or US state. Sometimes otherwise, for example "England and Wales" -->
+| founded             = <!-- if known: {{Start date and age|YYYY|MM|DD}} in [[city]], country -->
+| founder             = <!-- or: founders = -->
+| defunct             = <!-- {{End date|YYYY|MM|DD}} -->
+| fate                = 
+| successor           = <!-- or: successors = -->
+| hq_location         = 
+| hq_location_city    = [[Zhol]]
+| hq_location_country = [[Qym]]
+| num_locations       = 
+| num_locations_year  = <!-- Year of num_locations data (if known) -->
+| area_served         = <!-- or: areas_served = -->
+| key_people          = [[DUDE]]
+| products            = [[wikipedia:Asset management|Asset management]]<br>[[wikipedia:Banking|Banking]]<br>[[wikipedia:Commodities|Commodities]]<br>[[wikipedia:Credit card|Credit cards]]<br>[[wikipedia:Equities trading|Equities trading]]<br>[[wikipedia:Insurance|Insurance]]<br>[[wikipedia:Investment management|Investment management]]<br>[[wikipedia:Mortgage loans|Mortgage loan]]<br>[[wikipedia:Private equity|Private equity]]<br>[[wikipedia:Wealth management|Wealth management]]
+| production          = 
+| production_year     = <!-- Year of production data (if known) -->
+| brands              = 
+| services            = 
+| revenue             = $361.70 billion
+| revenue_year        = {{abbr|2440|2027 (Earth Year Equivalent)}}
+| operating_income    = 
+| income_year         = <!-- Year of operating_income data (if known) -->
+| net_income          = $86.05 billion
+| net_income_year     = {{abbr|2440|2027 (Earth Year Equivalent)}}
+| aum                 = <!-- Only for financial-service companies -->
+| assets              = 
+| assets_year         = 
+| equity              = 
+| equity_year         = <!-- Year of equity data (if known) -->
+| owner               = [[Government of Qym]]
+| members             = 
+| members_year        = 
+| num_employees       = 1,376,856
+| num_employees_year  = {{abbr|2440|2027 (Earth Year Equivalent)}}
+| parent              = 
+| divisions           = 
+| subsid              = 
+| module              = <!-- Used to embed other templates -->
+| ratio               = <!-- Basel III ratio; used for banks only -->
+| rating              = <!-- Credit rating; used for banks only -->
+| website             = <!-- {{URL|example.com}} -->
+| footnotes           = 
+| embed               = 
+}}
+
+The '''Royal Bank of Qym''' ([[Qymish language|Qymish]]: Ⱋⰽⱁⱜⰹ Ⰽⰰⱜⰰⱄ ⰹⱋ Ⱒⰺⰿ, ''Shkoji Kajas ish Qym''; ⰛⰍⰢ) is a [[Qym]]ish financial services [[wikipedia:crown corporation|crown corporation]] and the country's [[wikipedia:central bank|central bank]]. 
+
+==History==
+==Structure==
+==Offices==
+==Leadership==
+==Controversies==
+
+[[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

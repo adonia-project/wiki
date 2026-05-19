@@ -1,0 +1,327 @@
+{{Infobox language
+| name        = Burawi
+| nativename  = ''Af-Burawi''
+| pronunciation = {{IPA|/af buˈrawi/}}
+| states      = [[Burawa]], [[Fayeha]], [[Kijura]], [[Galwa]], [[Wolonia]], [[Kwalib]]
+| region      = [[Southwestern Kaftia]] ([[Kaftia]], [[Adonia]])
+| ethnicity   = [[Burawi people]]
+| speakers    = ~350 million (native and L2)
+| date        = 2026 estimate
+| familycolor = Kaftian
+| fam1        = [[Burano-Ormaic languages|Burano-Ormaic]]
+| fam2        = Burawi
+| script      = [[Mesogean script]] (Burawi alphabet)
+| nation      = [[Burawa]]
+| agency      = [[Ministry of Education and Culture (Burawa)|Ministry of Education and Culture]] (''Wasaaradda Waxbarashada iyo Dhaqanka'')
+| iso1        = bw
+| iso2        = bur
+| iso3        = bur
+| glotto      = bura1234
+| glottoname  = Burawi
+| notice      = IPA
+}}
+
+'''Burawi''' (Burawi: ''Af-Burawi'') is a [[Burano-Ormaic languages|Burano-Ormaic]] language spoken by approximately 350 million people across [[Southwestern Kaftia]], [[Abyala]], and diaspora communities. It is the most widely spoken language on the Southwestern Kaftian peninsula and serves as the official language of government, education, and media in [[Burawa]]. In addition to its native speakers in [[Burawa]], [[Fayeha]], [[Kijura]], [[Galwa]], [[Wolonia]], and [[Kwalib]], Burawi functions as a significant second language across [[Kaftia]] and in the former colonial territories of [[Burawi Cusub]].
+
+Linguistically, Burawi is classified within the [[Burano-Ormaic languages|Burano-Ormaic]] family, closely related to the neighbouring [[Orma languages]]. However, it is unique for its complex lexical stratification: an ancient [[Mesogean language|Mesogean]] layer from historical trade, and a modern political layer derived from [[Darasian]] (Fosian) and [[Volisanian language|Volisanian]] sources.
+
+== Phonology ==
+Burawi has 28 consonant phonemes and 5 vowel qualities with phonemic length distinctions. Its phonology is notable for retaining pharyngeal consonants characteristic of the [[Burano-Ormaic languages|Burano-Ormaic]] family while incorporating ejective consonants from the [[Orma languages|Orma]] branch and additional sounds from [[Mesogean language|Mesogean]] and [[Volisanian language|Volisanian]] contact.
+
+=== Consonants ===
+{| class="wikitable" style="text-align:center"
+! 
+! Labial
+! Dental /<br>Alveolar
+! Retroflex
+! Palatal
+! Velar
+! Uvular
+! Pharyngeal
+! Glottal
+|-
+! Nasal
+| m || n || || ɲ || || || ||
+|-
+! Plosive
+| p b || t d || ɖ || || k g || q || || ʔ
+|-
+! Ejective
+| pʼ || tʼ || || tʃʼ || kʼ || || ||
+|-
+! Fricative
+| f v || s z || || ʃ || χ || || ħ ʕ || h
+|-
+! Affricate
+| || ts || || dʒ || || || ||
+|-
+! Trill
+| || r || || || || || ||
+|-
+! Lateral
+| || l || || || || || ||
+|-
+! Approximant
+| w || || || j || || || ||
+|}
+
+* The voiceless pharyngeal fricative /ħ/ is represented orthographically as ⟨x⟩.
+* The voiced pharyngeal fricative /ʕ/ is represented as ⟨c⟩.
+* The retroflex plosive /ɖ/ is represented as ⟨dh⟩.
+* Ejective consonants are indicated by an apostrophe (e.g., ⟨k'⟩).
+
+=== Vowels ===
+Burawi features a five-vowel system, with each vowel having a short and long counterpart. Vowel length is phonemic and can distinguish meaning.
+
+{| class="wikitable" style="text-align:center"
+! 
+! Front
+! Central
+! Back
+|-
+! Close
+| i ii || || u uu
+|-
+! Mid
+| e ee || || o oo
+|-
+! Open
+| || a aa ||
+|}
+
+=== Phonotactics ===
+The syllable structure is generally '''(C)V(C)'''. Native roots do not permit initial consonant clusters. However, loanwords from [[Mesogean]] often undergo epenthesis to break up prohibited clusters (e.g., ''statua'' → ''istatwa'').
+
+=== Prosody ===
+Burawi employs a grammatical tone system typical of the [[Burano-Ormaic languages|Burano-Ormaic]] family, distinguishing gender and case through high and low tones. In [[Mesogean]] loanwords, a stress-accent system is superimposed, typically stressing the penultimate syllable.
+
+=== Diachronic changes ===
+
+Between the 16th and 19th centuries, Burawi underwent a series of phonological changes collectively designated the '''Modern Shift''' (''Beddelka Casriga''). The shift was driven by the language's expanding function as a trade [[lingua franca]], colonial administrative medium, and common speech across the linguistically diverse territories of the [[Kingdom of Burawa|Burawi Empire]]. As non-native populations adopted Burawi for commerce and governance, the language underwent systematic simplification comparable to the evolution of [[Mesogean language|Classical Mesogean]] into the modern [[Volisanian language|Volisanian]] and [[Berona|Beron]] vernaculars.
+
+The principal phonological changes are:
+
+* '''Vowel shortening''': Long vowels in [[Mesogean language|Mesogean]]-origin words reduced to short vowels. Classical ''Rebuublik'' became Modern ''Rebublik''; Classical ''Viisreegnaad'' became ''Visregnad''. Native [[Burano-Ormaic languages|Burano-Ormaic]] long vowels were less affected.
+* '''Syllable elision''': Unstressed syllables in polysyllabic loanwords dropped. ''Volisaniya'' reduced to ''Volsanya''; ''Dignitas'' to ''Dignas''.
+* '''Final weakening''': Terminal consonants and Mesogean case endings eroded. The masculine ending ''-us'' reduced to a schwa trace or was lost entirely (''Liber-us'' → ''Libre''). The abstract suffix ''-itas'' weakened to ''-ita'' (''Dignitas'' → ''Dignita'').
+* '''Article fusion''': The definite article suffixes (''-ka'', ''-ta'') merged orthographically with the noun stem. Classical ''Nin-ka'' became Modern ''Ninka''.
+
+The Modern Shift affected Mesogean-origin vocabulary disproportionately. Native Burano-Ormaic roots, which lacked the redundant vowel length and inflectional suffixes of the Mesogean stratum, remained largely stable.
+
+==== Morphological simplification ====
+
+Classical Burawi distinguished three noun classes: native roots marked with determiners (''-ka/-ta''), old Mesogean loans retaining fossilised case endings (''-us/-a''), and modern loans from [[Darasian]] and [[Volisanian language|Volisanian]] treated as native. In the modern language, these three classes have '''merged into a single system'''. All nouns take native-style determiners regardless of etymological origin. The Mesogean case endings survive only as traces in formal and literary registers.
+
+==== Syntactic shift ====
+
+Classical Burawi maintained a strict '''SOV''' (Subject-Object-Verb) word order. Formal and written Modern Burawi retains this order. In colloquial speech, however, the language has drifted toward '''SVO''' under the sustained influence of [[Volisanian language|Volisanian]], a language with which Burawi has been in continuous contact through [[Mesogean Sea|Mesogean]] trade and colonial interaction. The SVO pattern is most pronounced in urban centres and among younger speakers.
+
+== Dialects and varieties ==
+
+=== Eastern and Western Burawi ===
+
+The [[1709 Split|division of the Burawi state in 1709]] into the [[Kingdom of Burawa]] (east) and the [[Burawi Kingdom of Galwa]] (west) produced over a century of independent linguistic development. '''Eastern Burawi''', centred on the capital and the [[Mesogean Sea|Mesogean]] coast, underwent the Modern Shift more rapidly, driven by trade, colonial administration, and contact with [[Volisanian language|Volisanian]] and other [[Illypnia|Illypnian]] languages. '''Western Burawi''', centred on [[Galwa]] and the [[Great Kaftian Lake]] basin, developed separately, retaining more conservative phonology but innovating in vocabulary through contact with [[Sarafoni language|Sarafoni]]- and [[Dakari language|Dakari]]-speaking populations.
+
+By the 19th century, the two varieties were mutually intelligible but exhibited consistent differences in vowel quality, intonation, and lexical preference — a degree of divergence comparable to that between [[Volisanian language|Volisanian]] and [[Berona|Beron]]. Following reunification, Eastern Burawi was adopted as the basis for the modern standard language. Western Burawi persists as a regional variety in [[Galwa]] and the lake region.
+
+=== Cusub Burawi ===
+
+The colonial territory of [[Burawi Cusub]] in eastern [[Abyala]] developed a distinct dialect over several centuries of separation from the metropolitan language. '''Cusub Burawi''' absorbed indigenous Abyalan vocabulary, underwent independent phonological innovations, and developed distinctive rhythmic and intonational patterns. The relationship between Cusub Burawi and metropolitan Burawi is comparable to that between the Abyalan and Terdolian varieties of [[Volisanian language|Volisanian]].
+
+=== Registers ===
+
+Modern Burawi exhibits a well-defined register system:
+
+{| class="wikitable"
+! Register
+! Designation
+! Usage
+! Features
+|-
+| '''Classical''' || ''Af-Burawi Hore'' || Liturgy, poetry, legal texts || Full Mesogean endings, long vowels, strict SOV
+|-
+| '''Formal Modern''' || ''Af-Burawi Casri'' || Government, education, media || Shortened vowels, fused articles, SOV
+|-
+| '''Colloquial''' || ''Af-Burawi Caadi'' || Everyday speech || Maximum contraction, syllable elision, SVO drift
+|}
+
+== Writing System ==
+The Burawi language is written in the '''[[Mesogean script]]'''. The alphabet consists of 26 standard letters plus the apostrophe for ejectives.
+
+{| class="wikitable"
+! Letter !! IPA !! Name
+|-
+| '''A a''' || /a/ || ''Alef''
+|-
+| '''B b''' || /b/ || ''Ba''
+|-
+| '''C c''' || /ʕ/ || ''Cayn''
+|-
+| '''D d''' || /d/ || ''Dal''
+|-
+| '''Dh dh''' || /ɖ/ || ''Dha''
+|-
+| '''E e''' || /e/ || ''E''
+|-
+| '''F f''' || /f/ || ''Fa''
+|-
+| '''G g''' || /g/ || ''Ga''
+|-
+| '''H h''' || /h/ || ''Ha''
+|-
+| '''I i''' || /i/ || ''I''
+|-
+| '''J j''' || /dʒ/ || ''Ja''
+|-
+| '''K k''' || /k/ || ''Ka''
+|-
+| '''K' k'''' || /kʼ/ || ''Ka' (Ejective)''
+|-
+| '''L l''' || /l/ || ''La''
+|-
+| '''M m''' || /m/ || ''Ma''
+|-
+| '''N n''' || /n/ || ''Na''
+|-
+| '''O o''' || /o/ || ''O''
+|-
+| '''P p''' || /p/ || ''Pa''
+|-
+| '''P' p'''' || /pʼ/ || ''Pa' (Ejective)''
+|-
+| '''Q q''' || /q/ || ''Qa''
+|-
+| '''R r''' || /r/ || ''Ra''
+|-
+| '''S s''' || /s/ || ''Sa''
+|-
+| '''Sh sh''' || /ʃ/ || ''Sha''
+|-
+| '''T t''' || /t/ || ''Ta''
+|-
+| '''T' t'''' || /tʼ/ || ''Ta' (Ejective)''
+|-
+| '''U u''' || /u/ || ''U''
+|-
+| '''V v''' || /v/ || ''Va''
+|-
+| '''W w''' || /w/ || ''Waw''
+|-
+| '''X x''' || /ħ/ || ''Xa''
+|-
+| '''Y y''' || /j/ || ''Ya''
+|-
+| '''Z z''' || /z/ || ''Za''
+|}
+
+== Grammar ==
+Burawi is an agglutinative language with a Subject-Object-Verb (SOV) word order. Its grammar is characterized by a complex focus system and a split noun morphology based on the origin of the word.
+
+=== Morphology ===
+Nouns in Burawi are marked for gender (masculine or feminine), number, and case.
+
+* '''Gender''': Masculine nouns typically take the definite article suffix ''-ka/-ga/-ha'', while feminine nouns take ''-ta/-da/-sha''.
+** '''Old Loans ([[Mesogean]])''': Words ending in ''-us'' are Masculine, ''-a'' are Feminine.
+** '''New Loans ([[Darasian]]/[[Volisanian]])''': Words like ''Dan'' (Party) are treated as native masculine nouns (''Dan-ka'').
+* '''Number''': Plurals are formed using suffixes such as ''-o'', ''-yo'', or through partial reduplication.
+
+=== Syntax ===
+The sentence structure is strictly SOV. A unique feature of Burawi is the mandatory use of focus particles to indicate the topic or emphasis of the sentence.
+
+* '''baa''': Marks the noun phrase immediately preceding it as the focus.
+* '''waa''': Marks the verb phrase or predicate as the focus.
+* '''ayaa''': Emphasizes the object or a specific noun phrase.
+
+Example:
+* ''Nin-ka '''baa''' yimid.'' ("The '''man''' came.")
+* ''Nin-ku '''waa''' yimid.'' ("The man '''came'''.")
+
+=== Pronouns ===
+Pronouns distinguish between subject and object forms, and include emphatic sets.
+
+{| class="wikitable"
+! Person !! Subject (Clitic) !! Object (Clitic) !! Independent (Emphatic)
+|-
+| '''1st Sg''' || ''aan'' || ''i'' || ''Aniga''
+|-
+| '''2nd Sg''' || ''aad'' || ''ku'' || ''Adiga''
+|-
+| '''3rd Masc''' || ''uu'' || ''u'' || ''Isaga''
+|-
+| '''3rd Fem''' || ''ay'' || ''u'' || ''Iyada''
+|}
+
+== Vocabulary ==
+The lexicon of Burawi is a fusion of native [[Burano-Ormaic languages|Burano-Ormaic]] roots and three distinct foreign layers:
+* '''Mesogean Layer (Old)''': Ancient trade vocabulary (Science, Law).
+* '''Darasian Layer (Fosian)''': Revolutionary socialist terminology adopted in the 1930s.
+* '''Volisanian Layer (Modern)''': State and military terms from the occupation era.
+
+=== Comparison ===
+{| class="wikitable"
+! Meaning !! Burawi !! Burano-Ormaic Root !! Mesogean !! Darasian !! Volisanian
+|-
+| '''Socialism''' || ''Gonshi'' || -- || -- || ''Gōngshè'' || --
+|-
+| '''Party''' || ''Dan'' || ''Xisbi'' || -- || ''Dǎng'' || ''Partit''
+|-
+| '''Comrade''' || ''Tonji'' || ''Jaalle'' || -- || ''Tóngzhì'' || ''Camarada''
+|-
+| '''Republic''' || ''Rebuublik'' || -- || ''Res Publica'' || -- || ''República''
+|-
+| '''Sky''' || ''Cir'' || ''Cir'' || ''Caelum'' || -- || ''Cel''
+|}
+
+== Example Text ==
+'''Article 1 of the [[Declaration of Universal Rights]]'''
+
+<blockquote>''Omni hom-us waa xor dhal-an, oo dign-itas iyo xuquuq-ba waa sim-an. Waxaa la siiy-ay rati-o iyo damiir, waana inay ku dhaqm-aan midk-ood walaal-nimo.''</blockquote>
+
+'''Literal Translation:'''
+<blockquote>All man-subj [verb focus] free born-are, and dignity and rights-emph [verb focus] equal-are. [Focus] to given-past reason and conscience, and-must they with act-pres each-other brother-hood.</blockquote>
+
+'''Translation:'''
+<blockquote>All sentient beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.</blockquote>
+
+== Guide for Mercian Speakers ==
+For speakers of [[Mercian]], Burawi phonology presents unique challenges, particularly with throat sounds and ejectives.
+
+=== Pronunciation ===
+{| class="wikitable"
+! Letter !! Mercian Approximation !! Notes
+|-
+| '''X (x)''' || "H" in "Huge" (deep) || A rasping sound deep in the throat (like Scottish "Loch").
+|-
+| '''C (c)''' || -- || A constricted throat sound (no Mercian equivalent). Try to say "ah" while choking slightly.
+|-
+| '''Q (q)''' || "K" (back) || Like 'K', but produced further back in the throat.
+|-
+| '''Dh (dh)''' || "D" (curled) || Pronounce 'D' with the tongue curled back.
+|-
+| '''R (r)''' || Rolled 'R' || Trilled, as in [[Volisanian language|Volisanian]].
+|-
+| '''A/E/I/O/U''' || Ah, Eh, Ee, Oh, Oo || Pure vowels, never diphthongized.
+|}
+
+=== Common Phrases ===
+{| class="wikitable"
+! Mercian !! Modern Burawi !! Classical form !! Pronunciation (Approx)
+|-
+| '''Hello''' || ''Nabad'' || ''Nabad'' || "Na-bad"
+|-
+| '''My name is...''' || ''Magacaygu waa...'' || ''Magacaygu waa...'' || "Ma-ga-eye-goo wah..."
+|-
+| '''Where is...?''' || ''Xaway...?'' || ''Xaway...?'' || "Ha-way..."
+|-
+| '''Water''' || ''Aqwa'' || ''Aqwa'' || "Ak-wa"
+|-
+| '''Thank you''' || ''Mahadsanid'' || ''Mahadsanid'' || "Ma-had-san-id"
+|-
+| '''Comrade''' || ''Tonji'' || ''Tonji'' || "Ton-jee"
+|-
+| '''The book''' || ''Libre'' || ''Liber-us'' || "Lee-breh"
+|-
+| '''Long live the Republic''' || ''Noolada Rebublik'' || ''Noolaada Rebuublik'' || "No-lah-da Re-bub-lik"
+|}
+
+{{Navbox Southwestern Kaftia}}

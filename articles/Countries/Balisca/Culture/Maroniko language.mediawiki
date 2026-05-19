@@ -11,7 +11,7 @@
 | date             = 2020
 | ref              = 
 | familycolor      = Creole
-| fam1             = Ajami creole
+| fam1             = [[Sabir-based creole]]
 | region           = {{ubl|{{flag|Araucaria}}
 |{{flag|Sanyan}}
 }}
@@ -19,94 +19,394 @@
 | glotto           = 
 | glottorefname    = 
 | lingua           = 51-AAC-bc
-| script           = [[w:Latin script|Latin]] ({{W|Arabic alphabet}})
+| script           = [[w:Latin script|Mesogean]] ({{W|Arabic alphabet|Bayani alphabet}})
 | map              = 
 | mapcaption       = 
-}}
+|altname=Araucarian}}
 
-'''Maroniko''' ({{lit|[[Maroon Confederacy|maroon]] speech}}; {{Langx|kz|ߡߊߙߐߣߌߞߏ|Màròníkò}}), also known as '''Araucarian''' (''arakawiano''; {{Langx|kz|ߊߙߊߞߊ߲|Árákán}}) outside of [[Balisca]], is a [[W:Creole language|creole language]] that emerged in the [[Maroon Confederacy]] (what is now the community of [[Araucaria]]) as a result of the mixing of [[W:Yoruba language|Imo]], [[Ajami]] and the [[Kurupiran languages]] amongst [[Maroon Wars|self-liberated]] [[W:Maroons|maroons]]. Later migration led to the emergence of the Maroniko-speaking [[Sanyan Creoles|Creole community]] in [[Sanyan]].
+'''Maroniko''' (''Màrònìkò''; {{lit|[[Maroon Confederacy|maroon]] speech}}; {{Langx|kz|ߡߊߙߐߣߌߞߏ|Màròníkò}}), also known as '''Araucarian''' (''{{lang|mao|Árâkâ}}''; {{Langx|kz|ߊߙߊߞߊ߲|Árákán}}) outside of [[Balisca]], is a [[W:Creole language|creole language]] that emerged in the [[Maroon Confederacy]] (present-day [[Araucaria]]) as a contact language among [[Maroon Wars|self-liberated peoples]] from diverse origins. Developed during the 17th and 18th centuries from the mixing of [[Sabir]], [[Imo language|Imo]], [[Imfezzan languages|Imfezzan]], [[Bayani language|Bayani]], and "[[W:Kimbundu language|Kimbundu]]", Maroniko is today spoken by approximately 4.2 million people primarily in the [[Araucaria|community of Araucaria]] and the Maroniko-speaking [[Sanyan Creoles|Creole community]] in [[Sanyan]].
 
-==History==
-=== Spread ===
+Unlike most creoles, which typically develop from a single Illypnian lexifier and Kaftian substrate, Maroniko emerged from the convergence of multiple source languages. [[Sabir]] (Mesogean Lingua Franca) provided the primary lexical foundation, but with a distinctive [[Volisanian language|Volisanian]] influence that sets Maroniko apart from other Sabir-based creoles such as [[Baliscano language|Baliscano]]. The substantial [[Imo language|Imo]] and [[Imfezzan languages|Imfezzan]] contributions reflect the Kaftian and North Mesogean origins of many Maroon ancestors, while "[[W:Kimbundu|Kimbundu]]" influence derives from the Central Kaftian presence among early Maroon communities.
+
+== Classification ==
+
+Maroniko is classified as a [[Mesogean Lingua Franca]]-based creole, though its distinctive development path distinguishes it from other Sabir-derived languages. While [[Baliscano language|Baliscano]] emerged from a Sabir substrate with heavy [[Volisanian language|Volisanian]] and [[Xacano language|Xacano]] influence, Maroniko developed with a more diverse substrate mix and a notably stronger Volisanian lexical presence in its Sabir layer.
+
+The language is sometimes categorized as an [[Aethiopic creole]] due to its substantial Kaftian substrate contributions, though geographically located in the Mesogean region. This dual classification reflects Maroniko's unique position at the convergence of Mesogean and Kaftian linguistic spheres.
+
+== History ==
+
+=== Origins ===
+{{See also|Slavery in Balisca|Aethiopian slave trade|}}
+Maroniko emerged in the mountainous interior of present-day Araucaria during the mid-17th century, among communities of self-liberated people known as [[Maroons]]. These communities formed through the escape and integration of individuals from diverse origins: [[Kaftian slave trade|enslaved Kaftians]] taken from the [[Imo language|Imo-speaking]] regions (predominately within [[Ayorin]], [[Dakare|eastern Dakare]] and [[Tamazgha|southern Tamazgha]]), [[Imfezzan peoples|Imfezzan coastal raiders]], Bayani merchants and artisans, and [[Kimbundu language|Kimbundu-speaking]] peoples from Central Kaftia, alongside indentured Illypnians and those fleeing colonial authorities from various Mesogean territories.
+
+The [[W:Lingua franca|''lingua franca'']] of these communities could not be any single source language, as the population was too linguistically diverse. Sabir, already functioning as a trade language throughout the Mesogean and along Kaftian trading coasts, provided an initial means of basic communication. However, the Sabir that developed in Maroon communities was distinct from the maritime trade pidgin: it incorporated substantial vocabulary from the languages of the majority Kaftian population and developed grammatical features absent in standard Sabir usage.
+
+By approximately 1680, Maroniko had developed into a stable creole with native speakers — children born in Maroon communities who acquired the contact language as their primary tongue and regularized its grammar. The process of [[W:Creolization|creolization]] was substantially complete by the early 18th century, producing a language distinct from both its Sabir source and from other creoles developing elsewhere in the Mesogean world.
+
+=== Volisanian influence ===
+{{See also|Viceroyalty of New Volisania|Razón y Justicia|Conservatism in Balisca}}
+The heavy Volisanian influence in Maroniko's Sabir layer distinguishes it from other Lingua Franca-based creoles. Unlike [[Baliscano language|Baliscano]], which developed from a Sabir substrate influenced by diverse Illypnian colonists ([[Volisania|Volisanians]], [[Xacan|Xacanos]], [[Sarta|Sartans]], [[Andalus|Andalusi]], etc), Maroniko's Sabir came primarily through Volisanian-speaking [[Aethiopian slave trade|slave traders]] and the indirect influence of Volisanian coastal settlements north of Maroon territory.
+
+This Volisanian imprint is most visible in Maroniko's phonology and certain vocabulary domains: the preservation of final consonants that Sabir typically drops; the use of Volisanian-style interrogatives ({{lang|bic|ké}}, {{lang|bic|kómo}}, {{lang|bic|ánde}}); and vocabulary items such as {{lang|bic|amich}} (friend) and {{lang|bic|kancha}} (courtyard). The influence is sufficiently pronounced that some early linguists classified Maroniko as a "Volisanian creole," though this characterization understates the substantial Kaftian and Imfezzan contributions.
+
+=== Development and standardization ===
+
+Throughout the 18th and 19th centuries, Maroniko developed as the primary language of the Maroon Confederacy and its successor political entities. The language expanded its vocabulary to cover all domains of public and private life, developing distinct registers for formal governance, trade, domestic life, and spiritual practice.
+
+The [[Academia de Maroniko]], founded in [[Yerba Buena]] in 1908, has overseen the standardization of Maroniko orthography and vocabulary development. Unlike the [[Academia de la Lingua Baliscana]], which standardized an already widely-spoken official language, the Academia de Maroniko faced the challenge of developing written conventions for a language that had been primarily spoken for most of its history. The adopted orthography reflects compromises between representing etymological roots from multiple source languages and maintaining phonetic consistency.
+
+=== Contemporary status ===
+
+Maroniko is recognized as an official language in [[Araucaria]] and holds protected status as a heritage language in [[Sanyan|Sanyanian]] communities (especially amongst the [[Sanyan Creoles]]). In the [[Araucaria|community of Araucaria]], Maroniko serves as the primary language of government, education, and daily life for the majority of the population. In Sanyan, Maroniko-speaking creole communities maintain the language as a marker of cultural identity, though language shift towards the indigenous [[Kinza language]] and Baliscano (due to close historic ties with [[Balisca]]) has accelerated among younger generations.
+
+== Geographic distribution ==
+
+Maroniko is spoken primarily in two geographic regions:
+
+* The [[Araucaria|community of Araucaria]], particularly the interior highland regions historically associated with the Maroon Confederacy
+* The Maroniko-speaking [[Sanyan Creoles|Creole communities]] of coastal [[Sanyan]], concentrated in the [[Yerba Buena]] metropolitan area and the [[Silicón Coast (Balisca)|Silicón Coast]] communities
+
+Smaller Maroniko-speaking communities exist throughout the [[Baliscan Confederation]], particularly in urban centers with significant Araucarian diaspora populations. An estimated 4.2 million people speak Maroniko as a first or second language, with approximately 3.1 million in Araucaria and 900,000 in Sanyan and other communities.
+
+== Phonology ==
+
+=== Consonants ===
+
+Maroniko's consonant inventory reflects its diverse source languages:
+
+{| class="wikitable"
+|-
+! colspan="2" | !! Labial !! Alveolar !! Postalveolar !! Palatal !! Velar !! Uvular !! Pharyngeal !! Glottal
+|-
+! rowspan="2" | Plosive
+| voiceless || p || t || || || k || || ||
+|-
+| voiced || b || d || || || g || || ||
+|-
+! rowspan="2" | Affricate
+| voiceless || || || tʃ || || || || ||
+|-
+| voiced || || || dʒ || || || || ||
+|-
+! rowspan="2" | Fricative
+| voiceless || ɸ || s || ʃ || || x || || ħ || h
+|-
+| voiced || β || z || ʒ || || ɣ || || ||
+|-
+! Nasal || m || n || || ɲ || ŋ || || ||
+|-
+! Lateral || || l || || ʎ || || || ||
+|-
+! rowspan="2" | Tap/Trill || || ɾ || || || || || ||
+|-
+| || r || || || || || ||
+|-
+! Approximant || w || || || j || || || ||
+|}
+
+Notes:
+* /ɸ β/ occur as allophones of /p b/ in Imo-derived words in some dialects
+* /ħ/ derives from Bayani/Imfezzan and is preserved primarily in words of those origins
+* Prenasalized stops /mb nd ŋg/ occur in Kimbundu and Imo-derived vocabulary
+
+=== Vowels ===
+
+Maroniko has a seven-vowel system with nasal contrast inherited from Imo:
+
+{| class="wikitable"
+|-
+! !! Front !! Central !! Back
+|-
+! Close || i ĩ || || u ũ
+|-
+! Close-mid || e ẽ || || o õ
+|-
+! Open-mid || ɛ ɛ̃ || || ɔ ɔ̃
+|-
+! Open || || a ã ||
+|}
+
+Nasal vowels occur primarily in Imo-derived terms and in some Kimbundu-derived vocabulary.
+
+=== Syllable structure ===
+
+Maroniko permits relatively complex syllable structure compared to many creoles:
+
+* CV, CVC, CVn (where n = nasal vowel)
+* Word-initial consonant clusters from Imfezzan loans: ''adrár'' (mountain), ''agelmim'' (lake)
+* Word-final consonants preserved from Volisanian-influenced Sabir: ''kanch'' (courtyard), ''amich'' (friend)
+
+=== Stress ===
+
+Stress in Maroniko typically falls on the penultimate syllable:
+* {{lang|bic|KA-sa}} — "house"
+* {{lang|bic|ma-RÒN-iko}} — "Maroon speech"
+
+Stress shifts to the ultimate syllable in words with final consonant clusters:
+* {{lang|bic|a-MÍCH}} — "friend"
+
+Irregular stress is marked with an acute accent:
+* {{lang|bic|ká-fe}} — "coffee"
 
 == Grammar ==
 
-=== Gender ===
+Maroniko grammar exhibits typical creole features while preserving certain substrate influences from its source languages.
+
+=== Morphological typology ===
+
+Maroniko is predominantly [[analytic language|analytic]], with minimal inflectional morphology. Nouns are not marked for case, and verbal categories are expressed through pre-verbal particles rather than conjugation.
+
+=== Nouns and noun phrases ===
+
+==== Number ====
+
+Plural is optionally marked with the suffix {{lang|bic|-nan}}:
+* {{lang|bic|munu}} — "person" or "people"
+* {{lang|bic|munu-nan}} — "people" (emphatic plural)
+
+==== Definiteness ====
+
+Maroniko does not mark definiteness through articles. The distinction between definite and indefinite reference is conveyed through context or through demonstratives:
+* {{lang|bic|ile}} — "house" or "a house" or "the house"
+* {{lang|bic|ile wa}} — "this house"
+* {{lang|bic|ile ya}} — "that house"
+
+==== Gender ====
+
+Maroniko has no grammatical gender. Natural gender in animate nouns may be distinguished through derived forms:
+* {{lang|bic|omí}} — "man"
+* {{lang|bic|omí-ya}} — "woman" (from ''omí'' + Imo-derived feminine suffix -''ya'')
+
+=== Pronouns ===
+
+Maroniko pronouns derive primarily from Imo:
+
+{| class="wikitable"
+! Person !! Subject !! Object !! Possessive
+|-
+| 1st singular || {{lang|bic|èmi}} || {{lang|bic|èmi}} || {{lang|bic|èmi}}
+|-
+| 2nd singular || {{lang|bic|ìwọ}} || {{lang|bic|ìwọ}} || {{lang|bic|rẹ}}
+|-
+| 3rd singular || {{lang|bic|óun}} || {{lang|bic|óun}} || {{lang|bic|rẹ}}
+|-
+| 1st plural || {{lang|bic|àwa}} || {{lang|bic|àwa}} || {{lang|bic|àwa}}
+|-
+| 2nd plural || {{lang|bic|ẹ̀yín}} || {{lang|bic|ẹ̀yín}} || {{lang|bic|yín}}
+|-
+| 3rd plural || {{lang|bic|àwọn}} || {{lang|bic|àwọn}} || {{lang|bic|wọn}}
+|}
+
+Note: Orthographic marks (grave/acute) indicate vowel quality distinctions from Imo substrate, not stress.
+
+=== Tense-Mood-Aspect system ===
+
+The TMA system is central to Maroniko grammar. Tense, mood, and aspect are marked by pre-verbal particles:
+
+{| class="wikitable"
+! Particle !! Function !! Example !! Translation
+|-
+| (unmarked) || Present/habitual || {{lang|bic|Èmi sòrò.}} || "I speak." / "I am speaking."
+|-
+| {{lang|bic|yá}} || Past/completive || {{lang|bic|Èmi yá sòrò.}} || "I spoke." / "I have spoken."
+|-
+| {{lang|bic|ló}} || Future || {{lang|bic|Èmi ló sòrò.}} || "I will speak."
+|-
+| {{lang|bic|stá}} || Progressive || {{lang|bic|Èmi stát sòrò.}} || "I am speaking."
+|-
+| {{lang|bic|tábi}} || Habitual past || {{lang|bic|Èmi tábi sòrò.}} || "I used to speak."
+|-
+| {{lang|bic|kábá}} || Completive ("just") || {{lang|bic|Èmi kábá sòrò.}} || "I have just spoken."
+|-
+| {{lang|bic|kán}} || Irrealis/subjunctive || {{lang|bic|Èmi kán sòrò.}} || "I would speak." / "I might speak."
+|}
+
+TMA particles can be combined:
+* {{lang|bic|Èmi yá stát sòrò.}} — "I was speaking." (past progressive)
+* {{lang|bic|Èmi ló kábá sòrò.}} — "I will have just spoken." (future perfect)
+
+The progressive marker {{lang|bic|stát}} derives from Sabir/Volisanian ''estar''. The completive {{lang|bic|kábá}} derives from Kimbundu ''kaba'' (to finish, to cut).
+
+=== Verbs ===
+
+Maroniko verbs have a single invariant form used for all persons:
+* {{lang|bic|èmi sòrò, ìwọ sòrò, óun sòrò, àwa sòrò}} — "I speak, you speak, s/he speaks, we speak"
+
+==== Copula ====
+
+Maroniko has two copula verbs:
+
+* {{lang|bic|dá}} — Essential/identity (from Yoruba ''jẹ́'' "to be")
+*: {{lang|bic|Èmi dá omí.}} — "I am a person."
+* {{lang|bic|stá}} — State/location (from Sabir/Volisanian *estar*)
+*: {{lang|bic|Èmi stá na ile.}} — "I am in the house."
+
+=== Word order ===
+
+Basic word order is SVO:
+* {{lang|bic|Èmi kumi omi.}} — "I drink water." (literally "I eat water")
+
+Noun phrase order is Determiner-Noun-Adjective:
+* {{lang|bic|ile nla}} — "the big house" (literally "house big")
+
+=== Negation ===
+
+Negation is formed with {{lang|bic|kà}} before the verb:
+* {{lang|bic|Èmi kà kumi.}} — "I don't eat."
+* {{lang|bic|Èmi kà yá kumi.}} — "I didn't eat."
+
+Negative concord is found in some constructions:
+* {{lang|bic|Nlé kà kó nkan.}} — "There isn't anything there." (literally "There not be not nothing")
+
+=== Prepositions ===
+
+Key prepositions in Maroniko include:
+
+* {{lang|bic|na}} — locative (from Imo ''ní'' "at/in")
+*: {{lang|bic|Èmi stá na ile.}} — "I am in the house."
+* {{lang|bic|di}} — genitive/possessive (from Sabir ''de'')
+*: {{lang|bic|ile di óun}} — "his/her house"
+* {{lang|bic|pa}} — instrumental ("with," from Sartan ''por'' via Sabir)
+*: {{lang|bic|kubi pa máno}} — "hit with hand"
+* {{lang|bic|pa-kúma}} — purposive ("for," from Sabir ''para'' + ''kuma'' "reason")
+*: {{lang|bic|ló na pa-kúma sòrò.}} — "go for speaking"
+
+== Vocabulary ==
+
+Maroniko vocabulary reflects its multi-source origins:
+
+{| class="wikitable"
+! Source !! Percentage !! Domains !! Examples
+|-
+| [[Sabir]]/Volisanian || ~40% || Basic vocabulary, interrogatives, basic verbs || {{lang|bic|kása}} "house", {{lang|bic|kúmi}} "eat", {{lang|bic|dórmi}} "sleep", {{lang|bic|ké}} "what"
+|-
+| [[Imo language|Imo]] || ~25% || Kinship, body parts, everyday nouns || {{lang|bic|òrìsà}} "spirit", {{lang|bic|omí}} "person", {{lang|bic|èrín}} "head", {{lang|bic|omí}} "water"
+|-
+| [[Bayani language|Bayani]] || ~15% || Religion, trade, spiritual || {{lang|bic|álà}} "God", {{lang|bic|súq}} "market", {{lang|bic|halàl}} "permitted", {{lang|bic|xálàs}} "peace"
+|-
+| [[Imfezzan languages|Imfezzan]] || ~10% || Geography, nature, pastoral || {{lang|bic|adràr}} "mountain", {{lang|bic|agelmím}} "lake", {{lang|bic|aziwàl}} "coast"
+|-
+| [[Kimbundu language|Kimbundu]] || ~10% || Labor, cultivation, community || {{lang|bic|kimá}} "work", {{lang|bic|làndà}} "lineage", {{lang|bic|nzubà}} "field"
+|}
+
+=== Sample vocabulary ===
+
+{| class="wikitable"
+! Maroniko !! Meaning !! Etymology
+|-
+| {{lang|bic|kása}} || house || Sabir '''''casa'''''
+|-
+| {{lang|bic|omí}} || water || Imo '''''omi'''''
+|-
+| {{lang|bic|èrín}} || head || Imo '''''orí'''''
+|-
+| {{lang|bic|súq}} || market || Bayani '''''suq'''''
+|-
+| {{lang|bic|adràr}} || mountain || Imfezzan '''''adrar'''''
+|-
+| {{lang|bic|kimà}} || work || Kimbundu '''''kima'''''
+|-
+| {{lang|bic|kúmi}} || eat || Sabir '''''kome''''' 
+|-
+| {{lang|bic|ámi}} || friend || Volisanian '''''amic''''' → Sabir '''''amico'''''
+|-
+| {{lang|bic|áwa}} || we || Imo '''''àwa'''''
+|-
+| {{lang|bic|ké}} || what || Sabir '''''que'''''
+|}
+
+=== Word formation ===
+
+Maroniko has productive derivational processes:
+
+* Reduplication (from Imo): intensifies meaning or indicates plurality
+*: {{lang|bic|kúmi-kúmi}} — "eating" (activity), "plenty of food"
+
+* Compounding: combines lexical roots
+*: {{lang|bic|omí-nla}} — "big person", "adult" (omí + nla)
+*: {{lang|bic|ile-kimì}} — "workhouse", "factory" (ile + kimì)
+
+* Suffixation:
+*: {{lang|bic|-nan}} — plural: {{lang|bic|àwọn-nan}} "those ones"
+*: {{lang|bic|-ya}} — feminine (rare): {{lang|bic|omí-ya}} "woman"
+
+== Writing system ==
+
+Maroniko uses the [[W:Latin script|Mesogean alphabet]] with additional characters for Imo-derived sounds. The standardized orthography, adopted by the [[Academia de Maroniko]] in 1912, represents a compromise between phonetic representation and etymological preservation.
+
+=== Orthographic conventions ===
+
+{| class="wikitable"
+! Letter !! IPA !! Example
+|-
+| c || /tʃ/ || {{lang|bic|cà}} ['tʃa] "to do"
+|-
+| j || /dʒ/ || {{lang|bic|jà}} [dʒa] "to be"
+|-
+| x || /ʃ/ || {{lang|bic|xà}} [ʃa] "to share"
+|-
+| z || /z/ || {{lang|bic|zá}} [za] "thing"
+|-
+| ñ || /ɲ/ || {{lang|bic|ñà}} [ɲa] "mother"
+|-
+| h || /h/ || {{lang|bic|hà}} [ha] "to take"
+|-
+| ḥ || /ħ/ || {{lang|bic|ḥà}} [ħa] (in Bayani/Imfezzan-derived words only)
+|-
+| kh || /x/ || {{lang|bic|khà}} [xa] (in Imfezzan loanwords)
+|-
+| gb || /ɡb/ || {{lang|bic|gbà}} [ɡba] "to break" (Imo-derived)
+|-
+| kp || /kp/ || {{lang|bic|kpà}} [kpa] (Imo-derived)
+|}
+
+Nasal vowels are indicated with a following -n or by tilde in standardized spelling:
+* {{lang|bic|ãwã}} or {{lang|bic|anwa}} — "we"
+* {{lang|bic|ẽ́}} or {{lang|bic|en}} — "song"
+
+Accent marks indicate irregular stress or, in some cases, vowel quality distinctions from Imo substrate:
+* {{lang|bic|ká-fe}} — "coffee" (stress on first syllable)
+* {{lang|bic|èmi}} — "I" (low tone vowel from Imo)
 
 == Sample phrases ==
-{| class="wikitable" 
-|+ 
-!Maroniko 
-!Literal translation 
-!English equivalent 
-|- 
-|¿Cómo tú sta, pariente? ¿Ife-inú tú tene paxi? 
-|How you live, brother? Inside you have peace? 
-|How are you, friend? Is your heart at peace? 
-|- 
-|¿Ké nwa tene? 
-|What us have? 
-|What’s up? / How are we? 
-|- 
-|Mi munu de la rúa. 
-|I'm a person of the street/way. 
-|I am a local / I’m from around here. 
-|- 
-|¿Ánde sta su jente? 
-|Where stay your people? 
-|Where is your family from? 
-|- 
-|Nwa sta junto. 
-|We stay together. 
-|We are in accord / We are cool. 
-|- 
-|¿Ánde sta la posada? 
-|Where stay the inn? 
-|Where is the guest house? 
-|- 
-|Nwa tene fone. 
-|We have hunger. 
-|I am hungry. 
-|- 
-|Dami un tiko de awa. 
-|Give-me a bit of water. 
-|Can I have some water? 
-|- 
-|¿Kuánto lo kosto? 
-|How-much the cost? 
-|How much is this? 
-|- 
-|No tene dudu. 
-|No have doubt. 
-|Don't worry / It's fine. 
-|- 
-|Limpyo mi oya. 
-|Clean my see. 
-|I understand clearly. 
-|- 
-|¿Tú kire kumi-kumi? 
-|You want eat-eat? 
-|Do you want some food? 
-|- 
-|Pega la mano. 
-|Grip the hand. 
-|Help me out / Give me a hand. 
-|- 
-|Mi bori sta kanyá. 
-|My head is spent. 
-|I am exhausted. 
-|- 
-|Mañán nwa oya. 
-|Tomorrow we see. 
-|See you tomorrow. 
-|- 
-|Ba con lo asé. 
-|Go with the power/blessing. 
-|Go with God / Go in peace. 
+
+{| class="wikitable"
+! Maroniko !! Literal translation !! English equivalent
+|-
+| {{lang|bic|Kómo ìwọ stá, ámi?}} || "How you stay, friend?" || "How are you, friend?"
+|-
+| {{lang|bic|Àwa kà tene dudú.}} || "We not have doubt." || "We are sure." / "No worries."
+|-
+| {{lang|bic|Ánde stá ile di ìwọ?}} || "Where stay house of you?" || "Where is your home?"
+|-
+| {{lang|bic|Èmi kán ló na súq.}} || "I would go at market." || "I might go to the market."
+|-
+| {{lang|bic|Dámí na omí, ámi.}} || "Give me at water, friend." || "Can I have some water, friend?"
+|-
+| {{lang|bic|Kúantu lo kosto?}} || "How-much it cost?" || "How much is this?"
+|-
+| {{lang|bic|Xalàs na óun.}} || "Peace at you." || "Peace be with you." / "Goodbye."
+|-
+| {{lang|bic|Èmi tábi kimà na nzubà.}} || "I habitually-work at field." || "I used to work in the fields."
+|-
+| {{lang|bic|Ile nla di àwa.}} || "House big of us." || "Our big house." / "Our community center."
+|-
+| {{lang|bic|Óun yá kába kúmi.}} || "S/he past finish eat." || "S/he has just finished eating."
 |}
 
 == See also ==
-{{Balisca articles}}{{Sanyan topics}}
-[[Category:Balisca]]
-[[Category:Sanyan]]
+
+* [[Baliscano language]]
+* [[Sabir]]
+* [[Maroon Confederacy]]
+* [[Araucaria]]
+* [[Sanyan Creoles]]
+* [[Imo language]]
+* [[Imfezzan languages]]
+* [[Bayani language]]
+* [[Kimbundu language]]
+{{Balisca articles}}
 [[Category:Languages of Balisca]]
+[[Category:Creole languages]]
+[[Category:Araucaria]]

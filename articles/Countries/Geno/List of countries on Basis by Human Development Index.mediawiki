@@ -1,0 +1,40 @@
+{{Basis}}
+{| class="wikitable sortable sticky-header-multi sort-under static-row-numbers" style="text-align:right;"
+|+[[wikipedia:Human Development Index|Human Development Index]] by country or {{color box|#F0E891|territory}}
+|- class="static-row-header" style="text-align:center;"
+! style=width:3em | Rank
+! style="width:17em" | Country or territory
+! style=width:9em | Basis Forum<br>({{abbr|2440|2027 (Earth Year Equivalent)}})
+|- class=static-row-header style=font-weight:bold 
+| 
+| style=text-align:left| {{noflag|Basis}} || TBD
+|-
+| 1
+| style=text-align:left| {{flag|Thyon}}
+| 0.939<!--Comparable to Canada, NZ, USA and UAE-->
+|-
+| 2
+| style=text-align:left| {{flag|Qym}}
+| 0.914<!--Comparable to Italy, Czechia and Cyprus-->
+|-
+| 3
+| style=text-align:left| {{flag|Geno}}
+| 0.788<!--Comparable to Colombia, Mexico and Brazil-->
+|-
+| 4
+| style=text-align:left| {{flag|Haynadur}}
+| 0.717<!--Comparable to Morocco, Philippines and Venezuela-->
+|-
+| 5
+| style=text-align:left| {{flag|Kibabi}}
+| 0.406<!--Comparable to Central African Republic, Somalia and South Sudan; i.e. very bottom-->
+|-
+|}
+
+==See also==
+*[[List of countries on Basis by GDP (nominal)]]
+*[[List of countries on Basis by GDP (nominal) per capita]]
+*[[List of countries on Basis by GDP (PPP)]]
+*[[List of countries on Basis by GDP (PPP) per capita]]
+
+[[Category:Basis]]

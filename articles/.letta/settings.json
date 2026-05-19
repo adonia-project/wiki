@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"B:\\02_GIT CONNECTED\\wiki\\articles\\Countries\\Okaiken\\Infrastructure\")",
+      "Edit(Countries/Okaiken/Infrastructure/**)",
+      "Bash((Get-Content \"B:\\02_GIT CONNECTED\\wiki\\articles\\Countries\\Okaiken\\Infrastructure\\Okaiken Railways.mediawiki\" | Measure-Object -Line).Lines)",
+      "Edit(Countries/Okaiken/Economy/**)"
+    ]
+  }
+}

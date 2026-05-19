@@ -1,0 +1,95 @@
+{{Short description|Largest cities in Balisca by population}}
+{{Use dmy dates|date=November 2014}}
+
+[[Balisca]] has a high level of [[W:Urbanization|urbanization]] with 91.1% of the population residing in [[W:Urban area|urban]] and [[Metropolitan area|metropolitan]] areas. The criteria used by the [[Confederal Institute of Statistics|ICS]] (Confederal Institute of Statistics) in determining whether households are urban or rural, however, are based on political divisions, not on the developed environment. Its most populous city is [[Castejón]], and it is considered Balisca's [[W:Primate city|primate city]].
+
+Nowadays, the country has 3,628 cities, with 57,681 communes plus the capital (Castejón).
+
+With two exceptions, the regional capitals are all the largest cities in their respective states: [[Porciúncula]], the capital of [[Jaguarundi]] is its second-largest city after [[tba]], while [[tba]] is only the third-largest city in [[tba]], although it is located in that region's largest [[Greater Vitória|metropolitan area]].
+
+==Most populous cities in Balisca==
+This is a list of the most populous cities based on the population of the [[Communes of Balisca|commune]] or [[Cantons of Balisca|canton]] where the city is located, rather than its metropolitan area. As ICS considers the entire Metropolitan Region as synonymous to Castejón, the population of the region is shown rather than the [[Commune of Castejón]] (''Ciudad Vieja'').
+
+{| class="wikitable"
+| style="background:#ffff99; width:1em" |
+|'''''Regional capital'''''
+|-
+| style="background:#cfecec; width:1em" |
+|'''''Region's largest city'''''
+|-
+| style="background:#ccff99; width:1em" |
+|'''''Regional capital and largest city'''''
+|-
+| style="background:#ff9999; width:1em" |
+|'''''Confederal capital'''''
+|}
+
+{| class="wikitable sortable mw-datatable static-row-numbers"
+|-class=static-row-header
+! [[Municipalities of Balisca|City]]
+! [[Regions of Balisca|Region]]
+! 2025<br>Estimate
+! 2020<br>Census
+! Change
+|-
+| style="background-color:#ff9999" |'''''[[Castejón]]'''''
+| {{flag|Castejón Metropolis}}
+| {{change|invert=on|24479594|23328795}}
+|-
+| style="background-color:#ccff99" |'''''[[Macaio]]'''''
+| {{flag|Carpinchera}}
+| {{change|invert=on| 10561759|9783914}}
+|-
+| style="background-color:#ccff99" |'''''[[Alessandria]]'''''
+| {{flag|Acacias}}
+| {{change|invert=on|5012623|4868623}}
+|-
+| style="background-color:#ccff99" |'''''[[Concepción]]'''''
+| {{flag|Cadaqués}}
+| {{change|invert=on|4731571|4503342}}
+|-
+| style="background-color:#ccff99" |'''''[[Axarquía]]'''''
+| {{flag|Juyú}}
+| {{change|invert=on|3332794|3132794}}
+|-
+| style="background-color:#ccff99" |'''''[[Valparaíso]]'''''
+| {{flag|Tukupi}}
+| {{change|invert=on|2283786|2173188}}
+|-
+| style="background-color:#ccff99" |'''''[[Jatiel]]'''''
+| {{flag|Luzamontaña}}
+| {{change|invert=on|1748427|1582136}}
+|-
+| style="background-color:#ccff99" |'''''[[San Chorche]]'''''
+| {{flag|Kamakã}}
+| {{change|invert=on|1467800|1384823}}
+|-
+| style="background-color:#ccff99" |'''''[[Uxiu]]'''''
+| {{flag|Llaragón}}
+| {{change|invert=on|1378634|1294813}}
+|-
+| style="background-color:#ccff99" |'''''[[Merced]]'''''
+| {{flag|Dríadas}}
+| {{change|invert=on|1120647|985904}}
+|-
+| style="background-color:#ccff99" |'''''[[Kimünrayen]]'''''
+| {{flag|Tukupi}}
+| {{change|invert=on|1195562|1088678}}
+|-
+|'''''[[Yerba Buena]]'''''
+| {{flag|Luzamontaña}}
+| {{change|invert=on|1036563|982648}}
+|-
+| style="background-color:#cfecec" |'''''[[Calatañazor]]'''''
+|{{flag|Jaguarundi}}
+| {{change|invert=on|1020813|962428}}
+|-
+| style="background-color:#ccff99" |'''''[[Aigües]]'''''
+|{{flag|Quiscosta}}
+| {{change|invert=on|1003216|942456}}
+|}
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Demographics of Balisca]]

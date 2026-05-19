@@ -1,0 +1,105 @@
+{{Basis}}
+{{Infobox airline
+| airline          = Shum Geno
+| image            = Shum Geno logo.png
+| image_size       = 
+| alt              = 
+| IATA             = SG
+| ICAO             = SGE
+| callsign         = SHUMGENO
+| founded          = DAY MONTH YEAR
+| commenced        = DAY MONTH YEAR
+| hubs             = [[Utopia International Airport|Utopia]]
+| secondary_hubs   = 
+| focus_cities     = 
+| frequent_flyer   = 
+| lounge           = 
+| alliance         = 
+| subsidiaries     = 
+| fleet_size       = NUM
+| destinations     = NUM
+| company_slogan   = ''Fly to Geno or die trying''                 
+| parent           = [[Government of Geno]]
+| headquarters     = [[Utopia (Geno)|Utopia]], [[Geno]]
+| key_people       = 
+<div>
+* [[DUDE]] (Chairperson)
+* [[DUDE]] (President & CEO)
+</div>
+| revenue          = {{increase}} $TBD billion ({{abbr|2440|2027 (Earth Year Equivalent)}})
+| operating_income = 
+| net_income       = 
+| profit           = {{increase}} $TBD million ({{abbr|2440|2027 (Earth Year Equivalent)}})
+| assets           = 
+| equity           = 
+| num_employees    = NUM ({{abbr|2440|2027 (Earth Year Equivalent)}})
+| website          = 
+}}
+
+'''Shum Geno''' is the flag carrier and largest airline of [[Geno]]. 
+
+==History==
+
+==Destinations==
+===Domestic===
+===International===
+
+==Fleet==
+As of MONTH {{abbr|2440|2027 (Earth Year Equivalent)}}, Shum Geno operates the following aircraft:
+
+{| class="wikitable" style="margin:0.5em auto; text-align:center"
+|+ Shum Geno fleet
+|-
+!rowspan=2|Aircraft
+!rowspan=2|In service
+!rowspan=2|Orders
+!colspan=6 class="unsortable"|Passengers
+!rowspan=2| Notes
+|-
+!style="width:25px;"|{{Abbr|F|First}}
+!style="width:25px;"|{{Abbr|B+|Business Plus}}
+!style="width:25px;"|{{Abbr|B|Business}}
+!style="width:25px;"|{{Abbr|E+|Economy Plus}}
+!style="width:25px;"|{{Abbr|E|Economy}}
+!style="width:25px;"|Total
+|-
+|[[Azmin CL-200]]
+|38
+|—
+|—
+|—
+|—
+|—
+|89
+|89
+|Launch customer.
+|-
+|[[Azmin CL-300]]
+|46
+|—
+|—
+|—
+|—
+|—
+|162
+|162
+|Launch customer.
+|-
+|[[Azmin CL-400]]
+|31
+|—
+|—
+|—
+|48
+|—
+|222
+|270
+|Launch customer.
+|-
+!Total
+!115
+!TBD
+! colspan="7" |
+|}
+
+[[Category:Geno]][[Category:MyNameJuls]][[Category:Basis]]

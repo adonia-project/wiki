@@ -1,0 +1,155 @@
+{{Short description|Sanese semiconductor and AI technology company}}
+{{Infobox company
+| name                    = Kizan Systems Corporation<br>木山システムズ株式会社
+| logo                    = [[File:Kizan Systems Logo.svg|250px]]
+| type                    = Public
+| traded_as               = {{OSE|6723}}
+| ISIN                    = OK6723000000
+| industry                = [[Semiconductor industry|Semiconductors]], [[Artificial intelligence]], [[Defense industry|Defense technology]]
+| founded                 = {{Start date|2008|06|15}}
+| founders                = [[Kizan Toshiaki]]
+| headquarters            = [[Kizan Tower]], [[Chiyoda Metropolis]], [[Okami]], [[Okaiken]]
+| area_served            = Worldwide
+| key_people              = [[Kizan Toshiaki]] (Chairman & CEO)<br>Koizumi Kenji (President & COO)<br>Matsumura Yuki (CTO)
+| products               = [[Satori AI]] platform, Kiryū processors, defense electronics, railway systems
+| revenue                 = 円1.87 trillion (2024)
+| operating_income        = 円312 billion (2024)
+| net_income              = 円89 billion (2024)
+| assets                  = 円2.3 trillion (2024)
+| equity                  = 円1.1 trillion (2024)
+| num_employees           = 48,200 (2024)
+| parent                  = 
+| subsid                  = Kizan Semiconductor Manufacturing (100%)<br>Kizan Defense Systems (100%)<br>Satori Technologies (85%)<br>Kizan Laboratories (100%)
+| website                 = {{URL|kizansystems.ok}}
+| footnotes              = {{note|a|a}} Originally founded as Kizan Semiconductor Research Laboratory in 1991; incorporated as Kizan Systems in 2008.
+}}
+
+{{nihongo|'''Kizan Systems Corporation'''|木山システムズ株式会社|Kizan Shisutemuzu Kabushiki-gaisha}} is a [[Okaiken|Sanese]] multinational corporation specializing in [[semiconductor]] manufacturing, [[artificial intelligence]] systems, and [[defense technology]]. Headquartered in the Kizan Tower in [[Chiyoda Metropolis]], [[Okami]], it is the dominant semiconductor manufacturer in Okaiken and the primary supplier to [[Okaiken Airways]] and the [[Okaiken Self-Defense Forces]]. The company is best known for developing the [[Satori AI]] platform, an artificial intelligence system that powers flight path optimization for the national carrier and background audio systems for the nation's high-speed rail networks.
+
+As of 2024, Kizan Systems is the second-largest technology company in Okaiken by market capitalization, behind only [[Nakajima Electronics]]. The company has been at the center of significant controversy regarding government procurement practices, with 円890 million in no-bid defense contracts under investigation by the [[Board of Audit (Okaiken)|Board of Audit]]. Despite its technological achievements, critics have described the company as "too integral to fail, too compromised to trust," highlighting tensions between its national security role and its political connections.
+
+== History ==
+
+=== Founding and early years (1991–2008) ===
+[[File:Kizan Toshiaki 2024.png|thumb|right|200px|[[Kizan Toshiaki]], founder and CEO, photographed in 2024.]]
+
+The origins of Kizan Systems trace to 1991, when [[Kizan Toshiaki]] established the Kizan Semiconductor Research Laboratory in a small industrial park in [[Yonezawa Prefecture]]. A former engineer at [[Nakajima Electronics]], Kizan had grown frustrated with what he perceived as the company's reluctance to invest in advanced chip architecture. Operating with a skeleton crew of twelve researchers, the laboratory focused on low-power processor design for industrial applications.
+
+For over fifteen years, the laboratory operated in relative obscurity, surviving on contract work for automotive manufacturers and small-scale defense projects. The turning point came in 2006, when Prime Minister [[Kenshin Hirota]]—son of the wartime leader [[Kōki Hirota]]—initiated a review of the nation's technological infrastructure following the [[Corporate Winter]] scandals. The resulting [[Digital Infrastructure Act]] of 2008 created massive subsidies for domestic semiconductor production and artificial intelligence development.
+
+Recognizing the opportunity, Kizan formally incorporated Kizan Systems Corporation on June 15, 2008, securing 円2.3 billion in government grants within the first year. The company's stated mission was to "build the silicon backbone of the Technocratic State."
+
+=== Development of Satori AI (2008–2013) ===
+The [[Digital Infrastructure Act]] allocated 円890 billion for what was termed the "Yagikoshu Data Corridor"—a massive infrastructure project integrating advanced computing into transportation, healthcare, and urban management. Kizan Systems won the primary contract for railway systems integration in late 2008.
+
+The result was the Satori AI platform ({{nihongo|悟り|Satori}}, meaning "awakening" or "enlightenment"). Initially designed as a background audio management system for the [[Toyozawa]] Terminal and high-speed rail networks, Satori utilized low-frequency ambient compositions synchronized with train movements to "reduce commuter stress and improve punctuality." This seemingly modest application—dubbed ''Kougyou-On'' (工業音, "Industrial Sound")—became the foundation for far more ambitious developments.
+
+The 2011 [[Jutsu Restoration]] fundamentally transformed Kizan Systems' trajectory. As the [[Honda Shigetsuma|Honda administration]] pursued aggressive "digital statism," the government sought domestic alternatives to foreign AI systems. In September 2011, the Ministry of Transport awarded Kizan a ¥45 billion contract to integrate Satori into [[Okaiken Airways]]' flight operations. The resulting "Satori Sky-Sync" system provided real-time flight path optimization, reducing fuel consumption by 12% across the national carrier's fleet.
+
+=== Expansion and defense contracts (2013–2018) ===
+By 2013, Kizan Systems had secured a near-monopoly on advanced semiconductors for the [[Okaiken Self-Defense Forces]]. The company's Kiryū ({{nihongo|龍流|Kiryū}}, "Dragon Stream") processors became the standard for naval fire control systems and air defense radar. This period saw revenue grow from 円180 billion in 2010 to 円890 billion in 2016.
+
+The company's relationship with the government deepened under Prime Minister [[Toshiro Kurosawa]] (2013–2016), whose "Kurosawa Doctrine" emphasized technological self-sufficiency. Internal documents later obtained by the ''[[Okami Financial Chronicle]]'' revealed that Kizan executives met with Kurosawa's staff seventeen times between 2014 and 2016, often without records being kept. Critics alleged that the company received preferential treatment in the allocation of the "Resilience Budgets" intended for infrastructure modernization.
+
+=== Government contracts controversy (2018–present) ===
+{{main|Kizan government contracts scandal}}
+In October 2022, the ''Okami Financial Chronicle'' published an investigation revealing that Kizan Systems had secured over 円890 million in government contracts without competitive bidding between 2018 and 2022. The contracts, primarily for defense-related semiconductor components, were awarded under the [[Emergency Procurement Act]] enacted during the [[Data-Gate]] scandal of 2016.
+
+The [[Board of Audit (Okaiken)|Board of Audit]] launched a formal investigation in March 2023, examining whether the emergency provisions were appropriate given that no actual emergency existed at the time of the awards. The investigation revealed that Kizan had donated ¥500 million to the [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party]] between 2015 and 2020, raising questions about potential quid pro quo arrangements.
+
+In April 2024, the [[House of Commoners (Okaiken)|House of Commoners]] Budget Committee summoned Kizan Toshiaki to testify under oath. During the seven-hour hearing, Kizan acknowledged "procedural irregularities" but defended the contracts as necessary for national security, arguing that competitive bidding would have exposed sensitive technical specifications to foreign competitors. Opposition lawmakers from the [[Okaiken Socialist Party|Socialist Party]] and [[Sanese Communist Party|Communist Party]] accused the government of favoritism, noting that Kizan's semiconductor prices were 23% higher than comparable offerings from [[Zong]] manufacturers.
+
+The scandal led to the passage of the '''Competitive Bidding Reform Act of 2024''', which requires all defense contracts exceeding ¥1 billion to undergo mandatory public tender with independent oversight. As of 2026, Kizan Systems' contracts remain under review by the [[Ministry of Defense (Okaiken)|Ministry of Defense]], and the company faces potential fines of up to ¥45 billion if violations are confirmed.
+
+== Products and services ==
+
+=== Semiconductors ===
+Kizan Systems operates three semiconductor fabrication facilities ("fabs") in [[Yonezawa Prefecture]], [[Aizawa]], and [[Seto Prefecture]]. The company's Kiryū processor line includes:
+
+* '''Kiryū-X Series''': High-performance processors for data centers and supercomputing
+* '''Kiryū-M Series''': Mobile and embedded processors for consumer electronics
+* '''Kiryū-D Series''': Radiation-hardened processors for aerospace and defense applications
+
+The company has faced criticism for its dependence on foreign lithography equipment. Unlike competitors in [[Zong]] and [[Illypnia]], Kizan lacks domestic manufacturing capabilities for advanced photolithography machines, purchasing all extreme ultraviolet (EUV) lithography systems from [[Briesland]] manufacturer VoxelTech. This vulnerability was highlighted in 2023 when export restrictions threatened to delay the company's 3nm chip production by eighteen months.
+
+=== Satori AI platform ===
+{{main|Satori AI}}
+The Satori AI platform represents Kizan Systems' most significant technological achievement. The system powers:
+
+* '''Satori Sky-Sync''': Flight path optimization for [[Okaiken Airways]], providing real-time weather analysis and fuel efficiency optimization. The system has reduced average system-wide delays to less than 45 seconds.
+* '''Satori Rail''': Background audio and passenger management systems for [[Okaiken Railways]] high-speed networks. The system generates ambient soundscapes designed to synchronize commuter heart rates.
+* '''Satori Defense''': Logistics and predictive maintenance systems for the [[Okaiken Self-Defense Forces]].
+
+Critics have raised concerns about the system's ubiquity. As of 2024, Satori AI processes approximately 340 million daily interactions across transportation, healthcare, and urban management systems. Privacy advocates have questioned whether the system's data collection practices comply with the [[Digital Privacy Act of 2019]], though Kizan maintains that all data is anonymized and processed domestically.
+
+=== Defense systems ===
+Kizan Defense Systems, a wholly-owned subsidiary, produces:
+
+* Fire control radar processors for the [[Imperial Sanese Navy]]
+* Guidance chipsets for surface-to-air missiles
+* Encrypted communication modules for ground forces
+* Autonomous drone control systems
+
+The subsidiary accounts for approximately 35% of Kizan Systems' total revenue, making the company particularly vulnerable to changes in defense procurement policy.
+
+== Corporate affairs ==
+
+=== Governance ===
+Kizan Systems is headquartered in the 52-story Kizan Tower in [[Chiyoda Metropolis]], [[Okami]]. The company's board of directors includes several former government officials, including former Ministry of Defense procurement director [[Yamamoto Kenji]] and former Ministry of Trade official [[Ishikawa Fumiko]]. Critics have described this as an example of the ''[[amakudari]]'' practice of retired bureaucrats "descending from heaven" into lucrative private-sector positions.
+
+[[Kizan Toshiaki]] serves as both Chairman and CEO, a dual role that corporate governance experts have questioned. In 2023, proxy advisory firm Glass Lewis recommended that shareholders vote against the company's executive compensation plan, citing "insufficient independence in the board's oversight structure."
+
+=== Financial performance ===
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|+ Kizan Systems Financial Performance (2020–2024)
+|-
+! Year !! Revenue (円 billion) !! Net Income (円 billion) !! Employees
+|-
+| 2020 || 1.42 || 67 || 42,100
+|-
+| 2021 || 1.56 || 74 || 44,300
+|-
+| 2022 || 1.68 || 81 || 46,800
+|-
+| 2023 || 1.79 || 86 || 47,500
+|-
+| 2024 || 1.87 || 89 || 48,200
+|}
+
+The company's consistent growth has been attributed to its dominant position in government contracts and the expanding applications of Satori AI. However, analysts at the ''Okami Financial Chronicle'' have noted that profit margins have declined from 18.2% in 2020 to 15.8% in 2024, citing increased competition from [[Zong]] semiconductor manufacturers and rising research and development costs.
+
+=== Controversies ===
+
+==== Family dispute ====
+In September 2025, Kizan's younger brother, [[Kizan Masahiro]], filed a lawsuit alleging that Toshiaki had improperly excluded him from the family trust. Masahiro, who owns 8% of Kizan Systems shares, claimed that his brother had pressured their elderly mother into changing her will to leave all family assets to Toshiaki. The case is pending in [[Okami District Court]], and legal analysts estimate it could take three to five years to resolve.
+
+==== Data-Gate involvement ====
+During the 2016 [[Data-Gate]] scandal, evidence emerged that early versions of Satori AI had been used to monitor domestic communications without proper warrants. Kizan Systems denied involvement, stating that the system had been "misused by third parties." An independent investigation by the [[Ministry of Internal Affairs and Communications (Okaiken)|Ministry of Internal Affairs]] found no evidence of wrongdoing by the company, but recommended enhanced oversight of AI systems processing personal data.
+
+==== Supply chain concerns ====
+In 2024, a [[Fair Trade Commission (Okaiken)|Fair Trade Commission]] investigation revealed that Kizan Systems had pressured smaller suppliers into accepting below-market prices under threat of contract termination. The company agreed to a ¥12 billion settlement without admitting wrongdoing.
+
+== See also ==
+* [[List of wealthiest people in Okaiken]]
+* [[Economy of Okaiken]]
+* [[Semiconductor industry in Okaiken]]
+* [[Satori AI]]
+* [[Okaiken Airways]]
+* [[Okaiken Self-Defense Forces]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|kizansystems.ok}}
+* [http://www.ose.ok/listing/6723 Kizan Systems at the Okaiken Stock Exchange]
+* [http://www.ftc.ok/cases/kizan-supply-chain Fair Trade Commission Case Files]
+
+[[Category:Companies of Okaiken]]
+[[Category:Technology companies of Okaiken]]
+[[Category:Semiconductor companies]]
+[[Category:Artificial intelligence companies]]
+[[Category:Defense companies of Okaiken]]
+[[Category:Companies listed on the Okaiken Stock Exchange]]
+[[Category:2008 establishments in Okaiken]]
+[[Category:Companies based in Okami]]

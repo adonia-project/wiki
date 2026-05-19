@@ -1,0 +1,32 @@
+{{Under construction}}
+{{Infobox company
+| name = Sifr Coop.
+| logo = [[File:Sifr_AI_Logo.svg|200px]]
+| logo_caption = The "Open Code" insignia
+| image = Sifr_Research_Lab_Takano.jpg
+| image_size = 250px
+| caption = Sifr's "Quiet Campus" in [[Barrio Takano]], [[Araucaria]]
+| type = [[w:cooperative|Open research cooperative]] (R.Coop)
+| industry = [[w:Artificial intelligence|Artificial intelligence]], [[w:Large language model|Large language models]], [[w:Open-source software|Open-source software]], [[w:Civic technology|Civic technology]]
+| foundation = {{Start date and age|2023|5|14|df=yes}}
+| founder = {{W|Business incubator|Incubated}} by [[Confederal Internet Cooperative]]
+| location_city = [[Yerba Buena]]
+| location_country = [[Balisca]]
+| key_people = [[Liang Varela]] (Chief scientist), [[Sifr General Assembly]] (governance)
+| revenue = Non-profit / Grant-funded ({{BLS|link=yes}}4.2 billion endowment)
+| num_employees = ~200 (Core researchers)
+| products = [[Sif-V]] (LLM series), [[Sifr-Coder]], [[Nodos (search engine)|Nodos search algorithms]]
+| owner = {{W|Worker cooperative|Worker-owned}} (100%)
+| slogan = ''Inteligencia para todos.'' (Intelligence for everyone.)
+| website = {{URL|sifr.ai.bl}}
+}}{{Economy of Balisca}}
+
+'''Sifr Coop.''' (from [[Bayani]] صِفْر; {{lit|zero|cypher}}; and stylized as ''ṣifr'') is a Baliscan [[W:Artificial intelligence|artificial intelligence research]] and [[W:Information technology|information technology]] [[w:worker's cooperative|cooperative]] that develops [[W:Large language models|large language models]] (LLMs). It was founded in May 2023, after being [[w:Business incubator|incubated]] by the [[Confederal Internet Cooperative]]. Sifr is strictly a software and intelligence company, and thus it does not manufacture hardware; instead, it optimizes its code to run efficiently on the processors produced by the [[Essential industry|state-owned]] [[Baliscan Semiconductor Corporation]] (BSC).
+
+Unlike Western tech giants that operate proprietary "black box" models, Sifr has adopted a "radical openness" philosophy, releasing the weights and source code of its powerful large language models (LLMs) to the public. The company actively recruits AI researchers from top Baliscan universities and also hires from outside traditional [[W:Computer science|computer science]] fields to broaden its models' knowledge and capabilities.
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Cooperatives in Balisca]]
+[[Category:Economy of Balisca]]

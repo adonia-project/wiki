@@ -1,0 +1,302 @@
+{{Basis}}
+
+'''Qymish''' is a [[Sukatic languages|Sukatic language]] of the [[LANG FAMILY]]. It is the native language of the [[Qymish people]]. Standard Qymish is the official language of [[Qym]]. 
+
+==Geographic distribution==
+*{{flag|Qym}}: L1 139.8 million<!--139,798,903--> (86.36%), L2 22.07 million<!--22,073,598--> (13.64%)
+
+*139,798,903 [[Meran]] L1
+*22,073,598 [[Meran]] L2
+*Total [[Meran]]: 161,872,501
+
+*Elsewhere? TBD
+
+==Dialects==
+
+==Phonology==
+==Writing system==
+===Alphabet and IPA===
+Qymish is written with 38 letters<!--Ⱌⱌ Ⱎⱎ--> of the [[Sukatic script]]<!--Glagolitic script-->.
+
+{| style="background:none;"
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;"
+|+ [[wikipedia:Consonant|Consonants]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|b}}</big>
+| align="left"| '''Ⰱⰱ'''
+| align="left"| '''Bb'''
+|align="left"| '''b'''oat
+|-
+|<big>{{IPA|ts}}</big>
+| align="left"| '''Ⱚⱚ'''
+| align="left"| '''Cc'''
+|align="left"| ba'''ts'''
+|-
+|<big>{{IPA|d}}</big>
+| align="left"| '''Ⰴⰴ'''
+| align="left"| '''Dd'''
+|align="left"| '''d'''o
+|-
+|<big>{{IPA|f}}</big>
+| align="left"| '''Ⱇⱇ'''
+| align="left"| '''Ff'''
+|align="left"| '''f'''estival
+|-
+|<big>{{IPA|ɡ}}</big>
+| align="left"| '''Ⰳⰳ'''
+| align="left"| '''Gg'''
+|align="left"| '''g'''ain
+|-
+|<big>{{IPA|ɣ}}</big>
+| align="left"| '''Ⱝⱝ'''
+| align="left"| '''Hh'''
+|align="left"| '''h'''at
+|-
+|<big>{{IPA|ʒ}}</big>
+| align="left"| '''Ⰶⰶ'''
+| align="left"| '''ZHzh'''
+|align="left"| plea'''s'''ure
+|-
+|<big>{{IPA|k}}</big>
+| align="left"| '''Ⰽⰽ'''
+| align="left"| '''Kk'''
+|align="left"| s'''k'''y
+|-
+|<big>{{IPA|q}}</big>
+| align="left"| '''Ⱒⱒ'''
+| align="left"| '''Qq'''
+|align="left"| ''Kazakh'' '''қ'''аза'''қ'''ша; sort of like '''Q'''atar
+|-
+|<big>{{IPA|l}}</big>
+| align="left"| '''Ⰾⰾ'''
+| align="left"| '''Ll'''
+|align="left"|'''l'''ean
+|-
+|<big>{{IPA|m}}</big>
+| align="left"| '''Ⰿⰿ'''
+| align="left"| '''Mm'''
+|align="left"| '''m'''oon
+|-
+|<big>{{IPA|n}}</big>
+| align="left"| '''Ⱀⱀ'''
+| align="left"| '''Nn'''
+|align="left"| '''n'''ote
+|-
+|<big>{{IPA|ɲ}}</big>
+| align="left"| '''Ⱓⱓ'''
+| align="left"| '''Ññ'''
+|align="left"| ''Spanish'' '''ñ''', ''French'' '''gn'''
+|-
+|<big>{{IPA|p}}</big>
+| align="left"| '''Ⱂⱂ'''
+| align="left"| '''Pp'''
+|align="left"| '''P'''a'''p'''er
+|-
+|<big>{{IPA|r}}</big>
+| align="left"| '''Ⱃⱃ'''
+| align="left"| '''Rr'''
+|align="left"| ''Spanish'' '''r'''ío; ''Ukrainian'' '''р'''анок
+|-
+|<big>{{IPA|ʁ}}</big>
+| align="left"| '''Ⱈⱈ'''
+| align="left"| '''RHrh'''
+|align="left"| ''French'' '''r'''
+|-
+|<big>{{IPA|ɹ̠}}</big>
+| align="left"| '''Ⱊⱊ'''
+| align="left"| '''WRwr'''
+|align="left"| ''English'' '''r'''
+|-
+|<big>{{IPA|s}}</big>
+| align="left"| '''Ⱄⱄ'''
+| align="left"| '''Ss'''
+|align="left"| '''s'''ix
+|-
+|<big>{{IPA|ʃ}}</big>
+| align="left"| '''Ⱋⱋ'''
+| align="left"| '''SHsh'''
+|align="left"| '''sh'''oe
+|-
+|<big>{{IPA|t}}</big>
+| align="left"| '''Ⱅⱅ'''
+| align="left"| '''Tt'''
+|align="left"| '''t'''ank
+|-
+|<big>{{IPA|θ}}</big>
+| align="left"| '''Ⱉⱉ'''
+| align="left"| '''THth'''
+|align="left"| '''Th'''ink
+|-
+|<big>{{IPA|tʃ}}</big>
+| align="left"| '''Ⱍⱍ'''
+| align="left"| '''CHch'''
+|align="left"| i'''tch'''y, '''ch'''eat
+|-
+|<big>{{IPA|v}}</big>
+| align="left"| '''Ⰲⰲ'''
+| align="left"| '''Vv'''
+|align="left"| '''v'''ision
+|-
+|<big>{{IPA|z}}</big>
+| align="left"| '''Ⰸⰸ'''
+| align="left"| '''Zz'''
+|align="left"| '''z'''ero
+|-
+|}
+| style="vertical-align: top;" |
+{| class="wikitable" style="text-align: center;" 
+|+ [[wikipedia:Vowel|Vowels]]
+|-
+! IPA !! Letter !! Latin !! English approximation
+|-
+|<big>{{IPA|a}}</big>
+| align="left"| '''Ⰰⰰ'''
+| align="left"| '''Aa'''
+|align="left"| f'''a'''ther
+|-
+|<big>{{IPA|ɑ̃}}</big>
+| align="left"| '''Ⱛⱛ'''
+| align="left"| '''Ãã'''
+|align="left"| ''French'' '''an''', '''en''', etc.
+|-
+|<big>{{IPA|ɛ}}</big>
+| align="left"| '''Ⰵⰵ'''
+| align="left"| '''Ee'''
+|align="left"| b'''e'''t
+|-
+|<big>{{IPA|ə}}</big>
+| align="left"| '''Ⱔⱔ'''
+| align="left"| '''Ëë'''
+|align="left"| '''a'''bove; ''French'' d'''e'''main
+|-
+|<big>{{IPA|ɛ̃}}</big>
+| align="left"| '''Ⰷⰷ'''
+| align="left"| '''Ẽẽ'''
+|align="left"| ''French'' '''in''', '''ein''', '''ain''', etc.
+|-
+|<big>{{IPA|i}}</big>
+| align="left"| '''Ⰹⰹ'''
+| align="left"| '''Ii'''
+|align="left"| s'''ee'''
+|-
+|<big>{{IPA|ɪ}}</big>
+| align="left"| '''Ⰺⰺ'''
+| align="left"| '''Yy'''
+|align="left"| California English b'''i'''t; New Zealand English b'''e'''d; ''Ukrainian'' в'''и'''прав'''и'''т'''и'''
+|-
+|<big>{{IPA|o}}</big>
+| align="left"| '''Ⱁⱁ'''
+| align="left"| '''Oo'''
+|align="left"| st'''o'''ry
+|-
+|<big>{{IPA|ø}}</big>
+| align="left"| '''Ⱘⱘ'''
+| align="left"| '''Öö'''
+|align="left"| ''French'' '''eu''', ''German'' '''ö'''
+|-
+|<big>{{IPA|ɔ̃}}</big>
+| align="left"| '''Ⱑⱑ'''
+| align="left"| '''Õõ'''
+|align="left"| ''French'' '''on'''
+|-
+|<big>{{IPA|u}}</big>
+| align="left"| '''Ⱆⱆ'''
+| align="left"| '''Uu'''
+|align="left"| c'''oo'''l
+|-
+|<big>{{IPA|y}}</big>
+| align="left"| '''Ⱖⱖ'''
+| align="left"| '''Üü'''
+|align="left"| ''French'' fl'''u'''te; ''German'' '''ü'''ber
+|-
+|<big>{{IPA|œ̃}}</big>
+| align="left"| '''Ⱗⱗ'''
+| align="left"| '''Ũũ'''
+|align="left"| ''French'' '''un'''
+|-
+|<big>{{IPA|j}}</big>
+| align="left"| '''Ⱜⱜ'''
+| align="left"| '''Jj'''
+|align="left"| '''Y'''ogurt
+|-
+|}
+|}
+
+===Orthography===
+
+==Grammar==
+
+==Vocabulary==
+The majority of Qymish words derive from the [[Sukat language]] or were constructed from [[Ottelian language|Ottelian]] or [[Byrakan language|Byrakan]] roots. 
+
+The Qymish language's lexical similarity to a selection of other Sukatic languages is TBD% with [[SUKATIC LANG 1]], TBD% with [[SUKATIC LANG 2]], TBD% with [[SUKATIC LANG 3]], TBD% with [[SUKATIC LANG 4]], and TBD% with [[SUKATIC LANG 5]]. 
+
+===Numerals===
+The Qymish numeral system strictly uses decimal counting. It has unique names for numbers from 0 to 10, after which numbers are counted by their base 10 as additions or multiplications. It also has unique names for hundred, thousand, million, billion, and so on. For example, 18 is written as "ten-eight", while 118 is written as "hundred-ten-eight", and 1118 as "thousand-hundred-ten-eight". A more complex number, for instance 9735, would be written as "nine-thousand-seven-hundred-three-ten-five". 
+
+When using the Sukatic script to write numbers, an interpunct or middle dot is used between characters to differentiate them from normal letters, for example ·Ⰰ· for "1" and ·Ⰺ·Ⰰ· for "11". 
+
+{| border=0 style="text-align:center"
+| valign="top" |
+{| class="wikitable"
+! Value
+! colspan=3|Qymish
+|-
+| 0 || Ⱄ || Ⱄⱘⰿ || Söm
+|-
+| 1 || Ⰰ || Ⰰⱇ || Af
+|-
+| 2 || Ⰱ || Ⰱⱁ || Bo
+|-
+| 3 || Ⰲ || Ⰲⰺ || Vy
+|-
+| 4 || Ⰳ || Ⰳⰷ || Gẽ
+|-
+| 5 || Ⰴ || Ⰴⱆⱒ || Duq
+|-
+| 6 || Ⰵ || Ⰵⱋ || Esh
+|-
+| 7 || Ⰶ || Ⰶⱖⱂ || Zhüp
+|-
+| 8 || Ⰷ || Ⰷⰸ || Ẽz
+|-
+| 9 || Ⰸ || Ⰸⱛⱅ || Zãt
+|-
+| 10 || Ⰺ || Ⰺⰾⰽ || Ylk
+|}
+| valign="top" |
+{| class="wikitable"
+! Value
+! colspan=3|Qymish
+|-
+| 100 || Ⱚ || Ⱚⰵⱀⰽⰹ || Cenki
+|-
+| 1,000 || Ⰽ || Ⰽⰹⰾⰽ || Kilk
+|-
+| million || Ⰿ || Ⰿⱁⰿⰺⰾⰽ || Momylk
+|-
+| billion || Ⱀ || Ⱀⱁⱀⰺⰾⰽ || Nonylk
+|-
+| trillion || Ⱇ || Ⱇⱔⰱⰺⰾⰽ || Fëbylk
+|-
+| quadrillion || Ⱝ || Ⱝⱘⱋⰺⰾⰽ || Höshylk
+|-
+| quintillion || Ⱒ || Ⱒⰺⱈⰺⰾⰽ || Qyrhylk
+|-
+| sextillion || Ⱋ || Ⱋⱆⰿⰺⰾⰽ || Shumylk
+|-
+| septillion || Ⱂ || Ⱂⰰⱂⰺⰾⰽ || Papylk
+|-
+| octillion || Ⱍ || Ⱍⰰⰿⰺⰾⰽ || Chamylk
+|-
+| nonillion || Ⱆ || Ⱆⰿⰺⰾⰽ || Umylk
+|-
+|}
+|}
+
+==Example text==
+
+[[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

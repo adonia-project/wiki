@@ -1,0 +1,52 @@
+{{Basis}}
+
+U/C
+
+==List of circulating currencies by state or territory==
+{{static row numbers}} 
+{| class="wikitable sortable static-row-numbers static-row-header-text"
+|+ List of all currencies on Basis
+|-
+! scope="col" | Country
+! scope="col" | Present currency
+! scope="col" class="unsortable"| [[wikipedia:Currency sign|Currency sign]]
+! scope="col" | [[wikipedia:ISO 4217|Currency code]]
+! scope="col" | Fractional unit
+! scope="col" | Previous currency
+|- <!-- 01 --->
+| {{flag|Geno}}
+| [[Zoid]]
+| ₴
+| GEZ
+| [[TBD]]
+| [[TBD]]
+|- <!-- 02 --->
+| {{flag|Haynadur}}
+| [[Ilam]]
+| ₼
+| HIL
+| [[TBD]]
+| [[TBD]]
+|-
+|- <!-- 03 --->
+| {{flag|Kibabi}}
+| [[Tenki]]
+| ₶
+| KIT
+| [[TBD]]
+| [[TBD]]
+|-
+|- <!-- 04 --->
+| {{flag|Qym}}
+| [[Lach]]
+| Ⱎ
+| QYL
+| [[TBD]]
+| [[TBD]]
+|-
+|}
+
+==Currencies by number of countries/territories==
+TBD
+
+[[Category:MyNameJuls]][[Category:Basis]]

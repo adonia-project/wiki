@@ -1,0 +1,13 @@
+{{Infobox rail line|box_width=|name=Castejón Metro Takamaicán Line|other_name=Line 10 / T|linenumber=10|native_name=Linia de Metro de Castejón a Takamaicán|native_name_lang=bl|color={{rcr|Castejón Metro|T}}|mapcolor={{rcb|Castejón Metro|T|box}} {{W|Shades of blue|Sky blue}} (#{{rcr|Castejón Metro|T}})|logo=Logo_of_Tokyo_Metro_Tōzai_Line.svg|logo_width2=50px|image=Tokyo Metro 15101 Fukagawa 20100417.jpg|image_width=300px|caption=Castejón Metro {{W|Tokyo Metro 15000 series|15000 series}} train|type={{W|Rapid transit}}|system=[[Concordia Rapid Transit]]|status=|locale=[[Castejón]]|start={{STN|Itápyta|x}}|end={{STN|Alazán|x}}|stations=27|routes=|daily_ridership=1,743,467 (2024)|open={{start date and age|1925|11|1|df=yes}}|close=|owner=[[Castejón Metro]]|operator=|character=|depot=La Fragua|stock={{W|Tokyo Metro 15000 series|15000 series}}|linelength={{cvt|117.95|km|mi|abbr=on}}|tracklength=|tracks=[[w:Double-track railway|Double-track]]|maxincline=3.5%|gauge={{RailGauge|sg|allk=on}}|electrification={{600 V DC}} ({{W|third rail}})|speed={{cvt|75|km/h}}|trainprotection=|signalling={{Plainlist|
+* Castejón Metro {{W|CS-ATC}}
+* {{W|Communications-based train control}}
+}}|elevation=|map=}}
+
+The '''Castejón Metro Takamaicán Line''' ({{Lang-bl|Linia de Metro de Castejón a Takamaicán}}) is a [[W:Rapid transit|subway]] line in [[Castejón]], Balisca, operated by [[Castejón Metro]]. The line runs between [[Itápyta Station]] in [[Trinacria]] and [[Alazán Station]] in [[Alquézar]]. The official name is '''Line 10 Takamaicán Line'''.
+
+The line was named after the [[Takamaicán]] barrio in the [[Coruxón]] borough, under which it passes. On maps, diagrams and signboards, the line is shown using the color [[W:Shades of blue|sky blue]], and its stations are given numbers using the letter "T". 
+
+{{Castejón}}{{Balisca articles}}
+[[Category:Castejón]]
+[[Category:Balisca]]
+[[Category:Castejón Metro]]

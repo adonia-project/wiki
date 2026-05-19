@@ -1,0 +1,257 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Tozai Line
+| image = Okami Metro Tozai line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series2000-02.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 2000 series|2000 series]] train at [[Kaimi Station]].
+| native_name = 東西線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 2
+| stations = 18
+| ridership = 1,150,000 (FY2025)
+| began_operation = {{start date and age|1961|11|01|df=y}}
+| system_length = {{cvt|22.1|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{750 V DC|conductor=y}} (Third Rail)
+| map = [[File:Okami Metro Tozai Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Tozai Line'''|東西線|Tōzai-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. As its name implies (''Tozai'' means "East-West"), it serves as the primary transverse artery of the Okami Metro network. It connects the eastern coastal port districts of [[Kaimi]], facing the open sea, with the western inland residential suburbs of [[Yonezawa]]. On system maps, the line is color-coded sky blue ({{Okami Metro color|Z}}), and its stations use the prefix "Z".
+
+The Tozai Line is distinctive for its extensive through-service operations with the [[Yonekyu Corporation]], a major private railway. Trains from the eastern terminus at Kaimi travel west across the city, running parallel to the [[Chūō Line (Okami)|Chūō Line]] before continuing past [[Minami-Yonezawa Station|Minami-Yonezawa]] onto the [[Yonekyu Yonezawa Line]].
+
+==History==
+Planning for an east-west route began in the post-war reconstruction period to relieve congestion on the [[Sanese National Railways|OR]] [[Chuo Line (OR)|Chuo Line]]. The first segment between the coastal hub of [[Kaimi Station|Kaimi]] and the central district of [[Honmachi-Sanjō Station|Honmachi-Sanjō]] opened on November 1, 1961.
+
+The line was extended westward inland in phases throughout the 1970s. The final underground segment to [[Minami-Yonezawa Station|Minami-Yonezawa]] was completed in 1982. On the same day, reciprocal through-service with the [[Yonekyu Corporation|Yonekyu]] Yonezawa Line commenced, marking the first metro-private rail through-service in the capital.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* '''L''': Local (普通) - Stops at all stations.
+* '''R''': Rapid (快速) - Skips minor stations to compete with parallel surface lines.
+* '''LE''': Limited Express (特急) - "Ocean Liner" through-service to Yonezawa-Onsen.
+* Stops: {{small|●}} = Stops, {{small|｜}} = Passes, {{small|▲}} = Alight only (Westbound) / Board only (Eastbound).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|Z}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|Z}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|Z}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|Z}};" | Distance (km)
+! colspan="3" style="border-bottom:3px solid #{{Okami Metro color|Z}};" | Stops
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|Z}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|Z}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|Z}};" | Between
+! style="border-bottom:3px solid #{{Okami Metro color|Z}};" | Total
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|Z}};" | L
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|Z}};" | R
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|Z}};" | LE
+|-
+| {{OMSN|Z|01}}
+| [[Kaimi Station|Kaimi]]
+| 海見
+| -
+| 0.0
+| ●
+| ●
+| ●
+| {{rint|okami|ferry}} Okami International Ferry Terminal<br>{{rint|okami|bus}} Kaimi Port Bus Terminal
+| rowspan="3" | [[Kaimi Ward, Okami|Kaimi]]
+|-
+| {{OMSN|Z|02}}
+| [[Higashi-Minato Station|Higashi-Minato]]
+| 東港
+| 1.4
+| 1.4
+| ●
+| ｜
+| ｜
+| {{rint|okami|P}} [[Nankō Port Town Line]] (P01)
+|-
+| {{OMSN|Z|03}}
+| [[Kita-Hanazono Station|Kita-Hanazono]]
+| 北花園
+| 1.2
+| 2.6
+| ●
+| ｜
+| ｜
+| {{rint|okami|M}} [[Miyoshi Line]] (M05)
+|-
+| {{OMSN|Z|04}}
+| [[Tsuruhashi-Higashi Station|Tsuruhashi-Higashi]]
+| 鶴橋東
+| 1.5
+| 4.1
+| ●
+| ●
+| ｜
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+| rowspan="3" | [[Higashi Ward, Okami|Higashi]]
+|-
+| {{OMSN|Z|05}}
+| [[Morinomiya-Kyūjō Station|Morinomiya-Kyūjō]]
+| 森ノ宮球場
+| 1.3
+| 5.4
+| ●
+| ●
+| ●
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+|-
+| {{OMSN|Z|06}}
+| [[Tamatsukuri-Koen Station|Tamatsukuri-Koen]]
+| 玉造公園
+| 1.1
+| 6.5
+| ●
+| ｜
+| ｜
+| {{rint|okami|N}} [[Nagata Line]] (N08)
+|-
+| {{OMSN|Z|07}}
+| [[Tanimachi-Yonchome Station|Tanimachi-Yonchome]]
+| 谷町四丁目
+| 1.2
+| 7.7
+| ●
+| ●
+| ｜
+| {{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B06)
+| rowspan="5" | [[Chuo Ward, Okami|Chuo]]
+|-
+| {{OMSN|Z|08}}
+| [[Sakaisuji-Honmachi Station|Sakaisuji-Honmachi]]
+| 堺筋本町
+| 1.0
+| 8.7
+| ●
+| ｜
+| ｜
+| {{rint|okami|I}} [[Imaichi Line]] (I02)
+|-
+| {{OMSN|Z|09}}
+| [[Kitahama-Minami Station|Kitahama-Minami]]
+| 北浜南
+| 1.1
+| 9.8
+| ●
+| ｜
+| ｜
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Keihan Main Line]]
+|-
+| {{OMSN|Z|10}}
+| [[Yodoyabashi-East Station|Yodoyabashi-East]]
+| 淀屋橋東
+| 0.9
+| 10.7
+| ●
+| ●
+| ●
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Keihan Main Line]]
+|-
+| {{OMSN|Z|11}}
+| [[Honmachi-Sanjō Station|Honmachi-Sanjō]]
+| 本町三条
+| 1.2
+| 11.9
+| ●
+| ●
+| ●
+| {{rint|okami|M}} [[Miyoshi Line]] (M12)<br>{{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C12)<br>{{rint|okami|H}} [[Hitotsubashi Line]] (H12)
+|-
+| {{OMSN|Z|12}}
+| [[Awaza-Shinmachi Station|Awaza-Shinmachi]]
+| 阿波座新町
+| 1.1
+| 13.0
+| ●
+| ｜
+| ｜
+| {{rint|okami|S}} [[Shitayanagi Line]] (S08)
+| rowspan="3" | [[Nishi Ward, Okami|Nishi]]
+|-
+| {{OMSN|Z|13}}
+| [[Bentencho-Minami Station|Bentencho-Minami]]
+| 弁天町南
+| 1.4
+| 14.4
+| ●
+| ●
+| ●
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+|-
+| {{OMSN|Z|14}}
+| [[Kujo-Ohashi Station|Kujo-Ohashi]]
+| 九条大橋
+| 1.2
+| 15.6
+| ●
+| ｜
+| ｜
+| {{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Namba Line
+|-
+| {{OMSN|Z|15}}
+| [[Sakaigawa-Dori Station|Sakaigawa-Dori]]
+| 境川通
+| 1.3
+| 16.9
+| ●
+| ｜
+| ｜
+|
+| rowspan="4" | [[Konohana Ward, Okami|Konohana]]
+|-
+| {{OMSN|Z|16}}
+| [[Chidori-Bashi Station|Chidori-Bashi]]
+| 千鳥橋
+| 1.5
+| 18.4
+| ●
+| ｜
+| ｜
+| {{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Chidori Line
+|-
+| {{OMSN|Z|17}}
+| [[Kasugade-Naka Station|Kasugade-Naka]]
+| 春日出中
+| 1.4
+| 19.8
+| ●
+| ●
+| ｜
+|
+|-
+| {{OMSN|Z|18}}
+| [[Minami-Yonezawa Station|Minami-Yonezawa]]
+| 南米沢
+| 1.6
+| 21.4
+| ●
+| ●
+| ●
+| {{rint|okami|private}} '''[[Yonekyu Corporation]]''' ([[Yonekyu Yonezawa Line]] - Through Service to Yonezawa-Onsen)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Yumesaki Line]]
+|}
+
+==Rolling Stock==
+* [[Okami Metro 2000 series|2000 series]] (8-car sets)
+** The primary fleet for the line, introduced in 2008. These trains feature longitudinal seating and LCD passenger information screens.
+* [[Yonekyu Corporation|Yonekyu]] 6000 series (8-car sets)
+** Private railway stock used for through-services. These trains feature transverse seating suitable for the longer suburban runs into the inland Yonezawa region.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

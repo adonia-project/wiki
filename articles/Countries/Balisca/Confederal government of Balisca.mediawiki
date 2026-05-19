@@ -1,0 +1,40 @@
+{{ Infobox executive government
+ | government_name = Confederal administration
+ | nativename = {{native name|bl|Administración confederal}}
+ | border = <!-- for clarification, options are "state (India)" (for Indian use), "devolved" (for UK use), "federal", "central" -->
+ | image = Government of Balisca logo.svg
+ | image_size = 250px
+ | alt = 
+ | image2 = Government Seal of Balisca.svg
+ | image_size2 = 200px
+ | alt2 = <!-- up to | alt4 = -->
+ | caption = Official logo (top) and seal (bottom)
+ | date_established = <!-- {{Start date|YYYY|MM|DD|df=y}} -->
+ | date_dissolved = <!-- {{End date|YYYY|MM|DD|df=y}} -->
+ | state = <!-- polity governed -->
+ | country = {{flag|Balisca}}
+ | polity = <!-- if polity governed is not a state (e.g. subdivision of a state) -->
+ | leader_title = [[Secretary General of Balisca|Secretary General]] <br> {{small|([[Zavier Bilal]])}}
+ | appointed = <!-- appointer -->
+ | main_organ = [[Secretariat Council (Balisca)|Secretariat Council]]
+ | ministries = 24 (as of 2025)
+ | responsible = [[Confederal Congress]]
+ | budget = {{BLS|link=yes}}972 billion <br> {{small|(see [[Confederal budget of Balisca|Confederal budget]])}}
+ | address = [[Baliscan Cabildo]], [[Castejón]]
+ | url = <!-- {{URL|example.com}} or {{Official URL}} -->
+ | background_color = #004170
+ }}
+{{Politics of Balisca}}
+
+The '''confederal administration of Balisca''' ({{lang-bl|Administración confederal}}) or '''confederal government''' ({{lang-bl|gobierno confederal|links=no}}) is the primary political authority within the [[Baliscan Confederation]]. Rooted in [[W:Libertarian socialism|libertarian socialist theory]], its political system facilitates [[W:Decentralization|decentralization]] and local autonomy as core tenets of confederal politics. In its present form, the confederation is a decentralized''',''' [[W:Participatory democracy|universally participatory]]''',''' [[W:Collaborative e-democracy|collaborative e-democracy]], often labeled a [[W:Liquid democracy|liquid democracy]], incorporating aspects of direct and representative democracy.
+
+The [[Secretariat Council (Balisca)|Secretariat Council]] functions as the ''de facto'' executive branch, chaired by the [[Secretary General of Balisca|Secretary General]] (SecGen). The SecGen, considered "[[W:First among equals|first among equals]]," serves as the representative of the confederal-level administration internationally. The incumbent Secretary General is [[Zavier Bilal]], who was appointed in July 2021. The SecGen recommends individuals to the [[Confederal Congress]] to be appointed to the Secretariat Council.
+
+The Confederal Congress is recognized as the "highest form of democratic authority," comprising 736 delegates that are directly elected by their [[Commune district|commune districts]]. Delegates are subject to potential recall at any time and are bound to vote as instructed by their constituents. All votes cast by elected delegates on various matters, including the election of ministers, are always cast in public and recorded, even though their deliberations may sometimes be closed. The electorate serves as the main source of statutes, utilizing [[W:Direct democracy|direct democracy]] and the [[Open Cabildo]].
+
+Balisca's confederal government functions within the framework of its constitution, most recently promulgated on 23 July 2022. Lawmaking is guided by principles of [[W:Open-source governance|open-source governance]] and a "wikidemocracy" approach, facilitating the rapid transmission of information and encouraging [[W:Radical transparency|radical transparency]] in political discourse. This system prioritizes participation, direct democracy, and cultural contexts, acting as a functional antithesis to traditional bureaucracies. All non-direct democratic authority in Balisca is exercised through the election of authority, meaning the people elect both executive and legislative bodies.
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Government and politics of Balisca]]

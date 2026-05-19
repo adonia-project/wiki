@@ -1,0 +1,24 @@
+{{Basis}}
+This is a '''list of countries on [[Basis]] by number of military and paramilitary personnel'''. 
+
+==List==
+
+{{static row numbers}}{{sticky header}}{{sort under}}
+{| class="wikitable sortable static-row-numbers sticky-header sort-under"
+|+ According to the [[Basis Forum for Military Studies]] ({{abbr|2440|2027 (Earth Year Equivalent)}})
+|- style="vertical-align:bottom;"
+! data-sort-type=text   | Country
+! data-sort-type=number | Active{{br}}military
+! data-sort-type=number | Reserve{{br}}military
+! data-sort-type=number | Paramilitary
+! data-sort-type=number | Total
+! data-sort-type=number | Per 1,000{{br}}capita{{br}}(total)
+! data-sort-type=number | Per 1,000{{br}}capita{{br}}(active)
+! Note
+|-
+{{Number of soldiers| country=Geno| military=Genonian Armed Forces| active=1320328| reserve=16067118| paramilitary=0| population=83208737|}}
+{{Number of soldiers| country=Haynadur| military=Haynadurian Armed Forces| active=96000| reserve=74000| paramilitary=150000| population=33346122|}}
+{{Number of soldiers| country=Qym| military=Qymish Armed Forces| active=561434| reserve=81000| paramilitary=0| population=162359580|}}
+|}
+
+[[Category:MyNameJuls]][[Category:Basis]]

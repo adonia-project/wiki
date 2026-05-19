@@ -1,0 +1,388 @@
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = 
+| official_name           = Tokyo
+| native_name             = 東京市
+| native_name_lang        = Nakamian
+| other_name              = 
+| settlement_type         = Designated city
+<!-- transliteration(s) -------->
+| translit_lang1          = Tokyo
+| translit_lang1_type     = Nakamian
+| translit_lang1_info     = 東京市
+| translit_lang1_type1    = Romanji
+| translit_lang1_info1    = Tokyo-shi
+| translit_lang1_type2    = 
+| translit_lang1_info2    = 
+| translit_lang2          =
+| translit_lang2_type     =
+| translit_lang2_info     =
+| translit_lang2_type1    =
+| translit_lang2_info1    =
+| translit_lang2_type2    =
+| translit_lang2_info2    =
+| translit_lang2_info2    = <!-- etc., up to translit_lang2_type6 / translit_lang2_info6 -->
+<!-- images, nickname, motto --->
+| image_skyline           = Tokyo, Shizukana Montage.jpg
+| imagesize               =
+| image_alt               =
+| image_caption           = From top left: Nightview from Mount Aoyozan, Shizukana Castle, Jōten-ji, Tokyo Station, Downtown Tokyo, View from Tokyo Station to south.
+| image                   = <!-- other image (specify File: or Image: namespace) -->
+| image_flag              = Flag of Yamatokoriyama Nara.JPG
+| flag_size               =
+| flag_alt                =
+| flag_link               =
+| image_seal              = Yamatokoriyama Nara chapter.svg
+| seal_size               =
+| seal_alt                =
+| seal_link               =
+| image_shield            = 
+| shield_size             =
+| shield_alt              =
+| shield_link             =
+| image_blank_emblem      = 
+| blank_emblem_type       = <!-- defaults to Logo -->
+| blank_emblem_size       =
+| blank_emblem_alt        =
+| blank_emblem_link       =
+| nickname                =
+| motto                   =
+| anthem                  =
+<!-- maps and coordinates ------>
+| image_map               = 
+| mapsize                 = 
+| map_alt                 =
+| map_caption             = Location of Tokyo in [[Shizukana Prefecture]]
+| image_map1              =
+| mapsize1                =
+| map_alt1                =
+| map_caption1            =
+| image_dot_map           =
+| dot_mapsize             =
+| dot_map_base_alt        =
+| dot_map_alt             =
+| dot_map_caption         =
+| dot_x = |dot_y =
+| pushpin_map             = <!-- name of a location map as per Template:Location_map -->
+| pushpin_label_position  = <!-- position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_label           = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt         =
+| pushpin_mapsize         =
+| pushpin_map_caption     =
+| pushpin_map1            =
+| pushpin_label_position1 =
+| pushpin_label1          = <!-- only necessary if "name" or "official_name" are too long -->
+| pushpin_map_alt1        =
+| pushpin_mapsize1        =
+| pushpin_map_caption1    =
+| latd  =  |latm  =  |lats  =  |latNS  =
+| longd =  |longm =  |longs =  |longEW =
+| coor_pinpoint           = <!-- to specify exact location of coordinates (was coor_type) -->
+| coordinates_region      = <!-- ISO 3166-1 alpha-2 or ISO 3166-2 code for country/region containing the coordinates -->
+| coordinates_type        = <!-- parameter list passed to Coord template, overrides coordinates_region -->
+| coordinates_display     = inline,title
+| coordinates_format      = dms
+| coordinates_footnotes   = <!-- for references: use <ref> tags -->
+<!-- location ------------------>
+| subdivision_type        = Country
+| subdivision_name        = {{flagicon|Nakahara}}[[Nakahara]]
+| subdivision_type1       = Region
+| subdivision_name1       = [[Chugoku Region, Nakahara|Chugoku]]
+| subdivision_type2       = Prefecture
+| subdivision_name2       = [[Shizukana Prefecture|Shizukana]]
+<!-- established --------------->
+| established_title       = 
+| established_date        = 
+| established_title1      = 
+| established_date1       = 
+| established_title2      = <!-- Incorporated (city) -->
+| established_date2       =
+| established_title3      =
+| established_date3       =
+| extinct_title           =
+| extinct_date            =
+| founder                 =
+| named_for               =
+<!-- seat, smaller parts ------->
+| seat_type               = 
+| seat                    = 
+| parts_type              = 
+| parts_style             = <!-- list, coll (collapsed list), para (paragraph format) -->
+| parts                   = 
+| p1                      = 
+| p2                      = <!-- etc., up to p50: for separate parts to be listed-->
+<!-- government type, leaders -->
+| government_footnotes    = <!-- for references: use <ref> tags -->
+| government_type         = 
+| governing_body          = 
+| leader_party            = 
+| leader_title            = Mayor
+| leader_name             = Ishihama Yoshihiro
+| leader_title1           = 
+| leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
+<!-- display settings  --------->
+| total_type              = <!-- to set a non-standard label for total area and population rows -->
+| unit_pref               = <!-- enter: Imperial, to display imperial before metric -->
+<!-- area ---------------------->
+| area_footnotes          = <!-- for references: use <ref> tags -->
+| area_magnitude          = <!-- use only to set a special wikilink -->
+| dunam_link              = <!-- If dunams are used, this specifies which dunam to link. -->
+| area_total_km2          = 154
+| area_total_sq_mi        = <!-- see table @ Template:Infobox settlement for details -->
+| area_total_ha           = 
+| area_total_acre         = 
+| area_total_dunam        = <!-- used in Middle East articles only -->
+| area_land_km2           = 
+| area_land_sq_mi         =
+| area_land_ha            = 
+| area_land_acre          = 
+| area_land_dunam         = <!-- used in Middle East articles only -->
+| area_water_km2          =
+| area_water_sq_mi        =
+| area_water_ha           = 
+| area_water_acre         = 
+| area_water_dunam        = <!-- used in Middle East articles only -->
+| area_water_percent      =
+| area_urban_footnotes    = <!-- for references: use <ref> tags -->
+| area_urban_km2          = 
+| area_urban_sq_mi        =
+| area_urabn_ha           = 
+| area_urban_acre         = 
+| area_urabn_dunam        = <!-- used in Middle East articles only -->
+| area_rural_footnotes    = <!-- for references: use <ref> tags -->
+| area_rural_km2          =
+| area_rural_sq_mi        =
+| area_rural_ha           = 
+| area_rural_acre         = 
+| area_rural_dunam        = <!-- used in Middle East articles only -->
+| area_metro_footnotes    = <!-- for references: use <ref> tags -->
+| area_metro_km2          = 
+| area_metro_sq_mi        =
+| area_metro_ha           = 
+| area_metro_acre         = 
+| area_metro_dunam        = <!-- used in Middle East articles only -->
+| area_rank               =
+| area_blank1_title       = 
+| area_blank1_km2         = 
+| area_blank1_sq_mi       =
+| area_blank1_ha          = 
+| area_blank1_acre        = 
+| area_blank1_dunam       = <!-- used in Middle East articles only -->
+| area_blank2_title       =
+| area_blank2_km2         =
+| area_blank2_sq_mi       =
+| area_blank2_ha          = 
+| area_blank2_acre        = 
+| area_blank2_dunam       = <!-- used in Middle East articles only -->
+| area_note               =
+<!-- dimensions ----------------->
+| dimensions_footnotes    = <!-- for references: use <ref> tags -->
+| length_km               =
+| length_mi               =
+| width_km                =
+| width_mi                =
+<!-- elevation ----------------->
+| elevation_footnotes     = <!-- for references: use <ref> tags -->
+| elevation_m             = 
+| elevation_ft            =
+| elevation_max_footnotes = <!-- for references: use <ref> tags -->
+| elevation_max_m         = 
+| elevation_max_ft        =
+| elevation_min_footnotes = <!-- for references: use <ref> tags -->
+| elevation_min_m         = 
+| elevation_min_ft        =
+<!-- population ---------------->
+| population_footnotes    = <!-- for references: use <ref> tags -->
+| population_total        = 1,085,392
+| population_as_of        = 2011
+| population_rank         = 15
+| population_density_km2  = auto
+| population_density_sq_mi=
+| population_est          =
+| pop_est_as_of           =
+| population_urban               = 
+| population_density_urban_km2   =
+| population_density_urban_sq_mi =
+| population_rural               =
+| population_density_rural_km2   =
+| population_density_rural_sq_mi =
+| population_metro               = 
+| population_density_metro_km2   = 
+| population_density_metro_sq_mi =
+| population_density             =
+| population_density_rank        =
+| population_blank1_title        = 
+| population_blank1              = 
+| population_density_blank1_km2  = 
+| population_density_blank1_sq_mi=
+| population_blank2_title        =
+| population_blank2              =
+| population_density_blank2_km2  =
+| population_density_blank2_sq_mi=
+| population_demonym      = 
+| population_note         = 
+<!-- demographics (section 1) -->
+| demographics_type1      =
+| demographics1_footnotes = <!-- for references: use <ref> tags -->
+| demographics1_title1    =
+| demographics1_info1     = <!-- etc., up to demographics1_title5 / demographics1_info5 -->
+<!-- demographics (section 2) -->
+| demographics_type2      =
+| demographics2_footnotes = <!-- for references: use <ref> tags -->
+| demographics2_title1    =
+| demographics2_info1     = <!-- etc., up to demographics2_title5 / demographics2_info5 -->
+<!-- time zone(s) -------------->
+| timezone1               = NNT 
+| utc_offset1             = +10
+| timezone1_DST           =
+| utc_offset1_DST         =
+| timezone2               =
+| utc_offset2             =
+| timezone2_DST           =
+| utc_offset2_DST         =
+<!-- postal codes, area code --->
+| postal_code_type        = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code             =
+| postal2_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal2_code            =
+| area_code_type          = <!-- defaults to: Area code(s) -->
+| area_code               =
+| geocode                 =
+| iso_code                =
+| registration_plate      = 
+<!-- twin cities --------------->
+| twin1                   = 
+| twin1_country           = 
+| twin2                   = 
+| twin2_country           = 
+| twin3                   = 
+| twin3_country           = 
+<!-- blank fields (section 1) -->
+| blank_name_sec1         = Flower
+| blank_info_sec1         = [[wikipedia:Sakura|Sakura]]
+| blank1_name_sec1        = Tree
+| blank1_info_sec1        = [[wikipedia:Acer palmatum|Acer palmatum]]
+| blank2_name_sec1        =
+| blank2_info_sec1        = <!-- etc., up to blank7_name_sec1 / blank7_info_sec1 -->
+<!-- blank fields (section 2) -->
+| blank_name_sec2         =
+| blank_info_sec2         =
+| blank1_name_sec2        =
+| blank1_info_sec2        =
+| blank2_name_sec2        =
+| blank2_info_sec2        = <!-- etc., up to blank7_name_sec2 / blank7_info_sec2 -->
+<!-- website, footnotes -------->
+| website                 = www.shizu-tokyo.go.nk/englishpage
+| footnotes               =
+}}
+{{Nihongo|'''Tokyo'''|東京市 |Tokyo-shi}} is the capital city and the largest city of [[Shizukana Prefecture]]. Located within the Shizukana Basin between the Yomiyama Mountain range in north and Nagaumeyama Mountain in south at the [[Maejima Island]], Nakahara. Formerly named Shizukana city, Tokyo briefly been the shogunate capital of Nakahara during the end of warring state period since 1609 until 1610 where the [[Tanaka Shogunate]] moved their headquarter to [[Shinkyo|Shizuku]]. Tokyo has developed into a major city with the shadow of neighboring [[Nagawa]], Nakahara's 2nd largest city.
+==History==
+The earliest known note mention that Shizukana was founded in 844. In the end of [[Genpei war]] in 1189 when Minamoto clan moved toward the [[Maejima Island]]. Despite Shizukana ready to be the capital of Nakahara, [[Minamoto Shogunate]] decide to move the capital to [[Shizukawa]] instead due to its closure toward the country's central.
+
+During the early sengoku period of Nakahara, Shizukana ruled by [[Shimogawa clan]] as Shizukana Domain. 
+
+==Geography==
+Tokyo located in the middle of Shizukana Basin, surrounded by hills and mountain. Nagaumeyama Mountain range, lies in the south border of the city while Yomiyama Mountain range located in north of it. There are 2 rivers runs though the city Torikawa River and Mikadogawa River.
+
+===Climate===
+Similar as most areas in Maejima Island, Tokyo has a humid subtropical climate with a sightly lower average temperature due to it's elevation around 400m above sea level in Shizukana Basin. Rainfall all over the year, highest during Summer (June-September).
+
+<div style="width:70%;">
+{{Weather box
+|location = Kara, Kara
+|single line = Y
+|metric first = Y
+|Jan high C = 7.8
+|Feb high C = 8.1
+|Mar high C = 10.4
+|Apr high C = 19.4
+|May high C = 23.7
+|Jun high C = 24.3
+|Jul high C = 28.5
+|Aug high C = 29.1
+|Sep high C = 26.4
+|Oct high C = 20.0
+|Nov high C = 15.6
+|Dec high C = 12.4
+|Jan mean C = 1.6
+|Feb mean C = 2.1
+|Mar mean C = 5.4
+|Apr mean C = 15.1
+|May mean C = 16.4
+|Jun mean C = 20.6
+|Jul mean C = 23.6
+|Aug mean C = 26.4
+|Sep mean C = 21.7
+|Oct mean C = 15.6
+|Nov mean C = 10.9
+|Dec mean C = 5.7
+|Jan low C = -2.1
+|Feb low C = -1.4
+|Mar low C = 1.7
+|Apr low C = 4.5
+|May low C = 12.2
+|Jun low C = 15.6
+|Jul low C = 21.3
+|Aug low C = 20.0
+|Sep low C = 15.7
+|Oct low C = 12.6
+|Nov low C = 3.0
+|Dec low C = 0.0
+|precipitation colour = green
+|Jan precipitation mm = 41.7
+|Feb precipitation mm = 61.4
+|Mar precipitation mm = 80.2
+|Apr precipitation mm = 152.4
+|May precipitation mm = 186.9
+|Jun precipitation mm = 248.4
+|Jul precipitation mm = 121.7
+|Aug precipitation mm = 180.8
+|Sep precipitation mm = 214.2
+|Oct precipitation mm = 101.9
+|Nov precipitation mm = 61.0
+|Dec precipitation mm = 32.3
+|Jan snow cm = 17
+|Feb snow cm = 4
+|Mar snow cm = 1
+|Apr snow cm = 0
+|May snow cm = 0
+|Jun snow cm = 0
+|Jul snow cm = 0
+|Aug snow cm = 0
+|Sep snow cm = 0
+|Oct snow cm = 0
+|Nov snow cm = 1
+|Dec snow cm = 8
+|Jan humidity = 60
+|Feb humidity = 54
+|Mar humidity = 61
+|Apr humidity = 64
+|May humidity = 71
+|Jun humidity = 76
+|Jul humidity = 81
+|Aug humidity = 79
+|Sep humidity = 77
+|Oct humidity = 75
+|Nov humidity = 72
+|Dec humidity = 67
+|Jan sun = 145.4
+|Feb sun = 129.8
+|Mar sun = 160.8
+|Apr sun = 172.6
+|May sun = 197.0
+|Jun sun = 148.1
+|Jul sun = 164.5
+|Aug sun = 198.1
+|Sep sun = 144.0
+|Oct sun = 158.1
+|Nov sun = 143.5
+|Dec sun = 146.1
+|source 1 = Nakahara Meteorology institute
+|date=January 2013}}
+</div>
+
+==Demographic==
+==Transportation==
+==Tourism==
+==Education==
+==Sister Cities==

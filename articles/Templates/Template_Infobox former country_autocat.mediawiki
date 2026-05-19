@@ -1,4 +1,4 @@
-<!-- Start common name check
+﻿<!-- Start common name check
 -->{{#if:{{{common_name<includeonly>|</includeonly>}}}||
 {{!}}- style="font-size: 85%;"
 {{!}} colspan=2 {{!}} '''Warning''':  ''Value not specified for "[[Template:Infobox former country/doc#Name|common_name]]"''
@@ -12,11 +12,11 @@
   |Okaiken = [[Category:Former countries in Sanese history|{{{common_name}}}, {{{year_start}}}]]
   |Kwangju= [[Category:Former countries in Kwangju history|{{{common_name}}}, {{{year_start}}}]]
   |Malaysia = [[Category:Former countries in Malaysian history|{{{common_name}}}, {{{year_start}}}]]
-  |Peilan = [[Category:Former countries in Peilanese history|{{{common_name}}}, {{{year_start}}}]]
+  |Fenia = [[Category:Former countries in Feniaese history|{{{common_name}}}, {{{year_start}}}]]
   |Central Fosia|South Fosia|Southeast Fosia|East Fosia= [[Category:Former countries in {{{region}}}|{{{common_name}}}, {{{year_start}}}]]
   |the Middle East|Middle East = [[Category:Former countries in the Middle East|{{{common_name}}}, {{{year_start}}}]]
   |#default = {{#switch:{{ucfirst:{{{country}}}}}
-    |Peilan|Okaiken|Korea|Malaysia = [[Category:Former countries in {{{country}}} history|{{{common_name}}}, {{{year_start}}}]]]
+    |Fenia|Okaiken|Korea|Malaysia = [[Category:Former countries in {{{country}}} history|{{{common_name}}}, {{{year_start}}}]]]
     |#default = {{#switch:{{{continent}}}
       |Neridea|Fosia|Itzamna|Euphemia|Carreon = [[Category:Former countries in {{{continent}}}|{{{common_name}}}, {{{year_start}}}]]
       |Caribbean=<!-- No category yet -->

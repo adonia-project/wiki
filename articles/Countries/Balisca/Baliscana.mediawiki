@@ -1,0 +1,234 @@
+{{Infobox airline
+| airline          = Baliscan Airlines <br> ''Aerolínia Baliscana''
+| image            = Baliscan Airlines logo.png
+| image_size       = 
+| alt              = Baliscana
+| IATA             = BL
+|ICAO             = BAL
+| callsign         = BALISCA
+| founded          = 9 June 1919
+| commenced        = 2 September 1919
+| hubs             = [[Concordia International Airport| Castejón Airport]]
+| secondary_hubs = [[Novalia International Airport|Alessandria Airport]]<br>[[Isabella Camarasa International Airport|Bixessarri Airport]]
+| focus_cities     = 
+| frequent_flyer   = BAL Mileage Club
+| lounge         = [[Basileus Club]]
+| alliance         = [[Vanguard]]
+| subsidiaries     = 
+| fleet_size       = 356
+| destinations     = 181
+| company_slogan   = ''Your home in the sky.''                 
+| parent           = [[Politics of Balisca|Government of Balisca]]
+| headquarters     = [[Castejón]], Balisca
+| key_people       = 
+<div>
+* [[Agnese Panicucci]] (Spokesperson)
+* [[Gabriel René]] (President & Head of Council)
+</div>
+| revenue          = {{decrease}} $5.329 billion (2022)
+| operating_income = 
+| net_income       = 
+| profit           = {{decrease}} -$188.7 million (2022)
+| assets           = 
+| equity           = 
+| num_employees    = 23,396 (2022)
+| website          = 
+}}
+
+'''Baliscan Airlines Co., Ltd. (BAL)''' ({{lang-bl|Aerolína Baliscana}}), more commonly known and advertised as '''Baliscana''', is the flag carrier airline of the [[Balisca|Baliscan Confederation]]. The airline is headquartered in the [[Ampurias|Ampurias borough]] of the [[Castejón Metropolis]]. The airline's main hub is Castejón's [[Concordia International Airport]], with secondary hubs at [[Alessandria]]'s [[Novalia International Airport|Novalia Airport]] and [[Bixessarri]]'s [[Isabella Camarasa International Airport|Isabella Camarasa Airport]].
+
+The airline has been owned by the [[Politics of Balisca|Government of Balisca]] from its founding in 1919. The airline has struggled with profitability (largely from competition with the [[AVB|AVB high speed rail system]] for domestic travel). Belief that the airline would not be able to survive the [[W:Impact of the COVID-19 pandemic|impact of the COVID-19 pandemic]] on its own led to government intervention in March 2020. The airline is currently in the midst of a massive restructuring, during which it has been further restricted with the implementation of legislation to "eliminate short-haul flights where trains are available." 
+==Fleet==
+As of October 2018, the Baliscana's passenger fleet (excluding subsidiaries) consists of the following aircraft: 
+<center></center>
+{| class="wikitable plainrowheaders" style="border-collapse:collapse;text-align:center;margin:auto;"
+|+Baliscan Airlines fleet
+! rowspan="2" scope="col" style="width:125px;" |Aircraft
+! rowspan="2" scope="col" style="width:60px;" |In service
+! rowspan="2" scope="col" style="width:40px;" |Orders
+! colspan="3" scope="col" |Passengers
+! rowspan="2" scope="col" |Notes
+|-
+! style="width:20px;" |<abbr title="Business Class">C</abbr>
+! style="width:20px;" |<abbr title="Economy Class">Y</abbr>
+! style="width:20px;" |Total
+|-
+| scope="row" |[[W:Airbus A319|Airbus A319-100]]
+|6
+|&#x2014;
+|&#x2014;
+|132
+|132
+|
+|-
+| rowspan="2" scope="row" |[[W:Airbus A320 family|Airbus A320-200]]
+| rowspan="2" |22
+| rowspan="2" |&#x2014;
+|&#x2014;
+|150
+|150
+| rowspan="2" |
+|-
+|&#x2014;
+|159
+|159
+|-
+| scope="row" |[[W:Airbus A320neo family|Airbus A320neo]]
+|9
+|&#x2014;
+|&#x2014;
+|186
+|186
+|Includes aircraft operated by [[Southern Airlines]].
+|-
+| rowspan="3" scope="row" |[[W:Airbus A321|Airbus A321-200]]
+| rowspan="3" |72
+| rowspan="3" |&#x2014;
+|20
+|158
+|178
+| rowspan="3" |
+|-
+|16
+|164
+|180
+|-
+|&#x2014;
+|194
+|194
+|-
+| scope="row" |[[W:Airbus A321neo|Airbus A321neo]]
+|57
+|185
+|20
+|162
+|182
+|Includes aircraft operated by [[Southern Airlines]].
+Aircraft in Airbus Cabin Flex (ACF) configuration.
+
+Additional order of 150 with 100 options in December 2023.
+|-
+| rowspan="3" scope="row" |[[W:Airbus A330|Airbus A330-200]]
+| rowspan="3" |13
+| rowspan="3" |&#x2014;
+|30
+|190
+|220
+| rowspan="5" |Leased aircraft are being returned to lessors.
+|-
+|22
+|228
+|250
+|-
+|24
+|255
+|279
+|-
+| rowspan="2" scope="row" |[[W:Airbus A330|Airbus A330-300]]
+| rowspan="2" |36
+| rowspan="2" |&#x2014;
+|28
+|261
+|289
+|-
+|40
+|265
+|305
+|-
+| rowspan="2" scope="row" |[[W:Airbus A350|Airbus A350-900]]
+| rowspan="2" |17
+| rowspan="2" |73
+|32
+|297
+|329
+| rowspan="2" |Order of 50 with 20 options in December 2023.
+|-
+|28
+|288
+|316
+|-
+| scope="row" |[[W:Airbus A350|Airbus A350-1000]]
+|&#x2014;
+|15
+| colspan="3" |<abbr title="To Be Announced">TBA</abbr>
+|
+|-
+| rowspan="3" scope="row" |[[W:Boeing 737 Next Generation|Boeing 737-800]]
+| rowspan="3" |85
+| rowspan="3" |&#x2014;
+|16
+|135
+|151
+| rowspan="3" |Includes aircraft operated by [[Southern Airlines]].
+|-
+|12
+|153
+|165
+|-
+|&#x2014;
+|189
+|189
+|-
+| rowspan="2" scope="row" |[[W:Boeing 737 Next Generation|Boeing 737-900ER]]
+| rowspan="2" |15
+| rowspan="2" |&#x2014;
+|16
+|135
+|151
+| rowspan="2" |
+|-
+|16
+|153
+|169
+|-
+! colspan="7" |Baliscan Airlines Cargo fleet
+|-
+| scope="row" |[[W:Airbus A310|Airbus A310-300F]]
+|2
+|&#x2014;
+| colspan="3" |<div style="text-align: center;"><abbr title="No seats, cargo configuration">Cargo</abbr></div>
+|
+|-
+| scope="row" |[[W:Airbus A330|Airbus A330-200F]]
+|12
+|&#x2014;
+| colspan="3" |<div style="text-align: center;"><abbr title="No seats, cargo configuration">Cargo</abbr></div>
+|
+|-
+| scope="row" |[[W:Airbus A350|Airbus A350F]]
+|&#x2014;
+|5
+| colspan="3" |<div style="text-align: center;"><abbr title="No seats, cargo configuration">Cargo</abbr></div>
+|Order with 5 purchase rights in December 2023.
+|-
+| scope="row" |[[W:Boeing 747-400#747-400F|Boeing 747-400F]]
+|2
+|&#x2014;
+| colspan="3" |<div style="text-align: center;"><abbr title="No seats, cargo configuration">Cargo</abbr></div>
+|
+|-
+| scope="row" |[[W:Boeing 777#777 Freighter|Boeing 777F]]
+|8
+|&#x2014;
+| colspan="3" |<div style="text-align: center;"><abbr title="No seats, cargo configuration">Cargo</abbr></div>
+|
+|-
+!Total
+!356
+!278
+! colspan="3" |
+!
+|}
+<center></center>
+
+===Fleet Gallery===
+<gallery mode="packed" heights="200">
+File:Baliscana Airbus A350.png|[[W:Airbus A350|Airbus A350]]
+File:Baliscana A320.jpg|[[W:Airbus A320 family|Airbus A320]]
+</gallery>
+
+
+==See Also==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Airlines]]

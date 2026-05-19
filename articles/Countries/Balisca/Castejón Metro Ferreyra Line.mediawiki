@@ -1,0 +1,10 @@
+{{Infobox rail line|box_width=|name=Castejón Metro Ferreyra Line|native_name=Linia de Metro de Castejón a Ferreyra|native_name_lang=bl|other_name=F|linenumber=12|color={{rcr|Castejón Metro|F}}|mapcolor={{rcb|Castejón Metro|F|box}} {{W|Brown (color)|Brown}} (#{{rcr|Castejón Metro|F}})|logo=Logo of Tokyo Metro Fukutoshin Line.svg|logo_width=50px|image=Tm10000.jpg|image_width=300px|caption={{W|Tokyo Metro 10000 series|10000 series}} train on the Ferreyra Line|type={{W|Rapid transit}}|system=[[Concordia Rapid Transit]]|status=|locale=[[Castejón Metropolis]]|start={{STN|Madrilena|x}}|end={{STN|Cipreses|x}}|stations=21|routes=|daily_ridership=1,434,238 (2024)|open={{start date and age|1980|04|01|df=y}}|close=|owner={{ric|Castejón Metro|name=y}}|character=|depot=El Carmen|stock={{W|Tokyo Metro 10000 series|CMRT 10000 series}}|linelength={{cvt|77.71|km|mi|abbr=on}}|tracklength=|tracks=[[w:Double-track railway|Double-track]]|maxincline=5.0%|minradius={{cvt|100|m|ft}}|signalling={{W|Cab signalling}}, Closed block|trainprotection=[[w:CS-ATC|New CS-ATC]], [[w:Automatic train operation|ATO]]|gauge={{RailGauge|sg|allk=on}}|electrification={{1,500 V DC}} ({{W|overhead line}})|speed={{cvt|90|km/h|mph|abbr=on}}|elevation=|map_state=|map=}}
+
+The '''Castejón Metro Ferreyra Line''' ({{Lang-bl|Linia de Metro de Castejón a Ferreyra}}) is a [[W:Rapid transit|subway]] line in [[Castejón]], [[Balisca]], operated by the [[Castejón Metro]]. The line runs between [[Madrilena Station|Madrilena]] in [[Calañas]] in the west and [[Cipreses]] ([[Limón]]) in the east. The official name is '''Line No. 12 Ferreyra Line'''.
+
+The line is named after [[Ferreyra]] ({{Literal translation|blacksmith}}), a [[Planned communities in Balisca|new town]] and [[W:Interchange station|interchange station]] that it passes through. On maps and signboards, the line is shown in brown. Stations carry the letter "F" followed by a two-digit number. 
+
+{{Castejón}}{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Castejón]]
+[[Category:Castejón Metro]]

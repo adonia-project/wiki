@@ -1,0 +1,52 @@
+{{Infobox rail line
+| box_width       = 
+| name            = Castejón Metro Excursión Line
+| native_name     = Linia de Metro de Castejón a Excursión
+| native_name_lang= bl
+| other_name      = E
+| linenumber      = 12
+| color           = {{rcr|Castejón Metro|E}}
+| mapcolor        = {{color sample|#B6007A}} [[Ruby (color)|Ruby]] (#b6007a)<br>{{color sample|#8B008B}} [[Magenta]] (#8B008B)
+| logo            = Toei Oedo line symbol.svg
+| logo_width      = 50px
+| image           = Castejón Metro Excursión Line.png
+| image_width     = 300px
+| caption         = A {{W|Seoul Metro Class 8000|CMRT 8000 Series}} train on the Ōedo Line
+| type            = {{W|Rapid transit}}
+| system          = [[Concordia Rapid Transit]]
+| status          = 
+| locale          = [[Castejón Metropolis]]
+| start           = {{STN|Torreón|x}}
+| end             = {{STN|Basilio|x}}
+| stations        = 20 (2 underconstruction)
+| routes          = 
+| daily_ridership = 933,621 (2016)
+| open            = {{start date and age|1980|09|01|df=y}} (First section)<br>{{start date and age|1984|12|01|df=y}} (Entire line)
+| close           = 
+| owner           = {{ric|Castejón Metro|name=y}}
+| character       = 
+| depot           = El Carmen
+| stock           = {{W|Seoul Metro Class 8000|CMRT 8000 Series}}
+| linelength      = {{cvt|101.31|km|mi|abbr=on}}
+| tracklength     = 
+| tracks          = [[w:Double-track railway|Double-track]]
+| maxincline      = 5.0%
+| minradius       = {{cvt|100|m|ft}}
+| signalling      = {{W|Cab signalling}}, Closed block
+| trainprotection = [[w:CS-ATC|New CS-ATC]], [[w:Automatic train operation|ATO]]
+| gauge           = {{RailGauge|sg|allk=on}}
+| electrification = {{1,500 V DC}} ({{W|overhead line}})
+| speed           = {{cvt|90|km/h|mph|abbr=on}}
+| elevation       = 
+| map_state       = 
+| map             = 
+}}
+
+The '''Castejón Metro Excursión Line''' ({{Lang-bl|Linia de Metro de Castejón a Excursión}}) is a [[W:Rapid transit|subway]] line in [[Castejón]], [[Balisca]], operated by the [[Castejón Metro]]. It is a [[W:Circle route|circular line]], linking the communes adjacent to the inner [[Salto Bay]]. The line running clockwise is called the "inner circle line" and the counter-clockwise line is called the "outer circle line". The official name is '''Line 3 Excursión Line'''.
+
+On maps and signboards, the line is shown in magenta. Stations carry the letter "E" followed by a two-digit number inside a more pinkish ruby circle. 
+
+{{Castejón}}{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Castejón]]
+[[Category:Castejón Metro]]

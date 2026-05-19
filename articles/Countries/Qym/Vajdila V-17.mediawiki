@@ -1,0 +1,32 @@
+{{Basis}}
+{{Infobox aircraft
+ |name = Vajdila V-17
+ |image = RAFQ Vajdila V-17.jpg
+ |caption = A [[Royal Air Force of Qym|RAFQ]] V-17
+ |alt = 
+ |type = [[wikipedia:Multirole combat aircraft|Multirole fighter]],<br>[[wikipedia:air superiority fighter|air superiority fighter]]
+ |national_origin = Qym
+ |manufacturer = [[Vajdila]]
+ |builder = [[Vajdila]]
+ |first_flight = {{abbr|2379|1976.3 (Earth Year Equivalent)}}
+ |introduction = {{abbr|2390|1985.4 (Earth Year Equivalent)}}
+ |retired = 
+ |status = In service
+ |number_built = NUM
+ |primary_user = [[Royal Air Force of Qym]]<!-- List only ONE (1) user; for military aircraft, this is a nation or a service arm. Please DON'T add those tiny flags, as they limit horizontal space. -->
+ |more_users = See ''[[Vajdila V-17#Operators|Operators]]'' section for others
+ |produced = {{abbr|2386|1982.1 (Earth Year Equivalent)}}–present
+ |variants = 
+ |developed_into = 
+}}
+
+The '''Vajdila V-17''' is a [[Qym]]ish fourth-generation twin-engine fighter aircraft manufactured by [[Vajdila]]. 
+
+==Operators==
+;{{flag|Qym}}
+*[[Royal Air Force of Qym]] – NUM
+
+;{{flag|Haynadur}}
+*[[Haynadurian Air Force]] – NUM
+
+[[Category:Vajdila]][[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

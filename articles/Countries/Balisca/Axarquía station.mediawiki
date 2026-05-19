@@ -1,0 +1,11 @@
+{{Infobox station|name=Axarquía|native_name=|native_name_lang=|symbol_location=|symbol=|style=Adif|type=|image=[[File:Axarquia station.png|270px]]|alt=|caption=Interior of the station|address=Pasaje Olocau 832|borough=[[Axarquía]], [[Juyú]]|country=Balisca|map_type=|map_alt=<!-- Alternative map file name (changes background map, border coordinates are determined based on the map name); this is only recommended for use in templates. -->|map_overlay=<!-- Overlay image file name, to be placed on top of the main map. Should have the same border coordinates. -->|map_caption=|owned=[[File:Baliscan Railways Group logo.png|32px]] [[Baliscan Railways Group|Transmatarrañya]]|operator={{Plainlist|
+*[[Baliscan Railways Group|Transmatarrañya]]
+*[[Axarquía Metro|Axarquía Metro]]
+}}|line=<div>
+* [[Daramazán–Jatiel high speed rail line|Daramazán-Axarquía–Jatiel HSR]]
+* [[Gran País railway|Gran País]] 
+* [[South Atlantic Railway|Atlántico Sur]] 
+</div>|distance=|platforms=12 [[island platform]]s (6 in the upper floor and 6 in the lower floor)|tracks=28 (all {{W|standard gauge}})|levels=2|train_operators=|connections=|structure=Underground|parking=Yes, parking for loading/unloading and services vehicles only|bicycle=|architect=|status=Active|code=AXR|zone=|website=|opened={{Start date|1918|7|11|df=y}}|closed=<!-- {{End date|YYYY|MM|DD|df=y}} -->|passengers=40 million (once fully operational)|pass_year=|pass_rank=|services=|accessible=Yes, (incl. wheelchair ramps, [[Baliscano]] braille signage, elevators)}}'''Axarquía station''' is a major railway station in the [[Ganame]] barrio in [[Axarquía]], [[Araucaria]]. It serves as one of the main connecting hub for rail traffic in the wider [[Gran País del Sur]] region, and [[Axarquía]]'s {{W|inter-city rail}}, {{W|commuter rail}}, and {{W|rapid transit|subway}} lines. 
+
+{{Balisca articles}}
+[[Category:Balisca]]

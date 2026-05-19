@@ -1,0 +1,131 @@
+{{Infobox former country
+|native_name            = ''Orilẹ-ede Àyórin''
+|conventional_long_name = Republic of Ayorin
+|common_name            = Ayorin
+|continent              = Kaftia
+|region                 = <!-- Reserved for generating categories on subregions of continents -->
+|country                = Ayorin
+|era                    = <!-- Use: "Napoleonic Wars", "Cold War", etc. -->
+|status                 = 
+|status_text            = <!-- A free text to describe status at the top of the infobox. Use sparingly. -->
+|empire                 = <!-- The empire or country to which the entity was in a state of dependency -->
+|government_type        = [[wikipedia:Unitarian|Unitary]] [[Kadarism|Kadarist]] [[wikipedia:Republic|republic]]
+<!-- Rise and fall, events, years and dates -->
+<!-- only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration"-->
+|event_start            = [[Partition of Burawa|Independence]]
+|date_start             = 10 March
+|year_start             = 1934
+|event_end              = [[Reunification of Ayorin]]
+|date_end               = 18 May
+|year_end               = 1949
+|year_exile_start       = <!-- Year of start of exile (if dealing with exiled government - status="Exile") -->
+|year_exile_end         = <!-- Year of end of exile (leave blank if still in exile) -->
+|event1                 = 
+|date_event1            = 
+|event2                 = 
+|date_event2            = 
+|event3                 = 
+|date_event3            = 
+|event4                 = 
+|date_event4            = 
+|event5                 = 
+|date_event5            = 
+|event_pre              = 
+|date_pre               = 
+|event_post             = 
+|date_post              = 
+<!-- Flag navigation: Preceding and succeeding entities p1 to p5 and s1 to s5 -->
+|p1                     = Burawa State
+|flag_p1                = Flag of the Burawa State.png
+|image_p1               = <!-- Use: [[Image:Sin escudo.svg|20px|Image missing]] -->
+|p2                     = 
+|flag_p2                = 
+|p3                     = 
+|flag_p3                = 
+|p4                     = 
+|flag_p4                = 
+|p5                     = 
+|flag_p5                = 
+|s1                     = United Republic of Ayorin
+|flag_s1                = Flag of the United Republic of Ayorin.png
+|image_s1               = <!-- Use: [[Image:Sin escudo.svg|20px|Image missing]] -->
+|s2                     = 
+|flag_s2                = 
+|s3                     = 
+|flag_s3                = 
+|s4                     = 
+|flag_s4                = 
+|s5                     = 
+|flag_s5                = 
+|image_flag             = Flag of the Republic of Ayorin.svg
+|flag_alt               = <!-- Alt text for flag -->
+|image_flag2            = <!-- Second flag -->
+|flag_alt2              = <!-- Alt text for second flag -->
+|flag                   = Flag of Ayorin
+|flag2                  = <!-- Link target under flag2 image. Default: Flag of {{{common_name}}} -->
+|flag_type              = <!-- Displayed text for link under flag. Default "Flag" -->
+|flag2_type             = <!-- Displayed text for link under flag2. Default "Flag" -->
+|image_coat             = 
+|coat_size               = <!-- Size of coat of arms -->
+|coat_alt               = <!-- Alt text for coat of arms -->
+|symbol                 = 
+|symbol_type            = 
+|image_map              = 
+|image_map_alt          = 
+|image_map_caption      = 
+|image_map2             = <!-- If second map is needed - does not appear by default -->
+|image_map2_alt         = 
+|image_map2_caption     = 
+|capital                = [[Ibadan]] 
+|capital_exile          = <!-- If status="Exile" -->
+|latd= |latm= |latNS= |longd= |longm= |longEW= 
+|national_motto         = 
+|national_anthem        = 
+|common_languages       = [[Imo language|Imo]]
+|religion               = {{W|State atheism}}
+|currency               = 
+<!-- Titles and names of the first and last leaders and their deputies -->
+|leader1                = [[Chijindum Newke]]
+|leader2                = [[Etubi Tokunbo]]
+|leader3                = 
+|leader4                = 
+|year_leader1           = 1926-1940
+|year_leader2           = 1948-1951
+|year_leader3           = 
+|year_leader4           = 
+|title_leader           = President
+|representative1        = <!-- Name of representative of head of state (e.g. colonial governor) -->
+|representative2        = 
+|representative3        = 
+|representative4        = 
+|year_representative1   = <!-- Years served -->
+|year_representative2   = 
+|year_representative3   = 
+|year_representative4   = 
+|title_representative   = 
+<!-- Legislature -->
+|legislature            = 
+|house1                 = <!-- Name of first chamber -->
+|type_house1            = <!-- Default: "Upper house"-->
+|house2                 = <!-- Name of second chamber -->
+|type_house2            = <!-- Default: "Lower house"-->
+<!-- Area and population of a given year -->
+|stat_year1             = 1930
+|stat_area1             = 
+|stat_pop1              = 16,000,000
+|stat_year2             = 1950
+|stat_area2             = 
+|stat_pop2              = 23,278,000
+|footnote_a             = <!-- Accepts wikilinks -->
+|footnote_b             = <!-- Accepts wikilinks -->
+|footnote_h             = <!-- Accepts wikilinks -->
+|footnotes              = <!-- Accepts wikilinks -->
+|today={{flag|Ayorin}}}}
+
+'''South Ayorin''' ({{Langx|yo|Àyórin Gúúsù}}), officially the '''Republic of Ayorin''' ({{Lang|bl|Orilẹ-ede Àyórin}}). The First Republic was founded on 10 March 1934 after the transfer of government responsibilities following the [[Partition of Burawa]] and becoming the first independent republican government in Ayori history. [[Chijindum Newke]] became the first [[President of Ayorin]] following a [[1934 Ayori general election|snap election]], and the [[National Assembly of South Ayorin|National Assembly]] in [[Ibadan]] promulgated Ayorin's first constitution in September, establishing a presidential system of government.
+
+The republic rejected the Illypnian colonial presence in North Ayorin and claimed sovereignty over the entirety of Ayorin proper, but only held power south of the [[## Parallel]], more popularly known as the [[Line of Servitude]]. The First Republic was characterized by a swift [[Ayori Renaissance|cultural revolution]], moderate economic development, strong social and economic reform, and by the mid-1940s strong nationalist sentiment. Rapid negotiations in the early 1950s led to the Republic's invasion and liberation of [[North Ayorin]] in 194x.
+
+== See also ==
+[[Category:Ayorin]]
+[[Category:Former countries]]

@@ -1,0 +1,40 @@
+{{Basis}}
+{| class="wikitable sortable sticky-header-multi sort-under static-row-numbers" style="text-align:right;"
+|+GDP per capita (millions of [[wikipedia:United States dollar|US$]]) by country or {{color box|#F0E891|territory}}
+|- class="static-row-header" style="text-align:center;"
+! style=width:3em | Rank
+! style="width:17em" | Country or territory
+! style=width:9em | Basis Forum<br>({{abbr|2440|2027 (Earth Year Equivalent)}})
+|- class=static-row-header style=font-weight:bold 
+| 
+| style=text-align:left| {{noflag|Basis}} || TBD
+|-
+| 1
+| style=text-align:left| {{flagicon|Thyon}} [[Economy of Thyon|Thyon]]
+| 70,809
+|-
+| 2
+| style=text-align:left| {{flagicon|Qym}} [[Economy of Qym|Qym]]
+| 50,047
+|-
+| 3
+| style=text-align:left| {{flagicon|Geno}} [[Economy of Geno|Geno]]
+| 5,714
+|-
+| 4
+| style=text-align:left| {{flagicon|Haynadur}} [[Economy of Haynadur|Haynadur]]
+| 3,452
+|-
+| 5
+| style=text-align:left| {{flagicon|Kibabi}} [[Economy of Kibabi|Kibabi]]
+| 713
+|-
+|}
+
+==See also==
+*[[List of countries on Basis by GDP (nominal)]]
+*[[List of countries on Basis by GDP (PPP)]]
+*[[List of countries on Basis by GDP (PPP) per capita]]
+*[[List of countries on Basis by Human Development Index]]
+
+[[Category:Basis]]

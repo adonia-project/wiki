@@ -1,0 +1,38 @@
+{{Basis}}
+
+==Vital statistics==
+
+{{sticky-header}}{{sort under}}{{table alignment}}
+{| class="wikitable sortable sort-under sticky-header-multi" style="text-align:right;"
+|-
+! width="80pt"|Year
+! width="80pt"|Average population
+! width="80pt"|Live births
+! width="80pt"|Deaths
+! width="80pt"|Natural change
+! width="80pt"|Crude birth rate (per 1000)
+! width="80pt"|Crude death rate (per 1000)
+! width="80pt"|Natural change (per 1000)
+! width="80pt"|Immigration
+! width="80pt"|Emigration
+! width="80pt"|Net migration
+! width="80pt"|Crude migration change (per 1000)
+! width="80pt"|[[wikipedia:Total Fertility Rate|Total fertility rates]]
+|-
+| {{abbr|2440|2027 (Earth Year Equivalent)}}
+| align="right" | 83,208,737
+| 1,890,725<!--Reminder that these numbers are for 83.07266177% of a Earth Year-->
+| 551,952
+| 1,338,773
+| 22.72
+| 6.63
+| 16.09
+| 15,745
+| 274,714
+|style="color: red" | -258,969
+|style="color: red" | -3.11
+|align="right" style="color: blue" |3.94
+|-
+|}
+
+[[Category:Geno]][[Category:MyNameJuls]][[Category:Basis]]

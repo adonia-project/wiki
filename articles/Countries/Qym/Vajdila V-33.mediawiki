@@ -1,0 +1,29 @@
+{{Basis}}
+{{Infobox aircraft
+ |name = Vajdila V-33
+ |image = RAFQ Vajdila V-33.jpg
+ |caption = A [[Royal Air Force of Qym|RAFQ]] V-33
+ |alt = 
+ |type = [[wikipedia:Stealth aircraft|Stealth]] [[wikipedia:Multirole combat aircraft|multirole fighter]]
+ |national_origin = Qym
+ |manufacturer = [[Vajdila]]
+ |builder = [[Vajdila]]
+ |first_flight = {{abbr|2420|2010.36 (Earth Year Equivalent)}}
+ |introduction = {{abbr|2432|2020.33 (Earth Year Equivalent)}}
+ |retired = 
+ |status = In service
+ |number_built = NUM
+ |primary_user = [[Royal Air Force of Qym]]<!-- List only ONE (1) user; for military aircraft, this is a nation or a service arm. Please DON'T add those tiny flags, as they limit horizontal space. -->
+ |more_users = See ''[[Vajdila V-17#Operators|Operators]]'' section for others
+ |produced = {{abbr|2430|2018.66 (Earth Year Equivalent)}}–present
+ |variants = 
+ |developed_into = 
+}}
+
+The '''Vajdila V-33''' is a [[Qym]]ish fifth-generation twin-engine [[wikipedia:stealth aircraft|stealth]] [[wikipedia:Multirole combat aircraft|multirole fighter]] aircraft manufactured by [[Vajdila]]. 
+
+==Operators==
+;{{flag|Qym}}
+*[[Royal Air Force of Qym]] – NUM
+
+[[Category:Vajdila]][[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

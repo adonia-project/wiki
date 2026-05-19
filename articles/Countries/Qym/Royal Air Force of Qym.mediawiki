@@ -1,0 +1,280 @@
+{{Basis}}
+{{Infobox military unit
+| unit_name                     = Royal Air Force of Qym
+| native_name                   = TBD<br>''RAF ish Qym''
+| image                         = [[File:RAFQ emblem.png|250px]]
+| image_size                    = 
+| caption                       = Emblem of the Royal Air Force of Qym
+| start_date                    = DAY MONTH {{abbr|2300|1911 (Earth Year Equivalent)}}
+| dates                         = 
+| country                       = {{flag|Qym}}
+| type                          = Air and space force
+| role                          = Aerial and space warfare
+| size                          = 91,434 active personnel<br>10,000 reserve personnel<br>2,010 operational aircraft<br>4,127 other personnel
+| command_structure             = [[Qymish Armed Forces]]
+| garrison                      = [[BUILDING COMPLEX]], [[NEIGHBORHOOD]], [[Zhol]]
+| garrison_label                = Headquarters
+| motto                         = TBD<br/>"Rule the skies"
+| colors                        = Green, white, maroon<br>{{legend2|#175319}}{{legend2|#ffffff|border=1px solid #AAAAAA}}{{legend2|#7a1b09}}
+| colors_label                  = Colors
+| anniversaries                 = 
+| battles                       = 
+| equipment                     = 
+| decorations                   = 
+| website                       = 
+<!-- Commanders -->
+| commander1                    = [[Qodzar]], [[King of Qym]]
+| commander1_label              = [[King of Qym|Commander-in-Chief]]
+| commander2                    = [[PERSON]]
+| commander2_label              = [[Royal Minister of Defense]]
+| commander3                    = [[PERSON]]
+| commander3_label              = [[Commander of the RAFQ]]
+| commander4                    = [[PERSON]]
+| commander4_label              = [[Deputy Commander of the RAFQ]]
+| identification_symbol         = [[File:RAFQ roundel.png|border|150px]]
+| identification_symbol_label   = [[wikipedia:Military aircraft insignia|Roundel]]
+| identification_symbol_2       = [[File:Flag of Qym.png|150px]]
+| identification_symbol_2_label = [[wikipedia:Fin flash|Fin flash]]
+| aircraft_attack               = [[Vajdila V-17]]
+| aircraft_bomber               = {{vunblist|[[Ramiq T-55]]
+|[[Ramiq T-66]]}}
+| aircraft_electronic           = [[Vajdila H-81E]]
+| aircraft_fighter              = {{vunblist|[[Ramiq R-20]]
+|[[Ramiq R-22]]
+|[[Ramiq R-26]]
+|[[Vajdila V-33]]}}
+| aircraft_helicopter_utility   = [[Gugam G-144]]
+| aircraft_helicopter_trainer   = [[Gugam G-144]]
+| aircraft_patrol               = [[Vajdila H-81G]]
+| aircraft_recon                = {{vunblist|}}
+| aircraft_trainer              = {{vunblist|[[Ramiq C-8K]]
+|[[Ramiq C-9K]]
+|[[Ramiq C-10K]]}}
+| aircraft_transport            = {{vunblist|[[Vajdila H-850K]]
+|[[Vajdila H-855]]
+|[[Vajdila H-875]]
+|[[Vajdila H-900]]}}
+| ceremonial_chief              = 
+| ceremonial_chief_label        = 
+| colonel_of_the_regiment       = 
+| colonel_of_the_regiment_label = 
+}}
+
+The '''Royal Air Force of Qym''' ('''RAFQ'''; [[Qymish language|Qymish]]: TBD, ''TBD'') is the air and space force of [[Qym]]. 
+
+==History==
+==Aircraft==
+=== Current inventory ===
+{| class="wikitable"
+! style="text-align:center; background:#acc;" |Aircraft
+! style="text-align: center; background:#acc;" |Origin
+! style="text-align:l center; background:#acc;" |Type
+! style="text-align:left; background:#acc;" |Variant
+! style="text-align:center; background:#acc;" |In service
+! style="text-align: center; background:#acc;" |Notes
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Military aircraft#Combat aircraft|Combat aircraft]]
+|-
+|[[Ramiq R-20]]<!--Mig29/F15 equivalent-->
+|[[Qym]]
+|Fighter
+|
+|NUM
+|
+|-
+|[[Ramiq R-22]]<!--Mig 31/F15 equivalent-->
+|[[Qym]]
+|Interceptor
+|
+|NUM
+|
+|-
+|[[Ramiq R-26]]<!--AVIC Baidi Type B/F22/J20 equivalent-->
+|[[Qym]]
+|Stealth air superiority
+|
+|NUM
+|
+|-
+|[[Ramiq T-55]]<!--B1 equivalent-->
+|[[Qym]]
+|Strategic bomber
+|
+|NUM
+|
+|-
+|[[Ramiq T-66]]<!--B2 equivalent-->
+|[[Qym]]
+|Stealth bomber
+|
+|NUM
+|
+|-
+|[[Vajdila V-17]]<!--Su27/J16/F18 equivalent-->
+|[[Qym]]
+|Strike fighter
+|
+|NUM
+|
+|-
+|[[Vajdila V-33]]<!--Su57/F35/J35 equivalent-->
+|[[Qym]]
+|Stealth multirole
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Airborne early warning and control|AEW&C]]
+|-
+|[[Vajdila H-81A]]
+|[[Qym]]
+|[[W:Airborne early warning and control|AEW&C]]
+|
+|NUM
+|
+|-
+! colspan="6" |[[W:Electronic warfare aircraft|Electronic-warfare aircraft]]
+|-
+|[[Vajdila H-81E]]
+|[[Qym]]
+|[[W:Electronic warfare|Electronic warfare]]
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Reconnaissance aircraft|Reconnaissance]]
+|-
+|[[Vajdila H-81D]]
+|[[Qym]]
+|[[W:Signals intelligence|SIGINT]]
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Maritime patrol aircraft|Maritime patrol]]
+|-
+|[[Vajdila H-81G]]
+|[[Qym]]
+|[[W:Maritime patrol|Maritime patrol]]
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Aerial refueling|Tanker]]
+|-
+|[[Vajdila H-850T]]
+|[[Qym]]
+|Aerial refueling
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Military transport aircraft|Transport]]
+|-
+|[[Vajdila H-850K]]
+|[[Qym]]
+|[[W:Air transports of heads of state and government|VIP transport]] 
+|
+|NUM
+|
+|-
+|[[Vajdila H-855]]
+|[[Qym]]
+|Transport/Utility
+|
+|NUM
+|
+|-
+|[[Vajdila H-875]]
+|[[Qym]]
+|Utility/VIP transport
+|
+|NUM
+|
+|-
+|[[Vajdila H-900]]
+|[[Qym]]
+|Utility/Transport
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Military helicopter|Helicopter]]
+|-
+|[[Gugam G-144]]
+|[[Qym]]
+|Medium multirole helicopter
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Trainer (aircraft)|Trainer aircraft]]
+|-
+|[[Ramiq C-8K]]
+|[[Qym]]
+|Turboprop trainer
+|
+|NUM
+|
+|-
+|[[Ramiq C-9K]]
+|[[Qym]]
+|Trainer
+|
+|NUM
+|
+|-
+|[[Ramiq C-10K]]
+|[[Qym]]
+|Advanced trainer
+|
+|NUM
+|
+|-
+! colspan="6" style="align: center; background: lavender;" |[[W:Unmanned aerial vehicle|UAV]]
+|-
+|[[Ramiq K-703]]
+|[[Qym]]
+|Reconnaissance
+|
+|NUM
+|
+|-
+|[[Ramiq K-707]]
+|[[Qym]]
+|Reconnaissance
+|
+|NUM
+|
+|-
+|[[Ramiq K-1000]]
+|[[Qym]]
+|[[wikipedia:Unmanned combat aerial vehicle|UCAV]]
+|
+|NUM
+|
+|-
+|[[Ramiq K-1200]]
+|[[Qym]]
+|[[wikipedia:Unmanned combat aerial vehicle|UCAV]]
+|
+|NUM
+|
+|-
+|[[Ramiq K-1400]]
+|[[Qym]]
+|[[wikipedia:Unmanned combat aerial vehicle|UCAV]]
+|
+|NUM
+|
+|-
+|[[Ramiq Sh-12]]
+|[[Qym]]
+|Reconnaissance
+|
+|NUM
+|
+|-
+|}
+
+[[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

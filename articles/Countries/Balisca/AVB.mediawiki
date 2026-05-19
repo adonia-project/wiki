@@ -1,0 +1,113 @@
+{{Infobox rail
+| image             = Las Vinas tubo.png
+| image_size        = 300
+| logo_size         = 250
+| hq_city           = [[Ampurias]], [[Castejón Metropolis]]
+| system_map        =
+| map_caption       = 
+| locale            = [[Baliscan archipelago]] and [[tba]] in [[Asikyira]]
+| start_year        = 1969
+| end_year          = present
+| predecessor_line  = 14 publically operated intercity passenger rail systems
+| successor_line    =
+| gauge             = {{RailGauge|sg}} {{W|standard gauge}}
+ | el             = 25 kV AC (some sections on 3 kV DC network)
+|length            = {{cvt|9426|km|mi|abbr=on}}
+{{cvt|1134.3|km|mi|abbr=on}} (Minisco)
+'''{{cvt|10560|km|mi|abbr=on}} (Total)'''
+|name=Alta Velocidad Baliscana
+|logo=Logo of the Baliscan High Speed (AVB).png|operator=[[Baliscan Railways Group]]|other_name={{native name|kp|Wanaká Pirutá Baliskana}} <br>
+{{native name|arn|Leliyawün Quetrupillánu}} <br> أَلْتَا بِي لُوثِيدَاذْ بَالِيسْكَانَا <br> {{native name|mxi|Álta Biluz̧iđáđ Baliskaná}}|image_caption=[[Alcántara|Tubo]] {{W|Electric multiple unit|EMU}} in [[Calatayud]], April 2024}} {{Life in Balisca}}
+
+'''''Alta Velocidad Baliscana''''' ({{IPA-bl|'alta βeloθiˈðað bəˈlɪsˈkɑnɑ}}; '''AVB''') is the service of [[w:High-speed rail|high-speed rail]] in [[Balisca]], currently operating at speeds of up to {{convert|320|km/h|mph|0|abbr=on}}, with significant progress being made on increasing speeds up to {{convert|360|km/h|mph|0|abbr=on}}. ''{{lang|bl|Alta Velocidad Baliscana}}'' translates to "Baliscan High Speed". 
+
+As of January 2024, the Baliscan AVB system is the most-dense high speed rail network in the [[Algarbes]], with {{convert|9426|km|mi|abbr=on}} of lines and is the most extensive in the [[Northern Hemisphere]].
+
+The original ''[[Porciúncula–Jatiel high-speed rail line|Direto]]'', connecting [[Porciúncula]], [[Castejón]] and [[Jatiel]], three of Balisca's largest cities, is one of the world's busiest high-speed rail lines. In the one-year period preceding March 2017, it carried 202 million passengers, and since its opening more than five decades ago, it has transported more than 11.1 billion total passengers. At peak times, the line carries up to 16 trains per hour in each direction with 16 cars each (1,323-seat capacity and occasionally additional standing passengers) with a minimum headway of three minutes between trains. The network has expanded to currently consist of {{convert|9426|km}} of lines with operating speeds of 240–350 km/h (150–217 mph), {{convert|1134.3|km}} of [[Mini-AVB|''Minisco'']]-AVB lines with a maximum speed of 200 km/h (125 mph), and {{convert|41.2|km}} of spur lines with AVB services. 
+
+The majority of AVB routes never intersect with slower conventional lines. Consequently, the AVB is not affected by slower trains and has the capacity to operate many high-speed trains punctually. Routes are also completely [[W:Grade separation|grade separated]] from road traffic and tracks are strictly off-limits, with penalties against trespassing regulated by communal law. The routes make extensive use of tunnels and [[W:Viaduct|viaducts]] to go through and over obstacles rather than around them, with a minimum curve radius of {{convert|4000|m|ft|0|abbr=on}}, although the older ''Direto'' line has a minimum of {{convert|2500|m|ft|0|abbr=on}}. While most AVB routes follow this pattern, two exceptions exist: ''Minisco''-AVB lines, which run on conventional lines converted to standard gauge; and the [[Pindorama high speed rail line]], which shares trackage with freight trains through the [[Joajuaba Tunnel]].
+
+Balisca engaged with [[Okaiken|Sanese]] (and later [[Andalus|Andalusian]]) manufacturers for initial technological support for the AVB. Expansion of the AVB slowed during the [[Special Period]], with funding being redirected to [[Social protection in Balisca|social protection measures]]. Balisca engineers have since re-designed internal train components and have built and produced domestic trains manufactured by the cooperatively-operated [[Alcántara|Alcántara Corporation]], especially on newer lines. In 2015, seeking to develop faster rolling stock, Alcántara partnered with the [[Okaiken Railways Group]] to develop a [[W:Maglev|maglev train]], codenamed the [[W:L0 Series|L0 Series]]. It utilizes an [[W:Electrodynamic suspension|electrodynamic suspension]] (EDS) system for both levitation and propulsion, reaching a maximum speed exceeding {{convert|600|km/h|mph|0|abbr=on}}. The train's introduction is contingent upon the completion of the [[Karáka high-speed rail line|Karáka]] and [[Levante high-speed rail line|Levante]] lines, currently under construction and slated for completion in 2029 and 2030. 
+
+The introduction of high-speed rail in Balisca significantly reduced travel time and transformed its society and economy, integrating [[Rural society in Balisca|rural Baliscan society]]. It was significant in Balisca's efforts to provide alternatives to inefficient and increasingly inaccessible [[W:Motor vehicles|motor vehicles]], and is cited as a factor in the stagnation and ultimate decline of the [[W:Aviation industry|aviation]] and [[W:Automobile industry|automobile]] industries. Many sections in the [[W:Megalopolis|megalopoli]] are often partially integrated as part of the {{W|commuter rail}} network.
+
+The AVB is marketed by Baliscan Railways as a more efficient and [[W:Environmentally friendly|environmentally conscious]] alternative to both long-distance driving and long haul flights. Short-haul flights have been confederaly banned since 2005. It is operated by four public [[Baliscan Railways Group]] cooperative federations. Since operators are [[W:Cooperative|cooperatives]], the fare system is designed to ensure [[W:Universal design|universal accessibility]], with costs determined by the cooperative's collective needs rather than profit motives. The results of this is affordable fares for the masses, with the inclusion of a [[W:Sliding scale fees|sliding scale]] based on income or social need, with any surplus reinvested into the system to improve service and benefit the community.
+
+==Lines in operation==
+Currently there are four corridors with x main lines in operation, and x spur lines.
+{| class="wikitable"
+|-
+!Line!!Connected cities/stations!!Year of inauguration!!Operational top speed!!Type of trains
+|-
+! colspan="5" style="text-align:center;" |'''Eastern corridor'''
+|-
+|[[Agostino high speed rail line|HSR Augusta Corridor]]||[[Alessandria station|Alessandria]] · [[Castello station|Castello]] · [[Otranto station|Otranto]]||1980|| rowspan="3" |{{convert|300|km/h|0|abbr=on|disp=or}}
+|
+|-
+|[[Atlantic Axis high-speed rail line|HSR Atlantic Axis]]||[[Yerba Buena railway station|Yerba Buena]] · [[Syracuse railway station|Syracuse]] · [[Trivero railway station|Trivero]] · [[Pontevedra]] · [[Alessandria railway station|Alessandria]]||1977||[[RENFE Class 120 / 121|S-121]], [[RENFE Class 130|S-130]], [[RENFE Class 730|S-730]]
+|-
+|[[Transmatarrañya high speed rail line|HSR Transmatarrañya]]
+|[[Uxiu-Matarrañya railway station|Uxiu-Matarrañya]] · [[Guadalajara railway station|Guadalajara]] · [[San Marco railway station|San Marco]]
+|2009
+|
+|-
+! colspan="5" |Central corridor
+|-
+|[[Porciúncula–Jatiel high-speed rail line|HSR Direto]]
+|[[Porciúncula-Soledad Station|Porciúncula]] · [[Hisbanya railway station|Castejón-Hisbanya]] · [[Yerba Buena station|Yerba Buena]] · [[Jatiel station|Jatiel]]
+|1969
+|{{convert|310|km/h|0|abbr=on|disp=or}}
+|
+|-
+|[[Daramazán–Jatiel high speed rail line|HSR Gran Sur]]
+|[[Daramazán Station|Daramazán]] · [[Kimünrayen railway station|Kimünrayen]] · [[Caámoroti railway station|Caámoroti]] · [[Axarquía station|Axarquía]] · [[Almocatén station|Almocatén]] · [[Carabassa station|Carabassa]] · [[Jatiel station|Jatiel]]
+|1974
+|{{convert|310|km/h|0|abbr=on|disp=or}}
+|
+|-
+|[[Castejón–Caámoroti high speed rail line|HSR Valle de Castro]]
+|[[Coruxón station|Castejón-Coruxón]] · [[Valparaíso station|Valparaíso]] · [[Caámoroti railway station|Caámoroti]]
+|2008
+|{{convert|310|km/h|0|abbr=on|disp=or}}
+|
+|-
+! colspan="5" style="text-align:center;" |'''Northwestern corridor'''
+|-
+|[[Maracaju-Tava high-speed rail line|HSR Pindorama]]||[[Maracaju railway station|Maracaju]] · [[Tba railway station|tba]] · [[Yvyra'ara railway station|Yvyra'ara]]||2018||{{convert|250|km/h|0|abbr=on|disp=or}}||[[AVE Class 102|S-102]], S-114
+|-
+! colspan="5" style="text-align:center;" |'''Western corridor'''
+|-
+|[[Macaio–Uxiu high-speed rail line|HSR Baixas]]||[[Macaio–Uxiu high-speed rail line|Macaio]] · [[Calatayud railway station|Calatayud]] · [[Uxiu-Matarrañya railway station|Uxiu-Matarrañya]]||2003||{{convert|350|km/h|0|abbr=on|disp=or}}||[[AVE Class 100|S-100]], [[AVE Class 103|S-103]], [[AVE Class 112|S-112]], [[RENFE Class 120|S-120]], [[RENFE Class 120 / 121|S-121]]
+|-
+|''[[Pyara high-speed rail line|HSR Pyara]]'' ([[W:Maglev|maglev]])
+|[[Macaio Norte Station|Macaio]] · [[Vilaxoyosa Station|Vilaxoyosa]] · [[Albaròssa Station|Albaròssa]] · [[Syracuse railway station|Syracuse]] · Orquívoro · [[Callejón railway station|Callejón-Castejón]]
+|''2029''
+|{{convert|505|km/h|0|abbr=on|disp=or}}
+|[[V120 Series]]
+|-
+|[[Las Viñas high speed rail line|HSR Las Viñas]]
+|[[Calatayud railway station|Calatayud]] · [[Lamasana railway station|Lamasana]] · [[Syracuse railway station|Syracuse]] · [[Callejón railway station|Callejón-Castejón]]
+|2024
+| rowspan="3" |{{convert|350|km/h|0|abbr=on|disp=or}}
+|
+|-
+| [[Macaio–Xàbia high-speed rail line|HSR Pantanal]]|| [[Macaio Station|Macaio]] · [[Palmarés Station|Palmarés]] · [[Aigües Station|Aigües]] · [[Navassa Station|Navassa]] · [[Xàbia station|Xàbia]]|| 1985||
+|-
+| [[Daramazán–Macaio high-speed rail line|HSR Miramar]]|| [[Daramazán Station|Daramazán]] · [[San Chorche]] · Macaio|| 2005||
+|-
+! colspan="5" style="text-align:center;" |'''Southern corridor'''
+|-
+|[[Concepción–Merced high-speed rail line|HSR Concepción – Merced]]||[[Concepción railway station|Concepción]] · tba · tba · tba · [[Merced high speed rail station|Merced]]||1992||{{convert|300|km/h|0|abbr=on|disp=or}}||[[AVE Class 100|S-100]], [[AVE Class 102|S-102]], [[AVE Class 103|S-103]], [[AVE Class 112|S-112]], S-104
+|-
+|[[HSR Merced – Calafquén]]
+|[[Merced high speed rail station|Merced]] · [[Santa Creu station|Santa Creu]] · [[Rosario station|Rosario]] · [[Calafquén station|Calafquén]]
+|2017
+|{{convert|310|km/h|0|abbr=on|disp=or}}
+|
+|}
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:AVB]]
+[[Category:Transport in Balisca]]

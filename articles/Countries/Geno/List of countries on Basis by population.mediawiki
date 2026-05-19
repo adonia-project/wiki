@@ -1,0 +1,97 @@
+{{Basis}}
+{| class="wikitable sortable sticky-header-multi sort-under static-row-numbers" style="text-align:right;"
+|+[[wikipedia:Population|Population]] by country or {{color box|#F0E891|territory}}
+|- class="static-row-header" style="text-align:center;"
+! style=width:3em | Rank
+! style="width:17em" | Country or territory
+! style=width:9em | Basis Forum<br>({{abbr|2440|2027 (Earth Year Equivalent)}})
+! style=width:9em | % of Basis
+|- class=static-row-header style=font-weight:bold 
+| 
+| style=text-align:left| {{noflag|Basis}} || 4,265,334,215 || {{Percentage|4,265,334,215|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Riuden}}
+| 266,168,637
+| {{Percentage|266,168,637|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Qym}}
+| 162,359,580
+| {{Percentage|162,359,580|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Astamon}}
+| 93,671,480
+| {{Percentage|93,671,480|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Geno}}
+| 83,208,737
+| {{Percentage|83,208,737|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Thyon}}
+| 78,330,952
+| {{Percentage|78,330,952|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Zandomia}}
+| 75,771,508
+| {{Percentage|75,771,508|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Holaria}}
+| 60,219,483
+| {{Percentage|60,219,483|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Prugundy}}
+| 53,738,505
+| {{Percentage|53,738,505|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Haynadur}}
+| 33,346,122
+| {{Percentage|33,346,122|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Gosaria}}
+| 24,675,082
+| {{Percentage|24,675,082|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Tamodia}}
+| 19,274,503
+| {{Percentage|19,274,503|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Imendia}}
+| 13,094,553
+| {{Percentage|13,094,553|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Nykal}}
+| 8,841,529
+| {{Percentage|8,841,529|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Kibabi}}
+| 8,738,279
+| {{Percentage|8,738,279|4,265,334,215|1|pad=yes}}
+|-
+| #
+| style=text-align:left| {{flag|Afarut}}
+| 5,469,477
+| {{Percentage|5,469,477|4,265,334,215|1|pad=yes}}
+|-
+|}
+
+==See also==
+*[[List of countries on Basis by GDP (nominal)]]
+*[[List of countries on Basis by GDP (nominal) per capita]]
+*[[List of countries on Basis by GDP (PPP)]]
+*[[List of countries on Basis by GDP (PPP) per capita]]
+*[[List of countries on Basis by Human Development Index]]
+
+[[Category:Basis]]

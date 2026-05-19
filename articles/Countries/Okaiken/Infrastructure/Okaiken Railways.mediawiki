@@ -1,0 +1,539 @@
+{{Short description|National railway operator of Okaiken}}
+{{Infobox company
+| name = Okaiken Railways Group
+| logo = Okaiken National Railways Logo.svg
+| logo_size = 150px
+| native_name = 岡井県鉄道
+| native_name_lang = ja
+| romanized_name = Okaiken Tetsudō
+| type = [[Statutory corporation|Imperial Crown Corporation]]
+| industry = [[Rail transport]]
+| founded = {{Start date|1987|04|01}}
+| predecessor = [[Okaiken National Railways]] (1949–1987)
+| headquarters = OR Imperial Tower, [[Okami Central Station]], [[Okami]]
+| area_served = [[Okaiken]] (National Network)
+| services = [[Passenger rail]], [[Freight rail]], [[Strategic logistics]]
+| owner = {{Plainlist|
+* [[Government of Okaiken]] (51%)
+* [[Okaiken National Pension Fund]] (49%)
+}}
+| num_employees = 145,000 (2025)<br/>~125,000 (2026, post-strike)
+| rail_length = {{plainlist|
+* {{convert|17392|km|mi|abbr=on}} (conventional)
+* {{convert|2829|km|mi|abbr=on}} (Shinkansen)
+}}
+| num_stations = 2,847
+| ridership = 22.4 billion (FY2024)
+| subsid = {{Plainlist|
+* [[OR Harujima]]
+* [[OR Ishijima]]
+* [[OR Yagikoshu]]
+* [[OR Freight]]
+}}
+| website = {{URL|https://www.or-rail.gov.ok}}
+}}
+
+The {{nihongo|'''Okaiken Railways'''|岡井県鉄道|Okaiken Tetsudō}}, commonly referred to as '''OR''' or the '''OR Group''', is the state-owned national railway system of [[Okaiken]]. Unlike the fully privatized railway models seen in other nations, OR is structured as an Imperial Crown Corporation, jointly owned by the Okaiken Government and the National Pension Fund.
+
+The network is divided geographically among three major operating subsidiaries corresponding to the nation's three main landmasses: '''Harujima''' (Northwest), '''Ishijima''' (Northeast), and '''Yagikoshu''' (South). While these entities have operational autonomy, they are centrally managed by the OR Group Directorate to ensure national cohesion, fare stabilization, and strategic infrastructure maintenance.
+
+The OR Group operates the high-speed [[Shinkansen]] network, intercity limited expresses, and the urban commuter networks in major metropolises including the capital, [[Okami]].
+
+==History==
+===Okaiken National Railways (1949–1987)===
+{{main|Okaiken National Railways}}
+The predecessor to OR was the {{nihongo|'''Okaiken National Railways'''|岡井県国有鉄道|Okaiken Kokuyū Tetsudō}}, commonly abbreviated as '''ONR''', which operated from 1949 to 1987. ONR was established as a public corporation on June 1, 1949, during the post-war occupation period, consolidating the previously government-owned railway assets into a single quasi-independent entity.
+
+During the 1950s and 1960s, ONR was instrumental in Okaiken's rapid economic growth. The agency oversaw the electrification of major trunk lines, the modernization of rolling stock, and the planning of the revolutionary [[Shinkansen]] network. The first Shinkansen line—the [[Harujima Shinkansen]]—opened in 1966 under ONR's direction, marking Okaiken as the first nation in Adonia to operate dedicated high-speed rail.
+
+However, by the 1970s, ONR faced mounting financial difficulties. The agency had accumulated significant debt through aggressive network expansion, including the politically motivated sea routing of the Harujima Shinkansen (known as the "Great LDP Snub") and the construction of unprofitable rural lines. Labor relations also deteriorated; the ONR workers' union, the [[National Railway Workers' Union (Okaiken)|Kokutetsu Rōsō]], engaged in numerous strikes and work-to-rule campaigns that disrupted service and damaged public perception.
+
+By 1980, ONR's long-term debt had reached ¥28 trillion, threatening the nation's fiscal stability. The government explored various reform options, ultimately deciding against full privatization—which would have left rural communities without service—in favor of a hybrid restructuring model.
+
+===The Reform of 1987===
+On April 1, 1987, the government reorganized ONR into the Okaiken Railways Group. Unlike the privatization models implemented in other nations, OR was structured as an Imperial Crown Corporation. Ownership was transferred to a holding company held 51% by the Imperial Treasury and 49% by the National Pension Fund, ensuring that profits are reinvested into the network or used to bolster the nation's social security rather than distributed to private shareholders.
+
+The reform also addressed the labor situation. While workforce reduction was necessary—employment dropped from 400,000 at ONR's peak to approximately 180,000—the restructuring avoided the mass dismissals seen elsewhere through voluntary retirement programs and reassignment to affiliated companies. The remaining ONR debt was assumed by the national government rather than transferred to the new OR Group, allowing the railway to begin operations on sound financial footing.
+
+===Modern developments===
+Since privatization, OR has focused on modernization and efficiency improvements. The 1990s saw the extension of the [[Minami Yagikoshu Shinkansen]] from Toyozawa to Kagami, opening in 1993. The network has embraced digital technology, implementing the [[Oka-Pass]] electronic ticketing system in 2001 and automated train operations on select lines.
+
+The 2011 [[Jutsu Restoration]] brought renewed government attention to infrastructure, with the OR Group receiving additional capital for the ongoing Kii-to-Aomori extension of the Minami Yagikoshu Shinkansen, projected for completion in 2035. In 2016, OR introduced the H200 Series Shinkansen trains on the Harujima line, capable of operating at {{convert|320|km/h|mph|abbr=on}}.
+
+==Organization==
+The OR Group is split into three regional passenger companies and one nationwide freight entity.
+
+{| class="wikitable"
+! Color
+! Name
+! Sanese
+! Region / Geography
+! Key Hubs
+|-
+| style="background:#B22222; color:white;" | '''Red'''
+| '''[[OR Harujima]]'''
+| OR春島
+| '''Harujima'''<br>Includes the island of Goshu.
+| [[Okami Chuo Station|Okami]], [[Shinagawa]], [[Anjo-Saikawa]]
+|-
+| style="background:#003366; color:white;" | '''Blue'''
+| '''[[OR Ishijima]]'''
+| OR石島
+| '''Ishijima'''
+| [[Aizawa]], [[Minatojima]]
+|-
+| style="background:#006400; color:white;" | '''Green'''
+| '''[[OR Yagikoshu]]'''
+| OR八木甲州
+| '''Yagikoshu'''
+| [[Toyozawa]], [[Mito]]
+|-
+| style="background:#708090; color:white;" | '''Grey'''
+| '''[[OR Freight]]'''
+| OR貨物
+| '''Nationwide'''<br>Operates on all tracks.
+| [[Okami]] Freight Terminal
+|}
+
+==Shinkansen Network==
+{{See also|Shinkansen in Okaiken}}
+The backbone of the OR network is the [[Shinkansen]] system, which connects the three major islands via undersea tunnels and massive bridges. The three lines converge at [[Toyozawa Station]], located near the geographical center of the archipelago. The OR Group as a whole operates and maintains the Shinkansen Network to allow for better consistency of timetable planning and integrated ticketing.
+
+{| class="wikitable"
+! Line
+! Color
+! Route
+! Length
+! Stations
+! Max Speed
+! Annual Ridership
+|-
+| '''Harujima Shinkansen'''
+| style="background:#B22222; color:white;" | Deep Red
+| [[Shinagawa]] — [[Okami Central Station|Okami Chuo]] — [[Anjo-Saikawa]] — [[Toyozawa]]
+| {{convert|963|km|mi|abbr=on}}
+| 26
+| {{convert|320|km/h|mph|abbr=on}}
+| 175 million
+|-
+| '''Ishijima Shinkansen'''
+| style="background:#003366; color:white;" | Blue
+| [[Aizawa]] — [[Minatojima]] — [[Toyozawa]]
+| {{convert|818|km|mi|abbr=on}}
+| 15
+| {{convert|260|km/h|mph|abbr=on}}
+| 41 million
+|-
+| '''Minami Yagikoshu Shinkansen'''
+| style="background:#006400; color:white;" | Forest Green
+| [[Toyozawa]] — [[Mito]] — [[Kii]] (— [[Aomori]] under construction)
+| {{convert|1048|km|mi|abbr=on}} (operational: 882 km)
+| 13 (11 operational)
+| {{convert|260|km/h|mph|abbr=on}}
+| 38.5 million
+|-
+! Total
+!
+!
+! {{convert|2829|km|mi|abbr=on}}
+! 54
+!
+! 254.5 million
+|}
+
+===Harujima Shinkansen (OR Harujima)===
+The {{nihongo|'''Harujima Shinkansen'''|春島新幹線}} is the oldest and busiest line in the system, opened on May 28, 1966. It connects the northern port of [[Shinagawa]] (population 2.3 million) with the capital city of [[Okami]] (population 8.3 million) and continues south to the central junction of [[Toyozawa]] (population 6.1 million). It is the primary artery for business travel and generates approximately 65% of OR's Shinkansen revenue.
+
+Three service patterns operate on the line:
+* '''Nozomi:''' Express service stopping only at major cities; 2 hours 31 minutes end-to-end
+* '''Nanpu:''' Semi-express service with 18 intermediate stops; 3 hours 18 minutes
+* '''Hikari:''' All-stations service; 4 hours 35 minutes
+
+The line is notable for its controversial inland routing through [[Mie Prefecture]] during the 1960s—a political decision known as the {{nihongo|"Great LDP Snub"|大自民党冷遇|Dai Jiyūmin Tō Reigyō}}—which bypassed the more populous coastal cities in favor of politically loyal rural districts. This decision continues to impact regional development patterns today.
+
+===Ishijima Shinkansen (OR Ishijima)===
+The {{nihongo|'''Ishijima Shinkansen'''|石島新幹線}} opened in 1982, running along the western spine of [[Ishijima]] island. It connects the northwestern metropolis of [[Aizawa]] (population 2 million) with [[Toyozawa]] via the industrial hub of [[Minatojima]] (population 1.25 million). The line is famous for its scenic coastal sections, particularly the {{nihongo|Seto Coast Corridor|瀬戸海岸回廊}} where trains run within 50 meters of the coastline for 87 kilometers.
+
+Two service patterns operate:
+* '''Shiokaze:''' Express service; 3 hours 15 minutes with 4 stops
+* '''Yamabiko:''' All-stations service; 4 hours 30 minutes
+
+===Minami Yagikoshu Shinkansen (OR Yagikoshu)===
+The {{nihongo|'''Minami Yagikoshu Shinkansen'''|南八木甲州新幹線}} extends southward from [[Toyozawa]], penetrating the mountainous terrain of [[Yagikoshu]] island. The operational section connects Toyozawa to [[Kii]] (population 195,000) via [[Mito]] (population 1.9 million). An extension to [[Aomori]] (population 215,000) is currently under construction, with completion projected for 2035.
+
+The line presented significant engineering challenges, including the {{nihongo|Tanzawa Tunnel|丹沢トンネル}}—at 26.5 kilometers, the longest railway tunnel in Okaiken—and the {{nihongo|Great Seto Bridge|大瀬戸大橋}} crossing into Yagikoshu.
+
+Two service patterns operate:
+* '''Uzushio:''' Express service; 3 hours 45 minutes from Toyozawa to Kii
+* '''Tsunagi:''' All-stations service; 5 hours 00 minutes
+
+===Toyozawa Junction Configuration===
+[[File:Toyozawa Station Y-Junction.jpg|thumb|right|300px|The Y-junction configuration at Toyozawa Station, where all three Shinkansen lines converge.]]
+[[Toyozawa Station]] features a unique 10-track, 5-island platform configuration with a Y-junction beyond the station throat. This design allows for platform splitting and combining operations:
+
+* '''Split Operations:''' 16-car Nozomi trains arriving from Shinagawa on a single track split on the platform, with the front 8 cars proceeding to Aizawa and the rear 8 cars to Kii via separate junctions
+* '''Combine Operations:''' 8-car trains from Aizawa and Kii arrive on the same track, couple on the platform, and depart as a 16-car train to Shinagawa
+
+This configuration maximizes platform efficiency and allows direct through-services between all three lines without requiring passengers to change trains at Toyozawa.
+
+==Conventional Rail Network==
+Beyond the Shinkansen, OR operates an extensive network of conventional railway lines totaling approximately {{Convert|17,392|km|abbr=on}}. These lines utilize the narrow {{RailGauge|1067mm}} gauge, a legacy of early railway development influenced by continental engineers from the [[Kingdom of Zong]].
+
+===Intercity and Limited Express Services===
+OR operates numerous limited express services (''tokkyū'') connecting major cities not served by the Shinkansen network. These trains, often named after natural features or historical references, provide comfortable long-distance travel at speeds up to {{Convert|130|km/h|mph|abbr=on}}. Notable limited express routes include:
+
+* '''Katsura:''' Connects Okami with coastal cities along the western Harujima seaboard
+* '''Shirakawa:''' Links Toyozawa with the southern Yagikoshu prefectures
+* '''Asuka:''' Premium commuter service between Aizawa and Minatojima
+
+===Commuter Rail===
+In major metropolitan areas, OR operates dense commuter networks that form the backbone of urban transportation:
+
+* '''Okami Commuter Network:''' 12 lines radiating from [[Okami Central Station]], serving over 8 million daily passengers
+* '''Toyozawa Urban Network:''' Integrates with the [[Toyozawa Metro]] at major interchange stations
+* '''Aizawa Metropolitan Network:''' Connects the Ishijima financial district with suburban residential areas
+
+These commuter networks are characterized by high-frequency service during peak hours, with trains operating at intervals as short as two minutes on the busiest corridors.
+
+===Freight Operations===
+[[OR Freight]] operates the nation's rail freight network, transporting approximately 40 million tonnes of cargo annually. Major commodities include automotive parts, industrial chemicals, and agricultural products. The freight division utilizes dedicated freight lines in urban areas and shares tracks with passenger services on rural routes during off-peak hours.
+
+The primary freight hub is the [[Okami Freight Terminal]], which handles 12 million tonnes annually. Secondary hubs include [[Aizawa Inland Port]] and [[Toyozawa Distribution Center]], both connected to container port facilities.
+
+==Major Stations and Terminals==
+OR operates 2,847 stations nationwide, ranging from unmanned rural halts to massive metropolitan terminals handling millions of passengers daily. The network's design emphasizes seamless transfers between Shinkansen, limited express, and commuter services.
+
+===Primary Termini===
+
+{| class="wikitable sortable"
+! Station
+! Prefecture
+! Daily Passengers<br/>(2024)
+! Lines Served
+! Notes
+|-
+| '''[[Okami Chuo Station]]'''
+| [[Okami Metropolis]]
+| align="right" | 4.2 million
+| Harujima Shinkansen<br/>12 conventional lines<br/>Okami Metro
+| National headquarters of OR Group; busiest station in Okaiken
+|-
+| '''[[Toyozawa Station]]'''
+| [[Toyozawa Metropolis]]
+| align="right" | 2.8 million
+| Harujima Shinkansen<br/>Ishijima Shinkansen<br/>Minami Yagikoshu Shinkansen
+| Central junction where all three Shinkansen lines converge; 10-track Y-junction configuration
+|-
+| '''[[Aizawa Station]]'''
+| [[Aizawa Prefecture]]
+| align="right" | 1.4 million
+| Ishijima Shinkansen<br/>5 conventional lines
+| Gateway to Ishijima; major terminus for western network
+|-
+| '''[[Shinagawa Station]]'''
+| [[Miyagi Prefecture]]
+| align="right" | 890,000
+| Harujima Shinkansen<br/>4 conventional lines
+| Northern terminus of Harujima Shinkansen; key intermodal hub
+|-
+| '''[[Mito Station]]'''
+| [[Mito Prefecture]]
+| align="right" | 620,000
+| Minami Yagikoshu Shinkansen<br/>3 conventional lines
+| Major interchange for southern Yagikoshu; historic railway town
+|-
+| '''[[Anjo-Saikawa Station]]'''
+| [[Okayama Prefecture]]
+| align="right" | 480,000
+| Harujima Shinkansen<br/>2 conventional lines
+| Important regional hub; site of OR Yagikoshu regional offices
+|-
+| '''[[Minatojima Station]]'''
+| [[Seto Prefecture]]
+| align="right" | 410,000
+| Ishijima Shinkansen<br/>4 conventional lines
+| Primary station for Seto industrial corridor
+|-
+| '''[[Kii Station]]'''
+| [[Kii Prefecture]]
+| align="right" | 285,000
+| Minami Yagikoshu Shinkansen<br/>2 conventional lines
+| Current southern terminus; gateway to Nankai region
+|}
+
+===Major Metropolitan Stations===
+In addition to the primary termini, OR operates significant stations in major urban centers:
+
+* '''Akita Station''' ([[Akita Prefecture]]): Serves the industrial heartland of northern Harujima with 1.1 million city population; major freight classification yard
+* '''Yamagata Station''' ([[Yamagata Prefecture]]): Key junction for western Harujima coastal routes
+* '''Tokuyama Station''' ([[Tokuyama Prefecture]]): Important intermediate stop on Harujima Shinkansen; population 965,000
+* '''Mie Station''' ([[Mie Prefecture]]): Political controversy site due to inland routing; serves 849,000 residents
+* '''Nagato Station''' ([[Nagato Prefecture]]): Southern gateway station; mountain resort terminus
+
+===Station Infrastructure===
+OR stations are classified into four categories based on passenger volume and operational complexity:
+
+# '''Class A (Special):''' 12 stations handling over 500,000 daily passengers; fully staffed with comprehensive facilities
+# '''Class A:''' 89 stations handling 100,000–500,000 daily passengers; staffed with limited express stops
+# '''Class B:''' 456 stations handling 10,000–100,000 daily passengers; variable staffing
+# '''Class C:''' 2,290 stations handling under 10,000 daily passengers; often unstaffed
+
+The Nakayama incident highlighted safety concerns at Class C stations, leading to accelerated installation of platform screen doors and emergency communication systems. As of 2026, 340 stations remain completely unstaffed, down from 890 in 2015.
+
+==Financial Structure==
+OR operates under a unique financial model that balances commercial viability with public service obligations. The company generates revenue through farebox collection, freight services, and non-railway businesses including real estate development at station complexes.
+
+===Funding and Investment===
+Capital investment is funded through a combination of operating revenues, government grants for socially necessary but unprofitable routes, and bond issuance backed by the National Pension Fund's stake. This arrangement allows OR to access capital markets at favorable rates while maintaining public accountability.
+
+In fiscal year 2023, OR reported consolidated revenues of ¥3.2 trillion and operating income of ¥420 billion. The Shinkansen network, particularly the Harujima line, generates the majority of operating profit, which subsidizes rural conventional lines.
+
+===Fare Structure===
+OR maintains a unified fare system across all regional companies, with base fares calculated by distance. The [[Oka-Pass]] smart card system, introduced in 2001, is accepted on all OR trains and integrates with municipal transit systems in Okami, Toyozawa, and Aizawa. Discounted commuter passes and tourist-oriented rail passes contribute to ridership growth.
+
+==Labor Relations==
+OR employs approximately 145,000 workers across its regional companies. Since the 1987 restructuring, labor relations have remained generally stable, a marked improvement from the turbulent ONR era.
+
+===Union Structure===
+The primary labor organization is the [[Okaiken Railway Workers' Union]] (ORWU), which represents approximately 70% of eligible employees. The ORWU negotiates centrally with the OR Group Directorate for wage agreements, ensuring parity across regional companies. A smaller rival union, the [[Sanese Railway Employees' Association]], represents managerial staff and supports cooperative labor-management relations.
+
+===Workforce Modernization===
+OR has invested heavily in workforce training and automation to address demographic challenges posed by Okaiken's aging population. Recruitment programs target engineering graduates and technical specialists, while retraining initiatives help existing employees adapt to new technologies including automated train operations and predictive maintenance systems.
+
+==Safety Record==
+OR has historically maintained a strong safety record, with no passenger fatalities due to train collisions or derailments on the Shinkansen network in the company's history. However, the organization faced its most severe crisis in March 2026 when operational failures at a rural station exposed critical vulnerabilities in one-man train operations.
+
+===Nakayama Station Dragging Incident (2026)===
+{{main|Nakayama Station dragging incident}}
+On March 1, 2026, at approximately 07:31 local time, a fatal accident occurred at [[Nakayama Station]] in [[Okayama Prefecture]], when 17-year-old high school student Kenta Yamashita was dragged approximately 400 meters beneath a [[OR Yagikoshu]] commuter train and killed.
+
+The incident occurred on the rural [[Okayama Line]], which operates under a ''wanman'' (one-man) system where the driver performs both train operation and fare collection duties. According to the subsequent investigation, the train's driver had become distracted by personal smartphone use during a scheduled two-minute station stop. When Yamashita's backpack became caught in the closing doors, the driver failed to conduct the required visual confirmation of platform clearance before departure, instead relying solely on the dashboard indicator panel which showed doors as "closed."
+
+[[File:Nakayama Station Platform.jpg|thumb|left|250px|The unstaffed platform at Nakayama Station, where the March 2026 dragging incident occurred. The station lacks platform screen doors and operates without station staff.]]
+The victim was dragged through an unstaffed station and a level crossing before the emergency cord was pulled by passengers. He was pronounced dead at the scene from catastrophic injuries. The incident sparked immediate public outrage, particularly when OR's initial press conference appeared to emphasize schedule maintenance over passenger safety.
+
+====Aftermath and Political Crisis====
+The Nakayama incident triggered the most significant crisis in OR's history. Within days, public anger catalyzed into what became known as the {{nihongo|"March Maelstrom"|三月の渦|Sangatsu no Uzu}}, a political storm that ultimately led to the collapse of the [[Honda Shigetsuma]] government.
+
+The crisis exposed systemic issues within OR's operational culture:
+* '''One-man operations:''' Over 60% of OR's conventional lines operated without conductors, with drivers solely responsible for passenger safety
+* '''Schedule pressure culture:''' Internal documents revealed drivers faced disciplinary action for delays exceeding 90 seconds
+* '''Cost-cutting measures:''' Platform staffing had been reduced by 40% since 2010, leaving many rural stations unstaffed
+* '''Door sensor limitations:''' The door sensors could detect obstructions larger than 10mm, but could not distinguish between a caught backpack strap and normal door closure
+
+On March 7, 2026, the [[Okaiken Railway Workers' Union]] (ORWU) launched the first general strike in OR's history, halting 85% of conventional services nationwide. The strike lasted 12 days, causing an estimated ¥450 billion in economic losses. The strike ended only after the government agreed to a comprehensive safety reform package and the resignation of OR's President, Masahiro Taniguchi.
+
+In the political fallout, Prime Minister Honda Shigetsuma's coalition lost its majority in the June 2026 general election, with the opposition [[Okaiken Innovation Party]] forming a new government on a platform of infrastructure reform.
+
+====Safety Reforms====
+Following the incident, OR implemented sweeping changes:
+* '''Mandatory platform inspections:''' All trains now require drivers to visually confirm platform clearance before departure at unstaffed stations
+* '''Enhanced door sensors:''' New sensor systems installed on all conventional rolling stock capable of detecting obstructions as thin as 3mm
+* '''Platform screen doors:''' A ¥800 billion program to install platform screen doors at all unstaffed stations by 2032
+* '''Conductor restoration:''' 4,500 conductor positions restored to lines serving more than 5,000 daily passengers
+* '''Fatigue management:''' Maximum consecutive driving hours reduced from 8 to 6 hours with mandatory rest periods
+
+===Other Incidents===
+While the Nakayama incident represents OR's most severe operational failure, other incidents have occurred:
+
+* '''2004 Minami Earthquake Derailment:''' During the October 23, 2004 earthquake, a ''Hayate'' train on the Minami Yagikoshu Shinkansen derailed near Kurosaki Station. There were no casualties among the 154 passengers, and the incident led to enhanced earthquake detection and automatic braking systems.
+* '''2015 Aizawa Level Crossing Collision:''' A freight train collided with a truck at a level crossing in Aizawa Prefecture, killing the truck driver. The incident prompted accelerated grade separation projects in urban areas.
+* '''Level Crossing Accidents:''' The majority of rail-related fatalities occur at level crossings on conventional lines, typically involving vehicles or pedestrians. OR has an ongoing program to eliminate grade crossings through grade separation projects, with 2,400 crossings eliminated between 2010 and 2025.
+
+===Earthquake Preparedness===
+Given Okaiken's seismic activity, all OR lines are equipped with early earthquake detection systems that can bring trains to a controlled stop before major ground motion arrives. The Shinkansen network employs particularly sophisticated systems capable of detecting P-waves and triggering emergency braking within seconds.
+
+Following the 2004 derailment, OR installed the {{nihongo|UrEDAS|緊急地震検知警報システム}} system across all Shinkansen lines, which provides an average of 8–12 seconds warning before major ground motion. This system successfully prevented derailments during subsequent earthquakes in 2011 and 2019.
+
+==Rolling Stock==
+OR operates a diverse fleet of rolling stock across its Shinkansen and conventional networks. Following the 2026 Nakayama incident, all conventional rolling stock is being retrofitted with enhanced door sensors and emergency communication systems.
+
+===Shinkansen Fleet===
+
+{| class="wikitable"
+! Series
+! Operator
+! Service
+! Max Speed
+! Introduction
+! Fleet Size
+! Notes
+|-
+| '''[[H200 Series]]'''
+| OR Harujima
+| Nozomi
+| {{convert|320|km/h|mph|abbr=on}}
+| 2016
+| 48 sets (16-car)
+| Flagship fleet; active suspension; introduced for Tokyo Olympics bid
+|-
+| '''[[H100 Series]]'''
+| OR Harujima
+| Nozomi/Nanpu
+| {{convert|300|km/h|mph|abbr=on}}
+| 2008
+| 92 sets
+| Workhorse fleet; being phased out in favor of H200
+|-
+| '''[[H50 Series]]'''
+| OR Harujima
+| Hikari
+| {{convert|285|km/h|mph|abbr=on}}
+| 1999
+| 65 sets
+| Remaining units on all-stations services
+|-
+| '''[[I50 Series]]'''
+| OR Ishijima
+| Hayate
+| {{convert|260|km/h|mph|abbr=on}}
+| 2011
+| 24 sets (10-car)
+| Features pressurized cabin for tunnel transit
+|-
+| '''[[I30 Series]]'''
+| OR Ishijima
+| Yamabiko
+| {{convert|240|km/h|mph|abbr=on}}
+| 2000
+| 38 sets
+| Undergoing mid-life refurbishment
+|-
+| '''[[I20 Series]]'''
+| OR Yagikoshu
+| Hayate/Tsugaru
+| {{convert|260|km/h|mph|abbr=on}}
+| 2002
+| 42 sets (8-car)
+| Primary fleet for Minami Yagikoshu; extended for Aomori services
+|-
+| '''[[Y400 Series]]'''
+| OR Yagikoshu
+| Tsugaru
+| {{convert|240|km/h|mph|abbr=on}}
+| 1992
+| 18 sets
+| Oldest Shinkansen fleet; scheduled retirement 2028
+|}
+
+===Conventional Fleet===
+OR's conventional fleet comprises approximately 8,500 vehicles operating on narrow-gauge lines. Key series include:
+
+* '''[[2000 Series]]''' (1995–present): Workhorse commuter trains on urban networks; 2,400 cars in service
+* '''[[2500 Series]]''' (2008–present): Modern commuter trains with enhanced accessibility features; 1,200 cars in service
+* '''[[KiHa 100 Series]]''' (1990–present): Diesel multiple units for non-electrified rural lines; 450 cars in service
+* '''[[3500 Series]]''' (2018–present): Latest generation limited express trains; 180 cars in service
+* '''[[KiHa 200 Series]]''' (2020–present): Replacement diesel fleet for rural lines; under procurement
+
+Following the Nakayama incident, all conventional rolling stock manufactured before 2010 is being retrofitted with:
+* Enhanced door sensors capable of detecting 3mm obstructions (previously 10mm)
+* Emergency intercoms accessible from platform level
+* Cabin cameras for driver monitoring
+
+===Freight Fleet===
+[[OR Freight]] operates approximately 500 locomotives and 8,000 freight cars:
+
+* '''[[EH500 Class]]''' (2000–present): Dual-voltage electric locomotives for mainline freight; 180 units
+* '''[[DF200 Class]]''' (1994–present): Diesel locomotives for non-electrified routes; 120 units
+* '''[[M250 Series]]''' (2002–present): Electric freight multiple units for high-speed parcel services; 40 sets
+
+===Depot Facilities===
+Major maintenance depots are located at:
+* '''Okami Works:''' Primary Shinkansen heavy maintenance facility
+* '''Aizawa Works:''' Ishijima regional maintenance center
+* '''Toyozawa Works:''' Central inspection facility for all Shinkansen lines
+* '''Akita Works:''' Conventional fleet maintenance for northern Harujima
+
+==International Connections==
+OR maintains operational links with neighboring railway systems:
+
+===Yanbaru Railways===
+Through the [[Yomitan Treaty]] framework, OR coordinates with [[Yanbaru Railways]] on cross-border services. The primary connection point is the [[Shinagawa–Yomitan Ferry Terminal]], where passengers can transfer to Yanbarun trains serving the northern archipelago. Joint ticketing arrangements allow seamless travel between Okami and Yomitan.
+
+===Zong State Railways===
+Historical ties with [[Zong]] continue through technical cooperation agreements. OR provides consulting services for Zong's high-speed rail projects, while Zong exports rolling stock components to Okaiken. 
+
+==Technology and Innovation==
+OR has been at the forefront of railway technology since the Shinkansen's introduction in 1966.
+
+===Signaling and Control===
+All OR lines utilize the [[Automatic Train Control]] (ATC) system, which automatically applies brakes if a train exceeds permitted speed. The Shinkansen network employs an advanced digital ATC system capable of controlling train spacing to within 90 meters at maximum speed.
+
+Since 2015, OR has been implementing [[Communications-Based Train Control]] (CBTC) on urban commuter lines, allowing for closer train spacing and increased capacity. The Okami Commuter Network was fully converted to CBTC in 2022, increasing peak-hour capacity by 15%.
+
+===Ticketing Systems===
+The [[Oka-Pass]] smart card system, introduced in 2001, is accepted on all OR trains and integrates with municipal transit systems in Okami, Toyozawa, Aizawa, and 47 other cities. Over 85 million cards have been issued, making it one of the most widely used transit cards in Adonia.
+
+In 2019, OR introduced mobile Oka-Pass functionality, allowing passengers to use smartphones for fare payment. As of 2025, 62% of fare transactions are conducted via mobile devices.
+
+===Environmental Initiatives===
+OR has committed to carbon neutrality by 2040. Key initiatives include:
+* '''Electrification expansion:''' 94% of track kilometers are electrified, with the remaining 6% served by hybrid diesel-electric units
+* '''Solar power generation:''' Solar panels installed on station rooftops and depot facilities generate 180 MW, approximately 15% of OR's electricity consumption
+* '''Regenerative braking:''' All Shinkansen and modern conventional trains recover braking energy, feeding it back into the power grid
+
+==Timeline of Key Events==
+{| class="wikitable"
+! Year
+! Event
+|-
+| 1949 || [[Okaiken National Railways]] (ONR) established as public corporation
+|-
+| 1956 || First electrified trunk line completed (Okami–Tokuyama)
+|-
+| 1966 || [[Harujima Shinkansen]] opens; first high-speed rail in Adonia
+|-
+| 1972 || Network reaches peak extent of 24,500 km
+|-
+| 1980 || ONR debt reaches ¥28 trillion
+|-
+| 1982 || [[Ishijima Shinkansen]] opens
+|-
+| 1984 || [[Minami Yagikoshu Shinkansen]] opens to Mito
+|-
+| 1987 || ONR reorganized into Okaiken Railways (OR) Group
+|-
+| 1993 || Minami Yagikoshu Shinkansen extended to Kii
+|-
+| 2001 || Oka-Pass smart card system introduced
+|-
+| 2004 || Hayate train derails during earthquake; no casualties
+|-
+| 2015 || Aizawa level crossing collision; truck driver killed
+|-
+| 2016 || H200 Series Shinkansen enters service on Harujima line
+|-
+| 2026 || Nakayama Station dragging incident; national strike; political crisis
+|-
+| 2035 || Minami Yagikoshu Shinkansen extension to Aomori (projected)
+|}
+
+==Logo and branding==
+The corporate identity of Okaiken Railways (OR) is anchored by its distinctive and bold logomark. The primary color utilized is a deep red—the national color—which imbues the mark with a sense of official authority, stability, and robustness appropriate for the country's national carrier.
+
+The design itself is a stylized, geometric ligature of the letters "O" and "R". The seamless connection between the circular left side and the arching right side suggests unity and a continuous, uninterrupted transportation network across [[Okaiken]]. The design also conveys a strong sense of forward momentum; the diagonal, outward-sweeping leg of the "R" implies speed and progress.
+
+Furthermore, the abstract geometry incorporates clever railway imagery. The thick circle of the "O" with its central negative space strongly resembles a train wheel or bogie, while simultaneously evoking the perspective of looking into a tunnel.
+
+Perhaps the most significant design element is its homage to railway heritage. The bold, abstract silhouette cleverly captures the form of a classic [[steam locomotive]] in motion. The "O" section represents the front boiler plate and driving wheel, the arching top of the "R" suggests the boiler tank of an old streamliner like the [[Nanpu (train)|Nanpu]] , and the diagonal leg mimics the front [[cowcatcher]]. This design choice effectively bridges the gap between the Empire's historical foundation in rail transport and its modern, future-facing infrastructure.
+
+==See also==
+* [[Transport in Okaiken]]
+* [[Okami Metro]]
+* [[Shinkansen]]
+* [[Harujima Shinkansen]]
+* [[Ishijima Shinkansen]]
+* [[Minami Yagikoshu Shinkansen]]
+* [[Okaiken National Railways]] – predecessor (1949–1987)
+* [[List of railway lines in Okaiken]]
+* [[List of OR locomotives and rolling stock]]
+* [[Rail transport in Okaiken]]
+* [[State-owned enterprises of Okaiken]]
+
+{{Okaiken Rail Transport}}
+
+[[Category:Okaiken Railways]]
+[[Category:Railway companies of Okaiken]]
+[[Category:Government-owned companies]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

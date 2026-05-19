@@ -1,0 +1,67 @@
+{{Basis}}
+
+This is a '''list of legislatures on Basis by number of members'''. Non-sovereign entities and unrecognized states are marked in ''italics''.
+
+== Lists ==
+
+{{Static row numbers}}
+{{sort under}}
+{| class="wikitable sortable static-row-numbers sort-under-center" style="text-align:right;"
+! rowspan="2" |Country
+! rowspan="2" |Legislature
+! rowspan="2" |Type
+! colspan="4" |Seats
+! colspan="3" |Population ({{abbr|2440|2027 (Earth Year Equivalent)}})
+|- class="static-row-header"
+! width="70" |Lower house !! width="70" |Upper house !! width="90" |L/U ratio 
+!Total!! country
+! width="90" |per 1 lower house seat
+! per each of total seats
+|-
+| align="left" | {{flag|Geno}}
+| align="left" | [[Transhumanist Congress of Geno]]
+| unicameral
+| {{nts|350}}
+| — 
+| — 
+| {{nts|350}}
+| 83,208,737
+| {{nts|237740}}
+| {{nts|237740}}
+|-
+| align="left" | {{flag|Haynadur}}
+| align="left" | [[Parliament of Haynadur]] 
+| bicameral 
+| {{nts|250}}
+| {{nts|50}} 
+| {{nts|5}}
+| {{nts|300}}
+| 33,346,122
+| {{nts|133385}}
+| {{nts|111154}}
+|-
+| align="left" | {{flag|Qym}}
+| align="left" | [[Royal Consultative Assembly]] 
+| unicameral 
+| {{nts|200}}
+| — 
+| — 
+| {{nts|200}}
+| 162,359,580
+| {{nts|811798}}
+| {{nts|811798}}
+|-
+| align="left" | {{flag|Kibabi}}
+| align="left" | [[Parliament of Kibabi]] 
+| bicameral 
+| {{nts|71}}
+| {{nts|23}}
+| {{nts|3.087}}
+| {{nts|94}}
+| 8,738,279
+| {{nts|123075}}
+| {{nts|92961}}
+|-
+|}
+
+[[Category:Basis]]

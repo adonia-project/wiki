@@ -1,0 +1,149 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Imaichi Line
+| image = Okami Metro Imaichi line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series80-01.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 80 series|80 series]] linear motor train at [[Taishibashi-Imaichi Station]].
+| native_name = 今市線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 8
+| stations = 11
+| ridership = 450,000 (FY2025)
+| began_operation = {{start date and age|2006|12|24|df=y}}
+| system_length = {{cvt|11.9|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{1500 V DC|conductor=overhead}}
+| map = [[File:Okami Metro Imaichi Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Imaichi Line'''|今市線|Imaichi-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It functions as a strategic connector line, linking the southern commercial hub of [[Ebisu-Miyoshi Station|Ebisu-Miyoshi]] with the northeastern residential districts of [[Itakano-Kita Station|Itakano-Kita]]. On system maps, the line is color-coded light brown ({{Okami Metro color|I}}), and its stations use the prefix "I".
+
+Like the [[Nagata Line]], the Imaichi Line utilizes Linear Motor propulsion. This technology allows the line to utilize smaller tunnels and navigate the sharp turns required to thread through the already developed underground infrastructure of central and eastern Okami. It serves as a vital bypass, connecting multiple radial lines (Miyoshi, Chūō, Nagata, Kita) without requiring passengers to pass through the overcrowded [[Okami Central Station]].
+
+
+
+==History==
+The Imaichi Line is one of the newest additions to the Okami Metro network. Planned in the late 1990s as the "Eastern Corridor Rail Link," it was designed to address the "railway vacuum" in the eastern wards of [[Higashinari Ward, Okami|Higashinari]] and [[Asahi Ward, Okami|Asahi]].
+
+Construction began in 2000, employing deep-bore tunneling techniques. The entire 11-station line opened simultaneously on December 24, 2006. Since its opening, it has spurred significant residential redevelopment in the [[Itakano]] area, transforming it from a quiet outskirt into a bustling commuter bed-town.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* Stops: All trains stop at all stations (Local service only).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|I}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|I}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|I}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|I}};" | Distance (km)
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|I}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|I}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|I}};" | Between<br>Stations
+! style="border-bottom:3px solid #{{Okami Metro color|I}};" | Total
+|-
+| {{OMSN|I|01}}
+| [[Ebisu-Miyoshi Station|Ebisu-Miyoshi]]
+| 恵比寿三好
+| -
+| 0.0
+| {{rint|okami|M}} [[Miyoshi Line]] (M16)
+| [[Naniwa Ward, Okami|Naniwa]]
+|-
+| {{OMSN|I|02}}
+| [[Sakaisuji-Honmachi Station|Sakaisuji-Honmachi]]
+| 堺筋本町
+| 1.8
+| 1.8
+| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C08)<br>{{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z11)<br>{{rint|okami|A}} [[Asahi Line]] (A07)
+| [[Chuo Ward, Okami|Chuo]]
+|-
+| {{OMSN|I|03}}
+| [[Morinomiya-North Station|Morinomiya-North]]
+| 森ノ宮北
+| 1.5
+| 3.3
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]] (via Morinomiya)
+| rowspan="2" | [[Higashinari Ward, Okami|Higashinari]]
+|-
+| {{OMSN|I|04}}
+| [[Midoribashi-Oike Station|Midoribashi-Oike]]
+| 緑橋御池
+| 1.1
+| 4.4
+| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C11)
+|-
+| {{OMSN|I|05}}
+| [[Shigino-West Station|Shigino-West]]
+| 鴫野西
+| 1.2
+| 5.6
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami East Line]]<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Gakkentoshi Line]]
+| rowspan="3" | [[Joto Ward, Okami|Joto]]
+|-
+| {{OMSN|I|06}}
+| [[Gamo-Yonchome Station|Gamo-Yonchome]]
+| 蒲生四丁目
+| 1.0
+| 6.6
+| {{rint|okami|N}} [[Nagata Line]] (N05)
+|-
+| {{OMSN|I|07}}
+| [[Sekime-Takadono Station|Sekime-Takadono]]
+| 関目高殿
+| 1.1
+| 7.7
+| {{rint|okami|K}} [[Hitotsubashi Line]] (H06)<br>{{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Main Line (via Sekime)
+|-
+| {{OMSN|I|08}}
+| [[Shimizu-Park Station|Shimizu-Park]]
+| 清水公園
+| 1.0
+| 8.7
+|
+| rowspan="3" | [[Asahi Ward, Okami|Asahi]]
+|-
+| {{OMSN|I|09}}
+| [[Taishibashi-Imaichi Station|Taishibashi-Imaichi]]
+| 太子橋今市
+| 1.2
+| 9.9
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (via [[Sembayashi-Omiya Station|Sembayashi-Omiya]] tunnel connection)
+|-
+| {{OMSN|I|10}}
+| [[Zuiko-Chome Station|Zuiko-Chome]]
+| 瑞光丁目
+| 0.9
+| 10.8
+|
+|-
+| {{OMSN|I|11}}
+| [[Itakano-Kita Station|Itakano-Kita]]
+| 井高野北
+| 1.1
+| 11.9
+| {{rint|okami|bus}} Okami Municipal Bus (Itakano Depot)
+| [[Higashiyodogawa Ward, Okami|Higashiyodogawa]]
+|}
+
+==Rolling Stock==
+* [[Okami Metro 80 series|80 series]] (4-car sets):
+*: The sole rolling stock for the Imaichi Line. These trains utilize linear induction motor (LIM) propulsion, drawing power from a 1,500 V DC overhead catenary. The 80 series is distinct from the 70 series used on the [[Nagata Line]] due to its more angular front profile and light brown color scheme. The interiors are designed with universal design principles, featuring lower handstraps and dedicated wheelchair spaces in every car.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Linear motor railways]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

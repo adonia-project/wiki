@@ -1,0 +1,39 @@
+{{Infobox station
+|name=Olympic Sports Center
+|symbol_location=
+|symbol=
+|symbol2=
+|type=[[Castejón Metro]] station
+|image=[[File:Olympic Sports Center Station.jpg|300px]]
+|alt=|caption=|other_name=
+|address=[[Zafarraya]], [[El Capitán]]
+|borough=[[Castejón Metropolis]]
+|country=[[Balisca]]
+|coordinates=
+|owned=
+|operator={{ric|Castejón Metro|name=y}}
+|line={{CMLS|SA}} {{lnl|Castejón Metro|SA}}
+|zone=3
+|opened={{start date and age|2019|5|12|df=yes}}
+|closed=<!-- {{End date|YYYY|MM|DD|df=y}} -->
+|former=
+|services={{s-rail|title=Castejón Metro}}
+{{rail line|col=00aaab
+|route=[[Castejón Metro Sagrajas Line| Sagrajas Line]]
+|previous=[[Zafarraya Station|Zafarraya]] {{br}} toward {{br}} [[Jauca Station|Jauca]]|next=[[Amaya Station|Amaya]]<br>toward<br>[[Calatayud Station|Calatayud]]
+}}
+|map_type=
+|style=Castejón Metro
+|structure=Underground
+|transit_authority=[[Castejón Metropolitan Transit Authority]]
+|parking=No vehicular parking
+|accessible=Yes (incl. wheelchair ramps, {{W|elevator}}s, [[Baliscano]] braille signage)
+|bicycle=Yes (underground parking facilities)
+}}
+
+'''Olympic Sports Center''' ({{Langx|bl|Centro Deportivo Olímpico}}) is an underground [[W:Metro station|station]] of the [[Castejón Metro]] serving the [[Olympic Sports Center (Castejón)|eponymous district]] on the [[Castejón Metro Sagrajas Line|Sagrajas]] line, located in the [[El Capitán]] borough of the [[Castejón Metropolis]]. 
+
+{{Castejón}}{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Castejón]]
+[[Category:Castejón Metro]]

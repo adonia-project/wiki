@@ -1,0 +1,36 @@
+{{Infobox station|name=Jatiel West|native_name=|native_name_lang=|symbol_location=|symbol=|style=BR Central|type=|image=[[File:Jatiel West Station.png|290px]]|alt=|caption=The station in September 2025|address=|borough=[[Jatiel]], [[Luzamontaña]]|country=Balisca|map_type=|map_alt=<!-- Alternative map file name (changes background map, border coordinates are determined based on the map name); this is only recommended for use in templates. -->|map_overlay=<!-- Overlay image file name, to be placed on top of the main map. Should have the same border coordinates. -->|map_caption=|owned={{ric|Transatlántida|name=g}}|operator={{Plainlist|
+*[[Baliscan Railways Group|Transatlántida]]
+*[[Jatiel Metro]]
+}}|line=<div>
+* [[Porciúncula–Jatiel high-speed rail line|Porciúncula–Castejón–Jatiel HSR]]
+* [[Daramazán–Jatiel high speed rail line|Daramazán-Axarquía–Jatiel HSR]]
+* [[North Ethiopian Railway|Etiopik Norte]] 
+** [[Alsukhour Line|Alsukhour]]
+</div>|distance=|platforms='''13''' (1 side platform, 12 [[island platform]]s (3 elevated, 2 at-grade and 7 underground)|tracks=25 (all {{W|standard gauge}})|levels=4|train_operators=|connections=|structure=Underground|parking=Yes, parking for loading/unloading and services vehicles only|bicycle=|architect=|status=Active|code=JEO|zone=|website=|opened={{Start date|2025|02|12|df=y}}|closed=<!-- {{End date|YYYY|MM|DD|df=y}} -->|passengers=|pass_year=|pass_rank=|services={{s-rail|title=AVB}}
+{{rail line|col=F04A00|route=''[[Porciúncula–Jatiel high-speed rail line|Direto]]''|previous=''[[Yerba Buena railway station|Yerba Buena]]''<br>toward<br>''[[Coruxón station| Castejón-Coruxón]]''|next=''Terminus''
+}}
+{{rail line|col=93e074|route=''[[Daramazán–Jatiel high speed rail line|Gran Sur]]''|previous=''[[Carabassa station|Carabassa]]''<br>toward<br>''[[Almocatén station| Almocatén]]''|next=''Terminus''
+}}
+
+{{s-rail|title=South Atlantic Railway{{!}}Atlántico Sur}}
+{{rail line|col=F4DA40 |route=''[[Alsukhour Line|Alsukhour]]''|previous=''[[Gibraleón station| Gibraleón]]'' {{br}} toward {{br}} ''[[La Mancha station| La Mancha]]'' |next=''[[Trafalgar station|Trafalgar]]''<br>toward<br>''[[Adobes station|Adobes]]''
+}}|accessible=Yes, (incl. wheelchair ramps, [[Baliscano]] braille signage, elevators)}}
+
+'''Jatiel West railway station''' ({{Langx|mxi|خَاتِيِيلْ إِسْتَاثِيُونْ وُإِيسْتِي|H̱atiel Estazióń Oéste}}) is a major through [[W:Train station|station]] recently completed in the [[Arrabád, Jatiel|Arrabád]] barrio of [[Jatiel]], [[Luzamontaña]]. It is intended to serve as the primary station for northern and western Jatiel, relieving strain at [[Jatiel Central station]]. 
+
+It is built to be a major public transport hub, with dedicated stations on [[Jatiel Metro]] lines [[Line 1 (Jatiel Metro)|1]], [[Line 4 (Jatiel Metro)|4]] and [[Line 8 (Jatiel Metro)|8]], as well as a [[W:Bus station|bus station]]. The complex is one of the largest in Balisca, incorporating a sprawling [[W:Food hall|food hall]], capsule hotels, a movie theater, a [[W:Don Quijote (store)|Don Quijote]] store, and several local government facilities under one roof. 
+
+== Lines ==
+
+== Station layout ==
+
+=== Jatiel Metro ===
+
+== See also ==
+{{Castejón}}
+
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Jatiel]]
+[[Category:AVB]]
+[[Category:Luzamontaña]]

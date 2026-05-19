@@ -1,0 +1,71 @@
+{{Basis}}
+{{Under construction |placedby=MyNameJuls |section= |nosection= |nocat= |notready= |comment=FOR PROJECT BASIS ~ NAME SUBJECT TO CHANGE |category= |altimage= |notify= }}
+{{Infobox continent
+|title               = Pahari
+|image               = [[File:Location Pahari.svg|220px]]
+|area                = {{convert|1|km2|sqmi|abbr=on}}
+|population          = 1 ({{abbr|2440|2027 (Earth Year Equivalent)}}, [[List of continents by population|?th]])
+|density             = {{convert|1|/km2|/sqmi|abbr=on}}
+|demonym             = [[Ethnic groups in Pahari|Paharian]]
+|countries           = TBD countries
+|list_countries      = List of Paharian countries
+|dependencies        = [[List of Paharian countries#Dependent territories|TBD dependencies]]
+|languages           = [[Languages of Pahari|TBD languages]]
+|time                = [[TBD]]
+|internet            = [[.pahari]]
+|cities              = [[List of the largest cities in Pahari|List of urban areas]]
+}}
+
+'''Pahari''' is a continent on [[Basis]]. 
+
+==Etymology==
+
+==History==
+{{Main|History of Pahari}}
+
+===Chronology===
+*Stone Age (before {{abbr|8000 BCE|6646 BCE (Earth Year Equivalent)}}): Early humans arrive (or were already there?)
+*Neolitic (c. {{abbr|8000 BCE|6646 BCE (Earth Year Equivalent)}} – {{abbr|5000 BCE|4153 BCE (Earth Year Equivalent)}}): Early farming societies emerge in [[Ancient Haynadur]] and [[OTHER CIV]]. 
+*Copper Age (c. {{abbr|5000 BCE|4153 BCE (Earth Year Equivalent)}} – {{abbr|2400 BCE|1994 BCE (Earth Year Equivalent)}}): TBD
+*Bronze Age (c. {{abbr|2400 BCE|1994 BCE (Earth Year Equivalent)}} – {{abbr|1000 BCE|831 BCE (Earth Year Equivalent)}}): TBD
+*Iron Age (c. {{abbr|1450 BCE|1205 BCE (Earth Year Equivalent)}} – {{abbr|350 BCE|291 BCE (Earth Year Equivalent)}}): [[Sunneism]] emerges in [[Haynadur]]. 
+*Antiquity (c. {{abbr|350 BCE|291 BCE (Earth Year Equivalent)}} – {{abbr|900 BCE|748 BCE (Earth Year Equivalent)}}): TBD
+*Middle Ages (c. {{abbr|900 BCE|748 BCE (Earth Year Equivalent)}} – {{abbr|1800|1495 (Earth Year Equivalent)}}): TBD
+*Post-medieval period (c. {{abbr|1800|1495 (Earth Year Equivalent)}} – c. {{abbr|2200|1828 (Earth Year Equivalent)}}): TBD
+*Industrial/Modern (c. {{abbr|2200|1828 (Earth Year Equivalent)}} – Present): TBD
+
+==Geography==
+===Main regions===
+
+===Climate===
+
+==Politics==
+
+==List of states and territories==
+{| class="sortable wikitable"
+! style="line-height:95%; width:2em" class="unsortable" scope="col" | Symbol
+! style="line-height:95%; width:2em" class="unsortable" scope="col" | Flag
+! Name
+! [[List of countries by population|Population]]<br />({{abbr|2440|2027 (Earth Year Equivalent)}})
+! [[List of countries and dependencies by area|Area]]<br />(km<sup>2</sup>)
+! Capital
+|-
+| style="text-align:center;"| [[File:Coat of arms of Haynadur.png|20px|link=Coat of arms of Haynadur|alt=Emblem]]
+| style="text-align:center;"| {{Linkflag|Haynadur|link=Flag of Haynadur}}
+| [[Haynadur]]
+| style="text-align:right;"| 33,346,122
+| style="text-align:right;"| 1
+| [[Nirjana]]
+|-
+|}
+
+==Economy==
+==Demographics==
+===Languages===
+===Religions===
+Predominantly [[Sunneism]] (?)
+
+==Culture==
+==See also==
+
+[[Category:Pahari]][[Category:Basis]][[Category:MyNameJuls]]

@@ -1,0 +1,172 @@
+{{About|the currency|the commune within the Castejón Metropolis|Sol}}{{Infobox currency
+| name = Baliscan sol
+| name_abbr = Sol
+| currency_name_in_local = 
+| image_1 = Baliscan sol grid (horizontal).png
+| image_width_1 = 250px
+| image_title_1 = 2024 edition banknotes
+| iso_code = SOL
+| using_countries = {{flag|Balisca}} <br> {{flagicon image|True North Flag.svg|Baliscan Arktici}} [[Baliscan Arktici|Arktici]]
+| unofficial_users = 
+| inflation_rate = 1.5% (2020)
+| inflation_source_date = 
+| value = 1 USD = S/1.33<br> 1 EUR = S/1.29<br>1 CNY = S/0.19<br>1 GBP = S/1.39 <br> {{small|    (31 December 2025)}}
+| pegged_with = 
+| subunit_ratio_1 = 1/00
+| subunit_name_1 = centésimo
+| symbol = S/
+| plural = Sol
+| plural_subunit_1 = 
+| rarely_used_banknotes = S/200, S/500, S/1000
+| used_coins = 1c, 5c, 10c, 20c, 50c, S/1, S/2
+| used_banknotes = S/1, S/2, S/5, S/20, S/50, S/100, S/200, S/500
+| frequently_used_banknotes = S/5, S/10, S/20, S/50, S/100
+| frequently_used_coins = 10c, 50c, S/1|1, S|2
+| nickname = [[w:Solidus (coin)|Solidus]], Sun
+| banknote_article = Banknotes of the Sol
+| coin_article = Coins of the Sol
+| date_of_introduction = 12 July 1821
+| issuing_authority = [[Bank of Balisca]]
+| issuing_authority_website = 
+| printer = 
+| mint = [[Baliscan Mint]]
+| mint_website = 
+}}
+{{Economy of Balisca}}
+
+The '''Baliscan sol''' ({{IPA-bl|sol}}; [[wikipedia:Currency sign|currency sign]]: '''S/''', [[wikipedia:ISO 4217|code]]: '''SOL'''; also abbreviated '''SL''') is the official currency of the [[Balisca|Baliscan Confederation]]. It is subdivided into 100 centésimo. In line with Balisca's cooperative economic model, the sol is not a freely-traded international currency. The Confederal Banking Union maintains a policy of strict [[W:Capital controls|capital controls]] designed to insulate the domestic economy from global financial market speculation. This policy ensures the sol's value remains tied to Balisca's real productive economy rather than [[W:Speculation|speculative trading]].
+
+Consequently, the Baliscan sol is one of the world's least-traded major currencies and is not held as a [[W:Reserve currency|reserve currency]] or portfolio asset by international traders. Its low volatility, a direct result of regulatory controls, makes it an unattractive target for the [[W:Foreign exchange market|foreign exchange]] (forex) market. [[W:International trade|International trade]] is primarily conducted through [[W:Bilateralism|bilateral agreements]] rather than the open market. The [[Confederal Banking Federation]] negotiates fixed exchange rates directly with the central or cooperative banks of its trading partners, particularly those in [[Abyala]] and [[Sudanese Kaftia]], to facilitate the exchange of goods and services while bypassing speculative currency markets.
+
+==History==
+==Coins==
+{|class="wikitable" style="font-size: 90%"
+|-
+!colspan="10"|Currently circulating coins
+|-
+!rowspan="2"| Image !!rowspan="2"| Value !!colspan="4"| Technical parameters !!colspan="3"| Description !!rowspan="2"| Date of first minting
+|-
+! Diameter !! Thickness !! Mass !! Composition !! Edge !! Obverse !! Reverse
+|- {{Coin-silver-color}}
+|  style="text-align:center; background:#000;"| [[Image:1SOLC.PNG|141px]]
+| 1c || 20&nbsp;mm || 1.2&nbsp;mm || 1&nbsp;g || 100% [[w:aluminium|aluminium]]
+| Smooth || [[TBA]] || TBA || TBD
+|- {{Coin-yellow-color}}
+|  style="text-align:center; background:#000;"| [[Image:5SOLC.PNG|141px]]
+| 5c || 22&nbsp;mm || 1.5&nbsp;mm || 3.75&nbsp;g || 60–70% [[w:copper|copper]]<br/>30–40% [[w:zinc|zinc]]
+| Smooth || [[TBA]] || TBA|| TBD
+|- {{Coin-copper-color}}
+|  style="text-align:center; background:#000;"| [[Image:10SOLC.PNG|141px]]
+| 10c || 25.5&nbsp;mm || 1.5&nbsp;mm || 4.5&nbsp;g || 95% [[w:copper|copper]]<br/>3–4% [[w:zinc|zinc]]<br/>1–2% [[w:tin|tin]]
+| [[w:reeding|Reeded]] || [[TBA]] || TBA || TBD
+|- {{Coin-copper-color}}
+|- {{Coin-silver-color}}
+|  style="text-align:center; background:#000;"| [[Image:20SOLC.PNG|141px]]
+| 20c || 21&nbsp;mm || 1.7&nbsp;mm || 4&nbsp;g || [[w:Cupronickel|Cupronickel]]<br/>75% [[w:copper|copper]]<br/>25% [[w:nickel|nickel]]
+|[[w:reeding|Reeded]] || [[TBA]] || [[TBA]] || TBD
+|- {{Coin-silver-color}}
+|  style="text-align:center; background:#000;"| [[Image:50SOLC.PNG|141px]]
+| 50c || 22.6&nbsp;mm || 1.7&nbsp;mm || 4.8&nbsp;g || [[w:Cupronickel|Cupronickel]]<br/>75% [[w:copper|copper]]<br/>25% [[w:nickel|nickel]]
+|[[w:reeding|Reeded]] || [[TBA]] || [[TBA]] || TBD
+|- {{Coin-silver-color}}
+|  style="text-align:center; background:#000;"| [[Image:1WSOLC.PNG|141px]]
+| S|1|| 26.5&nbsp;mm || 2&nbsp;mm || 7&nbsp;g || (Nickel-brass) 72% [[w:copper|copper]]<br/>20% [[w:zinc|zinc]]<br/>8% nickel
+| [[w:reeding|Reeded]] slantingly || [[TBA]] || TBA || TBD
+|- {{Coin-silver-color}}
+|  style="text-align:center; background:#000;"| [[Image:2SOLC.PNG|141px]]
+| S|2|| 26.5&nbsp;mm || 2&nbsp;mm || 7&nbsp;g || (Nickel-brass) 72% [[w:copper|copper]]<br/>20% [[w:zinc|zinc]]<br/>8% nickel
+| [[w:reeding|Reeded]] slantingly || [[TBA]] || TBA || TBD
+|- {{Coin-silver-color}}
+|}
+==Banknotes==
+[[File:500 sol banknote security ribbon.png|thumb|200px|The 2021 edition incorporated a security ribbon. The design also incorporates [[w:Braille|Baliscano Braille]] to aid people who are [[w:Visual impairment|visually impaired]] identify the notes.]]
+The issuance of the sol banknotes began in 1821, following the adoption of the [[Monetary Act of 1821|Monetary Act]] by the [[Congress of the Confederation]]. 
+
+Before and during the [[Baliscan Civil War]], various bodies across Balisca's provinces issued their own versions of the sol, including the [[Alessandria Central Bank]] and the [[First Confederal Bank]]. Following the Federalist victory, the right of provinces to print sol on their own authority was revoked, and since then the [[Bank of Balisca]] has been the exclusive note issuing authority. 
+
+The bank has issued thirteen new series since their introduction in 1821. The current series, Series 54.0, entered circulation on 8 January 2024, and consists of S/1, S/2, S/5, S/10, S|20, S|50, S/100, S/200, S/500 and S/1000 notes. Series 54.0 was developed in anticipation of the 200th Anniversary of the Monetary Act, with the theme "Celebrating Us". 
+
+The artwork depicted on the sol are selected through a yearly competition which allows artists to submit paintings they want to be displayed on the next year's mint, and are then voted on by the public through the [[Open Cabildo]]. The [[w:EURion constellation|EURion constellation]] pattern is present in each of the designs.
+
+{|class="wikitable"
+|-
+! colspan="8" | Series 54.0 (2024)
+|-
+!colspan="2"| Image !!rowspan="2"| Value !!rowspan="2"| Dimensions !!rowspan="2"| Main Color(s) 
+! colspan="2" |Description!! rowspan="2" | Date of issue
+|-
+! Obverse !! Reverse 
+!Obverse!! Reverse 
+|-
+|  style="text-align:center; background:#000;"|[[File:1 sol banknote (front).png|249x249px]]
+|  style="text-align:center; background:#000;"|[[File:1 sol banknote new (reverse).png|245x245px]]
+| S/1 || 82 × 160&nbsp;mm || Green/Yellow 
+|''A Llegada''  <br> ("The Arrival") <br> by [[Iñigo Rivera]]
+| ''La Tormenta se Aproxima'' <br> ("The Gathering Storm")
+
+by [[Iñigo Rivera]]
+| rowspan="10" | 8 January 2024
+|-
+|  style="text-align:center; background:#000;"|[[File:2 sol banknote front.png|110px]]
+|  style="text-align:center; background:#000;"|[[File:2 sol banknote reverse.png|110px]]
+| S/2 || 82 × 160&nbsp;mm || Blue/Purple 
+|''[[Casademunt Expedition|Espedición Casademunt]]'' <br> ("Casademunt Expedition") <br> by Álvaro Castellón
+|''Pirineos del Sur'' <br> ("Southern Pyrenees") <br> by Álvaro Castellón
+|-
+|  style="text-align:center; background:#000;"|[[File:5 sol banknote front.png|110px]]
+|  style="text-align:center; background:#000;"|[[File:5 sol banknote back.png|239x239px]]
+| S/5 || 82 × 160&nbsp;mm || Orange/Yellow 
+|''Carabassa'' <br> ("Pumpkins") <br> by [[Jacobo Al-Solaimán]]
+|''Els Rodamóns''  <br> ("The Vagabonds") <br> by Karim García
+|-
+|  style="text-align:center; background:#000;"| [[File:10 sol banknote front.png|110px]]
+|  style="text-align:center; background:#000;"| [[File:10 sol banknote reverse.png|110px]]
+| S/10 || 82 × 160&nbsp;mm || Pink/Grey
+|''Flamencos Bañándose'' <br> ("Bathing Flamingos") <br> by [[Karim García]]
+|''Pantera Negra'' <br> ("[[W:Black panther|Black panther]]") <br> by Karim García
+|-
+|  style="text-align:center; background:#000;"|[[File:20 sol banknote front.png|110px]]
+|  style="text-align:center; background:#000;"|[[File:20 sol banknote reverse.png|110px]]
+| S/20 || 82 × 160&nbsp;mm || Green/Yellow 
+| ''Cosmopolitòpolis'' <br> by [[Álvaro Castellón]]
+|''Verticalización'' <br> by Álvaro Castellón
+|-
+|  style="text-align:center; background:#000;"|[[File:50 sol banknote (front).png|240x240px]]
+|  style="text-align:center; background:#000;"|[[File:50 sol banknote (reverse).png|247x247px]]
+| S/50 || 82 × 160&nbsp;mm || Brown/Green 
+| ''Vitacura'' <br> by [[Rodrigo de la Sierra]]
+| ''Chinampas de Samianigo'' <br> by Rodrigo de la Sierra 
+|-
+|  style="text-align:center; background:#000;"|[[File:100 sol banknote (front).png|240x240px]]
+|  style="text-align:center; background:#000;"|[[File:100 sol banknote (reverse).png|243x243px]]
+| S/100 || 82 × 160&nbsp;mm ||
+| ''Piratas cimarróna'' 
+("[[Maroon pirates]]")<br> by Álvaro Castellón
+| ''Juventud'' 
+("Youth")<br> by Álvaro Castellón
+|-
+|  style="text-align:center; background:#000;"|[[File:200 sol banknote (front).png|248x248px]]
+|  style="text-align:center; background:#000;"|[[File:200 sol banknote (reverse).png|245x245px]]
+|S/200
+|82 × 160&nbsp;mm || Blue/Brown 
+|''Costa atlántico'' <br> (the "Atlantic coast") <br> by Álvaro Castellón
+|''Un día en Arcadia'' <br> ("A day in Arcadia") <br> by Álvaro Castellón
+|-
+|  style="text-align:center; background:#000;"|[[File:500 sol banknote (front).png|248x248px]]
+|  style="text-align:center; background:#000;"|[[File:500 sol banknote (reverse).png|245x245px]]
+| S/500 || 82 × 160&nbsp;mm || Grey/Black 
+|[[W:Black cat|''El Gato Negro'']] <br>by [[Nuño Muñoz]]
+| ''Águila coronada'' <br> ("[[W:Chaco eagle|Crowned solitary eagle]]") <br>by Nuño Muñoz
+|-
+|  style="text-align:center; background:#000;"|[[File:1000 sol banknote front.png|240x240px]]
+|  style="text-align:center; background:#000;"|[[File:1000 sol banknote back.png|239x239px]]
+| S/1000 || 82 × 160&nbsp;mm || Green/Blue 
+| ''Costa d’o Jaguarundi'' <br> ("Coast of Jaguarundi]") <br>by Karim García 
+| ''Colladas de Balláran'' <br> ("Hills of Bayara") <br>by Karim García
+|}
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Currency]]
+[[Category:Economy of Balisca]]

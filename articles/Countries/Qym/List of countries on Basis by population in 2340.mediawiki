@@ -1,0 +1,74 @@
+{{Basis}}
+
+This is a '''list of countries on Basis by population in {{abbr|2340|1943.9 (Earth Year Equivalent)}}''' (including any dependent, occupied or colonized territories for empires), providing an approximate overview of the population on [[Basis]] at the end of the [[Boreal War]]. 
+
+<!--Earth average radius = 6,371 km. Surface area of Earth = 510,064,472 km². Basis average radius = 5963.256 km. Surface area of Basis = 446,865,444 km², or 0.876 of Earth's. Assuming similar land coverage and population distribution, Basis world pop should be 87.6% that of Earth (at most).-->
+
+==List==
+{{sticky header}}
+{| class="wikitable sortable sticky-header" style="text-align:right"
+|-
+!Rank
+! Country/territory || Population in {{abbr|2340|1943.9 (Earth Year Equivalent)}}|| Percentage of the population on Basis
+|- class="sorttop" style="font-weight: bold;"
+|
+| align="left" | {{noflag}} ''[[Basis]]'' || 1,182,849,285 || –
+|-
+|#
+| align="left" | {{flag|Qym}}
+|| 72,812,918
+||{{Percentage|72,812,918|1,182,849,285|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Riuden}}
+|| 70,615,217
+||{{Percentage|70,615,217|1,131,421,055|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Thyon}}
+|| 52,500,000 (?)
+||{{Percentage|52,500,000|1,182,849,285|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Holaria}}
+|| 47,514,536
+||{{Percentage|47,514,536|1,182,849,285|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Zandomia}}
+|| 47,289,707
+||{{Percentage|47,289,707|1,131,421,055|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Prugundy}}
+|| 38,512,896
+||{{Percentage|38,512,896|1,182,849,285|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Gosaria}}
+|| 15,918,227
+||{{Percentage|15,918,227|1,182,849,285|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Tamodia}}
+|| 11,626,477
+||{{Percentage|11,626,477|1,182,849,285|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Imendia}}
+|| 9,053,481
+||{{Percentage|9,053,481|1,182,849,285|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Nykal}}
+|| 5,982,357
+||{{Percentage|5,982,357|1,182,849,285|1|pad=yes}}
+|-
+|#
+| align="left" | {{flag|Afarut}}
+|| 2,825,952
+||{{Percentage|2,825,952|1,182,849,285|1|pad=yes}}
+|-
+|}
+
+[[Category:Basis]]

@@ -1,0 +1,861 @@
+{{Short description|None}}
+This is a [[Bar chart|graphical]] '''timeline of prime ministers of Great Britain and the United Kingdom''' from when the first [[Prime Minister of the United Kingdom|prime minister]] of [[Kingdom of Great Britain|Great Britain]] in the modern sense, [[Robert Walpole]], took office in 1721, until the present day.
+
+From 1801 until 1922, British prime ministers also held the office for the whole of Ireland.
+
+==Great Britain==
+<timeline>
+ImageSize = width:1000 height:auto barincrement:12
+PlotArea  = top:10 bottom:50 right:130 left:12
+AlignBars = late
+
+DateFormat = yyyy
+Period     = from:1720 till:1801
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:5 start:1720
+
+Colors     =
+  id:whig   value:rgb(1,0.5,0)       legend: Whig
+  id:tory   value:rgb(0.2,0.2,0.8)   legend: Tory
+  id:liteline       value:gray(0.8)
+  id:line           value:rgb(0.3,0.3,0.3)
+
+ScaleMajor = gridcolor:line unit:year increment:5 start:1720
+ScaleMinor = gridcolor:liteline unit:year increment:1 start:1720
+
+Legend     = columns:2 left:150 top:24 columnwidth:100
+
+TextData =
+  pos:(20,27) textcolor:black fontsize:M
+  text:"Political parties:"
+
+BarData =
+  bar:Walpole
+  bar:Wilmington
+  bar:Pelham
+  bar:Newcastle
+  bar:Devonshire
+  bar:Bute
+  bar:GrenvilleG
+  bar:Rockingham
+  bar:PittSr
+  bar:Grafton
+  bar:North
+  bar:Shelburne
+  bar:Portland
+  bar:PittJr
+
+PlotData=
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+
+ bar:Walpole
+  from: 1721 till: 1742 color:whig text:"[[Robert Walpole|Sir Robert Walpole]]"
+ bar:Wilmington
+  from: 1742 till: 1743 color:whig text:"[[Spencer Compton, 1st Earl of Wilmington|The Earl of Wilmington]]"
+ bar:Pelham
+  from: 1743 till: 1754 color:whig text:"[[Henry Pelham]]"
+ bar:Newcastle
+  from: 1754 till: 1756 color:whig
+  from: 1757 till: 1762 color:whig text:"[[Thomas Pelham-Holles, 1st Duke of Newcastle|The Duke of Newcastle]]"
+ bar:Devonshire
+  from: 1756 till: 1757 color:whig text:"[[William Cavendish, 4th Duke of Devonshire|The Duke of Devonshire]]"
+ bar:Bute
+  from: 1762 till: 1763 color:tory text:"[[John Stuart, 3rd Earl of Bute|The Earl of Bute]]"
+ bar:GrenvilleG
+  from: 1763 till: 1765 color:whig text:"[[George Grenville]]"
+ bar:Rockingham
+  from: 1765 till: 1766 color:whig
+  from: 1782 till: 1782 color:whig text:"[[Charles Watson-Wentworth, 2nd Marquess of Rockingham|The Marquess of Rockingham]]"
+ bar:PittSr
+  from: 1766 till: 1768 color:whig text:"[[William Pitt, 1st Earl of Chatham|William Pitt the Elder]]"
+ bar:Grafton
+  from: 1768 till: 1770 color:whig text:"[[Augustus FitzRoy, 3rd Duke of Grafton|The Duke of Grafton]]"
+ bar:North
+  from: 1770 till: 1782 color:tory text:"[[Frederick North, Lord North|Lord North]]"
+ bar:Shelburne
+  from: 1782 till: 1783 color:whig text:"[[William Petty, 2nd Earl of Shelburne|The Earl of Shelburne]]"
+ bar:Portland
+  from: 1783 till: 1783 color:whig text:"[[William Cavendish-Bentinck, 3rd Duke of Portland|The Duke of Portland]]"
+ bar:PittJr
+  from: 1783 till: 1801 color:tory text:"[[William Pitt the Younger]]"
+
+</timeline>
+
+==United Kingdom of Great Britain and Ireland==
+<timeline>
+ImageSize = width:1000 height:auto barincrement:12
+PlotArea  = top:10 bottom:100 right:130 left:12
+AlignBars = late
+
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1800 till:06/12/1922
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:5 start:1800
+
+Colors     =
+  id:whig   value:rgb(1,0.5,0)             legend: Whig
+  id:tory   value:rgb(0.2,0.2,0.8)         legend: Tory
+  id:conservative   value:rgb(0,0.53,0.86) legend: Conservative
+  id:peelite   value:rgb(0.6,1,0.6)        legend: Peelite
+  id:liberal   value:rgb(1,0.84,0)         legend: Liberal
+  id:liteline       value:gray(0.8)
+  id:line           value:rgb(0.3,0.3,0.3)
+
+ScaleMajor = gridcolor:line unit:year increment:5 start:1800
+ScaleMinor = gridcolor:liteline unit:year increment:1 start:1800
+
+Legend     = columns:3 left:150 top:50 columnwidth:100
+
+TextData =
+  pos:(20,55) textcolor:black fontsize:M
+  text:"Political parties:"
+
+BarData =
+  bar:PittJr
+  bar:Addington
+  bar:GrenvilleW
+  bar:Portland
+  bar:Perceval
+  bar:Liverpool
+  bar:Canning
+  bar:Goderich
+  bar:Wellington
+  bar:Grey
+  bar:Melbourne
+  bar:Peel
+  bar:Russell
+  bar:Derby
+  bar:Aberdeen
+  bar:Palmerston
+  bar:Disraeli
+  bar:Gladstone
+  bar:Salisbury
+  bar:Rosebery
+  bar:Balfour
+  bar:CBannerman
+  bar:Asquith
+  bar:LloydGeorge
+
+PlotData=
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+
+ bar:PittJr
+  from: 01/01/1800 till: 17/03/1801 color:tory
+  from: 10/05/1804 till: 23/01/1806 color:tory text:"[[William Pitt the Younger]]"
+ bar:Addington
+  from: 17/03/1801 till: 10/05/1804 color:tory text:"[[Henry Addington, 1st Viscount Sidmouth|Henry Addington]]"
+ bar:GrenvilleW
+  from: 11/02/1806 till: 31/03/1807 color:whig text:"[[William Grenville, 1st Baron Grenville|The Lord Grenville]]"
+ bar:Portland
+  from: 31/03/1807 till: 04/10/1809 color:tory text:"[[William Cavendish-Bentinck, 3rd Duke of Portland|The Duke of Portland]]"
+ bar:Perceval
+  from: 04/10/1809 till: 11/05/1812 color:tory text:"[[Spencer Perceval]]"
+ bar:Liverpool
+  from: 08/06/1812 till: 09/04/1827 color:tory text:"[[Robert Jenkinson, 2nd Earl of Liverpool|The Earl of Liverpool]]"
+ bar:Canning
+  from: 10/04/1827 till: 08/08/1827 color:tory text:"[[George Canning]]"
+ bar:Goderich
+  from: 31/08/1827 till: 21/01/1828 color:tory text:"[[F. J. Robinson, 1st Viscount Goderich|The Viscount Goderich]]"
+ bar:Wellington
+  from: 22/01/1828 till: 16/11/1830 color:tory
+  from: 14/11/1834 till: 10/12/1834 color:tory text:"[[Arthur Wellesley, 1st Duke of Wellington|The Duke of Wellington]]"
+ bar:Grey
+  from: 22/11/1830 till: 09/07/1834 color:whig text:"[[Charles Grey, 2nd Earl Grey|The Earl Grey]]"
+ bar:Melbourne
+  from: 16/07/1834 till: 14/11/1834 color:whig
+  from: 18/04/1835 till: 30/08/1841 color:whig text:"[[William Lamb, 2nd Viscount Melbourne|The Viscount Melbourne]]"
+ bar:Peel
+  from: 10/12/1834 till: 08/04/1835 color:tory
+  from: 30/08/1841 till: 29/06/1846 color:conservative text:"[[Robert Peel|Sir Robert Peel]]"
+ bar:Russell
+  from: 30/06/1846 till: 21/02/1852 color:whig
+  from: 29/10/1865 till: 26/06/1866 color:liberal text:"[[John Russell, 1st Earl Russell|The Earl Russell (Lord John Russell)]]"
+ bar:Derby
+  from: 23/02/1852 till: 17/12/1852 color:conservative
+  from: 20/02/1858 till: 11/06/1859 color:conservative
+  from: 28/06/1866 till: 25/02/1868 color:conservative text:"[[Edward Smith-Stanley, 14th Earl of Derby|The Earl of Derby]]"
+ bar:Aberdeen
+  from: 19/12/1852 till: 30/01/1855 color:conservative text:"[[George Hamilton-Gordon, 4th Earl of Aberdeen|The Earl of Aberdeen]]"
+ bar:Palmerston
+  from: 01/02/1855 till: 01/02/1858 color:whig
+  from: 12/06/1859 till: 18/10/1865 color:liberal text:"[[Henry John Temple, 3rd Viscount Palmerston|The Viscount Palmerston]]"
+ bar:Disraeli
+  from: 27/02/1868 till: 01/12/1868 color:conservative
+  from: 20/02/1874 till: 21/04/1880 color:conservative text:"[[Benjamin Disraeli]]"
+ bar:Gladstone
+  from: 03/12/1868 till: 17/02/1874 color:liberal
+  from: 23/04/1880 till: 09/06/1885 color:liberal
+  from: 01/02/1886 till: 20/07/1886 color:liberal
+  from: 15/08/1892 till: 02/03/1894 color:liberal text:"[[William Ewart Gladstone]]"
+ bar:Salisbury
+  from: 23/06/1885 till: 28/01/1886 color:conservative
+  from: 25/07/1886 till: 11/08/1892 color:conservative
+  from: 25/06/1895 till: 11/07/1902 color:conservative text:"[[Robert Gascoyne-Cecil, 3rd Marquess of Salisbury|The Marquess of Salisbury]]"
+ bar:Rosebery
+  from: 05/03/1894 till: 22/06/1895 color:liberal text:"[[Archibald Primrose, 5th Earl of Rosebery|The Earl of Rosebery]]"
+ bar:Balfour
+  from: 12/07/1902 till: 04/12/1905 color:conservative text:"[[Arthur Balfour]]"
+ bar:CBannerman
+  from: 05/12/1905 till: 03/04/1908 color:liberal text:"[[Henry Campbell-Bannerman|Sir Henry Campbell-Bannerman]]"
+ bar:Asquith
+  from: 05/04/1908 till: 05/12/1916 color:liberal text:"[[Herbert Henry Asquith]]"
+ bar:LloydGeorge
+  from: 06/12/1916 till: 19/10/1922 color:liberal text:"[[David Lloyd George]]"
+
+</timeline>
+
+==United Kingdom of Great Britain and Northern Ireland ==
+{{#tag:timeline|
+ImageSize = width:1000 height:auto barincrement:12
+PlotArea  = top:10 bottom:100 right:130 left:12
+AlignBars = late
+
+Define $today = {{#time:d/m/Y}}
+
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1922 till:31/12/{{#time:Y}}
+TimeAxis   = orientation:horizontal
+ScaleMajor = unit:year increment:1 start:1925
+
+Colors     =
+ 
+  id:conservative   value:rgb(0,0.53,0.86)   legend: Conservative
+  id:labour   value:rgb(0.86,0.08,0.18)        legend: Labour
+  id:natlabour   value:rgb(0,0.5,0)        legend: National_Labour
+  id:liteline       value:gray(0.8)
+  id:line           value:rgb(0.3,0.3,0.3)
+
+ScaleMajor = gridcolor:line unit:year increment:5 start:1925
+ScaleMinor = gridcolor:liteline unit:year increment:1 start:1922
+
+Legend     = columns:2 left:150 top:50 columnwidth:100
+
+TextData =
+  pos:(20,55) textcolor:black fontsize:M
+  text:"Political parties:"
+
+BarData =
+  bar:Law
+  bar:Baldwin
+  bar:MacDonald
+  bar:Chamberlain
+  bar:Churchill
+  bar:Attlee
+  bar:Eden
+  bar:Macmillan
+  bar:DHome
+  bar:Wilson
+  bar:Heath
+  bar:Callaghan
+  bar:Thatcher
+  bar:Major
+  bar:Blair
+  bar:Brown
+  bar:Cameron
+  bar:May
+  bar:Johnson
+  bar:Truss
+  bar:Sunak
+  bar:Starmer
+
+PlotData=
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+
+ bar:Law
+  from: 23/10/1922 till: 20/05/1923 color:conservative text:"[[Andrew Bonar Law]]"
+ bar:Baldwin
+  from: 22/05/1923 till: 22/01/1924 color:conservative
+  from: 04/11/1924 till: 04/06/1929 color:conservative
+  from: 07/06/1935 till: 28/05/1937 color:conservative text:"[[Stanley Baldwin]]"
+ bar:MacDonald
+  from: 22/01/1924 till: 04/11/1924 color:labour
+  from: 05/06/1929 till: 28/08/1931 color:labour
+  from: 28/08/1931 till: 07/06/1935 color:natlabour text:"[[Ramsay MacDonald]]"
+ bar:Chamberlain
+  from: 28/05/1937 till: 10/05/1940 color:conservative text:"[[Neville Chamberlain]]"
+ bar:Churchill
+  from: 10/05/1940 till:26/07/1945 color:conservative
+  from: 26/10/1951 till:05/04/1955 color:conservative text:"[[Winston Churchill|Sir Winston Churchill]]"
+ bar:Attlee
+  from: 26/07/1945 till: 26/10/1951 color:labour text:"[[Clement Attlee]]"
+ bar:Eden
+  from: 06/04/1955 till: 09/01/1957 color:conservative text:"[[Anthony Eden|Sir Anthony Eden]]"
+ bar:Macmillan
+  from: 10/01/1957 till: 18/10/1963 color:conservative text:"[[Harold Macmillan]]"
+ bar:DHome
+  from: 19/10/1963 till: 16/10/1964 color:conservative text:"[[Alec Douglas-Home|Sir Alec Douglas-Home]]"
+ bar:Wilson
+  from: 16/10/1964 till: 19/06/1970 color:labour
+  from: 04/03/1974 till: 05/04/1976 color:labour text:"[[Harold Wilson]]"
+ bar:Heath
+  from: 19/06/1970 till: 04/03/1974 color:conservative text:"[[Edward Heath]]"
+ bar:Callaghan
+  from: 05/04/1976 till: 04/05/1979 color:labour text:"[[James Callaghan]]"
+ bar:Thatcher
+  from: 04/05/1979 till: 28/11/1990 color:conservative text:"[[Margaret Thatcher]]"
+ bar:Major
+  from: 28/11/1990 till: 02/05/1997 color:conservative text:"[[John Major]]"
+ bar:Blair
+  from: 02/05/1997 till: 27/06/2007 color:labour text:"[[Tony Blair]]"
+ bar:Brown
+  from: 27/06/2007 till: 11/05/2010 color:labour text:"[[Gordon Brown]]"
+ bar:Cameron
+  from: 11/05/2010 till: 13/07/2016 color:conservative text:"[[David Cameron]]"
+ bar:May
+  from: 13/07/2016 till: 24/07/2019 color:conservative text:"[[Theresa May]]"
+ bar:Johnson
+  from: 24/07/2019 till: 06/09/2022 color:conservative text:"[[Boris Johnson]]"
+ bar:Truss
+  from: 05/09/2022 till: 25/10/2022 color:conservative text:"[[Liz Truss]]"
+ bar:Sunak
+  from: 25/10/2022 till: 05/07/2024 color:conservative text:"[[Rishi Sunak]]"
+ bar:Starmer
+  from: 05/07/2024 till: $today color:labour text:"[[Keir Starmer|Sir Keir Starmer]]"
+
+}}
+
+==Combined timeline==
+{{#tag:timeline|
+ImageSize = width:1000 height:auto barincrement:12
+TimeAxis   = orientation:horizontal
+AlignBars  = late
+PlotArea   = width:90% left:20 top:10 bottom:80
+Legend     = columns:4 left:18 top:35 columnwidth:160
+
+DateFormat = yyyy
+Period     = from:1720 till:2025
+TimeAxis   = orientation:horizontal
+
+Colors     =
+  id:whig   value:rgb(1,0.5,0)             legend: Whig
+  id:tory   value:rgb(0.2,0.2,0.8)         legend: Tory
+  id:conservative   value:rgb(0,0.53,0.86) legend: Conservative
+  id:peelite   value:rgb(0.6,1,0.6)        legend: Peelite
+  id:liberal   value:rgb(1,0.84,0)         legend: Liberal
+  id:labour   value:rgb(0.86,0.08,0.18)    legend: Labour
+  id:natlabour   value:rgb(0,0.5,0)        legend: National_Labour
+  id:independent value:rgb(0.3,0.3,0.3)    legend: Independent_or_no_party
+  id:liteline       value:gray(0.8)
+  id:line           value:rgb(0.3,0.3,0.3)
+
+ScaleMajor = gridcolor:line unit:year increment:10 start:1720
+ScaleMinor = gridcolor:liteline unit:year increment:5 start:1720
+
+TextData =
+  pos:(20,55) textcolor:black fontsize:M
+  text:"Political parties:"
+
+BarData =
+  bar:Walpole
+  bar:Wilmington
+  bar:Pelham
+  bar:Newcastle
+  bar:Devonshire
+  bar:Bute
+  bar:GrenvilleG
+  bar:Rockingham
+  bar:PittSr
+  bar:Grafton
+  bar:North
+  bar:Shelburne
+  bar:Portland
+  bar:PittJr
+  bar:Addington
+  bar:GrenvilleW
+  bar:Perceval
+  bar:Liverpool
+  bar:Canning
+  bar:Goderich
+  bar:Wellington
+  bar:Grey
+  bar:Melbourne
+  bar:Peel
+  bar:Russell
+  bar:Derby
+  bar:Aberdeen
+  bar:Palmerston
+  bar:Disraeli
+  bar:Gladstone
+  bar:Salisbury
+  bar:Rosebery
+  bar:Balfour
+  bar:CBannerman
+  bar:Asquith
+  bar:LloydGeorge
+  bar:Law
+  bar:Baldwin
+  bar:MacDonald
+  bar:Chamberlain
+  bar:Churchill
+  bar:Attlee
+  bar:Eden
+  bar:Macmillan
+  bar:DHome
+  bar:Wilson
+  bar:Heath
+  bar:Callaghan
+  bar:Thatcher
+  bar:Major
+  bar:Blair
+  bar:Brown
+  bar:Cameron
+  bar:May
+  bar:Johnson
+  bar:Truss
+  bar:Sunak
+  bar:Starmer
+
+PlotData=
+  width:5 align:left fontsize:S shift:(5,-4) anchor:till
+
+ bar:Walpole
+  from: 1721 till: 1742 color:whig text:"[[Robert Walpole|Sir Robert Walpole]]"
+ bar:Wilmington
+  from: 1742 till: 1743 color:whig text:"[[Spencer Compton, 1st Earl of Wilmington|The Earl of Wilmington]]"
+ bar:Pelham
+  from: 1743 till: 1754 color:whig text:"[[Henry Pelham]]"
+ bar:Newcastle
+  from: 1754 till: 1756 color:whig
+  from: 1757 till: 1762 color:whig text:"[[Thomas Pelham-Holles, 1st Duke of Newcastle|The Duke of Newcastle]]"
+ bar:Devonshire
+  from: 1756 till: 1757 color:whig text:"[[William Cavendish, 4th Duke of Devonshire|The Duke of Devonshire]]"
+ bar:Bute
+  from: 1762 till: 1763 color:whig text:"[[John Stuart, 3rd Earl of Bute|The Earl of Bute]]"
+ bar:GrenvilleG
+  from: 1763 till: 1765 color:whig text:"[[George Grenville]]"
+ bar:Rockingham
+  from: 1765 till: 1766 color:whig
+  from: 1782 till: 1782 color:whig text:"[[Charles Watson-Wentworth, 2nd Marquess of Rockingham|The Marquess of Rockingham]]"
+ bar:PittSr
+  from: 1766 till: 1768 color:whig text:"[[William Pitt, 1st Earl of Chatham|William Pitt the Elder]]"
+ bar:Grafton
+  from: 1768 till: 1770 color:whig text:"[[Augustus FitzRoy, 3rd Duke of Grafton|The Duke of Grafton]]"
+ bar:North
+  from: 1770 till: 1782 color:tory text:"[[Frederick North, Lord North|Lord North]]"
+ bar:Shelburne
+  from: 1782 till: 1783 color:whig text:"[[William Petty, 2nd Earl of Shelburne|The Earl of Shelburne]]"
+ bar:Portland
+  from: 1783 till: 1783 color:whig
+  from: 1807 till: 1809 color:tory text:"[[William Cavendish-Bentinck, 3rd Duke of Portland|The Duke of Portland]]"
+ bar:PittJr
+  from: 1783 till: 1801 color:tory
+  from: 1804 till: 1806 color:tory text:"[[William Pitt the Younger]]"
+ bar:Addington
+  from: 1801 till: 1804 color:tory text:"[[Henry Addington, 1st Viscount Sidmouth|Henry Addington]]"
+ bar:GrenvilleW
+  from: 1806 till: 1807 color:whig text:"[[William Grenville, 1st Baron Grenville|The Lord Grenville]]"
+ bar:Perceval
+  from: 1809 till: 1812 color:tory text:"[[Spencer Perceval]]"
+ bar:Liverpool
+  from: 1812 till: 1827 color:tory text:"[[Robert Jenkinson, 2nd Earl of Liverpool|The Earl of Liverpool]]"
+ bar:Canning
+  from: 1827 till: 1827 color:tory text:"[[George Canning]]"
+ bar:Goderich
+  from: 1827 till: 1828 color:tory text:"[[F. J. Robinson, 1st Viscount Goderich|The Viscount Goderich]]"
+ bar:Wellington
+  from: 1828 till: 1830 color:tory
+  from: 1834 till: 1834 color:tory text:"[[Arthur Wellesley, 1st Duke of Wellington|The Duke of Wellington]]"
+ bar:Grey
+  from: 1830 till: 1834 color:whig text:"[[Charles Grey, 2nd Earl Grey|The Earl Grey]]"
+ bar:Melbourne
+  from: 1834 till: 1834 color:whig
+  from: 1835 till: 1841 color:whig text:"[[William Lamb, 2nd Viscount Melbourne|The Viscount Melbourne]]"
+ bar:Peel
+  from: 1834 till: 1835 color:tory
+  from: 1841 till: 1846 color:conservative text:"[[Robert Peel|Sir Robert Peel]]"
+ bar:Russell
+  from: 1846 till: 1852 color:whig
+  from: 1865 till: 1866 color:liberal text:"[[John Russell, 1st Earl Russell|The Earl Russell (Lord John Russell)]]"
+ bar:Derby
+  from: 1852 till: 1852 color:conservative
+  from: 1858 till:1859 color:conservative
+  from: 1866 till: 1868 color:conservative text:"[[Edward Smith-Stanley, 14th Earl of Derby|The Earl of Derby]]"
+ bar:Aberdeen
+  from: 1852 till: 1855 color:conservative text:"[[George Hamilton-Gordon, 4th Earl of Aberdeen|The Earl of Aberdeen]]"
+ bar:Palmerston
+  from: 1855 till: 1858 color:whig
+  from: 1859 till: 1865 color:liberal text:"[[Henry John Temple, 3rd Viscount Palmerston|The Viscount Palmerston]]"
+ bar:Disraeli
+  from: 1868 till: 1868 color:conservative
+  from: 1874 till: 1880 color:conservative text:"[[Benjamin Disraeli]]"
+ bar:Gladstone
+  from: 1868 till: 1874 color:liberal
+  from: 1880 till: 1885 color:liberal
+  from: 1886 till: 1886 color:liberal
+  from: 1892 till: 1894 color:liberal text:"[[William Ewart Gladstone]]"
+ bar:Salisbury
+  from: 1885 till: 1886 color:conservative
+  from: 1886 till: 1892 color:conservative
+  from: 1895 till: 1902 color:conservative text:"[[Robert Gascoyne-Cecil, 3rd Marquess of Salisbury|The Marquess of Salisbury]]"
+ bar:Rosebery
+  from: 1894 till: 1895 color:liberal text:"[[Archibald Primrose, 5th Earl of Rosebery|The Earl of Rosebery]]"
+ bar:Balfour
+  from: 1902 till: 1905 color:conservative text:"[[Arthur Balfour]]"
+ bar:CBannerman
+  from: 1906 till: 1908 color:liberal text:"[[Henry Campbell-Bannerman|Sir Henry Campbell-Bannerman]]"
+ bar:Asquith
+  from: 1908 till: 1916 color:liberal text:"[[Herbert Henry Asquith]]"
+ bar:LloydGeorge
+  from: 1916 till: 1922 color:liberal text:"[[David Lloyd George]]"
+ bar:Law
+  from: 1922 till: 1923 color:conservative text:"[[Andrew Bonar Law]]"
+ bar:Baldwin
+  from: 1923 till: 1924 color:conservative
+  from: 1924 till: 1929 color:conservative
+  from: 1935 till: 1937 color:conservative text:"[[Stanley Baldwin]]"
+ bar:MacDonald
+  from: 1924 till: 1924 color:labour
+  from: 1929 till: 1931 color:labour
+  from: 1931 till: 1935 color:natlabour text:"[[Ramsay MacDonald]]"
+ bar:Chamberlain
+  from: 1937 till: 1940 color:conservative text:"[[Neville Chamberlain]]"
+ bar:Churchill
+  from: 1940 till:1945 color:conservative
+  from: 1951 till:1955 color:conservative text:"[[Winston Churchill|Sir Winston Churchill]]"
+ bar:Attlee
+  from: 1945 till: 1951 color:labour text:"[[Clement Attlee]]"
+ bar:Eden
+  from: 1955 till: 1957 color:conservative text:"[[Anthony Eden|Sir Anthony Eden]]"
+ bar:Macmillan
+  from: 1957 till: 1963 color:conservative text:"[[Harold Macmillan]]"
+ bar:DHome
+  from: 1963 till: 1964 color:conservative text:"[[Alec Douglas-Home|Sir Alec Douglas-Home]]"
+ bar:Wilson
+  from: 1964 till: 1970 color:labour
+  from: 1974 till: 1976 color:labour text:"[[Harold Wilson]]"
+ bar:Heath
+  from: 1970 till: 1974 color:conservative text:"[[Edward Heath]]"
+ bar:Callaghan
+  from: 1976 till: 1979 color:labour text:"[[James Callaghan]]"
+ bar:Thatcher
+  from: 1979 till: 1990 color:conservative text:"[[Margaret Thatcher]]"
+ bar:Major
+  from: 1990 till: 1997 color:conservative text:"[[John Major]]"
+ bar:Blair
+  from: 1997 till: 2007 color:labour text:"[[Tony Blair]]"
+ bar:Brown
+  from: 2007 till: 2010 color:labour text:"[[Gordon Brown]]"
+ bar:Cameron
+  from: 2010 till: 2016 color:conservative text:"[[David Cameron]]"
+ bar:May
+  from: 2016 till: 2019 color:conservative text:"[[Theresa May]]"
+ bar:Johnson
+  from: 2019 till: 2022 color:conservative text:"[[Boris Johnson]]"
+ bar:Truss
+  from: 2022 till: 2022 color:conservative text:"[[Liz Truss]]"
+ bar:Sunak
+  from: 2022 till: 2024 color:conservative text:"[[Rishi Sunak]]"
+ bar:Starmer
+  from: 2024 till: {{CURRENTYEAR}} color:labour text:"[[Keir Starmer|Sir Keir Starmer]]"
+}}
+
+==Career-based timeline==
+This timeline shows most of the early life, the political career and death of each prime minister of the United Kingdom from 1846.  The first prime minister was [[Robert Walpole]] in the early 18th century {{harv|Dickinson|1973}}.
+
+Unlike countries where the leader is elected directly to the highest political office of a separate [[executive (government)|executive]], the [[Prime Minister of the United Kingdom|prime minister]] must first establish a political career in the UK Parliament and typically serves many years in the [[House of Commons of the United Kingdom|House of Commons]] before becoming prime minister, and in some cases for many years afterwards.
+
+Since the [[Robert Gascoyne-Cecil, 3rd Marquess of Salisbury|Marquess of Salisbury]] in 1895, all time in parliamentary service before being prime minister has been in the House of Commons, apart from Sir [[Alec Douglas-Home]]'s period as a member of the Government while in the House of Lords (1951–63; though he was previously the elected member for [[Lanark (UK Parliament constituency)|Lanark]], 1931–1945).  After becoming prime minister, Douglas-Home returned to the Commons by winning a by-election on the recess death of MP [[Gilmour Leburn]].
+
+Uniquely, [[David Cameron|Cameron]]'s brief parliamentary activity as [[Foreign Secretary (United Kingdom)|Foreign Secretary]] from November 2023 to July 2024 was served while a member of the [[House of Lords]].
+
+===Key===
+* Each dark coloured bar denotes the time spent as prime minister
+* A light colour denotes time spent in Parliament before or after serving as prime minister
+* A grey colour bar denotes the time the prime minister spent outside the House of Commons or the entire Parliament, either before or after their political career
+
+===Notable moments since 1800===
+* ''two separate periods in office:'' [[John Russell, 1st Earl Russell|Russell]], [[Henry John Temple, 3rd Viscount Palmerston|Palmerston]], [[Benjamin Disraeli|Disraeli]], [[Ramsay MacDonald|MacDonald]], [[Winston Churchill|Churchill]], [[Harold Wilson|Wilson]]
+* ''three separate periods in office:'' [[Edward Smith-Stanley, 14th Earl of Derby|Derby]], [[Robert Gascoyne-Cecil, 3rd Marquess of Salisbury|Salisbury]], [[Stanley Baldwin|Baldwin]]
+* ''four separate periods in office:'' [[William Ewart Gladstone|Gladstone]]
+* ''[[Crossing the floor|crossed the floor]]:'' [[Henry John Temple, 3rd Viscount Palmerston|Palmerston]], [[Edward Smith-Stanley, 14th Earl of Derby|Derby]], [[William Ewart Gladstone|Gladstone]], [[Winston Churchill|Churchill]] (twice)
+* ''died in office:'' [[George Canning|Canning]], [[Henry John Temple, 3rd Viscount Palmerston|Palmerston]], [[Spencer Perceval|Perceval]] ([[Assassination of Spencer Perceval|assassinated]])
+* ''died less than six months after leaving office:'' [[William Cavendish-Bentinck, 3rd Duke of Portland|Portland]], [[Henry Campbell-Bannerman|Campbell-Bannerman]], [[Bonar Law|Law]], [[Neville Chamberlain|Chamberlain]]
+* ''left Parliament on leaving office:'' [[John Russell, 1st Earl Russell|Russell]], [[Stanley Baldwin|Baldwin]], [[Tony Blair|Blair]]
+* ''lived for more than twenty years after leaving the House of Commons:'' [[Harold Macmillan|Macmillan]], [[Alec Douglas-Home|Douglas-Home]], [[Margaret Thatcher|Thatcher]], [[John Major|Major]]
+* ''less than twenty years in Parliament before being prime minister:'' [[Stanley Baldwin|Baldwin]], [[Neville Chamberlain|Chamberlain]], [[Harold Wilson|Wilson]], [[John Major|Major]], [[Tony Blair|Blair]], [[David Cameron|Cameron]], [[Theresa May|May]], [[Boris Johnson|Johnson]], [[Liz Truss|Truss]], [[Rishi Sunak|Sunak]], [[Keir Starmer|Starmer]]
+* ''more than twenty years in Parliament after being prime minister:'' [[Archibald Primrose, 5th Earl of Rosebery|Rosebery]], [[Arthur Balfour|Balfour]], [[David Lloyd George|Lloyd George]], [[Edward Heath|Heath]]
+* ''served as prime minister after an interruption to their parliamentary career:'' [[Ramsay MacDonald|MacDonald]], [[Winston Churchill|Churchill]], [[Harold Macmillan|Macmillan]] (twice), [[Alec Douglas-Home|Douglas-Home]], [[Boris Johnson|Johnson]] <!--Boris Johnson had an interruption to his parliamentary career, but not his political career, as he served as the elected Mayor of London during the entire interruption-->
+* ''served as prime minister for two monarchs:'' [[Robert Walpole|Walpole]], [[Thomas Pelham-Holles, 1st Duke of Newcastle|Newcastle]], [[Robert Jenkinson, 2nd Earl of Liverpool|Liverpool]], [[Arthur Wellesley, 1st Duke of Wellington|Wellington]], [[William Lamb, 2nd Viscount Melbourne|Melbourne]], [[Robert Peel|Peel]], [[Robert Gascoyne-Cecil, 3rd Marquess of Salisbury|Salisbury]], [[H. H. Asquith|Asquith]], [[Winston Churchill|Churchill]], [[Liz Truss|Truss]]
+* ''served as prime minister for three monarchs:'' [[Stanley Baldwin|Baldwin]]
+* ''served as prime minister for less than two months:'' [[Liz Truss|Truss]]
+* ''over 65 years of age when first appointed:'' [[Henry John Temple, 3rd Viscount Palmerston|Palmerston]], [[Henry Campbell-Bannerman|Campbell-Bannerman]], [[George Hamilton-Gordon, 4th Earl of Aberdeen|Aberdeen]], [[Neville Chamberlain|Chamberlain]], [[Charles Grey, 2nd Earl Grey|Grey]], [[Winston Churchill|Churchill]]
+* ''under 45 years of age when first appointed:'' [[F. J. Robinson, 1st Viscount Goderich|Goderich]], [[Tony Blair|Blair]], [[Henry Addington|Addington]], [[David Cameron|Cameron]], [[Rishi Sunak|Sunak]], [[Robert Jenkinson, 2nd Earl of Liverpool|Liverpool]]
+
+===Timeline===
+{{#tag:timeline|
+DateFormat = dd/mm/yyyy
+ImageSize  = width:1000 height:700
+Period     = from:1800 till:{{#time: d/m/Y }}
+TimeAxis   = orientation:horizontal
+AlignBars  = justify
+PlotArea   = width:99% height:90% left:0 bottom:60
+Legend     = columns:1 left:10 top:35 columnwidth:75
+
+Colors =
+     id:labourpm       value:rgb(0.9,0.2,0.2) legend: Labour_Prime_Minister
+     id:labour         value:rgb(0.9,0.6,0.6) legend: Labour_politician
+     id:torypm         value:rgb(0.2,0.2,0.9) legend: Tory/Conservative_Prime_Minister
+     id:tory           value:rgb(0.6,0.6,0.9) legend: Tory/Conservative_politician
+     id:liberalpm      value:rgb(0.9,0.5,0.2) legend: Whig/Liberal_Prime_Minister
+     id:liberal        value:rgb(0.9,0.7,0.2) legend: Whig/Liberal_politician
+     id:natlabpm       value:rgb(0.0,0.5,0.0) legend: National_Labour_Prime_Minister
+     id:natlab         value:rgb(0.6,0.9,0.6) legend: National_Labour_politician
+     id:scotunion      value:rgb(0.5,0.5,1)   legend: Unionist_(Scotland)_politician
+     id:notmp          value:gray(0.85)       legend: not_in_Parliament
+     id:liteline       value:gray(0.8)
+     id:line           value:rgb(0.3,0.3,0.3)
+     id:bg             value:white
+
+PlotData=
+     width:14 textcolor:black align:center
+
+  bar:Russell 
+   from:01/01/1800 till:30/06/1813 color:notmp      text:"[[John Russell, 1st Earl Russell|Lord John Russell]]" shift: (35,-4) fontsize:10
+   from:01/07/1813 till: 29/06/1846 color:liberal
+   from:30/06/1846 till: 23/02/1852 color:liberalpm
+   from:24/02/1852 till: 28/10/1865 color:liberal
+   from:29/10/1865 till: 28/06/1866 color:liberalpm
+   from:29/06/1866 till:28/05/1878 color:notmp text:
+  bar:Palmerston
+   from:01/01/1800 till:01/01/1837 color:notmp      text:"[[Henry John Temple, 3rd Viscount Palmerston|Lord Palmerston]]" shift: (-10,-4) fontsize:10
+   from:15/06/1807 till:30/06/1830 color:tory
+   from:01/07/1830 till:05/02/1855 color:liberal
+   from:06/02/1855 till:19/02/1858 color:liberalpm
+   from:12/02/1858 till:11/06/1859 color:liberal
+   from:12/06/1859 till:18/10/1865 color:liberalpm
+  bar:Derby 
+   from:01/01/1800 till:29/07/1822 color:notmp      text:"[[Edward Smith-Stanley, 14th Earl of Derby|Earl of Derby]]" shift: (5,-4) fontsize:10
+   from:30/07/1822 till:26/05/1834 color:liberal
+   from:27/05/1834 till:23/02/1852 color:tory
+   from:23/02/1852 till:19/12/1852 color:torypm
+   from:20/12/1852 till:19/02/1858 color:tory
+   from:20/02/1858 till:12/06/1859 color:torypm
+   from:13/06/1859 till:27/06/1866 color:tory
+   from:28/06/1866 till:27/02/1868 color:torypm 
+   from:28/02/1868 till:23/10/1869 color:tory
+  bar:Disraeli
+   from:21/12/1804 till:01/01/1837 color:notmp      text:"[[Benjamin Disraeli]]" shift: (01,-4) fontsize:10
+   from:01/01/1837 till:27/02/1868 color:tory
+   from:27/02/1868 till:03/12/1868 color:torypm
+   from:03/12/1868 till:20/02/1874 color:tory
+   from:20/02/1874 till:23/04/1880 color:torypm
+   from:23/04/1880 till:19/04/1881 color:tory
+  bar:Gladstone
+   from:29/12/1809 till:11/12/1832 color:notmp      text:"[[William Ewart Gladstone]]" shift: (40,-4) fontsize:10
+   from:12/12/1832 till:30/06/1859 color:tory
+   from:01/07/1859 till:03/12/1868 color:liberal
+   from:03/12/1868 till:20/02/1874 color:liberalpm
+   from:20/02/1874 till:23/04/1880 color:liberal
+   from:23/04/1880 till:23/06/1885 color:liberalpm
+   from:23/06/1885 till:01/02/1886 color:liberal
+   from:01/02/1886 till:25/06/1886 color:liberalpm
+   from:25/06/1886 till:15/08/1892 color:liberal
+   from:15/08/1892 till:05/03/1894 color:liberalpm
+   from:05/03/1894 till:07/08/1895 color:liberal
+   from:08/08/1895 till:19/05/1898 color:notmp
+  bar:Salisbury
+   from:03/02/1830 till:31/07/1853 color:notmp       text:"[[Robert Gascoyne-Cecil, 3rd Marquess of Salisbury|Marquess of Salisbury]]" shift: (30,-4) fontsize:10
+   from:01/08/1853 till:15/07/1885 color:tory
+   from:16/07/1885 till:15/02/1886 color:torypm
+   from:16/02/1886 till:15/08/1886 color:tory
+   from:16/08/1886 till:15/08/1892 color:torypm
+   from:16/08/1892 till:15/06/1895 color:tory
+   from:16/05/1895 till:15/07/1902 color:torypm
+   from:16/07/1902 till:22/08/1903 color:tory
+  bar:EarlofRosebery
+   from:07/05/1847 till:03/03/1868 color:notmp       text:"[[Archibald Primrose, 5th Earl of Rosebery|Earl of Rosebery]]" shift: (20,-4) fontsize:10
+   from:04/03/1868 till:15/03/1894 color:liberal
+   from:16/03/1894 till:15/06/1895 color:liberalpm
+   from:16/06/1895 till:21/05/1929 color:liberal
+  bar:Balfour
+   from:25/07/1848 till:05/02/1874 color:notmp       text:"[[Arthur Balfour]]" shift: (10,-4) fontsize:10
+   from:06/02/1874 till:10/07/1902 color:tory
+   from:11/07/1902 till:05/12/1905 color:torypm
+   from:06/12/1905 till:19/03/1930 color:tory
+  bar:Bannerman
+   from:07/09/1836 till:31/10/1868 color:notmp       text:"[[Henry Campbell-Bannerman]]" shift: (30,-4) fontsize:10
+   from:01/11/1868 till:04/02/1906 color:liberal
+   from:05/02/1906 till:03/04/1908 color:liberalpm 
+   from:04/04/1908 till:22/04/1908 color:liberal
+  bar:HerbertHenryAsquith
+   from:12/09/1852 till:01/07/1886 color:notmp       text:"[[H. H. Asquith]]" shift: (10,-4) fontsize:10
+   from:02/07/1886 till:16/04/1908 color:liberal
+   from:16/04/1908 till:06/12/1916 color:liberalpm
+   from:07/12/1916 till:15/02/1928 color:liberal
+  bar:DavidLloydGeorge
+   from:17/01/1863 till:12/04/1890 color:notmp       text:"[[David Lloyd George]]" shift: (20,-4) fontsize:10
+   from:13/04/1890 till:26/03/1945 color:liberal
+   from:07/12/1916 till:15/10/1922 color:liberalpm
+   from:16/10/1922 till:26/03/1945 color:liberal
+  bar:AndrewBonarLaw
+   from:16/09/1858 till:15/07/1900 color:notmp       text:"[[Bonar Law|Andrew Bonar Law]]" shift: (-10,-4) fontsize:10
+   from:16/07/1900 till:11/02/1912 color:tory
+   from:12/02/1912 till:15/10/1922 color:scotunion
+   from:16/10/1922 till:15/05/1923 color:torypm
+   from:16/05/1923 till:30/10/1923 color:scotunion
+  bar:RamsayMacDonald
+   from:12/10/1866 till:01/06/1906 color:notmp       text:"[[Ramsay MacDonald]]" shift: (0,-4) fontsize:10
+   from:02/06/1906 till:01/06/1918 color:labour
+   from:02/06/1918 till:01/06/1922 color:notmp
+   from:02/06/1922 till:21/01/1924 color:labour
+   from:22/01/1924 till:04/11/1924 color:labourpm
+   from:05/11/1924 till:04/06/1929 color:labour
+   from:05/06/1929 till:24/08/1931 color:labourpm
+   from:25/08/1931 till:07/06/1935 color:natlabpm
+   from:08/06/1935 till:09/11/1937 color:natlab
+  bar:StanleyBaldwin
+   from:03/08/1867 till:30/06/1908 color:notmp       text:"[[Stanley Baldwin]]" shift: (-20,-4) fontsize:10
+   from:01/07/1908 till:15/05/1923 color:tory
+   from:16/05/1923 till:21/01/1924 color:torypm 
+   from:22/01/1924 till:04/11/1924 color:tory
+   from:05/11/1924 till:07/06/1929 color:torypm
+   from:08/06/1929 till:15/06/1935 color:tory
+   from:16/06/1935 till:15/05/1937 color:torypm
+   from:16/05/1937 till:14/12/1947 color:notmp 
+  bar:NevilleChamberlain
+   from:18/03/1869 till:30/06/1922 color:notmp       text:"[[Neville Chamberlain]]" shift: (-20,-4) fontsize:10
+   from:01/07/1922 till:27/05/1937 color:tory
+   from:28/05/1937 till:10/05/1940 color:torypm
+   from:11/05/1940 till:09/09/1940 color:tory
+   from:10/09/1940 till:09/11/1940 color:notmp
+  bar:WinstonChurchill
+   from:30/11/1874 till:30/06/1900 color:notmp       text:"[[Winston Churchill]]" shift: (20,-4) fontsize:10
+   from:01/07/1900 till:30/06/1904 color:tory
+   from:01/07/1904 till:15/10/1922 color:liberal
+   from:15/10/1922 till:30/06/1924 color:notmp
+   from:01/07/1924 till:09/05/1940 color:tory
+   from:10/05/1940 till:27/07/1945 color:torypm
+   from:28/07/1945 till:25/10/1951 color:tory
+   from:26/10/1951 till:06/04/1955 color:torypm
+   from:07/04/1955 till:30/03/1964 color:tory
+   from:01/04/1964 till:24/01/1965 color:notmp
+  bar:ClementAttlee
+   from:03/01/1883 till:30/06/1922 color:notmp       text:"[[Clement Attlee]]" shift: (-18,-4) fontsize:10
+   from:01/07/1922 till:26/07/1945 color:labour
+   from:27/07/1945 till:26/10/1951 color:labourpm
+   from:27/10/1951 till:30/06/1955 color:labour
+   from:01/07/1955 till:08/10/1967 color:notmp
+  bar:AnthonyEden
+   from:12/06/1897 till:30/06/1923 color:notmp       text:"[[Anthony Eden]]" shift: (0,-4) fontsize:10
+   from:01/07/1923 till:06/04/1955 color:tory
+   from:06/04/1955 till:09/01/1957 color:torypm
+   from:10/01/1957 till:30/06/1961 color:tory
+   from:01/07/1961 till:14/01/1977 color:notmp
+  bar:HaroldMacmillan
+   from:10/02/1894 till:30/06/1924 color:notmp       text:"[[Harold Macmillan]]" shift: (2,-4) fontsize:10
+   from:01/07/1924 till:30/06/1929 color:tory
+   from:01/07/1929 till:30/06/1931 color:notmp
+   from:01/07/1931 till:05/07/1945 color:tory
+   from:06/07/1945 till:15/11/1945 color:notmp
+   from:16/11/1945 till:10/01/1957 color:tory
+   from:11/01/1957 till:18/10/1963 color:torypm
+   from:19/10/1963 till:15/09/1964 color:tory
+   from:16/09/1964 till:29/12/1986 color:notmp
+  bar:AlecDouglasHome
+   from:02/07/1903 till:30/06/1931 color:notmp       text:"[[Alec Douglas-Home]]" shift: (15,-4) fontsize:10
+   from:01/07/1931 till:05/07/1945 color:scotunion 
+   from:06/07/1945 till:18/06/1950 color:notmp
+   from:19/06/1950 till:18/10/1963 color:scotunion
+   from:19/10/1963 till:16/10/1964 color:torypm
+   from:17/10/1964 till:01/01/1965 color:scotunion
+   from:01/01/1965 till:10/10/1974 color:tory
+   from:11/10/1974 till:05/10/1995 color:notmp
+  bar:HaroldWilson
+   from:11/03/1916 till:05/07/1945 color:notmp       text:"[[Harold Wilson]]" shift: (0,-4) fontsize:10
+   from:06/07/1945 till:15/10/1964 color:labour
+   from:16/10/1964 till:19/06/1970 color:labourpm
+   from:20/06/1970 till:03/03/1974 color:labour
+   from:04/03/1974 till:05/04/1976 color:labourpm
+   from:06/04/1976 till:30/06/1983 color:labour 
+   from:01/07/1983 till:24/05/1995 color:notmp
+  bar:TedHeath
+   from:09/07/1916 till:18/06/1950 color:notmp       text:"[[Edward Heath]]" shift: (-10,-4) fontsize:10
+   from:19/06/1950 till:18/06/1970 color:tory 
+   from:19/06/1970 till:04/03/1974 color:torypm 
+   from:05/03/1974 till:07/06/2001 color:tory
+   from:08/06/2001 till:17/07/2005 color:notmp
+  bar:JamesCallaghan
+   from:27/03/1912 till:05/07/1945 color:notmp       text:"[[James Callaghan]]" shift: (0,-4) fontsize:10
+   from:06/07/1945 till:04/04/1976 color:labour
+   from:05/04/1976 till:03/05/1979 color:labourpm
+   from:04/05/1979 till:11/06/1987 color:labour
+   from:12/06/1987 till:26/03/2005 color:notmp
+  bar:MargaretThatcher
+   from:13/10/1925 till:08/10/1959 color:notmp       text:"[[Margaret Thatcher]]" shift: (0,-4) fontsize:10
+   from:09/10/1959 till:03/05/1979 color:tory
+   from:04/05/1979 till:27/11/1990 color:torypm
+   from:28/11/1990 till:09/04/1992 color:tory
+   from:10/04/1992 till:08/04/2013 color:notmp
+  bar:JohnMajor
+   from:29/03/1943 till:03/05/1979 color:notmp       text:"[[John Major]]" shift: (-20,-4) fontsize:10
+   from:04/05/1979 till:27/11/1990 color:tory
+   from:28/11/1990 till:02/05/1997 color:torypm
+   from:02/05/1997 till:07/06/2001 color:tory
+   from:08/06/2001 till:end        color:notmp
+  bar:TonyBlair
+   from:06/05/1953 till:03/05/1983 color:notmp       text:"[[Tony Blair]]" shift: (-15,-4) fontsize:10
+   from:04/05/1983 till:01/05/1997 color:labour
+   from:02/05/1997 till:26/06/2007 color:labourpm
+   from:27/06/2007 till:end        color:notmp
+  bar:GordonBrown
+   from:20/02/1951 till:03/05/1983 color:notmp       text:"[[Gordon Brown]]" shift: (-6,-4) fontsize:10
+   from:04/05/1983 till:26/06/2007 color:labour
+   from:27/06/2007 till:10/05/2010 color:labourpm
+   from:11/05/2010 till:07/05/2015 color:labour
+   from:07/05/2015 till:end        color:notmp
+  bar:DavidCameron
+   from:09/10/1966 till:07/06/2001 color:notmp       text:"[[David Cameron]]" shift: (-8,-4) fontsize:10
+   from:07/06/2001 till:10/05/2010 color:tory
+   from:11/05/2010 till:13/07/2016 color:torypm
+   from:13/07/2016 till:12/09/2016 color:tory
+   from:12/09/2016 till:13/11/2023 color:notmp
+   from:13/11/2023 till:05/07/2024 color:tory
+   from:06/07/2024 till:end        color:notmp
+  bar:TheresaMay
+   from:01/10/1956 till:30/06/1997 color:notmp       text:"[[Theresa May]]" shift: (-24,-4) fontsize:10
+   from:01/05/1997 till:12/07/2016 color:tory
+   from:13/07/2016 till:24/07/2019 color:torypm
+   from:24/07/2019 till:30/05/2024 color:tory
+   from:30/05/2024 till:end        color:notmp
+  bar:BorisJohnson
+   from:19/06/1964 till:09/06/2001 color:notmp       text:"[[Boris Johnson]]" shift: (-12,-4) fontsize:10
+   from:09/06/2001 till:04/06/2008 color:tory
+   from:04/06/2008 till:07/05/2015 color:notmp
+   from:07/05/2015 till:24/07/2019 color:tory
+   from:24/07/2019 till:06/09/2022 color:torypm
+   from:06/09/2022 till:09/06/2023 color:tory
+   from:09/06/2023 till:end        color:notmp
+  bar:LizTruss
+   from:26/07/1975 till:06/05/2010 color:notmp       text:"[[Liz Truss]]" shift: (-12,-4) fontsize:10
+   from:06/05/2010 till:06/09/2022 color:tory
+   from:06/09/2022 till:25/10/2022 color:torypm
+   from:25/10/2022 till:05/07/2024 color:tory
+   from:05/07/2024 till:end        color:notmp
+  bar:RishiSunak
+   from:12/05/1980 till:07/05/2015 color:notmp       text:"[[Rishi Sunak]]" shift: (-12,-4) fontsize:10
+   from:07/05/2015 till:25/10/2022 color:tory
+   from:25/10/2022 till:05/07/2024 color:torypm
+   from:05/07/2024 till:end        color:tory
+  bar:KeirStarmer
+   from:02/09/1962 till:07/05/2015 color:notmp       text:"[[Keir Starmer]]" shift: (-6,-4) fontsize:10
+   from:07/05/2015 till:05/07/2024 color:labour
+   from:05/07/2024 till:end        color:labourpm
+
+ScaleMajor = gridcolor:line unit:year increment:10 start:01/01/1810
+ScaleMinor = gridcolor:liteline unit:year increment:5 start:01/01/1805
+}}
+
+==References==
+* {{citation |last=Dickinson |first=Harry T. |year=1973 |title=Walpole and the Whig Supremacy |location=London |publisher=English Universities Press |isbn=0-340-11515-7 |url-access=registration |url=https://archive.org/details/walpolewhigsupre0000dick }}
+
+{{List of UK Prime Ministers}}
+{{Use dmy dates|date=January 2019}}
+
+[[Category:British history timelines|Prime Ministers]]
+[[Category:Lists of prime ministers of the United Kingdom|Timeline]]
+[[Category:Graphical timelines|Prime Ministers of the United Kingdom]]
+
+This is the TEST.<ref group="lower-alpha">Your footnotes here.</ref>
+
+==Notelist==
+{{notelist|30em}}

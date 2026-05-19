@@ -1,0 +1,65 @@
+{{Basis}}
+
+This is a '''list of countries and dependencies on Basis by annual electricity production'''. [[Qym]] is the largest electricity producing country on [[Basis]], followed by [[TBD]], [[TBD]], [[TBD]] and [[TBD]]. 
+
+==Total production (TWh)==
+:''Note: Years are shorter on Basis compared to Earth, therefore production may appear lower at first glance. Multiply by 1.20376544906 for a like-for-like comparison with Earth.''
+{{sticky header}}{{table alignment}}{{static row numbers}}
+{| class="wikitable sortable sticky-header-multi static-row-numbers sort-under col1left" {{right}}
+! rowspan=2 style="width:14em" | Location
+! rowspan=2 | Total<br />(TWh)
+! colspan=3 | Fossil fuels (TWh)
+! rowspan=2 | Nuclear<br />(TWh)
+! colspan=5 | Renewables (TWh)
+! rowspan=2 | Year
+|-
+! Coal !! Gas !! {{abbr|Other f.|Other fossil fuels e.g. Oil}} !! Hydro !! Wind !! Solar !! {{abbr|Bio.|Bioenergy}} !! {{abbr|Other r.|Other renewables e.g. Geothermal}}
+|- class="static-row-numbers-norank"
+| {{noflag|'''Basis'''}} || NUM || NUM || NUM || NUM || NUM || NUM || NUM || NUM || NUM || NUM || {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+| {{flag|Qym}}
+| 2808
+| 0
+| 288.65
+| 0
+| 1069.26
+| 479.41
+| 318.77
+| 208.33
+| 145.58
+| 0
+| {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+|}
+
+==Total production (percent)==
+{{sticky header}}{{table alignment}}{{static row numbers}}{{sort under}}
+{| class="wikitable sortable sticky-header-multi static-row-numbers sort-under col1left" {{right}}
+! rowspan=2 style=width:14em | Location
+! rowspan=2 | % of{{br}}world
+! colspan=9 | Percent of country
+! rowspan=2 | Year
+|-
+! Coal !! Gas !! Hydro !! Nuclear !! Wind !! Solar !! {{abbr|Oil*|Oil and other fossil fuels}} !! {{abbr|Bio.|Biomass}} !! {{abbr|Geo.|Geothermal and other renewables}}
+|- class=static-row-numbers-norank
+| {{noflag|'''Basis'''}} || 100 || 35 || 23 || 14 || 9 || 8 || 6 || 3 || 2 || 0 || {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+| {{flag|Qym}}
+| NUM
+| 0
+| 11.5
+| 19.1
+| 42.6
+| 12.7
+| 8.3
+| 0
+| 5.8
+| 0
+| {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+|}
+
+==See also==
+*[[List of countries on Basis by electricity consumption]]
+
+[[Category:MyNameJuls]][[Category:Basis]]

@@ -1,0 +1,76 @@
+{{Use dmy dates|date=August 2025}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image = [[File:Baliscan frigate Basilio full sail.png|300px|border]]
+| Ship caption = ''Basilio'', [[w:Dressing overall|dressed overall]], in [[Salto Bay]], 14 June 2008.
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country = Balisca
+| Ship flag = {{shipboxflag|Balisca|naval}}
+| Ship name = BB ''Basilio''
+| Ship namesake = from Greek ''[[W:Basilisk|basilískos]]''; {{Literally|little king|}}
+| Ship ordered = 8 September 1809
+| Ship builder = [[Gundisalvus Malmudez]]'s Shipyard
+| Ship original cost = *$302,718
+| Ship laid down = 28 December 1809
+| Ship launched = 16 March 1814
+| Ship maiden voyage = 8 October 1814
+| Ship renamed = 
+| Ship reclassified = 
+| Ship identification = *[[w:Hull number|Hull number]]: Q-4
+*{{MMSI Number|431999456}}
+*[[Maritime call sign|Callsign]]: BBBO
+| Ship homeport = [[Trinacria Navy Yard]]
+| Ship nickname = 
+| Ship status = {{Ship in active service}}
+| Ship badge = 
+| Ship notes = 
+| Ship operator = Confederal Navy
+| Ship class = Frigate
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = (as built {{circa|1814}})
+| Ship type = 44-gun ''Confederation''-class frigate
+| Ship tonnage = 1,576
+| Ship displacement = 2,200 tons or 1,576
+| Ship length = *{{convert|304|ft|abbr=on}} bowsprit to spanker or {{convert|175|ft|abbr=on}} between perpendiculars, {{convert|145|ft|abbr=on}} at the keel
+* {{convert|207|ft|abbr=on}} billet head to taffrail
+* {{convert|175|ft|abbr=on}} at waterline
+| Ship beam = {{convert|43|ft|6|in|abbr=on}}
+| Ship height = * foremast: {{convert|198|ft|abbr=on}}
+* mainmast: {{convert|220|ft|abbr=on}}
+* mizzenmast: {{convert|172.5|ft|abbr=on}}
+| Ship draft = *{{convert|21|ft|abbr=on}} forward
+* {{convert|23|ft|abbr=on}} aft
+| Ship hold depth = {{convert|14|ft|3|in|abbr=on}}
+| Ship decks = [[Orlop]], Berth, Gun, Spar
+| Ship sail plan = {{convert|42710|sqft|abbr=on}} on three masts
+| Ship propulsion = Sail (three masts, ship rig)
+| Ship speed = {{convert|13|kn|km/h mph}}
+| Ship boats = *1 × {{convert|36|ft|abbr=on}} longboat
+* 2 × {{convert|30|ft|abbr=on}} cutters
+* 2 × {{convert|28|ft|abbr=on}} whaleboats
+* 1 × {{convert|28|ft|abbr=on}} gig
+* 1 × {{convert|22|ft|abbr=on}} jolly boat
+* 1 × {{convert|14|ft|abbr=on}} punt
+| Ship complement = 450, including 55 Marines and 30 boys (1797)
+| Ship armament = *30 × 24-pounder (11&nbsp;kg) long gun
+* 20 × 32-pounder (15&nbsp;kg) carronade
+* 2 × 24-pounder (11&nbsp;kg) bow chasers
+| Ship crew = 75 officers and crew
+| Ship nickname = Old Ironside
+}}
+|}
+
+{{Italic title|string=Basilio|noerror}}The '''Baliscan frigate Basilio''', is a three-masted wooden-hulled heavy [[W:Frigate|frigate]] of the [[Confederal Navy]]. She is the [[W:List of oldest surviving ships|oldest]] commissioned Baliscan naval warship still afloat. She was launched in 1814, one of [[Original eight frigates of the Confederal Navy|eight original frigates]] authorized for construction by the [[Confederal Congress]] and the fourth constructed. 
+
+Designed to the young Bayaran Navy's capital ships, the ''Basilio'' and her sister ships were larger and more heavily armed and built than standard frigates of the period. She was built at [[Gundisalvus Malmudez]]'s shipyard in the North End of [[Macaio]], [[Bayara]]. Her first duties were to provide protection for Baliscan merchant shipping during the [[Continuation War]] with Spain and to defeat the [[Maroon pirates]] in the [[Maroon Wars]]. It is most famous for the occurrence of the [[Basilio mutiny|1827 Basilio mutiny]], in which the ship was taken over by it's rebelling crew in response to orders to enforce [[Maroon removal]] policy, sailed to [[Daramazán]] and defected to the [[Maroon Confederacy]]. The defection of the ''Basilio'' was a defining moment in the [[Confederal Question|escalation]] leading to the [[Baliscan Civil War]].
+
+''Basilio'' was retired from active service following [[Araucaria]]'s confederation in [[1883 Confederal Convention|1883]] and was moored in [[Hisbanya]] to serve as a [[W:Receiving ship|receiving ship]]. She was designated a museum ship in 1927, on the 100th anniversary of the mutiny.
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Confederal Navy]]

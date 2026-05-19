@@ -1,0 +1,60 @@
+{{Infobox language
+| name             = Mozbayani
+| altname          =Andalusian 
+| nativename       = 
+| pronunciation    = <!-- IPA pronunciation of the native name -->
+| ethnicity        = [[Andalusian people|Andalusians]] and [[Mozbayán people|Mozbayáns]]
+| speakers         = 120 million ({{circa|2023}})
+| date             = <!-- date of estimate of number of speakers/signers (must start with a 4-digit year: see next) -->
+| dateprefix       = <!-- any text wanted inside the parentheses before the date; a space ( ) must be explicitly included at the end -->
+| ref              = <!-- reference for the number of speakers/signers. Appears after the (date) field. -->
+| speakers2        = <!-- {{W|Second language|L2}} 2nd line (2nd estimate, 2nd country, L2 speakers, etc.) -->
+| familycolor      = Indo-European
+| fam1             = {{W|Indo-European languages|Kemalo-Illypnian}}
+| fam2             = {{W|Italic languages|Monsoric}}
+| fam3             = {{W|Romance languages|Mesogean}}
+| fam4             = {{W|Italo-Western languages|Monosoro-Western}}
+| fam5             = Andalusian
+| stand1           = [[Araucarian Andalusian|Araucarian]], [[Hesperian Andalusian|Hesperian]] and [[Cabu Verdan Andalusian|Cabu Verdan]] (Balisca)
+| sign             = Ajami Sign Language
+| script           = {{W|Arabic script|Bayani}}, {{W|Hebrew script|Hebrew}}, {{W|Latin script|Mesogean}}, {{W|Aljamiado|Aljamía}} (standards script since early 14th century)
+| nation           = {{ubl|{{flag|Andalus}}
+|{{flag|Balisca}}
+}}
+| region           = [[Al-Andalus]] (originated) <br> [[Andalus]] and [[Balisca]] (present-day)
+| iso3             = mxi
+| glotto           = moza1249
+| glottorefname    = Mozarabic
+| linglist         = mxi
+| notice           = IPA
+| lingua           = <!-- the Linguasphere code for the language -->
+| map              = Linguistic map Southwestern Europe-en.gif
+| mapcaption       = <!-- caption to appear under map -->
+| agency           = <!-- regulatory body or language academy for the language-->
+| creator          = <!-- name of language creator -->
+| created          = <!-- year of first creation -->
+| setting          = <!-- the use or setting for the language -->
+| posteriori       = <!-- natural-language sources --> {{W|Arabic language|Bayani}}, {{W|Iberian Romance languages|Andalusi Mesogean}}
+| minority         = 
+| extinct          = <!-- date of extinction, or information about extinction ← this replaces speakers -->
+| revived          = <!-- date and/or population of attempted revival of extinct language -->
+| revived-category = <!-- (or | revived-cat = ) optional name (without "Category:") of appropriate subcategory of Category:Language revival (which is used by default if |revived= has a value); can be given as | revived-category = nocat to suppress the categorization entirely, when the language has a separate article about its revival that is already in the category (e.g. Cornish revival is in Category:Celtic language revival, so | is used in the infobox at Cornish language). -->
+| era              = <!-- era of use of an ancestral form of a language ← this replaces speakers -->
+| mapsize          = 250
+}}
+{{Culture of Balisca}}
+
+'''Mozbayani''', alternatively known as '''Andalusian''' or '''Ajami''' (in the [[Bayani-speaking world]]), is a continuum of closely related dialects that first emerged in [[Andalus]], descended from Late Mesogean and early [[TBA]] dialects spoken in the region. It was gradually [[W:Romanization|mesogeanized]] following the [[Andalusi–Mauretanian wars]] and the subsequent [[unification of Andalus]]. In the present day, it is spoken natively by communities across [[Andalus]] and the [[Northern Triangle]] of [[Abyala]], collectively known as the [[W:Cultural region|cultural region]] [[Mozbayana]]. 
+
+Because Mozbayani was not considered a language of {{W|high culture}}, it had no official script until the 14th century. Unlike most [[W:Romance languages|Mesogean languages]], Mozarabic was primarily written in the {{W|Arabic script|Bayani script}} rather than the {{W|Latin script|Mesogean script}}, though it was also written in Mesogean and to a lesser extent in the [[W:Hebrew alphabet|Lagashi alphabet]]. Ajami scholars wrote words of the Mesogean vernacular in alternative scripts on the margins or in the subtitles of Mesogean-language texts (glosses). 
+
+A common standard of Mozbayani did not appear until the late 15th century and is mainly based on the [[Calatayud|Calatayud dialect]]. Its main merit is that its written form standardized vowel writing in Bayani script that became the ''Aljamiado'' (Aljamía Novel). The vowels are written as separate character and not as diacritics. The Aljamía Novel can be transliterated into the Mesogean alphabet, although is not an exact letter to letter transliteration. Aljamía Novel quickly spread and by the 14th century it had built a large writing corpus that began copying classical Bayani poetic forms styles and evolved in its own forms. 
+
+Usage of the Mesogean script in Mozbayani-speaking communities rapidly increased during the [[Anyos Federales|''Anyos Federales'']] and through the subsequent [[W:Linguistic standardization|standardization]] of [[Baliscano]], and now constitutes the predominant writing system used by the language's speakers. However there has been a revival in the usage of the Bayani script in the 21st century, mostly as a result of the resurgence of [[Mozbayana|Mozbayán nationalism]] spearheaded by groups such as [[Mozbayana Existe|''Mozbayana Existe'']].
+
+==See also==
+{{Balisca articles}}
+
+[[Category:Balisca]]
+[[Category:Culture of Balisca]]
+[[Category:Languages of Balisca]]

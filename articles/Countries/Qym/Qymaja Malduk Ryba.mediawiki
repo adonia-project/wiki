@@ -1,0 +1,165 @@
+{{Basis}}
+{{Infobox airline
+| airline          = Qymaja Malduk Ryba
+| image            = QMR logo.png
+| image_size       = 
+| alt              = QMR
+| IATA             = QY
+| ICAO             = QMR
+| callsign         = QYMAJA
+| founded          = DAY MONTH YEAR
+| commenced        = DAY MONTH YEAR
+| hubs             = {{ubl|class=nowrap
+  | [[Byvichek International Airport|Byvichek]]
+  | [[Nagur International Airport|Nagur]]
+  | [[Patsalys International Airport|Patsalys]]
+  | [[King Bacha XV International Airport|Zhol–BYL]]
+}}
+| secondary_hubs   = {{ubl|class=nowrap
+  | [[Kalnuj International Airport|Kalnuj]]
+  | [[Leramy International Airport|Leramy]]
+  | [[Teurek International Airport|Teurek]]
+  | [[Princess Zhivalka International Airport|Zhol–Zhivalka]]
+}}
+| focus_cities     = 
+| frequent_flyer   = TBD
+| lounge           = [[TBD]]
+| alliance         = [[TBD]]
+| subsidiaries     = 
+| fleet_size       = 1,015
+| destinations     = NUM
+| company_slogan   = ''Come to Qym or fuck off.''                 
+| parent           = [[Government of Qym]]
+| headquarters     = [[Zhol]], [[Qym]]
+| key_people       = 
+<div>
+* [[DUDE]] (Chairperson)
+* [[DUDE]] (President & CEO)
+</div>
+| revenue          = {{increase}} $TBD billion ({{abbr|2440|2027 (Earth Year Equivalent)}})
+| operating_income = 
+| net_income       = 
+| profit           = {{increase}} $TBD million ({{abbr|2440|2027 (Earth Year Equivalent)}})
+| assets           = 
+| equity           = 
+| num_employees    = NUM ({{abbr|2440|2027 (Earth Year Equivalent)}})
+| website          = 
+}}
+
+'''Qymaja Malduk Ryba'''<!--Qymish Air Lines--> ('''QMR'''; [[Sukatic script]]: Ⱒⰺⰿⰰⱜⰰ Ⰿⰰⰾⰴⱆⰽ Ⱃⰺⰱⰰ) is the flag carrier and the largest airline of [[Qym]], by size and passengers carried. 
+
+==Fleet==
+As of MONTH {{abbr|2440|2027 (Earth Year Equivalent)}}, Qymaja Malduk Ryba operates the following aircraft:
+
+{| class="wikitable" style="margin:0.5em auto; text-align:center"
+|+ Qymaja Malduk Ryba fleet
+|-
+!rowspan=2|Aircraft
+!rowspan=2|In service
+!rowspan=2|Orders
+!colspan=6 class="unsortable"|Passengers
+!rowspan=2| Notes
+|-
+!style="width:25px;"|{{Abbr|F|First}}
+!style="width:25px;"|{{Abbr|B+|Business Plus}}
+!style="width:25px;"|{{Abbr|B|Business}}
+!style="width:25px;"|{{Abbr|E+|Economy Plus}}
+!style="width:25px;"|{{Abbr|E|Economy}}
+!style="width:25px;"|Total
+|-
+|[[Vajdila H-50]]
+|80
+|—
+|—
+|—
+|—
+|—
+|50
+|50
+|Launch customer.
+|-
+|[[Vajdila H-60]]
+|60
+|—
+|—
+|—
+|—
+|30
+|60
+|90
+|Launch customer.
+|-
+|[[Vajdila H-70]]
+|150
+|—
+|—
+|—
+|16
+|20
+|96
+|132
+|Launch customer.
+|-
+|[[Vajdila H-80]]
+|190
+|—
+|—
+|—
+|4
+|24
+|138
+|166
+|Launch customer.
+|-
+|[[Vajdila H-90]]
+|150
+|—
+|—
+|—
+|22
+|18
+|172
+|210
+|Launch customer.
+|-
+|[[Vajdila H-850]]
+|165
+|—
+|—
+|37
+|24
+|66
+|146
+|273
+|Launch customer.
+|-
+|[[Vajdila H-855]]
+|145
+|—
+|—
+|20
+|28
+|48
+|138
+|234
+|Launch customer.
+|-
+|[[Vajdila H-875]]
+|75
+|—
+|—
+|70
+|44
+|30
+|186
+|330
+|Launch customer.
+|-
+!Total
+!1015
+!TBD
+! colspan="7" |
+|}
+
+
+[[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

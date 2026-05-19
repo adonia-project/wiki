@@ -1,0 +1,2027 @@
+{{TopicTOC-Country-Okaiken}}
+This is a complete list of municipalities in [[Okaiken]] sorted by prefecture, reconstructed from the 2026 Okaiken Geography Database files. The list encompasses major metropolises, cities, towns, and villages across the country's 48 prefectural divisions. 
+
+In Okaiken, municipal designations are generally applied based on population thresholds:
+* '''Cities''' ({{lang|ja|市}}, ''shi''): Generally designated for populations exceeding 50,000.
+* '''Towns''' ({{lang|ja|町}}, ''machi'' or ''chō''): Generally designated for populations between 10,000 and 50,000.
+* '''Villages''' ({{lang|ja|村}}, ''mura'' or ''son''): Generally designated for populations under 10,000.
+
+== Municipalities ==
+
+This sortable table lists all municipalities in Okaiken as of the 2026 Okaiken Geography Database. Full raw data (including coordinates, exact area, and density) for every entry is available in the 48 prefecture CSVs (or direct download links).
+
+{{static row numbers}}
+{{Sticky header}}
+{|class="wikitable sortable static-row-numbers static-row-header-text" style="text-align:right;"
+! City (Special Ward) !! Sanese !! Prefecture !! Population !! Area (km<sup>2</sup>) !! Density (per km<sup>2</sup>) !! Coordinates
+|-
+| [[Okami]] || 大紙 || [[Okami Metropolis]] || 8,259,189 || 359.10 || 23,000.00 || {{Coord|-16.74095|158.24047|display=inline}}
+|-
+| [[Mitsu-Minato]] || 三津港 || [[Okami Metropolis]] || 1,388,670 || 89.27 || 15,555.12 || 16.63072°S 158.23342°E
+|-
+| [[Hojo]] || 北条 || [[Okami Metropolis]] || 725,669 || 59.52 || 12,192.74 || 16.91918°S 158.43594°E
+|-
+| [[Shigenobu]] || 重信 || [[Okami Metropolis]] || 725,833 || 85.80 || 8,459.38 || 16.93015°S 158.18344°E
+|-
+| [[Kawauchi]] || 川内 || [[Okami Metropolis]] || 492,708 || 23.56 || 20,911.84 || 16.89951°S 158.27954°E
+|-
+| [[Tobe]] || 砥部 || [[Okami Metropolis]] || 726,209 || 57.47 || 12,636.43 || 16.79632°S 158.34113°E
+|-
+| [[Masaki]] || 松前 || [[Okami Metropolis]] || 463,469 || 37.47 || 12,370.65 || 16.77245°S 158.40208°E
+|-
+| [[Yuyama]] || 湯山 || [[Okami Metropolis]] || 429,168 || 65.81 || 6,521.20 || 16.65217°S 158.01704°E
+|-
+| [[Dogo]] || 道後 || [[Okami Metropolis]] || 408,424 || 67.83 || 6,020.85 || 16.75085°S 158.02220°E
+|-
+| [[Takanoko]] || 鷹ノ子 || [[Okami Metropolis]] || 329,815 || 86.15 || 3,828.26 || 16.88694°S 158.05638°E
+|-
+| [[Kume]] || 久米 || [[Okami Metropolis]] || 421,662 || 59.65 || 7,069.41 || 16.84888°S 158.12926°E
+|-
+| [[Habu]] || 垣生 || [[Okami Metropolis]] || 392,225 || 45.46 || 8,628.00 || 16.85791°S 158.21182°E
+|-
+| [[Ishite]] || 石手 || [[Okami Metropolis]] || 202,831 || 39.85 || 5,090.32 || 16.94305°S 158.25439°E
+|-
+| [[Takahama]] || 高浜 || [[Okami Metropolis]] || 481,358 || 86.23 || 5,582.13 || 16.60057°S 158.25374°E
+|-
+| [[Oka]] || 岡 || [[Okami Metropolis]] || 538,890 || 46.22 || 11,659.68 || 16.78052°S 158.17183°E
+|-
+| [[Karasaki]] || 唐崎 || [[Okami Metropolis]] || 182,109 || 44.95 || 4,051.41 || 16.60508°S 158.08863°E
+|-
+| [[Sugisawa]] || 杉沢 || [[Okami Metropolis]] || 171,503 || 35.03 || 4,896.18 || 16.65604°S 158.08476°E
+|-
+| [[Asami]] || 浅海 || [[Okami Metropolis]] || 270,818 || 42.37 || 6,391.73 || 16.78310°S 158.11636°E
+|-
+| [[Iwaida]] || 祝谷 || [[Okami Metropolis]] || 133,539 || 15.92 || 8,387.52 || 16.68700°S 158.12604°E
+|-
+| [[Gomyo]] || 五明 || [[Okami Metropolis]] || 126,593 || 41.36 || 3,061.04 || 16.80825°S 158.01381°E
+|-
+| [[Iwagami]] || 岩神 || [[Okami Metropolis]] || 133,844 || 21.81 || 6,137.60 || 16.62701°S 158.15055°E
+|-
+| [[Mihata]] || 御旗 || [[Okami Metropolis]] || 71,996 || 9.61 || 7,490.77 || 16.70634°S 158.08798°E
+|-
+| [[Yodo]] || 余戸 || [[Okami Metropolis]] || 107,659 || 22.63 || 4,757.38 || 16.88565°S 158.32598°E
+|-
+| [[Chichijima]] || 父島 || [[Okami Metropolis]] || 15,122 || 73.75 || 205.03 || 15.70245°S 167.69364°E
+|-
+| [[Hahajima]] || 母島 || [[Okami Metropolis]] || 9,608 || 14.19 || 677.31 || 16.08976°S 167.29601°E
+|-
+| [[Ioto]] || 硫黄島 || [[Okami Metropolis]] || 9,846 || 3.05 || 3,226.94 || 15.28992°S 167.90329°E
+|-
+| [[Nishinoshima]] || 西之島 || [[Okami Metropolis]] || 8,237 || 4.34 || 1,897.58 || 15.66509°S 167.59387°E
+|-
+| [[Minamitorishima]] || 南鳥島 || [[Okami Metropolis]] || 7,124 || 2.94 || 2,425.27 || 15.83923°S 167.16029°E
+|-
+| [[Mukojima]] || 聟島 || [[Okami Metropolis]] || 6,438 || 12.92 || 498.38 || 16.19751°S 167.18480°E
+|-
+| [[Ototojima]] || 弟島 || [[Okami Metropolis]] || 5,325 || 3.80 || 1,401.07 || 16.12591°S 167.08870°E
+|-
+| [[Anijima]] || 兄島 || [[Okami Metropolis]] || 4,445 || 51.48 || 86.35 || 16.18082°S 166.87110°E
+|-
+| [[Meijima]] || 姪島 || [[Okami Metropolis]] || 3,152 || 18.22 || 172.99 || 16.29272°S 166.87658°E
+|-
+| [[Imotojima]] || 妹島 || [[Okami Metropolis]] || 2,519 || 8.64 || 291.66 || 16.38882°S 166.85401°E
+|-
+| [[Minamijima]] || 南島 || [[Okami Metropolis]] || 1,941 || 45.15 || 42.99 || 16.51975°S 166.85272°E
+|-
+| [[Okinotorishima]] || 沖ノ鳥島 || [[Okami Metropolis]] || 13 || 5.53 || 2.35 || 15.87607°S 166.70567°E
+|-
+| [[Shinagawa]] || 品川 || [[Miyagi Prefecture]] || 2,305,184 || 667.15 || 3,455.25 || 16.52192°S 156.49518°E
+|-
+| [[Sendai]] || 仙台 || [[Miyagi Prefecture]] || 339,902 || 877.09 || 387.53 || 16.52148°S 156.89254°E
+|-
+| [[Kanoya]] || 鹿屋 || [[Miyagi Prefecture]] || 88,417 || 145.24 || 608.76 || 16.43630°S 156.40568°E
+|-
+| [[Satsuma]] || 薩摩 || [[Miyagi Prefecture]] || 6,697 || 55.68 || 120.29 || 16.68570°S 156.22040°E
+|-
+| [[Yamato]] || 大和 || [[Miyagi Prefecture]] || 11,957 || 72.98 || 163.85 || 16.50050°S 156.16921°E
+|-
+| [[Kirishima]] || 霧島 || [[Miyagi Prefecture]] || 76,234 || 235.65 || 323.50 || 16.58360°S 156.38428°E
+|-
+| [[Hioki]] || 日置 || [[Miyagi Prefecture]] || 21,415 || 426.86 || 50.17 || 16.37601°S 157.00835°E
+|-
+| [[Soo]] || 曽於 || [[Miyagi Prefecture]] || 19,768 || 238.72 || 82.81 || 16.35128°S 156.77196°E
+|-
+| [[Setoda]] || 瀬戸田 || [[Miyagi Prefecture]] || 15,885 || 145.06 || 109.51 || 16.85731°S 157.14730°E
+|-
+| [[Isen]] || 伊仙 || [[Miyagi Prefecture]] || 17,337 || 46.67 || 371.48 || 16.34726°S 156.50817°E
+|-
+| [[Uken]] || 宇検 || [[Miyagi Prefecture]] || 13,122 || 66.76 || 196.55 || 16.65767°S 156.88597°E
+|-
+| [[Tatsugo]] || 龍郷 || [[Miyagi Prefecture]] || 61,121 || 317.86 || 192.29 || 16.27737°S 156.54323°E
+|-
+| [[Izumi]] || 出水 || [[Miyagi Prefecture]] || 41,563 || 351.87 || 118.12 || 16.66940°S 157.03420°E
+|-
+| [[Amami]] || 奄美 || [[Miyagi Prefecture]] || 54,907 || 81.76 || 671.56 || 16.40716°S 156.26162°E
+|-
+| [[Yoron]] || 与論 || [[Miyagi Prefecture]] || 49,415 || 486.12 || 101.65 || 16.08796°S 156.88947°E
+|-
+| [[Tokuno]] || 徳之 || [[Miyagi Prefecture]] || 44,108 || 207.23 || 212.84 || 16.53386°S 156.71972°E
+|-
+| [[Tarumizu]] || 垂水 || [[Miyagi Prefecture]] || 38,222 || 211.20 || 180.98 || 15.98935°S 156.71861°E
+|-
+| [[Kikai]] || 喜界 || [[Miyagi Prefecture]] || 34,447 || 96.73 || 356.12 || 16.65310°S 156.58362°E
+|-
+| [[Wadomori]] || 和泊 || [[Miyagi Prefecture]] || 29,116 || 229.20 || 127.03 || 16.81174°S 156.96660°E
+|-
+| [[China]] || 知名 || [[Miyagi Prefecture]] || 26,434 || 186.54 || 141.71 || 16.14451°S 156.77654°E
+|-
+| [[Kushikino]] || 串木野 || [[Miyagi Prefecture]] || 23,989 || 192.94 || 124.33 || 16.04988°S 156.60059°E
+|-
+| [[Akune]] || 阿久根 || [[Miyagi Prefecture]] || 65,419 || 377.07 || 173.49 || 16.73942°S 156.83464°E
+|-
+| [[Akita]] || 秋田 || [[Akita Prefecture]] || 1,059,922 || 599.49 || 1,768.05 || 16.52861°S 157.46994°E
+|-
+| [[Odate]] || 大館 || [[Akita Prefecture]] || 124,512 || 346.73 || 359.10 || 16.57065°S 157.19274°E
+|-
+| [[Noshiro]] || 能代 || [[Akita Prefecture]] || 108,433 || 299.66 || 361.85 || 16.56958°S 157.71137°E
+|-
+| [[Yokote]] || 横手 || [[Akita Prefecture]] || 95,221 || 278.63 || 341.74 || 16.73946°S 157.74291°E
+|-
+| [[Oga]] || 男鹿 || [[Akita Prefecture]] || 82,109 || 220.72 || 372.00 || 16.50891°S 157.85940°E
+|-
+| [[Gojome]] || 五城目 || [[Akita Prefecture]] || 20,216 || 33.15 || 609.90 || 16.34874°S 157.73078°E
+|-
+| [[Happo]] || 八峰 || [[Akita Prefecture]] || 19,455 || 159.17 || 122.23 || 16.79528°S 157.52207°E
+|-
+| [[Yunohara]] || 湯原 || [[Akita Prefecture]] || 74,852 || 142.98 || 523.51 || 16.44096°S 157.18231°E
+|-
+| [[Katagami]] || 潟上 || [[Akita Prefecture]] || 67,263 || 133.55 || 503.65 || 16.59385°S 157.32064°E
+|-
+| [[Daisen]] || 大仙 || [[Akita Prefecture]] || 58,907 || 403.78 || 145.89 || 16.51134°S 157.65069°E
+|-
+| [[Kitaakita]] || 北秋田 || [[Akita Prefecture]] || 52,045 || 273.73 || 190.13 || 16.45431°S 157.46989°E
+|-
+| [[Nikaho]] || にかほ || [[Akita Prefecture]] || 45,744 || 104.22 || 438.91 || 16.36937°S 157.77325°E
+|-
+| [[Mitane]] || 三種 || [[Akita Prefecture]] || 21,885 || 189.06 || 115.76 || 16.28928°S 157.50266°E
+|-
+| [[Senboku]] || 仙北 || [[Akita Prefecture]] || 39,212 || 200.74 || 195.34 || 16.31840°S 157.35826°E
+|-
+| [[Kosaka]] || 小坂 || [[Akita Prefecture]] || 33,461 || 398.13 || 84.04 || 16.72005°S 157.30608°E
+|-
+| [[Kamikoani]] || 上小阿仁 || [[Akita Prefecture]] || 28,109 || 144.86 || 194.05 || 16.39060°S 157.30123°E
+|-
+| [[Fujisato]] || 藤里 || [[Akita Prefecture]] || 24,332 || 139.49 || 174.43 || 16.66484°S 157.55726°E
+|-
+| [[Mitane]] || 三種 || [[Akita Prefecture]] || 20,005 || 26.99 || 741.18 || 16.49253°S 157.31579°E
+|-
+| [[Fukushima]] || 福島 || [[Fukushima Prefecture]] || 657,081 || 288.48 || 2,277.73 || 17.16617°S 157.67579°E
+|-
+| [[Natori]] || 名取 || [[Fukushima Prefecture]] || 184,221 || 213.78 || 861.74 || 17.42281°S 157.75957°E
+|-
+| [[Inuyama]] || 犬山 || [[Fukushima Prefecture]] || 144,551 || 217.37 || 665.01 || 17.24301°S 158.11814°E
+|-
+| [[Adachi]] || 安達 || [[Fukushima Prefecture]] || 120,412 || 133.55 || 901.61 || 16.89078°S 157.17981°E
+|-
+| [[Iwase]] || 岩瀬 || [[Fukushima Prefecture]] || 98,221 || 167.24 || 587.32 || 17.31083°S 158.03852°E
+|-
+| [[Yama]] || 耶麻 || [[Fukushima Prefecture]] || 85,117 || 97.97 || 868.83 || 16.85033°S 157.53980°E
+|-
+| [[Kawanuma]] || 河沼 || [[Fukushima Prefecture]] || 62,331 || 89.64 || 695.36 || 17.06025°S 158.08039°E
+|-
+| [[Onuma]] || 大沼 || [[Fukushima Prefecture]] || 54,229 || 85.60 || 633.48 || 17.07299°S 157.72606°E
+|-
+| [[Ishikawa]] || 石川 || [[Fukushima Prefecture]] || 48,112 || 77.59 || 620.06 || 17.13852°S 158.02457°E
+|-
+| [[Nishishirakawa]] || 西白河 || [[Fukushima Prefecture]] || 38,442 || 75.60 || 508.52 || 16.79876°S 157.21521°E
+|-
+| [[Higashishirakawa]] || 東白河 || [[Fukushima Prefecture]] || 42,118 || 57.36 || 734.26 || 16.81453°S 157.30500°E
+|-
+| [[Asaka]] || 安積 || [[Fukushima Prefecture]] || 25,411 || 111.31 || 228.29 || 17.22589°S 157.94934°E
+|-
+| [[Shinchi]] || 新地 || [[Fukushima Prefecture]] || 22,098 || 156.19 || 141.48 || 16.88977°S 157.39237°E
+|-
+| [[Iitate]] || 飯舘 || [[Fukushima Prefecture]] || 18,674 || 96.29 || 193.93 || 16.96500°S 157.31956°E
+|-
+| [[Katsurao]] || 葛尾 || [[Fukushima Prefecture]] || 15,112 || 84.86 || 178.08 || 16.85943°S 157.29894°E
+|-
+| [[Samegawa]] || 鮫川 || [[Fukushima Prefecture]] || 13,441 || 70.79 || 189.88 || 17.13306°S 157.73972°E
+|-
+| [[Furodono]] || 古殿 || [[Fukushima Prefecture]] || 11,987 || 82.99 || 144.43 || 16.94437°S 157.52433°E
+|-
+| [[Hirata]] || 平田 || [[Fukushima Prefecture]] || 9,211 || 140.73 || 65.45 || 16.98199°S 157.54375°E
+|-
+| [[Ono]] || 小野 || [[Fukushima Prefecture]] || 8,332 || 131.31 || 63.45 || 17.30597°S 157.68693°E
+|-
+| [[Naraha]] || 楢葉 || [[Fukushima Prefecture]] || 7,443 || 80.67 || 92.26 || 17.06935°S 157.43818°E
+|-
+| [[Tomioka]] || 富岡 || [[Fukushima Prefecture]] || 6,881 || 108.31 || 63.53 || 17.32417°S 157.87987°E
+|-
+| [[Okuma]] || 大熊 || [[Fukushima Prefecture]] || 5,992 || 33.20 || 180.50 || 17.23620°S 157.31501°E
+|-
+| [[Namie]] || 浪江 || [[Fukushima Prefecture]] || 5,114 || 24.35 || 210.03 || 17.26047°S 157.39207°E
+|-
+| [[Kitashiobara]] || 北塩原 || [[Fukushima Prefecture]] || 4,882 || 14.85 || 328.67 || 17.15733°S 157.83072°E
+|-
+| [[Hamadori]] || 浜通り || [[Fukushima Prefecture]] || 3,887 || 65.29 || 59.53 || 17.15793°S 157.55163°E
+|-
+| [[Aizu-Tajima]] || 会津田島 || [[Fukushima Prefecture]] || 3,289 || 3.82 || 861.21 || 17.25804°S 157.77976°E
+|-
+| [[Takine]] || 滝根 || [[Fukushima Prefecture]] || 3,220 || 70.31 || 45.80 || 16.96378°S 157.47943°E
+|-
+| [[Ogoe]] || 大越 || [[Fukushima Prefecture]] || 2,881 || 51.69 || 55.73 || 17.03356°S 157.36598°E
+|-
+| [[Funehiki]] || 船引 || [[Fukushima Prefecture]] || 2,442 || 15.77 || 154.85 || 16.90857°S 157.60381°E
+|-
+| [[Tokiwa]] || 常葉 || [[Fukushima Prefecture]] || 1,885 || 23.73 || 79.44 || 17.37574°S 157.82951°E
+|-
+| [[Shirasawa]] || 白沢 || [[Fukushima Prefecture]] || 1,664 || 22.64 || 73.49 || 17.08937°S 157.99575°E
+|-
+| [[Omotego]] || 表郷 || [[Fukushima Prefecture]] || 3 || 21.79 || 0.14 || 17.11668°S 157.47701°E
+|-
+| [[Taishin]] || 大信 || [[Fukushima Prefecture]] || 5,415 || 62.52 || 86.61 || 17.00079°S 157.69421°E
+|-
+| [[Hirogawa]] || 広川 || [[Hirogawa Prefecture]] || 331,270 || 272.03 || 1,217.77 || 18.23539°S 159.52744°E
+|-
+| [[Mineyama]] || 峰山 || [[Hirogawa Prefecture]] || 15,899 || 219.16 || 72.55 || 18.04366°S 159.45770°E
+|-
+| [[Takamine]] || 高峰 || [[Hirogawa Prefecture]] || 12,763 || 135.70 || 94.05 || 18.09099°S 159.57662°E
+|-
+| [[Akasaka]] || 赤坂 || [[Hirogawa Prefecture]] || 11,299 || 227.29 || 49.71 || 17.55950°S 159.06698°E
+|-
+| [[Suginoki]] || 杉の木 || [[Hirogawa Prefecture]] || 9,872 || 68.16 || 144.84 || 17.80219°S 159.22230°E
+|-
+| [[Mizuhama]] || 水浜 || [[Hirogawa Prefecture]] || 74,533 || 536.88 || 138.83 || 17.76700°S 159.04514°E
+|-
+| [[Namioka]] || 浪岡 || [[Hirogawa Prefecture]] || 65,317 || 105.44 || 619.44 || 18.29242°S 159.44921°E
+|-
+| [[Tsukumo]] || 九十九 || [[Hirogawa Prefecture]] || 52,114 || 323.99 || 160.85 || 18.12618°S 159.34122°E
+|-
+| [[Shiosaki]] || 潮崎 || [[Hirogawa Prefecture]] || 48,931 || 97.60 || 501.32 || 18.20505°S 159.46984°E
+|-
+| [[Hironaka]] || 広中 || [[Hirogawa Prefecture]] || 26,250 || 328.72 || 79.86 || 17.96722°S 159.18347°E
+|-
+| [[Kanamura]] || 金村 || [[Hirogawa Prefecture]] || 33,542 || 197.00 || 170.27 || 17.89926°S 159.08397°E
+|-
+| [[Ukishima]] || 浮島 || [[Hirogawa Prefecture]] || 8,995 || 60.25 || 149.30 || 18.41596°S 159.56373°E
+|-
+| [[Okushima]] || 奥島 || [[Hirogawa Prefecture]] || 12,475 || 113.77 || 109.65 || 18.32556°S 159.53703°E
+|-
+| [[Otaira]] || 大平 || [[Hirogawa Prefecture]] || 69,007 || 174.36 || 395.78 || 18.22970°S 159.71055°E
+|-
+| [[Nishimachi]] || 西町 || [[Hirogawa Prefecture]] || 25,119 || 99.65 || 252.06 || 18.13505°S 159.70327°E
+|-
+| [[Ishiwara]] || 石原 || [[Ishiwara Prefecture]] || 397,599 || 777.66 || 511.28 || 17.93226°S 160.19565°E
+|-
+| [[Shiogamishima]] || 塩神島 || [[Ishiwara Prefecture]] || 10,288 || 460.68 || 22.33 || 18.63013°S 161.01499°E
+|-
+| [[Higashijima]] || 東島 || [[Ishiwara Prefecture]] || 8,819 || 185.30 || 47.59 || 18.40200°S 160.98830°E
+|-
+| [[Ousejima]] || 大瀬島 || [[Ishiwara Prefecture]] || 7,372 || 240.59 || 30.64 || 18.46753°S 160.23354°E
+|-
+| [[Namishira]] || 波白 || [[Ishiwara Prefecture]] || 5,654 || 143.27 || 39.46 || 18.30372°S 159.95324°E
+|-
+| [[Kitamisaki]] || 北岬 || [[Ishiwara Prefecture]] || 197,943 || 384.87 || 514.32 || 17.57930°S 160.22869°E
+|-
+| [[Minamimisaki]] || 南岬 || [[Ishiwara Prefecture]] || 126,917 || 348.32 || 364.37 || 18.24244°S 160.74986°E
+|-
+| [[Kita-Bunki]] || 北分岐 || [[Ishiwara Prefecture]] || 52,177 || 362.26 || 144.03 || 17.86567°S 159.76030°E
+|-
+| [[Minami-Bunki]] || 南分岐 || [[Ishiwara Prefecture]] || 33,455 || 377.08 || 88.72 || 18.13383°S 159.81127°E
+|-
+| [[Kaigandori]] || 海岸通り || [[Ishiwara Prefecture]] || 21,451 || 928.59 || 23.10 || 18.23576°S 160.32758°E
+|-
+| [[Shin-Ishiwara]] || 新石原 || [[Ishiwara Prefecture]] || 13,754 || 401.67 || 34.24 || 17.85839°S 160.35731°E
+|-
+| [[Alps-Toge]] || アルプス峠 || [[Ishiwara Prefecture]] || 81,377 || 336.11 || 242.11 || 17.91178°S 159.91077°E
+|-
+| [[Shodoshima]] || 小豆島 || [[Ishiwara Prefecture]] || 5,282 || 145.44 || 36.32 || 18.65211°S 161.35163°E
+|-
+| [[Osakikamijima]] || 大崎上島 || [[Ishiwara Prefecture]] || 3,785 || 111.73 || 33.88 || 18.48156°S 160.60562°E
+|-
+| [[Ikata]] || 伊方 || [[Ishiwara Prefecture]] || 3,624 || 119.47 || 30.33 || 17.71743°S 160.57728°E
+|-
+| [[Sekinan]] || 関南 || [[Ishiwara Prefecture]] || 2,712 || 218.30 || 12.42 || 18.33760°S 160.73022°E
+|-
+| [[Kohoku]] || 湖北 || [[Ishiwara Prefecture]] || 1,943 || 312.97 || 6.21 || 17.71522°S 160.21305°E
+|-
+| [[Honai]] || 保内 || [[Ishiwara Prefecture]] || 1,392 || 245.62 || 5.67 || 17.73293°S 159.89976°E
+|-
+| [[Misato]] || 三郷 || [[Ishiwara Prefecture]] || 1,324 || 149.59 || 8.85 || 18.07624°S 160.41931°E
+|-
+| [[Nagahama]] || 長浜 || [[Ishiwara Prefecture]] || 998 || 276.22 || 3.61 || 18.13604°S 160.69463°E
+|-
+| [[Futami]] || 二見 || [[Ishiwara Prefecture]] || 980 || 154.38 || 6.35 || 17.65098°S 160.43543°E
+|-
+| [[Matsuno]] || 松野 || [[Ishiwara Prefecture]] || 745 || 273.96 || 2.72 || 18.03194°S 160.05909°E
+|-
+| [[Yura]] || 由良 || [[Ishiwara Prefecture]] || 715 || 138.98 || 5.14 || 17.96993°S 159.73501°E
+|-
+| [[Naoshima]] || 直島 || [[Ishiwara Prefecture]] || 530 || 107.30 || 4.94 || 18.81822°S 161.08308°E
+|-
+| [[Teshima]] || 豊島 || [[Ishiwara Prefecture]] || 512 || 34.38 || 14.89 || 18.41733°S 160.72853°E
+|-
+| [[Honjima]] || 本島 || [[Ishiwara Prefecture]] || 390 || 80.40 || 4.85 || 17.77280°S 160.69596°E
+|-
+| [[Inujima]] || 犬島 || [[Ishiwara Prefecture]] || 215 || 51.64 || 4.16 || 17.48376°S 160.21050°E
+|-
+| [[Ibukijima]] || 伊吹島 || [[Ishiwara Prefecture]] || 140 || 15.60 || 8.97 || 17.43033°S 160.24031°E
+|-
+| [[Megijima]] || 女木島 || [[Ishiwara Prefecture]] || 85 || 23.15 || 3.67 || 18.57210°S 160.45249°E
+|-
+| [[Ogijima]] || 男木島 || [[Ishiwara Prefecture]] || 42 || 12.54 || 3.35 || 17.74373°S 160.83939°E
+|-
+| [[Omishima]] || 大三島 || [[Ishiwara Prefecture]] || 18 || 6.44 || 2.79 || 17.75702°S 161.01325°E
+|-
+| [[Iwate]] || 岩手 || [[Iwate Prefecture]] || 493,584 || 404.19 || 1,221.16 || 15.47530°S 157.30257°E
+|-
+| [[Ishihama]] || 石浜 || [[Iwate Prefecture]] || 164,332 || 550.86 || 298.32 || 15.91175°S 157.32451°E
+|-
+| [[Amakusa]] || 天草 || [[Iwate Prefecture]] || 62,455 || 523.19 || 119.37 || 16.02214°S 156.99768°E
+|-
+| [[Minamata]] || 水俣 || [[Iwate Prefecture]] || 55,210 || 626.28 || 88.15 || 15.97632°S 157.75802°E
+|-
+| [[Hitoyoshi]] || 人吉 || [[Iwate Prefecture]] || 50,221 || 383.45 || 130.97 || 15.63758°S 157.80880°E
+|-
+| [[Yakushima]] || 屋久島 || [[Iwate Prefecture]] || 46,478 || 150.15 || 309.55 || 15.47226°S 157.05549°E
+|-
+| [[Reihoku]] || 苓北 || [[Iwate Prefecture]] || 42,331 || 315.79 || 134.05 || 15.59781°S 157.27305°E
+|-
+| [[Kasarizaki]] || 笠利崎 || [[Iwate Prefecture]] || 38,442 || 506.42 || 75.91 || 16.01814°S 157.51091°E
+|-
+| [[Tatsugoura]] || 龍郷浦 || [[Iwate Prefecture]] || 35,908 || 195.33 || 183.84 || 15.71011°S 157.34324°E
+|-
+| [[Uken]] || 宇検 || [[Iwate Prefecture]] || 32,359 || 191.18 || 169.26 || 15.39583°S 157.47660°E
+|-
+| [[Setouchi]] || 瀬戸内 || [[Iwate Prefecture]] || 28,552 || 223.55 || 127.72 || 15.84112°S 157.84390°E
+|-
+| [[Kashima]] || 鹿島 || [[Iwate Prefecture]] || 8,443 || 331.52 || 25.47 || 16.35269°S 157.18728°E
+|-
+| [[Sumiyoshi]] || 住吉 || [[Iwate Prefecture]] || 9,332 || 402.55 || 23.18 || 16.21778°S 157.33545°E
+|-
+| [[Aso]] || 阿蘇 || [[Iwate Prefecture]] || 25,411 || 315.11 || 80.64 || 15.55414°S 157.47036°E
+|-
+| [[Yamatohama]] || 大和浜 || [[Iwate Prefecture]] || 15,441 || 77.65 || 198.85 || 15.45120°S 157.64114°E
+|-
+| [[Kikuchi]] || 菊池 || [[Iwate Prefecture]] || 22,098 || 656.10 || 33.68 || 15.76703°S 157.64738°E
+|-
+| [[Isso]] || 一湊 || [[Iwate Prefecture]] || 18,420 || 291.41 || 63.21 || 15.92534°S 157.22237°E
+|-
+| [[Nagata]] || 永田 || [[Iwate Prefecture]] || 20,334 || 306.48 || 66.35 || 16.15929°S 157.17090°E
+|-
+| [[Taken]] || 竹野 || [[Iwate Prefecture]] || 12,987 || 250.08 || 51.93 || 15.81148°S 157.43604°E
+|-
+| [[Koniya]] || 古仁屋 || [[Iwate Prefecture]] || 10,358 || 122.43 || 84.61 || 16.12966°S 157.75656°E
+|-
+| [[Kofu]] || 甲府 || [[Kofu Prefecture]] || 308,891 || 380.52 || 811.76 || 17.63736°S 159.30764°E
+|-
+| [[Okishima]] || 沖島 || [[Kofu Prefecture]] || 5,124 || 51.64 || 99.22 || 17.67781°S 159.52262°E
+|-
+| [[Nakajima]] || 中島 || [[Kofu Prefecture]] || 4,031 || 39.71 || 101.51 || 17.56739°S 159.54386°E
+|-
+| [[Kojima]] || 小島 || [[Kofu Prefecture]] || 2,845 || 4.81 || 592.04 || 17.68449°S 159.57177°E
+|-
+| [[Minato]] || 港 || [[Kofu Prefecture]] || 87,583 || 69.22 || 1,265.35 || 17.65718°S 159.40917°E
+|-
+| [[Hamanaka]] || 浜中 || [[Kofu Prefecture]] || 36,209 || 136.64 || 264.99 || 17.34594°S 159.31452°E
+|-
+| [[Sunasaka]] || 砂坂 || [[Kofu Prefecture]] || 33,416 || 243.10 || 137.46 || 17.93081°S 159.59361°E
+|-
+| [[Kaiyo]] || 海陽 || [[Kofu Prefecture]] || 27,107 || 90.01 || 301.14 || 17.75123°S 159.46256°E
+|-
+| [[Kofuyama]] || 甲府山 || [[Kofu Prefecture]] || 46,204 || 197.39 || 234.08 || 17.55465°S 159.31209°E
+|-
+| [[Hayakawa]] || 早川 || [[Kofu Prefecture]] || 20,233 || 185.33 || 109.18 || 17.56678°S 159.20531°E
+|-
+| [[Showa]] || 昭和 || [[Kofu Prefecture]] || 64,312 || 112.09 || 573.78 || 17.69177°S 159.26598°E
+|-
+| [[Chuo]] || 中央 || [[Kofu Prefecture]] || 55,608 || 193.34 || 287.62 || 17.76943°S 159.37155°E
+|-
+| [[Kita-Fuefuki]] || 北笛吹 || [[Kofu Prefecture]] || 23,804 || 298.13 || 79.85 || 17.44423°S 159.15192°E
+|-
+| [[Uenohara]] || 上野原 || [[Kofu Prefecture]] || 16,507 || 120.69 || 136.77 || 17.82160°S 159.31573°E
+|-
+| [[Fuefuki]] || 笛吹 || [[Kofu Prefecture]] || 14,398 || 98.09 || 146.78 || 17.98420°S 159.44436°E
+|-
+| [[Minami-Alps]] || 南アルプス || [[Kofu Prefecture]] || 9,909 || 56.59 || 175.09 || 18.04366°S 159.65185°E
+|-
+| [[Okazaki]] || 岡崎 || [[Okazaki Prefecture]] || 723,851 || 398.23 || 1,817.69 || 17.34058°S 158.49686°E
+|-
+| [[Ozu]] || 大洲 || [[Okazaki Prefecture]] || 194,551 || 215.04 || 904.74 || 16.96574°S 158.16080°E
+|-
+| [[Nishio]] || 西尾 || [[Okazaki Prefecture]] || 142,114 || 130.55 || 1,088.61 || 16.91949°S 158.34218°E
+|-
+| [[Toyohama]] || 豊浜 || [[Okazaki Prefecture]] || 115,083 || 134.45 || 855.94 || 17.22164°S 158.28333°E
+|-
+| [[Gamagori]] || 蒲郡 || [[Okazaki Prefecture]] || 98,112 || 267.80 || 366.37 || 17.65301°S 158.81481°E
+|-
+| [[Shinshiro]] || 新城 || [[Okazaki Prefecture]] || 75,341 || 215.13 || 350.21 || 17.04144°S 158.38283°E
+|-
+| [[Kira]] || 吉良 || [[Okazaki Prefecture]] || 68,155 || 124.08 || 549.27 || 17.03780°S 158.25300°E
+|-
+| [[Atsumi]] || 渥美 || [[Okazaki Prefecture]] || 54,221 || 83.20 || 651.73 || 17.71854°S 158.79419°E
+|-
+| [[Hazu]] || 幡豆 || [[Okazaki Prefecture]] || 45,819 || 255.13 || 179.59 || 17.49163°S 158.64615°E
+|-
+| [[Kozakai]] || 小坂井 || [[Okazaki Prefecture]] || 41,566 || 83.79 || 496.06 || 17.11668°S 158.19354°E
+|-
+| [[Otowa]] || 音羽 || [[Okazaki Prefecture]] || 38,211 || 146.79 || 260.30 || 17.13124°S 158.28637°E
+|-
+| [[Horai]] || 鳳来 || [[Okazaki Prefecture]] || 32,488 || 162.07 || 200.46 || 17.19676°S 158.48537°E
+|-
+| [[Shitara]] || 設楽 || [[Okazaki Prefecture]] || 26,935 || 243.19 || 110.76 || 17.48920°S 158.93191°E
+|-
+| [[Mitoyagi-Oshima]] || 三河大島 || [[Okazaki Prefecture]] || 24,577 || 131.94 || 186.28 || 17.72218°S 158.63705°E
+|-
+| [[Toei]] || 東栄 || [[Okazaki Prefecture]] || 21,342 || 243.79 || 87.54 || 17.37878°S 158.75354°E
+|-
+| [[Asuke]] || 足助 || [[Okazaki Prefecture]] || 18,918 || 94.88 || 199.39 || 17.29808°S 158.39921°E
+|-
+| [[Tsukude]] || 作手 || [[Okazaki Prefecture]] || 18,405 || 65.05 || 282.95 || 17.11607°S 158.46353°E
+|-
+| [[Harukajima]] || 春鹿島 || [[Okazaki Prefecture]] || 3,983 || 83.85 || 47.50 || 18.02493°S 157.89200°E
+|-
+| [[Shinojima]] || 篠島 || [[Okazaki Prefecture]] || 11,214 || 50.53 || 221.93 || 17.93392°S 158.70743°E
+|-
+| [[Toyone]] || 豊根 || [[Okazaki Prefecture]] || 15,233 || 44.72 || 340.61 || 17.27624°S 158.63947°E
+|-
+| [[Tokuyama]] || 徳山 || [[Tokuyama Prefecture]] || 965,268 || 486.83 || 1,982.78 || 17.12372°S 158.69237°E
+|-
+| [[Niihama]] || 新居浜 || [[Tokuyama Prefecture]] || 124,510 || 230.92 || 539.20 || 17.29518°S 158.96268°E
+|-
+| [[Tachikawa]] || 立川 || [[Tokuyama Prefecture]] || 85,247 || 163.75 || 520.61 || 16.90855°S 158.70409°E
+|-
+| [[Iwakuni]] || 岩国 || [[Tokuyama Prefecture]] || 100,255 || 153.79 || 651.90 || 16.79330°S 158.58184°E
+|-
+| [[Kurose]] || 黒瀬 || [[Tokuyama Prefecture]] || 107,255 || 120.50 || 890.08 || 16.82606°S 158.45807°E
+|-
+| [[Kawanoe]] || 川之江 || [[Tokuyama Prefecture]] || 86,412 || 153.11 || 564.39 || 17.34420°S 159.09633°E
+|-
+| [[Kudamatsu]] || 下松 || [[Tokuyama Prefecture]] || 72,254 || 118.97 || 607.33 || 17.01414°S 158.68619°E
+|-
+| [[Hikari]] || 光 || [[Tokuyama Prefecture]] || 58,431 || 59.51 || 981.84 || 16.82849°S 158.71531°E
+|-
+| [[Yanai]] || 柳井 || [[Tokuyama Prefecture]] || 46,258 || 90.12 || 513.30 || 17.12699°S 158.92524°E
+|-
+| [[Komatsu]] || 小松 || [[Tokuyama Prefecture]] || 38,114 || 94.69 || 402.53 || 16.89765°S 158.50418°E
+|-
+| [[Tabuse]] || 田布施 || [[Tokuyama Prefecture]] || 29,332 || 223.17 || 131.44 || 16.98866°S 158.55029°E
+|-
+| [[Waki]] || 和木 || [[Tokuyama Prefecture]] || 21,566 || 77.03 || 279.96 || 17.00443°S 158.47141°E
+|-
+| [[Otake]] || 大竹 || [[Tokuyama Prefecture]] || 24,115 || 99.42 || 242.55 || 17.19494°S 158.95921°E
+|-
+| [[Hirao]] || 平生 || [[Tokuyama Prefecture]] || 18,337 || 27.50 || 666.81 || 16.95590°S 158.83423°E
+|-
+| [[Doi]] || 土居 || [[Tokuyama Prefecture]] || 13,118 || 53.80 || 243.83 || 17.19858°S 158.80632°E
+|-
+| [[Kaminoseki]] || 上関 || [[Tokuyama Prefecture]] || 15,224 || 95.83 || 158.86 || 17.08331°S 158.80511°E
+|-
+| [[Besshi]] || 別子 || [[Tokuyama Prefecture]] || 11,452 || 82.92 || 138.11 || 17.33449°S 158.86335°E
+|-
+| [[Kumage]] || 熊毛 || [[Tokuyama Prefecture]] || 9,842 || 89.64 || 109.80 || 17.45583°S 159.02474°E
+|-
+| [[Yamagata]] || 山形 || [[Yamagata Prefecture]] || 723,965 || 296.95 || 2,437.98 || 16.50035°S 158.11673°E
+|-
+| [[Gunchu]] || 郡中 || [[Yamagata Prefecture]] || 243,118 || 197.29 || 1,232.31 || 16.26198°S 157.83514°E
+|-
+| [[Hijikawa]] || 肱川 || [[Yamagata Prefecture]] || 88,417 || 197.39 || 447.92 || 16.55563°S 157.9225°E
+|-
+| [[Nagahama]] || 長浜 || [[Yamagata Prefecture]] || 134,229 || 122.20 || 1,098.46 || 16.25834°S 158.15427°E
+|-
+| [[Goshiki]] || 五色 || [[Yamagata Prefecture]] || 76,512 || 130.86 || 584.70 || 16.22557°S 157.9492°E
+|-
+| [[Nakayama]] || 中山 || [[Yamagata Prefecture]] || 64,229 || 111.61 || 575.50 || 16.38332°S 157.92614°E
+|-
+| [[Nonaka]] || 野中 || [[Yamagata Prefecture]] || 58,112 || 204.42 || 284.28 || 16.42579°S 158.06205°E
+|-
+| [[Oda]] || 小田 || [[Yamagata Prefecture]] || 42,117 || 211.23 || 199.39 || 16.19524°S 157.57789°E
+|-
+| [[Futami]] || 二見 || [[Yamagata Prefecture]] || 37,212 || 54.37 || 684.43 || 16.35905°S 158.25862°E
+|-
+| [[Misaki]] || 三崎 || [[Yamagata Prefecture]] || 33,541 || 53.05 || 632.30 || 16.51558°S 158.31565°E
+|-
+| [[Nomura]] || 野村 || [[Yamagata Prefecture]] || 27,962 || 107.03 || 261.24 || 16.35541°S 158.12757°E
+|-
+| [[Mikame]] || 三瓶 || [[Yamagata Prefecture]] || 25,116 || 39.12 || 642.05 || 16.57504°S 158.27076°E
+|-
+| [[Shirokawa]] || 城川 || [[Yamagata Prefecture]] || 21,965 || 81.27 || 270.27 || 16.26562°S 157.7053°E
+|-
+| [[Hiyoshi]] || 日吉 || [[Yamagata Prefecture]] || 19,332 || 41.08 || 470.58 || 16.43671°S 158.19916°E
+|-
+| [[Mima]] || 三間 || [[Yamagata Prefecture]] || 17,221 || 85.41 || 201.64 || 16.53864°S 158.05355°E
+|-
+| [[Yoshida]] || 吉田 || [[Yamagata Prefecture]] || 15,441 || 22.44 || 688.13 || 16.18189°S 157.76718°E
+|-
+| [[Tawarazu]] || 俵津 || [[Yamagata Prefecture]] || 13,024 || 43.70 || 298.02 || 16.26926°S 158.04263°E
+|-
+| [[Yura]] || 由良 || [[Yamagata Prefecture]] || 10,950 || 27.90 || 392.40 || 16.28261°S 158.25256°E
+|-
+| [[Kawanouchi]] || 河之内 || [[Yamagata Prefecture]] || 8,405 || 51.34 || 163.71 || 16.4537°S 157.92008°E
+|-
+| [[Hoketsu]] || 法華津 || [[Yamagata Prefecture]] || 7,311 || 44.47 || 164.40 || 16.32144°S 157.90733°E
+|-
+| [[Izume]] || 出目 || [[Yamagata Prefecture]] || 7,190 || 43.40 || 165.68 || 16.32629°S 157.79752°E
+|-
+| [[Iyo]] || 伊予 || [[Yamagata Prefecture]] || 139,740 || 94.72 || 1,475.36 || 16.41782°S 158.30043°E
+|-
+| [[Yonezawa]] || 米沢 || [[Yonezawa Prefecture]] || 849,055 || 146.77 || 5,784.91 || 16.84591°S 157.95003°E
+|-
+| [[Usami]] || 宇佐美 || [[Yonezawa Prefecture]] || 214,112 || 143.24 || 1,494.73 || 16.70081°S 157.95389°E
+|-
+| [[Nanyo]] || 南陽 || [[Yonezawa Prefecture]] || 185,412 || 168.64 || 1,099.47 || 16.99493°S 158.02345°E
+|-
+| [[Takahata]] || 高畠 || [[Yonezawa Prefecture]] || 142,331 || 172.80 || 823.66 || 16.90786°S 158.00152°E
+|-
+| [[Shirataka]] || 白鷹 || [[Yonezawa Prefecture]] || 118,504 || 124.53 || 951.61 || 16.8581°S 157.86135°E
+|-
+| [[Nagai]] || 長井 || [[Yonezawa Prefecture]] || 95,221 || 135.25 || 704.02 || 16.82401°S 157.6197°E
+|-
+| [[Sagae]] || 寒河江 || [[Yonezawa Prefecture]] || 82,117 || 76.34 || 1,075.68 || 16.75693°S 157.94605°E
+|-
+| [[Murayama]] || 村山 || [[Yonezawa Prefecture]] || 70,241 || 131.93 || 532.42 || 16.87819°S 157.69967°E
+|-
+| [[Obanawazawa]] || 尾花沢 || [[Yonezawa Prefecture]] || 61,118 || 54.55 || 1,120.37 || 16.81369°S 157.78094°E
+|-
+| [[Kawanishi]] || 川西 || [[Yonezawa Prefecture]] || 54,229 || 262.40 || 206.67 || 17.04459°S 157.76288°E
+|-
+| [[Iide]] || 飯豊 || [[Yonezawa Prefecture]] || 45,331 || 97.98 || 462.65 || 16.91556°S 157.82041°E
+|-
+| [[Oguni]] || 小国 || [[Yonezawa Prefecture]] || 38,112 || 22.55 || 1,690.28 || 16.78402°S 157.72805°E
+|-
+| [[Asahi]] || 朝日 || [[Yonezawa Prefecture]] || 32,378 || 65.13 || 497.09 || 16.95945°S 157.68033°E
+|-
+| [[Asahi]] || 朝日 || [[Yonezawa Prefecture]] || 32,441 || 44.37 || 731.15 || 16.76983°S 157.59003°E
+|-
+| [[Oko]] || 大江 || [[Yonezawa Prefecture]] || 24,958 || 104.41 || 239.03 || 17.00073°S 157.84028°E
+|-
+| [[Nishikawa]] || 西川 || [[Yonezawa Prefecture]] || 18,324 || 37.54 || 488.14 || 16.73887°S 157.86221°E
+|-
+| [[Yamanobe]] || 山辺 || [[Yonezawa Prefecture]] || 14,221 || 44.10 || 322.44 || 17.10135°S 157.95637°E
+|-
+| [[Kahoku]] || 河北 || [[Yonezawa Prefecture]] || 11,931 || 24.58 || 485.42 || 16.6331°S 157.89832°E
+|-
+| [[Aizawa, Aizawa|Aizawa]] || 逢沢 || [[Aizawa Prefecture]] || 2,020,945 || 246.49 || 8,198.81 || {{coord|-14.01764|162.53957|display=inline}}
+|-
+| [[Tsushima]] || 津島 || [[Aizawa Prefecture]] || 192,156 || 161.35 || 1,190.96 || 12.76909°S 163.15455°E
+|-
+| [[Chibu]] || 知夫 || [[Aizawa Prefecture]] || 114,221 || 184.57 || 618.84 || 13.82093°S 162.72616°E
+|-
+| [[Shinjo]] || 新庄 || [[Aizawa Prefecture]] || 98,437 || 282.32 || 348.67 || 13.94372°S 162.65687°E
+|-
+| [[Heizu]] || 平津 || [[Aizawa Prefecture]] || 85,221 || 138.42 || 615.68 || 13.83992°S 163.17078°E
+|-
+| [[Abu]] || 阿武 || [[Aizawa Prefecture]] || 78,154 || 166.12 || 470.47 || 14.07284°S 162.96936°E
+|-
+| [[Ama]] || 海士 || [[Aizawa Prefecture]] || 65,334 || 141.52 || 461.67 || 14.15639°S 162.67712°E
+|-
+| [[Wakasa]] || 若桜 || [[Aizawa Prefecture]] || 58,112 || 219.73 || 264.47 || 13.90828°S 162.99952°E
+|-
+| [[Chizu]] || 智頭 || [[Aizawa Prefecture]] || 51,200 || 88.01 || 581.78 || 13.70574°S 162.97351°E
+|-
+| [[Wakako]] || 若子 || [[Aizawa Prefecture]] || 47,860 || 92.07 || 519.82 || 13.86397°S 162.37054°E
+|-
+| [[Misasa]] || 三朝 || [[Aizawa Prefecture]] || 44,903 || 120.66 || 372.14 || 14.13993°S 162.88483°E
+|-
+| [[Nagi]] || 奈義 || [[Aizawa Prefecture]] || 38,117 || 83.56 || 456.14 || 13.69181°S 163.15572°E
+|-
+| [[Sera]] || 世羅 || [[Aizawa Prefecture]] || 34,229 || 116.72 || 293.25 || 13.75701°S 162.94972°E
+|-
+| [[Hino]] || 日野 || [[Aizawa Prefecture]] || 31,265 || 61.04 || 512.25 || 13.93423°S 163.22809°E
+|-
+| [[Houko]] || 宝庫 || [[Aizawa Prefecture]] || 28,119 || 104.68 || 268.62 || 13.75701°S 163.07834°E
+|-
+| [[Onogashima]] || 小野ヶ島 || [[Aizawa Prefecture]] || 42 || 13.16 || 3.19 || 12.29276°S 163.06666°E
+|-
+| [[Sanyojima]] || 山陽島 || [[Aizawa Prefecture]] || 84 || 9.83 || 8.55 || 14.44255°S 161.41957°E
+|-
+| [[Kudajima]] || 百済島 || [[Aizawa Prefecture]] || 112 || 16.84 || 6.65 || 14.48443°S 161.34588°E
+|-
+| [[Hikarijima]] || 光島 || [[Aizawa Prefecture]] || 118 || 11.13 || 10.60 || 14.05293°S 162.10899°E
+|-
+| [[Yanaijima]] || 柳井島 || [[Aizawa Prefecture]] || 119 || 14.67 || 8.11 || 13.86652°S 162.22353°E
+|-
+| [[Kurajima]] || 蔵島 || [[Aizawa Prefecture]] || 221 || 8.00 || 27.61 || 13.58464°S 163.30107°E
+|-
+| [[Sakashima]] || 坂島 || [[Aizawa Prefecture]] || 334 || 7.90 || 42.27 || 12.97955°S 163.33544°E
+|-
+| [[Oda]] || 大田 || [[Aizawa Prefecture]] || 437 || 55.10 || 7.93 || 12.91342°S 163.29495°E
+|-
+| [[Hamajima]] || 浜島 || [[Aizawa Prefecture]] || 556 || 23.63 || 23.53 || 12.52325°S 163.01411°E
+|-
+| [[Masujima]] || 益島 || [[Aizawa Prefecture]] || 642 || 15.51 || 41.39 || 13.44356°S 163.37769°E
+|-
+| [[Mine]] || 美祢 || [[Aizawa Prefecture]] || 1,118 || 43.64 || 25.62 || 13.34106°S 163.39442°E
+|-
+| [[Yasugi]] || 安来 || [[Aizawa Prefecture]] || 774 || 22.04 || 35.11 || 13.26336°S 163.36983°E
+|-
+| [[Unnan]] || 雲南 || [[Aizawa Prefecture]] || 856 || 80.32 || 10.66 || 12.92885°S 163.17617°E
+|-
+| [[Gotsu]] || 江津 || [[Aizawa Prefecture]] || 987 || 78.16 || 12.63 || 12.85941°S 163.21874°E
+|-
+| [[Nagao]] || 長尾 || [[Aizawa Prefecture]] || 1,024 || 33.56 || 30.51 || 13.66951°S 163.06709°E
+|-
+| [[Otake]] || 大竹 || [[Aizawa Prefecture]] || 1,221 || 34.94 || 34.95 || 14.01504°S 163.20186°E
+|-
+| [[Etajima]] || 江田島 || [[Aizawa Prefecture]] || 1,332 || 66.22 || 20.12 || 13.06524°S 163.18855°E
+|-
+| [[Takata]] || 高田 || [[Aizawa Prefecture]] || 1,657 || 34.39 || 48.19 || 13.08178°S 163.27241°E
+|-
+| [[Shobara]] || 庄原 || [[Aizawa Prefecture]] || 1,520 || 34.88 || 43.58 || 13.77284°S 163.19454°E
+|-
+| [[Akaiwa]] || 赤磐 || [[Aizawa Prefecture]] || 2,463 || 52.13 || 47.25 || 13.16995°S 163.26381°E
+|-
+| [[Maniwa]] || 真庭 || [[Aizawa Prefecture]] || 2,975 || 20.13 || 147.81 || 13.08178°S 163.31893°E
+|-
+| [[Mako]] || 真子 || [[Aizawa Prefecture]] || 3,050 || 25.51 || 119.55 || 13.99162°S 163.04983°E
+|-
+| [[Hayashima]] || 早島 || [[Aizawa Prefecture]] || 3,552 || 19.27 || 184.30 || 13.25785°S 163.33955°E
+|-
+| [[Yakage]] || 矢掛 || [[Aizawa Prefecture]] || 3,908 || 30.69 || 127.33 || 13.76430°S 162.38659°E
+|-
+| [[Satosho]] || 里庄 || [[Aizawa Prefecture]] || 4,211 || 41.15 || 102.32 || 13.11815°S 163.28739°E
+|-
+| [[Fuchu]] || 府中 || [[Aizawa Prefecture]] || 4,851 || 35.88 || 135.18 || 13.98611°S 163.25764°E
+|-
+| [[Kumano]] || 熊野 || [[Aizawa Prefecture]] || 5,235 || 236.13 || 22.17 || 13.94423°S 162.85017°E
+|-
+| [[Saka]] || 坂 || [[Aizawa Prefecture]] || 6,024 || 143.25 || 42.05 || 14.02964°S 162.24130°E
+|-
+| [[Kaita]] || 海田 || [[Aizawa Prefecture]] || 8,456 || 127.21 || 66.47 || 13.75713°S 162.81864°E
+|-
+| [[Hirao]] || 平生 || [[Aizawa Prefecture]] || 9,554 || 63.36 || 150.79 || 13.82547°S 163.04619°E
+|-
+| [[Tabuse]] || 田布施 || [[Aizawa Prefecture]] || 9,998 || 73.29 || 136.41 || 13.93541°S 162.45351°E
+|-
+| [[Misaki]] || 美咲 || [[Aizawa Prefecture]] || 11,218 || 10.73 || 1,045.88 || 13.65683°S 163.21903°E
+|-
+| [[Kumenan]] || 久米南 || [[Aizawa Prefecture]] || 12,437 || 146.70 || 84.78 || 14.17816°S 162.79508°E
+|-
+| [[Shoo]] || 勝央 || [[Aizawa Prefecture]] || 14 || 73.34 || 0.19 || 14.06739°S 162.86106°E
+|-
+| [[Yoshika]] || 吉賀 || [[Aizawa Prefecture]] || 15,763 || 129.15 || 122.06 || 13.78799°S 162.90280°E
+|-
+| [[Kawamoto]] || 川本 || [[Aizawa Prefecture]] || 18,699 || 134.04 || 139.50 || 13.95552°S 163.13343°E
+|-
+| [[Misato]] || 美郷 || [[Aizawa Prefecture]] || 21,366 || 104.26 || 204.92 || 14.08227°S 162.61046°E
+|-
+| [[Kofu]] || 江府 || [[Aizawa Prefecture]] || 22,245 || 90.75 || 245.12 || 14.01780°S 162.44123°E
+|-
+| [[Nanbu]] || 南部 || [[Aizawa Prefecture]] || 24,995 || 45.16 || 553.52 || 14.20351°S 162.69645°E
+|-
+| [[Ehime]] || 愛媛 || [[Ehime Prefecture]] || 503,086 || 327.24 || 1,537.37 || 15.44550°S 162.80590°E
+|-
+| [[Suo]] || 周防 || [[Ehime Prefecture]] || 82,412 || 132.40 || 622.47 || 15.80166°S 162.95003°E
+|-
+| [[Oshi]] || 忍 || [[Ehime Prefecture]] || 75,331 || 166.89 || 451.39 || 15.24120°S 163.10586°E
+|-
+| [[Kamisato]] || 上里 || [[Ehime Prefecture]] || 68,118 || 145.68 || 467.60 || 15.25884°S 162.76191°E
+|-
+| [[Kamigawa]] || 上川 || [[Ehime Prefecture]] || 62,437 || 97.43 || 640.84 || 15.64350°S 162.90888°E
+|-
+| [[Hide]] || 日出 || [[Ehime Prefecture]] || 58,118 || 46.16 || 1,258.94 || 15.33158°S 163.00043°E
+|-
+| [[Tabuse]] || 田布施 || [[Ehime Prefecture]] || 54,903 || 72.79 || 754.21 || 15.54210°S 162.86624°E
+|-
+| [[Wada]] || 和田 || [[Ehime Prefecture]] || 48,221 || 99.54 || 484.44 || 15.87827°S 163.10520°E
+|-
+| [[Abo]] || 阿保 || [[Ehime Prefecture]] || 44,118 || 60.96 || 723.73 || 15.50132°S 162.70730°E
+|-
+| [[Seko]] || 世古 || [[Ehime Prefecture]] || 38,564 || 50.45 || 764.40 || 15.40984°S 162.91944°E
+|-
+| [[Jinseki]] || 神石 || [[Ehime Prefecture]] || 34,221 || 64.61 || 529.68 || 15.33820°S 162.74410°E
+|-
+| [[Akiota]] || 安芸太田 || [[Ehime Prefecture]] || 31,564 || 130.85 || 241.22 || 15.73168°S 163.16620°E
+|-
+| [[Sabae]] || 鯖江 || [[Ehime Prefecture]] || 28,453 || 53.16 || 535.23 || 15.51895°S 163.08598°E
+|-
+| [[Kaino]] || 海野 || [[Ehime Prefecture]] || 25,118 || 57.17 || 439.33 || 15.70963°S 162.92129°E
+|-
+| [[Kumagaya]] || 熊谷 || [[Ehime Prefecture]] || 22,225 || 126.77 || 175.32 || 15.56855°S 163.00547°E
+|-
+| [[Oku]] || 奥 || [[Ehime Prefecture]] || 18,426 || 72.08 || 255.64 || 15.88818°S 163.27035°E
+|-
+| [[Iinan]] || 飯南 || [[Ehime Prefecture]] || 15,240 || 118.11 || 129.03 || 15.79450°S 163.26880°E
+|-
+| [[Onan]] || 邑南 || [[Ehime Prefecture]] || 12,302 || 115.14 || 106.84 || 15.33379°S 163.12198°E
+|-
+| [[Tamayu]] || 玉湯 || [[Ehime Prefecture]] || 10,211 || 88.94 || 114.81 || 15.48148°S 162.93412°E
+|-
+| [[Shinji]] || 宍道 || [[Ehime Prefecture]] || 9,622 || 68.04 || 141.42 || 15.38228°S 162.99695°E
+|-
+| [[Yatsuka]] || 八束 || [[Ehime Prefecture]] || 8,450 || 130.39 || 64.81 || 15.30513°S 162.91620°E
+|-
+| [[Izumo]] || 出雲 || [[Ehime Prefecture]] || 7,235 || 99.13 || 72.98 || 15.79781°S 163.04626°E
+|-
+| [[Hirose]] || 広瀬 || [[Ehime Prefecture]] || 6,541 || 94.24 || 69.41 || 15.58949°S 163.12705°E
+|-
+| [[Hakuta]] || 伯太 || [[Ehime Prefecture]] || 5,189 || 64.61 || 80.32 || 15.63799°S 163.05517°E
+|-
+| [[Daito]] || 大東 || [[Ehime Prefecture]] || 3,104 || 48.75 || 63.67 || 15.66444°S 163.00589°E
+|-
+| [[Kakoyama]] || 加茂山 || [[Ehime Prefecture]] || 2,118 || 107.30 || 19.74 || 15.66775°S 163.21103°E
+|-
+| [[Kisuki]] || 木次 || [[Ehime Prefecture]] || 1,625 || 101.84 || 15.96 || 15.86724°S 163.19405°E
+|-
+| [[Mitoya]] || 三刀屋 || [[Ehime Prefecture]] || 845 || 141.22 || 5.98 || 15.43739°S 163.05759°E
+|-
+| [[Kakeya]] || 掛合 || [[Ehime Prefecture]] || 432 || 67.32 || 6.42 || 15.70743°S 163.05513°E
+|-
+| [[Gunma]] || 群馬 || [[Gunma Prefecture]] || 733,554 || 161.59 || 4,539.50 || 14.39853°S 162.69412°E
+|-
+| [[Yoshida]] || 吉田 || [[Gunma Prefecture]] || 115,412 || 163.51 || 705.85 || 14.62069°S 162.86383°E
+|-
+| [[Tonbara]] || 頓原 || [[Gunma Prefecture]] || 108,331 || 140.46 || 771.25 || 14.72760°S 162.97892°E
+|-
+| [[Akagi]] || 赤城 || [[Gunma Prefecture]] || 98,118 || 101.80 || 963.81 || 14.56888°S 162.71416°E
+|-
+| [[Sakurae]] || 桜江 || [[Gunma Prefecture]] || 85,221 || 76.94 || 1,107.64 || 14.31869°S 162.71412°E
+|-
+| [[Hasumi]] || 羽須美 || [[Gunma Prefecture]] || 74,337 || 24.64 || 3,017.22 || 14.39805°S 162.76856°E
+|-
+| [[Mizuho]] || 瑞穂 || [[Gunma Prefecture]] || 68,118 || 109.78 || 620.52 || 14.48181°S 162.70190°E
+|-
+| [[Ohara]] || 大原 || [[Gunma Prefecture]] || 62,437 || 106.53 || 586.07 || 14.19855°S 162.96988°E
+|-
+| [[Iishi]] || 飯石 || [[Gunma Prefecture]] || 58,118 || 96.19 || 604.23 || 14.23933°S 162.82475°E
+|-
+| [[Nima]] || 仁摩 || [[Gunma Prefecture]] || 54,931 || 104.13 || 527.52 || 14.46197°S 162.78711°E
+|-
+| [[Ano]] || 安濃 || [[Gunma Prefecture]] || 48,331 || 38.02 || 1,271.21 || 14.24815°S 162.71452°E
+|-
+| [[Naka]] || 那珂 || [[Gunma Prefecture]] || 44,118 || 124.17 || 355.31 || 14.27240°S 162.92606°E
+|-
+| [[Mino]] || 美濃 || [[Gunma Prefecture]] || 38,564 || 70.55 || 546.64 || 14.79703°S 163.02305°E
+|-
+| [[Kuga]] || 玖珂 || [[Gunma Prefecture]] || 27,325 || 42.45 || 643.70 || 14.31208°S 162.84369°E
+|-
+| [[Saba]] || 佐波 || [[Gunma Prefecture]] || 22,504 || 54.46 || 413.21 || 14.51818°S 162.82047°E
+|-
+| [[Yoshiki]] || 吉敷 || [[Gunma Prefecture]] || 21,368 || 33.42 || 639.35 || 14.56668°S 162.79178°E
+|-
+| [[Asa]] || 厚狭 || [[Gunma Prefecture]] || 19,682 || 50.62 || 388.80 || 14.67249°S 162.94555°E
+|-
+| [[Toyoura]] || 豊浦 || [[Gunma Prefecture]] || 13,225 || 40.37 || 327.57 || 14.22611°S 162.77542°E
+|-
+| [[Miwa]] || 三和 || [[Gunma Prefecture]] || 10,002 || 128.55 || 77.81 || 14.46197°S 162.98358°E
+|-
+| [[Zou]] || 象 || [[Gunma Prefecture]] || 9,257 || 103.13 || 89.76 || 14.37380°S 162.87427°E
+|-
+| [[Towa]] || 東和 || [[Gunma Prefecture]] || 8,425 || 70.15 || 120.10 || 14.55896°S 163.01937°E
+|-
+| [[Kano]] || 鹿野 || [[Gunma Prefecture]] || 7,088 || 25.35 || 279.56 || 14.48402°S 162.90388°E
+|-
+| [[Tokuji]] || 徳地 || [[Gunma Prefecture]] || 6,823 || 29.68 || 229.87 || 14.43111°S 162.85865°E
+|-
+| [[Ato]] || 阿東 || [[Gunma Prefecture]] || 5,007 || 53.71 || 93.23 || 14.62179°S 162.96988°E
+|-
+| [[Asuka]] || 明日香 || [[Gunma Prefecture]] || 4,587 || 145.58 || 31.51 || 14.62399°S 163.09507°E
+|-
+| [[Shuho]] || 秋芳 || [[Gunma Prefecture]] || 3,211 || 67.69 || 47.44 || 14.55345°S 162.92624°E
+|-
+| [[Ketaka]] || 気高 || [[Gunma Prefecture]] || 2,008 || 32.64 || 61.52 || 14.33081°S 162.94961°E
+|-
+| [[Aoya]] || 青谷 || [[Gunma Prefecture]] || 1,514 || 14.86 || 101.87 || 14.13463°S 162.98689°E
+|-
+| [[Haruno]] || 春野 || [[Haruno Prefecture]] || 561,094 || 301.76 || 1,859.42 || 15.56196°S 163.53166°E
+|-
+| [[Ochigase]] || 落合瀬 || [[Haruno Prefecture]] || 82,364 || 124.90 || 659.42 || 15.92125°S 163.57295°E
+|-
+| [[Saji]] || 佐治 || [[Haruno Prefecture]] || 72,542 || 41.82 || 1,734.74 || 15.47597°S 163.52811°E
+|-
+| [[Shikano]] || 鹿野 || [[Haruno Prefecture]] || 65,334 || 200.36 || 326.08 || 15.57076°S 163.38628°E
+|-
+| [[Kawahara]] || 河原 || [[Haruno Prefecture]] || 62,342 || 82.08 || 759.51 || 15.68759°S 163.53487°E
+|-
+| [[Funaoka]] || 船岡 || [[Haruno Prefecture]] || 56,286 || 106.63 || 527.84 || 16.06013°S 163.55604°E
+|-
+| [[Hatto]] || 八東 || [[Haruno Prefecture]] || 51,902 || 84.60 || 613.48 || 15.36796°S 163.54343°E
+|-
+| [[Hawai]] || 羽合 || [[Haruno Prefecture]] || 47,231 || 142.86 || 330.62 || 15.40763°S 163.45928°E
+|-
+| [[Tomari]] || 泊 || [[Haruno Prefecture]] || 44,564 || 121.61 || 366.45 || 15.81654°S 163.54912°E
+|-
+| [[Togo]] || 東郷 || [[Haruno Prefecture]] || 41,752 || 131.41 || 317.73 || 15.96864°S 163.49729°E
+|-
+| [[Sekigane]] || 関金 || [[Haruno Prefecture]] || 37,251 || 213.97 || 174.10 || 15.21696°S 163.21381°E
+|-
+| [[Hojo]] || 北条 || [[Haruno Prefecture]] || 34,201 || 90.86 || 376.41 || 16.08988°S 163.39792°E
+|-
+| [[Daiei]] || 大栄 || [[Haruno Prefecture]] || 31,467 || 130.69 || 240.77 || 15.57957°S 163.23446°E
+|-
+| [[Akasaki]] || 赤碕 || [[Haruno Prefecture]] || 28,406 || 84.58 || 335.86 || 15.25333°S 163.43390°E
+|-
+| [[Nawa]] || 名和 || [[Haruno Prefecture]] || 24,258 || 83.15 || 291.73 || 15.93007°S 163.40345°E
+|-
+| [[Yodoe]] || 淀江 || [[Haruno Prefecture]] || 22,839 || 133.10 || 171.59 || 15.75813°S 163.33964°E
+|-
+| [[Kishimoto]] || 岸本 || [[Haruno Prefecture]] || 19,041 || 138.71 || 137.27 || 15.45833°S 163.38276°E
+|-
+| [[Mizokuchi]] || 溝口 || [[Haruno Prefecture]] || 17,024 || 141.74 || 120.11 || 15.19161°S 163.33159°E
+|-
+| [[Neu]] || 根雨 || [[Haruno Prefecture]] || 15,435 || 90.07 || 171.36 || 15.39110°S 163.18183°E
+|-
+| [[Katsuta]] || 勝田 || [[Haruno Prefecture]] || 12,014 || 151.50 || 79.30 || 15.66334°S 163.31469°E
+|-
+| [[Aida]] || 英田 || [[Haruno Prefecture]] || 12,496 || 89.02 || 140.38 || 16.01604°S 163.39894°E
+|-
+| [[Tomata]] || 苫田 || [[Haruno Prefecture]] || 11,478 || 119.18 || 96.31 || 15.73939°S 163.45757°E
+|-
+| [[Saeki]] || 佐伯 || [[Haruno Prefecture]] || 10,055 || 202.77 || 49.59 || 15.33048°S 163.33305°E
+|-
+| [[Ushimado]] || 牛窓 || [[Haruno Prefecture]] || 9,423 || 66.61 || 141.46 || 15.20483°S 163.44553°E
+|-
+| [[Oku]] || 邑久 || [[Haruno Prefecture]] || 8,214 || 149.99 || 54.76 || 15.49030°S 163.20984°E
+|-
+| [[Nadasaki]] || 灘崎 || [[Haruno Prefecture]] || 7,635 || 30.33 || 251.70 || 15.42968°S 163.57914°E
+|-
+| [[Takebe]] || 建部 || [[Haruno Prefecture]] || 6,201 || 146.60 || 42.30 || 15.30403°S 163.22486°E
+|-
+| [[Sedo]] || 瀬戸 || [[Haruno Prefecture]] || 5,663 || 37.90 || 149.42 || 15.62917°S 163.56145°E
+|-
+| [[Yoshii]] || 吉井 || [[Haruno Prefecture]] || 4,321 || 35.34 || 122.26 || 15.74821°S 163.54924°E
+|-
+| [[Kumayama]] || 熊山 || [[Haruno Prefecture]] || 3,140 || 135.16 || 23.23 || 15.81765°S 163.42825°E
+|-
+| [[Bizen]] || 備前 || [[Haruno Prefecture]] || 2,145 || 140.20 || 15.30 || 15.91574°S 163.34069°E
+|-
+| [[Hinase]] || 日生 || [[Haruno Prefecture]] || 1,042 || 78.69 || 13.24 || 15.29080°S 163.47399°E
+|-
+| [[Mitsuishi]] || 三石 || [[Haruno Prefecture]] || 811 || 27.97 || 29.00 || 16.02706°S 163.56948°E
+|-
+| [[Aba]] || 阿波 || [[Haruno Prefecture]] || 11 || 163.51 || 0.07 || 15.53934°S 163.13109°E
+|-
+| [[Ishijima]] || 石島 || [[Ishijima Prefecture]] || 522,382 || 228.35 || 2,287.65 || 14.47061°S 163.24857°E
+|-
+| [[Yoshinaga]] || 吉永 || [[Ishijima Prefecture]] || 81,152 || 126.90 || 639.50 || 14.12581°S 163.27021°E
+|-
+| [[Okutsu]] || 奥津 || [[Ishijima Prefecture]] || 76,240 || 102.70 || 742.39 || 14.64645°S 163.39027°E
+|-
+| [[Kuse]] || 久世 || [[Ishijima Prefecture]] || 67,114 || 58.43 || 1,148.61 || 14.27856°S 163.24796°E
+|-
+| [[Hokubo]] || 北房 || [[Ishijima Prefecture]] || 62,328 || 71.66 || 869.80 || 14.39156°S 163.24010°E
+|-
+| [[Ochiai]] || 落合 || [[Ishijima Prefecture]] || 56,843 || 150.18 || 378.51 || 14.10790°S 163.04136°E
+|-
+| [[Katsuyama]] || 勝山 || [[Ishijima Prefecture]] || 51,221 || 37.55 || 1,364.08 || 14.71673°S 163.34673°E
+|-
+| [[Mikamo]] || 美甘 || [[Ishijima Prefecture]] || 47,883 || 111.78 || 428.36 || 14.03641°S 163.13996°E
+|-
+| [[Kume]] || 久米 || [[Ishijima Prefecture]] || 42,625 || 78.56 || 542.59 || 14.22321°S 163.23642°E
+|-
+| [[Bitchu]] || 備中 || [[Ishijima Prefecture]] || 38,567 || 56.33 || 684.64 || 14.54146°S 163.30888°E
+|-
+| [[Nariwa]] || 成羽 || [[Ishijima Prefecture]] || 34,286 || 100.26 || 341.97 || 14.53454°S 163.14927°E
+|-
+| [[Kayo]] || 賀陽 || [[Ishijima Prefecture]] || 31,464 || 98.04 || 320.92 || 14.14941°S 163.17108°E
+|-
+| [[Kamigo]] || 上郷 || [[Ishijima Prefecture]] || 28,118 || 105.97 || 265.34 || 14.39156°S 163.14260°E
+|-
+| [[Tessei]] || 哲西 || [[Ishijima Prefecture]] || 24,385 || 128.82 || 189.30 || 14.27625°S 163.03672°E
+|-
+| [[Teita]] || 哲多 || [[Ishijima Prefecture]] || 22,321 || 86.62 || 257.68 || 14.51840°S 163.06676°E
+|-
+| [[Osa]] || 大佐 || [[Ishijima Prefecture]] || 19,687 || 113.84 || 172.94 || 14.35927°S 163.03040°E
+|-
+| [[Kosei]] || 芳井 || [[Ishijima Prefecture]] || 16,374 || 91.41 || 179.12 || 14.16325°S 163.10018°E
+|-
+| [[Konko]] || 金光 || [[Ishijima Prefecture]] || 14,257 || 31.13 || 458.02 || 14.34082°S 163.24785°E
+|-
+| [[Kamogata]] || 鴨方 || [[Ishijima Prefecture]] || 12,453 || 24.15 || 515.62 || 14.04332°S 163.23751°E
+|-
+| [[Yoro]] || 寄島 || [[Ishijima Prefecture]] || 10,203 || 97.83 || 104.29 || 14.59911°S 163.32126°E
+|-
+| [[Funao]] || 船穂 || [[Ishijima Prefecture]] || 9,232 || 12.82 || 720.30 || 14.18054°S 163.26971°E
+|-
+| [[Mabi]] || 真備 || [[Ishijima Prefecture]] || 8,215 || 42.73 || 192.25 || 14.46074°S 163.14276°E
+|-
+| [[Tamada]] || 玉田 || [[Ishijima Prefecture]] || 7,125 || 62.36 || 114.26 || 14.42846°S 163.04237°E
+|-
+| [[Mizushi]] || 水島 || [[Ishijima Prefecture]] || 5,049 || 82.93 || 60.88 || 14.27048°S 163.12641°E
+|-
+| [[Asukaguchi]] || 阿須賀口 || [[Ishijima Prefecture]] || 5,622 || 194.26 || 28.94 || 14.62679°S 163.20467°E
+|-
+| [[Yamami]] || 山見 || [[Ishijima Prefecture]] || 588 || 59.97 || 9.81 || 14.78130°S 163.31206°E
+|-
+| [[Kiso]] || 木曽 || [[Kiso Prefecture]] || 378,297 || 444.68 || 850.72 || 16.37621°S 163.54699°E
+|-
+| [[Otoge]] || 大峠 || [[Kiso Prefecture]] || 72,118 || 547.77 || 131.66 || 16.54784°S 163.31073°E
+|-
+| [[Ino]] || 伊野 || [[Kiso Prefecture]] || 65,287 || 258.90 || 252.17 || 16.13965°S 163.60354°E
+|-
+| [[Ikeda]] || 池田 || [[Kiso Prefecture]] || 58,147 || 285.31 || 203.80 || 16.39679°S 163.41187°E
+|-
+| [[Kiso Onan]] || 木曽邑南 || [[Kiso Prefecture]] || 48,136 || 98.75 || 487.46 || 16.49480°S 163.48513°E
+|-
+| [[Tashiro]] || 田代 || [[Kiso Prefecture]] || 44,561 || 210.29 || 211.91 || 16.89377°S 163.56731°E
+|-
+| [[Konan]] || 湖南 || [[Kiso Prefecture]] || 37,568 || 142.33 || 263.95 || 16.33567°S 163.69927°E
+|-
+| [[Tsuwano]] || 津和野 || [[Kiso Prefecture]] || 31,118 || 243.81 || 127.63 || 16.60550°S 163.53927°E
+|-
+| [[Ama]] || 海士 || [[Kiso Prefecture]] || 25,865 || 279.44 || 92.56 || 16.74502°S 163.56784°E
+|-
+| [[Chibu]] || 知夫 || [[Kiso Prefecture]] || 18,311 || 443.66 || 41.27 || 16.89954°S 163.34532°E
+|-
+| [[Higashinoumi]] || 東の海 || [[Kiso Prefecture]] || 15,269 || 62.05 || 246.09 || 16.48442°S 163.63582°E
+|-
+| [[Heisei]] || 平成 || [[Kiso Prefecture]] || 13,420 || 88.59 || 151.48 || 16.42331°S 163.71177°E
+|-
+| [[Takahashi]] || 高梁 || [[Kiso Prefecture]] || 2,218 || 163.45 || 13.57 || 16.21345°S 163.43933°E
+|-
+| [[Wajima]] || 輪島 || [[Noto Prefecture]] || 273,132 || 1709.28 || 159.79 || 14.85391°S 163.47488°E
+|-
+| [[Nanao]] || 七尾 || [[Noto Prefecture]] || 194,220 || 1617.03 || 120.11 || 15.00124°S 163.47123°E
+|-
+| [[Suzu]] || 珠洲 || [[Noto Prefecture]] || 85,411 || 626.94 || 136.23 || 15.08312°S 163.44402°E
+|-
+| [[Hakuta]] || 伯太 || [[Noto Prefecture]] || 96,248 || 1074.91 || 89.54 || 15.08917°S 163.32900°E
+|-
+| [[Notojima]] || 能登島 || [[Noto Prefecture]] || 82,654 || 289.83 || 285.18 || 14.90238°S 163.57207°E
+|-
+| [[Monzen]] || 門前 || [[Noto Prefecture]] || 85,142 || 744.08 || 114.43 || 14.90353°S 163.67516°E
+|-
+| [[Hongo]] || 本郷 || [[Noto Prefecture]] || 75,632 || 876.03 || 86.34 || 14.84703°S 163.33836°E
+|-
+| [[Mitoya]] || 三刀屋 || [[Noto Prefecture]] || 66,666 || 1178.28 || 56.58 || 14.72711°S 163.52429°E
+|-
+| [[Kakeya]] || 掛合 || [[Noto Prefecture]] || 58,204 || 454.19 || 128.15 || 14.97964°S 163.60640°E
+|-
+| [[Yokozawa]] || 横沢 || [[Noto Prefecture]] || 52,168 || 1316.50 || 39.63 || 15.15836°S 163.58860°E
+|-
+| [[Obara]] || 小原 || [[Noto Prefecture]] || 48,885 || 1092.54 || 44.74 || 15.28289°S 163.58402°E
+|-
+| [[Sakurai]] || 桜井 || [[Noto Prefecture]] || 31,534 || 781.89 || 40.33 || 14.91506°S 163.47205°E
+|-
+| [[Hasumi]] || 羽須美 || [[Noto Prefecture]] || 24,968 || 783.30 || 31.88 || 14.75017°S 163.65455°E
+|-
+| [[Ohara]] || 大原 || [[Noto Prefecture]] || 18,255 || 401.03 || 45.52 || 14.83896°S 163.65692°E
+|-
+| [[Niimi]] || 新見 || [[Noto Prefecture]] || 12,585 || 1182.60 || 10.64 || 14.78361°S 163.43779°E
+|-
+| [[Yunotsu]] || 温泉津 || [[Noto Prefecture]] || 9,427 || 686.50 || 13.73 || 15.16182°S 163.41530°E
+|-
+| [[Iiko]] || 飯子 || [[Noto Prefecture]] || 3,021 || 857.38 || 3.52 || 14.99001°S 163.30941°E
+|-
+| [[Ato]] || 阿東 || [[Noto Prefecture]] || 1,202 || 664.14 || 1.81 || 14.81820°S 163.56139°E
+|-
+| [[Akagi]] || 赤城 || [[Noto Prefecture]] || 630 || 375.88 || 1.68 || 15.09494°S 163.50964°E
+|-
+| [[Owari]] || 尾張 || [[Noto Prefecture]] || 148 || 64.98 || 2.28 || 14.94620°S 163.73738°E
+|-
+| [[Ogasawara]] || 小笠原 || [[Ogasawara Prefecture]] || 416,796 || 92.73 || 4,495.00 || 12.12714°S 161.28438°E
+|-
+| [[Toshima]] || 利島 || [[Ogasawara Prefecture]] || 124,112 || 41.63 || 2,982.00 || 13.18822°S 161.61391°E
+|-
+| [[Madara]] || 斑 || [[Ogasawara Prefecture]] || 55,412 || 63.22 || 876.00 || 12.15368°S 161.32800°E
+|-
+| [[Sangoku-Minato]] || 三国港 || [[Ogasawara Prefecture]] || 36,412 || 32.11 || 1,134.00 || 12.22289°S 161.23481°E
+|-
+| [[Sananami]] || 三波 || [[Ogasawara Prefecture]] || 48,231 || 33.21 || 1,452.00 || 13.37236°S 161.82143°E
+|-
+| [[Hutsuna]] || 忽那 || [[Ogasawara Prefecture]] || 41,568 || 48.31 || 861.00 || 13.36495°S 161.72630°E
+|-
+| [[Uminami]] || 海南 || [[Ogasawara Prefecture]] || 31,105 || 19.00 || 1,637.00 || 13.41993°S 161.72279°E
+|-
+| [[Ach?]] || 阿智 || [[Ogasawara Prefecture]] || 16,112 || 53.06 || 304.00 || 13.41837°S 161.79726°E
+|-
+| [[Touga]] || 東郷 || [[Ogasawara Prefecture]] || 25,231 || 11.83 || 2,132.00 || 11.66433°S 160.45419°E
+|-
+| [[Raro]] || 羅露 || [[Ogasawara Prefecture]] || 22,412 || 12.98 || 1,727.00 || 11.68422°S 160.48617°E
+|-
+| [[Aizu]] || 会津 || [[Ogasawara Prefecture]] || 17,654 || 13.34 || 1,323.00 || 11.72867°S 160.47603°E
+|-
+| [[Haitsu]] || 拝津 || [[Ogasawara Prefecture]] || 20,412 || 20.75 || 984.00 || 12.28138°S 161.37674°E
+|-
+| [[Namime]] || 波目 || [[Ogasawara Prefecture]] || 18,221 || 16.76 || 1,087.00 || 12.04002°S 161.39136°E
+|-
+| [[Raerai]] || 来来 || [[Ogasawara Prefecture]] || 15,422 || 19.23 || 802.00 || 12.07394°S 161.13070°E
+|-
+| [[Tokera]] || 土家羅 || [[Ogasawara Prefecture]] || 13,889 || 9.06 || 1,534.00 || 13.22302°S 161.67073°E
+|-
+| [[Niwa]] || 丹羽 || [[Ogasawara Prefecture]] || 12,554 || 9.03 || 1,390.00 || 12.49437°S 161.36874°E
+|-
+| [[Man'ai]] || 満愛 || [[Ogasawara Prefecture]] || 13,876 || 5.43 || 2,556.00 || 11.90169°S 160.79761°E
+|-
+| [[Mauke]] || 真浮 || [[Ogasawara Prefecture]] || 12,219 || 5.25 || 2,326.00 || 11.92450°S 160.78806°E
+|-
+| [[Shiga]] || 滋賀 || [[Shiga Prefecture]] || 532,088 || 113.80 || 4,675.65 || 14.89653°S 162.80420°E
+|-
+| [[Ogaki]] || 大垣 || [[Shiga Prefecture]] || 89,100 || 117.49 || 758.39 || 15.15144°S 162.74431°E
+|-
+| [[Towa]] || 東化 || [[Shiga Prefecture]] || 83,601 || 131.23 || 637.06 || 14.64985°S 162.76683°E
+|-
+| [[Tachibana]] || 橘 || [[Shiga Prefecture]] || 76,230 || 86.86 || 877.64 || 14.96580°S 162.78190°E
+|-
+| [[Mikawa]] || 三河 || [[Shiga Prefecture]] || 68,123 || 29.64 || 2,298.72 || 15.20333°S 162.72703°E
+|-
+| [[Nishiki]] || 錦 || [[Shiga Prefecture]] || 62,535 || 39.50 || 1,583.21 || 14.83089°S 162.77192°E
+|-
+| [[Shuto]] || 周東 || [[Shiga Prefecture]] || 58,940 || 86.88 || 678.44 || 15.01999°S 162.75440°E
+|-
+| [[Yuu]] || 由宇 || [[Shiga Prefecture]] || 52,106 || 111.12 || 468.92 || 15.21256°S 162.84386°E
+|-
+| [[Hoko]] || 宝庫 || [[Shiga Prefecture]] || 48,505 || 60.18 || 805.97 || 14.89315°S 162.88053°E
+|-
+| [[Kumae]] || 熊江 || [[Shiga Prefecture]] || 44,328 || 61.58 || 719.87 || 15.00384°S 162.86815°E
+|-
+| [[Tokuji]] || 徳地 || [[Shiga Prefecture]] || 38,842 || 82.05 || 473.38 || 15.12723°S 162.89711°E
+|-
+| [[Shigayama]] || 滋賀山 || [[Shiga Prefecture]] || 31,209 || 61.71 || 505.71 || 15.29443°S 162.96406°E
+|-
+| [[Fukue]] || 福江 || [[Shiga Prefecture]] || 28,494 || 69.55 || 409.71 || 14.70405°S 162.91826°E
+|-
+| [[Susa]] || 須佐 || [[Shiga Prefecture]] || 26,436 || 54.39 || 486.01 || 14.73057°S 162.76585°E
+|-
+| [[Takawa]] || 田川 || [[Shiga Prefecture]] || 18,632 || 29.54 || 630.76 || 15.06957°S 162.72592°E
+|-
+| [[Hofu]] || 防府 || [[Shiga Prefecture]] || 18,347 || 43.20 || 424.74 || 14.84818°S 162.83899°E
+|-
+| [[Nagaho]] || 長穂 || [[Shiga Prefecture]] || 15,263 || 19.54 || 781.27 || 14.76285°S 162.93236°E
+|-
+| [[Takase]] || 高瀬 || [[Shiga Prefecture]] || 12,036 || 81.18 || 148.27 || 15.06496°S 162.91609°E
+|-
+| [[Tawarayama]] || 俵山 || [[Shiga Prefecture]] || 9,876 || 36.51 || 270.53 || 15.19872°S 162.93173°E
+|-
+| [[Toyoda]] || 豊田 || [[Shiga Prefecture]] || 8,652 || 37.55 || 230.43 || 15.09263°S 162.82076°E
+|-
+| [[Kikugawa]] || 菊川 || [[Shiga Prefecture]] || 7,888 || 48.40 || 162.99 || 14.72596°S 162.82548°E
+|-
+| [[Houhou]] || 宝法 || [[Shiga Prefecture]] || 4,499 || 81.59 || 55.14 || 14.79745°S 162.90433°E
+|-
+| [[Shimabara]] || 島原 || [[Shimabara Prefecture]] || 493,588 || 452.99 || 1,089.62 || 16.07299°S 162.95649°E
+|-
+| [[Nosegawa]] || 野迫川 || [[Shimabara Prefecture]] || 231,482 || 259.83 || 890.90 || 16.41100°S 162.97211°E
+|-
+| [[Kitayama]] || 北山 || [[Shimabara Prefecture]] || 147,131 || 253.28 || 580.91 || 15.94258°S 163.01947°E
+|-
+| [[Kamikitayama]] || 上北山 || [[Shimabara Prefecture]] || 102,541 || 126.59 || 810.00 || 15.94698°S 163.23760°E
+|-
+| [[Hinoemata]] || 檜枝岐 || [[Shimabara Prefecture]] || 78,392 || 165.15 || 474.66 || 16.25449°S 162.94872°E
+|-
+| [[Tabayama]] || 丹波山 || [[Shimabara Prefecture]] || 61,408 || 74.75 || 821.46 || 16.05114°S 162.81340°E
+|-
+| [[Kosuge]] || 小菅 || [[Shimabara Prefecture]] || 48,723 || 300.03 || 162.39 || 16.36292°S 163.26440°E
+|-
+| [[Kurotaki]] || 黒滝 || [[Shimabara Prefecture]] || 39,004 || 206.62 || 188.77 || 16.34143°S 163.09872°E
+|-
+| [[Shimokitayama]] || 下北山 || [[Shimabara Prefecture]] || 32,718 || 226.65 || 144.35 || 15.98322°S 163.12879°E
+|-
+| [[Shinjo]] || 新庄 || [[Shimabara Prefecture]] || 26,305 || 169.16 || 155.51 || 16.17941°S 163.07918°E
+|-
+| [[Ueno]] || 上野 || [[Shimabara Prefecture]] || 21,411 || 112.06 || 191.06 || 16.09123°S 163.16375°E
+|-
+| [[Soni]] || 曽爾 || [[Shimabara Prefecture]] || 16,772 || 196.57 || 85.32 || 16.19594°S 163.19431°E
+|-
+| [[Wakura]] || 和倉 || [[Shimabara Prefecture]] || 12,253 || 64.81 || 189.07 || 16.17279°S 162.92102°E
+|-
+| [[Mitsue]] || 御杖 || [[Shimabara Prefecture]] || 9,381 || 106.00 || 88.50 || 16.51337°S 163.03651°E
+|-
+| [[Nanmoku]] || 南牧 || [[Shimabara Prefecture]] || 6,104 || 242.45 || 25.18 || 16.42850°S 163.17708°E
+|-
+| [[Tenryu]] || 天龍 || [[Shimabara Prefecture]] || 4,251 || 318.53 || 13.35 || 16.18602°S 163.30930°E
+|-
+| [[Yasuoka]] || 泰阜 || [[Shimabara Prefecture]] || 2,300 || 197.75 || 11.63 || 16.04715°S 163.28433°E
+|-
+| [[Tachibara]] || 立原 || [[Tachibara Prefecture]] || 368,701 || 256.63 || 1,436.70 || 16.55852°S 162.93542°E
+|-
+| [[Kitanada]] || 北灘 || [[Tachibara Prefecture]] || 124,551 || 206.58 || 602.91 || 17.05821°S 163.01089°E
+|-
+| [[Kawakami]] || 川上 || [[Tachibara Prefecture]] || 98,143 || 353.65 || 277.51 || 16.82060°S 162.94533°E
+|-
+| [[Minamiaki]] || 南安芸 || [[Tachibara Prefecture]] || 8,399 || 148.95 || 56.39 || 17.34303°S 163.25364°E
+|-
+| [[Kitaki]] || 北木 || [[Tachibara Prefecture]] || 9,411 || 211.08 || 44.59 || 17.21959°S 163.26712°E
+|-
+| [[Oshika]] || 大鹿 || [[Tachibara Prefecture]] || 81,202 || 223.48 || 363.35 || 17.16007°S 163.13163°E
+|-
+| [[Otaki]] || 王滝 || [[Tachibara Prefecture]] || 65,417 || 301.44 || 217.02 || 16.98372°S 163.09015°E
+|-
+| [[Kijimadaira]] || 木島平 || [[Tachibara Prefecture]] || 52,110 || 117.35 || 444.06 || 16.69495°S 162.99543°E
+|-
+| [[Nagawa]] || 奈川 || [[Tachibara Prefecture]] || 41,833 || 171.00 || 244.64 || 16.92421°S 162.96247°E
+|-
+| [[Hara]] || 原 || [[Tachibara Prefecture]] || 33,192 || 208.92 || 158.88 || 16.57481°S 163.08784°E
+|-
+| [[Doshi]] || 道志 || [[Tachibara Prefecture]] || 12,602 || 274.42 || 45.92 || 17.07961°S 163.21079°E
+|-
+| [[Tsumagoi]] || 嬬恋 || [[Tachibara Prefecture]] || 15,854 || 197.20 || 80.40 || 16.91980°S 163.23308°E
+|-
+| [[Kataba]] || 片庭 || [[Tachibara Prefecture]] || 19,321 || 221.52 || 87.22 || 16.79305°S 163.15539°E
+|-
+| [[Katashina]] || 片品 || [[Tachibara Prefecture]] || 23,466 || 86.18 || 272.29 || 17.28241°S 163.14936°E
+|-
+| [[Takayama]] || 高山 || [[Tachibara Prefecture]] || 28,105 || 258.28 || 108.82 || 16.69771°S 163.16732°E
+|-
+| [[Tochigi]] || 栃木 || [[Tochigi Prefecture]] || 753,068 || 155.74 || 4,835.57 || 14.95234°S 163.13014°E
+|-
+| [[Kamigori]] || 上郡 || [[Tochigi Prefecture]] || 92,256 || 83.20 || 1,108.78 || 15.15144°S 163.10567°E
+|-
+| [[Sayo]] || 佐用 || [[Tochigi Prefecture]] || 85,335 || 72.98 || 1,169.26 || 15.10070°S 163.23928°E
+|-
+| [[Shiso]] || 宍粟 || [[Tochigi Prefecture]] || 79,118 || 49.77 || 1,589.80 || 15.03267°S 163.11984°E
+|-
+| [[Kamikawa]] || 神河 || [[Tochigi Prefecture]] || 72,596 || 65.46 || 1,108.94 || 15.19411°S 163.05598°E
+|-
+| [[Ichikawa]] || 市川 || [[Tochigi Prefecture]] || 65,248 || 76.12 || 857.17 || 14.89085°S 163.08173°E
+|-
+| [[Taka]] || 多可 || [[Tochigi Prefecture]] || 56,187 || 95.52 || 588.25 || 14.83204°S 162.96596°E
+|-
+| [[Inagawa]] || 猪名川 || [[Tochigi Prefecture]] || 65,472 || 160.63 || 407.61 || 14.79399°S 163.14743°E
+|-
+| [[Taishi]] || 太子 || [[Tochigi Prefecture]] || 52,128 || 59.74 || 872.59 || 14.87932°S 163.22552°E
+|-
+| [[Nose]] || 能勢 || [[Tochigi Prefecture]] || 48,235 || 68.86 || 700.44 || 14.95311°S 163.21418°E
+|-
+| [[Toyono]] || 豊能 || [[Tochigi Prefecture]] || 43,258 || 49.50 || 873.96 || 15.02229°S 163.25729°E
+|-
+| [[Yamamoto]] || 山本 || [[Tochigi Prefecture]] || 41,586 || 44.51 || 934.21 || 15.05804°S 162.97783°E
+|-
+| [[Tadaoka]] || 忠岡 || [[Tochigi Prefecture]] || 38,967 || 90.30 || 431.54 || 14.93351°S 162.97119°E
+|-
+| [[Kumatori]] || 熊取 || [[Tochigi Prefecture]] || 35,422 || 83.82 || 422.60 || 15.14913°S 162.95216°E
+|-
+| [[Tajiri]] || 田尻 || [[Tochigi Prefecture]] || 31,566 || 45.58 || 692.48 || 15.08571°S 163.11723°E
+|-
+| [[Teraoka]] || 寺岡 || [[Tochigi Prefecture]] || 28,753 || 41.82 || 687.56 || 14.88162°S 163.29194°E
+|-
+| [[Chihaya]] || 千早 || [[Tochigi Prefecture]] || 25,430 || 47.56 || 534.65 || 14.81590°S 163.08237°E
+|-
+| [[Kamezaki]] || 亀崎 || [[Tochigi Prefecture]] || 25,397 || 47.79 || 531.42 || 15.11454°S 163.18965°E
+|-
+| [[Takagi]] || 高木 || [[Tochigi Prefecture]] || 22,775 || 101.42 || 224.56 || 14.82973°S 163.26337°E
+|-
+| [[Kanan]] || 河南 || [[Tochigi Prefecture]] || 17,852 || 115.05 || 155.16 || 15.00730°S 163.00210°E
+|-
+| [[Okuno]] || 奥野 || [[Tochigi Prefecture]] || 14,230 || 34.15 || 416.65 || 14.88162°S 163.14824°E
+|-
+| [[Itogawa]] || 糸川 || [[Tochigi Prefecture]] || 11,244 || 36.10 || 311.44 || 14.99001°S 163.11427°E
+|-
+| [[Nakagawa]] || 那珂川 || [[Tochigi Prefecture]] || 11,883 || 36.58 || 324.87 || 14.88739°S 162.98473°E
+|-
+| [[Umi]] || 宇美 || [[Tochigi Prefecture]] || 9,214 || 31.36 || 293.78 || 15.14568°S 163.26262°E
+|-
+| [[Sasaguri]] || 篠栗 || [[Tochigi Prefecture]] || 8,014 || 38.76 || 206.77 || 15.10416°S 163.03434°E
+|-
+| [[Shingu]] || 新宮 || [[Tochigi Prefecture]] || 7,002 || 25.58 || 273.70 || 14.93351°S 163.28366°E
+|-
+| [[Hisayama]] || 久山 || [[Tochigi Prefecture]] || 6,330 || 23.85 || 265.36 || 15.05343°S 163.20492°E
+|-
+| [[Kasuya]] || 粕屋 || [[Tochigi Prefecture]] || 5,120 || 13.74 || 372.70 || 14.93005°S 163.09436°E
+|-
+| [[Kotake]] || 小竹 || [[Tochigi Prefecture]] || 4,020 || 27.10 || 148.33 || 15.21371°S 162.99316°E
+|-
+| [[Toyozawa]] || 豊沢 || [[Toyozawa Metropolis]] || 6,104,291 || 296.03 || 20,620.58 || {{Coord|-20.49836|164.25098|display=inline}}
+|-
+| [[Tajiri]] || 田尻 || [[Toyozawa Metropolis]] || 8,476 || 2.09 || 4,055.53 || 20.60204°S 164.58936°E
+|-
+| [[Fujiidera]] || 藤井寺 || [[Toyozawa Metropolis]] || 4,923 || 0.95 || 5,163.18 || 20.61381°S 164.57224°E
+|-
+| [[Kadoma]] || 門真 || [[Toyozawa Metropolis]] || 297,597 || 53.67 || 5,544.88 || 20.58854°S 164.08927°E
+|-
+| [[Neyagawa]] || 寝屋川 || [[Toyozawa Metropolis]] || 230,459 || 84.23 || 2,735.97 || 20.68258°S 164.25248°E
+|-
+| [[Abeno]] || 阿倍野 || [[Toyozawa Metropolis]] || 195,687 || 31.79 || 6,155.67 || 20.55851°S 164.16784°E
+|-
+| [[Ikuno]] || 生野 || [[Toyozawa Metropolis]] || 160,221 || 37.13 || 4,315.64 || 20.61827°S 164.28130°E
+|-
+| [[Miyakojima]] || 都島 || [[Toyozawa Metropolis]] || 165,334 || 5.45 || 30,336.44 || 20.59522°S 164.63986°E
+|-
+| [[Suminoe]] || 住之江 || [[Toyozawa Metropolis]] || 122,459 || 38.72 || 3,162.66 || 20.44141°S 164.13083°E
+|-
+| [[Tondabayashi]] || 富田林 || [[Toyozawa Metropolis]] || 120,412 || 80.78 || 1,490.65 || 20.71140°S 164.38929°E
+|-
+| [[Habikino]] || 羽曳野 || [[Toyozawa Metropolis]] || 112,456 || 55.70 || 2,018.90 || 20.72718°S 164.56403°E
+|-
+| [[Nishinari]] || 西成 || [[Toyozawa Metropolis]] || 110,432 || 47.05 || 2,347.36 || 20.50876°S 164.10656°E
+|-
+| [[Kaizuka]] || 貝塚 || [[Toyozawa Metropolis]] || 88,337 || 55.30 || 1,597.38 || 20.56837°S 164.38664°E
+|-
+| [[Katano]] || 交野 || [[Toyozawa Metropolis]] || 77,294 || 73.64 || 1,049.60 || 20.66800°S 164.51745°E
+|-
+| [[Izumiotsu]] || 泉大津 || [[Toyozawa Metropolis]] || 75,412 || 68.84 || 1,095.45 || 20.58687°S 164.53103°E
+|-
+| [[Izumisano]] || 泉佐野 || [[Toyozawa Metropolis]] || 62,451 || 51.59 || 1,210.58 || 20.63844°S 164.47461°E
+|-
+| [[Konohana]] || 此花 || [[Toyozawa Metropolis]] || 66,281 || 13.07 || 5,071.34 || 20.51316°S 164.29593°E
+|-
+| [[Takaishi]] || 高石 || [[Toyozawa Metropolis]] || 58,223 || 28.33 || 2,055.26 || 20.64724°S 164.31686°E
+|-
+| [[Hannan]] || 阪南 || [[Toyozawa Metropolis]] || 53,112 || 34.22 || 1,552.21 || 20.70361°S 164.46522°E
+|-
+| [[Kumatori]] || 熊取 || [[Toyozawa Metropolis]] || 44,834 || 10.82 || 4,143.13 || 20.68031°S 164.60505°E
+|-
+| [[Shimamoto]] || 島本 || [[Toyozawa Metropolis]] || 31,477 || 16.35 || 1,924.79 || 20.58841°S 164.31557°E
+|-
+| [[Moriguchi]] || 守口 || [[Toyozawa Metropolis]] || 15,294 || 2.26 || 6,782.11 || 20.54107°S 164.21858°E
+|-
+| [[Settsu]] || 摂津 || [[Toyozawa Metropolis]] || 18,452 || 35.36 || 521.79 || 20.55199°S 164.46763°E
+|-
+| [[Tadaoka]] || 忠岡 || [[Toyozawa Metropolis]] || 16,921 || 2.89 || 5,852.75 || 20.55684°S 164.34568°E
+|-
+| [[Taishi]] || 太子 || [[Toyozawa Metropolis]] || 13,117 || 11.45 || 1,145.75 || 20.63571°S 164.40029°E
+|-
+| [[Daito]] || 大東 || [[Toyozawa Metropolis]] || 10,237 || 2.88 || 3,559.21 || 20.57868°S 164.22252°E
+|-
+| [[Isshinji]] || 一心寺 || [[Toyozawa Metropolis]] || 802,808 || 69.65 || 11,525.72 || 20.62366°S 164.64470°E
+|-
+| [[Mito]] || 水戸 || [[Mito Prefecture]] || 1,904,552 || 403.52 || 4,719.82 || 20.85327°S 164.42267°E
+|-
+| [[Maki]] || 巻 || [[Mito Prefecture]] || 61,258 || 98.69 || 620.71 || 20.75249°S 164.71093°E
+|-
+| [[Shizuoka]] || 静岡 || [[Mito Prefecture]] || 254,112 || 185.04 || 1,373.26 || 20.77487°S 164.27788°E
+|-
+| [[Yuzawa]] || 湯沢 || [[Mito Prefecture]] || 184,331 || 505.60 || 364.58 || 20.98832°S 164.63741°E
+|-
+| [[Kumiyama]] || 久御山 || [[Mito Prefecture]] || 72,114 || 111.96 || 644.08 || 20.71337°S 164.64237°E
+|-
+| [[Sonobe]] || 園部 || [[Mito Prefecture]] || 65,317 || 390.03 || 167.47 || 21.19384°S 164.93685°E
+|-
+| [[Yosano]] || 与謝野 || [[Mito Prefecture]] || 55,210 || 133.14 || 414.67 || 20.77890°S 164.53923°E
+|-
+| [[Omiya]] || 大宮 || [[Mito Prefecture]] || 53,268 || 103.38 || 515.26 || 20.79467°S 164.67028°E
+|-
+| [[Oyamazaki]] || 大山崎 || [[Mito Prefecture]] || 116,038 || 251.19 || 461.96 || 20.88491°S 164.27525°E
+|-
+| [[Ayabe]] || 綾部 || [[Mito Prefecture]] || 48,931 || 246.54 || 198.47 || 20.83108°S 164.77342°E
+|-
+| [[Fukuchiyama]] || 福知山 || [[Mito Prefecture]] || 44,834 || 360.39 || 124.40 || 21.05799°S 164.43123°E
+|-
+| [[Kyotamba]] || 京丹波 || [[Mito Prefecture]] || 42,331 || 366.17 || 115.60 || 21.14778°S 164.61203°E
+|-
+| [[Yawata]] || 八幡 || [[Mito Prefecture]] || 33,911 || 93.27 || 363.57 || 20.66241°S 164.74430°E
+|-
+| [[Kaya]] || 加悦 || [[Mito Prefecture]] || 31,568 || 343.25 || 91.97 || 21.00962°S 164.86883°E
+|-
+| [[Ide]] || 井手 || [[Mito Prefecture]] || 14,332 || 66.21 || 216.47 || 20.75160°S 164.80858°E
+|-
+| [[Miyama]] || 美山 || [[Mito Prefecture]] || 11,988 || 164.33 || 72.95 || 21.22687°S 164.76557°E
+|-
+| [[Wazuka]] || 和束 || [[Mito Prefecture]] || 8,322 || 268.45 || 31.00 || 20.89784°S 164.92793°E
+|-
+| [[Minamiyamashiro]] || 南山城 || [[Mito Prefecture]] || 6,119 || 239.12 || 25.59 || 21.08063°S 164.90965°E
+|-
+| [[Kasagi]] || 笠置 || [[Mito Prefecture]] || 5,226 || 146.42 || 35.69 || 20.88064°S 164.66396°E
+|-
+| [[Oyamazaki]] || 大山崎 || [[Mito Prefecture]] || 64,202 || 91.78 || 699.49 || 20.72177°S 164.26208°E
+|-
+| [[Sanda]] || 三田 || [[Seto Prefecture]] || 604,287 || 169.08 || 3,574.01 || 20.55663°S 164.65635°E
+|-
+| [[Osaki]] || 大崎 || [[Seto Prefecture]] || 121,405 || 271.15 || 447.73 || 19.98160°S 164.33290°E
+|-
+| [[Minatojima]] || 港島 || [[Seto Prefecture]] || 1,251,786 || 762.12 || 1,642.50 || 19.31109°S 164.13186°E
+|-
+| [[Suzuka]] || 鈴鹿 || [[Seto Prefecture]] || 71,996 || 495.48 || 145.31 || 18.65807°S 163.71919°E
+|-
+| [[Fujii]] || 藤井 || [[Seto Prefecture]] || 6,420 || 55.25 || 116.21 || 19.17870°S 164.42021°E
+|-
+| [[Okita]] || 沖田 || [[Seto Prefecture]] || 8,881 || 88.54 || 100.31 || 19.32601°S 164.94278°E
+|-
+| [[Mochida]] || 持田 || [[Seto Prefecture]] || 22,437 || 304.81 || 73.61 || 19.32924°S 164.50623°E
+|-
+| [[Takagi]] || 高木 || [[Seto Prefecture]] || 18,331 || 336.12 || 54.54 || 18.88193°S 163.76538°E
+|-
+| [[Kosakamoto]] || 小坂本 || [[Seto Prefecture]] || 72,118 || 216.55 || 333.04 || 20.43663°S 164.62879°E
+|-
+| [[Shinoda]] || 信田 || [[Seto Prefecture]] || 60,205 || 307.29 || 195.92 || 19.11849°S 163.88796°E
+|-
+| [[Watanabe]] || 渡辺 || [[Seto Prefecture]] || 42,331 || 185.73 || 227.92 || 20.57654°S 164.77397°E
+|-
+| [[Sugiura]] || 杉浦 || [[Seto Prefecture]] || 35,221 || 520.21 || 67.70 || 19.52519°S 164.15242°E
+|-
+| [[Iwaya]] || 岩屋 || [[Seto Prefecture]] || 28,416 || 435.37 || 65.27 || 19.65504°S 164.49655°E
+|-
+| [[Matsumoto]] || 松本 || [[Seto Prefecture]] || 25,212 || 195.74 || 128.80 || 20.51955°S 164.88042°E
+|-
+| [[Abe]] || 安倍 || [[Seto Prefecture]] || 17,112 || 425.75 || 40.19 || 19.94966°S 164.51591°E
+|-
+| [[Mii]] || 三井 || [[Seto Prefecture]] || 15,223 || 219.20 || 69.45 || 20.32170°S 164.56537°E
+|-
+| [[Takeuchi]] || 竹内 || [[Seto Prefecture]] || 14,334 || 308.89 || 46.41 || 20.07869°S 164.58257°E
+|-
+| [[Ishizawa]] || 石沢 || [[Seto Prefecture]] || 13,980 || 551.90 || 25.33 || 19.52816°S 164.34817°E
+|-
+| [[Takehara]] || 竹原 || [[Seto Prefecture]] || 12,620 || 229.25 || 55.05 || 20.13031°S 164.43419°E
+|-
+| [[Iwasaki]] || 岩崎 || [[Seto Prefecture]] || 11,211 || 318.18 || 35.23 || 20.31486°S 164.73248°E
+|-
+| [[Shimizu]] || 清水 || [[Seto Prefecture]] || 10,568 || 430.84 || 24.53 || 19.78837°S 164.26215°E
+|-
+| [[Sukumo]] || 宿毛 || [[Saitama Prefecture]] || 84,312 || 309.16 || 272.71 || 19.79090°S 162.12849°E
+|-
+| [[Soma]] || 相馬 || [[Saitama Prefecture]] || 1,541,145 || 202.43 || 7,613.41 || 20.01062°S 162.68568°E
+|-
+| [[Kesennuma]] || 気仙沼 || [[Saitama Prefecture]] || 95,441 || 275.49 || 346.44 || 20.27092°S 162.98251°E
+|-
+| [[Akamine]] || 赤嶺 || [[Saitama Prefecture]] || 42,391 || 255.03 || 166.22 || 19.77043°S 162.52912°E
+|-
+| [[Kushizaki]] || 串崎 || [[Saitama Prefecture]] || 38,112 || 152.09 || 250.58 || 20.38657°S 163.13153°E
+|-
+| [[Nakamura]] || 中村 || [[Saitama Prefecture]] || 54,223 || 206.05 || 263.16 || 19.84038°S 162.34199°E
+|-
+| [[Hosoya]] || 細谷 || [[Saitama Prefecture]] || 35,447 || 211.16 || 167.87 || 20.13272°S 162.78895°E
+|-
+| [[Kushimoto]] || 串本 || [[Saitama Prefecture]] || 32,117 || 131.31 || 244.59 || 19.90011°S 162.61391°E
+|-
+| [[Nachikatsuura]] || 那智勝浦 || [[Saitama Prefecture]] || 30,150 || 366.73 || 82.21 || 19.72249°S 161.91830°E
+|-
+| [[Taiji]] || 太地 || [[Saitama Prefecture]] || 24,921 || 102.46 || 243.23 || 20.18774°S 162.88942°E
+|-
+| [[Oe]] || 大江 || [[Saitama Prefecture]] || 31,998 || 144.98 || 220.71 || 20.28755°S 162.44050°E
+|-
+| [[Obara]] || 小原 || [[Saitama Prefecture]] || 29,966 || 132.92 || 225.44 || 20.57463°S 163.16328°E
+|-
+| [[Iguchi]] || 井口 || [[Saitama Prefecture]] || 24,330 || 188.35 || 129.18 || 20.42479°S 162.55498°E
+|-
+| [[Higuchi]] || 樋口 || [[Saitama Prefecture]] || 21,742 || 127.50 || 170.53 || 20.48978°S 162.62098°E
+|-
+| [[Tanaka]] || 田中 || [[Saitama Prefecture]] || 17,920 || 189.30 || 94.66 || 20.53672°S 162.72988°E
+|-
+| [[Shirahama]] || 白浜 || [[Saitama Prefecture]] || 14,883 || 96.57 || 154.12 || 20.58366°S 162.80965°E
+|-
+| [[Inami]] || 印南 || [[Saitama Prefecture]] || 14,507 || 115.12 || 126.02 || 20.62157°S 162.95148°E
+|-
+| [[Minabe]] || みなべ || [[Saitama Prefecture]] || 12,398 || 98.45 || 125.94 || 20.64684°S 163.12729°E
+|-
+| [[Aimino]] || 逢海野 || [[Saitama Prefecture]] || 17,202 || 125.39 || 137.19 || 19.98973°S 162.52785°E
+|-
+| [[Masaki]] || 松前 || [[Saitama Prefecture]] || 15,268 || 218.53 || 69.87 || 19.93377°S 162.27309°E
+|-
+| [[Azami]] || 浅海 || [[Saitama Prefecture]] || 14,452 || 169.06 || 85.48 || 20.53853°S 163.00113°E
+|-
+| [[Ichikawa]] || 市川 || [[Saitama Prefecture]] || 12,963 || 136.51 || 94.96 || 20.46812°S 163.11472°E
+|-
+| [[Horiguchi]] || 堀口 || [[Saitama Prefecture]] || 11,975 || 115.73 || 103.48 || 19.88503°S 162.49261°E
+|-
+| [[Hisano]] || 久野 || [[Saitama Prefecture]] || 11,200 || 66.85 || 167.53 || 20.32189°S 162.87402°E
+|-
+| [[Egawa]] || 江川 || [[Saitama Prefecture]] || 10,102 || 61.21 || 165.03 || 20.17566°S 162.42538°E
+|-
+| [[Yokozeki]] || 横関 || [[Saitama Prefecture]] || 9,554 || 191.97 || 49.77 || 20.04929°S 162.36539°E
+|-
+| [[Asaka]] || 安積 || [[Saitama Prefecture]] || 8,720 || 92.64 || 94.13 || 20.10345°S 162.45739°E
+|-
+| [[Kozagawa]] || 古座川 || [[Saitama Prefecture]] || 22,564 || 191.10 || 118.08 || 20.23885°S 162.52617°E
+|-
+| [[Susami]] || すさみ || [[Saitama Prefecture]] || 19,804 || 143.93 || 137.59 || 20.51686°S 162.89719°E
+|-
+| [[Kamitonda]] || 上富田 || [[Saitama Prefecture]] || 18,023 || 156.01 || 115.53 || 20.39049°S 162.99725°E
+|-
+| [[Hidakagawa]] || 日高川 || [[Saitama Prefecture]] || 11,036 || 91.39 || 120.76 || 20.11609°S 162.67733°E
+|-
+| [[Yura]] || 由良 || [[Saitama Prefecture]] || 9,306 || 88.34 || 105.35 || 20.07276°S 162.57583°E
+|-
+| [[Yuasa]] || 湯浅 || [[Saitama Prefecture]] || 8,502 || 191.37 || 44.43 || 20.30384°S 162.65873°E
+|-
+| [[Aridagawa]] || 有田川 || [[Saitama Prefecture]] || 7,114 || 81.37 || 87.43 || 20.14317°S 162.59952°E
+|-
+| [[Kimino]] || 紀美野 || [[Saitama Prefecture]] || 6,120 || 90.60 || 67.55 || 20.21357°S 162.71690°E
+|-
+| [[Katsuragi]] || かつらぎ || [[Saitama Prefecture]] || 5,270 || 84.37 || 62.46 || 20.42479°S 162.73405°E
+|-
+| [[Kudoyama]] || 九度山 || [[Saitama Prefecture]] || 4,118 || 121.20 || 33.98 || 20.43021°S 162.89382°E
+|-
+| [[Koya]] || 高野 || [[Saitama Prefecture]] || 2,985 || 111.48 || 26.78 || 20.35078°S 162.78630°E
+|-
+| [[Tsuda]] || 津田 || [[Kochi Prefecture]] || 1,011,906 || 588.19 || 1,720.38 || 19.76934°S 161.44052°E
+|-
+| [[Fukui]] || 福井 || [[Kochi Prefecture]] || 154,221 || 508.63 || 303.21 || 20.44641°S 161.68375°E
+|-
+| [[Asakura]] || 朝倉 || [[Kochi Prefecture]] || 92,381 || 248.65 || 371.53 || 19.74744°S 161.78793°E
+|-
+| [[Sakurabe]] || 桜辺 || [[Kochi Prefecture]] || 84,223 || 293.18 || 287.27 || 19.83795°S 161.25100°E
+|-
+| [[Gomi]] || 五味 || [[Kochi Prefecture]] || 76,419 || 295.68 || 258.45 || 20.08612°S 161.41009°E
+|-
+| [[Aoki]] || 青木 || [[Kochi Prefecture]] || 65,337 || 412.76 || 158.29 || 20.42481°S 162.37580°E
+|-
+| [[Machida]] || 町田 || [[Kochi Prefecture]] || 58,112 || 478.56 || 121.43 || 20.50073°S 162.15779°E
+|-
+| [[Minowa]] || 箕輪 || [[Kochi Prefecture]] || 50,876 || 561.58 || 90.59 || 20.30510°S 162.36610°E
+|-
+| [[Kawajiri]] || 川尻 || [[Kochi Prefecture]] || 48,221 || 498.75 || 96.68 || 20.17371°S 161.55541°E
+|-
+| [[Tokoro]] || 常呂 || [[Kochi Prefecture]] || 44,903 || 179.00 || 250.85 || 20.34306°S 161.48095°E
+|-
+| [[Takada]] || 高田 || [[Kochi Prefecture]] || 41,218 || 650.65 || 63.35 || 20.27590°S 161.77553°E
+|-
+| [[Fujita]] || 藤田 || [[Kochi Prefecture]] || 38,442 || 481.71 || 79.80 || 20.53285°S 161.94778°E
+|-
+| [[Ogawa]] || 小川 || [[Kochi Prefecture]] || 33,561 || 207.75 || 161.54 || 19.92263°S 161.28772°E
+|-
+| [[Inoki]] || 猪木 || [[Kochi Prefecture]] || 27,563 || 191.49 || 143.94 || 20.25255°S 161.47953°E
+|-
+| [[Satake]] || 佐竹 || [[Kochi Prefecture]] || 24,836 || 518.37 || 47.91 || 19.94015°S 161.95543°E
+|-
+| [[Kondo]] || 近藤 || [[Kochi Prefecture]] || 21,864 || 276.48 || 79.08 || 19.69398°S 161.19564°E
+|-
+| [[Gono]] || 郷野 || [[Kochi Prefecture]] || 14,996 || 911.82 || 16.45 || 20.11819°S 162.10351°E
+|-
+| [[Ishii]] || 石井 || [[Kochi Prefecture]] || 12,567 || 231.66 || 54.25 || 19.94332°S 161.46930°E
+|-
+| [[Hidaka]] || 日高 || [[Kochi Prefecture]] || 10,632 || 588.02 || 18.08 || 20.04091°S 161.76337°E
+|-
+| [[Arida]] || 有田 || [[Kochi Prefecture]] || 9,112 || 423.58 || 21.51 || 20.39067°S 162.04299°E
+|-
+| [[Ito]] || 伊藤 || [[Kochi Prefecture]] || 7,227 || 303.49 || 23.81 || 19.87418°S 161.80177°E
+|-
+| [[Akamatsu]] || 赤松 || [[Ise Prefecture]] || 114,551 || 327.74 || 349.52 || 21.13200°S 164.35545°E
+|-
+| [[Ichijoudani]] || 一乗谷 || [[Ise Prefecture]] || 503,502 || 618.47 || 814.11 || 20.79764°S 163.79621°E
+|-
+| [[Ikata]] || 伊方 || [[Ise Prefecture]] || 85,412 || 352.98 || 241.97 || 20.94578°S 163.83151°E
+|-
+| [[Yokokawa]] || 横川 || [[Ise Prefecture]] || 85,241 || 413.60 || 206.09 || 21.53016°S 165.00192°E
+|-
+| [[Tashiro]] || 田代 || [[Ise Prefecture]] || 62,339 || 535.56 || 116.40 || 21.25704°S 164.17182°E
+|-
+| [[Takanashi]] || 高梨 || [[Ise Prefecture]] || 58,112 || 430.58 || 134.96 || 20.82264°S 164.12881°E
+|-
+| [[Kimura]] || 木村 || [[Ise Prefecture]] || 45,447 || 419.86 || 108.24 || 21.30220°S 164.62343°E
+|-
+| [[Ise-Aizawa]] || 伊勢逢沢 || [[Ise Prefecture]] || 40,223 || 267.34 || 150.46 || 21.40113°S 164.47935°E
+|-
+| [[Sue]] || 陶 || [[Ise Prefecture]] || 36,331 || 544.31 || 66.75 || 21.11726°S 164.07075°E
+|-
+| [[Matsuo]] || 松尾 || [[Ise Prefecture]] || 29,441 || 404.29 || 72.82 || 20.59468°S 163.42775°E
+|-
+| [[Eiheiji]] || 永平寺 || [[Ise Prefecture]] || 25,254 || 165.66 || 152.45 || 20.67855°S 163.78258°E
+|-
+| [[Ikeda]] || 池田 || [[Ise Prefecture]] || 22,320 || 358.41 || 62.28 || 21.35597°S 164.82128°E
+|-
+| [[Echizen]] || 越前 || [[Ise Prefecture]] || 18,057 || 86.80 || 208.02 || 20.97748°S 164.24064°E
+|-
+| [[Minami-Echizen]] || 南越前 || [[Ise Prefecture]] || 21,551 || 179.92 || 119.78 || 21.06565°S 164.23204°E
+|-
+| [[Mihama]] || 美浜 || [[Ise Prefecture]] || 16,229 || 303.09 || 53.54 || 21.50435°S 164.69870°E
+|-
+| [[Ise-Takahama]] || 伊勢高浜 || [[Ise Prefecture]] || 14,112 || 86.53 || 163.09 || 20.73232°S 163.64710°E
+|-
+| [[Oi]] || おおい || [[Ise Prefecture]] || 9,961 || 153.87 || 64.74 || 21.27425°S 164.41483°E
+|-
+| [[Anjo-Saikawa]] || 安城犀川 || [[Okayama Prefecture]] || 819,838 || 391.39 || 2,094.67 || 19.48094°S 160.60648°E
+|-
+| [[Nogaya]] || 野谷 || [[Okayama Prefecture]] || 27,226 || 461.09 || 59.05 || 19.73996°S 160.10824°E
+|-
+| [[Nakayama]] || 中山 || [[Okayama Prefecture]] || 3,218 || 300.45 || 10.71 || 19.71761°S 160.53500°E
+|-
+| [[Sato]] || 佐藤 || [[Okayama Prefecture]] || 145,221 || 72.33 || 2,007.88 || 19.39776°S 160.61979°E
+|-
+| [[Funaki]] || 船木 || [[Okayama Prefecture]] || 148,327 || 329.84 || 449.70 || 19.13975°S 160.43026°E
+|-
+| [[Kitaoka]] || 北岡 || [[Okayama Prefecture]] || 112,569 || 248.28 || 453.40 || 19.39462°S 160.49213°E
+|-
+| [[Ishida]] || 石田 || [[Okayama Prefecture]] || 98,412 || 265.62 || 370.50 || 19.72164°S 160.91005°E
+|-
+| [[Sakurai]] || 桜井 || [[Okayama Prefecture]] || 86,334 || 125.00 || 690.65 || 19.23173°S 160.52331°E
+|-
+| [[Kamiyama]] || 神山 || [[Okayama Prefecture]] || 75,221 || 339.21 || 221.76 || 19.64014°S 160.66034°E
+|-
+| [[Sanagochi]] || 佐那河内 || [[Okayama Prefecture]] || 68,443 || 128.50 || 532.62 || 19.48274°S 160.50048°E
+|-
+| [[Tsurugi]] || つるぎ || [[Okayama Prefecture]] || 54,369 || 479.10 || 113.48 || 19.91024°S 160.35652°E
+|-
+| [[Naka]] || 那賀 || [[Okayama Prefecture]] || 48,119 || 140.03 || 343.63 || 19.33610°S 160.53502°E
+|-
+| [[Mugi]] || 牟岐 || [[Okayama Prefecture]] || 42,331 || 329.68 || 128.40 || 19.59956°S 160.03133°E
+|-
+| [[Minami]] || 美波 || [[Okayama Prefecture]] || 38,447 || 231.62 || 165.99 || 19.24911°S 160.73171°E
+|-
+| [[Kaiyo]] || 海陽 || [[Okayama Prefecture]] || 35,908 || 129.99 || 276.24 || 19.65012°S 160.79178°E
+|-
+| [[Itano]] || 板野 || [[Okayama Prefecture]] || 32,117 || 342.28 || 93.83 || 19.58966°S 160.44056°E
+|-
+| [[Kamiita]] || 上板 || [[Okayama Prefecture]] || 38,089 || 607.35 || 62.71 || 19.70626°S 160.31637°E
+|-
+| [[Tajima]] || 田島 || [[Suzuka Prefecture]] || 214,505 || 115.30 || 1,860.40 || 18.32961°S 163.52816°E
+|-
+| [[Urayasu]] || 浦安 || [[Suzuka Prefecture]] || 154,332 || 391.65 || 394.05 || 18.09603°S 163.55599°E
+|-
+| [[Yunami]] || 湯波 || [[Suzuka Prefecture]] || 95,412 || 125.65 || 759.37 || 17.42354°S 163.16988°E
+|-
+| [[Awashima]] || 粟島 || [[Suzuka Prefecture]] || 210 || 50.22 || 4.18 || 17.79272°S 162.25617°E
+|-
+| [[Miyada]] || 宮田 || [[Suzuka Prefecture]] || 83,541 || 193.12 || 432.58 || 17.44939°S 163.52741°E
+|-
+| [[Matsukawa]] || 松川 || [[Suzuka Prefecture]] || 71,210 || 258.27 || 275.71 || 17.73596°S 163.25491°E
+|-
+| [[Okuwa]] || 大桑 || [[Suzuka Prefecture]] || 61,932 || 154.70 || 400.33 || 17.88475°S 163.32856°E
+|-
+| [[Kiso]] || 木曽 || [[Suzuka Prefecture]] || 54,105 || 241.57 || 223.97 || 17.82413°S 163.63394°E
+|-
+| [[Otari]] || 小谷 || [[Suzuka Prefecture]] || 48,178 || 206.50 || 233.30 || 17.62905°S 163.12800°E
+|-
+| [[Ogawa]] || 小川 || [[Suzuka Prefecture]] || 43,230 || 129.47 || 333.91 || 17.35350°S 163.53271°E
+|-
+| [[Yamagata]] || 山県 || [[Suzuka Prefecture]] || 39,041 || 108.29 || 360.51 || 17.02285°S 163.51667°E
+|-
+| [[Asahi]] || 朝日 || [[Suzuka Prefecture]] || 35,120 || 119.81 || 293.12 || 17.12315°S 163.50646°E
+|-
+| [[Omi]] || 麻績 || [[Suzuka Prefecture]] || 32,560 || 154.28 || 211.05 || 18.02693°S 163.42284°E
+|-
+| [[Ikusaka]] || 生坂 || [[Suzuka Prefecture]] || 29,930 || 262.55 || 114.00 || 17.95860°S 163.55396°E
+|-
+| [[Chikuhoku]] || 筑北 || [[Suzuka Prefecture]] || 27,560 || 202.34 || 136.20 || 17.64779°S 163.58149°E
+|-
+| [[Aoki]] || 青木 || [[Suzuka Prefecture]] || 25,826 || 156.60 || 164.92 || 17.67755°S 163.32109°E
+|-
+| [[Nakagawa]] || 中川 || [[Suzuka Prefecture]] || 23,862 || 239.38 || 99.68 || 17.61141°S 163.31378°E
+|-
+| [[Takamori]] || 高森 || [[Suzuka Prefecture]] || 21,557 || 121.05 || 178.08 || 17.52655°S 163.18647°E
+|-
+| [[Hiraya]] || 平谷 || [[Suzuka Prefecture]] || 20,110 || 267.94 || 75.05 || 17.79327°S 163.38336°E
+|-
+| [[Neba]] || 根羽 || [[Suzuka Prefecture]] || 18,744 || 190.06 || 98.62 || 17.73596°S 163.58837°E
+|-
+| [[Urugi]] || 売木 || [[Suzuka Prefecture]] || 17,522 || 128.25 || 136.63 || 17.22896°S 163.49463°E
+|-
+| [[Shimojo]] || 下條 || [[Suzuka Prefecture]] || 16,239 || 136.10 || 119.32 || 17.52875°S 163.57543°E
+|-
+| [[Toyoyama]] || 豊山 || [[Suzuka Prefecture]] || 15,114 || 114.83 || 131.63 || 16.96554°S 163.42551°E
+|-
+| [[Iroha]] || いろは || [[Suzuka Prefecture]] || 14,996 || 189.09 || 79.31 || 17.16062°S 163.40361°E
+|-
+| [[Katsuoka]] || 勝岡 || [[Suzuka Prefecture]] || 13,114 || 217.82 || 60.21 || 17.43066°S 163.42385°E
+|-
+| [[Kawauchi]] || 川内 || [[Suzuka Prefecture]] || 12,399 || 211.57 || 58.60 || 17.46372°S 163.32118°E
+|-
+| [[Samegawa]] || 鮫川 || [[Suzuka Prefecture]] || 11,538 || 236.13 || 48.86 || 17.28627°S 163.44691°E
+|-
+| [[Tmakawa]] || 玉川 || [[Suzuka Prefecture]] || 10,255 || 149.42 || 68.63 || 17.04820°S 163.39804°E
+|-
+| [[Tosa]] || 土佐 || [[Tosa Prefecture]] || 407,093 || 206.17 || 1,974.58 || 19.12788°S 159.89343°E
+|-
+| [[Rento]] || 連戸 || [[Tosa Prefecture]] || 28,561 || 111.50 || 256.14 || 19.38452°S 160.02382°E
+|-
+| [[Kageoka]] || 影岡 || [[Tosa Prefecture]] || 134,551 || 145.99 || 921.62 || 19.29057°S 159.94271°E
+|-
+| [[Niina]] || 新名 || [[Tosa Prefecture]] || 64,112 || 116.93 || 548.28 || 19.48780°S 160.08093°E
+|-
+| [[Kikuzawa]] || 菊沢 || [[Tosa Prefecture]] || 49,399 || 119.29 || 414.11 || 19.01969°S 159.96347°E
+|-
+| [[Furukawa]] || 古川 || [[Tosa Prefecture]] || 48,337 || 118.05 || 409.46 || 19.54040°S 160.28299°E
+|-
+| [[Fukumoto]] || 福本 || [[Tosa Prefecture]] || 42,119 || 189.40 || 222.38 || 19.21430°S 160.20665°E
+|-
+| [[Matsui]] || 松井 || [[Tosa Prefecture]] || 38,931 || 63.14 || 616.56 || 19.19589°S 159.91411°E
+|-
+| [[Hagimori]] || 萩森 || [[Tosa Prefecture]] || 34,834 || 149.80 || 232.54 || 19.10648°S 160.08066°E
+|-
+| [[Minato]] || 港 || [[Tosa Prefecture]] || 31,221 || 32.92 || 948.44 || 19.24849°S 159.87988°E
+|-
+| [[Matsuki]] || 松木 || [[Tosa Prefecture]] || 24,119 || 167.21 || 144.25 || 19.42469°S 160.32725°E
+|-
+| [[Fukuoka]] || 福岡 || [[Tosa Prefecture]] || 21,118 || 44.14 || 478.47 || 19.05125°S 159.84184°E
+|-
+| [[Haruka]] || 遥 || [[Tosa Prefecture]] || 18,556 || 109.73 || 169.11 || 19.42469°S 160.09712°E
+|-
+| [[Tomoki]] || 友木 || [[Tosa Prefecture]] || 15,334 || 64.75 || 236.82 || 19.14330°S 160.01493°E
+|-
+| [[Suminokura]] || 角倉 || [[Tosa Prefecture]] || 12,221 || 160.94 || 75.94 || 19.48517°S 160.30129°E
+|-
+| [[Kumamoto]] || 熊本 || [[Tosa Prefecture]] || 10,437 || 150.38 || 69.40 || 19.31423°S 160.14288°E
+|-
+| [[Yoshinouchi]] || 吉之内 || [[Tosa Prefecture]] || 8,219 || 116.34 || 70.65 || 19.24586°S 160.05777°E
+|-
+| [[Morishita]] || 森下 || [[Tosa Prefecture]] || 3,876 || 152.32 || 25.45 || 19.31161°S 160.26932°E
+|-
+| [[Mie]] || 三重 || [[Mie Prefecture]] || 848,728 || 263.88 || 3,216.33 || 20.48410°S 163.45218°E
+|-
+| [[Suzuki]] || 鈴木 || [[Mie Prefecture]] || 154,223 || 110.19 || 1,399.61 || 20.40806°S 163.26263°E
+|-
+| [[Godo]] || 神戸 || [[Mie Prefecture]] || 142,881 || 149.73 || 954.26 || 20.44032°S 163.76477°E
+|-
+| [[Sugita]] || 杉田 || [[Mie Prefecture]] || 118,542 || 111.76 || 1,060.71 || 20.50161°S 164.00778°E
+|-
+| [[Yamagishi]] || 山岸 || [[Mie Prefecture]] || 104,229 || 187.64 || 555.47 || 20.55537°S 163.68305°E
+|-
+| [[Suyama]] || 須山 || [[Mie Prefecture]] || 98,317 || 213.19 || 461.18 || 20.69838°S 164.14649°E
+|-
+| [[Kanazawa]] || 金沢 || [[Mie Prefecture]] || 88,416 || 89.54 || 987.49 || 20.44354°S 163.86800°E
+|-
+| [[Kizawa]] || 木沢 || [[Mie Prefecture]] || 82,107 || 171.63 || 478.40 || 20.54999°S 163.86262°E
+|-
+| [[Ishimura]] || 石村 || [[Mie Prefecture]] || 76,218 || 216.88 || 351.43 || 20.58118°S 163.98520°E
+|-
+| [[Tsuda]] || 津田 || [[Mie Prefecture]] || 68,903 || 56.65 || 1,216.23 || 20.46612°S 163.67875°E
+|-
+| [[Konuma]] || 小沼 || [[Mie Prefecture]] || 64,552 || 95.13 || 678.59 || 20.62419°S 164.15402°E
+|-
+| [[Tano]] || 田野 || [[Mie Prefecture]] || 56,645 || 167.79 || 337.59 || 20.71451°S 163.99703°E
+|-
+| [[Nakatake]] || 中武 || [[Mie Prefecture]] || 49,116 || 130.25 || 377.08 || 20.62741°S 163.87552°E
+|-
+| [[Kurosaki]] || 黒崎 || [[Kurosaki Prefecture]] || 435,889 || 323.72 || 1,346.51 || 20.77464°S 165.15427°E
+|-
+| [[Hamada]] || 浜田 || [[Kurosaki Prefecture]] || 139,258 || 547.45 || 254.38 || 21.22528°S 165.69697°E
+|-
+| [[Kurokawa]] || 黒川 || [[Kurosaki Prefecture]] || 70,140 || 134.87 || 520.06 || 20.63622°S 164.80999°E
+|-
+| [[Shimoda]] || 下田 || [[Kurosaki Prefecture]] || 65,331 || 109.67 || 595.71 || 20.55342°S 164.96160°E
+|-
+| [[Yoneyama]] || 米山 || [[Kurosaki Prefecture]] || 55,223 || 89.58 || 616.45 || 20.70611°S 164.82074°E
+|-
+| [[Ozaki]] || 尾崎 || [[Kurosaki Prefecture]] || 49,257 || 109.27 || 450.78 || 20.65557°S 165.08418°E
+|-
+| [[Katsuyama]] || 勝山 || [[Kurosaki Prefecture]] || 48,903 || 152.48 || 320.72 || 20.68675°S 164.96590°E
+|-
+| [[Iwahori]] || 岩堀 || [[Kurosaki Prefecture]] || 44,834 || 246.02 || 182.24 || 20.94912°S 165.25515°E
+|-
+| [[Morimoto]] || 森本 || [[Kurosaki Prefecture]] || 33,912 || 207.72 || 163.26 || 21.02008°S 165.37665°E
+|-
+| [[Kanai]] || 金井 || [[Kurosaki Prefecture]] || 31,257 || 320.10 || 97.65 || 20.94266°S 165.09171°E
+|-
+| [[Kuroki]] || 黒木 || [[Kurosaki Prefecture]] || 25,360 || 89.76 || 282.53 || 20.77707°S 164.91698°E
+|-
+| [[Kamiya]] || 神谷 || [[Kurosaki Prefecture]] || 21,548 || 165.74 || 130.01 || 21.06202°S 165.56643°E
+|-
+| [[Takasaki]] || 高崎 || [[Kurosaki Prefecture]] || 17,264 || 152.93 || 112.89 || 21.27707°S 165.86751°E
+|-
+| [[Muto]] || 武藤 || [[Kurosaki Prefecture]] || 11,447 || 76.75 || 149.15 || 21.15772°S 165.88579°E
+|-
+| [[Inami]] || 印南 || [[Kurosaki Prefecture]] || 6,933 || 69.80 || 99.32 || 21.13836°S 165.47289°E
+|-
+| [[Nagayama]] || 永山 || [[Nagayama Prefecture]] || 407,514 || 994.23 || 409.88 || 21.38883°S 165.45622°E
+|-
+| [[Shirakawa]] || 白川 || [[Nagayama Prefecture]] || 112,437 || 287.66 || 390.86 || 21.35897°S 165.90539°E
+|-
+| [[Higashishirakawa]] || 東白川 || [[Nagayama Prefecture]] || 95,221 || 474.25 || 200.78 || 21.38050°S 166.08298°E
+|-
+| [[Hichiso]] || 七宗 || [[Nagayama Prefecture]] || 82,118 || 535.13 || 153.45 || 21.09992°S 165.14138°E
+|-
+| [[Tomioka]] || 富岡 || [[Nagayama Prefecture]] || 66,756 || 216.70 || 308.05 || 21.30544°S 165.60481°E
+|-
+| [[Sekigahara]] || 関ケ原 || [[Nagayama Prefecture]] || 52,112 || 528.90 || 98.53 || 21.35059°S 165.02974°E
+|-
+| [[Wanouchi]] || 輪之内 || [[Nagayama Prefecture]] || 44,834 || 236.71 || 189.40 || 21.49642°S 165.54941°E
+|-
+| [[Yaotsu]] || 八百津 || [[Nagayama Prefecture]] || 38,221 || 500.79 || 76.32 || 21.22560°S 165.28204°E
+|-
+| [[Kawabe]] || 川辺 || [[Nagayama Prefecture]] || 31,440 || 293.83 || 107.00 || 21.43257°S 165.78510°E
+|-
+| [[Ginan]] || 岐南 || [[Nagayama Prefecture]] || 25,991 || 574.04 || 45.28 || 21.67075°S 165.98494°E
+|-
+| [[Kasamatsu]] || 笠松 || [[Nagayama Prefecture]] || 18,339 || 324.77 || 56.47 || 21.48753°S 165.12668°E
+|-
+| [[Ibigawa]] || 揖斐川 || [[Nagayama Prefecture]] || 12,300 || 338.23 || 36.37 || 21.68384°S 165.78911°E
+|-
+| [[Ono]] || 大野 || [[Nagayama Prefecture]] || 9,874 || 200.21 || 49.32 || 21.50937°S 165.98781°E
+|-
+| [[Ikeda]] || 池田 || [[Nagayama Prefecture]] || 6,322 || 289.14 || 21.87 || 21.60848°S 165.53842°E
+|-
+| [[Yoro]] || 養老 || [[Nagayama Prefecture]] || 2,971 || 375.46 || 7.91 || 21.56451°S 165.79876°E
+|-
+| [[Naruto]] || 鳴門 || [[Naruto Prefecture]] || 396,095 || 302.36 || 1,310.01 || 18.83474°S 160.14965°E
+|-
+| [[Kuroshio]] || 黒潮 || [[Naruto Prefecture]] || 7,580 || 379.73 || 19.96 || 18.53188°S 159.60491°E
+|-
+| [[Okawa]] || 大川 || [[Naruto Prefecture]] || 78,412 || 377.56 || 207.68 || 18.66915°S 159.96940°E
+|-
+| [[Umaji]] || 馬路 || [[Naruto Prefecture]] || 65,331 || 82.14 || 795.33 || 18.84771°S 160.24873°E
+|-
+| [[Kitagawa]] || 北川 || [[Naruto Prefecture]] || 55,221 || 341.75 || 161.58 || 18.81200°S 159.79475°E
+|-
+| [[Mihara]] || 三原 || [[Naruto Prefecture]] || 56,210 || 179.05 || 313.93 || 19.01329°S 160.28582°E
+|-
+| [[Geisei]] || 芸西 || [[Naruto Prefecture]] || 48,712 || 143.79 || 338.76 || 18.76979°S 159.99631°E
+|-
+| [[Toyo]] || 東洋 || [[Naruto Prefecture]] || 44,834 || 224.44 || 199.76 || 18.90999°S 160.33381°E
+|-
+| [[Otoyo]] || 大豊 || [[Naruto Prefecture]] || 48,331 || 191.95 || 251.79 || 18.83686°S 159.97990°E
+|-
+| [[Tsuno]] || 津野 || [[Naruto Prefecture]] || 30,124 || 144.88 || 207.93 || 18.92490°S 160.20563°E
+|-
+| [[Yusuhara]] || 檮原 || [[Naruto Prefecture]] || 28,991 || 248.92 || 116.47 || 18.95243°S 160.03570°E
+|-
+| [[Ochi]] || 越知 || [[Naruto Prefecture]] || 21,896 || 252.24 || 86.81 || 18.98915°S 159.68521°E
+|-
+| [[Niyodogawa]] || 仁淀川 || [[Naruto Prefecture]] || 24,768 || 188.85 || 131.15 || 18.81521°S 159.40480°E
+|-
+| [[Sakawa]] || 佐川 || [[Naruto Prefecture]] || 18,334 || 200.97 || 91.23 || 18.85713°S 159.66911°E
+|-
+| [[Shimanto]] || 四万十 || [[Naruto Prefecture]] || 15,202 || 196.70 || 77.29 || 19.08345°S 160.22420°E
+|-
+| [[Shiogami]] || 塩神 || [[Shiogami Prefecture]] || 373,544 || 808.44 || 462.06 || 19.23939°S 162.26682°E
+|-
+| [[Horiguchi]] || 堀口 || [[Shiogami Prefecture]] || 118,278 || 453.09 || 261.05 || 18.89775°S 161.79657°E
+|-
+| [[Okami]] || 大紙 || [[Shiogami Prefecture]] || 55,815 || 255.90 || 218.11 || 18.99048°S 162.09472°E
+|-
+| [[Sudo]] || 須藤 || [[Shiogami Prefecture]] || 32,822 || 328.97 || 99.77 || 19.17380°S 161.88663°E
+|-
+| [[Uno]] || 宇野 || [[Shiogami Prefecture]] || 21,002 || 285.49 || 73.57 || 19.40024°S 162.07277°E
+|-
+| [[Yamamoto]] || 山本 || [[Shiogami Prefecture]] || 15,126 || 307.77 || 49.15 || 19.43920°S 162.40469°E
+|-
+| [[Koumura]] || 河村 || [[Shiogami Prefecture]] || 11,345 || 249.59 || 45.45 || 19.21666°S 161.68960°E
+|-
+| [[Okada]] || 岡田 || [[Shiogami Prefecture]] || 9,675 || 150.59 || 64.25 || 18.76703°S 161.44782°E
+|-
+| [[Miyake]] || 三宅 || [[Shiogami Prefecture]] || 7,627 || 203.89 || 37.41 || 19.24419°S 161.58093°E
+|-
+| [[Kinjo]] || 金城 || [[Shiogami Prefecture]] || 6,376 || 126.33 || 50.47 || 18.86491°S 161.56929°E
+|-
+| [[Kiryu]] || 桐生 || [[Shiogami Prefecture]] || 5,009 || 125.69 || 39.85 || 18.66304°S 162.29560°E
+|-
+| [[Miyanoura]] || 宮浦 || [[Shiogami Prefecture]] || 4,710 || 59.51 || 79.15 || 19.14937°S 161.32977°E
+|-
+| [[Awaji]] || 淡路 || [[Shiogami Prefecture]] || 4,025 || 115.65 || 34.80 || 19.46579°S 162.03914°E
+|-
+| [[Nushima]] || 沼島 || [[Shiogami Prefecture]] || 3,311 || 67.27 || 49.22 || 18.88772°S 161.40983°E
+|-
+| [[Ieshima]] || 家島 || [[Shiogami Prefecture]] || 2,915 || 43.83 || 66.50 || 19.02504°S 161.65095°E
+|-
+| [[Hinase]] || 日生 || [[Shiogami Prefecture]] || 1,120 || 232.10 || 4.83 || 19.05937°S 161.96614°E
+|-
+| [[Ushimado]] || 牛窓 || [[Shiogami Prefecture]] || 890 || 136.31 || 6.53 || 19.60312°S 162.35879°E
+|-
+| [[Kasaoka]] || 笠岡 || [[Shiogami Prefecture]] || 680 || 263.67 || 2.58 || 19.35727°S 162.27201°E
+|-
+| [[Shiraishijima]] || 白石島 || [[Shiogami Prefecture]] || 510 || 20.59 || 24.77 || 18.78472°S 161.73735°E
+|-
+| [[Kitagishima]] || 北木島 || [[Shiogami Prefecture]] || 381 || 24.48 || 15.56 || 18.84010°S 161.49758°E
+|-
+| [[Manabeshima]] || 真鍋島 || [[Shiogami Prefecture]] || 256 || 16.39 || 15.62 || 19.61198°S 162.48879°E
+|-
+| [[Sanagishima]] || 佐柳島 || [[Shiogami Prefecture]] || 134 || 14.42 || 9.29 || 18.94198°S 161.66151°E
+|-
+| [[Takamishima]] || 高見島 || [[Shiogami Prefecture]] || 91 || 21.23 || 4.29 || 18.96634°S 161.39546°E
+|-
+| [[Yuge]] || 弓削 || [[Shiogami Prefecture]] || 54 || 27.62 || 1.95 || 18.94198°S 161.54939°E
+|-
+| [[Innoshima]] || 因島 || [[Shiogami Prefecture]] || 22 || 11.60 || 1.90 || 19.44309°S 162.54425°E
+|-
+| [[Nagato]] || 長門 || [[Nagato Prefecture]] || 397,916 || 915.28 || 434.75 || 22.54056°S 166.42816°E
+|-
+| [[Tsuruga]] || 敦賀 || [[Nagato Prefecture]] || 96,442 || 694.42 || 138.88 || 22.79875°S 166.75354°E
+|-
+| [[Kumagawa]] || 熊川 || [[Nagato Prefecture]] || 82,331 || 468.04 || 175.90 || 22.45443°S 166.10473°E
+|-
+| [[Natasho]] || 名田庄 || [[Nagato Prefecture]] || 74,552 || 521.75 || 142.89 || 22.17341°S 166.20986°E
+|-
+| [[Sekumi]] || 世久見 || [[Nagato Prefecture]] || 65,118 || 206.97 || 314.62 || 22.61140°S 166.27019°E
+|-
+| [[Hayase]] || 早瀬 || [[Nagato Prefecture]] || 52,004 || 312.71 || 166.30 || 22.31266°S 166.48931°E
+|-
+| [[Katsumi]] || 葛見 || [[Nagato Prefecture]] || 44,903 || 324.55 || 138.36 || 22.64431°S 166.57645°E
+|-
+| [[Okitsu]] || 沖津 || [[Nagato Prefecture]] || 38,221 || 254.97 || 149.90 || 22.33038°S 166.23980°E
+|-
+| [[Taniguchi]] || 谷口 || [[Nagato Prefecture]] || 30,445 || 348.53 || 87.35 || 22.75571°S 167.05971°E
+|-
+| [[Yaguchi]] || 矢口 || [[Nagato Prefecture]] || 26,220 || 382.95 || 68.47 || 22.64178°S 166.91866°E
+|-
+| [[Mano]] || 真野 || [[Nagato Prefecture]] || 18,229 || 324.78 || 56.13 || 22.48734°S 166.71561°E
+|-
+| [[Ichiba]] || 市場 || [[Nagato Prefecture]] || 11,886 || 189.56 || 62.70 || 22.54557°S 166.58698°E
+|-
+| [[Higashimizuna]] || 東水名 || [[Nagato Prefecture]] || 5,311 || 134.73 || 39.42 || 22.19620°S 166.46572°E
+|-
+| [[Nishiura]] || 西浦 || [[Nagato Prefecture]] || 2,920 || 131.23 || 22.25 || 22.92027°S 166.78292°E
+|-
+| [[Obama]] || 小浜 || [[Obama Prefecture]] || 330,408 || 1209.84 || 273.10 || 21.92072°S 165.26245°E
+|-
+| [[Onimi]] || 鬼見 || [[Obama Prefecture]] || 92,412 || 691.84 || 133.57 || 21.61644°S 165.06386°E
+|-
+| [[Takahama]] || 高浜 || [[Obama Prefecture]] || 78,331 || 414.76 || 188.86 || 22.04809°S 165.84128°E
+|-
+| [[Maihama]] || 舞浜 || [[Obama Prefecture]] || 65,229 || 529.07 || 123.29 || 22.37721°S 165.93320°E
+|-
+| [[Wako]] || 和光 || [[Obama Prefecture]] || 54,118 || 324.61 || 166.72 || 21.68606°S 164.78280°E
+|-
+| [[Mikata]] || 三方 || [[Obama Prefecture]] || 48,931 || 950.96 || 51.45 || 21.82024°S 165.80717°E
+|-
+| [[Kamo]] || 加茂 || [[Obama Prefecture]] || 38,221 || 351.85 || 108.63 || 21.88606°S 165.03185°E
+|-
+| [[Nata]] || 名田 || [[Obama Prefecture]] || 32,925 || 595.16 || 55.32 || 22.19746°S 165.85682°E
+|-
+| [[Onyu]] || 遠敷 || [[Obama Prefecture]] || 25,688 || 171.96 || 149.39 || 21.74682°S 165.17523°E
+|-
+| [[Sabane]] || 佐羽内 || [[Obama Prefecture]] || 18,425 || 314.42 || 58.60 || 21.64808°S 165.29260°E
+|-
+| [[Kuchinata]] || 口名田 || [[Obama Prefecture]] || 14,447 || 201.70 || 71.63 || 21.99999°S 165.55166°E
+|-
+| [[Okunata]] || 奥名田 || [[Obama Prefecture]] || 10,640 || 322.79 || 32.96 || 21.79492°S 165.47038°E
+|-
+| [[Eba]] || 江波 || [[Kagami Prefecture]] || 114,552 || 1421.75 || 80.57 || 22.39420°S 167.13880°E
+|-
+| [[Kagami]] || 鏡 || [[Kagami Prefecture]] || 301,612 || 2028.64 || 148.68 || 21.82782°S 166.62023°E
+|-
+| [[Watarai]] || 度会 || [[Kagami Prefecture]] || 52,118 || 1417.33 || 36.77 || 21.55948°S 166.37411°E
+|-
+| [[Taki]] || 多気 || [[Kagami Prefecture]] || 48,331 || 963.84 || 50.14 || 22.11645°S 166.83265°E
+|-
+| [[Meiwa]] || 明和 || [[Kagami Prefecture]] || 42,412 || 367.65 || 115.36 || 21.62783°S 166.80975°E
+|-
+| [[Odai]] || 大台 || [[Kagami Prefecture]] || 38,552 || 468.51 || 82.29 || 22.57469°S 167.32144°E
+|-
+| [[Tamaki]] || 玉城 || [[Kagami Prefecture]] || 31,117 || 905.53 || 34.36 || 21.31390°S 166.16482°E
+|-
+| [[Taiki]] || 大樹 || [[Kagami Prefecture]] || 28,229 || 324.20 || 87.07 || 22.79242°S 167.33365°E
+|-
+| [[Minamiise]] || 南伊勢 || [[Kagami Prefecture]] || 241,183 || 987.24 || 244.30 || 22.68355°S 167.56638°E
+|-
+| [[Kihoku]] || 紀北 || [[Kagami Prefecture]] || 19,602 || 1081.23 || 18.13 || 21.86834°S 166.16101°E
+|-
+| [[Kiho]] || 紀宝 || [[Kagami Prefecture]] || 12,402 || 746.04 || 16.62 || 21.28605°S 166.56907°E
+|-
+| [[Misugi]] || 美杉 || [[Kagami Prefecture]] || 9,852 || 847.27 || 11.63 || 22.05822°S 166.49882°E
+|-
+| [[Iitaka]] || 飯高 || [[Kagami Prefecture]] || 4,775 || 674.60 || 7.08 || 22.37215°S 166.89568°E
+|-
+| [[Sakai]] || 境 || [[Sakai Prefecture]] || 378,402 || 303.34 || 1,247.45 || 24.35344°S 166.58113°E
+|-
+| [[Kamishima]] || 神島 || [[Sakai Prefecture]] || 4,201 || 11.25 || 373.29 || 24.88855°S 166.50655°E
+|-
+| [[Niijima]] || 新島 || [[Sakai Prefecture]] || 9,218 || 5.95 || 1,548.72 || 24.38849°S 167.08789°E
+|-
+| [[Oshima-Sakai]] || 大島堺 || [[Sakai Prefecture]] || 15,412 || 15.49 || 995.21 || 24.32367°S 167.03639°E
+|-
+| [[Toshima-Sakai]] || 利島堺 || [[Sakai Prefecture]] || 5,124 || 10.57 || 484.60 || 24.35089°S 167.05407°E
+|-
+| [[Takaishi]] || 高石 || [[Sakai Prefecture]] || 63,228 || 240.45 || 262.95 || 24.17235°S 166.26103°E
+|-
+| [[Misaki]] || 美岬 || [[Sakai Prefecture]] || 22,105 || 70.17 || 315.00 || 24.32223°S 166.88663°E
+|-
+| [[Kaizuka]] || 貝塚 || [[Sakai Prefecture]] || 71,554 || 167.09 || 428.25 || 24.23037°S 166.15175°E
+|-
+| [[Izumi-Sakai]] || 和泉堺 || [[Sakai Prefecture]] || 82,415 || 159.44 || 516.91 || 24.36816°S 166.46284°E
+|-
+| [[Hannan]] || 阪南 || [[Sakai Prefecture]] || 49,871 || 177.47 || 281.01 || 24.35927°S 166.34182°E
+|-
+| [[Sennan]] || 泉南 || [[Sakai Prefecture]] || 58,923 || 67.65 || 871.03 || 24.45336°S 166.51590°E
+|-
+| [[Kumatori]] || 熊取 || [[Sakai Prefecture]] || 36,244 || 184.63 || 196.31 || 24.19703°S 166.41819°E
+|-
+| [[Mishima-Sakai]] || 三島堺 || [[Sakai Prefecture]] || 42,109 || 194.59 || 216.40 || 24.21407°S 166.62798°E
+|-
+| [[Tajiri]] || 田尻 || [[Sakai Prefecture]] || 28,412 || 45.16 || 629.07 || 24.42224°S 166.42492°E
+|-
+| [[Kakunodate]] || 角館 || [[Mizuno Prefecture]] || 72,412 || 948.05 || 76.38 || 22.90386°S 167.15318°E
+|-
+| [[Mizuno]] || 水野 || [[Mizuno Prefecture]] || 264,253 || 1069.85 || 247.00 || 23.64641°S 167.76009°E
+|-
+| [[Kawagoe]] || 川越 || [[Mizuno Prefecture]] || 64,832 || 604.41 || 107.27 || 23.88029°S 167.88126°E
+|-
+| [[Suwa]] || 諏訪 || [[Mizuno Prefecture]] || 52,668 || 499.47 || 105.45 || 23.78547°S 168.09405°E
+|-
+| [[Yanagawa]] || 柳川 || [[Mizuno Prefecture]] || 41,257 || 659.79 || 62.53 || 23.23431°S 167.26373°E
+|-
+| [[Kinuura]] || 衣浦 || [[Mizuno Prefecture]] || 11,356 || 719.03 || 15.79 || 24.09957°S 167.40197°E
+|-
+| [[Nagareyama]] || 流山 || [[Mizuno Prefecture]] || 9,312 || 986.45 || 9.44 || 23.18542°S 167.56054°E
+|-
+| [[Mizumaki]] || 水巻 || [[Mizuno Prefecture]] || 14,306 || 1355.82 || 10.55 || 24.22995°S 167.17163°E
+|-
+| [[Inagawa]] || 猪名川 || [[Mizuno Prefecture]] || 17,982 || 852.58 || 21.09 || 23.91733°S 167.63392°E
+|-
+| [[Izumi]] || 出水 || [[Mizuno Prefecture]] || 21,835 || 689.26 || 31.68 || 23.04911°S 166.95370°E
+|-
+| [[Hasuda]] || 蓮田 || [[Mizuno Prefecture]] || 33,964 || 462.09 || 73.50 || 23.51729°S 167.56040°E
+|-
+| [[Shisui]] || 酒々井 || [[Mizuno Prefecture]] || 26,412 || 296.83 || 88.98 || 23.37951°S 167.37780°E
+|-
+| [[Uruwa]] || 浦和 || [[Uruwa Prefecture]] || 254,112 || 443.12 || 573.46 || 22.95834°S 167.89886°E
+|-
+| [[Kushimoto]] || 串本 || [[Uruwa Prefecture]] || 68,500 || 398.05 || 172.09 || 23.53710°S 168.28475°E
+|-
+| [[Shimoda]] || 下田 || [[Uruwa Prefecture]] || 54,200 || 265.38 || 204.24 || 23.44394°S 168.19961°E
+|-
+| [[Shirasagi]] || 白鷺 || [[Uruwa Prefecture]] || 15,100 || 44.86 || 336.61 || 22.88775°S 167.99184°E
+|-
+| [[Taiga]] || 大河 || [[Uruwa Prefecture]] || 14,088 || 399.98 || 35.22 || 22.83562°S 167.79918°E
+|-
+| [[Susaki]] || 須崎 || [[Uruwa Prefecture]] || 16,500 || 639.49 || 25.80 || 22.92230°S 167.52676°E
+|-
+| [[Urado]] || 浦戸 || [[Uruwa Prefecture]] || 41,200 || 185.14 || 222.53 || 23.03952°S 167.93579°E
+|-
+| [[Tateyama]] || 館山 || [[Uruwa Prefecture]] || 45,800 || 703.03 || 65.15 || 23.28939°S 167.91551°E
+|-
+| [[Muroto]] || 室戸 || [[Uruwa Prefecture]] || 35,600 || 117.36 || 303.34 || 23.15335°S 168.03240°E
+|-
+| [[Onagawa]] || 女川 || [[Uruwa Prefecture]] || 22,100 || 314.59 || 70.25 || 23.53525°S 168.04440°E
+|-
+| [[Oarai]] || 大洗 || [[Uruwa Prefecture]] || 19,400 || 344.39 || 56.33 || 23.12929°S 167.79047°E
+|-
+| [[Misaki]] || 美岬 || [[Uruwa Prefecture]] || 28,400 || 238.18 || 119.24 || 23.29587°S 168.11325°E
+|-
+| [[Mutsu]] || むつ || [[Mutsu Prefecture]] || 244,551 || 563.16 || 434.25 || 24.17206°S 167.87392°E
+|-
+| [[Shiranui]] || 不知火 || [[Mutsu Prefecture]] || 10,366 || 146.17 || 70.92 || 25.16438°S 168.60478°E
+|-
+| [[Shizunami]] || 静波 || [[Mutsu Prefecture]] || 52,147 || 441.33 || 118.16 || 25.08911°S 168.50968°E
+|-
+| [[Nagisa]] || 渚 || [[Mutsu Prefecture]] || 44,892 || 1235.72 || 36.33 || 24.48554°S 168.00278°E
+|-
+| [[Nishinoura]] || 西ノ浦 || [[Mutsu Prefecture]] || 38,056 || 660.04 || 57.66 || 24.06401°S 168.03791°E
+|-
+| [[Mizuho]] || 瑞穂 || [[Mutsu Prefecture]] || 31,293 || 605.68 || 51.67 || 24.89484°S 167.97327°E
+|-
+| [[Amamori]] || 雨守 || [[Mutsu Prefecture]] || 27,984 || 809.16 || 34.58 || 24.08809°S 168.53694°E
+|-
+| [[Kaiun]] || 海運 || [[Mutsu Prefecture]] || 20,112 || 338.76 || 59.37 || 25.15043°S 168.25754°E
+|-
+| [[Minatozaki]] || 港崎 || [[Mutsu Prefecture]] || 17,845 || 323.68 || 55.13 || 24.54443°S 167.70992°E
+|-
+| [[Amaya]] || 雨谷 || [[Mutsu Prefecture]] || 17,129 || 1176.76 || 14.56 || 24.65407°S 168.37960°E
+|-
+| [[Nishi-Mutsu]] || 西むつ || [[Mutsu Prefecture]] || 12,241 || 206.96 || 59.15 || 24.21699°S 167.69975°E
+|-
+| [[Umibe]] || 海辺 || [[Mutsu Prefecture]] || 11,036 || 552.14 || 19.99 || 25.01412°S 168.37548°E
+|-
+| [[Shigure]] || 時雨 || [[Mutsu Prefecture]] || 22,038 || 946.71 || 23.28 || 24.87484°S 168.61690°E
+|-
+| [[Kasumi]] || 香住 || [[Mutsu Prefecture]] || 25,117 || 1050.28 || 23.91 || 24.36515°S 168.34022°E
+|-
+| [[Seiryu]] || 清流 || [[Mutsu Prefecture]] || 14,763 || 647.32 || 22.81 || 24.71186°S 168.01636°E
+|-
+| [[Aomori]] || 青森 || [[Aomori Prefecture]] || 214,552 || 793.18 || 270.50 || 25.93264°S 169.88303°E
+|-
+| [[Sakata]] || 酒田 || [[Aomori Prefecture]] || 66,268 || 937.59 || 70.68 || 25.16322°S 169.17857°E
+|-
+| [[Kizarasu]] || 木更津 || [[Aomori Prefecture]] || 45,412 || 511.16 || 88.84 || 25.74245°S 169.69219°E
+|-
+| [[Tsunagi]] || 津奈木 || [[Aomori Prefecture]] || 19,852 || 431.35 || 46.02 || 26.89889°S 170.01709°E
+|-
+| [[Minamishima]] || 南島 || [[Aomori Prefecture]] || 4,780 || 62.80 || 76.12 || 26.42919°S 167.94835°E
+|-
+| [[Kamomejima]] || 鴎島 || [[Aomori Prefecture]] || 1,947 || 10.70 || 181.93 || 25.94763°S 169.02077°E
+|-
+| [[Okinoshima]] || 沖ノ島 || [[Aomori Prefecture]] || 2,156 || 13.08 || 164.87 || 25.94854°S 167.67316°E
+|-
+| [[Kyokujitsu]] || 旭日 || [[Aomori Prefecture]] || 3,245 || 17.22 || 188.41 || 25.82602°S 167.90118°E
+|-
+| [[Yokohama-Minami]] || 横浜南 || [[Aomori Prefecture]] || 10,724 || 312.60 || 34.31 || 26.47760°S 170.21814°E
+|-
+| [[Sai]] || 佐井 || [[Aomori Prefecture]] || 6,852 || 314.67 || 21.77 || 26.60540°S 170.17788°E
+|-
+| [[Shingo]] || 新郷 || [[Aomori Prefecture]] || 7,123 || 780.35 || 9.13 || 26.32536°S 169.87602°E
+|-
+| [[Ohma]] || 大間 || [[Aomori Prefecture]] || 6,431 || 318.17 || 20.21 || 26.37944°S 170.26617°E
+|-
+| [[Higashidori]] || 東通 || [[Aomori Prefecture]] || 5,984 || 432.33 || 13.84 || 25.35261°S 169.47039°E
+|-
+| [[Takko]] || 田子 || [[Aomori Prefecture]] || 7,654 || 565.58 || 13.53 || 25.01331°S 168.89585°E
+|-
+| [[Gonohe]] || 五戸 || [[Aomori Prefecture]] || 8,112 || 518.83 || 15.64 || 25.62525°S 169.60353°E
+|-
+| [[Towada]] || 十和田 || [[Aomori Prefecture]] || 9,876 || 738.95 || 13.36 || 25.34224°S 169.07049°E
+|-
+| [[Nanbu]] || 南部 || [[Aomori Prefecture]] || 16,221 || 701.92 || 23.11 || 26.01790°S 169.94599°E
+|-
+| [[Misaki]] || 美岬 || [[Aomori Prefecture]] || 24,118 || 530.95 || 45.42 || 25.55116°S 169.97823°E
+|-
+| [[Nagisa Aomori]] || 渚青森 || [[Aomori Prefecture]] || 14,874 || 500.71 || 29.71 || 25.24334°S 168.73124°E
+|-
+| [[Hashikami]] || 階上 || [[Aomori Prefecture]] || 13,562 || 407.89 || 33.25 || 26.10865°S 169.77624°E
+|-
+| [[Rokkasho]] || 六ヶ所 || [[Aomori Prefecture]] || 12,536 || 705.70 || 17.76 || 25.56042°S 169.09517°E
+|-
+| [[Noheji]] || 野辺地 || [[Aomori Prefecture]] || 11,455 || 327.33 || 34.99 || 26.03901°S 169.46606°E
+|-
+| [[Shichinohe]] || 七戸 || [[Aomori Prefecture]] || 10,477 || 574.15 || 18.25 || 25.79009°S 169.61077°E
+|-
+| [[Sannohe]] || 三戸 || [[Aomori Prefecture]] || 8,941 || 460.45 || 19.42 || 25.49819°S 169.35043°E
+|-
+| [[Oita]] || 大分 || [[Oita Prefecture]] || 234,551 || 587.05 || 399.54 || 24.63084°S 171.90664°E
+|-
+| [[Kojima]] || 小島 || [[Oita Prefecture]] || 2,543 || 23.54 || 108.04 || 24.48847°S 170.91513°E
+|-
+| [[Tejima]] || 豊島 || [[Oita Prefecture]] || 4,210 || 29.26 || 143.87 || 24.51994°S 170.99966°E
+|-
+| [[Hatsushima]] || 初島 || [[Oita Prefecture]] || 5,020 || 56.88 || 88.26 || 24.35736°S 171.41885°E
+|-
+| [[Awashima]] || 粟島 || [[Oita Prefecture]] || 3,115 || 13.12 || 237.43 || 24.43387°S 172.38700°E
+|-
+| [[Miyajima]] || 宮島 || [[Oita Prefecture]] || 8,241 || 34.91 || 236.05 || 24.35983°S 172.50786°E
+|-
+| [[Minato]] || 港 || [[Oita Prefecture]] || 68,412 || 202.86 || 337.23 || 24.55788°S 171.67498°E
+|-
+| [[Shiomi]] || 潮見 || [[Oita Prefecture]] || 20,710 || 225.06 || 92.02 || 24.42338°S 172.29644°E
+|-
+| [[Hamada-Kai]] || 浜田海 || [[Oita Prefecture]] || 24,112 || 171.48 || 140.61 || 24.63377°S 172.03272°E
+|-
+| [[Takasu]] || 高須 || [[Oita Prefecture]] || 62,118 || 433.21 || 143.39 || 24.40672°S 171.94558°E
+|-
+| [[Funaya]] || 舟屋 || [[Oita Prefecture]] || 45,210 || 288.26 || 156.84 || 24.51778°S 172.22540°E
+|-
+| [[Matsuura]] || 松浦 || [[Oita Prefecture]] || 32,154 || 309.93 || 103.74 || 24.40117°S 171.64966°E
+|-
+| [[Kii]] || 紀伊 || [[Kii Prefecture]] || 194,552 || 1565.84 || 124.25 || 24.38609°S 168.85674°E
+|-
+| [[Nankai]] || 南海 || [[Kii Prefecture]] || 85,412 || 1348.30 || 63.35 || 23.75395°S 168.52915°E
+|-
+| [[Tsuru]] || 都留 || [[Kii Prefecture]] || 8,452 || 299.18 || 28.25 || 24.40826°S 169.97425°E
+|-
+| [[Hokuto]] || 北杜 || [[Kii Prefecture]] || 22,445 || 653.31 || 34.36 || 23.94677°S 168.28115°E
+|-
+| [[Fuefuki]] || 笛吹 || [[Kii Prefecture]] || 45,218 || 954.74 || 47.36 || 24.69701°S 168.99693°E
+|-
+| [[Nirasaki]] || 韮崎 || [[Kii Prefecture]] || 32,456 || 778.62 || 41.68 || 24.38482°S 169.41677°E
+|-
+| [[Uenohara]] || 上野原 || [[Kii Prefecture]] || 6,758 || 20.67 || 326.96 || 24.01386°S 168.22433°E
+|-
+| [[Otsuki]] || 大月 || [[Kii Prefecture]] || 10,243 || 726.15 || 14.11 || 24.08528°S 168.74930°E
+|-
+| [[Minobu]] || 身延 || [[Kii Prefecture]] || 12,109 || 517.69 || 23.39 || 23.90389°S 168.98779°E
+|-
+| [[Hayakawa]] || 早川 || [[Kii Prefecture]] || 15,300 || 684.07 || 22.37 || 24.09145°S 169.12827°E
+|-
+| [[Minamino]] || 南野 || [[Kii Prefecture]] || 17,235 || 850.09 || 20.27 || 24.29998°S 169.02343°E
+|-
+| [[Koshu]] || 甲州 || [[Kii Prefecture]] || 28,912 || 815.12 || 35.47 || 24.01814°S 168.51091°E
+|}
+
+==References==
+==See Also==
+{{Okaiken topics}}

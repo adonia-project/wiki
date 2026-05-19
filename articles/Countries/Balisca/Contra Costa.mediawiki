@@ -1,0 +1,99 @@
+{{Infobox settlement
+<!-- See the Table at Infobox Settlement for all fields and descriptions of usage -->
+<!-- Basic info -->| name               = Contra Costa
+| official_name      = 
+| other_name         = 
+| nickname           = 
+| settlement_type    = [[Boroughs of Castejón|Borough]]
+| total_type         = <!-- to set a non-standard label for total area -->
+| motto              = <!-- images and maps -->
+| image_skyline      = {{multiple image
+| border = infobox
+| total_width = 290
+| image_style = border:1;
+| perrow = 1/2
+| caption_align = center
+| image1 = Tatapiraca barrio.jpg
+| caption1 =   
+| image2 = Hisval train.png
+| caption2 = 
+| image3 = Alcáser aerial.png 
+| caption3 = 
+}} '''Clockwise from top:''' [[Tatapiraca]]{{efn|from the Kuarupíba term Tata-Pyra-Reká; lit. 'hill of the ancient fire'}} barrio, [[Atapiraca Line]], and aerial view of [[Alcáser]] barrio
+| imagesize          = 
+| image_caption      = 
+| image_flag         = Flag of Contra Costa.svg
+| flag_size          = 
+| image_seal         = 
+| seal_size          = 
+| image_shield       = 
+| shield_size        = 
+| image_blank_emblem = 
+| blank_emblem_type  = 
+| blank_emblem_size  = 
+| image_map          = Contra Costa locator.png
+| map_caption        = Location of Contra Costa within Castejón
+| mapsize1           = 
+| map_caption1       = <!-- Location -->
+| subdivision_type   = [[w:List of sovereign states|Country]]
+| subdivision_name   = {{flag|Balisca}}
+| subdivision_type1  = [[Regions of Balisca|Region]]
+| subdivision_name1  = {{nowrap|{{flag|Castejón Metropolis}}}}
+| seat_type          = 
+| seat               = 
+| government_type    = {{W|Liquid democracy}} with {{W|Legislature|cantonal council}}
+| leader_title       = 
+| leader_name        = 
+| established_title  = 
+| established_date   = 
+| named_for          = <!-- Area -->
+| area_water_sq_mi   = 
+| unit_pref          = metric
+| area_total_km2     = 1482.67
+| population_density_km2 = 1507.85
+| governing_body     = [[Assembly of Contra Costa]]
+|area_blank1_title=Built-up area
+|area_blank1_km2= 380.2
+|population_density_blank1_km2= 5066.39
+|population_blank1_title=Built up area
+|population_blank1=1,926,241
+<!-- Population -->
+| population_total   = 2,235,642
+| pop_est_as_of      = 
+| population_est     = 
+| population_as_of   = [[2025 Baliscan census|2025]]
+| coordinates        = 
+| postal_code_type   = Postal code
+| postal_code        = 008xx
+| area_codes         = 
+| website            = 
+| demographics_type1 = Demographics
+| demographics1_footnotes = 
+| demographics1_title1 = Languages
+| demographics1_info1 = [[Baliscano language|Baliscano]]
+| demographics1_title2 = Ethnic groups
+| demographics1_info2 = 66.8% [[Baliscans]]<br/> 33.2% [[Demographics of Balisca|others]]
+| demographics1_title3 = 
+| demographics1_info3 = 
+| demographics1_title4 = 
+| demographics1_info4 = 
+| demographics1_title5 = 
+| demographics1_info5 = <!-- demographics (section 2) -->
+| demographics_type2 = 
+| demographics2_footnotes = 
+| demographics2_title1 = 
+| demographics2_info1 = 
+| population_demonym = {{lang-bl|Contracostano/a}}
+| native_name        = {{native name|kp|Yvytyra-Tatá-Yasí}}
+}}
+'''Contra Costa''' ({{Literal translation|opposite coast|counter coast}}; {{Langx|gug|Yvytyra-Tatá-Yasí|4=hill of the bright northern star}}) is a borough of the [[Castejón|Castejón Metropolis]], within the [[Concordia|Concordia conurbation]]. The borough's name refers to its position on the other side of the bay from the historic urban core of Castejón.  
+
+The borough is the sixth most populous in the metropolis; with a recorded population of 2,235,642 residents in the [[2025 Baliscan census]]. 
+
+== See also ==
+<references group="lower-alpha" />
+{{Castejón}}{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Castejón]]
+[[Category:Cantons of Balisca]]
+[[Category:Concordia]]

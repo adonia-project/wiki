@@ -1,0 +1,90 @@
+{{Italic title}}
+{{Short description|Baliscan helicopter carrier}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:DDH-183 いずも (9).jpg|300px]]
+|Ship caption=BB ''Arruazu'' (DDH-83) Atlantic FAC Fleet Review, 20 November 2019
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= [[Balisca]]
+|Ship flag={{shipboxflag|Balisca|naval}}
+|Ship name= BB ''Arruazu''
+|Ship namesake=''Pico del Arruazu''
+|Ship ordered=2010
+|Ship awarded=
+|Ship builder=[[Astilleros Baliscanos]]
+|Ship original cost=
+|Ship laid down=27 January 2012
+|Ship launched=6 August 2013
+|Ship sponsor=
+|Ship christened=
+|Ship completed= 
+|Ship acquired=
+|Ship commissioned=25 March 2015
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport= [[Joint Base Ajowa]], [[Sanyan]]
+|Ship identification=*[[w:Hull number|Hull number]]: DDH-83
+*{{MMSI Number|431999456}}
+*[[Maritime call sign|Callsign]]: BBAU
+|Ship motto=
+|Ship nickname=
+|Ship honors=
+|Ship captured=
+|Ship fate=
+|Ship status= {{Ship in active service}}
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass|Arruazu|helicopter carrier|1}}
+| Ship type = [[w:Helicopter carrier|Helicopter carrier]] (DDH)
+| Ship displacement = {{convert|44,971|LT|t|abbr=on}} full load
+| Ship length = {{convert|844|ft|m|abbr=on}}
+| Ship beam = {{convert|106|ft|m|abbr=on}}
+| Ship draft = {{convert|26|ft|m|abbr=on}}
+| Ship propulsion = Two marine [[w:Gas turbine#Naval|gas turbines]], two shafts, {{convert|70,000|bhp|kW|abbr=on}}, two {{convert|5,000|hp|kW|abbr=on}} auxiliary propulsion motors.
+| Ship speed = over {{convert|22|kn}}
+| Ship range = 
+| Ship complement = *95 officers, 1014 enlisted
+*544 marines (plus 184 surge)
+| Ship sensors = *{{W|S-300 missile system#Radar|Volna 3R41}} surface search & fire&nbsp;control radar
+*{{W|Furke (radar)|5P-27 "Furke"}} airsearch radar 
+*{{W|H/ZKJ}}
+*Cooperative Engagement Capability (CEC)
+| Ship EW = *NRJ-6A
+*2 × Mk53 NULKA decoy launchers
+| Ship armament = *2× {{W|Sea Oryx}} launchers
+*2× [[w:Buk missile system|3S90E.1]] launchers
+*4× [[w:20 mm caliber|20 mm]] {{W|AK-630|AK-630M1-2}} mounts
+*7× twin {{W|7.62×54mmR}} {{W|NSV machine gun}}s
+| Ship aircraft = *{{W|Yakovlev Yak-141}}
+*{{W|Mil Mi-30}}
+*{{W|Eurocopter EC725}}
+*{{W|Eurocopter Tiger|Eurocopter Tiger HAP/HAD}}
+| Ship notes = 
+}}
+|}
+
+'''''Arruazu''''' '''(DDH-83)''' is a {{W|helicopter carrier}} of the Baliscan [[Confederal Navy]] (''Marina confederales''). Officially classified as a multi-purpose operation destroyer with the potential for a future conversion into an full-fledged {{W|aircraft carrier}}, ''Arruazu'' is the [[W:Lead ship|lead ship]] of it's class, and was followed by the ''[[BB Talcahuano (DDH-84)|BB Talcahuano]]'' in 2017. In line with the [[Naval Vessels Naming Initiative]], ''Arruazu's'' namesake is a mountain peak in the [[Cadaqués]] region in present-day [[Cerdanya]].
+
+''Arruazu'' has made three deployments to the [[W:Indian Ocean|Indian]] and [[W:Pacific Ocean|Pacific]] oceans between 2015 and 2017 while based at [[Naval Station Arayamar]]. In June 2017, the ''Arruazu'' was selected by the Confederal Naval Command as the flagship of [[Expeditionary Strike Force 3]], the first forward-based Baliscan carrier strike group, home-ported at [[Joint Base Ajowa]] in [[Sanyan]] as part of the [[Mutual Arms and Technology Agreement|Mutual Defense Initiative]] of the [[Concepción Organization of Cooperation]].
+
+==Design and construction==
+==Operational history==
+
+== See also ==
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Confederal Armed Forces]]
+[[Category:Confederal Navy]]

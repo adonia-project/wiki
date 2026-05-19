@@ -1,0 +1,296 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox rail line
+| name = Nanboku Line
+| native_name = 南北線
+| native_name_lang = ja
+| color = {{rcr|Okami Metro|B}}
+| logo = [[File:Okami Metro Nanboku line symbol.svg|50px|alt=Nanboku Line Symbol]]
+| image = Okami-Metro Series30000-03.jpg
+| image_width = 300px
+| caption = An [[Okami Metro 30000 series|30000 series]] "Akitoku" Limited Express train at [[Okazaki-Shinmachi Station]].
+| type = [[Rapid transit|Metro]]
+| system = [[Okami Metro]]
+| status = Operational
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| start = [[Higashi-Tatara Station|Higashi-Tatara]] (B01)
+| end = [[Yanagihama Station|Yanagihama]] (B22)
+| stations = 22
+| daily_ridership = 1.05 million (FY2025)
+| open = {{start date and age|1969|12|06|df=y}}
+| owner = [[Okami Metro]]
+| linelength = {{cvt|26.5|km|mi|abbr=on}}
+| gauge = {{RailGauge|sg|allk=on}}
+| electrification = {{1500 V DC|cat=yes}} (Overhead Catenary)
+| map = [[File:Okami Metro Nanboku Line Map.png|300px]]
+| map_name = Route Map
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Nanboku Line'''|南北線|Nanboku-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. True to its name (''Nanboku'' means "South-North"), it serves as a critical vertical spine for the city, running parallel to the older [[Miyoshi Line]] to relieve congestion. On system maps, the line is color-coded blue ({{Okami Metro color|B}}) and its stations use the prefix "B".
+
+===Connectivity and Operations===
+The Nanboku Line is unique among Okami subways as it utilizes an overhead catenary system (1500 V DC) instead of the standard third rail. This allows for extensive through-services with private railways at both termini.
+* Northern Terminus: At [[Higashi-Tatara Station|Higashi-Tatara (B01)]], the line connects to the [[Akitetsu|Akitetsu Akita Main Line]], extending service north into the mountainous suburbs.
+* Southern Terminus: At [[Yanagihama Station|Yanagihama (B22)]], trains continue onto the [[Tokutetsu|Tokutetsu Nada Line]] toward [[Aono Station|Aono]].
+
+The line supports three service types:
+* Local: Stops at all stations.
+* Rapid: Skips minor stops between major transfer hubs.
+* Limited Express "Akitoku" (秋徳): A premium commuter liner that runs from Akita (via Akitetsu) to Tokuyama, utilizing the Nanboku Line's high-speed underground straightaways.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* '''L''': Local, '''R''': Rapid, '''LE''': Limited Express "Akitoku".
+* Symbols: ● = Stops, | = Passes, ▲ = Stops (Morning/Evening only).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|B}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|B}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|B}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|B}};" | Distance (km)
+! colspan="3" style="border-bottom:3px solid #{{Okami Metro color|B}};" | Stop Pattern
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|B}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|B}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|B}};" | Between<br>Stations
+! style="border-bottom:3px solid #{{Okami Metro color|B}};" | Total
+! style="border-bottom:3px solid #{{Okami Metro color|B}}; width:2em;" | L
+! style="border-bottom:3px solid #{{Okami Metro color|B}}; width:2em;" | R
+! style="border-bottom:3px solid #{{Okami Metro color|B}}; width:2em;" | LE
+|-
+| {{OMSN|B|01}}
+| [[Higashi-Tatara Station|Higashi-Tatara]]
+| 東多々良
+| -
+| 0.0
+| ●
+| ●
+| ●
+| {{rint|okami|private|akitetsu}} '''[[Akitetsu|Akitetsu Akita Main Line]]''' (Through Service)
+| rowspan="3" | [[Tatara Ward, Okami|Tatara]]
+|-
+| {{OMSN|B|02}}
+| [[Kita-Kanda Station|Kita-Kanda]]
+| 北神田
+| 1.5
+| 1.5
+| ●
+| ｜
+| ｜
+|
+|-
+| {{OMSN|B|03}}
+| [[Nishi-Kanda Station|Nishi-Kanda]]
+| 西神田
+| 1.2
+| 2.7
+| ●
+| ●
+| ｜
+| {{rint|or|rail}} [[Okaiken Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|T}} [[Tedorigawa Line]] (T02)
+|-
+| {{OMSN|B|04}}
+| [[Kamiyachō Station|Kamiyachō]]
+| 紙屋町
+| 1.8
+| 4.5
+| ●
+| ●
+| ●
+| {{rint|okami|M}} [[Miyoshi Line]] (M08)
+| rowspan="5" | [[Kita Ward, Okami|Kita]]
+|-
+| {{OMSN|B|05}}
+| [[Hozumi Station|Hozumi]]
+| 穂積
+| 1.1
+| 5.6
+| ●
+| ●
+| ●
+| {{rint|okami|private|hanshi}} [[Hanshi Electric Railway]] Main Line
+|-
+| {{OMSN|B|06}}
+| [[Tenjinbashi Station (Okami)|Tenjinbashi]]
+| 天神橋
+| 1.0
+| 6.6
+| ●
+| ｜
+| ｜
+|
+|-
+| {{OMSN|B|07}}
+| [[Dōjima Station|Dōjima]]
+| 堂島
+| 1.2
+| 7.8
+| ●
+| ●
+| ｜
+| {{rint|okami|H}} [[Hitotsubashi Line]] (H03)
+|-
+| {{OMSN|B|08}}
+| [[Kitahama-Minami Station|Kitahama-Minami]]
+| 北浜南
+| 1.0
+| 8.8
+| ●
+| ●
+| ●
+| {{rint|okami|I}} [[Imaichi Line]] (I07)<br>{{rint|okami|private|yonekyu}} [[Yonekyu Corporation|Yonekyu Yonezawa Line]]
+|-
+| {{OMSN|B|09}}
+| [[Hommachi-Bashi Station|Hommachi-Bashi]]
+| 本町橋
+| 1.3
+| 10.1
+| ●
+| ●
+| ｜
+| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C14)
+| rowspan="3" | [[Chuo Ward, Okami|Chūō]]
+|-
+| {{OMSN|B|10}}
+| [[Okazaki-Shinmachi Station|Okazaki-Shinmachi]]
+| 岡崎新町
+| 1.1
+| 11.2
+| ●
+| ●
+| ●
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z12)<br>{{rint|okami|S}} [[Shitayanagi Line]] (S06)<br>{{rint|or|rail}} [[Okaiken Railways|OR]] Lines<br>{{rint|okami|private|okaden}} [[Okaden|Okaden Okazaki Main Line]]
+|-
+| {{OMSN|B|11}}
+| [[Matsuyamachi-Suji Station|Matsuyamachi-Suji]]
+| 松屋町筋
+| 1.2
+| 12.4
+| ●
+| ●
+| ｜
+| {{rint|okami|A}} [[Asahi Line]] (A06)<br>{{rint|okami|K}} [[Tokuyama Line]] (K02)
+|-
+| {{OMSN|B|12}}
+| [[Uemachi-Dori Station|Uemachi-Dori]]
+| 上町通
+| 1.0
+| 13.4
+| ●
+| ｜
+| ｜
+|
+| rowspan="4" | [[Tennoji Ward, Okami|Tennoji]]
+|-
+| {{OMSN|B|13}}
+| [[Yūhigaoka Station|Yūhigaoka]]
+| 夕陽ヶ丘
+| 1.3
+| 14.7
+| ●
+| ●
+| ｜
+| {{rint|or|rail}} [[Okaiken Railways|OR]] [[Okami Loop Line]]
+|-
+| {{OMSN|B|14}}
+| [[Rokumanji Station|Rokumanji]]
+| 六万寺
+| 1.5
+| 16.2
+| ●
+| ●
+| ●
+| {{rint|okami|M}} [[Miyoshi Line]] (M19)<br>{{rint|okami|N}} [[Nagata Line]] (N12)<br>{{rint|okami|private|kintetsu}} [[Kintetsu Railway|Kintetsu]] Minami-Okami Line<br>{{rint|okami|private|hankai}} [[Hankai Tramway]]
+|-
+| {{OMSN|B|15}}
+| [[Abeno-Nishi Station|Abeno-Nishi]]
+| 阿倍野西
+| 1.1
+| 17.3
+| ●
+| ｜
+| ｜
+|
+|-
+| {{OMSN|B|16}}
+| [[Tezukayama Station (Okami)|Tezukayama]]
+| 帝塚山
+| 1.4
+| 18.7
+| ●
+| ｜
+| ｜
+|
+| rowspan="3" | [[Suminoe Ward, Okami|Suminoe]]
+|-
+| {{OMSN|B|17}}
+| [[Sumiyoshi-Taisha Station|Sumiyoshi-Taisha]]
+| 住吉大社
+| 1.2
+| 19.9
+| ●
+| ●
+| ｜
+|
+|-
+| {{OMSN|B|18}}
+| [[Kohama Station|Kohama]]
+| 粉浜
+| 1.3
+| 21.2
+| ●
+| ｜
+| ｜
+|
+|-
+| {{OMSN|B|19}}
+| [[Hirabayashi Station|Hirabayashi]]
+| 平林
+| 1.5
+| 22.7
+| ●
+| ｜
+| ｜
+|
+| rowspan="4" | [[Minato Ward, Okami|Minato]]
+|-
+| {{OMSN|B|20}}
+| [[Tamade Station|Tamade]]
+| 玉出
+| 1.2
+| 23.9
+| ●
+| ●
+| ｜
+| {{rint|okami|A}} [[Asahi Line]] (A15)
+|-
+| {{OMSN|B|21}}
+| [[Chishima Station|Chishima]]
+| 千島
+| 1.1
+| 25.0
+| ●
+| ｜
+| ｜
+|
+|-
+| {{OMSN|B|22}}
+| [[Yanagihama Station|Yanagihama]]
+| 柳浜
+| 1.5
+| 26.5
+| ●
+| ●
+| ●
+| {{rint|okami|private|tokutetsu}} '''[[Tokutetsu|Tokutetsu Nada Line]]''' (Through Service to Aono)
+|}
+
+==Rolling Stock==
+* [[Okami Metro 30000 series|30000 series]] (8-car sets):
+*: The primary fleet for the Nanboku Line. Unlike other metro stocks, these are equipped with pantographs for overhead catenary power collection.
+* [[Akitetsu]] 5000 series:
+*: Used for through-services from the north.
+* [[Tokutetsu]] 2200 series:
+*: Used for through-services from the south.
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

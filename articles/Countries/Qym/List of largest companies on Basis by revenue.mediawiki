@@ -1,0 +1,67 @@
+{{Basis}}
+
+This list comprises the '''largest companies by revenue''' on [[Basis]]. Among the 50 largest companies, NUM are in [[Daroch]], NUM are in [[Meran]], NUM are in [[Pahari]] and NUM are in [[Visala]]. 
+
+==List==
+{{-}}
+{{Sticky header}}{{Sort under}}
+{|class="wikitable sortable sticky-header-multi sort-under" style="text-align:left;"
+|-
+! rowspan="2" scope="col" | Ranks
+! rowspan="2" scope="col" | Name
+! rowspan="2" scope="col" | Industry
+! scope="col" | Revenue
+! scope="col" | Profit
+! rowspan="2" scope="col" | Employees
+! rowspan="2" scope="col" | Headquarters
+! rowspan="2" scope="col" | [[wikipedia:State-owned enterprise|State-owned]]
+|-
+! colspan="2" scope="col" |<small>INT$ (in billions)</small><!-- billions is correct, comma is thousands separator, not decimal mark. 100,000 million = 100 billion  -->
+|-
+! scope="row" | 1
+| [[Royal Bank of Qym]]|| [[wikipedia:Financial services|Financial services]]|| style="text-align:center;" | 361.70 {{profit}} || style="text-align:center;" | 86.05 || style="text-align:right;" | 1,376,856 || {{flag|Qym}} 
+| {{Ya neutral}}
+|-
+! scope="row" | 2
+| [[Cajech]]|| [[wikipedia:Automotive industry|Automotive]]|| style="text-align:center;" | 335.61 {{profit}} || style="text-align:center;" | 7.18 || style="text-align:right;" | 606,866 || {{flag|Qym}} 
+| {{Na neutral}}
+|-
+! scope="row" | 3
+| [[Razijidil]]|| [[wikipedia:Retail|Retail]]|| style="text-align:center;" | 239.93 {{profit}} || style="text-align:center;" | 1.84 || style="text-align:right;" | 865,108 || {{flag|Qym}} 
+| {{Ya neutral}}
+|-
+! scope="row" | 4
+| [[Apshvjespa ]]|| [[wikipedia:Electric utility|Electric utility]]|| style="text-align:center;" | 217.85 {{profit}} || style="text-align:center;" | 44.53 || style="text-align:right;" | 308,855 || {{flag|Qym}} 
+| {{Ya neutral}}
+|-
+! scope="row" | 5
+| [[Tatiqym]]|| [[wikipedia:Telecommunications|Telecommunications]]|| style="text-align:center;" | 192.51 {{profit}} || style="text-align:center;" | 18.99 || style="text-align:right;" | 268,408 || {{flag|Qym}} 
+| {{Ya neutral}}
+|-
+! scope="row" | 6
+| [[Ryzum]]|| [[wikipedia:Information technology|Information technology]]|| style="text-align:center;" | 181.81 {{profit}} || style="text-align:center;" | 28.90 || style="text-align:right;" | 185,348 || {{flag|Qym}} 
+| {{Ya neutral}}
+|-
+! scope="row" | 7
+| [[QEyN]]|| [[wikipedia:Oil and gas|Oil and gas]]|| style="text-align:center;" | 178.39 {{profit}} || style="text-align:center;" | 25.55 || style="text-align:right;" | 150,836 || {{flag|Qym}} 
+| {{Ya neutral}}
+|-
+! scope="row" | 8
+| [[Qymaja Gelis]]|| [[wikipedia:Rail transport|Rail transport]]|| style="text-align:center;" | 172.13 {{profit}} || style="text-align:center;" | −0.41 || style="text-align:right;" | 862,470 || {{flag|Qym}} 
+| {{Ya neutral}}
+|-
+! scope="row" | 9
+| [[Tarez]]|| [[wikipedia:Automotive industry|Automotive]]|| style="text-align:center;" | 152.94 {{profit}} || style="text-align:center;" | 13.86 || style="text-align:right;" | 171,217 || {{flag|Qym}} 
+| {{Na neutral}}
+|-
+! scope="row" | 10
+| [[Marnyj]]|| [[wikipedia:Automotive industry|Automotive]]|| style="text-align:center;" | 137.76 {{profit}} || style="text-align:center;" | 11.33 || style="text-align:right;" | 150,915 || {{flag|Qym}} 
+| {{Na neutral}}
+|-
+! scope="row" | 11
+| [[Prykras]]|| [[wikipedia:Automotive industry|Automotive]]|| style="text-align:center;" | 103.82 {{profit}} || style="text-align:center;" | 1.73 || style="text-align:right;" | 431,862 || {{flag|Qym}} 
+| {{Na neutral}}
+|-
+|}
+
+[[Category:MyNameJuls]][[Category:Basis]]

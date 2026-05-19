@@ -1,0 +1,208 @@
+{{Basis}}
+{{Infobox geopolitical organization
+| conventional_long_name = 
+| native_name            = 
+| name                   = {{collapsible list
+ | titlestyle = background:transparent;text-align:center;line-height:normal;font-size:84%;
+ | title = {{resize|1.25em|Organization of Sukatic Nations}}
+ | {{Infobox |subbox=yes |bodystyle=font-size:77%;font-weight:normal;
+   | rowclass1 = mergedrow | label1 = [[Afarutian language|Afarutian]]: | data1 = TBD
+   | rowclass2 = mergedrow | label2 = [[Gosarian language|Gosarian]]: | data2 = TBD
+   | rowclass3 = mergedrow | label3 = [[Imendian language|Imendian]]: | data3 = TBD
+   | rowclass4 = mergedrow | label4 = [[Nykalese language|Nykalese]]: | data4 = TBD
+   | rowclass5 = mergedrow | label5 = [[Qymish language|Qymish]]: | data5 = TBD
+   | rowclass6 = mergedrow | label6 = [[Tamodian language|Tamodian]]: | data6 = TBD
+}}
+}}
+| motto                  = TBD
+| image_flag             = Flag of the Organization of Sukatic Nations.png
+| linking_name           = the Organization of Sukatic Nations
+| image_coat             = Emblem of the Organization of Sukatic Nations.png
+| symbol_type            = Emblem
+| image_map              = Organization of Sukatic Nations (orthographic projection).svg
+| map_caption            = <div style="margin-left:4.0em;text-align:left;"> {{legend2|#346733|Member states}}<br />{{legend2|#17b9c3|Observer states}}</div>
+| admin_center_type      = Headquarters
+| admin_center           = ADDRESS, Zhol, Duchy of Zhol, Qym
+| largest_city           = [[Zhol]]
+| coordinates            = 
+| official_languages     = {{unbulleted list|[[Afarutian language|Afarutian]] | [[Gosarian language|Gosarian]] |[[Imendian language|Imendian]] |[[Nykalese language|Nykalese]] |[[Qymish language|Qymish]] |[[Tamodian language|Tamodian]] }}
+| demonym                = [[Sukatic peoples|Sukatic]]
+| org_type               = [[wikipedia:Intergovernmental organization|Intergovernmental organization]]
+| membership_type        = Membership
+| membership             = {{Collapsible list
+ | titlestyle = font-weight:normal;text-align:left;
+ | title = [[#Current|6 member states]]
+  |{{flag|Afarut}}
+  |{{flag|Gosaria}}
+  |{{flag|Imendia}}
+  |{{flag|Nykal}}
+  |{{flag|Qym}}
+  |{{flag|Tamodia}}
+}}
+{{Collapsible list
+ | titlestyle = font-weight:normal;text-align:left;
+ | title = [[#Observer states|2 observers]]
+  |{{flag|Prugundy}}
+  |{{flag|Thyon}}
+}}
+| leader_title1          = {{nowrap|Secretary-General}}
+| leader_name1           = {{flagicon|Qym}} [[DUDE]]
+| established_date1      = DAY MONTH {{abbr|2343|1946.39 (Earth Year Equivalent)}}
+| established_event1     = Teurek Agreement
+| official_website       = 
+| GDP_PPP                = {{increase}} $13.084 trillion<!--13,083,557,172,100-->
+| GDP_PPP_per_capita     = {{increase}} $55,981
+| GDP_PPP_year           = {{abbr|2440|2027 (Earth Year Equivalent)}}
+| GDP_nominal            = {{increase}} $10.635 trillion<!--10,635,409,271,600-->
+| GDP_nominal_per_capita = {{increase}} $45,506
+| GDP_nominal_year       = {{abbr|2440|2027 (Earth Year Equivalent)}}
+| area_km2               = 1
+| area_rank              = unranked
+| population_estimate    = 233,714,724
+| population_estimate_year = {{abbr|2440|2027 (Earth Year Equivalent)}}
+}}
+
+The '''Organization of Sukatic Nations''' ('''OSN''') is an intergovernmental organization comprising all the [[Sukatic peoples|Sukatic]] sovereign states on [[Basis]]: [[Afarut]], [[Gosaria]], [[Imendia]], [[Nykal]], [[Qym]] and [[Tamodia]]. 
+
+The OSN has the aim of promoting stability and integration between [[Sukatic peoples]]. It is a forum for discussing regional strategic issues, based on the principles of shared ownership, shared decision-making and shared responsibility between different [[Sukatic peoples]]. U/C
+
+==History==
+
+==Members==
+===Current===
+{| class="wikitable"
+|+
+!Country
+!Accession
+!Population ({{abbr|2440|2027 (Earth Year Equivalent)}})
+!Area (km<sup>2</sup>)
+!Population density (/km<sup>2</sup>)
+![[List of countries on Basis by GDP (nominal)|GDP (nominal)]]
+![[List of countries on Basis by GDP (nominal) per capita|GDP (nominal) per capita]]
+![[List of countries on Basis by GDP (PPP)|GDP (PPP)]]
+![[List of countries on Basis by GDP (PPP) per capita|GDP (PPP) per capita]]
+![[List of countries on Basis by Human Development Index|HDI]]
+|-
+|{{flag|Afarut}}
+| style=text-align:center rowspan="6" |Founder
+| style=text-align:right|5,469,477
+| style=text-align:right|1
+| style=text-align:right|1
+| style=text-align:right|$166,047,852,243
+| style=text-align:right|$30,359
+| style=text-align:right|$277,400,934,486
+| style=text-align:right|$50,718
+| style=text-align:right|0.896
+|-
+|{{flag|Gosaria}}
+| style=text-align:right|24,675,082
+| style=text-align:right|1
+| style=text-align:right|1
+| style=text-align:right|$832,833,367,664
+| style=text-align:right|$33,752
+| style=text-align:right|$1,243,476,082,310
+| style=text-align:right|$50,394
+| style=text-align:right|0.921
+|-
+|{{flag|Imendia}}
+| style=text-align:right|13,094,553
+| style=text-align:right|1
+| style=text-align:right|1
+| style=text-align:right|$737,105,482,923
+| style=text-align:right|$56,291
+| style=text-align:right|$852,114,941,922
+| style=text-align:right|$65,074
+| style=text-align:right|0.929
+|-
+|{{flag|Nykal}}
+| style=text-align:right|8,841,529
+| style=text-align:right|1
+| style=text-align:right|1
+| style=text-align:right|$277,031,628,157
+| style=text-align:right|$31,333
+| style=text-align:right|$379,390,009,390
+| style=text-align:right|$42,910
+| style=text-align:right|0.903
+|-
+|{{flag|Qym}}
+| style=text-align:right|162,359,580
+| style=text-align:right|1
+| style=text-align:right|1
+| style=text-align:right|$8,125,609,900,260
+| style=text-align:right|$50,047
+| style=text-align:right|$9,540,573,639,960
+| style=text-align:right|$58,762
+| style=text-align:right|0.914
+|-
+|{{flag|Tamodia}}
+| style=text-align:right|19,274,503
+| style=text-align:right|1
+| style=text-align:right|1
+| style=text-align:right|$496,781,040,322
+| style=text-align:right|$25,774
+| style=text-align:right|$790,601,564,054
+| style=text-align:right|$41,018
+| style=text-align:right|0.884
+|-
+|'''{{flagicon|Organization of Sukatic Nations}} OSN'''
+| style=text-align:center|'''—'''
+| style=text-align:right|'''233,714,724'''<!--Total pop-->
+| style=text-align:right|'''1'''
+| style=text-align:right|'''1'''
+| style=text-align:right|'''$10,635,409,271,600'''
+| style=text-align:right|'''$45,506'''
+| style=text-align:right|'''$13,083,557,172,100'''
+| style=text-align:right|'''$55,981'''
+| style=text-align:right|'''0.912'''<!--Average per pop-->
+|-
+|}
+
+===Observers===
+{| class="wikitable"
+|+
+!Country
+!Observer since
+!Population ({{abbr|2440|2027 (Earth Year Equivalent)}})
+!Area (km<sup>2</sup>)
+!Population density (/km<sup>2</sup>)
+![[List of countries on Basis by GDP (nominal)|GDP (nominal)]]
+![[List of countries on Basis by GDP (nominal) per capita|GDP (nominal) per capita]]
+![[List of countries on Basis by GDP (PPP)|GDP (PPP)]]
+![[List of countries on Basis by GDP (PPP) per capita|GDP (PPP) per capita]]
+![[List of countries on Basis by Human Development Index|HDI]]
+|-
+|{{flag|Prugundy}}
+| style=text-align:center|DAY MONTH YEAR
+| style=text-align:right|53,738,505
+| style=text-align:right|1
+| style=text-align:right|1
+| style=text-align:right|$2,561,177,148,300
+| style=text-align:right|$47,660
+| style=text-align:right|$3,186,048,484,440
+| style=text-align:right|$59,288
+| style=text-align:right|0.924
+|-
+|{{flag|Thyon}}
+| style=text-align:center|DAY MONTH YEAR
+| style=text-align:right|78,330,952
+| style=text-align:right|1
+| style=text-align:right|1
+| style=text-align:right|$5,546,536,380,170
+| style=text-align:right|$70,809
+| style=text-align:right|$4,949,732,856,880
+| style=text-align:right|$63,190
+| style=text-align:right|0.939
+|-
+|}
+
+==Leaders of member states==
+<gallery class="center" widths="150" classes="center">
+File:Profile photo placeholder square.svg|{{flagicon|Afarut}} '''[[Afarut|Grand Duchy of Afarut]]'''<br />[[DUDE]]<br />[[Grand Duke of Afarut]]
+File:Profile photo placeholder square.svg|{{flagicon|Gosaria}} '''[[Gosaria|Kingdom of Gosaria]]'''<br />[[DUDE]]<br />[[King of Gosaria]]
+File:Profile photo placeholder square.svg|{{flagicon|Imendia}} '''[[Imendia|Kingdom of Imendia]]'''<br />[[DUDE]]<br />[[King of Imendia]]
+File:Profile photo placeholder square.svg|{{flagicon|Nykal}} '''[[Nykal|Principality of Nykal]]'''<br />[[DUDE]]<br />[[Prince of Nykal]]
+File:Qodzar of Qym.jpg|{{flagicon|Qym}} '''[[Qym|Kingdom of Qym]]'''<br />[[Qodzar of Qym|Qodzar]]<br />[[King of Qym]]
+File:Profile photo placeholder square.svg|{{flagicon|Tamodia}} '''[[Tamodia|Kingdom of Tamodia]]'''<br />[[DUDE]]<br />[[King of Tamodia]]
+</gallery>
+
+[[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

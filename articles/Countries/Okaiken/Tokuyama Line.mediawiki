@@ -1,0 +1,157 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Tokuyama Line
+| image = Okami Metro Tokuyama line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series1000-01.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 1000 series|1000 series]] train at [[Kuromon-Bashi Station]].
+| native_name = 徳山線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 6
+| stations = 9
+| ridership = 650,000 (FY2025)
+| began_operation = {{start date and age|1969|10|01|df=y}}
+| system_length = {{cvt|10.5|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{1500 V DC|conductor=overhead}}
+| map = [[File:Okami Metro Tokuyama Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Tokuyama Line'''|徳山線|Tokuyama-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It serves as a direct southern connector, linking the commercial district of [[Kuromon-Bashi]] with the southern residential areas along the Yamato River, acting as the gateway to [[Tokuyama Prefecture]]. On system maps, the line is color-coded jade ({{Okami Metro color|D}}), and its stations use the prefix "D".
+
+Designated as Line 6, the Tokuyama Line serves a specific role as a bypass and feeder line. Unlike the third-rail lines in the city center, it utilizes overhead catenary electrification to facilitate seamless reciprocal through-service with the [[Tokutetsu|Tokutetsu (Tokuyama Electric Railway)]]. This allows passengers to travel from the industrial centers of Tokuyama directly into the heart of Okami's electronics district without changing trains.
+
+
+
+==History==
+Construction of the Tokuyama Line (Line 6) began in the late 1960s to support the rapid industrialization of the southern districts. The line opened on October 1, 1969, making it one of the earlier lines in the network, established to manage the heavy commuter flow from the [[Tokutetsu]] railway.
+
+The line was built to accommodate 6-car trains from the outset, matching the standard formation of the private railway partner. While originally planned to extend further north, the construction of the [[Sakaisuji Line]] (now the [[Asahi Line]]) made further northern extension redundant, cementing Kuromon-Bashi as its definitive northern terminal.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* '''L''': Local (普通) - Stops at all stations.
+* '''SE''': Semi-Express (準急) - Operates during morning rush hours only.
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Distance (km)
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Stops
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|K}};" | Between
+! style="border-bottom:3px solid #{{Okami Metro color|K}};" | Total
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|K}};" | L
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|K}};" | SE
+|-
+| {{OMSN|K|01}}
+| [[Kuromon-Bashi Station|Kuromon-Bashi]]
+| 黒門橋
+| -
+| 0.0
+| ●
+| ●
+| {{rint|okami|A}} [[Asahi Line]] (A09)<br>{{rint|okami|S}} [[Shitayanagi Line]] (S11)<br>{{rint|okami|private}} [[Kintetsu Railway|Kintetsu]] Namba Line
+| rowspan="3" | [[Chuo Ward, Okami|Chuo]]
+|-
+| {{OMSN|K|02}}
+| [[Ebisu-Cho Station|Ebisu-Cho]]
+| 恵美須町
+| 1.2
+| 1.2
+| ●
+| ●
+| {{rint|okami|private}} [[Hankai Tramway]] Hankai Line
+|-
+| {{OMSN|K|03}}
+| [[Tennoji-Koen Station|Tennoji-Koen]]
+| 天王寺公園
+| 1.0
+| 2.2
+| ●
+| ●
+| {{rint|okami|M}} [[Miyoshi Line]] (M18)<br>{{rint|okami|A}} [[Asahi Line]] (A10)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+|-
+| {{OMSN|K|04}}
+| [[Abeno-Suji Station|Abeno-Suji]]
+| 阿倍野筋
+| 1.1
+| 3.3
+| ●
+| ●
+| {{rint|okami|M}} [[Miyoshi Line]] (M19)<br>{{rint|okami|private}} [[Hankai Tramway]] Uemachi Line
+| rowspan="2" | [[Abeno Ward, Okami|Abeno]]
+|-
+| {{OMSN|K|05}}
+| [[Harima-Cho Station|Harima-Cho]]
+| 播磨町
+| 1.3
+| 4.6
+| ●
+| ｜
+|
+|-
+| {{OMSN|K|06}}
+| [[Nagai-Higashi Station|Nagai-Higashi]]
+| 長居東
+| 1.5
+| 6.1
+| ●
+| ｜
+|
+| rowspan="4" | [[Sumiyoshi Ward, Okami|Sumiyoshi]]
+|-
+| {{OMSN|K|07}}
+| [[Abiko-Mae Station|Abiko-Mae]]
+| 我孫子前
+| 1.2
+| 7.3
+| ●
+| ｜
+|
+|-
+| {{OMSN|K|08}}
+| [[Sugimoto-Cho Station|Sugimoto-Cho]]
+| 杉本町
+| 1.4
+| 8.7
+| ●
+| ｜
+| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Hanwa Line]]
+|-
+| {{OMSN|K|09}}
+| [[Yamato-Gawa Station|Yamato-Gawa]]
+| 大和川
+| 1.8
+| 10.5
+| ●
+| ●
+| {{rint|okami|private}} '''[[Tokutetsu|Tokutetsu (Tokuyama Electric Railway)]]''' (Through Service to Tokuyama-City)
+|}
+
+==Rolling Stock==
+The Tokuyama Line utilizes overhead catenary electrification (1,500 V DC) to ensure compatibility with Tokutetsu private railway standards.
+
+* [[Okami Metro 1000 series|1000 series]] (6-car sets):
+*: The latest fleet introduced in 2018 to replace the original 10 series. These trains feature a stainless steel body with a rose-pink band. They are designed with high acceleration capabilities to manage the frequent stops within the city center before running express on the suburban Tokutetsu line.
+* [[Tokutetsu]] 5000 series (6-car sets):
+*: Private railway stock owned by Tokutetsu. Known as the "Southern Cross," these trains feature a distinctive navy blue livery and transverse seating, offering a comfortable ride for long-distance commuters coming from Tokuyama Prefecture.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

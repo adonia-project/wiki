@@ -1,0 +1,45 @@
+{{Basis}}
+
+This is a '''list of countries on Basis by electric energy consumption'''. [[Qym]] is the largest producer and consumer of electricity. 
+
+==Consumption by country==
+:''Note: Years are shorter on Basis compared to Earth, therefore production may appear lower at first glance. Multiply by 1.20376544906 for a like-for-like comparison with Earth.''
+{{sticky header}}{{table alignment}}{{static row numbers}}{{sort under}}
+{| class="wikitable sortable sticky-header static-row-numbers sort-under col1left" {{right}}
+! style=width:15em | Location
+! Consumption{{br}}([[wikipedia:TWh|TWh]] per annum)
+! Per capita{{br}}(MWh per annum)
+! Year
+|- class=static-row-numbers-norank
+| {{noflag|'''Basis'''}} || NUM || 3.67 || {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+| {{flag|Qym}}
+| 2,510
+| 15.46
+| {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+|}
+
+==Consumption by continent==
+:''Note: Years are shorter on Basis compared to Earth, therefore production may appear lower at first glance. Multiply by 1.20376544906 for a like-for-like comparison with Earth.''
+{{sticky header}}{{table alignment}}{{static row numbers}}{{sort under}}
+{| class="wikitable sortable sticky-header static-row-numbers sort-under col1left" {{right}}
+! Continent
+! Consumption{{br}}([[wikipedia:TWh|TWh]] per annum)
+! Per capita{{br}}(MWh per annum)
+! Year
+|-
+| [[Daroch]] || NUM || NUM || {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+| [[Meran]] || NUM || NUM || {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+| [[Pahari]] || NUM || NUM || {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+| [[Visala]] || NUM || NUM || {{abbr|2440|2027 (Earth Year Equivalent)}}
+|-
+|}
+
+==See also==
+*[[List of countries on Basis by electricity production]]
+
+[[Category:MyNameJuls]][[Category:Basis]]

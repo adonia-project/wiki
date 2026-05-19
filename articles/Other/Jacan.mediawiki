@@ -1,0 +1,167 @@
+{{NPC}}
+{{VINPC}}
+{{sandbox}}
+{{Infobox country
+| native_name            = {{native name|an|Republica de Xacan}}
+| conventional_long_name = Republic of Jacan
+| common_name            = Jacan
+| image_flag             = Flag_of_Jacan.svg
+| alt_flag               = Flag of Jacan
+| image_coat             = Seal of Jacan.png
+| alt_coat               = Seal of Jacan
+| symbol_type            = Seal
+| national_motto         = "??"<br>"''Nobody likes a tory''"
+| national_anthem        = "Anthem"<br>"''Anthem''"
+| image_map              = Jacan_location_map.png
+| alt_map                = <!--alt text for map-->
+| map_caption            = Location of Jacan in Adonia
+| image_map2             = <!--Another map, if required-->
+| alt_map2               = <!--alt text for second map-->
+| map_caption2           = <!--Caption to place below second map-->
+| capital                = [[Castillón]]
+| largest_city           = capital
+| official_languages     = [[Xacano language|Jacan]]
+| national_languages     = 
+| regional_languages     = 
+| ethnic_groups          = 
+| demonym                = [[Jacano people|Jacano]]
+| government_type        = [[Constitution of Jacan|Constitutional]] [[wikipedia:Parliamentary republic|parliamentary republic]]
+| leader_title1          = [[President of Jacan|President]]
+| leader_name1           = [[Ximén Vilagrassa]]
+| leader_title2          = [[Prime Minister of Jacan|Prime Minister]]
+| leader_name2           = [[Priszila Grau]]
+| legislature            = [[General Corts of Jacan|General Corts]]
+| upper_house            = [[Senate of Jacan|Senate]]
+| lower_house            = [[House of Representatives of Jacan|House of Representatives]]
+| sovereignty_type       = Constitutional history
+| established_event1     = Kingdom of Jacan
+| established_date1      = ???
+| area_rank              = 
+| area_magnitude         = 
+| area                   = <!-- major area size (in [[Template:convert]] either km2 or sqmi first) -->
+| area_km2               = 221,419
+| area_sq_mi             = 85,490.35
+| area_footnote          = 
+| percent_water          = 1.8
+| area_label             = Total
+| area_label2            = <!-- label below area_label (optional) -->
+| area_data2             = <!-- text after area_label2 (optional) -->
+| population_estimate    = 49,226,927
+| population_estimate_rank = 
+| population_estimate_year = 2016
+| population_census      = 49,226,927
+| population_census_year = 2016
+| population_density_km2 = 222.32
+| population_density_sq_mi = 575.82
+| population_density_rank = 
+| GDP_PPP                = {{I$|link=yes}}2.533 trillion
+| GDP_PPP_rank           = 
+| GDP_PPP_year           = 2015
+| GDP_PPP_per_capita     = I$51,460
+| GDP_PPP_per_capita_rank = 
+| Gini                   = 32.7
+| Gini_rank              = ??th
+| Gini_year              = 2014
+| Gini_category          = Medium
+| HDI                    = .911
+| HDI_rank               = ??th
+| HDI_year               = 2014
+| HDI_category           = Very high
+| QLI                    = 7.33
+| QLI_rank               = ??th
+| QLI_year               = 2014
+| QLI_category           = High
+| IEF                    = 77.2
+| IEF_rank               = ??th
+| IEF_year               = 2016
+| IEF_category           = Mostly Free
+| currency               = [[Jacano peso|Peso]]
+| currency_code          = JPS
+| time_zone              = 
+| utc_offset             = +0
+| time_zone_DST          = 
+| date_format            = dd.mm.yyyy CE
+| DST_note               = 
+| utc_offset_DST         = <!-- +N, where N is number of hours-->
+| drives_on              = Right
+| cctld                  = .ba
+| simlympic_code         = BAY
+| calling_code           = +17
+| image_map3             = 
+| alt_map3               = 
+| footnotes              = <!--for any generic non-numbered footnotes-->
+}}
+
+'''Jacan''', officially the '''Republic of Jacan''' ({{Langx|an|Republica de Xacan}}), is a country in [[Western Illypnia]]. It is bordered to the north by [[Hersatia]], to the northeast by [[Kastruneto]], to the east by [[Nabia]], to the southeast by [[Sula]], to the southwest by [[Goyona]] and to the west by [[Bizkarra]]. Jacan is a unitary parliamentary republic with its capital in [[Castillón]], the country's largest city and main cultural and commercial center. Other major urban areas include [[TBD]], [[TBD]], [[TBD]] and [[TBD]]. The official and national language is [[wikipedia:Aragonese language|Jacano]].
+
+Jacan is a developed country with the world's ??th-largest economy by nominal GDP, and the tenth-largest by PPP. It performs well in international rankings of education, health care, life expectancy, and human development. Jacan  is a founding member of the [[Adonian Community]], having declared its perpetual neutrality in foreign political affairs in 1948. 
+
+==Etymology==
+==History==
+===Middle Ages===
+===Renaissance===
+===Early modern history===
+===Great Adonian War===
+===Post-war===
+==Geography==
+===Climate===
+==Politics==
+===Law===
+===Administrative divisions===
+===Military===
+==Economy==
+{{Main|Economy of Jacan}}
+
+==Infrastructure==
+===Energy===
+===Transport===
+
+==Demographics==
+{{Largest cities
+| name        = Largest metropolitan areas of Jacan
+| class       = nav
+| country     = Jacan
+| kind        = metropolitan areas
+| stat_ref    = Government of Jacan
+| list_by_pop = Metropolitan areas of Bayara
+| div_name    = Provinces
+| div_link    = Provinces of Jacan
+
+| city_1      = Castillón<!--Paris-->
+| div_1       = CENTRAL
+| pop_1       = 12,628,266
+| img_1       = La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg
+
+| city_2 = TBD<!--Nantes-->| div_2 = WEST COAST| pop_2 = 2,536,418| img_2 = Nantes aerial skyline view.jpg
+| city_3 = TBD<!--Bordeaux-->| div_3 = MONDEGO| pop_3 = 2,485,514| img_3 = Place de la Bourse, Bordeaux, France.jpg
+| city_4 = TBD<!--Le Havre-->| div_4 = SOUTH COAST| pop_4 = 1,906,326| img_4 = Le Havre.jpg
+| city_5 = TBD| div_5 = CENTRAL| pop_5 = TBD
+| city_6 = TBD| div_6 = TBD| pop_6 = TBD
+| city_7 = TBD| div_7 = TBD| pop_7 = TBD
+| city_8 = TBD| div_8 = TBD| pop_8 = TBD
+| city_9 = TBD| div_9 = TBD| pop_9 = TBD
+| city_10 = TBD| div_10 = TBD| pop_10 = TBD
+| city_11 = TBD| div_11 = TBD| pop_11 = TBD
+| city_12 = TBD| div_12 = TBD| pop_12 = TBD
+| city_13 = TBD| div_13 = TBD| pop_13 = TBD
+| city_14 = TBD| div_14 = TBD| pop_14 = TBD
+| city_15 = TBD| div_15 = TBD| pop_15 = TBD
+| city_16 = TBD| div_16 = TBD| pop_16 = TBD
+| city_17 = TBD| div_17 = TBD| pop_17 = TBD
+| city_18 = TBD| div_18 = TBD| pop_18 = TBD
+| city_19 = TBD| div_19 = TBD| pop_19 = TBD
+| city_20 = TBD| div_20 = TBD| pop_20 = TBD
+}}
+===Language===
+===Religion===
+According to the 2016 census, Jacanos were 59.3% [[Petran Catholic Church|Petran Catholic]], 13.1% [[Zamarra Catholic Church|Zamarra Catholic]], and 1.3% other Christian denominations, while 19.2% were Agnostics and Atheists, 2.4% Jewish, and 4.7% followed other religions, including [[Islam]], [[Buddhism]], [[Armazism]] and other [[Paganism|Pagan religions]].
+===Education===
+===Health===
+
+==Culture==
+===Art===
+===Literature===
+===Music===
+===Sport===
+
+[[Category:Jacan]]

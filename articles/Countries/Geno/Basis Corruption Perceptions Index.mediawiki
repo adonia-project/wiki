@@ -1,0 +1,60 @@
+{{Basis}}
+The '''Basis Corruption Perceptions Index''' ('''BCPI''') is an index published annually by [[Povnyj Lajna]], a [[Qym]]ish polling firm, since {{abbr|2400|1993.74 (Earth Year Equivalent)}}. It scores and ranks countries by their perceived levels of public sector corruption, as assessed by the general public and academic experts throughout Basis. The BCPI generally defines corruption as an "abuse of entrusted power for private gain". Of the NUM countries ranked in the {{abbr|2440|2027 (Earth Year Equivalent)}} BCPI, published in early {{abbr|2441|2027.8 (Earth Year Equivalent)}}, the top scorers included COUNTRY (SCORE), while those perceived as the most corrupt included COUNTRY (SCORE), and [[Kibabi]] (3). Although widely used as a key indicator of corruption, the BCPI does not capture all forms of corruption. Perceptions about corruption may differ from actual levels of corruption and the index focuses solely on the public sector. 
+
+==Methodology==
+Just trust me, bro. 
+
+==Criticism==
+
+==Scores==
+===2440 index===
+Below are the scores for each country in the Basis Corruption Perceptions Index for 2440. The scores reflect a country's transparency (i.e., the opposite of corruption).
+
+'''Legend'''
+{| class="wikitable"
+! Scores
+! colspan=5 | Perceived as less corrupt
+! colspan=5 | Perceived as more corrupt
+|-
+!since 2012
+|style="background: #001e7d; color:white"| '''100–90'''
+|style="background: #004bcd; color:white"| '''89–80'''
+|style="background: #3cc8fa; color:black"| '''79–70'''
+|style="background: #faf09b; color:black"| '''69–60'''
+|style="background: #f5c81e; color:black"| '''59–50'''
+|style="background: #ff9600; color:black"| '''49–40'''
+|style="background: #ff6414; color:black"| '''39–30'''
+|style="background: #b40000; color:white"| '''29–20'''
+|style="background: #690000; color:white"| '''19–10'''
+|style="background: #2d0000; color:white"| '''9–0'''
+|}<!-- STOP: First to List of Countries by Corruption Perceptions Index.
+
+Please add the scores to [[List of Countries by Corruption Perceptions Index]] before adding them here to make our job easier whenever a new report comes out.  --><!-- Add them there first to make our job easier.  -->{{sticky header}}
+{| class="mw-datatable wikitable sortable collapsible sticky-header-multi" style="text-align:center;"
+! colspan="4" |2440 index
+|-
+!#
+!Nation&nbsp;or&nbsp;Territory
+!Score
+!&nbsp;Rank 
+Change
+|-
+|1|| style="text-align:left;" |{{Flag|Qym}}
+| style="background: #faf09b; color:black" |'''63'''
+|–
+|-
+|2|| style="text-align:left;" |{{Flag|Geno}}
+| style="background: #b40000; color:white" |'''25'''
+|–
+|-
+|3|| style="text-align:left;" |{{Flag|Haynadur}}
+| style="background: #b40000; color:white" |'''22'''
+|–
+|-
+|4|| style="text-align:left;" |{{Flag|Kibabi}}
+| style="background: #2d0000; color:white" |'''3'''
+|–
+|-
+|}
+
+[[Category:MyNameJuls]][[Category:Basis]]

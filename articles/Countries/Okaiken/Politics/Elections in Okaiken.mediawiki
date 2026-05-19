@@ -1,0 +1,174 @@
+{{Short description|Political election system of Okaiken}}
+{{Use dmy dates|date=March 2026}}
+{{Politics of Okaiken}}
+
+The political process of [[Okaiken]] is defined by two primary levels of democratic elections:
+
+* {{Nihongo|National elections|国政選挙|kokusei senkyo}}
+* {{Nihongo|Subnational/local elections|地方選挙|chihō senkyo}}
+
+At the national level, Okaiken operates under a parliamentary system where the head of government, the [[Prime Minister of Okaiken]], is elected indirectly by the national legislature. Conversely, the 48 prefectures and their respective municipalities employ a system where chief executives (Governors and Mayors) and local legislative assemblies are directly elected by the public, operating independently of the federal election cycles.
+
+== Rules and regulations ==
+Elections at all levels are regulated by the Federal Public Offices Election Law. Oversight and administration are managed by the Central Election Management Council, an independent organ attached to the Ministry of the Interior, alongside local Election Administration Commissions in each prefecture.
+
+The minimum voting age in Okaiken is 18 years old, and voting is non-compulsory. Citizens must meet a three-month local residency requirement before being permitted to cast a ballot in their respective constituency. To stand for election, candidates must be at least 25 years old for the lower house of the Diet and local assemblies, and 30 years old for the upper house and prefectural governorships.
+
+== National elections ==
+
+Okaiken's national legislature, the {{Nihongo|[[Diet of Okaiken]]|国会|Kokkai}}, is a bicameral body consisting of two independently elected chambers. National elections include:
+
+General elections for the lower house, held every four years unless the chamber is dissolved early by the Prime Minister.
+
+Regular elections for the upper house, held every three years to elect half of the chamber for fixed six-year terms.
+
+=== Election system and apportionment ===
+The lower house of the Diet utilizes a highly specific parallel voting system. Voters cast two separate ballots: one for an individual candidate in a Single-Member District (SMD) decided by plurality vote, and one for a political party in a regional Proportional Representation (PR) block.
+
+The current apportionment of the lower house consists of '''475 total seats'''. These are divided strictly into '''289 SMD seats''' and '''186 PR seats'''. The PR seats are allocated via the D'Hondt method across 12 distinct regional blocks. This system allows for dual candidacies, where a politician can run in an SMD and simultaneously be listed on their party's PR list as a safety net.
+
+The 12 regional blocks vary vastly in voting weight and seat distribution, reflecting the stark demographic density of the major metropolises compared to the rural northern and southern islands. The Okami block is the most heavily apportioned, commanding 92 SMD seats and 59 PR seats, while the isolated Ogasawara block commands only 3 SMD seats and 2 PR seats.
+
+Below is the official 2026 apportionment table detailing the regional blocks, prefectural populations, and the exact distribution of the 289 SMD and 186 PR seats:
+
+{| class="wikitable sortable" style="text-align:right;"
+|+ House of Commoners Apportionment by Regional Block (2026)
+|-
+! style="text-align:left;" | Regional Block
+! style="text-align:left;" | Prefecture
+! Population (2026)
+! SMD Seats (Districts)
+! PR Seats (in Block)
+|-
+| rowspan="7" style="text-align:left;" | '''Okami'''
+| style="text-align:left;" | [[Okami Metropolis]] || 17,257,969 || 56 || rowspan="7" | '''59'''
+|-
+| style="text-align:left;" | [[Yonezawa Prefecture|Yonezawa]] || 2,090,036 || 7
+|-
+| style="text-align:left;" | [[Akita Prefecture|Akita]] || 1,975,683 || 6
+|-
+| style="text-align:left;" | [[Tokuyama Prefecture|Tokuyama]] || 1,826,990 || 6
+|-
+| style="text-align:left;" | [[Yamagata Prefecture|Yamagata]] || 1,815,109 || 6
+|-
+| style="text-align:left;" | [[Okazaki Prefecture|Okazaki]] || 1,770,119 || 6
+|-
+| style="text-align:left;" | [[Fukushima Prefecture|Fukushima]] || 1,714,099 || 5
+|-
+| rowspan="6" style="text-align:left;" | '''Miseto'''
+| style="text-align:left;" | [[Toyozawa Metropolis]] || 9,066,997 || 29 || rowspan="6" | '''39'''
+|-
+| style="text-align:left;" | [[Mito Prefecture|Mito]] || 3,077,964 || 10
+|-
+| style="text-align:left;" | [[Seto Prefecture|Seto]] || 2,464,094 || 8
+|-
+| style="text-align:left;" | [[Mie Prefecture|Mie]] || 1,952,877 || 6
+|-
+| style="text-align:left;" | [[Ise Prefecture|Ise]] || 1,188,083 || 4
+|-
+| style="text-align:left;" | [[Kurosaki Prefecture|Kurosaki]] || 1,056,556 || 3
+|-
+| rowspan="6" style="text-align:left;" | '''Asuka'''
+| style="text-align:left;" | [[Aizawa Prefecture|Aizawa]] || 3,192,441 || 10 || rowspan="6" | '''22'''
+|-
+| style="text-align:left;" | [[Tochigi Prefecture|Tochigi]] || 1,757,706 || 6
+|-
+| style="text-align:left;" | [[Gunma Prefecture|Gunma]] || 1,751,616 || 6
+|-
+| style="text-align:left;" | [[Shiga Prefecture|Shiga]] || 1,335,730 || 4
+|-
+| style="text-align:left;" | [[Ishijima Prefecture|Ishijima]] || 1,295,734 || 4
+|-
+| style="text-align:left;" | [[Noto Prefecture|Noto]] || 1,220,132 || 4
+|-
+| rowspan="2" style="text-align:left;" | '''Urakawa'''
+| style="text-align:left;" | [[Miyagi Prefecture|Miyagi]] || 3,384,659 || 11 || rowspan="2" | '''10'''
+|-
+| style="text-align:left;" | [[Iwate Prefecture|Iwate]] || 1,192,696 || 4
+|-
+| rowspan="4" style="text-align:left;" | '''Mutsu'''
+| style="text-align:left;" | [[Okayama Prefecture|Okayama]] || 1,874,189 || 6 || rowspan="4" | '''9'''
+|-
+| style="text-align:left;" | [[Tosa Prefecture|Tosa]] || 993,038 || 3
+|-
+| style="text-align:left;" | [[Naruto Prefecture|Naruto]] || 940,041 || 3
+|-
+| style="text-align:left;" | [[Shiogami Prefecture|Shiogami]] || 675,718 || 2
+|-
+| rowspan="2" style="text-align:left;" | '''Nishi-Yagikoshu'''
+| style="text-align:left;" | [[Saitama Prefecture|Saitama]] || 2,372,281 || 8 || rowspan="2" | '''9'''
+|-
+| style="text-align:left;" | [[Kochi Prefecture|Kochi]] || 1,928,617 || 6
+|-
+| rowspan="7" style="text-align:left;" | '''Nankai'''
+| style="text-align:left;" | [[Sakai Prefecture|Sakai]] || 867,218 || 3 || rowspan="7" | '''9'''
+|-
+| style="text-align:left;" | [[Mizuno Prefecture|Mizuno]] || 630,589 || 2
+|-
+| style="text-align:left;" | [[Uruwa Prefecture|Uruwa]] || 615,000 || 2
+|-
+| style="text-align:left;" | [[Mutsu Prefecture|Mutsu]] || 589,570 || 2
+|-
+| style="text-align:left;" | [[Aomori Prefecture|Aomori]] || 531,205 || 2
+|-
+| style="text-align:left;" | [[Oita Prefecture|Oita]] || 510,396 || 2
+|-
+| style="text-align:left;" | [[Kii Prefecture|Kii]] || 479,092 || 1
+|-
+| rowspan="3" style="text-align:left;" | '''Oku'''
+| style="text-align:left;" | [[Haruno Prefecture|Haruno]] || 1,409,982 || 5 || rowspan="3" | '''8'''
+|-
+| style="text-align:left;" | [[Shimabara Prefecture|Shimabara]] || 1,333,764 || 4
+|-
+| style="text-align:left;" | [[Ehime Prefecture|Ehime]] || 1,278,229 || 4
+|-
+| rowspan="4" style="text-align:left;" | '''Kihoku'''
+| style="text-align:left;" | [[Nagayama Prefecture|Nagayama]] || 1,006,450 || 3 || rowspan="4" | '''8'''
+|-
+| style="text-align:left;" | [[Nagato Prefecture|Nagato]] || 946,498 || 3
+|-
+| style="text-align:left;" | [[Kagami Prefecture|Kagami]] || 944,737 || 3
+|-
+| style="text-align:left;" | [[Obama Prefecture|Obama]] || 809,775 || 3
+|-
+| rowspan="3" style="text-align:left;" | '''Suzuka'''
+| style="text-align:left;" | [[Suzuka Prefecture|Suzuka]] || 1,212,142 || 4 || rowspan="3" | '''6'''
+|-
+| style="text-align:left;" | [[Tachibara Prefecture|Tachibara]] || 982,307 || 3
+|-
+| style="text-align:left;" | [[Kiso Prefecture|Kiso]] || 810,315 || 3
+|-
+| rowspan="3" style="text-align:left;" | '''Minami Harujima'''
+| style="text-align:left;" | [[Ishiwara Prefecture|Ishiwara]] || 982,238 || 3 || rowspan="3" | '''5'''
+|-
+| style="text-align:left;" | [[Hirogawa Prefecture|Hirogawa]] || 797,386 || 3
+|-
+| style="text-align:left;" | [[Kofu Prefecture|Kofu]] || 756,181 || 2
+|-
+| style="text-align:left;" | '''Ogasawara'''
+| style="text-align:left;" | [[Ogasawara Prefecture|Ogasawara]] || 941,638 || 3 || '''2'''
+|-
+! colspan="3" | Total
+! 289
+! 186
+|}
+
+=== Malapportionment and constitutional challenges ===
+Like many rapidly urbanizing nations, Okaiken has historically struggled with malapportionment. During the economic booms of the late 20th century, massive demographic shifts saw rural populations migrate to the metropolitan hubs of Okami and Toyozawa. Because the electoral boundaries were not immediately redrawn, rural votes held significantly more weight than urban votes.
+
+In recent decades, the Supreme Court of Okaiken has mandated aggressive redistricting to ensure that the maximum discrepancy in voting weight does not violate the constitutional principle of equality. The 2026 apportionment explicitly attempts to bridge this gap, though dense urban blocks like Okami (17.2 million population) and Miseto (9 million population) continue to dominate the raw seat count in the lower house.
+
+== Subnational and local elections ==
+Okaiken's local democratic process features elections for the 48 prefectural governorships and assemblies, as well as thousands of municipal mayoral and city council elections.
+
+Many local elections are synchronized and held together during the {{Nihongo|unified local elections|統一地方選挙|Tōitsu chihō senkyo}}, which occur every four years. However, due to off-cycle resignations, historical municipal mergers, and political scandals that have forced early dissolutions, several major prefectures and cities operate on independent electoral calendars. In local elections, the voting methodology remains a single non-transferable vote (SNTV) for multi-member municipal assemblies, and a direct plurality vote for executive offices.
+
+== See also ==
+
+*[[List of political parties in Okaiken]]
+*[[Prime Minister of Okaiken]]
+*[[Prefectures of Okaiken]]
+
+{{Okaiken topics}}
+[[Category:Elections in Okaiken]]
+[[Category:Politics of Okaiken]]

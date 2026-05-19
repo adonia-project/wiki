@@ -1,0 +1,25 @@
+{{Basis}}
+{{Infobox aircraft
+ |name = Ramiq R-22
+ |image = RAFQ Ramiq R-22.jpg
+ |caption = A [[Royal Air Force of Qym|RAFQ]] R-22
+ |alt = 
+ |type = [[wikipedia:interceptor aircraft|Interceptor aircraft]]
+ |national_origin = Qym
+ |manufacturer = [[Ramiq]]
+ |builder = [[Ramiq]]
+ |first_flight = {{abbr|2376|1973.81 (Earth Year Equivalent)}}
+ |introduction = {{abbr|2383|1979.62 (Earth Year Equivalent)}}
+ |retired = 
+ |status = In service
+ |number_built = NUM
+ |primary_user = [[Royal Air Force of Qym]]<!-- List only ONE (1) user; for military aircraft, this is a nation or a service arm. Please DON'T add those tiny flags, as they limit horizontal space. -->
+ |more_users = 
+ |produced = {{abbr|2376|1973.81 (Earth Year Equivalent)}}–{{abbr|2401|1994.57 (Earth Year Equivalent)}}
+ |variants = 
+ |developed_into = 
+}}
+
+The '''Ramiq R-22''' is a [[Qym]]ish fourth-generation twin-engine [[wikipedia:Interceptor aircraft|interceptor aircraft]] manufactured by [[Ramiq]]. 
+
+[[Category:Ramiq]][[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

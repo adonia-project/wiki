@@ -1,0 +1,141 @@
+{{Short description|Rapid transit line in Okami, Okaiken}}
+{{Infobox Public transit
+| name = Hitotsubashi Line
+| image = Okami Metro Hitotsubashi line symbol.svg
+| imagesize = 100px
+| image2 = Okami-Metro Series9000-01.jpg
+| imagesize2 = 300px
+| caption2 = An [[Okami Metro 9000 series|9000 series]] train with red livery at [[Umeda-Kita Station]].
+| native_name = 一橋線
+| owner = [[Okami Metro]]
+| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
+| transit_type = [[Rapid transit|Metro]]
+| lines = Line 12
+| stations = 7
+| ridership = 490,000 (FY2025)
+| began_operation = {{start date and age|2006|12|24|df=y}}
+| system_length = {{cvt|8.9|km|mi|abbr=on}}
+| track_gauge = {{RailGauge|sg|allk=on}}
+| el = {{1500 V DC|conductor=overhead}}
+| map = [[File:Okami Metro Hitotsubashi Line Map.png|300px]]
+| map_state = collapsed
+}}
+
+The {{nihongo|'''Hitotsubashi Line'''|一橋線|Hitotsubashi-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It serves as a strategic northern feeder line, connecting the dense residential districts of [[Higashiyodogawa Ward, Okami|Higashiyodogawa]] with the major northern terminal of [[Umeda-Kita Station|Umeda-Kita]]. On system maps, the line is color-coded crimson red ({{Okami Metro color|H}}), and its stations use the prefix "H".
+
+Designated as Line 12, the Hitotsubashi Line is the final line in the Okami Metro network. Unlike the standard third-rail subway lines, it utilizes overhead catenary electrification (1,500 V DC). This design choice was made to facilitate seamless reciprocal through-service with the [[Akitetsu|Akitetsu (Akita Railway)]], allowing commuters from the northern prefecture of [[Akita Prefecture|Akita]] to travel directly into Okami's northern business district without transferring.
+
+
+
+==History==
+Originally planned as the "Kita Extension" in the 1990s, the project was rebranded as the Hitotsubashi Line (named after the historic bridge located near the northern terminus) to distinguish it from the wider "Kita" district.
+
+Construction began in 2000 to alleviate the heavy congestion on the parallel [[Miyoshi Line]]. The entire 8.9&nbsp;km route opened on December 24, 2006. It immediately became a vital artery for the northern suburbs, providing a direct link to the [[Akitetsu]] network which serves the inter-regional commuters from the north.
+
+==Station List==
+* All stations are located in [[Okami|Okami City (大紙市)]].
+* '''L''': Local (普通) - Stops at all stations.
+* '''RE''': Rapid Express (快速急行) - Through-service from Akitetsu (stops at ●, passes ｜).
+
+{| class="wikitable" style="text-align:center; font-size:95%;"
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | No.
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Station Name
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Japanese
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Distance (km)
+! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Stops
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Transfers
+! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Location
+|-
+! style="border-bottom:3px solid #{{Okami Metro color|H}};" | Between
+! style="border-bottom:3px solid #{{Okami Metro color|H}};" | Total
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|H}};" | L
+! style="width:20px; border-bottom:3px solid #{{Okami Metro color|H}};" | RE
+|-
+| {{OMSN|H|01}}
+| [[Umeda-Kita Station|Umeda-Kita]]
+| 梅田北
+| -
+| 0.0
+| ●
+| ●
+| {{rint|okami|M}} [[Miyoshi Line]] (M10)<br>{{rint|okami|private}} '''[[Yonekyu Corporation]]''' (via Umeda)<br>{{rint|okami|private}} '''[[Akitetsu|Akitetsu (Akita Railway)]]''' (Terminal)
+| rowspan="2" | [[Kita Ward, Okami|Kita]]
+|-
+| {{OMSN|H|02}}
+| [[Tenjinbashisuji-Rokuchome Station|Tenjinbashisuji-Rokuchome]]
+| 天神橋筋六丁目
+| 1.5
+| 1.5
+| ●
+| ●
+| {{rint|okami|S}} [[Shitayanagi Line]] (S02)
+|-
+| {{OMSN|H|03}}
+| [[Miyakojima-Hondori Station|Miyakojima-Hondori]]
+| 都島本通
+| 1.4
+| 2.9
+| ●
+| ｜
+| {{rint|okami|N}} [[Nagata Line]] (N06)
+| [[Miyakojima Ward, Okami|Miyakojima]]
+|-
+| {{OMSN|H|04}}
+| [[Sekime-Takadono Station|Sekime-Takadono]]
+| 関目高殿
+| 1.6
+| 4.5
+| ●
+| ｜
+| {{rint|okami|I}} [[Imaichi Line]] (I07)<br>{{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Main Line (via Sekime)
+| [[Joto Ward, Okami|Joto]]
+|-
+| {{OMSN|H|05}}
+| [[Sembayashi-Omiya Station|Sembayashi-Omiya]]
+| 千林大宮
+| 1.2
+| 5.7
+| ●
+| ｜
+|
+| [[Asahi Ward, Okami|Asahi]]
+|-
+| {{OMSN|H|06}}
+| [[Kamisato-Dori Station|Kamisato-Dori]]
+| 上里通
+| 1.4
+| 7.1
+| ●
+| ●
+| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z06)
+| rowspan="2" | [[Higashiyodogawa Ward, Okami|Higashiyodogawa]]
+|-
+| {{OMSN|H|07}}
+| [[Hitotsubashi-Aikawa Station|Hitotsubashi-Aikawa]]
+| 一橋相川
+| 1.8
+| 8.9
+| ●
+| ●
+| {{rint|okami|private}} '''[[Akitetsu|Akitetsu (Akita Railway)]]''' (Through Service to Akita-Prefecture)
+|}
+
+==Rolling Stock==
+The Hitotsubashi Line requires trains capable of handling overhead electrification (1,500 V DC) to match the Akitetsu network.
+
+* [[Okami Metro 9000 series|9000 series]] (6-car sets):
+*: The exclusive Okami Metro fleet for Line 12. Introduced in 2006, these trains feature a stainless steel body with a **crimson red** band. They are equipped with heavy-duty snow plows and enhanced climate control to handle the colder winters when running through-services into the northern mountains of Akita Prefecture.
+* [[Akitetsu]] 3000 series (6-car sets):
+*: Private railway stock owned by Akitetsu. These trains are famous for their "Classic Maroon" livery, plush velvet seating, and wood-grain interiors, offering a premium commuting experience.
+
+==See also==
+* [[Okami Metro]]
+* [[List of Okami Metro stations]]
+* [[Transport in Okaiken]]
+
+{{Metro systems in Okaiken}}
+
+[[Category:Rapid transit lines in Okaiken]]
+[[Category:Okami Metro lines]]
+[[Category:Okaiken topics]]
+[[Category:Okaiken]]

@@ -1,0 +1,71 @@
+{{Basis}}
+{{Under construction |placedby=MyNameJuls |section= |nosection= |nocat= |notready= |comment=FOR PROJECT BASIS ~ NAME SUBJECT TO CHANGE |category= |altimage= |notify= }}
+{{Infobox continent
+|title               = Visala
+|image               = [[File:Location Visala.svg|220px]]
+|area                = {{convert|1|km2|sqmi|abbr=on}}
+|population          = 1 ({{abbr|2440|2027 (Earth Year Equivalent)}}, [[List of continents by population|?th]])
+|density             = {{convert|1|/km2|/sqmi|abbr=on}}
+|demonym             = [[Ethnic groups in Visala|Visalian]]
+|countries           = TBD countries
+|list_countries      = List of Visalian countries
+|dependencies        = [[List of Visalian countries#Dependent territories|TBD dependencies]]
+|languages           = [[Languages of Visala|TBD languages]]
+|time                = [[TBD]]
+|internet            = [[.visala]]
+|cities              = [[List of the largest cities in Visala|List of urban areas]]
+}}
+
+'''Visala''' is a continent on [[Basis]]. 
+
+==Etymology==
+
+==History==
+{{Main|History of Visala}}
+
+===Chronology===
+*Stone Age (before {{abbr|8000 BCE|6646 BCE (Earth Year Equivalent)}}): Early humans arrive (or were already there?)
+*Neolitic (c. {{abbr|8000 BCE|6646 BCE (Earth Year Equivalent)}} – {{abbr|5000 BCE|4153 BCE (Earth Year Equivalent)}}): Early farming societies emerge in [[CRADLE OF CIV]]. 
+*Copper Age (c. {{abbr|5000 BCE|4153 BCE (Earth Year Equivalent)}} – {{abbr|2400 BCE|1994 BCE (Earth Year Equivalent)}}): TBD
+*Bronze Age (c. {{abbr|2400 BCE|1994 BCE (Earth Year Equivalent)}} – {{abbr|1000 BCE|831 BCE (Earth Year Equivalent)}}): TBD
+*Iron Age (c. {{abbr|1450 BCE|1205 BCE (Earth Year Equivalent)}} – {{abbr|350 BCE|291 BCE (Earth Year Equivalent)}}): TBD
+*Antiquity (c. {{abbr|350 BCE|291 BCE (Earth Year Equivalent)}} – {{abbr|900 BCE|748 BCE (Earth Year Equivalent)}}): TBD
+*Middle Ages (c. {{abbr|900 BCE|748 BCE (Earth Year Equivalent)}} – {{abbr|1800|1495 (Earth Year Equivalent)}}): TBD
+*Post-medieval period (c. {{abbr|1800|1495 (Earth Year Equivalent)}} – c. {{abbr|2200|1828 (Earth Year Equivalent)}}): TBD
+*Industrial/Modern (c. {{abbr|2200|1828 (Earth Year Equivalent)}} – Present): [[Genonian Revolution]] followed by the [[Transhumanist Revolution]] in [[Geno]].
+
+==Geography==
+===Main regions===
+
+===Climate===
+
+==Politics==
+
+==List of states and territories==
+{| class="sortable wikitable"
+! style="line-height:95%; width:2em" class="unsortable" scope="col" | Symbol
+! style="line-height:95%; width:2em" class="unsortable" scope="col" | Flag
+! Name
+! [[List of countries by population|Population]]<br />({{abbr|2440|2027 (Earth Year Equivalent)}})
+! [[List of countries and dependencies by area|Area]]<br />(km<sup>2</sup>)
+! Capital
+|-
+| style="text-align:center;"| [[File:Coat of arms of Geno.png|20px|link=Coat of arms of Geno|alt=Emblem]]
+| style="text-align:center;"| {{Linkflag|Geno|link=Flag of Geno}}
+| [[Geno]]
+| style="text-align:right;"| 83,208,737
+| style="text-align:right;"| 1
+| [[Utopia]]
+|-
+|}
+
+==Economy==
+==Demographics==
+===Languages===
+===Religions===
+Predominantly [[Ānism]] (?)
+
+==Culture==
+==See also==
+
+[[Category:Visala]][[Category:Basis]][[Category:MyNameJuls]]

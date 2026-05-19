@@ -1,0 +1,25 @@
+{{Basis}}
+{{Infobox aircraft
+ |name = Ramiq R-20
+ |image = RAFQ Ramiq R-20.jpg
+ |caption = A [[Royal Air Force of Qym|RAFQ]] R-20
+ |alt = 
+ |type = [[wikipedia:Multirole combat aircraft|Multirole fighter]],<br>[[wikipedia:air superiority fighter|air superiority fighter]]
+ |national_origin = Qym
+ |manufacturer = [[Ramiq]]
+ |builder = [[Ramiq]]
+ |first_flight = {{abbr|2379|1976 (Earth Year Equivalent)}}
+ |introduction = {{abbr|2386|1982 (Earth Year Equivalent)}}
+ |retired = 
+ |status = In service
+ |number_built = NUM
+ |primary_user = [[Royal Air Force of Qym]]<!-- List only ONE (1) user; for military aircraft, this is a nation or a service arm. Please DON'T add those tiny flags, as they limit horizontal space. -->
+ |more_users = 
+ |produced = {{abbr|2383|1980 (Earth Year Equivalent)}}–{{abbr|2432|2020 (Earth Year Equivalent)}}
+ |variants = 
+ |developed_into = 
+}}
+
+The '''Ramiq R-20''' is a [[Qym]]ish fourth-generation twin-engine fighter aircraft manufactured by [[Ramiq]]. 
+
+[[Category:Ramiq]][[Category:Qym]][[Category:MyNameJuls]][[Category:Basis]]

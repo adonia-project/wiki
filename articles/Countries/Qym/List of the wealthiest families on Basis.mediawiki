@@ -1,0 +1,54 @@
+{{Basis}}
+
+This is a '''list of the wealthiest families''' on [[Basis]]. Only families exceeding $10 billion in combined wealth are included. 
+
+=={{abbr|2440|2027 (Earth Year Equivalent)}} list==
+{{legend|#DCD0FF|size=50%|''Note: The list includes royal families, highlighted in light purple.''}}
+
+{| class="wikitable sortable"
+|-
+! Family name
+! Notable members
+! data-sort-type=number |Combined wealth<br />in INT$ [[wikipedia:1,000,000,000|billions]]<br />({{abbr|2440|2027 (Earth Year Equivalent)}} estimate)
+! Source of<br />wealth
+! Country or region
+|-
+| style="background:#DCD0FF;" |[[House of Zhifol]]
+|[[Bacha XVII of Qym|Bacha XVII]], [[Bacha XVIII of Qym|Bacha XVIII]]
+| 220.15
+|Real estate, investments, diversified
+| {{flag|Qym}}
+|-
+|[[Cajech family|Cajech]]
+|[[Somar Cajech|Somar]], [[Amabyl Cajech|Amabyl]], [[Tuval Cajech|Tuval]]
+| 83.59
+|Automotive ([[Cajech]])
+| {{flag|Qym}}
+|-
+|[[Marnyj family|Marnyj]]
+|[[Dabul Marnyj|Dabul]]
+| 20.59
+|Automotive ([[Marnyj]])
+| {{flag|Qym}}
+|-
+|[[Tarez family|Tarez]]
+|[[Padec Tarez|Padec]]
+| 19.31
+|Automotive ([[Tarez]])
+| {{flag|Qym}}
+|-
+|[[Vankis family|Vankis]]
+|[[Ryna Vankis|Ryna]]
+| 14.83
+|Electronics ([[Vankis Technology]])
+| {{flag|Qym}}
+|-
+|[[Zhotiq family|Zhotiq]]
+|[[Javish Zhotiq|Javish]]
+| 12.14
+|Chemicals ([[Zempof]])
+| {{flag|Qym}}
+|-
+|}
+
+[[Category:MyNameJuls]][[Category:Basis]]

@@ -1,0 +1,32 @@
+{{Infobox station|name=Macaio|native_name=|native_name_lang=|symbol_location=|symbol=|style=Adif|type=|image=[[File:Macaio Station.jpg|290px]]|alt=|caption=Aerial view|address=|borough=[[Pyahu'akã]], [[Macaio]]|country=Bayara|map_type=|map_alt=<!-- Alternative map file name (changes background map, border coordinates are determined based on the map name); this is only recommended for use in templates. -->|map_overlay=<!-- Overlay image file name, to be placed on top of the main map. Should have the same border coordinates. -->|map_caption=|owned=[[File:Transoccidental logo.svg|32px]] [[Baliscan Railways Group|Transoccidental]]|operator={{Plainlist|
+*[[Baliscan Railways Group|Transoccidental]]
+*[[Macaio Metro]]
+}}|line=<div>
+* [[Macaio–Uxiu high-speed rail line|Macaio-Uxiu HSR]]
+* [[Daramazán–Macaio high-speed rail line|Daramazán–Macaio HSR]]
+* [[Macaio–Xàbia high-speed rail line|Macaio–Xàbia HSR]]
+* [[Conector Solana]] 
+* [[West Atlántida Railway|Atlántida Oeste]] 
+</div>|distance=|platforms=9 [[island platform]]s (5 in the upper floor and 4 in the ground floor)|tracks=12 (all {{W|standard gauge}})|levels=2|train_operators=|connections=[[File:Macaio Metro Logo.svg|32px|link=Macaio Metro]] [[Macaio Centro Station (Macaio Metro)|Macaio Centro]] and 
+[[File:Communi logo.png|32px|link=ComMuni]] [[MuniMacaio|Centro Bus Terminal]]|structure=Aboveground|parking=Yes, parking for loading/unloading and services vehicles only|bicycle=|architect=|status=Active|code=MAC|zone=|website=|opened={{Start date|1869|8|18|df=y}}|closed=|pass_year=|pass_rank=|services={{s-rail-start}}
+{{s-rail|title=AVB}}
+{{rail line|col=ed2b1a|route=''[[Macaio–Uxiu high-speed rail line|Baixas]]''|previous=''Terminus'' |next=''[[Orquívoro station|Orquívoro]]<br>toward<br>[[Syracuse railway station|Syracuse]]''
+}}
+{{rail line|col=163a12|route=''[[Daramazán–Macaio high-speed rail line|Miramar]]''|previous=''[[San Chorche Station|San Chorche]]<br>toward<br>[[Porciúncula Station|Porciúncula]]'' |next=''Terminus''
+}}
+{{rail line|col=ef873a|route=''[[Macaio–Xàbia high-speed rail line|Pantanal]]''|previous=''Terminus'' |next=''[[Syracuse station|Syracuse]]<br>toward<br>[[Lamasana railway station| Lamasana]]''
+}}|accessible=Yes, (incl. wheelchair ramps, [[Baliscano]] braille signage, elevators)|pass_system=[[Naviligo card|Naviligo]]}}
+
+'''Macaio Station''' ({{Langx|an|Estación de Macau}}) is a major [[W:Train station|railway station]] in the [[Pyahu'akã]] barrio of [[Macaio]], [[Carpinchera]], serving the Baliscan intercity rail network, with the [[Conector Solana|''Conector Solana'']] and [[West Atlántida Railway|''Atlántida Oeste'']] railways, along with the [[Macaio–Uxiu high-speed rail line|Baixas]], [[Macaio–Xàbia high-speed rail line|Pantanal]] and [[Daramazán–Macaio high-speed rail line|Miramar]] [[AVB|high-speed rail]] lines. It is a major public transport hub, with dedicated stations on [[Macaio Metro]] lines [[B Line (Macaio Metro)|B]], [[L Line (Macaio Metro)|L]] and [[S Line (Macaio Metro)|S]], as well as a [[W:Bus station|bus station]].  
+
+== Lines ==
+
+== Station layout ==
+
+=== Macaio Metro ===
+
+{{Balisca articles}}
+[[Category:Balisca]]
+[[Category:Macaio]]
+[[Category:Macaio Metro]]
+[[Category:AVB]]
