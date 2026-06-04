@@ -1,0 +1,58 @@
+{{Infobox
+| bodyclass = vcard
+| bodystyle = {{{bodystyle|}}}
+
+| titleclass = fn org
+| title = {{if empty|{{{clubname|}}}|{{PAGENAMEBASE}}}}
+
+| subheader = {{#if:{{{fullname|}}}|<span class="nickname">{{{fullname}}}</span>}}
+
+| imageclass = logo
+| imagestyle = {{{image_style|}}}
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|}}} |sizedefault=frameless |upright={{{upright|1}}} |alt={{{alt|}}} }}
+| caption = {{{caption|}}}
+
+| labelstyle = padding-right:0.6em;
+| datastyle =
+
+| label1  = Full name
+|  data1  = {{{fullname|}}}
+
+| label2  = Nickname(s)
+|  data2  = {{{nickname|}}}
+
+| label3  = Founded
+|  data3  = {{{founded|}}}
+
+| label4  = Dissolved
+|  data4  = {{{dissolved|}}}
+
+| label5  = Ground
+|  data5  = {{{ground|{{{stadium|}}}}}}
+
+| label6  = Capacity
+|  data6  = {{{capacity|}}}
+
+| label7  = Coordinates
+|  data7  = {{{coordinates|}}}
+
+| label8  = {{{owntitle|Owner}}}
+|  data8  = {{{owner|}}}
+
+| label9  = {{{chrtitle|Chairman}}}
+|  data9  = {{{chairman|}}}
+
+| label10 = {{{mgrtitle|Manager}}}
+|  data10 = {{{manager|}}}
+
+| label11 = League
+|  data11 = {{{league|}}}
+
+| label12 = {{{season|}}}
+|  data12 = {{{position|}}}
+
+| label13 = Website
+|  data13 = {{{website|}}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,49 @@
+{{Infobox
+| bodyclass = vcard
+| bodystyle = {{{bodystyle|}}}
+
+| titleclass = fn org
+| title = {{if empty|{{{name|}}}|{{PAGENAMEBASE}}}}
+
+| subheader = {{#if:{{{native_name|}}}|<div {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}
+
+| imageclass = photo
+| imagestyle = {{{image_style|}}}
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|}}} |sizedefault=frameless |upright={{{upright|1}}} |alt={{{image_alt|}}} }}
+| caption = {{{caption|}}}
+
+| labelstyle = padding-right:0.6em;
+| datastyle =
+
+| label1  = Literal meaning
+|  data1  = {{{meaning|}}}
+
+| label2  = Context
+|  data2  = {{{context|}}}
+
+| label3  = Field
+|  data3  = {{{field|}}}
+
+| label4  = Coined
+|  data4  = {{{coined|}}}
+
+| label5  = Coiner
+|  data5  = {{{coiner|}}}
+
+| label6  = Key figures
+|  data6  = {{{key_figures|}}}
+
+| label7  = Related concepts
+|  data7  = {{{related|}}}
+
+| label8  = Affected groups
+|  data8  = {{{affected|}}}
+
+| label9  = Preceded by
+|  data9  = {{{preceded_by|}}}
+
+| label10 = See also
+|  data10 = {{{see_also|}}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>

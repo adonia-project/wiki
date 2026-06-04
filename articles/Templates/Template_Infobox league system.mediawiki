@@ -1,0 +1,59 @@
+{{Infobox
+| bodyclass = vcard
+| bodystyle = {{{bodystyle|}}}
+
+| titleclass = fn org
+| title = {{if empty|{{{title|}}}|{{PAGENAMEBASE}}}}
+
+| imageclass = logo
+| imagestyle = {{{image_style|}}}
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|}}} |sizedefault=frameless |upright={{{upright|1}}} |alt={{{alt|}}} }}
+| caption = {{{caption|}}}
+
+| labelstyle = padding-right:0.6em;
+| datastyle =
+
+| label1  = Country
+|  data1  = {{{country|}}}
+
+| label2  = Country
+|  data2  = {{{country2|}}}
+
+| label3  = Sport
+|  data3  = {{{sport|}}}
+
+| label4  = Sport
+|  data4  = {{{sport2|}}}
+
+| label5  = Promotion / Relegation
+|  data5  = {{{pr|}}}
+
+| label6  = Federation
+|  data6  = {{{federation|}}}
+
+| label7  = Confederation
+|  data7  = {{{confederation|}}}
+
+| label8  = Top division
+|  data8  = {{{top|}}}
+
+| label9  = Second division
+|  data9  = {{{second|}}}
+
+| label10 = Domestic cup
+|  data10 = {{{cup|}}}
+
+| label11 = Federations
+|  data11 = {{{federations|}}}
+
+| label12 = Top divisions
+|  data12 = {{{tops|}}}
+
+| label13 = Second divisions
+|  data13 = {{{seconds|}}}
+
+| label14 = Domestic cups
+|  data14 = {{{cups|}}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>

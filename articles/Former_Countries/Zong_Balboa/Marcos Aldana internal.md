@@ -72,7 +72,7 @@ Black Balboan novelist (c. 1898–1959). Author of The Crossing (1931), The Exur
 - The 1955 reprint of The Exurb — publisher, reception
 
 ## Consistency Notes
-- Uses "Zong" (not "Zongese") for adjective/demonym per user correction
+- Uses "Zong" (not "Zong") for adjective/demonym per user correction
 - Uses "Volisan" (not "Volisanian") per user correction
 - Cross-references: The Crossing article, Zong Balboa article, Kò͘ Chheng-hông, New Horizon, Seng-kì-pò, El Faro del Istmo, Portnou Press, Lîm Tek-kian
 - Timeline: Born c. 1898 → migrated 1914 → typesetter 1917+ → first story 1922 → The Crossing 1931 → departed 1935 → Huwei 1935–1959 → died 1959

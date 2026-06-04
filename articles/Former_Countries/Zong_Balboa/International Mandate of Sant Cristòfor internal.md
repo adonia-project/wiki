@@ -103,7 +103,7 @@ Adonian Community mandate (1950–1960). Northern portion of former Zong Balboa 
 
 ### AC Takeover
 - Negotiations Jan–Aug 1950 between Zong and AC delegation in Huwei
-- Zong reluctant; argued territory acquired by treaty (Treaty of Sant Lázaro)
+- Zong reluctant; argued territory acquired by treaty (Treaty of Sant Llàtzer)
 - Compromise: Zong renounced claim in exchange for AC recognition of Zong property rights + civil rights protections for remaining Zong population
 - Formal transfer 1 September 1950; last governor Ng Chiau-li signed instrument of dissolution
 - Ceremony not attended by Sant Cristòfor population
@@ -179,7 +179,7 @@ Balboa accepted under diplomatic pressure; regarded reparations, AC enforcement,
 - Treaty of Balboa Harbour — full article? (only mentioned here)
 
 ## Consistency Notes
-- Uses "Zong" (not "Zongese") for adjective/demonym
+- Uses "Zong" (not "Zong") for adjective/demonym
 - Uses "Volisan" (not "Volisanian")
 - Uses "Huwei" (not "Zhongyuan") for Zong's modern capital
 - Area: 4,859 km² (user-specified)

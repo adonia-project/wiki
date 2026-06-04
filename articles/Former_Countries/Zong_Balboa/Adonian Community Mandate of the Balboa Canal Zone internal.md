@@ -1,7 +1,7 @@
 # Adonian Community Mandate of the Balboa Canal Zone — Internal Notes
 
 ## Overview
-AC mandate (1950–1973). 30km corridor around the Balboa Canal + all territory south of the canal, including Portnou and Sant Lázaro. Area: 5,914.223 km². Directly administered by AC through appointed High Commissioner. Primary purpose: reconstruct and operate the Balboa Canal. Returned to Balboa 1973 (Treaty of Areza), except Areza which remains international.
+AC mandate (1950–1973). 30km corridor around the Balboa Canal + all territory south of the canal, including Portnou and Sant Llàtzer. Area: 5,914.223 km². Directly administered by AC through appointed High Commissioner. Primary purpose: reconstruct and operate the Balboa Canal. Returned to Balboa 1973 (Treaty of Areza), except Areza which remains international.
 
 ## Geography
 - **30km corridor** around the canal (both sides)
@@ -38,8 +38,8 @@ AC mandate (1950–1973). 30km corridor around the Balboa Canal + all territory 
 ## Population & Economy
 - 1950: ~280,000 → 1960: ~420,000
 - **Portnou**: western terminus of canal, largest urban centre; 90,000 (1950) → 150,000 (1960)
-- **Sant Lázaro**: eastern terminus of canal, eastern entrance; second town; primary civilian admin centre during early reconstruction; less heavily damaged than Portnou
-- Termination ceremony held in Sant Lázaro (not Portnou)
+- **Sant Llàtzer**: eastern terminus of canal, eastern entrance; second town; primary civilian admin centre during early reconstruction; less heavily damaged than Portnou
+- Termination ceremony held in Sant Llàtzer (not Portnou)
 - Ethnic composition: **more white/black, less mixed** than Sant Cristòfor; sharp racial divide; white Balboan (Volisan colonial descendants) significant in Portnou commercial/professional quarters; Black Balboan majority in agriculture south of canal + working-class Portnou; mixed Balboan proportionally smaller (canal zone less cosmopolitan than city); Sinchewese small (harbour workforce only); Zong negligible (almost all departed)
 - South of canal: predominantly Black Balboan agricultural communities
 - Agricultural transition: same as Sant Cristòfor — Zong owners departed, Black Balboan workers/supervisors took over; mandate didn't intervene
@@ -80,12 +80,12 @@ AC mandate (1950–1973). 30km corridor around the Balboa Canal + all territory 
 - Canal zone demographics — more detailed breakdown?
 
 ## Consistency Notes
-- Uses "Zong" (not "Zongese") for adjective/demonym
+- Uses "Zong" (not "Zong") for adjective/demonym
 - Uses "Volisan" (not "Volisanian")
 - Uses "Huwei" (not "Zhongyuan") for Zong's modern capital
 - Canal zone = 30km corridor + south of canal (including Portnou)
 - References Sant Cristòfor mandate article: governance contrast, civilian representation, fiscal dependency
-- References Zong Balboa article: pre-war canal ownership, Treaty of Sant Lázaro
+- References Zong Balboa article: pre-war canal ownership, Treaty of Sant Llàtzer
 - References Twelve Guarantees, Treaty of Balboa Harbour, Treaty of Areza, ICPF, Areza, Lake Alvarado
 - AC Assembly (not AC Parliament)
 - General War Reparations Fund (Treaty of Klow) as funding source

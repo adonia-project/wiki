@@ -2,7 +2,7 @@
 
 ## Article Overview
 - **File**: `Second War of the Isthmus.mediawiki`
-- **Subject**: Zongese–Sinchewese–Louyangese victory over Volisanian–Balboan–Burawi coalition for control of the Balboa isthmus
+- **Subject**: Zongese–Sinchewese–Louyangese victory over Volisanian–Balboan–Burawi coalition for control of the Isthmus of Balboa
 - **Period**: 1893–1899
 - **Scope**: Full background (Balboa's post-slavery transition, Balboa Canal, Zongosphere immigration, Illypnian anxieties), war course, Treaty of San Lázaro, and aftermath connecting to Great Adonian War
 

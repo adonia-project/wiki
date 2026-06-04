@@ -1,23 +1,23 @@
 # Balboa — Internal Notes
 
 ## Overview
-Main country article for the Republic of Balboa. Upper-middle income presidential republic on the Balboa isthmus in Lurandia. AC member state. Dominant-party system (BPP). Very high HDI (0.862). Population 35.234M (2026). Area 296,086 km².
+Main country article for the Republic of Balboa. Upper-middle income presidential republic on the Isthmus of Balboa in Lurandia. AC member state. Dominant-party system (BPP). Very high HDI (0.862). Population 35.234M (2026). Area 296,086 km².
 
 ## Key Facts
 - **Capital**: Sant Cristòfor (seat of National Assembly)
 - **Administrative centre**: Sant Bart (most administrative functions still there)
 - **Currency**: International Dollar (ID) — shared AC currency, adopted upon AC accession
 - **Official language**: Volisanian
-- **Recognised languages**: Balboan Creole, Hokkien, Sinchewese
+- **Recognised languages**: Balboan Creole, Zong, Sinchewese
 - **Military**: Balboan Defence Forces (BDF), ~30K active, small professional force
 - **HDI**: 0.862 (very high)
 - **Gini**: 38.2
-- **GDP PPP**: $412B / $11,693 per capita
-- **GDP nominal**: $285B / $8,089 per capita
+- **GDP PPP**: $620B / $17,600 per capita
+- **GDP nominal**: $320B / $9,100 per capita
 
 ## President
 - **Lim Hui-jin** — Fosian-descended president (invented 2026-05-17)
-- Name is Hokkien-inspired, reflecting Fosian community
+- Name is Zong-inspired, reflecting Fosian community
 - Vice President: **Adalberto Paredes** (invented 2026-05-17) — Volisanian name, white Balboan
 
 ## Provinces (5 + 2 special districts)
@@ -30,7 +30,7 @@ North to south:
 | Nurra | Novara | 70,753 | 4,500,000 |
 | Jala | Sant Bart | 65,977 | 8,500,000 |
 | Estret | Sant Cristòfor | 20,600 | 14,500,000 |
-| Migjorn | Sant Lázaro | 26,909 | 5,800,000 |
+| Migjorn | Sant Llàtzer | 26,909 | 5,800,000 |
 
 Province names and etymologies:
 - **Tramuntana** = "north wind" / northern region (Catalan)
@@ -40,7 +40,7 @@ Province names and etymologies:
 - **Migjorn** = "south/midday" (Catalan/Mallorcan)
 
 ## Indigenous People
-- **Birú** = the indigenous people of the Balboa isthmus (named by user 2026-05-17)
+- **Birú** = the indigenous people of the Isthmus of Balboa (named by user 2026-05-17)
 - **Birú Dale** = the Birú language (Adonian name; derived from Birú *dale* = speech/tongue)
 - Province names Nurra and Jala are Volisanian corruptions of Birú Dale words
 - Other Birú Dale vocabulary available for future use: *yala* (land/territory), *uggub* (water), *sahila* (village leader), *tule* (person), *mola* (shirt/clothing), *sappi* (village), *ogob* (coconut), *cayuca* (canoe)
@@ -82,21 +82,21 @@ NOTE: Province populations are estimates that need verification.
 | 2 | Sant Bart | Jala | 2,800,000 | Admin centre; interior highlands; rump state capital |
 | 3 | Novara | Nurra | 2,200,000 | Aethiopean coast; Nurra's principal city — INVENTED NAME |
 | 4 | Costabella | Jala | 1,500,000 | Aethiopean coast in Jala — INVENTED NAME |
-| 5 | Portnou | Estret | 1,100,000 | Canal corridor |
-| 6 | Sant Lázaro | Migjorn | 950,000 | Provincial capital; south of canal |
+| 5 | Portnou | Estret | 1,100,000 | Canal corridor — Kendriyan coast, canal western terminus |
+| 6 | Sant Llàtzer | Migjorn | 950,000 | Provincial capital; south of canal |
 | 7 | Portblanc | Tramuntana | 680,000 | Kendriyan coast — INVENTED NAME |
 | 8 | Campdària | Migjorn | 520,000 | INVENTED NAME |
 | 9 | Vellmar | Nurra | 410,000 | INVENTED NAME |
 | 10 | Altaneu | Jala | 350,000 | INVENTED NAME |
 
-**User-confirmed**: Sant Cristòfor = 5.2M, Sant Bart = 2.8M, Nurra coast city = 2.2M, Jala Aethiopean coast city = 1.5M, Portnou = #5, Sant Lázaro = #6
+**User-confirmed**: Sant Cristòfor = 5.2M, Sant Bart = 2.8M, Nurra coast city = 2.2M, Jala Aethiopean coast city = 1.5M, Portnou = #5, Sant Llàtzer = #6
 
 ## Economy — expanded 2026-05-17
 
 ### Macroeconomic data (2026 est.)
-- GDP (PPP): $412B; GDP per capita (PPP): $11,693
-- GDP (nominal): $180B; GDP per capita (nominal): $5,100
-- Gini: 48.2 (high inequality; racial legacy; white/Fosian earn more than Black/Birú)
+- GDP (PPP): $620B; GDP per capita (PPP): $17,600
+- GDP (nominal): $320B; GDP per capita (nominal): $9,100
+- Gini: 48.2 (high inequality; geographic concentration of wealth in Estret; Birú extreme poverty; white/mixed/Black medians clustered near national average)
 - Unemployment: 7.4% (higher among Black and Birú)
 - HDI: 0.782 (high)
 - Inflation: ~3.1% average past decade
@@ -147,15 +147,32 @@ NOTE: Province populations are estimates that need verification.
 - Areza: business + conference tourism; AC Parliament, AC Tribunal, international orgs, diplomatic missions; year-round, independent of seasonal leisure fluctuations
 
 ## Political Parties
-- **Balboan People's Party (BPP)** — centre-left; dominant party; Black + mixed coalition; historical association with dismantling racial state
-- **Democratic Alliance** — centre-right; white + Fosian commercial community support
-- **Socialist Front of Balboa** — left-wing; split from BPP over economic policy and redistribution pace
+- **Balboan People's Party (BPP)** — centre-left; single party + factions (Leftist/old guard, Social Democrat/urban younger, Centrist/big tent); declining, ~45-50 seats; lost Assembly majority 2024
+- **Democratic Alliance (DA)** — centre-right parliamentary group; Liberal Party of Balboa (conservative), Balboa Progressive Party (centrist), Maritime Workers Party (Fosian, centre-left)
+- **Socialist Front of Balboa (FSB)** — left-wing; urban; Black/mixed working class + trade unions
+- **New Socialist Party (PSN)** — left-wing; split from SF 2010s; anarchist/collectivist; rural/cooperative farming regions (Jala, Tramuntana)
+- **Balboa Kadarist Party (PKB)** — Kadarist; internationalist; Birú/indigenous community support; gained from Birú People's Party
+- **Freedom for Balboa (LpB)** — conservative/traditionalist; white Balboan; informal alliance with DA
+- **People's Revolutionary Party (PRP)** — right-wing populist; nationalist, tough-on-crime, anti-Guarantees renegotiation; informal alliance with DA
+- **Birú People's Party (PPB)** — indigenous rights; losing votes to Kadarists; older Birú voters
+- **Balboa Green Party (PVB)** — environmentalist; urban professionals, eco-tourism
+- **Tramuntana Regionalist Party (PRT)** — regionalist; Tramuntana autonomy
+
+## Government Structure
+- Unitary presidential republic, WEAKER president
+- President: 5-year term, two-round system (50%+1 or runoff), max 2 consecutive
+- VP on same ticket
+- National Assembly: 120 seats, STV, no threshold, staggered 4-year terms (half elected every 2 years)
+- Third Guarantee: minimum seats for former mandate territory within the 120
+- Constitutional Court (Guarantees/constitutional) + Supreme Court (civil/criminal/commercial)
+- AC Tribunal: final arbiter on Guarantees; can hear appeals or take direct jurisdiction
+- Voting age: 18
 
 ## Ethnic Composition (2026 est.) — expanded 2026-05-17
 - 36% Black Balboan (~12.7M) — descendants of enslaved Kaftians; concentrated in Sant Cristòfor + major cities + former plantation districts; primary BPP constituency; main beneficiaries of Guarantees/reparations
 - 26% White Balboan (~9.2M) — Volisanian settlers + Redilution/Birthing immigrants; concentrated in northern provinces (Tramuntana, northern Jala) + Sant Bart; historically dominated planter oligarchy + rump state; influence still disproportionate but formal privileges reduced by Guarantees
 - 20% Mixed Balboan (~7M) — DISTINCT IDENTITY (not just "in between"); own cultural traditions, social institutions, political organisations; distributed throughout; particular concentrations in smaller cities + provincial towns; politically heterogeneous (sometimes BPP, sometimes DA)
-- 15% Fosian Balboan (~5.3M) — Zongese, Sinchewese, other Zongosphere immigrants from Zong Balboa period; concentrated in cities (Sant Cristòfor, Portnou, Novara) + Migjorn; maintain distinct linguistic/religious/cultural traditions; Hokkien + Sinchewese recognised minority languages; historical relationship with Zong Balboa complicates position; viewed with ambivalence by some Black Balboan orgs
+- 15% Fosian Balboan (~5.3M) — Zong, Sinchewese, other Zongosphere immigrants from Zong Balboa period; concentrated in cities (Sant Cristòfor, Portnou, Novara) + Migjorn; maintain distinct linguistic/religious/cultural traditions; Zong + Sinchewese recognised minority languages; historical relationship with Zong Balboa complicates position; viewed with ambivalence by some Black Balboan orgs
 - 3% Indigenous Birú (~1.1M) — descendants of pre-colonial inhabitants; devastated by conquest/disease/forced labour; retreated to remote highlands; concentrated in rural interior of Jala + Tramuntana + northern highlands; Birú Dale language critically endangered; Guarantees provisions for indigenous protection limited in implementation; significant socioeconomic disadvantage
 
 ## Religion
@@ -169,7 +186,7 @@ Religiously pluralistic (no majority denomination):
 ## Languages
 - Volisanian: official; ~40% first language (white + mixed); majority second language
 - Balboan Creole: most widely spoken vernacular; first language of majority of Black Balboans + many mixed; not standardised; growing literary tradition; code-switching common
-- Zong language: spoken by Zongese- AND Sinchewese-descended communities; Sant Cristòfor + canal corridor + Migjorn; minority language under Guarantees; community-run schools; bilingual signage
+- Zong language: spoken by Zong- AND Sinchewese-descended communities; Sant Cristòfor + canal corridor + Migjorn; minority language under Guarantees; community-run schools; bilingual signage
 - Birú Dale: Birú ancestral language; CRITICALLY ENDANGERED; <20,000 fluent speakers (nearly all 60+); not in education/public life; calls for heritage recognition + immersion programmes unimplemented
 - Literacy: ~95%; near-universal under 40
 
@@ -181,7 +198,7 @@ Religiously pluralistic (no majority denomination):
   - **Expressway 1** (N–S): Tramuntana → Sant Bart → Sant Cristòfor → Portnou → Migjorn
   - **Expressway 2** (E–W): Portblanc → Yalabirga mountains → Novara
   - **Expressway 3** (N–S): Nurra → Novara → Costabella → Jala → Migjorn
-  - **Expressway 4** (E–W): Sant Cristòfor → Sant Lázaro (connects Expressways 1 and 3)
+  - **Expressway 4** (E–W): Sant Cristòfor → Sant Llàtzer (connects Expressways 1 and 3)
   - **Expressway 5** (N–S): Sant Cristòfor → Areza
   - **Expressway 6** (E–W): Migjorn only; southern interior provincial route
 - Quality varies: expressways + Aethiopean coast = modern; interior highlands = narrow, winding, seasonal landslides
@@ -194,14 +211,14 @@ Religiously pluralistic (no majority denomination):
   - HSR under construction: Sant Cristòfor → Sant Bart (halted 2024, budget shortfalls; completion uncertain)
 - Sant Bart: Metro de Sant Bart (3 lines); municipal bus network with BRT corridor; streetcar system
 - Novara: municipal bus network; streetcar system
-- Streetcar systems also in: Costabella, Portnou, Sant Lázaro, Portblanc, Campdària, Vellmar
+- Streetcar systems also in: Costabella, Portnou, Sant Llàtzer, Portblanc, Campdària, Vellmar
 - Sant Cristòfor also has streetcar system (in addition to metro)
 
 ### Railways
 - **Ferrocarrils de l'Istme (FI)** — state-owned national rail operator; hubs at Sant Cristòfor + Sant Bart
 - Isthmus Railway: colonial-era, rebuilt under AC mandate; parallel to canal; Sant Cristòfor → Kendriyan terminus; freight + daily passenger; operated by AC Canal Commission (not FI)
 - Jala Northern Railway: Sant Bart → Novara → northern highland towns; primarily agricultural freight; limited passenger; operated by FI
-- FI intercity services: Sant Cristòfor → Novara, Costabella, Sant Lázaro; Sant Bart → Portblanc, Tramuntana towns
+- FI intercity services: Sant Cristòfor → Novara, Costabella, Sant Llàtzer; Sant Bart → Portblanc, Tramuntana towns
 
 ### Aviation
 - Sant Cristòfor International Airport: primary gateway + Lurandia transit hub; ~18M pax/year; Aeroístmus hub
@@ -211,9 +228,9 @@ Religiously pluralistic (no majority denomination):
 - Aeroístmus = national flag carrier — INVENTED NAME
 
 ### Maritime & ports
-- Port of Sant Cristòfor: Aethiopean coast; busiest in Lurandia; container transshipment, bulk, petroleum
-- Kendriyan Port: canal western terminus; transshipment + bulk
-- Portnou: Estret coast
+- Port of Sant Cristòfor: Kendriyan coast; busiest in Lurandia; container transshipment, bulk, petroleum
+- Portnou: Kendriyan coast; canal western terminus; transshipment + bulk
+- Port of Sant Llàtzer: Aethiopian coast; canal eastern terminus
 - Portblanc: Kendriyan coast
 - Canal: ~14,000 transits/year
 

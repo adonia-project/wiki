@@ -63,7 +63,7 @@ Novel by Marcos Aldana, 1931. Black Balboan migration from Balboan interior to S
 - Enrique Vidal film adaptation — cast, production details
 
 ## Consistency Notes
-- Uses "Zong" (not "Zongese") for adjective/demonym per user correction
+- Uses "Zong" (not "Zong") for adjective/demonym per user correction
 - Uses "Volisan" (not "Volisanian") per user correction
 - References existing Zong Balboa article content: exurbs, western quarter, urban divide, Deliberative Assembly, New Horizon, Seng-kì-pò, El Faro del Istmo, olloc, Ong Hui-seng administration
 - Timeline consistent: 1912 opening, 1929 closing, published 1931, Zong translation 1934, Volisan 1936, ban 1932, revised edition 1952

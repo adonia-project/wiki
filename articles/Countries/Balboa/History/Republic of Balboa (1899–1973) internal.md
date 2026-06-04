@@ -1,7 +1,7 @@
 # Republic of Balboa (1899–1973) / Balboa Boba — Internal Notes
 
 ## Overview
-The rump Balboan state after losing Sant Cristòfor + canal zone to Zong (1899 Treaty of Sant Lázaro). Official name: Republic of Balboa. Colloquial/period name: **Balboa Boba** ("Foolish Balboa") — pejorative reflecting perception that Balboan leadership brought ruin upon itself by impressing Zong vessels. Capital: Sant Bart. Oligarchic republic under white planter elite. 1899–1973 (74 years). Ended with Treaty of Areza returning canal zone.
+The rump Balboan state after losing Sant Cristòfor + canal zone to Zong (1899 Treaty of Sant Llàtzer). Official name: Republic of Balboa. Colloquial/period name: **Balboa Boba** ("Foolish Balboa") — pejorative reflecting perception that Balboan leadership brought ruin upon itself by impressing Zong vessels. Capital: Sant Bart. Oligarchic republic under white planter elite. 1899–1973 (74 years). Ended with Treaty of Areza returning canal zone.
 
 ## Key Dynamics
 - **Economic**: Lost only viable city (Sant Cristòfor) + canal revenue → reduced to agricultural export economy (sugar, coffee, bananas) through minor ports
@@ -16,11 +16,11 @@ The rump Balboan state after losing Sant Cristòfor + canal zone to Zong (1899 T
 
 ## Presidents
 1. **Rodrigo Velásquez** (1888–1912) — installed by Sant Bart's Coup; led Balboa into Second War of the Isthmus; survived by redirecting anger outward; consolidated planter oligarchy; extended presidential term, restricted franchise, emergency powers
-2. **Arturo Mendez** (1912–1943) — planter/former constabulary officer; aligned with Volisanian fascism; Volisania re-equipped constabulary (violation of Treaty of Sant Lázaro); intensified racial repression; **1943**: Zong captured Sant Bart → Mendez fled to Volisania; constabulary assumed de facto control; **1947**: handed over to AC by Volisanian provisional government after fascist collapse; convicted of war crimes by AC Tribunal 1949; sentenced to life imprisonment
+2. **Arturo Mendez** (1912–1943) — planter/former constabulary officer; aligned with Volisanian fascism; Volisania re-equipped constabulary (violation of Treaty of Sant Llàtzer); intensified racial repression; **1943**: Zong captured Sant Bart → Mendez fled to Volisania; constabulary assumed de facto control; **1947**: handed over to AC by Volisanian provisional government after fascist collapse; convicted of war crimes by AC Tribunal 1949; sentenced to life imprisonment
 3. **Efraín Solís** (1948–1956) — moderate planter, former provincial governor; AC-organised elections 1948 (franchise extended to all literate men); attempted to balance planter demands with AC requirements; enacted harshest race codes (Internal Movement Act, Public Order Act, Labour Preservation Act)
 4. **Cecilio Ríos** (1956–1962) — Sant Bart lawyer, former minister of justice; pragmatic; negotiated Twelve Guarantees; secured ratification by appealing to moderate commercial interests; signed Treaty of Balboa Harbour (1960); **economic liberalisation programme (1956–1959)**: reduced export tariffs, permitted foreign investment in coastal ports, relaxed commercial restrictions; intended to strengthen negotiating position with AC but came too late to alter AC's position; framework later expanded by Guerrero for services-sector development; voted out 1962 by newly enfranchised Black majority
 5. **Tomás Guerrero** (1962–1968) — Black Balboan industrialist; acquired former Zong textile complex in Sant Cristòfor during mandate; elected in first post-Guarantees elections; implemented Guarantees, dismantled racial state, expanded Ríos liberalisation framework for services-sector development; did not seek re-election 1968
-6. **Darío Caballero** (1968–1973) — Black Balboan economist, former minister of finance under Guerrero; consolidation of new order; services-sector boom; negotiated Treaty of Areza (1973); oversaw canal zone return; formal reunification ceremony 1 July 1973 in Sant Lázaro
+6. **Darío Caballero** (1968–1973) — Black Balboan economist, former minister of finance under Guerrero; consolidation of new order; services-sector boom; negotiated Treaty of Areza (1973); oversaw canal zone return; formal reunification ceremony 1 July 1973 in Sant Llàtzer
 
 ## GAW Role
 - Co-belligerent with Volisania; Balboa Campaign opened war (1935)
@@ -67,7 +67,7 @@ The rump Balboan state after losing Sant Cristòfor + canal zone to Zong (1899 T
   - Violence peaked late 1960s/early 1970s; isolated incidents as late as 1973
   - By 1970: plantations broken up, constabulary reformed, Black political dominance established
 - Canal zone: returned 1973 (Treaty of Areza); less controversial than Sant Cristòfor return; Guarantees already in force 13 years
-- Formal reunification: 1 July 1973, ceremony in Sant Lázaro
+- Formal reunification: 1 July 1973, ceremony in Sant Llàtzer
 
 ## Economy Details
 - Pre-1899: Sant Cristòfor port + canal revenue = principal government income
@@ -77,7 +77,7 @@ The rump Balboan state after losing Sant Cristòfor + canal zone to Zong (1899 T
 - Currency: Balboan peso
 
 ## Consistency Notes
-- Uses "Zong" (not "Zongese") for adjective/demonym
+- Uses "Zong" (not "Zong") for adjective/demonym
 - Uses "Volisanian" for adjective/demonym; "Volisan" for the language name
 - References: Second War of the Isthmus article, Zong Balboa article, Sant Cristòfor mandate article, Canal Zone article
 - "Balboa Boba" = colloquial/period name (like "Burbur Era"); official name = Republic of Balboa

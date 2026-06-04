@@ -1,0 +1,67 @@
+{{Infobox
+| bodyclass = vcard
+| bodystyle = {{{bodystyle|}}}
+
+| titleclass = fn org
+| title = {{if empty|{{{name|}}}|{{PAGENAMEBASE}}}}
+
+| subheader = {{#if:{{{native_name|}}}|<div {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}
+
+| imageclass = photo
+| imagestyle = {{{image_style|}}}
+| image = {{#invoke:InfoboxImage|InfoboxImage |image={{{image|}}} |size={{{image_size|}}} |sizedefault=frameless |upright={{{upright|1}}} |alt={{{image_alt|}}} }}
+| caption = {{{caption|}}}
+
+| labelstyle = padding-right:0.6em;
+| datastyle =
+
+| label1  = [[Country]]
+|  data1  = {{{country|}}}
+
+| label2  = Location
+|  data2  = {{{location|{{{headquarters|}}}}}}
+
+| label3  = Active
+|  data3  = {{{active|}}}
+
+| label4  = Type
+|  data4  = {{{type|}}}
+
+| label5  = [[Political ideology|Ideology]]
+|  data5  = {{{ideology|}}}
+
+| label6  = Goals
+|  data6  = {{{goals|}}}
+
+| label7  = Methods
+|  data7  = {{{methods|}}}
+
+| label8  = Key people
+|  data8  = {{{key_people|}}}
+
+| label9  = Leader
+|  data9  = {{{leader|}}}
+
+| label10 = Spokesperson
+|  data10 = {{{spokesperson|}}}
+
+| label11 = Membership
+|  data11 = {{{membership|}}}
+
+| label12 = Affiliated
+|  data12 = {{{affiliated|}}}
+
+| label13 = Predecessor
+|  data13 = {{{predecessor|}}}
+
+| label14 = Successor
+|  data14 = {{{successor|}}}
+
+| label15 = Notable actions
+|  data15 = {{{notable|}}}
+
+| label16 = Website
+|  data16 = {{{website|}}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>

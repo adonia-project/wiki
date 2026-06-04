@@ -1,0 +1,265 @@
+{{Infobox political system
+| name                = Politics of Balboa
+| native_name         = {{lang|ca|Política de Balboa}}
+| government          = {{w|Unitary state|Unitary}} {{w|Presidential republic|presidential republic}}
+| constitution        = [[Constitution of Balboa]] (1974)
+| formation           = 1 July 1973
+| legislature         = [[National Assembly of Balboa|National Assembly]]
+| legislature_type    = {{w|Unicameralism|Unicameral}}
+| legislature_place   = [[Sant Cristòfor]]
+| title_hosag         = [[President of Balboa|President]]
+| current_hosag       = [[Lim Hui-jin]]
+| appointer_hosag     = Popular vote (two-round system)
+| cabinet             = [[Cabinet of Balboa]]
+| cabinet_appointer   = President, subject to Assembly confirmation
+| court1              = [[Constitutional Court of Balboa|Constitutional Court]]
+| court_seat1         = [[Sant Cristòfor]]
+| court2              = [[Supreme Court of Balboa|Supreme Court]]
+| court_seat2         = [[Sant Bart]]
+}}
+
+'''Politics of Balboa''' takes place within the framework of a {{w|unitary state|unitary}} {{w|presidential republic}}, established by the [[Constitution of Balboa|1974 constitution]] following the country's [[Reunification of Balboa|reunification]]. The constitution provides for a directly elected [[President of Balboa|president]] as {{w|head of state}} and {{w|head of government}}, a vice president elected on the same ticket, and a unicameral [[National Assembly of Balboa|National Assembly]]. The constitution incorporates the [[Twelve Guarantees]] as entrenched provisions that cannot be amended or repealed without the consent of the [[Adonian Community]].
+
+Balboa's political system has historically been a {{w|dominant-party system}} under the [[Balboan People's Party]] (BPP), which has held the presidency and a legislative majority for most of the period since reunification. However, the BPP's dominance has declined significantly in the 2020s, with the party losing its Assembly majority for the first time in 2024 amid competition from socialist, populist, and regional parties.
+
+== Government structure ==
+
+=== Executive ===
+
+{{main|President of Balboa}}
+
+The president is the {{w|head of state}} and {{w|head of government}} of the Republic of Balboa. The president is elected by {{w|two-round system|direct popular vote}} for a five-year term and may serve a maximum of two consecutive terms. If no candidate receives an absolute majority (50%+1) in the first round, a {{w|runoff election|runoff}} is held between the top two candidates within 21 days.
+
+The vice president is elected on the same ticket as the president and assumes the presidency in the event of vacancy. The vice president has no independent constitutional role beyond succession and such duties as the president may assign.
+
+The president appoints the [[Cabinet of Balboa|cabinet]], subject to confirmation by the National Assembly. The president may {{w|veto}} legislation, but the Assembly may override a veto by a three-fifths majority. The president is the {{w|commander-in-chief}} of the [[Balboan Defence Forces]] but may not deploy the armed forces domestically without Assembly authorisation, except in cases of direct invasion or insurrection. The president may not rule by decree; all executive actions must have a basis in statute or the constitution.
+
+The current president is [[Lim Hui-jin]], a Fosian-descended Balboan elected in the [[2025 Balboan presidential election|2025 election]].
+
+=== Legislature ===
+
+{{main|National Assembly of Balboa}}
+
+The National Assembly ({{lang|ca|Assemblea Nacional}}) is the unicameral {{w|legislature}} of the Republic of Balboa. It consists of 120 members, elected by {{w|single transferable vote}} (STV) from multi-member constituencies corresponding to the five provinces. There is no electoral threshold, allowing small parties and regional movements to win representation.
+
+The Assembly operates on a system of {{w|staggered elections}}: half of the seats (60) are contested every two years, with each member serving a four-year term. This means the entire Assembly is never replaced at once, providing continuity while ensuring regular electoral accountability. The staggered system also means that the president's political mandate and the Assembly's composition may diverge, as presidential elections (every five years) and Assembly elections (every two years) operate on different cycles.
+
+The [[Third Guarantee]] of the [[Twelve Guarantees]] requires that a minimum number of seats in the Assembly be allocated to representatives of the former mandate territory, ensuring that the Black and mixed populations of the Sant Cristòfor region have guaranteed representation regardless of provincial electoral outcomes. The minimum seat allocation is set within the overall 120-seat total.
+
+The Assembly's powers include:
+* Enacting legislation
+* Approving the national budget
+* Confirming presidential cabinet appointments
+* Overriding presidential vetoes (three-fifths majority)
+* Authorising the domestic deployment of the armed forces
+* Impeaching the president (two-thirds majority)
+* Calling [[snap elections]] with a three-fifths vote of no confidence
+
+=== Judiciary ===
+
+{{main|Judiciary of Balboa}}
+
+The Balboan judiciary is a three-tier system consisting of:
+
+* '''Courts of first instance''' — trial courts with general jurisdiction over civil, criminal, and administrative matters, organised by province
+* '''Supreme Court of Balboa''' ({{lang|ca|Tribunal Suprem}}) — the court of final appeal for all non-constitutional matters, including civil, criminal, and commercial cases
+* '''Constitutional Court of Balboa''' ({{lang|ca|Tribunal Constitucional}}) — the court with exclusive jurisdiction over constitutional questions, including the interpretation and enforcement of the [[Twelve Guarantees]]
+
+The Constitutional Court consists of nine justices appointed for non-renewable twelve-year terms. Three justices are appointed by the president, three by the National Assembly, and three by the Supreme Court from among its own members. The Constitutional Court has the power of {{w|judicial review}} and may strike down legislation or executive actions that violate the constitution, including the Guarantees.
+
+Under the [[Twelfth Guarantee]], the [[AC Tribunal]] in the [[International City of Areza]] has jurisdiction over disputes concerning the interpretation and enforcement of the Twelve Guarantees. The Balboan Constitutional Court hears Guarantees cases at first instance, but its rulings may be appealed to the AC Tribunal, which has the final authority on Guarantees matters. The AC Tribunal may also take direct jurisdiction in cases involving serious or systematic violations of the Guarantees, bypassing the domestic courts.
+
+=== Local government ===
+
+{{main|Administrative divisions of Balboa}}
+
+Balboa's administrative structure comprises four levels of government. Every citizen resides within a province, a comarca, and a municipalitat; the ciutat and districte levels exist only in certain urban areas.
+
+==== Provinces ====
+
+Balboa is divided into five provinces — [[Tramuntana Province|Tramuntana]], [[Nurra Province|Nurra]], [[Jala Province|Jala]], [[Estret Province|Estret]], and [[Migjorn Province|Migjorn]] — each with an elected provincial assembly and a directly elected governor. The governor serves as the chief executive of the province and is responsible for provincial administration, infrastructure, and the coordination of comarca-level services. Provincial assemblies are elected by STV every four years and have legislative authority over matters devolved to the provinces by the national constitution, including education, health, and provincial transport.
+
+{| class="wikitable"
+|-
+! Province !! Capital !! Area (km²) !! Population (2026 est.) !! Comarcas !! Assembly seats
+|-
+| [[Tramuntana Province|Tramuntana]] || [[Portblanc]] || 111,848 || 1,900,000 || — || 15
+|-
+| [[Nurra Province|Nurra]] || [[Novara]] || 70,753 || 4,500,000 || — || 30
+|-
+| [[Jala Province|Jala]] || [[Sant Bart]] || 65,977 || 8,500,000 || — || 57
+|-
+| [[Estret Province|Estret]] || [[Sant Cristòfor]] || 20,600 || 14,500,000 || 13 || 65
+|-
+| [[Migjorn Province|Migjorn]] || [[Sant Llàtzer]] || 26,909 || 5,800,000 || — || 39
+|}
+
+The [[International City of Areza]], within Estret Province, is a permanently neutral international territory governed under the [[Treaty of Areza]] (1973) and is not subject to Balboan sovereignty.
+
+==== Comarcas ====
+
+Each province is subdivided into [[comarca]]s, which serve as the principal intermediate level of government between the province and the municipalitat. Each comarca is headed by a directly elected commissioner ({{lang|ca|comissari}}), who serves as the chief executive and coordinates comarca-level services including regional planning, comarca roads, and the administration of comarca-wide facilities such as hospitals and secondary schools. Each comarca also has an elected comarca assembly ({{lang|ca|assemblea comarcal}}), whose members are elected by STV from population-proportional constituencies within the comarca every four years. The comarca assembly has legislative authority over comarca-level matters including the comarca budget, land use planning, and the coordination of municipal services. Assembly sizes are proportional to population, with a minimum of 9 and a maximum of 25 members.
+
+==== Municipalitats ====
+
+The municipalitat (municipality) is the basic unit of local government. Each municipalitat is headed by a directly elected mayor ({{lang|ca|alcalde}}), who serves as the chief executive. Municipalitats are responsible for local services including water, waste management, local roads, primary education, and urban planning. Municipal councils ({{lang|ca|consell municipal}}) are elected by STV every four years. Council sizes are proportional to population, with a minimum of 5 and a maximum of 21 members.
+
+==== Ciutats and districtes ====
+
+In larger urban areas, an additional layer of sub-municipal government exists. Most cities with a population over 100,000 are divided into '''districtes''' (districts), each electing a representative to the city council. The city council also includes at-large members elected by the whole city. The mayor is elected directly by the citywide electorate. Smaller cities (under approximately 100,000 population) are not divided into districtes; the mayor and an at-large municipal council are elected by the whole municipalitat.
+
+[[Sant Cristòfor]] is the only city in Balboa to operate a '''ciutat–districte''' system. The mainland municipalitat is divided into multiple ciutats, each with its own elected city council ({{lang|ca|consell de ciutat}}), and each ciutat is further subdivided into districtes, each electing a representative to its city council. This two-tier structure — unique to Sant Cristòfor — reflects the city's exceptional size and complexity. The Sant Cristòfor system also includes the [[Municipalitat de les Illes]], the separate island municipality, which is not part of the ciutat structure but operates as a distinct municipalitat within the same comarca.
+
+== Electoral system ==
+
+{{see also|Elections in Balboa}}
+
+=== Presidential elections ===
+
+Presidential elections are conducted by {{w|two-round system|direct popular vote}} using a {{w|two-round system}}. If no candidate receives an absolute majority in the first round, a runoff is held between the top two candidates. Presidential elections are held every five years, on a date fixed by the constitution. The president is elected together with the vice president on a single ticket.
+
+=== Assembly elections ===
+
+National Assembly elections use the {{w|single transferable vote}} (STV) system in multi-member constituencies corresponding to the five provinces. Each province constitutes a single constituency electing a number of members proportional to its population, with a minimum of three members per province. There is no electoral threshold, meaning that any candidate who reaches the {{w|Droop quota}} in a province can win a seat.
+
+Half of the Assembly's 120 seats are contested every two years. Members serve four-year staggered terms, with the Assembly divided into two classes — Class A and Class B — each of 60 members, elected in alternating years.
+
+The [[Third Guarantee]] establishes a minimum seat allocation for the former mandate territory (Estret Province and the Sant Cristòfor metropolitan area), ensuring that the Black and mixed populations of the region maintain guaranteed representation. The minimum allocation is set within the overall 120-seat total and is adjusted by the Constitutional Court following each census.
+
+=== Provincial and municipal elections ===
+
+Provincial governors are elected by direct popular vote using a two-round system, concurrent with provincial assembly elections every four years. Comarca commissioners are elected by direct popular vote within the comarca every four years. Mayors are elected by direct popular vote within the municipalitat every four years. Where the ciutat–districte system applies, districte representatives are elected by the residents of each districte, and at-large city council members are elected by the whole city.
+
+Provincial, comarca, and municipal elections are held concurrently every four years, separate from the national election cycle.
+
+== Political parties ==
+
+{{main|List of political parties in Balboa}}
+
+Balboa has a {{w|multi-party system}} with no electoral threshold, resulting in a diverse and fragmented party landscape. The system was historically characterised by the dominance of the [[Balboan People's Party]], but has become increasingly competitive since the 2020s.
+
+=== Major parties ===
+
+==== Balboan People's Party (BPP) ====
+
+{{main|Balboan People's Party}}
+
+The '''Balboan People's Party''' ({{lang|ca|Partit Popular Balboà}}, BPP) is a {{w|centre-left}} {{w|big tent}} party that has been the dominant force in Balboan politics since the first post-Guarantees elections in 1962. The BPP was formed as a coalition of Black and mixed Balboan political organisations during the [[International Mandate of Sant Cristòfor|AC mandate period]] and won a landslide victory in the first elections under the [[Twelve Guarantees]]. The party's dominance has been attributed to its historical association with the dismantling of the racial state, its administration of the reparations and land redistribution programmes, and the loyalty of the Black and mixed electorate.
+
+The BPP has three principal internal factions:
+
+* '''The Leftist faction''' ({{lang|ca|Facció d'Esquerra}}) — the smallest and oldest faction, representing the party's original 1970s urban left-wing base. The Leftists advocate for expanded social programmes, stronger labour protections, and more aggressive redistribution. The faction is seen as the old guard of the party and has been increasingly marginalised as younger leftists have migrated to the Socialist Front and the New Socialist Party.
+* '''The Social Democratic faction''' ({{lang|ca|Facció Socialdemòcrata}}) — a faction that emerged from internal conflicts in the 2000s, primarily supported by younger urban voters. The Social Democrats advocate for modern welfare-state policies, investment in education and healthcare, and a more pragmatic approach to economic reform. The faction has been the most vocal in calling for the BPP to address the concerns of voters outside Estret and Jala provinces.
+* '''The Centrist faction''' ({{lang|ca|Facció Centrista}}) — the largest faction, representing the party's broad-tent centre. The Centrists support the existing mixed-economy model, maintain the party's commitment to the Guarantees, and prioritise stability and institutional continuity. The faction has produced most of the BPP's recent presidents and parliamentary leaders.
+
+The BPP's vote share has declined significantly in the 2020s, as the party has been seen as stagnating and ineffective in addressing modern problems such as economic inequality, crime, poverty, and employment issues outside of Estret and Jala provinces. In the [[2024 Balboan Assembly election|2024 Assembly election]], the BPP lost its legislative majority for the first time, winning approximately 45–50 seats.
+
+==== Democratic Alliance (DA) ====
+
+{{main|Democratic Alliance (Balboa)}}
+
+The '''Democratic Alliance''' ({{lang|ca|Aliança Democràtica}}, DA) is a {{w|centre-right}} {{w|parliamentary group}} consisting of three distinct parties that maintain separate organisational structures and identities but coordinate in the National Assembly. The DA is the principal opposition to the BPP and draws its support primarily from the white and Fosian commercial communities, as well as from urban professionals and the business class.
+
+The DA's member parties are:
+
+* '''[[Liberal Party of Balboa]]''' ({{lang|ca|Partit Liberal de Balboa}}, PLB) — the largest and most conservative member of the DA, the Liberal Party advocates for free-market economic policies, reduced state intervention, and fiscal discipline. The party's base is predominantly white and concentrated in Tramuntana and northern Jala.
+* '''[[Balboa Progressive Party]]''' ({{lang|ca|Partit Progressista Balboà}}, PPB) — a {{w|centrism|centrist}} party that supports market-oriented economics with a stronger social safety net than the Liberals. The Progressives draw support from urban professionals, the middle class, and moderate voters in Estret Province.
+* '''[[Maritime Workers Party]]''' ({{lang|ca|Partit dels Treballadors Marítims}}, PTM) — a {{w|centre-left}} party representing the Fosian maritime and dockworker community, concentrated in the port districts of Sant Cristòfor and Portnou. The PTM's inclusion in the DA reflects the Fosian business community's alignment with the Alliance on economic and trade policy, despite the PTM's centre-left social positions.
+
+The DA operates as a parliamentary group rather than a merged party: member parties run separate candidates in elections, maintain separate party organisations, and may occasionally vote independently on social or cultural issues. However, they coordinate on budget votes, confidence motions, and other matters of coalition strategy.
+
+=== Left-wing parties ===
+
+==== Socialist Front of Balboa ====
+
+{{main|Socialist Front of Balboa}}
+
+The '''Socialist Front of Balboa''' ({{lang|ca|Front Socialista de Balboa}}, FSB) is a {{w|left-wing}} party that has been a persistent presence in Balboan politics since the 1980s. The Front advocates for expanded public ownership, stronger labour protections, and accelerated redistribution. The FSB's support is concentrated in the urban centres — particularly Sant Cristòfor, Sant Bart, and Novara — and it draws its votes primarily from the Black and mixed working class and from trade union members. The Front has split from the BPP on several occasions over economic policy and the pace of redistribution, and its relationship with the BPP has alternated between coalition and opposition.
+
+==== New Socialist Party ====
+
+{{main|New Socialist Party (Balboa)}}
+
+The '''New Socialist Party''' ({{lang|ca|Partit Socialista Nou}}, PSN) is a {{w|left-wing}} party that split from the Socialist Front in the 2010s. The New Socialists advocate for a more radical programme of {{w|anarchism|anarchist}} and {{w|collectivism|collectivist}} economics, including the expansion of cooperative ownership, community self-governance, and the devolution of economic decision-making to local assemblies. The party's support base is primarily rural and concentrated in the cooperative farming regions of Jala and Tramuntana, where the collectivist tradition resonates with communities that were organised into cooperatives during the land redistribution of the 1960s and 1970s.
+
+==== Balboa Kadarist Party ====
+
+{{main|Balboa Kadarist Party}}
+
+The '''Balboa Kadarist Party''' ({{lang|ca|Partit Kadarista Balboà}}, PKB) is a [[Kadarism|Kadarist]] party that advocates for the implementation of [[Kadarism|Kadarist socialist theory]] in Balboa. The party draws its support primarily from the Birú and other indigenous communities, particularly in the highland interior of Jala and Tramuntana, where Kadarism's emphasis on {{w|proletarian internationalism|internationalist solidarity}}, anti-colonialism, and support for revolutions in non-industrialised territories resonates with communities that have experienced marginalisation and dispossession. The Kadarist Party has gained votes at the expense of the [[Birú People's Party]], which it has surpassed as the principal party of the indigenous community.
+
+=== Right-wing parties ===
+
+==== Freedom for Balboa ====
+
+{{main|Freedom for Balboa}}
+
+'''Freedom for Balboa''' ({{lang|ca|Llibertat per Balboa}}, LpB) is a {{w|conservatism|conservative}} and {{w|traditionalist conservatism|traditionalist}} party that advocates for the protection of Balboan cultural traditions, the strengthening of law and order, and the rollback of what it characterises as excessive state intervention in the economy. The party draws support from conservative white Balboans, particularly in Tramuntana and rural Jala, and from voters who are disillusioned with the BPP's handling of crime and social disorder. Freedom for Balboa is informally aligned with the Democratic Alliance and will vote with the DA on some issues, but is considered too right-wing by some DA members and is not a formal member of the parliamentary group.
+
+==== People's Revolutionary Party ====
+
+{{main|People's Revolutionary Party (Balboa)}}
+
+The '''People's Revolutionary Party''' ({{lang|ca|Partit Revolucionari del Poble}}, PRP) is a {{w|right-wing populism|right-wing populist}} party that combines nationalist rhetoric with populist economic promises. The PRP campaigns on a platform of tough-on-crime policies, opposition to immigration, and the renegotiation of the Twelve Guarantees, which it characterises as an infringement on Balboan sovereignty. The party's support comes from disaffected voters across ethnic lines, particularly in the urban periphery and smaller cities where economic stagnation and crime are most acute. Like Freedom for Balboa, the PRP is informally aligned with the DA but is not a formal member of the parliamentary group.
+
+=== Other parties ===
+
+==== Birú People's Party ====
+
+{{main|Birú People's Party}}
+
+The '''Birú People's Party''' ({{lang|ca|Partit Popular Birú}}, PPB) is an {{w|indigenous rights}} party representing the Birú community. The party advocates for the recognition of Birú land rights, the preservation of the [[Birú Dale]] language, the expansion of indigenous education programmes, and greater autonomy for Birú communities in the highland interior. The Birú People's Party has lost significant support to the [[Balboa Kadarist Party]] in recent elections, as younger Birú voters have been drawn to Kadarism's internationalist and anti-colonial framework. The party retains a small but loyal base among older Birú voters and in the most remote highland communities.
+
+==== Balboa Green Party ====
+
+{{main|Balboa Green Party}}
+
+The '''Balboa Green Party''' ({{lang|ca|Partit Verd Balboà}}, PVB) is an {{w|environmentalism|environmentalist}} party that advocates for the protection of Balboa's tropical ecosystems, the expansion of national parks, the regulation of canal shipping emissions, and the transition to renewable energy. The party draws support primarily from urban professionals, younger voters, and the eco-tourism industry, particularly in Estret Province and the coastal regions. The Greens have been vocal opponents of proposals to expand the Balboa Canal and have campaigned for stronger enforcement of environmental provisions in the Twelve Guarantees.
+
+==== Tramuntana Regionalist Party ====
+
+{{main|Tramuntana Regionalist Party}}
+
+The '''Tramuntana Regionalist Party''' ({{lang|ca|Partit Regionalista de Tramuntana}}, PRT) is a {{w|regionalism (politics)|regionalist}} party advocating for greater autonomy and investment for [[Tramuntana Province]], the northernmost and most sparsely populated province. The party argues that Tramuntana has been neglected by the Estret- and Jala-centric national government and campaigns for improved infrastructure, expanded provincial fiscal autonomy, and greater local control over land use and resource management. The PRT draws support across ethnic lines in Tramuntana, where provincial identity often trumps national party allegiances.
+
+== Political history ==
+
+{{main|History of Balboa}}
+
+=== Pre-reunification ===
+
+The pre-reunification political system was characterised by the dominance of the white planter elite. The original 1854 constitution restricted the franchise to literate property-owning men, effectively excluding the Black majority. The [[Nacional Party (Balboa)|Nacional Party]] and the [[Expansió Party]] were the principal parties of the rump state, contesting elections among factions of the planter class. The [[Balboa Independence Party]], installed by the 1888 coup, governed as an authoritarian regime under [[Rodrigo Velásquez]] and his successors until the [[Great Adonian War]].
+
+=== Post-Guarantees era (1962–present) ===
+
+The first elections under the [[Twelve Guarantees]], in 1962, produced a landslide victory for the [[Balboan People's Party]], a coalition of Black and mixed Balboan political organisations. [[Tomás Guerrero]] was elected president, and the BPP moved quickly to implement the Guarantees, dismantle the racial state, and begin the reparations and land redistribution programmes. The BPP's dominance was consolidated under President [[Darío Caballero]] (1968–1973), who negotiated the [[Treaty of Areza]] and completed the country's reunification.
+
+The BPP held the presidency and a legislative majority for most of the period from 1962 to the 2020s. The party's dominance was challenged at various points — by the [[Socialist Front of Balboa]] from the left, by the [[Democratic Alliance (Balboa)|Democratic Alliance]] from the right, and by regional and ethnic parties — but the BPP's control of the reparations apparatus and its loyalty among the Black and mixed electorate proved sufficient to maintain its position.
+
+The BPP's decline began in the 2010s, as the party struggled to address rising economic inequality, crime, and unemployment outside the prosperous Estret and Jala provinces. The emergence of the [[New Socialist Party]] split the left-wing vote, while the [[Balboa Kadarist Party]] eroded the BPP's remaining support among indigenous communities. On the right, [[Freedom for Balboa]] and the [[People's Revolutionary Party]] attracted disaffected voters with populist and nationalist rhetoric. In the [[2024 Balboan Assembly election|2024 Assembly election]], the BPP lost its legislative majority for the first time, winning approximately 45–50 seats and forcing the party to govern in coalition or seek ad hoc agreements on a vote-by-vote basis.
+
+== Current political landscape ==
+
+As of 2026, the Balboan political system is in a period of transition from dominant-party to competitive multi-party politics. President [[Lim Hui-jin]], elected in 2025, is the first Fosian-descended president and the first BPP president to take office without a party majority in the Assembly. The Lim administration has been forced to negotiate with multiple parties to pass legislation, and the Assembly has become increasingly fractious.
+
+The principal political cleavages in contemporary Balboa are:
+
+* '''Race and ethnicity''' — the BPP's historic base among Black and mixed voters vs. the DA's white and Fosian commercial base vs. the Kadarist and Birú parties' indigenous support
+* '''Geography''' — the prosperous Estret-Jala corridor vs. the neglected Tramuntana, Nurra, and Migjorn provinces
+* '''Economics''' — the BPP's mixed-economy model vs. the DA's market-oriented approach vs. the socialist and Kadarist parties' calls for more radical redistribution
+* '''Sovereignty and the Guarantees''' — the PRP and Freedom for Balboa's calls for renegotiation vs. the BPP and left parties' defence of the Guarantees as essential safeguards
+* '''Crime and social order''' — the PRP and Freedom for Balboa's law-and-order platforms vs. the left parties' focus on root causes and social investment
+
+== See also ==
+
+* [[Constitution of Balboa]]
+* [[Twelve Guarantees]]
+* [[National Assembly of Balboa]]
+* [[President of Balboa]]
+* [[Elections in Balboa]]
+* [[List of political parties in Balboa]]
+* [[International City of Areza]]
+* [[Adonian Community]]
+
+[[Category:Politics of Balboa| ]]
+[[Category:Government of Balboa| ]]
