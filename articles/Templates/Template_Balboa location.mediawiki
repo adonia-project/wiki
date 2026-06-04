@@ -1,0 +1,22 @@
+<noinclude>
+This template places a location dot and optional label on the Balboa map.
+
+Usage:
+{{Balboa location
+| lat = 0.5
+| long = -82.25
+| label = City Name
+| label_position = top
+| width = 300
+}}
+</noinclude><includeonly>{{Location map
+| Balboa
+| label = {{{label|}}}
+| label_position = {{{label_position|top}}}
+| lat = {{{lat|}}}
+| long = {{{long|}}}
+| width = {{{width|300}}}
+| mark = Red pog.svg
+| marksize = 6
+| background = transparent
+}}</includeonly>
