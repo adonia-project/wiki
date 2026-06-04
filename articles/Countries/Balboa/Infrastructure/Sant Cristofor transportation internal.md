@@ -192,7 +192,7 @@ HSR services on dedicated high-speed lines:
 - Status: Busiest airport in Balboa
 - Routes: Domestic and international (Abyala, Fosia, Illypnia)
 
-### Els Aiguamolls Regional Airport
+### Sant Cristòfor Els Aiguamolls Airport
 - Location: Els Aiguamolls comarca (just north of city boundary)
 - Type: Regional airport (domestic + short-haul regional)
 - Rail connection: Commuter rail
