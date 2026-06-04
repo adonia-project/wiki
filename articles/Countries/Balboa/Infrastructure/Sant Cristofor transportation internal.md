@@ -192,6 +192,16 @@ HSR services on dedicated high-speed lines:
 - Status: Busiest airport in Balboa
 - Routes: Domestic and international (Abyala, Fosia, Illypnia)
 
+### Els Aiguamolls Regional Airport
+- Location: Els Aiguamolls comarca (just north of city boundary)
+- Type: Regional airport (domestic + short-haul regional)
+- Rail connection: Commuter rail
+- Role: Relieves Sant Cristòfor International for intra-Balboan and regional flights
+
+### General aviation airfields
+- **Aeròdrom de Sant Llorenç** — flat industrial south, serves private/charter/training
+- **Aeròdrom de l'Estació** — Ciutat de l'Estació, on part of the former airport site retained for general aviation when the main airport relocated to Sant Martí in 1985
+
 ### Former airport
 - Ciutat de l'Estació airport (1954–2003), redesignated Areza International Airport until closure
 
