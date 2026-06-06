@@ -11,7 +11,7 @@
 - **Elevation**: 9m / 28ft
 - **Runways**: 2 (09/27: 3,200m, 15/33: 2,600m)
 - **Terminals**: 4 (A domestic, B Abyala/Lurandia, C Kaftia/Illypnia/Fosia, D Areza)
-- **Hubs**: Balboa Airlines (flag), RapidAir (LCC)
+- **Hubs**: Aeroístmus (flag), RapidAir (LCC)
 - **Owner/operator**: Balboa Airports Authority
 
 ## Terminal History
