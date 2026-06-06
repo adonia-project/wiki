@@ -125,9 +125,28 @@ Sant Cristòfor International Airport is a major cargo hub, reflecting the city'
 
 == Airlines and destinations ==
 
-=== Hub operations ===
+=== SCI-coded services (Terminals A, B, C) ===
 
-[[Aeroístmus]], the national flag carrier, maintains its primary hub at the airport, operating domestic and international routes from Terminals A, B, and C. [[RapidAir (Balboa)|RapidAir]], a low-cost carrier, operates domestic and short-haul international routes primarily from Terminal A.
+{| class="wikitable sortable"
+|-
+! Airline !! Destinations !! Terminal
+|-
+| [[Aeroístmus]] || Domestic and international routes (hub) || A, B, C
+|-
+| [[RapidAir (Balboa)|RapidAir]] || Domestic and short-haul international routes || A
+|-
+| [[Okaiken Air]] || [[Okami-Tobu International Airport|Okami-Tobu]] || C
+|-
+| [[Baliscana]] || [[Castejón Airport|Castejón]], [[Solana-Macaio Airport|Macaio]] || B
+|-
+| [[Dawati]] || [[Kankadadka International Airport|Kankadadka]], [[Iskhal International Airport|Iskhal]] || B
+|-
+| [[Volisanian Airlines]] || [[Ampuria]], [[Antibole]] || C
+|-
+| [[Zong Airways]] || [[Huwei]] || C
+|-
+| [[Central Airlines]] || [[Brukelyn]] || C
+|}
 
 === ARZ-coded services ===
 
