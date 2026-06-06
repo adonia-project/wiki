@@ -26,6 +26,9 @@
 | r2-number    = 15/33
 | r2-length-m  = 2,600
 | r2-surface   = Asphalt
+| r3-number    = 06/24
+| r3-length-m  = 2,800
+| r3-surface   = Asphalt
 | stat1-header = Passengers
 | stat1-data   = 34,812,000 (2025)
 | stat2-header = Aircraft movements
@@ -66,7 +69,7 @@ The closure of Areza International Airport was completed in 2003, when [[Metro d
 
 === Terminal C and modern expansion (2008–present) ===
 
-Terminal C, a new international terminal serving flights to [[Kaftia]], [[Illypnia]], and [[Fosia]], opened in 2008. The terminal was built to relieve chronic congestion in Terminal B and to accommodate the growth of long-haul international traffic driven by Sant Cristòfor's expanding role as a financial hub. Terminal C is the largest of the four terminals and is connected to the main complex by an extension of the central atrium.
+Terminal C, a new international terminal serving flights to [[Kaftia]], [[Illypnia]], and [[Fosia]], opened in 2008 alongside a third runway (06/24), built to increase passenger capacity and to separate cargo operations from passenger traffic. Terminal C was built to relieve chronic congestion in Terminal B and to accommodate the growth of long-haul international traffic driven by Sant Cristòfor's expanding role as a financial hub. Terminal C is the largest of the four terminals and is connected to the main complex by an extension of the central atrium.
 
 == Infrastructure ==
 
@@ -101,18 +104,20 @@ Unlike the main terminals, the Areza Terminal has no public arrivals or departur
 
 === Runways ===
 
-The airport has two parallel runways:
+The airport has three runways:
 
 {| class="wikitable"
 |-
 ! Direction !! Length !! Surface !! Use
 |-
-| 09/27 || 3,200 m || Asphalt || Primary; all commercial operations
+| 09/27 || 3,200 m || Asphalt || Primary; all commercial passenger operations
 |-
-| 15/33 || 2,600 m || Asphalt || Secondary; domestic, cargo, general aviation
+| 15/33 || 2,600 m || Asphalt || Secondary; domestic, general aviation, relief
+|-
+| 06/24 || 2,800 m || Asphalt || Cargo; also passenger overflow during peak
 |}
 
-Runway 09/27 is the primary runway, handling the majority of commercial operations. Runway 15/33 is used for domestic services, cargo operations, and general aviation, and serves as a relief runway during peak periods. Both runways are equipped with [[Instrument Landing System|ILS]] Category II approach systems.
+Runway 09/27 is the primary runway, handling the majority of commercial passenger operations. Runway 15/33 is used for domestic services, general aviation, and as a relief runway during peak periods. Runway 06/24, opened in 2008, was built primarily to separate cargo operations from passenger traffic, but also serves as passenger overflow during peak periods. All three runways are equipped with [[Instrument Landing System|ILS]] Category II approach systems.
 
 === Cargo facilities ===
 
