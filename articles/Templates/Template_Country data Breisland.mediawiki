@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Breisland
+| flag alias = Flag of Breisland.svg
+| link alias-football = Breisland national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| redir1 = BRE
+<noinclude>
+</noinclude>
+}}

@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = United Midlands
+| flag alias = Flag of the United Midlands.svg
+| link alias-football = United Midlands national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| redir1 = UMI
+<noinclude>
+</noinclude>
+}}

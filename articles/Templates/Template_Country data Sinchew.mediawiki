@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Sinchew
+| flag alias = Flag of Sinchew.svg
+| link alias-football = Sinchew national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| redir1 = SIN
+<noinclude>
+</noinclude>
+}}

@@ -1,0 +1,15 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Balboa
+| flag alias = Flag of Balboa.svg
+| link alias-football = Balboa national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| redir1 = BLB
+<noinclude>
+| related1 = Sant Cristòfor
+| related2 = International City of Areza
+</noinclude>
+}}

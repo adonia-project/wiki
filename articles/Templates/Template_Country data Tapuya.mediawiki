@@ -1,0 +1,13 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Tapuya
+| flag alias = Flag of Tapuya.svg
+| link alias-football = Tapuya national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| redir1 = TAP
+<noinclude>
+</noinclude>
+}}

@@ -1,0 +1,97 @@
+local p = {}
+
+-- Cache group assignments for most-used countries
+-- A = most used, B = high use, C = moderate use, D = less used
+p.pages = {
+	Asikyira = 'A',
+	Balisca = 'A',
+	Volisania = 'A',
+	Sanrobonia = 'A',
+	Orma = 'A',
+	Jarin = 'B',
+	Varkana = 'B',
+	Okaiken = 'B',
+	Burawa = 'B',
+	Balboa = 'A',
+	Aetolia = 'B',
+	Ayorin = 'B',
+	['United Midlands'] = 'B',
+	Mercia = 'B',
+	Louyang = 'B',
+	Sarta = 'C',
+	Zong = 'B',
+	Pangkajene = 'C',
+	Galwa = 'C',
+	Daras = 'C',
+	Dagit = 'A',
+	Chatar = 'C',
+	Nakamizu = 'B',
+	Breisland = 'B',
+	Tapuya = 'C',
+	Nusaraya = 'C',
+	Sinchew = 'C',
+	Sanyan = 'C',
+	Kwangju = 'C',
+	Bayara = 'C',
+	Kaneda = 'C',
+	Potocsí = 'C',
+}
+
+-- AFA trigramme codes
+p.AFA = {
+	ASK = 'Asikyira',
+	BAL = 'Balisca',
+	VOL = 'Volisania',
+	SAN = 'Sanrobonia',
+	ORM = 'Orma',
+	JAR = 'Jarin',
+	VAR = 'Varkana',
+	OKA = 'Okaiken',
+	BUR = 'Burawa',
+	BLB = 'Balboa',
+	AET = 'Aetolia',
+	AYO = 'Ayorin',
+	UMI = 'United Midlands',
+	MER = 'Mercia',
+	LOU = 'Louyang',
+	SAR = 'Sarta',
+	ZON = 'Zong',
+	PAN = 'Pangkajene',
+	GAL = 'Galwa',
+	DAR = 'Daras',
+	DAG = 'Dagit',
+	CHT = 'Chatar',
+	NAK = 'Nakamizu',
+	BRE = 'Breisland',
+	TAP = 'Tapuya',
+	NUS = 'Nusaraya',
+	SIN = 'Sinchew',
+	SAN2 = 'Sanyan',
+	KWJ = 'Kwangju',
+	BAY = 'Bayara',
+	KAN = 'Kaneda',
+	POT = 'Potocsí',
+}
+
+-- Redirects: alternative names that map to canonical country name
+p.redirects = {
+	-- Balisca
+	['Balisca'] = 'Balisca',
+	['Confederation of the Northern Provinces'] = 'Balisca',
+	['Baliscan Confederation'] = 'Balisca',
+	['Northern Confederation'] = 'Balisca',
+	-- Balboa
+	['Republic of Balboa'] = 'Balboa',
+	-- Nakamizu
+	['Nanami'] = 'Nakamizu',
+	-- United Midlands
+	['UM'] = 'United Midlands',
+	-- Pangkajene
+	['PKJ'] = 'Pangkajene',
+	-- Dagit
+	['DAG'] = 'Dagit',
+	-- Asikyira
+	['ASK'] = 'Asikyira',
+}
+
+return p
