@@ -166,7 +166,7 @@ The following 26 players were called up for the [[2026 AFA World Cup]].
 {{nat fs g player|no=1|pos=GK|name=[[Xavi Bonet]]|age={{bda|df=y|1995|4|12}}|caps=48|goals=0|club=[[FC Sant Cristòfor]]|clubnat=BLB}}
 {{nat fs g player|no=12|pos=GK|name=Kwame Lòrda|age={{bda|df=y|1999|8|3}}|caps=14|goals=0|club=[[Club Esportiu Sant Bart]]|clubnat=BLB}}
 {{nat fs g player|no=23|pos=GK|name=Rafa Torralba|age={{bda|df=y|2001|11|27}}|caps=3|goals=0|club=[[Club Esportiu Haimêng]]|clubnat=BLB}}
-{{nat fs g player|no=2|pos=DF|name=[[Djanol Brifà]] {{C}}|age={{bda|df=y|1996|6|21}}|caps=128|goals=4|club=[[Unió Esportiva del Mercat]]|clubnat=BLB}}
+{{nat fs g player|no=2|pos=DF|name=[[Djanol Brifà]]|age={{bda|df=y|1996|6|21}}|caps=128|goals=4|club=[[Unió Esportiva del Mercat]]|clubnat=BLB}}
 {{nat fs g player|no=3|pos=DF|name=Sèrgi Campdepadròs|age={{bda|df=y|1997|2|8}}|caps=72|goals=2|club=[[Castejón FC]]|clubnat=BAL}}
 {{nat fs g player|no=4|pos=DF|name=Mamadou Fofana|age={{bda|df=y|1998|9|15}}|caps=58|goals=1|club=[[Club Esportiu Sant Bart]]|clubnat=BLB}}
 {{nat fs g player|no=5|pos=DF|name=Jordi Rovira|age={{bda|df=y|1995|12|4}}|caps=89|goals=6|club=[[Ampurias Central FC]]|clubnat=VOL}}
@@ -174,7 +174,7 @@ The following 26 players were called up for the [[2026 AFA World Cup]].
 {{nat fs g player|no=15|pos=DF|name=Wei Orpella|age={{bda|df=y|2002|1|30}}|caps=22|goals=1|club=[[Club Esportiu Haimêng]]|clubnat=BLB}}
 {{nat fs g player|no=20|pos=DF|name=Pape Kandé|age={{bda|df=y|1999|7|11}}|caps=41|goals=3|club=[[Araucaria United]]|clubnat=BAL}}
 {{nat fs g player|no=24|pos=DF|name=Oscar Mifà|age={{bda|df=y|2003|10|8}}|caps=8|goals=0|club=[[Unió Esportiva del Mercat]]|clubnat=BLB}}
-{{nat fs g player|no=6|pos=MF|name=[[Makèna Diouf]] {{C}}|age={{bda|df=y|1998|3|22}}|caps=76|goals=11|club=[[Sanu-Sasso Prima FC]]|clubnat=ASK}}
+{{nat fs g player|no=6|pos=MF|name=[[Makèna Diouf]]|age={{bda|df=y|1998|3|22}}|caps=76|goals=11|club=[[Sanu-Sasso Prima FC]]|clubnat=ASK}}
 {{nat fs g player|no=7|pos=MF|name=Kèsim Vidal|age={{bda|df=y|1996|8|14}}|caps=94|goals=18|club=[[Okaiken United]]|clubnat=OKA}}
 {{nat fs g player|no=8|pos=MF|name=Adama Touré|age={{bda|df=y|1997|11|5}}|caps=81|goals=9|club=[[FC Sant Cristòfor]]|clubnat=BLB}}
 {{nat fs g player|no=10|pos=MF|name=Nèstir Cavall Jr.|age={{bda|df=y|2001|6|17}}|caps=29|goals=5|club=[[Castejón FC]]|clubnat=BAL}}
