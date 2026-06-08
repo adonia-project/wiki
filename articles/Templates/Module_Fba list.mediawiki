@@ -1,0 +1,250 @@
+local p = {}
+
+p.fbas = {
+	-- Abyala
+	["Asikyira"] = "Asikyiran Football Association",
+	["Balisca"] = "Baliscan Football Federation",
+		["Confederation of the Northern Provinces"] = "Baliscan Football Federation",
+		["Baliscan Confederation"] = "Baliscan Football Federation",
+		["Northern Confederation"] = "Baliscan Football Federation",
+	["Sanrobonia"] = "Sanrobonian Football Association",
+	["Balboa"] = "Balboan Football Federation",
+		["Republic of Balboa"] = "Balboan Football Federation",
+	["Potocsí"] = "Potocsían Football Federation",
+	["Ayorin"] = "Ayorinese Football Federation",
+	["Castejón"] = "Castejónan Football Federation",
+	["Bayara"] = "Bayaran Football Federation",
+	["Araucaria"] = "Araucarian Football Federation",
+	["Hesperia"] = "Hesperian Football Federation",
+	["Estuaria"] = "Estuarian Football Federation",
+	["Cerdanya"] = "Cerdanyan Football Federation",
+
+	-- Mesogean
+	["Volisania"] = "Volisanian Football Federation",
+	["Orma"] = "Orman Football Federation",
+	["Jarin"] = "Jarin Football Federation",
+	["Varkana"] = "Varkan Football Federation",
+	["Aetolia"] = "Aetolian Football Federation",
+	["Galwa"] = "Galwan Football Federation",
+	["Breisland"] = "Breislandic Football Association",
+	["Tartessia"] = "Tartessian Football Federation",
+	["Sicania"] = "Sicanian Football Federation",
+	["Siculia"] = "Siculian Football Federation",
+	["Iberia"] = "Iberian Football Federation",
+	["Andalus"] = "Andalusian Football Federation",
+	["Campostella"] = "Campostellan Football Federation",
+	["Piedmont"] = "Piedmontese Football Federation",
+	["Provence"] = "Provençal Football Federation",
+
+	-- North and Central Kaftia
+	["Burawa"] = "Burawan Football Federation",
+	["Okaiken"] = "Okaiken Football Association",
+	["Sanyan"] = "Sanyan Football Federation",
+	["Kwangju"] = "Kwangju Football Association",
+	["Pangkajene"] = "Pangkajene Football Federation",
+	["Dagit"] = "Dagiti Football Federation",
+	["Kartasugih"] = "Kartasugih Football Federation",
+	["Karasem"] = "Karasem Football Federation",
+	["Takamaiku"] = "Takamaiku Football Association",
+	["Nanami"] = "Nanami Football Association",
+		["Nakamizu"] = "Nanami Football Association",
+	["Nakahara"] = "Nakahara Football Association",
+	["Nakama"] = "Nakama Football Association",
+	["Yanbaru"] = "Yanbaru Football Association",
+	["Cattala"] = "Cattalan Football Federation",
+
+	-- East Fosia
+	["Zong"] = "Zong Football Association",
+		["Kingdom of Zong"] = "Zong Football Association",
+	["Nusaraya"] = "Nusarayan Football Federation",
+	["Chatar"] = "Chatar Football Federation",
+	["Masyan"] = "Masyan Football Federation",
+	["Kaneda"] = "Kaneda Football Association",
+	["Oka"] = "Oka Football Association",
+
+	-- Lurandia
+	["United Midlands"] = "United Midlands Football Association",
+	["Louyang"] = "Louyang Football Federation",
+	["Sinchew"] = "Sinchew Football Federation",
+	["Tapuya"] = "Tapuya Football Federation",
+	["Sarta"] = "Sarta Football Federation",
+	["Daras"] = "Daras Football Federation",
+	["Mercia"] = "Mercian Football Federation",
+	["Himberland"] = "Himberland Football Association",
+	["Mikenstein"] = "Mikenstein Football Federation",
+	["Bayara"] = "Bayaran Football Federation",
+
+	-- Central Fosia and Southern Illypnia
+	["Almuria"] = "Almurian Football Federation",
+	["Arriola"] = "Arriolan Football Federation",
+	["Canyars"] = "Canyars Football Federation",
+	["Las Serras"] = "Las Serras Football Federation",
+	["Llaragón"] = "Llaragón Football Federation",
+	["Trás-as-Montanyas"] = "Trás-as-Montanyas Football Federation",
+	["Muntanya"] = "Muntanya Football Federation",
+	["Máfil"] = "Máfil Football Federation",
+	["Küyenmapu"] = "Küyenmapu Football Federation",
+	["Willi Mapu"] = "Willi Mapu Football Federation",
+	["Xaraba"] = "Xaraba Football Federation",
+	["Araucaria"] = "Araucarian Football Federation",
+
+	-- North Fosia and Kendryian
+	["Pangkajene"] = "Pangkajene Football Federation",
+	["Dagit"] = "Dagiti Football Federation",
+	["Tukupi"] = "Tukupi Football Federation",
+	["Zambezi"] = "Zambezi Football Federation",
+	["Formosa"] = "Formosan Football Federation",
+
+	-- Historical
+	["AC Mandate Balboa"] = "Mandate of Sant Cristòfor Football Association",
+		["International Mandate of Sant Cristòfor"] = "Mandate of Sant Cristòfor Football Association",
+	["Balboa Boba"] = "Balboan Football Federation",
+	["Republic of Balboa (1899–1973)"] = "Balboan Football Federation",
+}
+
+p.codes = {
+	-- Abyala
+	["Asikyira"] = "ASK",
+	["Balisca"] = "BAL",
+		["Confederation of the Northern Provinces"] = "BAL",
+		["Baliscan Confederation"] = "BAL",
+		["Northern Confederation"] = "BAL",
+	["Sanrobonia"] = "SAN",
+	["Balboa"] = "BLB",
+		["Republic of Balboa"] = "BLB",
+	["Potocsí"] = "POT",
+	["Ayorin"] = "AYO",
+	["Castejón"] = "CAS",
+	["Bayara"] = "BAY",
+	["Araucaria"] = "ARA",
+	["Hesperia"] = "HSP",
+	["Estuaria"] = "EST",
+	["Cerdanya"] = "CER",
+
+	-- Mesogean
+	["Volisania"] = "VOL",
+	["Orma"] = "ORM",
+	["Jarin"] = "JAR",
+	["Varkana"] = "VAR",
+	["Aetolia"] = "AET",
+	["Galwa"] = "GAL",
+	["Breisland"] = "BRE",
+	["Tartessia"] = "TAR",
+	["Sicania"] = "SCA",
+	["Siculia"] = "SCU",
+	["Iberia"] = "IBE",
+	["Andalus"] = "AND",
+	["Campostella"] = "CMP",
+	["Piedmont"] = "PIE",
+	["Provence"] = "PRV",
+
+	-- North and Central Kaftia
+	["Burawa"] = "BUR",
+	["Okaiken"] = "OKA",
+	["Sanyan"] = "SAN2",
+	["Kwangju"] = "KWJ",
+	["Pangkajene"] = "PAN",
+	["Dagit"] = "DAG",
+	["Kartasugih"] = "KSG",
+	["Karasem"] = "KRM",
+	["Takamaiku"] = "TKM",
+	["Nanami"] = "NAK",
+		["Nakamizu"] = "NAK",
+	["Nakahara"] = "NKH",
+	["Nakama"] = "NKM",
+	["Yanbaru"] = "YNB",
+	["Cattala"] = "CTL",
+
+	-- East Fosia
+	["Zong"] = "ZON",
+		["Kingdom of Zong"] = "ZON",
+	["Nusaraya"] = "NUS",
+	["Chatar"] = "CHT",
+	["Masyan"] = "MSY",
+	["Kaneda"] = "KAN",
+	["Oka"] = "OKA2",
+
+	-- Lurandia
+	["United Midlands"] = "UMI",
+	["Louyang"] = "LOU",
+	["Sinchew"] = "SIN",
+	["Tapuya"] = "TAP",
+	["Sarta"] = "SAR",
+	["Daras"] = "DAR",
+	["Mercia"] = "MER",
+	["Himberland"] = "HMB",
+	["Mikenstein"] = "MIK",
+
+	-- Central Fosia and Southern Illypnia
+	["Almuria"] = "ALM",
+	["Arriola"] = "ARR",
+	["Canyars"] = "CNY",
+	["Las Serras"] = "LSR",
+	["Llaragón"] = "LLG",
+	["Trás-as-Montanyas"] = "TAM",
+	["Muntanya"] = "MUN",
+	["Máfil"] = "MAF",
+	["Küyenmapu"] = "KYN",
+	["Willi Mapu"] = "WMP",
+	["Xaraba"] = "XRB",
+
+	-- North Fosia and Kendryian
+	["Tukupi"] = "TKP",
+	["Zambezi"] = "ZMB",
+	["Formosa"] = "FOR",
+
+	-- Historical
+	["AC Mandate Balboa"] = "MBL",
+		["International Mandate of Sant Cristòfor"] = "MBL",
+	["Balboa Boba"] = "BLB",
+	["Republic of Balboa (1899–1973)"] = "BLB",
+}
+
+function p.list(frame)
+	if frame.args[1] then
+		if string.sub(frame.args[1], -2) == "_c" then
+			return p.codes[string.sub(frame.args[1], 1, -3)] or ""
+		elseif string.sub(frame.args[1], -6) == "_c_old" then
+			return p.codes[string.sub(frame.args[1], 1, -7) .. "_old"] or ""
+		end
+		return p.fbas[frame.args[1]] or ""
+	end
+	return ""
+end
+
+function p.list_all(frame)
+	local fbas = {}
+	local links = {}
+
+	--Find aliases
+	for k, v in pairs(p.fbas) do
+		if links[v] then
+			table.insert(fbas[links[v]].aliases, k)
+			table.sort(fbas[links[v]].aliases)
+		else
+			links[v] = k
+			fbas[k] = {[1] = v, aliases = {[1] = k}}
+		end
+	end
+
+	local lists = mw.html.create()
+	--Create fbas table
+	local fbatable = lists:tag("table"):addClass("wikitable sortable collapsible")
+	fbatable:tag("tr"):tag("th"):wikitext("Input"):done():tag("th"):wikitext("Output")
+	for k,v in pairs(fbas) do
+		local inp = (type(fbas[k].aliases) == "table") and ("<code>"..table.concat(fbas[k].aliases,"</code><br/><code>").."</code>") or ""
+		local out = fbas[k][1] and ("[["..fbas[k][1].."]]") or k
+		fbatable:tag("tr"):tag("td"):wikitext(inp):done():tag("td"):wikitext(out)
+	end
+
+	--Create codes table
+	local ctable = lists:tag("table"):addClass("wikitable sortable collapsible")
+	ctable:tag("tr"):tag("th"):wikitext("Input"):done():tag("th"):wikitext("Output")
+	for k,v in pairs(p.codes) do
+		ctable:tag("tr"):tag("td"):wikitext("<code>"..k.."</code>"):done():tag("td"):wikitext("<code>"..v.."</code>")
+	end
+
+	return lists
+end
+
+return p
