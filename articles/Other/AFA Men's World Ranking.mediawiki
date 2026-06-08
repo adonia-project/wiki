@@ -1,0 +1,93 @@
+{{Short description|Ranking system for men's national association football teams}}
+
+The '''AFA Men's World Ranking''' is a ranking system for men's national association football teams, published by the [[Adonian Football Association]] (AFA), a body of the [[Adonian Community]]. The rankings were introduced in 1992 and are updated periodically based on the results of international matches. The rankings are used by AFA to seed teams in the [[AFA World Cup]] qualification draw and final tournament draw.
+
+== Current rankings ==
+
+The following table shows the top 20 teams in the AFA Men's World Ranking as of June 2026.
+
+{| class="wikitable sortable"
+|-
+! Rank !! Change !! Team !! Points !! Confederation
+|-
+| 1 || — || {{flag|Asikyira}} || 1,842 || Abyala
+|-
+| 2 || — || {{flag|Balisca}} || 1,798 || Abyala
+|-
+| 3 || — || {{flag|Volisania}} || 1,756 || Mesogean
+|-
+| 4 || — || {{flag|Sanrobonia}} || 1,721 || Abyala
+|-
+| 5 || ▲ 1 || {{flag|Orma}} || 1,695 || Mesogean
+|-
+| 6 || ▼ 1 || {{flag|Jarin}} || 1,688 || Mesogean
+|-
+| 7 || — || {{flag|Varkana}} || 1,654 || Mesogean
+|-
+| 8 || — || {{flag|Okaiken}} || 1,632 || East Fosia
+|-
+| 9 || ▲ 2 || {{flag|Burawa}} || 1,601 || North and Central Kaftia
+|-
+| 10 || ▼ 1 || {{flag|Balboa}} || 1,587 || Lurandia
+|-
+| 11 || ▼ 1 || {{flag|Aetolia}} || 1,573 || Mesogean
+|-
+| 12 || — || {{flag|Ayorin}} || 1,549 || North and Central Kaftia
+|-
+| 13 || — || {{flag|United Midlands}} || 1,521 || Lurandia
+|-
+| 14 || — || {{flag|Mercia}} || 1,498 || Central Fosia and Southern Illypnia
+|-
+| 15 || ▲ 1 || {{flag|Louyang}} || 1,476 || Lurandia
+|-
+| 16 || ▼ 1 || {{flag|Sarta}} || 1,462 || Central Fosia and Southern Illypnia
+|-
+| 17 || — || {{flag|Zong}} || 1,445 || East Fosia
+|-
+| 18 || ▲ 2 || {{flag|Pangkajene}} || 1,418 || North Fosia and Kendryian
+|-
+| 19 || — || {{flag|Galwa}} || 1,401 || Mesogean
+|-
+| 20 || ▲ 3 || {{flag|Daras}} || 1,387 || Central Fosia and Southern Illypnia
+|}
+
+== History ==
+
+The AFA Men's World Ranking was introduced in December 1992, following a proposal by the AFA Executive Committee to create a systematic method for comparing the relative strength of national teams. Prior to the ranking's introduction, seeding for tournament draws was based on subjective assessments by AFA officials, which had led to accusations of favouritism and geopolitical bias.
+
+The initial ranking was calculated using a simplified formula based on match results over the preceding three years. The methodology has been revised several times, most significantly in 2006 and 2018, to address criticisms that the system over-weighted friendly matches and under-weighted competitive tournament results.
+
+== Methodology ==
+
+The current methodology, introduced in 2018, calculates rankings based on the [[Elo rating system]], with adjustments for the following factors:
+
+* '''Match result''' — wins, draws, and losses
+* '''Match importance''' — competitive matches (World Cup, continental championships, qualifiers) are weighted more heavily than friendlies
+* '''Opponent strength''' — results against higher-ranked opponents contribute more points
+* '''Regional strength''' — an adjustment factor reflecting the relative strength of each AFA confederation
+
+Rankings are updated after each international window (March, June, September, November).
+
+== Use in tournament seeding ==
+
+The AFA Men's World Ranking is used to seed teams in the following competitions:
+
+* [[AFA World Cup]] qualification draw
+* [[AFA World Cup]] final tournament draw (pot allocation)
+* Continental championship draws (where applicable)
+
+The ranking's role in tournament seeding has been controversial, particularly for nations that rise or fall significantly between qualification and the final tournament. The AFA has defended the system as the most objective method available.
+
+== See also ==
+
+* [[AFA World Cup]]
+* [[Adonian Football Association]]
+* [[Adonian Community]]
+
+== References ==
+
+{{reflist}}
+
+[[Category:AFA Men's World Ranking| ]]
+[[Category:Adonian Football Association]]
+[[Category:Association football rankings]]
