@@ -1,17 +1,15 @@
-{{Infobox football league system
-| country     = Burawa
+{{Infobox league system
+| country       = Burawa
+| sport         = Association football
+| pr            = [[Tier C]] ↔ [[Tier B]] ↔ [[Tier A]]; [[Koobka Gobolada]] to Tier C
 | confederation = [[Adonian Football Association|AFA]]
-| founded     = {{Start date|1892}}
-| folded      =
-| teams       = 932 (A: 18, B: 36, C: 54, Regional: 824)
-| promotion   = [[Tier C]] → [[Tier B]] → [[Tier A]]
-| relegation  = [[Tier A]] → [[Tier B]] → [[Tier C]]
-| domestic_cup = [[Burawi Cup]]
-| international_cup = [[AFA Champions League]]<br>[[AFA Cup]]
-| current     = 2026 Burawi Fotbal Season
-| most_champions =
-| most_recent_champions =
-| tv          = Burawi Broadcasting Corporation
+| federation    = [[Burawi Fotbal Federation]] (BFF)
+| top           = [[Tier A]] (18 clubs)
+| second        = [[Tier B]] (36 clubs)
+| cup           = [[Burawi Cup]]
+| tops          = [[Tier C]] (54 clubs)
+| seconds       = Regional (824 clubs)
+| cups          = [[Koobka Gobolada]]
 }}
 
 The '''Burawi football league system''' is a series of interconnected leagues for {{w|association football}} clubs in [[Burawa]]. The system is organised into four tiers — Tier A, Tier B, Tier C, and Regional — and is governed by the [[Burawi Fotbal Federation]] (BFF). The system is notable for its combination of {{w|workers' cooperative}} ownership, a [[draft system|drafting system]], salary caps, and restrictions on foreign players, all of which reflect Burawa's socialist political framework.
