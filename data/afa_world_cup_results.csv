@@ -1,18 +1,18 @@
 Year,Host,1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th
 1958,Volisania,Zong,Balisca,Volisania,Asikyira,Galwa,Orma,United Midlands,Burawa,Breisland,Daras,Nusaraya,Aetolia,Jarin,Sinchew,Louyan
 1962,Zong,Volisania,Asikyira,Burawa,Balisca,Galwa,Orma,Zong,United Midlands,Daras,Breisland,Aetolia,Jarin,Sinchew,Nusaraya,Okaiken
-1966,Daras,Balisca,Burawa,Asikyira,Volisania,Galwa,Zong,United Midlands,Daras,Orma,Breisland,Nusaraya,Aetolia,Jarin,Sinchew,Okaiken
-1970,Balisca,Asikyira,Balisca,Burawa,Volisania,Zong,United Midlands,Galwa,Daras,Orma,Breisland,Nusaraya,Aetolia,Jarin,Okaiken,Sinchew
-1974,Jarin,United Midlands,Burawa,Asikyira,Balisca,Volisania,Galwa,Zong,Daras,Orma,Breisland,Nusaraya,Aetolia,Jarin,Okaiken,Sinchew
-1978,United Midlands,Galwa,Asikyira,Volisania,Burawa,Zong,United Midlands,Balisca,Daras,Orma,Breisland,Nusaraya,Aetolia,Jarin,Okaiken,Sinchew
-1982,Okaiken,Balisca,Burawa,Asikyira,Volisania,Galwa,Zong,United Midlands,Daras,Orma,Balboa,Nusaraya,Aetolia,Jarin,Okaiken,Sinchew
+1966,Daras,Balisca,Volisania,Asikyira,Daras,Burawa,Galwa,Zong,United Midlands,Orma,Breisland,Nusaraya,Aetolia,Jarin,Sinchew,Okaiken
+1970,Balisca,Asikyira,Balisca,United Midlands,Burawa,Volisania,Zong,Galwa,Daras,Orma,Breisland,Nusaraya,Aetolia,Jarin,Okaiken,Sinchew
+1974,Jarin,United Midlands,Jarin,Asikyira,Balisca,Burawa,Volisania,Galwa,Zong,Daras,Orma,Breisland,Nusaraya,Aetolia,Okaiken,Sinchew
+1978,United Midlands,Galwa,Asikyira,Volisania,United Midlands,Burawa,Zong,Balisca,Daras,Orma,Breisland,Nusaraya,Aetolia,Jarin,Okaiken,Sinchew
+1982,Okaiken,Balisca,Burawa,Asikyira,Okaiken,Volisania,Galwa,Zong,United Midlands,Daras,Orma,Balboa,Nusaraya,Aetolia,Jarin,Sinchew
 1986,Burawa,Asikyira,Burawa,Balisca,Zong,Volisania,Daras,Galwa,United Midlands,Orma,Aetolia,Louyan,Nakamizu,Balboa,Bayara,Sanyan
-1990,Dakare,Volisania,Burawa,Balisca,Asikyira,Zong,United Midlands,Galwa,Daras,Orma,Breisland,Nusaraya,Balboa,Aetolia,Jarin,Okaiken
-1994,Balboa,Balisca,Burawa,Asikyira,Volisania,Zong,United Midlands,Galwa,Daras,Orma,Balboa,Nusaraya,Aetolia,Jarin,Okaiken,Breisland
-1998,Nakamizu,Asikyira,Burawa,Balisca,Volisania,Zong,United Midlands,Galwa,Daras,Orma,Breisland,Nusaraya,Balboa,Aetolia,Jarin,Okaiken
-2002,Louyang/Sinchew,Okaiken,Burawa,Asikyira,Volisania,Zong,United Midlands,Galwa,Daras,Orma,Breisland,Nusaraya,Aetolia,Jarin,Dagit,Sinchew
-2006,Breisland,Balboa,Asikyira,Burawa,Balisca,Volisania,Zong,United Midlands,Galwa,Daras,Orma,Breisland,Nusaraya,Aetolia,Jarin,Okaiken
-2010,Nusaraya,Burawa,Asikyira,Balisca,Volisania,Zong,United Midlands,Galwa,Daras,Orma,Breisland,Dagit,Nusaraya,Balboa,Aetolia,Jarin
-2014,Varkana,United Midlands,Burawa,Asikyira,Balisca,Volisania,Zong,Galwa,Daras,Orma,Breisland,Nusaraya,Dagit,Balboa,Aetolia,Jarin
-2018,Ayorin,Asikyira,Burawa,Balisca,Volisania,Zong,United Midlands,Daras,Orma,Breisland,Nusaraya,Dagit,Balboa,Aetolia,Jarin,Okaiken
-2022,Shansi,Balisca,Burawa,Asikyira,Volisania,Zong,United Midlands,Galwa,Daras,Orma,Breisland,Nusaraya,Dagit,Balboa,Aetolia,Jarin
+1990,Dakare,Volisania,Dakare,Balisca,Asikyira,Burawa,Zong,United Midlands,Galwa,Daris,Orma,Breisland,Nusaraya,Balboa,Aetolia,Jarin
+1994,Balboa,Balisca,Balboa,Asikyira,Burawa,Volisania,Zong,United Midlands,Galwa,Daris,Orma,Nusaraya,Aetolia,Jarin,Okaiken,Breisland
+1998,Nakamizu,Asikyira,Nakamizu,Balisca,Burawa,Volisania,Zong,United Midlands,Galwa,Daris,Orma,Breisland,Nusaraya,Balboa,Aetolia,Jarin
+2002,Louyang/Sinchew,Okaiken,Asikyira,Burawa,Volisania,Louyang,Zong,United Midlands,Galwa,Daris,Orma,Breisland,Nusaraya,Aetolia,Jarin,Dagit
+2006,Breisland,Balboa,Asikyira,Burawa,Balisca,Volisania,Zong,United Midlands,Galwa,Daris,Orma,Breisland,Nusaraya,Aetolia,Jarin,Okaiken
+2010,Nusaraya,Burawa,Balisca,Asikyira,Volisania,Zong,Nusaraya,United Midlands,Galwa,Daris,Orma,Breisland,Dagit,Balboa,Aetolia,Jarin
+2014,Varkana,United Midlands,Varkana,Asikyira,Balisca,Burawa,Volisania,Zong,Galwa,Daris,Orma,Breisland,Nusaraya,Dagit,Balboa,Aetolia
+2018,Ayorin,Asikyira,Ayorin,Balisca,Burawa,Volisania,Zong,United Midlands,Daris,Orma,Breisland,Nusaraya,Dagit,Balboa,Aetolia,Jarin
+2022,Shansi,Balisca,Shansi,Asikyira,Burawa,Volisania,Zong,United Midlands,Galwa,Daris,Orma,Breisland,Nusaraya,Dagit,Balboa,Aetolia,Jarin
