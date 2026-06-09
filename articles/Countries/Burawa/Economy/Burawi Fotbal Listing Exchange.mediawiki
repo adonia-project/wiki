@@ -4,13 +4,13 @@
 | logo = 
 | type = [[Stock exchange|Specialised securities exchange]]
 | traded = Fotbal club shares
-| currency = [[Burawi Hanti|Hanti]] (H)
+| currency = [[Burawi Hanti|Hanti]] (Ħ)
 | established = {{Start date|1989}}
 | closed = 
 | owner = [[Burawi Fotbal Federation]] (BFF)
 | city = [[Samara]]
 | country = {{flag|Burawa}}
-| address = 93 [[Dhib Street]], [[Daarta Cagaarka|Cagaarka Tower]]
+| address = 93 [[Dhib Street, Samara]], [[Daarta Cagaarka|Cagaarka Tower]]
 | website = 
 }}
 
@@ -72,12 +72,28 @@ Two clubs — [[Mazar FC]] and [[Iskhal Koonfur-Dahab FC]] — are cross-listed 
 
 === Valuation by tier ===
 
-Club valuations on the BFLE vary dramatically by tier:
+Club valuations on the BFLE vary dramatically by tier, reflecting the steep commercial gradient between the professional and amateur levels of the Burawi fotbal system:
 
-* '''Tier A clubs''' constitute the majority of the exchange's market capitalisation, with individual club valuations ranging from approximately 200 million to 1.2 billion Hanti ($50–300 million). The most valuable club is Mazar FC, with a BFLE market capitalisation of approximately 1.1 billion Hanti ($275 million). The aggregate Tier A market capitalisation is approximately 12.6 billion Hanti ($3.15 billion), representing roughly 77% of the exchange's total.
-* '''Tier B clubs''' are typically valued at 40–200 million Hanti ($10–50 million), with valuations heavily influenced by promotion and relegation prospects. The aggregate Tier B market capitalisation is approximately 3.1 billion Hanti ($775 million).
-* '''Tier C clubs''' are typically valued at 8–40 million Hanti ($2–10 million). The aggregate Tier C market capitalisation is approximately 610 million Hanti ($153 million).
-* '''Regional clubs''' are typically valued at under 4 million Hanti ($1 million), with many trading at nominal prices. The aggregate Regional market capitalisation is approximately 82 million Hanti ($21 million).
+{| class="wikitable"
+|-
+! Tier !! Clubs listed !! Valuation range (Ħ) !! Valuation range (I$) !! Aggregate cap (Ħ) !! Aggregate cap (I$) !! Share of total
+|-
+| '''Tier A''' || 18/18 || 200M – 1.2B || $50M – $300M || ~12.6B || ~$3.15B || ~77%
+|-
+| '''Tier B''' || 34/36 || 40M – 200M || $10M – $50M || ~3.1B || ~$775M || ~19%
+|-
+| '''Tier C''' || 49/54 || 8M – 40M || $2M – $10M || ~610M || ~$153M || ~4%
+|-
+| '''Regional''' || 82/824 || < 4M || < $1M || ~82M || ~$21M || <1%
+|-
+| '''Total''' || '''183''' || — || — || '''~16.4B''' || '''~$4.1B''' || 100%
+|}
+
+The concentration of value in Tier A is the exchange's most striking feature. The 18 Tier A clubs account for approximately 77% of the BFLE's total market capitalisation, with the top three clubs — [[Mazar FC]] (~1.1B Ħ / $275M), [[Iskhal Koonfur-Dahab FC]] (~880M Ħ / $220M), and [[Samara Kordhag FC]] (~640M Ħ / $160M) — together representing roughly 16% of the entire exchange. This concentration reflects the commercial dynamics of the Burawi fotbal system: Tier A clubs receive the largest share of broadcast revenues, attract the most lucrative sponsorship deals, and are the only clubs permitted to sign foreign players, all of which drive valuations well above those of lower-tier clubs.
+
+Tier B valuations are heavily influenced by promotion and relegation prospects. A club that secures promotion to Tier A typically sees its share price double or triple within a single trading session, as investors price in the higher revenues and greater visibility of top-flight fotbal. Conversely, relegation from Tier A to Tier B produces sharp declines, often exceeding 50% of the pre-relegation share price.
+
+Tier C and Regional clubs trade at steep discounts to the professional tiers. Many Regional clubs are listed at nominal prices — a few hundred thousand Ħ — and their shares are held almost exclusively by local supporters rather than by investors seeking returns. The BFLE's listing of 82 Regional clubs is largely a cultural provision: it allows supporters of even the smallest clubs to own a formal stake in their team, and the nominal listing fees (as low as 500 Ħ per season) make this accessible.
 
 === Seasonal patterns ===
 
