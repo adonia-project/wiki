@@ -116,7 +116,6 @@ Names derived from the historic clans of the Burawi Empire (pre-1832). These are
 | Badal | Badal clan | Northern highland clan |
 | Qalad | Qalad clan | Western river clan |
 | Samaro | Samaro clan | Central plateau clan |
-| Kankad | Kankad clan | Capital region clan |
 | Iskhal | Iskhal clan | Eastern port clan |
 | Mazar | Mazar clan | Western trade clan |
 | Dhalag | Dhalag clan | Mountain clan |
