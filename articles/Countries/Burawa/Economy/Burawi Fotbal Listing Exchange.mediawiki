@@ -13,11 +13,10 @@
 | address = 93 [[Dhib Street, Samara]], [[Daarta Cagaarka|Cagaarka Tower]]
 | website =
 | mcap = 16.4 billion [[Burawi Hanti|Ħ]] (~$4.1 billion, 2026)
-| volume =
-| indexes =
+| volume = 1.9 billion [[Burawi Hanti|Ħ]] (~$475 million, 2025)
 }}
 
-The '''Burawi Fotbal Listing Exchange''' ([[Burawi language|Burawi]]: ''Safmadda Liistinta Fotbal ee Burawi''), commonly known as the '''BFLE''', is a specialised [[stock exchange|securities exchange]] in [[Burawa]] dedicated to the trading of shares in [[Burawi football league system|football clubs]]. The BFLE is headquartered at 93 [[Dhib Street]] in the [[Daarta Cagaarka|Cagaarka Tower]] ([[Burawi language|Burawi]]: "Green Place Tower"), [[Samara]].
+The '''Burawi Fotbal Listing Exchange''' ([[Burawi language|Burawi]]: ''Safmadda Liistinta Fotbal ee Burawi''), commonly known as the '''BFLE''', is a specialised [[stock exchange|securities exchange]] in [[Burawa]] dedicated to the trading of shares in [[Burawi football league system|football clubs]]. The BFLE is headquartered at 93 [[Dhib Street, Samara|Dhib]] in the [[Daarta Cagaarka|Cagaarka Tower]] ([[Burawi language|Burawi]]: "Green Place Tower"), [[Samara]].
 
 The BFLE is the only specialised sports securities exchange in [[Kaftia]] and one of the few in [[Adonia]]. It was established in 1989 by the [[Burawi Fotbal Federation]] (BFF) to provide a regulated marketplace for the trading of club shares under the cooperative ownership model mandated by the [[1972 Fotbal Reform Act]]. As of 2026, approximately 183 clubs across all tiers — including [[Regional (Burawi football)|Regional]] — are listed on the exchange.
 
@@ -66,6 +65,7 @@ The BFLE operates under the regulatory authority of the [[Burawi Fotbal Federati
 
 * Ownership limits: The 3% individual and 40% collective investor limits are enforced automatically through the BFLE's trading systems, which block any transaction that would result in a breach.
 * Domestic investors only: Foreign investors are prohibited from purchasing shares on the BFLE. Only Burawi citizens and Burawi-registered entities may hold club shares. This restriction, mandated by the 1972 Fotbal Reform Act, reflects the league system's character as a national institution and prevents foreign capital from undermining the cooperative ownership model.
+* Retail investors only: The BFLE is restricted to individual retail investors. Index funds, mutual funds, pension funds, and other institutional investors are prohibited from purchasing club shares. This restriction ensures that the exchange remains a supporter-oriented marketplace and prevents the concentration of ownership through institutional vehicles that could circumvent the 3% individual limit.
 * Trading hours: The exchange operates on trading days aligned with the football season calendar, with extended hours on match days and during the annual draft.
 * Price bands: Daily price movement is limited to 10% in either direction to prevent speculative volatility.
 * Trading suspensions: Trading in a club's shares is suspended during cup finals and relegation playoff matches, preventing speculative trading on the outcome of matches that directly determine a club's competitive and financial future. Suspensions take effect 24 hours before the fixture and are lifted the morning after the result is confirmed.
@@ -113,7 +113,7 @@ BFLE trading volumes exhibit strong seasonal patterns linked to the football cal
 
 === Investor profile ===
 
-The BFLE's investor base is predominantly retail, consisting of football supporters purchasing small shareholdings in their clubs. The 3% individual ownership limit prevents institutional dominance, and the exchange's cultural positioning as a supporter-oriented marketplace reinforces this dynamic. Institutional investors — primarily Burawi cooperative banks and credit unions — account for approximately 15% of total investment, concentrated in Tier A and Tier B clubs.
+The BFLE's investor base is exclusively retail, consisting of individual football supporters purchasing small shareholdings in their clubs. The exchange prohibits institutional investors — including index funds, mutual funds, pension funds, and cooperative banks — from purchasing club shares. The 3% individual ownership limit and the retail-only restriction together ensure that the exchange remains a supporter-oriented marketplace, with ownership distributed across thousands of individual fans rather than concentrated in institutional portfolios.
 
 === Relationship to sports betting ===
 
