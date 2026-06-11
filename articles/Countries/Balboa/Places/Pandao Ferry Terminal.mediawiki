@@ -1,0 +1,108 @@
+{{Infobox station
+| name                = Pandao Ferry Terminal
+| native_name         = Terminal de Ferris de Pandao
+| native_name_lang    = ca
+| image               = Pandao Ferry Terminal Barcelona.png
+| alt                 = The Pandao Ferry Terminal complex, viewed from the bay
+| caption             = The Pandao Ferry Terminal complex, viewed from the bay
+| address             = Avinguda del Port, Pandao
+| borough             = [[Pandao|Pandao district]]
+| country             = [[Balboa]]
+| coordinates         = {{coord|0.64705|N|94.46780|W|display=inline,title}}
+| owned               = [[Metro de Sant Cristòfor]]
+| operator            = [[Metro de Sant Cristòfor]]
+| transit_authority   = [[Metro de Sant Cristòfor]]
+| line                = [[Metro de Sant Cristòfor|Line 5]] (metro); Routes 1, O (ferry)
+| platforms           = 4 ferry berths
+| tracks              = 1 (metro)
+| connections          = [[Barcelona Streetcar]]; Bus 1, 2, 3, 4, 5, 10, 22, 180, 193; Taxi stand
+| bus_stands          = 24
+| structure           = Multistory mixed-use terminal
+| depth               = {{convert|0.225|km|0|abbr=on}} below pier level
+| levels              = 15
+| parking             = Third-floor park and public plaza
+| accessible          = Yes
+| architectural_style = Modern (2005 extension) / Post-war (1957 core)
+| opened              = {{start date|1912}} (original)<br />{{start date|1957}} (rebuilt)<br />{{start date|2005}} (extension)
+| rebuilt             = 1957, 2005
+| passengers          = {{c.}} 68,700 daily (ferry, 2025)
+| pass_system         = Ferries de la Badia de Sant Cristòfor
+| pass_year           = 2025
+| services            = 
+| mapframe            = yes
+| mapframe-zoom       = 12
+| mapframe-marker     = rail
+}}
+
+The '''Pandao Ferry Terminal''' ({{lang|ca|Terminal de Ferris de Pandao}}) is a major [[intermodal passenger transport|intermodal]] transport hub on the [[Península de la Barcelona]] in [[Sant Cristòfor]], [[Balboa]]. It is the busiest ferry terminal in the [[Ferries de la Badia de Sant Cristòfor]] network and serves as the primary crossing point for the Route 1 Pandao shuttle, the network's highest-frequency service. The terminal is a 15-storey mixed-use complex incorporating ferry berths, a [[Metro de Sant Cristòfor|metro]] station, a bus terminal, a shopping centre, a hotel, and a public park on the third floor.
+
+== Location ==
+
+The terminal is located in the [[Pandao]] district of [[Barcelona (ciutat)|Barcelona]], on the eastern shore of the Península de la Barcelona, facing the [[Badia de Sant Cristòfor]]. It is the peninsula's principal transport interchange and the primary gateway for commuters and visitors crossing the bay to and from the city centre.
+
+== History ==
+
+=== Zong Balboa period ===
+
+The original Pandao ferry terminal was built in 1912 during the [[Zong Balboa]] period, as the Zong authorities expanded the ferry network to serve the growing residential population of the peninsula. The original structure was a modest single-storey pier and waiting hall, built to serve the informal boat services that had operated from the site since the early Zong period. The town of Pandao, which had been founded by fishermen in the late nineteenth century, was by this point a growing residential area for Zongese administrative staff and their families, and the ferry was the only practical link to the mainland.
+
+=== Great Adonian War and rebuilding ===
+
+The original terminal was damaged during the [[Great Adonian War]] and fell into disrepair during the conflict. Following the war, the [[Adonian Community]] mandate authorities rebuilt the terminal in 1957 as a standard port complex — a concrete and steel structure with multiple berths, a larger waiting hall, and basic passenger amenities. The rebuilt terminal was designed primarily as a functional ferry terminal, with no commercial or mixed-use elements.
+
+=== Post-reunification expansion ===
+
+The reunification of 1973 brought the ferry service under the [[Metro de Sant Cristòfor]] system. The terminal was connected to the metro network with the opening of the Line 5 extension to Barcelona, which included an underground station box located approximately 225 metres from the ferry pier, connected by a subterranean pedestrian concourse.
+
+By the 1990s, the 1957 terminal was inadequate for the growing passenger volumes. The terminal handled the majority of the peninsula's commuter traffic, and the surrounding Pandao district had become the commercial centre of Barcelona. In 1998, the [[Metro de Sant Cristòfor]] authority announced a major redevelopment of the terminal complex.
+
+The current 15-storey terminal was completed in 2005, incorporating the existing ferry berths and bus terminal into a mixed-use complex. The development added a shopping centre in the main building, a hotel in the upper floors, and a public park on the third floor. The underground concourse connecting the ferry pier to the metro station was expanded and renovated, with retail frontages along the pedestrian link.
+
+== Layout ==
+
+The terminal is a 15-storey mixed-use building with the following layout:
+
+* '''Ground floor (Level 0)''': Ferry pier and boarding area; bus terminal with 24 stands; taxi stand; main entrance and ticket hall
+* '''First floor (Level 1)''': Bus terminal concourse; ticket offices; passenger waiting area
+* '''Second floor (Level 2)''': Shopping centre (lower level); retail and food court
+* '''Third floor (Level 3)''': Public park and plaza — an open green space with trees, seating, and views of the bay, accessible to the public free of charge
+* '''Fourth to twelfth floors (Levels 4–12)''': Shopping centre (upper levels); commercial and retail space
+* '''Thirteenth to fifteenth floors (Levels 13–15)''': Hotel
+
+The underground concourse connects the ferry pier to the metro station, approximately 225 metres from the pier at a depth below street level. The concourse is lined with retail units and provides covered, air-conditioned access between the ferry, bus, and metro services.
+
+== Services ==
+
+=== Ferry ===
+
+The terminal is served by the following [[Ferries de la Badia de Sant Cristòfor]] routes:
+
+{| class="wikitable"
+|-
+! Route !! Destination !! Frequency !! Notes
+|-
+| 1 || [[Sant Cristòfor Main]] || Every 5 min (peak) / 20 min (off-peak) || Primary commuter crossing
+|-
+| O || Platja de Jordi / El Fort (circular) || Every 30 min || Circular bay service
+|}
+
+=== Metro ===
+
+{{main|Metro de Sant Cristòfor}}
+
+The terminal is connected underground to the '''Pandao''' metro station on [[Metro de Sant Cristòfor|Line 5]], approximately 225 metres from the ferry pier. The station is accessed via the underground pedestrian concourse on the ground floor of the terminal complex.
+
+=== Barcelona Streetcar ===
+
+The terminal is served by the [[Barcelona Streetcar]] (Tramvia de Barcelona), with stops on the Avinguda del Port outside the main entrance.
+
+=== Bus ===
+
+The terminal's bus interchange on the first floor serves 9 bus routes (1, 2, 3, 4, 5, 10, 22, 180, 193), with 24 bus stands.
+
+== See also ==
+
+* [[Ferries de la Badia de Sant Cristòfor]]
+* [[Metro de Sant Cristòfor]]
+* [[Barcelona (ciutat)]]
+* [[Península de la Barcelona]]

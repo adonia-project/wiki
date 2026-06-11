@@ -1,0 +1,240 @@
+{{Infobox water transit
+| name                = Ferries de la Badia de Sant Cristòfor
+| image               = Badia-class ferry Sant Cristofor.png
+| caption             = A Badia-class double-ended catamaran on the Route 1 Pandao shuttle
+| locale              = [[Sant Cristòfor (comarca)|Sant Cristòfor]], [[Estret Province]]
+| coordinates         = {{coord|0.64189|N|94.40281|W|display=inline}}
+| waterway            = [[Badia de Sant Cristòfor]], Shendan coast
+| transit_type        = Passenger ferry
+| lines               = 8
+| ridership           = 118,500 daily (2025)
+| hub                 = Sant Cristòfor Main
+| terminals           = 7
+| operator            = [[Metro de Sant Cristòfor]]
+| owner               = [[Metro de Sant Cristòfor]]
+| map                 = Ferries de la Badia de Sant Cristofor route map.png
+| map_name            = Route map
+}}
+
+The '''Ferries de la Badia de Sant Cristòfor''' ({{lang|ca|Ferries de la Badia de Sant Cristòfor}}) is a [[ferry]] network operated by the [[Metro de Sant Cristòfor]] within the [[Sant Cristòfor (comarca)|comarca of Sant Cristòfor]], [[Estret Province]], [[Balboa]]. The service connects the mainland city to destinations across the [[Badia de Sant Cristòfor]] and along the Shendan coast, serving commuters, tourists, and visitors to the islands and the [[Parc Nacional de les Illes]].
+
+The network operates eight routes from seven terminals, with services ranging from high-frequency commuter crossings to seasonal recreational services.
+
+== Terminals ==
+
+{| class="wikitable"
+|-
+! Terminal !! Location !! Coordinates !! Connections
+|-
+| '''Sant Cristòfor Main''' || Mainland waterfront, city centre || {{coord|0.64189|N|94.40281|W|display=inline}} || [[Metro de Sant Cristòfor]], [[Intercon]], streetcar
+|-
+| '''Pandao''' || [[Península de la Barceloneta]], across the bay || {{coord|0.647|N|94.468|W|display=inline}} || [[Metro de Sant Cristòfor]]
+|-
+| '''Illa del Portal''' || [[Illa del Portal]], bay mouth || {{coord|0.736|N|94.485|W|display=inline}} || —
+|-
+| '''Costa Nord''' || Northern waterfront, near [[Els Aiguamolls]] border || {{coord|0.760|N|94.365|W|display=inline}} || [[Metro de Sant Cristòfor]]
+|-
+| '''Daurada''' || [[Illa Daurada]], island municipality || {{coord|0.84931|N|94.55103|W|display=inline}} || —
+|-
+| '''Platja de Jordi''' || [[Península de la Barcelona]], southern peninsula || {{coord|0.61126|N|94.45476|W|display=inline}} || —
+|-
+| '''El Fort''' || [[Península de la Barcelona]], northern peninsula || {{coord|0.69105|N|94.46226|W|display=inline}} || —
+|}
+
+== Routes ==
+
+All routes originate from Sant Cristòfor Main. The network is designed around a hub-and-spoke model, with the mainland terminal serving as the central connection point.
+
+{| class="wikitable"
+|-
+! Route !! From !! To !! Distance !! Frequency !! Operating hours !! Daily ridership !! Notes
+|-
+| 1 || Sant Cristòfor Main || Pandao || 6.4 km || Every 5 min (peak) / 20 min (off-peak) || 05:00–01:00 || ~68,700 || Primary commuter crossing across the bay; no bridge or metro crossing of the bay
+|-
+| 2 || Sant Cristòfor Main || Illa del Portal || 16.3 km || Every 90 min || 07:00–19:00 || ~2,300 || Nature reserve and public park access
+|-
+| 3 || Sant Cristòfor Main || Daurada || 30.6 km || Hourly (peak) / every 2–3 hours (off-peak) || 05:00–01:00 || ~8,200 || Primary island service; Illa Daurada residents and tourists
+|-
+| 4 || Sant Cristòfor Main || Costa Nord || 20.6 km || Rush hour only || Weekday peak hours || ~3,100 || Commuter service to northern waterfront
+|-
+| 5 || Sant Cristòfor Main || Parc Nacional wetlands || 46.6 km || Every 2–3 hours || 10:00–21:00 || ~1,900 || Weekends, holidays, Friday, Monday only; serves [[Parc Nacional de les Illes]]
+|-
+| 6 || Sant Cristòfor Main || Platja de Jordi || 6.7 km || Every 10 min (peak) / 20 min (off-peak) || 05:00–01:00 || ~15,800 || Southern Barcelona peninsula; commuter service
+|-
+| 7 || Sant Cristòfor Main || El Fort || 8.6 km || Every 10 min (peak) / 20 min (off-peak) || 05:30–00:30 || ~12,400 || Northern Barcelona peninsula; commuter and tourist service
+|-
+| O || Sant Cristòfor Main → Platja de Jordi → Pandao → El Fort → Sant Cristòfor Main || (circular) || 24.5 km || Every 30 min || 06:00–22:00 || ~7,000 || Circular bay service; connects all Barcelona terminals
+|}
+
+=== Route 1: Sant Cristòfor Main – Pandao ===
+
+[[File:Pandao ferry terminal Sant Cristofor.png|thumb|right|300px|The Pandao ferry terminal on the Península de la Barceloneta.]]
+
+The shortest and most frequent crossing, Route 1 connects the city centre to the Pandao district on the [[Península de la Barceloneta]], directly across the bay. The 6.4 km crossing takes approximately 10 minutes and is the primary means of reaching the city centre from the peninsula, as there is no bridge or metro crossing of the bay; the alternative is [[Metro de Sant Cristòfor|Line 5]], which runs south and around the bay to reach downtown, a significantly longer journey. The service runs from 05:00 to 01:00, with 5-minute frequency during peak hours and 20-minute frequency off-peak, making it one of the busiest ferry routes in Lurandia by passenger volume.
+
+=== Route 2: Sant Cristòfor Main – Illa del Portal ===
+
+[[File:Illa del Portal ferry landing.png|thumb|right|300px|The ferry landing at Illa del Portal.]]
+
+Route 2 serves [[Illa del Portal]], the nature reserve at the mouth of the bay. The 16.3 km crossing operates every 90 minutes between 07:00 and 19:00. Illa del Portal is home to a public park and nature reserve; the ferry is the primary means of access for visitors, as well as authorised personnel including researchers and wardens. Outside scheduled service hours, access requires prior arrangement with the nature reserve authority.
+
+=== Route 3: Sant Cristòfor Main – Daurada ===
+
+[[File:Daurada ferry Port Daurat.png|thumb|right|300px|The ferry terminal at Port Daurat, Illa Daurada.]]
+
+Route 3 is the primary island service, connecting the mainland to [[Illa Daurada]] and the [[Municipalitat de les Illes]]. The 30.6 km crossing is the network's most significant route in terms of ridership, serving both the island's permanent residents (who commute to the mainland for work) and tourists visiting the island's hotels and beaches. The service runs from 05:00 to 01:00, with hourly frequency during peak hours and every 2–3 hours off-peak.
+
+=== Route 4: Sant Cristòfor Main – Costa Nord ===
+
+Route 4 is a limited commuter service to the Costa Nord terminal on the northern waterfront, near the border with [[Els Aiguamolls]]. The 20.6 km crossing operates only during weekday rush hours, providing an alternative to road and rail for commuters from the northern suburbs.
+
+=== Route 5: Sant Cristòfor Main – Parc Nacional wetlands ===
+
+[[File:Parc Nacional wetlands ferry.png|thumb|right|300px|A Parc-class monohull approaching the Parc Nacional de les Illes wetlands terminal.]]
+
+Route 5 is a recreational service connecting the city to the wetlands and mangrove forests of the [[Parc Nacional de les Illes]], located on the Shendan coast north of the city. The 46.6 km route is the longest in the network and operates only on weekends, public holidays, Fridays, and Mondays, with departures every 2–3 hours between 10:00 and 21:00. The service is primarily used by day-trippers and eco-tourists visiting the national park's mangrove boardwalks, birdwatching hides, and visitor centre.
+
+=== Route 6: Sant Cristòfor Main – Platja de Jordi ===
+
+Route 6 serves the southern end of the [[Península de la Barcelona]], terminating at '''Platja de Jordi''', a residential neighbourhood named after the beach that once occupied the site. The beach has since been lost to coastal development and erosion, but the name persists. The 6.7 km crossing operates at high frequency during peak hours, providing a commuter service for residents of southern Barcelona. The service was introduced in 2018 to relieve pressure on Route 1 and to serve the growing residential population of the southern peninsula.
+
+=== Route 7: Sant Cristòfor Main – El Fort ===
+
+Route 7 serves the northern end of the [[Península de la Barcelona]], terminating at '''El Fort''', a historic fortification on the northern tip of the peninsula. The 8.6 km crossing operates at moderate frequency, primarily serving commuters from the northern peninsula neighbourhoods. The fort itself, a Zong-era coastal battery, is a minor tourist attraction, but the route's primary function is commuter transport.
+
+=== Route O: Circular bay service ===
+
+Route O is a circular service that loops around the Badia de Sant Cristòfor, calling at Sant Cristòfor Main, Platja de Jordi, Pandao, and El Fort before returning to Sant Cristòfor Main. The 24.5 km loop operates every 30 minutes from 06:00 to 22:00, providing a cross-peninsula connection that allows passengers to travel between Barcelona terminals without returning to the mainland hub. The service is primarily used by peninsula residents travelling between neighbourhoods and by tourists visiting the peninsula's attractions.
+
+== Fleet ==
+
+[[File:Badia-class and Illa-class ferries Sant Cristofor.png|thumb|right|300px|Badia-class (foreground) and Illa-class (background) vessels at Sant Cristòfor Main terminal.]]
+
+The Ferries de la Badia de Sant Cristòfor operates a fleet of 25 vessels across seven classes, designed for the specific demands of each route.
+
+{| class="wikitable"
+|-
+! Class !! Vessels !! Capacity !! Type !! Route(s) !! Speed !! Notes
+|-
+| '''Badia-class''' || 7 || 350 passengers || Double-ended catamaran || 1 || 22 kn || High-frequency bay shuttle; double-ended for quick turnaround at both terminals
+|-
+| '''Platja-class''' || 4 || 250 passengers || Double-ended catamaran || 6 || 20 kn || Southern peninsula shuttle; double-ended for quick turnaround
+|-
+| '''Fort-class''' || 3 || 200 passengers || Catamaran || 7 || 18 kn || Northern peninsula commuter service
+|-
+| '''Cercle-class''' || 2 || 200 passengers || Catamaran || O || 16 kn || Circular bay service; moderate speed for multi-stop loop
+|-
+| '''Illa-class''' || 3 || 200 passengers || Catamaran || 3 || 18 kn || Island service; medium-distance, moderate frequency
+|-
+| '''Costa-class''' || 2 || 150 passengers || Catamaran || 4 || 18 kn || Rush-hour commuter service to Costa Nord
+|-
+| '''Portal-class''' || 2 || 150 passengers || Monohull || 2 || 14 kn || Nature reserve and park service; monohull for smoother ride to island
+|-
+| '''Parc-class''' || 2 || 150 passengers || Monohull || 5 || 14 kn || Recreational service; monohull for passenger comfort on longest route
+|}
+
+The '''Badia-class''' vessels are the workhorses of the fleet, designed specifically for the high-frequency Route 1 crossing. Their double-ended configuration allows them to load and unload from either bow, eliminating the need to turn the vessel at either terminal and reducing turnaround time to approximately five minutes. The seven vessels rotate through service with typically five or six operating at peak hours and the remainder in maintenance or reserve.
+
+The '''Platja-class''' vessels are the newest addition to the fleet, introduced in 2018 with the opening of Route 6. Like the Badia-class, they are double-ended catamarans optimised for high-frequency shuttle service, though slightly smaller to match the lower demand of the southern peninsula route. The '''Fort-class''' catamarans serve Route 7, providing commuter service to the northern peninsula.
+
+The '''Illa-class''' and '''Costa-class''' catamarans provide higher-speed service on the medium-distance routes. The Costa-class vessels operate Route 4 during weekday rush hours and are otherwise available for charter or maintenance relief.
+
+The '''Portal-class''' and '''Parc-class''' monohulls are slower but offer a smoother ride, suited to the longer crossings and the recreational character of Routes 2 and 5. The Portal-class vessels are sized to accommodate both park visitors and authorised research personnel, with capacity for up to 150 passengers to handle tourist demand on weekends and holidays.
+
+== Ridership ==
+
+The network carried an average of approximately 118,500 passengers per day in 2025. Route 1 (Sant Cristòfor Main – Pandao) remains the dominant route, carrying approximately 68,700 passengers daily — roughly 58 per cent of the network's total. The route's high ridership reflects the absence of a bridge or metro crossing of the Badia de Sant Cristòfor, making the ferry the only direct link between the Península de la Barcelona and the city centre.
+
+Route 6 (Sant Cristòfor Main – Platja de Jordi), introduced in 2018, carries approximately 15,800 passengers daily, providing a second direct crossing for the southern peninsula. Route 7 (Sant Cristòfor Main – El Fort) carries approximately 12,400 passengers daily, serving the northern peninsula and tourists visiting the historic fort. Route O (circular bay service) carries approximately 7,000 passengers daily, providing cross-peninsula connections between the Barcelona terminals. Together, the four Barcelona peninsula routes (1, 6, 7, and O) carry approximately 103,900 passengers daily — 88 per cent of the network's total — reflecting the enormous demand for direct bay crossings from the peninsula's 1 million residents.
+
+Route 3 (Sant Cristòfor Main – Daurada) is the busiest island route, carrying approximately 8,200 passengers daily, primarily Illa Daurada residents commuting to the mainland and tourists visiting the island. Route 2 (Illa del Portal) carries approximately 2,300 passengers daily, driven by visitor traffic to the island's public park and nature reserve, particularly on weekends and holidays. Route 4 (Costa Nord) carries approximately 3,100 passengers on weekdays, limited by its rush-hour-only schedule. Route 5 (Parc Nacional wetlands) carries approximately 1,900 passengers on operating days, reflecting its seasonal and recreational character.
+
+== Employment ==
+
+The Ferries de la Badia de Sant Cristòfor employs approximately 190 people, comprising around 120 vessel crew (captains, deck officers, engineers, and customer service staff) and 70 shore-based staff (terminal operators, maintenance technicians, administrative and management personnel). Crew are organised under the '''Sindicat de Treballadors del Port''' (dockworkers' union), which also represents port workers and other maritime employees in Sant Cristòfor.
+
+== History ==
+
+[[File:Early Sant Cristofor bay crossing.png|thumb|right|300px|An informal bay crossing in the colonial period, before the establishment of scheduled ferry services.]]
+
+=== Colonial period ===
+
+Before the establishment of formal ferry services, crossings of the Badia de Sant Cristòfor were informal and ad hoc. Ships departing from the Sant Cristòfor harbour for destinations along the Shendan coast or beyond would pick up passengers bound for the islands or the Península de la Barceloneta, dropping them en route for a negotiated fare. There was no schedule, no dedicated vessels, and no official oversight; the arrangement depended entirely on the willingness of passing captains to take on additional passengers. Small boatmen also operated unofficial crossings, rowing or sailing passengers across the bay for a fee. These informal services were the only means of reaching Illa del Portal and Illa Daurada from the mainland throughout the colonial period.
+
+=== Early republic ===
+
+Following independence in 1854, the new Balboan government began to regulate the bay crossings. The first licensed ferry operator, the '''Companyia de Barques de la Badia''', was granted a concession in 1861 to operate scheduled crossings from the mainland waterfront to Pandao and Illa Daurada. The company operated small wooden-hulled vessels, and the service was initially limited to two departures per day. The formalisation of the ferry service was driven in part by the growing residential population of the Península de la Barceloneta, which had previously been accessible only by the informal boatmen or by the long overland route around the southern shore of the bay.
+
+The construction of the [[Balboa Canal]] in the late nineteenth century increased traffic in the bay, as ferries departing from Sant Cristòfor harbour for [[Portnou]] — the canal's Shendan terminus outside the bay to the south — would pick up passengers bound for the islands or the peninsula en route. The Companyia expanded its schedule and added Illa del Portal as a stop, primarily to serve the quarantine station.
+
+=== Zong Balboa period ===
+
+The [[Second War of the Isthmus]] (1893–1899) and the subsequent Zong administration brought the most significant expansion of the ferry network. The Zong authorities, who controlled Sant Cristòfor and the canal zone, invested heavily in port infrastructure and urban transport, including the original two-line metro system. The ferry service was expanded to serve the growing Zongese administrative and commercial population, with new routes added to Costa Nord and the northern Shendan coast.
+
+By the 1920s, the bay crossings had become severely congested. The formal ferry service could not keep up with demand, and a parallel market of private operators flourished — small boatmen, launch operators, and unofficial water taxis competing for passengers at the waterfront. The congestion was exacerbated by the limited road network around the bay, which made the ferry the only practical crossing for most residents. The Zong administration attempted to regulate the private operators, issuing licences and imposing safety standards, but enforcement was inconsistent and the informal market persisted throughout the period.
+
+The Zong period also saw the development of Illa Daurada as a residential enclave for Zongese officials and businessmen, which significantly increased traffic on the island route.
+
+=== AC mandate and reunification ===
+
+The [[Adonian Community]] assumed administration of the former Zong territory in 1950. The AC mandate period saw the reconstruction of the city's transport infrastructure, including the ferry fleet, much of which had deteriorated during the war years. The mandate authorities consolidated the remaining licensed operators into a single public service and began to phase out the unlicensed private boats. The Municipalitat de les Illes was established in 1964, and the island ferry service was transferred to the new municipality's administration.
+
+=== Post-reunification ===
+
+The reunification of 1973 brought the ferry service under the newly created [[Metro de Sant Cristòfor]] system. The metro authority took over the largest private operator, the '''Ferris del Nord''', which had operated the Costa Nord route since the 1940s, and integrated it into the unified network. The remaining smaller private operators were either acquired or their licences were not renewed, ending the era of informal and private ferry services on the bay.
+
+The modern network was largely in place by the early 1980s, with the addition of the Parc Nacional wetlands route in 1986 following the designation of the [[Parc Nacional de les Illes]]. The fleet has been progressively modernised, with the original wooden-hulled vessels replaced by the current catamaran and monohull classes.
+
+=== Proposed cross-bay metro tunnel ===
+
+{{main|Metro de Sant Cristòfor}}
+
+Since the 1990s, there have been recurring proposals to extend [[Metro de Sant Cristòfor|Line 1]] under the Badia de Sant Cristòfor from the mainland to [[Barcelona (ciutat)|Barcelona]] on the Península de la Barcelona, creating a direct rapid transit link across the bay. The proposed tunnel would be approximately 7 km in length and would provide an alternative to the ferry for the estimated 1 million residents of the peninsula, who currently rely on the Route 1 ferry or the much longer overland routes via Lines 5 and 6.
+
+Proponents argue that the ferry is operating near capacity during peak hours and that a cross-bay metro would significantly reduce journey times between Barcelona and the city centre. Opponents cite the high cost of underwater construction, the environmental impact on the bay, and the potential disruption to the ferry service and its workforce. The proposal has been studied several times but has never advanced to the planning stage. The [[Metro de Sant Cristòfor]] authority has included the cross-bay tunnel in its long-term infrastructure plan, but no funding has been allocated.
+
+The proposal has become a contentious political issue. A citywide referendum in 2025 approved the tunnel extension by a wide margin, reflecting strong support from Barcelona residents and commuters frustrated by the lack of a direct rapid transit crossing. However, the [[Partit dels Treballadors Marítims|Maritime Workers' Party]] (PTM) and the '''Sindicat de Treballadors del Port''' (dockworkers' union), which represents ferry crews and port workers, have organised large-scale protests against the project, arguing that it would eliminate ferry jobs and undermine the livelihoods of hundreds of working-class families. The protests have drawn thousands of demonstrators and have become a focal point for broader debates about the future of the city's working-class waterfront communities. The tunnel remains in the planning stage, with no construction timeline announced.
+
+== Funding ==
+
+The Ferries de la Badia de Sant Cristòfor are funded through a mix of local finance, ticket revenue, and a national grant. The operating costs of Routes 1 through 4 are covered by a combination of fare revenue and a subsidy from the [[Sant Cristòfor (comarca)|comarca government]] and the [[Municipalitat de les Illes]]. Route 5 (Parc Nacional wetlands) receives a dedicated national grant from the [[Balboa Ministry of Environment]], reflecting the route's role in providing public access to the [[Parc Nacional de les Illes]] and supporting the national park's conservation and eco-tourism objectives.
+
+== Fares ==
+
+{| class="wikitable"
+|-
+! Route !! Adult single !! Concession single !! Monthly pass
+|-
+| 1 (Pandao) || $1.50 || $0.75 || $48
+|-
+| 2 (Illa del Portal) || $3.00 || $1.50 || —
+|-
+| 3 (Daurada) || $5.00 || $2.50 || $145
+|-
+| 4 (Costa Nord) || $3.50 || $1.75 || $95
+|-
+| 5 (Parc Nacional wetlands) || $7.00 || $3.50 || —
+|-
+| 6 (Platja de Jordi) || $1.50 || $0.75 || $48
+|-
+| 7 (El Fort) || $2.00 || $1.00 || $55
+|-
+| O (Circular) || $2.50 || $1.25 || —
+|}
+
+Fares are set by the [[Metro de Sant Cristòfor]] board and are integrated with the metro's [[Tarifa Integrada]] system, which allows free transfers between the ferry and metro services within a 90-minute window. The Route 1 Pandao crossing and Route 6 Platja de Jordi crossing are both included in the standard metro zone 1 fare, making them the cheapest crossings on the network and reinforcing their role as the primary commuter links across the bay.
+
+Concession fares (half price) are available to seniors, students, and children under 12. Children under 5 travel free. Monthly passes are available for Routes 1, 3, 4, 6, and 7, which serve regular commuters; Routes 2 and 5, which are primarily recreational, do not offer monthly passes.
+
+Illa Daurada residents are eligible for a discounted '''Illenc pass''' — a monthly pass for Route 3 at a reduced rate of $95, subsidised by the [[Municipalitat de les Illes]] — reflecting the island community's dependence on the ferry for daily access to the mainland.
+
+Route 5 (Parc Nacional wetlands) fares include the park entrance fee, which is collected on behalf of the [[Parc Nacional de les Illes]] authority.
+
+== See also ==
+
+* [[Metro de Sant Cristòfor]]
+* [[Sant Cristòfor (comarca)]]
+* [[Badia de Sant Cristòfor]]
+* [[Illa del Portal]]
+* [[Illa Daurada]]
+* [[Parc Nacional de les Illes]]
