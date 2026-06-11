@@ -252,8 +252,8 @@ Original's 31 barris are grouped into 8 numbered districtes for electoral and ad
 
 ### Stations by line
 
-**Line 1** (Sant Jordi → Original → Sant Martí → Airport): Estació Gran · Barri del Te · La Prosperitat · Barri dels Teatres
-**Line 2** (Sant Martí → Original → Ciutat de l'Estació → Dàrsena): Estació Gran · Barri del Te · La Garriga · Sant Antoni · Districte Càrnic · Els Magatzems · La Tanneria
+**Line 1** (Sant Jordi → Original → Sant Martí → Airport): Estació Terminal Central · Barri del Te · La Prosperitat · Barri dels Teatres
+**Line 2** (Sant Martí → Original → Ciutat de l'Estació → Dàrsena): Estació Terminal Central · Barri del Te · La Garriga · Sant Antoni · Districte Càrnic · Els Magatzems · La Tanneria
 **Line 3** (Costa Nord → Original → Dàrsena/Sant Llorenç): La Seu · La Universitat · La Diagonal · Plaça Major · Districte Financer · Molls Superiors · L'Eixample Sud · Districte Càrnic · Districte Càrnic Sud
 **Line 4** (Dàrsena → Original → Mare de Déu del Mar): Districte Financer · Barri del Te · La Garriga · Sant Antoni · L'Eixample Sud · El Forn de Baix · El Raval
 **Line 5** (Original → Barcelona → Costa Nord → Dàrsena): Mercat Plaça · La Vila Nova · Molls Inferiors · Molls Superiors · Districte Financer · Plaça Major · La Diagonal · La Universitat
@@ -270,7 +270,7 @@ Original's 31 barris are grouped into 8 numbered districtes for electoral and ad
 | Molls Superiors | Molls Superiors | L3, L5, L7 | ★ Major hub |
 | Barri del Te | Barri del Te | L1, L2, L4 | ★ Major hub |
 | L'Eixample Sud | L'Eixample Sud | L3, L4, L7 | ★ Major hub |
-| Estació Gran | Plaça Major | L1, L2 | ◆ Minor hub (Sant Cristòfor Grand Train Terminal) |
+| Estació Terminal Central | Plaça Major | L1, L2 | ◆ Minor hub (Sant Cristòfor Central Terminal) |
 | La Garriga | La Garriga | L2, L4 | ◆ Minor hub |
 | Sant Antoni | Sant Antoni | L2, L4 | ◆ Minor hub |
 | Districte Càrnic | Districte Càrnic | L2, L3 | ◆ Minor hub |
@@ -310,3 +310,25 @@ Most barris use Catalan-language names following the pattern established by the 
 - Patron saints or religious sites
 - Former land use (orchards, quarries, marshes)
 - Former towns or villages absorbed into the city
+
+## Boulevards and avenues
+
+The post-GAW reconstruction replaced the narrow, organic streets of the old city with a system of wide, tree-lined boulevards that divide the ciutat into discrete neighbourhood blocks (the "mini city" concept). The streetcar tracks are embedded in the boulevards. 9 major avenues form the transport spine of Original:
+
+| Avenue | Length in Original (km) | Character |
+|--------|----------------------|-----------|
+| Embarcadero | 11.76 | Waterfront boulevard along the bay shore; T1 streetcar; ferry terminal connection |
+| Avinguda Justícia | 10.28 | Longest radial; southeast toward Sant Martí |
+| Avinguda Responsabilitat | 9.99 | Northeast radial toward Costa Nord |
+| Avinguda Campions | 9.09 | East radial; passes through Barri del Te |
+| Avinguda Herois | 8.42 | Northeast radial; passes through Turó del Temple |
+| Avinguda Fe | 7.36 | South radial; extends into Dàrsena |
+| Avinguda Llibertat | 7.55 | North radial toward Sant Gervasi/La Seu |
+| Gran Avinguda | 7.44 | Main east–west spine; T2 streetcar |
+| Avinguda Solidaritat | 6.60 | South radial toward La Tanneria/El Raval |
+
+### Notes
+- All 9 avenues radiate from or connect to the Estació Terminal Central (Sant Cristòfor Central Terminal) at Plaça Major
+- Avinguda Fe extends beyond Original into Dàrsena
+- The Embarcadero is the longest avenue (11.76 km) and the most important for surface transport — T1 streetcar, ferry terminal access, and the bay shore commercial strip
+- Avenue names reflect post-GAW values: Justice, Responsibility, Liberty, Heroes, Champions, Faith, Solidarity

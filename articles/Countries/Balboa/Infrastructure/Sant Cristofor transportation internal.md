@@ -7,7 +7,7 @@ Sant Cristòfor is the transport hub of the Isthmus of Balboa, with a multimodal
 | Mode | Daily ridership | Operator | Notes |
 |------|----------------|----------|-------|
 | Metro | 2,100,000 | Metro de Sant Cristòfor (ATS) | 9 lines, backbone |
-| Streetcar | 250,000 | Tramvia de Sant Cristòfor (ATS) | 13 lines (4 Original, 7 Barcelona, 2 Costa Nord) |
+| Streetcar | 250,000 | Tramvia de Sant Cristòfor (ATS) | 17 lines (8 Original, 7 Barcelona, 2 Costa Nord) |
 | Bus | 760,000 | Autobusos de Sant Cristòfor (ATS) | Full network coverage |
 | Ferry | 118,500 | Ferries de la Badia (ATS) | 8 routes, bay crossings |
 | Commuter rail | 350,000 | Ferrocarrils de l'Istme (national) | 3 terminals, suburban comarcas |
@@ -20,11 +20,11 @@ Sant Cristòfor is the transport hub of the Isthmus of Balboa, with a multimodal
 {{main|Metro de Sant Cristòfor}}
 
 ### Network topology
-The metro is NOT a simple radial system. Only Lines 1 and 2 originate from Sant Cristòfor Grand Train Terminal. The remaining lines have varied configurations — cross-city routes, peninsula routes, an outer ring, and a regional connector. Original is the network hub (7 of 9 lines converge there); Dàrsena is the second hub (6 lines).
+The metro is NOT a simple radial system. Only Lines 1 and 2 originate from Sant Cristòfor Central Terminal. The remaining lines have varied configurations — cross-city routes, peninsula routes, an outer ring, and a regional connector. Original is the network hub (7 of 9 lines converge there); Dàrsena is the second hub (6 lines).
 
 ### Line details
-- **Line 1** (31.6 km): Sant Jordi → Original → Sant Martí → Sant Miquel. Radial from Sant Cristòfor Grand Train Terminal eastward. Extended to airport 1986. ~107,300 daily.
-- **Line 2** (37.8 km): Sant Martí → Original → Ciutat de l'Estació → Dàrsena. Radial from Sant Cristòfor Grand Train Terminal northeastward. ~152,900 daily.
+- **Line 1** (31.6 km): Sant Jordi → Original → Sant Martí → Sant Miquel. Radial from Sant Cristòfor Central Terminal eastward. Extended to airport 1986. ~107,300 daily.
+- **Line 2** (37.8 km): Sant Martí → Original → Ciutat de l'Estació → Dàrsena. Radial from Sant Cristòfor Central Terminal northeastward. ~152,900 daily.
 - **Line 3** (33.3 km): Costa Nord → Original → Dàrsena/Sant Llorenç. North-south connector, completed from GAW-halted tunnels (1964). First direct north-south metro link. ~daily TBD.
 - **Line 4** (26.8 km): Dàrsena → Original → Mare de Déu del Mar. East-west cross-city. ~86,700 daily.
 - **Line 5** (42.8 km): Original → Barcelona → Costa Nord → Dàrsena. First rail link to the peninsula. Goes around the northern bay shore (NOT a tunnel). **Busiest line** at ~257,600 daily.
@@ -57,17 +57,20 @@ Since 2022, the Metro de Sant Cristòfor has been constructing **Line 10**, a fu
 
 ## 2. Streetcar
 
-The streetcar system has 13 lines across three ciutats, each network with a distinct character. The original private tramways were absorbed into the metro system in 1964 (Sant Cristòfor Tramway Company, Costa Nord Light Railway, Pandao Tram Company), but the streetcar lines were retained and upgraded rather than closed. Total daily ridership: ~250,000.
+The streetcar system has 17 lines across three ciutats (8 Original + 7 Barcelona + 2 Costa Nord), each network with a distinct character. The original private tramways were absorbed into the metro system in 1964 (Sant Cristòfor Tramway Company, Costa Nord Light Railway, Pandao Tram Company), but the streetcar lines were retained and upgraded rather than closed. Total daily ridership: ~250,000.
 
-### Original — 4 lines (LRV)
-Four lines radiating from Sant Cristòfor Grand Train Terminal along the main boulevards, spining outward through the historic core. All upgraded to modern LRVs in the 2000s. Connect the major transport hubs (Sant Cristòfor Grand Train Terminal, ferry terminal, financial district) through the narrow streets of the historic core where metro stations are too far apart. High frequency (4 min peak on all lines).
+### Original — 8 lines (LRV)
+Eight lines running along the main boulevards of Original. The boulevard system — wide, tree-lined avenues dividing the ciutat into neighbourhood blocks — was laid out during the post-GAW reconstruction, replacing the narrow streets of the old city. The streetcar tracks were embedded in the boulevards as part of the rebuild. All upgraded to modern LRVs in the 2000s. Connect the major transport hubs (Sant Cristòfor Central Terminal, ferry terminal, financial district) through the historic core where metro stations are too far apart. High frequency (4 min peak on all lines).
 
-- **T1**: Sant Cristòfor Grand Train Terminal → bay shore → financial district → Carrer del Canal → southern neighbourhoods
-- **T2**: Sant Cristòfor Grand Train Terminal → eastern boulevard → Dàrsena border
-- **T3**: Sant Cristòfor Grand Train Terminal → northern boulevard → Costa Nord border
-- **T4**: Sant Cristòfor Grand Train Terminal → western boulevard → Sant Jordi border
+Principal boulevards: Embarcadero (waterfront), Gran Avinguda (main east–west spine), and seven radial avenues — Avinguda Llibertat, Avinguda Campions, Avinguda Herois, Avinguda Justícia, Avinguda Responsabilitat, Avinguda Fe, Avinguda Solidaritat — radiating from the Sant Cristòfor Central Terminal.
 
-**Role**: The four Original lines are the spine of the city centre's surface transport. They serve the financial sector lunch rush, the cafeteria halls, and the dense residential neighbourhoods. T1 connects directly to the ferry terminal at Sant Cristòfor Main, making it the primary last-mile connection for ferry passengers heading into the city centre. ~95,000 daily combined.
+- **T1**: Sant Cristòfor Central Terminal → Embarcadero → financial district → Carrer del Canal → southern neighbourhoods
+- **T2**: Sant Cristòfor Central Terminal → Gran Avinguda → Dàrsena border
+- **T3**: Sant Cristòfor Central Terminal → Avinguda Llibertat → Costa Nord border
+- **T4**: Sant Cristòfor Central Terminal → Avinguda Campions → Sant Jordi border
+- **T5–T8**: Cross-town and connector lines along the remaining boulevards, linking the radial spines to intermediate neighbourhoods, metro stations, and the ferry terminal
+
+**Role**: The eight Original lines are the spine of the city centre's surface transport. They serve the financial sector lunch rush, the cafeteria halls, and the dense residential neighbourhoods. T1 connects directly to the ferry terminal at Sant Cristòfor Main, making it the primary last-mile connection for ferry passengers heading into the city centre. ~95,000 daily combined.
 
 ### Barcelona — 7 lines (LRV)
 Seven lines following the peninsula's grid pattern — 4 east-west, 3 north-south. All upgraded to modern LRVs in the 2010s. The Barcelona network is critical infrastructure: with no metro crossing of the bay, the streetcar grid provides the primary internal circulation for the peninsula's 732,000 residents. High frequency (5 min peak on spine lines, 8 min on secondary).
@@ -161,18 +164,18 @@ Sant Cristòfor is the rail hub of Balboa — the major terminus for all rail in
 
 ### Terminals
 
-- **Sant Cristòfor Grand Train Terminal** — the primary hub, located in Original. Serves commuter rail, regional rail, and high-speed rail. The busiest station in the country.
+- **Sant Cristòfor Central Terminal** — the primary hub, located in Original. Serves commuter rail, regional rail, and high-speed rail. The busiest station in the country.
 - **Costa Nord terminal** — serves regional rail services heading north along the Shendan coast and into the northern provinces.
 - **Barcelona terminal** — serves commuter rail (Barcelona → Mare de Déu del Mar → Cumará) and a regional line to Portnou. Provides the peninsula with direct rail access without requiring a cross-bay journey.
 
 ### Commuter rail
 Suburban services connecting Sant Cristòfor to the surrounding comarcas of Estret Province. ~350,000 daily (2025).
-- From Sant Cristòfor Grand Train Terminal: services to suburban towns and the canal corridor
+- From Sant Cristòfor Central Terminal: services to suburban towns and the canal corridor
 - From Barcelona terminal: commuter service through Mare de Déu del Mar to Cumará
 
 ### Regional rail
 Conventional-speed intercity rail connecting Sant Cristòfor to every province in Balboa. The city is the country's major rail terminus — all major national routes converge here.
-- From Sant Cristòfor Grand Train Terminal: services to all provinces
+- From Sant Cristòfor Central Terminal: services to all provinces
 - From Costa Nord terminal: services heading north along the Shendan coast and into the northern provinces
 - From Barcelona terminal: regional line to Portnou
 

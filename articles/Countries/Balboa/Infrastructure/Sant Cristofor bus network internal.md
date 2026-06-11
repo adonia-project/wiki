@@ -2,9 +2,9 @@
 
 ## Design Principles
 
-The surface transit network (streetcar + bus) complements the metro (9 lines, radial from Sant Cristòfor Grand Train Terminal) and ferries (8 routes across the bay). The hierarchy is:
+The surface transit network (streetcar + bus) complements the metro (9 lines, radial from Sant Cristòfor Central Terminal) and ferries (8 routes across the bay). The hierarchy is:
 
-1. **Metro** — backbone, high-capacity, radial from Sant Cristòfor Grand Train Terminal
+1. **Metro** — backbone, high-capacity, radial from Sant Cristòfor Central Terminal
 2. **Streetcar** — medium-capacity commuter corridors in dense ciutats, key transport hub connections
 3. **Bus** — flexible coverage, cross-town connections, low-density areas, night service
 4. **Ferry** — cross-bay connections (no alternative for Barcelona peninsula)
@@ -14,8 +14,8 @@ The surface transit network (streetcar + bus) complements the metro (9 lines, ra
 The streetcar system has three lines, each with a distinct character. The original private tramways were absorbed into the metro system in 1964, but the streetcar lines were retained and upgraded rather than closed.
 
 ### Line T1 — Original (LRV)
-- **Route**: Sant Cristòfor Grand Train Terminal → Original bay shore → financial district → Carrer del Canal → Original southern neighbourhoods
-- **Character**: Full commuter service, upgraded to modern LRVs in the 2000s. Connects the three major transport hubs (Sant Cristòfor Grand Train Terminal, ferry terminal, financial district) through the narrow streets of the historic core where metro stations are too far apart. High frequency (4 min peak). Carries approximately 95,000 passengers daily.
+- **Route**: Sant Cristòfor Central Terminal → Original bay shore → financial district → Carrer del Canal → Original southern neighbourhoods
+- **Character**: Full commuter service, upgraded to modern LRVs in the 2000s. Connects the three major transport hubs (Sant Cristòfor Central Terminal, ferry terminal, financial district) through the narrow streets of the historic core where metro stations are too far apart. High frequency (4 min peak). Carries approximately 95,000 passengers daily.
 - **Role**: The T1 is the spine of Original's surface transport. It serves the financial sector lunch rush, the cafeteria halls, and the dense residential neighbourhoods of the southern districts. It connects directly to the ferry terminal at Sant Cristòfor Main, making it the primary last-mile connection for ferry passengers heading into the city centre.
 
 ### Line T2 — Barcelona (LRV)
@@ -42,7 +42,7 @@ The bus network complements the metro and streetcar with surface-level routes co
 ### Ciutat Analysis
 
 #### High-density urban core (metro + streetcar + bus feeders)
-- **Original** (731K, 8,811/km²) — dense core, narrow streets. Metro + T1 streetcar primary. Bus serves as cross-town and feeder to metro stations. Heavy bus usage for cafeteria hall lunch rush, financial district commuters.
+- **Original** (731K, 8,811/km²) — dense core, narrow streets. Metro + 8 streetcar lines primary. Bus serves as cross-town and feeder to metro stations. Heavy bus usage for cafeteria hall lunch rush, financial district commuters.
 - **Barcelona** (732K, 10,605/km²) — densest, peninsula. No metro crossing of bay. Ferry + T2 streetcar primary for internal circulation. Bus supplements streetcar with east-west cross-peninsula routes and connections to less-served neighbourhoods.
 - **Dàrsena** (575K, 3,803/km²) — nightlife, warehouses. Metro serves east-west. Bus serves north-south connections, nightlife district circulation (late night when metro closes). Sòtol gay village.
 
@@ -126,7 +126,7 @@ Note: Original and Barcelona bus ridership is lower than it would be without str
 - **N2**: Original → Dàrsena → Barcelona late-night connector
 
 #### Airport
-- **A1**: Airport express — Sant Cristòfor Grand Train Terminal → Airport (limited stops)
+- **A1**: Airport express — Sant Cristòfor Central Terminal → Airport (limited stops)
 
 ## Total Daily Surface Transit Ridership
 
