@@ -270,7 +270,7 @@ Original's 31 barris are grouped into 8 numbered districtes for electoral and ad
 | Molls Superiors | Molls Superiors | L3, L5, L7 | ★ Major hub |
 | Barri del Te | Barri del Te | L1, L2, L4 | ★ Major hub |
 | L'Eixample Sud | L'Eixample Sud | L3, L4, L7 | ★ Major hub |
-| Estació Gran | Plaça Major | L1, L2 | ◆ Minor hub (Grand Train Terminal) |
+| Estació Gran | Plaça Major | L1, L2 | ◆ Minor hub (Sant Cristòfor Grand Train Terminal) |
 | La Garriga | La Garriga | L2, L4 | ◆ Minor hub |
 | Sant Antoni | Sant Antoni | L2, L4 | ◆ Minor hub |
 | Districte Càrnic | Districte Càrnic | L2, L3 | ◆ Minor hub |

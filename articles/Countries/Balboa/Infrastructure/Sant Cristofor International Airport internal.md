@@ -28,7 +28,7 @@
 - Line 9 built with bypass tracks at all stations for express services
 
 ## Metro Connections
-- **Line 1**: Airport → Grand Train Terminal (city centre), ~35 min, all stations
+- **Line 1**: Airport → Sant Cristòfor Grand Train Terminal (city centre), ~35 min, all stations
 - **Line 9**: Airport → Areza via canal corridor, ~25 min express, bypass tracks allow express to skip all local stops
 
 ## Cargo

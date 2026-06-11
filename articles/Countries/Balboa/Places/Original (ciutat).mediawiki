@@ -30,10 +30,12 @@
 |subdivision_name1       = [[Estret Province|Estret]]
 |subdivision_type2       = [[Comarcas of Balboa|Comarca]]
 |subdivision_name2       = [[Sant Cristòfor (comarca)|Sant Cristòfor]]
+|subdivision_type3       = Municipalitat
+|subdivision_name3       = [[Sant Cristòfor]]
 |established_title       = Founded
 |established_date        = 1524
 |government_type         = Ciutat council
-|leader_title            = Ciutat mayor
+|leader_title            = 
 |leader_name             =
 |unit_pref               = Metric
 |area_total_km2          = 83.35
@@ -54,7 +56,7 @@
 |footnotes               =
 }}
 
-'''Original''' ({{lang|ca|Original}}) is the historic centre and administrative heart of [[Sant Cristòfor]], the capital city of [[Estret Province]], [[Balboa]]. With a population of 731,320 across 83.35 km², it is the second-most populous of Sant Cristòfor's eleven [[ciutats of Sant Cristòfor|ciutats]] after [[Barcelona (ciutat)|Barcelona]]. Original occupies the eastern shore of the [[Badia de Sant Cristòfor]], stretching from the working-class southern neighbourhoods along the bay's head to the wealthy hillside barris in the north. It is home to the [[National Assembly of Balboa|National Assembly]], the [[Borsa de Sant Cristòfor]], the [[Grand Train Terminal|Estació Gran]], and the city's principal ferry terminal.
+'''Original''' ({{lang|ca|Original}}) is the historic centre and administrative heart of [[Sant Cristòfor]], the capital city of [[Estret Province]], [[Balboa]]. With a population of 731,320 across 83.35 km², it is the second-most populous of Sant Cristòfor's eleven [[ciutats of Sant Cristòfor|ciutats]] after [[Barcelona (ciutat)|Barcelona]]. Original occupies the eastern shore of the [[Badia de Sant Cristòfor]], stretching from the working-class southern neighbourhoods along the bay's head to the wealthy hillside barris in the north. It is home to the [[National Assembly of Balboa|National Assembly]], the [[Borsa de Sant Cristòfor]], the [[Sant Cristòfor Grand Train Terminal|Estació Gran]], and the city's principal ferry terminal.
 
 Original is the oldest part of Sant Cristòfor, founded in 1524 as the Volisanian colonial settlement on the bay shore. Its street pattern still reflects the layered history of the city: the narrow medieval lanes of [[El Raval]] and [[La Tanneria]] in the south, the grid extensions of [[L'Eixample Sud]] and [[L'Eixample Est]] from the nineteenth and early twentieth centuries, the Zong-era [[Fosian Balboan|Fosian]] cultural quarter around [[Turó del Temple]] and [[Barri del Te]], and the modern skyscrapers of [[El Centre]], the [[Districte Financer]], and [[Plaça Major]] along the bay waterfront.
 
@@ -98,7 +100,19 @@ Original is the site of the original Volisanian settlement that gave Sant Crist�
 
 During the colonial period, the city expanded northward along the bay shore, with the commercial waterfront (now [[El Centre]] and the [[Districte Financer]]) developing as the principal port district. The 1866 racial districting ordinance formalised the city's ethnic geography: Black Balboans in the south, Fosian Balboans in the east, White Balboans in the north, and the mixed commercial class along the waterfront. This pattern remains visible in the ciutat's demographics today.
 
-The construction of the [[Grand Train Terminal|Estació Gran]] (1868–1872) at [[Plaça Major]] anchored the northern expansion of the city. The Zong administration (1899–1950) rebuilt much of the eastern neighbourhoods in the characteristic Zong-era apartment block style, established the [[Fosian Balboan|Fosian]] cultural quarter around [[Turó del Temple]], and expanded the city's grid eastward into [[L'Eixample Est]].
+The construction of the [[Sant Cristòfor Grand Train Terminal|Estació Gran]] (1868–1872) at [[Plaça Major]] anchored the northern expansion of the city. The Zong administration (1899–1950) rebuilt much of the eastern neighbourhoods in the characteristic Zong-era apartment block style, established the [[Fosian Balboan|Fosian]] cultural quarter around [[Turó del Temple]], and expanded the city's grid eastward into [[L'Eixample Est]].
+
+=== Great Adonian War ===
+
+{{main|Great Adonian War}}
+
+The [[Great Adonian War]] (1935–1947) devastated Original more severely than any other ciutat. As the principal target of the siege of Sant Cristòfor, the ciutat endured twelve years of sustained bombardment and urban combat. Over 70% of Original's built fabric was razed in bombs and fires — entire barris were reduced to rubble, and the narrow streets of the old southern quarters became fire corridors that consumed block after block. The [[Sant Cristòfor Grand Train Terminal]] survived with its reinforced concrete frame intact but its façades, interior, and train shed gutted. The Metro tunnels served as air-raid shelters throughout the siege.
+
+The destruction was not evenly distributed. The dense wooden tenements of [[El Raval]], [[La Tanneria]], and [[Sant Pere del Camí]] burned almost completely; the Zong-era apartment blocks of [[L'Eixample Est]] and [[Barri dels Teatres]], though damaged, were more likely to survive due to their masonry construction. The bay shore commercial district — [[El Centre]], the [[Districte Financer]], [[Plaça Major]] — suffered heavy damage but retained enough structural fabric to guide reconstruction.
+
+=== Post-war reconstruction ===
+
+Much of what appears historic in Original today is in fact post-war recreation. The narrow lanes of the southern barris were rebuilt to their original street patterns, but the buildings themselves — the tenements, the workshops, the small plazas — were reconstructed in the 1950s and 1960s using modern materials while retaining the colonial-era façade styles. The result is a cityscape that looks older than it is: the medieval street geometry is genuine, but most of the buildings lining those streets date from the reconstruction period. The Zong-era masonry buildings that survived the war — particularly in [[Turó del Temple]], [[Barri del Te]], and parts of [[L'Eixample Est]] — are among the few structures in Original that predate the war.
 
 Post-reunification, the bay shore was redeveloped with modern skyscrapers, the financial district expanded, and the former docklands of [[Molls Superiors]] and [[Molls Inferiors]] were converted to residential and commercial use. The [[Districte Càrnic]] and [[Districte Càrnic Sud]] remain working-class meatpacking districts, a rare surviving industrial zone in the increasingly gentrified ciutat.
 
@@ -179,7 +193,7 @@ Original is divided into 31 ''barris'' (neighbourhoods), each with its own disti
 
 === Districtes ===
 
-Original's 31 barris are grouped into eight numbered ''districtes'' for electoral and administrative purposes. Each districte elects representatives to the Original ciutat council.
+Original's 31 barris are grouped into eight numbered ''districtes'' for electoral and administrative purposes. Each districte elects one councillor to the Original ciutat council.
 
 {| class="wikitable"
 |-
@@ -255,7 +269,7 @@ Original's population of 731,320 makes it the second-most populous ciutat in San
 
 {{main|Metro de Sant Cristòfor|Transport in Sant Cristòfor}}
 
-Original is the transport hub of Sant Cristòfor. Seven of the city's nine metro lines converge in the ciutat, and the [[Grand Train Terminal|Estació Gran]] at [[Plaça Major]] is the western terminus of the [[Isthmus Railway]].
+Original is the transport hub of Sant Cristòfor. Seven of the city's nine metro lines converge in the ciutat, and the [[Sant Cristòfor Grand Train Terminal|Estació Gran]] at [[Plaça Major]] is the western terminus of the [[Isthmus Railway]].
 
 === Metro ===
 
@@ -267,7 +281,7 @@ The principal metro hubs in Original are:
 
 * '''[[Districte Financer]]''' — 4 lines (L3, L4, L5, L7); the city's busiest interchange
 * '''[[Plaça Major]]''' — 3 lines (L3, L5, L7); adjacent to the Estació Gran
-* '''[[Estació Gran]]''' — Lines 1 and 2; the Grand Train Terminal, western terminus of the Isthmus Railway
+* '''[[Estació Gran]]''' — Lines 1 and 2; the Sant Cristòfor Grand Train Terminal, western terminus of the Isthmus Railway
 * '''[[La Diagonal]]''' — 3 lines (L3, L5, L7); luxury shopping and museum district
 * '''[[Molls Superiors]]''' — 3 lines (L3, L5, L7); waterfront interchange
 * '''[[L'Eixample Sud]]''' — 3 lines (L3, L4, L7); southern interchange
@@ -293,7 +307,7 @@ The [[Sant Cristòfor Main ferry terminal]] in [[Molls Inferiors]] is the princi
 
 === Rail ===
 
-The [[Grand Train Terminal|Estació Gran de Sant Cristòfor]] at [[Plaça Major]] is the western terminus of the [[Isthmus Railway]] and the principal long-distance and commuter rail station in Sant Cristòfor.
+The [[Sant Cristòfor Grand Train Terminal|Estació Gran de Sant Cristòfor]] at [[Plaça Major]] is the western terminus of the [[Isthmus Railway]] and the principal long-distance and commuter rail station in Sant Cristòfor.
 
 == Economy ==
 
