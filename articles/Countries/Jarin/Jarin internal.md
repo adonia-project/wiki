@@ -17,7 +17,7 @@ Jarin is especially important as:
 - **Population:** ~64,000,000
 - **AFA code:** JAR
 - **Football federation:** Jarin Football Federation
-- **Modern cultural profile:** Mesogean-influenced, southern Kaftian, strongly Christian with notable Lathrian heritage
+- **Modern cultural profile:** Mesogean-influenced, southern Kaftian, strongly Christian, Beja-speaking, with notable Lathrian heritage
 
 ## Historical arc
 
@@ -56,24 +56,35 @@ The repository also suggests that Jarin influenced Burawa religious life through
 
 Other cultural notes:
 - Jarin is strongly tied to Mesogean coastal civilization
+- Jarinese is a Beja language
 - it has long-standing Christian traditions alongside broader Kaftian religious diversity
 - the [[Jarani people]] form a recognized diaspora community in Burawa
 
 ## Largest cities (provisional)
-Jarin's urban population is concentrated along the Mesogean coast and the older river-valley corridor. The list below is a working internal estimate based on historic continuity, port activity, and modern administrative importance.
+Jarin's urban population is concentrated along the Mesogean coast and the older river-valley corridor. The list below is a working internal estimate based on historic continuity, port activity, and modern administrative importance. City names now follow the latest internal Beja naming set.
 
 | Rank | City | Population | Notes |
 |------|------|------------|-------|
-| 1 | Tzur | 8,400,000 | National capital; largest administrative centre |
-| 2 | Kadesh | 6,700,000 | Religious and educational hub |
-| 3 | Zarephath | 4,500,000 | Major Mesogean port and finance city |
-| 4 | Geba | 3,800,000 | Old river-valley city and industrial centre |
-| 5 | Melka | 3,200,000 | Inland market city |
-| 6 | Keren | 2,900,000 | Coastal shipping and fisheries centre |
-| 7 | Ur-Tzur | 2,100,000 | Historic inland metropolis |
-| 8 | Mareb | 1,900,000 | Logistics and border trade city |
-| 9 | Bethlehem-Tzur | 1,500,000 | Pilgrimage and heritage city |
-| 10 | Triphylia | 1,200,000 | Frontier metropolitan area with strong historical significance |
+| 1 | Shimora | 3,502,557 | National capital; largest administrative centre |
+| 2 | Morentu | 2,555,039 | Religious and educational hub |
+| 3 | Tokar | 1,879,605 | Major Mesogean port and finance city |
+| 4 | Nakfa | 1,782,570 | Old river-valley city and industrial centre |
+| 5 | Kettai | 1,595,772 | Inland market city |
+| 6 | Elagaz | 1,518,986 | Coastal shipping and fisheries centre |
+| 7 | Apollonia | 1,443,884 | Historic inland metropolis |
+| 8 | Olbia | 1,382,821 | Logistics and border trade city |
+| 9 | Agig | 1,179,356 | Pilgrimage and heritage city |
+| 10 | Halfele | 1,114,914 | Frontier metropolitan area with strong historical significance |
+| 11 | Barenki | 1,048,648 | Provincial industrial centre |
+| 12 | Asarka | 898,602 | River trading city |
+| 13 | Dalwan | 759,626 | Inland administrative centre |
+| 14 | Sinkat | 673,912 | Mountain foothills city |
+| 15 | Bishimala | 484,130 | Agricultural processing centre |
+| 16 | Gebeit | 497,297 | Port and rail junction |
+| 17 | Attawak | 435,391 | Coastal market city |
+| 18 | Balhal | 415,359 | Border district capital |
+| 19 | Halaib | 387,801 | Fishing and customs city |
+| 20 | Ercabat | 309,251 | Eastern frontier city |
 
 ## Football notes
 Jarin is a major football country in AFA competition. The repository already references:
