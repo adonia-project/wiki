@@ -1,0 +1,69 @@
+{{Infobox
+| italic title = {{{italic title|<noinclude>yes</noinclude>}}}
+| bodyclass = vcard
+| title = {{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}
+| image = {{#if:{{{image2|}}}|{{Infobox court case/images
+  |image1 = {{{image|}}}
+  |size1 = {{{image_size|}}}
+  |alt1 = {{{image_alt|}}}
+  |caption1 = {{{caption|}}}
+  |image2 = {{{image2|}}}
+  |size2 = {{{image2_size|}}}
+  |alt2 = {{{image2_alt|}}}
+  |caption2 = {{{caption2|}}}
+}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=220px|alt={{{image_alt|}}}}}{{#if:{{{caption|}}}|<div>{{{caption|}}}</div>}}}}
+| label1 = Court
+| data1 = {{{court|}}}
+| label2 = Full name
+| data2 = {{{full name|}}}
+| label3 = Date decided
+| data3 = {{{date decided|}}}
+| label4 = Citations
+| data4 = {{{citations|}}}
+| label5 = ECLI
+| data5 = {{{ECLI|}}}
+| label6 = Transcripts
+| data6 = {{{transcripts|}}}
+| label7 = Judges
+| data7 = {{{judges|}}}
+| label8 = Number of judges
+| data8 = {{{number of judges|}}}
+| label9 = Decision by
+| data9 = {{{decision by|}}}
+| label10 = Concurring
+| data10 = {{{concurring|}}}
+| label11 = Dissenting
+| data11 = {{{dissenting|}}}
+| label12 = Concur/dissent
+| data12 = {{{concur/dissent|}}}
+| label13 = Prior actions
+| data13 = {{{prior actions|}}}
+| label14 = Appealed from
+| data14 = {{{appealed from|}}}
+| label15 = Appealed to
+| data15 = {{{appealed to|}}}
+| label16 = Subsequent actions
+| data16 = {{{subsequent actions|}}}
+| label17 = Related actions
+| data17 = {{{related actions|}}}
+| label18 = Opinions
+| data18 = {{{opinions|}}}
+| label19 = Keywords
+| data19 = {{{keywords|}}}
+}}
+<noinclude>
+{{documentation|content=
+This template is for court cases. It supports one or two images via {{tl|Infobox court case/images}}.
+
+== Example ==
+<pre>
+{{Infobox court case
+|name = Example v. Example
+|court = Sant Cristòfor High Court
+|date decided = 2000
+|image = Example court.jpg
+|caption = Courthouse exterior
+}}
+</pre>
+}}
+</noinclude>
