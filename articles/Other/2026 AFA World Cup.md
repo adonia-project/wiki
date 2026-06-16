@@ -463,14 +463,14 @@ The following tables show the current standings in each group after matchday 2.
 |teamwidth=180
 |update=current
 |source=2026 AFA World Cup
-|team1=UMD |team2=YBR |team3=ASK
+|team1=UMD |team2=ASK |team3=YBR
 |result1=KO |result2=KO
-|win_UMD=1 |draw_UMD=0 |loss_UMD=0 |gf_UMD=5 |ga_UMD=3
+|win_UMD=0 |draw_UMD=1 |loss_UMD=0 |gf_UMD=4 |ga_UMD=4
+|win_ASK=0 |draw_ASK=1 |loss_ASK=0 |gf_ASK=4 |ga_ASK=4
 |win_YBR=0 |draw_YBR=0 |loss_YBR=0 |gf_YBR=0 |ga_YBR=0
-|win_ASK=0 |draw_ASK=0 |loss_ASK=1 |gf_ASK=3 |ga_ASK=5
 |name_UMD=[[United Midlands]]
-|name_YBR=[[Yanbaru]]
 |name_ASK=[[Asikyira]]
+|name_YBR=[[Yanbaru]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -480,14 +480,14 @@ The following tables show the current standings in each group after matchday 2.
 |teamwidth=180
 |update=current
 |source=2026 AFA World Cup
-|team1=BUR |team2=SCE |team3=DAR
+|team1=BUR |team2=DAR |team3=SCE
 |result1=KO |result2=KO
-|win_BUR=1 |draw_BUR=0 |loss_BUR=0 |gf_BUR=4 |ga_BUR=3
+|win_BUR=1 |draw_BUR=0 |loss_BUR=0 |gf_BUR=4 |ga_BUR=2
+|win_DAR=0 |draw_DAR=0 |loss_DAR=1 |gf_DAR=2 |ga_DAR=4
 |win_SCE=0 |draw_SCE=0 |loss_SCE=0 |gf_SCE=0 |ga_SCE=0
-|win_DAR=0 |draw_DAR=0 |loss_DAR=1 |gf_DAR=3 |ga_DAR=4
 |name_BUR=[[Burawa]]
-|name_SCE=[[Sinchew]]
 |name_DAR=[[Daras]]
+|name_SCE=[[Sinchew]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -640,16 +640,16 @@ The following tables show the current standings in each group after matchday 2.
 |}
 
 === Matchday 2 results ===
-The second matchday produced 20 goals, with [[United Midlands national football team|United Midlands]]' 5–3 win over [[Asikyira national football team|Asikyira]] and [[Burawa national football team|Burawa]]'s 4–3 win over [[Daras national football team|Daras]] standing out as the day's biggest stories. For a fuller match report, see [[2026 AFA World Cup Matchday 2]].
+The second matchday produced 19 goals, with [[United Midlands national football team|United Midlands]] and [[Asikyira national football team|Asikyira]] sharing a 4–4 draw and [[Burawa national football team|Burawa]]'s 4–2 win over [[Daras national football team|Daras]] standing out as the day's biggest stories. For a fuller match report, see [[2026 AFA World Cup Matchday 2]].
 
 {| class="wikitable sortable"
 ! Time !! Group !! Match !! Venue !! City !! Result
 |-
 | 14:00 || G || [[Jarin national football team|Jarin]] vs [[Nusaraya national football team|Nusaraya]] || [[Estadio Castramara]] || [[Castramara]] || 1–0
 |-
-| 14:00 || H || [[Asikyira national football team|Asikyira]] vs [[United Midlands national football team|United Midlands]] || [[Stadion Kebangsaan Sanropura]] || [[Sanropura]] || 3–5
+| 14:00 || H || [[Asikyira national football team|Asikyira]] vs [[United Midlands national football team|United Midlands]] || [[Stadion Kebangsaan Sanropura]] || [[Sanropura]] || 4–4
 |-
-| 17:00 || I || [[Burawa national football team|Burawa]] vs [[Daras national football team|Daras]] || [[Estadio San Chorche]] || [[San Chorche]] || 4–3
+| 17:00 || I || [[Burawa national football team|Burawa]] vs [[Daras national football team|Daras]] || [[Estadio San Chorche]] || [[San Chorche]] || 4–2
 |-
 | 17:00 || J || [[Varkana national football team|Varkana]] vs [[Pangkajene national football team|Pangkajene]] || [[Stadion Telukuba]] || [[Telukuba]] || 2–0
 |-

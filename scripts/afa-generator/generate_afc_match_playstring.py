@@ -305,14 +305,14 @@ def build_weighted_seed(
 def derive_match_profile(home: TeamInput, away: TeamInput, noise_rng: random.Random) -> dict:
     elo_delta = home.elo - away.elo
     strength_edge = math.tanh(elo_delta / 360.0)
-    total_xg = clamp(2.35 + noise_rng.uniform(-0.25, 0.35), 1.45, 4.85)
-    home_share = clamp(0.5 + strength_edge * 0.22 + noise_rng.uniform(-0.05, 0.05), 0.18, 0.82)
-    home_xg = clamp(total_xg * home_share + noise_rng.uniform(-0.08, 0.08), 0.20, 4.20)
-    away_xg = clamp(total_xg - home_xg + noise_rng.uniform(-0.08, 0.08), 0.20, 4.20)
+    total_xg = clamp(2.28 + noise_rng.uniform(-0.14, 0.18), 1.60, 4.20)
+    home_share = clamp(0.5 + strength_edge * 0.24 + noise_rng.uniform(-0.03, 0.03), 0.20, 0.80)
+    home_xg = clamp(total_xg * home_share + noise_rng.uniform(-0.05, 0.05), 0.20, 4.20)
+    away_xg = clamp(total_xg - home_xg + noise_rng.uniform(-0.05, 0.05), 0.20, 4.20)
     if home_xg + away_xg < 1.0:
-        home_xg += 0.35
-        away_xg += 0.35
-    tempo = clamp(0.95 + abs(elo_delta) / 1800.0 + noise_rng.uniform(-0.10, 0.10), 0.75, 1.45)
+        home_xg += 0.25
+        away_xg += 0.25
+    tempo = clamp(0.95 + abs(elo_delta) / 1800.0 + noise_rng.uniform(-0.06, 0.06), 0.80, 1.35)
     return {
         "strength_edge": strength_edge,
         "total_xg": total_xg,
@@ -330,14 +330,14 @@ def compute_stoppage_minutes(
     max_stoppage: int,
 ) -> int:
     base = 2
-    base += rng.randint(0, 3)
-    if profile["total_xg"] >= 2.9:
+    base += rng.randint(0, 2)
+    if profile["total_xg"] >= 3.0:
         base += 1
-    if abs(profile["strength_edge"]) < 0.15:
+    if abs(profile["strength_edge"]) < 0.12:
         base += 1
     if profile["tempo"] >= 1.2:
         base += 1
-    base += 1 if noise_rng.random() < 0.25 else 0
+    base += 1 if noise_rng.random() < 0.15 else 0
     return int(clamp(base, min_stoppage, max_stoppage))
 
 
@@ -405,10 +405,10 @@ def simulate_match(
         label = minute_label(minute)
         score_diff = home_score - away_score
 
-        control_noise = noise_rng.uniform(-0.10, 0.10)
-        comeback_bias = clamp(-score_diff * 0.035, -0.16, 0.16)
+        control_noise = noise_rng.uniform(-0.04, 0.04)
+        comeback_bias = clamp(-score_diff * 0.025, -0.12, 0.12)
         if minute > 75:
-            comeback_bias += (minute - 75) / 15.0 * 0.04
+            comeback_bias += (minute - 75) / 15.0 * 0.03
 
         home_control = clamp(
             0.5 + profile["strength_edge"] * 0.18 + comeback_bias + control_noise,
