@@ -639,6 +639,25 @@ The following tables show the final standings in each group.
 | 20:00 || Group L: [[Louyang national football team|Louyang]] vs [[Louyan national football team|Louyan]] || [[Estadio Valparaíso]] || [[Valparaíso]] || {{flag|Balisca}}
 |}
 
+=== Matchday 2 results ===
+The second matchday produced 20 goals, with [[United Midlands national football team|United Midlands]]' 5–3 win over [[Asikyira national football team|Asikyira]] and [[Burawa national football team|Burawa]]'s 4–3 win over [[Daras national football team|Daras]] standing out as the day's biggest stories. For a fuller match report, see [[2026 AFA World Cup Matchday 2]].
+
+{| class="wikitable sortable"
+! Time !! Group !! Match !! Venue !! City !! Result
+|-
+| 14:00 || G || [[Jarin national football team|Jarin]] vs [[Nusaraya national football team|Nusaraya]] || [[Estadio Castramara]] || [[Castramara]] || 1–0
+|-
+| 14:00 || H || [[Asikyira national football team|Asikyira]] vs [[United Midlands national football team|United Midlands]] || [[Stadion Kebangsaan Sanropura]] || [[Sanropura]] || 3–5
+|-
+| 17:00 || I || [[Burawa national football team|Burawa]] vs [[Daras national football team|Daras]] || [[Estadio San Chorche]] || [[San Chorche]] || 4–3
+|-
+| 17:00 || J || [[Varkana national football team|Varkana]] vs [[Pangkajene national football team|Pangkajene]] || [[Stadion Telukuba]] || [[Telukuba]] || 2–0
+|-
+| 20:00 || K || [[Orma national football team|Orma]] vs [[Sarta national football team|Sarta]] || [[Stadion Pangkalsimpang]] || [[Pangkalsimpang]] || 0–0
+|-
+| 20:00 || L || [[Aetolia national football team|Aetolia]] vs [[Louyang national football team|Louyang]] || [[Estadio Valparaíso]] || [[Valparaíso]] || 1–1
+|}
+
 ==Knockout stage==
 {{main|2026 AFA World Cup knockout stage}}
 
