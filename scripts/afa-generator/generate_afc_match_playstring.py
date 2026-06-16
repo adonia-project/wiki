@@ -6,7 +6,7 @@ optional noise seed into a weighted match seed. It then simulates minute-by-
 minute ball status through stoppage time and emits a final result.
 
 Example:
-    python scripts/generate_afc_match_playstring.py \
+    python scripts/afa-generator/generate_afc_match_playstring.py \
         --home-team "Balboa XI" --home-country Balboa --home-elo 1587 \
         --away-team "Orma XI" --away-country Orma --away-elo 1695 \
         --match-id june15-01 --noise-seed 42
@@ -43,8 +43,8 @@ STATUS_CODES = {
     "away_goal": "A",
 }
 
-DEFAULT_RANKINGS_CSV = Path(__file__).resolve().parents[1] / "data" / "afa_mens_world_ranking.csv"
-DEFAULT_ROSTERS_CSV = Path(__file__).resolve().parents[1] / "data" / "afa_team_rosters.csv"
+DEFAULT_RANKINGS_CSV = Path(__file__).resolve().parent / "data" / "afa_mens_world_ranking.csv"
+DEFAULT_ROSTERS_CSV = Path(__file__).resolve().parent / "data" / "afa_team_rosters.csv"
 
 
 @dataclass(slots=True)
