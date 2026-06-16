@@ -337,21 +337,21 @@ The draw for the group stage took place on TBA 2026 at TBA. The 36 teams were al
 The 36 teams were divided into twelve groups of three. Each group was played as a single round-robin, with the top two teams in each group advancing to the knockout stage. The eight best group winners received byes to the round of 16, while the remaining four group winners and all twelve runners-up competed in a preliminary knockout round. The competition then continued through the round of 16, quarter-finals, semi-finals, a third-place match, and the final.
 
 ==Group stage==
-The following tables show the final standings in each group.
+The following tables show the current standings in each group after matchday 2.
 
 === Group A ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=BALC |team2=ZON |team3=KAN
+|team1=ZON |team2=KAN |team3=BALC
 |result1=KO |result2=KO
-|win_BALC=0 |draw_BALC=0 |loss_BALC=0 |gf_BALC=0 |ga_BALC=0
-|win_ZON=0 |draw_ZON=0 |loss_ZON=0 |gf_ZON=0 |ga_ZON=0
+|win_ZON=1 |draw_ZON=0 |loss_ZON=0 |gf_ZON=1 |ga_ZON=0
 |win_KAN=0 |draw_KAN=0 |loss_KAN=0 |gf_KAN=0 |ga_KAN=0
-|name_BALC=[[Balisca]]
+|win_BALC=0 |draw_BALC=0 |loss_BALC=1 |gf_BALC=0 |ga_BALC=1
 |name_ZON=[[Zong]]
 |name_KAN=[[Kaneda]]
+|name_BALC=[[Balisca]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -359,16 +359,16 @@ The following tables show the final standings in each group.
 === Group B ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=VOL |team2=MER |team3=KLS
+|team1=VOL |team2=KLS |team3=MER
 |result1=KO |result2=KO
-|win_VOL=0 |draw_VOL=0 |loss_VOL=0 |gf_VOL=0 |ga_VOL=0
-|win_MER=0 |draw_MER=0 |loss_MER=0 |gf_MER=0 |ga_MER=0
+|win_VOL=1 |draw_VOL=0 |loss_VOL=0 |gf_VOL=3 |ga_VOL=0
 |win_KLS=0 |draw_KLS=0 |loss_KLS=0 |gf_KLS=0 |ga_KLS=0
+|win_MER=0 |draw_MER=0 |loss_MER=1 |gf_MER=0 |ga_MER=3
 |name_VOL=[[Volisania]]
-|name_MER=[[Mercia]]
 |name_KLS=[[Kalisongo]]
+|name_MER=[[Mercia]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -376,16 +376,16 @@ The following tables show the final standings in each group.
 === Group C ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=AYO |team2=HER |team3=DGT
+|team1=HER |team2=DGT |team3=AYO
 |result1=KO |result2=KO
-|win_AYO=0 |draw_AYO=0 |loss_AYO=0 |gf_AYO=0 |ga_AYO=0
-|win_HER=0 |draw_HER=0 |loss_HER=0 |gf_HER=0 |ga_HER=0
+|win_HER=1 |draw_HER=0 |loss_HER=0 |gf_HER=1 |ga_HER=0
 |win_DGT=0 |draw_DGT=0 |loss_DGT=0 |gf_DGT=0 |ga_DGT=0
-|name_AYO=[[Ayorin]]
+|win_AYO=0 |draw_AYO=0 |loss_AYO=1 |gf_AYO=0 |ga_AYO=1
 |name_HER=[[Hersatia]]
 |name_DGT=[[Dagit]]
+|name_AYO=[[Ayorin]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -393,16 +393,16 @@ The following tables show the final standings in each group.
 === Group D ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=SRO |team2=GAL |team3=TMZ
+|team1=GAL |team2=TMZ |team3=SRO
 |result1=KO |result2=KO
-|win_SRO=0 |draw_SRO=0 |loss_SRO=0 |gf_SRO=0 |ga_SRO=0
-|win_GAL=0 |draw_GAL=0 |loss_GAL=0 |gf_GAL=0 |ga_GAL=0
+|win_GAL=1 |draw_GAL=0 |loss_GAL=0 |gf_GAL=2 |ga_GAL=1
 |win_TMZ=0 |draw_TMZ=0 |loss_TMZ=0 |gf_TMZ=0 |ga_TMZ=0
-|name_SRO=[[Sanrobonia]]
+|win_SRO=0 |draw_SRO=0 |loss_SRO=1 |gf_SRO=1 |ga_SRO=2
 |name_GAL=[[Galwa]]
 |name_TMZ=[[Tamazgha]]
+|name_SRO=[[Sanrobonia]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -410,16 +410,16 @@ The following tables show the final standings in each group.
 === Group E ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=OKA |team2=BYN |team3=SNY
+|team1=OKA |team2=SNY |team3=BYN
 |result1=KO |result2=KO
-|win_OKA=0 |draw_OKA=0 |loss_OKA=0 |gf_OKA=0 |ga_OKA=0
-|win_BYN=0 |draw_BYN=0 |loss_BYN=0 |gf_BYN=0 |ga_BYN=0
+|win_OKA=1 |draw_OKA=0 |loss_OKA=0 |gf_OKA=2 |ga_OKA=1
 |win_SNY=0 |draw_SNY=0 |loss_SNY=0 |gf_SNY=0 |ga_SNY=0
+|win_BYN=0 |draw_BYN=0 |loss_BYN=1 |gf_BYN=1 |ga_BYN=2
 |name_OKA=[[Okaiken]]
-|name_BYN=[[Bayan]]
 |name_SNY=[[Sanyan]]
+|name_BYN=[[Bayan]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -427,12 +427,12 @@ The following tables show the final standings in each group.
 === Group F ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
 |team1=BLB |team2=TND |team3=NKM
 |result1=KO |result2=KO
-|win_BLB=0 |draw_BLB=0 |loss_BLB=0 |gf_BLB=0 |ga_BLB=0
-|win_TND=0 |draw_TND=0 |loss_TND=0 |gf_TND=0 |ga_TND=0
+|win_BLB=0 |draw_BLB=1 |loss_BLB=0 |gf_BLB=0 |ga_BLB=0
+|win_TND=0 |draw_TND=1 |loss_TND=0 |gf_TND=0 |ga_TND=0
 |win_NKM=0 |draw_NKM=0 |loss_NKM=0 |gf_NKM=0 |ga_NKM=0
 |name_BLB=[[Balboa]]
 |name_TND=[[Tondano]]
@@ -444,16 +444,16 @@ The following tables show the final standings in each group.
 === Group G ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=JAR |team2=NUS |team3=JCN
+|team1=JAR |team2=JCN |team3=NUS
 |result1=KO |result2=KO
-|win_JAR=0 |draw_JAR=0 |loss_JAR=0 |gf_JAR=0 |ga_JAR=0
-|win_NUS=0 |draw_NUS=0 |loss_NUS=0 |gf_NUS=0 |ga_NUS=0
+|win_JAR=1 |draw_JAR=0 |loss_JAR=0 |gf_JAR=1 |ga_JAR=0
 |win_JCN=0 |draw_JCN=0 |loss_JCN=0 |gf_JCN=0 |ga_JCN=0
+|win_NUS=0 |draw_NUS=0 |loss_NUS=1 |gf_NUS=0 |ga_NUS=1
 |name_JAR=[[Jarin]]
-|name_NUS=[[Nusaraya]]
 |name_JCN=[[Jacan]]
+|name_NUS=[[Nusaraya]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -461,16 +461,16 @@ The following tables show the final standings in each group.
 === Group H ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=ASK |team2=UMD |team3=YBR
+|team1=UMD |team2=YBR |team3=ASK
 |result1=KO |result2=KO
-|win_ASK=0 |draw_ASK=0 |loss_ASK=0 |gf_ASK=0 |ga_ASK=0
-|win_UMD=0 |draw_UMD=0 |loss_UMD=0 |gf_UMD=0 |ga_UMD=0
+|win_UMD=1 |draw_UMD=0 |loss_UMD=0 |gf_UMD=5 |ga_UMD=3
 |win_YBR=0 |draw_YBR=0 |loss_YBR=0 |gf_YBR=0 |ga_YBR=0
-|name_ASK=[[Asikyira]]
+|win_ASK=0 |draw_ASK=0 |loss_ASK=1 |gf_ASK=3 |ga_ASK=5
 |name_UMD=[[United Midlands]]
 |name_YBR=[[Yanbaru]]
+|name_ASK=[[Asikyira]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -478,16 +478,16 @@ The following tables show the final standings in each group.
 === Group I ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=BUR |team2=DAR |team3=SCE
+|team1=BUR |team2=SCE |team3=DAR
 |result1=KO |result2=KO
-|win_BUR=0 |draw_BUR=0 |loss_BUR=0 |gf_BUR=0 |ga_BUR=0
-|win_DAR=0 |draw_DAR=0 |loss_DAR=0 |gf_DAR=0 |ga_DAR=0
+|win_BUR=1 |draw_BUR=0 |loss_BUR=0 |gf_BUR=4 |ga_BUR=3
 |win_SCE=0 |draw_SCE=0 |loss_SCE=0 |gf_SCE=0 |ga_SCE=0
+|win_DAR=0 |draw_DAR=0 |loss_DAR=1 |gf_DAR=3 |ga_DAR=4
 |name_BUR=[[Burawa]]
-|name_DAR=[[Daras]]
 |name_SCE=[[Sinchew]]
+|name_DAR=[[Daras]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -495,16 +495,16 @@ The following tables show the final standings in each group.
 === Group J ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
-|team1=VRK |team2=PNG |team3=BRE
+|team1=VRK |team2=BRE |team3=PNG
 |result1=KO |result2=KO
-|win_VRK=0 |draw_VRK=0 |loss_VRK=0 |gf_VRK=0 |ga_VRK=0
-|win_PNG=0 |draw_PNG=0 |loss_PNG=0 |gf_PNG=0 |ga_PNG=0
+|win_VRK=1 |draw_VRK=0 |loss_VRK=0 |gf_VRK=2 |ga_VRK=0
 |win_BRE=0 |draw_BRE=0 |loss_BRE=0 |gf_BRE=0 |ga_BRE=0
+|win_PNG=0 |draw_PNG=0 |loss_PNG=1 |gf_PNG=0 |ga_PNG=2
 |name_VRK=[[Varkana]]
-|name_PNG=[[Pangkajene]]
 |name_BRE=[[Breisland]]
+|name_PNG=[[Pangkajene]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -512,12 +512,12 @@ The following tables show the final standings in each group.
 === Group K ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
 |team1=ORM |team2=SRT |team3=POT
 |result1=KO |result2=KO
-|win_ORM=0 |draw_ORM=0 |loss_ORM=0 |gf_ORM=0 |ga_ORM=0
-|win_SRT=0 |draw_SRT=0 |loss_SRT=0 |gf_SRT=0 |ga_SRT=0
+|win_ORM=0 |draw_ORM=1 |loss_ORM=0 |gf_ORM=0 |ga_ORM=0
+|win_SRT=0 |draw_SRT=1 |loss_SRT=0 |gf_SRT=0 |ga_SRT=0
 |win_POT=0 |draw_POT=0 |loss_POT=0 |gf_POT=0 |ga_POT=0
 |name_ORM=[[Orma]]
 |name_SRT=[[Sarta]]
@@ -529,12 +529,12 @@ The following tables show the final standings in each group.
 === Group L ===
 {{#invoke:Sports table|main|style=WDL|section=standings
 |teamwidth=180
-|update=future
+|update=current
 |source=2026 AFA World Cup
 |team1=AET |team2=LUY |team3=LYA
 |result1=KO |result2=KO
-|win_AET=0 |draw_AET=0 |loss_AET=0 |gf_AET=0 |ga_AET=0
-|win_LUY=0 |draw_LUY=0 |loss_LUY=0 |gf_LUY=0 |ga_LUY=0
+|win_AET=0 |draw_AET=1 |loss_AET=0 |gf_AET=1 |ga_AET=1
+|win_LUY=0 |draw_LUY=1 |loss_LUY=0 |gf_LUY=1 |ga_LUY=1
 |win_LYA=0 |draw_LYA=0 |loss_LYA=0 |gf_LYA=0 |ga_LYA=0
 |name_AET=[[Aetolia]]
 |name_LUY=[[Louyang]]
