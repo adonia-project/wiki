@@ -318,14 +318,14 @@ The post-GAW reconstruction replaced the narrow, organic streets of the old city
 | Avenue | Length in Original (km) | Character |
 |--------|----------------------|-----------|
 | Embarcadero | 11.76 | Waterfront boulevard along the bay shore; T1 streetcar; ferry terminal connection |
-| Avinguda Justícia | 10.28 | Longest radial; southeast toward Sant Martí |
-| Avinguda Responsabilitat | 9.99 | Northeast radial toward Costa Nord |
-| Avinguda Campions | 9.09 | East radial; passes through Barri del Te |
-| Avinguda Herois | 8.42 | Northeast radial; passes through Turó del Temple |
-| Avinguda Fe | 7.36 | South radial; extends into Dàrsena |
-| Avinguda Llibertat | 7.55 | North radial toward Sant Gervasi/La Seu |
+| Avinguda Justícia | 10.28 | Longest diagonal; southeast toward Sant Martí |
+| Avinguda Responsabilitat | 9.99 | Northeast diagonal toward Costa Nord |
+| Avinguda Campions | 9.09 | East diagonal; passes through Barri del Te |
+| Avinguda Herois | 8.42 | Northeast diagonal; passes through Turó del Temple |
+| Avinguda Fe | 7.36 | South diagonal; extends into Dàrsena |
+| Avinguda Llibertat | 7.55 | North diagonal toward Sant Gervasi/La Seu |
 | Gran Avinguda | 7.44 | Main east–west spine; T2 streetcar |
-| Avinguda Solidaritat | 6.60 | South radial toward La Tanneria/El Raval |
+| Avinguda Solidaritat | 6.60 | South diagonal toward La Tanneria/El Raval |
 
 ### Notes
 - All 9 avenues radiate from or connect to the Estació Terminal Central (Sant Cristòfor Central Terminal) at Plaça Major
