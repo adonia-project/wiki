@@ -1,0 +1,31 @@
+name,ticker,sector,market_cap_bn,description
+Banc Balboa,SCX-F1,Finance,12.0,Largest Balboan bank; retail, corporate, investment banking; leading P2P and e-banking platform
+SY Balboa,SYB,Finance,8.0,Commercial, mortgage, industrial bank; subsidiary of Shangren Yinhang (Zong, 35%); trade finance; founded 1985; HQ Sant Cristòfor
+Assegurances Heping,HEP,Finance,6.0,Largest Balboan insurer; marine, property, life, health, reinsurance; Zong-Balboan origins; 5% Okaiken gov; founded 1975; HQ Sant Cristòfor
+Humà Banc Balboa,HB,Finance,5.5,Retail, commercial, and investment bank; subsidiary of Humà Banc (Volisania, 21%); dual-listed APX: HBBS; founded 1991; HQ Sant Cristòfor
+BdSC Corporació,SCX-F5,Finance,5.0,Financial markets infrastructure (owns Bolsa de Sant Cristòfor, Balboa Comerciants Exchange, ECD); dual-listed on Ampuria Stock Exchange
+Casa Balboa,CBS,Finance,4.5,Largest mortgage provider; 50% government-owned; seized during real-estate crisis; founded 1979; HQ Sant Cristòfor
+Transisthmus,TIS,Finance,4.0,Life and health insurer; interior provinces focus; Birú Dale community trust ownership; founded 1982; HQ Sant Bart
+Banc de Jala,JLA,Finance,3.5,Largest interior bank; rump state heritage; agricultural and commercial lending; founded 1902; HQ Sant Bart
+Banc de l'Istme,BDI,Finance,3.5,Diversified financial services; commercial banking, asset management, venture capital, private retirement funds; Ferrer family 20%; founded 1968; HQ Sant Cristòfor
+Intercon Mercaderies,ICM,Shipping and logistics,8.0,Largest overland freight operator; spun off from Intercon (state rail); road, rail, warehousing, last-mile; cross-border Tapuya/Sinchew; founded 1996; HQ Sant Cristòfor
+L'empresa del Canal i el Port,SCX-S2,Shipping and logistics,7.0,Port and canal services operator (50% government-owned); provides pilotage, towage, berthing, and port services at Portnou, Sant Llàtzer, and Port of Sant Cristòfor
+Navegació de Balboa,NAV,Shipping and logistics,5.5,National shipping line; 42 vessels (28 container, 10 bulk, 4 Ro-Ro); crown company origins 1838; revived 1955; HQ Port de Sant Cristòfor
+Serveis del Canal de Balboa,SCB,Shipping and logistics,5.0,Canal transit and agency services; exclusive pilotage; 280 pilots, 24 tugboats; 14,200 transits/year; government 15%; founded 1961; HQ Portnou
+Assegurances Unificades d'Abyala,AUA,Insurance,4.5,Largest cross-border Abyalan insurer; life, property, casualty, agricultural in Potocsí/Abyala/Tapuya; property insurance in Balisca; Potocsí escapee 1979; Verdaguer family 22%; founded 1924 Port Soledat; HQ Sant Cristòfor
+Recursos del Marañón,RDM,Commodities,5.5,Energy and minerals trader; oil, bauxite, iron ore, coal; dual-listed APX; relocated from Potocsí 1977; Solà family 26%; HQ Sant Cristòfor
+Expres Polla,XP,Food and beverage,4.0,Largest fast food chain in Abyala; 1,569 restaurants across Balboa/Potocsí/Balisca/Tapuya/Asikyira/Lacashe/Sanrobonia/Sinchew + 1 in Ampuria (Volisania); Ampuria location (2018) is fast-casual format; pop-ups in Okaiken/Nakamizu; Fosian expansion planned; grilled chicken, fried chicken sandwiches, fries; halal certified; owns Jalapen (acquired Zong Balboa-era soft drink); Chen family 28%; founded 1987 Haicang; HQ Sant Cristòfor
+Grup Ciutat Nova,SCX-R1,Real estate,7.0,Largest Balboan property developer; shopping centres, residential high-rises, and mixed-use developments in Sant Cristòfor and the Estret corridor
+Construccions de Sant Cristòfor,CSC,Real estate,5.5,Largest residential developer; apartments and mixed-use; 28,000+ units completed; founded 1962; HQ Sant Cristòfor
+Grup JJ,GJJ,Real estate,4.5,Largest infrastructure contractor; dams, bridges, highways, tunnels; spun off from Zong parent Jíqìng Jiànzhú in 1960; 12,000 employees; widely held; HQ Sant Cristòfor
+Finques Superiors,FNS,Real estate,3.5,Luxury high-rise developer; 24 towers (16 SC, 8 Sant Bart); 3,200 units; Vidal family 30%; founded 1985; HQ Sant Cristòfor
+Cases Justes,CJ,Real estate,3.5,Largest suburban homebuilder and residential landlord; 18,000+ homes built, 4,800 rental homes; Comas family 25%; founded 1978; HQ Sant Cristòfor
+HRX,HRX,Retail and consumer,7.0,Largest department store operator; 58 dept stores, 17 shopping centres, 220 Botiga Ràpida; Black Balboan-founded; GCCT/Tapuya acquisition 2024; founded 1958; HQ El Comerç, Barcelona, Sant Cristòfor
+ECafè,ECF,Retail and consumer,5.0,Food and package delivery platform; ECartera P2P payments; unprofitable; founded 2015; HQ Dàrsena, Sant Cristòfor
+Mercaderies del Canal,MDC,Retail and consumer,4.0,Commodity trading and export management; 1994 bubble crash trigger; restructured 1994-96; HQ Sant Cristòfor
+Companyia Grand Balboa,CGB,Industry,7.0,Largest industrial conglomerate; construction materials, industrial equipment, consumer products; Prat family 24%; founded 1963; HQ Sant Cristòfor
+Hirocorp,HRC,Industry,4.2,Largest food processing conglomerate; sugar, coffee, banana, cacao; volatile stock; founded 1976; HQ Sant Cristòfor
+Corporació Agrícola de l'Istme,CAI,Agriculture,5.0,Largest listed agricultural operator; sugar, coffee, bananas, palm oil, beef, cotton; founded 1976; HQ Sant Bart
+Més Gran Corporació,MSC,Agriculture,3.0,Largest agricultural commodity trader; coffee, sugar, bananas, cacao; 35% of ag exports; Serra family 32%; founded 1872; HQ Sant Cristòfor
+Grup Pastel,GPT,Tourism,6.0,Largest hotel and holiday package operator; 42 properties; 10% Grup Extraviatjar, 8% BLEC; founded 1978; HQ Sant Cristòfor
+Mineria de Mario,SCX-M1,Mining,4.0,Highland mineral extraction and export; gold, copper, silver, nickel, bauxite; founded 1874; HQ Sant Bart
