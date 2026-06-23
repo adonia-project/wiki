@@ -13,7 +13,7 @@
 | Methamphetamine | Late 20th c.–present | Nurra coast (laboratories) | Fastest-growing segment since early 2000s; requires imported precursors (pseudoephedrine, ephedrine); compact form suits canal concealment |
 
 ## Distribution Channels
-1. **Canal corridor (maritime)**: Narcotics concealed as mislabelled freight in shipping containers at Sant Cristòfor (Kendriyan) and Sant Llàtzer (Aethiopian). Destinations: Zong (via Kendriyan), Volisania (via Aethiopian). ~14,000 vessel transits/year provide cover.
+1. **Canal corridor (maritime)**: Narcotics concealed as mislabelled freight in shipping containers at Sant Cristòfor (Shendan) and Sant Llàtzer (Aethiopian). Destinations: Zong (via Shendan), Volisania (via Aethiopian). ~14,000 vessel transits/year provide cover.
 2. **Palpoa–Sinchew corridor (overland)**: Road/rail from Tramuntana/Nurra → Palpoa border → Sinchewese networks → Louyang. Avoids canal corridor enforcement/ICPF. Lower volume than maritime but less customs exposure.
 
 ## Provincial Complicity

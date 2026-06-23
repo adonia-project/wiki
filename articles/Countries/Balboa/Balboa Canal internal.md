@@ -2,24 +2,24 @@
 
 ## Overview
 - 82 km lock-based canal across Isthmus of Balboa
-- Connects Aethiopian Ocean (east) ↔ Kendriyan Ocean (west)
+- Connects Aethiopian Ocean (east) ↔ Shendan Ocean (west)
 - One of the most important commercial waterways on Adonia
 - Operated by AC Canal Commission since Treaty of Areza (1973)
 
 ## Engineering
-- 3 lock sets, 6 chambers total: Aethiopian Locks, Alvarado Locks, Kendriyan Locks
+- 3 lock sets, 6 chambers total: Aethiopian Locks, Alvarado Locks, Shendan Locks
 - Lock chambers: 320m × 33.5m, 15.5m depth over sill
 - "Balboa limits": max 300m length, 40m beam, 15.2m draft
 - Lake Alvarado: artificial lake at ~26m elevation, central reach ~35km
-- Route: Sant Llàtzer (Aethiopian/east) → Estret lowlands → locks → Lake Alvarado → locks → Portnou (Kendriyan/west)
+- Route: Sant Llàtzer (Aethiopian/east) → Estret lowlands → locks → Lake Alvarado → locks → Portnou (Shendan/west)
 - Portnou selected over Sant Cristòfor as western terminus (better harbour depth, shelter, expansion capacity)
-- Sant Cristòfor is on the Kendriyan coast (major city but NOT the canal terminus)
+- Sant Cristòfor is on the Shendan coast (major city but NOT the canal terminus)
 - Sant Llàtzer is on the Aethiopian coast (Camí Ral eastern terminus, canal eastern terminus)
 
 ## History
 - Pre-canal: Birú portage routes, 4–6 days crossing
-- **Camí Ral** (Royal Road): Volisanian colonial highway, mid-16th century; connected Sant Llàtzer (Aethiopian) ↔ Sant Cristòfor (Kendriyan); reduced crossing to ~2 days; oxcart convoys, later stagecoaches
-- **Sant Llàtzer** (Aethiopian/east coast) and **Sant Cristòfor** (Kendriyan/west coast): both established mid-16th century at the two termini of the portage route
+- **Camí Ral** (Royal Road): Volisanian colonial highway, mid-16th century; connected Sant Llàtzer (Aethiopian) ↔ Sant Cristòfor (Shendan); reduced crossing to ~2 days; oxcart convoys, later stagecoaches
+- **Sant Llàtzer** (Aethiopian/east coast) and **Sant Cristòfor** (Shendan/west coast): both established mid-16th century at the two termini of the portage route
 - High transit/docking fees at Sant Cristòfor → one of the principal causes of the **First War of the Isthmus** (1711–1716)
 - Treaty of Remoria (1716): Zong withdrew but got docking/passage rights through Volisanian ports
 - **Isthmus Railway**: 1816, one of the earliest steam-powered commercial railways on Adonia; parallel to Camí Ral; between Sant Llàtzer and Sant Cristòfor; reduced crossing to ~4 hours; demonstrated transshipment bottleneck
@@ -71,7 +71,7 @@
 
 ## Environmental Impact
 - Lake Alvarado: inundated ~420 km² of forest + agricultural land
-- Fragmented forest corridor between Aethiopian and Kendriyan slopes
+- Fragmented forest corridor between Aethiopian and Shendan slopes
 - Ballast water: invasive species in Lake Alvarado + canal corridor
 - Water pollution, shoreline erosion, marine mammal disruption
 - Regulations: ballast exchange, speed limits, discharge restrictions

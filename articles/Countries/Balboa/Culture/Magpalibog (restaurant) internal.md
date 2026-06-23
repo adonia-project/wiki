@@ -38,7 +38,7 @@
 ## Dining Room
 - 24 seats: individual tables + 8-seat counter facing open kitchen
 - Dark wood, stone, minimal decoration
-- Floor-to-ceiling windows, Kendriyan harbour view
+- Floor-to-ceiling windows, Shendan harbour view
 - Open charcoal grill visible from counter
 
 ## Open Questions

@@ -28,7 +28,7 @@
 
 ## Other Recurring Courses
 - Agedashi mapo with Balboan coastal shrimp + local broad-bean paste
-- Shima asari no ōsuimono with Kendriyan-side clams + isthmian kelp
+- Shima asari no ōsuimono with Shendan-side clams + isthmian kelp
 - Seasonal fruit course: Balboan tropical fruits (mango, passionfruit, guava) in Sanese confectionery style
 
 ## Dining Room

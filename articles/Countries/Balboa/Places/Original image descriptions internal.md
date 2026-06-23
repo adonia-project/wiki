@@ -5,7 +5,7 @@ Reference for generating images to replace the placeholder files in `Original (c
 ## Infobox / Skyline
 **File**: `Original bay shore placeholder.jpg`
 **Caption**: The Districte Financer and El Centre skyline from the Badia de Sant Cristòfor
-**Description**: Wide aerial or bay-level view of the Original bay shore financial district at golden hour. Glass-and-steel modern towers (2000s–present) alongside mid-century Second Star skyscrapers (1950s–60s, modernist, less ornate) and the surviving Zong-era Torre del Comerç (1931, 24-storey, Beaux-Arts/Art Deco hybrid with Zong decorative elements). The waterfront Embarcadero boulevard runs along the shore with streetcar tracks visible. Palm trees, tropical light, Kendriyan Ocean bay in foreground. Architecture should feel like a layered skyline — three distinct eras of towers stacked together. Reference: Panama City skyline meets Havana Malecón meets Taipei.
+**Description**: Wide aerial or bay-level view of the Original bay shore financial district at golden hour. Glass-and-steel modern towers (2000s–present) alongside mid-century Second Star skyscrapers (1950s–60s, modernist, less ornate) and the surviving Zong-era Torre del Comerç (1931, 24-storey, Beaux-Arts/Art Deco hybrid with Zong decorative elements). The waterfront Embarcadero boulevard runs along the shore with streetcar tracks visible. Palm trees, tropical light, Shendan Ocean bay in foreground. Architecture should feel like a layered skyline — three distinct eras of towers stacked together. Reference: Panama City skyline meets Havana Malecón meets Taipei.
 
 ## Colonial Bay Shore
 **File**: `Original colonial bay shore placeholder.jpg`

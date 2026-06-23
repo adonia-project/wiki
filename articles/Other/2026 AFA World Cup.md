@@ -337,7 +337,7 @@ The draw for the group stage took place on TBA 2026 at TBA. The 36 teams were al
 The 36 teams were divided into twelve groups of three. Each group was played as a single round-robin, with the top two teams in each group advancing to the knockout stage. The eight best group winners received byes to the round of 16, while the remaining four group winners and all twelve runners-up competed in a preliminary knockout round. The competition then continued through the round of 16, quarter-finals, semi-finals, a third-place match, and the final.
 
 ==Group stage==
-The following tables show the current standings in each group after matchday 2.
+The following tables show the current standings in each group after matchday 3.
 
 === Group A ===
 {{#invoke:Sports table|main|style=WDL|section=standings
@@ -347,8 +347,8 @@ The following tables show the current standings in each group after matchday 2.
 |team1=ZON |team2=KAN |team3=BALC
 |result1=KO |result2=KO
 |win_ZON=1 |draw_ZON=0 |loss_ZON=0 |gf_ZON=1 |ga_ZON=0
-|win_KAN=0 |draw_KAN=0 |loss_KAN=0 |gf_KAN=0 |ga_KAN=0
-|win_BALC=0 |draw_BALC=0 |loss_BALC=1 |gf_BALC=0 |ga_BALC=1
+|win_KAN=0 |draw_KAN=1 |loss_KAN=1 |gf_KAN=1 |ga_KAN=2
+|win_BALC=0 |draw_BALC=1 |loss_BALC=1 |gf_BALC=1 |ga_BALC=2
 |name_ZON=[[Zong]]
 |name_KAN=[[Kaneda]]
 |name_BALC=[[Balisca]]
@@ -361,14 +361,14 @@ The following tables show the current standings in each group after matchday 2.
 |teamwidth=180
 |update=current
 |source=2026 AFA World Cup
-|team1=VOL |team2=KLS |team3=MER
+|team1=VOL |team2=MER |team3=KLS
 |result1=KO |result2=KO
-|win_VOL=1 |draw_VOL=0 |loss_VOL=0 |gf_VOL=3 |ga_VOL=0
-|win_KLS=0 |draw_KLS=0 |loss_KLS=0 |gf_KLS=0 |ga_KLS=0
+|win_VOL=2 |draw_VOL=0 |loss_VOL=0 |gf_VOL=8 |ga_VOL=0
 |win_MER=0 |draw_MER=0 |loss_MER=1 |gf_MER=0 |ga_MER=3
+|win_KLS=0 |draw_KLS=0 |loss_KLS=1 |gf_KLS=0 |ga_KLS=5
 |name_VOL=[[Volisania]]
-|name_KLS=[[Kalisongo]]
 |name_MER=[[Mercia]]
+|name_KLS=[[Kalisongo]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -378,13 +378,13 @@ The following tables show the current standings in each group after matchday 2.
 |teamwidth=180
 |update=current
 |source=2026 AFA World Cup
-|team1=HER |team2=DGT |team3=AYO
+|team1=DGT |team2=HER |team3=AYO
 |result1=KO |result2=KO
+|win_DGT=1 |draw_DGT=0 |loss_DGT=0 |gf_DGT=2 |ga_DGT=0
 |win_HER=1 |draw_HER=0 |loss_HER=0 |gf_HER=1 |ga_HER=0
-|win_DGT=0 |draw_DGT=0 |loss_DGT=0 |gf_DGT=0 |ga_DGT=0
-|win_AYO=0 |draw_AYO=0 |loss_AYO=1 |gf_AYO=0 |ga_AYO=1
-|name_HER=[[Hersatia]]
+|win_AYO=0 |draw_AYO=0 |loss_AYO=2 |gf_AYO=0 |ga_AYO=3
 |name_DGT=[[Dagit]]
+|name_HER=[[Hersatia]]
 |name_AYO=[[Ayorin]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
@@ -398,8 +398,8 @@ The following tables show the current standings in each group after matchday 2.
 |team1=GAL |team2=TMZ |team3=SRO
 |result1=KO |result2=KO
 |win_GAL=1 |draw_GAL=0 |loss_GAL=0 |gf_GAL=2 |ga_GAL=1
-|win_TMZ=0 |draw_TMZ=0 |loss_TMZ=0 |gf_TMZ=0 |ga_TMZ=0
-|win_SRO=0 |draw_SRO=0 |loss_SRO=1 |gf_SRO=1 |ga_SRO=2
+|win_TMZ=0 |draw_TMZ=1 |loss_TMZ=0 |gf_TMZ=1 |ga_TMZ=1
+|win_SRO=0 |draw_SRO=1 |loss_SRO=1 |gf_SRO=2 |ga_SRO=3
 |name_GAL=[[Galwa]]
 |name_TMZ=[[Tamazgha]]
 |name_SRO=[[Sanrobonia]]
@@ -412,13 +412,13 @@ The following tables show the current standings in each group after matchday 2.
 |teamwidth=180
 |update=current
 |source=2026 AFA World Cup
-|team1=OKA |team2=SNY |team3=BYN
+|team1=SNY |team2=OKA |team3=BYN
 |result1=KO |result2=KO
-|win_OKA=1 |draw_OKA=0 |loss_OKA=0 |gf_OKA=2 |ga_OKA=1
-|win_SNY=0 |draw_SNY=0 |loss_SNY=0 |gf_SNY=0 |ga_SNY=0
+|win_SNY=1 |draw_SNY=0 |loss_SNY=0 |gf_SNY=4 |ga_SNY=2
+|win_OKA=1 |draw_OKA=0 |loss_OKA=1 |gf_OKA=4 |ga_OKA=5
 |win_BYN=0 |draw_BYN=0 |loss_BYN=1 |gf_BYN=1 |ga_BYN=2
-|name_OKA=[[Okaiken]]
 |name_SNY=[[Sanyan]]
+|name_OKA=[[Okaiken]]
 |name_BYN=[[Bayan]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
@@ -429,14 +429,14 @@ The following tables show the current standings in each group after matchday 2.
 |teamwidth=180
 |update=current
 |source=2026 AFA World Cup
-|team1=BLB |team2=TND |team3=NKM
+|team1=BLB |team2=NKM |team3=TND
 |result1=KO |result2=KO
-|win_BLB=0 |draw_BLB=1 |loss_BLB=0 |gf_BLB=0 |ga_BLB=0
+|win_BLB=0 |draw_BLB=2 |loss_BLB=0 |gf_BLB=1 |ga_BLB=1
+|win_NKM=0 |draw_NKM=1 |loss_NKM=0 |gf_NKM=1 |ga_NKM=1
 |win_TND=0 |draw_TND=1 |loss_TND=0 |gf_TND=0 |ga_TND=0
-|win_NKM=0 |draw_NKM=0 |loss_NKM=0 |gf_NKM=0 |ga_NKM=0
 |name_BLB=[[Balboa]]
-|name_TND=[[Tondano]]
 |name_NKM=[[Nakamizu]]
+|name_TND=[[Tondano]]
 |res_col_header=Q
 |col_KO=green1 |text_KO=Advance to knockout stage
 }}
@@ -656,6 +656,25 @@ The second matchday produced 20 goals, with [[United Midlands national football 
 | 20:00 || K || [[Orma national football team|Orma]] vs [[Sarta national football team|Sarta]] || [[Stadion Pangkalsimpang]] || [[Pangkalsimpang]] || 0–0
 |-
 | 20:00 || L || [[Aetolia national football team|Aetolia]] vs [[Louyang national football team|Louyang]] || [[Estadio Valparaíso]] || [[Valparaíso]] || 1–1
+|}
+
+=== Matchday 3 results ===
+The third matchday produced 18 goals, with [[Volisania national football team|Volisania]]'s 5–0 rout of [[Kalisongo national football team|Kalisongo]] and [[Sanyan national football team|Sanyan]]'s 4–2 win over [[Okaiken national football team|Okaiken]] standing out. For a fuller match report, see [[2026 AFA World Cup Matchday 3]].
+
+{| class="wikitable sortable"
+! Time !! Group !! Match !! Venue !! City !! Result
+|-
+| 14:00 || A || [[Balisca national football team|Balisca]] vs [[Kaneda national football team|Kaneda]] || [[Estadio Olímpico]] || [[Castejón]] || 1–1
+|-
+| 14:00 || B || [[Volisania national football team|Volisania]] vs [[Kalisongo national football team|Kalisongo]] || [[Estadio Nacional de Macaio]] || [[Macaio]] || 5–0
+|-
+| 17:00 || C || [[Ayorin national football team|Ayorin]] vs [[Dagit national football team|Dagit]] || [[Estadio Alessandria]] || [[Alessandria]] || 0–2
+|-
+| 17:00 || D || [[Sanrobonia national football team|Sanrobonia]] vs [[Tamazgha national football team|Tamazgha]] || [[Stadion Agung Martapura]] || [[Martapura]] || 1–1
+|-
+| 20:00 || E || [[Okaiken national football team|Okaiken]] vs [[Sanyan national football team|Sanyan]] || [[Estadio Axarquía]] || [[Axarquía]] || 2–4
+|-
+| 20:00 || F || [[Balboa national football team|Balboa]] vs [[Nakamizu national football team|Nakamizu]] || [[Estadio Concepción]] || [[Concepción]] || 1–1
 |}
 
 ==Knockout stage==

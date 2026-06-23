@@ -51,16 +51,16 @@ NOTE: Province populations are estimates that need verification.
 
 ## Geography correction
 - **East coast = Aethiopean Ocean** (Atlantic-equivalent)
-- **West coast = Kendriyan Ocean** (Pacific-equivalent)
+- **West coast = Shendan Ocean** (Pacific-equivalent)
 - Sant Cristòfor is on the Aethiopean (east) coast
-- Canal goes from Aethiopean (east) to Kendriyan (west)
+- Canal goes from Aethiopean (east) to Shendan (west)
 - **Yalabirga Mountain Range** — divides Tramuntana from Nurra, extends into Jala; 1,200–1,800m; source of principal rivers; interior cities in highland valleys
 
 ## Biodiversity — expanded 2026-05-17
 - Biogeographic boundary: Lurandian + Abyalan biotic realms; high species richness + endemism
 - **Yalabirga cloud forests** (1,200–1,800m): most biodiverse habitat; centre of endemism; broadleaf canopy, epiphytes, mosses, ferns; endemic birds + amphibians; national parks since 1980s; illegal logging + agricultural encroachment pressures
 - **Aethiopian coastal lowlands**: tropical dry forest + mangroves; Estret/Migjorn estuaries; critical nursery habitat for fish/crustaceans
-- **Kendriyan coast**: rain shadow; drier tropical forest + thorn-scrub
+- **Shendan coast**: rain shadow; drier tropical forest + thorn-scrub
 - **Lake Alvarado**: freshwater ecosystem; resident fish; waterfowl/wading birds; created by canal damming
 - Environmental threats: deforestation, water pollution (agricultural runoff + canal shipping), overfishing, urban expansion
 - Signatory to AC Convention on Biodiversity
@@ -68,11 +68,11 @@ NOTE: Province populations are estimates that need verification.
 ## Climate — expanded 2026-05-17
 - Tropical; wet season May–Nov, dry season Dec–Apr; highlands get some rain year-round
 - Aethiopian coastal plain: 26–29°C, 1,500–2,500mm/yr; hot + humid
-- Kendriyan coastal plain: rain shadow; 800–1,200mm/yr; hotter, more pronounced seasonal variation
+- Shendan coastal plain: rain shadow; 800–1,200mm/yr; hotter, more pronounced seasonal variation
 - Yalabirga highlands: 16–22°C; 2,000–4,000mm/yr on windward (Aethiopian) slopes; cloud forest zone >1,200m gets persistent mist/orographic precip
 - Aethiopian coast: tropical storms Aug–Oct; flooding + wind damage
-- Kendriyan coast: protected by mountain barrier
-- ENSO variability: El Niño = drier Aethiopian slope, wetter Kendriyan; La Niña = opposite
+- Shendan coast: protected by mountain barrier
+- ENSO variability: El Niño = drier Aethiopian slope, wetter Shendan; La Niña = opposite
 
 ## Largest Cities (2026 est.)
 
@@ -82,9 +82,9 @@ NOTE: Province populations are estimates that need verification.
 | 2 | Sant Bart | Jala | 2,800,000 | Admin centre; interior highlands; rump state capital |
 | 3 | Novara | Nurra | 2,200,000 | Aethiopean coast; Nurra's principal city — INVENTED NAME |
 | 4 | Costabella | Jala | 1,500,000 | Aethiopean coast in Jala — INVENTED NAME |
-| 5 | Portnou | Estret | 1,100,000 | Canal corridor — Kendriyan coast, canal western terminus |
+| 5 | Portnou | Estret | 1,100,000 | Canal corridor — Shendan coast, canal western terminus |
 | 6 | Sant Llàtzer | Migjorn | 950,000 | Provincial capital; south of canal |
-| 7 | Portblanc | Tramuntana | 680,000 | Kendriyan coast — INVENTED NAME |
+| 7 | Portblanc | Tramuntana | 680,000 | Shendan coast — INVENTED NAME |
 | 8 | Campdària | Migjorn | 520,000 | INVENTED NAME |
 | 9 | Vellmar | Nurra | 410,000 | INVENTED NAME |
 | 10 | Altaneu | Jala | 350,000 | INVENTED NAME |
@@ -143,7 +143,7 @@ NOTE: Province populations are estimates that need verification.
 - 4.2M international visitors (2025); top sources: Illypnia (Volisania, Breisland, Andalus), Fosia (Zong, Sinchew), Kaftia (Burawa, Dakare)
 - Domestic tourism: Aethiopean coastal resorts + Sant Cristòfor metro area
 - Attractions: Balboa Canal (locks, museum, Lake Alvarado); Sant Cristòfor historic centre (World Heritage Site); Yalabirga cloud forests (eco-tourism, hiking); Nurra/Tramuntana coastal resorts (beach, diving, sport fishing); Birú highland cultural tourism (villages, artisan workshops — limited by infrastructure/remoteness)
-- Cruise: Sant Cristòfor = major cruise port; ~1.8M cruise passengers/year; Aethiopean harbour terminals; turnaround + port of call; Kendriyan port smaller scale; controversy: low local spending, environmental impact in canal zone
+- Cruise: Sant Cristòfor = major cruise port; ~1.8M cruise passengers/year; Aethiopean harbour terminals; turnaround + port of call; Shendan port smaller scale; controversy: low local spending, environmental impact in canal zone
 - Areza: business + conference tourism; AC Parliament, AC Tribunal, international orgs, diplomatic missions; year-round, independent of seasonal leisure fluctuations
 
 ## Political Parties
@@ -202,7 +202,7 @@ Religiously pluralistic (no majority denomination):
   - **Expressway 5** (N–S): Sant Cristòfor → Areza
   - **Expressway 6** (E–W): Migjorn only; southern interior provincial route
 - Quality varies: expressways + Aethiopean coast = modern; interior highlands = narrow, winding, seasonal landslides
-- Car ownership: ~180/1,000; concentrated in urban + Aethiopean coast; low in rural interior + Kendriyan coast
+- Car ownership: ~180/1,000; concentrated in urban + Aethiopean coast; low in rural interior + Shendan coast
 
 ### Urban transit
 - Sant Cristòfor: Metro de Sant Cristòfor (9 lines, opened 1980s–2024; ~1.2M daily; AC-funded; connects with Areza Metro at western terminus; 2 lines reuse Zong Balboa-era tunnels/infrastructure from original 2-line metro)
@@ -216,7 +216,7 @@ Religiously pluralistic (no majority denomination):
 
 ### Railways
 - **Ferrocarrils de l'Istme (FI)** — state-owned national rail operator; hubs at Sant Cristòfor + Sant Bart
-- Isthmus Railway: colonial-era, rebuilt under AC mandate; parallel to canal; Sant Cristòfor → Kendriyan terminus; freight + daily passenger; operated by AC Canal Commission (not FI)
+- Isthmus Railway: colonial-era, rebuilt under AC mandate; parallel to canal; Sant Cristòfor → Shendan terminus; freight + daily passenger; operated by AC Canal Commission (not FI)
 - Jala Northern Railway: Sant Bart → Novara → northern highland towns; primarily agricultural freight; limited passenger; operated by FI
 - FI intercity services: Sant Cristòfor → Novara, Costabella, Sant Llàtzer; Sant Bart → Portblanc, Tramuntana towns
 
@@ -224,14 +224,14 @@ Religiously pluralistic (no majority denomination):
 - Sant Cristòfor International Airport: primary gateway + Lurandia transit hub; ~18M pax/year; Aeroístmus hub
 - Sant Bart Airport: domestic + regional
 - Novara Airport: domestic + regional
-- Smaller airfields: interior provinces + Kendriyan coast
+- Smaller airfields: interior provinces + Shendan coast
 - Aeroístmus = national flag carrier — INVENTED NAME
 
 ### Maritime & ports
-- Port of Sant Cristòfor: Kendriyan coast; busiest in Lurandia; container transshipment, bulk, petroleum
-- Portnou: Kendriyan coast; canal western terminus; transshipment + bulk
+- Port of Sant Cristòfor: Shendan coast; busiest in Lurandia; container transshipment, bulk, petroleum
+- Portnou: Shendan coast; canal western terminus; transshipment + bulk
 - Port of Sant Llàtzer: Aethiopian coast; canal eastern terminus
-- Portblanc: Kendriyan coast
+- Portblanc: Shendan coast
 - Canal: ~14,000 transits/year
 
 ## Culture
@@ -255,7 +255,7 @@ Religiously pluralistic (no majority denomination):
 - Chiefdoms controlling narrowest parts of isthmus (portage corridors) were wealthiest
 - Economy: maize, cassava, cacao, cotton; fishing, hunting; gold extraction from highland streams
 - Birú goldwork from Jala highlands — traded across isthmus and beyond
-- Footpaths and canoe routes connecting Aethiopean and Kendriyan coasts (pre-canal portage)
+- Footpaths and canoe routes connecting Aethiopean and Shendan coasts (pre-canal portage)
 - Shifting alliances, ritualised warfare, tribute/marriage exchange
 - No single sahilato ever achieved lasting dominance
 - Coastal Nurra chiefdoms and highland Jala confederation were regional hegemons

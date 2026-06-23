@@ -97,9 +97,9 @@
 - Some liberal ideas (economic diversification, critique of Volisanian dominance) absorbed by Expansió Party in 1860s
 
 ## Geography
-- Sant Cristòfor = Kendriyan (west) coast
+- Sant Cristòfor = Shendan (west) coast
 - Sant Llàtzer = Aethiopian (east) coast
-- Portnou = canal's Kendriyan terminus
+- Portnou = canal's Shendan terminus
 - Sant Bart = interior city, capital after 1899
 - Jala highlands = Rovira i Mas's home region
 - Estret lowlands = Ballester i Cortès's home region

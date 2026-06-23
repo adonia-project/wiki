@@ -25,7 +25,7 @@
 | Method | Era | Details |
 |--------|-----|---------|
 | Overland (foot, night) | Pre-war | 3-5 persons guided; Yalabirga highlands; 1-3 nights |
-| Coastal (small boats) | Pre-war | Kendriyan coast; isolated beaches; Zong naval presence not oriented to customs |
+| Coastal (small boats) | Pre-war | Shendan coast; isolated beaches; Zong naval presence not oriented to customs |
 | Concealment in legitimate cargo | Pre-war | Agricultural produce, construction materials; bribed constabulary |
 | Vehicular (cars/trucks) | AC period | Concealed at authorised checkpoints; more permissive customs |
 
