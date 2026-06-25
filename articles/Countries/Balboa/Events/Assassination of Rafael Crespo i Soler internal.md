@@ -15,7 +15,7 @@
 - Sant Cristòfor merchant; first non-planter president
 - Championed canal project; secured Volisanian financing
 - Re-elected 1872, 1876
-- Represented commercial class of Kendriyan coastal cities
+- Represented commercial class of Shendan coastal cities
 
 ### Tàn Hui-chye
 - Sinchewese canal worker (Zong name, Catalanized spelling)

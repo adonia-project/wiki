@@ -71,7 +71,7 @@ The rump Balboan state after losing Sant Cristòfor + canal zone to Zong (1899 T
 
 ## Economy Details
 - Pre-1899: Sant Cristòfor port + canal revenue = principal government income
-- Post-1899: Agricultural exports through minor Aethiopean/Kendriyan ports; inadequate for large-scale traffic; higher shipping costs reduced competitiveness
+- Post-1899: Agricultural exports through minor Aethiopean/Shendan ports; inadequate for large-scale traffic; higher shipping costs reduced competitiveness
 - Persistent trade deficits; dependent on Volisanian credit
 - Mild Depression (1901–1908) compounded difficulties; planter elite intensified labour extraction
 - Currency: Balboan peso

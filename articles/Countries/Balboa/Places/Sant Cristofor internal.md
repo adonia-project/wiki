@@ -16,9 +16,9 @@ The Birú of the bay area lived in permanent villages of thatched longhouses, pr
 
 #### Trans-isthmian portage
 
-The bay's strategic importance derived from its position at the western terminus of the principal trans-isthmian portage route. The Birú portage routes — a network of footpaths across the Isthmus of Balboa — connected the Kendriyan Ocean coast at the Badia de Sant Cristòfor to the Aethiopian Ocean coast at what is now Sant Llàtzer. The crossing took four to six days on foot, with goods carried by porters or, in some sections, by canoe along the rivers that drained toward either coast.
+The bay's strategic importance derived from its position at the western terminus of the principal trans-isthmian portage route. The Birú portage routes — a network of footpaths across the Isthmus of Balboa — connected the Shendan Ocean coast at the Badia de Sant Cristòfor to the Aethiopian Ocean coast at what is now Sant Llàtzer. The crossing took four to six days on foot, with goods carried by porters or, in some sections, by canoe along the rivers that drained toward either coast.
 
-The Birú of the bay area controlled the western end of this route and served as intermediaries, porters, and guides for trans-isthmian trade. Goods arriving from the Aethiopian coast — spices, textiles, metals — were unloaded at the bay shore and transferred to ocean-going canoes for distribution along the Kendriyan coast, and vice versa. The bay's sheltered harbour made it a natural staging point, and the Birú community grew wealthy from the transit trade.
+The Birú of the bay area controlled the western end of this route and served as intermediaries, porters, and guides for trans-isthmian trade. Goods arriving from the Aethiopian coast — spices, textiles, metals — were unloaded at the bay shore and transferred to ocean-going canoes for distribution along the Shendan coast, and vice versa. The bay's sheltered harbour made it a natural staging point, and the Birú community grew wealthy from the transit trade.
 
 The portage route followed the natural corridor between the Serralada d'Estret foothills and the bay, roughly along the line of what is now the Riu Llobregat valley and the modern Camí Ral. The Birú maintained way stations and rest points along the route, and the path itself was improved over centuries of use, with stone paving in some sections and wooden causeways across the wetter areas of the coastal plain.
 
@@ -28,7 +28,7 @@ The Birú were accomplished canoeists, and the bay was the primary transport rou
 
 #### Etymology notes
 
-- **Pandao**: From Zong word *bandao* (半島), meaning "peninsula." Given by Zong traders who used the bay as a stopping point on their Kendriyan Ocean trade routes. Adopted into Volisanian and later Catalan as "Pandao," becoming the name of the fishing village on the peninsula's bay shore.
+- **Pandao**: From Zong word *bandao* (半島), meaning "peninsula." Given by Zong traders who used the bay as a stopping point on their Shendan Ocean trade routes. Adopted into Volisanian and later Catalan as "Pandao," becoming the name of the fishing village on the peninsula's bay shore.
 
 ### Naming note
 
@@ -38,17 +38,17 @@ Until the Second War of the Isthmus (1893–1899), the name "Sant Cristòfor" re
 
 #### Discovery and establishment
 
-Volisanian explorers reached the Badia de Sant Cristòfor by land in the early sixteenth century, following the Birú portage routes westward from the Aethiopian coast. The expedition, led by the Volisanian navigator Cristòfor de Muntaner, arrived at the bay in 1524 and recognised its strategic value immediately: a sheltered deep-water harbour on the Kendriyan coast, at the western terminus of the only viable trans-isthmian crossing. Muntaner named the bay "Sant Cristòfor" after his patron saint, and the name was subsequently applied to the settlement that the Volisanians established on the eastern shore.
+Volisanian explorers reached the Badia de Sant Cristòfor by land in the early sixteenth century, following the Birú portage routes westward from the Aethiopian coast. The expedition, led by the Volisanian navigator Cristòfor de Muntaner, arrived at the bay in 1524 and recognised its strategic value immediately: a sheltered deep-water harbour on the Shendan coast, at the western terminus of the only viable trans-isthmian crossing. Muntaner named the bay "Sant Cristòfor" after his patron saint, and the name was subsequently applied to the settlement that the Volisanians established on the eastern shore.
 
-The Volisanian colonial government formally established Sant Cristòfor as the official Kendriyan port of the isthmian transit corridor in 1547, alongside Sant Llàtzer on the Aethiopian coast. Between the two, the colonial government constructed the Camí Ral (Volisanian: "Royal Road"), a paved highway that replaced the Birú footpaths and became the primary commercial artery across the isthmus. The Camí Ral reduced the crossing time from four to six days to approximately two days, and could accommodate oxcart convoys and, later, stagecoach services.
+The Volisanian colonial government formally established Sant Cristòfor as the official Shendan port of the isthmian transit corridor in 1547, alongside Sant Llàtzer on the Aethiopian coast. Between the two, the colonial government constructed the Camí Ral (Volisanian: "Royal Road"), a paved highway that replaced the Birú footpaths and became the primary commercial artery across the isthmus. The Camí Ral reduced the crossing time from four to six days to approximately two days, and could accommodate oxcart convoys and, later, stagecoach services.
 
 The Birú population of the bay area was largely displaced from the eastern shore settlement, which became the site of the Volisanian town. The Birú were pressed into service as porters and labourers on the Camí Ral, and many were pushed to the margins of the colonial economy — the peninsula, the southern bay shore, and the hills. Salt production, which the Birú had practiced for centuries, was taken over by the colonial government and expanded into a major industry.
 
 #### Trade hub and Fosian commerce
 
-Sant Cristòfor's position as the Kendriyan terminus of the trans-isthmian corridor made it one of the most important commercial ports in the New World. The city grew rapidly as goods flowing between the Aethiopian and Kendriyan Oceans were unloaded, transferred to oxcart convoys, carried across the isthmus, and reloaded onto ocean-going vessels. The Volisanian colonial government levied transit fees, docking fees, and warehousing charges on all goods passing through the port, and these revenues became a major source of colonial income.
+Sant Cristòfor's position as the Shendan terminus of the trans-isthmian corridor made it one of the most important commercial ports in the New World. The city grew rapidly as goods flowing between the Aethiopian and Shendan Oceans were unloaded, transferred to oxcart convoys, carried across the isthmus, and reloaded onto ocean-going vessels. The Volisanian colonial government levied transit fees, docking fees, and warehousing charges on all goods passing through the port, and these revenues became a major source of colonial income.
 
-The city's trade was dominated by two flows: Aethiopian goods (spices, textiles, metals) moving west to the Kendriyan market, and Kendriyan goods (silver, hardwoods, agricultural products) moving east to the Aethiopian market. However, the most lucrative and politically significant trade was with Fosian Lurandia — particularly the Kingdom of Zong, which had established the colony of Tamsui on the western coast of Lurandia and required a reliable route to Illypnian markets.
+The city's trade was dominated by two flows: Aethiopian goods (spices, textiles, metals) moving west to the Shendan market, and Shendan goods (silver, hardwoods, agricultural products) moving east to the Aethiopian market. However, the most lucrative and politically significant trade was with Fosian Lurandia — particularly the Kingdom of Zong, which had established the colony of Tamsui on the western coast of Lurandia and required a reliable route to Illypnian markets.
 
 Zong merchants had been trading at the bay since before the Volisanian arrival — the name "Pandao" (from Zong *bandao*, "peninsula") attests to this earlier presence. Under Volisanian rule, Zong trade through Sant Cristòfor grew enormously, but the Volisanian authorities viewed Fosian commerce with suspicion and sought to extract maximum revenue from it.
 
@@ -56,7 +56,7 @@ Zong merchants had been trading at the bay since before the Volisanian arrival �
 
 By the early eighteenth century, the Volisanian colonial government had progressively increased the transit and docking fees on Fosian goods passing through Sant Cristòfor. The fees were explicitly discriminatory — Fosian merchants paid significantly higher rates than Volisanian or Illypnian traders — and were designed both to raise revenue and to disadvantage Fosian commercial competitors. The Kingdom of Zong, whose entire Illypnian trade route depended on the isthmian crossing, objected to the fees as an impediment to its commercial interests.
 
-Diplomatic protests failed to reduce the fees, and in 1711 Zong launched a military expedition to seize Sant Cristòfor by force. The First War of the Isthmus (1711–1716) was the first major conflict between Illypnian and Fosian colonial powers in the New World. Zong forces landed on the Kendriyan coast and attempted to take the city, but were repelled by the Volisanian garrison with the support of Birú auxiliaries who knew the terrain.
+Diplomatic protests failed to reduce the fees, and in 1711 Zong launched a military expedition to seize Sant Cristòfor by force. The First War of the Isthmus (1711–1716) was the first major conflict between Illypnian and Fosian colonial powers in the New World. Zong forces landed on the Shendan coast and attempted to take the city, but were repelled by the Volisanian garrison with the support of Birú auxiliaries who knew the terrain.
 
 The war ended with the Treaty of Remoria (1716), which granted Zong docking and passage rights through Volisanian ports — the very access that Zong had sought. The Camí Ral remained under Volisanian control, but the treaty established the principle that the isthmian corridor was a matter of international concern, not merely a domestic colonial matter.
 
@@ -96,7 +96,7 @@ Balboa's independence from Volisania was not the product of a domestic liberatio
 
 The Volisanian government selected [[Jordi Rovira i Mas]], a sugar planter from the Jala highlands and a former slaveowner, as the candidate most amenable to Volisanian interests. Rovira i Mas's commercial orientation was toward the Volisanian export market, and he was a vehement racist who had opposed the abolition of slavery — qualities that Volisania regarded as assets, ensuring that the social order protecting Volisanian commercial interests would be maintained. Balboa gained independence on 15 March 1854, with Rovira i Mas as its first president.
 
-The independence settlement had immediate implications for Sant Cristòfor. As an independent state, Balboa was no longer bound by the Treaty of Remoria (1716), which had granted Zong docking and passage rights through Volisanian ports. The Zong government, recognising the implications, entered into negotiations with the new republic and paid a sum in exchange for the continuation of Sant Cristòfor's free port status and the grant of military docking rights at the port. The arrangement preserved the city's commercial character and its role as the hub of Fosian–Illypnian trade on the Kendriyan coast.
+The independence settlement had immediate implications for Sant Cristòfor. As an independent state, Balboa was no longer bound by the Treaty of Remoria (1716), which had granted Zong docking and passage rights through Volisanian ports. The Zong government, recognising the implications, entered into negotiations with the new republic and paid a sum in exchange for the continuation of Sant Cristòfor's free port status and the grant of military docking rights at the port. The arrangement preserved the city's commercial character and its role as the hub of Fosian–Illypnian trade on the Shendan coast.
 
 ### First Republic (1854–1899)
 
@@ -134,7 +134,7 @@ The assassination exposed the depth of the city's municipal corruption and the d
 
 #### The Sant Cristòfor Central Terminal
 
-The most significant municipal construction project of the First Republic was the **Estació Terminal Central de Sant Cristòfor** (Sant Cristòfor Central Terminal), built between 1868 and 1872 on the bay shore, directly across the ferry plaza from the Sant Cristòfor Main ferry terminal. The terminal was the western terminus of the Isthmus Railway and the primary point of transshipment between the railway and the Kendriyan Ocean shipping that used the port.
+The most significant municipal construction project of the First Republic was the **Estació Terminal Central de Sant Cristòfor** (Sant Cristòfor Central Terminal), built between 1868 and 1872 on the bay shore, directly across the ferry plaza from the Sant Cristòfor Main ferry terminal. The terminal was the western terminus of the Isthmus Railway and the primary point of transshipment between the railway and the Shendan Ocean shipping that used the port.
 
 The terminal was a grand Beaux-Arts building — a monumental stone structure with a vast vaulted train shed, ornate façades facing both the ferry plaza and the rail yards, and a central clock tower that became one of the city's most recognisable landmarks. The building was designed to impress: it was the first major public building constructed after independence, and it was intended to demonstrate that the new republic could build on a scale to rival the great railway termini of Illypnia.
 
@@ -184,7 +184,7 @@ The canals were, like every other municipal project of the period, mired in corr
 
 #### The canal and the loss of the terminus
 
-The construction of the Balboa Canal (1870s–1885) was a mixed blessing for the city. Sant Cristòfor had expected to be the canal's western terminus, but the project's engineers determined that Portnou, to the south, offered a clearer route and superior harbour conditions. The decision was a significant blow — the canal would bypass the city's harbour entirely, and the city would lose its role as the primary point of transshipment between the isthmian corridor and the Kendriyan Ocean. The Expansió Party government attempted to compensate by investing in road and rail connections between Sant Cristòfor and Portnou, but the canal's opening in 1885 marked the beginning of the city's relative decline as a transit hub.
+The construction of the Balboa Canal (1870s–1885) was a mixed blessing for the city. Sant Cristòfor had expected to be the canal's western terminus, but the project's engineers determined that Portnou, to the south, offered a clearer route and superior harbour conditions. The decision was a significant blow — the canal would bypass the city's harbour entirely, and the city would lose its role as the primary point of transshipment between the isthmian corridor and the Shendan Ocean. The Expansió Party government attempted to compensate by investing in road and rail connections between Sant Cristòfor and Portnou, but the canal's opening in 1885 marked the beginning of the city's relative decline as a transit hub.
 
 #### Velásquez and the road to war
 

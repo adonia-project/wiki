@@ -25,7 +25,7 @@
 ## Ecosystems (5)
 1. Yalabirga cloud forests (700–1,050m) — most biodiverse, centre of endemism, national parks since 1980s
 2. Aethiopian lowland tropical forests — most extensive, heavily cleared, best stands in south + Palpoa
-3. Kendriyan dry forests — rain shadow, drought-deciduous, thorn-scrub, vulnerable to fire + ranching
+3. Shendan dry forests — rain shadow, drought-deciduous, thorn-scrub, vulnerable to fire + ranching
 4. Mangrove/estuarine — Aethiopian coast, Estret/Migjorn, nursery habitat, storm protection
 5. Freshwater — rivers, Lake Alvarado (artificial), highland lakes/wetlands
 
@@ -37,7 +37,7 @@
 
 ## Climate
 - Same as Balboa article: tropical, wet May–Nov, dry Dec–Apr
-- Aethiopian: 26–29°C, 1,500–2,500mm; Kendriyan: 800–1,200mm (rain shadow)
+- Aethiopian: 26–29°C, 1,500–2,500mm; Shendan: 800–1,200mm (rain shadow)
 - Highlands: 18–22°C, 2,000–3,500mm; cloud forest >700m persistent mist
 - Tropical storms Aug–Oct on Aethiopian coast; ENSO variability
 
