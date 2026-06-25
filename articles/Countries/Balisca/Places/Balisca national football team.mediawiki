@@ -72,6 +72,40 @@
 
 The '''Balisca national football team''' ({{Lang-bl|Seleción de futbol de Balisca}}) represents the [[Baliscan Confederation]] in {{W|international football}}, and is controlled by the [[Baliscan Football Federation]] ({{lang-bl|Federación Baliscana de Futbol}}). The team's colors are black and white. The national Baliscan team is collectively known as ''Las Jaguars'' (The Jaguars).
 
+=== Current squad ===
+:''Caps and goals as of 15 June 2026 after the match against [[Zong national football team|Zong]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=Marc Soler i Vidal|age=12 March 1998 (age 28)|caps=45|goals=0|club=[[FC Castejón]]|clubnat=BAL}}
+{{nat fs g player|no=31|pos=GK|name=Iker Goikoetxea|age=5 November 2000 (age 25)|caps=8|goals=0|club=[[FC Macaio]]|clubnat=BAL}}
+{{nat fs g player|no=41|pos=GK|name=Koa Kamana|age=23 July 2003 (age 22)|caps=2|goals=0|club=[[Club Esportiu Muntanya|C.E. Muntanya]]|clubnat=BAL}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=Aitor Etxebarria|age=14 June 1999 (age 27)|caps=38|goals=2|club=[[Atlètic Navaza]]|clubnat=BAL}}
+{{nat fs g player|no=3|pos=DF|name=Babatunde Soler|age=8 January 1997 (age 29)|caps=52|goals=4|club=[[Eintracht Remscheid]]|clubnat=Breisland}}
+{{nat fs g player|no=4|pos=DF|name=Carles Rovira i Bosch|age=22 April 2000 (age 26)|caps=24|goals=1|club=[[FC Castejón]]|clubnat=BAL}}
+{{nat fs g player|no=5|pos=DF|name=Eneko Agirre Zabala ''([[wikipedia:Captain (association football)|captain]])''|age=3 September 1994 (age 31)|caps=98|goals=7|club=[[Atlético Llevant]]|clubnat=BAL}}
+{{nat fs g player|no=12|pos=DF|name=Hassan ibn Rashid|age=17 May 2002 (age 24)|caps=15|goals=0|club=[[SC Araucária]]|clubnat=BAL}}
+{{nat fs g player|no=13|pos=DF|name=Lin Zhiyuan|age=9 August 2002 (age 23)|caps=11|goals=1|club=[[FC Pindorama]]|clubnat=BAL}}
+{{nat fs g player|no=14|pos=DF|name=Antón Otegi Aranburu|age=30 December 2000 (age 25)|caps=18|goals=0|club=[[VfB Velden]]|clubnat=Breisland}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=Nil Ferrer Domènech|age=15 February 1999 (age 27)|caps=42|goals=5|club=[[FC Castejón]]|clubnat=BAL}}
+{{nat fs g player|no=7|pos=MF|name=Amadou Diallo|age=28 October 1999 (age 26)|caps=35|goals=8|club=[[CF Volisania]]|clubnat=Volisania}}
+{{nat fs g player|no=8|pos=MF|name=Youssef al-Bashir|age=4 March 2002 (age 24)|caps=19|goals=3|club=[[FC Macaio]]|clubnat=BAL}}
+{{nat fs g player|no=16|pos=MF|name=Mateo Diallo|age=11 January 2004 (age 22)|caps=6|goals=1|club=[[Club Esportiu Muntanya|C.E. Muntanya]]|clubnat=BAL}}
+{{nat fs g player|no=17|pos=MF|name=Chen Wei-long|age=7 August 2000 (age 25)|caps=21|goals=2|club=[[tba]]|clubnat=Zong}}
+{{nat fs g player|no=18|pos=MF|name=Pau Domènech i Ferrer|age=19 June 1996 (age 29)|caps=58|goals=9|club=[[Juventud]]|clubnat=BAL}}
+{{nat fs g player|no=19|pos=MF|name=Oluwaseun Adebayo|age=13 April 2003 (age 23)|caps=14|goals=4|club=[[Grêmio Esportivo Solana]]|clubnat=BAL}}
+{{nat fs g player|no=20|pos=MF|name=Raj Kwaray|age=25 December 1997 (age 28)|caps=33|goals=6|club=[[Eintracht Remscheid]]|clubnat=Breisland}}
+{{nat fs g player|no=23|pos=MF|name=João Pedro da Costa|age=9 October 2001 (age 24)|caps=16|goals=2|club=[[CE Cerdanya]]|clubnat=BAL}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=Sebastián Herrera García|age=28 July 1997 (age 28)|caps=44|goals=22|club=[[FC Castejón]]|clubnat=BAL}}
+{{nat fs g player|no=10|pos=FW|name=Tariq al-Mansouri|age=7 January 1998 (age 28)|caps=67|goals=31|club=[[CF Volisania]]|clubnat=Volisania}}
+{{nat fs g player|no=11|pos=FW|name=Kalinga Magsaysay|age=1 June 1999 (age 27)|caps=29|goals=12|club=[[E.L. Póvoa]]|clubnat=BAL}}
+{{nat fs g player|no=21|pos=FW|name=Tāne Mahelona|age=19 April 2001 (age 25)|caps=18|goals=5|club=[[Atlético Llevant]]|clubnat=BAL}}
+{{nat fs g player|no=22|pos=FW|name=Kenji Nakamura|age=15 September 2002 (age 23)|caps=9|goals=3|club=[[Deportivo Fénix]]|clubnat=BAL}}
+{{nat fs g player|no=25|pos=FW|name=Kwame Asante|age=3 May 2005 (age 21)|caps=3|goals=1|club=[[SC Araucária]]|clubnat=BAL}}
+{{nat fs g end}}
+
 == See also ==
 {{Balisca articles}}
 [[Category:Balisca]]

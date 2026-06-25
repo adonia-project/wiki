@@ -1,0 +1,30 @@
+{{Infobox
+| name = {{{name|}}}
+| image = {{{image|}}}
+| image_size = {{{image_size|}}}
+| alt = {{{alt|}}}
+| host_city = {{{host_city|}}}
+| motto = {{{motto|}}}
+| nations = {{{nations|}}}
+| athletes = {{{athletes|}}}
+| events = {{{events|}}}
+| opening = {{{opening|}}}
+| closing = {{{closing|}}}
+| opened_by = {{{opened_by|}}}
+| closed_by = {{{closed_by|}}}
+| cauldron = {{{cauldron|}}}
+| stadium = {{{stadium|}}}
+| venue = {{{venue|}}}
+| summer_prev = {{{summer_prev|}}}
+| summer_next = {{{summer_next|}}}
+| winter_prev = {{{winter_prev|}}}
+| winter_next = {{{winter_next|}}}
+| prev = {{{prev|}}}
+| next = {{{next|}}}
+}}
+<noinclude>
+{{documentation}}
+</noinclude>
+<noinclude>
+{{documentation}}
+</noinclude>

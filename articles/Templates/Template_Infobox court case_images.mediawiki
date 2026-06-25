@@ -1,0 +1,20 @@
+{{#if:{{{image1|}}}{{{image2|}}}
+|<div class="noresize" style="display:table; width:100%;">
+  <div style="display:table-cell; vertical-align:middle; padding-right:5px;">
+    {{#invoke:InfoboxImage|InfoboxImage|image={{{image1|}}}|size={{{size1|}}}|sizedefault=220px|border={{#if:{{{border1|}}}|yes}}|alt={{{alt1|}}}}}
+    {{#if:{{{caption1|}}}|<div>{{{caption1|}}}</div>}}
+  </div>
+  {{#if:{{{image2|}}}|
+  <div style="display:table-cell; vertical-align:middle; padding-left:5px;">
+    {{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|size={{{size2|}}}|sizedefault=220px|border={{#if:{{{border2|}}}|yes}}|alt={{{alt2|}}}}}
+    {{#if:{{{caption2|}}}|<div>{{{caption2|}}}</div>}}
+  </div>
+  }}
+</div>
+}}
+<noinclude>
+{{documentation|content=
+This subtemplate is used by {{tl|Infobox court case}} to format one or two case images and their captions.
+It is not intended to be used directly.
+}}
+</noinclude>
