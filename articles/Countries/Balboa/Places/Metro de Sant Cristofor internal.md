@@ -7,7 +7,7 @@
 | 1 | Zong (extended) | 31.6 | 19.6 | 129,900 | Sant Cristòfor | Sant Jordi, Original, Sant Martí, Sant Miquel | Airport |
 | 2 | Zong (extended) | 37.8 | 23.5 | 148,100 | Sant Cristòfor | Sant Martí, Original, Ciutat de l'Estació, Dàrsena | |
 | 3 | Post-reunification | 33.3 | 20.7 | 89,800 | Sant Cristòfor | Original, Costa Nord, Sant Jordi | |
-| 4 | Post-reunification | 26.8 | 16.6 | 83,900 | Sant Cristòfor | Dàrsena, Original, Mare de Déu del Mar | |
+| 4 | Post-reunification | 26.8 | 16.6 | 83,900 | Sant Cristòfor | Dàrsena, Original, Mare de Déu del Mar | |l
 | 5 | Post-reunification | 42.8 | 26.6 | 249,500 | Sant Cristòfor | Original, Barcelona, Costa Nord, Dàrsena | Barcelona peninsula |
 | 6 | Post-reunification | 37.3 | 23.2 | 151,100 | Sant Cristòfor | Dàrsena, Original, Barcelona, Sant Miquel | Barcelona peninsula |
 | 7 | Post-reunification | 53.4 | 33.2 | 162,800 | Sant Cristòfor | Original, Sant Llorenç, Sant Miquel, Dàrsena, Ciutat de l'Estació | Longest |
