@@ -17,14 +17,14 @@
 | currency   = [[International dollar]]
 | commodity  =
 | listings   = Listed equities; corporate bonds
-| mcap       = ~$160 billion (2026)
-| volume     = ~$30 billion annual (2026)
+| mcap       = ~$500 billion (2026)
+| volume     = ~$80 billion annual (2026)
 | indexes    = [[SCX 30]]
 | homepage   =
 | footnotes  = Trading floor at 39 Carretera de Pedro González in [[El Centre (Original, Sant Cristòfor)|El Centre]]; original 1922 premises with corporate offices across the street.
 }}
 
-'''Bolsa de Sant Cristòfor''' ({{lang|ca|Borsa de Sant Cristòfor}}) is the stock exchange of [[Original]] and the principal securities market of [[Balboa]]. Located in [[El Centre (Original, Sant Cristòfor)|El Centre]] at 39 Carretera de Pedro González, it serves as the country's main venue for trading listed equities and corporate bonds. On a rough 2026 estimate, the exchange's market capitalization is about $160 billion and annual trading volume about $30 billion. Its benchmark index is the [[SCX 30]], and trading is concentrated in finance, shipping and logistics, real estate, retail, industry, agriculture, tourism, and mining.
+'''Bolsa de Sant Cristòfor''' ({{lang|ca|Borsa de Sant Cristòfor}}) is the stock exchange of [[Original]] and the principal securities market of [[Balboa]]. Located in [[El Centre (Original, Sant Cristòfor)|El Centre]] at 39 Carretera de Pedro González, it serves as the country's main venue for trading listed equities and corporate bonds. On a rough 2026 estimate, the exchange's market capitalization is about $500 billion and annual trading volume about $80 billion. Its benchmark index is the [[SCX 30]], and trading is concentrated in finance, shipping and logistics, real estate, retail, industry, agriculture, tourism, and mining.
 
 The exchange's trading floor is housed in the Bolsa de Sant Cristòfor building at 39 Carretera de Pedro González in El Centre; the trading hall remains in its original 1922 premises, while the corporate offices have since moved to the opposite side of the street. Brokerage houses, law firms, investment managers, and corporate headquarters cluster around the district's financial services corridor.
 
@@ -66,31 +66,31 @@ Listing on the exchange is generally associated with larger firms that can meet 
 
 The [[SCX 30]] is the exchange's principal market index. It tracks 30 blue-chip companies chosen for size, liquidity, and sector importance, and is used as the main reference point for investors, journalists, and policymakers. Because Balboa's economy is unusually concentrated in Sant Cristòfor and the canal corridor, the index is often treated as a shorthand for the health of the national corporate sector.
 
-The SCX 30 is typically weighted toward finance and infrastructure-linked companies, with shipping, property, retail, and industrial firms also making up a large share of the benchmark. It is the exchange's most closely watched market gauge and the basis for most public discussion of equity performance in Balboa.
+The SCX 30 is dominated by [[CIEA]], the world's largest supermajor oil company by market capitalisation, which alone accounts for approximately 30 per cent of the index, followed by [[Corporació Bancària del Nou Món]] (CBNM), the largest multinational bank in southern Abyala, at approximately 17 per cent. Energy, financials, materials, industrials, and consumer staples make up the remainder of the benchmark. It is the exchange's most closely watched market gauge and the basis for most public discussion of equity performance in Balboa.
 
 == Listed sectors ==
 
-The Bolsa de Sant Cristòfor is most closely associated with the following sectors:
+The Bolsa de Sant Cristòfor is most closely associated with the following sectors, classified according to the {{w|Global Industry Classification Standard}} (GICS):
 
 {| class="wikitable"
 |-
-! Sector !! Typical listings !! Role on the exchange
+! GICS sector !! Typical listings !! Role on the exchange
 |-
-| Finance || Banks, insurers, asset managers || The exchange's largest and most stable blue-chip group
+| Energy || Integrated petroleum companies, oilfield services, energy commodity traders || Dominated by [[CIEA]], the exchange's largest constituent by market capitalisation; complemented by [[Grup Tècnic Petrolí]] and [[Energia d'Abyala]]
 |-
-| Shipping and logistics || Port operators, freight firms, canal service companies || A major listing sector because of Sant Cristòfor's role in trade and transshipment
+| Financials || Banks, insurers, investment banks, financial exchanges || The exchange's largest sector by constituent count; anchored by [[Corporació Bancària del Nou Món]], [[Banc Balboa]], [[Bitllet per a Abyala]], and [[Assegurances Heping]]
 |-
-| Real estate || Developers, landlords, construction firms || One of the most visible sectors in the mainland core and waterfront districts
+| Materials || Plastics manufacturers, fertilizer producers, fluorochemicals, polysilicon, solvents, mining || Represented by [[Polímers de Balboa]], [[Nutrició del Món]], [[Companyia Química Occidental]], [[Grup Químic Central]], and [[Recursos del Marañón]]
 |-
-| Retail and consumer || Department stores, retail chains, consumer brands || Reflects the city's large domestic market and commercial districts
+| Industrials || Freight operators, port operators, shipping lines, construction firms, industrial conglomerates || A major listing sector because of Sant Cristòfor's role in trade and transshipment
 |-
-| Industry || Light manufacturing, food processing, packaging, diversified industrial groups || Smaller than finance or shipping, but important to the broader Balboan market
+| Consumer Staples || Bottlers, convenience store chains, agribusiness firms || Represented by [[Coccola dels distribuïdors Abyala]], the exchange's third-largest constituent, and [[Doble8]]
 |-
-| Agriculture || Agribusiness firms, food exporters, plantation holdings || Present through companies linked to inland production and export processing
+| Communication Services || Mobile and broadband operators || Represented by [[Abyala Telecom]], the exchange's fourth-largest constituent
 |-
-| Tourism || Hotel groups, resort developers, cruise operators || Present through firms tied to Sant Cristòfor, coastal resorts, and visitor services
+| Consumer Discretionary || Department stores, hotels, delivery platforms, restaurants || Reflects the city's large domestic market and commercial districts
 |-
-| Mining || Mineral companies, quarry operators, export firms || Smaller but persistent, especially among firms with inland concessions
+| Real Estate || Developers, landlords, residential developers || One of the most visible sectors in the mainland core and waterfront districts
 |}
 
 == See also ==

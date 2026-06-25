@@ -1,0 +1,35 @@
+rank,name,ticker,sector,market_cap_bn,description
+1,CIEA,PB,Oil Gas Consumable Fuels,140.0,One of world's largest supermajor oil corporations; integrated petroleum; dual-listed SCX + SRX; revenue $130B; 55000 employees; HQ Sant Cristòfor
+2,Corporació Bancària del Nou Món,CBNM,Banks,80.0,Largest multinational bank in southern Abyala; founded 1789 as Banc Volisanià d'Estranger; dual-listed SCX + APX; 48000 employees; 1200 branches; HQ Sant Cristòfor
+3,Coccola dels distribuïdors Abyala,CDDA,Food Beverage Tobacco,22.0,Largest Coccola bottler in Abyala; 20 plants across 7 markets; dual-listed SRX; Rahman family 11%; HAWT Inc. 35%; HQ Sant Cristòfor
+4,Abyala Telecom,AT,Telecommunication Services,19.5,Largest telecom provider in southern Abyala; ~120M subscribers; Arimany family 12%; HQ Sant Cristòfor
+5,Nutrició del Món,NDM,Chemicals,18.0,One of largest nitrogen fertilizer producers in Adonia; CIEA 7% stake; 15000 employees; HQ Sant Bart
+6,Polímers de Balboa,PDB,Chemicals,18.0,One of world's largest plastics manufacturers; dual-listed SCX + APX; CIEA 12% stake; 18000 employees; HQ Sant Cristòfor
+7,Grup Tècnic Petrolí,GTP,Oil Gas Equipment Services,12.0,Largest oilfield services company in Abyala; dual-listed SCX + SRX; Bonet family 18%; CIEA 10%; 12000 employees; HQ Sant Cristòfor
+8,Banc Balboa,BB,Banks,12.0,Largest Balboan bank; retail corporate investment banking; leading P2P and e-banking platform; HQ Sant Cristòfor
+9,Bitllet per a Abyala,BPA,Financial Services,12.0,Largest homegrown investment bank; ETFs ($18B AUM) GDRs; Calvet family 24%; 2800 employees; HQ Sant Cristòfor
+10,Companyia Química Occidental,CQO,Chemicals,11.0,Diversified chemicals; polysilicon hydrogen peroxide fumed silica coal tar pitch BTX phosphoric acid HSPP; merger 1954 during AC mandate period of Papoa Siokte Huàxué (founded 1928 in Portnou) and Corporació Química Unida de Balboa (1934); moved to Badia Curta 1964; Lîm family 12%; CIEA 5%; FIDB 5%; CEO Jericho Warag (Burawi-Balboan); 9000 employees; revenue $8B; major exporter to Okaiken Balisca Louyang Breisland United Midlands; HQ Sant Cristòfor; main plant Badia Curta Jala province; export terminal Port de Portnou
+11,Energia d'Abyala,EAB,Oil Gas Consumable Fuels,9.0,Largest dedicated energy trader in Abyala; natural gas refined products LNG power; SY Balboa 8%; 3500 employees; HQ Sant Cristòfor
+12,Grup Químic Central,GQC,Chemicals,8.0,Fluorochemicals; PFAS fluoropolymers; critical semiconductor supplier; founded 1998; 3500 employees; HQ Sant Cristòfor
+13,Intercon Mercaderies,ICM,Transportation,8.0,Largest overland freight operator; road rail warehousing last-mile; cross-border Tapuya/Sinchew; HQ Sant Cristòfor
+14,SY Balboa,SYB,Banks,8.0,Commercial mortgage industrial bank; subsidiary of Shangren Yinhang (Zong 35%); trade finance; HQ Sant Cristòfor
+15,L'empresa del Canal i el Port,ECP,Transportation,7.0,Port and canal services operator (50% government-owned); pilotage towage berthing; HQ Sant Cristòfor
+16,HRX,HRX,Consumer Retailing,7.0,Largest department store operator; 58 dept stores 17 shopping centres 220 Botiga Ràpida; Black Balboan-founded; HQ Sant Cristòfor
+17,Grup Ciutat Nova,GCN,Real Estate Management Development,7.0,Largest Balboan property developer; shopping centres residential high-rises mixed-use; HQ Sant Cristòfor
+18,Companyia Grand Balboa,CGB,Capital Goods,7.0,Largest industrial conglomerate; construction materials industrial equipment consumer products; Prat family 24%; HQ Sant Cristòfor
+19,Grup Rojo,GRO,Chemicals,6.5,Oxo alcohols plasticizers polyethylene; founded 1968 by Pere Rojo i Vidal (former CIEA refinery engineer); steam cracker at Badia Curta; competes with PDB in polyethylene; Rojo family 15%; CIEA 8%; FIDB 6%; BPF 4%; 4500 employees; revenue $4.5B; HQ Zone 2 Sant Bart; main plant Badia Curta Jala province; export terminal Port de Portnou
+20,Grup Pastel,GPT,Consumer Services,6.0,Largest hotel and holiday package operator; 42 properties; 10% Grup Extraviatjar; HQ Sant Cristòfor
+21,Assegurances Heping,HEP,Insurance,6.0,Largest Balboan insurer; marine property life health reinsurance; Zong-Balboan origins; 5% Okaiken gov; HQ Sant Cristòfor
+22,Corporació de Plàstics Jala,CPJ,Chemicals,5.5,High-performance engineering plastics; PEEK PAI PBI ECTFE PI PTFE; spun off from Grup Rojo in 1984; Jala-region name reflects the industrial district in Jala province; Grup Rojo 22%; FIDB 6%; BPF 4%; 2600 employees; revenue $3.1B; HQ Zone 2 Sant Bart; main complex Jala province; exports to Europe Balisca Okaiken Tapuya Sanrobonia; specialized supplier to aerospace electronics chemical processing medical devices
+23,Recursos del Marañón,RDM,Metals Mining,5.5,Energy and minerals trader; oil bauxite iron ore coal; dual-listed APX; Solà family 26%; HQ Sant Cristòfor
+24,Navegació de Balboa,NAV,Transportation,5.5,National shipping line; 42 vessels; crown company origins 1838; HQ Port de Sant Cristòfor
+25,Humà Banc Balboa,HB,Banks,5.5,Retail commercial investment bank; subsidiary of Humà Banc (Volisania 21%); dual-listed APX; HQ Sant Cristòfor
+26,Grup Mayan,GMAY,Chemicals,5.5,HAWT Inc. sole global supplier of coca extract for Coccola; pharmaceutical-grade cocaine; HAWT Inc. 15%; HQ Sant Cristòfor
+27,Construccions de Sant Cristòfor,CSC,Real Estate Management Development,5.5,Largest residential developer; apartments mixed-use; 28000+ units completed; founded 1962; HQ Sant Cristòfor
+28,Serveis del Canal de Balboa,SCB,Transportation,5.0,Canal transit and agency services; exclusive pilotage; 280 pilots 24 tugboats; government 15%; HQ Portnou
+29,ECafè,ECF,Consumer Services,5.0,Food and package delivery platform; ECartera P2P payments; unprofitable; founded 2015; HQ Sant Cristòfor
+30,Doble8,DBL8,Food Staples Retailing,5.0,Largest convenience store chain in southern Abyala; ~1700 stores; Vidal family 28%; HQ Sant Cristòfor
+31,Alumini de Balboa,ALB,Metals Mining,1.5,Primary aluminium smelting; Yalabirga hydropower-powered; bauxite→alumina→ingots; government 15% CIEA 8% FIDB 5%; 3000 employees; revenue $1.5B; HQ Badia Curta Jala; smelting facilities Yalabirga foothills
+32,Metalls del Yalabirga,MYL,Metals Mining,1.0,Non-ferrous metals smelting (aluminium + copper); Yalabirga hydropower; FIDB 6% BPF 4%; 2000 employees; revenue $1.0B; HQ Sant Bart Jala; facilities Yalabirga foothills
+33,Laminats de Balboa,LDB,Capital Goods,0.8,Aluminium rolled products (sheet plate foil); downstream of Alumini de Balboa; Alumini de Balboa 15% stake; 1500 employees; revenue $0.8B; HQ Badia Curta Jala; supplies processed food packaging + construction
+34,Extrusions de l'Istme,EXI,Capital Goods,0.6,Aluminium extrusions (profiles structural components tubes); downstream of domestic processing chain; BPF 4%; 1200 employees; revenue $0.6B; HQ Sant Bart Jala; supplies construction + assembly sector

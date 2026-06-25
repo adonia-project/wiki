@@ -1,0 +1,135 @@
+{{Infobox financial index
+| name        = SCX 30
+| logo        =
+| owner       = [[BdSC Corporació]]
+| operator    = [[BdSC Corporació]]
+| traded_as   = {{ubl|SCX}}
+| country     = [[Balboa]]
+| currency    = [[International dollar]]
+| established = 2 January 1992
+| constituents = 30
+| type        = {{w|Capitalization-weighted index|Market-cap-weighted}}
+| base_value  = 1,000
+| base_date   = 2 January 1992
+| benchmark   = Yes
+| website     =
+}}
+
+The '''SCX 30''' is the benchmark {{w|stock market index}} of the [[Bolsa de Sant Cristòfor]], comprising the 30 largest companies by {{w|market capitalization}} listed on the exchange. The index is owned and operated by [[BdSC Corporació]], the parent company of the Bolsa de Sant Cristòfor, and is calculated using a {{w|Capitalization-weighted index|market-cap-weighted}} methodology. It is the most widely cited measure of Balboan {{w|equity market}} performance.
+
+The SCX 30 was introduced on 2 January 1992 with a base value of 1,000 points, replacing the earlier Bolsa Composite Index as the exchange's primary benchmark. The index was created in response to the growing institutionalisation of the Balboan equity market in the 1990s and the need for a transparent, rules-based benchmark comparable to international indices.
+
+== Constituents ==
+
+The SCX 30 comprises the following 30 companies, ranked by {{w|market capitalization}} (2026 estimates):
+
+{| class="wikitable sortable"
+|-
+! Rank !! Company !! Ticker !! Sector !! Market cap ($bn)
+|-
+| 1 || [[CIEA]] || PB || Oil, Gas & Consumable Fuels || 140.0
+|-
+| 2 || [[Corporació Bancària del Nou Món]] || CBNM || Banks || 80.0
+|-
+| 3 || [[Coccola dels distribuïdors Abyala]] || CDDA || Food, Beverage & Tobacco || 22.0
+|-
+| 4 || [[Abyala Telecom]] || AT || Telecommunication Services || 19.5
+|-
+| 5 || [[Nutrició del Món]] || NDM || Chemicals || 18.0
+|-
+| 6 || [[Polímers de Balboa]] || PDB || Chemicals || 18.0
+|-
+| 7 || [[Grup Tècnic Petrolí]] || GTP || Oil & Gas Equipment & Services || 12.0
+|-
+| 8 || [[Banc Balboa]] || BB || Banks || 12.0
+|-
+| 9 || [[Bitllet per a Abyala]] || BPA || Financial Services || 12.0
+|-
+| 10 || [[Companyia Química Occidental]] || CQO || Chemicals || 11.0
+|-
+| 11 || [[Energia d'Abyala]] || EAB || Oil, Gas & Consumable Fuels || 9.0
+|-
+| 12 || [[Grup Químic Central]] || GQC || Chemicals || 8.0
+|-
+| 13 || [[Intercon Mercaderies]] || ICM || Transportation || 8.0
+|-
+| 14 || [[SY Balboa]] || SYB || Banks || 8.0
+|-
+| 15 || [[L'empresa del Canal i el Port]] || ECP || Transportation || 7.0
+|-
+| 16 || [[HRX]] || HRX || Consumer Retailing || 7.0
+|-
+| 17 || [[Grup Ciutat Nova]] || GCN || Real Estate Management & Development || 7.0
+|-
+| 18 || [[Companyia Grand Balboa]] || CGB || Capital Goods || 7.0
+|-
+| 19 || [[Grup Rojo]] || GRO || Chemicals || 6.5
+|-
+| 20 || [[Grup Pastel]] || GPT || Consumer Services || 6.0
+|-
+| 21 || [[Assegurances Heping]] || HEP || Insurance || 6.0
+|-
+| 22 || [[Corporació de Plàstics Jala]] || CPJ || Chemicals || 5.5
+|-
+| 23 || [[Recursos del Marañón]] || RDM || Metals & Mining || 5.5
+|-
+| 24 || [[Navegació de Balboa]] || NAV || Transportation || 5.5
+|-
+| 25 || [[Humà Banc Balboa]] || HB || Banks || 5.5
+|-
+| 26 || [[Grup Mayan]] || GMAY || Chemicals || 5.5
+|-
+| 27 || [[Construccions de Sant Cristòfor]] || CSC || Real Estate Management & Development || 5.5
+|-
+| 28 || [[Serveis del Canal de Balboa]] || SCB || Transportation || 5.0
+|-
+| 29 || [[ECafè]] || ECF || Consumer Services || 5.0
+|-
+| 30 || [[Doble8]] || DBL8 || Food & Staples Retailing || 5.0
+|}
+
+The combined {{w|market capitalization}} of the SCX 30 constituents is approximately $472.0 billion, representing approximately 70 per cent of the total {{w|market capitalization}} of the Bolsa de Sant Cristòfor.
+
+== Sector composition ==
+
+The SCX 30 is diversified across the principal sectors of the Balboan economy, classified according to the {{w|Global Industry Classification Standard}} (GICS):
+
+{| class="wikitable"
+|-
+! GICS sector !! Constituents !! Combined market cap ($bn) !! Weight (%)
+|-
+| Energy || 3 || 161.0 || 34.1
+|-
+| Financials || 6 || 123.5 || 26.2
+|-
+| Materials || 7 || 73.5 || 15.6
+|-
+| Industrials || 5 || 32.5 || 6.9
+|-
+| Consumer Staples || 3 || 32.0 || 6.8
+|-
+| Communication Services || 1 || 19.5 || 4.1
+|-
+| Consumer Discretionary || 3 || 18.0 || 3.8
+|-
+| Real Estate || 2 || 12.5 || 2.7
+|-
+| '''Total''' || '''30''' || '''471.5''' || '''100.0'''
+|}
+
+Energy is the largest GICS sector by market cap, dominated by [[CIEA]], one of the world's largest supermajor oil corporations, which alone accounts for approximately 30 per cent of the index's total {{w|market capitalization}}. The energy sector is complemented by [[Grup Tècnic Petrolí]] (GTP), the largest oilfield services company in Abyala, and [[Energia d'Abyala]] (EAB), the largest dedicated energy commodity trader in Abyala. Financials is the second-largest sector, anchored by [[Corporació Bancària del Nou Món]] (CBNM), the largest multinational bank in southern Abyala at approximately 17 per cent of the index, [[Banc Balboa]], [[Bitllet per a Abyala]] (BPA), the largest homegrown investment bank in Balboa, which has pioneered Abyala-focused growth ETFs and Global Depositary Receipts connecting Abyalan capital markets with [[Sanrobonia]], and [[Assegurances Heping]], the largest Balboan insurer. Materials is the third-largest sector and the largest by constituent count, led by [[Polímers de Balboa]] (PDB), one of the world's largest plastics manufacturers, [[Nutrició del Món]] (NDM), one of the world's largest nitrogen fertilizer producers, [[Companyia Química Occidental]] (CQO), a major supplier of polysilicon and semiconductor materials to Okaiken and Balisca, [[Grup Rojo]] (GRO), a producer of oxo alcohols, plasticizers, and polyethylene that competes with PDB in the domestic polyethylene market, and [[Corporació de Plàstics Jala]] (CPJ), a producer of high-performance engineering plastics spun off from Grup Rojo. The third-largest individual constituent is [[Coccola dels distribuïdors Abyala]] (CDDA), at approximately 5 per cent, followed by [[Abyala Telecom]] (AT) at approximately 4 per cent.
+
+== Eligibility and methodology ==
+
+The SCX 30 is a {{w|Capitalization-weighted index|market-cap-weighted}} index. Eligibility for inclusion requires that a company be listed on the Bolsa de Sant Cristòfor, meet minimum {{w|free float}} requirements, and rank among the 30 largest companies by {{w|market capitalization}}. The index is reviewed quarterly, with constituent changes implemented after the review.
+
+The index is calculated in real time during trading hours and is published at the close of each trading day. The base value of the index was set at 1,000 points on 2 January 1992.
+
+== See also ==
+
+* [[Bolsa de Sant Cristòfor]]
+* [[BdSC Corporació]]
+* [[Economy of Balboa]]
+
+[[Category:Economy of Balboa]]
+[[Category:Stock market indices]]

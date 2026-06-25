@@ -1,0 +1,122 @@
+{{Infobox company
+| name          = Grup Químic Central, S.A.
+| native_name   = {{native name|ca|Grup Químic Central|italic=no|paren=omit}}
+| logo          =
+| type          = {{w|Public company}}
+| traded_as     = {{ubl|SCX: GQC|[[Bolsa de Sant Cristòfor]]}}
+| ISIN          =
+| industry      = {{w|Specialty chemicals}} ({{w|Fluorochemicals}})
+| founded       = 1998
+| founder       = {{ubl|[[Francesca Solà i Verdú]]}}
+| headquarters  = 304 Carrer Marcus Rellano, [[Districte Financer (Original, Sant Cristòfor)|Districte Financer]], [[Original (ciutat)|Original]], [[Sant Cristòfor]], [[Balboa]]
+| areas_served  = Worldwide
+| key_people    = {{ubl|[[Francesca Solà i Verdú]] (Chairman)|[[Laia Puig i Verdaguer]] (CEO)}}
+| owner         = {{ubl|Francesca Solà i Verdú (15%)|widely held}}
+| num_employees = 3,500 (2026)
+| products      = {{ubl|PFAS|Fluorochemicals|Fluoropolymers}}
+| revenue       = {{increase}}$4 billion (2026)
+| operating_income = {{increase}}$1.1 billion (2026)
+| net_income    = {{increase}}$750 million (2026)
+| assets        = {{increase}}$6 billion (2026)
+| market_cap    = {{increase}}$8 billion (2026)
+| website       =
+}}
+
+'''Grup Químic Central, S.A.''' ({{lang|ca|Grup Químic Central}}), commonly known as '''GQC''', is a Balboan specialty chemicals company and one of the world's leading producers of {{w|per- and polyfluoroalkyl substances|PFAS}}, {{w|fluorochemicals}}, and {{w|fluoropolymers}}. Headquartered in the [[Districte Financer (Original, Sant Cristòfor)|Districte Financer]] of [[Sant Cristòfor]], the company is a critical supplier to the global {{w|semiconductor}} manufacturing supply chain, particularly in [[Balisca]] and [[Okaiken]]. It is listed on the [[Bolsa de Sant Cristòfor]] (SCX: GQC) and is a constituent of the [[SCX 30]] index.
+
+GQC was founded in 1998 by Francesca Solà i Verdú, a former process engineer at [[Polímers de Balboa]] (PDB), who identified a gap in the domestic supply of high-purity fluorochemicals for the growing semiconductor industry. The company initially produced basic fluoropolymers for industrial applications, but pivoted toward high-purity fluorochemicals for semiconductor manufacturing in the 2000s as demand from Balisca and Okaiken surged. Today, GQC's products are used in multiple stages of semiconductor fabrication, including {{w|etching}}, cleaning, and {{w|photolithography}}, making it a strategically important node in the global semiconductor supply chain.
+
+The company has been the subject of repeated environmental controversies related to PFAS pollution in [[Jala]] province, where its principal production facilities are located. PFAS are highly persistent in the environment — often called "forever chemicals" — and GQC has been fined multiple times for environmental violations. The pollution issue creates a regulatory dilemma for the Balboan government, as GQC is a strategically important company whose disruption would affect semiconductor manufacturing in Balisca and Okaiken.
+
+== History ==
+
+=== Founding (1998) ===
+
+Francesca Solà i Verdú worked as a process engineer at [[Polímers de Balboa]] (PDB) from 1994 to 1997, focusing on fluoropolymer research. During this time, she identified a gap in the domestic supply of high-purity fluorochemicals for the semiconductor industry, which was growing rapidly in [[Balisca]] and [[Okaiken]]. Semiconductor fabrication requires a range of fluorine-based chemicals — including {{w|hydrofluoric acid}} for etching and cleaning, fluorine-based {{w|plasma etching}} gases, and {{w|PTFE}} components for {{w|ultrapure water}} systems — and no Balboan company was producing these chemicals at the required purity levels.
+
+Solà left PDB in 1997 and founded Grup Químic Central the following year, with backing from private investors and the Balboan government's industrial diversification programme. The company established its first production facility in [[Jala]] province, near the [[Shendan]] coast, with access to {{w|fluorspar}} (calcium fluoride) from mining operations in the [[Yalabirga]] foothills and export logistics via the [[Balboa Canal]] and Sant Cristòfor harbour.
+
+=== Early years and pivot to semiconductors (1998–2008) ===
+
+GQC initially produced basic fluoropolymers — {{w|PTFE}}, {{w|PFA}}, and {{w|FEP}} — for industrial applications such as gaskets, seals, and linings for the chemical processing industry. The company also produced hydrofluoric acid for general industrial use. These products were sold primarily to the domestic market and to BTPMEU countries, with exports benefiting from the [[Règim de compensació a l'exportació|negative tariff]].
+
+In the early 2000s, as the semiconductor industries in Balisca and Okaiken expanded rapidly, demand for high-purity fluorochemicals surged. Solà recognised that GQC's existing fluorochemical expertise could be redirected toward the semiconductor market, which required far higher purity standards but commanded significantly higher margins. The company invested in purification technology and quality control systems, and by the mid-2000s it had begun supplying high-purity etching agents and cleaning chemicals to semiconductor fabs in Balisca and Okaiken.
+
+The pivot transformed GQC's economics. Semiconductor-grade fluorochemicals sold at a substantial premium to industrial-grade products, and the company's margins expanded rapidly. GQC went public on the [[Bolsa de Sant Cristòfor]] in 2007, raising capital to expand its high-purity production capacity.
+
+=== Growth and strategic importance (2008–present) ===
+
+The 2008–2010 period saw GQC establish itself as a critical supplier to the semiconductor supply chain. As semiconductor fabrication processes became more advanced — requiring increasingly precise etching and cleaning — the purity requirements for fluorochemicals became more stringent, and GQC's investment in purification technology gave it a competitive advantage. The company expanded its product portfolio to include {{w|photoresist}} additives, {{w|anti-reflective coating}}s, and specialised fluoropolymer components for {{w|chemical delivery system}}s and {{w|wafer (electronics)|wafer}} handling equipment.
+
+By the 2010s, GQC had become a strategically important node in the global semiconductor supply chain. Its high-purity fluorochemicals were used by major semiconductor manufacturers in Balisca and Okaiken, and the company's dominance in certain specialty fluorochemicals gave Balboa significant leverage over the semiconductor supply chains of both countries. This strategic position has been compared to [[CIEA]]'s COBAL contract with Balisca, which gives Balboa leverage over Balisca's oil supply.
+
+The company's growth has been accompanied by increasing environmental scrutiny. PFAS pollution from GQC's Jala facilities has been a persistent issue, and the company has faced multiple regulatory enforcement actions and community protests. Despite this, the Balboan government has been reluctant to impose severe penalties or restrict production, as GQC's fluorochemicals are essential to the semiconductor manufacturing supply chains of Balisca and Okaiken.
+
+== Products ==
+
+GQC's product portfolio is organised into three main categories:
+
+* '''PFAS (per- and polyfluoroalkyl substances)''': Used in {{w|photoresist}} formulations, {{w|anti-reflective coating}}s, and specialised surface treatments for semiconductor manufacturing. GQC produces both polymer and non-polymer PFAS for semiconductor and industrial applications.
+
+* '''Fluorochemicals''': Including high-purity {{w|hydrofluoric acid}} for {{w|wet etching}} and cleaning, fluorine-based {{w|plasma etching}} gases for {{w|dry etching}}, and other fluorine-based chemicals used in semiconductor fabrication. GQC's semiconductor-grade fluorochemicals are produced to extremely high purity standards (typically {{w|parts per trillion}} levels for metallic contaminants).
+
+* '''Fluoropolymers''': Including {{w|PTFE}}, {{w|PFA}}, and {{w|FEP}} components for {{w|ultrapure water}} systems, {{w|chemical delivery system}}s, and {{w|wafer (electronics)|wafer}} handling equipment. These products are used in the fluid handling systems of semiconductor fabs, where contamination control is critical.
+
+== Semiconductor supply chain ==
+
+GQC is a critical supplier to the semiconductor manufacturing supply chain, particularly in [[Balisca]] and [[Okaiken]], which have strong semiconductor industries. The company's fluorochemicals are used in multiple stages of semiconductor fabrication:
+
+* '''Etching''': Fluorine-based plasmas and hydrofluoric acid are used to pattern silicon and other materials at the nanometre scale. GQC supplies high-purity etching agents to semiconductor fabs in both countries.
+* '''Cleaning''': Hydrofluoric acid and other fluorine-based chemicals are used to clean wafer surfaces between processing steps. GQC's cleaning chemicals are produced to parts-per-trillion purity standards.
+* '''Photolithography''': PFAS-based photoresist additives and anti-reflective coatings are used in the photolithography process, which transfers circuit patterns onto silicon wafers.
+* '''Fluid handling''': PTFE, PFA, and FEP fluoropolymer components are used in the ultrapure water and chemical delivery systems of semiconductor fabs, where even trace contamination can destroy chips.
+
+GQC's dominance in certain specialty fluorochemicals — particularly high-purity PFAS for photoresist applications — gives Balboa significant geopolitical leverage over the semiconductor supply chains of Balisca and Okaiken. A disruption to GQC's supplies would affect semiconductor manufacturing in both countries, making the company a strategically important asset for the Balboan government.
+
+== Environmental controversies ==
+
+GQC has been the subject of repeated environmental controversies related to PFAS pollution in [[Jala]] province, where its principal production facilities are located. PFAS are highly persistent in the environment — often called "{{w|forever chemicals}}" — and have been linked to contamination of water supplies, soil, and ecosystems.
+
+=== 2006 groundwater contamination ===
+
+In 2006, testing by the Jala provincial environmental authority detected elevated levels of PFAS in groundwater near GQC's production facility. The contamination was traced to inadequate waste management practices at the facility, where PFAS-containing wastewater had been discharged into unlined settling ponds. GQC was fined and ordered to upgrade its waste management systems.
+
+=== 2013 repeated violations ===
+
+In 2013, a follow-up investigation found that PFAS levels in the groundwater had increased despite the 2006 enforcement action. The investigation revealed that GQC's upgraded waste management system was not operating to design specifications, and that the company had been discharging PFAS-containing effluent in violation of its environmental permits. GQC was fined a second time, and the Balboan government required the company to implement a comprehensive remediation plan.
+
+=== 2019 drinking water contamination ===
+
+In 2019, PFAS contamination was detected in the drinking water supplies of communities downstream from GQC's Jala facility. The contamination affected approximately 12,000 residents, who were advised to use alternative water sources. The incident prompted community protests and calls for the facility to be shut down. GQC was fined a third time and required to provide alternative water supplies to affected residents.
+
+=== Regulatory dilemma ===
+
+The repeated environmental violations have created a regulatory dilemma for the Balboan government. GQC is a strategically important company — its fluorochemicals are essential to the semiconductor manufacturing supply chains of Balisca and Okaiken — and shutting down or restricting its operations would have significant geopolitical and economic consequences. At the same time, the PFAS pollution poses serious environmental and public health risks, and the government's reluctance to take strong action has drawn criticism from environmental groups and affected communities.
+
+The government has sought to balance these competing interests by requiring GQC to invest in improved waste management and remediation while stopping short of production restrictions. Critics argue that this approach has been ineffective, as evidenced by the 2013 and 2019 incidents, and that the government is prioritising geopolitical interests over environmental protection.
+
+== Operations ==
+
+* '''Headquarters''': [[Districte Financer (Original, Sant Cristòfor)|Districte Financer]], [[Sant Cristòfor]]
+* '''Production facilities''': [[Jala]] province, near the [[Shendan]] coast
+* '''Feedstocks''': {{w|Fluorspar}} (calcium fluoride) from mining operations in the [[Yalabirga]] foothills
+* '''Export logistics''': [[Balboa Canal]] and Sant Cristòfor harbour
+* '''Employees''': approximately 3,500 (2026)
+
+The company's Jala production facility is located near the Shendan coast, providing access to fluorspar from the Yalabirga foothills and export logistics via the Balboa Canal. The facility produces fluorochemicals from fluorspar using the {{w|hydrofluoric acid}} process, and purifies the products to semiconductor-grade standards.
+
+GQC's exports benefit from the [[Règim de compensació a l'exportació|negative tariff]], which offsets the overvalued ID's cost penalty on manufactured goods exports. The company's strategic position in the semiconductor supply chain has made it a priority for the Balboan government's industrial policy, and it has received support for its purification technology investments through the government's industrial diversification programme.
+
+== See also ==
+
+* [[Polímers de Balboa]]
+* [[Companyia Química Occidental]]
+* [[Corporació Nacional de Fabricants de Solvents]]
+* [[CIEA]]
+* [[Economy of Balboa]]
+* [[Bolsa de Sant Cristòfor]]
+* [[SCX 30]]
+* [[Règim de compensació a l'exportació]]
+
+[[Category:Economy of Balboa]]
+[[Category:Chemical companies of Balboa]]

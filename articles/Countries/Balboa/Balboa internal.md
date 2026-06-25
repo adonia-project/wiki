@@ -11,7 +11,7 @@ Main country article for the Republic of Balboa. Upper-middle income presidentia
 - **Recognised languages**: Balboan Creole, Zong, Sinchewese
 - **Military**: Balboan Defence Forces (BDF), ~30K active, small professional force
 - **HDI**: 0.862 (very high)
-- **Gini**: 38.2
+- **Gini**: 48.2
 - **GDP PPP**: $620B / $17,600 per capita
 - **GDP nominal**: $320B / $9,100 per capita
 
@@ -97,11 +97,12 @@ NOTE: Province populations are estimates that need verification.
 - GDP (PPP): $620B; GDP per capita (PPP): $17,600
 - GDP (nominal): $320B; GDP per capita (nominal): $9,100
 - Gini: 48.2 (high inequality; geographic concentration of wealth in Estret; Birú extreme poverty; white/mixed/Black medians clustered near national average)
+- **Wealthiest Balboans**: Top 14 list compiled from Bolsa-listed company ownership stakes; **Article**: `articles/Countries/Balboa/Economy/List of wealthiest Balboans by net worth.mediawiki`; Top 5: 1) Vidal family $3.1B (Finques Superiors/Doble8/CSC), 2) Rahman family $2.4B (CDDA), 3) Arimany family $2.3B (Abyala Telecom), 4) Rouche family $2.0B (HRX), 5) Prat family $1.7B (Companyia Grand Balboa); Francesca Solà i Verdú #7 at $1.2B (GQC)
 - Unemployment: 7.4% (higher among Black and Birú)
 - HDI: 0.782 (high)
 - Inflation: ~3.1% average past decade
 - Current account: consistent surplus (canal revenue + services exports)
-- GDP by sector: Services 62%, Industry 23%, Agriculture 15%
+- GDP by sector: Services 71%, Industry 20%, Agriculture 9%
 - Currency: International Dollar ($)
 
 ### Economic history
@@ -123,7 +124,11 @@ NOTE: Province populations are estimates that need verification.
 ### Agriculture & land reform
 - Cooperative farms replaced plantations during integration era
 - Products: sugar, coffee, bananas, tropical fruits (export)
-- Principal regions: Jala + Tramuntana highlands
+- Principal regions: Jala + Tramuntana highlands; additional lowland production in Nurra + Migjorn
+- **Coffee** = the one genuinely competitive agricultural export: premium highland specialty, branded origin, exported to Illypnian markets; negative tariff closes the gap
+- **Sugar, bananas, tropical fruits** = "survival exports": can't compete globally vs Sinchew/Tapuya (weaker currencies, cheaper labour); survive only behind BTPMEU common external tariff + negative tariff + government price supports
+- **Subsidy rationale**: not primarily economic but social/political — cooperatives employ large rural population; collapse would trigger mass urban migration + social crisis; cooperatives are product of Twelve Guarantees land reform; BPP rural base depends on continued support
+- **Fiscal cost**: price supports + cooperative assistance ~$1–2B/year; adds to negative tariff $3–5B; together consume much of canal revenue ($6.5B)
 - Land reform: expropriation of white-owned plantations with compensation; reorganised as cooperatives; former workers granted shares
 - Reparations: direct payments to descendants of enslaved persons
 - Administered by Balboan Land and Reparations Authority (1962–1998)
@@ -135,8 +140,93 @@ NOTE: Province populations are estimates that need verification.
 - Favourable regulation: low taxation, minimal capital controls, strong rule of law under Guarantees
 - AC institutions in nearby Areza
 - Major international banks, insurance, investment management: regional HQs in Sant Cristòfor
-- Bolsa de Sant Cristòfor: largest stock exchange in isthmus region
+- Bolsa de Sant Cristòfor: largest stock exchange in isthmus region; total market cap ~$663B; SCX 30 index has 30 constituents, total ~$464B market cap (70% of total)
 - Financial services: ~18% of GDP
+
+### Industry & the negative tariff
+- Industry: ~20% of GDP (down from >30% during rump state)
+- Overvalued ID renders primary manufacturing (forging, raw material processing, heavy industry) uncompetitive
+- Sector restructured around two tracks: **intermediate assembly** + **domestic processing chain**
+
+**Assembly model:**
+- Components manufactured in Sinchew + Tapuya (weak currencies, cheap labour)
+- Imported through BTPMEU, assembled in Balboa into sub-assemblies
+- Exported to Okaiken, Volisania, Breisland (stronger currencies, high-value final assembly/branding)
+- Canal + Sant Cristòfor logistics hub provide infrastructure; BTPMEU facilitates component flow
+- Entirely negative-tariff dependent
+
+**Domestic processing chain:**
+- Deliberate BPP industrialisation strategy post-reunification
+- Overvalued ID makes raw material exports unprofitable → invest in domestic refining/manufacturing to capture value added at home
+- Mineral extraction in Yalabirga (bauxite, copper, non-ferrous metals) → domestic smelters/refineries → refined metals + basic manufactures
+- BTPMEU common external tariff protects domestic market; negative tariff makes exports competitive
+- Vertical integration exists *because* of currency overvaluation, not despite it
+
+**Flagship: Aluminum**
+- Bauxite from Yalabirga foothills → alumina → aluminum ingots/sheet
+- Smelters powered by hydroelectric dams on Yalabirga rivers (mountainous, high-rainfall terrain = cheap hydropower)
+- Hydropower offsets much of the overvalued ID cost penalty; negative tariff closes remaining gap
+- Refined copper + other non-ferrous metals follow similar model at smaller scale
+
+**Petroleum refining**
+- Different logic: overvalued ID makes crude oil imports *cheap* (strong currency buys more oil)
+- Import crude → refine domestically → export fuels, lubricants, petrochemicals with negative tariff
+- Canal + Sant Cristòfor harbour = natural transshipment point for petroleum
+- CIEA HQ in Sant Cristòfor; principal refining operations at Badia Curta (Jala province, Shendan coast, near Tramuntana border)
+- CIEA: one of world's largest supermajor oil corporations; revenue $130B; market cap $140B; 55,000 employees; no longer the smallest supermajor
+- **Corporació Bancària del Nou Món (CBNM)**: largest multinational bank in southern Abyala; founded 1789 as Banc Volisanià d'Estranger in colonial Sant Cristòfor; moved HQ to Potocsí after Second War of the Isthmus (1899); returned to Sant Cristòfor after Camboriú War (1977); renamed CBNM 1981; largest markets Potocsí (500 branches) and Tapuya (350 branches); strong presence in Sant Cristòfor; Sanrobonia branches serve Volisanian-speaking community; dual-listed SCX + APX; 48,000 employees; 1,200 branches; revenue $18B; assets $420B; market cap $80B; GICS: Financials / Banks; **Article**: `articles/Countries/Balboa/Economy/Corporació Bancària del Nou Món.mediawiki`; SCX 30 rank 2
+- **Corporació Nacional de Fabricants de Solvents (CNFS)**: largest solvent manufacturer in Balboa; aromatic and aliphatic solvents from CIEA refinery byproducts; founded 1971 by Jordi Puig i Soler (former CIEA refinery engineer at Badia Curta); Puig family 18%; CIEA 10% strategic stake; 2,800 employees; revenue $2.5B; market cap $3.8B; GICS: Materials / Chemicals; main plant at Badia Curta (Jala province) adjacent to CIEA refinery; distribution terminal at Port de Portnou; exports ~30% of revenue to Potocsí and Tapuya; benefits from negative tariff; **Article**: `articles/Countries/Balboa/Economy/Corporació Nacional de Fabricants de Solvents.mediawiki`; SCX 100 rank 40
+- **Companyia Química Occidental (CQO)**: diversified chemicals company; formed 1954 (during AC mandate period) from merger of Papoa Siokte Huàxué (founded 1928 in Portnou by Lîm Hui-sheng, Zong-Balboan, during Zong Balboa era; general chemistry company) and Corporació Química Unida de Balboa (founded 1934 by Francesc Bosch i Vidal in Sant Cristòfor; specialty chemicals); moved to Badia Curta complex in 1964 (Badia Curta was developed in early 1950s by Balboan rump state as industrial centre outside AC mandate area; CIEA/PB refinery built there in early 1950s to compete with mandate area); products: polycrystalline silicon (semiconductor-grade), hydrogen peroxide, fumed silica, coal tar pitch, BTX, phosphoric acid, HSPP (battery anode material); CEO: Jericho Warag (Burawi-Balboan, no family ownership); Lîm family 12%, CIEA 5%, FIDB 5%, public ~78%; 9,000 employees; revenue $8B; market cap $11B; GICS: Materials / Chemicals; major exporter to Okaiken, Balisca (semiconductor materials), Louyang, Breisland, United Midlands (battery materials); main plant at Badia Curta (Jala province) co-located with CIEA refinery; export terminal at Port de Portnou; strategic position in semiconductor supply chain alongside GQC; listed on Bolsa 1965; **Article**: `articles/Countries/Balboa/Economy/Companyia Química Occidental.mediawiki`; SCX 30 rank 10
+- **Grup Tècnic Petrolí (GTP)**: largest oilfield services company in Abyala; refinery construction/maintenance, offshore rigs, parts/materials supply, engineering consulting; founded 1968 by Carles Bonet i Riera (former PB construction engineer); primary contractor for CIEA Badia Curta refinery; also works with PETROPOTO in Potocsí; operations in Balboa/Sanrobonia/Potocsí/Balisca/Tapuya; 12,000 employees; dual-listed SCX (GTP) and SRX (GTP); revenue $6.5B; market cap $12.0B; Bonet family 18%, CIEA 10%, FIDB 8%, BPF 5%; **Article**: `articles/Countries/Balboa/Economy/Grup Tècnic Petrolí.mediawiki`; SCX 30 rank 6
+- **Nutrició del Món (NDM)**: one of largest nitrogen fertilizer producers in Adonia; ammonia, urea, NPK blends; uses natural gas from CIEA as feedstock; primary fertilizer supplier to Abyalan agriculture (~60% of revenue) and major exporter to Lurandia (~35%); founded 1971 as state-owned Fertilitzants de Balboa; privatised 1988; 2.5M tpa ammonia capacity, 3.5M tpa urea capacity; 15,000 employees; CIEA 7% stake; HQ Zone 2 Sant Bart; factory in Mansió de turó; **Article**: `articles/Countries/Balboa/Economy/Nutrició del Món.mediawiki`; SCX 30 rank 4
+- **Energia d'Abyala (EAB)**: energy commodity trader; natural gas, refined products, LNG, power trading; largest dedicated energy trader in Abyala; founded 1994 by Joan Ballester i Font (former SY Balboa investment banker); CIEA is largest supplier (long-term purchase agreements, no equity stake); SY Balboa 8% stake; 3,500 employees; revenue $10B; market cap $9.0B; **Article**: `articles/Countries/Balboa/Economy/Energia d'Abyala.mediawiki`; SCX 30 rank 9
+- **Bitllet per a Abyala (BPA)**: largest homegrown investment bank in Balboa; M&A advisory, equity/debt capital markets, ETFs ($18B AUM), GDRs; founded 2004 by Andreu Calvet i Bosch (former Sanrobonian asset manager); pioneered Abyala Growth Index ETF (2007); GDR program connects Abyalan companies with Sanrobonia $7tn economy; 2,800 employees; revenue $4.2B; market cap $12.0B; Calvet family 24%, FIDB 7%, BPF 5%; **Article**: `articles/Countries/Balboa/Economy/Bitllet per a Abyala.mediawiki`; SCX 30 rank 8
+- **Grup Rojo (GRO)**: petrochemical company; oxo alcohols (2-EH, isononanol, n-butanol), plasticizers (DEHP, DINP, DOTP, adipates), polyethylene (HDPE, LLDPE); founded 1968 by Pere Rojo i Vidal (former CIEA refinery engineer); own steam cracker at Badia Curta (naphtha from CIEA); competes with PDB in polyethylene but dominant in oxo alcohols/plasticizers; Rojo family 15%, CIEA 8%, FIDB 6%, BPF 4%, public ~67%; 4,500 employees; revenue $4.5B; market cap $6.5B; GICS: Materials / Chemicals; listed 1992; HQ 112 Carrer 5è Zone 2 Sant Bart; main plant Badia Curta Jala province; export terminal Port de Portnou; **Article**: `articles/Countries/Balboa/Economy/Grup Rojo.mediawiki`; SCX 100 rank 19
+- **Jalube (JLB)**: finished lubricants and synthetic base stocks; automotive industrial marine lubricants; synthetic ester base stocks (adipate esters polyol esters) and PAO; also adipate plasticizers (DOA DIDA) as secondary business; founded 1972 by Jordi Serra i Pujol; base oils from CIEA Badia Curta refinery (no CIEA equity stake); Serra family 18%, FIDB 5%, BPF 4%, public ~73%; 3,000 employees; revenue $2.5B; market cap $3.5B; GICS: Materials / Chemicals; listed 1994; HQ 34 Carrer 4t Zone 2 Sant Bart; marine facility at Port de Sant Cristòfor; competes with Grup Rojo in adipate plasticizers; **Article**: `articles/Countries/Balboa/Economy/Jalube.mediawiki`; SCX 100 rank 46
+- COBAL contract: COBAL = Baliscan state oil import entity (handles 100% of Balisca's oil); CIEA supplies 30% of Balisca's total oil consumption (refined products from Badia Curta refinery); petroleum NOT covered by negative tariff (only agricultural products); competitiveness from input-side advantage (cheap crude via overvalued ID + low hydropower costs); ~$18-22B/year revenue from COBAL contract; gives Balboa geopolitical leverage over Balisca (216M people)
+- Overvalued ID works in Balboa's favour on input side: cheap crude in, competitive refined products out
+
+**Plastics manufacturing**
+- Extends petroleum chain one step further: petrochemical feedstocks (naphtha, ethylene, propylene) → plastic resins → finished plastic products
+- Products: packaging for processed food industry, components for assembly sector, industrial materials for construction/BTPMEU markets
+- Same input-side advantage: cheap crude → cheap feedstocks → competitive plastics with negative tariff
+- Links the two industrial tracks: domestic plastic components feed assembly model (reduces dependence on Sinchew/Tapuya imports); domestic plastic packaging supplies processed food chain
+- **Polímers de Balboa (PDB)**: one of the world's largest plastics manufacturers; founded 1979 as state-owned Resines Nacionals de Balboa; privatised 1994; dual-listed SCX (PDB) + APX (PDB); CIEA 12% stake; 18,000 employees; revenue $12B; market cap $18B; resin production at Badia Curta (adjacent to CIEA refinery on Shendan coast, Jala province); manufacturing across BTPMEU (Balboa/Tapuya/Potocsí); global exports (resins to manufacturers worldwide, components to Illypnian assembly markets); APX listing 2003
+
+**Fluorochemicals**
+- **Grup Químic Central (GQC)**: specialty chemicals company; produces PFAS, fluorochemicals, fluoropolymers; founded 1998 by ex-PDB engineer Francesca Solà i Verdú; market cap $8B; ~3,500 employees; revenue $4B; production in Jala province (Shendan coast); fluorspar from Yalabirga foothills; IPO 2007
+- Critical supplier to semiconductor manufacturing supply chain in Balisca and Okaiken (etching agents, cleaning chemicals, photoresist additives, fluoropolymer components)
+- Gives Balboa geopolitical leverage over semiconductor supply chains (similar to CIEA/COBAL for oil)
+- PFAS pollution controversies in Jala: 2006 groundwater contamination, 2013 repeated violations, 2019 drinking water contamination (~12,000 residents affected); fined 3 times; regulatory dilemma — strategically important but environmentally damaging
+- Exports benefit from negative tariff
+- **Article**: `articles/Countries/Balboa/Economy/Grup Químic Central.mediawiki`
+- **Founder**: Francesca Solà i Verdú (b. 1970); chemical engineer, ex-PDB process engineer (1994–97); 15% GQC stake → net worth ~$1.2B (one of richest people in Balboa); labelled "scientist of death" (científica de la mort) by environmental activists for PFAS pollution in Jala; dual legacy — innovator who built critical semiconductor supplier but also caused lasting environmental damage; **Article**: `articles/Countries/Balboa/People/Francesca Solà i Verdú.mediawiki`
+
+**Processed foods**
+- Agricultural counterpart to mineral processing chain
+- Domestic sugar cane, tropical fruits, cocoa → refined sugar, canned fruits, juices, cocoa products
+- Exported to BTPMEU market behind common external tariff
+- Same vertical logic: exporting raw agricultural produce unprofitable → add value domestically before export
+
+**Règim de compensació a l'exportació** (Export Compensation Regime) = "negative tariff" (*arancel negatiu*):
+- Established 1981 after 1968–1978 recession
+- Government pays rebates to goods exporters, reducing export price below what overvalued ID would allow
+- Funded from canal revenue; calculated to offset part of overvaluation gap
+- Fiscal cost: ~$3–5B/year (significant portion of canal revenue)
+- **Scope**: Applies to agricultural products AND manufactured goods (assembly, aluminum, plastics); does NOT apply to petroleum (CIEA's competitiveness comes from input side — cheap crude via overvalued ID + low hydropower costs)
+- Without it, assembly sector would be uncompetitive; supply chain would bypass Balboa
+- Controversial within AC: richer members call it trade-distorting subsidy; Balboa calls it necessary currency adjustment
+- BTPMEU supports it (Tapuya benefits from cheaper Balboan assembly of its components)
+- **Dedicated article**: `articles/Countries/Balboa/Economy/Règim de compensació a l'exportació.mediawiki`
+
+**Fiscal picture:**
+- Canal revenue: ~$6.5B/year
+- Negative tariff: ~$3–5B/year
+- Agricultural price supports + cooperative assistance: ~$1–2B/year
+- Together consume most of canal revenue → canal-rentier model
+- Canal revenue funds subsidies to keep non-competitive sectors (industry + agriculture = 29% of GDP) alive
+- Without canal, model collapses → massive rural unemployment + social crisis
+- Political tension: every canal revenue dip forces choice between cutting negative tariff (hurts industry) or cutting price supports (hurts rural farmers)
 
 ### Tourism — expanded 2026-05-17
 - ~8% of GDP; ~280,000 employed
