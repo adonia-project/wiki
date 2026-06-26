@@ -101,6 +101,7 @@ The overvalued ID makes imports cheap (benefiting petroleum refining and compone
 - CIEA HQ: Sant Cristòfor; principal refining operations: Badia Curta (Shendan coast, Jala)
 - Exports to Balisca via COBAL (~30% of Balisca's oil consumption)
 - "Cheap crude in, competitive refined products out"
+- **CPEB (state-owned)**: Corporació Petrolífera de l'Estat de Balboa; est. 1984; manages offshore oil extraction in deepwater Shendan Sea, in deep waters off the Tramuntana coast near the outer limit of Balboa's EEZ; ~185,000 bbl/day; mostly for domestic consumption; crude processed at CIEA's Badia Curta refinery under supply agreements; HQ Sant Cristòfor; 2,800 employees; revenue $3.4B; 100% government-owned; **Article**: `articles/Countries/Balboa/Economy/Corporació Petrolífera de l'Estat de Balboa.mediawiki`
 
 ## Badia Curta Industrial Complex
 

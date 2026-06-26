@@ -28,16 +28,16 @@
 | FC Sant Cristòfor | Sant Cristòfor | Estret | 1928 | Estadi del Port | 38.5K | 11 | 1953 (Istme league) |
 | Unió Esportiva del Mercat | Sant Cristòfor | Estret | 1946 | Camp del Mercat | 22K | 5 | 1953 (Istme league) |
 | Club de Futbol Portnou | Portnou | Estret | 1931 | Estadi de les Aigües | 18K | 4 | 1953 (Istme league) |
-| Atlètic Costabella | Costabella | Estret | 1937 | Estadi Costabella | 24K | 3 | 1953 (Istme league) |
+| Atlètic Costabella | Costabella | Jala | 1937 | Estadi Costabella | 24K | 3 | 1953 (Istme league) |
 | Club Esportiu Haimêng | Sant Cristòfor | Estret | 1941 | Estadi Hái-mn̂g | 20.5K | 3 | 1953 (Istme league) |
 | Club Esportiu de l'Est | Sant Cristòfor | Estret | 1944 | Camp de l'Est | 15K | 2 | 1953 (Istme league) |
 | Club Deportivo Sant Bart B | Sant Bart | Jala | 1952 | Camp de la Cooperativa | 16K | 2 | 1961 (unified) |
-| Futbol Club Jala | Jala | Jala | 1939 | Estadi Jala | 14K | 1 | 1951 (Rep. league) |
+| Futbol Club Altaneu | Altaneu | Jala | 1939 | Estadi Altaneu | 14K | 1 | 1951 (Rep. league) |
 | Club Esportiu Nurra | Nurra | Nurra | 1942 | Estadi de la Muntanya | 12K | 1 | 1951 (Rep. league) |
 | CD Tramuntana | Vallalta | Tramuntana | 1945 | Estadi Vallalta | 10K | 0 | 1970 |
 | FC Migjorn Sud | Palmera | Migjorn | 1951 | Camp Palmera | 9.5K | 0 | 1978 |
 | Unió Esportiva Estret Central | Arenys | Estret | 1955 | Camp Arenys | 8.5K | 0 | 1982 |
-| Atlètic Jala Central | Novara de Jala | Jala | 1960 | Estadi de la Vall | 7.5K | 0 | 1990 |
+| Futbol Club Pakar | Costabella | Jala | 1960 | Estadi de la Vall | 7.5K | 0 | 1990 |
 | Club de Futbol Llacuna | Llacuna | Jala | 1958 | Camp Llacuna | 6.5K | 0 | 2004 |
 | Promoció FC | Sant Cristòfor | Estret | 1963 | Camp Promoció | 5.5K | 0 | 2024 |
 
