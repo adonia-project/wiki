@@ -1,0 +1,138 @@
+{{Infobox
+| title = Energy in Balboa
+| bodyclass = vcard
+| bodystyle = width: 22em
+| label1 = {{w|Electricity}}
+| data1 = {{Infobox
+| child = yes
+| label1 = Total capacity
+| data1 = ~11,200 MW
+| label2 = Annual generation
+| data2 = ~88 TWh
+| label3 = Nuclear
+| data3 = 25% (2,800 MW)
+| label4 = Hydropower
+| data4 = 38% (~8,000 MW)
+| label5 = Natural gas
+| data5 = 14% (~3,000 MW)
+| label6 = Petroleum/oil
+| data6 = 8% (~2,500 MW)
+| label7 = Bagasse/biomass
+| data7 = 6%
+| label8 = Offshore wind
+| data8 = 4%
+| label9 = Solar
+| data9 = 3%
+| label10 = Waste-to-energy
+| data10 = 2%
+}}
+| label2 = Primary energy sources
+| data2 = Imported crude oil (CIEA), domestic offshore oil (CPEB), imported uranium (Balisca), hydropower, natural gas
+| label3 = Energy companies
+| data3 = All state-owned: OENB (nuclear), CHB (hydro), ETEB (thermal), EREB (renewables)
+| label4 = Grid operator
+| data4 = State-owned
+| label5 = AC framework
+| data5 = 1996 AC Edict on a Green Transition for the New Millennium
+}}
+
+'''Energy in Balboa''' is generated entirely by {{w|state-owned enterprise}}s under the oversight of the Ministry of Energy and Natural Resources. The country's electricity supply is approximately 11,200 MW in total capacity, generating roughly 88 TWh annually. The energy mix is diversified across nuclear, hydroelectric, thermal, and renewable sources, reflecting the government's strategy to balance industrial demand, environmental concerns, and energy security.
+
+== Energy mix ==
+
+Balboa's electricity is generated from the following sources (2026 estimates):
+
+{| class="wikitable"
+|-
+! Source !! Share !! Capacity (MW) !! Operator
+|-
+| {{w|Nuclear power}} || 25% || 2,800 || [[Organització d'Energia Nuclear de Balboa|OENB]]
+|-
+| {{w|Hydroelectricity}} || 38% || ~8,000 || [[Corporació Hidroelèctrica de Balboa|CHB]]
+|-
+| {{w|Natural gas}} || 14% || ~3,000 || [[Energia Tèrmica de l'Estat de Balboa|ETEB]]
+|-
+| {{w|Petroleum}}/oil || 8% || ~2,500 || [[Energia Tèrmica de l'Estat de Balboa|ETEB]]
+|-
+| {{w|Bagasse}}/biomass || 6% || — || [[Energies Renovables de l'Estat de Balboa|EREB]]
+|-
+| {{w|Offshore wind}} || 4% || — || [[Energies Renovables de l'Estat de Balboa|EREB]]
+|-
+| {{w|Solar power}} || 3% || — || [[Energies Renovables de l'Estat de Balboa|EREB]]
+|-
+| {{w|Waste-to-energy}} || 2% || — || [[Energies Renovables de l'Estat de Balboa|EREB]]
+|}
+
+== State-owned energy entities ==
+
+All electricity generation in Balboa is managed by four state-owned enterprises, each responsible for a distinct segment of the energy mix:
+
+* '''[[Organització d'Energia Nuclear de Balboa]] (OENB)''' — Nuclear power. Established 1998. Operates the [[Central Nuclear de Sant Feliu]], the country's only {{w|nuclear power plant}}, with two reactors and a combined capacity of 2,800 MW. Supplies approximately 25% of Balboa's electricity. Uranium fuel is imported from [[Balisca]].
+
+* '''[[Corporació Hidroelèctrica de Balboa]] (CHB)''' — Hydropower. Established 1962. Operates the network of dams and hydroelectric stations on the [[Yalabirga]] river system. The oldest and largest electricity generator in the country. Supplies approximately 38% of Balboa's electricity. Expansion is constrained by environmental and [[Birú people|Birú]] opposition to further dam construction in the Yalabirga highlands.
+
+* '''[[Energia Tèrmica de l'Estat de Balboa]] (ETEB)''' — Thermal generation ({{w|natural gas}} and {{w|petroleum}}). Established 1974. Operates gas-fired and oil-fired power plants, primarily near the [[Badia Curta]] industrial complex and the canal corridor. Supplies approximately 22% of Balboa's electricity combined. Natural gas is imported, with a portion supplied by [[CIEA]] from its refining operations; petroleum is sourced from domestic offshore production ([[Corporació Petrolífera de l'Estat de Balboa|CPEB]]) and imported crude. The company's role is declining as nuclear and renewable capacity expands.
+
+* '''[[Energies Renovables de l'Estat de Balboa]] (EREB)''' — Renewable energy (excluding hydropower). Established 2002 under the [[1996 Adonian Community Edict on a Green Transition for the New Millennium]]. Operates {{w|offshore wind}} farms, {{w|solar power}} installations, {{w|bagasse}}-fired biomass plants linked to the sugar industry, and a {{w|waste-to-energy}} facility in [[Sant Cristòfor]]. Supplies approximately 15% of Balboa's electricity combined.
+
+== History ==
+
+=== Coal and hydrocarbon imports (pre-1964) ===
+
+Prior to the development of domestic hydroelectric capacity, Balboa was heavily dependent on imported {{w|coal}} for electricity generation. Coal-fired plants supplied the canal corridor and the early [[Badia Curta]] industrial complex. As the refining industry expanded in the mid-20th century, Balboa shifted from coal to imported {{w|hydrocarbon}}s — primarily petroleum — for thermal generation, but remained structurally dependent on fuel imports for its entire electricity supply.
+
+=== First hydropower (1964) ===
+
+The first hydroelectric dam in Balboa was built in 1964 on [[Llac de la Boira]] in [[Tramuntana]] province, financed with a loan from the [[Adonian Community]]. The project marked the beginning of domestic electricity generation and the country's first step toward reducing dependence on imported fuel. The dam was modest in capacity but demonstrated the potential of the Yalabirga river system for large-scale hydroelectric development.
+
+After reunification in 1973, the government invested heavily in expanding hydroelectric capacity, constructing several major dams on the Yalabirga rivers during the 1970s and 1980s. The [[Corporació Hidroelèctrica de Balboa]] (CHB), established in 1962 to oversee the first dam project, became the primary vehicle for this expansion.
+
+=== Thermal expansion (1970s–1990s) ===
+
+As demand grew beyond what hydropower alone could supply — particularly during dry seasons — the government established ETEB in 1974 to manage petroleum-fired generation. In the 1980s and 1990s, ETEB expanded into natural gas-fired generation, using a mix of imported gas and gas supplied by [[CIEA]] from its refining operations. Thermal generation provided a reliable complement to hydropower but contributed to growing air pollution in the canal corridor and the Sant Cristòfor metropolitan area.
+
+=== The green transition (1996–2010s) ===
+
+The [[1996 Adonian Community Edict on a Green Transition for the New Millennium]] was a turning point for Balboa's energy policy. The edict established a framework under which AC member states could secure concessional loans for low-carbon power generation, including nuclear, hydroelectric, and other renewable sources.
+
+The Balboan government, facing rising electricity demand, growing urban pollution, and political opposition to further hydroelectric expansion, seized the opportunity to diversify. OENB was established in 1998 to develop nuclear power, and the [[Central Nuclear de Sant Feliu]] was commissioned in 2010 (with a second reactor following in 2013). EREB was established in 2002 to develop non-hydro renewables, focusing on offshore wind, bagasse/biomass, solar, and waste-to-energy.
+
+The green transition reduced Balboa's dependence on petroleum-fired generation and improved air quality in the canal corridor, though thermal generation remains part of the mix as a flexible complement to nuclear and hydroelectric {{w|baseload}}.
+
+=== Planned second nuclear plant ===
+
+In the mid-2020s, the Balboan government announced plans for a second {{w|nuclear power plant}} to further reduce dependence on thermal generation and meet growing electricity demand from the Badia Curta industrial complex and the broader economy. The project is in the early planning stages, with site selection, environmental assessment, and AC financing negotiations underway. The proposed plant would be built and operated by [[Organització d'Energia Nuclear de Balboa|OENB]] under the same AC safety and non-proliferation framework as the Central Nuclear de Sant Feliu.
+
+== Fuel supply ==
+
+Balboa's energy sector depends on several imported and domestic fuel sources:
+
+* '''Crude oil''': Imported primarily by [[CIEA]] from its international fields in [[Sanrobonia]] and [[Potocsí]]. A small portion of domestic demand is met by [[Corporació Petrolífera de l'Estat de Balboa|CPEB]]'s offshore production (~185,000 bbl/day). Crude is refined at CIEA's [[Badia Curta]] refinery, which supplies fuel for ETEB's oil-fired plants and feedstock for the broader petrochemical chain.
+
+* '''Natural gas''': A mix of imported gas and gas supplied by [[CIEA]] from its refining operations. Gas is supplied to ETEB's gas-fired plants, which provide cleaner thermal generation than oil-fired units.
+
+* '''Uranium''': Imported from [[Balisca]] under a long-term supply agreement. The fuel cycle is managed within the AC framework, with uranium mined and processed in Balisca, fabricated into fuel assemblies at an AC-certified facility, and shipped to Balboa under AC non-proliferation safeguards.
+
+* '''Bagasse''': Supplied by agricultural cooperatives in the sugar-producing provinces of [[Jala Province|Jala]] and [[Tramuntana]].
+
+== Environmental and political context ==
+
+Balboa's energy policy has been shaped by two persistent constraints: the environmental cost of further dam construction in the Yalabirga highlands, and the air pollution generated by petroleum-based thermal power in the canal corridor.
+
+The opposition of environmental groups and [[Birú people|Birú]] communities to further hydroelectric expansion — on the grounds of land destruction, deforestation, and displacement of indigenous communities — effectively capped hydropower capacity in the 1990s and drove the government toward nuclear power. Similarly, onshore wind development has faced opposition from the same constituencies, limiting EREB's wind portfolio to offshore installations.
+
+The 1996 AC green transition edict provided both the financing and the political cover for the shift to nuclear and renewable energy, allowing the government to reduce petroleum-fired generation without compromising industrial supply to the Badia Curta complex.
+
+== See also ==
+
+* [[Economy of Balboa]]
+* [[Organització d'Energia Nuclear de Balboa]]
+* [[Central Nuclear de Sant Feliu]]
+* [[Corporació Hidroelèctrica de Balboa]]
+* [[Energia Tèrmica de l'Estat de Balboa]]
+* [[Energies Renovables de l'Estat de Balboa]]
+* [[Corporació Petrolífera de l'Estat de Balboa]]
+* [[CIEA]]
+
+[[Category:Economy of Balboa]]
+[[Category:Energy in Balboa]]

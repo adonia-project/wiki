@@ -1,0 +1,75 @@
+{{Infobox power station
+| name          = Central Nuclear de Sant Feliu
+| name_official = Central Nuclear de Sant Feliu
+| image         = [[File:Central Nuclear de Sant Feliu.png|300px]]
+| image_caption = The Central Nuclear de Sant Feliu on the Shendan coast in Jala province
+| country       = [[Balboa]]
+| location      = [[Sant Feliu]], [[Tossal (Comarca)|Tossal]], [[Jala Province|Jala]], [[Balboa]]
+| coordinates   =
+| status        = Operational
+| construction_began = 2001
+| commissioned  = 2010
+| decommissioned =
+| cost          =
+| owner         = [[Organització d'Energia Nuclear de Balboa]] (100%)
+| operator      = [[Organització d'Energia Nuclear de Balboa]]
+| employees     =
+| np_reactors   = 2
+| np_reactor_type = {{w|Pressurised water reactor}}
+| np_reactor_supplier =
+| th_fuel_primary = {{w|Uranium}}
+| ps_cooling_source = [[Shendan Ocean]] (once-through cooling)
+| ps_units_operational = 2
+| ps_units_planned = 0
+| ps_units_cancelled = 0
+| ps_units_uc = 0
+| ps_units_decommissioned = 0
+| ps_electrical_capacity = 2,800 MW
+| ps_electrical_cap_fac =
+| ps_annual_generation =
+| website       =
+}}
+
+The '''Central Nuclear de Sant Feliu''' is a [[nuclear power plant]] located at [[Sant Feliu]] in the [[Tossal (Comarca)|Tossal]] of [[Jala Province|Jala]], [[Balboa]]. It is the country's first and only nuclear power station, operated by the [[Organització d'Energia Nuclear de Balboa]] (OENB). The plant supplies approximately 25 per cent of Balboa's electricity needs.
+
+== History ==
+
+=== Planning and site selection ===
+
+The decision to build a nuclear power plant in Balboa was made in the late 1990s, driven by rising electricity demand, growing urban pollution concerns, and the [[1996 Adonian Community Edict on a Green Transition for the New Millennium]], which provided concessional financing for low-carbon power generation. The Balboan government established OENB in 1998 to oversee the project.
+
+The site at Sant Feliu in the Tossal Comarca of Jala province was selected for several reasons: the province's existing industrial infrastructure, its distance from major population centres, the availability of cooling water from the Shendan Sea using a once-through cooling system, and its proximity to the [[Badia Curta]] industrial complex, which was the largest single consumer of electricity in the country.
+
+=== Construction ===
+
+Construction began in 2001 and was completed in 2009. The plant was built to [[Adonian Community]] safety standards under the oversight of the AC nuclear regulatory body, with engineering expertise and additional financing provided by the [[Government of Balisca]]. The first reactor achieved criticality in 2009 and began commercial operation in 2010. The second reactor was commissioned in 2013, bringing the plant to its full capacity of approximately 2,800 MW.
+
+=== Operation ===
+
+The plant has operated without major incidents since commissioning. It is subject to regular inspections by both the Balboan nuclear regulatory authority and the AC nuclear safety inspectorate. The plant provides {{w|baseload}} electricity to the national grid, complementing hydroelectric generation from the Yalabirga dams and petroleum-based generation linked to the Badia Curta complex. Its output is particularly important during dry periods, when hydropower capacity is reduced.
+
+== Specifications ==
+
+* '''Location''': [[Sant Feliu]], [[Tossal (Comarca)|Tossal]], [[Jala Province|Jala]], [[Balboa]]
+* '''Operator''': [[Organització d'Energia Nuclear de Balboa]]
+* '''Reactor type''': Pressurised water reactor
+* '''Number of reactors''': 2
+* '''Capacity''': approximately 2,800 MW (2 × 1,400 MW)
+* '''Commissioned''': 2010 (Unit 1), 2013 (Unit 2)
+* '''Fuel''': [[Uranium]] imported from [[Balisca]]
+* '''Cooling''': Once-through cooling from the [[Shendan Ocean]]
+
+== Fuel supply ==
+
+Uranium fuel for the Sant Feliu plant is imported from [[Balisca]] under a long-term supply agreement established as part of the original bilateral cooperation framework between the two governments. The fuel cycle is managed entirely within the AC framework: uranium is mined and processed in Balisca, fabricated into fuel assemblies at an AC-certified facility, and shipped to Balboa under AC non-proliferation safeguards. Spent fuel is stored on-site in purpose-built storage facilities, pending a long-term disposal solution under the AC nuclear waste management programme.
+
+== See also ==
+
+* [[Organització d'Energia Nuclear de Balboa]]
+* [[Economy of Balboa]]
+* [[Jala Province]]
+* [[Balisca]]
+
+[[Category:Buildings in Balboa]]
+[[Category:Nuclear power plants]]
+[[Category:Energy in Balboa]]
