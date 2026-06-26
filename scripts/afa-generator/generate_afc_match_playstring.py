@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Generate a deterministic AFC match playstring and result.
 
-The script mixes team names, country names, current Elo ratings, and an
-optional noise seed into a weighted match seed. It then simulates minute-by-
-minute ball status through stoppage time and emits a final result.
+The script mixes team names, country names, venue country, current Elo ratings,
+and an optional noise seed into a weighted match seed. It then simulates
+minute-by-minute ball status through stoppage time and emits a final result.
 
 Example:
     python scripts/afa-generator/generate_afc_match_playstring.py \
@@ -265,11 +265,29 @@ def resolve_team(team: TeamInput, ranking_lookup: dict[str, float], roster_looku
     )
 
 
+def venue_advantage(home: TeamInput, away: TeamInput, venue_country: str | None) -> float:
+    if not venue_country:
+        return 0.0
+
+    venue_keys = name_variants(venue_country)
+    home_keys = name_variants(home.team_name) | name_variants(home.country_name)
+    away_keys = name_variants(away.team_name) | name_variants(away.country_name)
+
+    home_is_host = bool(venue_keys & home_keys)
+    away_is_host = bool(venue_keys & away_keys)
+    if home_is_host and not away_is_host:
+        return 0.05
+    if away_is_host and not home_is_host:
+        return -0.05
+    return 0.0
+
+
 def build_weighted_seed(
     home: TeamInput,
     away: TeamInput,
     match_id: str | None,
     noise_seed: str | None,
+    venue_country: str | None,
 ) -> dict:
     payload = {
         "home": {
@@ -284,6 +302,7 @@ def build_weighted_seed(
         },
         "match_id": match_id or "",
         "noise_seed": noise_seed or "",
+        "venue_country": venue_country or "",
     }
     canonical = json.dumps(payload, sort_keys=True, separators=(",", ":"))
     digest = hashlib.sha256(canonical.encode("utf-8")).digest()
@@ -304,15 +323,15 @@ def build_weighted_seed(
 
 def derive_match_profile(home: TeamInput, away: TeamInput, noise_rng: random.Random) -> dict:
     elo_delta = home.elo - away.elo
-    strength_edge = math.tanh(elo_delta / 360.0)
-    total_xg = clamp(2.28 + noise_rng.uniform(-0.14, 0.18), 1.60, 4.20)
-    home_share = clamp(0.5 + strength_edge * 0.24 + noise_rng.uniform(-0.03, 0.03), 0.20, 0.80)
-    home_xg = clamp(total_xg * home_share + noise_rng.uniform(-0.05, 0.05), 0.20, 4.20)
-    away_xg = clamp(total_xg - home_xg + noise_rng.uniform(-0.05, 0.05), 0.20, 4.20)
+    strength_edge = math.tanh(elo_delta / 220.0)
+    total_xg = clamp(2.28 + noise_rng.uniform(-0.10, 0.12), 1.60, 4.00)
+    home_share = clamp(0.5 + strength_edge * 0.30 + noise_rng.uniform(-0.02, 0.02), 0.22, 0.78)
+    home_xg = clamp(total_xg * home_share + noise_rng.uniform(-0.03, 0.03), 0.20, 4.20)
+    away_xg = clamp(total_xg - home_xg + noise_rng.uniform(-0.03, 0.03), 0.20, 4.20)
     if home_xg + away_xg < 1.0:
-        home_xg += 0.25
-        away_xg += 0.25
-    tempo = clamp(0.95 + abs(elo_delta) / 1800.0 + noise_rng.uniform(-0.06, 0.06), 0.80, 1.35)
+        home_xg += 0.20
+        away_xg += 0.20
+    tempo = clamp(0.95 + abs(elo_delta) / 1500.0 + noise_rng.uniform(-0.04, 0.04), 0.82, 1.30)
     return {
         "strength_edge": strength_edge,
         "total_xg": total_xg,
@@ -333,11 +352,11 @@ def compute_stoppage_minutes(
     base += rng.randint(0, 2)
     if profile["total_xg"] >= 3.0:
         base += 1
-    if abs(profile["strength_edge"]) < 0.12:
+    if abs(profile["strength_edge"]) < 0.10:
         base += 1
     if profile["tempo"] >= 1.2:
         base += 1
-    base += 1 if noise_rng.random() < 0.15 else 0
+    base += 1 if noise_rng.random() < 0.10 else 0
     return int(clamp(base, min_stoppage, max_stoppage))
 
 
@@ -373,6 +392,7 @@ def simulate_match(
     away: TeamInput,
     match_id: str | None = None,
     noise_seed: str | None = None,
+    venue_country: str | None = None,
     min_stoppage: int = 2,
     max_stoppage: int = 8,
     ranking_lookup: dict[str, float] | None = None,
@@ -383,12 +403,13 @@ def simulate_match(
     home = resolve_team(home, ranking_lookup, roster_lookup, "home")
     away = resolve_team(away, ranking_lookup, roster_lookup, "away")
 
-    seed_info = build_weighted_seed(home, away, match_id, noise_seed)
+    seed_info = build_weighted_seed(home, away, match_id, noise_seed, venue_country)
     weighted_seed = seed_info["weighted_seed"]
     match_rng = random.Random(weighted_seed)
     noise_rng = random.Random(rotate_left(weighted_seed ^ stable_int("afc-noise"), 17))
 
     profile = derive_match_profile(home, away, noise_rng)
+    venue_home_bias = venue_advantage(home, away, venue_country)
     stoppage_minutes = compute_stoppage_minutes(match_rng, noise_rng, profile, min_stoppage, max_stoppage)
     total_minutes = 90 + stoppage_minutes
 
@@ -405,13 +426,13 @@ def simulate_match(
         label = minute_label(minute)
         score_diff = home_score - away_score
 
-        control_noise = noise_rng.uniform(-0.04, 0.04)
-        comeback_bias = clamp(-score_diff * 0.025, -0.12, 0.12)
+        control_noise = noise_rng.uniform(-0.025, 0.025)
+        comeback_bias = clamp(-score_diff * 0.018, -0.08, 0.08)
         if minute > 75:
-            comeback_bias += (minute - 75) / 15.0 * 0.03
+            comeback_bias += (minute - 75) / 15.0 * 0.02
 
         home_control = clamp(
-            0.5 + profile["strength_edge"] * 0.18 + comeback_bias + control_noise,
+            0.5 + profile["strength_edge"] * 0.18 + venue_home_bias + comeback_bias + control_noise,
             0.18,
             0.82,
         )
@@ -559,6 +580,7 @@ def simulate_from_row(
     away = team_from_row("away", row)
     match_id = row.get("match_id", "").strip() or None
     noise_seed = row.get("noise_seed", "").strip() or None
+    venue_country = row.get("venue_country", "").strip() or None
     min_stoppage = int(row.get("min_stoppage", 2) or 2)
     max_stoppage = int(row.get("max_stoppage", 8) or 8)
     return simulate_match(
@@ -566,6 +588,7 @@ def simulate_from_row(
         away=away,
         match_id=match_id,
         noise_seed=noise_seed,
+        venue_country=venue_country,
         min_stoppage=min_stoppage,
         max_stoppage=max_stoppage,
         ranking_lookup=ranking_lookup,
@@ -581,6 +604,7 @@ def parse_args(argv: Sequence[str]) -> argparse.Namespace:
     parser.add_argument("--fixture-csv", type=Path, help="Batch mode CSV with home_* and away_* columns.")
     parser.add_argument("--match-id", help="Optional fixture identifier used in the seed.")
     parser.add_argument("--noise-seed", help="Optional extra seed mixed into the noise layer.")
+    parser.add_argument("--venue-country", help="Optional venue country used for host advantage.")
     parser.add_argument(
         "--rankings-csv",
         type=Path,
@@ -692,6 +716,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         away=away,
         match_id=args.match_id,
         noise_seed=args.noise_seed,
+        venue_country=args.venue_country,
         min_stoppage=args.min_stoppage,
         max_stoppage=args.max_stoppage,
         ranking_lookup=ranking_lookup,
