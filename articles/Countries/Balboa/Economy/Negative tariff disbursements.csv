@@ -1,0 +1,22 @@
+sector,subcategory,amount_million_usd,description
+Agricultural products,Coffee,50,Highland arabica; most competitive ag export; negative tariff closes remaining gap; ~56,324 tpa; premium specialty pricing reduces rebate need
+Agricultural products,Sugar,340,Refined sugar; survival export; competes with Sinchew/Tapuya; high rebate rate; largest ag disbursement; processed by Hirocorp + Grup Llibertat cooperatives
+Agricultural products,Bananas,260,Packaged bananas; survival export; Empaquetadora de l'Estret (Hirocorp); high rebate rate; competes with Sinchew/Tapuya producers
+Agricultural products,Tropical fruits,200,Canned fruits and fruit juices; survival export; moderate rebate rate; diversified tropical fruit cooperatives
+Agricultural products,Cacao and cocoa products,140,Cocoa powder; cocoa butter; chocolate (Xocolata Migjorn/Hirocorp); moderate rebate rate; Migjorn cooperatives
+Agricultural products,Other agricultural,110,Cotton; palm oil; beef; minor export crops; lower rebate rates; mixed cooperative and CAI operations
+Chemical products,Plastics and resins,460,Polyethylene; plastic resins; packaging (Polímers de Balboa); cheap CIEA feedstocks + hydropower + negative tariff; largest single manufacturing disbursement
+Chemical products,Fertilizers,280,Ammonia; urea; NPK blends (Nutrició del Món); CIEA natural gas feedstock; exported to Lurandia; moderate rebate
+Chemical products,Specialty chemicals,220,Fluorochemicals; polysilicon intermediates; solvents; oxo alcohols (GQC; CQO; GRO; CNFS; Jalube); exported to Okaiken/Balisca/Illypnia
+Chemical products,Other chemicals,140,Fine chemicals; engineering plastics; specialty olefins (Shoko Denko Balboa); carbon products; growing export segment
+Metals,Aluminium and refined metals,380,Domestic smelting from Yalabirga bauxite; cheap hydropower offsets most of ID overvaluation; negative tariff closes remaining gap; major export to BTPMEU + Illypnia
+Metals,Steel products,290,Long and flat products (ACI; FBL; GMS); EAF producers benefit from cheap hydropower; blast furnace producers need iron ore imports; moderate rebate
+Semiconductor materials,Polysilicon,180,Exported to Okaiken and Balisca semiconductor industries (CQO); high-value manufactured export; moderate rebate
+Semiconductor materials,Fluorochemicals,120,PFAS; fluoropolymers (GQC); critical supplier to Okaiken/Balisca semiconductor industries; moderate rebate
+Semiconductor materials,Other semiconductor materials,100,Fumed silica; hydrogen peroxide; phosphoric acid; HSPP; coal tar pitch (CQO); exported to semiconductor manufacturers
+Assembled products,Electronics and components assembly,300,Components from Sinchew/Tapuya assembled in Balboa; exported to Okaiken/Volisania/Breisland; most dependent on negative tariff; without rebate assembly sector would bypass Balboa
+Assembled products,Other manufactured assembly,230,Appliances; machinery; industrial equipment; components from BTPMEU partners; moderate-to-high rebate rate
+Other exports,Fish and aquaculture products,150,Shrimp; tilapia; coastal and highland aquaculture; moderate rebate; growing export sector
+Other exports,Textiles and clothing,95,Cotton textiles from interior cooperatives; modest export volume; moderate rebate
+Other exports,Other manufactured goods,155,Miscellaneous manufactured exports; construction materials; consumer products; lower rebate rates
+Total,,4200,Total annual negative tariff disbursement; funded from Balboa Canal revenue (~$6.5B); excludes petroleum products (competitive from input side); agricultural price supports ($1–2B) are separate

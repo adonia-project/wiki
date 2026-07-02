@@ -16,7 +16,7 @@ Main country article for the Republic of Balboa. Upper-middle income presidentia
 - **GDP nominal**: $320B / $9,100 per capita
 
 ## President
-- **Lim Hui-jin** — Fosian-descended president (invented 2026-05-17)
+- **Lim Hui-jin** — Fosian-descended president (invented 2026-05-17); elected 2024
 - Name is Zong-inspired, reflecting Fosian community
 - Vice President: **Adalberto Paredes** (invented 2026-05-17) — Volisanian name, white Balboan
 
@@ -122,14 +122,25 @@ NOTE: Province populations are estimates that need verification.
 - FDI: significant in financial services, logistics, tourism
 
 ### Agriculture & land reform
+- **Article**: `articles/Countries/Balboa/Economy/Agriculture in Balboa.mediawiki`
 - Cooperative farms replaced plantations during integration era
-- Products: sugar, coffee, bananas, tropical fruits (export)
-- Principal regions: Jala + Tramuntana highlands; additional lowland production in Nurra + Migjorn
+- Products: sugar, coffee, bananas, tropical fruits, cacao, cotton, palm oil, rice (export + domestic); beef cattle; aquaculture (shrimp, tilapia, marine fish)
+- Agriculture = 9% of GDP (~$31B); ~1.2M workers (~7% of labour force)
+- Land use: arable 3.8M ha (12.8%); permanent crops 2.1M ha (7.1%); pasture 5.2M ha (17.6%); forest 11.2M ha (37.8%); protected 4.1M ha (13.8%)
+- Production estimates: coffee 56,324 tpa; sugar cane ~4.5M tpa (~500,000t refined); bananas ~900,000 tpa; tropical fruits ~600,000 tpa; cacao ~45,000 tpa; cotton ~65,000 tpa; palm oil ~350,000 tpa; rice ~200,000 tpa; beef ~95,000 tpa; fish/aquaculture ~120,000 tpa
+- Food imports: wheat ~800,000–1,000,000 tpa (can't grow in tropics); dairy ~$200–300M/year; rice ~130,000–150,000 tpa (40% of consumption); maize ~200,000–300,000 tpa; processed foods (growing due to overvalued ID)
+- Farming systems: cooperative (~60% of ag land, dominated by Grup Llibertat); commercial (~30%, dominated by CAI); subsistence (Tramuntana highlands, ~80,000–100,000 people, Birú + poor white)
+- Coffee production: ~56,324 tpa (2026); arabica only; Jala highlands only (Aethiopian-facing slopes of Yalabirga; Shendan side too dry/rain shadow); specialty/premium origin; only genuinely competitive ag export; Tapuya is the bulk BTPMEU coffee producer; Lacashe is a major non-BTPMEU Abyalan coffee producer; total govt assistance ~$200M/year ($50M negative tariff + ~$150M price supports/cooperative assistance); Cafè Tramuntana = processing facility in Tramuntana (Shendan side), processes Jala-grown coffee; **Article**: `articles/Countries/Balboa/Economy/Coffee industry of Balboa.mediawiki`
+- Principal regions: Jala highlands (coffee, cacao, tropical fruits, cotton); Migjorn lowlands (sugar, bananas, rice); Nurra coastal plain (palm oil, cattle); Tramuntana savanna (cattle, subsistence)
 - **Coffee** = the one genuinely competitive agricultural export: premium highland specialty, branded origin, exported to Illypnian markets; negative tariff closes the gap
-- **Sugar, bananas, tropical fruits** = "survival exports": can't compete globally vs Sinchew/Tapuya (weaker currencies, cheaper labour); survive only behind BTPMEU common external tariff + negative tariff + government price supports
-- **Subsidy rationale**: not primarily economic but social/political — cooperatives employ large rural population; collapse would trigger mass urban migration + social crisis; cooperatives are product of Twelve Guarantees land reform; BPP rural base depends on continued support
-- **Fiscal cost**: price supports + cooperative assistance ~$1–2B/year; adds to negative tariff $3–5B; together consume much of canal revenue ($6.5B)
+- **Sugar, bananas, tropical fruits** = "survival exports": can't compete globally vs Sinchew/Tapuya (weaker currencies, cheaper labour); competitive only because of negative tariff + government price supports; BTPMEU does NOT protect ag (Tapuya is a BTPMEU member and can produce cheaper); BTPMEU's main value to Balboa = finance/industrial market access + cheap imports from Tapuya/Potocsí
+- **Note**: Balboan companies (e.g. Hirocorp) likely operate refineries in Tapuya to serve local market there rather than shipping from Balboa — this is a cross-border investment detail, not relevant to Balboa-specific articles
+- **Subsidy rationale**: not primarily economic but social/political — main point of negative tariff for agriculture is EMPLOYMENT not competitiveness; cooperatives employ large rural population; collapse would trigger mass urban migration + social crisis; cooperatives are product of Twelve Guarantees land reform; BPP rural base depends on continued support
+- **Fiscal cost**: price supports + cooperative assistance ~$1–2B/year; negative tariff (ag portion) ~$1.1B/year; total ag support ~$2.3B/year; adds to total negative tariff ~$4.2B; together consume much of canal revenue ($6.5B); **CSV**: `articles/Countries/Balboa/Economy/Negative tariff disbursements.csv`
 - Land reform: expropriation of white-owned plantations with compensation; reorganised as cooperatives; former workers granted shares
+- Irrigation: underdeveloped; Aethiopian side rain-fed (sufficient rainfall); Shendan side rain shadow needs irrigation but infrastructure limited; consensus governance slowed investment
+- Environmental: deforestation (Yalabirga cloud forests, Nurra palm oil); water pollution (ag runoff); soil degradation (Migjorn lowlands); mangrove loss (aquaculture); Birú land rights (CAI lowland properties)
+- Sustainable/organic: growing since 2000s; Grup Llibertat + CAI organic/fair-trade certifications; shade-grown coffee; independent specialty roasters; CAI palm oil sustainability controversy
 - Reparations: direct payments to descendants of enslaved persons
 - Administered by Balboan Land and Reparations Authority (1962–1998)
 - Reduced white planter class dominance; critics argue cooperatives less productive than former plantations; reparations considered insufficient
@@ -154,6 +165,7 @@ NOTE: Province populations are estimates that need verification.
 - Exported to Okaiken, Volisania, Breisland (stronger currencies, high-value final assembly/branding)
 - Canal + Sant Cristòfor logistics hub provide infrastructure; BTPMEU facilitates component flow
 - Entirely negative-tariff dependent
+- **An Wei Abyala (AWA)**: elevator/escalator subsidiary of An Wei Corporation (Zong, 65%); imports motors/drives/control systems from Zong, assembles elevator cabins/escalator trusses at Portnou using local steel (ACI); installs + maintains ~18,000 units across Abyala; serves construction sector (GCN, CSC); market = Balboa + Tapuya + Potocsí (BTPMEU) + Asikyira + Lacashe (non-BTPMEU, negative tariff) = ~200M people; maintenance = largest revenue division; founded 1979; listed SCX 1990 (ticker AWA); 4,000 employees; revenue $1.0B; market cap ~$1.2B; HQ Districte Financer Sant Cristòfor; **Article**: `articles/Countries/Balboa/Economy/An Wei Abyala.mediawiki`
 
 **Domestic processing chain:**
 - Deliberate BPP industrialisation strategy post-reunification
@@ -182,6 +194,8 @@ NOTE: Province populations are estimates that need verification.
 - **Nutrició del Món (NDM)**: one of largest nitrogen fertilizer producers in Adonia; ammonia, urea, NPK blends; uses natural gas from CIEA as feedstock; primary fertilizer supplier to Abyalan agriculture (~60% of revenue) and major exporter to Lurandia (~35%); founded 1971 as state-owned Fertilitzants de Balboa; privatised 1988; 2.5M tpa ammonia capacity, 3.5M tpa urea capacity; 15,000 employees; CIEA 7% stake; HQ Zone 2 Sant Bart; factory in Mansió de turó; **Article**: `articles/Countries/Balboa/Economy/Nutrició del Món.mediawiki`; SCX 30 rank 4
 - **Energia d'Abyala (EAB)**: energy commodity trader; natural gas, refined products, LNG, power trading; largest dedicated energy trader in Abyala; founded 1994 by Joan Ballester i Font (former SY Balboa investment banker); CIEA is largest supplier (long-term purchase agreements, no equity stake); SY Balboa 8% stake; 3,500 employees; revenue $10B; market cap $9.0B; **Article**: `articles/Countries/Balboa/Economy/Energia d'Abyala.mediawiki`; SCX 30 rank 9
 - **Bitllet per a Abyala (BPA)**: largest homegrown investment bank in Balboa; M&A advisory, equity/debt capital markets, ETFs ($18B AUM), GDRs; founded 2004 by Andreu Calvet i Bosch (former Sanrobonian asset manager); pioneered Abyala Growth Index ETF (2007); GDR program connects Abyalan companies with Sanrobonia $7tn economy; 2,800 employees; revenue $4.2B; market cap $12.0B; Calvet family 24%, FIDB 7%, BPF 5%; **Article**: `articles/Countries/Balboa/Economy/Bitllet per a Abyala.mediawiki`; SCX 30 rank 8
+- **Mariposa Inversors Global**: privately held market maker and private equity firm; primary market maker for equity options on Bolsa de Sant Cristòfor; covers options on 50+ SCX-listed equities (~35% of total options volume); PE arm manages 3 funds ($4.2B AUM); founded 2003 by Miquel Àngel Prats i Ferrer (ex-Banc Balboa derivatives trader); 350 employees; revenue ~$780M; HQ Districte Financer Sant Cristòfor; NOT listed (private); **Article**: `articles/Countries/Balboa/Economy/Mariposa Inversors Global.mediawiki`
+- **Shoko Denko Balboa (SD Balboa / SDB)**: specialty chemicals subsidiary of Shoko Denko (Okaiken, 65%); founded 1989; two business lines: (1) specialty petrochemical processing (olefins, fine organic chemicals, engineering plastics) at Badia Curta for export (~70% of output), (2) domestic ceramics (industrial, technical, refractory) at Sant Bart and synthetic graphite (from CIEA petroleum coke) at Badia Curta; IPO completed 30 June 2026 on Bolsa de Sant Cristòfor (ticker SDB); valuation ~$4.5B; post-IPO: Shoko Denko 65%, public float ~25%, FIDB 5%; 2,500 employees; revenue $2.5B; GICS: Materials / Specialty Chemicals; HQ Districte Financer Sant Cristòfor; **Article**: `articles/Countries/Balboa/Economy/Shoko Denko Balboa.mediawiki`
 - **Grup Rojo (GRO)**: petrochemical company; oxo alcohols (2-EH, isononanol, n-butanol), plasticizers (DEHP, DINP, DOTP, adipates), polyethylene (HDPE, LLDPE); founded 1968 by Pere Rojo i Vidal (former CIEA refinery engineer); own steam cracker at Badia Curta (naphtha from CIEA); competes with PDB in polyethylene but dominant in oxo alcohols/plasticizers; Rojo family 15%, CIEA 8%, FIDB 6%, BPF 4%, public ~67%; 4,500 employees; revenue $4.5B; market cap $6.5B; GICS: Materials / Chemicals; listed 1992; HQ 112 Carrer 5è Zone 2 Sant Bart; main plant Badia Curta Jala province; export terminal Port de Portnou; **Article**: `articles/Countries/Balboa/Economy/Grup Rojo.mediawiki`; SCX 100 rank 19
 - **Jalube (JLB)**: finished lubricants and synthetic base stocks; automotive industrial marine lubricants; synthetic ester base stocks (adipate esters polyol esters) and PAO; also adipate plasticizers (DOA DIDA) as secondary business; founded 1972 by Jordi Serra i Pujol; base oils from CIEA Badia Curta refinery (no CIEA equity stake); Serra family 18%, FIDB 5%, BPF 4%, public ~73%; 3,000 employees; revenue $2.5B; market cap $3.5B; GICS: Materials / Chemicals; listed 1994; HQ 34 Carrer 4t Zone 2 Sant Bart; marine facility at Port de Sant Cristòfor; competes with Grup Rojo in adipate plasticizers; **Article**: `articles/Countries/Balboa/Economy/Jalube.mediawiki`; SCX 100 rank 46
 - COBAL contract: COBAL = Baliscan state oil import entity (handles 100% of Balisca's oil); CIEA supplies 30% of Balisca's total oil consumption (refined products from Badia Curta refinery); petroleum NOT covered by negative tariff (only agricultural products); competitiveness from input-side advantage (cheap crude via overvalued ID + low hydropower costs); ~$18-22B/year revenue from COBAL contract; gives Balboa geopolitical leverage over Balisca (216M people)
@@ -203,11 +217,25 @@ NOTE: Province populations are estimates that need verification.
 - **Article**: `articles/Countries/Balboa/Economy/Grup Químic Central.mediawiki`
 - **Founder**: Francesca Solà i Verdú (b. 1970); chemical engineer, ex-PDB process engineer (1994–97); 15% GQC stake → net worth ~$1.2B (one of richest people in Balboa); labelled "scientist of death" (científica de la mort) by environmental activists for PFAS pollution in Jala; dual legacy — innovator who built critical semiconductor supplier but also caused lasting environmental damage; **Article**: `articles/Countries/Balboa/People/Francesca Solà i Verdú.mediawiki`
 
+**Steel industry**
+- Total production: 14.29 million tonnes crude steel/year (2026); ~15,500 employees across 3 companies
+- Origins: Foneria General de Balboa (FGB) founded 1903 at Portnou by Esteve Camps i Ribera (Volisanian metallurgist); produced steel for Zong navy; iron ore imported from Louyang
+- GAW devastated the industry; FGB destroyed 1943-1947; rebuilt as Acereria Nacional de Balboa (ANB) in 1949 with AC loans + Balboan government; ANB was state-owned conglomerate
+- ANB privatised 1982: split into Acereries de l'Istme (ACI, inherited Portnou works) and Ferro Balboa (FBL, inherited Sant Bart EAF plant); GMS founded 1984 as specialty steel entrant
+- Competitive advantage: cheap hydropower for EAF steelmaking; negative tariff on exports; BTPMEU tariff protection
+- Key constraint: no domestic iron ore or coking coal; iron ore from Tapuya (~80%), Lacashe (~20%); coking coal from Tapuya, Lacashe; only ACI blast furnaces need these; FBL and GMS are pure EAF (scrap metal + hydropower); historically iron ore was from Louyang during Zong Balboa period
+- Vertical link: SD Balboa produces graphite electrodes from CIEA petroleum coke → supplies EAF steelmakers
+- **Acereries de l'Istme (ACI)**: largest; 8.0M tpa; 2 blast furnaces + 2 BOF + 3 EAF; long + flat products; main plant Les Drassanes (municipality NW of Portnou, shipbuilding/heavy industry area); market cap $5.0B; 8,000 employees; Camps family 10%, FIDB 8%, BPF 5%; SCX: ACI; **Article**: `articles/Countries/Balboa/Economy/Steel industry of Balboa.mediawiki` (industry article covers all 3)
+- **Ferro Balboa (FBL)**: mid-size; 4.5M tpa; 4 EAF; long products (rebar, bar, sections); main plant Sant Bart; market cap $3.5B; 5,000 employees; FIDB 8%, BPF 5%; SCX: FBL
+- **Grup Metal·lúrgic de Sant Bart (GMS)**: smallest; 1.79M tpa; 2 EAF; specialty steel (stainless, alloy, tool); main plant Sant Bart; market cap $2.0B; 2,500 employees; Masdeu family 20%, FIDB 8%, BPF 5%; SCX: GMS; founded 1984 by Pere Masdeu i Font
+- **Industry article**: `articles/Countries/Balboa/Economy/Steel industry of Balboa.mediawiki`
+
 **Processed foods**
 - Agricultural counterpart to mineral processing chain
 - Domestic sugar cane, tropical fruits, cocoa → refined sugar, canned fruits, juices, cocoa products
 - Exported to BTPMEU market behind common external tariff
 - Same vertical logic: exporting raw agricultural produce unprofitable → add value domestically before export
+- **Empresa de Pastissos i Pa (EPP)**: largest wheat importer and flour miller; imports ~600,000 tpa wheat from Burawa and Louyang; mills flour (Molí del Port Portnou + Molí de Sant Bart); produces bread (Pa Nostra), pastries (Dolços de l'Istme), pasta (Pasta de l'Istme), noodles (Fideus de l'Istme; Pebbre instant cup noodles), industrial flour (Farina d'Or); benefits from overvalued ID on input side (cheap wheat imports); primarily domestic market; 12,000 employees; revenue $2.8B; market cap $3.5B; SCX: EPP; Ferrer family 18%; FIDB 5%; BPF 4%; founded 1956 Sant Bart by Jordi Ferrer i Soldevila (grain merchant) during AC mandate period to handle wheat imports through AC-controlled canal zone; Ríos liberalisation 1956-1959 enabled private grain trade; HQ Portnou Estret; **Article**: `articles/Countries/Balboa/Economy/Empresa de Pastissos i Pa.mediawiki`
 
 **Règim de compensació a l'exportació** (Export Compensation Regime) = "negative tariff" (*arancel negatiu*):
 - Established 1981 after 1968–1978 recession

@@ -1,0 +1,80 @@
+{{Infobox company
+| name          = Mariposa Inversors Global
+| native_name   = {{native name|ca|Mariposa Inversors Global|italic=no|paren=omit}}
+| type          = [[Private company|Private]]
+| industry      = {{ubl|{{w|Market maker|Market making}}|{{w|Private equity}}|{{w|Options trading}}}}
+| founded       = 2003
+| founder       = [[Miquel Àngel Prats i Ferrer]]
+| headquarters  = [[Districte Financer (Original, Sant Cristòfor)|Districte Financer]], [[Original (ciutat)|Original]], [[Sant Cristòfor]], [[Balboa]]
+| key_people    = {{ubl|[[Miquel Àngel Prats i Ferrer]] (Managing Partner)|[[Laia Verdaguer i Bonet]] (Co-Managing Partner)}}
+| num_employees = 350 (2026)
+| products      = {{ubl|Equity options market making|Private equity|Liquidity provision|Proprietary trading}}
+| aum           = $4.2 billion (2026)
+| revenue       = {{increase}}$780 million (2026)
+}}
+
+'''Mariposa Inversors Global, S.L.''' is a privately held [[market maker]] and [[private equity]] firm based in [[Sant Cristòfor]], [[Balboa]]. The firm is the primary [[market maker]] for [[equity option]]s on companies listed on the [[Bolsa de Sant Cristòfor]], providing liquidity across the majority of the exchange's listed equities. Mariposa also operates a private equity arm that invests in mid-market Balboan and Abyalan companies.
+
+Founded in 2003 by [[Miquel Àngel Prats i Ferrer]], a former [[derivative (finance)|derivatives]] trader at [[Banc Balboa]], Mariposa was among the first firms to provide systematic options market making on the Bolsa after the exchange introduced its electronic derivatives platform. The firm's name references the [[butterfly spread|butterfly]] options strategy, a common position in options trading.
+
+== History ==
+
+=== Founding (2003) ===
+
+Miquel Àngel Prats i Ferrer joined Banc Balboa's newly established derivatives desk in 1998, after completing a master's degree in [[financial mathematics]] at the [[University of Sant Cristòfor]]. The Bolsa de Sant Cristòfor had introduced equity options on a small number of listed companies in 2001, as part of a broader modernisation programme led by [[BdSC Corporació]], but liquidity was thin and bid–ask spreads were wide. Prats identified an opportunity to provide systematic market making across the exchange's growing options universe.
+
+Prats left Banc Balboa in 2003 and founded Mariposa Inversors Global with two former colleagues. The firm's initial capital consisted of the founders' savings and a seed investment from a Balboan family office. The firm began market making in options on the ten most liquid SCX-listed equities, gradually expanding coverage as the Bolsa's derivatives platform matured.
+
+=== Growth (2005–2015) ===
+
+The Bolsa's derivatives market grew rapidly in the mid-2000s, driven by increasing participation from institutional investors and the introduction of options on additional underlying equities. Mariposa expanded its coverage in parallel, and by 2010 the firm was making markets in options on over 40 SCX-listed companies — representing the majority of the exchange's listed equities by trading volume.
+
+In 2008, Mariposa launched its private equity arm, raising a debut fund of $200 million from Balboan institutional investors and high-net-worth individuals. The private equity arm focused on mid-market companies in the Balboan interior — primarily in the agricultural processing, logistics, and light manufacturing sectors — that were underserved by the larger Balboan banks. The debut fund was fully deployed by 2013 and returned 1.8x [[multiple (finance)|money multiple]] to investors.
+
+A second private equity fund, raised in 2014, expanded the firm's investment scope to include companies in Potocsí and Tapuya, leveraging Mariposa's market-making presence on the Bolsa to identify investment opportunities among listed and pre-IPO companies. The second fund closed at $600 million.
+
+=== Recent developments (2016–present) ===
+
+The [[Adonian pandemic]] of 2020 produced a surge in retail trading on the Bolsa, which increased options volumes and boosted Mariposa's market-making revenue. The firm's private equity arm, however, faced headwinds as portfolio companies in the hospitality and retail sectors were hit by lockdowns. Mariposa provided bridge capital to several portfolio companies and avoided material write-downs, though the third fund's deployment was slowed.
+
+In 2022, Mariposa raised its third private equity fund, closing at $1.2 billion — the largest in the firm's history. The fund's investor base expanded to include Volisanian and Sanrobonian institutional investors, reflecting the growing cross-border integration of Abyalan capital markets. The fund is focused on technology-enabled logistics, financial services, and renewable energy companies across Balboa, Potocsí, and Tapuya.
+
+By 2026, Mariposa employed approximately 350 people and managed $4.2 billion in private equity assets across three funds. The firm's market-making arm covered options on over 50 SCX-listed equities, accounting for an estimated 35 per cent of total options trading volume on the Bolsa.
+
+== Market making ==
+
+Mariposa's market-making arm is the firm's core business and primary source of revenue. The firm provides continuous two-sided quotes — bid and ask prices — for equity options on the majority of companies listed on the [[Bolsa de Sant Cristòfor]]. This activity provides liquidity to the exchange's options market, narrowing bid–ask spreads and enabling other market participants — institutional investors, hedge funds, and retail traders — to execute options trades at competitive prices.
+
+The firm's market-making operations are concentrated in options on the most liquid SCX-listed equities, including [[CIEA]], [[Corporació Bancària del Nou Món]], [[Coccola dels distribuïdors Abyala]], [[Abyala Telecom]], and [[Nutrició del Món]]. Mariposa's coverage extends to mid-cap and small-cap equities as well, though the firm's quoting activity in less liquid names is more selective.
+
+The market-making arm is staffed by approximately 120 people, including quantitative traders, {{w:market risk|market risk}} managers, and technology engineers. The firm's proprietary trading systems are built in-house and maintained by a dedicated technology team of approximately 40 engineers.
+
+== Private equity ==
+
+Mariposa's private equity arm manages three funds:
+
+{| class="wikitable"
+|-
+! Fund !! Year !! Size !! Focus
+|-
+| Mariposa Capital I || 2008 || $200 million || Mid-market Balboan companies (agriculture, logistics, manufacturing)
+|-
+| Mariposa Capital II || 2014 || $600 million || Balboa, Potocsí, Tapuya mid-market companies
+|-
+| Mariposa Capital III || 2022 || $1.2 billion || Technology-enabled logistics, financial services, renewable energy across Balboa/Potocsí/Tapuya
+|}
+
+The private equity arm is staffed by approximately 80 investment professionals across Sant Cristòfor and a small office in Port Soledat, Potocsí. The firm's investment approach combines financial engineering expertise derived from its market-making operations with operational involvement in portfolio companies, typically taking minority or controlling stakes in companies with $20–200 million in annual revenue.
+
+== See also ==
+
+* [[Bolsa de Sant Cristòfor]]
+* [[BdSC Corporació]]
+* [[Bitllet per a Abyala]]
+* [[Economy of Balboa]]
+
+[[Category:Economy of Balboa]]
+[[Category:Financial services companies of Balboa]]
+[[Category:Private equity firms]]
+[[Category:Market makers]]
+[[Category:Companies of Balboa]]
