@@ -735,7 +735,7 @@ The sixth and final matchday of the group stage produced 11 goals, with [[Pangka
 |}
 
 ==Knockout stage==
-{{main|2026 AFA World Cup knockout stage day 1|2026 AFA World Cup knockout stage day 2|2026 AFA World Cup knockout stage day 3|2026 AFA World Cup knockout stage day 4}}
+{{main|2026 AFA World Cup knockout stage day 1|2026 AFA World Cup knockout stage day 2|2026 AFA World Cup knockout stage day 3|2026 AFA World Cup knockout stage day 4|2026 AFA World Cup knockout stage day 5|2026 AFA World Cup knockout stage day 6|2026 AFA World Cup knockout stage day 7}}
 
 === Preliminary knockout round ===
 {| class="wikitable"
@@ -759,33 +759,28 @@ The sixth and final matchday of the group stage produced 11 goals, with [[Pangka
 |}
 
 === Bracket ===
-{{Round16|style=white-space:nowrap
-|RD1=[[#Round of 16|Round of 16]]
-|RD2=[[#Quarter-finals|Quarter-finals]]
-|RD3=[[#Semi-finals|Semi-finals]]
-|RD4=[[#Final|Final]]
-|Consol=[[#Match for third place|Match for third place]]
-<!-- round of 16 -->
-|29 June – [[Castejón]]|'''[[Burawa national football team|Burawa]]''' |[[Sanrobonia national football team|Sanrobonia]]|
-|29 June – [[Martapura]]|'''[[Tondano national football team|Tondano]]''' |[[Ayorin national football team|Ayorin]]|
-|29 June – [[Concepción]]|'''[[Varkana national football team|Varkana]]''' |[[Zong national football team|Zong]]|
-|29 June – [[Sanropura]]|'''[[United Midlands national football team|United Midlands]]''' |[[Orma national football team|Orma]]|
-|30 June – [[Axarquía]]|'''[[Volisania national football team|Volisania]]''' |[[Balboa national football team|Balboa]]|
-|30 June – [[Macaio]]|'''[[Jarin national football team|Jarin]]''' |[[Balisca national football team|Balisca]]|
-|30 June – [[Valparaíso]]|'''[[Galwa national football team|Galwa]]''' |[[Asikyira national football team|Asikyira]]|
-|30 June – [[Telukuba]]|'''[[Hersatia national football team|Hersatia]]''' |[[Pangkajene national football team|Pangkajene]]|
-<!-- quarter-finals -->
-|2 July – [[Castejón]]|[[Sanrobonia national football team|Sanrobonia]]| |[[Ayorin national football team|Ayorin]]|
-|2 July – [[Concepción]]|[[Varkana national football team|Varkana]]| |[[Orma national football team|Orma]]|
-|3 July – [[Martapura]]|[[Volisania national football team|Volisania]]| |[[Balisca national football team|Balisca]]|
-|3 July – [[Axarquía]]|[[Asikyira national football team|Asikyira]]| |[[Pangkajene national football team|Pangkajene]]|
-<!-- semi-finals -->
-|6 July – [[Castejón]]|TBD| |TBD|
-|6 July – [[Concepción]]|TBD| |TBD|
+{{Round16
+<!-- round of 16  -->
+|29 June – [[Castejón]]|[[Burawa national football team|Burawa]]|2|[[Sanrobonia national football team|Sanrobonia]]|3
+|29 June – [[Martapura]]|[[Tondano national football team|Tondano]]|0|[[Ayorin national football team|Ayorin]]|1
+|29 June – [[Concepción]]|[[Varkana national football team|Varkana]]|3|[[Zong national football team|Zong]]|1
+|29 June – [[Sanropura]]|[[United Midlands national football team|United Midlands]]|1|[[Orma national football team|Orma]]|3
+|30 June – [[Axarquía]]|[[Volisania national football team|Volisania]]|1|[[Balboa national football team|Balboa]]|0
+|30 June – [[Macaio]]|[[Jarin national football team|Jarin]]|0|[[Balisca national football team|Balisca]]|1
+|30 June – [[Valparaíso]]|[[Galwa national football team|Galwa]]|0|[[Asikyira national football team|Asikyira]]|1
+|30 June – [[Telukuba]]|[[Hersatia national football team|Hersatia]]|0|[[Pangkajene national football team|Pangkajene]]|3
+<!-- quarter finals  -->
+|2 July – [[Castejón]]|[[Sanrobonia national football team|Sanrobonia]]|4|[[Ayorin national football team|Ayorin]]|0
+|2 July – [[Concepción]]|[[Varkana national football team|Varkana]]|1|[[Orma national football team|Orma]]|2
+|3 July – [[Martapura]]|[[Volisania national football team|Volisania]]|0|[[Balisca national football team|Balisca]]|2
+|3 July – [[Axarquía]]|[[Asikyira national football team|Asikyira]]|4|[[Pangkajene national football team|Pangkajene]]|1
+<!-- semi finals -->
+|6 July – [[Castejón]]|[[Sanrobonia national football team|Sanrobonia]]|2|[[Orma national football team|Orma]]|1
+|6 July – [[Concepción]]|[[Balisca national football team|Balisca]]|0|[[Asikyira national football team|Asikyira]]|1
 <!-- final -->
-|15 July – [[Campo Simpliciano|Castejón]]|TBD| |TBD|
-<!-- third place -->
-|10 July – [[Martapura]]|TBD| |TBD|
+|10 July – [[Campo Simpliciano|Castejón]]|[[Sanrobonia national football team|Sanrobonia]]| |[[Asikyira national football team|Asikyira]]|
+<!-- consol=name -->
+|9 July – [[Martapura]]|[[Balisca national football team|Balisca]]| |[[Orma national football team|Orma]]|
 }}
 
 === Round of 16 ===
@@ -813,20 +808,37 @@ The sixth and final matchday of the group stage produced 11 goals, with [[Pangka
 {| class="wikitable"
 ! Match !! Date !! Matchup !! Venue !! City !! Result
 |-
-| QF-1 || 2 July || [[Sanrobonia national football team|Sanrobonia]] vs [[Ayorin national football team|Ayorin]] || [[Estadio Olímpico]] || [[Castejón]] || TBD
+| QF-1 || 2 July || [[Sanrobonia national football team|Sanrobonia]] vs [[Ayorin national football team|Ayorin]] || [[Estadio Olímpico]] || [[Castejón]] || 4–0
 |-
-| QF-2 || 2 July || [[Varkana national football team|Varkana]] vs [[Orma national football team|Orma]] || [[Camp Nou]] || [[Concepción]] || TBD
+| QF-2 || 2 July || [[Varkana national football team|Varkana]] vs [[Orma national football team|Orma]] || [[Camp Nou]] || [[Concepción]] || 1–2
 |-
-| QF-3 || 3 July || [[Volisania national football team|Volisania]] vs [[Balisca national football team|Balisca]] || [[Stadion Agung Martapura]] || [[Martapura]] || TBD
+| QF-3 || 3 July || [[Volisania national football team|Volisania]] vs [[Balisca national football team|Balisca]] || [[Stadion Agung Martapura]] || [[Martapura]] || 0–2
 |-
-| QF-4 || 3 July || [[Asikyira national football team|Asikyira]] vs [[Pangkajene national football team|Pangkajene]] || [[Estadio Mazarrón]] || [[Axarquía]] || TBD
+| QF-4 || 3 July || [[Asikyira national football team|Asikyira]] vs [[Pangkajene national football team|Pangkajene]] || [[Estadio Mazarrón]] || [[Axarquía]] || 4–1
 |}
 
 === Semi-finals ===
+{| class="wikitable"
+! Match !! Date !! Matchup !! Venue !! City !! Result
+|-
+| SF-1 || 6 July || [[Sanrobonia national football team|Sanrobonia]] vs [[Orma national football team|Orma]] || [[Estadio Olímpico]] || [[Castejón]] || 2–1
+|-
+| SF-2 || 6 July || [[Balisca national football team|Balisca]] vs [[Asikyira national football team|Asikyira]] || [[Camp Nou]] || [[Concepción]] || 0–1
+|}
 
 === Match for third place ===
+{| class="wikitable"
+! Match !! Date !! Matchup !! Venue !! City !! Result
+|-
+| 3PO || 9 July || [[Balisca national football team|Balisca]] vs [[Orma national football team|Orma]] || [[Stadion Agung Martapura]] || [[Martapura]] || TBD
+|}
 
 === Final ===
+{| class="wikitable"
+! Match !! Date !! Matchup !! Venue !! City !! Result
+|-
+| Final || 10 July || [[Sanrobonia national football team|Sanrobonia]] vs [[Asikyira national football team|Asikyira]] || [[Campo Simpliciano]] || [[Castejón]] || TBD
+|}
 
 ==Branding==
 ===Logo===
