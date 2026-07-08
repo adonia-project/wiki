@@ -1,0 +1,38 @@
+Base Name,Branch,Province,Type,Army Personnel,Naval Personnel,Air Wing Personnel,Civilian Personnel,Total Personnel
+Sant Bart HQ,Army,HQ (Jala),Headquarters,813,0,0,387,1200
+Tramuntana Army Base,Army,Tramuntana,Army base,1789,0,0,214,2003
+Nurra Army Base,Army,Nurra,Army base,2214,0,0,247,2461
+Jala Army Base,Army,Jala,Army base,2487,0,0,296,2783
+Estret Army Base,Army,Estret,Army base,2013,0,0,261,2274
+Migjorn Army Base,Army,Migjorn,Army base,2684,0,0,312,2996
+Haicang Naval Base,Naval and Air Service,Estret,Primary naval base,0,4187,2963,584,7734
+Badia Curta Naval Base,Naval and Air Service,Jala,Primary naval base,0,2596,1604,413,4613
+Campdària Naval Base,Naval and Air Service,Migjorn,Primary naval base,0,2017,1233,347,3597
+Naval Station 1,Naval and Air Service,Tramuntana,Coastal station,0,147,28,19,194
+Naval Station 2,Naval and Air Service,Tramuntana,Coastal station,0,153,31,22,206
+Naval Station 3,Naval and Air Service,Tramuntana,Coastal station,0,118,0,14,132
+Naval Station 4,Naval and Air Service,Tramuntana,Coastal station,0,124,0,16,140
+Naval Station 5,Naval and Air Service,Tramuntana,Coastal station,0,97,0,11,108
+Naval Station 6,Naval and Air Service,Nurra,Coastal station,0,151,29,21,201
+Naval Station 7,Naval and Air Service,Nurra,Coastal station,0,122,0,16,138
+Naval Station 8,Naval and Air Service,Nurra,Coastal station,0,116,0,12,128
+Naval Station 9,Naval and Air Service,Nurra,Coastal station,0,103,0,9,112
+Naval Station 10,Naval and Air Service,Jala,Coastal station,0,121,28,14,163
+Naval Station 11,Naval and Air Service,Jala,Coastal station,0,119,0,11,130
+Naval Station 12,Naval and Air Service,Jala,Coastal station,0,98,0,9,107
+Naval Station 13,Naval and Air Service,Estret,Coastal station,0,149,32,19,200
+Naval Station 14,Naval and Air Service,Estret,Coastal station,0,123,0,14,137
+Naval Station 15,Naval and Air Service,Estret,Coastal station,0,118,0,11,129
+Naval Station 16,Naval and Air Service,Estret,Coastal station,0,101,0,9,110
+Naval Station 17,Naval and Air Service,Migjorn,Coastal station,0,122,31,16,169
+Naval Station 18,Naval and Air Service,Migjorn,Coastal station,0,119,0,11,130
+Naval Station 19,Naval and Air Service,Migjorn,Coastal station,0,97,0,9,106
+Naval Station 20,Naval and Air Service,Tramuntana,Coastal station,0,103,0,11,114
+Naval Station 21,Naval and Air Service,Tramuntana,Coastal station,0,79,0,6,85
+Naval Station 22,Naval and Air Service,Nurra,Coastal station,0,101,0,9,110
+Naval Station 23,Naval and Air Service,Nurra,Coastal station,0,81,0,6,87
+Naval Station 24,Naval and Air Service,Jala,Coastal station,0,99,0,9,108
+Naval Station 25,Naval and Air Service,Jala,Coastal station,0,82,0,6,88
+Naval Station 26,Naval and Air Service,Estret,Coastal station,0,101,0,9,110
+Naval Station 27,Naval and Air Service,Estret,Coastal station,0,79,0,6,85
+Naval Station 28,Naval and Air Service,Migjorn,Coastal station,0,83,0,6,89

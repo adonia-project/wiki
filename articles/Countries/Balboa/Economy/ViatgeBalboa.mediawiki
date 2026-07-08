@@ -1,0 +1,108 @@
+{{Infobox company
+| name          = ViatgeBalboa, S.A.
+| native_name   = {{native name|ca|ViatgeBalboa, S.A.|italic=no|paren=omit}}
+| logo          =
+| type          = {{w|Public company}}
+| traded_as     = {{ubl|SCX: BBA|[[Bolsa de Sant Cristòfor]]}}
+| industry      = {{w|Online travel agency|Online travel}} and {{w|local search|local search}}
+| founded       = 2008
+| founder       = {{ubl|[[Marta Riera i Cabré]]|[[David Okafor i Soler]]}}
+| headquarters  = [[Sant Cristòfor]], [[Balboa]]
+| areas_served  = {{ubl|[[Balboa]]|[[BTPMEU]]}}
+| key_people    = {{ubl|[[Marta Riera i Cabré]] (CEO)|[[David Okafor i Soler]] (CTO)}}
+| owner         = {{ubl|Riera family (12%)|Okafor family (9%)|[[Fons d'Inversió Directa de Balboa]] (5%)|public float (~74%)}}
+| num_employees = 650 (2026)
+| products      = {{ubl|Hotel and accommodation booking|Restaurant discovery and reviews|Attraction tickets|Transport booking|Business listings}}
+| revenue       = {{increase}}$95 million (2026)
+| operating_income = {{increase}}$12 million (2026)
+| net_income    = {{increase}}$8 million (2026)
+| assets        = {{increase}}$85 million (2026)
+| market_cap    = {{increase}}$310 million (2026)
+| website       =
+}}
+
+'''ViatgeBalboa, S.A.''' (SCX: BBA) is a Balboan {{w|online travel agency}} and {{w|local search|local search platform}} based in [[Sant Cristòfor]]. Founded in 2008, the company operates '''boaboa''' (boaboa.com), a platform that combines accommodation booking, restaurant discovery and reviews, attraction ticketing, and transport booking into a single application. Boaboa is the dominant domestic travel and local discovery platform in [[Balboa]], used by both international tourists and Balboan residents. The company is listed on the [[Bolsa de Sant Cristòfor]] under the ticker BBA and is a constituent of the [[SCX 100]] index.
+
+== History ==
+
+ViatgeBalboa was founded in 2008 by Marta Riera i Cabré, a software engineer who had previously worked for a Sant Cristòfor travel agency, and David Okafor i Soler, a web developer. The two founders identified that the Balboan tourism market lacked a domestic digital platform for accommodation booking and local discovery, with international platforms offering limited coverage of Balboan hotels, restaurants, and attractions.
+
+The platform launched in 2009 as boaboa.com, initially listing approximately 200 properties in Sant Cristòfor and Sant Bart. The founders secured partnerships with the [[Balboa Hotel Association]] and individual hotel operators, offering commission-based booking at rates below those charged by international platforms.
+
+In 2011, boaboa added a restaurant discovery and review feature, modelled on user-generated review platforms but adapted to the Balboan market. The feature allowed users to search for restaurants by location, cuisine, price range, and rating, and to read and write reviews. The restaurant feature expanded rapidly, as Balboa's growing tourism sector created demand for reliable local dining recommendations.
+
+Attraction ticketing was added in 2013, allowing users to purchase tickets for the [[Balboa Canal]] tours, museum entries, national park visits, and cultural events. Transport booking — including intercity bus tickets, ferry bookings, and domestic flight reservations — was added in 2015, making boaboa a comprehensive travel planning platform.
+
+The company was listed on the [[Bolsa de Sant Cristòfor]] in 2017, raising capital for platform expansion and BTPMEU market development. The listing valued the company at approximately $180 million.
+
+By the 2020s, boaboa had expanded its coverage to include listings across all five provinces, with approximately 3,200 accommodation partners, 8,500 restaurant listings, and 400 attraction and activity providers. The platform's user base reached approximately 4.2 million monthly active users in 2026, split between domestic users (approximately 60 per cent) and international visitors (approximately 40 per cent).
+
+== Naming dispute with the Ministry of Tourism ==
+
+In 2012, the [[Ministry of Tourism (Balboa)|Ministry of Tourism]] objected to the company's use of the name ViatgeBalboa, which the ministry had been using in its own international marketing campaigns to promote Balboa as a travel destination. The ministry argued that the name was too closely associated with the national tourism brand and that its commercial use by a private company created confusion among international visitors.
+
+The dispute was resolved in 2013, when the ministry and ViatgeBalboa reached an agreement under which the company retained the ViatgeBalboa name for its corporate identity and the boaboa brand for its platform, while the ministry adopted '''ViaBalboa''' as the branding for its own marketing campaigns and official tourism portal. The agreement also established a partnership under which boaboa would serve as the ministry's digital booking platform, integrating official tourism information, visitor centre resources, and government-licensed attraction tickets into the boaboa application.
+
+The partnership gave boaboa official status as the ministry's preferred digital platform, while the ministry retained control of destination marketing through the ViaBalboa brand. The arrangement has been cited as a model of public-private cooperation in the digital tourism sector, though critics have argued that it effectively granted boaboa a quasi-monopoly position in the domestic online travel market.
+
+== Platform ==
+
+=== Accommodation booking ===
+
+Boaboa's accommodation booking feature lists approximately 3,200 properties across Balboa, ranging from luxury hotels in Sant Cristòfor to guesthouses in the interior provinces. The platform operates on a {{w|commission (remuneration)|commission}} model, charging hotel operators a percentage of each booking value. The commission rate is typically 12 to 15 per cent, below the rates charged by international platforms, which has made boaboa the preferred booking channel for many domestic hotel operators.
+
+The platform's accommodation partners include:
+
+* [[Grup Pastel]] — the largest hotel operator in Balboa, with 42 properties listed on the platform
+* Independent hotels and guesthouses — particularly in the interior provinces, where international platforms offer limited coverage
+* [[Sinchew]]ese and [[Zong]]-owned hospitality properties in Sant Cristòfor and Portnou
+
+=== Restaurant discovery and reviews ===
+
+The restaurant discovery feature is ViatgeBalboa's most widely used function among domestic users. The platform lists approximately 8,500 restaurants, bars, and cafés across Balboa, searchable by location, cuisine, price range, and user rating. Users can write reviews, upload photos, and rate establishments on a five-point scale.
+
+The review system has become a significant influence on the Balboan restaurant industry, as a strong boaboa rating can drive tourist and local traffic to an establishment. The platform has been credited with raising the visibility of restaurants in the interior provinces and in neighbourhoods of Sant Cristòfor that were historically underrepresented in international guidebooks and travel platforms.
+
+=== Attraction ticketing ===
+
+Boaboa sells tickets for approximately 400 attractions and activities, including:
+
+* [[Balboa Canal]] tours and visitor centre entry
+* Museum entries, including the [[Museu Nacional de Balboa]]
+* National park visits, including the [[Yalabirga Mountain Range|Yalabirga]] highland reserves
+* Cultural events and festivals
+* [[IstmeLloguer]] car rental bookings — boaboa integrates with the IstmeLloguer booking system, allowing users to reserve rental vehicles through the platform
+
+=== Transport booking ===
+
+The transport booking feature allows users to purchase tickets for intercity bus services, ferry crossings, and domestic flights. The platform integrates with [[Ferrocarrils de l'Istme]] for rail tickets and with regional bus operators for intercity routes.
+
+== Users ==
+
+Boaboa's user base of approximately 4.2 million monthly active users is divided between two segments:
+
+* '''Domestic users''' (approximately 60 per cent) — Balboan residents using the platform primarily for restaurant discovery, local activity planning, and domestic travel booking. The restaurant review feature is the primary engagement driver for this segment.
+* '''International visitors''' (approximately 40 per cent) — tourists arriving primarily from Volisania, Breisland, Sanese, [[Kingdom of Zong|Zong]], and [[Burawa]], using the platform for accommodation booking, attraction ticketing, and restaurant recommendations. The platform's comprehensive coverage of Balboan establishments — particularly in the interior provinces where international platforms have limited listings — is the primary value proposition for this segment.
+
+The platform is available in Volisanian, [[Mercian language|Mercian]], Zong, and Sanese languages, with Volisanian as the primary interface language.
+
+== Business model ==
+
+Boaboa generates revenue through three streams:
+
+* '''Booking commissions''' — 12 to 15 per cent of accommodation booking value, approximately 55 per cent of total revenue
+* '''Attraction and transport ticketing fees''' — service fees on ticketed activities and transport, approximately 25 per cent of total revenue
+* '''Business listings and advertising''' — paid premium listings for restaurants and hotels, including featured placement and enhanced profile features, approximately 20 per cent of total revenue
+
+The platform does not charge users for access; all consumer-facing features are free.
+
+== See also ==
+
+* [[Economy of Balboa]]
+* [[Tourism in Balboa]]
+* [[Grup Pastel]]
+* [[IstmeLloguer]]
+
+[[Category:Companies of Balboa]]
+[[Category:Economy of Balboa]]
+[[Category:Technology companies]]

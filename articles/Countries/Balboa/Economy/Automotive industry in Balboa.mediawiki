@@ -1,0 +1,102 @@
+{{Infobox
+| title = Automotive industry in Balboa
+| bodystyle = width: 22em
+| label1 = Total vehicle fleet
+| data1 = ~5.5 million (2026)
+| label2 = New vehicle sales
+| data2 = ~95,000 per year (2026)
+| label3 = Used vehicle sales
+| data3 = ~180,000 per year (2026)
+| label4 = EV share of new sales
+| data4 = ~28% (2026)
+| label5 = Vehicles per 1,000 people
+| data5 = ~156 (2026)
+| label6 = Domestic assembly
+| data6 = {{w|Completely knocked down|CKD}} assembly (passenger); bodywork and assembly (buses/trucks)
+| label7 = Major brands
+| data7 = Sparc, CdV, BYD, Qhar, Yonezawa Motors, Vidal, SKQ
+| label8 = Major import origins
+| data8 = [[Volisania]], [[Varkana]], [[Okaiken]], [[Balisca]], [[Burawa]]
+}}
+
+The '''automotive industry in [[Balboa]]''' is primarily import-driven, with no domestic passenger car manufacturing. The market is supplied by vehicles imported from several countries, with some {{w|completely knocked down|CKD}} (completely knocked down) assembly of passenger vehicles and domestic bodywork and assembly of buses and trucks. The sector has seen rapid growth in {{w|electric vehicle}} adoption, driven by the country's low-cost electricity supply from nuclear and hydroelectric sources and the availability of affordable electric vehicles from [[Balisca]] and [[Burawa]].
+
+== Market overview ==
+
+Balboa's vehicle fleet stands at approximately 5.5 million vehicles (2026), or roughly 156 vehicles per 1,000 people — well below the average for upper-middle-income countries, reflecting the country's high income inequality (Gini coefficient 48.2), the concentration of wealth in [[Estret Province]], and the availability of public transit in major urban areas. Annual new vehicle sales total approximately 95,000 units, while the used vehicle market — dominated by secondary and tertiary purchases in the interior provinces — accounts for an additional approximately 180,000 transactions per year.
+
+The low vehicle ownership rate is a function of both affordability and geography. With a national median household income of approximately $6,500 and a GDP per capita (nominal) of $9,700, the purchase of even a low-cost electric vehicle — priced from approximately $8,000 for an entry-level [[SKQ]] model — represents a significant financial commitment for much of the population. The bottom 40 per cent of earners, who account for only 12 per cent of national income, are largely excluded from vehicle ownership. The middle class — approximately 35 per cent of the population, concentrated in [[Sant Cristòfor]], [[Sant Bart]], and [[Novara]] — constitutes the primary market for new vehicle purchases.
+
+== Vehicle ownership by region ==
+
+Vehicle ownership varies dramatically across Balboa's five provinces, reflecting disparities in income, urbanisation, and transit infrastructure:
+
+{| class="wikitable"
+|-
+! Province !! GDP per capita !! Population !! Vehicles per 1,000 !! Fleet (est.) !! Notes
+|-
+| [[Estret Province|Estret]] || $15,400 || 5.2M || ~280 || ~1.46M || Good transit suppresses ownership; EV share highest
+|-
+| [[Jala Province|Jala]] || $7,300 || 8.5M || ~180 || ~1.53M || Moderate transit in Sant Bart; mix of cheap EVs and used ICE
+|-
+| [[Nurra Province|Nurra]] || $5,600 || 4.5M || ~140 || ~0.63M || Limited transit; used cars dominate
+|-
+| [[Migjorn Province|Migjorn]] || $3,800 || 5.8M || ~90 || ~0.52M || Low income; very low ownership; mostly cheap used cars
+|-
+| [[Tramuntana Province|Tramuntana]] || $2,400 || 1.9M || ~70 || ~0.13M || Poorest province; minimal ownership; tertiary used market
+|}
+
+In [[Sant Cristòfor]], the comprehensive [[Metro de Sant Cristofor|metro system]] and bus network reduce the need for private vehicle ownership among much of the urban population. Households that do own vehicles in Estret Province skew toward electric vehicles, drawn by the city's charging infrastructure and the low operating costs made possible by Balboa's nuclear and hydroelectric electricity supply. EV penetration in Estret is the highest in the country.
+
+In the interior provinces, vehicle ownership is constrained by income rather than transit availability. In [[Tramuntana Province|Tramuntana]], where GDP per capita is $2,400 and the poverty rate exceeds 42 per cent, vehicle ownership is minimal and dominated by the tertiary used car market — vehicles that have passed through two or more previous owners before reaching the province. In [[Migjorn Province|Migjorn]] and [[Nurra Province|Nurra]], ownership rates are similarly depressed by low incomes, though the availability of cheap used internal combustion engine vehicles and, increasingly, second-hand electric vehicles from SKQ and Vidal has broadened access marginally.
+
+== Major brands ==
+
+=== Volisania ===
+
+Volisanian manufacturers dominate the conventional passenger vehicle segment. [[Sparc]] and [[CdV]] (Cotxes de Volisania) are the two principal Volisanian brands sold in Balboa, with established dealership networks in [[Sant Cristòfor]] and the major interior cities. Both brands offer a range of {{w|internal combustion engine}} vehicles and are in the early stages of introducing electric and plug-in hybrid models to the Balboan market. Sparc and CdV vehicles are concentrated in the Estret and Jala markets, where incomes are sufficient to support new vehicle purchases.
+
+=== Varkana ===
+
+[[BYD Auto]] (Varkana) is a significant player in the Balboan market, particularly in the electric vehicle and commercial vehicle segments. BYD's range of electric passenger cars, plug-in hybrids, and electric buses has been adopted by both private consumers and public transit operators. The company's electric bus models — the K8 and K9 — are widely used in the [[Sant Cristòfor]] public transit network and in other Balboan cities.
+
+[[Qhar]] (Varkana) is a Varkan fully electric automaker and a pioneer in electric automotive technology. Qhar's solid-state battery technology, developed in 2012, offers superior energy density, range, and cold-weather performance compared to conventional lithium-ion batteries. Qhar vehicles occupy the premium electric segment of the Balboan market, with availability concentrated in Estret Province and the highland cities of Sant Bart and Altaneu where the cold-weather performance of the solid-state batteries is a particular advantage. Qhar's niche positioning and limited availability outside Varkana and Mesogean markets make it a smaller but technologically significant presence in the Balboan EV market.
+
+=== Okaiken ===
+
+[[Yonezawa Motors]] (Okaiken) supplies a range of passenger vehicles, including sedans, hatchbacks, and SUVs. The brand is known for reliability and fuel efficiency and competes in the mid-range segment of the market. Yonezawa operates a CKD assembly facility in the [[Portnou]], assembling several models from imported kits for the domestic and BTPMEU market.
+
+=== Balisca ===
+
+[[Vidal]] (Balisca) is a Baliscan automotive cooperative and the largest producer of electric vehicles in the Baliscan Confederation. Vidal's battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs) have gained significant market share in Balboa due to their affordability, which is comparable to or lower than equivalent internal combustion engine vehicles from Volisanian manufacturers. The availability of cheap, clean electricity from Balboa's nuclear and hydroelectric plants makes Vidal's EVs particularly economical to operate. Vidal also supplies electric buses and trucks to Balboan transit operators.
+
+=== Burawa ===
+
+[[SKQ]] (Shirkada Motada Qaranka) is a Burawi state-owned automotive manufacturer that produces affordable electric vehicles for the Kaftian and export markets. SKQ's entry-level electric vehicles have rapidly gained market share in Balboa, particularly among first-time buyers and urban commuters, offering a price point below most competing brands. The combination of low purchase price and Balboa's cheap electricity makes SKQ vehicles among the most cost-effective to operate in the country. SKQ vehicles are the most common new vehicle purchase in the interior provinces, where they are often the only new vehicle within reach of middle-income households.
+
+== Electric vehicle adoption ==
+
+Electric vehicle adoption has accelerated significantly in the 2020s, driven by several factors:
+
+* The availability of low-cost electric vehicles from [[Vidal]] (Balisca) and [[SKQ]] (Burawa), which are priced competitively with internal combustion engine vehicles
+* Balboa's low electricity costs, resulting from the country's nuclear and hydroelectric generation capacity, which makes charging significantly cheaper than refuelling with imported petroleum
+* The [[1996 Adonian Community Edict on a Green Transition for the New Millennium]], which provides a policy framework for reducing transport emissions
+* Growing investment in charging infrastructure in Sant Cristòfor and along the canal corridor
+
+As of 2026, electric vehicles account for approximately 28 per cent of new vehicle sales, with the share expected to continue growing. The EV market is dominated by Vidal and SKQ at the affordable end, with BYD occupying the mid-range and premium segments. EV adoption is concentrated in Estret Province, where charging infrastructure is most developed and incomes are highest. In the interior provinces, EV adoption is limited to urban centres such as Sant Bart and Novara, where charging infrastructure is being deployed.
+
+The secondary market for electric vehicles is growing as early adopters in Estret trade up, creating a trickle of used EVs into the Jala and Nurra markets at prices accessible to a broader segment of the population.
+
+== Commercial vehicles ==
+
+Balboa has domestic bodywork and assembly capacity for buses and trucks, primarily serving the public transit and commercial logistics sectors. Imported chassis from BYD, Yonezawa, and other manufacturers are fitted with locally fabricated bodies at facilities in the [[Portnou]] and [[Sant Bart]]. The [[Sant Cristòfor]] public transit network operates a fleet of BYD electric buses assembled under this arrangement.
+
+== See also ==
+
+* [[Economy of Balboa]]
+* [[Energy in Balboa]]
+* [[BTPMEU]]
+* [[Portnou]]
+
+[[Category:Economy of Balboa]]
+[[Category:Automotive industry in Balboa]]

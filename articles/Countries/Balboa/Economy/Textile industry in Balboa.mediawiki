@@ -1,0 +1,110 @@
+{{Infobox
+| title = Textile industry in Balboa
+| bodystyle = width: 22em
+| label1 = Sector GDP share
+| data1 = ~3.5% of manufacturing GDP
+| label2 = Total employment
+| data2 = ~13,450 (2026)
+| label3 = Total revenue
+| data3 = ~$1.56 billion (2026)
+| label4 = Major hubs
+| data4 = {{ubl|[[Sant Bart]]|[[Sant Cristòfor]]|[[Badia Curta]]}}
+| label5 = Key feedstock source
+| data5 = [[Badia Curta]] chemical complex
+| label6 = Primary export market
+| data6 = [[BTPMEU]]
+| label7 = Cotton import source
+| data7 = [[Tapuya]]
+| label8 = Companies
+| data8 = 6 listed on [[Bolsa de Sant Cristòfor|SCX]]
+}}
+
+The '''textile industry in [[Balboa]]''' encompasses the production of synthetic fibers, fabrics, finished garments, performance textiles, and textile wet processing services. The industry is structured as a vertically integrated domestic supply chain, with petrochemical feedstocks from the [[Badia Curta]] chemical complex flowing through synthetic fiber production to fabric manufacturing and finishing. The industry is concentrated in [[Sant Bart]] and [[Sant Cristòfor]], with the upstream chemical feedstock stage located at Badia Curta in [[Jala Province|Jala]].
+
+== Structure ==
+
+The Balboan textile industry is organised in four stages, forming a vertical chain from chemical feedstocks to finished textile products:
+
+=== Upstream: Chemical feedstocks ===
+
+The industry's upstream foundation is the [[Badia Curta]] chemical complex, which supplies the petrochemical feedstocks required for synthetic fiber production. [[Companyia Química Occidental]] (CQO) produces {{w|purified terephthalic acid}} (PTA) and other intermediates, while [[CIEA]] supplies {{w|ethylene glycol}} (MEG), {{w|caprolactam}}, and {{w|acrylonitrile}}. These feedstocks are piped or railed to fiber producers within the complex and in Sant Bart. The integration of textile feedstock production with the broader Badia Curta petrochemical cluster gives the Balboan textile industry a cost advantage over import-dependent competitors, as feedstock transportation costs are minimised.
+
+[[Lycan (Company)|Lycan]] (SCX: LYC) operates at the upstream end of the synthetic fiber supply chain, producing {{w|polyester chip}}s and filaments from PTA and MEG sourced via pipeline from adjacent Badia Curta producers. Founded in 1979, Lycan was the first company to exploit the domestic feedstock advantage for textile-grade polyester production. The company supplies approximately 50 per cent of its chip output to external manufacturers, including [[Opal (Company)|Opal]], and processes the remainder into filaments and staple fiber for the textile industry. Lycan had a revenue of $360 million and 1,900 employees in 2026.
+
+=== Midstream: Synthetic fiber production ===
+
+[[Opal (Company)|Opal]] (SCX: OPA) is the principal synthetic fiber manufacturer, producing {{w|polyester}}, {{w|nylon}}, and {{w|acrylic fiber}} from Badia Curta feedstocks. Founded in 1986 and based in [[Sant Bart]], Opal supplies both domestic textile manufacturers and export markets across the [[BTPMEU]]. Approximately 55 per cent of Opal's output is exported to [[Tapuya]], [[Potocsí]], and [[Balisca]], with the remaining 45 per cent supplying domestic manufacturers. Opal had a revenue of $280 million and 1,400 employees in 2026.
+
+=== Downstream: Fabric manufacturing and garment assembly ===
+
+The downstream segment is dominated by two companies:
+
+[[Tèxtils Nacionals Balboa]] (SCX: TNB) is the largest domestic textile manufacturer, with origins dating to the 1860s Volisanian colonial cotton mills. TNB operates production facilities in [[Sant Cristòfor]] and [[Sant Bart]], manufacturing woven and knitted fabrics, home textiles, technical textiles, and finished garments. The company's history reflects the broader trajectory of the Balboan textile industry: originally cotton-based, it lost access to Volisanian colonial cotton supplies after the 1899 Zong separation, shifted to synthetic fibers, and merged back with its Volisanian counterpart in 1973. In recent decades, TNB has transitioned to a primarily {{w|contract manufacturer|contract manufacturing}} role, producing textiles and garments on behalf of international brands serving the BTPMEU market. TNB imports cotton primarily from [[Tapuya]]. The company had a revenue of $520 million and 5,200 employees in 2026.
+
+[[Horaci Eduard Molí]] (SCX: HEM) is an integrated textile mill founded in 1972, based in [[Sant Cristòfor]] with production facilities in [[Sant Bart]]. The company covers the full manufacturing chain from yarn spinning through weaving, knitting, dyeing, finishing, and garment assembly, sourcing synthetic fiber from [[Opal (Company)|Opal]] and [[Lycan (Company)|Lycan]]. HEM had a revenue of $190 million and 2,800 employees in 2026.
+
+=== Specialised: Performance fabrics ===
+
+[[Teixits Tècnics de Balboa]] (SCX: TTB) is a specialised performance fabric contract manufacturer founded in 1996 by a former TNB technical textiles division lead. TTB produces high-performance fabrics with functional properties — {{w|moisture-wicking|moisture management}}, {{w|breathable fabric|breathability}}, {{w|stretch fabric|stretch}}, {{w|ultraviolet|UV}} protection, {{w|flame retardant|flame resistance}}, and {{w|antimicrobial}} treatments — for international sportswear, outdoor, and industrial brands. The company holds an international patent on a proprietary moisture-transporting weave structure, developed in 2001, which is licensed exclusively to [[Grup Ella]]'s Gir and Massiu brands. TTB is 25 per cent owned by Grup Ella, a Volisanian clothing manufacturer, and exports worldwide through Grup Ella's retail networks. TTB had a revenue of $135 million and 1,100 employees in 2026.
+
+=== Services: Wet processing and finishing ===
+
+[[Acabats i Tints de Balboa]] (SCX: ATB) is a business-to-business wet processing and finishing company founded in 1984, based in [[Sant Bart]]. ATB provides {{w|dyeing}}, {{w|textile printing|printing}}, bleaching, washing, and chemical and mechanical finishing services for textile manufacturers that do not maintain their own wet processing facilities. The company sources dyes and processing chemicals from the [[Badia Curta]] chemical complex. Approximately 70 per cent of revenue is derived from domestic clients, with 30 per cent from BTPMEU-based manufacturers. ATB had a revenue of $72 million and 850 employees in 2026.
+
+== Supply chain ==
+
+The Balboan textile supply chain operates as follows:
+
+# Badia Curta chemical complex produces PTA, MEG, caprolactam, and acrylonitrile from petroleum feedstocks
+# [[Lycan (Company)|Lycan]] converts PTA and MEG into polyester chips and filaments
+# [[Opal (Company)|Opal]] converts chips and feedstocks into polyester, nylon, and acrylic fiber
+# [[Tèxtils Nacionals Balboa|TNB]] and [[Horaci Eduard Molí|HEM]] spin fiber into yarn, weave or knit into fabric, and assemble garments
+# [[Acabats i Tints de Balboa|ATB]] provides dyeing, printing, and finishing services for manufacturers without their own wet processing capacity
+# [[Teixits Tècnics de Balboa|TTB]] produces specialised performance fabrics with functional treatments for international brands
+
+Cotton, the one raw material not available domestically, is imported primarily from [[Tapuya]]. During the Zong Balboa period (1899–1973), when the rump state and Zong territory were separated, TNB's Zong-administered counterpart imported cotton from [[Sinchew]] and other Zong-associated sources, while the rump state operation continued importing from Tapuya.
+
+== Historical development ==
+
+=== Colonial origins (1860s–1899) ===
+
+The Balboan textile industry originated in the 1860s with the establishment of the Companyia Tèxtil Nacional de Volisania, a Volisanian colonial enterprise that operated {{w|cotton mill|cotton mills}} and weaving sheds across Balboa. Cotton was imported from Volisanian colonies in [[Tapuya]], and the company supplied textiles to both the domestic market and Volisanian colonial interests across the region. The industry was one of the largest industrial employers in the colony.
+
+=== Zong separation (1899–1973) ===
+
+The [[Second War of the Isthmus]] and the Treaty of San Llàtzer (1899) split the textile industry: the Companyia Tèxtil Nacional de Volisania was divided into a Zong-administered operation (Tèxtils Nacionals Balboa) and a rump state operation (Companyia Tèxtil Nacional). The Zong-administered operation lost access to Volisanian colonial cotton supplies from Tapuya and shifted to importing cotton from [[Sinchew]] and other Zong-associated sources, while also beginning the transition toward synthetic fiber processing. The rump state operation continued importing cotton from Tapuya and remained focused on traditional textile production.
+
+=== Reunification and synthetic transition (1973–1990s) ===
+
+The 1973 merger of Tèxtils Nacionals Balboa and Companyia Tèxtil Nacional reunited the industry under a single entity. The post-reunification period saw the deliberate development of a domestic synthetic fiber supply chain, driven by the Badia Curta chemical complex. [[Lycan (Company)|Lycan]] (1979) and [[Opal (Company)|Opal]] (1986) were founded to exploit the domestic feedstock advantage, replacing imported synthetic fibers with domestically produced polyester, nylon, and acrylic. [[Horaci Eduard Molí|HEM]] (1972) and [[Acabats i Tints de Balboa|ATB]] (1984) expanded the downstream manufacturing and processing capacity.
+
+=== BTPMEU and contract manufacturing (1998–present) ===
+
+The establishment of the [[BTPMEU]] in 1998 transformed the industry's market orientation. The common external tariff protected domestic textile production from cheaper non-union imports, while the free trade provisions opened export markets across the economic union. TNB transitioned from a brand-focused manufacturer to a primarily {{w|contract manufacturer|contract manufacturing}} role, producing textiles and garments for international brands seeking production capacity within the BTPMEU tariff area. [[Teixits Tècnics de Balboa|TTB]] (1996) was founded to serve the specialised performance fabric segment, attracting international sportswear brands and securing the Grup Ella investment.
+
+== Economic significance ==
+
+The textile industry contributes approximately 3.5 per cent of manufacturing GDP and employs approximately 13,450 people across six listed companies. The industry's significance lies less in its absolute size than in its vertical integration: the chain from Badia Curta petrochemical feedstocks through synthetic fiber production to finished garment assembly represents the most complete domestic processing chain in the Balboan manufacturing sector, and a model for the government's broader industrialisation strategy of capturing value added domestically rather than exporting raw materials.
+
+The industry is also a significant exporter within the BTPMEU, with Opal's fiber exports, TNB's contract manufacturing output, and TTB's performance fabric exports all directed primarily at the economic union market. TTB's relationship with Grup Ella extends the industry's reach beyond BTPMEU to worldwide markets through Volisanian retail networks.
+
+== Challenges ==
+
+The textile industry faces several structural challenges. The overvalued [[International Dollar]] makes Balboan textile products expensive relative to competitors in [[Sinchew]] and [[Tapuya]], where weaker currencies and lower labour costs support cheaper production. The [[Règim de compensació a l'exportació|negative tariff]] partially offsets this disadvantage for exports, but the industry remains dependent on the BTPMEU common external tariff for domestic market protection. Labour costs in Sant Bart and Sant Cristòfor are higher than in competing textile manufacturing centres in Tapuya and Potocsí, limiting the industry's competitiveness in commodity textile production.
+
+The industry has responded by focusing on higher-value segments — performance fabrics, technical textiles, and contract manufacturing for premium brands — where quality and proximity to the BTPMEU market matter more than price. The shift toward contract manufacturing has reduced the industry's brand presence but increased its stability, as international brands provide consistent demand and technical specifications.
+
+== See also ==
+
+* [[Economy of Balboa]]
+* [[Badia Curta]]
+* [[BTPMEU]]
+* [[Lycan (Company)|Lycan]]
+* [[Opal (Company)|Opal]]
+* [[Tèxtils Nacionals Balboa]]
+* [[Horaci Eduard Molí]]
+* [[Teixits Tècnics de Balboa]]
+* [[Acabats i Tints de Balboa]]
+
+[[Category:Economy of Balboa]]
+[[Category:Textile industry in Balboa]]
