@@ -341,7 +341,7 @@ Religiously pluralistic (no majority denomination):
 
 ### Aviation
 - Sant Cristòfor International Airport: primary gateway + Lurandia transit hub; ~18M pax/year; Aeroístmus hub
-- Sant Bart Airport: domestic + regional
+- Cecilio Ríos International Airport (SBT/SBIB): domestic + international, Sant Bart, Jala Province
 - Novara Airport: domestic + regional
 - Smaller airfields: interior provinces + Shendan coast
 - Aeroístmus = national flag carrier — INVENTED NAME
