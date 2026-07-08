@@ -1,0 +1,216 @@
+{{Infobox rail line
+| box_width        = 300px
+| name             = Line A
+| system           = CristoCarril
+| operator         = [[Intercon]]
+| type             = Commuter rail
+| status           = Operating
+| start            = [[Barcelona Main Station]] ([[Sant Cristòfor]])
+| end              = [[Estació Central de Portnou]] ([[Portnou]])
+| stations         = 16
+| linelength_km    = 83.3
+| daily_ridership  = 62,990 (2025)
+| owner            = [[Intercon]]
+| character        = Heavy rail
+| electrification  = 25 kV AC overhead
+| gauge            = {{Track gauge|sg|allk=on}}
+| speed_km/h       = 120
+| map              = {{Routemap
+|title = Line A route diagram
+|title-bg = #27404E
+|legend = route
+|map =
+~~km~~ ~~ ~~Short~~ ~~ ~~Express~~ ~~ ~~Local~~
+KBHFa~~0~~[[Barcelona Main Station]]~~●~~ ~~ ~~●~~ ~~ ~~●~~
+BHF~~1.8~~[[Dàrsena Nord]]~~●~~ ~~ ~~●~~ ~~ ~~●~~
+BHF~~4.0~~[[Dàrsena Centre]]~~●~~ ~~ ~~●~~ ~~ ~~●~~
+BHF~~6.9~~[[Dàrsena Sud]]~~●~~ ~~ ~~●~~ ~~ ~~●~~
+BHF~~10.9~~[[Mare de Déu del Mar (CristoCarril)|Mare de Déu del Mar]]~~●~~ ~~ ~~●~~ ~~ ~~●~~
+BHF~~15.3~~[[Platja de Mare de Déu]]~~●~~ ~~ ~~ ~~ ~~●~~
+BHF~~22.7~~[[Els Pins]]~~●~~ ~~ ~~ ~~ ~~●~~
+BHF~~25.9~~[[La Calma]]~~●~~ ~~ ~~ ~~ ~~●~~
+KBHFe~~31.2~~[[Mare de Déu Sud]]~~●~~ ~~ ~~ ~~ ~~●~~
+BHF~~38.8~~[[Costa Serena (CristoCarril)|Costa Serena]]~~ ~~ ~~ ~~ ~~ ~~●~~
+BHF~~50.4~~[[Pla dels Horts (CristoCarril)|Pla dels Horts]]~~ ~~ ~~ ~~ ~~ ~~●~~
+BHF~~56.5~~[[Sant Mateu (CristoCarril)|Sant Mateu]]~~ ~~ ~~ ~~ ~~ ~~●~~
+BHF~~63.5~~[[L'Encreuament (CristoCarril)|L'Encreuament]]~~ ~~ ~~ ~~ ~~ ~~●~~
+BHF~~74.5~~[[Aeroport de Portnou]]~~ ~~ ~~ ~~●~~ ~~ ~~●~~
+BHF~~78.6~~[[El Coll Oest]]~~ ~~ ~~ ~~ ~~ ~~●~~
+KBHFe~~83.3~~[[Estació Central de Portnou]]~~ ~~ ~~●~~ ~~ ~~●~~
+}}
+}}
+
+'''Line A''' of the [[CristoCarril]] (CC) system is a commuter rail line operated by [[Intercon]] that runs on the [[Coastal Line]] corridor between [[Barcelona Main Station]] in [[Sant Cristòfor]] and the [[Estació Central de Portnou]] in [[Portnou]]. The line is the longest CristoCarril route, covering 83.3 km and serving 16 stations across three comarcas — [[Sant Cristòfor (comarca)|Sant Cristòfor]], [[Cumará (comarca)|Cumará]], and [[Marjal del Canal (comarca)|Marjal del Canal]] — before terminating at Portnou.
+
+Line A follows the Shendan coast southward from the Barcelona terminal on the [[Península de la Barcelona]], through the western suburbs of Sant Cristòfor, the coastal municipalities of Cumará, and the canal corridor municipalities of Marjal del Canal. The line shares the Coastal Line tracks with [[Rodalies de Portnou]] Line 1, which provides local services within the Portnou metropolitan area.
+
+== Route ==
+
+=== Sant Cristòfor ===
+
+Line A begins at [[Barcelona Main Station]] on the [[Península de la Barcelona]], the southern terminal serving the Barcelona [[Ciutats of Sant Cristòfor|ciutat]] and the surrounding western districts. From Barcelona, the line heads south through three stations in the [[Dàrsena (ciutat)|Dàrsena]] ciutat — [[Dàrsena Nord]], [[Dàrsena Centre]], and [[Dàrsena Sud]] — serving the suburban middle-class western neighbourhoods of the district. The line then enters [[Mare de Déu del Mar (ciutat)|Mare de Déu del Mar]], the affluent beachfront ciutat, where it serves five stations: [[Mare de Déu del Mar (CristoCarril)|Mare de Déu del Mar]], [[Platja de Mare de Déu]], [[Els Pins]], [[La Calma]], and [[Mare de Déu Sud]]. The nine stations within Sant Cristòfor cover the western coastal suburbs of the city, serving both residential and beachfront communities.
+
+=== Cumará ===
+
+After leaving Sant Cristòfor, Line A enters the [[Cumará (comarca)|Cumará comarca]], serving two municipalities along the coast. [[Costa Serena]] is a wealthy coastal exurb with gated communities and a private university, while [[Pla dels Horts, Cumará, Estret|Pla dels Horts]] is a semi-rural suburban municipality with scattered settlements. These stations provide commuter connections to Sant Cristòfor for the residents of the Cumará coast.
+
+=== Marjal del Canal ===
+
+The line enters the [[Marjal del Canal (comarca)|Marjal del Canal comarca]] at [[Sant Mateu, Marjal del Canal, Estret|Sant Mateu]], a commuter town near the Riu Burutí on the comarca's northern border. The next station is [[L'Encreuament, Marjal del Canal, Estret|L'Encreuament]], a railway junction where the Coastal Line and [[Portnou Line]] cross. In [[Les Drassanes]], Line A stops only at [[Aeroport de Portnou]] station, adjacent to the terminal at [[Portnou International Airport]]. The other stations in Les Drassanes — [[Drassanes Nord]] and [[Les Drassanes (CristoCarril)|Les Drassanes]] — are served by [[Rodalies de Portnou]] Line 1, which provides local services on the same Coastal Line tracks.
+
+=== Portnou ===
+
+After passing through Les Drassanes, Line A enters [[Portnou]], stopping at [[El Coll Oest]] in the northwestern neighbourhood of [[El Coll]] before terminating at the [[Estació Central de Portnou]], the city's principal rail hub. The stations between El Coll Oest and the Estació Central are served by Rodalies de Portnou Line 1.
+
+== Stations ==
+
+{| class="wikitable sortable"
+|-
+! # !! Station !! Ciutat / Municipality !! Comarca !! Distance (km) !! Travel time !! Daily boardings (2025)
+|-
+| 1 || [[Barcelona Main Station]] || [[Barcelona (ciutat)|Barcelona]] || [[Sant Cristòfor (comarca)|Sant Cristòfor]] || 0.0 || — || 11,830
+|-
+| 2 || [[Dàrsena Nord]] || [[Dàrsena (ciutat)|Dàrsena]] || Sant Cristòfor || 1.8 || 3 min || 4,890
+|-
+| 3 || [[Dàrsena Centre]] || Dàrsena || Sant Cristòfor || 4.0 || 6 min || 5,120
+|-
+| 4 || [[Dàrsena Sud]] || Dàrsena || Sant Cristòfor || 6.9 || 10 min || 4,480
+|-
+| 5 || [[Mare de Déu del Mar (CristoCarril)|Mare de Déu del Mar]] || [[Mare de Déu del Mar (ciutat)|Mare de Déu del Mar]] || Sant Cristòfor || 10.9 || 14 min || 6,760
+|-
+| 6 || [[Platja de Mare de Déu]] || Mare de Déu del Mar || Sant Cristòfor || 15.3 || 19 min || 2,700
+|-
+| 7 || [[Els Pins]] || Mare de Déu del Mar || Sant Cristòfor || 22.7 || 26 min || 2,330
+|-
+| 8 || [[La Calma]] || Mare de Déu del Mar || Sant Cristòfor || 25.9 || 30 min || 2,000
+|-
+| 9 || [[Mare de Déu Sud]] || Mare de Déu del Mar || Sant Cristòfor || 31.2 || 35 min || 1,840
+|-
+| 10 || [[Costa Serena (CristoCarril)|Costa Serena]] || [[Costa Serena]] || [[Cumará (comarca)|Cumará]] || 38.8 || 43 min || 1,620
+|-
+| 11 || [[Pla dels Horts (CristoCarril)|Pla dels Horts]] || [[Pla dels Horts, Cumará, Estret|Pla dels Horts]] || Cumará || 50.4 || 53 min || 1,250
+|-
+| 12 || [[Sant Mateu (CristoCarril)|Sant Mateu]] || [[Sant Mateu, Marjal del Canal, Estret|Sant Mateu]] || [[Marjal del Canal (comarca)|Marjal del Canal]] || 56.5 || 59 min || 410
+|-
+| 13 || [[L'Encreuament (CristoCarril)|L'Encreuament]] || [[L'Encreuament, Marjal del Canal, Estret|L'Encreuament]] || Marjal del Canal || 63.5 || 66 min || 320
+|-
+| 14 || [[Aeroport de Portnou]] || [[Les Drassanes]] || Marjal del Canal || 74.5 || 75 min || 5,950
+|-
+| 15 || [[El Coll Oest]] || [[El Coll]] ([[Portnou]]) || Marjal del Canal || 78.6 || 80 min || 1,990
+|-
+| 16 || [[Estació Central de Portnou]] || [[Portnou]] || Marjal del Canal || 83.3 || 85 min || 9,500
+|-
+! colspan="5" | Total || || 62,990
+|}
+
+== Service pattern ==
+
+Line A operates three service patterns between [[Sant Cristòfor]] and [[Portnou]]:
+
+{| class="wikitable"
+|-
+! Service !! Stops !! Stations served !! Travel time
+|-
+| '''Short''' || All stops 1–9 || Barcelona Main Station to Mare de Déu Sud || ~35 min
+|-
+| '''Express''' || 1, 2, 3, 4, 5, 14, 16 || Barcelona Main Station to Estació Central de Portnou, skipping intermediate stations || ~71 min
+|-
+| '''Local''' || All stops 1–16 || Barcelona Main Station to Estació Central de Portnou || ~85 min
+|}
+
+The '''short''' service operates entirely within [[Sant Cristòfor]], running from Barcelona Main Station through the western ciutats to Mare de Déu Sud. This is the most frequent service, providing high-capacity commuter rail for the suburban corridors of [[Dàrsena (ciutat)|Dàrsena]] and [[Mare de Déu del Mar (ciutat)|Mare de Déu del Mar]].
+
+The '''express''' service provides the fastest connection between Sant Cristòfor and Portnou, stopping at the first five stations in Sant Cristòfor before running non-stop to [[Aeroport de Portnou]] and the [[Estació Central de Portnou]]. The express skips all stations in [[Cumará (comarca)|Cumará]] and the outer [[Marjal del Canal (comarca)|Marjal del Canal]] municipalities, reducing the end-to-end journey to approximately 71 minutes. The express is primarily used by airport passengers and long-distance commuters between the two cities.
+
+The '''local''' service stops at all 16 stations along the full 83.3 km route, with an end-to-end journey time of approximately 85 minutes. The local provides the only CristoCarril service to the intermediate stations in Cumará (Costa Serena, Pla dels Horts) and the outer Marjal del Canal municipalities ([[Sant Mateu, Marjal del Canal, Estret|Sant Mateu]], [[L'Encreuament, Marjal del Canal, Estret|L'Encreuament]]). Within [[Les Drassanes]], the local stops only at [[Aeroport de Portnou]]; the stations [[Drassanes Nord]] and [[Les Drassanes (CristoCarril)|Les Drassanes]] are served by [[Rodalies de Portnou]] Line 1 on the same Coastal Line tracks. In the Portnou area, the local stops at [[El Coll Oest]] before terminating at the Estació Central de Portnou, with intermediate stations served by Rodalies Line 1.
+
+== Schedule ==
+
+Line A operates from approximately 5:00 AM to 12:30 AM daily. Frequencies vary by service pattern and time of day:
+
+{| class="wikitable"
+|-
+! Service !! Peak (7–10 AM, 4–7 PM) !! Off-peak (daytime) !! Evening (after 8 PM) !! Weekend
+|-
+| '''Short''' || every 10 min || every 15 min || every 20 min || every 20 min (daytime), every 30 min (evening)
+|-
+| '''Express''' || every 20 min || every 30 min || every 60 min || every 30 min (daytime), every 60 min (evening)
+|-
+| '''Local''' || every 30 min || every 60 min || every 90 min || every 60 min (daytime), every 90 min (evening)
+|}
+
+The short service is the most frequent, reflecting the high commuter demand within the Sant Cristòfor western suburbs. The express provides a regular connection between the two cities and the airport, with reduced evening and weekend frequency. The local is the least frequent, reflecting the lower ridership at the intermediate stations in Cumará and outer Marjal del Canal. Combined, the three services provide up to 12 trains per hour on the inner section between Barcelona Main Station and Mare de Déu del Mar during peak periods.
+
+== Fares ==
+
+Line A uses the [[Tarifa Integrada]] zonal fare system, which is shared across the CristoCarril network and integrated with the [[Metro de Sant Cristòfor]] and [[Rodalies de Portnou]] systems. The line crosses four fare zones:
+
+{| class="wikitable"
+|-
+! Zone !! Stations !! Fare (B$)
+|-
+| 1 || Barcelona Main Station to Dàrsena Sud (stations 1–4) || 2.50
+|-
+| 2 || Mare de Déu del Mar to Mare de Déu Sud (stations 5–9) || 3.75
+|-
+| 3 || Costa Serena to L'Encreuament (stations 10–13) || 5.25
+|-
+| 4 || Aeroport de Portnou to Estació Central de Portnou (stations 14–16) || 6.50
+|}
+
+Fares are calculated based on the number of zones travelled through. Passengers using a [[Tarifa Integrada]] smart card receive free transfers to connecting metro, streetcar, and Rodalies services within a 90-minute window. Concession fares (half price) are available to seniors, students, and children under 12. Children under 5 travel free. Monthly and weekly passes are available with discounts of up to 40% off the single-ride fare.
+
+== Route diagram ==
+
+{| class="wikitable"
+|-
+! # !! Station !! km !! Short !! Express !! Local
+|-
+! 1 || [[Barcelona Main Station]] || 0.0 || ● || ● || ●
+|-
+! 2 || [[Dàrsena Nord]] || 1.8 || ● || ● || ●
+|-
+! 3 || [[Dàrsena Centre]] || 4.0 || ● || ● || ●
+|-
+! 4 || [[Dàrsena Sud]] || 6.9 || ● || ● || ●
+|-
+! 5 || [[Mare de Déu del Mar (CristoCarril)|Mare de Déu del Mar]] || 10.9 || ● || ● || ●
+|-
+! 6 || [[Platja de Mare de Déu]] || 15.3 || ● || &#124; || ●
+|-
+! 7 || [[Els Pins]] || 22.7 || ● || &#124; || ●
+|-
+! 8 || [[La Calma]] || 25.9 || ● || &#124; || ●
+|-
+! 9 || [[Mare de Déu Sud]] || 31.2 || ● || &#124; || ●
+|-
+! 10 || [[Costa Serena (CristoCarril)|Costa Serena]] || 38.8 || &#124; || &#124; || ●
+|-
+! 11 || [[Pla dels Horts (CristoCarril)|Pla dels Horts]] || 50.4 || &#124; || &#124; || ●
+|-
+! 12 || [[Sant Mateu (CristoCarril)|Sant Mateu]] || 56.5 || &#124; || &#124; || ●
+|-
+! 13 || [[L'Encreuament (CristoCarril)|L'Encreuament]] || 63.5 || &#124; || &#124; || ●
+|-
+! 14 || [[Aeroport de Portnou]] || 74.5 || &#124; || ● || ●
+|-
+! 15 || [[El Coll Oest]] || 78.6 || &#124; || &#124; || ●
+|-
+! 16 || [[Estació Central de Portnou]] || 83.3 || &#124; || ● || ●
+|-
+! !! !! Travel time !! ~35 min !! ~71 min !! ~85 min
+|}
+
+'''Legend:''' ● — service stops &#124; — service passes through
+
+== See also ==
+
+* [[CristoCarril]]
+* [[Coastal Line]]
+* [[Rodalies de Portnou]]
+* [[Barcelona (ciutat)]]
+* [[Portnou]]
+* [[Marjal del Canal (comarca)]]
+
+{{CristoCarril lines}}
+{{Estret Province comarcas}}
