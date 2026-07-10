@@ -1,0 +1,143 @@
+<onlyinclude>{| style="width:100%; border-collapse:collapse; background:#faf8f2; border:1px solid #d4c9a8; margin:0 auto;"
+|-
+| style="padding:0;" |
+<div style="text-align:center; padding:12px 0 4px 0; border-bottom:3px double #1a1a2e;">
+[[File:Okami Times.svg|800px|center|link=The Okami Times]]
+<div style="font-family:Georgia,serif; font-size:11px; color:#666; letter-spacing:2px; margin-top:2px;">ESTABLISHED 1947 · OKAMI, OKAIKEN</div>
+<div style="font-family:Georgia,serif; font-size:14px; color:#1a1a2e; margin-top:6px; font-weight:bold;">{{{date}}}, {{{era}}}</div>
+<div style="font-family:Georgia,serif; font-size:10px; color:#888; margin-top:2px;">{{{edition_note|Morning Edition}}}</div>
+</div>
+|-
+| style="padding:8px 16px;" |
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">HEADLINES</span>
+</div>
+{{{headlines}}}
+|-
+| style="padding:8px 16px;" |
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">NATIONAL NEWS</span>
+</div>
+{{{national}}}
+|-
+| style="padding:8px 16px;" |
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">ENTERTAINMENT</span>
+</div>
+{{{entertainment}}}
+|-
+| style="padding:8px 16px;" |
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">INTERNATIONAL</span>
+</div>
+{{{international}}}
+|-
+| style="padding:8px 16px;" |
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">SPORTS</span>
+</div>
+{{{sports}}}
+|-
+{{#if:{{{worldcup|}}}|<tr><td style="padding:8px 16px;">
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">2026 AFA WORLD CUP</span>
+</div>
+{{{worldcup}}}
+</td></tr>}}
+|-
+| style="padding:8px 16px;" |
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">EDITORIAL & OPINION</span>
+</div>
+{{{editorial}}}
+|-
+| style="padding:8px 16px;" |
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">OKAMI REGION</span>
+</div>
+{{{okami}}}
+|-
+| style="padding:8px 16px;" |
+<div style="border-bottom:1px solid #d4c9a8; padding-bottom:4px; margin-bottom:8px;">
+<span style="font-family:Georgia,serif; font-size:18px; font-weight:bold; color:#1a1a2e; border-bottom:2px solid #c9a84c; padding-bottom:2px;">REGIONAL</span>
+</div>
+{{{regional}}}
+|-
+| style="padding:4px 16px 8px 16px; text-align:center; border-top:3px double #1a1a2e;" |
+<div style="font-family:Georgia,serif; font-size:9px; color:#888; letter-spacing:1px;">© 2026 OKAMI TIMES MEDIA GROUP · ALL RIGHTS RESERVED</div>
+|}</onlyinclude><noinclude>
+
+This template formats daily editions of ''The Okami Times'' as a newspaper-style page with masthead, section headers, and broadsheet styling.
+
+==Usage==
+<pre>
+{{The Okami Times edition
+| date = 10 June 2026
+| era = Jutsu 15
+| edition_note = Morning Edition
+| headlines = 
+'''Headline 1'''
+Story text...
+
+| entertainment = 
+'''Headline'''
+Story text...
+
+| international = 
+'''Headline'''
+Story text...
+
+| sports = 
+'''Headline'''
+Story text...
+
+| worldcup = 
+'''Headline'''
+Story text... (2026 AFA World Cup — 14 June to 15 July; omit outside tournament)
+
+| editorial = 
+'''Editorial Title'''
+Editorial text...
+
+'''Columnist Name — Column Title'''
+Column text...
+
+| okami = 
+;Okami / Matsushika-ku
+'''Headline''' — Story text.
+
+;Okami / Chiyoda-ku
+'''Headline''' — Story text.
+
+| regional = 
+;Noto / Ohara
+'''Headline''' — Story text.
+
+;Ehime / Onan
+'''Headline''' — Story text.
+}}
+</pre>
+
+==Parameters==
+* '''date''' (required): Publication date, e.g. "10 June 2026"
+* '''era''' (required): Jutsu era date, e.g. "Jutsu 15"
+* '''edition_note''' (optional): Edition type, defaults to "Morning Edition"
+* '''headlines''' (required): Front-page stories
+* '''entertainment''' (optional): Entertainment and culture
+* '''international''' (optional): International news
+* '''sports''' (optional): Sports stories
+* '''worldcup''' (conditional): 2026 AFA World Cup coverage — only renders if parameter is provided; use during tournament (14 June – 15 July 2026)
+* '''editorial''' (required): Editorials, columns, and opinion pieces — left-leaning editorial voice
+* '''okami''' (required): Okami Metropolis and Okami Region local news — 3-5 items with location subheaders
+* '''regional''' (optional): Regional news briefs — use location subheaders (;Prefecture / City)
+
+==Regional Formatting==
+Regional items use semicolon subheaders for location instead of inline tags:
+<pre>
+;Prefecture / City
+'''Headline''' — Story text.
+</pre>
+NOT: '''Headline''' — Story text. [Prefecture/City]
+
+[[Category:The Okami Times| Edition]]
+</noinclude>

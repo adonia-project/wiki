@@ -1,0 +1,150 @@
+<onlyinclude>{| style="width:100%; border-collapse:collapse; background:#ede9e0; border:2px solid #3a2a1a; margin:0 auto;"
+|-
+| style="padding:0;" |
+<div style="border-bottom:4px double #3a2a1a; background:linear-gradient(180deg, #f5f2ec 0%, #ede9e0 100%); padding:0;">
+{| style="width:100%; border-collapse:collapse;"
+| style="width:180px; padding:12px 8px 12px 16px; vertical-align:middle; text-align:center;" |
+[[File:Toyozawa Mainichi.svg|160px|center|link=Toyozawa Mainichi]]
+| style="padding:10px 16px 10px 8px; vertical-align:middle;" |
+<div style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:28px; font-weight:bold; color:#2c1810; letter-spacing:1px; line-height:1.1;">THE TOYOZAWA MAINICHI</div>
+<div style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:12px; color:#5a4a3a; letter-spacing:3px; margin-top:3px;">豊沢毎日 · ESTABLISHED 1935</div>
+<div style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:10px; color:#7a6a5a; margin-top:6px; letter-spacing:0.5px;">THE FORGE · NATION'S KITCHEN · CITY OF TEMPLES · TOYOZAWA, OKAIKEN</div>
+<div style="margin-top:6px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:13px; color:#2c1810; font-weight:bold;">{{{date}}}, {{{era}}}</span>
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:10px; color:#7a6a5a; margin-left:10px;">{{{edition_note|Morning Edition}}}</span>
+</div>
+|}</div>
+|-
+| style="padding:10px 18px;" |
+<div style="border-bottom:2px solid #3a2a1a; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#2c1810; letter-spacing:1px;">HEADLINES</span>
+</div>
+{{{headlines}}}
+|-
+| style="padding:10px 18px;" |
+<div style="border-bottom:2px solid #3a2a1a; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#2c1810; letter-spacing:1px;">NATIONAL NEWS</span>
+</div>
+{{{national}}}
+|-
+| style="padding:10px 18px;" |
+<div style="border-bottom:2px solid #3a2a1a; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#2c1810; letter-spacing:1px;">ENTERTAINMENT</span>
+</div>
+{{{entertainment}}}
+|-
+| style="padding:10px 18px;" |
+<div style="border-bottom:2px solid #3a2a1a; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#2c1810; letter-spacing:1px;">INTERNATIONAL</span>
+</div>
+{{{international}}}
+|-
+| style="padding:10px 18px;" |
+<div style="border-bottom:2px solid #3a2a1a; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#2c1810; letter-spacing:1px;">SPORTS</span>
+</div>
+{{{sports}}}
+|-
+{{#if:{{{worldcup|}}}|<tr><td style="padding:10px 18px;">
+<div style="border-bottom:2px solid #3a2a1a; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#2c1810; letter-spacing:1px;">2026 AFA WORLD CUP</span>
+</div>
+{{{worldcup}}}
+</td></tr>}}
+|-
+| style="padding:10px 18px; background:#f5f2ec;" |
+<div style="border-bottom:2px solid #8b6914; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#3a2a1a; letter-spacing:1px;">EDITORIAL & OPINION</span>
+</div>
+{{{editorial}}}
+|-
+| style="padding:10px 18px; background:#f5f2ec;" |
+<div style="border-bottom:2px solid #8b6914; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#3a2a1a; letter-spacing:1px;">TOYOZAWA</span>
+</div>
+{{{toyozawa}}}
+|-
+| style="padding:10px 18px;" |
+<div style="border-bottom:2px solid #3a2a1a; padding-bottom:6px; margin-bottom:10px;">
+<span style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:22px; font-weight:bold; color:#2c1810; letter-spacing:1px;">REGIONAL</span>
+</div>
+{{{regional}}}
+|-
+| style="padding:6px 18px 10px 18px; text-align:center; border-top:4px double #3a2a1a;" |
+<div style="font-family:'Palatino Linotype','Book Antiqua',Palatino,serif; font-size:9px; color:#7a6a5a; letter-spacing:1px;">© 2026 TOYOZAWA MAINICHI PUBLISHING COMPANY · ALL RIGHTS RESERVED</div>
+|}</onlyinclude><noinclude>
+
+This template formats daily editions of ''The Toyozawa Mainichi'' as a newspaper-style page with a side-by-side masthead, section headers, and broadsheet styling. The masthead features the portrait logo on the left with Toyozawa identity elements on the right.
+
+==Usage==
+<pre>
+{{Toyozawa Mainichi edition
+| date = 9 June 2026
+| era = Jutsu 15
+| edition_note = Morning Edition
+| headlines = 
+'''Headline 1'''
+Story text...
+
+| entertainment = 
+'''Headline'''
+Story text...
+
+| international = 
+'''Headline'''
+Story text...
+
+| sports = 
+'''Headline'''
+Story text...
+
+| worldcup = 
+'''Headline'''
+Story text... (2026 AFA World Cup — 14 June to 15 July; omit outside tournament)
+
+| editorial = 
+'''Editorial Title'''
+Editorial text...
+
+'''Columnist Name — Column Title'''
+Column text...
+
+| toyozawa = 
+'''Headline'''
+Story text...
+
+| regional = 
+'''[Prefecture/City]'''
+'''Headline''' — Story text.
+
+}}
+</pre>
+
+==Parameters==
+* '''date''' (required): Publication date, e.g. "9 June 2026"
+* '''era''' (required): Jutsu era date, e.g. "Jutsu 15"
+* '''edition_note''' (optional): Edition type, defaults to "Morning Edition"
+* '''headlines''' (required): Front-page stories
+* '''entertainment''' (optional): Entertainment and culture
+* '''international''' (optional): International news
+* '''sports''' (optional): Sports stories
+* '''worldcup''' (conditional): 2026 AFA World Cup coverage — only renders if parameter is provided; use during tournament (14 June – 15 July 2026)
+* '''editorial''' (required): Editorials, columns, and opinion pieces — the Mainichi's signature section
+* '''toyozawa''' (required): Toyozawa city and metropolis news — the paper's home section
+* '''regional''' (optional): Regional news briefs with location subheaders
+
+==Design Notes==
+The Toyozawa Mainichi uses a distinct visual identity from the Okami Times:
+* '''Masthead layout:''' Side-by-side — portrait logo (160px) on the left, paper identity on the right. The right column displays the paper name, Japanese name (豊沢毎日), establishment date, and Toyozawa identity tags (The Forge · Nation's Kitchen · City of Temples).
+* '''Font:''' Palatino Linotype (vs. Georgia) — a more authoritative, industrial book-face serif
+* '''Section headers:''' 22px bold with letter-spacing (vs. 18px) — larger, more commanding
+* '''Header style:''' Thick solid border under section names (vs. gold underline) — heavier, more serious
+* '''Background:''' #ede9e0 with gradient masthead (vs. flat #faf8f2) — warmer, more industrial
+* '''Borders:''' 2px solid #3a2a1a (vs. 1px) — heavier frame
+* '''Editorial section:''' Light background (#f5f2ec) with gold border to visually distinguish the signature opinion section
+* '''Toyozawa section:''' Same light background (#f5f2ec) with gold border — the paper's home city section, placed after Editorial
+* '''Regional section:''' Location subheaders in bold (e.g. '''[Noto/Ohara]''') above each brief, rather than embedded in the headline
+* '''Colour palette:''' Darker earth tones (#3a2a1a, #2c1810, #8b6914) — industrial Toyozawa heritage
+
+[[Category:Toyozawa Mainichi| Edition]]
+</noinclude>
