@@ -1,0 +1,58 @@
+{{Infobox airport
+| name         = Sant Llàtzer International Airport
+| nativename   = {{native name|ca|Aeroport Internacional de Sant Llàtzer|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = SLZ
+| ICAO         = SLIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Sant Llàtzer]]
+| location     = [[El Delta|El Delta comarca]], [[Migjorn Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|0|22|S|93|39|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 1,800,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Sant Llàtzer International Airport''' ({{lang|ca|Aeroport Internacional de Sant Llàtzer}}; [[IATA airport code|IATA]]: SLZ, [[ICAO airport code|ICAO]]: SLIB) is an international airport serving [[Sant Llàtzer]], the capital of [[Migjorn Province]], [[Balboa]]. The airport is located in the [[El Delta]] comarca on the [[Aethiopian Ocean]] coast and serves as the Aethiopian terminus of the [[Balboa Canal|canal]]. It is the third-busiest airport in Balboa by passenger volume. The airport handles both domestic and international traffic, with [[Sinchew Air]] operating services to [[Tamsui]] and [[Aeroístmus]] serving the airport from [[Cecilio Ríos International Airport|Sant Bart]].
+
+== Airlines and destinations ==
+
+=== Domestic ===
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|-
+| [[RapidAir (Balboa)|RapidAir]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|}
+
+=== International ===
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Sinchew Air]] || [[Tamsui International Airport|Tamsui]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Migjorn Province]]
+* [[Balboa Canal]]

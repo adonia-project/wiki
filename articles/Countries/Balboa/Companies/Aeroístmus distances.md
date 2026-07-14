@@ -60,21 +60,23 @@ Distances in this table use airport coordinates provided for the Sanrobonian net
 | Kutawaringin | Marowa Sangaji International Airport | -122.5829, 19.0907 | 3,694 km | 4h 30min | Daily from SCI; A321 |
 | Sayara-Tanjung Emasan | Sayamas International Airport | -115.6256, 33.8954 | 4,308 km | 5h 10min | Daily from SCI; A321 |
 
-### Sant Bart add-on route
+### Secondary Balboan origin routes
 
 | Origin | Destination | Airport | Distance | Est. flight time | Planned service |
 |--------|-------------|---------|----------|-----------------|-----------------|
 | Sant Bart | Sanropura | Iskandar Setiadji International Airport | 3,228 km | 4h | Monday, Wednesday, Friday; A321 |
+| Badia Curta | Tanjung Seroja | Tanjung Seroja International Airport | 3,043 km | 3h 40min | Daily; business-heavy A321neo |
 
 ### Sanrobonia scheduling concept
 
-The proposed network creates 101 weekly Aeroístmus departures to Sanrobonia: 98 weekly departures from Sant Cristòfor and 3 weekly departures from Sant Bart. All routes except Tanjung Seroja are planned as A321 services. Tanjung Seroja is planned as a higher-yield business route with four daily frequencies, three operated by A321 aircraft and one peak rotation operated by an A330 with a premium-heavy configuration.
+The network creates 108 weekly Aeroístmus departures to Sanrobonia: 98 weekly departures from Sant Cristòfor, 3 weekly departures from Sant Bart, and 7 weekly departures from Badia Curta. The Tanjung Seroja financial-hub services use premium-heavy A321neo and A330 aircraft; other Sanrobonian services use narrowbody aircraft. Tanjung Seroja operates as a higher-yield business route with four daily frequencies from Sant Cristòfor, three operated by A321neo aircraft and one peak rotation operated by an A330 with a premium-heavy configuration.
 
 | Route | Frequency | Aircraft | Weekly departures | Notes |
 |-------|-----------|----------|-------------------|-------|
-| SCI-Tanjung Seroja | 4 daily | 3× A321, 1× A330 peak rotation | 28 | Primary financial-hub route; premium-heavy cabin on A330 |
+| SCI-Tanjung Seroja | 4 daily | 3× A321neo, 1× A330 peak rotation | 28 | Primary financial-hub route; premium-heavy cabins |
 | SCI-Sanropura | 2 daily | A321 | 14 | Capital route |
 | SBT-Sanropura | Monday, Wednesday, Friday | A321 | 3 | Secondary Jala highland connection |
+| BDC-Tanjung Seroja | Daily | A321neo | 7 | Industrial and financial business route from Badia Curta |
 | SCI-Pasirmajang / Martapura | Daily | A321 | 7 | Secondary Tanjung Seroja-Martapura airport |
 | SCI-Kutawaringin | Daily | A321 | 7 | Longer western Sanrobonian route |
 | SCI-Sayara-Tanjung Emasan | Daily | A321 | 7 | Longest A321 sector in the Sanrobonian network |
@@ -86,14 +88,14 @@ The proposed network creates 101 weekly Aeroístmus departures to Sanrobonia: 98
 
 | Direction | Departure | Arrival | Aircraft | Market purpose |
 |-----------|-----------|---------|----------|----------------|
-| Tanjung Seroja → SCI | 06:30 | 12:00 | A321 | Sanrobonia-origin same-day business travel to Sant Cristòfor |
+| Tanjung Seroja → SCI | 06:30 | 12:00 | A321neo | Sanrobonia-origin same-day business travel to Sant Cristòfor |
 | SCI → Tanjung Seroja | 07:00 | 10:35 | A330 | Balboa-origin morning business travel to Tanjung Seroja |
-| SCI → Tanjung Seroja | 11:00 | 14:35 | A321 | Midday departure and connection bank |
-| Tanjung Seroja → SCI | 12:30 | 18:00 | A321 | Midday return and late-afternoon arrival in Sant Cristòfor |
-| SCI → Tanjung Seroja | 15:00 | 18:35 | A321 | Afternoon business and leisure departure |
-| Tanjung Seroja → SCI | 15:30 | 21:00 | A321 | Afternoon return |
+| SCI → Tanjung Seroja | 11:00 | 14:35 | A321neo | Midday departure and connection bank |
+| Tanjung Seroja → SCI | 12:30 | 18:00 | A321neo | Midday return and late-afternoon arrival in Sant Cristòfor |
+| SCI → Tanjung Seroja | 15:00 | 18:35 | A321neo | Afternoon business and leisure departure |
+| Tanjung Seroja → SCI | 15:30 | 21:00 | A321neo | Afternoon return |
 | Tanjung Seroja → SCI | 18:00 | 23:30 | A330 | Peak evening return from Tanjung Seroja |
-| SCI → Tanjung Seroja | 21:30 | 01:05+1 | A321 | Late departure / overnight-positioning option |
+| SCI → Tanjung Seroja | 21:30 | 01:05+1 | A321neo | Late departure / overnight-positioning option |
 
 ## Unmatched destinations (not on any map layer)
 

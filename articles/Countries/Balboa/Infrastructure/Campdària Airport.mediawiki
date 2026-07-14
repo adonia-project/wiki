@@ -1,0 +1,50 @@
+{{Infobox airport
+| name         = Campdària Airport
+| nativename   = {{native name|ca|Aeroport de Campdària|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = CDA
+| ICAO         = CDIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Campdària]]
+| location     = [[La Badia|La Badia comarca]], [[Migjorn Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|1|26|S|92|46|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 650,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Campdària Airport''' ({{lang|ca|Aeroport de Campdària}}; [[IATA airport code|IATA]]: CDA, [[ICAO airport code|ICAO]]: CDIB) is a domestic airport serving [[Campdària]], a coastal city in [[Migjorn Province]], [[Balboa]]. The airport is situated in the [[La Badia]] comarca on the southern coast of the isthmus and serves the surrounding beach resorts and tourism sector. It is a destination for [[Aeroístmus]], which operates services to the airport from [[Sant Cristòfor International Airport|Sant Cristòfor]] and [[Cecilio Ríos International Airport|Sant Bart]], with onward service to [[Marie Torres Airport|Sant Agneu]].
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|-
+| [[Aeroístmus]] || [[Marie Torres Airport|Sant Agneu]]
+|-
+| [[RapidAir (Balboa)|RapidAir]] || [[Portnou International Airport|Portnou]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Migjorn Province]]

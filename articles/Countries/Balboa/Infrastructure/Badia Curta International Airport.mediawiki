@@ -1,0 +1,66 @@
+{{Infobox airport
+| name         = Badia Curta International Airport
+| nativename   = {{native name|ca|Aeroport Internacional de Badia Curta|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = BDC
+| ICAO         = BDIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Badia Curta]]
+| location     = [[Jala Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|4|12|N|93|20|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 1,800,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Badia Curta International Airport''' ({{lang|ca|Aeroport Internacional de Badia Curta}}; [[IATA airport code|IATA]]: BDC, [[ICAO airport code|ICAO]]: BDIB) is an international airport serving [[Badia Curta]], an industrial city in [[Jala Province]], [[Balboa]]. The airport is located on the [[Shendan Ocean]] coast and serves the industrial and petrochemical corridor of the Jala highlands. [[CIEA]], one of the world's largest integrated petroleum companies, maintains its principal refining operations at Badia Curta, and the airport handles significant business traveller traffic.
+
+The airport handles both domestic and international traffic. [[Aeroístmus]] operates high-frequency services from both [[Sant Cristòfor International Airport|Sant Cristòfor]] and [[Cecilio Ríos International Airport|Sant Bart]], as well as a route to [[Portnou International Airport|Portnou]] and an international business service to [[Tanjung Seroja International Airport|Tanjung Seroja]]. [[RapidAir (Balboa)|RapidAir]] serves the airport from Sant Cristòfor. [[Okaiken Air]] operates international services to [[Okami-Tobu International Airport|Okami-Tobu]].
+
+== Airlines and destinations ==
+
+=== Domestic ===
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|-
+| [[Aeroístmus]] || [[Portnou International Airport|Portnou]]
+|-
+| [[RapidAir (Balboa)|RapidAir]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|}
+
+=== International ===
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Tanjung Seroja International Airport|Tanjung Seroja]]
+|-
+| [[Okaiken Air]] || [[Okami-Tobu International Airport|Okami-Tobu]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Jala Province]]
+* [[CIEA]]

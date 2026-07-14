@@ -1,0 +1,44 @@
+{{Infobox airport
+| name         = Marie Torres Airport
+| nativename   = {{native name|ca|Aeroport de Marie Torres|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = MTR
+| ICAO         = MTIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Sant Agneu]]
+| location     = [[Migjorn Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|2|08|S|92|22|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 280,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Marie Torres Airport''' ({{lang|ca|Aeroport de Marie Torres}}; [[IATA airport code|IATA]]: MTR, [[ICAO airport code|ICAO]]: MTIB) is a domestic airport serving [[Sant Agneu]], a city on [[Sant Agneu Island]] in the far south of [[Migjorn Province]], [[Balboa]]. The airport is named after [[Marie Torres]], a pioneering Balboan aviator. It is jet-capable and is served by [[Aeroístmus]] as part of the airline's essential services programme, with flights from [[Campdària Airport|Campdària]].
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Campdària Airport|Campdària]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Migjorn Province]]

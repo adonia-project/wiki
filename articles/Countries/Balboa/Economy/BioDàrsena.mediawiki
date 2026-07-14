@@ -1,0 +1,81 @@
+{{Infobox company
+| name          = BioDàrsena, S.L.
+| native_name   = {{native name|ca|BioDàrsena|italic=no|paren=omit}}
+| logo          =
+| type          = {{w|Private company|Private}}
+| industry      = {{w|Biotechnology}}
+| founded       = 2021
+| founder       = {{ubl|[[Dr. Aina Feliu i Cardona]]|[[Dr. Bernat Oller i March]]}}
+| headquarters  = [[Plastic Beach]], [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]], [[Balboa]]
+| areas_served  = {{ubl|Balboa|[[BTPMEU]]}}
+| key_people    = {{ubl|[[Dr. Aina Feliu i Cardona]] (CEO)|[[Dr. Bernat Oller i March]] (CTO)}}
+| owner         = {{ubl|Founders (31.4%)|[[Fons d'Inversió Directa de Balboa]] (23.6%)|University of Sant Cristòfor Investment Fund (11.8%)|[[Baoshi Capital]] (21.4%)}}
+| num_employees = 25 (2026)
+| products      = {{ubl|PETase enzyme formulations|Plastic-degrading enzyme cocktails|Biodegradation process licensing}}
+| website       =
+}}
+
+'''BioDàrsena, S.L.''' is a Balboan {{w|biotechnology}} startup based at [[Plastic Beach]] in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. The company develops industrial enzymes for the {{w|biodegradation}} and {{w|chemical recycling}} of plastics, particularly {{w|polyethylene terephthalate|PET}}. Founded in 2021 as a spin-off from the [[University of Sant Cristòfor]]'s biochemical research programme at Plastic Beach, BioDàrsena is one of the earliest biotechnology companies to emerge from the Dàrsena research cluster.
+
+== History ==
+
+=== Founding (2021) ===
+
+BioDàrsena was founded in 2021 by Dr. Aina Feliu i Cardona and Dr. Bernat Oller i March, two researchers from the [[University of Sant Cristòfor]]'s biochemical research building at [[Plastic Beach]]. Feliu, a biochemist, had been researching {{w|PETase}} enzymes — proteins capable of breaking down {{w|polyethylene terephthalate|PET}} plastic — as part of her postdoctoral work at the university's Plastic Beach facility. Oller, a chemical engineer, had been working on process scale-up and reactor design for enzyme-catalysed reactions. The two identified a commercial opportunity in combining their expertise: Feliu's enzyme discovery work with Oller's process engineering to develop a viable industrial plastic biodegradation process.
+
+The company was established as a private limited company ({{lang|ca|Societat Limitada}}, S.L.) and received seed funding from the [[Fons d'Inversió Directa de Balboa]] (FIDB) and the University of Sant Cristòfor Investment Fund. The two seed investors took a combined 45 per cent stake, with the founders retaining 40 per cent.
+
+In 2024, BioDàrsena closed a $15 million Series A funding round led by [[Baoshi Capital]], a Zong venture capital firm, at a pre-money valuation of $55 million. The Series A funded the construction of the company's pilot plant and supported the expansion of its research team. Following the round, Baoshi Capital holds a 21.4 per cent stake, with all existing shareholders diluted proportionally.
+
+=== Early research and development (2021–2024) ===
+
+BioDàrsena's initial work focused on optimising PETase enzyme variants for industrial conditions. The enzymes, which occur naturally in certain microorganisms, degrade PET into its component monomers — {{w|terephthalic acid}} and {{w|ethylene glycol}} — which can then be repurified and used to manufacture new plastic. The company's research aimed to increase enzyme activity, thermal stability, and throughput to levels that would make biological recycling economically competitive with conventional mechanical recycling and virgin plastic production.
+
+The company operated from a converted warehouse at Plastic Beach, using the cluster's shared laboratory facilities and the university's analytical equipment. The proximity to [[Polímers de Balboa]] (PDB) provided access to plastic samples and expertise in polymer chemistry, while the university's graduate student pipeline supplied research talent.
+
+By 2024, BioDàrsena had developed a proprietary enzyme cocktail — combining PETase variants with auxiliary enzymes that pre-treated the plastic surface — that achieved significantly higher degradation rates than the individual enzymes alone. The company filed its first patent applications covering the enzyme formulations and the reactor design.
+
+=== Pilot plant and growth (2024–present) ===
+
+In 2024, BioDàrsena commissioned a small pilot plant at its Plastic Beach facility, capable of processing approximately 2 tonnes of PET waste per week. The pilot plant was designed to demonstrate the feasibility of the company's process at a scale relevant to potential industrial partners, and to generate data for process optimisation and scale-up design.
+
+The company has attracted interest from [[Polímers de Balboa]] (PDB), which is exploring biological recycling as part of its environmental improvement programme and recycling capacity investments. PDB and BioDàrsena have discussed a potential partnership under which PDB would provide post-consumer PET waste and process engineering expertise, while BioDàrsena would supply the enzyme technology and reactor design. As of 2026, no formal partnership has been announced.
+
+== Technology ==
+
+BioDàrsena's core technology is a proprietary enzyme cocktail for the biological degradation of PET plastic:
+
+* '''PETase variants''': Engineered enzymes derived from naturally occurring PET-degrading microorganisms, modified for increased thermal stability and catalytic activity. The company's variants operate at higher temperatures than wild-type enzymes, improving reaction kinetics and allowing processing of melted or softened plastic.
+* '''Auxiliary enzymes''': Pre-treatment enzymes that attack the crystalline structure of PET, increasing the surface area available for PETase action and improving overall degradation rates.
+* '''Reactor design''': A continuous-flow reactor system developed by Dr. Oller's team, designed to maintain optimal conditions for enzyme activity — temperature, pH, and substrate concentration — while removing the depolymerised monomers to prevent product inhibition.
+
+The company's process produces {{w|terephthalic acid}} and {{w|ethylene glycol}} of sufficient purity for re-polymerisation into virgin-grade PET, enabling a closed-loop recycling process. The biological process operates at lower temperatures than conventional {{w|chemical recycling}} methods, reducing energy consumption.
+
+== Operations ==
+
+BioDàrsena operates from a single facility at [[Plastic Beach]]:
+
+* '''Laboratory and pilot plant''' (Dàrsena, Sant Cristòfor): A converted warehouse of approximately 800 square metres, housing the company's research laboratory, enzyme production area, and pilot plant. The facility uses the cluster's shared infrastructure for high-capacity power, water treatment, and waste handling. Approximately 25 employees.
+
+The company sources post-consumer PET waste from municipal recycling programmes in the Sant Cristòfor area and from PDB's manufacturing scrap, using it as feedstock for pilot plant testing and process development.
+
+== Ownership ==
+
+BioDàrsena is a private company. The ownership structure reflects its origin as a university spin-off with institutional and venture capital backing:
+
+* '''Founders''': 31.4% — Dr. Aina Feliu i Cardona and Dr. Bernat Oller i March
+* '''[[Fons d'Inversió Directa de Balboa]] (FIDB)''': 23.6% — sovereign wealth fund, seed investor
+* '''University of Sant Cristòfor Investment Fund''': 11.8% — university venture fund, seed investor
+* '''[[Baoshi Capital]]''': 21.4% — Zong venture capital firm, Series A lead investor (2024)
+
+== See also ==
+
+* [[Plastic Beach]]
+* [[Polímers de Balboa]]
+* [[University of Sant Cristòfor]]
+* [[Economy of Balboa]]
+* [[Dàrsena (ciutat)|Dàrsena]]
+
+[[Category:Economy of Balboa]]
+[[Category:Biotechnology companies of Balboa]]
+[[Category:Companies based in Sant Cristòfor]]

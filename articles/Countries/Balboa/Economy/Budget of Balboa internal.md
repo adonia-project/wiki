@@ -413,6 +413,8 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 **Total aviation/tourism revenue: ~$107M/year** (goes to general fund)
 
+**Note:** This line is superseded by the BAA treasury remittance (see below). The Balboa Airports Authority (BAA) is self-funding — it generates ~$582M in revenue from airport charges and air navigation fees against ~$294M in operating costs, yielding a ~$288M surplus. The surplus is allocated as: $115M capital reinvestment fund, $43M route development fund, and $130M remittance to the national treasury. The $130M remittance replaces the previous $107M aviation/tourism tax + landing fees line. The BAA also no longer requires airport subsidies from the infrastructure budget, as it operates on a cross-subsidy model (SCI surplus funds small airports + ATC deficit).
+
 ### 15. Gambling Tax (PROPOSED — pending confirmation)
 
 **State lottery (government-run):**
@@ -658,7 +660,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 **Budget: ~$3.0 billion (0.9% of GDP, 2026)**
 - National highway maintenance + upgrades
 - Rural road program
-- Airport subsidies and regional airport maintenance
+- ~~Airport subsidies and regional airport maintenance~~ (REMOVED — BAA is self-funding via cross-subsidy model)
 - Water/sewage system subsidies to provinces
 - Port infrastructure (non-canal)
 - Small new projects (rural electrification, bridge repairs, drainage)
@@ -963,7 +965,7 @@ Most welfare is delivered in kind: free healthcare (NHS $13.6B), free education 
 | Mining royalties + corporate tax | PROPOSED | $127M |
 | Gambling tax (lottery + casinos + online) | PROPOSED | $124M |
 | Port fees (non-canal, ~3,500 ship calls) | PROPOSED | $105M |
-| Airport/tourism tax + landing fees | PROPOSED | $107M |
+| BAA treasury remittance (surplus from airport charges + ATC fees) | UPDATED | $130M |
 | Insurance premium tax (3% on $3B premiums) | PROPOSED | $90M |
 | Business traveller tax ($10/night + 5% room rate) | PROPOSED | $68M |
 | Ship registry (6,593 ships) | PROPOSED | $46.5M |
@@ -974,6 +976,8 @@ Most welfare is delivered in kind: free healthcare (NHS $13.6B), free education 
 | Interest on government deposits + tax penalties | PROPOSED | $40M |
 | Canal toll revenue | ESTABLISHED | $6.5B (fully earmarked) |
 | **Subtotal (general fund)** | | **~$58.1B** |
+
+**Note on BAA remittance:** The $130M BAA treasury remittance replaces the previous $107M airport/tourism tax + landing fees line (+$23M). The infrastructure budget no longer includes airport subsidies (BAA is self-funding). Net fiscal impact: +$23M revenue, ~$0 change in spending (airport subsidies were not separately costed in the $3.0B infrastructure line).
 
 **Canal revenue earmarked allocations (REVISED — with debt service redirect):**
 

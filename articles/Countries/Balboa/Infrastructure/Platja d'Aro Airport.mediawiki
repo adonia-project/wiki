@@ -1,0 +1,44 @@
+{{Infobox airport
+| name         = Platja d'Aro Airport
+| nativename   = {{native name|ca|Aeroport de Platja d'Aro|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = PDA
+| ICAO         = PDIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Platja d'Aro]]
+| location     = [[La Punta|La Punta comarca]], [[Migjorn Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|0|28|S|92|33|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 180,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Platja d'Aro Airport''' ({{lang|ca|Aeroport de Platja d'Aro}}; [[IATA airport code|IATA]]: PDA, [[ICAO airport code|ICAO]]: PDIB) is a domestic airport serving [[Platja d'Aro]], a tourism destination on a peninsula in [[Migjorn Province]], [[Balboa]]. The airport serves the surrounding beach resorts and coastal tourism sector. It is served by [[Aeroístmus]], which operates essential services from [[Cecilio Ríos International Airport|Sant Bart]].
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Migjorn Province]]

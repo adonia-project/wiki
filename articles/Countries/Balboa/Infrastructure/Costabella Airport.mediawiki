@@ -1,0 +1,50 @@
+{{Infobox airport
+| name         = Costabella Airport
+| nativename   = {{native name|ca|Aeroport de Costabella|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = CBL
+| ICAO         = CBIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Costabella]]
+| location     = [[Nurra Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|2|06|N|92|02|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 320,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Costabella Airport''' ({{lang|ca|Aeroport de Costabella}}; [[IATA airport code|IATA]]: CBL, [[ICAO airport code|ICAO]]: CBIB) is a domestic airport serving [[Costabella]], a coastal city in [[Nurra Province]], [[Balboa]], on the [[Aethiopian Ocean]] coast. The airport is turboprop-only, with no jet-capable runway. It is served by [[Aeroístmus]] from [[Sant Cristòfor International Airport|Sant Cristòfor]] and by [[RapidAir (Balboa)|RapidAir]] turboprop services.
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|-
+| [[RapidAir (Balboa)|RapidAir]] || [[Novara Airport|Novara]]
+|-
+| [[RapidAir (Balboa)|RapidAir]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|-
+| [[RapidAir (Balboa)|RapidAir]] || [[Portblanc Airport|Portblanc]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Nurra Province]]

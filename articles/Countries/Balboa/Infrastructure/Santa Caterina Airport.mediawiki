@@ -1,0 +1,44 @@
+{{Infobox airport
+| name         = Santa Caterina Airport
+| nativename   = {{native name|ca|Aeroport de Santa Caterina|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = STC
+| ICAO         = STIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Santa Caterina]]
+| location     = [[La Terra Alta|La Terra Alta comarca]], [[Migjorn Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|1|01|S|93|51|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 95,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Santa Caterina Airport''' ({{lang|ca|Aeroport de Santa Caterina}}; [[IATA airport code|IATA]]: STC, [[ICAO airport code|ICAO]]: STIB) is a domestic airport serving [[Santa Caterina]], a community in the [[La Terra Alta]] comarca of [[Migjorn Province]], [[Balboa]]. The airport is located in the Shendan-facing interior of the isthmus and serves the surrounding highland communities. It is served by [[Aeroístmus]], which operates essential services from [[Cecilio Ríos International Airport|Sant Bart]].
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Migjorn Province]]

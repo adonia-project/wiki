@@ -1,0 +1,153 @@
+{{Short description|Meta-tracking of the International dollar against the US dollar}}
+{{notice|This is a [[TALOD:Meta|meta page]]. It tracks the value of the fictional [[International dollar]] against the real-world [[W:United States dollar|US dollar]] for worldbuilding consistency purposes.}}
+
+The '''International dollar–US dollar tracking''' page models the exchange rate between the [[International dollar]] (XID), the currency of the [[Adonian Community]], and the real-world [[W:United States dollar|US dollar]] (USD). The model is used to maintain consistency between in-world economic figures (denominated in ID) and real-world equivalents, enabling meaningful comparisons of GDP, wages, prices, and other economic indicators across the fictional and real worlds.
+
+== Model ==
+
+=== Energy standard ===
+
+The International dollar was introduced on 15 September 1948 under the [[Treaty of Calatayud]], initially pegged to fine gold. In 1952, the ID switched to an '''energy standard''', where 1 ID was defined as the cost to generate a fixed quantity of electricity at 1952 prices. The energy standard is based on the principle that energy, unlike gold or fiat currency, is governed by the laws of thermodynamics: it cannot be created or destroyed, only transformed or transferred. As energy production grows, the [[Adonian Monetary Authority]] (AMA) may expand the money supply without diluting the currency's value, because each unit of currency remains backed by a proportional share of the total energy base.
+
+Under this system, approximately 4.57 ID = $1.00 USD in 1952. The ID has remained on the energy standard since 1952 and has never been a floating currency. The ID/USD exchange rate moves because the US dollar, a fiat currency since 1971, inflates and depreciates over time, while the ID's value remains anchored to the energy standard. The AMA expands the money supply in proportion to energy production growth, maintaining the currency's backing without devaluation.
+
+=== Exchange rate formula ===
+
+The ID/USD exchange rate is determined by the relative purchasing power of each currency. The ID remains pegged to the energy standard; the USD is fiat. The model calculates the rate as:
+
+: ID/USD rate = Base rate × (USD cumulative inflation since 1952) / (ID cumulative inflation since 1952)
+
+Where:
+* '''Base rate''' = $0.2187 (1 ID = $0.2187 USD in 1952; calibrated so that 1 ID = $1.00 USD in 2015)
+* '''USD cumulative inflation''' (''Earth context'') = US CPI-U (Bureau of Labor Statistics) ratio, 1952 to current year. This is real-world data reflecting the actual depreciation of the US dollar over time.
+* '''ID cumulative inflation''' (''Adonia context'') = Modelled from the AMA's inflation target of "below, but close to, 2 per cent," with historical variation for actual in-world economic events. This is a fictional inflation series constructed for the worldbuilding.
+
+The ID has appreciated against the USD because the energy standard constrains money creation to the growth of energy production, while the US dollar, as a fiat currency, has experienced higher average inflation.
+
+=== ID inflation model ===
+
+The ID's inflation rate is modelled year by year, reflecting the AMA's response to actual Adonia economic events. The only event that parallels a real-world event is the [[W:COVID-19 pandemic|COVID-19 pandemic]] (2020). All other events are specific to the Adonia world and have no direct real-world equivalent.
+
+{| class="wikitable"
+! Period !! ID inflation !! Adonia context !! Earth context
+|-
+| 1948–1952 || 0.0% || Gold peg; Adonian Depression; Stock Crash of 1949 || [[W:Bretton Woods system|Bretton Woods]] era; USD gold peg intact
+|-
+| 1953–1965 || 0.5–0.7% || Energy standard; post-war boom; Sanese Industrial Miracle; Great Economic Boom || USD remains gold-backed; stable exchange rates
+|-
+| 1966–1967 || 1.0–1.5% || Kwangju partition disrupts trade; Okami Stock Exchange crash ("Black Monday") ||
+|-
+| 1968–1971 || 1.0–1.2% || Balboa recession (mandate integration); Breislandic shock (1971) || [[W:Nixon shock|Nixon shock]] (1971); USD abandons gold convertibility
+|-
+| 1972–1975 || 1.0% || ID stable on energy standard; Treaty of Areza (1973) || Bretton Woods collapses; USD becomes fiat
+|-
+| 1976–1979 || 1.5–2.0% || Camboriú War; Marañón oil fires; Potocsí Decade Recession; Balisca Special Period; oil shortages cause energy prices to spike ||
+|-
+| 1980–1983 || 1.5–2.0% || Energy crisis continues; Balisca Special Period most severe; Go-go 8090 boom begins ||
+|-
+| 1984–1985 || 1.5% || Energy prices normalise; Go-go 8090 boom accelerates ||
+|-
+| 1986–1990 || 1.8% || Peak of Go-go 8090 bubble; Balboa real-estate bubble inflating ||
+|-
+| 1991–1996 || 0.3–0.5% || Global recession: Okaiken bubble bursts (1991) + Balisca Special Period; two of the largest economies contracting ||
+|-
+| 1997–2007 || 1.0% || Recovery; Lost Decades linger in Okaiken; restructuring || [[W:Great Moderation|Great Moderation]]; low US inflation
+|-
+| 2008 || 1.0% || Financial shock averted in Okaiken through technocratic pivot || [[W:2008 financial crisis|2008 financial crisis]]; [[W:Great Recession|Great Recession]]
+|-
+| 2009–2019 || 1.2% || Stable growth; Jutsu Restoration in Okaiken || US [[W:Quantitative easing|quantitative easing]]; low inflation
+|-
+| 2020 || 0.5% || [[W:COVID-19 pandemic|COVID-19 pandemic]] || [[W:COVID-19 pandemic|COVID-19 pandemic]]; US monetary expansion
+|-
+| 2021 || 1.5% || Recovery || US economic recovery
+|-
+| 2022–2023 || 2.5% || Post-COVID inflation in Adonia || [[W:2021–2023 inflation surge|US inflation surge]]; Fed tightening
+|-
+| 2024–2026 || 1.8% || Normalisation || US inflation moderating
+|}
+
+== Historical rates ==
+
+The following table shows the modelled ID/USD exchange rate for selected years. The "USD cum. infl." column uses real-world US CPI data (Earth context); the "ID cum. infl." column uses the modelled Adonia inflation series (Adonia context).
+
+{| class="wikitable sortable"
+! Year !! 1 ID = USD !! 1 USD = ID !! USD cum. infl. !! ID cum. infl. !! Adonia context !! Earth context
+|-
+| 1948 || $0.2187 || 4.5735 ID || 1.00x || 1.0000x || ID introduced (gold peg) || [[W:Bretton Woods system|Bretton Woods]] system in effect
+|-
+| 1952 || $0.2187 || 4.5735 ID || 1.00x || 1.0000x || Energy standard adopted || USD still gold-backed at $35/oz
+|-
+| 1960 || $0.2344 || 4.2654 ID || 1.12x || 1.0417x || ||
+|-
+| 1967 || $0.2502 || 3.9968 ID || 1.26x || 1.1015x || Okami Stock Exchange crash ("Black Monday") ||
+|-
+| 1971 || $0.2910 || 3.4365 ID || 1.53x || 1.1485x || Breislandic shock; ID remains on energy standard || [[W:Nixon shock|Nixon shock]] — USD abandons gold convertibility
+|-
+| 1973 || $0.3127 || 3.1980 ID || 1.68x || 1.1715x || Treaty of Areza; ID remains on energy standard || Bretton Woods fully collapses; USD becomes fiat
+|-
+| 1976 || $0.3870 || 2.5840 ID || 2.15x || 1.2130x || Camboriú War; Marañón oil fires; energy prices spike ||
+|-
+| 1980 || $0.5178 || 1.9314 ID || 3.11x || 1.3130x || Balisca Special Period most severe; energy crisis ||
+|-
+| 1985 || $0.6240 || 1.6026 ID || 4.06x || 1.4229x || ||
+|-
+| 1990 || $0.6932 || 1.4426 ID || 4.93x || 1.5556x || OSE 225 peaks at 39,000 ||
+|-
+| 1991 || $0.7188 || 1.3912 ID || 5.14x || 1.5634x || Okaiken bubble bursts; global recession begins ||
+|-
+| 1995 || $0.7916 || 1.2633 ID || 5.75x || 1.5885x || Global recession continues ||
+|-
+| 1997 || $0.8213 || 1.2176 ID || 6.06x || 1.6124x || Recovery begins ||
+|-
+| 2000 || $0.8552 || 1.1694 ID || 6.50x || 1.6613x || ||
+|-
+| 2005 || $0.9229 || 1.0836 ID || 7.37x || 1.7461x || ||
+|-
+| 2008 || $0.9875 || 1.0127 ID || 8.12x || 1.7990x || Financial shock averted in Okaiken || [[W:2008 financial crisis|Global financial crisis]]
+|-
+| 2010 || $0.9765 || 1.0241 ID || 8.23x || 1.8424x || ||
+|-
+| 2015 || $1.0000 || 1.0000 ID || 8.94x || 1.9556x || ID reaches parity with USD ||
+|-
+| 2020 || $1.0359 || 0.9653 ID || 9.77x || 2.0615x || [[W:COVID-19 pandemic|COVID-19 pandemic]] || [[W:COVID-19 pandemic|COVID-19 pandemic]]; massive US monetary expansion
+|-
+| 2022 || $1.1259 || 0.8882 ID || 11.04x || 2.1447x || Post-COVID inflation in Adonia || [[W:2021–2023 inflation surge|US inflation surge]]; Fed tightening cycle
+|-
+| 2025 || $1.1662 || 0.8575 ID || 12.15x || 2.2781x || ||
+|-
+| 2026 || $1.1741 || 0.8517 ID || 12.45x || 2.3192x || Current ||
+|}
+
+The ID reached parity with the USD (1 ID = $1.00) in 2015, as the cumulative effect of the energy standard's lower inflation rate overtook the USD's higher fiat inflation. The ID briefly approached parity in 2008 during the global financial crisis, but the financial shock in Okaiken was averted and the ID did not sustain parity until 2015.
+
+== Spot rate ==
+
+The daily spot rate is generated by applying a simulated daily noise of ±0.5 per cent to the annual baseline rate, using a deterministic seed based on the date. This produces a stable, reproducible daily rate that fluctuates within a realistic band.
+
+{| class="wikitable"
+! Date !! 1 ID = USD !! 1 USD = ID !! Deviation from baseline
+|-
+| 2026-07-13 || $1.1766 || 0.8499 ID || +0.22%
+|}
+
+The spot rate is updated daily by an automated script. The current baseline rate for 2026 is $1.1741 per ID.
+
+== Implementation ==
+
+The model is implemented as a Python script at <code>scripts/id_usd_tracker.py</code>. The script uses real-world US CPI data (''Earth context'') and a modelled ID inflation series (''Adonia context'') to compute the exchange rate. The ID inflation series reflects actual Adonia economic history, not real-world events. The only equivalent event between Adonia and Earth is the COVID-19 pandemic (2020). The script can generate historical rates, daily spot rates, and wiki table markup.
+
+Usage:
+
+ python3 scripts/id_usd_tracker.py --historical     # Print historical annual rates
+ python3 scripts/id_usd_tracker.py --spot            # Generate today's spot rate
+ python3 scripts/id_usd_tracker.py --wiki             # Generate wiki table markup
+
+== See also ==
+
+* [[International dollar]]
+* [[Adonian Monetary Authority]]
+* [[Economy of Balboa]]
+* [[Economy of Burawa]]
+* [[:Category:Meta pages]]
+
+[[Category:Meta pages]]

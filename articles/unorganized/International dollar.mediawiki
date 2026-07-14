@@ -21,6 +21,14 @@ The founding members of the Adonian Community sought to create a currency that w
 
 The International dollar was formally established by the [[Treaty of Calatayud (1947)|Calatayud Treaty]], signed on 12 June 1947, and entered into circulation on 15 September 1948. The initial value was set at 0.888671 grams of fine gold (equivalent to $1 at the time), with member states agreeing to maintain their currencies within a 1% band of their established par values.
 
+=== Energy standard (1952) ===
+
+In 1952, the International dollar switched from the gold standard to an '''energy standard'''. Under the energy standard, 1 ID was defined as one-third of the cost to generate 11.11 kilowatt-hours of electricity at 1952 prices — equivalent to the gold reference value of 0.888671 grams of fine gold. The energy standard is based on the principle that energy, unlike gold or fiat currency, is governed by the laws of thermodynamics: it cannot be created or destroyed, only transformed or transferred. As energy production grows, the [[Adonian Monetary Authority]] may expand the money supply without diluting the currency's value, because each unit of currency remains backed by a proportional share of the total energy base.
+
+The energy standard was adopted to provide a more stable and scientifically grounded basis for the currency than gold, which was subject to speculative manipulation and limited by physical scarcity. Energy, by contrast, is a universal input to all economic activity, and its production grows with technological progress and industrial capacity. The standard also aligned the currency's backing with the real economy: as nations produced more energy, the monetary base could expand in proportion, supporting economic growth without inflationary pressure.
+
+The ID has remained on the energy standard since 1952 and has never been a floating currency. The AMA expands the money supply in proportion to energy production growth, maintaining the currency's backing without devaluation. The energy standard continues to serve as the foundation of the ID's value: the authority monitors energy production and prices as key indicators when setting monetary policy, and the money supply is constrained by the total energy base of the Adonian Community.
+
 === Recent developments ===
 
 == Administration ==
@@ -54,7 +62,7 @@ The AMA has exclusive authority to authorize the issuance of International dolla
 
 == Value and exchange rates ==
 {{Main|Exchange rates of the International dollar}}
-The International dollar has been a floating currency since 1973, with its value determined by [[foreign exchange markets]]. The AMA publishes daily reference exchange rates against major currencies, calculated as a weighted average of transactions in major foreign exchange markets.
+The International dollar is backed by the energy standard, under which its value is anchored to the cost of generating 11.11 kilowatt-hours of electricity at 1952 prices. The AMA expands the money supply in proportion to energy production growth, maintaining the currency's backing without devaluation. The AMA publishes daily reference exchange rates against major currencies, calculated based on the energy standard and prevailing market conditions.
 
 === Exchange rate regime ===
 Member states using the International dollar as legal tender are part of the [[International dollar zone]], within which no exchange controls or restrictions apply. Member states maintaining national currencies operate under various exchange rate arrangements:

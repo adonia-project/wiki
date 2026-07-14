@@ -45,3 +45,6 @@ Thumbs.db
 .env.local
 wiki-data/
 LocalSettings.php
+
+# TALOD sync state
+.talod-sync-state.json

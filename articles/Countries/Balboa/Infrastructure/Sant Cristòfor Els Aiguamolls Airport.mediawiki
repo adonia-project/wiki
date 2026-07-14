@@ -1,0 +1,44 @@
+{{Infobox airport
+| name         = Sant Cristòfor Els Aiguamolls Airport
+| nativename   = {{native name|ca|Aeroport de Sant Cristòfor Els Aiguamolls|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = EAI
+| ICAO         = EAIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Sant Cristòfor]]
+| location     = [[Els Aiguamolls|Els Aiguamolls comarca]], [[Estret Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|0|55|N|94|18|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 80,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Sant Cristòfor Els Aiguamolls Airport''' ({{lang|ca|Aeroport de Sant Cristòfor Els Aiguamolls}}; [[IATA airport code|IATA]]: EAI, [[ICAO airport code|ICAO]]: EAIB) is a domestic airport serving the northern districts of [[Sant Cristòfor]], in the [[Els Aiguamolls]] comarca of [[Estret Province]], [[Balboa]]. The airport is located in the wetlands north of the capital and primarily serves the elite residential districts and wealthy travellers of the northern ciutats. It is jet-capable and is served by [[Aeroístmus]], which operates essential services from [[Cecilio Ríos International Airport|Sant Bart]].
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Estret Province]]

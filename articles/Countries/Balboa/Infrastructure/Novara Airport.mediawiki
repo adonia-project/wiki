@@ -1,0 +1,48 @@
+{{Infobox airport
+| name         = Novara Airport
+| nativename   = {{native name|ca|Aeroport de Novara|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = NOV
+| ICAO         = NOIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Novara]]
+| location     = [[Nurra Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|4|19|N|91|25|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 1,100,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Novara Airport''' ({{lang|ca|Aeroport de Novara}}; [[IATA airport code|IATA]]: NOV, [[ICAO airport code|ICAO]]: NOIB) is a domestic airport serving [[Novara]], the third-largest city in [[Balboa]] and the capital of [[Nurra Province]]. The airport is located on the [[Aethiopian Ocean]] coast and serves the northern commercial and industrial region of the country. Novara is one of the busiest domestic airports in Balboa, reflecting the city's status as a major economic centre. The airport is jet-capable and handles both [[Aeroístmus]] and [[RapidAir (Balboa)|RapidAir]] services.
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|-
+| [[RapidAir (Balboa)|RapidAir]] || [[Costabella Airport|Costabella]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Nurra Province]]

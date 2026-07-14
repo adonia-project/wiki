@@ -1,0 +1,114 @@
+{{Infobox organization
+| name = Air Traffic Control in Balboa
+| native_name = {{native name|ca|Control del Trànsit Aeri de Balboa|italic=no|paren=omit}}
+| logo =
+| logo_size =
+| logo_caption =
+| type = [[Government agency|Government division]]
+| jurisdiction = [[Balboa]]
+| parent_agency = [[Balboa Airports Authority]]
+| headquarters = [[Sant Cristòfor]], [[Estret Province]], [[Balboa]]
+| established = {{start date|1973}}
+| director = 
+| num_employees = ~360
+| website =
+}}
+
+'''Air traffic control in [[Balboa]]''' is provided by the Air Navigation Services Division ({{lang|ca|Divisió de Serveis de Navegació Aèria}}) of the [[Balboa Airports Authority]] (BAA). The division is responsible for air traffic management across Balboan airspace, including en-route control, approach control, and aerodrome control at airports with air traffic control towers. The division operates the Balboa Area Control Centre and 14 airport control towers, with aerodrome flight information service provided at nine smaller airports.
+
+== History ==
+
+Air traffic control in Balboa was initially provided by a patchwork of municipal and provincial authorities, with the [[Adonian Community]] administration responsible for ATC services within the former [[International Mandate of Sant Cristòfor|AC mandate territory]]. The consolidation of ATC under the newly established [[Balboa Airports Authority]] in 1973 created a unified air navigation services provider for the country. The Balboa Area Control Centre was commissioned in 1976, providing centralised en-route control for all Balboan airspace for the first time.
+
+The expansion of the airport network in the 1980s and 1990s required corresponding growth in ATC capacity. New control towers were commissioned at [[Portnou International Airport]] (1992), [[Badia Curta International Airport]] (1994), and [[Haicang International Airport]] (1998). The Area Control Centre was modernised in 2003 with the introduction of digital flight data processing systems, and secondary surveillance radar coverage was extended to full coverage of Balboan airspace by 2008.
+
+== Structure ==
+
+The Air Navigation Services Division operates a three-tier air traffic management structure:
+
+=== Balboa Area Control Centre ===
+
+The Balboa Area Control Centre (BACC) is the sole area control centre in Balboa, providing en-route air traffic control for all flights operating within Balboan airspace. The centre is located near [[Sant Cristòfor International Airport]] and is collocated with SCI approach control. The BACC handles en-route traffic between Balboan airports, overflights transiting Balboan airspace, and arrivals and departures transitioning to and from approach control at the six international airports. The centre operates 24 hours a day with approximately 45 air traffic controllers across three shifts.
+
+=== Approach control ===
+
+Approach control services are provided at all six international airports, handling instrument flight rules arrivals and departures within the terminal control areas surrounding each airport. SCI approach control is collocated with the BACC due to the volume of traffic at Sant Cristòfor. Approach control at the other five international airports is provided from each airport's control tower facility. Approximately 85 controllers are assigned to approach control duties.
+
+=== Aerodrome control ===
+
+Aerodrome control (tower) services are provided at 14 airports — all six international airports and eight major domestic airports with traffic volumes sufficient to justify full air traffic control. Towers provide ground control, local control, and clearance delivery services. Approximately 137 controllers are assigned to tower duties.
+
+=== Aerodrome flight information service ===
+
+Nine smaller domestic airports do not have full air traffic control towers and instead operate an aerodrome flight information service (AFIS), which provides advisory information to pilots on weather, traffic, and runway conditions without exercising active control over aircraft movements. AFIS stations are staffed by approximately 27 personnel.
+
+== Infrastructure ==
+
+=== Surveillance ===
+
+The BAA maintains a network of primary and secondary surveillance radar covering the entirety of Balboan airspace. The primary radar site is located at the Balboa Area Control Centre, with secondary radar heads at [[Cecilio Ríos International Airport]], [[Portnou International Airport]], and [[Novara Airport]], providing overlapping coverage across the isthmus. {{w|Automatic dependent surveillance–broadcast|ADS-B}} receivers were deployed at all controlled airports between 2016 and 2020.
+
+=== Navigation aids ===
+
+The BAA maintains navigation aids at all 23 public airports, including {{w|VHF omnidirectional range|VOR}} and {{w|Distance measuring equipment|DME}} installations at airports with jet-capable runways and {{w|Instrument landing system|ILS}} Category I approach systems at all international airports and major domestic airports. SCI is equipped with ILS Category III on Runway 09/27, enabling operations in low-visibility conditions.
+
+=== Communications ===
+
+The BAA operates a network of VHF and UHF ground-to-air communications stations providing continuous radio coverage across Balboan airspace. The communications network is linked to the BACC via fibre-optic circuits, with redundant backup links.
+
+== Staffing ==
+
+The Air Navigation Services Division employs approximately 360 personnel:
+
+{| class="wikitable"
+|-
+! Function !! Staff
+|-
+| Balboa Area Control Centre (en-route) || 45
+|-
+| Approach control (6 stations) || 85
+|-
+| ATC towers (14 towers) || 137
+|-
+| AFIS stations (9 stations) || 27
+|-
+| Engineering and technical support || 65
+|-
+| '''Total''' || '''~360'''
+|}
+
+Air traffic controllers in Balboa undergo training at the BAA's training facility in Sant Cristòfor, which includes radar simulation and tower simulation equipment. Controller certification requires approximately three years of training, including classroom instruction, simulation, and on-the-job training under supervision.
+
+== Financials ==
+
+The Air Navigation Services Division operates at a net deficit, with annual operating costs of approximately $69 million against air navigation charge revenue of approximately $40 million. The deficit of approximately $30 million is covered by the BAA's cross-subsidy from airport revenue, principally the surplus generated by [[Sant Cristòfor International Airport]].
+
+{| class="wikitable"
+|-
+! Item !! Annual cost (USD)
+|-
+| Balboa Area Control Centre || $18.0M
+|-
+| Approach control (6 stations) || $18.0M
+|-
+| ATC towers (14 towers) || $19.4M
+|-
+| AFIS stations (9 stations) || $2.25M
+|-
+| Navigation aids maintenance || $4.6M
+|-
+| ATC systems and technology || $5.0M
+|-
+| Training and certification || $2.0M
+|-
+| '''Total operating cost''' || '''$69.25M'''
+|}
+
+Air navigation charge revenue is derived from en-route charges of approximately $50 per flight transiting Balboan airspace and approach fees of approximately $30 per arrival or departure at controlled airports.
+
+== See also ==
+
+* [[Balboa Airports Authority]]
+* [[List of airports in Balboa]]
+* [[Sant Cristòfor International Airport]]
+* [[Ministry of Transport (Balboa)|Ministry of Transport]]

@@ -4,12 +4,12 @@
 - **File**: `Second War of the Isthmus.mediawiki`
 - **Subject**: Zongese–Sinchewese–Louyangese victory over Volisanian–Balboan–Burawi coalition for control of the Isthmus of Balboa
 - **Period**: 1893–1899
-- **Scope**: Full background (Balboa's post-slavery transition, Balboa Canal, Zongosphere immigration, Illypnian anxieties), war course, Treaty of San Lázaro, and aftermath connecting to Great Adonian War
+- **Scope**: Full background (Balboa's post-slavery transition, Balboa Canal, Zongosphere immigration, Illypnian anxieties), war course, Treaty of Sant Llàtzer, and aftermath connecting to Great Adonian War
 
 ## Core Facts
 - **Triggered by**: Balboa impressing two Zongese vessels that refused to pay canal transit fees (1893)
 - **Deeper causes**: Balboa Canal ownership (not subject to Treaty of Remoria), Zong's refusal to pay fees, Volisania's desire to build international coalition against Zong
-- **Ended by**: Treaty of San Lázaro (1899)
+- **Ended by**: Treaty of Sant Llàtzer (1899)
 - **Key outcome**: Zong gets Sant Cristòfor + Balboa Canal; Sinchew gets southern Balboan strip; Treaty of Remoria voided
 
 ## Belligerents
@@ -32,7 +32,7 @@
 - **Admiral Eneko de Zabala** (Volisanian naval commander) — invented
 - **President Arturo Mendez** (Balboan president) — invented
 - **General Cabdullahi Rooble** (Burawi commander) — invented
-- **Treaty of San Lázaro** (ending treaty) — invented
+- **Treaty of Sant Llàtzer** (ending treaty) — invented
 
 ## Key Dates
 - **1848**: Slavery abolished in Balboa (still Volisanian colony)
@@ -43,7 +43,7 @@
 - **1894**: Sinchewese invasion of southern Balboa opens land front
 - **1894–1896**: Naval stalemate, land fighting in southern Balboa
 - **1897–1899**: Coalition exhaustion, negotiations
-- **1899**: Treaty of San Lázaro signed
+- **1899**: Treaty of Sant Llàtzer signed
 
 ## Casualties (invented — moderate scale, tens of thousands)
 - Zong: ~8,200 killed, ~11,000 wounded
@@ -71,7 +71,7 @@
 
 ## Relationship to Other Articles
 - **First War of the Isthmus** (1711–1716): Predecessor conflict; Treaty of Remoria gave Zong passage rights
-- **Treaty of Remoria**: Superseded by Treaty of San Lázaro
+- **Treaty of Remoria**: Superseded by Treaty of Sant Llàtzer
 - **Maana Kadar**: Served in this war at age 21; formative political experience
 - **Zong blockade of Daras**: References Zong's dominance in Lurandia after the Second War
 - **Great Adonian War**: Volisanian revanchism over Sant Cristòfor is a contributing cause

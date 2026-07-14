@@ -1,0 +1,44 @@
+{{Infobox airport
+| name         = L'Estany Airport
+| nativename   = {{native name|ca|Aeroport de L'Estany|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = LES
+| ICAO         = LEIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[L'Estany]]
+| location     = [[Estret Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|0|53|N|94|06|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 85,000 (2025)
+| stat-year    = 2025
+}}
+
+'''L'Estany Airport''' ({{lang|ca|Aeroport de L'Estany}}; [[IATA airport code|IATA]]: LES, [[ICAO airport code|ICAO]]: LEIB) is a domestic airport serving [[L'Estany]], a lakeside resort community in [[Estret Province]], [[Balboa]]. The airport is located in the lake district of the interior Estret lowlands and serves the surrounding resort areas. It is served by [[Aeroístmus]], which operates essential services from [[Cecilio Ríos International Airport|Sant Bart]].
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Estret Province]]

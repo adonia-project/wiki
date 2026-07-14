@@ -1,0 +1,44 @@
+{{Infobox airport
+| name         = Sant Martí del Nord Airport
+| nativename   = {{native name|ca|Aeroport de Sant Martí del Nord|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = SMN
+| ICAO         = SMIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Sant Martí del Nord]]
+| location     = [[La Taula|La Taula comarca]], [[Tramuntana Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|8|24|N|93|44|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 40,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Sant Martí del Nord Airport''' ({{lang|ca|Aeroport de Sant Martí del Nord}}; [[IATA airport code|IATA]]: SMN, [[ICAO airport code|ICAO]]: SMIB) is a domestic airport serving [[Sant Martí del Nord]], a remote highland community in the [[La Taula]] comarca of [[Tramuntana Province]], [[Balboa]]. The airport is located in the far north of the isthmus and is the northernmost airport in the country. It is served by [[Aeroístmus]], which operates essential services from [[Cecilio Ríos International Airport|Sant Bart]].
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Tramuntana Province]]

@@ -1,0 +1,148 @@
+{{Infobox
+| title = List of airports in Balboa
+| bodyclass = hlist
+| above = Aviation in [[Balboa]]
+| image =
+| header1 = Airline hubs
+| label2 = [[Aeroístmus]]
+| data2 = [[Sant Cristòfor International Airport|Sant Cristòfor]] (primary)<br>[[Cecilio Ríos International Airport|Sant Bart]] (secondary)
+| label3 = [[RapidAir (Balboa)|RapidAir]]
+| data3 = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
+| label4 = [[AeroTerminus]]
+| data4 = [[Illa Daurada Airport|Illa Daurada]]
+| header5 = Statistics
+| label6 = Total airports
+| data6 = 23
+| label7 = International airports
+| data7 = 6
+| label8 = Domestic/regional
+| data8 = 17
+| label9 = Total passengers (2025)
+| data9 = 52,297,000
+}}
+
+This is a '''list of airports in [[Balboa]]''', a country comprising five provinces on the [[Balboa Isthmus|isthmus]] connecting the [[Shendan Ocean|Shendan]] and [[Aethiopian Ocean|Aethiopian]] coasts. Balboa has 23 public airports, of which 6 are designated as international and 17 serve domestic and regional traffic. The country's principal gateway is [[Sant Cristòfor International Airport]] (SCI), which handled approximately 34.8 million passengers in 2025 and serves as the primary hub for the flag carrier [[Aeroístmus]] and the low-cost carrier [[RapidAir (Balboa)|RapidAir]].
+
+The [[Balboa Airports Authority]], a government agency under the [[Ministry of Transport (Balboa)|Ministry of Transport]], owns and operates all public airports in the country. The authority was established in 1973 following the [[Treaty of Areza]] and the transfer of the [[Balboa Canal|canal zone]] to Balboan sovereignty, consolidating previously separate municipal and provincial airport administrations under a single national body.
+
+== International airports ==
+
+{| class="wikitable sortable"
+|-
+! Airport !! IATA !! ICAO !! Province !! City served !! Passengers (2025) !! Hub for !! Article
+|-
+| [[Sant Cristòfor International Airport|Sant Cristòfor International]] || SCI || SCIB || [[Estret Province|Estret]] || [[Sant Cristòfor]] || 34,812,000 || [[Aeroístmus]], [[RapidAir (Balboa)|RapidAir]] || [[Sant Cristòfor International Airport|Yes]]
+|-
+| [[Cecilio Ríos International Airport|Cecilio Ríos International]] || SBT || SBIB || [[Jala Province|Jala]] || [[Sant Bart]] || 6,842,000 || [[Aeroístmus]], [[RapidAir (Balboa)|RapidAir]] || [[Cecilio Ríos International Airport|Yes]]
+|-
+| [[Portnou International Airport|Portnou International]] || PNU || PNIB || [[Estret Province|Estret]] || [[Portnou]] || 3,240,000 || — || [[Portnou International Airport|Yes]]
+|-
+| [[Badia Curta International Airport|Badia Curta International]] || BDC || BDIB || [[Jala Province|Jala]] || [[Badia Curta]] || 1,800,000 || — || [[Badia Curta International Airport|Yes]]
+|-
+| [[Sant Llàtzer International Airport|Sant Llàtzer International]] || SLZ || SLIB || [[Migjorn Province|Migjorn]] || [[Sant Llàtzer]] || 1,800,000 || — || [[Sant Llàtzer International Airport|Yes]]
+|-
+| [[Haicang International Airport|Haicang International]] || HAI || HAIB || [[Estret Province|Estret]] || [[Haicang]] || 1,200,000 || — || [[Haicang International Airport|Yes]]
+|}
+
+== Domestic and regional airports ==
+
+{| class="wikitable sortable"
+|-
+! Airport !! IATA !! ICAO !! Province !! City served !! Passengers (2025) !! Jet-capable !! Article
+|-
+| [[Novara Airport|Novara]] || NOV || NOIB || [[Nurra Province|Nurra]] || [[Novara]] || 1,100,000 || Yes || [[Novara Airport|Yes]]
+|-
+| [[Vellmar Airport|Vellmar]] || VEL || VEIB || [[Nurra Province|Nurra]] || [[Vellmar]] || 720,000 || Yes || [[Vellmar Airport|Yes]]
+|-
+| [[Campdària Airport|Campdària]] || CDA || CDIB || [[Migjorn Province|Migjorn]] || [[Campdària]] || 650,000 || Yes || [[Campdària Airport|Yes]]
+|-
+| [[Portblanc Airport|Portblanc]] || PBL || PBIB || [[Tramuntana Province|Tramuntana]] || [[Portblanc]] || 480,000 || Yes || [[Portblanc Airport|Yes]]
+|-
+| [[Marie Torres Airport|Marie Torres]] || MTR || MTIB || [[Migjorn Province|Migjorn]] || [[Sant Agneu]] || 280,000 || Yes || [[Marie Torres Airport|Yes]]
+|-
+| [[Illes del Guano Airport|Illes del Guano]] || IGU || IGIB || [[Estret Province|Estret]] || [[Illes del Guano]] || 220,000 || Yes || [[Illes del Guano Airport|Yes]]
+|-
+| [[Costabella Airport|Costabella]] || CBL || CBIB || [[Nurra Province|Nurra]] || [[Costabella]] || 320,000 || No || [[Costabella Airport|Yes]]
+|-
+| [[Altaneu Airport|Altaneu]] || ALT || ALIB || [[Jala Province|Jala]] || [[Altaneu]] || 350,000 || Yes || [[Altaneu Airport|Yes]]
+|-
+| [[Platja d'Aro Airport|Platja d'Aro]] || PDA || PDIB || [[Migjorn Province|Migjorn]] || [[Platja d'Aro]] || 180,000 || No || [[Platja d'Aro Airport|Yes]]
+|-
+| [[Amelio Perez Airport|Amelio Perez]] || AMP || AMIB || [[Estret Province|Estret]] || [[Costa Yiren]] || 140,000 || No || [[Amelio Perez Airport|Yes]]
+|-
+| [[Santa Caterina Airport|Santa Caterina]] || STC || STIB || [[Migjorn Province|Migjorn]] || [[Santa Caterina]] || 95,000 || No || [[Santa Caterina Airport|Yes]]
+|-
+| [[Sant Cristòfor Els Aiguamolls Airport|Sant Cristòfor Els Aiguamolls]] || EAI || EAIB || [[Estret Province|Estret]] || [[Sant Cristòfor]] (north) || 80,000 || Yes || [[Sant Cristòfor Els Aiguamolls Airport|Yes]]
+|-
+| [[Foia Gran Airport|Foia Gran]] || FOI || FOIB || [[Nurra Province|Nurra]] || [[Foia Gran]] || 75,000 || No || [[Foia Gran Airport|Yes]]
+|-
+| [[L'Estany Airport|L'Estany]] || LES || LEIB || [[Estret Province|Estret]] || [[L'Estany]] || 85,000 || No || [[L'Estany Airport|Yes]]
+|-
+| [[Illa Daurada Airport|Illa Daurada]] || IDA || IDIB || [[Estret Province|Estret]] || [[Illa Daurada]] || 60,000 || Yes || [[Illa Daurada Airport|Yes]]
+|-
+| [[Sant Jorge Airport|Sant Jorge]] || SJD || SJIB || [[Tramuntana Province|Tramuntana]] || [[Sant Jorge]] || 55,000 || No || [[Sant Jorge Airport|Yes]]
+|-
+| [[Sant Martí del Nord Airport|Sant Martí del Nord]] || SMN || SMIB || [[Tramuntana Province|Tramuntana]] || [[Sant Martí del Nord]] || 40,000 || No || [[Sant Martí del Nord Airport|Yes]]
+|}
+
+== Airports by province ==
+
+{| class="wikitable"
+|-
+! Province !! Airports !! Count
+|-
+| [[Estret Province|Estret]] || SCI, PNU, HAI, EAI, AMP, IGU, LES, IDA || 8
+|-
+| [[Jala Province|Jala]] || SBT, BDC, ALT || 3
+|-
+| [[Migjorn Province|Migjorn]] || SLZ, CDA, PDA, STC, MTR || 5
+|-
+| [[Nurra Province|Nurra]] || NOV, CBL, FOI, VEL || 4
+|-
+| [[Tramuntana Province|Tramuntana]] || PBL, SJD, SMN || 3
+|}
+
+== Airlines operating in Balboa ==
+
+{| class="wikitable sortable"
+|-
+! Airline !! Type !! Home country !! Hubs in Balboa !! Notes
+|-
+| [[Aeroístmus]] || Flag carrier || [[Balboa]] || SCI, SBT || Full-service; domestic and international
+|-
+| [[RapidAir (Balboa)|RapidAir]] || Low-cost || [[Balboa]] || SCI, SBT || Domestic and short-haul international
+|-
+| [[AeroTerminus]] || Regional/charter || [[Balboa]] || IDA || Based at Illa Daurada; 2 E175 (dry-leased from Aeroístmus) and 1 Beechcraft 1900
+|-
+| Volisanian Airlines || Full-service || [[Volisania]] || — || Routes to Ampuria, Antibole
+|-
+| Okaiken Air || Full-service || [[Okaiken]] || — || Routes to Okami-Tobu (from SCI, BDC)
+|-
+| Baliscana || Full-service || [[Balisca]] || — || Routes to Castejón, Macaio
+|-
+| Dawati || Full-service || [[Burawa]] || — || Routes to Kankadadka, Iskhal
+|-
+| Zong Airways || Full-service || [[Zong]] || — || Routes to Huwei
+|-
+| Sinchew Air || Full-service || [[Sinchew]] || — || Routes to Tamsui (from SCI, SBT, SLZ, HAI)
+|-
+| SAK Varkana || Full-service || [[Varkana]] || — || Routes to Klow
+|-
+| Louyang Airways || Full-service || [[Louyang]] || — || Routes to Anping
+|-
+| Central Airlines || — || [[United Midlands]] || — || Routes to Brukelyn
+|}
+
+== Naming conventions ==
+
+Balboan airport ICAO codes follow the convention of the IATA code followed by the suffix "IB" (for Istme de Balboa). For example, Sant Cristòfor International Airport has IATA code SCI and ICAO code SCIB. The sole exception is the [[International City of Areza]], which is not part of Balboa and whose airport ([[Areza International Airport]]) uses the ICAO prefix AEIB.
+
+Three airports are named after historical figures: [[Cecilio Ríos International Airport]] is named after [[Cecilio Ríos]], the fourth president of the Republic of Balboa (1956–1962), who negotiated the [[Twelve Guarantees]] and signed the [[Treaty of Balboa Harbour]]; [[Amelio Perez Airport]] is named after [[Amelio Perez]], a governor of Estret Province assassinated in 1989; and [[Marie Torres Airport]] is named after [[Marie Torres]], a pioneering Balboan aviator.
+
+== See also ==
+
+* [[Transport in Balboa]]
+* [[Aeroístmus]]
+* [[RapidAir (Balboa)|RapidAir]]
+* [[AeroTerminus]]
+* [[Balboa Airports Authority]]

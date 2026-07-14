@@ -1,0 +1,88 @@
+{{Infobox airline
+| airline = AeroTerminus
+| IATA = B8
+| ICAO = BTA
+| callsign = TERMINUS
+| founded = 1977
+| commenced = 1977
+| bases = [[Illa Daurada Airport|Illa Daurada]]
+| hubs = 
+| fleet_size = 3
+| destinations = 5
+| parent = Independent
+| headquarters = [[Illa Daurada]], [[Estret Province|Estret]], [[Balboa]]
+| key_people = Marta Riera (CEO)
+| num_employees = 30
+| revenue = B4.5 million (2024)
+}}
+
+'''AeroTerminus''' is a regional and {{w|charter airline|charter}} carrier based at [[Illa Daurada Airport]] in [[Illa Daurada]], [[Estret Province|Estret]], [[Balboa]]. It operates scheduled regional flights from Illa Daurada to [[Portnou]] and [[Sant Bart]], as well as charter services to [[Costabella]] and [[Sant Cristòfor Els Aiguamolls Airport|Els Aiguamolls]]. The airline is the sole scheduled carrier serving Illa Daurada, an island community in the [[Badia de Sant Cristòfor]], and is an independent company.
+
+== History ==
+
+=== Founding and early operations (1977–1988) ===
+
+AeroTerminus was founded in 1977 by Francesc Riera (c. 1935–2001), a former [[Balboan Defence Forces|naval aviator]] from Illa Daurada who had transitioned to civilian charter flying after his military service. Riera recognised that the liberalisation of foreign real-estate ownership — introduced during the [[1968–1978 Balboa recession]] to attract capital to the [[Estret Province|Estret]] corridor — was creating a class of affluent clients who required frequent travel between [[Sant Cristòfor International Airport|Sant Cristòfor]], [[Portnou International Airport|Portnou]], [[Illa Daurada Airport|Illa Daurada]], and [[Cecilio Ríos International Airport|Sant Bart]]. The timing coincided with the beginning of the [[Balboa real-estate bubble]], which would inflate property values and construction activity in the Estret corridor through the late 1980s.
+
+The airline operated a single {{w|Boeing 737-200|Boeing 737-200}} on on-demand charter services for foreign investors, developers, and domestic property owners. The aircraft was suited to the short sectors between the Estret corridor airports and could operate from Illa Daurada's runway.
+
+The [[Balboa real-estate bubble|real-estate bubble]] burst in 1987, and the subsequent [[Balboa real-estate asset crisis]] devastated the Balboan financial system. The collapse of property values, the failure of several banks, and the insolvency of [[Banc Balboa]] by mid-1988 eliminated the wealthy clientele on which AeroTerminus depended. The airline {{w|bankruptcy|went bankrupt}} in 1988, and Riera was removed from the company.
+
+=== Restructuring and relaunch (1988–present) ===
+
+Following the bankruptcy, AeroTerminus was restructured by its creditors and re-emerged as a scheduled regional carrier focused on [[Illa Daurada Airport]] as its operating base. The restructured airline abandoned the charter model that had depended on the real-estate boom's wealthy clientele and shifted to scheduled regional flights connecting Illa Daurada — an island community with limited transport alternatives — to [[Portnou International Airport|Portnou]] and [[Cecilio Ríos International Airport|Sant Bart]]. The airline also retained a limited charter operation, serving [[Costabella Airport|Costabella]] and [[Sant Cristòfor Els Aiguamolls Airport|Els Aiguamolls]] on an on-demand basis.
+
+Riera's daughter, Marta Riera (b. c. 1968), joined the restructured airline in 1990 as a ground operations assistant and worked her way through the company's ranks during the 1990s and 2000s. She became CEO in 2012 and led the fleet transition from the ageing {{w|BAe 146}} to the {{w|Embraer E-Jet E2|Embraer E175}}, which was {{w|dry lease|dry leased}} from [[Aeroístmus]] to replace the Whisperjet fleet. In c. 2024, the E175s were replaced by two {{w|ATR 72|ATR 72-600}}s, also dry leased from Aeroístmus, offering better fuel economy on the short island sectors.
+
+== Destinations ==
+
+{| class="wikitable sortable"
+|-
+! Destination !! Type !! Airport
+|-
+| [[Illa Daurada Airport|Illa Daurada]] || Base || [[Illa Daurada Airport]]
+|-
+| [[Portnou International Airport|Portnou]] || Scheduled || [[Portnou International Airport]]
+|-
+| [[Cecilio Ríos International Airport|Sant Bart]] || Scheduled || [[Cecilio Ríos International Airport]]
+|-
+| [[Costabella Airport|Costabella]] || Charter || [[Costabella Airport]]
+|-
+| [[Sant Cristòfor Els Aiguamolls Airport|Els Aiguamolls]] || Charter || [[Sant Cristòfor Els Aiguamolls Airport]]
+|}
+
+== Fleet ==
+
+=== Current fleet ===
+
+{| class="wikitable sortable"
+|-
+! Aircraft !! In service !! Role !! Leased from !! Notes
+|-
+| {{w|ATR 72|ATR 72-600}} || 2 || Scheduled || [[Aeroístmus]] || {{w|Dry lease|Dry leased}} from Aeroístmus; used for IDA–PNU and IDA–SBT routes; replaced E175 c. 2024
+|-
+| {{w|Beechcraft 1900}} || 1 || Charter || — || Used for charter flights to CBL and EAI; suited to short runways and turboprop-only airports
+|}
+
+=== Historical fleet ===
+
+{| class="wikitable sortable"
+|-
+! Aircraft !! Period !! Notes
+|-
+| {{w|Boeing 737-200|Boeing 737-200}} || 1977–1988 || Original charter aircraft; disposed of during bankruptcy
+|-
+| {{w|BAe 146}} || c. 1989–c. 2014 || Known as the "Whisperjet"; acquired after restructuring for scheduled regional services; suited to the clientele's expectations of a jet aircraft; retired as the type aged and parts became scarce
+|-
+| {{w|Beechcraft King Air|Beechcraft King Air 200}} || c. 1989–c. 2000s || Small turboprop used for charter flights to turboprop-only airports; replaced by the Beechcraft 1900
+|-
+| {{w|Embraer E-Jet E2|Embraer E175}} || c. 2014–c. 2024 || Dry leased from Aeroístmus; replaced BAe 146; in turn replaced by ATR 72-600 for better fuel economy on short island sectors
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[RapidAir (Balboa)|RapidAir]]
+* [[Balboa real-estate bubble]]
+* [[Balboa real-estate asset crisis]]

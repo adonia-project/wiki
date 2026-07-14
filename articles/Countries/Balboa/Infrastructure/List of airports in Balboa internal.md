@@ -22,7 +22,7 @@
 |---|---------|------|------|----------|---------|-------------|-------------|-------------------|-------|
 | 4 | Sant Llàtzer International Airport | SLZ | SLIB | Migjorn | El Delta | Sant Llàtzer | -0.36, -93.65 | 1,800,000 | Provincial capital; canal Aethiopian terminus; Sinchew Air → Tamsui |
 | 5 | Haicang International Airport | HAI | HAIB | Estret | La Marina | Haicang | 1.26, -93.43 | 1,200,000 | Zong-era naval base (Hokkien 海港 "sea port"); now naval station + ship repair; Fosian Balboan community; Sinchew Air → Tamsui |
-| 6 | Badia Curta International Airport | BDC | BDIB | Jala | (Badia Curta area) | Badia Curta | 4.20, -93.33 | 1,800,000 | Industrial city; business travelers; Okaiken Air → Okami-Tobu; Aeroístmus → Sanropura |
+| 6 | Badia Curta International Airport | BDC | BDIB | Jala | (Badia Curta area) | Badia Curta | 4.20, -93.33 | 1,800,000 | Industrial city; business travelers; Okaiken Air → Okami-Tobu; Aeroístmus → Sanropura and Tanjung Seroja |
 
 ### Regional/Domestic Airports (existing articles)
 
@@ -163,7 +163,7 @@ Charter:
 
 ### From BDC (Badia Curta International) — needs article
 - Okaiken Air → Okami-Tobu
-- Aeroístmus → Sanropura (Sanrobonia)
+- Aeroístmus → Sanropura (Sanrobonia), Tanjung Seroja (Sanrobonia; daily A321neo)
 
 ## Open Questions
 

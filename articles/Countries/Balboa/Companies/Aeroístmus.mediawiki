@@ -17,8 +17,8 @@
 | bases = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | hubs = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | alliance = [[Adonian Arrow]]
-| fleet_size = 30
-| destinations = 41
+| fleet_size = 45
+| destinations = 40
 | parent = Aeroístmus S.A.
 | traded_as = {{ubl|SCX: AER|[[Bolsa de Sant Cristòfor]]}}
 | headquarters = [[Sant Cristòfor]], [[Sant Cristòfor (comarca)|Sant Cristòfor comarca]], [[Estret Province]], [[Balboa]]
@@ -68,17 +68,17 @@ In the 2000s, Aeroístmus continued to modernise its fleet, replacing the Boeing
 
 == Destinations ==
 
-Aeroístmus operates 41 destinations: 22 domestic and 19 international. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
+Aeroístmus operates 40 destinations: 22 domestic and 18 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
 
 {| class="wikitable sortable"
 |-
 ! Country/territory !! City !! Airport !! Notes
 |-
-|rowspan="22"|[[Balboa]]||rowspan="2"| Sant Cristòfor ||[[Sant Cristòfor International Airport|Sant Cristòfor]]|| Hub
+|rowspan="22"|[[Balboa]]||rowspan="2"| Sant Cristòfor ||[[Sant Cristòfor International Airport|Sant Cristòfor]]|| {{Airline hub}}
 |-
 ||[[Sant Cristòfor Els Aiguamolls Airport|Sant Cristòfor Els Aiguamolls]]||
 |-
-|| Sant Bart ||[[Cecilio Ríos International Airport|Cecilio Ríos]]|| Hub
+|| Sant Bart ||[[Cecilio Ríos International Airport|Cecilio Ríos]]|| {{Airline hub}}
 |-
 || Portnou ||[[Portnou International Airport|Portnou]]||
 |-
@@ -98,31 +98,33 @@ Aeroístmus operates 41 destinations: 22 domestic and 19 international. The airl
 |-
 || Altaneu ||[[Altaneu Airport|Altaneu]]||
 |-
-|| Sant Agneu ||[[Marie Torres Airport|Marie Torres]]|| Essential services
+|| Sant Agneu ||[[Marie Torres Airport|Marie Torres]]||
 |-
-|| Illes del Guano ||[[Illes del Guano Airport|Illes del Guano]]|| Essential services
+|| Illes del Guano ||[[Illes del Guano Airport|Illes del Guano]]||
 |-
-|| Sant Jorge ||[[Sant Jorge Airport|Sant Jorge]]|| Essential services
+|| Sant Jorge ||[[Sant Jorge Airport|Sant Jorge]]||
 |-
 || Sant Llàtzer ||[[Sant Llàtzer International Airport|Sant Llàtzer]]||
 |-
-|| L'Estany ||[[L'Estany Airport|L'Estany]]|| Essential services
+|| L'Estany ||[[L'Estany Airport|L'Estany]]||
 |-
-|| Costa Yiren ||[[Amelio Perez Airport|Amelio Perez]]|| Essential services
+|| Costa Yiren ||[[Amelio Perez Airport|Amelio Perez]]||
 |-
-|| Santa Caterina ||[[Santa Caterina Airport|Santa Caterina]]|| Essential services
+|| Santa Caterina ||[[Santa Caterina Airport|Santa Caterina]]||
 |-
-|| Platja d'Aro ||[[Platja d'Aro Airport|Platja d'Aro]]|| Essential services
+|| Platja d'Aro ||[[Platja d'Aro Airport|Platja d'Aro]]||
 |-
-|| Foia Gran ||[[Foia Gran Airport|Foia Gran]]|| Essential services
+|| Foia Gran ||[[Foia Gran Airport|Foia Gran]]||
 |-
-|| Sant Martí del Nord ||[[Sant Martí del Nord Airport|Sant Martí del Nord]]|| Essential services
+|| Sant Martí del Nord ||[[Sant Martí del Nord Airport|Sant Martí del Nord]]||
 |-
 |[[Asikyira]]|| Sanu-Sasso ||[[Sanu-Sasso Airport|Sanu-Sasso]]||
 |-
 |[[Balisca]]|| Castejón ||[[Concordia International Airport|Castejón]]||
 |-
 |[[Burawa]]|| Iskhal ||[[Iskhal International Airport|Iskhal]]||
+|-
+|[[Dagit]]|| Akyatan ||[[Akyatan Airport|Akyatan]]|| {{Terminated}}
 |-
 |[[Galwa]]|| Hargiesa ||[[Hargiesa International Airport|Hargiesa]]||
 |-
@@ -134,21 +136,21 @@ Aeroístmus operates 41 destinations: 22 domestic and 19 international. The airl
 |-
 |[[Potocsí]]|| Port Soledat ||[[Port Soledat Airport|Port Soledat]]||
 |-
-|rowspan="8"|[[Sanrobonia]]|| Tanjung Seroja ||[[Tanjung Seroja International Airport|Tanjung Seroja]]|| 4 daily; peak A330 rotation
+|rowspan="8"|[[Sanrobonia]]|| Tanjung Seroja ||[[Tanjung Seroja International Airport|Tanjung Seroja]]||
 |-
-|| Sanropura ||[[Iskandar Setiadji International Airport|Sanropura]]|| 2 daily from Sant Cristòfor; Monday, Wednesday, and Friday from Sant Bart
+|| Sanropura ||[[Iskandar Setiadji International Airport|Sanropura]]||
 |-
-|| Martapura ||[[Pasirmajang Gateway Airport|Pasirmajang]]|| Daily
+|| Martapura ||[[Pasirmajang Gateway Airport|Pasirmajang]]||
 |-
-|| Kutawaringin ||[[Marowa Sangaji International Airport|Kutawaringin]]|| Daily
+|| Kutawaringin ||[[Marowa Sangaji International Airport|Kutawaringin]]||
 |-
-|| Sayara-Tanjung Emasan ||[[Sayamas International Airport|Sayara-Tanjung Emasan]]|| Daily
+|| Sayara–Tanjung Emasan ||[[Sayamas International Airport|Sayara–Tanjung Emasan]]|| {{Airline seasonal|Begins October 1, 2026}}
 |-
-|| Karanu ||[[Anacaona International Airport|Karanu]]|| Daily
+|| Karanu ||[[Anacaona International Airport|Karanu]]||
 |-
-|| Sungaipura ||[[Abdul Karim International Airport|Sungaipura]]|| 2 daily
+|| Sungaipura ||[[Abdul Karim International Airport|Sungaipura]]||
 |-
-|| Pinangsiang ||[[Pinangsiang International Airport|Pinangsiang]]|| 2 daily
+|| Pinangsiang ||[[Pinangsiang International Airport|Pinangsiang]]||
 |-
 |[[Sinchew]]|| Tamsui ||[[Tamsui International Airport|Tamsui]]||
 |-
@@ -169,7 +171,8 @@ The codeshare with [[Baliscana]] covers connecting services beyond [[Castejón]]
 
 === Current fleet ===
 
-[[File:Aeroístmus Airbus A321 climbing from SBT.png|thumb|right|300px|An Aeroístmus Airbus A321 departing Sant Bart on a domestic trunk service.]]
+
+As of December 2025, Aeroístmus operates the following aircraft:
 
 {| class="wikitable" style="text-align:center; margin:auto;"
 |+ Aeroístmus fleet
@@ -186,32 +189,55 @@ The codeshare with [[Baliscana]] covers connecting services beyond [[Castejón]]
 ! style="width:25px;" | <abbr title="Economy Class">Y</abbr>
 ! style="width:50px;" | Total
 |-
-| rowspan="2" | {{w|Airbus A321}}
+| rowspan="2" | {{w|Airbus A320 family|Airbus A320-200}}
 | rowspan="2" | 8
-| rowspan="2" | 13
+| rowspan="2" | —
 | —
 | 12
 | 42
 | 144
 | 198
-| Four aircraft in business, premium economy, and economy configuration. Additional A321-family aircraft are planned for the Sanrobonian expansion.
+| Business, premium economy, and economy configuration used on domestic trunk and short-haul international services.
 |-
 | —
 | —
 | 54
 | 150
 | 204
-| Four aircraft in higher-density premium economy and economy configuration.
+| Higher-density premium economy and economy configuration retained for selected regional services.
 |-
-| {{w|Airbus A330|Airbus A330-300}}
-| 5
-| 1
+| {{w|Airbus A321neo}}
+| 14
+| 20
+| —
+| 24
+| 42
+| 126
+| 192
+| Premium-heavy configuration used on the Tanjung Seroja financial-hub routes, including Sant Cristòfor and Badia Curta services.
+|-
+| rowspan="2" | {{w|Airbus A330|Airbus A330-300}}
+| rowspan="2" | 6
+| rowspan="2" | —
 | —
 | 24
 | 49
 | 176
 | 249
-| Medium-haul international configuration. One additional widebody is planned for the peak Tanjung Seroja rotation.
+| Medium-haul international configuration used on routes such as Castejón, Hargiesa, and Port Soledat.
+|-
+| —
+| 36
+| 49
+| 144
+| 229
+| Premium-heavy configuration used on the peak Tanjung Seroja rotation.
+|-
+| {{w|Airbus A330neo|Airbus A330-900}}
+| —
+| 15
+| colspan="5" | TBD
+| On order for medium-haul fleet renewal and additional widebody capacity.
 |-
 | rowspan="2" | {{w|Boeing 777|Boeing 777-300ER}}
 | rowspan="2" | 5
@@ -230,6 +256,12 @@ The codeshare with [[Baliscana]] covers connecting services beyond [[Castejón]]
 | 250
 | Business-heavy long-haul configuration used by one aircraft.
 |-
+| {{w|Airbus A350|Airbus A350-900}}
+| —
+| 2
+| colspan="5" | TBD
+| On order to replace the Boeing 777-300ER; planned full-height suite first class product.
+|-
 | {{w|ATR 72|ATR 72-600}}
 | 11
 | —
@@ -246,77 +278,7 @@ The codeshare with [[Baliscana]] covers connecting services beyond [[Castejón]]
 | colspan="5" | Cargo
 | Freighter operated by Aeroístmus Cargo on the SCI–Ampuria cargo route.
 |}
-
-=== Sanrobonia expansion allocation ===
-
-The Sanrobonian expansion is planned around 13 A321-family aircraft and one A330-family aircraft. Most Sanrobonian routes are to be operated by A321 aircraft. The Tanjung Seroja route is planned as a higher-yield business route with four daily frequencies, including three A321 rotations and one peak A330 rotation.
-
-{| class="wikitable" style="text-align:center; margin:auto;"
-|+ Planned Sanrobonia route cabin allocation
-|-
-! rowspan="2" | Aircraft
-! rowspan="2" | Assigned aircraft
-! rowspan="2" | Configuration
-! colspan="5" | Passengers
-! rowspan="2" | Notes
-|-
-! style="width:25px;" | <abbr title="First Class">F</abbr>
-! style="width:25px;" | <abbr title="Business Class">J</abbr>
-! style="width:25px;" | <abbr title="Premium Economy Class / Economy+">W</abbr>
-! style="width:25px;" | <abbr title="Economy Class">Y</abbr>
-! style="width:50px;" | Total
-|-
-| rowspan="3" | {{w|Airbus A321}}
-| rowspan="3" | 13
-| Standard J/W/Y
-| —
-| 12
-| 42
-| 144
-| 198
-| Used for most Sanrobonian routes outside the Tanjung Seroja financial-hub schedule.
-|-
-| Tanjung Seroja premium
-| —
-| 24
-| 42
-| 126
-| 192
-| Proposed premium-heavy A321 configuration for the three daily A321 Tanjung Seroja frequencies.
-|-
-| W/Y
-| —
-| —
-| 54
-| 150
-| 204
-| Existing higher-density A321 configuration; not the preferred layout for the Sanrobonian business routes.
-|-
-| {{w|Airbus A330}}
-| 1
-| Tanjung Seroja premium
-| —
-| 36
-| 49
-| 144
-| 229
-| Proposed premium-heavy A330 configuration for the peak Tanjung Seroja rotation.
-|}
-
-If Tanjung Seroja uses the existing Aeroístmus configurations, the daily one-way capacity would be 843 seats: 60 business, 175 premium economy/Economy+, and 608 economy seats. Under the proposed premium-heavy Tanjung Seroja plan, daily one-way capacity would be 805 seats: 108 business, 175 premium economy/Economy+, and 522 economy seats.
-
-=== Aircraft on order ===
-
-{| class="wikitable"
-|-
-! Aircraft !! Ordered !! Role !! Notes
-|-
-| {{w|Airbus A321neo}} || 13 || Sanrobonia expansion || Additional narrowbody aircraft for high-frequency Sanrobonian services
-|-
-| {{w|Airbus A330neo}} || 1 || Sanrobonia expansion / medium-haul international || Additional widebody capacity for the Tanjung Seroja peak rotation; also eventual replacement type for the A330-300 fleet
-|-
-| {{w|Airbus A350|Airbus A350-900}} || 2 || Long-haul international || To replace the Boeing 777-300ER; planned full-height suite first class product
-|}
+[[File:Aeroístmus Airbus A321 climbing from SBT.png|thumb|right|300px|An Aeroístmus Airbus A321 departing Sant Bart on a domestic trunk service.]]
 
 === Historical fleet ===
 

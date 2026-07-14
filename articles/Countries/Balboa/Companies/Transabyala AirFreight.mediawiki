@@ -1,0 +1,66 @@
+{{Infobox airline
+| airline = Transabyala AirFreight
+| IATA = TA
+| ICAO = TBA
+| callsign = TRANSABYALA
+| founded = 2005
+| commenced = 2005
+| bases = [[Portnou International Airport|Portnou]]
+| hubs =
+| fleet_size = 3
+| destinations = 6
+| parent = Independent
+| headquarters = [[Portnou]], [[Marjal del Canal (comarca)|Marjal del Canal]], [[Estret Province]], [[Balboa]]
+| key_people =
+| num_employees = ~80
+| revenue = $28 million (2024)
+}}
+
+'''Transabyala AirFreight''' is a [[Balboa]]n {{w|cargo airline}} based at [[Portnou International Airport]] in [[Portnou]], [[Estret Province]], [[Balboa]]. It operates scheduled and charter cargo services between Portnou and destinations across [[Lurandia]] and the [[Abyala]] region using a fleet of narrowbody freighter aircraft. The airline is privately owned and independent.
+
+The airline's name derives from its operational focus: providing air freight connections across the Abyala region, linking the Portnou port complex — the [[Balboa Canal|canal]]'s Shendan terminus — with Lurandian and Abyalan destinations. Transabyala AirFreight is the only dedicated cargo airline based in Balboa.
+
+== History ==
+
+Transabyala AirFreight was founded in 2005 by a group of Portnou-based logistics entrepreneurs who identified a gap in the air cargo market between the canal port complex and the Lurandian and Abyalan regions. While the [[Balboa Canal]] handled the bulk of sea freight between the Shendan and Aethiopian coasts, a subset of cargo — perishable agricultural products, time-sensitive manufactured goods, and high-value items — required faster transit than sea shipping could provide. The founders recognised that [[Portnou International Airport]], with its proximity to the port and its 2003 introduction of international services, offered an ideal base for a dedicated cargo operation.
+
+The airline commenced operations in 2005 with a single converted freighter, initially serving [[Tamsui International Airport|Tamsui]] and [[Gran Port de Sant Mateu International Airport|Gran Port de Sant Mateu]]. The route network expanded over the following years to include destinations across the Lurandian and Abyalan regions, reflecting the growing trade links between the Portnou port and neighbouring territories.
+
+== Destinations ==
+
+Transabyala AirFreight operates scheduled cargo services to the following destinations:
+
+{| class="wikitable sortable"
+|-
+! Country/territory !! City !! Airport !! Notes
+|-
+| [[Balboa]] || Portnou || [[Portnou International Airport|Portnou]] || Base
+|-
+| [[Sinchew]] || Tamsui || [[Tamsui International Airport|Tamsui]] ||
+|-
+| [[Tapuya]] || Gran Port de Sant Mateu || [[Gran Port de Sant Mateu International Airport|Gran Port de Sant Mateu]] ||
+|-
+| [[Asikyira]] || Sanu-Sasso || [[Sanu-Sasso Airport|Sanu-Sasso]] ||
+|-
+| [[Lacashe]] || Guledga || [[Guledga Airport|Guledga]] ||
+|-
+| [[Kaneda]] || Nanaimo || [[Nanaimo Airport|Nanaimo]] ||
+|-
+| [[Kaneda]] || Kanakou || [[Kanakou Airport|Kanakou]] ||
+|}
+
+== Fleet ==
+
+{| class="wikitable sortable"
+|-
+! Aircraft !! In service !! Role !! Notes
+|-
+| {{w|Airbus A321|Airbus A321-200(P2F)}} || 3 || Cargo || Converted passenger-to-freighter aircraft; used on all routes
+|}
+
+== See also ==
+
+* [[Aeroístmus]]
+* [[Portnou International Airport]]
+* [[Balboa Canal]]
+* [[List of airports in Balboa]]

@@ -1,0 +1,46 @@
+{{Infobox airport
+| name         = Altaneu Airport
+| nativename   = {{native name|ca|Aeroport d'Altaneu|italic=no|paren=omit}}
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = ALT
+| ICAO         = ALIB
+| type         = Public
+| owner        = [[Balboa Airports Authority]]
+| operator     = [[Balboa Airports Authority]]
+| city-served  = [[Altaneu]]
+| location     = [[Jala Province]], [[Balboa]]
+| elevation-f  =
+| elevation-m  =
+| coordinates  = {{coord|2|10|N|92|50|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00|BST]] (UTC−5)
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    =
+| r1-length-m  =
+| r1-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 350,000 (2025)
+| stat-year    = 2025
+}}
+
+'''Altaneu Airport''' ({{lang|ca|Aeroport d'Altaneu}}; [[IATA airport code|IATA]]: ALT, [[ICAO airport code|ICAO]]: ALIB) is a domestic airport serving [[Altaneu]], a city in [[Jala Province]], [[Balboa]]. The airport is located in the Jala highlands and is jet-capable. It is served by [[Aeroístmus]] from [[Sant Cristòfor International Airport|Sant Cristòfor]] and by [[RapidAir (Balboa)|RapidAir]].
+
+== Airlines and destinations ==
+
+{| class="wikitable"
+|-
+! Airlines !! Destination
+|-
+| [[Aeroístmus]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|-
+| [[RapidAir (Balboa)|RapidAir]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|}
+
+== See also ==
+
+* [[List of airports in Balboa]]
+* [[Aeroístmus]]
+* [[Jala Province]]

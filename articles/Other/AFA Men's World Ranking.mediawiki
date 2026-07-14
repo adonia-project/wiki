@@ -4,51 +4,83 @@ The '''AFA Men's World Ranking''' is a ranking system for men's national associa
 
 == Current rankings ==
 
-The following table shows the top 20 teams in the AFA Men's World Ranking as of June 2026.
+The following table shows the top 36 teams in the AFA Men's World Ranking as of July 2026, reflecting results from the [[2026 AFA World Cup]].
 
 {| class="wikitable sortable"
 |-
 ! Rank !! Change !! Team !! Points !! Confederation
 |-
-| 1 || — || {{flag|Asikyira}} || 1,842 || Abyala
+| 1 || — || {{flag|Asikyira}} || 1,862 || Abyala
 |-
-| 2 || — || {{flag|Balisca}} || 1,798 || Abyala
+| 2 || — || {{flag|Balisca}} || 1,843 || Abyala
 |-
-| 3 || — || {{flag|Volisania}} || 1,756 || Mesogean
+| 3 || ▲ 1 || {{flag|Sanrobonia}} || 1,806 || Abyala
 |-
-| 4 || — || {{flag|Sanrobonia}} || 1,721 || Abyala
+| 4 || ▲ 1 || {{flag|Orma}} || 1,770 || Mesogean
 |-
-| 5 || ▲ 1 || {{flag|Orma}} || 1,695 || Mesogean
+| 5 || ▼ 2 || {{flag|Volisania}} || 1,746 || Mesogean
 |-
-| 6 || ▼ 1 || {{flag|Jarin}} || 1,688 || Mesogean
+| 6 || — || {{flag|Jarin}} || 1,668 || Mesogean
 |-
-| 7 || — || {{flag|Varkana}} || 1,654 || Mesogean
+| 7 || — || {{flag|Varkana}} || 1,649 || Mesogean
 |-
 | 8 || — || {{flag|Okaiken}} || 1,632 || East Fosia
 |-
-| 9 || ▲ 2 || {{flag|Burawa}} || 1,601 || North and Central Kaftia
+| 9 || — || {{flag|Burawa}} || 1,586 || North and Central Kaftia
 |-
-| 10 || ▼ 1 || {{flag|Balboa}} || 1,587 || Lurandia
+| 10 || ▲ 1 || {{flag|Aetolia}} || 1,573 || Mesogean
 |-
-| 11 || ▼ 1 || {{flag|Aetolia}} || 1,573 || Mesogean
+| 11 || ▼ 1 || {{flag|Balboa}} || 1,572 || Lurandia
 |-
-| 12 || — || {{flag|Ayorin}} || 1,549 || North and Central Kaftia
+| 12 || — || {{flag|Ayorin}} || 1,554 || North and Central Kaftia
 |-
-| 13 || — || {{flag|United Midlands}} || 1,521 || Lurandia
+| 13 || — || {{flag|United Midlands}} || 1,501 || Lurandia
 |-
 | 14 || — || {{flag|Mercia}} || 1,498 || Central Fosia and Southern Illypnia
 |-
-| 15 || ▲ 1 || {{flag|Louyang}} || 1,476 || Lurandia
+| 15 || — || {{flag|Louyang}} || 1,476 || Lurandia
 |-
-| 16 || ▼ 1 || {{flag|Sarta}} || 1,462 || Central Fosia and Southern Illypnia
+| 16 || — || {{flag|Sarta}} || 1,462 || Central Fosia and Southern Illypnia
 |-
-| 17 || — || {{flag|Zong}} || 1,445 || East Fosia
+| 17 || ▲ 1 || {{flag|Pangkajene}} || 1,443 || North Fosia and Kendryian
 |-
-| 18 || ▲ 2 || {{flag|Pangkajene}} || 1,418 || North Fosia and Kendryian
+| 18 || ▼ 1 || {{flag|Zong}} || 1,430 || East Fosia
 |-
-| 19 || — || {{flag|Galwa}} || 1,401 || Mesogean
+| 19 || ▲ 1 || {{flag|Daras}} || 1,397 || Central Fosia and Southern Illypnia
 |-
-| 20 || ▲ 3 || {{flag|Daras}} || 1,387 || Central Fosia and Southern Illypnia
+| 20 || ▼ 1 || {{flag|Galwa}} || 1,391 || Mesogean
+|-
+| 21 || {{new}} || {{flag|Tondano}} || 1,380 || North Fosia and Kendryian
+|-
+| 22 || {{new}} || {{flag|Hersatia}} || 1,370 || Mesogean
+|-
+| 23 || {{new}} || {{flag|Sinchew}} || 1,360 || Lurandia
+|-
+| 24 || {{new}} || {{flag|Sanyan}} || 1,350 || North and Central Kaftia
+|-
+| 25 || {{new}} || {{flag|Nusaraya}} || 1,345 || North Fosia and Kendryian
+|-
+| 26 || {{new}} || {{flag|Kalisongo}} || 1,340 || North and Central Kaftia
+|-
+| 27 || {{new}} || {{flag|Louyan}} || 1,335 || East Fosia
+|-
+| 28 || {{new}} || {{flag|Potocsí}} || 1,330 || Abyala
+|-
+| 29 || {{new}} || {{flag|Kaneda}} || 1,320 || Lurandia
+|-
+| 30 || {{new}} || {{flag|Tamazgha}} || 1,315 || North and Central Kaftia
+|-
+| 31 || {{new}} || {{flag|Dagit}} || 1,310 || North Fosia and Kendryian
+|-
+| 32 || {{new}} || {{flag|Bayan}} || 1,305 || Central Fosia and Southern Illypnia
+|-
+| 33 || {{new}} || {{flag|Nakamizu}} || 1,300 || East Fosia
+|-
+| 34 || {{new}} || {{flag|Yanbaru}} || 1,295 || East Fosia
+|-
+| 35 || {{new}} || {{flag|Jacan}} || 1,290 || Central Fosia and Southern Illypnia
+|-
+| 36 || {{new}} || {{flag|Breisland}} || 1,285 || Central Fosia and Southern Illypnia
 |}
 
 == History ==
