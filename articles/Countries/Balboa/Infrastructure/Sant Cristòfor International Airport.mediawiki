@@ -47,7 +47,7 @@ The airport is notable for its dual-code arrangement: the '''Areza Concourse''' 
 
 === Planning and construction ===
 
-The need for a new airport to serve Sant Cristòfor was identified in the early 1970s, as the existing airport at [[Ciutat de l'Estació (ciutat)|Ciutat de l'Estació]] — which had been rebuilt in 1954 during the [[International Mandate of Sant Cristòfor|AC mandate period]] — was constrained by its urban location and could not be expanded to accommodate jet-era traffic. The [[Balboa Airports Authority]] was established in 1975 to oversee the planning, construction, and operation of the new facility.
+The need for a new airport to serve Sant Cristòfor was identified in the early 1970s, as the existing airport at [[Ciutat de l'Estació (ciutat)|Ciutat de l'Estació]] — which had been rebuilt in 1954 during the [[International Mandate of Sant Cristòfor|AC mandate period]] — was constrained by its urban location and could not be expanded to accommodate jet-era traffic. The [[Balboa Airports Authority]], established in 1973 following the [[Treaty of Areza]], began planning for the new facility in 1975.
 
 A site in [[Sant Martí (ciutat)|Sant Martí]] was selected in 1977, on flat agricultural land approximately 12 km east of the city centre. The site offered room for expansion, clear approaches over the coastal plain, and proximity to the planned Metro Line 1 extension. Construction began in 1979 and was completed in 1984; the airport opened on 15 March 1985.
 
@@ -125,6 +125,27 @@ Runway 09/27 is the primary runway, handling the majority of commercial passenge
 
 Sant Cristòfor International Airport is a major cargo hub, reflecting the city's position at the junction of the Illypnian, Fosian, and Kaftian markets and its proximity to the [[Balboa Canal]]. The airport handled 612,000 tonnes of cargo in 2025, making it the busiest cargo airport in the isthmus region. Cargo facilities are located on the eastern side of the airport, adjacent to Runway 15/33, with dedicated cargo aprons, warehousing, and logistics facilities operated by the [[Balboa Airports Authority]] and private logistics companies.
 
+=== Cargo airlines ===
+
+The following airlines operate dedicated cargo services from Sant Cristòfor International Airport:
+
+{| class="wikitable sortable"
+|-
+! Airline !! Destinations
+|-
+| [[Aeroístmus]] || [[Ampuria International Airport|Ampuria]]
+|-
+| [[Volisanian Airlines|Volisanian Cargo]] || [[Ampuria International Airport|Ampuria]]
+|-
+| [[Sanesair|Sanesair Cargo]] || [[Okami-Tobu International Airport|Okami-Tobu]]
+|-
+| [[Zong Airways|Zong Cargo]] || [[Huwei]]
+|-
+| [[SAK Varkana|SAK Cargo]] || [[President Inga Korsantia International Airport|Klow]]
+|}
+
+In addition to dedicated freighter operations, all passenger airlines operating at SCI carry belly cargo on their passenger services. [[Aeroístmus]] operates the only Balboan-registered freighter at SCI, a {{w|Boeing 777F}} on the Ampuria route, as part of its Aeroístmus Cargo division. The dedicated cargo airline [[Transabyala AirFreight]] operates from [[Portnou International Airport]] rather than SCI, reflecting its focus on regional Lurandian and Abyalan cargo flows through the Portnou port complex.
+
 == Airlines and destinations ==
 
 === SCI-coded services (Terminals A, B, C) ===
@@ -135,15 +156,17 @@ Sant Cristòfor International Airport is a major cargo hub, reflecting the city'
 |-
 | [[Aeroístmus]] || [[Cecilio Ríos International Airport|Sant Bart]], [[Haicang International Airport|Haicang]], [[Badia Curta International Airport|Badia Curta]], [[Campdària Airport|Campdària]], [[Vellmar Airport|Vellmar]], [[Novara Airport|Novara]], [[Costabella Airport|Costabella]], [[Portblanc Airport|Portblanc]], [[Altaneu Airport|Altaneu]], [[Marie Torres Airport|Sant Agneu]], [[Illes del Guano Airport|Illes del Guano]] || A
 |-
-| [[Aeroístmus]] || [[Castejón Airport|Castejón]], [[Guledga Airport|Guledga]], [[Gran Port de Sant Mateu International Airport|Gran Port de Sant Mateu]], [[Tamsui International Airport|Tamsui]], [[Sanu-Sasso Airport|Sanu-Sasso]], [[Nanaimo Airport|Nanaimo]], [[Kanakou Airport|Kanakou]], [[Port Soledat Airport|Port Soledat]] || B
+| [[Aeroístmus]] || [[Concordia International Airport|Castejón]], [[Guledga Airport|Guledga]], [[Gran Port de Sant Mateu International Airport|Gran Port de Sant Mateu]], [[Tamsui International Airport|Tamsui]], [[Sanu-Sasso Airport|Sanu-Sasso]], [[Nanaimo Airport|Nanaimo]], [[Kanakou Airport|Kanakou]], [[Port Soledat Airport|Port Soledat]], [[Iskandar Setiadji International Airport|Sanropura]], [[Tanjung Seroja International Airport|Tanjung Seroja]], [[Pasirmajang Gateway Airport|Pasirmajang]], [[Marowa Sangaji International Airport|Kutawaringin]], [[Sayamas International Airport|Sayara-Tanjung Emasan]], [[Anacaona International Airport|Karanu]], [[Abdul Karim International Airport|Sungaipura]], [[Pinangsiang International Airport|Pinangsiang]] || B
 |-
-| [[Aeroístmus]] || [[Kuluba Airport|Kuluba]], [[Iskhal International Airport|Iskhal]], [[Akyatan Airport|Akyatan]], [[Auxin Airport|Auxin]], [[Sanropura Airport|Sanropura]], [[Aoyama Airport|Aoyama]], || C
+| [[Aeroístmus]] || [[Kuluba Airport|Kuluba]], [[Iskhal International Airport|Iskhal]], [[Akyatan Airport|Akyatan]], [[Auxin Airport|Auxin]], [[Aoyama Airport|Aoyama]] || C
 |-
 | [[RapidAir (Balboa)|RapidAir]] || [[Cecilio Ríos International Airport|Sant Bart]], [[Haicang International Airport|Haicang]], [[Badia Curta International Airport|Badia Curta]], [[Altaneu Airport|Altaneu]], [[Portblanc Airport|Portblanc]], [[Costabella Airport|Costabella]] || A
 |-
 | [[Okaiken Air]] || [[Okami-Tobu International Airport|Okami-Tobu]] || C
 |-
-| [[Baliscana]] || [[Castejón Airport|Castejón]], [[Solana-Macaio Airport|Macaio]] || C
+| [[Sanesair]] || [[Okami-Tobu International Airport|Okami-Tobu]] || C
+|-
+| [[Baliscana]] || [[Concordia International Airport|Castejón]], [[Solana-Macaio Airport|Macaio]] || C
 |-
 | [[Dawati]] || [[Kankadadka International Airport|Kankadadka]], [[Iskhal International Airport|Iskhal]] || C
 |-
@@ -208,7 +231,7 @@ The [[Autoritat de Transport de Sant Cristòfor]] (ATS) operates airport bus rou
 
 {{main|Sant Cristòfor Els Aiguamolls Airport}}
 
-[[Sant Cristòfor Els Aiguamolls Airport]], located in the neighbouring [[Els Aiguamolls]] comarca just north of the city boundary, serves as a complementary facility rather than a relief airport. Els Aiguamolls handles domestic and short-haul regional routes, and is used primarily by residents of the northern ciutats — particularly [[Costa Nord (ciutat)|Costa Nord]] — seeking connections to [[Sant Bart]] and [[Nurra]] without transiting the busier Sant Cristòfor International. [[Aeroístmus]] operates services from Els Aiguamolls, and the airport is connected to the city by commuter rail. The two airports are not formally coordinated but serve distinct markets: Sant Cristòfor International for long-haul and high-density domestic operations, and Els Aiguamolls for domestic point-to-point and regional services.
+[[Sant Cristòfor Els Aiguamolls Airport]], located in the neighbouring [[Els Aiguamolls]] comarca just north of the city boundary, serves as a complementary facility rather than a relief airport. Els Aiguamolls handles domestic and short-haul regional routes, and is used primarily by residents of the northern ciutats — particularly [[Costa Nord (ciutat)|Costa Nord]] — seeking connections to [[Sant Bart]] and [[Nurra]] without transiting the busier Sant Cristòfor International. [[Aeroístmus]] operates services from Els Aiguamolls, and the airport is connected to the caity by commuter rail. The two airports are not formally coordinated but serve distinct markets: Sant Cristòfor International for long-haul and high-density domestic operations, and Els Aiguamolls for domestic point-to-point and regional services.
 
 == See also ==
 

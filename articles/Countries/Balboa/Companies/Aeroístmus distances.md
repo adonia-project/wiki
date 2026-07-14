@@ -30,11 +30,70 @@ Distances calculated from great-circle measurement using coordinates from the "C
 | Gran Port de Sant Mateu | Tapuya | -75.2993, 7.8045 | 2,262 km | 3h |
 | Port Soledat | Potocsí | -83.7870, 23.2130 | 2,748 km | 3h 30min |
 | Guledga | Lacashe | -66.0970, 8.9142 | 3,268 km | 4h |
+| Sanu-Sasso | Lacashe | TBD | ~3,568 km | 4h 30min |
 | Castejón | Balisca | -57.3787, 31.0798 | 5,154 km | 6h 30min |
 | Hargiesa | Galwa | -27.6078, -11.4083 | 7,504 km | 9h |
 | Kankadadka | Burawa | -15.3774, -17.2316 | 8,872 km | 11h |
-| Miyagami | Nakamizu | 140.3520, -27.5510 | 13,480 km | 16h |
-| Okami | Okaiken | 132.6175, -15.8769 | 14,605 km | 17h |
+| Aoyama-Maekawa | Nakamizu | 174.7178, -34.9242 | 10,129 km | 12h |
+| Okami | Okaiken | 158.2631, -16.6647 | 11,873 km | 14h |
+
+## SBT-based distances
+
+| City | Country | Distance from SBT | Est. flight time |
+|------|---------|-------------------|-----------------|
+| Port Soledat | Potocsí | 2,470 km | 2h 54min |
+
+Note: SBT (Sant Bart) coordinates from POI shapefile: -92.3318, 2.6032
+
+## Sanrobonian destinations (user-provided airport coordinates)
+
+Distances in this table use airport coordinates provided for the Sanrobonian network rather than city centroids. Coordinates are shown in longitude-latitude order.
+
+| City / market | Airport | Coordinates (lon, lat) | Distance from SCI | Est. flight time | Planned Aeroístmus service |
+|---------------|---------|----------------------|-------------------|-----------------|----------------------------|
+| Pinangsiang | Pinangsiang International Airport | -102.6270, 13.4097 | 1,684 km | 2h | 2 daily from SCI; A321 |
+| Sungaipura | Abdul Karim International Airport | -105.0108, 12.5577 | 1,767 km | 2h 10min | 2 daily from SCI; A321 |
+| Karanu | Anacaona International Airport | -108.5359, 22.0120 | 2,827 km | 3h 20min | Daily from SCI; A321 |
+| Tanjung Seroja | Tanjung Seroja International Airport | -113.4988, 23.4406 | 3,267 km | 4h | 4 daily from SCI; three A321 rotations and one peak A330 rotation |
+| Tanjung Seroja / Martapura | Pasirmajang Gateway Airport | -113.2895, 23.3081 | 3,242 km | 4h | Daily from SCI; A321 |
+| Sanropura | Iskandar Setiadji International Airport | -111.2176, 25.2310 | 3,277 km | 4h | 2 daily from SCI and MWF from Sant Bart; A321 |
+| Kutawaringin | Marowa Sangaji International Airport | -122.5829, 19.0907 | 3,694 km | 4h 30min | Daily from SCI; A321 |
+| Sayara-Tanjung Emasan | Sayamas International Airport | -115.6256, 33.8954 | 4,308 km | 5h 10min | Daily from SCI; A321 |
+
+### Sant Bart add-on route
+
+| Origin | Destination | Airport | Distance | Est. flight time | Planned service |
+|--------|-------------|---------|----------|-----------------|-----------------|
+| Sant Bart | Sanropura | Iskandar Setiadji International Airport | 3,228 km | 4h | Monday, Wednesday, Friday; A321 |
+
+### Sanrobonia scheduling concept
+
+The proposed network creates 101 weekly Aeroístmus departures to Sanrobonia: 98 weekly departures from Sant Cristòfor and 3 weekly departures from Sant Bart. All routes except Tanjung Seroja are planned as A321 services. Tanjung Seroja is planned as a higher-yield business route with four daily frequencies, three operated by A321 aircraft and one peak rotation operated by an A330 with a premium-heavy configuration.
+
+| Route | Frequency | Aircraft | Weekly departures | Notes |
+|-------|-----------|----------|-------------------|-------|
+| SCI-Tanjung Seroja | 4 daily | 3× A321, 1× A330 peak rotation | 28 | Primary financial-hub route; premium-heavy cabin on A330 |
+| SCI-Sanropura | 2 daily | A321 | 14 | Capital route |
+| SBT-Sanropura | Monday, Wednesday, Friday | A321 | 3 | Secondary Jala highland connection |
+| SCI-Pasirmajang / Martapura | Daily | A321 | 7 | Secondary Tanjung Seroja-Martapura airport |
+| SCI-Kutawaringin | Daily | A321 | 7 | Longer western Sanrobonian route |
+| SCI-Sayara-Tanjung Emasan | Daily | A321 | 7 | Longest A321 sector in the Sanrobonian network |
+| SCI-Karanu | Daily | A321 | 7 | Mid-range Sanrobonian route |
+| SCI-Sungaipura | 2 daily | A321 | 14 | Shorter high-frequency regional route |
+| SCI-Pinangsiang | 2 daily | A321 | 14 | Shorter high-frequency regional route |
+
+### Tanjung Seroja business schedule concept
+
+| Direction | Departure | Arrival | Aircraft | Market purpose |
+|-----------|-----------|---------|----------|----------------|
+| Tanjung Seroja → SCI | 06:30 | 12:00 | A321 | Sanrobonia-origin same-day business travel to Sant Cristòfor |
+| SCI → Tanjung Seroja | 07:00 | 10:35 | A330 | Balboa-origin morning business travel to Tanjung Seroja |
+| SCI → Tanjung Seroja | 11:00 | 14:35 | A321 | Midday departure and connection bank |
+| Tanjung Seroja → SCI | 12:30 | 18:00 | A321 | Midday return and late-afternoon arrival in Sant Cristòfor |
+| SCI → Tanjung Seroja | 15:00 | 18:35 | A321 | Afternoon business and leisure departure |
+| Tanjung Seroja → SCI | 15:30 | 21:00 | A321 | Afternoon return |
+| Tanjung Seroja → SCI | 18:00 | 23:30 | A330 | Peak evening return from Tanjung Seroja |
+| SCI → Tanjung Seroja | 21:30 | 01:05+1 | A321 | Late departure / overnight-positioning option |
 
 ## Unmatched destinations (not on any map layer)
 
@@ -43,10 +102,11 @@ Distances calculated from great-circle measurement using coordinates from the "C
 - Nanaimo (Kaneda)
 - Kanakou (Kaneda)
 - Kuluba (Asikyira)
-- Iskhal (Burawa) — Kankadadka is on the map but Iskhal is a different city
+- Iskhal (Burawa) — 9,243 km from SCI (user-provided, not from map)
 - Auxin (Daras) — no Daras city on the map (Luanjing dropped from network)
-- Sanropura (Abyala)
-- Aoyama (Okaiken) — Okami is on the map but Aoyama is a different city
+- Aoyama (Nakamizu) — now served via Aoyama-Maekawa International Airport (coordinates: 174.7178, -34.9242)
+- Miyagami (Nakamizu) — dropped from network, replaced by Aoyama-Maekawa (closer to SCI, shorter flight time)
+- Akyatan (Dagit) — served via codeshare with Sanesair (Okami→Akyatan, 1,696 km, 2h on 787-9). Coordinates: 146.6897, -6.4417
 
 ## Other airports on POI layer (not Aeroístmus destinations)
 

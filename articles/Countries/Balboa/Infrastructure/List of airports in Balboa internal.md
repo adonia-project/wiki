@@ -24,6 +24,12 @@
 | 5 | Haicang International Airport | HAI | HAIB | Estret | La Marina | Haicang | 1.26, -93.43 | 1,200,000 | Zong-era naval base (Hokkien 海港 "sea port"); now naval station + ship repair; Fosian Balboan community; Sinchew Air → Tamsui |
 | 6 | Badia Curta International Airport | BDC | BDIB | Jala | (Badia Curta area) | Badia Curta | 4.20, -93.33 | 1,800,000 | Industrial city; business travelers; Okaiken Air → Okami-Tobu; Aeroístmus → Sanropura |
 
+### Regional/Domestic Airports (existing articles)
+
+| # | Airport | IATA | ICAO | Province | Comarca | City Served | Coordinates | Passengers (2025) | Jet-capable | Notes |
+|---|---------|------|------|----------|---------|-------------|-------------|-------------------|-------------|-------|
+| 23 | Illa Daurada Airport | IDA | IDIB | Estret | Sant Cristòfor | Illa Daurada | 0.96, -94.52 | 60,000 | Yes | Island in Badia de Sant Cristòfor; AeroTerminus base; GAW-era military airfield (1936, Zong counter-offensive towards Sant Bart); jet-capable (737-200, BAe 146, E175 operated from here) |
+
 ### Regional/Domestic Airports (need articles)
 
 | # | Airport | IATA | ICAO | Province | Comarca | City Served | Coordinates | Passengers (2025) | Jet-capable | Notes |
@@ -44,7 +50,6 @@
 | 20 | Illes del Guano Airport | IGU | IGIB | Estret | (Illes del Guano area) | Illes del Guano | 0.65, -93.16 | 220,000 | Yes | Island/coastal |
 | 21 | L'Estany Airport | LES | LEIB | Estret | (L'Estany area) | L'Estany | 0.89, -94.10 | 85,000 | No | Lakeside resorts area in Estret; turboprop-only |
 | 22 | Marie Torres Airport | MTR | MTIB | Migjorn | (far south) | Sant Agneu | -2.13, -92.37 | 280,000 | Yes | Named after Marie Torres, famous Balboan aviator; serves Sant Agneu Island and city of Sant Agneu |
-| 23 | Illa Daurada Airport | IDA | IDIB | Estret | (Illa Daurada area) | Illa Daurada | 0.96, -94.52 | 60,000 | No | Island in Badia de Sant Cristòfor; turboprop-only; AeroTerminus base |
 
 ## Airports by Province
 
@@ -60,8 +65,8 @@
 
 | Type | Airports |
 |------|----------|
-| Jet-capable | SCI, SBT, PNU, SLZ, HAI, BDC (all international) + EAI, CDA, NOV, PBL, ALT, VEL, MTR, IGU |
-| Turboprop-only | CBL, PDA, STC, AMP, FOI, SJD, SMN, LES, IDA |
+| Jet-capable | SCI, SBT, PNU, SLZ, HAI, BDC (all international) + EAI, CDA, NOV, PBL, ALT, VEL, MTR, IGU, IDA |
+| Turboprop-only | CBL, PDA, STC, AMP, FOI, SJD, SMN, LES |
 
 ## Named After People
 
@@ -77,7 +82,7 @@
 |---------|------|-------------|------|-------|
 | Aeroístmus | Flag carrier | Balboa | SCI, SBT | Full-service; domestic + international |
 | RapidAir (Balboa) | Low-cost | Balboa | SCI, SBT | Domestic + short-haul international |
-| AeroTerminus | Regional/charter | Balboa | IDA | Small regional/charter airline; serves Illa Daurada |
+| AeroTerminus | Regional/charter | Balboa | IDA | Independent; 2 E175 (dry leased from Aeroístmus) + 1 Beechcraft 1900; serves Illa Daurada |
 | Volisanian Airlines | Full-service | Volisania | — | Routes to Ampuria, Antibole |
 | Okaiken Air | Full-service | Okaiken (Fosia) | — | Routes to Okami-Tobu (SCI, BDC) |
 | Baliscana | Full-service | Balisca | — | Routes to Castejón, Macaio |
@@ -92,11 +97,11 @@
 
 ### Aeroístmus (flag carrier — full domestic network)
 
-SBT is the primary domestic hub (18 destinations); SCI is the secondary hub (11 destinations).
+SBT is the primary domestic hub (16 destinations); SCI is the secondary hub (11 destinations).
 
 | Origin | Destinations |
 |--------|-------------|
-| SBT (Sant Bart) | SCI, PNU, HAI, BDC, SLZ, CDA, EAI, PBL, NOV, IDA, LES, IGU, SMN, VEL, FOI, AMP, STC, PDA |
+| SBT (Sant Bart) | SCI, PNU, HAI, BDC, SLZ, CDA, EAI, PBL, NOV, LES, VEL, FOI, AMP, STC, PDA, SMN |
 | SCI (Sant Cristòfor) | SBT, HAI, BDC, CDA, VEL, NOV, CBL, PBL, ALT, MTR, IGU |
 | BDC (Badia Curta) | PNU, SBT, SCI |
 | CDA (Campdària) | MTR |
@@ -113,28 +118,38 @@ SBT is the primary domestic hub (18 destinations); SCI is the secondary hub (11 
 
 ### AeroTerminus (regional/charter — Illa Daurada based)
 
+Scheduled:
+
 | Origin | Destinations |
 |--------|-------------|
 | IDA (Illa Daurada) | PNU, SBT |
 
+Charter:
+
+| Origin | Destinations |
+|--------|-------------|
+| IDA (Illa Daurada) | CBL, EAI |
+
 ## International Route Map
 
 ### From SCI (Sant Cristòfor International)
-- Aeroístmus → Castejón, Guledga, Gran Port de Sant Mateu, Tamsui, Sanu-Sasso, Nanaimo, Kanakou, Port Soledat (Terminal B)
-- Aeroístmus → Kuluba, Iskhal, Akyatan, Auxin, Sanropura, Aoyama (Terminal C)
+- Aeroístmus → Castejón, Guledga, Gran Port de Sant Mateu, Tamsui, Sanu-Sasso, Nanaimo, Kanakou, Port Soledat, Sanropura (2 daily), Tanjung Seroja (4 daily; peak A330 rotation), Pasirmajang / Martapura (daily), Kutawaringin (daily), Sayara-Tanjung Emasan (daily), Karanu (daily), Sungaipura (2 daily), Pinangsiang (2 daily) (Terminal B)
+- Aeroístmus → Kuluba, Iskhal, Akyatan, Auxin, Aoyama (Terminal C)
 - Okaiken Air → Okami-Tobu (Terminal C)
+- Sanesair → Okami-Tobu (Terminal C)
 - Baliscana → Castejón, Macaio (Terminal C)
 - Dawati → Kankadadka, Iskhal (Terminal C)
 - Volisanian Airlines → Ampuria, Antibole (Terminal C)
 - Zong Airways → Huwei (Terminal C)
 - Central Airlines → Brukelyn (Terminal B)
+- RapidAir → Tamsui (Terminal B, since 2023)
 - Sinchew Air → Tamsui (Terminal B)
 - SAK Varkana → Klow / President Inga Korsantia International Airport (Terminal C)
 - Louyang Airways → Anping (Terminal B)
 
 ### From SBT (Cecilio Ríos International, Sant Bart)
 - Volisanian Airlines → Ampuria (Concourse B)
-- Aeroístmus → Castejón, Gran Port de Sant Mateu, Guledga, Okami-Tobu (Concourse B)
+- Aeroístmus → Castejón, Gran Port de Sant Mateu, Guledga, Okami-Tobu, Sanropura (MWF) (Concourse B)
 - Sinchew Air → Tamsui (Concourse B)
 
 ### From PNU (Portnou International)
