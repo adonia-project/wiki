@@ -4,256 +4,118 @@ This page tracks ongoing news stories for ''The Toyozawa Mainichi''. Each entry 
 
 ==Active Stories==
 
-===OR Harujima Deletion Scandal / Regulatory Contagion===
-* '''Status:''' ⚠️ CRITICAL — Forensic assessment complete: **OBSTRUCTION, NOT COMPLICITY**. 3 of 14 complaints (7, 11, 14 — filed 18, 20, 22 May) met causation threshold (Junction 4 signal failures). BUT deletion occurred 29-30 May, AFTER the derailment. Legal distinction: Osada cannot be charged with deaths. Political reality: three complaints that could have saved 47 lives were filed, ignored, and then deleted. Mochizuki: "The failure to act killed Yamamoto Hina. The deletion covered up the failure." Question now: Who failed to act? Who ordered the deletion? Combined 26-prosecutor task force continues.
-* '''Key dates:''' Forensic assessment complete 15 June; Osada investigation ongoing; potential obstruction charges
-* '''Next development:''' Osada charges; Morimoto's knowledge; who failed to act on the 3 complaints
-* '''Stakeholders:''' Yamamoto Hina Safety Commission, OR Harujima, Kuroda Holdings, Hannan Seiso, Tetsuyama Rail Services, Mochizuki, Ota Shinji, Okami District Court, Dr. Yuki Tanaka, Gen Osada (CIO), Justice Ministry, Nakajima, Tanaka Kenji (LDP), Toyozawa Chamber of Commerce, Arakawa Tetsuya (Kuroda CEO)
-
-===Institutional Accountability Act===
-* '''Status:''' ✅ COMMISSION OPERATIONAL — **Chair appointed 9 July: Former Supreme Court Justice Aoyama Reiko, 68, elected 8-1.** Aoyama: "The era of no-contest settlements without accountability is over." **First three referrals announced 10 July: Harujima (idol industry), Kizan (AI safety), Akamatsu Group (corporate fraud/pension embezzlement).** First referrals within 14 days of chair appointment. The teeth are biting.
-* '''Key dates:''' Imperial assent pending; Commission chair appointed 9 July; first referrals 10 July; implementing regulations with right-to-be-heard
-* '''Next development:''' Implementing regulations; right-to-be-heard in draft regulations; Akamatsu Group investigation; Commission budget
-* '''Stakeholders:''' Nakajima, Tanaka Kenji (LDP), Sadanuma, Yamada (OIP), Ono, Ota Fumiko (NKP), Kudō Shinji (NKP), Yoshida, Endo (PPO), NKP leadership
-
-===Ehime Dock Workers' Dispute===
-* '''Status:''' ⚠️ ESCALATION — Ex parte injunction 90-day prohibition. **Injunction challenge filed (Day 17, 19 June) at Ogawa District Court.** Right-to-be-heard + Naruse precedent + ITA workplace impact. Union argues ex parte injunction violated procedural fairness. LDP prefectural chapter called injunction "procedurally irregular." Okayama/Sakurai port unions joining challenge.
-* '''Key dates:''' Injunction 90 days; challenge filed 19 June; automation rollout October
-* '''Next development:''' Court ruling on challenge; union legal arguments; IAA implications
-* '''Stakeholders:''' Ehime dockworkers' union, Onan Port Authority, LDP prefectural chapter, Ehime District Court, Ehime governor, Director Kanda, Union chair Fujita, Ogawa District Court, Okayama/Sakurai port unions
-
-===Baliscan Waste Export Investigation / Hannan Seiso Contract Cancellation===
-* '''Status:''' ⚠️ ESCALATION — Hannan Seiso contracts CANCELLED 18-7 by council 30 June. CEO Tanigawa released three export licenses — all signed by Deputy Director General Tanaka Hiroshi of Ministry of Environment (2022-2024). Tanaka on administrative leave. PPO special prosecutor requested all Ministry documents. Baliscan Secretariat: "The exports were government policy." Ministry: "Reviewing." Endo: "Reviewing is not investigating." Dagit still silent.
-* '''Key dates:''' Contracts cancelled 30 June; licenses released 30 June; Tanaka identified 1 July; PPO investigation opened 1 July; PPO document request 3 July
-* '''Next development:''' PPO investigation of Ministry officials; Tanaka testimony; additional license releases; IAA Commission jurisdiction; Dagit response
-* '''Stakeholders:''' Baliscan Secretariat, Hannan Seiso CEO Tanigawa, Deputy Director General Tanaka Hiroshi, Toyozawa City Council, Council chair Yamashita, Waste Management Bureau, Ministry of Environment, Endo/PPO, Sadanuma, PM Ikazaki
-
-===Toyozawa Waste Management Nationalisation===
-* '''Status:''' ✅ GOOD — Ikazaki-Yoshida compromise holds. **IAA Commission budget passed 252-0 (Day 20, 24 June). SDP unanimous. No abstentions.** Honchō worker consultation: government accepted 3 of 5 union terms (severance, retraining, transfer priority). 2 terms remain (pension portability, collective bargaining continuity). 30-day consultation continues.
-* '''Key dates:''' Budget passed 24 June; 30-day consultation ongoing; 18-month transfer timeline
-* '''Next development:''' Remaining 2 union terms; consultation conclusion; transfer timeline
-* '''Stakeholders:''' Ikazaki, Nakayama, Sadanuma, Yoshida, Yamada (OIP), Honchō workers, union chair Fujimoto Toshiro, SDP caucus
-
-===Digital Sovereignty Act Implementation===
-* '''Status:''' DSA implementation consultation opened (Day 11). 30-day consultation. Central question: "operational unit" definition for 40% AI cap. Ono rejects "smallest functional unit" as loophole. Toyozawa Chamber of Commerce submitted response proposing "safety-outcome" operational unit definition. Sansi Technology Governance MOU first bilateral working group session held — analogue backup standards identified as first priority. Mainichi editorial position: hard caps are blunt instruments — the operational unit definition should be tied to safety outcomes, not corporate structure.
-* '''Key dates:''' 30-day consultation; DSA compliance 8 July; sector exemption framework TBD
-* '''Next development:''' Operational unit definition debate; industry submissions; exemption criteria
-* '''Stakeholders:''' Ministry of Digital Affairs, Mochizuki, Ono, Sadanuma, Kizan Systems, rail operators, Toyozawa Chamber of Commerce, Sansi technology minister
-
-===Kizan Prosecution===
-* '''Status:''' ✅ RULED — Hearing 1 July. Kizan pleaded NO CONTEST. Ruling issued 5 July: Kizan found liable. ¥2.8B fine (largest IAA penalty). Mandatory third-party audits every 6 months for 3 years. Operational restrictions — AI deployments suspended pending audit certification. No explicit admission required. **THREE AUDIT FIRMS SELECTED 7 July: Okami Digital Audit Group (ODAG), Toyozawa Systems Verification Inc. (TSV), Pacific Rim Technology Assessment (PRTA). Kizan must bear all audit costs. Compliance certification within 90 days.** Presiding Judge Nakamura: "No contest is not an admission. But it is a finding of liability." Mainichi editorial: "No-contest is not accountability. It is avoidance. The court should have required more."
-* '''Key dates:''' Hearing 1 July; no-contest plea 1 July; ruling 5 July; audit firms selected 7 July; DSA deadline 8 July; compliance certification within 90 days
-* '''Next development:''' DSA AI safety enforcement implications; audit process begins; Kizan compliance; IAA Commission follow-up
-* '''Stakeholders:''' Justice Ministry, Kizan Systems, Honda (former PM), Satori AI Commission, Presiding Judge Nakamura, Endō Mori (attorney), Nakajima, Sadanuma, Okami District Court
-
-===KTK/KHR Editorial Independence Review===
-* '''Status:''' ⚠️ ESCALATION — **Director Kondo broke silence 9 July: "I will release the cut footage." Footage released 10 July: 12 minutes of deleted scenes showing government pressure subplot. Kondo: "I was told to remove the scene. I was told it was 'too political.' I removed it. I should not have."** #TellTheTruth surged to 5.1M. Communications Committee convened emergency session. KTK denies instructing Kondo. Kondo contradicts KTK. Committee chair: "The footage is evidence. The 30-day deadline is now irrelevant — the footage is public."
-* '''Key dates:''' Finale aired 14 June; committee report 1 July; Kondo broke silence 9 July; footage released 10 July; #TellTheTruth at 5.1M
-* '''Next development:''' Communications Committee review; KTK vs. Kondo contradiction; who pressured the director?
-* '''Stakeholders:''' KTK, KHR, KHK, Director-General Matsumoto, Dr. Takeda, Director Yui Kondo, Communications Committee, Nakayama, Yamada, Ono
-
-===PPO Leadership Election===
-* '''Status:''' ✅ COMPLETE — Endo WON UNOPPOSED. Voting Saturday 27 June at party HQ. Typhoon No. 3 affected turnout in 3 prefectures — proxy voting activated. Endo: "The PPO speaks with one voice. Even in a storm. Especially in a storm."
-* '''Key dates:''' 27 June leadership election (COMPLETE)
-* '''Next development:''' Endo leadership begins; first tests — IAA Commission, Kizan ruling, autumn budget, typhoon response
-* '''Stakeholders:''' Endo, Kato, Mori, PPO caucus
-
-===Fosian Alliance / Maritime Security===
-* '''Status:''' ⚠️ SHIFT — Sansin foreign ministry issued statement calling for direct maritime dialogue with Fosian Alliance. Fosian Alliance "reviewing." Zong has not responded. Coordinated maritime presence operations continue. Mainichi editorial position: the Alliance should take the opening — presence without dialogue is posture without policy.
-* '''Key dates:''' Ongoing; patrol implementation; Sansin dialogue proposal
-* '''Next development:''' Alliance/Zong response to Sansin dialogue proposal; diplomatic framework
-* '''Stakeholders:''' Foreign Ministry, Zong, Sansi, Fosian Alliance
-
-===Noto Suzu Red Tide===
-* '''Status:''' ✅ GOOD — **Eastern coastline reopened 22 June.** All fishers expected to return by mid-week. Western zones operational since 15 June. ¥2B supplemental producing results. Governor Ando: "The coast is open."
-* '''Key dates:''' Western reopened 15 June; eastern reopened 22 June; full resumption mid-week
-* '''Next development:''' Full resumption; economic recovery; autumn budget reckoning
-* '''Stakeholders:''' Noto Prefecture, Governor Ando, 4,200 fishers, Nakayama, Yoshida, Hayashi Yutaka (LDP), Dr. Aoyama
-
-===Noto 1st Vacant Seat===
-* '''Status:''' ✅ SCHEDULED — **By-election scheduled July 26. Filing deadline July 12. LDP: Genichi Koda (54, former prefectural assembly). Coalition: Haruka Misaki (42, fisheries cooperative lawyer).** First debate July 18 at Noto City Community Hall. Koda: "Stability." Misaki: "Accountability." 280,000 registered voters. Turnout projection 52-58%.
-* '''Key dates:''' Filing July 12; first debate July 18; vote July 26
-* '''Next development:''' Campaign events; debate; coalition vs. LDP machine; turnout
-* '''Stakeholders:''' Election Commission, Governor Ando, LDP (Koda), PPO, Noto patients
-
-===2026 AFA World Cup===
-* '''Status:''' ❌ ELIMINATED + TOTAL BOYCOTT — Okaiken eliminated 26 June (1-2 Ayorin, stoppage time). Team home 28 June. From 29 June: TOTAL BOYCOTT. AFA corruption expose published 30 June: betting patterns flag Okaiken-Ayorin match, referee Mendoza under investigation, Dagit 2030 bid funded by OICA money. Same money, same shell companies, same Dagit connection.
-* '''Key dates:''' Team home 28 June; boycott from 29 June; AFA expose 30 June; final 15 July
-* '''Next development:''' AFA integrity unit ruling; referee investigation; betting scandal; Dagit 2030 bid fallout
-* '''Stakeholders:''' OFA, Mighty Warriors, AFA, betting syndicates, referees, Foreign Ministry, referee Mendoza
-
-===Typhoon No. 3===
-* '''Status:''' ✅ PASSED — **Storm passed Okaiken 27-28 June.** Kagami mountains shredded circulation. All warnings lifted. No fatalities. 14 minor injuries. **Power restoration COMPLETE — 64,000/64,000 households restored. SDF down to 200. Toyozawa Dome shelter closed — all evacuees returned home.** Eba flooded by rain — Kuma River crested at 3.4m, receding. ¥3.2B reassessed. **Storm tracking south toward Zong as tropical depression.** ¥18B tidal wall still on paper.
-* '''Key dates:''' Storm passed 28 June; power restored 29 June; shelter closed 29 June
-* '''Next development:''' Eba second relief fund; tidal wall ¥18B funding; Kizan hearing 1 July; DSA deadline 8 July
-* '''Stakeholders:''' OMA, Mayor Ishikawa, Kagami Prefecture governor, SDF, Ministry of Land/Infrastructure/Transport/Tourism, port operators, Suminoe ward, Data Corridor tenants, Eba evacuees
-
-===Tsubaki-ya Closure / Small Business Policy Burden===
-* '''Status:''' ✅ SAVED BY COMMUNITY — DSA exemption motion FAILED 241-232 on 8 July. Nine votes short. BUT: Shintenchi-doro Merchants' Association launched volunteer fund. 5,400 donors raised ¥2.3M in 12 hours (avg ¥426). Tsubaki-ya saved — by community, not government. Excess ¥500K → permanent "Shintenchi-doro Small Business Relief Fund" for DSA compliance for businesses <20 employees. Tsubaki Mie: "The government could not save me. The people did." Organiser Yamashita Kenji (stationery shop owner next door): "Tsubaki-ya is the street. If it closes, the street loses its memory."
-* '''Key dates:''' DSA compliance 8 July; exemption motion failed 8 July (241-232); volunteer fund launched 8 July; ¥2.3M raised in 12 hours; Tsubaki-ya saved 8 July
-* '''Next development:''' Shintenchi-doro Relief Fund operations; other small businesses seeking community funding; DSA small business policy debate continues; government response to community action
-* '''Stakeholders:''' Tsubaki Mie, Shintenchi-dori merchants, Toyozawa municipal government, Ministry of Digital Affairs, small business associations, TMPD Chief Aoki, Kaihatsu-kai victims
-
-===Grand Week 2026 Economic Impact===
-* '''Status:''' ✅ GOOD — METI preliminary assessment: ¥1.2 trillion domestic tourism/consumption revenue (14% increase over 2025, highest since 2019). Toyozawa led regional intake with ¥180B. Small businesses accounted for 62% of Grand Week revenue. Mainichi editorial position: Grand Week proves small businesses are the engine of the economy.
-* '''Key dates:''' Grand Week June 3-7 (concluded); final METI assessment TBD
-* '''Next development:''' Final assessment; policy implications for DSA small business exemptions
-* '''Stakeholders:''' METI, Toyozawa tourism board, small business associations
-
-===Toyozawa Data Corridor Investment===
-* '''Status:''' ✅ GOOD — Three firms committing to Data Corridor by 2028: Kaihatsu Cloud Systems (40,000 sqm data centre, Suminoe), Hoshino Autonomous Systems (R&D from Okami, Chūō), Tesshin Analytics (Shintenchi-dori office). Combined ¥45B investment, 2,800 new jobs. **NEW: Toyozawa University solid-state battery breakthrough could transform Data Corridor energy profile. Commercialisation 2-3 years.** Mayor Ishikawa: "The corridor works because the government let it."
-* '''Key dates:''' Relocations by 2028; construction begins 2026-27; battery commercialisation 2028-29
-* '''Next development:''' Construction timelines; DSA compliance design; workforce recruitment; battery licensing
-* '''Stakeholders:''' Kaihatsu Cloud Systems, Hoshino Autonomous Systems, Tesshin Analytics, Mayor Ishikawa, Toyozawa University, Professor Tanegashima, METI
-
-===Toyozawa Bay Tidal Wall Breach===
-* '''Status:''' ⚠️ MIXED — 200-metre section collapsed under king tide (3.8m vs 3.2m design). **TYPHOON NO. 3: Toyozawa Bay SPARED — storm tracked east, winds pushed water OUT. No storm surge. Tidal wall NOT tested. Temporary barriers held. Port intact.** But ¥18B reinforcement still on paper. National funding still pending. Mayor Ishikawa: "We got lucky. Next time we may not."
-* '''Key dates:''' Typhoon landfall 27 June (wall not tested); reconstruction 6-8 months; ¥8B repair + ¥18B full reinforcement
-* '''Next development:''' National funding announcement; reconstruction timeline; climate resilience debate — "luck is not a seawall"
-* '''Stakeholders:''' Mayor Ishikawa, Municipal Infrastructure Office, Ministry of Land/Infrastructure/Transport/Tourism, Geological Survey, Sangoku shipyard, port operators, Suminoe ward businesses, OMA, Data Corridor tenants
-
-===Taiga Himura / #HimuraStorm===
-* '''Status:''' ✅ GOOD — Iron Rams defensive star spotted in KTK weather B-roll, white tank top, rain-soaked, went viral. #HimuraStorm at 2.1M mentions. Captain Yamamoto: "I've seen Taiga stop a 140-kilogram prop forward. I've never seen him stop traffic." Weather segment became most-watched in KTK history (4.3M views). Mainichi notes: the clip is harmless; the king tide warning is not.
-* '''Key dates:''' Viral moment 15 June
-* '''Next development:''' Himura response; Iron Rams off-season profile
-* '''Stakeholders:''' Taiga Himura, Iron Rams, KTK, Toyozawa sports media
-
-===Crown Prince Tomohito / Iron Body===
-* '''Status:''' ✅ GOOD — Attended Kenka-Jutsu Grand Prix qualifier Sunday (first Imperial attendance, general seating, black T-shirt, acknowledged ovation). Watch party at Togu Palace tonight for World Cup opening ceremony. Kuroki Daigo won qualifier, advances to July Grand Prix.
-* '''Key dates:''' Kenka-Jutsu Grand Prix July
-* '''Next development:''' Continued Iron Body Initiative appearances; Grand Prix July
-* '''Stakeholders:''' Crown Prince Tomohito, Imperial Household Agency, National Iron Body Initiative, Kenka-Jutsu Grand Prix
-
-===Takahama-ku Nishikawa Labour District / Expo Closure===
-* '''Status:''' ✅ GOOD — **Protest march proceeded Saturday 20 June. Thousands marched. Peaceful. No arrests. Municipal council extended closure timeline from 15 July to 30 August.** Labour advocates welcomed. Expo committee accepted delay. Organiser Sato Kenji: "The city listened."
-* '''Key dates:''' Closure now 30 August (extended from 15 July); protest march 20 June (completed, peaceful)
-* '''Next development:''' Transition plan for displaced workers; advocacy campaign continues
-* '''Stakeholders:''' Nishikawa residents, Takahama Rōdō Centre, Municipal Urban Development, Okami Homeless Advocacy Network, 2027 Okami Expo organising committee, Toyozawa Labour Council
-
-===E3 Expressway===
-* '''Status:''' ✅ CONCLUDED — Reopened 18 June. Traffic fully normalised by 20 June. ¥7.2B lost productivity (3 days). ¥45B infrastructure fund announced. Debate deferred to autumn budget.
-* '''Key dates:''' Reopened 18 June; infrastructure fund debate in autumn budget
-* '''Next development:''' Autumn budget infrastructure fund debate
-* '''Stakeholders:''' Okami Metropolitan Expressway Authority, Minister Mochizuki, Okami Chamber of Commerce
-
-===Zong Seed Theft / Okami Flower Show===
-* '''Status:''' ✅ GOOD — Select Committee second hearing held 2 July. Dr. Yamazaki testified again. PVP Act amendment draft released: criminal penalties for biological material theft, border controls for seeds, mandatory disclosure of foreign delegation access. Sadanuma: "The Fortress State checks seeds now." Mainichi editorial: "The government is strong on borders and weak on infrastructure."
-* '''Key dates:''' First hearing 25 June; second hearing 2 July; PVP Act amendment draft released 2 July
-* '''Next development:''' PVP Act amendment passage; border control implementation; Zong response
-* '''Stakeholders:''' Okami Agricultural Research Institute, Dr. Yamazaki Fumiko, Zong delegation, Select Committee, Sadanuma, Nakayama, Yamada
-
-===Baliscan Ultra Threats / World Cup Security===
-* '''Status:''' ✅ GOOD — Balisca 4–0 Kaneda (MD3). Statement win. Co-hosts dominant. No riots. Security held. **Yerba Buena camp fully operational.** Sanrobonia eliminated (MD5). No security incidents reported. Castejón calm.
-* '''Key dates:''' Knockout stage 26-27 June; final 15 July
-* '''Next development:''' Knockout stage security; Balisca group winner position
-* '''Stakeholders:''' Baliscan Interior Ministry, ultra groups, AFA, OFA, Foreign Ministry, Castejón municipal police, Mighty Warriors, FFB
-
-===PYRAMID30 / Karasu #1 / AFA World Cup Theme===
-* '''Status:''' ✅ GOOD — Kenshi Yonezu's "Karasu" (烏) holds at #1 for second consecutive week (June 29). 7.25M weekly streams. STARTO act Aぇ! group's "Dekoboko Life" (505,000 physical sales) filtered. **KTK has cut soccer coverage — the World Cup theme is #1 in a week when the broadcaster stopped covering soccer.** The song outlasted the coverage.
-* '''Key dates:''' Digital release June 15; PYRAMID30 #1 June 28 (Week 1); #1 June 29 (Week 2)
-* '''Next development:''' Karasu streaming trajectory; post-World Cup music trends; PYRAMID30 July entries
-* '''Stakeholders:''' Kenshi Yonezu, KTK, Sony Music Okaiken, Okaiken Pyramid Records, PYRAMID30 editorial board
-
-===Awich Harujima Stadium Concert Announcement===
-* '''Status:''' ✅ GOOD — General sale opened 5 July. Sold out in 3 minutes. Second date added August 3. Three-time PYRAMID30 #1 artist. First solo stadium show in Harujima district history. Special guests JP THE WAVY and YZERR. Mainichi: "Harujima's hip-hop scene is Toyozawa's most exportable cultural product."
-* '''Key dates:''' General sale 5 July (sold out 3 minutes); concert August 23; second date August 3
-* '''Next development:''' Production details; potential third date
-* '''Stakeholders:''' Awich, JP THE WAVY, YZERR, Harujima Bay Arena, AndLess Records, Toyozawa tourism board
-
-===THE JET BOY BANGERZ / World Cup Fan Zone Performance===
-* '''Status:''' ✅ NEW — THE JET BOY BANGERZ from EXILE TRIBE performed at the Toyozawa World Cup fan zone at Shintenchi-dori on June 26, drawing 15,000 fans despite the Mighty Warriors' elimination earlier that day. Performed "HEAD UP introduced by Zeebra" (PYRAMID30 #1, March). Crowd sang along through the match broadcast. Zeebra made a surprise appearance.
-* '''Key dates:''' Performance June 26
-* '''Next development:''' Post-World Cup fan zone events; summer tour
-* '''Stakeholders:''' THE JET BOY BANGERZ, Zeebra, Sony Music Okaiken, Toyozawa fan zone organisers
-
-===MV Castellano / Balboan Undocumented Cargo Ship===
-* '''Status:''' ❌ DRUGS + FM SPOKE — Day 12. **First mate testimony 8 July: false wall built at Port of Balboa City by Marítima Estrella dockworkers. Crew informed of cargo AFTER departure. Crew are couriers, not organisers.** 13 crew members refuse cooperation. **FM press conference 9 July: formal request to Balboa for Marítima Estrella corporate records, review of Zong Trade Bridge commercial activities.** Sansi: unconditional cooperation (24 hrs). Zong: conditional cooperation (36 hrs). Balboa: SILENT (72+ hrs). **WMO ruled 9 July: Zong Trade Bridge NOT a "partner" under maritime data agreement. Okaiken may restrict data sharing.**
-* '''Key dates:''' Arrived 28 June; drugs found 6 July; company identified 7 July; first mate testimony 8 July; FM press conference 9 July; WMO ruling 9 July; Zong Trade Bridge review initiated
-* '''Next development:''' Marítima Estrella corporate records from Balboa; Zong Trade Bridge investigation; WMO ruling implications; who built the wall? Who financed? Who was waiting?
-* '''Stakeholders:''' Port authority Chief Aoki, Customs Chief Inspector Mori, Justice Ministry, Foreign Ministry, Balboa embassy, Zong, Sansi, MV Castellano crew, Marítima Estrella S.A., Zong Trade Bridge Ltd., first mate, crew attorney Kishi Daisuke, Presiding Judge Nakamura, TMPD drug task force, Deputy Director Hayashi Yuki (FM spokesperson)
-
-===OICA / Dagit School Funds Scandal===
-* '''Status:''' ⚠️ BAD — PPO opened formal investigation 1 July. Special prosecutor appointed. Probe examines: (1) ¥4.1B siphoned through three shell companies, (2) connection to Dagit Minister Magalona, (3) link to Dagit 2030 AFA World Cup bid. AFA corruption expose published 30 June — same money, same shell companies, same Dagit connection. Referee Mendoza under investigation. Betting patterns flagged.
-* '''Key dates:''' Audit leaked 28 June; AFA expose 30 June; PPO formal investigation 1 July; special prosecutor 1 July
-* '''Next development:''' PPO investigation; Magalona prosecution; AFA integrity unit; Dagit diplomatic response; bilateral aid review
-* '''Stakeholders:''' OICA, Magalona, Endo/PPO, special prosecutor, Sadanuma, PM Ikazaki, AFA integrity unit, referee Mendoza
-
-===Tsunagi-Nakamizu Tunnel Project===
-* '''Status:''' ⚠️ BAD — 14km undersea tunnel project stalled. ¥320B estimated cost. Government: "We don't have the funds." Power center shifting south to Miyagami. Tunnel serves old northern corridor. Nakamizu invested in preliminary engineering.
-* '''Key dates:''' Project stalled 28 June; "under review"
-* '''Next development:''' Miyagami vs northern corridor debate; Nakamizu response; budget allocation
-* '''Stakeholders:''' Ministry of Land/Infrastructure/Transport/Tourism, Nakamizu government, Miyagami business interests, Sadanuma
-
-===Ayorin Business Attacks===
-* '''Status:''' ⚠️ FM SPOKE — **FM press conference 9 July: FM broke 11-day silence. 12-minute statement, 28-minute Q&A. FM apologised: "I apologise to the Ayorin community for the delay. The Ministry should have spoken sooner."** Addressed Castellano (formal request to Balboa, Zong Trade Bridge review), Ayorin attacks ("condemns in strongest terms"), diplomatic cascade (Burawa, Asikyira, Hersatia contacted). PPO plans oversight hearing in Diet next week. Ayorin community meeting Friday. Community chair Burawa Yuki: "The apology is accepted. The delay is not explained." Three arrests remain. TMPD: "Core network dismantled."
-* '''Key dates:''' Attacks 27-28 June; arrests 1-4 July; FM silent 11 days; FM junior spokesperson 90-second statement 8 July; FM press conference 9 July; PPO oversight hearing next week
-* '''Next development:''' PPO oversight hearing; Ayorin community meeting; hate crime prosecution; three more suspects; diplomatic cascade continues
-* '''Stakeholders:''' TMPD Chief Aoki, Mayor Ishikawa, Ayorin community, Endo/PPO, Sadanuma, UM Football Intelligence, Asikyira, Hersatia, Burawa, Foreign Ministry (SILENT)
-
-===Baliscan Waste Return Crisis===
-* '''Status:''' ❌ NIGHTMARE — Day 13. Blockade at Port of Castejón holds. 40,000 tonnes has not moved. **Tanaka Hiroshi testified 10 July: "I signed the licenses. I was told the inspections were completed. They were not. I did not verify. I should have verified."** PPO investigation accelerating. Dagit still silent. PM Ikazaki still silent. Recycling plant NIMBY crisis continues.
-* '''Key dates:''' Blockade 28 June; contracts cancelled 30 June; PPO investigation 1 July; Tanaka testimony 10 July; Baliscan investigation Day 25
-* '''Next development:''' Who told Tanaka inspections were completed? PPO investigation of Ministry officials; recycling plant location; Dagit response; IAA Commission jurisdiction
-* '''Stakeholders:''' Hannan Seiso, Baliscan protesters, Dagit Ministry of Transport, PM Ikazaki, Ministry of Environment, Endo/PPO, Sadanuma, Volisania, Jarin Shipping Council, Deputy Director General Tanaka, Baliscan Secretariat
-
-===OMA / Zong Meteorological Data Dispute===
-* '''Status:''' ✅ RULED — **WMO ruled 9 July: Zong Trade Bridge is NOT a "partner" under the 2024 Shendan Ocean Maritime Safety Agreement.** Okaiken may restrict maritime data sharing with entities connected to Zong Trade Bridge. Nishimura: "The WMO has ruled. Okaiken will act in accordance with the ruling." The Zong Trade Bridge connection to the MV Castellano is now formally recognised by an international body.
-* '''Key dates:''' Refusal 28 June; WMO clarification request 30 June; Nishimura response 2 July; WMO ruling 9 July
-* '''Next development:''' Okaiken implementation of ruling; Zong response; maritime data sharing restrictions; Castellano investigation implications
-* '''Stakeholders:''' OMA Director-General Nishimura, Foreign Ministry, Zong meteorological service, Varkana, WMO
-
-===Diplomatic Cascade — World Cup Fallout===
-* '''Status:''' ⚠️ BAD — Multiple nations reacting to Ayorin business attacks and Okaiken's diplomatic posture:
-** Asikyira: Condemns attacks on Ayorin. "Attack on the Kaftian community." No ambassador recall. 4,000 Asikyirans in Okaiken.
-** Volisania: Dismisses waste crisis. "Disposal route agreed long ago. Balisca specialises in trash mining." No stake in dispute.
-** Jarin: Offers to ship waste at 3x rate. Profiteering. Okaiken refused.
-** United Midlands: UM Football Intelligence sharing intel on masugu/ultra networks with TMPD. "Organised ultra violence, not spontaneous." No travel advisory.
-** Hersatia: Diplomatic note. "Concerned about Ayorin community." Stops short of recall.
-** Burawa: Travel advisory for Okaiken. "Exercise increased caution." Cites Ayorin attacks. 2,500 Burawans in Okaiken.
-* '''Key dates:''' All 28 June
-* '''Next development:''' Further diplomatic responses; AFA reaction; trade impacts; ultra investigation fallout
-* '''Stakeholders:''' Asikyira, Volisania, Jarin, United Midlands, Hersatia, Burawa, TMPD, Foreign Ministry
-
-===AFA World Cup Corruption / Betting Scandal===
-* '''Status:''' ✅ PUBLISHED — AFA corruption expose published 30 June. Documents from two independent sources. Key findings: (1) unusual betting patterns on Okaiken-Ayorin match — late surge on Ayorin to win in stoppage time, concentrated through Dagit-linked platforms. (2) Referee Carlos Mendoza of Sanrobonia under investigation by AFA integrity unit — three stoppage-time calls reviewed. (3) Dagit 2030 World Cup bid committee received ¥4.1B from same OICA allocation — same three shell companies. No schools built. A World Cup bid was funded. Mainichi: "The tournament is corrupt. The team came home. The truth is coming out."
-* '''Key dates:''' Expose published 30 June; PPO investigation opened 1 July
-* '''Next development:''' AFA integrity unit ruling; Mendoza investigation; betting scandal; Dagit 2030 bid fallout; PPO investigation convergence with OICA
-* '''Stakeholders:''' AFA, AFA integrity unit, referee Mendoza, betting syndicates, Dagit 2030 bid committee, OICA, PPO special prosecutor
+===Ronaldo Batot Flight / Worldwide Arrest Warrant===
+* '''Status:''' ❌ FUGITIVE — **Batot fled Okaiken 12 July via commercial flight Okami→Castejón→Maros. Investigators found empty apartment 15 July. Worldwide arrest warrant + Interpol Red Notice issued 16 July.** Batot, 42, Pangkajenen national, maritime trade consultant operating in Okaiken since 2019. Was the intermediary between Akamatsu Group's Baliscan shell companies and Marítima Estrella shipping network. Connection to MV Castellano confirmed. **Pangkajene has no extradition treaty with Okaiken.** President Pattawari: "Reviewing." FM Nishimura: "We expect cooperation."
+* '''Key dates:''' Arrests 9 July; Batot fled 12 July; empty apartment found 15 July; worldwide warrant + Interpol Red Notice 16 July
+* '''Next development:''' Pangkajene diplomatic response; extradition negotiation; who tipped Batot off?; Justice Ministry explanation for 4-day gap; border control review
+* '''Stakeholders:''' Ronaldo Batot, Justice Ministry, Interpol, Pangkajene President Pattawari, Pangkajene Foreign Ministry, FM Nishimura, IAA Commission, Akamatsu Group prosecution team
 
 ===Akamatsu Group Corporate Fraud / Pension Fund Embezzlement===
-* '''Status:''' ❌ MAJOR — Three arrested 9 July: Chairman Akamatsu Seijiro (45), Executive VP Ibuki Yuma (31, former entertainer), CFO Advisor Izumida Shotaro (48, former media commentator). Charges: corporate fraud, embezzlement of ¥18B from employee pension funds (2023-2026), falsification of financial records, money laundering via shell companies in Balisca. Whistleblower (mid-level accountant) triggered investigation — protected under POIA. Search warrants executed at Akamatsu Group HQ in Okami and subsidiaries in Toyozawa at 6:00 AM. Stock suspended on Okami Securities Exchange. **Court appearance 10 July: Akamatsu silent, Ibuki wept, Izumida: "I was following orders." Bail denied. Next hearing July 17.** IAA Commission first referral. **Political donations under review: ¥48M to LDP over 5 years, three donations within 30 days of SESC audit deadlines.** Interim chairman Mori Takashi: "Employees' pension funds will be restored. Trust will be harder to restore."
-* '''Key dates:''' Arrests 9 July; court appearance 10 July; next hearing July 17; pension fund audit begins Monday
-* '''Next development:''' IAA Commission investigation; POIA political donations investigation; SESC audit failure review; pension fund restoration; who else knew?
-* '''Stakeholders:''' Akamatsu Seijiro, Ibuki Yuma, Izumida Shotaro, interim chairman Mori Takashi, IAA Commission Chair Aoyama, SESC, POIA investigators, Okami District Public Prosecutors Office, 12,000 Akamatsu Group employees, LDP
+* '''Status:''' ❌ MAJOR — Three arrested 9 July: Chairman Akamatsu Seijiro (45), Executive VP Ibuki Yuma (31, former entertainer), CFO Advisor Izumida Shotaro (48). **VP Finance Nishikawa Daigo (52) surrendered voluntarily 10 July — brought 14 months of memos, email chains, 22-minute audio recording of Akamatsu saying "the pension fund is not their money."** **Ibuki supplemental indictment 10 July: active obstruction of SESC oversight, ¥340M personal receipt, celebrity status used to influence auditors. SESC Auditor Kojima placed on leave. Personal assets seized. Bail denied twice. Judge: "Tears are not a medical condition."** Court hearing July 17. IAA Commission first fully resourced case — 12 investigators. **Pension fund audit enters third day. 12,000 employees. Interim chairman Mori: "Employees will be made whole."** Political donations: ¥48M to LDP over 5 years, three donations within 30 days of SESC audit deadlines. POIA review ongoing.
+* '''Key dates:''' Arrests 9 July; Nishikawa surrender 10 July; Ibuki supplemental indictment 10 July; pension fund audit began 14 July; hearing July 17
+* '''Next development:''' July 17 hearing; pension fund audit results; POIA political donations investigation; SESC auditor Kojima investigation; IAA Commission findings
+* '''Stakeholders:''' Akamatsu Seijiro, Ibuki Yuma, Izumida Shotaro, Nishikawa Daigo, interim chairman Mori Takashi, IAA Commission Chair Aoyama, SESC, POIA investigators, Okami District Public Prosecutors Office, 12,000 Akamatsu Group employees, LDP, SESC Auditor Kojima
+
+===MV Castellano / Balboan Undocumented Cargo Ship===
+* '''Status:''' ❌ DRUGS + BATOT LINK — Day 19. **Batot confirmed as intermediary between Akamatsu Group shell companies and Marítima Estrella.** First mate testimony: false wall built at Port of Balboa City. Crew are couriers, not organisers. **Batot's Pangkajene maritime contacts linked to Marítima Estrella shipping network.** WMO ruled 9 July: Zong Trade Bridge NOT a "partner." Sansi: unconditional cooperation. Zong: conditional cooperation. Balboa: SILENT (72+ hrs). Two investigations now linked through Batot.
+* '''Key dates:''' Arrived 28 June; drugs found 6 July; first mate testimony 8 July; FM press conference 9 July; WMO ruling 9 July; Batot flight 12 July; Batot link confirmed 16 July
+* '''Next development:''' Marítima Estrella corporate records from Balboa; Zong Trade Bridge investigation; Batot extradition and questioning; who built the wall? Who financed?
+* '''Stakeholders:''' Port authority Chief Aoki, Customs Chief Inspector Mori, Justice Ministry, Foreign Ministry, Balboa embassy, Zong, Sansi, MV Castellano crew, Marítima Estrella S.A., Zong Trade Bridge Ltd., first mate, crew attorney Kishi Daisuke, Ronaldo Batot, Pangkajene maritime network
+
+===Institutional Accountability Act===
+* '''Status:''' ✅ COMMISSION OPERATIONAL — Chair Aoyama Reiko (8-1 vote, 9 July). First three referrals: Harujima, Kizan, Akamatsu Group. **Akamatsu Group case = first fully resourced investigation (12 investigators). Nishikawa evidence catalogued and verified.** Aoyama: "Every yen will be accounted for." Commission also reviewing MV Castellano connection via Batot. Baliscan Secretariat requested IAA jurisdiction over waste crisis — Aoyama: "The Commission will review."
+* '''Key dates:''' Chair appointed 9 July; first referrals 10 July; Akamatsu investigation fully resourced 16 July
+* '''Next development:''' Implementing regulations; Akamatsu findings; Castellano/Batot jurisdiction; waste crisis jurisdiction review
+* '''Stakeholders:''' Aoyama Reiko, Nakajima, Tanaka Kenji (LDP), Sadanuma, Yamada (OIP), Ono, Endo (PPO)
+
+===Baliscan Waste Export Investigation / Hannan Seiso Contract Cancellation===
+* '''Status:''' ❌ DAY 19 — Blockade at Port of Castejón holds. 40,000 tonnes unmoved. **Tanaka Hiroshi cooperating with PPO — named three Ministry officials who told him inspections were "completed." All three reassigned. None charged. None suspended.** Baliscan Secretariat requested IAA Commission jurisdiction. PPO investigation accelerating. Recycling plant debate stalls in Toyozawa municipal assembly — vote postponed to July 23.
+* '''Key dates:''' Blockade 28 June; contracts cancelled 30 June; Tanaka testimony 10 July; three officials named; PPO investigation ongoing; recycling plant vote July 23
+* '''Next development:''' Charges against three officials?; IAA Commission jurisdiction decision; recycling plant vote; Dagit response
+* '''Stakeholders:''' Baliscan Secretariat, Hannan Seiso CEO Tanigawa, Tanaka Hiroshi, three named Ministry officials, Toyozawa City Council, Ministry of Environment, Endo/PPO, IAA Commission
+
+===Noto 1st Vacant Seat By-election===
+* '''Status:''' ⚠️ ACTIVE — July 26. Koda (LDP) vs Misaki (Coalition). **Debate July 18 at Suzu Community Hall.** Campaign enters final 10 days. LDP polling within margin of error. IAA Commission jurisdiction over Noto red tide aftermath remains contested.
+* '''Key dates:''' Filing July 12; first debate July 18; vote July 26
+* '''Next development:''' July 18 debate; campaign events; coalition vs. LDP machine; turnout
+* '''Stakeholders:''' Election Commission, Governor Ando, LDP (Koda), PPO (Misaki), Noto voters
 
 ===Emperor's Trophy All-Okaiken High School Volleyball Championship===
-* '''Status:''' ⚠️ ONGOING — Prefectural qualifiers underway across 47 prefectures. Over 1,200 schools competing. Defending champion: Toyozawa Nishi High School (Yagikoshu) — won Yagikoshu prefectural title 10 July. Cinderella story: Ehime Minami (unseeded) defeated top-seeded Matsuyama Chuo 3-2 in Ehime semifinal. All 47 prefectural champions decided by Sunday. National bracket drawn Monday. Final tournament August 8-10 at Okami Metropolitan Gymnasium. Crown Prince expected at August 10 final.
-* '''Key dates:''' Qualifiers began July 8; prefectural finals by July 13; national bracket July 14; final tournament August 8-10; Emperor's Trophy August 10
-* '''Next development:''' Prefectural champions; national bracket; tournament seeding; Crown Prince attendance
-* '''Stakeholders:''' Okaiken High School Volleyball Federation, Crown Prince Tomohito, 1,200+ schools, Toyozawa Nishi captain Ota Kousei, Ehime Minami captain Sato Riku
+* '''Status:''' ⚠️ ONGOING — 47 prefectural champions confirmed. **National bracket draw July 20 at Okami Imperial Palace. Crown Prince Tomohito presiding.** Defending champion Noto Prefecture received wildcard. Toyozawa Metropolis (seeded 1), Okami Metropolis (seeded 2), Mito Prefecture (seeded 3), Ehime Prefecture (seeded 4 — first appearance in 12 years). Quarter-finals August 8, semi-finals August 9, final August 10 at Okami Metropolitan Gymnasium.
+* '''Key dates:''' Prefectural champions by July 13; national bracket July 20; tournament August 8-10
+* '''Next development:''' Bracket draw; tournament seeding; Crown Prince attendance; Ehime return story
+* '''Stakeholders:''' Okaiken High School Volleyball Federation, Crown Prince Tomohito, 1,200+ schools, Toyozawa Nishi, Ehime Minami
+
+===NOPW / Island Invasion Tour Build===
+* '''Status:''' ⚠️ ONGOING — **Episode 4 (July 15, Naruto, 4,800): Kengo def. Akira Sato. Marcus Vance retained IC title (1st defence). KAZUKI/Leoni forced to team — won by DQ after Jusuf interference. Kuroshio bond tension visible.** **Marcus Vance Mainichi interview published 10 July — 48K shares, 28K new followers, IC merchandise sold out (8K + 12K reprint). Island Invasion Tour August 9 sold out in 6 hours. Second show added August 10.** Fangatapu, Vaiahi Islands.
+* '''Key dates:''' Episode 4 July 15; Island Invasion Tour August 9-10; Fangatapu, Vaiahi
+* '''Next development:''' Episode 5; Kuroshio bond resolution?; Leoni vs KAZUKI at Island Invasion?; Vance IC title defence
+* '''Stakeholders:''' NOPW, booker Maeda Toshiaki, Kengo, Marcus Vance, KAZUKI, Leoni, Big Stan, Diallo, Jusuf, Island Invasion Tour organisers, Vaiahi government
+
+===Ayorin Business Attacks / FM Oversight===
+* '''Status:''' ⚠️ WINDING DOWN — Three arrests remain. TMPD: "Core network dismantled." **FM oversight hearing scheduled July 22 — open session. FM Nishimura to testify. Deputy Director Hayashi Yuki to appear.** Ayorin community chair Burawa Yuki: "The apology is accepted. The delay is not explained." 14 families remain in temporary housing. Okami Metropolitan Assembly extended housing subsidies through September.
+* '''Key dates:''' Attacks 27-28 June; FM press conference 9 July; oversight hearing July 22; subsidies extended through September
+* '''Next development:''' July 22 hearing; hate crime prosecution; remaining suspects; housing subsidy extension
+* '''Stakeholders:''' TMPD Chief Aoki, Mayor Ishikawa, Ayorin community, Endo/PPO, FM Nishimura, Hayashi Yuki, Burawa Yuki, Okami Metropolitan Assembly
+
+===OR Harujima Deletion Scandal / Regulatory Contagion===
+* '''Status:''' ⚠️ CRITICAL — Forensic assessment: OBSTRUCTION, NOT COMPLICITY. 3 of 14 complaints met causation threshold. Deletion occurred 29-30 May, AFTER derailment. Combined 26-prosecutor task force continues. Osada investigation ongoing.
+* '''Key dates:''' Forensic assessment complete 15 June; Osada investigation ongoing
+* '''Next development:''' Osada charges; Morimoto's knowledge; who failed to act
+* '''Stakeholders:''' Yamamoto Hina Safety Commission, OR Harujima, Kuroda Holdings, Hannan Seiso, Gen Osada (CIO), Justice Ministry, Mochizuki
+
+===Ehime Dock Workers' Dispute===
+* '''Status:''' ⚠️ ONGOING — Ex parte injunction 90-day prohibition. Injunction challenge filed at Ogawa District Court. Union argues procedural fairness violation. Okayama/Sakurai port unions joining challenge.
+* '''Key dates:''' Injunction 90 days; challenge filed 19 June; automation rollout October
+* '''Next development:''' Court ruling on challenge; IAA implications
+* '''Stakeholders:''' Ehime dockworkers' union, Onan Port Authority, LDP prefectural chapter, Ehime District Court, Union chair Fujita, Ogawa District Court
+
+===KTK/KHR Editorial Independence Review===
+* '''Status:''' ⚠️ WINDING DOWN — Director Kondo released cut footage 10 July. 12 minutes of deleted scenes. Communications Committee reviewing. KTK denies instructing Kondo. Kondo contradicts KTK. #TellTheTruth at 5.1M.
+* '''Key dates:''' Footage released 10 July; Communications Committee review ongoing
+* '''Next development:''' Committee findings; who pressured the director?
+* '''Stakeholders:''' KTK, KHR, Director Yui Kondo, Communications Committee
+
+===Digital Sovereignty Act Implementation===
+* '''Status:''' ⚠️ ONGOING — DSA compliance deadline 8 July passed. Tsubaki-ya saved by community fund (5,400 donors, ¥2.3M). Shintenchi-doro Small Business Relief Fund established. Operational unit definition debate continues. Sansi Technology Governance MOU working group sessions ongoing.
+* '''Key dates:''' DSA compliance 8 July; Tsubaki-ya saved 8 July; operational unit definition TBD
+* '''Next development:''' Operational unit definition; sector exemptions; small business policy
+* '''Stakeholders:''' Ministry of Digital Affairs, Mochizuki, Ono, Kizan Systems, Toyozawa Chamber of Commerce, Sansi technology minister
+
+===OICA / Dagit School Funds Scandal===
+* '''Status:''' ⚠️ ONGOING — PPO investigation. ¥4.1B siphoned through three shell companies. Connection to Dagit Minister Magalona. Dagit 2030 AFA World Cup bid link. AFA corruption expose published 30 June. Referee Mendoza under investigation.
+* '''Key dates:''' Audit leaked 28 June; AFA expose 30 June; PPO investigation 1 July
+* '''Next development:''' PPO investigation; AFA integrity unit; Dagit diplomatic response
+* '''Stakeholders:''' OICA, Magalona, Endo/PPO, special prosecutor, AFA integrity unit, referee Mendoza
+
+===AFA World Cup Corruption / Betting Scandal===
+* '''Status:''' ⚠️ ONGOING — AFA expose published 30 June. Betting patterns on Okaiken-Ayorin match. Referee Mendoza under investigation. Dagit 2030 bid funded by OICA money. PPO investigation converging with OICA.
+* '''Key dates:''' Expose 30 June; PPO investigation 1 July
+* '''Next development:''' AFA integrity unit ruling; Mendoza investigation; Dagit 2030 bid fallout
+* '''Stakeholders:''' AFA, AFA integrity unit, referee Mendoza, betting syndicates, Dagit 2030 bid committee, OICA, PPO
+
+===Fosian Alliance / Maritime Security===
+* '''Status:''' ⚠️ BACKGROUND — Sansin dialogue proposal under review. Coordinated maritime presence operations continue. Zong has not responded.
+* '''Key dates:''' Ongoing
+* '''Next development:''' Alliance/Zong response; diplomatic framework
+* '''Stakeholders:''' Foreign Ministry, Zong, Sansi, Fosian Alliance
 
 ==Recently Concluded==
 
-* '''E3 Expressway:''' Traffic fully normalised 20 June. Reopened 18 June. Superficial fractures confirmed.
-* '''IAA Third Reading:''' Passed 267-207 (Day 13). IAA is now law.
+* '''Nagoya Basho:''' Concluded 13 July. Yokozuna Kotoyamada won 8th championship (13-2). Sekiwake Asanoyama promoted to ozeki.
+* '''Tsubaki-ya Closure:''' Saved by community fund 8 July. Shintenchi-doro Relief Fund established.
+* '''FM Press Conference:''' 9 July. FM broke 11-day silence. Apologised. Oversight hearing scheduled July 22.
+* '''OMA/Zong Data Dispute:''' WMO ruled 9 July. Zong Trade Bridge NOT a "partner." Resolved.
+* '''PPO Leadership Election:''' Endo won unopposed 27 June.
+* '''Noto Red Tide:''' Eastern coastline reopened 22 June. Fully resolved.
+* '''Typhoon No. 3:''' Passed 28 June. Power restored 29 June.
+* '''Grand Week 2026:''' Concluded 7 June. ¥1.2 trillion revenue.
+* '''IAA Third Reading:''' Passed 267-207. IAA is now law.
 * '''Digital Sovereignty Act:''' Signed into law 8 June.
-* '''Fosian Alliance Defense Summit:''' Concluded 9 June.
-* '''Nationalisation Authorisation Vote:''' Passed 473-0 (Day 9).
-* '''Noto ¥2B Supplemental:''' Passed 473-0 (Day 10).
-* '''Yoshida-Ikazaki Agreement:''' Reached Day 10.
-* '''IAA LDP Due Process Amendment:''' Defeated 7-6 in committee (Day 10).
-* '''IAA SCP Scope Expansion:''' Passed 8-5 in committee with proximity clause (Day 10).
-* '''LDP Noto Offset Amendment:''' Defeated 221-252 (Day 10).
-* '''Ehime Dock Workers' Mediation:''' Collapsed after fourth session (Day 11).
-* '''IAA Second Reading:''' Passed 266-207, due process amendment defeated (Day 12).
-* '''Yoshida Gender-Impact Assessment:''' Accepted as separate provision (Day 12).
-* '''Kawauchi-ku Manhunt:''' Suspect apprehended 14 June.
-* '''NOPW Shendan Cup:''' Masua regained IGO Heavyweight Championship 13 June.
-* '''Okami Food Fest:''' Concluded 14 June — 65,000 visitors.
-* '''Grand Week 2026:''' Concluded 7 June. ¥1.2 trillion revenue (14% increase).
-* '''Ikazaki-Yoshida Coalition Compromise:''' Concluded 19 June. PM conceded 2 of 3 demands. SDP to vote with coalition on IAA budget.
-* '''Select Committee on Agricultural Research Security:''' Constituted 19 June. First hearing next week.
-* '''Nishikawa Protest March:''' Completed 20 June. Peaceful. Thousands marched. No arrests.
+* '''Nationalisation Authorisation Vote:''' Passed 473-0.
+* '''Noto ¥2B Supplemental:''' Passed 473-0.
+* '''Kizan Prosecution:''' No-contest plea 1 July. ¥2.8B fine. Three audit firms selected 7 July.
+* '''Toyozawa Waste Management Nationalisation:** IAA budget passed 252-0. Worker consultation ongoing.
 
 ==Guidelines for Hiroto==
 * Update the '''Status''' line after each daily edition
@@ -262,9 +124,10 @@ This page tracks ongoing news stories for ''The Toyozawa Mainichi''. Each entry 
 * Remove stories from Recently Concluded after 7 days
 * The Mainichi covers the SAME events as the Okami Times but from a centre-right editorial perspective
 * The Editorial section is the Mainichi's signature — include at least one editorial and one column per edition
-* The Toyozawa section is the paper's home section — dedicated to Toyozawa city/metropolis news (Kizan, Data Corridor, shipyard, Shinkansen hub, tidal bay, local politics, culture)
+* The Toyozawa section is the paper's home section — dedicated to Toyozawa city/metropolis news
 * Regional briefs use location subheaders: '''[Prefecture/City]''' on its own line above each brief
 * Editorial positions: pro-business, pro-stability, skeptical of regulatory overreach, supportive of national defence, cautious on constitutional change
+* **Use physical geography from mountain CSV, river list, and lake list for regional briefs — reference actual mountains, rivers, and lakes near the cities**
 * Check this tracker before generating each new edition to maintain continuity
 
 [[Category:Toyozawa Mainichi]]
