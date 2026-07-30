@@ -1,0 +1,57 @@
+Aircraft,Registration,Base,FlightNo,Day,From,To,DepTime,ArrTime,BlockHrs,Notes
+787-1,BL-WBA,SCI,AB111,Mon,SCI,AMP,13:00,00:00+1,11.0,Ampuria 3x daily (midday) — premium 787 config
+787-1,BL-WBA,SCI,AB112,Mon,AMP,SCI,01:00,12:00,11.0,Ampuria 3x daily (midday return) — 1h turn at SCI
+787-1,BL-WBA,SCI,AB111,Tue,SCI,AMP,13:00,00:00+1,11.0,Ampuria 3x daily (midday) — premium 787 config
+787-1,BL-WBA,SCI,AB112,Tue,AMP,SCI,01:00,12:00,11.0,Ampuria 3x daily (midday return) — 1h turn at SCI
+787-1,BL-WBA,SCI,AB111,Wed,SCI,AMP,13:00,00:00+1,11.0,Ampuria 3x daily (midday) — premium 787 config
+787-1,BL-WBA,SCI,AB112,Wed,AMP,SCI,01:00,12:00,11.0,Ampuria 3x daily (midday return) — 1h turn at SCI
+787-1,BL-WBA,SCI,AB111,Thu,SCI,AMP,13:00,00:00+1,11.0,Ampuria 3x daily (midday) — premium 787 config
+787-1,BL-WBA,SCI,AB112,Thu,AMP,SCI,01:00,12:00,11.0,Ampuria 3x daily (midday return) — 1h turn at SCI
+787-1,BL-WBA,SCI,AB111,Fri,SCI,AMP,13:00,00:00+1,11.0,Ampuria 3x daily (midday) — premium 787 config
+787-1,BL-WBA,SCI,AB112,Fri,AMP,SCI,01:00,12:00,11.0,Ampuria 3x daily (midday return) — 1h turn at SCI
+787-1,BL-WBA,SCI,AB111,Sat,SCI,AMP,13:00,00:00+1,11.0,Ampuria 3x daily (midday) — premium 787 config
+787-1,BL-WBA,SCI,AB112,Sat,AMP,SCI,01:00,12:00,11.0,Ampuria 3x daily (midday return) — 1h turn at SCI
+787-1,BL-WBA,SCI,AB111,Sun,SCI,AMP,13:00,00:00+1,11.0,Ampuria 3x daily (midday) — premium 787 config
+787-1,BL-WBA,SCI,AB112,Sun,AMP,SCI,01:00,12:00,11.0,Ampuria 3x daily (midday return) — 1h turn at SCI
+787-2,BL-WBB,SCI,AB113,Mon,SCI,AMP,19:00,06:00+1,11.0,Ampuria 3x daily (evening) — premium 787 config
+787-2,BL-WBB,SCI,AB114,Mon,AMP,SCI,07:00,18:00,11.0,Ampuria 3x daily (evening return) — 1h turn at SCI
+787-2,BL-WBB,SCI,AB113,Tue,SCI,AMP,19:00,06:00+1,11.0,Ampuria 3x daily (evening) — premium 787 config
+787-2,BL-WBB,SCI,AB114,Tue,AMP,SCI,07:00,18:00,11.0,Ampuria 3x daily (evening return) — 1h turn at SCI
+787-2,BL-WBB,SCI,AB113,Wed,SCI,AMP,19:00,06:00+1,11.0,Ampuria 3x daily (evening) — premium 787 config
+787-2,BL-WBB,SCI,AB114,Wed,AMP,SCI,07:00,18:00,11.0,Ampuria 3x daily (evening return) — 1h turn at SCI
+787-2,BL-WBB,SCI,AB113,Thu,SCI,AMP,19:00,06:00+1,11.0,Ampuria 3x daily (evening) — premium 787 config
+787-2,BL-WBB,SCI,AB114,Thu,AMP,SCI,07:00,18:00,11.0,Ampuria 3x daily (evening return) — 1h turn at SCI
+787-2,BL-WBB,SCI,AB113,Fri,SCI,AMP,19:00,06:00+1,11.0,Ampuria 3x daily (evening) — premium 787 config
+787-2,BL-WBB,SCI,AB114,Fri,AMP,SCI,07:00,18:00,11.0,Ampuria 3x daily (evening return) — 1h turn at SCI
+787-2,BL-WBB,SCI,AB113,Sat,SCI,AMP,19:00,06:00+1,11.0,Ampuria 3x daily (evening) — premium 787 config
+787-2,BL-WBB,SCI,AB114,Sat,AMP,SCI,07:00,18:00,11.0,Ampuria 3x daily (evening return) — 1h turn at SCI
+787-2,BL-WBB,SCI,AB113,Sun,SCI,AMP,19:00,06:00+1,11.0,Ampuria 3x daily (evening) — premium 787 config
+787-2,BL-WBB,SCI,AB114,Sun,AMP,SCI,07:00,18:00,11.0,Ampuria 3x daily (evening return) — 1h turn at SCI
+787-3,BL-WBC,SCI,AB115,Mon,SCI,ISK,08:00,19:00,11.0,Iskhal daily — premium 787 config
+787-3,BL-WBC,SCI,AB116,Mon,ISK,SCI,20:00,07:00+1,11.0,"Iskhal daily return — overnight red-eye, 1h turn at SCI"
+787-3,BL-WBC,SCI,AB115,Tue,SCI,ISK,08:00,19:00,11.0,Iskhal daily — premium 787 config
+787-3,BL-WBC,SCI,AB116,Tue,ISK,SCI,20:00,07:00+1,11.0,"Iskhal daily return — overnight red-eye, 1h turn at SCI"
+787-3,BL-WBC,SCI,AB115,Wed,SCI,ISK,08:00,19:00,11.0,Iskhal daily — premium 787 config
+787-3,BL-WBC,SCI,AB116,Wed,ISK,SCI,20:00,07:00+1,11.0,"Iskhal daily return — overnight red-eye, 1h turn at SCI"
+787-3,BL-WBC,SCI,AB115,Thu,SCI,ISK,08:00,19:00,11.0,Iskhal daily — premium 787 config
+787-3,BL-WBC,SCI,AB116,Thu,ISK,SCI,20:00,07:00+1,11.0,"Iskhal daily return — overnight red-eye, 1h turn at SCI"
+787-3,BL-WBC,SCI,AB115,Fri,SCI,ISK,08:00,19:00,11.0,Iskhal daily — premium 787 config
+787-3,BL-WBC,SCI,AB116,Fri,ISK,SCI,20:00,07:00+1,11.0,"Iskhal daily return — overnight red-eye, 1h turn at SCI"
+787-3,BL-WBC,SCI,AB115,Sat,SCI,ISK,08:00,19:00,11.0,Iskhal daily — premium 787 config
+787-3,BL-WBC,SCI,AB116,Sat,ISK,SCI,20:00,07:00+1,11.0,"Iskhal daily return — overnight red-eye, 1h turn at SCI"
+787-3,BL-WBC,SCI,AB115,Sun,SCI,ISK,08:00,19:00,11.0,Iskhal daily — premium 787 config
+787-3,BL-WBC,SCI,AB116,Sun,ISK,SCI,20:00,07:00+1,11.0,"Iskhal daily return — overnight red-eye, 1h turn at SCI"
+787-4,BL-WBD,SCI,AB117,Mon,SCI,KKD,09:00,20:00,11.0,Kankadadka daily — premium 787 config
+787-4,BL-WBD,SCI,AB118,Mon,KKD,SCI,21:00,08:00+1,11.0,"Kankadadka daily return — overnight red-eye, 1h turn at SCI"
+787-4,BL-WBD,SCI,AB117,Tue,SCI,KKD,09:00,20:00,11.0,Kankadadka daily — premium 787 config
+787-4,BL-WBD,SCI,AB118,Tue,KKD,SCI,21:00,08:00+1,11.0,"Kankadadka daily return — overnight red-eye, 1h turn at SCI"
+787-4,BL-WBD,SCI,AB117,Wed,SCI,KKD,09:00,20:00,11.0,Kankadadka daily — premium 787 config
+787-4,BL-WBD,SCI,AB118,Wed,KKD,SCI,21:00,08:00+1,11.0,"Kankadadka daily return — overnight red-eye, 1h turn at SCI"
+787-4,BL-WBD,SCI,AB117,Thu,SCI,KKD,09:00,20:00,11.0,Kankadadka daily — premium 787 config
+787-4,BL-WBD,SCI,AB118,Thu,KKD,SCI,21:00,08:00+1,11.0,"Kankadadka daily return — overnight red-eye, 1h turn at SCI"
+787-4,BL-WBD,SCI,AB117,Fri,SCI,KKD,09:00,20:00,11.0,Kankadadka daily — premium 787 config
+787-4,BL-WBD,SCI,AB118,Fri,KKD,SCI,21:00,08:00+1,11.0,"Kankadadka daily return — overnight red-eye, 1h turn at SCI"
+787-4,BL-WBD,SCI,AB117,Sat,SCI,KKD,09:00,20:00,11.0,Kankadadka daily — premium 787 config
+787-4,BL-WBD,SCI,AB118,Sat,KKD,SCI,21:00,08:00+1,11.0,"Kankadadka daily return — overnight red-eye, 1h turn at SCI"
+787-4,BL-WBD,SCI,AB117,Sun,SCI,KKD,09:00,20:00,11.0,Kankadadka daily — premium 787 config
+787-4,BL-WBD,SCI,AB118,Sun,KKD,SCI,21:00,08:00+1,11.0,"Kankadadka daily return — overnight red-eye, 1h turn at SCI"
