@@ -27,26 +27,6 @@ A330-1,BL-WBA,SCI,AB201,Sun,SCI,CAS,08:00,14:30,6.5,Daily Castejón AM departure
 A330-1,BL-WBA,SCI,AB202,Sun,CAS,SCI,16:00,22:30,6.5,Daily Castejón AM return
 A330-2,BL-WBB,SCI,AB203,Sun,SCI,CAS,11:00,17:30,6.5,Daily Castejón midday departure
 A330-2,BL-WBB,SCI,AB204,Sun,CAS,SCI,19:00,01:30+1,6.5,Daily Castejón midday return
-A330-3,BL-WBC,SCI,AB205,Mon,SCI,HAR,22:00,07:00+1,9.0,"3x weekly Hargiesa — red-eye, arr Tue morning"
-A330-3,BL-WBC,SCI,AB206,Tue,HAR,SCI,10:00,19:00,9.0,3x weekly Hargiesa — 3h turnaround at HAR
-A330-3,BL-WBC,SCI,AB205,Wed,SCI,HAR,22:00,07:00+1,9.0,"3x weekly Hargiesa — red-eye, arr Thu morning"
-A330-3,BL-WBC,SCI,AB206,Thu,HAR,SCI,10:00,19:00,9.0,3x weekly Hargiesa — 3h turnaround at HAR
-A330-3,BL-WBC,SCI,AB205,Fri,SCI,HAR,22:00,07:00+1,9.0,"3x weekly Hargiesa — red-eye, arr Sat morning"
-A330-3,BL-WBC,SCI,AB206,Sat,HAR,SCI,10:00,19:00,9.0,3x weekly Hargiesa — 3h turnaround at HAR
-A330-4,BL-WBD,SCI,AB207,Mon,SCI,PSL,09:00,12:30,3.5,Daily Port Soledat from SCI
-A330-4,BL-WBD,SCI,AB208,Mon,PSL,SCI,14:00,17:30,3.5,Daily Port Soledat return to SCI
-A330-4,BL-WBD,SCI,AB207,Tue,SCI,PSL,09:00,12:30,3.5,Daily Port Soledat from SCI
-A330-4,BL-WBD,SCI,AB208,Tue,PSL,SCI,14:00,17:30,3.5,Daily Port Soledat return to SCI
-A330-4,BL-WBD,SCI,AB207,Wed,SCI,PSL,09:00,12:30,3.5,Daily Port Soledat from SCI
-A330-4,BL-WBD,SCI,AB208,Wed,PSL,SCI,14:00,17:30,3.5,Daily Port Soledat return to SCI
-A330-4,BL-WBD,SCI,AB207,Thu,SCI,PSL,09:00,12:30,3.5,Daily Port Soledat from SCI
-A330-4,BL-WBD,SCI,AB208,Thu,PSL,SCI,14:00,17:30,3.5,Daily Port Soledat return to SCI
-A330-4,BL-WBD,SCI,AB207,Fri,SCI,PSL,09:00,12:30,3.5,Daily Port Soledat from SCI
-A330-4,BL-WBD,SCI,AB208,Fri,PSL,SCI,14:00,17:30,3.5,Daily Port Soledat return to SCI
-A330-4,BL-WBD,SCI,AB207,Sat,SCI,PSL,09:00,12:30,3.5,Daily Port Soledat from SCI
-A330-4,BL-WBD,SCI,AB208,Sat,PSL,SCI,14:00,17:30,3.5,Daily Port Soledat return to SCI
-A330-4,BL-WBD,SCI,AB207,Sun,SCI,PSL,09:00,12:30,3.5,Daily Port Soledat from SCI
-A330-4,BL-WBD,SCI,AB208,Sun,PSL,SCI,14:00,17:30,3.5,Daily Port Soledat return to SCI
 A330-5,BL-WBE,SBT,AB209,Mon,SBT,PSL,08:00,10:54,2.9,Daily Port Soledat from SBT
 A330-5,BL-WBE,SBT,AB210,Mon,PSL,SBT,12:00,14:54,2.9,Daily Port Soledat return to SBT
 A330-5,BL-WBE,SBT,AB209,Tue,SBT,PSL,08:00,10:54,2.9,Daily Port Soledat from SBT
@@ -61,5 +41,45 @@ A330-5,BL-WBE,SBT,AB209,Sat,SBT,PSL,08:00,10:54,2.9,Daily Port Soledat from SBT
 A330-5,BL-WBE,SBT,AB210,Sat,PSL,SBT,12:00,14:54,2.9,Daily Port Soledat return to SBT
 A330-5,BL-WBE,SBT,AB209,Sun,SBT,PSL,08:00,10:54,2.9,Daily Port Soledat from SBT
 A330-5,BL-WBE,SBT,AB210,Sun,PSL,SBT,12:00,14:54,2.9,Daily Port Soledat return to SBT
-A330-5,BL-WBE,SBT,AB211,Sat,SBT,CAS,16:00,22:00,6.0,2x weekly SBT-Castejón — after Port Soledat return
-A330-5,BL-WBE,SBT,AB212,Sun,CAS,SBT,10:00,16:00,6.0,2x weekly SBT-Castejón return — before Port Soledat departure
+A330-4,BL-WBD,SCI,AB207,Mon,SCI,PSL,06:00,09:30,3.5,2x daily PSL — morning departure
+A330-4,BL-WBD,SCI,AB208,Mon,PSL,SCI,10:30,14:00,3.5,2x daily PSL — morning return
+A330-4,BL-WBD,SCI,AB213,Mon,SCI,PSL,15:00,18:30,3.5,2x daily PSL — evening departure
+A330-4,BL-WBD,SCI,AB214,Mon,PSL,SCI,19:30,23:00,3.5,2x daily PSL — evening return
+A330-4,BL-WBD,SCI,AB207,Tue,SCI,PSL,06:00,09:30,3.5,2x daily PSL — morning departure
+A330-4,BL-WBD,SCI,AB208,Tue,PSL,SCI,10:30,14:00,3.5,2x daily PSL — morning return
+A330-4,BL-WBD,SCI,AB213,Tue,SCI,PSL,15:00,18:30,3.5,2x daily PSL — evening departure
+A330-4,BL-WBD,SCI,AB214,Tue,PSL,SCI,19:30,23:00,3.5,2x daily PSL — evening return
+A330-4,BL-WBD,SCI,AB207,Wed,SCI,PSL,06:00,09:30,3.5,2x daily PSL — morning departure
+A330-4,BL-WBD,SCI,AB208,Wed,PSL,SCI,10:30,14:00,3.5,2x daily PSL — morning return
+A330-4,BL-WBD,SCI,AB213,Wed,SCI,PSL,15:00,18:30,3.5,2x daily PSL — evening departure
+A330-4,BL-WBD,SCI,AB214,Wed,PSL,SCI,19:30,23:00,3.5,2x daily PSL — evening return
+A330-4,BL-WBD,SCI,AB207,Thu,SCI,PSL,06:00,09:30,3.5,2x daily PSL — morning departure
+A330-4,BL-WBD,SCI,AB208,Thu,PSL,SCI,10:30,14:00,3.5,2x daily PSL — morning return
+A330-4,BL-WBD,SCI,AB213,Thu,SCI,PSL,15:00,18:30,3.5,2x daily PSL — evening departure
+A330-4,BL-WBD,SCI,AB214,Thu,PSL,SCI,19:30,23:00,3.5,2x daily PSL — evening return
+A330-4,BL-WBD,SCI,AB207,Fri,SCI,PSL,06:00,09:30,3.5,2x daily PSL — morning departure
+A330-4,BL-WBD,SCI,AB208,Fri,PSL,SCI,10:30,14:00,3.5,2x daily PSL — morning return
+A330-4,BL-WBD,SCI,AB213,Fri,SCI,PSL,15:00,18:30,3.5,2x daily PSL — evening departure
+A330-4,BL-WBD,SCI,AB214,Fri,PSL,SCI,19:30,23:00,3.5,2x daily PSL — evening return
+A330-4,BL-WBD,SCI,AB207,Sat,SCI,PSL,06:00,09:30,3.5,2x daily PSL — morning departure
+A330-4,BL-WBD,SCI,AB208,Sat,PSL,SCI,10:30,14:00,3.5,2x daily PSL — morning return
+A330-4,BL-WBD,SCI,AB213,Sat,SCI,PSL,15:00,18:30,3.5,2x daily PSL — evening departure
+A330-4,BL-WBD,SCI,AB214,Sat,PSL,SCI,19:30,23:00,3.5,2x daily PSL — evening return
+A330-4,BL-WBD,SCI,AB207,Sun,SCI,PSL,06:00,09:30,3.5,2x daily PSL — morning departure
+A330-4,BL-WBD,SCI,AB208,Sun,PSL,SCI,10:30,14:00,3.5,2x daily PSL — morning return
+A330-4,BL-WBD,SCI,AB213,Sun,SCI,PSL,15:00,18:30,3.5,2x daily PSL — evening departure
+A330-4,BL-WBD,SCI,AB214,Sun,PSL,SCI,19:30,23:00,3.5,2x daily PSL — evening return
+A330-3,BL-WAC,SCI,AB301,Mon,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnight outbound
+A330-3,BL-WAC,SCI,AB302,Tue,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return
+A330-3,BL-WAC,SCI,AB301,Tue,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnight outbound
+A330-3,BL-WAC,SCI,AB302,Wed,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return
+A330-3,BL-WAC,SCI,AB301,Wed,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnight outbound
+A330-3,BL-WAC,SCI,AB302,Thu,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return
+A330-3,BL-WAC,SCI,AB301,Thu,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnight outbound
+A330-3,BL-WAC,SCI,AB302,Fri,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return
+A330-3,BL-WAC,SCI,AB301,Fri,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnight outbound
+A330-3,BL-WAC,SCI,AB302,Sat,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return
+A330-3,BL-WAC,SCI,AB301,Sat,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnight outbound
+A330-3,BL-WAC,SCI,AB302,Sun,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return
+A330-3,BL-WAC,SCI,AB301,Sun,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnight outbound
+A330-3,BL-WAC,SCI,AB302,Mon,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return

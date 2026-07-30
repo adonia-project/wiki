@@ -68,7 +68,7 @@ The [[Balboa Airports Authority]], a government agency under the [[Ministry of T
 |-
 | [[Platja d'Aro Airport|Platja d'Aro]] || PDA || PDIB || [[Migjorn Province|Migjorn]] || [[Platja d'Aro]] || 180,000 || No || [[Platja d'Aro Airport|Yes]]
 |-
-| [[Amelio Perez Airport|Amelio Perez]] || AMP || AMIB || [[Estret Province|Estret]] || [[Costa Yiren]] || 140,000 || No || [[Amelio Perez Airport|Yes]]
+| [[Amelio Perez Airport|Amelio Perez]] || CYN || CYIB || [[Estret Province|Estret]] || [[Costa Yiren]] || 140,000 || No || [[Amelio Perez Airport|Yes]]
 |-
 | [[Santa Caterina Airport|Santa Caterina]] || STC || STIB || [[Migjorn Province|Migjorn]] || [[Santa Caterina]] || 95,000 || No || [[Santa Caterina Airport|Yes]]
 |-
@@ -91,7 +91,7 @@ The [[Balboa Airports Authority]], a government agency under the [[Ministry of T
 |-
 ! Province !! Airports !! Count
 |-
-| [[Estret Province|Estret]] || SCI, PNU, HAI, EAI, AMP, IGU, LES, IDA || 8
+| [[Estret Province|Estret]] || SCI, PNU, HAI, EAI, CYN, IGU, LES, IDA || 8
 |-
 | [[Jala Province|Jala]] || SBT, BDC, ALT || 3
 |-

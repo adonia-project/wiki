@@ -7,7 +7,7 @@
 | image_map              = Balboa location map.png
 | national_motto         = {{italic|''Llibertat, Igualtat, Fraternitat''}} {{small|("Liberty, Equality, Fraternity")}}
 | anthem                 = [[Himne de Balboa]] {{small|("Anthem of Balboa")}}
-| image_map2             =
+| image_map2             = 
 | capital                = [[Sant Cristòfor]]
 | admin_center           = [[Sant Bart]] {{small|(administrative centre)}}
 | largest_city           = [[Sant Cristòfor]]
@@ -16,10 +16,10 @@
 | religion               = {{unbulleted list|[[Catholicism]]|[[Tianism]]|[[Protestantism]]|indigenous traditions}}
 | demonym                = Balboan
 | government_type        = [[Presidential republic|Unitary presidential republic]]
-| leader_title1           = President
-| leader_name1            = [[Lim Hui-jin]]
-| leader_title2           = Vice President
-| leader_name2            = [[Adalberto Paredes]]
+| leader_title1          = President
+| leader_name1           = [[Lim Hui-jin]]
+| leader_title2          = Vice President
+| leader_name2           = [[Adalberto Paredes]]
 | legislature            = [[National Assembly of Balboa|National Assembly]]
 | sovereignty_type       = Independence
 | sovereignty_note       = from [[Volisania]]
@@ -30,12 +30,12 @@
 | established_event3     = Full reunification
 | established_date3      = 1 July 1973
 | area_km2               = 293,888
-| area_rank              =
-| percent_water          =
+| area_rank              = 
+| percent_water          = 
 | population_estimate    = 35,234,000
 | population_estimate_year = 2026
 | population_density_km2 = 119
-| population_rank        =
+| population_rank        = 
 | GDP_PPP                = {{increase}}$660 billion
 | GDP_PPP_year           = 2026
 | GDP_PPP_per_capita     = {{increase}}$18,750
@@ -49,9 +49,9 @@
 | HDI_rank               = High
 | currency               = [[International Dollar]] ({{currency code ID|$}})
 | currency_code          = ID
-| time_zone              =
-| calling_code           =
-| cctld                  = .bl
+| time_zone              = 
+| calling_code           = 
+| cctld                  = .ba
 | membership             = [[Adonian Community]]
 }}
 

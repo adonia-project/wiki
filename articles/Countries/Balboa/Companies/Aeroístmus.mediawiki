@@ -17,7 +17,7 @@
 | bases = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | hubs = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | alliance = [[Adonian Arrow]]
-| fleet_size = 45
+| fleet_size = 55
 | destinations = 40
 | parent = Aeroístmus S.A.
 | traded_as = {{ubl|SCX: AER|[[Bolsa de Sant Cristòfor]]}}
@@ -206,15 +206,22 @@ As of December 2025, Aeroístmus operates the following aircraft:
 | 204
 | Higher-density premium economy and economy configuration retained for selected regional services.
 |-
-| {{w|Airbus A321neo}}
-| 14
-| 20
+| rowspan="2" | {{w|Airbus A321neo}}
+| rowspan="2" | 18
+| rowspan="2" | 20
 | —
 | 24
 | 42
 | 126
 | 192
 | Premium-heavy configuration used on the Tanjung Seroja financial-hub routes, including Sant Cristòfor and Badia Curta services.
+|-
+| —
+| 12
+| 42
+| 144
+| 198
+| Business, premium economy, and economy configuration used on domestic trunk and short-haul international services.
 |-
 | rowspan="2" | {{w|Airbus A330|Airbus A330-300}}
 | rowspan="2" | 6
@@ -239,8 +246,18 @@ As of December 2025, Aeroístmus operates the following aircraft:
 | colspan="5" | TBD
 | On order for medium-haul fleet renewal and additional widebody capacity.
 |-
+| {{w|Boeing 787|Boeing 787-9}}
+| 4
+| —
+| —
+| 18
+| 48
+| 138
+| 204
+| Premium-heavy configuration used on non-peak Ampuria frequencies and secondary long-haul routes.
+|-
 | rowspan="2" | {{w|Boeing 777|Boeing 777-300ER}}
-| rowspan="2" | 5
+| rowspan="2" | 7
 | rowspan="2" | —
 | 8
 | 32
@@ -258,19 +275,19 @@ As of December 2025, Aeroístmus operates the following aircraft:
 |-
 | {{w|Airbus A350|Airbus A350-900}}
 | —
-| 2
+| 10
 | colspan="5" | TBD
-| On order to replace the Boeing 777-300ER; planned full-height suite first class product.
+| On order to replace the Boeing 777-300ER fleet and expand long-haul routes; planned full-height suite first class product.
 |-
 | {{w|ATR 72|ATR 72-600}}
 | 11
-| —
+| 3
 | —
 | —
 | —
 | 72
 | 72
-| Domestic regional and essential services aircraft; two are dry-leased to [[AeroTerminus]].
+| Domestic regional and essential services aircraft; two are dry-leased to [[AeroTerminus]]. Orders for fleet renewal of aging airframes.
 |-
 | {{w|Boeing 777F}}
 | 1

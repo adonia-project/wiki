@@ -13,21 +13,47 @@ Aircraft,Registration,Base,FlightNo,Day,From,To,DepTime,ArrTime,BlockHrs,Notes
 777-2,BL-WAB,SCI,AB102,Sat,AYM,SCI,23:55,11:55+1,12.0,Daily — arrives Sun 11:55
 777-1,BL-WAA,SCI,AB101,Sun,SCI,AYM,10:00,22:00,12.0,Daily — WAA/WAB rotation
 777-1,BL-WAA,SCI,AB102,Sun,AYM,SCI,23:55,11:55+1,12.0,Daily — arrives Mon 11:55
-777-4,BL-WAD,SCI,AB103,Mon,OKI,SCI,06:00,20:00,14.0,Okami 1x weekly — arrives SCI Mon evening
-777-4,BL-WAD,SCI,AB109,Tue,SCI,AMP,08:00,19:00,11.0,Ampuria 2x weekly (BL-WAD) — daytime
-777-4,BL-WAD,SCI,AB110,Wed,AMP,SCI,09:00,20:00,11.0,Ampuria 2x weekly (BL-WAD) — 14h overnight at AMP
-777-4,BL-WAD,SCI,AB109,Thu,SCI,AMP,08:00,19:00,11.0,Ampuria 2x weekly (BL-WAD) — daytime
-777-4,BL-WAD,SCI,AB110,Fri,AMP,SCI,09:00,20:00,11.0,Ampuria 2x weekly (BL-WAD) — 3h turnaround before Okami
-777-4,BL-WAD,SCI,AB104,Fri,SCI,OKI,22:00,Sat 12:00,14.0,Okami 1x weekly — departs SCI Fri night
-777-3,BL-WAC,SCI,AB105,Sun,OKI,SCI,06:00,20:00,14.0,Okami 1x weekly — arrives SCI Sun evening
-777-3,BL-WAC,SCI,AB109,Mon,SCI,AMP,08:00,19:00,11.0,Ampuria 1x weekly (BL-WAC) — daytime
-777-3,BL-WAC,SCI,AB110,Tue,AMP,SCI,09:00,20:00,11.0,Ampuria 1x weekly (BL-WAC) — 14h overnight at AMP
-777-3,BL-WAC,SCI,AB106,Wed,SCI,OKI,22:00,Thu 12:00,14.0,Okami 1x weekly — departs SCI Wed night
-777-5,BL-WAE,SCI,AB105,Sun,SCI,AMP,20:00,Mon 07:00,11.0,Ampuria 2x weekly (BL-WAE) — red-eye arrives Mon morning
-777-5,BL-WAE,SCI,AB106,Mon,AMP,SCI,12:00,23:00,11.0,Ampuria 2x weekly (BL-WAE) — 5h turnaround same-day return
-777-5,BL-WAE,SCI,AB105,Wed,SCI,AMP,08:00,19:00,11.0,Ampuria 2x weekly (BL-WAE) — daytime
-777-5,BL-WAE,SCI,AB106,Thu,AMP,SCI,09:00,20:00,11.0,Ampuria 2x weekly (BL-WAE) — 14h overnight at AMP
-777-5,BL-WAE,SCI,AB107,Sat,SCI,ISK,08:00,19:00,11.0,Iskhal weekly — weekend leisure departure
-777-5,BL-WAE,SCI,AB108,Sun,ISK,SCI,09:00,20:00,11.0,Iskhal weekly — Sunday return
+777-4,BL-WAD,SCI,AB109,Mon,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
+777-4,BL-WAD,SCI,AB110,Mon,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
+777-4,BL-WAD,SCI,AB109,Tue,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
+777-4,BL-WAD,SCI,AB110,Tue,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
+777-4,BL-WAD,SCI,AB109,Wed,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
+777-4,BL-WAD,SCI,AB110,Wed,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
+777-4,BL-WAD,SCI,AB109,Thu,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
+777-4,BL-WAD,SCI,AB110,Thu,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
+777-4,BL-WAD,SCI,AB109,Fri,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
+777-4,BL-WAD,SCI,AB110,Fri,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
+777-4,BL-WAD,SCI,AB109,Sat,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
+777-4,BL-WAD,SCI,AB110,Sat,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
+777-4,BL-WAD,SCI,AB109,Sun,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
+777-4,BL-WAD,SCI,AB110,Sun,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
 CODESHARE,Sanesair,OKI,SA-xxx,Mon,OKI,AKY,TBD,TBD,2.0,Codeshare — Okami→Akyatan (Dagit) 1696km on 787-9
 CODESHARE,Sanesair,OKI,SA-xxx,Thu,OKI,AKY,TBD,TBD,2.0,Codeshare — Okami→Akyatan (Dagit) 1696km on 787-9
+777-6,BL-WAF,SCI,AB121,Mon,SCI,AYM,20:00,08:00+1,12.0,Ayangatiri 2x daily (night) — overnight outbound
+777-6,BL-WAF,SCI,AB122,Tue,AYM,SCI,10:00,22:00,12.0,Ayangatiri 2x daily (night return) — morning departure from AYM
+777-6,BL-WAF,SCI,AB121,Wed,SCI,AYM,20:00,08:00+1,12.0,Ayangatiri 2x daily (night) — overnight outbound
+777-6,BL-WAF,SCI,AB122,Thu,AYM,SCI,10:00,22:00,12.0,Ayangatiri 2x daily (night return) — morning departure from AYM
+777-6,BL-WAF,SCI,AB121,Fri,SCI,AYM,20:00,08:00+1,12.0,Ayangatiri 2x daily (night) — overnight outbound
+777-6,BL-WAF,SCI,AB122,Sat,AYM,SCI,10:00,22:00,12.0,Ayangatiri 2x daily (night return) — morning departure from AYM
+777-6,BL-WAF,SCI,AB121,Sun,SCI,AYM,20:00,08:00+1,12.0,Ayangatiri 2x daily (night) — overnight outbound
+777-6,BL-WAF,SCI,AB122,Mon,AYM,SCI,10:00,22:00,12.0,Ayangatiri 2x daily (night return) — morning departure from AYM
+777-7,BL-WAG,SCI,AB121,Tue,SCI,AYM,20:00,08:00+1,12.0,Ayangatiri 2x daily (night) — overnight outbound
+777-7,BL-WAG,SCI,AB122,Wed,AYM,SCI,10:00,22:00,12.0,Ayangatiri 2x daily (night return) — morning departure from AYM
+777-7,BL-WAG,SCI,AB121,Thu,SCI,AYM,20:00,08:00+1,12.0,Ayangatiri 2x daily (night) — overnight outbound
+777-7,BL-WAG,SCI,AB122,Fri,AYM,SCI,10:00,22:00,12.0,Ayangatiri 2x daily (night return) — morning departure from AYM
+777-7,BL-WAG,SCI,AB121,Sat,SCI,AYM,20:00,08:00+1,12.0,Ayangatiri 2x daily (night) — overnight outbound
+777-7,BL-WAG,SCI,AB122,Sun,AYM,SCI,10:00,22:00,12.0,Ayangatiri 2x daily (night return) — morning departure from AYM
+777-3,BL-WAC,SCI,AB104,Mon,SCI,OKI,22:00,12:00+1,14.0,Okami daily — overnight outbound
+777-3,BL-WAC,SCI,AB103,Tue,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
+777-3,BL-WAC,SCI,AB104,Wed,SCI,OKI,22:00,12:00+1,14.0,Okami daily — overnight outbound
+777-3,BL-WAC,SCI,AB103,Thu,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
+777-3,BL-WAC,SCI,AB104,Fri,SCI,OKI,22:00,12:00+1,14.0,Okami daily — overnight outbound
+777-3,BL-WAC,SCI,AB103,Sat,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
+777-3,BL-WAC,SCI,AB104,Sun,SCI,OKI,22:00,12:00+1,14.0,Okami daily — overnight outbound
+777-3,BL-WAC,SCI,AB103,Mon,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
+777-5,BL-WAE,SCI,AB104,Tue,SCI,OKI,22:00,12:00+1,14.0,Okami daily — overnight outbound
+777-5,BL-WAE,SCI,AB103,Wed,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
+777-5,BL-WAE,SCI,AB104,Thu,SCI,OKI,22:00,12:00+1,14.0,Okami daily — overnight outbound
+777-5,BL-WAE,SCI,AB103,Fri,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
+777-5,BL-WAE,SCI,AB104,Sat,SCI,OKI,22:00,12:00+1,14.0,Okami daily — overnight outbound
+777-5,BL-WAE,SCI,AB103,Sun,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
