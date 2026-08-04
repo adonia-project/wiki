@@ -35,7 +35,7 @@ Period from outbreak of War of Liberation (1853) through the end of the PdI-PpLT
 - Term coined by Volisanian politician Ernesto Bonastre in 1878.
 - Refers to Mitoyagi, Zong, and Nakamizu — core industrial and military powers of Fosia (far eastern continent).
 - Period 1850–1895: strongest industrial, economic, and military growth in Adonia.
-- Illpynian powers (Volisania, Burawa, Mercia, Daras, etc.) alarmed by Fosian power accumulation and influence over Lurandia.
+- Illpynian powers (Volisania, Burawa, Mercia, etc.) alarmed by Fosian power accumulation and influence over Lurandia.
 - Threat of Fosian invasion of Illpynian allied nations in the New World.
 - The threat materialized in the Second War of the Isthmus (Zong + Louyang + Sinchew expanded into modern-day Balboa, occupied major ports by 1899) — this is in the next era.
 - This realignment brought Illpynian powers closer together and affected their colonial policies. Guajicutea, as a small nation in the Capuyaquiran Sea, was affected by this geopolitical shift.
