@@ -157,9 +157,13 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 - Newspapers connected to: political movements (spreading ideas), cultural revival (catacombs, pre-colonial culture), workers movements (organising).
 
 ### Cultural Revival
-- Interest in pre-colonial Guaji culture.
+- Interest in pre-colonial Guaji culture grew throughout the 1890s.
 - **Rediscovery of the catacombs (1892)**: explorers' expedition found the actual location. The catacombs (Catacumbas del Abismo) were known to exist but their location had been lost. Rediscovery sparked cultural revival.
-- Proto-Symbolism movement (from 1840s) continued, drawing on Bikumaku and pre-colonial imagery.
+- **Bikumaku script displayed in works**: The catacombs contained the calendar corridor (carved stone wall recording years from 516 CE) and storm ledger (pictographic record of storms/disasters). These brought actual Bikumaku glyphs into public view for the first time in centuries. Previously known only through oral tradition and scattered artifacts, the script was now visible in situ.
+- **Transformation of proto-Symbolism**: Earlier proto-Symbolists (Biku, Flores, Guma — 1840s-50s) drew on Bikumaku from surviving artifacts and oral tradition. After 1892, artists could study actual glyph forms in the catacombs — logographic symbols, phonetic modifier strokes, calendar circles/tally marks, storm ledger wave marks/spirals. Script began appearing directly in artistic works: reproduced in paintings, printed in newspapers, incorporated into decorative arts and architecture.
+- **Native art incorporation**: Visual language of pre-colonial material culture — carved stone patterns, pottery motifs, three powers symbolism (sea, mountain, sky) — entered mainstream Guajicutean art. Traditional carving techniques adapted for new contexts. Pictographic vocabulary from catacombs (crossed spears = war, spirals = hurricanes, feathered figures = deaths, clasped hands = unification) provided shared symbolic repertoire across painting, printmaking, decorative arts.
+- **Political connections**: Movimiento de la Warí drew on rediscovered catacombs to ground women's authority arguments in documented evidence (calendar corridor and storm ledger maintained by priestesses, Warí's authority carved in stone). Revival demonstrated depth/sophistication of pre-colonial Guaji civilisation, undercutting narratives that marginalised native culture as primitive.
+- **Mass media role**: Newspapers (expanding from early 1880s) printed reproductions of catacombs glyphs, reported on expedition findings, spread pre-colonial culture to working-class readership. Intersection of mass media, rising literacy, and catacombs rediscovery made cultural revival a popular phenomenon, not just elite.
 - Movimiento de la Warí connected women's rights to pre-colonial priestess tradition.
 
 ## International Context (folded into domestic narrative)
