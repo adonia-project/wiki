@@ -27,7 +27,9 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 | 1899 | Asamblea flips to PpLT (recession-driven). |
 | 1899/1900 | Guaji-Zong trade deals established immediately post-war. |
 | 1900 | Volisanian and Sartan governments react to Guaji-Zong trade — both exploring fascist ideologies. |
-| 1901 | Fascist ideologies begin transmitting into Guajicutea through cultural channels; small fascist-sympathetic parties form. |
+| 1901 | Fascist ideologies begin transmitting into Guajicutea through cultural channels. |
+| 1901–1908 | Mild Depression — broader economic contraction. Guajicutea's interconnected economy disproportionately vulnerable. Exports collapse. |
+| ~1901–1908 | Partido Socialista de Guaji (PSG) and Nuevo Partido de Aislamiento (NPdA) emerge from depression. Both rise to dominate politics in coming decades — elections and streets. |
 | 1904 | Constitutional Amendment of 1904 — women's enfranchisement. PpLT achievement. |
 
 ## Political Timeline
@@ -123,13 +125,21 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 - PdI established an income tax system during the war (1893–1897) to stabilize coffers.
 - New revenue source needed as war expenditures strained the budget. Licensing fees had proven insufficient and corruptible.
 
-### Post-War Recession (1899–1903)
-- War ended → demand for exports dropped, prices fell → economic recession.
+### Post-War Recession and Mild Depression (1899–1908)
+- War ended → demand for exports dropped, prices fell → immediate post-war recession (1899–1903).
 - During war: Guajicutean exports benefited from increased demand and elevated prices. Post-war: demand dropped.
 - Felt most acutely in Waribá (industrial sector had expanded during war) and southern agricultural districts (plantation output redirected to war-era trade).
+- **Mild Depression (1901–1908)**: Post-war recession merged into broader economic contraction. Guajicutea's interconnected economy — deeply integrated into regional trade networks through exports, imports of raw materials, and foreign-owned industry — made it disproportionately vulnerable to external shocks. When broader regional economy contracted, demand for Guajicutean exports collapsed further.
 - Income tax system (established earlier in decade) helped maintain government revenue through downturn.
-- Unemployment rose, wages stagnated.
-- Recession caused parties to flip (PdI → PpLT in Asamblea).
+- Unemployment rose, wages stagnated, depression persisted long after war's end.
+- Recession caused parties to flip (PdI → PpLT in Asamblea). PpLT won presidency 1901.
+
+### Rise of New Political Movements
+- Mild Depression's prolonged hardship produced two new parties that would dominate Guajicutean politics in coming decades — both in elections and in the streets.
+- **Partido Socialista de Guaji (PSG)**: Socialist party. Emerged from labour unrest and economic dislocation. Distinct from PdT (broad multi-racial workers' coalition) — PSG pursued explicitly socialist programme. Depression's impact on industrial workers in Waribá and agricultural labourers in southern districts created constituency existing parties couldn't represent. PpLT's leftward shift absorbed some pressure, but depression pushed spectrum further left than PpLT could reach while maintaining rural base.
+- **Nuevo Partido de Aislamiento (NPdA)**: Fascist party. Emerged from economic nationalism building throughout period. Fascist ideologies transmitting from Volisania/Sarta (~1901) found receptive audience among those who felt nation gave up too much to foreigners (mining licenses, ironworks sale, Guaji-Zong trade). Adopted name of old PdA (isolationist party 1830s–40s) but fundamentally different ideology. Old PdA = conventional isolationist, post-trauma caution. NPdA = fascist: ultranationalist, protectionist, anti-foreign, organised for street-level mobilisation as well as electoral politics.
+- Both parties found constituencies in depression's dislocation. PSG organised among industrial workers and unemployed. NPdA organised among those who blamed foreign influence and immigrant labour for economic crisis.
+- Both would come to dominate Guajicutean politics in coming decades, their competition shaping political landscape through elections and street-level confrontation.
 
 ## Domestic — Social
 
@@ -270,7 +280,10 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 - **Rediscovery of catacombs (1892)**: Expedition led by explorer Samuel Fuentes found actual location. Known to exist, location lost. Sparked cultural revival.
 - **Environmental protectionist movements (~1887)**: Native Guajis (traditional life) + farmers. South pollution, north deforestation. Parties picked sides.
 - **Mass media (~1882)**: Newspaper expansion. Connected to political movements and cultural revival.
-- **Fascist ideologies (~1901)**: Transmitting from Volisania/Sarta through cultural channels. Small fascist-sympathetic parties forming. Not major yet.
+- **Fascist ideologies (~1901)**: Transmitting from Volisania/Sarta through cultural channels. Found political vehicle in NPdA (Nuevo Partido de Aislamiento).
+- **Mild Depression (1901–1908)**: Broader economic contraction. Post-war recession merged into it. Guajicutea's interconnected economy (exports, imports, foreign-owned industry) made it disproportionately vulnerable. Exports collapsed. Unemployment, wage stagnation. Lasted to 1908.
+- **Partido Socialista de Guaji (PSG)**: Socialist party, emerged from depression. Distinct from PdT (multi-racial workers coalition) — explicitly socialist programme. Organised among industrial workers and unemployed in Waribá and southern districts. Would dominate politics in coming decades.
+- **Nuevo Partido de Aislamiento (NPdA)**: Fascist party, emerged from depression. Adopted name of old PdA but fundamentally different — ultranationalist, protectionist, anti-foreign, organised for street mobilisation. Found constituency among those blaming foreign influence and immigrant labour for economic crisis. Would dominate politics in coming decades.
 - **Guaji-Zong trade (1899/1900)**: Post Second War of the Isthmus. Brought Zong into Guaji's sphere. Volisanian/Sartan reaction.
 - **Secret coalition (1872)**: PdI-PpLT coalition dissolved ~1888 (corruption scandals). Re-formed informally after 1899 flip (PdI president + PpLT Asamblea).
 - **Presidents**: Terms 12-18. PpLT (12-13), PdI (14-17), PpLT (18). Surname patterns: 1 Guaji plain root (Yabiku), 6 Sartan surnames. No -í endings.
