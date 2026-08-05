@@ -12,6 +12,7 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 | ~1880 | Continued population growth, agricultural import reliance, industrial labour transition. |
 | ~1882 | Newspaper expansion — mass media evolving. |
 | Early 1880s | Greater bureaucracy established — licensing scheme for gold mining, guano extraction, and government services. State-run mining (since 1824) abandoned due to looting and corruption. Private operators licensed instead. Licenses given to foreign entities. |
+| 1885 | National Census Bureau created as part of greater bureaucracy expansion. First systematic census conducted. |
 | ~1880s | Ironworks (est. 1864, Sartan investment) shuts down — import-dependent on Tapuyan iron ore, unsustainable costs. Purchased by Volisanian steel company. |
 | ~1880s | Growing sentiment: nation giving up too much to foreigners (mining licenses, ironworks, trade). Fuels PpE nativism, PpLT leftward push. |
 | 1883 | Partido de los Trabajadores (PdT) founded — urban, multi-racial workers' party. |
