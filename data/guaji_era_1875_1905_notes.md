@@ -124,7 +124,11 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 - New revenue source needed as war expenditures strained the budget. Licensing fees had proven insufficient and corruptible.
 
 ### Post-War Recession (1899–1903)
-- War ended → less demand for exports → economic recession.
+- War ended → demand for exports dropped, prices fell → economic recession.
+- During war: Guajicutean exports benefited from increased demand and elevated prices. Post-war: demand dropped.
+- Felt most acutely in Waribá (industrial sector had expanded during war) and southern agricultural districts (plantation output redirected to war-era trade).
+- Income tax system (established earlier in decade) helped maintain government revenue through downturn.
+- Unemployment rose, wages stagnated.
 - Recession caused parties to flip (PdI → PpLT in Asamblea).
 
 ## Domestic — Social
@@ -263,7 +267,7 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 - **PpLT corruption scandals (~1888)**: Kickbacks for licenses — officials exploited the licensing scheme they created. Weakened PpLT, ended secret coalition. PdI gained slight majority.
 - **Post-war recession (1899–1903)**: Less export demand after war ended. Caused Asamblea to flip to PpLT.
 - **PpLT pushed left**: To prevent PdT from gaining ground. Adopted stronger labour positions.
-- **Rediscovery of catacombs (1892)**: Explorers' expedition found actual location. Known to exist, location lost. Sparked cultural revival.
+- **Rediscovery of catacombs (1892)**: Expedition led by explorer Samuel Fuentes found actual location. Known to exist, location lost. Sparked cultural revival.
 - **Environmental protectionist movements (~1887)**: Native Guajis (traditional life) + farmers. South pollution, north deforestation. Parties picked sides.
 - **Mass media (~1882)**: Newspaper expansion. Connected to political movements and cultural revival.
 - **Fascist ideologies (~1901)**: Transmitting from Volisania/Sarta through cultural channels. Small fascist-sympathetic parties forming. Not major yet.
