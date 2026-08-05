@@ -1,8 +1,8 @@
-# Guajicutea Era Notes: 1905–1911 (Economic Decline and Political Chaos)
+# Guajicutea Era Notes: 1905–1913 (Economic Decline, Political Chaos, and Recovery)
 
 ## Overview
 
-Period from 1905 through 1911. While the world recovered from the Mild Depression by 1908, Guajicutea trailed behind — economic decline persisted to 1911. Mass unemployment, violent protests against the state, and a movement to return to traditional agricultural life (supported by both leftist and right-wing factions). The Asamblea Nacional, expanded to 150 seats in 1900, was extremely divided — physical fights broke out in the assembly. The anti-industrialization Movimiento de la Yaya gained momentum. Communist and fascist movements radicalised in the streets.
+Period from 1905 through 1913. While the world recovered from the Mild Depression by 1908, Guajicutea trailed behind — economic decline persisted to 1911. Mass unemployment, violent protests against the state, and a movement to return to traditional agricultural life (supported by both leftist and right-wing factions). The Asamblea Nacional, expanded to 150 seats in 1900, was extremely divided — physical fights broke out in the assembly. The anti-industrialization Movimiento de la Yaya gained momentum. Communist and fascist movements radicalised in the streets. Anti-Volisanian sentiment grew, blaming Volisania for losing the War of the Isthmus, shutting down employment bases, and owning private institutions. A right-wing conservative coalition (1910) enacted bans on Volisanian ownership and language, while welcoming Sartan investment. A moderate coalition (1912) pivoted toward tourism and cruise lines (1913) as a new economic strategy.
 
 ## Timeline
 
@@ -16,6 +16,11 @@ Period from 1905 through 1911. While the world recovered from the Mild Depressio
 | 1905–1911 | Violent protests against the state. |
 | 1905–1911 | Movimiento de la Yaya — anti-industrialization movement, return to traditional agriculture. Supported by both left and right. |
 | 1905–1911 | Asamblea Nacional extremely divided. Fights in the assembly. |
+| 1905–1911 | Growth of anti-Volisanian sentiment. Blamed for losing war, shutting down employment, owning private institutions. |
+| 1910 | Right-wing conservative coalition (PpE + PdI) in power. Ban on Volisanian ownership of private industries. Ban on Volisanian language in commercial goods (must be written in Sartan). Sartan investment welcomed. Sartan government recommended less harsh punishments. |
+| 1910–1912 | Guaji attracts more trade with Zong Balboa and Balisca. Industrial base weak — most people working on reprocessing. |
+| 1912 | Moderate coalition elected. Centrist government rejecting both PSG radicalism and NPdA fascism. |
+| 1913 | Government-funded cruise line scheme devised. Cruise lines offer stops in Guaji for visitors from Illpynia and Kaftia traveling to Abyala (mainly Tapuya and Balboa). |
 
 ## Economy
 
@@ -23,13 +28,46 @@ Period from 1905 through 1911. While the world recovered from the Mild Depressio
 - While the broader Mild Depression ended ~1908 for the world, Guajicutea's economy continued to decline through 1911.
 - Guajicutea trailed the global recovery because of its interconnected economy — deeply dependent on exports, foreign-owned industry, and imported raw materials.
 - Ironworks shutdown (1905) was a major blow — the island's principal heavy industrial installation closed.
-- Mass unemployment (numbers TBD — need to figure out).
+- Mass unemployment (see census data: 11% in 1905, ~19% peak ~1908, 15% in 1910).
 - Violent protests against the state — not just labour disputes but broader anti-state violence.
 
-### Mass Unemployment
-- Numbers TBD — need to calculate based on population and industrial workforce.
-- Waribá hit hardest (ironworks closure, industrial contraction).
-- Southern agricultural districts also affected (plantation economy disrupted).
+### Anti-Volisanian Sentiment
+- Grew throughout 1905–1911. Volisania blamed for:
+  - Losing the Second War of the Isthmus (1893–1899) — Volisania was a major power that failed to stop Zong.
+  - Shutting down their large employment bases — the ironworks closure (1905) thrown hundreds out of work.
+  - Owning many private institutions — Volisanian companies controlled significant parts of Guajicutea's economy.
+- Sentiment cut across party lines — both left (PSG) and right (NPdA) exploited it.
+
+### Right-Wing Coalition (1910) — Anti-Volisanian Measures
+- **Coalition**: PpE (nativist, protectionist) + PdI (free trade, but conservative wing dominant). Conservative, NOT fascist. NPdA supported from outside but not in coalition.
+- **Bans enacted**:
+  1. Ban on Volisanian ownership of private industries — Volisanian companies must divest Guajicutean assets.
+  2. Ban on Volisanian language in commercial goods — products sold in Guajicutea must have labeling, packaging, and commercial text written in Sartan, not Volisanian.
+- **Sartan investment welcomed**: Sarta seen as still positive (former colonial power but now friendly). Sartan investment invited to replace Volisanian capital.
+- **Sartan government moderation**: Sarta, friendly to Volisania, recommended less harsh punishments — advised Guajicutea not to go too far. The Sartan government served as a moderating influence.
+- **Government character**: Still relatively not fascistic, just conservative. The right-wing coalition was protectionist and nationalist but did not adopt NPdA's fascist programme.
+
+### Trade Diversification (1910–1912)
+- Guaji started attracting more dealings with Zong Balboa (Balboa under Zong influence post-Second War of the Isthmus).
+- Also Balisca for trade.
+- But Guaji's industrial base was weak at this point — ironworks gone, manufacturing contracted.
+- Most people were working on reprocessing — light processing of agricultural products, adding value to primary goods.
+
+### What Could Guaji Export?
+- **Reprocessed agricultural products**: cassava flour, dried fish, tobacco processing — adding value to raw agricultural output.
+- **Guano**: from Warikú (still active, though deposits being depleted).
+- **Gold**: diminished but still some mining (northern deposits mostly gone, southern gold hard to extract).
+- **Traditional crafts**: pottery, textiles, carving — connected to Bikuismo cultural revival, pre-colonial art forms entering commercial production.
+- **Tourism services** (from 1913): cruise line stops, visitor spending.
+
+### Cruise Line Scheme (1913)
+- Devised by the moderate coalition government elected in 1912.
+- Government funded its own cruise lines.
+- Route: Illpynia and Kaftia → Guaji (stop) → Abyala (mainly Tapuya and Balboa).
+- Guaji positioned as a cruise stop on the way to Abyala — using its geographic position in the Capuyaquiran Sea as an asset.
+- Target visitors: Illpynian and Kaftian tourists traveling to Abyala.
+- New economic sector — tourism as alternative to industrial production.
+- Government-funded — public investment in tourism infrastructure (ports, guest facilities, cruise vessels).
 
 ## Domestic — Social
 
@@ -63,7 +101,19 @@ Period from 1905 through 1911. While the world recovered from the Mild Depressio
 - The expansion to 150 seats meant more voices, more factions, more chaos.
 - Parliamentary breakdown — governance difficult with this level of fragmentation.
 
-## Parties (c. 1905–1911)
+### Right-Wing Conservative Coalition (1910)
+- PpE + PdI coalition. Conservative, not fascist.
+- Enacted anti-Volisanian measures (see Economy section).
+- Sartan government recommended moderation.
+- NPdA supported anti-Volisanian measures from outside but was not in the coalition — the government drew a line between conservative protectionism and fascist radicalism.
+
+### Moderate Coalition (1912)
+- Centrist coalition elected in 1912. Rejected both PSG (socialist) radicalism and NPdA (fascist) radicalism.
+- Likely composition: PpLT + PdT + PdI moderate wing.
+- Pivoted toward tourism and economic diversification (cruise line scheme, 1913).
+- A breath of stability after the chaos of 1905–1911.
+
+## Parties (c. 1905–1913)
 
 | Party | Ideology | Base | Formed |
 |-------|----------|------|--------|
@@ -78,21 +128,29 @@ Period from 1905 through 1911. While the world recovered from the Mild Depressio
 - PSG and NPdA both rising — elections and streets.
 - PpLT in power (president Lorenzo Mora, 1901–1905) but overwhelmed by economic crisis and assembly chaos.
 - Traditional parties (PdI, PpLT, PpE) losing ground to PSG and NPdA.
+- 1910: Right-wing conservative coalition (PpE + PdI) — anti-Volisanian measures.
+- 1912: Moderate coalition (PpLT + PdT + PdI moderate) — stability, tourism pivot.
 
 ## Key Figures
 
 - **Lorenzo Mora** — President (1901–1905, PpLT). Presides over worsening depression, assembly chaos, and the ironworks shutdown.
 - **Samuel Fuentes** — Explorer, rediscovered catacombs (1892).
-- Presidents for 1905–1911: TBD (need to figure out terms 19+).
+- Presidents for 1905–1913: TBD (need to figure out terms 19+).
 
 ## Internal Notes (not for wiki)
 
-- **Era dates**: 1905–1911. Picks up where 1875–1905 era ends. Economic decline, political chaos, anti-industrialization movement.
+- **Era dates**: 1905–1913. Picks up where 1875–1905 era ends. Extended to 1913 to cover moderate coalition and cruise line scheme. Era boundary may need adjustment.
 - **Asamblea expansion (1900)**: 32 → 150 seats. Major democratic reform. Reflects population growth and reform pressure.
 - **Movimiento de la Yaya**: Anti-industrialization, return to traditional agriculture. From yaya (earth/ground). Both left and right support. Connected to cultural revival (Bikuismo). Not a party — a cross-party movement.
-- **Mass unemployment**: Numbers TBD. Need to calculate based on population (~340k in 1905) and industrial workforce.
+- **Mass unemployment**: 11% (1905), ~19% peak (~1908), 15% (1910). See guaji_census_data.md.
 - **Assembly fights**: Physical confrontations between assembly members. 6 parties, extreme fragmentation, no governing majority.
 - **World recovery by 1908**: Guajicutea trails — interconnected economy makes recovery slower. Export-dependent, foreign-owned industry, import-dependent for raw materials.
 - **Violent protests**: Anti-state, not just anti-employer. Escalation from 1904 strike and 1905 Noche de las Camisas Rojas.
-- **Presidents**: Term 19 (1905–1909) and possibly term 20 (1909–1913) need to be figured out. Mora's term ends 1905.
-- **Next era (post-1911)**: TBD. Great Adonian War (1935–1947) on the horizon.
+- **Anti-Volisanian sentiment**: Blamed for losing war, shutting down employment, owning private institutions. Grew 1905–1911. Both PSG and NPdA exploited it.
+- **Right-wing coalition (1910)**: PpE + PdI. Conservative, not fascist. Anti-Volisanian measures: ban on Volisanian ownership of private industries, ban on Volisanian language in commercial goods (must be Sartan). Sartan investment welcomed. Sartan government recommended moderation. NPdA supported from outside but not in coalition.
+- **Trade diversification (1910–1912)**: Zong Balboa, Balisca. Industrial base weak. Most people working on reprocessing (light processing of agricultural products).
+- **Exports**: Reprocessed agricultural products (cassava flour, dried fish, tobacco), guano, gold (diminished), traditional crafts (pottery, textiles, carving — Bikuismo connection), tourism services (from 1913).
+- **Moderate coalition (1912)**: PpLT + PdT + PdI moderate. Centrist. Rejected PSG and NPdA radicalism. Pivoted toward tourism.
+- **Cruise line scheme (1913)**: Government-funded cruise lines. Route: Illpynia/Kaftia → Guaji → Abyala (Tapuya, Balboa). Guaji as cruise stop. New economic sector. Public investment in tourism infrastructure.
+- **Presidents**: Term 19 (1905–1909), term 20 (1909–1913), term 21 (1913–1917). Need to figure out names and parties. Mora's term ends 1905.
+- **Next era (post-1913)**: TBD. Great Adonian War (1935–1947) on the horizon.
