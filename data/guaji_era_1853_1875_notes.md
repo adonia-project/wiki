@@ -13,7 +13,7 @@ Period from outbreak of War of Liberation (1853) through the end of the PdI-PpLT
 | 1856 | Treaty of Guledga ends War of Liberation. Lacashe partitioned. Libertalia created. |
 | 1857 | Post-war reconstruction begins. |
 | 1861 | First workers riot — against Kaftian workers used for low wages. PpE (Partido de Estabilización) formed. |
-| 1864 | First ironworks established in Waribá (Sartan investment). |
+| 1864 | First ironworks established in Waribá — Sartan government set up and transferred to Guaji government to operate. Iron ore imported from Tapuya (not mined locally). |
 | 1866 | Race riot. Ban on immigration from all of Abyala follows. |
 | 1870 | Public universal primary education established. |
 | 1872 | PpE wins plurality in Asamblea election. PdI + PpLT form secret coalition government. |
@@ -56,7 +56,7 @@ Period from outbreak of War of Liberation (1853) through the end of the PdI-PpLT
 
 ### Industrialization
 - Farm mechanization increased in the 1850s–1860s, reducing agricultural labor needs and prompting rural-to-urban migration.
-- Sartan investment helped establish the first ironworks in Waribá in 1864 — the beginning of heavy industry in Guajicutea.
+- In 1864, the Sartan government established the first ironworks in Waribá and transferred it to the Guajicutean government to operate — the beginning of heavy industry in Guajicutea. Iron ore was not mined locally; the ironworks depended on imports from Tapuya, making it expensive and logistically vulnerable. This import dependence would eventually lead to the ironworks' closure and sale in the following era.
 - Waribá became the industrial center of the island, combining port activity, the Astillero Real, and the new ironworks.
 - Rapid growth of cities, especially Waribá, which became the most populous city.
 

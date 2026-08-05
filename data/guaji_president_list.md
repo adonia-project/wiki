@@ -15,6 +15,13 @@ Term: 4 years, no term limits. Representatives: 2 years, no term limits.
 | 9 | Domingo Peña | PdI | July 1, 1865 | July 1, 1869 | Race riot (1866), immigration ban from Abyala. Increasingly authoritarian. Sartan surname. |
 | 10 | José Moku | PdI | July 1, 1869 | July 1, 1873 | Signs public universal primary education (1870). Bridges to PpLT. Surname: moku (water), plain root. |
 | 11 | Víctor Tabá | PdI | July 1, 1873 | July 1, 1877 | PdI-PpLT secret coalition era. Surname: taba (stone), plain root. |
+| 12 | Emilio Yabiku | PpLT | July 1, 1877 | July 1, 1881 | Coalition era, PpLT dominates. Greater bureaucracy established (early 1880s). Surname: yabiku (wood-joining technique), plain root. |
+| 13 | Hugo Garrido | PpLT | July 1, 1881 | July 1, 1885 | PpLT. Licensing scheme established. Corruption scandals building during term. Sartan surname. |
+| 14 | Arturo Medina | PdI | July 1, 1885 | July 1, 1889 | PdI. Gains ground as PpLT weakens from corruption scandals (~1888). Ironworks shuts down. Sartan surname. |
+| 15 | César Bravo | PdI | July 1, 1889 | July 1, 1893 | PdI. Pre-war leadership. Catacombs rediscovered (1892). Sartan surname. |
+| 16 | Roberto León | PdI | July 1, 1893 | July 1, 1897 | PdI. War president (Second War of the Isthmus, 1893–1899). Slight majority. Income tax system established. PpLT pushes 1897 amendment through from opposition. Sartan surname. |
+| 17 | Valentín Castro | PdI | July 1, 1897 | July 1, 1901 | PdI president, PpLT Asamblea after 1899 flip (post-war recession). Ironworks purchased by Volisanian steel company. Sartan surname. |
+| 18 | Lorenzo Mora | PpLT | July 1, 1901 | July 1, 1905 | PpLT. Full power. Pushes left to compete with PdT. Ushers Constitutional Amendment of 1904 (women's enfranchisement). Sartan surname. |
 
 ## Notes
 
@@ -31,4 +38,12 @@ Term: 4 years, no term limits. Representatives: 2 years, no term limits.
 - Race riot 1866. Immigration ban from Abyala followed.
 - Public universal primary education established 1870 under Moku.
 - PdI-PpLT secret coalition formed 1872 (PpE had plurality, not majority).
-- Surname patterns: mix of Sartan surnames (Paredes, Navarro, Ríos, Aguilar, Cruz, Peña) and Guaji plain-root surnames (Yaya, Karibá, Moku, Tabá). No -í endings.
+- PpLT corruption scandals ~1888 (kickbacks for licenses) ended coalition. PdI gained slight majority.
+- PdT (Partido de los Trabajadores) founded 1883 — urban, multi-racial workers' party.
+- Second War of the Isthmus 1893–1899. PdI war leadership (León, term 16).
+- Post-war recession 1899–1903. Asamblea flipped to PpLT.
+- Constitutional Amendment of 1897 (racial rights) — PpLT initiative from opposition.
+- Constitutional Amendment of 1904 (women's enfranchisement) — PpLT, full power (Mora, term 18).
+- Income tax system established by PdI during war (León, term 16).
+- Ironworks (1864, Sartan government → Guaji government) shut down ~1880s, purchased by Volisanian steel company.
+- Surname patterns: mix of Sartan surnames (Paredes, Navarro, Ríos, Aguilar, Cruz, Peña, Garrido, Medina, Bravo, León, Castro, Mora) and Guaji plain-root surnames (Yaya, Karibá, Moku, Tabá, Yabiku). No -í endings.
