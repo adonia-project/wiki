@@ -31,6 +31,8 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 | 1901–1908 | Mild Depression — broader economic contraction. Guajicutea's interconnected economy disproportionately vulnerable. Exports collapse. |
 | ~1901–1908 | Partido Socialista de Guaji (PSG) and Nuevo Partido de Aislamiento (NPdA) emerge from depression. Both rise to dominate politics in coming decades — elections and streets. |
 | 1904 | Constitutional Amendment of 1904 — women's enfranchisement. PpLT achievement. |
+| 1904 | PpLT labour reform package: 40-hour work week, child labour abolished, strikes banned (unions must negotiate only). |
+| 1904 | [[Huelga de Waribá de 1904]] — first police-worker strike interaction. Workers struck despite ban. Police broke up strike. |
 
 ## Political Timeline
 
@@ -270,6 +272,8 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 - **Movimiento de la Warí**: Women's rights movement, started by nunneries (~1885). Named after Warí (ancient priestess title). Nunneries = institutional descendants of priestess class. Framed suffrage as restoration of women's political authority, not new grant.
 - **Constitutional Amendment of 1897**: Expansion of rights for all races. PpLT initiative, pushed through during PdI war leadership (from opposition). Anti-discrimination with enforcement mechanisms.
 - **Constitutional Amendment of 1904**: Women's enfranchisement. PpLT achievement, full power.
+- **PpLT labour reform package**: 40-hour work week, child labour abolished, but strikes banned (unions must negotiate only, not strike). Business concession to balance worker protections.
+- **Huelga de Waribá de 1904**: First police-worker strike interaction in Guajicutean history. Industrial workers in Waribá struck despite the ban. Police dispatched to break up the strike, resulting in clashes. PpLT — the party that pushed left to represent workers — now using state force against them. Drove workers toward PSG, hardened NPdA street organisation.
 - **Greater bureaucracy / licensing scheme (early 1880s)**: PpLT initiative. State-run gold mining (since first republic, 1824+) abandoned — poorly maintained, constant looting, industry corruption. Northern easy gold long gone; southern gold hard to extract. Government gave up, switched to licensing private operators for gold mining, guano extraction, and government services. Licenses given to foreign entities. New bureaucratic apparatus created. This is the system PpLT officials later exploited for kickbacks (~1888).
 - **Ironworks**: Est. 1864 (Sartan investment, Waribá). Iron not mined locally — ore imported from Tapuya. Import-dependent, expensive, logistically vulnerable. Shut down during this era. Purchased by Volisanian steel company. Pattern: Sartan built → failed → Volisanian bought.
 - **Foreign ownership sentiment**: Mining licenses to foreigners + ironworks sold to Volisanians = "giving up too much to foreigners." Fueled PpE nativism, PpLT leftward push, tension within PdI. Connected to later fascist ideology transmission (economic nationalism as entry point).
