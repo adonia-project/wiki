@@ -33,6 +33,9 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 | 1904 | Constitutional Amendment of 1904 — women's enfranchisement. PpLT achievement. |
 | 1904 | PpLT labour reform package: 40-hour work week, child labour abolished, strikes banned (unions must negotiate only). |
 | 1904 | [[Huelga de Waribá de 1904]] — first police-worker strike interaction. Workers struck despite ban. Police broke up strike. |
+| 1905 | Volisanian-owned ironworks shuts down. Depression worsens. Mass protests in Waribá. |
+| 1905 | [[Noche de las Camisas Rojas]] — communist-backed forces inspired by [[Darasian Socialist Revolution]] (1904–1905) attempted to seize police station in Waribá. First armed confrontation between political radicals and state security forces. |
+| 1904–1905 | [[Darasian Socialist Revolution]] — socialist revolution in Daras. Inspired communist-backed forces in Guajicutea. |
 
 ## Political Timeline
 
@@ -274,6 +277,9 @@ Period from end of Libertad-Lacashe War (1875–1880) through women's enfranchis
 - **Constitutional Amendment of 1904**: Women's enfranchisement. PpLT achievement, full power.
 - **PpLT labour reform package**: 40-hour work week, child labour abolished, but strikes banned (unions must negotiate only, not strike). Business concession to balance worker protections.
 - **Huelga de Waribá de 1904**: First police-worker strike interaction in Guajicutean history. Industrial workers in Waribá struck despite the ban. Police dispatched to break up the strike, resulting in clashes. PpLT — the party that pushed left to represent workers — now using state force against them. Drove workers toward PSG, hardened NPdA street organisation.
+- **Ironworks shutdown (1905)**: Volisanian-owned ironworks in Waribá shut down. Originally Sartan (1864) → Guaji govt → Volisanian steel company. Closure threw hundreds out of work in city already suffering from depression. Triggered mass protests across Waribá.
+- **Noche de las Camisas Rojas (1905)**: Night of the Red Shirts. Communist-backed forces inspired by Darasian Socialist Revolution (1904–1905) attempted to seize police station in Waribá. First armed confrontation between organised political radicals and state security forces. Attempt repelled. New escalation: from labour disputes to political insurrection. Hardened state response, deepened polarisation between socialist and fascist movements.
+- **Darasian Socialist Revolution (1904–1905)**: Socialist revolution in Daras. Inspired communist-backed forces in Guajicutea. Foreign event but directly influenced Guajicutean domestic politics.
 - **Greater bureaucracy / licensing scheme (early 1880s)**: PpLT initiative. State-run gold mining (since first republic, 1824+) abandoned — poorly maintained, constant looting, industry corruption. Northern easy gold long gone; southern gold hard to extract. Government gave up, switched to licensing private operators for gold mining, guano extraction, and government services. Licenses given to foreign entities. New bureaucratic apparatus created. This is the system PpLT officials later exploited for kickbacks (~1888).
 - **Ironworks**: Est. 1864 (Sartan investment, Waribá). Iron not mined locally — ore imported from Tapuya. Import-dependent, expensive, logistically vulnerable. Shut down during this era. Purchased by Volisanian steel company. Pattern: Sartan built → failed → Volisanian bought.
 - **Foreign ownership sentiment**: Mining licenses to foreigners + ironworks sold to Volisanians = "giving up too much to foreigners." Fueled PpE nativism, PpLT leftward push, tension within PdI. Connected to later fascist ideology transmission (economic nationalism as entry point).
