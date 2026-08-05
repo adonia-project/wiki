@@ -22,6 +22,12 @@ Term: 4 years, no term limits. Representatives: 2 years, no term limits.
 | 16 | Roberto León | PdI | July 1, 1893 | July 1, 1897 | PdI. War president (Second War of the Isthmus, 1893–1899). Slight majority. Income tax system established. PpLT pushes 1897 amendment through from opposition. Sartan surname. |
 | 17 | Valentín Castro | PdI | July 1, 1897 | July 1, 1901 | PdI president, PpLT Asamblea after 1899 flip (post-war recession). Ironworks purchased by Volisanian steel company. Sartan surname. |
 | 18 | Lorenzo Mora | PpLT | July 1, 1901 | July 1, 1905 | PpLT. Full power. Pushes left to compete with PdT. Ushers Constitutional Amendment of 1904 (women's enfranchisement). Sartan surname. |
+| 19 | Álvaro Prieto | PdI | July 1, 1905 | July 1, 1909 | PdI. Weak president — assembly too divided to govern. Depression worsening, ironworks shutdown (1905), Noche de las Camisas Rojas (1905). Sets up right-wing backlash. Sartan surname. |
+| 20 | Gerardo Santos | PpE | July 1, 1909 | July 1, 1913 | PpE. Right-wing conservative coalition (PpE + PdI). Anti-Volisanian measures (1910): ban on Volisanian ownership of private industries, ban on Volisanian language in commercial goods. Sartan investment welcomed. Sartan government recommended moderation. Conservative, not fascist. Sartan surname. |
+| 21 | Raúl Campos | PpLT | July 1, 1913 | July 1, 1917 | PpLT. Moderate coalition (PpLT + PdT + PdI moderate). Centrist — rejects PSG and NPdA radicalism. Cruise line scheme (1913). Tourism pivot. Stability after chaos. Sartan surname. |
+| 22 | Adrián Figueroa | PpLT | July 1, 1917 | July 1, 1921 | PpLT. Continues moderate coalition trajectory. Economic recovery period. Sartan surname. |
+| 23 | Marcos Acosta | PpLT | July 1, 1921 | July 1, 1925 | PpLT. Visited Zong Balboa to repair relations after Zong condemnation (1924). Escándalo de Balboa — visit framed as subservience after Zong man accused of murdering Guaji woman (domestic violence). Scandal discredited liberals. Sartan surname. |
+| 24 | Ernesto Guerrero | PpE | July 1, 1925 | July 1, 1933 | PpE. Popularish conservative president. Assembly split. Subverted by Jefe de la Asamblea (Damián Cordero) after 1930 emergency powers. Became figurehead. Remained nominally in power through GAW until Feb 8, 1943 relinquishment to Volisanian military. Sartan surname. |
 
 ## Notes
 
@@ -46,4 +52,19 @@ Term: 4 years, no term limits. Representatives: 2 years, no term limits.
 - Constitutional Amendment of 1904 (women's enfranchisement) — PpLT, full power (Mora, term 18).
 - Income tax system established by PdI during war (León, term 16).
 - Ironworks (1864, Sartan government → Guaji government) shut down ~1880s, purchased by Volisanian steel company.
-- Surname patterns: mix of Sartan surnames (Paredes, Navarro, Ríos, Aguilar, Cruz, Peña, Garrido, Medina, Bravo, León, Castro, Mora) and Guaji plain-root surnames (Yaya, Karibá, Moku, Tabá, Yabiku). No -í endings.
+- Mild Depression 1901–1908. Extended decline to 1911 in Guajicutea.
+- 1905: Ironworks shuts down. Noche de las Camisas Rojas. Mass protests.
+- 1910: Right-wing conservative coalition (PpE + PdI). Anti-Volisanian measures: ban on Volisanian ownership, ban on Volisanian language in commercial goods.
+- 1912: Moderate coalition elected. Centrist.
+- 1913: Cruise line scheme devised. Tourism pivot.
+- 1915–1916: Economy begins to recover. Sarta loan secured to fund recovery and pivot infrastructure.
+- 1920: Círculo Volisano (Sartan front group) buys El Guajicuteano (largest newspaper). Anti-Zong press campaign begins.
+- 1924: Zong condemnation. Escándalo de Balboa — president visits Zong Balboa, scandalized.
+- 1925: Election goes to conservatives (PpE). Ernesto Guerrero (popularish president).
+- 1928: Sartan Fascist Party rises. Heavy meddling in Guajicutea begins.
+- 1928–1930: PpE gradually taken over by fascist elements. PpE leader Simón Soler loses mandate to fascist upstart Damián Cordero. PpE merges with NPdA.
+- 1930: El Atentado de Waribá — staged bombing. Emergency package: emergency powers, Jefe de la Asamblea (Cordero), suspended elections, abolished 1910 anti-Volisanian laws, Volisanian military base, banned opposition parties.
+- 1930–1935: No elections. Cordero as Jefe de la Asamblea runs government. Guerrero as figurehead president.
+- 1935–1947: Great Adonian War. Guerrero remains figurehead until Feb 8, 1943 relinquishment to Volisanian military. No elections during GAW.
+- July 3, 1947: Volisanian forces retreat. Liberation.
+- Surname patterns: mix of Sartan surnames (Paredes, Navarro, Ríos, Aguilar, Cruz, Peña, Garrido, Medina, Bravo, León, Castro, Mora, Prieto, Santos, Campos) and Guaji plain-root surnames (Yaya, Karibá, Moku, Tabá, Yabiku). No -í endings.

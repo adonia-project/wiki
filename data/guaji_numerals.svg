@@ -1,0 +1,500 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1480" font-family="serif" font-size="14" fill="#1a1a1a">
+  <rect width="900" height="1400" fill="#faf6ef"/>
+
+  <!-- Title -->
+  <text x="450" y="35" text-anchor="middle" font-size="20" font-weight="bold">Guaji Numeral System (Base 5 / 20)</text>
+  <text x="450" y="55" text-anchor="middle" font-size="12" fill="#666">Strokes = fingers · Bars = hands · Figures = bodies</text>
+
+  <!-- Section 1: Basic numerals -->
+  <text x="40" y="90" font-size="15" font-weight="bold">Basic Numerals</text>
+  <line x1="40" y1="98" x2="860" y2="98" stroke="#ccc" stroke-width="1"/>
+
+  <!-- 1 -->
+  <g transform="translate(50,120)">
+    <text x="0" y="20" font-size="13" fill="#666">1</text>
+    <line x1="35" y1="5" x2="35" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="70" y="20" font-size="12" fill="#888">one finger</text>
+  </g>
+
+  <!-- 2 -->
+  <g transform="translate(220,120)">
+    <text x="0" y="20" font-size="13" fill="#666">2</text>
+    <line x1="35" y1="5" x2="35" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="42" y1="5" x2="42" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="70" y="20" font-size="12" fill="#888">two fingers</text>
+  </g>
+
+  <!-- 3 -->
+  <g transform="translate(400,120)">
+    <text x="0" y="20" font-size="13" fill="#666">3</text>
+    <line x1="35" y1="5" x2="35" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="42" y1="5" x2="42" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="49" y1="5" x2="49" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="70" y="20" font-size="12" fill="#888">three fingers</text>
+  </g>
+
+  <!-- 4 -->
+  <g transform="translate(580,120)">
+    <text x="0" y="20" font-size="13" fill="#666">4</text>
+    <line x1="35" y1="5" x2="35" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="42" y1="5" x2="42" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="49" y1="5" x2="49" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="56" y1="5" x2="56" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="70" y="20" font-size="12" fill="#888">four fingers</text>
+  </g>
+
+  <!-- 5 -->
+  <g transform="translate(50,160)">
+    <text x="0" y="20" font-size="13" fill="#666">5</text>
+    <line x1="30" y1="15" x2="65" y2="15" stroke="#1a1a1a" stroke-width="4"/>
+    <text x="80" y="20" font-size="12" fill="#888">one hand (bar)</text>
+  </g>
+
+  <!-- 6 -->
+  <g transform="translate(220,160)">
+    <text x="0" y="20" font-size="13" fill="#666">6</text>
+    <line x1="30" y1="15" x2="65" y2="15" stroke="#1a1a1a" stroke-width="4"/>
+    <line x1="72" y1="5" x2="72" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="85" y="20" font-size="12" fill="#888">hand + one</text>
+  </g>
+
+  <!-- 7 -->
+  <g transform="translate(400,160)">
+    <text x="0" y="20" font-size="13" fill="#666">7</text>
+    <line x1="30" y1="15" x2="65" y2="15" stroke="#1a1a1a" stroke-width="4"/>
+    <line x1="72" y1="5" x2="72" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="79" y1="5" x2="79" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="90" y="20" font-size="12" fill="#888">hand + two</text>
+  </g>
+
+  <!-- 8 -->
+  <g transform="translate(580,160)">
+    <text x="0" y="20" font-size="13" fill="#666">8</text>
+    <line x1="30" y1="15" x2="65" y2="15" stroke="#1a1a1a" stroke-width="4"/>
+    <line x1="72" y1="5" x2="72" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="79" y1="5" x2="79" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="86" y1="5" x2="86" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="97" y="20" font-size="12" fill="#888">hand + three</text>
+  </g>
+
+  <!-- 9 -->
+  <g transform="translate(50,200)">
+    <text x="0" y="20" font-size="13" fill="#666">9</text>
+    <line x1="30" y1="15" x2="65" y2="15" stroke="#1a1a1a" stroke-width="4"/>
+    <line x1="72" y1="5" x2="72" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="79" y1="5" x2="79" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="86" y1="5" x2="86" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="93" y1="5" x2="93" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="105" y="20" font-size="12" fill="#888">hand + four</text>
+  </g>
+
+  <!-- 10 -->
+  <g transform="translate(280,200)">
+    <text x="0" y="20" font-size="13" fill="#666">10</text>
+    <line x1="35" y1="10" x2="70" y2="10" stroke="#1a1a1a" stroke-width="4"/>
+    <line x1="35" y1="20" x2="70" y2="20" stroke="#1a1a1a" stroke-width="4"/>
+    <text x="80" y="20" font-size="12" fill="#888">two hands (bikumá)</text>
+  </g>
+
+  <!-- 13 (lunar months) -->
+  <g transform="translate(520,200)">
+    <text x="0" y="20" font-size="13" fill="#666">13</text>
+    <line x1="35" y1="10" x2="70" y2="10" stroke="#1a1a1a" stroke-width="4"/>
+    <line x1="35" y1="20" x2="70" y2="20" stroke="#1a1a1a" stroke-width="4"/>
+    <line x1="77" y1="5" x2="77" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="84" y1="5" x2="84" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="91" y1="5" x2="91" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="105" y="20" font-size="12" fill="#888">= 13 lunar months/year</text>
+  </g>
+
+  <!-- 20 (one body) -->
+  <g transform="translate(50,250)">
+    <text x="0" y="20" font-size="13" fill="#666">20</text>
+    <!-- Simple human figure -->
+    <circle cx="40" cy="8" r="4" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="12" x2="40" y2="22" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="32" y1="16" x2="48" y2="16" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="22" x2="34" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="22" x2="46" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <text x="65" y="20" font-size="12" fill="#888">one body (all fingers + toes)</text>
+  </g>
+
+  <!-- 25 -->
+  <g transform="translate(320,250)">
+    <text x="0" y="20" font-size="13" fill="#666">25</text>
+    <circle cx="40" cy="8" r="4" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="12" x2="40" y2="22" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="32" y1="16" x2="48" y2="16" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="22" x2="34" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="22" x2="46" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="58" y1="15" x2="93" y2="15" stroke="#1a1a1a" stroke-width="4"/>
+    <text x="105" y="20" font-size="12" fill="#888">body + hand</text>
+  </g>
+
+  <!-- 40 -->
+  <g transform="translate(560,250)">
+    <text x="0" y="20" font-size="13" fill="#666">40</text>
+    <circle cx="40" cy="8" r="4" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="12" x2="40" y2="22" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="32" y1="16" x2="48" y2="16" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="22" x2="34" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="40" y1="22" x2="46" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <circle cx="68" cy="8" r="4" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="68" y1="12" x2="68" y2="22" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="60" y1="16" x2="76" y2="16" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="68" y1="22" x2="62" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="68" y1="22" x2="74" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <text x="90" y="20" font-size="12" fill="#888">two bodies</text>
+  </g>
+
+  <!-- Section 2: Calendar notation -->
+  <text x="40" y="320" font-size="15" font-weight="bold">Calendar Year Notation</text>
+  <line x1="40" y1="328" x2="860" y2="328" stroke="#ccc" stroke-width="1"/>
+
+  <!-- bikú (1 year) -->
+  <g transform="translate(50,350)">
+    <text x="0" y="25" font-size="13" fill="#666">bikú</text>
+    <text x="0" y="42" font-size="11" fill="#888">(1 year)</text>
+    <circle cx="60" cy="25" r="12" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <text x="90" y="25" font-size="12" fill="#888">= Year 1 (516 CE)</text>
+  </g>
+
+  <!-- Year 3 -->
+  <g transform="translate(280,350)">
+    <text x="0" y="25" font-size="13" fill="#666">Year 3</text>
+    <circle cx="60" cy="25" r="12" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="78" y1="15" x2="78" y2="35" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="85" y1="15" x2="85" y2="35" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="92" y1="15" x2="92" y2="35" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="105" y="25" font-size="12" fill="#888">= Year 3 (518 CE)</text>
+  </g>
+
+  <!-- bikumá (10 years) -->
+  <g transform="translate(520,350)">
+    <text x="0" y="25" font-size="13" fill="#666">bikumá</text>
+    <text x="0" y="42" font-size="11" fill="#888">(10 years)</text>
+    <circle cx="60" cy="25" r="16" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+    <circle cx="60" cy="25" r="10" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+    <text x="90" y="25" font-size="12" fill="#888">= Year 10 (525 CE)</text>
+  </g>
+
+  <!-- 5-year join -->
+  <g transform="translate(50,410)">
+    <text x="0" y="25" font-size="13" fill="#666">5-year</text>
+    <text x="0" y="42" font-size="11" fill="#888">join</text>
+    <circle cx="55" cy="25" r="10" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <circle cx="85" cy="25" r="10" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <circle cx="115" cy="25" r="10" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <circle cx="145" cy="25" r="10" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <circle cx="175" cy="25" r="10" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="45" y1="25" x2="185" y2="25" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="3,2"/>
+    <text x="200" y="25" font-size="12" fill="#888">5 years joined by line</text>
+  </g>
+
+  <!-- Section 3: Pre-calendar notation (Tabayabí Stone) -->
+  <text x="40" y="490" font-size="15" font-weight="bold">Pre-Calendar Notation (Tabayabí Stone)</text>
+  <line x1="40" y1="498" x2="860" y2="498" stroke="#ccc" stroke-width="1"/>
+
+  <text x="40" y="525" font-size="12" fill="#666">A line through the bikú = "before Year 1" (negation, from trade debt notation)</text>
+
+  <!-- Normal year -->
+  <g transform="translate(50,550)">
+    <text x="0" y="25" font-size="13" fill="#666">Normal</text>
+    <text x="0" y="42" font-size="11" fill="#888">(after 516)</text>
+    <circle cx="70" cy="25" r="14" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <text x="95" y="30" font-size="12" fill="#888">Year X (forward count)</text>
+  </g>
+
+  <!-- Negated year -->
+  <g transform="translate(350,550)">
+    <text x="0" y="25" font-size="13" fill="#666">Negated</text>
+    <text x="0" y="42" font-size="11" fill="#888">(before 516)</text>
+    <circle cx="70" cy="25" r="14" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="56" y1="25" x2="84" y2="25" stroke="#c0392b" stroke-width="3"/>
+    <text x="95" y="30" font-size="12" fill="#888">X years before Year 1</text>
+  </g>
+
+  <!-- Example: 296 years before 516 = ~220 CE -->
+  <g transform="translate(50,610)">
+    <text x="0" y="20" font-size="13" font-weight="bold" fill="#333">Example: ~220 CE on Tabayabí Stone</text>
+    <text x="0" y="40" font-size="12" fill="#666">296 years before Year 1 = 14 bodies + 3 hands + 1 stroke</text>
+  </g>
+
+  <!-- 296 in Guaji numerals: 14×20 + 3×5 + 1 = 280 + 15 + 1 = 296 -->
+  <g transform="translate(50,660)">
+    <!-- negated bikú -->
+    <circle cx="20" cy="20" r="14" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="6" y1="20" x2="34" y2="20" stroke="#c0392b" stroke-width="3"/>
+    <text x="42" y="25" font-size="11" fill="#888">negated year</text>
+
+    <!-- 14 bodies (shown as 3 + "..." + 3 for space) -->
+    <g transform="translate(120,0)">
+      <!-- body 1 -->
+      <circle cx="8" cy="5" r="3" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="8" y1="8" x2="8" y2="18" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="3" y1="12" x2="13" y2="12" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="8" y1="18" x2="4" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="8" y1="18" x2="12" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <!-- body 2 -->
+      <circle cx="24" cy="5" r="3" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="24" y1="8" x2="24" y2="18" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="19" y1="12" x2="29" y2="12" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="24" y1="18" x2="20" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="24" y1="18" x2="28" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <!-- body 3 -->
+      <circle cx="40" cy="5" r="3" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="40" y1="8" x2="40" y2="18" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="35" y1="12" x2="45" y2="12" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="40" y1="18" x2="36" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="40" y1="18" x2="44" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <!-- ellipsis -->
+      <text x="55" y="18" font-size="14" fill="#999">···</text>
+      <!-- body 12 -->
+      <circle cx="92" cy="5" r="3" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="92" y1="8" x2="92" y2="18" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="87" y1="12" x2="97" y2="12" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="92" y1="18" x2="88" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="92" y1="18" x2="96" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <!-- body 13 -->
+      <circle cx="108" cy="5" r="3" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="108" y1="8" x2="108" y2="18" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="103" y1="12" x2="113" y2="12" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="108" y1="18" x2="104" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="108" y1="18" x2="112" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <!-- body 14 -->
+      <circle cx="124" cy="5" r="3" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="124" y1="8" x2="124" y2="18" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="119" y1="12" x2="129" y2="12" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="124" y1="18" x2="120" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+      <line x1="124" y1="18" x2="128" y2="25" stroke="#1a1a1a" stroke-width="1.5"/>
+    </g>
+
+    <!-- 3 bars (15) -->
+    <g transform="translate(290,0)">
+      <line x1="0" y1="8" x2="30" y2="8" stroke="#1a1a1a" stroke-width="3.5"/>
+      <line x1="0" y1="16" x2="30" y2="16" stroke="#1a1a1a" stroke-width="3.5"/>
+      <line x1="0" y1="24" x2="30" y2="24" stroke="#1a1a1a" stroke-width="3.5"/>
+    </g>
+
+    <!-- 1 stroke -->
+    <g transform="translate(340,0)">
+      <line x1="0" y1="5" x2="0" y2="28" stroke="#1a1a1a" stroke-width="3"/>
+    </g>
+
+    <!-- equals sign and explanation -->
+    <text x="370" y="18" font-size="12" fill="#666">= 296 years before 516 CE</text>
+    <text x="370" y="35" font-size="11" fill="#999">≈ 220 CE (Tabayabí Stone earliest entry)</text>
+  </g>
+
+  <!-- Section 4: Key Glyphs -->
+  <text x="40" y="740" font-size="15" font-weight="bold">Key Bikumaku Glyphs (Early Pictographic)</text>
+  <line x1="40" y1="748" x2="860" y2="748" stroke="#ccc" stroke-width="1"/>
+
+  <!-- Mountain (yuku) -->
+  <g transform="translate(50,770)">
+    <text x="0" y="40" font-size="12" fill="#666">yuku</text>
+    <text x="0" y="55" font-size="10" fill="#999">mountain</text>
+    <path d="M 40,50 L 55,20 L 70,50 Z" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <path d="M 50,28 L 55,20 L 60,28" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+  </g>
+
+  <!-- Sea (kawa) -->
+  <g transform="translate(180,770)">
+    <text x="0" y="40" font-size="12" fill="#666">kawa</text>
+    <text x="0" y="55" font-size="10" fill="#999">sea</text>
+    <path d="M 30,25 Q 40,18 50,25 T 70,25 T 90,25" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <path d="M 30,35 Q 40,28 50,35 T 70,35 T 90,35" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+  </g>
+
+  <!-- Sky -->
+  <g transform="translate(320,770)">
+    <text x="0" y="40" font-size="12" fill="#666">wari</text>
+    <text x="0" y="55" font-size="10" fill="#999">sky/moon</text>
+    <path d="M 35,20 A 15,15 0 0 0 65,20 A 12,12 0 0 1 35,20 Z" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+  </g>
+
+  <!-- Three-power circle -->
+  <g transform="translate(450,770)">
+    <text x="0" y="45" font-size="12" fill="#666">3 powers</text>
+    <text x="0" y="58" font-size="10" fill="#999">balance</text>
+    <circle cx="35" cy="30" r="18" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="17" y1="30" x2="53" y2="30" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="35" y1="12" x2="35" y2="48" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="22" y1="17" x2="48" y2="43" stroke="#1a1a1a" stroke-width="2"/>
+  </g>
+
+  <!-- Spiral (eruption/yukubara) -->
+  <g transform="translate(580,770)">
+    <text x="0" y="40" font-size="12" fill="#666">yukubara</text>
+    <text x="0" y="55" font-size="10" fill="#999">eruption</text>
+    <path d="M 40,30 m 0,-12 a 12,12 0 1,1 -0.1,0 m 0,5 a 7,7 0 1,1 -0.1,0 m 0,3 a 4,4 0 1,1 -0.1,0" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+  </g>
+
+  <!-- Canoe -->
+  <g transform="translate(720,770)">
+    <text x="0" y="40" font-size="12" fill="#666">kanua</text>
+    <text x="0" y="55" font-size="10" fill="#999">canoe</text>
+    <path d="M 25,35 Q 40,25 55,35 Q 40,42 25,35 Z" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="40" y1="25" x2="40" y2="15" stroke="#1a1a1a" stroke-width="2"/>
+    <path d="M 40,15 L 48,20" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+  </g>
+
+  <!-- Section 5: Late Bikumaku phonetic strokes -->
+  <text x="40" y="860" font-size="15" font-weight="bold">Late Bikumaku — Phonetic Strokes</text>
+  <line x1="40" y1="868" x2="860" y2="868" stroke="#ccc" stroke-width="1"/>
+
+  <text x="40" y="890" font-size="12" fill="#666">Vowel strokes (added beside or within base glyph):</text>
+
+  <!-- /a/ horizontal -->
+  <g transform="translate(50,910)">
+    <text x="0" y="20" font-size="13" fill="#666">/a/</text>
+    <line x1="30" y1="15" x2="60" y2="15" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="75" y="20" font-size="12" fill="#888">horizontal stroke</text>
+  </g>
+
+  <!-- /i/ vertical -->
+  <g transform="translate(250,910)">
+    <text x="0" y="20" font-size="13" fill="#666">/i/</text>
+    <line x1="35" y1="5" x2="35" y2="25" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="50" y="20" font-size="12" fill="#888">vertical stroke</text>
+  </g>
+
+  <!-- /u/ curved -->
+  <g transform="translate(450,910)">
+    <text x="0" y="20" font-size="13" fill="#666">/u/</text>
+    <path d="M 30,5 Q 45,25 30,25" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="55" y="20" font-size="12" fill="#888">curved/diagonal stroke</text>
+  </g>
+
+  <text x="40" y="960" font-size="12" fill="#666">Consonant modifiers (added to base glyph):</text>
+
+  <!-- /b/ dot -->
+  <g transform="translate(50,975)">
+    <text x="0" y="25" font-size="13" fill="#666">/b/</text>
+    <circle cx="40" cy="20" r="4" fill="#1a1a1a"/>
+    <text x="55" y="25" font-size="12" fill="#888">dot / filled circle</text>
+  </g>
+
+  <!-- /k/ cross -->
+  <g transform="translate(220,975)">
+    <text x="0" y="25" font-size="13" fill="#666">/k/</text>
+    <line x1="35" y1="12" x2="45" y2="28" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="45" y1="12" x2="35" y2="28" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="55" y="25" font-size="12" fill="#888">cross / X mark</text>
+  </g>
+
+  <!-- /w/ wave -->
+  <g transform="translate(390,975)">
+    <text x="0" y="25" font-size="13" fill="#666">/w/</text>
+    <path d="M 30,15 Q 37,10 42,18 T 52,18" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <text x="60" y="25" font-size="12" fill="#888">wave / curve</text>
+  </g>
+
+  <!-- /t/ angle -->
+  <g transform="translate(560,975)">
+    <text x="0" y="25" font-size="13" fill="#666">/t/</text>
+    <path d="M 32,12 L 32,25 L 45,25" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="55" y="25" font-size="12" fill="#888">angle / wedge</text>
+  </g>
+
+  <!-- /m/ double line -->
+  <g transform="translate(50,1020)">
+    <text x="0" y="25" font-size="13" fill="#666">/m/</text>
+    <line x1="30" y1="16" x2="55" y2="16" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="30" y1="24" x2="55" y2="24" stroke="#1a1a1a" stroke-width="2.5"/>
+    <text x="65" y="25" font-size="12" fill="#888">double parallel line</text>
+  </g>
+
+  <!-- /r/ slash -->
+  <g transform="translate(280,1020)">
+    <text x="0" y="25" font-size="13" fill="#666">/r/</text>
+    <line x1="35" y1="10" x2="45" y2="28" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="55" y="25" font-size="12" fill="#888">diagonal slash</text>
+  </g>
+
+  <!-- /y/ hook -->
+  <g transform="translate(450,1020)">
+    <text x="0" y="25" font-size="13" fill="#666">/y/</text>
+    <path d="M 35,10 L 35,22 Q 35,28 42,28" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="55" y="25" font-size="12" fill="#888">hook / curved terminal</text>
+  </g>
+
+  <!-- /g/ open circle -->
+  <g transform="translate(620,1020)">
+    <text x="0" y="25" font-size="13" fill="#666">/g/</text>
+    <circle cx="40" cy="20" r="5" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <text x="55" y="25" font-size="12" fill="#888">open circle (voiced /k/)</text>
+  </g>
+
+  <!-- /n/ triple line -->
+  <g transform="translate(50,1065)">
+    <text x="0" y="25" font-size="13" fill="#666">/n/</text>
+    <line x1="30" y1="13" x2="55" y2="13" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="30" y1="20" x2="55" y2="20" stroke="#1a1a1a" stroke-width="2"/>
+    <line x1="30" y1="27" x2="55" y2="27" stroke="#1a1a1a" stroke-width="2"/>
+    <text x="65" y="25" font-size="12" fill="#888">triple parallel line</text>
+  </g>
+
+  <!-- /ʔ/ glottal stop -->
+  <g transform="translate(280,1065)">
+    <text x="0" y="25" font-size="13" fill="#666">/ʔ/</text>
+    <line x1="35" y1="10" x2="35" y2="18" stroke="#1a1a1a" stroke-width="3"/>
+    <line x1="35" y1="22" x2="35" y2="30" stroke="#1a1a1a" stroke-width="3"/>
+    <text x="50" y="25" font-size="12" fill="#888">broken vertical (glottal stop)</text>
+  </g>
+
+  <!-- Section 6: Example word -->
+  <text x="40" y="1130" font-size="15" font-weight="bold">Example: "yuku" (mountain) in Late Bikumaku</text>
+  <line x1="40" y1="1138" x2="860" y2="1138" stroke="#ccc" stroke-width="1"/>
+
+  <g transform="translate(50,1160)">
+    <text x="0" y="25" font-size="12" fill="#666">Base glyph:</text>
+    <path d="M 60,45 L 75,15 L 90,45 Z" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <path d="M 70,23 L 75,15 L 80,23" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+    <text x="110" y="30" font-size="11" fill="#888">mountain pictogram (concept)</text>
+  </g>
+
+  <g transform="translate(50,1210)">
+    <text x="0" y="25" font-size="12" fill="#666">+ strokes:</text>
+    <!-- /y/ hook -->
+    <path d="M 65,5 L 65,17 Q 65,23 72,23" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+    <!-- /u/ curved -->
+    <path d="M 80,5 Q 95,25 80,25" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+    <!-- /k/ cross -->
+    <line x1="100" y1="7" x2="110" y2="23" stroke="#c0392b" stroke-width="2.5"/>
+    <line x1="110" y1="7" x2="100" y2="23" stroke="#c0392b" stroke-width="2.5"/>
+    <!-- /u/ curved -->
+    <path d="M 120,5 Q 135,25 120,25" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+    <text x="145" y="18" font-size="11" fill="#c0392b">y + u + k + u</text>
+    <text x="145" y="33" font-size="10" fill="#999">phonetic strokes (in red for clarity)</text>
+  </g>
+
+  <g transform="translate(50,1260)">
+    <text x="0" y="25" font-size="12" fill="#666">Combined:</text>
+    <!-- mountain glyph -->
+    <path d="M 60,45 L 75,15 L 90,45 Z" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <path d="M 70,23 L 75,15 L 80,23" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+    <!-- strokes beside it -->
+    <path d="M 100,20 Q 115,40 100,40" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <path d="M 120,20 Q 135,40 120,40" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="140" y1="22" x2="150" y2="38" stroke="#1a1a1a" stroke-width="2.5"/>
+    <line x1="150" y1="22" x2="140" y2="38" stroke="#1a1a1a" stroke-width="2.5"/>
+    <path d="M 160,20 Q 175,40 160,40" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+    <text x="185" y="30" font-size="12" fill="#666">yuku = mountain</text>
+    <text x="185" y="45" font-size="10" fill="#999">concept from glyph + sound from strokes</text>
+  </g>
+
+  <!-- Legend -->
+  <text x="40" y="1370" font-size="11" fill="#999">
+    Black = carved glyph/stroke · Red = negation mark (for clarity) · Phonetic strokes shown in red in the example for illustration only
+  </text>
+  <text x="40" y="1390" font-size="11" fill="#999">
+    Base 5 (one hand) with base 20 (one body) grouping · Origin: finger and toe counting
+  </text>
+  <text x="40" y="1410" font-size="11" fill="#999">
+    Negation (line through bikú) adapted from trade debt notation — same mark used to indicate "owed" or "subtract"
+  </text>
+  <text x="40" y="1430" font-size="11" fill="#999">
+    Phonetics: 3 vowels + 9 consonants + glottal stop = 13 phonetic strokes · /g/ = open circle (voiced /k/) · /n/ = triple line (extended /m/)
+  </text>
+</svg>

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Period from outbreak of War of Liberation (1853) through the end of the PdI-PpLT coalition era (1875). Covers: War of Liberation (1853–1856) and its aftermath, Balboa independence (1854), realignment of Illpynian powers against Fosian threats (Zong, Mitoyagi, Nakamizu), renewed Volisanian influence through investment and trade, guano boom (1853+) on Warikú, industrialization (first ironworks 1864), Kaftian refugee influx from Lacashe, ethnic violence (race riot 1866, immigration ban), rise of workers movements, public universal primary education (1870), three-party politics (PdI, PpLT, PpE), and the PdI-PpLT secret coalition (1872).
+Period from outbreak of War of Liberation (1853) through the end of the PdI-PpLT coalition era (1875). Covers: War of Liberation (1853–1856) and its aftermath, Balboa independence (1854), realignment of Illypnian powers against Fosian threats (Zong, Mitoyagi, Nakamizu), renewed Volisanian influence through investment and trade, guano boom (1853+) on Warikú, industrialization (first ironworks 1864), Kaftian refugee influx from Lacashe, ethnic violence (race riot 1866, immigration ban), rise of workers movements, public universal primary education (1870), three-party politics (PdI, PpLT, PpE), and the PdI-PpLT secret coalition (1872).
 
 ## Timeline
 
@@ -35,10 +35,10 @@ Period from outbreak of War of Liberation (1853) through the end of the PdI-PpLT
 - Term coined by Volisanian politician Ernesto Bonastre in 1878.
 - Refers to Mitoyagi, Zong, and Nakamizu — core industrial and military powers of Fosia (far eastern continent).
 - Period 1850–1895: strongest industrial, economic, and military growth in Adonia.
-- Illpynian powers (Volisania, Burawa, Mercia, etc.) alarmed by Fosian power accumulation and influence over Lurandia.
-- Threat of Fosian invasion of Illpynian allied nations in the New World.
+- Illypnian powers (Volisania, Burawa, Mercia, etc.) alarmed by Fosian power accumulation and influence over Lurandia.
+- Threat of Fosian invasion of Illypnian allied nations in the New World.
 - The threat materialized in the Second War of the Isthmus (Zong + Louyang + Sinchew expanded into modern-day Balboa, occupied major ports by 1899) — this is in the next era.
-- This realignment brought Illpynian powers closer together and affected their colonial policies. Guajicutea, as a small nation in the Capuyaquiran Sea, was affected by this geopolitical shift.
+- This realignment brought Illypnian powers closer together and affected their colonial policies. Guajicutea, as a small nation in the Capuyaquiran Sea, was affected by this geopolitical shift.
 
 ### Renewed Volisanian Influence
 - After the War of Liberation (in which Volisania was a coalition partner), Volisania's influence in Guajicutea increased again.
@@ -205,7 +205,7 @@ Period from outbreak of War of Liberation (1853) through the end of the PdI-PpLT
 - Guaji Catholicism (syncretic) continued in rural areas. Urban populations more secularized.
 
 ### Arts
-- Proto-Symbolism movement (established 1840s) continued to develop. Sebastián Biku traveled to Sarta (1845), spreading the movement to Illpynia.
+- Proto-Symbolism movement (established 1840s) continued to develop. Sebastián Biku traveled to Sarta (1845), spreading the movement to Illypnia.
 - The industrialization and urbanization of this period provided new subjects: factories, ironworks, port activity, urban crowding.
 - The social upheaval (ethnic violence, workers riots) entered artistic representation — both realist and proto-Symbolist treatment.
 - Warikú guano boom may have inspired landscape/seascape art reflecting the island's transformation.
@@ -235,7 +235,7 @@ Period from outbreak of War of Liberation (1853) through the end of the PdI-PpLT
 - **Warikú**: island ID 1, "little moon" (warí + -kú). Joined Republic 1756. Sub-group of Guaji lives there with autonomy. Guano boom (1853+) created tension over guano extraction rights/revenues between autonomous inhabitants and central government.
 - **Balboa independence**: 1854. From Volisania.
 - **Volisanian influence**: investment and trade. Post-War of Liberation coalition relationship. Brought Volisanian commercial community to Waribá.
-- **Three threats of Fosia**: Zong, Mitoyagi, Nakamizu. Term coined 1878 by Volisanian politician Ernesto Bonastre. Illpynian powers alarmed by Fosian industrial/military growth 1850–1895. Led to realignment. Second War of the Isthmus (next era) materialized the threat.
+- **Three threats of Fosia**: Zong, Mitoyagi, Nakamizu. Term coined 1878 by Volisanian politician Ernesto Bonastre. Illypnian powers alarmed by Fosian industrial/military growth 1850–1895. Led to realignment. Second War of the Isthmus (next era) materialized the threat.
 - **Backroom deal election**: 1872. PpE plurality, PdI + PpLT combine for majority. Secret coalition.
 - **Public education**: 1870. Under José Moku (PdI). PpLT support. Undermined PpE appeal.
 - **Presidents**: all PdI from 1845–1875. PdA held presidency 1837–1845 (terms 2–3). No PpLT or PpE president in this era.

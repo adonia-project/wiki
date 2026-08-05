@@ -1,8 +1,8 @@
-# Guajicutea Era Notes: 1905–1913 (Economic Decline, Political Chaos, and Recovery)
+# Guajicutea Era Notes: 1905–1917 (Economic Decline, Political Chaos, and Recovery)
 
 ## Overview
 
-Period from 1905 through 1913. While the world recovered from the Mild Depression by 1908, Guajicutea trailed behind — economic decline persisted to 1911. Mass unemployment, violent protests against the state, and a movement to return to traditional agricultural life (supported by both leftist and right-wing factions). The Asamblea Nacional, expanded to 150 seats in 1900, was extremely divided — physical fights broke out in the assembly. The anti-industrialization Movimiento de la Yaya gained momentum. Communist and fascist movements radicalised in the streets. Anti-Volisanian sentiment grew, blaming Volisania for losing the War of the Isthmus, shutting down employment bases, and owning private institutions. A right-wing conservative coalition (1910) enacted bans on Volisanian ownership and language, while welcoming Sartan investment. A moderate coalition (1912) pivoted toward tourism and cruise lines (1913) as a new economic strategy.
+Period from 1905 through 1917. While the world recovered from the Mild Depression by 1908, Guajicutea trailed behind — economic decline persisted to 1911. Mass unemployment, violent protests against the state, and a movement to return to traditional agricultural life (supported by both leftist and right-wing factions). The Asamblea Nacional, expanded to 150 seats in 1900, was extremely divided — physical fights broke out in the assembly. The anti-industrialization Movimiento de la Yaya gained momentum. Communist and fascist movements radicalised in the streets. Anti-Volisanian sentiment grew, blaming Volisania for losing the War of the Isthmus, shutting down employment bases, and owning private institutions. A right-wing conservative coalition (1910) enacted bans on Volisanian ownership and language, while welcoming Sartan investment. A moderate coalition (1912) pivoted toward tourism and cruise lines (1913) as a new economic strategy. The economy began to recover in 1915–1916 as the pivot measures took effect, supported by a loan from Sarta.
 
 ## Timeline
 
@@ -20,7 +20,9 @@ Period from 1905 through 1913. While the world recovered from the Mild Depressio
 | 1910 | Right-wing conservative coalition (PpE + PdI) in power. Ban on Volisanian ownership of private industries. Ban on Volisanian language in commercial goods (must be written in Sartan). Sartan investment welcomed. Sartan government recommended less harsh punishments. |
 | 1910–1912 | Guaji attracts more trade with Zong Balboa and Balisca. Industrial base weak — most people working on reprocessing. |
 | 1912 | Moderate coalition elected. Centrist government rejecting both PSG radicalism and NPdA fascism. |
-| 1913 | Government-funded cruise line scheme devised. Cruise lines offer stops in Guaji for visitors from Illpynia and Kaftia traveling to Abyala (mainly Tapuya and Balboa). |
+| 1913 | Government-funded cruise line scheme devised. Cruise lines offer stops in Guaji for visitors from Illypnia and Kaftia traveling to Abyala (mainly Tapuya and Balboa). |
+| 1915–1916 | Economy begins to recover as pivot measures (tourism, trade diversification) take effect. |
+| 1915–1916 | Loan secured from Sarta to fund economic recovery and pivot infrastructure. |
 
 ## Economy
 
@@ -62,12 +64,21 @@ Period from 1905 through 1913. While the world recovered from the Mild Depressio
 
 ### Cruise Line Scheme (1913)
 - Devised by the moderate coalition government elected in 1912.
-- Government funded its own cruise lines.
-- Route: Illpynia and Kaftia → Guaji (stop) → Abyala (mainly Tapuya and Balboa).
+- Government funded its own cruise lines, named **Línea Guajicuteana**.
+- Route: Illypnia and Kaftia → Guaji (stop) → Abyala (mainly Tapuya and Balboa).
 - Guaji positioned as a cruise stop on the way to Abyala — using its geographic position in the Capuyaquiran Sea as an asset.
-- Target visitors: Illpynian and Kaftian tourists traveling to Abyala.
+- Target visitors: Illypnian and Kaftian tourists traveling to Abyala.
 - New economic sector — tourism as alternative to industrial production.
 - Government-funded — public investment in tourism infrastructure (ports, guest facilities, cruise vessels).
+
+### Economic Recovery (1915–1916)
+- The pivot measures (cruise line scheme, trade diversification) began to produce results in 1915–1916.
+- Tourism revenue started flowing as cruise lines became operational.
+- Trade diversification with Zong Balboa and Balisca matured.
+- Guajicutea secured a loan from Sarta to fund the recovery and pivot infrastructure.
+- Sarta — former colonial power, still friendly — provided the loan as part of its investment relationship with Guajicutea (encouraged since the 1910 right-wing coalition welcomed Sartan investment).
+- Recovery was gradual — not a boom, but the end of the extended decline that had persisted since 1905.
+- By 1917, the economy was stabilizing, though still fragile.
 
 ## Domestic — Social
 
@@ -134,12 +145,14 @@ Period from 1905 through 1913. While the world recovered from the Mild Depressio
 ## Key Figures
 
 - **Lorenzo Mora** — President (1901–1905, PpLT). Presides over worsening depression, assembly chaos, and the ironworks shutdown.
+- **Álvaro Prieto** — President (1905–1909, PdI). Weak president, divided assembly, deepening depression.
+- **Gerardo Santos** — President (1909–1913, PpE). Right-wing conservative coalition, anti-Volisanian measures.
+- **Raúl Campos** — President (1913–1917, PpLT). Moderate coalition, tourism pivot, Sarta loan, economic recovery begins 1915–1916.
 - **Samuel Fuentes** — Explorer, rediscovered catacombs (1892).
-- Presidents for 1905–1913: TBD (need to figure out terms 19+).
 
 ## Internal Notes (not for wiki)
 
-- **Era dates**: 1905–1913. Picks up where 1875–1905 era ends. Extended to 1913 to cover moderate coalition and cruise line scheme. Era boundary may need adjustment.
+- **Era dates**: 1905–1917. Picks up where 1875–1905 era ends. Covers extended decline, political chaos, moderate coalition pivot, and beginning of recovery.
 - **Asamblea expansion (1900)**: 32 → 150 seats. Major democratic reform. Reflects population growth and reform pressure.
 - **Movimiento de la Yaya**: Anti-industrialization, return to traditional agriculture. From yaya (earth/ground). Both left and right support. Connected to cultural revival (Bikuismo). Not a party — a cross-party movement.
 - **Mass unemployment**: 11% (1905), ~19% peak (~1908), 15% (1910). See guaji_census_data.md.
@@ -151,6 +164,7 @@ Period from 1905 through 1913. While the world recovered from the Mild Depressio
 - **Trade diversification (1910–1912)**: Zong Balboa, Balisca. Industrial base weak. Most people working on reprocessing (light processing of agricultural products).
 - **Exports**: Reprocessed agricultural products (cassava flour, dried fish, tobacco), guano, gold (diminished), traditional crafts (pottery, textiles, carving — Bikuismo connection), tourism services (from 1913).
 - **Moderate coalition (1912)**: PpLT + PdT + PdI moderate. Centrist. Rejected PSG and NPdA radicalism. Pivoted toward tourism.
-- **Cruise line scheme (1913)**: Government-funded cruise lines. Route: Illpynia/Kaftia → Guaji → Abyala (Tapuya, Balboa). Guaji as cruise stop. New economic sector. Public investment in tourism infrastructure.
-- **Presidents**: Term 19 (1905–1909), term 20 (1909–1913), term 21 (1913–1917). Need to figure out names and parties. Mora's term ends 1905.
-- **Next era (post-1913)**: TBD. Great Adonian War (1935–1947) on the horizon.
+- **Cruise line scheme (1913)**: Government-funded cruise lines, named Línea Guajicuteana. Route: Illypnia/Kaftia → Guaji → Abyala (Tapuya, Balboa). Guaji as cruise stop. New economic sector. Public investment in tourism infrastructure.
+- **Economic recovery (1915–1916)**: Pivot measures took effect. Tourism revenue flowing. Trade diversification matured. Sarta loan secured to fund recovery and infrastructure. Gradual recovery, not a boom. Economy stabilizing by 1917.
+- **Presidents**: Term 19 = Álvaro Prieto (PdI, 1905–1909, weak president, divided assembly). Term 20 = Gerardo Santos (PpE, 1909–1913, right-wing coalition, anti-Volisanian measures). Term 21 = Raúl Campos (PpLT, 1913–1917, moderate coalition, tourism pivot, Sarta loan, recovery).
+- **Next era (post-1917)**: TBD. Great Adonian War (1935–1947) on the horizon.
