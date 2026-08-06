@@ -4,6 +4,8 @@
 
 The National Census Bureau was established in 1885 as part of the greater bureaucracy expansion of the early 1880s. The first systematic census was conducted in 1885, with subsequent censuses every 5 years (1890, 1895, 1900, 1905, 1910). The bureau tracked population, employment by sector, unemployment, and (after 1904) hours and wages.
 
+The census system was reformed under the Third Republic constitution (December 18, 1947). The first official census under the new system was conducted in 1950, with subsequent censuses every 10 years (1960, 1970, 1980, etc.). The 1950 census and all subsequent censuses recorded: age, race and ethnicity, family size, sex, and date of birth. The pre-war 5-year employment census (1885–1910) was replaced by the 10-year comprehensive census.
+
 ## Methodology Notes
 
 - **Labor force**: ~50% of total population (working-age adults, including children before 1904 child labor ban). After 1904, child labor ban slightly reduced labor force participation.
@@ -97,13 +99,105 @@ The National Census Bureau was established in 1885 as part of the greater bureau
 - Peaks ~19% (1908, estimated between census years).
 - Still high at 15% (1910) — some improvement as people shift to agriculture but economy still depressed.
 
+## 1950 Census (First Comprehensive Census)
+
+The first census under the Third Republic was conducted in 1950. It recorded age, race and ethnicity, family size, sex, and date of birth for all residents. Subsequent censuses were conducted every 10 years.
+
+### Population
+
+| Metric | 1950 Census |
+|--------|------------|
+| Total population | ~490,000 |
+| Male | ~243,000 (49.5%) |
+| Female | ~247,000 (50.5%) |
+| Urban | ~275,000 (56%) |
+| Rural | ~215,000 (44%) |
+| Average household size | 4.8 |
+| Fertility rate | ~4.2 births per woman | Baby boom level. Well above replacement (2.1). |
+| Labor force | ~245,000 (50%) |
+
+### Ethnic Composition
+
+| Group | Population | % | Notes |
+|-------|------------|---|-------|
+| Guaji | ~265,000 | 54% | Largest group. Natural increase + baby boom. |
+| Bayani | ~68,000 | 14% | Natural increase. |
+| Sartan / Sartan-Guaji mixed | ~44,000 | 9% | Military personnel withdrew 1947–1948. Civilian Sartans remain. |
+| Kaftian | ~68,000 | 14% | Natural increase. |
+| Zong | ~18,000 | 3.7% | Reduced from pre-war (~25k) by internment, camp riot (1941), and wartime conditions. Some released after liberation. |
+| Other | ~7,000 | 1.3% | AC consultants (Zong, Volisania, Burawa), Asikyira aid workers. |
+| **Total** | **~490,000** | | |
+
+### Age Distribution
+
+| Age group | Male | Female | Total | % |
+|------------|------|--------|-------|---|
+| 0–4 | ~24,000 | ~23,000 | ~47,000 | 9.6% | Baby boom cohort.
+| 5–9 | ~18,000 | ~17,000 | ~35,000 | 7.1% |
+| 10–14 | ~16,000 | ~15,000 | ~31,000 | 6.3% |
+| 15–19 | ~14,000 | ~14,000 | ~28,000 | 5.7% |
+| 20–24 | ~15,000 | ~15,000 | ~30,000 | 6.1% | Young adults. Reconstruction workforce.
+| 25–34 | ~22,000 | ~22,000 | ~44,000 | 9.0% | Core labor force.
+| 35–44 | ~24,000 | ~24,000 | ~48,000 | 9.8% | Core labor force.
+| 45–54 | ~20,000 | ~20,000 | ~40,000 | 8.2% |
+| 55–64 | ~16,000 | ~16,000 | ~32,000 | 6.5% |
+| 65+ | ~12,000 | ~13,000 | ~25,000 | 5.1% | War casualties elevated this cohort slightly.
+| **Total** | **~243,000** | **~247,000** | **~490,000** | |
+
+### City Populations
+
+| City | Population | Notes |
+|------|------------|-------|
+| Waribá | ~78,000 | Rebuilding. Down from ~95k pre-war. Firebombing damage (1945). |
+| Tabakurí | ~55,000 | Capital. Government center. Largely intact during war. |
+| Barikú | ~38,000 | Secondary port. Largely intact. |
+| Waku Bá | ~8,000 | New city. Under construction on destroyed Volisanian navy port site. Growing fast. |
+
+### Notes on 1950 Census
+
+- First comprehensive census under the Third Republic. Conducted January 18, 1950 (same day as first election).
+- Baby boom visible in 0–4 age group (9.6% of population — elevated for a small post-war population).
+- Sex ratio approximately balanced (49.5% male / 50.5% female). War casualties slightly reduced male share.
+- Zong population reduced from ~25k (pre-war) to ~18k — internment, camp riot (October 1941), and wartime casualties. Some internees released after liberation (July 1947).
+- Sartan share declined from ~10% to ~9% — Volisanian military personnel withdrew 1947–1948. Sartan civilians remain.
+- "Other" category includes AC consultants and Asikyira aid workers present during reconstruction.
+- Average household size 4.8 — multi-generational households common during reconstruction and baby boom.
+- Fertility rate ~4.2 births per woman — baby boom level, well above replacement rate (2.1). Consistent with the 0–4 age group being 9.6% of population.
+- Labor force ~50% of population, consistent with historical pattern.
+- Date of birth recorded for all residents — enables age tracking and future census verification.
+
+## Population Trajectory (1947–1970)
+
+| Year | Population | Notes |
+|------|------------|-------|
+| 1947 | ~453,000 | End of war. Famine. Liberation (July 3, 1947). |
+| 1950 | ~490,000 | First census. Baby boom underway. Reconstruction. |
+| 1956 | ~570,000 | Baby boom + reconstruction growth. Waribá rebuild nearing completion. |
+| 1960 | ~680,000 | Natural increase + immigration begins. Tourism boom accelerating. |
+| ~1975 | ~1,750,000 | Mid-decade partial census/estimate. Growth continuing but immigration slowing from peak. |
+| 1970 | ~1,400,000 | Peak immigration + natural increase. Fertility 4.5. Density ~427/km². |
+
+- Growth rate 1947–1950: ~2.5% per year (baby boom + food restoration + reconstruction).
+- Growth rate 1950–1956: ~2.6% per year (baby boom + natural increase).
+- Growth rate 1956–1970: ~6.6% per year (3.5% natural increase at fertility 4.5 + 3.1% from immigration ~34,000/year average).
+- 1954 global postwar recession: Guajicutea buffered by reparations funds. Not severely affected.
+- Later 1960s: large child population strained resources. AC loans required. AC pushed for reduction of natalist policies.
+- 1970 density: ~427/km². High but feasible (Malta ~1,300/km², Caribbean islands 300-500/km²).
+
+- Growth rate 1947–1950: ~2.5% per year (baby boom + food restoration + reconstruction).
+- Growth rate 1950–1956: ~2.6% per year (baby boom + natural increase).
+- Growth rate 1956–1970: ~6.6% per year (3.5% natural increase at fertility 4.5 + 3.1% from immigration ~34,000/year average).
+- 1954 global postwar recession: Guajicutea buffered by reparations funds. Not severely affected.
+- Later 1960s: large child population strained resources. AC loans required. AC pushed for reduction of natalist policies.
+- 1970 density: ~427/km². High but feasible (Malta ~1,300/km², Caribbean islands 300-500/km²).
+
 ## Internal Notes (not for wiki)
 
-- **Census Bureau**: Created 1885 as part of greater bureaucracy. First census 1885, then every 5 years.
-- **Labor force**: ~50% of population. Child labor included before 1904 ban. Post-1904, slight reduction as children leave workforce.
-- **Ironworks impact**: The 1905 ironworks shutdown is the single most significant employment event. Hundreds of industrial workers thrown out in Waribá.
-- **Movimiento de la Yaya effect**: Pushes unemployed industrial workers back to subsistence agriculture. This lowers the official unemployment rate (people leave "unemployed" for "not in labor force") but doesn't represent genuine economic recovery.
-- **Peak unemployment**: ~19% (1908, estimated). Comparable to severe depressions in small vulnerable economies. US Great Depression peaked ~25%.
-- **1910 census**: Shows agriculture rebounding to 55% — partly Movimiento de la Yaya, partly economic necessity. Industry contracted to 12%.
-- **Population 1910**: ~355,000 (estimated, continued growth but slower due to depression).
-- **Numbers are approximate**: All figures are estimates for worldbuilding purposes. The census bureau provides the in-universe justification for having data.
+- **Census Bureau**: Created 1885 as part of greater bureaucracy. First census 1885, then every 5 years. Reformed 1947 — first comprehensive census 1950, then every 10 years.
+- **1950 census**: First under Third Republic. Records age, race/ethnicity, family size, sex, DOB. ~490,000 population.
+- **Baby boom**: Visible in 0–4 age group (9.6%). Driving population growth.
+- **Zong population**: Reduced from ~25k to ~18k — internment, camp riot, war. Some released after liberation.
+- **Sartan share**: Declined from ~10% to ~9% — military withdrew. Civilians remain.
+- **1954 recession**: Global postwar recession. Guajicutea buffered by reparations (spread ~10 years, 1948–1958). Not severely affected.
+- **Population trajectory**: ~453k (1947) → ~490k (1950) → ~570k (1956).
+- **Numbers are approximate**: All figures are estimates for worldbuilding purposes.

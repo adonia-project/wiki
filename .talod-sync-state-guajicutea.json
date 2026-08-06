@@ -1,4 +1,14 @@
 {
+  "Demographics of Guajicutea": {
+    "direction": "push",
+    "hash": "dcd34f98c0ee9e1eb852c533b14c51e129c63d411d4612feb8e3c7a0e6330b35",
+    "last_sync": "2026-08-06T21:45:00.955365+00:00"
+  },
+  "Economy of Guajicutea": {
+    "direction": "push",
+    "hash": "7977fa68759a46d65fc11f0f2b793c595d347503208e34b9ee3c0024b613b82b",
+    "last_sync": "2026-08-06T21:18:38.837927+00:00"
+  },
   "Esteban Makurí": {
     "direction": "push",
     "hash": "af1feeec5e6bc952487a116a294ef318eff17e57063c8ccc6969ce8be336f66e",
@@ -111,8 +121,43 @@
   },
   "History of Guajicutea (1935-1947)": {
     "direction": "push",
-    "hash": "50f5345066f3fcb814338d7db0ca269ebd0d8020c5e51b603c46a448ee685096",
-    "last_sync": "2026-08-05T21:04:33.329035+00:00"
+    "hash": "5dd69e0834bddf5684e576942913b59df2a0a0f408cf1c8215b71876b3166e43",
+    "last_sync": "2026-08-05T23:36:45.819177+00:00"
+  },
+  "History of Guajicutea (1947-1968)": {
+    "direction": "push",
+    "hash": "58c1fde4916a3274de627be74d26ec7a3c8032047e54fb0327e0be207b5a2552",
+    "last_sync": "2026-08-05T23:54:46.238256+00:00"
+  },
+  "History of Guajicutea (1968-1976)": {
+    "direction": "push",
+    "hash": "2bfa4a2a78fdb50fe981e2708adb4c22d91066f89f6d81b166f1bd82ef977fa2",
+    "last_sync": "2026-08-06T20:25:42.228756+00:00"
+  },
+  "History of Guajicutea (1976-1992)": {
+    "direction": "push",
+    "hash": "ea9317ad3d2e5dabe0b30cedfe8156e0aa1a71d20ccd6141bd02c1a2fd33a5e7",
+    "last_sync": "2026-08-06T20:17:25.005063+00:00"
+  },
+  "History of Guajicutea (1976-2000)": {
+    "direction": "push",
+    "hash": "692dc6ef92c8b5a9b9c0e5fefb830c019101115809871cef0abc141a0e0e0ce1",
+    "last_sync": "2026-08-06T20:40:34.345638+00:00"
+  },
+  "History of Guajicutea (2000-2012)": {
+    "direction": "push",
+    "hash": "7ca6ab439039b50b0938dae893ae444a286c33513e98180374ea90c181affdcf",
+    "last_sync": "2026-08-06T20:52:58.248601+00:00"
+  },
+  "History of Guajicutea (2012-2020)": {
+    "direction": "push",
+    "hash": "07be01d6acd36aa1d15fc0897dbe48d8c332667f292978a44ff48264b5fcad61",
+    "last_sync": "2026-08-06T21:45:02.113880+00:00"
+  },
+  "History of Guajicutea (2020-present)": {
+    "direction": "push",
+    "hash": "5edce15e1edabc515b46c4e5e11d496291bde01fc8ba9a39744134636cc5acd4",
+    "last_sync": "2026-08-06T21:07:04.802359+00:00"
   },
   "Kingdom of Guajicutea": {
     "direction": "push",

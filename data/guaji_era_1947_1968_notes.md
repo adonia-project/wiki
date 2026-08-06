@@ -1,4 +1,4 @@
-# Guajicutea Era Notes: 1947–1956 (Third Republic, Reconstruction)
+# Guajicutea Era Notes: 1947–1968 (Third Republic, Reconstruction)
 
 ## Overview
 
@@ -177,11 +177,12 @@ The new constitution restructured the districts. The old 16 districtos, based on
 
 ## Internal Notes (not for wiki)
 
-- **Era dates**: 1947–1956. Picks up where 1935–1947 era ends (February 1948, end of Baliscan occupation). Covers reconstruction, constitution, first election, Waribá rebuild (~8 years to ~1956), new city, baby boom. Era ends 1956 with Waribá rebuild complete and 1954 recession passed.
+- **Era dates**: 1947–1968. Picks up where 1935–1947 era ends (February 1948, end of Baliscan occupation). Covers reconstruction, constitution, first election, Waribá rebuild, tourism boom, population growth, political shift. Era ends 1968 when PPG wins the presidency.
 - **Transitional government**: PRG (Partido de la Restauración Guajicuteana) — coalition of non-fascist factions. Led by GLG freedom fighter. August 7 – December 18, 1947.
 - **Constitution**: December 18, 1947. Third Republic. Broad rights. No national language (Guaji + Sartan = common). Citizenship for all pre-war residents. Military service 2 years at 18. Foreign ownership restriction. Presidential usurption prevention.
 - **Election**: January 18, 1948. PLG won 80%. PPG second. President = PLG leader. Terms: president 4 years, assembly 2 years. Take office November. 1 rep per 10,000 residents (~45-46 seats).
-- **Reparations**: AC made Volisania pay. Funds invested in sustainable economics (PLG strategy).
+- **Reparations**: AC made Volisania pay. Funds invested in sustainable economics (PLG strategy). Spread over ~10 years (1948–1958). Substantial enough to buffer 1954 global recession.
+- **1950 census**: First comprehensive census under Third Republic. Records age, race/ethnicity, family size, sex, DOB. Population ~490,000. Census every 10 years thereafter. See `guaji_census_data.md`.
 - **Tribunals**: Tribunales de Liberación. Fascists tried, many sentenced to death or life.
 - **Ministries**: 10 ministries proposed. Development most important. Minister: Óscar Gallardo.
 - **New city**: Waku Bá (Guaji name, "turning place"). Northwest, destroyed Volisanian navy port site. User added POI point.
@@ -195,3 +196,115 @@ The new constitution restructured the districts. The old 16 districtos, based on
 - **Reparations**: AC made Volisania pay. Spread over ~10 years (1948–1958). Covered Waribá reconstruction, food imports, industrial rebuilding, infrastructure, museums. Substantial but not unlimited — buffered recession, didn't make Guajicutea rich. Labor Party invested in sustainable economics.
 - **Parties**: PLG (Labor, 80%), PPG (Progress, moderate/conservative). PRG (Restoration, transitional coalition — dissolved after election?).
 - **Next era**: TBD (post-1956).
+
+## Post-Reconstruction: Tourism Boom and Industrialisation (1950s–1960s)
+
+### Fertility and Population
+- Fertility rate rose to ~4.5 births per woman in the 1950s–1960s (pro-natalist policies + baby boom).
+- Population trajectory with fertility 4.5 and immigration:
+  - 1950: ~490,000 (first census)
+  - 1956: ~570,000 (baby boom + reconstruction)
+  - 1960: ~680,000 (natural increase + immigration begins)
+  - 1965: ~820,000 (immigration accelerates, tourism boom)
+  - 1970: ~1,400,000 (peak immigration + natural increase)
+- Natural increase at ~3.5%/year (fertility 4.5, declining mortality).
+- Immigration: ~34,000/year average (ramping from ~5,000/year late 1950s to ~50,000/year late 1960s).
+- Density by 1970: ~427/km² (1,400,000 / 3,278 km²). High but feasible — Malta ~1,300/km², Caribbean islands 300-500/km².
+
+### Strain on Resources and AC Loans
+- Large child population strained resources in the later 1960s.
+- Required loans from the Adonian Community to help support the large child population.
+- AC only handled this load on reduction of natalist policies — AC said "reduce natalist policies if you want AC loans."
+- The AC concern: population growth was aggressive enough to require international financial support.
+
+### Economic Strategy: Oil and Tourism
+- Post-war cheap oil in the 60s.
+- Burgeoning middle classes in Louyang, Sanrobonia, and Balisca in the New World as peak travel destinations.
+- Guajicutea capitalised on this tourism demand.
+- **National airline** established in the 1950s–60s. Connected Guajicutea to Illypnian/Kaftian destinations (tourists) and New World destinations.
+
+### Programa de Hospitalidad (1953)
+- State-run hospitality program enacted by legislation in 1953.
+- Hotels, cruise ships, and tourism infrastructure built from the ground up — the crown jewel of the reconstruction economy.
+- State-owned enterprise. All hospitality industry run by the state.
+- Built from scratch in 1953, transforming Waribá (destroyed during war) into a hospitality hub.
+
+### The Manufacturing Conundrum of the 1960s
+- As construction slowed down and unemployment rose, the government promoted investment in manufacturing.
+- **The conundrum**: What could Guajicutea manufacture competitively? A small tropical island with high labor costs (relative to mainland) and import dependence for raw materials.
+- **Proposed manufacturing sectors**:
+  1. **Food processing** — canned fish, cassava flour, tobacco products, tropical fruit preserves, distilled spirits. Processing local agricultural products for domestic use and export.
+  2. **Construction materials** — cement, bricks, roof tiles from local limestone (coral reef limestone). Domestic demand from construction boom + baby boom housing.
+  3. **Textiles and crafts** — cotton textiles, pottery, carved wood products, jewelry. Connected to Bikuismo. Serving tourism market (souvenirs, hotel supplies).
+  4. **Light assembly** — assembling imported components (bicycles, simple machinery, household goods). First step toward industrialisation.
+- **Guano**: Essentially depleted by this era. Former guano export revenue gone. Increased pressure to develop tourism and manufacturing as replacements.
+- **The solution**: Focus on local resource processing (agriculture, limestone), tourism market products (crafts, souvenirs, specialty foods), domestic construction materials, and light assembly. Cannot compete with mainland on cost — so focus on niches where local resources or tourism market proximity give an advantage.
+
+### Political Dynamics (1960s)
+- PLG (Labor) held majority through the 60s but slowly chipping away.
+- **Kadarist Party of Guajicutea** (KdG) — new socialist party. Gaining ground from the left. "Kadarist" — socialist/communist ideology (Adonian political concept).
+- **PPG (Progress/conservative)** — gaining ground on anti-immigration platform and focus on improvement of daily lives.
+- Group wages grew but never got super high — services reliance, import dependence.
+- Nation still heavily imported almost everything.
+- Unemployment slowly rising as construction slowed → prompted investment in manufacturing.
+- The political drift: PLG majority eroding to KdG (socialist) and PPG (conservative). People wanting to reduce immigration and focus on daily life improvement vs. PLG's growth-at-all-costs model.
+
+### Immigration
+- Government immigration policies in the 1950s–60s attracted migrant workers for tourism and service industry.
+- Sources: nearby Capuyaquiran islands, mainland Abyala (Asikyira, Lacashe, Burawa), possibly Illypnian/Kaftian service workers.
+- Immigration economically driven — tourism boom creating labor demand.
+- The AC reduction of natalist policies was tied to immigration — the AC wanted population growth to slow, including from immigration.
+
+### Pro-Natalist Policies
+- **Reimbursement**: Financial reimbursement for childbirth — covering medical costs, hospital fees, and postnatal care.
+- **Free housing**: Housing built fast and given to larger families or those married. Could upgrade to bigger homes for every additional child.
+- **Housing design**: Waribá and Waku Bá built with large sprawling suburbs, transit-connected, with apartment blocks with courtyards (family-friendly urban planning).
+- The housing program was a core PLG policy — new births were treated as contributing to growing the nation, and the state invested in family infrastructure to support that growth.
+- The housing boom also drove construction employment (dual purpose: population housing + economic stimulus).
+
+### Guano Depletion
+- Guano deposits on Warikú were essentially depleted by this era. The guano export that had been a major revenue source since 1853 was winding down.
+- The manufacturing sector for guano processing (bagged fertilizer) shifted from export to domestic use as supplies dwindled.
+- The end of guano revenue increased economic pressure to develop tourism and manufacturing as replacements.
+
+### Cultural Movements
+
+#### Post-War Optimism and Foreigner Hesitation
+- A vibe of post-war optimism pervaded the era — reconstruction, baby boom, employment, peace.
+- Foreigner hesitation: some reluctance from outsiders to visit Guajicutea, given the recent war and fascist association. The government's tourism push had to overcome this reluctance through advertising and cultural diplomacy.
+- Reluctance to tourism also from some Guajicuteans themselves — the war was recent, the fascist era was fresh, and some questioned whether mass tourism was appropriate or desirable.
+
+#### Media and Advertising Boom
+- A lot of media produced during this time, mostly advertising — tourism advertising, national airline promotions, Programa de Hospitalidad marketing.
+- The advertising boom birthed an art movement: the proliferation of tropical imagery in advertising (lush landscapes, volcanic peaks, coral reefs, tropical flora) in the 1950s–60s produced a visual language that artists adopted.
+- Advertising art became a genre in itself — poster art, brochure illustration, magazine spreads, cruise ship promotional art. The visual vocabulary of tropical paradise was created by commercial artists and then adopted by fine artists.
+
+#### Tropical Art Movement (1950s–1960s)
+- The proliferation of tropical art in the 1960s — growing from the advertising of the 1950s.
+- Artists who started in commercial advertising (tourism posters, hotel illustrations) transitioned into fine art, bringing the visual language of tropical paradise into galleries and exhibitions.
+- The movement was connected to Bikuismo (the pre-colonial cultural revival) but took it in a new direction: where Bikuismo looked backward to pre-colonial roots, the tropical art movement looked outward — projecting a modern, vibrant, desirable image of Guajicutea to the world.
+- The tropical art movement was the cultural counterpart to the Programa de Hospitalidad — both were about projecting Guajicutea as a desirable destination.
+- Tension with Bikuismo: some artists saw the tropical art movement as shallow or commercial compared to Bikuismo's depth. Others saw it as evolution — Bikuismo for a new era, making pre-colonial heritage marketable.
+- The movement produced distinctive visual works: bold colors, tropical landscapes, volcanic imagery, coral reef motifs, stylised flora and fauna. Some incorporated Bikumaku glyphs (connecting to the earlier revival) into modern tropical compositions.
+
+### Assembly Seat Distribution
+- 1 representative per 10,000 residents.
+- Seats updated only after each census, applied to the next election.
+- 1950 census (~490k): ~49 seats → 1948–1956 elections
+- 1960 census (~680k): ~68 seats → 1958–1968 elections
+- 1970 census (~1,400k): ~140 seats → 1972+ elections
+- Assembly elections every 2 years. Presidential elections every 4 years. Officials take office November of election year.
+
+| Year | Election | Census | Seats | PLG | PPG | KdG | Other |
+|------|---------|--------|-------|-----|-----|-----|-------|
+| 1948 | Jan 1948 | 1950 | ~49 | 39 (80%) | 10 (20%) | — | — |
+| 1950 | Nov 1950 | 1950 | ~49 | 36 (73%) | 11 (22%) | — | 2 (5%) |
+| 1952 | Nov 1952 | 1950 | ~49 | 34 (69%) | 13 (27%) | — | 2 (4%) |
+| 1954 | Nov 1954 | 1950 | ~49 | 32 (65%) | 15 (31%) | — | 2 (4%) |
+| 1956 | Nov 1956 | 1950 | ~49 | 31 (63%) | 16 (33%) | — | 2 (4%) |
+| 1958 | Nov 1958 | 1960 | ~68 | 42 (62%) | 18 (26%) | 6 (9%) | 2 (3%) |
+| 1960 | Nov 1960 | 1960 | ~68 | 42 (62%) | 18 (26%) | 6 (9%) | 2 (3%) |
+| 1962 | Nov 1962 | 1960 | ~68 | 44 (65%) | 17 (25%) | 5 (7%) | 2 (3%) |
+| 1964 | Nov 1964 | 1960 | ~68 | 45 (66%) | 16 (24%) | 5 (7%) | 2 (3%) |
+| 1966 | Nov 1966 | 1960 | ~68 | 44 (65%) | 17 (25%) | 5 (7%) | 2 (3%) |
+| 1968 | Nov 1968 | 1960 | ~68 | 44 (65%) | 17 (25%) | 5 (7%) | 2 (3%) |

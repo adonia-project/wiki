@@ -28,6 +28,11 @@ Term: 4 years, no term limits. Representatives: 2 years, no term limits.
 | 22 | Adrián Figueroa | PpLT | July 1, 1917 | July 1, 1921 | PpLT. Continues moderate coalition trajectory. Economic recovery period. Sartan surname. |
 | 23 | Marcos Acosta | PpLT | July 1, 1921 | July 1, 1925 | PpLT. Visited Zong Balboa to repair relations after Zong condemnation (1924). Escándalo de Balboa — visit framed as subservience after Zong man accused of murdering Guaji woman (domestic violence). Scandal discredited liberals. Sartan surname. |
 | 24 | Ernesto Guerrero | PpE | July 1, 1925 | July 1, 1933 | PpE. Popularish conservative president. Assembly split. Subverted by Jefe de la Asamblea (Damián Cordero) after 1930 emergency powers. Became figurehead. Remained nominally in power through GAW until Feb 8, 1943 relinquishment to Volisanian military. Sartan surname. |
+| 25 | Germán Wakurí | PLG | Nov 1948 | Nov 1952 | PLG. GLG freedom fighter, PRG leader, first president of Third Republic. Reconstruction. Constitution (Dec 18, 1947). First election (Jan 18, 1948) — PLG won 80%. Guaji surname (waku turn/cycle + -rí = "person of the turning"). |
+| 26 | Germán Wakurí | PLG | Nov 1952 | Nov 1956 | PLG. Re-elected. Waribá rebuild era (~8 years). Programa de Hospitalidad (1953). |
+| 27 | Hugo Trejo | PLG | Nov 1956 | Nov 1960 | PLG. Post-reconstruction. Tourism boom begins. National airline established. |
+| 28 | Renato Cabrera | PLG | Nov 1960 | Nov 1964 | PLG. Tourism boom peak. Immigration policies. Manufacturing push. Fertility 4.5. Pro-natalist policies (reimbursement, free housing). |
+| 29 | Leandro Quesada | PLG | Nov 1964 | Nov 1968 | PLG. AC loans for child population. Natalist policy reduction (AC condition). PLG chipping away to KdG and PPG. Last PLG president — PPG wins 1968 election. |
 
 ## Notes
 
@@ -67,4 +72,12 @@ Term: 4 years, no term limits. Representatives: 2 years, no term limits.
 - 1930–1935: No elections. Cordero as Jefe de la Asamblea runs government. Guerrero as figurehead president.
 - 1935–1947: Great Adonian War. Guerrero remains figurehead until Feb 8, 1943 relinquishment to Volisanian military. No elections during GAW.
 - July 3, 1947: Volisanian forces retreat. Liberation.
+- Third Republic established December 18, 1947. First election January 18, 1948. PLG won 80%. President = PLG leader (Germán Wakurí, GLG freedom fighter).
+- Presidential terms: 4 years. Assembly terms: 2 years. Take office November of election year. 1 rep per 10,000 residents.
+- Census: First comprehensive census 1950, then every 10 years.
+- PLG held presidency from 1948 through 1968 (terms 25-29). PPG won 1968 presidential election — end of PLG hold.
+- Kadarist Party of Guajicutea (KdG) — new socialist party, founded late 1950s/early 1960s. Gaining ground from the left.
+- Fertility 4.5 (1950s-1960s). Pro-natalist policies: reimbursement, free housing. Population to ~1.4 million by 1970.
+- AC loans in later 1960s for child population, on condition of natalist policy reduction.
+- Assembly grew with population: ~49 seats (1948) → ~140 seats (1970). PLG majority eroded from 80% to 43%.
 - Surname patterns: mix of Sartan surnames (Paredes, Navarro, Ríos, Aguilar, Cruz, Peña, Garrido, Medina, Bravo, León, Castro, Mora, Prieto, Santos, Campos) and Guaji plain-root surnames (Yaya, Karibá, Moku, Tabá, Yabiku). No -í endings.
