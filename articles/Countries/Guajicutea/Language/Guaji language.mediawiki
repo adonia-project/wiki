@@ -1,0 +1,142 @@
+{{Infobox language
+| name = Guaji
+| native_name = Guaji
+| states = [[Guajicutea]]
+| region = [[Guajicutea]]
+| ethnicity = [[Guaji people]]
+| speakers = ~1.4 million
+| date = 2025 estimate
+| script = [[Mesogean script]] (modern transcription)<br/>[[Bikumaku]] (traditional and ceremonial)
+| notice = IPA
+}}
+
+'''Guaji''' is the principal language of the [[Guaji people]] of [[Guajicutea]]. It is spoken by roughly 1.4 million people as a first language and by many more as a second language, especially in mixed urban households. The language developed from the island's Taino/Arawak-inspired base, but over nearly 2,000 years on Adonia it acquired a tighter vowel system, stronger consonant lenition, and a dense set of island-specific terms for volcanic terrain, navigation, storms, trade, and sacred carving.
+
+In modern Guajicutea, Guaji remains strongest in rural districts, fishing communities, and older coastal and inland settlements. [[Sartan language|Sartan]] is dominant in much of the state, but Guaji still carries cultural prestige in domestic life, local religion, music, and historical writing.
+
+== History ==
+
+=== Early divergence ===
+
+The language probably diverged into recognisable western and eastern varieties during the long pre-516 CE separation between the [[Yukurí]] mountain communities and the [[Caracurí]] sea communities. The western variety preserved more conservative highland vocabulary and older ritual speech, while the eastern variety changed faster through trade and contact with other island communities. After the unification of Guajicutea in 516 CE, the eastern variety became the basis of later standard speech, but Yukurí forms survived in technical vocabulary, sacred terms, and highland place names.
+
+The writing system associated with the language, [[Bikumaku]], is older than the formal kingdom. The earliest carved tablets and ritual records appear around the fourth century CE, before the unification of the island. Those early texts were pictographic and strongly tied to elite ritual practice. Later Bikumaku became more abstract, adding phonetic modifier strokes and a more regular system for recording names, dates, and ceremonial formulas.
+
+=== Unification and sacred record ===
+
+After the [[yukubara]] event and the burial of [[Guajicutea Vieja]] in 516 CE, Guaji became the common language of the unified island society. The catacombs, calendar corridor, and storm ledger established the language as the medium of sacred memory. Later generations continued to use Guaji for ritual speech, historical recitation, and carved records, even as everyday life shifted around it.
+
+The language also expanded its vocabulary during the centuries of trade and state formation that followed. Guaji developed specialised words for mining, shipbuilding, weather, timekeeping, and catacomb architecture, reflecting the physical world of the island rather than any outside model.
+
+=== Colonial and republican periods ===
+
+Colonial contact brought new pressures. Paper entered Guajicutea through Burawi trade in the 1530s, and Guaji oral history began to be transcribed into the [[Mesogean script]] for secular use. That change did not replace Bikumaku, which remained the sacred carving tradition, but it did give the language a wider written life outside priestly circles. During the colonial and early republican periods, urban speech shifted heavily toward Sartan, while Guaji survived best in rural households, fishing villages, and older inland communities.
+
+The 1947 constitution restored language protection and made both Guaji and Sartan common languages of public life. Since then, Guaji has remained an important national language, though one with a stronger rural and cultural base than Sartan.
+
+== Phonology ==
+
+Guaji has a compact vowel system of three phonemes: /a i u/. Earlier /e/ merged with /i/ and /o/ merged with /u/, leaving the language with a tighter, more closed sound than its earlier ancestor. The result is a language with frequent high vowels and a strong preference for short, clear syllables.
+
+Common consonant changes include voicing of initial stops, lenition between vowels, and palatalisation before front vowels. In broad terms, the language favours /b g k m n r t y w/ with fewer fricatives than Sartan. A glottal stop is also common, especially where vowel sequences meet.
+
+Typical syllable structure remains mostly simple, with a strong preference for open syllables. Final vowels are common, and many words end in a vowel followed by a light glottal catch.
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" |
+! colspan="2" | Front
+! colspan="2" | Back
+|-
+! Oral
+! Nasal
+! Oral
+! Nasal
+|-
+! Close
+| i || || u ||
+|-
+! Open
+| colspan="2" | a || colspan="2" |
+|}
+
+== Grammar ==
+
+Guaji is mildly agglutinative, with productive suffixes and frequent compounding. Many of its most important words are built from a small set of roots combined with semantic suffixes that indicate place, movement, size, or collective identity. Head-final compounding is normal, so the modifying element usually comes first.
+
+A few productive suffixes are especially common:
+
+{| class="wikitable"
+! Suffix !! Meaning !! Example
+|-
+| ''-í'' || people of / place of || ''Yukurí'', ''Caracurí'', ''Guanarí''
+|-
+| ''-á'' || augmentative / great feature || ''Yukumá''
+|-
+| ''-uma'' || extraction place / digging place || ''Yaruma''
+|-
+| ''-bara'' || flow / movement of || ''yukubara''
+|}
+
+This structure makes the language especially good at naming terrain. A mountain that flows is a mudflow, a mountain that bursts is an eruption, and a marked place is a carved or claimed space. That same logic runs through ordinary vocabulary, ritual naming, and place names.
+
+== Dialects ==
+
+=== Yukurí ===
+
+Yukurí is the older western highland variety. It preserves more conservative forms, especially in mountain, cave, and volcanic vocabulary. It is also the variety most strongly associated with ritual speech, mining communities, and older ceremonial terminology.
+
+=== Caracurí ===
+
+Caracurí is the eastern coastal variety and the basis of the later standard language. It is more innovative, especially in trade, navigation, and household speech. After unification, Caracurí became the more widely used public variety, but it absorbed many Yukurí roots in technical domains.
+
+=== Modern standard ===
+
+Modern educated Guaji is a mixed standard. Its grammar and core vocabulary are mostly Caracurí-derived, while its mountain, storm, and catacomb terms often preserve Yukurí forms. Rural speech is generally more conservative than urban speech, and older speakers tend to preserve more local forms than younger bilingual speakers in Sartan-dominant cities.
+
+== Writing system ==
+
+The traditional writing system of Guaji is [[Bikumaku]], a logographic and later ideographic script used by priestly specialists. The earliest forms were pictographic and closely tied to the catacombs, the calendar corridor, and the storm ledger. In later centuries, Bikumaku gained more abstract forms and phonetic modifier strokes. A simplified description of the modifiers is often given as follows: horizontal strokes for /a/, vertical strokes for /i/, curved strokes for /u/, dots for /b/, crosses for /k/, and waves for /w/.
+
+Bikumaku was never a mass-literacy script. It belonged to the religious and archival class, especially the [[bohíque]]s and priestesses who maintained the calendar and recorded major events. Its prestige remained high even after paper transcription became common in the colonial period.
+
+Today, Guaji is usually written in the [[Mesogean script]] for schoolbooks, newspapers, government use, and general publishing. Bikumaku survives in ceremonial carving, historical study, and artistic revival, especially after the 19th-century rediscovery of the catacombs.
+
+== Vocabulary ==
+
+Guaji vocabulary reflects the island's material world. It has especially rich sets of terms for volcanic events, mining, storms, sea travel, and sacred architecture.
+
+Examples include:
+
+* ''yukubara'' — volcanic mudflow
+* ''yukubúka'' — eruption
+* ''wariku'' — to pan or wash sediment
+* ''warí'' — moon / month
+* ''wirá'' — hurricane
+* ''bikú'' — carved year-mark
+* ''bikumá'' — great ring or decadal mark
+* ''kurubá'' — burial niche
+
+These terms are not simply decorative vocabulary. They reflect the island's geology, political history, and religious practice. In Guaji, language and landscape have always been closely linked.
+
+== Current status ==
+
+Guaji remains a major national language, but it is not evenly distributed. It is strongest in rural households, fishing communities, older inland districts, and many working-class neighbourhoods outside the largest cities. Sartan dominates more fully in state administration, inter-island trade, and much of urban elite life, so most younger Guajians are bilingual.
+
+The language has also gained renewed prestige through historical and cultural revival. The rediscovery of the catacombs in 1892, the historical [[Bikuismo movement]], and the modern Bikuismo revival led by [[Lidia Bikarí]] and formalised in the [[Bikumaku Language Act]] of 2021 all strengthened its public standing. Guaji now appears in literature, local radio, school instruction, ceremonial speech, family life, and, through Bikumaku, secondary government signage since 2021, even where it no longer holds the same dominance it once did.
+
+== See also ==
+
+* [[Guaji people]]
+* [[Demographics of Guajicutea]]
+* [[Bikumaku]]
+* [[Bikuismo movement]]
+* [[Bikumaku Language Act]]
+* [[Christianity in Guajicutea]]
+* [[Islam in Guajicutea]]
+* [[History of Guajicutea]]
+
+{{Guajicutea topics}}
+
+[[Category:Languages of Guajicutea]]
+[[Category:Guajicutea]]
