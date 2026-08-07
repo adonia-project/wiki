@@ -29,41 +29,34 @@
 | sr_15–64_years     = 0.98
 | sr_65_years_over   = 0.72
 | nation             = Guajicutean
-| major_ethnic       = {{unbulleted list|53% [[Guaji people|Guaji]]|16% [[Sartan Guaji people|Sartan / mixed]]|12% [[Bayani Gaujicutean people|Bayani]]}}
+| major_ethnic       = {{unbulleted list|53% [[Guaji people|Guaji]]|16% [[Sartan Guaji people|Sartan / mixed]]|12% [[Bayani Guajicutean people|Bayani]]}}
 | minor_ethnic       = {{unbulleted list|12% [[Kaftian Guajicutean people|Kaftian]]|1.5% [[Zong Guajicutean people|Zong]]|5.5% Other}}
 | official           = [[Guaji language|Guaji]] and [[Sartan language|Sartan]]
-| spoken             = {{unbulleted list|[[Guaji language|Guaji]] (majority rural)|[[Sartan language|Sartan]] (urban and official)|[[Volisanian language|Volisanian]] (tourism and hospitality)|[[Bayani Gaujicutean people|Bayani]] (minority)|[[Kaftian Guajicutean people|Kaftian]] (minority)|[[Zong Guajicutean people|Zong]] (minority)}}
+| spoken             = {{unbulleted list|[[Guaji language|Guaji]] (majority rural)|[[Sartan language|Sartan]] (urban and official)|[[Volisanian language|Volisanian]] (tourism and hospitality)|[[Bayani Guajicutean people|Bayani]] (minority)|[[Kaftian Guajicutean people|Kaftian]] (minority)|[[Zong Guajicutean people|Zong]] (minority)}}
 | footnote           = All figures are 2025 estimates unless otherwise noted.
 }}
 
 The '''Demographics of Guajicutea''' describe a densely populated, highly urbanized island society whose population has shifted from a small, rural, Guaji-majority island community into a large, service-oriented, multi-ethnic state. In 2025, Guajicutea's population was about 2.84 million, or roughly 866 people per square kilometre. Population growth has slowed sharply since the 2010s as birthrates fell below replacement, so recent growth depends increasingly on immigration, especially foreign workers and retirees.
 
-Guajicutea remains majority Guaji, but it also has large Bayani, Kaftian, and Sartan-Guaji mixed communities, plus smaller Zong and other immigrant populations. The country is broadly bilingual in Guaji and Sartan, while religion is mixed between Guaji syncretic Catholic practice, Sartan Catholicism, traditional Guaji belief, and a growing secular urban population.
+Guajicutea remains majority Guaji, but it also has large Bayani, Kaftian, and Sartan-Guaji mixed communities, plus smaller Zong and other immigrant populations. The country is broadly bilingual in Guaji and Sartan, while religion is dominated by [[Christianity in Guajicutea|Petran Catholicism]], alongside [[Islam in Guajicutea|Sunni Bayani Muslim]] communities, [[Warí faith in Guajicutea|traditional Warí faith]], [[Warí Revival in Guajicutea|a younger urban Guaji revival]], and a small [[Tianism in Guajicutea|Tianist]] minority.
 
 == Population history ==
 
 The population of Guajicutea has risen unevenly over time. It remained small through antiquity, expanded slowly through the first millennium, and then grew rapidly in the modern period under trade, reconstruction, immigration, and urbanization.
 
-{| class="wikitable"
-|-
-! Year !! Population !! Notes
-|-
-| 0 CE || ~8,000 || Small coastal and highland communities.
-|-
-| 500 CE || ~22,000 || Pre-unification growth across the two tribal zones.
-|-
-| 516 CE || ~19,000 || Yukubara and the start of the calendar era.
-|-
-| 1143 CE || ~29,000 || Great hurricane and shift to inland reconstruction.
-|-
-| 1400 CE || ~40,000 || Pre-contact peak.
-|-
-| 1500 CE || ~35,000 || Late pre-colonial peak easing before contact.
-|-
-| 1538 CE || ~25,000–28,000 || Great Pestilence period.
-|-
-| 1547 CE || ~25,000 || Post-pestilence stabilization.
-|}
+{{Historical populations
+| title = Population history of Guajicutea
+| width = 300px
+| 0 CE | 8,000
+| 500 CE | 22,000
+| 516 CE | 19,000
+| 1143 CE | 29,000
+| 1400 CE | 40,000
+| 1500 CE | 35,000
+| 1538 CE | 25,000–28,000
+| 1547 CE | 25,000
+| footnote = Early population estimates are approximate.
+}}
 
 The modern population boom began after the Third Republic's reconstruction period. The 1950 census recorded 490,000 residents, and the island then grew quickly through the baby-boom era, rural-to-urban migration, immigration, and state-led reconstruction. Growth accelerated again in the 1950s and 1960s, slowed during the late twentieth-century crisis years, and then returned to moderate service-led expansion after 2000.
 
@@ -120,7 +113,7 @@ Guajicutea's population is ethnically diverse, but Guaji identity remains the la
 |-
 | [[Guaji people|Guaji]] || 54% || ~53% || Largest group; still the demographic core of the island.
 |-
-| [[Bayani Gaujicutean people|Bayani]] || 14% || ~12% || Concentrated in urban labour and service communities.
+| [[Bayani Guajicutean people|Bayani]] || 14% || ~12% || Concentrated in urban labour and service communities.
 |-
 | [[Kaftian Guajicutean people|Kaftian]] || 14% || ~12% || Expanded through postwar migration and urban settlement.
 |-
@@ -145,11 +138,26 @@ Minority languages survive in some immigrant communities, especially in older Ba
 
 == Religion ==
 
-Guajicutea's religious life is mixed and layered. The largest share of the population is nominally Catholic, but the local form of Catholicism has long been shaped by Guaji traditions, especially the older sea-mountain-sky cosmology and the continuing cultural authority of the calendar, cremation memory, and sacred landscape.
+Guajicutea's religious life is mixed and layered. Roughly two-thirds of residents are [[Christianity in Guajicutea|Petran Catholic]], making it the largest faith by far. Bayani communities account for most of the island's [[Sunni Islam|Sunni Muslims]], so [[Sunni Islam]] is the largest minority religion. [[Three Powers faith|Traditional Guaji beliefs]] remain active in rural districts and in family ritual, while [[Three Powers Revival|a revived Guaji system]] has become more visible among younger urban residents. [[Tianism]], mostly associated with Zong-descended communities, makes up about 1% of the population. The remainder is largely secular or unaffiliated.
 
-Traditional Guaji practice remains strongest in rural districts, in some coastal communities, and in families that continue to participate in older ritual cycles. Urban residents are more likely to be secular or loosely affiliated, and public religious identity is often more cultural than doctrinal.
+{| class="wikitable"
+|-
+! Religion !! Share
+|-
+| [[Christianity in Guajicutea|Petran Catholicism]] || 66%
+|-
+| [[Islam in Guajicutea|Sunni Islam]] || 10%
+|-
+| [[Warí faith in Guajicutea|Warí faith]] || 9%
+|-
+| [[Warí Revival in Guajicutea|Warí Revival]] || 8%
+|-
+| [[Tianism in Guajicutea|Tianism]] || 1%
+|-
+| Secular / unaffiliated || 6%
+|}
 
-The result is not a simple divide between church and tradition, but a layered religious field in which Guaji syncretic Catholicism, Sartan Catholicism, folk ritual, and secular identity all coexist.
+The result is not a simple divide between church and tradition, but a layered religious field in which [[Christianity in Guajicutea|Petran Catholicism]], [[Islam in Guajicutea|Sunni Islam]], [[Warí faith in Guajicutea|Warí faith]], [[Warí Revival in Guajicutea|Warí Revival]], [[Tianism in Guajicutea|Tianism]], and secular identity all coexist.
 
 == Age structure and fertility ==
 
@@ -240,4 +248,6 @@ These pressures mean that modern demographic policy is no longer about rapid exp
 * [[Economy of Guajicutea]]
 * [[Waribá]]
 * [[Tabakurí]]
+
+{{Guajicutea topics}}
 * [[Sarta]]
