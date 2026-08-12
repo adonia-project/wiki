@@ -1,8 +1,8 @@
 {{Short description|Local administrative subdivisions of Guajicutea}}
 
-The '''municipalities of the Republic of Guajicutea''' are the island state's 65 local administrative units. They sit below the 17 districts and are used for municipal government, land registry, census reporting, and local service delivery. In the current layer, only three urban clusters are tagged as cities: [[Waribá]], [[Tabakurí]], and [[Barikú]]. Larger urban places such as [[Waku Bá]] and [[Yukubá]] remain municipalities rather than city-tagged clusters.
+The '''municipalities of the Republic of Guajicutea''' are the island state's 63 local administrative units. They sit below the 17 districts and are used for municipal government, land registry, census reporting, and local service delivery. In the current layer, only three urban clusters are tagged as cities: [[Waribá]], [[Tabakurí]], and [[Barikú]]. Larger urban places such as [[Waku Bá]] and [[Yukubá]] remain municipalities rather than city-tagged clusters.
 
-District boundaries remain the main units for Assembly apportionment, but municipality names and populations are the working layer used for local administration.
+District boundaries remain the main units for Assembly apportionment, but the table below lists all 63 municipalities with their district, population, and ciudad tag.
 
 == Overview ==
 
@@ -10,57 +10,155 @@ District boundaries remain the main units for Assembly apportionment, but munici
 |-
 ! Statistic !! Value !! Notes
 |-
-| Total municipalities || 65 || Current municipal layer
+| Total municipalities || 63 || Current municipal layer
 |-
 | City-linked municipalities || 15 || [[Waribá]] (11), [[Tabakurí]] (2), [[Barikú]] (2)
 |-
-| Non-city municipalities || 50 || Rural and small-town municipalidades
+| Non-city municipalities || 48 || Rural and small-town municipalidades
 |-
 | Major urban centres not tagged as cities || 2 || [[Waku Bá]] and [[Yukubá]]
 |}
 
-== Municipalities by district ==
+== Municipalities ==
+
+The table below lists all 63 municipalities with their district, population, and ciudad tag.
 
 {| class="wikitable sortable"
 |-
-! District !! Total !! City-linked municipalities !! Other municipalidades
+! Municipality !! District !! Population !! Ciudad
 |-
-| [[Barian]] || 3 || — || Waku Bá; Yayawaku; Kuribuka
+| Kuribuka || [[Barian]] || 16,912 || —
 |-
-| [[Barikan]] || 5 || — || Yukubá; Wakumoku; Kurubari; Yukuguma; Kariyuku
+| Waku Bá || [[Barian]] || 260,481 || —
 |-
-| [[Bukan]] || 2 || — || Kuriá; Mokuí
+| Yayawaku || [[Barian]] || 24,826 || —
 |-
-| [[Caracuran]] || 3 || — || Yukumí; Barimá; Kariwaku
+| Kariyuku || [[Barikan]] || 8,191 || —
 |-
-| [[Ganan]] || 9 || [[Waribá]] (5) || San Evaristo; Bukamaku; Gumawari; Barikuri
+| Kurubari || [[Barikan]] || 17,649 || —
 |-
-| [[Guanaran]] || 2 || — || Gumaí; Wakurí
+| Wakumoku || [[Barikan]] || 29,981 || —
 |-
-| [[Karuban]] || 2 || — || Bakaí; Yabí
+| Yukubá || [[Barikan]] || 112,063 || —
 |-
-| [[Kurun]] || 5 || — || Kuriguma; Makubuka; Yukukari; Barimoku; Bikayaya
+| Yukuguma || [[Barikan]] || 17,113 || —
 |-
-| [[Makuan]] || 3 || [[Waribá]] (1) || San Román; Bikabá
+| Kuriá || [[Bukan]] || 20,847 || —
 |-
-| [[Taban]] || 4 || — || Santa Clara; Makuwaku; Wakayaya; Kurimoku
+| Mokuí || [[Bukan]] || 12,955 || —
 |-
-| [[Trogonan]] || 3 || [[Barikú]] (2) || Bikumá
+| Barimá || [[Caracuran]] || 18,359 || —
 |-
-| [[Venturan]] || 3 || [[Tabakurí]] (2) || San Gabriel
+| Kariwaku || [[Caracuran]] || 10,928 || —
 |-
-| [[Wakunan]] || 3 || — || Wakuyuku; Bariguma; Makukari
+| Yukumí || [[Caracuran]] || 20,036 || —
 |-
-| [[Wariban]] || 12 || [[Waribá]] (5) || San Aurelio; Santa Catalina; Mokuwari; Karibuka; Yayayuku; Bukawaku; Gumakuri
+| Barikuri || [[Ganan]] || 13,294 || —
 |-
-| [[Warikú]] || 1 || — || Warikú
+| Bukamaku || [[Ganan]] || 20,011 || —
 |-
-| [[Yakuban]] || 2 || — || Wariá; Bukaí
+| Gumawari || [[Ganan]] || 17,498 || —
 |-
-| [[Yukuman]] || 3 || — || Yukubari; Kariguma; Mokuyaya
+| Parú || [[Ganan]] || 216,043 || [[Waribá]]
+|-
+| San Evaristo || [[Ganan]] || 20,023 || —
+|-
+| Santa Isabel || [[Ganan]] || 70,714 || [[Waribá]]
+|-
+| Santa Lucía || [[Ganan]] || 183,053 || [[Waribá]]
+|-
+| Santa Rosa || [[Ganan]] || 81,531 || [[Waribá]]
+|-
+| Waribá Central || [[Ganan]] || 124,023 || [[Waribá]]
+|-
+| Gumaí || [[Guanaran]] || 18,532 || —
+|-
+| Wakurí || [[Guanaran]] || 17,629 || —
+|-
+| Bakaí || [[Karuban]] || 44,880 || —
+|-
+| Yabí || [[Karuban]] || 28,939 || —
+|-
+| Barimoku || [[Kurun]] || 14,167 || —
+|-
+| Bikayaya || [[Kurun]] || 13,817 || —
+|-
+| Kuriguma || [[Kurun]] || 19,018 || —
+|-
+| Makubuka || [[Kurun]] || 18,451 || —
+|-
+| Yukukari || [[Kurun]] || 15,156 || —
+|-
+| Bikabá || [[Makuan]] || 19,836 || —
+|-
+| San Ramón || [[Makuan]] || 43,736 || [[Waribá]]
+|-
+| San Román || [[Makuan]] || 24,615 || —
+|-
+| Kurimoku || [[Taban]] || 9,227 || —
+|-
+| Makuwaku || [[Taban]] || 20,100 || —
+|-
+| Santa Clara || [[Taban]] || 25,729 || —
+|-
+| Wakayaya || [[Taban]] || 13,973 || —
+|-
+| Barikú || [[Trogonan]] || 136,942 || [[Barikú]]
+|-
+| Bikumá || [[Trogonan]] || 28,955 || —
+|-
+| San Rafael || [[Trogonan]] || 56,718 || [[Barikú]]
+|-
+| San Gabriel || [[Venturan]] || 33,172 || —
+|-
+| San Joaquín || [[Venturan]] || 74,464 || [[Tabakurí]]
+|-
+| Tabakurí || [[Venturan]] || 97,240 || [[Tabakurí]]
+|-
+| Bariguma || [[Wakunan]] || 15,747 || —
+|-
+| Makukari || [[Wakunan]] || 11,742 || —
+|-
+| Wakuyuku || [[Wakunan]] || 17,718 || —
+|-
+| Bukawaku || [[Wariban]] || 21,412 || —
+|-
+| Gumakuri || [[Wariban]] || 6,157 || —
+|-
+| Karibuka || [[Wariban]] || 30,769 || —
+|-
+| Mokuwari || [[Wariban]] || 33,126 || —
+|-
+| San Aurelio || [[Wariban]] || 34,433 || —
+|-
+| San Miguel || [[Wariban]] || 101,824 || [[Waribá]]
+|-
+| San Pedro || [[Wariban]] || 49,104 || [[Waribá]]
+|-
+| San Ventura || [[Wariban]] || 74,954 || [[Waribá]]
+|-
+| Santa Ana || [[Wariban]] || 118,298 || [[Waribá]]
+|-
+| Santa Catalina || [[Wariban]] || 34,071 || —
+|-
+| Santa Cruz || [[Wariban]] || 45,043 || [[Waribá]]
+|-
+| Yayayuku || [[Wariban]] || 29,143 || —
+|-
+| Warikú || [[Warikú]] || 15,551 || —
+|-
+| Bukaí || [[Yakuban]] || 17,801 || —
+|-
+| Wariá || [[Yakuban]] || 23,338 || —
+|-
+| Kariguma || [[Yukuman]] || 22,985 || —
+|-
+| Mokuyaya || [[Yukuman]] || 18,125 || —
+|-
+| Yukubari || [[Yukuman]] || 28,951 || —
 |}
 
-The municipality layer therefore divides Guajicutea into one small island district and sixteen mainland districts, with the densest urban municipalidades concentrated in the Waribá corridor and the Tabakurí–Barikú axis. The largest non-city municipality is [[Waku Bá]], while [[Yukubá]] remains the principal southwest municipal centre outside the city-tagged cluster system.
+The municipality layer therefore divides Guajicutea into 63 municipalities across one small island district and sixteen mainland districts, with the densest urban municipalidades concentrated in the Waribá corridor and the Tabakurí–Barikú axis. The largest non-city municipality is [[Waku Bá]], while [[Yukubá]] remains the principal southwest municipal centre outside the city-tagged cluster system.
 
 == See also ==
 
