@@ -1,13 +1,58 @@
 {
+  "Barina": {
+    "direction": "push",
+    "hash": "f3ee5c50bad9a88c73ab950bb4dfb253c013c6ffd0e69e2124f1be2c39309706",
+    "last_sync": "2026-08-07T18:24:18.112718+00:00"
+  },
+  "Bariña": {
+    "direction": "push",
+    "hash": "5812776d231ee6e9a6377864f953f5d50da62c0919bb0bc60f5f92ca4c69fdd6",
+    "last_sync": "2026-08-07T18:48:15.363571+00:00"
+  },
+  "Bikuismo movement": {
+    "direction": "push",
+    "hash": "36eafba795f4982248db2e2872596b8f7974af9baea34a4b987e0f798004a180",
+    "last_sync": "2026-08-07T23:23:40.265820+00:00"
+  },
+  "Bikumaku": {
+    "direction": "push",
+    "hash": "5e66d43a2edcde999128b6fefccb93e0a03e16ad713a687aaa1c90d04057df58",
+    "last_sync": "2026-08-07T23:23:41.401198+00:00"
+  },
+  "Bikumaku Language Act": {
+    "direction": "push",
+    "hash": "8929507c8775ef89cfe9365e963f47025290d48c5ad95214c055bb322e83e254",
+    "last_sync": "2026-08-07T23:23:45.361597+00:00"
+  },
+  "Bohíque": {
+    "direction": "push",
+    "hash": "3bed2c993f51a1d96018b7af8178867058c7ad286876fe6992bf3aef03f48dc1",
+    "last_sync": "2026-08-07T23:25:19.877449+00:00"
+  },
+  "Christianity in Guajicutea": {
+    "direction": "push",
+    "hash": "1c38180ea83693ae6ec65ba69a2a37fc35bc23db4c541b34740d65b8973a6c1c",
+    "last_sync": "2026-08-07T22:22:21.826746+00:00"
+  },
+  "Compañía Nacional de Licores de Guajicutea": {
+    "direction": "push",
+    "hash": "d25f3ff3f21979ab25065f4ae192f1e1ad1357a3eea8fb5cbc201e0ce1d4013d",
+    "last_sync": "2026-08-07T18:40:53.688643+00:00"
+  },
   "Demographics of Guajicutea": {
     "direction": "push",
-    "hash": "dcd34f98c0ee9e1eb852c533b14c51e129c63d411d4612feb8e3c7a0e6330b35",
-    "last_sync": "2026-08-06T21:45:00.955365+00:00"
+    "hash": "779a463dd952f92cc744a47857d25bd951c0f79b67fe0abc1caed53a5505be65",
+    "last_sync": "2026-08-10T19:57:24.577791+00:00"
+  },
+  "Districts of the Republic of Guajicutea": {
+    "direction": "pull",
+    "hash": "bd05832483935be5991a7a228e645597ec23eabf2f9287215a01b95b20dc56bd",
+    "last_sync": "2026-08-10T21:32:05.116545+00:00"
   },
   "Economy of Guajicutea": {
     "direction": "push",
-    "hash": "7977fa68759a46d65fc11f0f2b793c595d347503208e34b9ee3c0024b613b82b",
-    "last_sync": "2026-08-06T21:18:38.837927+00:00"
+    "hash": "d020afbf0926718b995b8db1d324e24155378984343194aad07c01d50d9d42bc",
+    "last_sync": "2026-08-10T19:57:27.194002+00:00"
   },
   "Esteban Makurí": {
     "direction": "push",
@@ -16,28 +61,33 @@
   },
   "First Capuyaquiran War": {
     "direction": "push",
-    "hash": "17dd3c00685fe00acf6b6841aab77417a6faa6c9c6afe9a3b5cb83293b6b15a2",
-    "last_sync": "2026-08-02T03:04:43.101506+00:00"
+    "hash": "fda8669bdbf8ccb5f3acf43f0f36434c3fbd548e65ca3725a5708df1e01a3537",
+    "last_sync": "2026-08-07T22:41:07.534051+00:00"
+  },
+  "Guaji language": {
+    "direction": "push",
+    "hash": "5fff3d65df290c65ee9da259efa74d0575edf3b3a74560db334414eec34b9453",
+    "last_sync": "2026-08-07T23:23:43.067555+00:00"
   },
   "History of Guajicutea (1392-1520)": {
     "direction": "push",
-    "hash": "d32841f671584925b6678ad4105023f0ccd6ada644eb106afcbd80cf683566a0",
-    "last_sync": "2026-08-02T03:04:44.428700+00:00"
+    "hash": "b6e12d1f7c56639b6d267eea0cc9ef814a84b082a46e29e17ea58830f6bcb4b6",
+    "last_sync": "2026-08-07T22:41:08.814122+00:00"
   },
   "History of Guajicutea (1520-1538)": {
     "direction": "push",
-    "hash": "d24c0f30035db391cda3fd15aeb6805f7ecdc10bd65b85427534097a3b7eddcd",
-    "last_sync": "2026-08-03T18:26:52.527349+00:00"
+    "hash": "da4eab2f2996371e5244a44fa033353023ebbc7a2e15d9ea760f15e17ff7e049",
+    "last_sync": "2026-08-07T22:41:10.123548+00:00"
   },
   "History of Guajicutea (1538-1547)": {
     "direction": "push",
-    "hash": "6ba4ee28bcd0bf1c8e7814a00739c7ceb716d0c3f6cb542d9a914704bcb79feb",
-    "last_sync": "2026-08-03T22:07:19.721678+00:00"
+    "hash": "59ce46efa50d898f90483382194b622fabd032fb17c9f9dc476a55bdd8317e63",
+    "last_sync": "2026-08-07T22:41:11.446830+00:00"
   },
   "History of Guajicutea (1547-1555)": {
     "direction": "push",
-    "hash": "20715068e89312fb29c78004b9695500b49d3e029a40268b96e695b37f404f3b",
-    "last_sync": "2026-08-03T22:07:20.901533+00:00"
+    "hash": "4fe2ae9b411fce20e388758b9c068ed4dc1478dcea4c99621bd46aaa0ff1b5f8",
+    "last_sync": "2026-08-07T22:41:12.620189+00:00"
   },
   "History of Guajicutea (1555-1575)": {
     "direction": "push",
@@ -46,93 +96,93 @@
   },
   "History of Guajicutea (1555-1590)": {
     "direction": "push",
-    "hash": "01b17ef8540acaed568a226ef0518d917071d1e6d6fb551ac31c814eee11d11c",
-    "last_sync": "2026-08-03T22:07:21.915584+00:00"
+    "hash": "5eb38ede37ebfef3860bc42275b5f768b3083ce371cb09d686ac6683ce0f19a6",
+    "last_sync": "2026-08-07T22:41:14.075420+00:00"
   },
   "History of Guajicutea (1590-1609)": {
     "direction": "push",
-    "hash": "80985748fbbc65e936218f67ac35af8304e0264943e0c91ec37b6b9e295a414b",
-    "last_sync": "2026-08-03T22:07:22.967452+00:00"
+    "hash": "1230b47de414b563e57731a377354a354f067badbae9d21888c8a4024da3a199",
+    "last_sync": "2026-08-07T22:41:15.275681+00:00"
   },
   "History of Guajicutea (1609-1630)": {
     "direction": "push",
-    "hash": "b8f47189901ec92cf364ea38c3d124d648facd42b224bfd1257ab0e7fad43593",
-    "last_sync": "2026-08-03T23:49:29.349618+00:00"
+    "hash": "502d39c952127ab526c8f7586ac16abe3b9168e7469a249233c27be3d8580b8d",
+    "last_sync": "2026-08-07T22:41:16.512785+00:00"
   },
   "History of Guajicutea (1630-1683)": {
     "direction": "push",
-    "hash": "52a07bf11a828617e3e6604eb13ea6544798599c18256fa22cd6f3cbbc72b2f6",
-    "last_sync": "2026-08-05T20:08:19.441045+00:00"
+    "hash": "850eb47d4fd0e44947eef86a45b2967193c6f6780643378fe106e9dddb45f335",
+    "last_sync": "2026-08-07T22:41:17.873254+00:00"
   },
   "History of Guajicutea (1683-1705)": {
     "direction": "push",
-    "hash": "7fd876d773c58f8d7618e367dc3b105f7ea5f86a215e7a4ae99676bde5e3709f",
-    "last_sync": "2026-08-05T20:08:20.678585+00:00"
+    "hash": "e81a81b22bef51f9d88c6c20cac12d98d3055a52f0a41664be6ff01bc9b4b1d6",
+    "last_sync": "2026-08-07T22:41:19.103887+00:00"
   },
   "History of Guajicutea (1705-1723)": {
     "direction": "push",
-    "hash": "7b4245d4f62287f3c2ff6f4e7221fe462c41ceaa139470bb8c9ec3c403ef5903",
-    "last_sync": "2026-08-05T20:08:21.737907+00:00"
+    "hash": "0c91f032a17c65976bee6c2de547df1d1d2d72a0a412c0c8c017ada7268eb134",
+    "last_sync": "2026-08-07T22:41:20.355749+00:00"
   },
   "History of Guajicutea (1723-1768)": {
     "direction": "push",
-    "hash": "609aeaa7dd065570f76caea9c1bf1baee1dcd168f767dba9c24798071a94cf22",
-    "last_sync": "2026-08-03T23:59:42.529666+00:00"
+    "hash": "c35389974bc737f7a74645d7c71ce66f9184fbd45b1af5f6aa660d18fd7bd97a",
+    "last_sync": "2026-08-07T22:41:21.621561+00:00"
   },
   "History of Guajicutea (1768-1801)": {
     "direction": "push",
-    "hash": "ca649df716ee017e2720a716865adff5c6395072a723d2a2f3754825356b3eb3",
-    "last_sync": "2026-08-04T19:36:34.725119+00:00"
+    "hash": "7cd26da4ebe86b5b3870fff97a65bcd8cbfba7661371bedaf694b042b872818f",
+    "last_sync": "2026-08-07T22:41:22.793133+00:00"
   },
   "History of Guajicutea (1801-1812)": {
     "direction": "push",
-    "hash": "6cdc68c6a0257184de3f1d3cdfc19488e922b7514c0155d26a1b63ff46a10a6f",
-    "last_sync": "2026-08-04T20:27:55.833906+00:00"
+    "hash": "fbc2b949a13070e6871973e909560f0605e98ff3df210906388d19fdf50c5109",
+    "last_sync": "2026-08-07T22:41:24.024485+00:00"
   },
   "History of Guajicutea (1812-1824)": {
     "direction": "push",
-    "hash": "6df20829413601e5bacc666e30e352aeecaa1a6b81eba87c1400a136e832efdd",
-    "last_sync": "2026-08-04T20:54:10.738069+00:00"
+    "hash": "6e7eb32c51722c8b64f184dc3bf5c653a05537ecbdc743f1b4923d61d44a42a3",
+    "last_sync": "2026-08-07T22:41:25.178312+00:00"
   },
   "History of Guajicutea (1824-1853)": {
     "direction": "push",
-    "hash": "ed2a330c93d53d67f45e84af037f7542569b4e2b48482972f27877866b460e98",
-    "last_sync": "2026-08-05T20:08:22.859223+00:00"
+    "hash": "a3c9e0194abfda64a45d3d96ba1d151f4dc291a46ff409cca394c1aa98259467",
+    "last_sync": "2026-08-07T22:41:26.491635+00:00"
   },
   "History of Guajicutea (1853-1875)": {
     "direction": "push",
-    "hash": "8b8deb1a5cdeed02ce478aec8894b35f48e7fe8a7e929903a65d21763f98c658",
-    "last_sync": "2026-08-05T00:34:13.382495+00:00"
+    "hash": "5ee17616392d5ea70cbe758242bcf0ffc26d1a1d592f36491206f8e1c004cc81",
+    "last_sync": "2026-08-07T22:41:27.692758+00:00"
   },
   "History of Guajicutea (1875-1905)": {
     "direction": "push",
-    "hash": "ee46d9cc2150243dab95f15dc9e308f9ae743623e85d616af51a6e97c01c88da",
-    "last_sync": "2026-08-05T20:08:23.873398+00:00"
+    "hash": "d14345ca34d0bf720539af1f7f10eb30f667286e90acb313c1701e2507617244",
+    "last_sync": "2026-08-07T22:41:28.874970+00:00"
   },
   "History of Guajicutea (1905-1917)": {
     "direction": "push",
-    "hash": "9ad6d1691286445b020c62fe842caaadbb344c8e75162ea41a379a67d7db0e9d",
-    "last_sync": "2026-08-05T20:29:18.512748+00:00"
+    "hash": "93ea54054122975d05f09cb7e23220efcd85cd80ce2c16a9b3760060b7aaeb46",
+    "last_sync": "2026-08-07T22:41:29.982837+00:00"
   },
   "History of Guajicutea (1917-1935)": {
     "direction": "push",
-    "hash": "a01a985ef32e62d8b1fada997227749dcb9c8726a867fc09449a9d9218484b53",
-    "last_sync": "2026-08-05T20:49:01.870386+00:00"
+    "hash": "3750f15a974d224445e56a7c779b30329680762baeefa109b06da40404e86f21",
+    "last_sync": "2026-08-07T22:41:31.351980+00:00"
   },
   "History of Guajicutea (1935-1947)": {
     "direction": "push",
-    "hash": "5dd69e0834bddf5684e576942913b59df2a0a0f408cf1c8215b71876b3166e43",
-    "last_sync": "2026-08-05T23:36:45.819177+00:00"
+    "hash": "869c6f16fed06d639dc6075350985cb453dc45304abf6286ab193273593a1a6c",
+    "last_sync": "2026-08-07T22:41:32.930118+00:00"
   },
   "History of Guajicutea (1947-1968)": {
     "direction": "push",
-    "hash": "58c1fde4916a3274de627be74d26ec7a3c8032047e54fb0327e0be207b5a2552",
-    "last_sync": "2026-08-05T23:54:46.238256+00:00"
+    "hash": "93aca2560e1454e0713e231d6eda1dc38b64c0e88dcfe4b479048d5fcbce730f",
+    "last_sync": "2026-08-07T22:41:34.511289+00:00"
   },
   "History of Guajicutea (1968-1976)": {
     "direction": "push",
-    "hash": "2bfa4a2a78fdb50fe981e2708adb4c22d91066f89f6d81b166f1bd82ef977fa2",
-    "last_sync": "2026-08-06T20:25:42.228756+00:00"
+    "hash": "feee78de0ada7aa78c8aa02daa5873e4cb64846ea91cddc446015f33fcb85754",
+    "last_sync": "2026-08-07T22:41:35.686260+00:00"
   },
   "History of Guajicutea (1976-1992)": {
     "direction": "push",
@@ -141,32 +191,82 @@
   },
   "History of Guajicutea (1976-2000)": {
     "direction": "push",
-    "hash": "692dc6ef92c8b5a9b9c0e5fefb830c019101115809871cef0abc141a0e0e0ce1",
-    "last_sync": "2026-08-06T20:40:34.345638+00:00"
+    "hash": "b1e24165386ce7ab7169eb80113718326ee65ac1128189a2b7163ec573ebe250",
+    "last_sync": "2026-08-07T22:41:36.826926+00:00"
   },
   "History of Guajicutea (2000-2012)": {
     "direction": "push",
-    "hash": "7ca6ab439039b50b0938dae893ae444a286c33513e98180374ea90c181affdcf",
-    "last_sync": "2026-08-06T20:52:58.248601+00:00"
+    "hash": "adbfa499cbba7854fdb048343edc678723f30c01df4971e75be1987f91fe6410",
+    "last_sync": "2026-08-07T22:41:38.025771+00:00"
   },
   "History of Guajicutea (2012-2020)": {
     "direction": "push",
-    "hash": "07be01d6acd36aa1d15fc0897dbe48d8c332667f292978a44ff48264b5fcad61",
-    "last_sync": "2026-08-06T21:45:02.113880+00:00"
+    "hash": "374b40443b9fe3d83f9b1b49b6cb6b81c2769103738aea9edaa1f45f21263190",
+    "last_sync": "2026-08-07T22:41:39.255905+00:00"
   },
   "History of Guajicutea (2020-present)": {
     "direction": "push",
-    "hash": "5edce15e1edabc515b46c4e5e11d496291bde01fc8ba9a39744134636cc5acd4",
-    "last_sync": "2026-08-06T21:07:04.802359+00:00"
+    "hash": "2cd5b95176f19ba99b14ba04dbf5a261ce58bcfba5427bb432a1516455a36ed7",
+    "last_sync": "2026-08-07T22:41:40.437985+00:00"
+  },
+  "Islam in Guajicutea": {
+    "direction": "push",
+    "hash": "8ced3debd10a738e07716cdaf224d0acd412dfc058dcebf769d9f3923db0626f",
+    "last_sync": "2026-08-07T23:11:41.614786+00:00"
   },
   "Kingdom of Guajicutea": {
     "direction": "push",
-    "hash": "bc00303fe464c664c541feac132244280d595dbebb6253a4228e65c18a767a46",
-    "last_sync": "2026-08-03T22:04:13.084052+00:00"
+    "hash": "544a7b2ab3e31e4eb68c08ed22dda88b1a11333b89b1b4f71b81bc50da5e3903",
+    "last_sync": "2026-08-07T22:41:42.250602+00:00"
+  },
+  "Lidia Bikarí": {
+    "direction": "push",
+    "hash": "94b2a9dc826fe0fb9460913941c2aee6bf2a0a18fb2941c174c9d9246f27e079",
+    "last_sync": "2026-08-07T23:25:19.044543+00:00"
+  },
+  "Petran Catholicism": {
+    "direction": "push",
+    "hash": "d28ccedc5d76d661f726e6d9ff2003a90e5d6dce7e3105d39cfd7454824da55b",
+    "last_sync": "2026-08-07T19:06:02.942863+00:00"
+  },
+  "Politics of Guajicutea": {
+    "direction": "push",
+    "hash": "aea968473f07e17e01b1bd0fa8246547c52930886a8841990017d141ba771978",
+    "last_sync": "2026-08-07T23:49:12.323549+00:00"
   },
   "Sartan Guajicutea": {
     "direction": "push",
-    "hash": "d8b218091d7e52a27ece13fa7a60700ce54dd9d8b13f05fbeb5c6e8d9c0f715b",
-    "last_sync": "2026-08-05T20:08:26.774653+00:00"
+    "hash": "782724b1e2e1702fb135eb7486df594861256ff6d82c3a96e7423364de0e4e99",
+    "last_sync": "2026-08-07T22:41:44.092639+00:00"
+  },
+  "Sunni Islam": {
+    "direction": "push",
+    "hash": "19a01f612230170d781ee0f8136097f4f7ce7b32732975c6d9d49f253b048a19",
+    "last_sync": "2026-08-07T19:06:03.761547+00:00"
+  },
+  "Template:Guajicutea topics": {
+    "direction": "push",
+    "hash": "1f6c27292ddcac1c837f58236241d51a02ee720ec7ae4b4956f8dc259ff8537b",
+    "last_sync": "2026-08-07T23:23:44.356771+00:00"
+  },
+  "Three Powers Revival": {
+    "direction": "push",
+    "hash": "34fc02855a7674fabb3f6c633b431a424b6901b8f02b10890b97324660ef1f12",
+    "last_sync": "2026-08-07T19:06:04.718920+00:00"
+  },
+  "Three Powers faith": {
+    "direction": "push",
+    "hash": "4eb24093f91dc1545bb82816d6ca46abea4e3bdbce68eb8baf9a615956a61acd",
+    "last_sync": "2026-08-07T19:06:05.463065+00:00"
+  },
+  "Tianism": {
+    "direction": "push",
+    "hash": "8f5bcfdd627c824c703aef624879e28e7261d7a3c164f22d0b97c999ac28f0cf",
+    "last_sync": "2026-08-07T19:06:06.288057+00:00"
+  },
+  "Wariguma": {
+    "direction": "push",
+    "hash": "cc6c0714f31d9d5a6d5f849d047587b032eea4510fa04aee47f8d04e0f9a78ad",
+    "last_sync": "2026-08-07T18:55:15.767123+00:00"
   }
 }
