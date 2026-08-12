@@ -224,6 +224,16 @@
     "hash": "94b2a9dc826fe0fb9460913941c2aee6bf2a0a18fb2941c174c9d9246f27e079",
     "last_sync": "2026-08-07T23:25:19.044543+00:00"
   },
+  "May Revolution (Guajicutea)": {
+    "direction": "push",
+    "hash": "86e6f3491e6353396a5d1b79b610e175186e56900aecb162b455c515f05e8d9b",
+    "last_sync": "2026-08-11T19:29:44.534199+00:00"
+  },
+  "Municipalities of the Republic of Guajicutea": {
+    "direction": "push",
+    "hash": "71948874784c3732535a76743656d223152ed2dc5c9dcd0e97773da2b5f2427b",
+    "last_sync": "2026-08-12T21:02:43.835842+00:00"
+  },
   "Petran Catholicism": {
     "direction": "push",
     "hash": "d28ccedc5d76d661f726e6d9ff2003a90e5d6dce7e3105d39cfd7454824da55b",
@@ -233,11 +243,6 @@
     "direction": "push",
     "hash": "aea968473f07e17e01b1bd0fa8246547c52930886a8841990017d141ba771978",
     "last_sync": "2026-08-07T23:49:12.323549+00:00"
-  },
-  "May Revolution (Guajicutea)": {
-    "direction": "push",
-    "hash": "86e6f3491e6353396a5d1b79b610e175186e56900aecb162b455c515f05e8d9b",
-    "last_sync": "2026-08-11T19:29:44.534199+00:00"
   },
   "Sartan Guajicutea": {
     "direction": "push",
