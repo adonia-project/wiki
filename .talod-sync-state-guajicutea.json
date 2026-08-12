@@ -45,8 +45,8 @@
     "last_sync": "2026-08-10T19:57:24.577791+00:00"
   },
   "Districts of the Republic of Guajicutea": {
-    "direction": "pull",
-    "hash": "bd05832483935be5991a7a228e645597ec23eabf2f9287215a01b95b20dc56bd",
+    "direction": "push",
+    "hash": "fd7118c17fd80d68ebeb28eb3407808d46e127dcefdbbfc32909923bdfec078a",
     "last_sync": "2026-08-10T21:32:05.116545+00:00"
   },
   "Economy of Guajicutea": {
@@ -196,8 +196,8 @@
   },
   "History of Guajicutea (2000-2012)": {
     "direction": "push",
-    "hash": "adbfa499cbba7854fdb048343edc678723f30c01df4971e75be1987f91fe6410",
-    "last_sync": "2026-08-07T22:41:38.025771+00:00"
+    "hash": "666dff7d6acfca06c6b03859ff10cd24be1d06e93a90512dee36b498975fcf08",
+    "last_sync": "2026-08-11T18:20:47.798961+00:00"
   },
   "History of Guajicutea (2012-2020)": {
     "direction": "push",
@@ -233,6 +233,11 @@
     "direction": "push",
     "hash": "aea968473f07e17e01b1bd0fa8246547c52930886a8841990017d141ba771978",
     "last_sync": "2026-08-07T23:49:12.323549+00:00"
+  },
+  "May Revolution (Guajicutea)": {
+    "direction": "push",
+    "hash": "86e6f3491e6353396a5d1b79b610e175186e56900aecb162b455c515f05e8d9b",
+    "last_sync": "2026-08-11T19:29:44.534199+00:00"
   },
   "Sartan Guajicutea": {
     "direction": "push",

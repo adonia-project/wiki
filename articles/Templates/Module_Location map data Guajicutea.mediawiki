@@ -1,0 +1,8 @@
+return {
+    name = 'Guajicutea',
+    top = 6.5450,
+    bottom = 5.5104,
+    left = -83.4262,
+    right = -82.6514,
+    image = 'Guajicutea location map.svg'
+}

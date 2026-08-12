@@ -1,0 +1,23 @@
+<noinclude>
+This template places a location dot and optional label on the Guajicutea map.
+
+Usage:
+{{Guajicutea location
+| x = 300
+| y = 200
+| label = City Name
+| label_position = top
+}}
+
+XY coordinates are relative to the top-left corner of the map (when scaled to 1000px width).
+</noinclude><includeonly>{{Location mark
+| image = Guajicutea location map.svg
+| width = {{{width|300}}}
+| mark = Red pog.svg
+| marksize = 6
+| x = {{{x|}}}
+| y = {{{y|}}}
+| label = {{{label|}}}
+| label_position = {{{label_position|top}}}
+| background = transparent
+}}</includeonly>
