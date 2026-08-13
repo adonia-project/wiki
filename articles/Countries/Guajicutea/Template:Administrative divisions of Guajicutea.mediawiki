@@ -1,0 +1,25 @@
+{{Sidebar
+|name = Administrative divisions of Guajicutea
+|title = [[Administrative divisions of the Republic of Guajicutea|Administrative divisions<br/>of Guajicutea]]
+|width = 20em
+|wraplinks = true
+|titlestyle = padding-bottom:0.6em;
+|headingstyle = background:#ddf;
+|contentclass = plainlist
+|contentstyle = padding:0.15em 0 0.6em;
+|heading1 = Districtos
+|content1 =
+* [[Districts of the Republic of Guajicutea|Districts]] (''districtos'')
+|heading2 = Ciudades
+|content2 =
+* [[Waribá]]† (''ciudad'')
+* [[Barikú]]† (''ciudad'')
+* [[Tabakurí]]† (''ciudad'')
+|heading3 = Municipalidads
+|content3 =
+* [[Municipalities of the Republic of Guajicutea|Municipalities]] (''municipalidads'')
+|heading4 = Barrios
+|content4 =
+* Barrios (''barrios'')
+|below = Note: {{nobold|† Special urban system created later to coordinate shared services across multiple municipalidades}}
+}}

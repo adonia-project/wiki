@@ -1,4 +1,9 @@
 {
+  "Administrative divisions of the Republic of Guajicutea": {
+    "direction": "push",
+    "hash": "11c37d267fbaf8e2757eb0ea3daf979548ef210539b12eb68211a367ef497bef",
+    "last_sync": "2026-08-12T22:42:35.794146+00:00"
+  },
   "Barina": {
     "direction": "push",
     "hash": "f3ee5c50bad9a88c73ab950bb4dfb253c013c6ffd0e69e2124f1be2c39309706",
@@ -46,8 +51,8 @@
   },
   "Districts of the Republic of Guajicutea": {
     "direction": "push",
-    "hash": "fd7118c17fd80d68ebeb28eb3407808d46e127dcefdbbfc32909923bdfec078a",
-    "last_sync": "2026-08-10T21:32:05.116545+00:00"
+    "hash": "1cce852d977a4aea4bd4856d6c55d2b7b148c7c6e183933de2e652764db08f7c",
+    "last_sync": "2026-08-12T23:10:45.754178+00:00"
   },
   "Economy of Guajicutea": {
     "direction": "push",
@@ -231,8 +236,8 @@
   },
   "Municipalities of the Republic of Guajicutea": {
     "direction": "push",
-    "hash": "e2018b70fa9e69c106dd4288baf53e27b802c311b3d79a08e8bf64e456a10264",
-    "last_sync": "2026-08-12T21:18:05.215106+00:00"
+    "hash": "d3a8df8ce95f88ed1623c6510b0210aa05bc33efba1b71a48ec5c89075f591fd",
+    "last_sync": "2026-08-12T23:48:21.660698+00:00"
   },
   "Petran Catholicism": {
     "direction": "push",
@@ -254,10 +259,20 @@
     "hash": "19a01f612230170d781ee0f8136097f4f7ce7b32732975c6d9d49f253b048a19",
     "last_sync": "2026-08-07T19:06:03.761547+00:00"
   },
+  "Template:Administrative divisions of Guajicutea": {
+    "direction": "push",
+    "hash": "f0cad191342ae8b6476a69691534e55273d6e58a55ca39b61345e3b950e277d7",
+    "last_sync": "2026-08-12T22:02:46.795309+00:00"
+  },
   "Template:Guajicutea topics": {
     "direction": "push",
     "hash": "1f6c27292ddcac1c837f58236241d51a02ee720ec7ae4b4956f8dc259ff8537b",
     "last_sync": "2026-08-07T23:23:44.356771+00:00"
+  },
+  "Template:Largest cities of Guajicutea": {
+    "direction": "push",
+    "hash": "a90c4fdf4a48ebf0d2582afd2e0d08cb942e6cf9a34c6f52f5d13b36ca495a01",
+    "last_sync": "2026-08-12T23:34:30.095908+00:00"
   },
   "Three Powers Revival": {
     "direction": "push",
