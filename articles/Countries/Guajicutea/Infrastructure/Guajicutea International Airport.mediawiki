@@ -1,0 +1,113 @@
+{{Infobox airport
+| name         = Guajicutea International Airport
+| image        =
+| image_alt    =
+| caption      =
+| IATA         = WBA
+| ICAO         = GQWB
+| type         = Public
+| owner        = [[Government of Guajicutea]]
+| operator     = [[Guajicutea Civil Aviation Authority]]
+| city-served  = [[Waribá]]
+| location     = [[Waribá]], [[Ganan]], [[Guajicutea]]
+| opened       = {{start date|1948}}
+| hub          = [[Guajicutea Airlines]]
+| elevation-f  = 39
+| elevation-m  = 12
+| coordinates  = {{coord|6|7|30|N|82|46|20|W|type:airport|display=inline}}
+| timezone     = [[UTC−05:00]]
+| utc          = UTC−5
+| website      =
+| metric-rwy   = yes
+| r1-number    = 09/27
+| r1-length-m  = 3,500
+| r1-surface   = Asphalt
+| r2-number    = 18/36
+| r2-length-m  = 2,400
+| r2-surface   = Asphalt
+| stat1-header = Passengers
+| stat1-data   = 7,184,381 (2025)
+| stat2-header = Aircraft movements
+| stat2-data   = 59,742 (2025)
+| stat3-header = Cargo (tonnes)
+| stat3-data   = 83,618 (2025)
+| stat-year    = 2025
+}}
+
+'''Guajicutea International Airport''' (also known as '''Waribá International Airport''') is the main international airport of [[Guajicutea]], serving [[Waribá]] and the surrounding capital region. It is the principal entry point for visitors to the country and the main hub of [[Guajicutea Airlines]].
+
+The airport was built during the [[Great Adonian War]] by Volisanian forces as a military airfield outside Waribá. After the war, it was transferred to civilian use and became the country's busiest airport for domestic and international traffic. A second terminal, opened in 2007, separated international services from domestic operations and marked the airport's shift into a modern tourism gateway.
+
+== History ==
+
+=== Wartime construction ===
+
+Volisanian engineers began work on the airfield in the early 1940s, when Waribá was being used as a logistics and transshipment centre during the [[Great Adonian War]]. The site was chosen for its flat coastal ground south of the city, where heavy aircraft could operate with relatively little earthmoving. The original field consisted of a long east-west runway, basic fuel storage, a maintenance apron, and a small military terminal for liaison and transport flights.
+
+The airfield was used primarily for troop movements, supply flights, and coastal patrols during the final years of the war. By the time the conflict ended, the facility had become one of the most important transport installations on the Waribá coast.
+
+=== Postwar civilian use ===
+
+After the war, the airport was handed over to the Guajicutean authorities and converted to civilian service. It opened to regular passenger traffic in 1948 and was renamed Guajicutea International Airport, though many residents continued to call it Waribá International Airport. [[Guajicutea Airlines]] established its first scheduled domestic services from the airport to [[Waku Bá]] and [[Warikú Airport|Warikú]], making the airport the country's first major postwar air gateway.
+
+During the 1950s and 1960s, the airport handled steadily growing traffic from government travel, coastal commerce, and the first wave of mass tourism. The original wartime buildings were gradually replaced by permanent passenger facilities, and the apron was expanded to accommodate larger propeller aircraft and, later, early jets.
+
+=== International expansion ===
+
+By the early 2000s, the airport's domestic terminal was no longer adequate for the volume of arriving tourists and expatriate traffic using Waribá as the main entry point to the country. A second terminal, designed for international arrivals and departures, opened in 2007. The new building provided separate customs and immigration facilities, larger check-in halls, and expanded retail and lounge space.
+
+The 2007 expansion also formalised the airport's role as the principal hub of [[Guajicutea Airlines]]' international network. From that point onward, domestic flights to [[Waku Bá]] and other internal destinations used the older terminal, while the newer terminal handled international services.
+
+=== Runway expansion ===
+
+The airport's original east-west runway remained the main strip for decades, but growing traffic and the need for better crosswind handling led to the construction of a second runway on a perpendicular north-south alignment. The added runway allowed the airport to keep operating during the seasonal wind shifts common on the Waribá coast and reduced delays during peak tourism periods.
+
+== Infrastructure ==
+
+=== Terminals ===
+
+Guajicutea International Airport has two passenger terminals. Terminal 1 is the original domestic building and handles most flights within Guajicutea, including the regular service to [[Waku Bá]]. Terminal 2, opened in 2007, handles international arrivals and departures and includes customs, immigration, and the airport's main duty-free and lounge facilities.
+
+The terminals are connected by a covered concourse and a shared forecourt, allowing passengers to transfer between domestic and international services without leaving the airport complex.
+
+=== Runways ===
+
+The airport has two perpendicular asphalt runways:
+
+{| class="wikitable"
+|-
+! Direction !! Length !! Surface !! Use
+|-
+| 09/27 || 3,500 m || Asphalt || Primary; international passenger and heavy aircraft operations
+|-
+| 18/36 || 2,400 m || Asphalt || Secondary; domestic, crosswind, and relief operations
+|}
+
+Runway 09/27 is the primary runway and carries the bulk of scheduled passenger traffic. Runway 18/36 is used when crosswinds make the main runway less suitable, and it also serves domestic operations and emergency diversions.
+
+=== Ground transport ===
+
+The airport is connected to central Waribá by the airport express road, which links the terminal area to the city centre and the port district. Taxi stands and car-hire desks are located outside both terminals, and airport buses run at regular intervals to the main bus station in Waribá. Long-distance coaches also stop at the airport forecourt on routes to other districts.
+
+== Airlines and destinations ==
+
+=== Scheduled passenger services ===
+
+{| class="wikitable sortable"
+|-
+! Airline !! Destinations
+|-
+| [[Guajicutea Airlines]] || [[Waku Bá]] ''(domestic)''; [[Warikú Airport|Warikú]] ''(domestic)''; [[Sant Cristòfor International Airport|Sant Cristòfor]], [[Cecilio Ríos International Airport|Sant Bart]], [[Gran Port de Sant Mateu International Airport|Gran Port de Sant Mateu]], [[Guledga Airport|Guledga]], [[Iskandar Setiadji International Airport|Sanropura]], [[Kankadadka International Airport|Kankadadka]], [[Iskhal International Airport|Iskhal]], [[Tamsui International Airport|Tamsui]], [[Sanu-Sasso Airport|Sanu-Sasso]], [[Concordia International Airport|Castejón]], [[Ampuria International Airport|Ampuria]]
+|-
+| [[Aeroístmus]] || [[Sant Cristòfor International Airport|Sant Cristòfor]]
+|}
+
+== See also ==
+
+* [[Waribá]]
+* [[Guajicutea Airlines]]
+* [[Transport in Guajicutea]]
+
+[[Category:Airports in Guajicutea]]
+[[Category:Buildings and structures in Waribá]]
+[[Category:Transport in Guajicutea]]

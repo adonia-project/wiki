@@ -18,7 +18,7 @@
 | hubs = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | alliance = [[Adonian Arrow]]
 | fleet_size = 55
-| destinations = 40
+| destinations = 41
 | parent = Aeroístmus S.A.
 | traded_as = {{ubl|SCX: AER|[[Bolsa de Sant Cristòfor]]}}
 | headquarters = [[Sant Cristòfor]], [[Sant Cristòfor (comarca)|Sant Cristòfor comarca]], [[Estret Province]], [[Balboa]]
@@ -68,7 +68,7 @@ In the 2000s, Aeroístmus continued to modernise its fleet, replacing the Boeing
 
 == Destinations ==
 
-Aeroístmus operates 40 destinations: 22 domestic and 18 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
+Aeroístmus operates 41 destinations: 22 domestic and 19 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
 
 {| class="wikitable sortable"
 |-
@@ -127,6 +127,8 @@ Aeroístmus operates 40 destinations: 22 domestic and 18 international, with ser
 |[[Dagit]]|| Akyatan ||[[Akyatan Airport|Akyatan]]|| {{Terminated}}
 |-
 |[[Galwa]]|| Hargiesa ||[[Hargiesa International Airport|Hargiesa]]||
+|-
+|[[Guajicutea]]|| Waribá ||[[Guajicutea International Airport|Waribá]]||
 |-
 |[[Lacashe]]|| Guledga ||[[Guledga Airport|Guledga]]||
 |-
