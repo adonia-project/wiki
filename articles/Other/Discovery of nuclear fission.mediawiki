@@ -1,0 +1,88 @@
+{{Infobox event
+| event = Discovery of nuclear fission
+| image =
+| caption =
+| date = 1932
+| venue = [[University of Anping]]
+| location = [[Anping]], [[Louyang]]
+| participants = {{ubl|[[Tân Bûn-kong]]|[[Lîm Chiat-bêng]]}}
+| outcome = Results presented at the [[World Research Conference]] (1933); foundation of nuclear physics programmes across [[Adonia]]
+}}
+
+The '''discovery of nuclear fission''' in 1932 at the [[University of Anping]] in [[Anping]], [[Louyang]], was a landmark event in the history of [[Adonia|Adonian]] science. The discovery was made by Zong-born researchers [[Tân Bûn-kong]], a chemist, and [[Lîm Chiat-bêng]], a physicist, who demonstrated that bombarding [[uranium]] with {{w|neutron|neutrons}} produced lighter elements, releasing substantial amounts of [[energy]]. Their findings, presented at the [[World Research Conference]] in 1933, established the experimental and theoretical basis for [[nuclear energy]] and [[nuclear weapons]] development across Adonia.
+
+== Background ==
+
+Research into [[radioactivity]] and [[nuclear decay]] had been underway across Adonia since the late 19th century. By the 1920s, several countries had established dedicated nuclear physics laboratories, and the study of [[atomic structure]] had become a major field of scientific inquiry. In [[Volisania]], the universities of [[University of Ampuria|Ampuria]] and [[University of Vildabou|Vildabou]] had developed prominent physics departments, while in [[Daras]], state-funded research institutes conducted systematic investigations into [[radioactive element]]s. [[Breisland|Breislandic]] and [[Balisca|Baliscan]] researchers had also made significant contributions to the understanding of [[atomic nucleus|nuclear structure]] and [[radioactive decay]].
+
+In [[Louyang]], a commonwealth member of the [[Zong]] sphere, the University of Anping had been a centre of scientific research since its founding in 1605. Established during the early decades of Zong colonial expansion across the Shendan Ocean, the university had grown over three centuries into one of the premier scientific institutions in the Zong commonwealth. Its science faculties, benefiting from sustained colonial and later commonwealth investment in education and research infrastructure, attracted scholars from across the Zong sphere and maintained exchange programmes with institutions in [[Zong]] proper and the [[Sanese Archipelago|Sanese]] states.
+
+By the early 1930s, the international physics community had established that the [[atomic nucleus]] could be altered by bombardment with [[subatomic particle]]s, but the nature and implications of these reactions were not yet fully understood. Several research groups across Adonia were investigating the effects of [[neutron]] bombardment on [[heavy element]]s, particularly uranium. The prevailing assumption among most researchers was that neutron bombardment of uranium would produce [[transuranic element]]s — elements heavier than uranium — through neutron capture, rather than splitting the nucleus into lighter fragments.
+
+== Researchers ==
+
+The two researchers behind the discovery came from markedly different backgrounds and held contrasting political convictions, which would shape their responses to the implications of their work.
+
+Tân Bûn-kong was born on 2 April 1880 in [[Anping]]. He served in the [[Second War of the Isthmus]] from 1898 to 1899, joining the Zong colonial forces at the tail end of the conflict as a young man of eighteen. After the war, he turned to the study of [[chemistry]], eventually becoming a professor of chemistry at the University of Anping. Tân was a Zong nationalist who subscribed to the ideology of [[Fosian Lurandian totality]], a political doctrine that idealised complete Fosian — and specifically Zong — control over the [[Lurandia|Lurandian]] continent. His military service and nationalist convictions stood in sharp contrast to those of his collaborator.
+
+Lîm Chiat-bêng was born on 11 May 1894. A physicist by training, Lîm was a committed pacifist who opposed military applications of scientific research. Twelve years younger than Tân, Lîm had come of age in a period of growing international tensions and had been drawn to physics partly through an interest in the fundamental structure of matter rather than its practical or military applications. He joined the University of Anping's physics department as a research associate, where his work on [[neutron]] physics and [[radiation]] detection brought him into collaboration with Tân.
+
+Despite their political differences, the two researchers maintained a productive professional relationship, with Tân's radiochemical expertise and Lîm's physical and theoretical skills complementing each other in the investigation of neutron bombardment products.
+
+== Discovery ==
+
+=== The Anping experiments ===
+
+In 1932, Tân Bûn-kong and Lîm Chiat-bêng conducted a collaborative series of experiments investigating the products of neutron bombardment of uranium. The experiments combined Lîm's expertise in [[nuclear physics|physics]] — neutron sources, radiation detection, and bombardment apparatus — with Tân's expertise in [[chemistry|chemical analysis]] — separating and identifying the reaction products through [[radiochemistry|radiochemical]] methods.
+
+Neutrons for the bombardment were produced by {{w|radium}}-{{w|beryllium}} sources assembled in the physics department's radiation laboratory. Lîm Chiat-bêng designed the irradiation setup, in which uranium samples were exposed to neutron flux for varying durations. Following irradiation, Tân Bûn-kong performed careful chemical separation of the reaction products, using [[precipitation (chemistry)|precipitation]] and [[fractional crystallisation]] techniques to isolate the elements produced.
+
+Tân's chemical analysis yielded an unexpected result: among the products of the neutron bombardment was [[barium]], an element with roughly half the [[atomic mass]] of uranium. This result contradicted the prevailing expectation that neutron bombardment would produce transuranic elements heavier than uranium. Tân repeated the chemical separations multiple times, each time confirming the presence of barium. The meticulousness of the radiochemical work was critical, as the identification of barium — rather than a nearby element such as [[radium]] — required careful separation and measurement.
+
+Lîm Chiat-bêng provided the physical interpretation of Tân's chemical findings. Drawing on contemporary models of the [[atomic nucleus]], Lîm demonstrated that the results were consistent with the uranium nucleus having been split into two lighter nuclei — a process they termed "nuclear fission" ({{lang|zng|核分裂}}, ''he̍k-hun-lî''; from [[Zong language|Zong]] ''he̍k'' "nucleus" and ''hun-lî'' "division"). Lîm calculated the [[energy]] released by the reaction and found it to be substantially greater than that of any previously known [[nuclear reaction]], consistent with the large [[binding energy]] difference between uranium and the lighter fission products.
+
+=== Confirmation and the chain reaction ===
+
+Tân and Lîm conducted follow-up experiments to confirm their findings. Tân identified [[krypton]] as a secondary product of the reaction through further radiochemical analysis, consistent with the theoretical prediction that uranium would split into two fragments of roughly complementary mass. Lîm measured the energy spectrum of the released [[radiation]] and confirmed that the total energy output matched the calculated value for nuclear fission.
+
+Lîm also recognised the potential for a [[chain reaction|nuclear chain reaction]]. The fission process was observed to produce additional neutrons — secondary neutrons released during the splitting of the uranium nucleus — which could in turn induce further fission events in neighbouring uranium atoms. This observation, documented in the researchers' laboratory notes, established the theoretical basis for both [[nuclear reactor]] design and [[nuclear weapons|nuclear weapon]] development.
+
+The discovery was facilitated by several factors particular to the Anping research environment. The University of Anping's science departments had access to uranium samples imported from [[Balisca]], which had begun [[uranium mining|mining operations]] in the early 20th century. The university's position within the Zong commonwealth provided research funding and institutional support, while its relative distance from the political centres of Zong and other major powers afforded the researchers latitude to pursue unconventional lines of inquiry.
+
+== Publication ==
+
+Tân and Lîm submitted their findings to the [[World Research Conference]] in 1933, held that year in [[Ampuria]], [[Volisania]]. The conference, a recurring international scientific gathering that brought together physicists and chemists from across Adonia, provided a platform for the presentation of the discovery to the broader scientific community. The choice of Ampuria — home to the [[University of Ampuria]], one of the oldest and most prestigious scientific institutions in Volisania — reflected the conference's tradition of convening in major centres of learning.
+
+The presentation generated immediate and intense interest among the assembled researchers. Tân Bûn-kong's radiochemical evidence — the identification of barium and krypton as fission products — was regarded as particularly compelling, as the chemical methods were reproducible in any well-equipped chemistry laboratory. Lîm Chiat-bêng's physical interpretation, including the energy calculations and the identification of the chain reaction mechanism, provided the theoretical framework that other physicists could test and extend.
+
+Several delegations returned to their home countries and began replicating the experiments. The confirmation of the Anping results came within months from laboratories in [[Volisania]], [[Daras]], [[Breisland]], and elsewhere. The speed of confirmation was facilitated by the relative simplicity of the experimental setup: any well-equipped physics and chemistry laboratory with access to neutron sources and uranium could reproduce the findings.
+
+== Reception and aftermath ==
+
+The discovery of nuclear fission occurred against a backdrop of rising international tensions in Adonia. The [[Great Adonian War]] would break out in 1935, just two years after the presentation of the Anping findings. The proximity of the discovery to the outbreak of war gave the research immediate strategic significance, and several governments initiated nuclear research programmes in the years following the publication.
+
+The [[Zong]] government, through its commonwealth network, was the first to establish a coordinated nuclear research programme, drawing on the expertise at the University of Anping and related institutions. [[Volisania]], [[Daras]], and other major powers also established nuclear research initiatives, though the outbreak of the Great Adonian War disrupted international scientific collaboration and restricted the exchange of information.
+
+The discovery also raised ethical questions that exposed the contrasting convictions of the two discoverers. Tân Bûn-kong, whose nationalist ideology of [[Fosian Lurandian totality]] envisaged Zong dominance over the Lurandian continent, recognised the strategic implications of nuclear fission for Zong power. His military experience in the [[Second War of the Isthmus]] had shaped his conviction that Zong required decisive military capabilities to secure its continental ambitions. Yet Tân also expressed concern in correspondence with colleagues about the destructive potential of chain reaction weapons, creating a tension between his nationalist convictions and his scientific conscience.
+
+Lîm Chiat-bêng, by contrast, was appalled by the military implications of the discovery. His pacifist convictions led him to oppose any research directed toward weapons development, and he argued within the university and in correspondence with fellow physicists that the discovery should be used solely for peaceful applications of nuclear energy. The divergence between Tân's nationalist outlook and Lîm's pacifism created a growing rift between the two researchers in the years following the discovery. Lîm continued theoretical work on fission physics throughout the 1930s, focusing on [[chain reaction]] dynamics and [[critical mass]] in the context of [[nuclear reactor]] design rather than weapons.
+
+== Legacy ==
+
+The discovery of nuclear fission at the University of Anping is regarded as one of the most significant scientific achievements in Adonian history. The collaboration between a chemist and a physicist — Tân Bûn-kong's radiochemical identification of the fission products and Lîm Chiat-bêng's physical interpretation of the nuclear process — is frequently cited as a model of interdisciplinary research. The contrasting political convictions of the two discoverers — Tân's Zong nationalism and Lîm's pacifism — and the ethical questions their discovery raised have been the subject of extensive historical analysis and continue to inform debates about the relationship between science, nationalism, and military power in Adonia.
+
+The University of Anping's science faculties remain a leading centre of nuclear research. The laboratory where the discovery was made is preserved as a historic site, and the university hosts an annual lecture series in honour of Tân and Lîm.
+
+== See also ==
+
+* [[Nuclear energy in Adonia]]
+* [[Nuclear weapons in Adonia]]
+* [[University of Anping]]
+* [[World Research Conference]]
+* [[Tân Bûn-kong]]
+* [[Lîm Chiat-bêng]]
+
+[[Category:Nuclear physics]]
+[[Category:History of Louyang]]
+[[Category:1932 in Adonia]]
+[[Category:Scientific discoveries]]
