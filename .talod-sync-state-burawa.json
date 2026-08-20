@@ -1,0 +1,32 @@
+{
+  "2026 Taxiworkers Union protest": {
+    "direction": "push",
+    "hash": "e559abe8a49b33f193e999df08b70f1a17a6349c7e45804bdec0b0f4ff6f8a0d",
+    "last_sync": "2026-08-14T18:02:26.814669+00:00"
+  },
+  "BMC Wiyar": {
+    "direction": "push",
+    "hash": "12beb13c2b2d4f45abdca1e5e6250a3e99d357c2694693324b956cb264bbad95",
+    "last_sync": "2026-08-14T18:51:31.633269+00:00"
+  },
+  "Taxis of Burawa": {
+    "direction": "push",
+    "hash": "59093b89d7eef8566e71f89e2f0a928c6a50b62e8f45ad8961ce86a5e42bd049",
+    "last_sync": "2026-08-14T18:36:23.684182+00:00"
+  },
+  "Transportation Workers Displacement Fund": {
+    "direction": "push",
+    "hash": "03c898fe03e64a210b7b776b75526ea91a513d8cc3ef06265d067260cd35fff0",
+    "last_sync": "2026-08-14T18:06:47.694738+00:00"
+  },
+  "Transportation Workers Displacement Fund Addendum": {
+    "direction": "push",
+    "hash": "4eb6d185f6e8403b3dd0c0a6e8015efbf779c985f12ba1d99b5c5f60ba8ffa9e",
+    "last_sync": "2026-08-14T18:02:29.726539+00:00"
+  },
+  "WhA Locus": {
+    "direction": "push",
+    "hash": "f15340c81dd9c9995cd66e7d215ea060b8ffaff127ebfa1406f3bd992bbe9bd3",
+    "last_sync": "2026-08-14T17:37:36.596897+00:00"
+  }
+}

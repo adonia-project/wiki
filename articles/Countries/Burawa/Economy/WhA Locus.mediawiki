@@ -1,0 +1,113 @@
+{{Infobox automobile
+| name               = WhA Locus
+| logo               =
+| logo_alt           =
+| image              = WhALocus.png
+| image_alt          =
+| caption            =
+| manufacturer       = [[Burawi Motor Company]] (BMC)
+| also_called        =
+| production         = 2026–present
+| model_years        = 2026
+| assembly           = [[Khar]] (BMC Khar Plant 11), [[Burawa]]
+| designer           = [[Ministry of Innovation (Burawa)|Ministry of Innovation]] (WhA)
+| body_and_chassis   =
+| class              = {{w|Mini MPV}}
+| body_style         = 4-door {{w|MPV}} with outward-sliding doors
+| layout             = {{w|Dual motor}} {{w|four-wheel drive}}
+| powertrain         =
+| engine             =
+| electric_motor     = Dual [[Burawi Motor Company|BMC]] permanent magnet synchronous motors
+| battery            = 95 kWh {{w|lithium-ion battery}}
+| transmission       = Single-speed (per axle)
+| dimensions         =
+| wheelbase          = 2,780 mm (109.4 in)
+| length             = 4,380 mm (172.4 in)
+| width              = 1,820 mm (71.7 in)
+| height             = 1,690 mm (66.5 in)
+| curb_weight        = 2,050 kg (4,519 lb)
+| performance        =
+| power              = 275 hp (205 kW)
+| torque             =
+| transmission2     =
+| electric_range    = 400 km (249 mi)
+| charging           = 150 kW {{w|DC fast charging|DC fast charging}}; 11 kW {{w|AC charging|AC}}
+| fuel_consumption   =
+| propulsion         = {{w|Battery electric vehicle|Battery electric}}
+| autonomy           = {{w|Autonomous car#SAE Levels|SAE Level 4}} ({{w|robotaxi}})
+| sensors            = {{w|LiDAR}}, high-resolution cameras
+| related            =
+| similar            =
+| designer2          =
+| success            =
+| platform           =
+| weight             =
+| capacity           = 4 passengers (robotaxi configuration)
+| website            =
+}}
+
+The '''WhA Locus''' is a {{w|Battery electric vehicle|battery electric}} {{w|Mini MPV|mini MPV}} produced by the [[Burawi Motor Company]] (BMC) and designed in collaboration with the [[Ministry of Innovation (Burawa)|Ministry of Innovation]] (WhA). The vehicle is equipped with {{w|Level 4|SAE Level 4}} {{w|autonomous driving}} capability, utilising {{w|LiDAR}} sensors and high-resolution cameras for environmental perception and navigation. It entered service on 14 August 2026 as a {{w|robotaxi}} operated by the South Hudur Metro Transportation Authority within the [[South Hudur Metropolitan Administration]].
+
+== Development ==
+
+The Locus project was initiated in 2022 by the [[Ministry of Innovation (Burawa)|Ministry of Innovation]] (WhA) as part of a broader programme of autonomous vehicle testing in [[Burawa]]. The ministry collaborated with the [[Burawi Motor Company]] (BMC) to design and prototype an electric vehicle purpose-built for autonomous taxi operation. The project combined the ministry's research in autonomous driving systems — including sensor fusion, machine learning models for perception, and route planning algorithms — with BMC's manufacturing infrastructure and experience in electric vehicle production.
+
+Testing was conducted under the ministry's general autonomous testing framework, which had been established to evaluate autonomous vehicle technologies on Burawi roads under controlled conditions. Prototype vehicles were tested with safety operators present, accumulating operational data across varied urban and suburban environments to train the vehicle's autonomous driving systems.
+
+The decision to adopt a {{w|Mini MPV|mini MPV}} body style was driven by the vehicle's intended use as a robotaxi. The form factor provides ease of entry and exit for passengers, maximises interior space relative to the vehicle's footprint, and accommodates the sensor suite required for Level 4 autonomy. The angular exterior design accommodates the mounting of {{w|LiDAR}} units and high-resolution cameras at positions optimised for 360-degree perception.
+
+== Design ==
+
+=== Exterior ===
+
+The Locus has a {{w|Mini MPV|mini MPV}} body style with angular exterior finishes. The vehicle is designed to resemble a small {{w|minibus}}, prioritising passenger accessibility and interior volume over conventional SUV styling. The body features two doors on each side that open outward via {{w|sliding door|sliding mechanisms}}, allowing wide entry openings in constrained urban environments without requiring additional clearance for swinging doors.
+
+The angular body panels are designed to accommodate the vehicle's sensor suite. {{w|LiDAR}} units are integrated into the roofline and front fascia, while high-resolution cameras are mounted at multiple points around the vehicle's perimeter to provide overlapping fields of view. The sensor arrangement is intended to support the vehicle's Level 4 autonomous driving capability, which permits the vehicle to operate without human intervention within defined operational design domains.
+
+=== Powertrain ===
+
+The Locus is powered by a 95 kWh {{w|lithium-ion battery}} supplying dual permanent magnet synchronous electric motors, one per axle, providing {{w|four-wheel drive}}. The combined output is rated at 275 hp (205 kW). The dual-motor configuration is intended to provide redundancy for autonomous operation, allowing the vehicle to continue driving at reduced capacity in the event of a motor failure.
+
+The permanent magnet synchronous motor design was selected for its efficiency and power density, characteristics that are advantageous in a vehicle designed for continuous taxi service. The single-speed transmission at each axle reduces mechanical complexity and maintenance requirements relative to multi-speed configurations.
+
+=== Autonomous system ===
+
+The Locus achieves {{w|Autonomous car#SAE Levels|SAE Level 4}} autonomy, meaning the vehicle can operate without human supervision within its operational design domain. The autonomous driving system relies on a combination of {{w|LiDAR}} sensors and high-resolution cameras for environmental perception. The LiDAR units generate precise three-dimensional maps of the vehicle's surroundings, while the camera system provides visual data for object classification, lane detection, and traffic signal recognition.
+
+Sensor fusion algorithms combine data from the LiDAR and camera systems to produce a unified environmental model, which is used by the vehicle's planning and control systems to navigate routes, avoid obstacles, and comply with traffic regulations. The system is designed to operate within geofenced areas where high-definition maps have been prepared and validated.
+
+== Production and deployment ==
+
+The [[Government of Burawa]] placed an order for 10,000 WhA Locus units, intended for deployment in {{w|robotaxi}} services across the nation. The order represents one of the largest single procurements of autonomous vehicles by a national government. Production is undertaken at BMC Khar Plant 11 in [[Khar]], one of the principal industrial facilities operated by the [[Burawi Motor Company]].
+
+The first 150 vehicles entered service on 14 August 2026 with the South Hudur Metro Transportation Authority, the public transit operator of the [[South Hudur Metropolitan Administration]]. Initial deployment is concentrated within the South Hudur metropolitan area, with subsequent rollout to the [[Kankadadka]] Capital Region, [[Badalga]], and [[Sago]] metropolitan administrations planned as production continues and autonomous operational domains are expanded.
+
+The deployment of the Locus is intended to supplement existing public transit infrastructure by providing on-demand autonomous taxi services. The vehicles operate alongside conventional public transit, with the South Hudur Metro Transportation Authority managing fleet operations, maintenance, and dispatch.
+
+== Controversy ==
+
+The announcement on 1 August 2026 that the WhA Locus would enter service was met with protests from the [[Taxiworkers Union of Burawa]], the principal taxi workers' union in [[Burawa]]. The union objected to the deployment of autonomous vehicles in taxi service, citing concerns about potential displacement of human drivers and the adequacy of autonomous driving systems for safe operation in mixed traffic. An earlier protest had been held on 18 April 2026 following the commencement of Locus testing in [[Khar]].
+
+The protest escalated into a nationwide work stoppage on 1 August 2026, with all taxi services halted for the first two days. The stoppage was accompanied by demonstrations at BMC Khar Plant 11 in [[Khar]] and at the capital, [[Kankadadka]]. The protest is ongoing as of August 2026. (See [[2026 Taxiworkers Union protest|August 2026 Taxiworkers Union protest]] and [[April 2026 Taxiworkers Union protest]].)
+
+The controversy drew attention from across the political spectrum, with members of the [[National Party of Burawa|National Party]] and the [[Christian Socialist Union (Burawa)|Christian Socialist Union]] expressing support for the taxi union's position, while the [[Socialist Party of Burawa|Socialist Party]] and [[Forward Party of Burawa|Forward Party]] defended the deployment as a component of Burawa's industrial and technological strategy.
+
+== See also ==
+
+* [[Burawi Motor Company]]
+* [[Ministry of Innovation (Burawa)|Ministry of Innovation]]
+* [[South Hudur Metropolitan Administration]]
+* [[2026 Taxiworkers Union protest|August 2026 Taxiworkers Union protest]]
+* [[April 2026 Taxiworkers Union protest]]
+* {{w|Autonomous car}}
+* {{w|Robotaxi}}
+
+== References ==
+
+{{reflist}}
+
+[[Category:Electric vehicles]]
+[[Category:Autonomous vehicles]]
+[[Category:Burawi Motor Company vehicles]]
+[[Category:2026 introductions]]
+[[Category:Burawa]]

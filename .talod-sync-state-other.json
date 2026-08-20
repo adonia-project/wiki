@@ -1,0 +1,117 @@
+{
+  "1986 AFA World Cup": {
+    "direction": "push",
+    "hash": "ff7745c9914d988c472484d638c77cababa7210a1e56956ba517afbf4ffb917c",
+    "last_sync": "2026-08-19T00:21:47.865110+00:00"
+  },
+  "2022 AFA World Cup": {
+    "direction": "push",
+    "hash": "3c8c006e5f7b49abfc73b874fedf8ff7995994a288b36f9126112fe3444c644b",
+    "last_sync": "2026-08-19T00:21:50.799171+00:00"
+  },
+  "2026 AFA World Cup Matchday 2": {
+    "direction": "push",
+    "hash": "4a90828a3dd5a9857f44879e34e3f9d09824c47260eded86d81057895c29b77c",
+    "last_sync": "2026-08-19T00:21:51.637123+00:00"
+  },
+  "2026 AFA World Cup Matchday 3": {
+    "direction": "push",
+    "hash": "2f4f6080b10eba4b887f5267d6c4ea3dab76e45ad7aee6c8475225d63ecbfec0",
+    "last_sync": "2026-08-19T00:21:58.384377+00:00"
+  },
+  "2026 AFA World Cup Matchday 3 - La Voz del Istmo": {
+    "direction": "push",
+    "hash": "009d2ee9aeb920e954dd64f951f461f78b166abf754130313418f0264771c2d6",
+    "last_sync": "2026-08-19T00:22:00.346661+00:00"
+  },
+  "2026 AFA World Cup Matchday 4": {
+    "direction": "push",
+    "hash": "c300072539bfa6471a30d9349cf134bd9466f03de3eb5cb8b2a5865054319286",
+    "last_sync": "2026-08-19T00:22:01.133985+00:00"
+  },
+  "2026 AFA World Cup Matchday 5": {
+    "direction": "push",
+    "hash": "e987cf5afeac81e1710042c118d4351e04018138b962611640e573475f464f82",
+    "last_sync": "2026-08-19T00:22:17.213971+00:00"
+  },
+  "2026 AFA World Cup Matchday 6": {
+    "direction": "push",
+    "hash": "ed58a1e5a71df86cc840a6043b91f406b5282f40f4567739eb9de7f85e512758",
+    "last_sync": "2026-08-19T00:22:18.312196+00:00"
+  },
+  "2026 AFA World Cup knockout stage day 1": {
+    "direction": "push",
+    "hash": "a4d670720427de14a64b6566c8392d8cc6f00017c67271154b404b3ffc979adc",
+    "last_sync": "2026-08-19T00:22:19.373689+00:00"
+  },
+  "2026 AFA World Cup knockout stage day 2": {
+    "direction": "push",
+    "hash": "3bcce36b4fdf3b8b2756becd0089e3efb08a28a2a7615df490e45ba35f60a82f",
+    "last_sync": "2026-08-19T00:22:20.450480+00:00"
+  },
+  "2026 AFA World Cup knockout stage day 3": {
+    "direction": "push",
+    "hash": "243a2a3ed9a00e3ec3a7694d81ba683b5088b78f504c7bbb9cc21e339f1c00cd",
+    "last_sync": "2026-08-19T00:22:21.194676+00:00"
+  },
+  "2026 AFA World Cup knockout stage day 5": {
+    "direction": "push",
+    "hash": "af02a563bd22045ec0a19ec011132697a4ec5ae1beb1e5de78a10286517f6bba",
+    "last_sync": "2026-08-19T00:22:22.489707+00:00"
+  },
+  "2026 AFA World Cup knockout stage day 6": {
+    "direction": "push",
+    "hash": "a3d8415563d92c56709ca4e4c30b1479c8641502b1d2b154ec8a6a665cb44180",
+    "last_sync": "2026-08-19T00:22:23.320894+00:00"
+  },
+  "2026 AFA World Cup knockout stage day 7": {
+    "direction": "push",
+    "hash": "3caebe33ebf91902c9f93f66d19e69e114b8e088aeef034abf0a242c2d2deb67",
+    "last_sync": "2026-08-19T00:22:24.108526+00:00"
+  },
+  "2026 AFA World Cup knockout stage day 8": {
+    "direction": "push",
+    "hash": "f2ab717e14373ef216ffde1d23441122323c5a1ae7e4d6dda0b88fdb4fadf38c",
+    "last_sync": "2026-08-19T00:22:24.864655+00:00"
+  },
+  "2026 AFA World Cup knockout stage day 9": {
+    "direction": "push",
+    "hash": "883e8de691fab4be76785893c83daed4b773655aff9825279c10557dfc0efba8",
+    "last_sync": "2026-08-19T00:22:25.735327+00:00"
+  },
+  "2026 Winter Games": {
+    "direction": "push",
+    "hash": "7698aa1c2226a0d4b357c5c888d5a7b70d92254f21abf3674ce877b8f8d490ed",
+    "last_sync": "2026-08-19T00:21:52.894417+00:00"
+  },
+  "AFA World Cup": {
+    "direction": "push",
+    "hash": "7b944816f2cf2f111130269a56f6920a15384d985892fe092fe08c3535f58446",
+    "last_sync": "2026-08-19T00:21:55.816133+00:00"
+  },
+  "Discovery of nuclear fission": {
+    "direction": "push",
+    "hash": "fe70f494b907603ae1f450568ec7452d18c690316777d0095c5d39a89c071d6d",
+    "last_sync": "2026-08-19T00:26:42.440253+00:00"
+  },
+  "List of wars": {
+    "direction": "push",
+    "hash": "c81b48a854532193bb4574e8679170f8a45278b70803db2694c04081ebed840e",
+    "last_sync": "2026-08-19T00:21:56.592607+00:00"
+  },
+  "Lists of wars": {
+    "direction": "push",
+    "hash": "b9351ef51cff6344916c628c27705e8b0dea420ee2eaac92778f12ad2db57669",
+    "last_sync": "2026-08-19T00:22:28.099749+00:00"
+  },
+  "Machine Breakers": {
+    "direction": "push",
+    "hash": "9bf792e6cf3bb8b9b22c2ab75e4afc4a2c55bc3930567b068738614b586c44af",
+    "last_sync": "2026-08-19T00:21:57.611037+00:00"
+  },
+  "World Research Conference": {
+    "direction": "push",
+    "hash": "82b5c78c0be7512c4f74d0c83bb3ec566396c485b98d8457db7cb54d76ea9e04",
+    "last_sync": "2026-08-19T00:22:29.070832+00:00"
+  }
+}
