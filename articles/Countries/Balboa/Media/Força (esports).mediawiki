@@ -63,6 +63,8 @@ In 2026, Força suffered a significant setback when their highest-rated player, 
 ! Handle !! Name !! Nationality !! Elo !! Status
 |-
 | Tempesta || Aleix Riera || {{flagicon|Balboa}} [[Balboa]] || 3,420 || Retired 2026
+|-
+| Naka || Julio Nakayama || {{flagicon|Balboa}} [[Balboa]] || 3,000 || Left 2024
 |}
 
 == Results ==
@@ -146,17 +148,17 @@ In 2026, Força suffered a significant setback when their highest-rated player, 
 |-
 | Summer
 | 14
-| 12
-| 2
-| {{winpct|12|2}}
-| 1st
-| {{won|style=font-weight:bold|place=1st|Winners}}
+| 11
+| 3
+| {{winpct|11|3}}
+| 2nd
+| {{won|place=2nd|Runners-up}}
 |-
 ! colspan=2 | Totals
 ! 112
-! 94
-! 18
-! {{winpct|94|18}}
+! 93
+! 19
+! {{winpct|93|19}}
 ! colspan=3 | ''(2023–2026, includes only regular season)''
 |}
 

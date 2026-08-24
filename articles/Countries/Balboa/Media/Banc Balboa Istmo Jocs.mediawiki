@@ -1,0 +1,129 @@
+{{Infobox sports team
+| name = Banc Balboa Istmo Jocs
+| game = ''[[Galactic Combat]]''
+| founded = 2024
+| city = {{flagicon|Balboa}} [[Balboa]]
+| league = [[Galactic Combat World Championship]]
+| owntitle = Sponsor
+| owner = [[Banc Balboa]]
+| championships = {{ubl|2025 Summer [[Balboa Galactic Combat Cup|BGCC]]|2026 Summer [[Balboa Galactic Combat Cup|BGCC]]}}
+}}
+
+'''Banc Balboa Istmo Jocs''' is a professional [[esports]] team based in [[Balboa]], competing in ''[[Galactic Combat]]''. Founded in 2024 by former [[Força (esports)|Força]] member Julio Nakayama, the team is sponsored by [[Banc Balboa]] and operated by Istmo Esports S.A. Widely regarded as a dark horse in the competitive scene, Banc Balboa Istmo Jocs won the [[Balboa Galactic Combat Cup]] (BGCC) Summer split in both 2025 and 2026, establishing themselves as the primary domestic rivals to Força.
+
+== History ==
+
+=== Formation (2024) ===
+
+Banc Balboa Istmo Jocs was established in 2024 when Julio Nakayama, a founding member of [[Força (esports)|Força]], departed the organisation to form his own team. Nakayama secured sponsorship from [[Banc Balboa]], one of the largest banks in Balboa, and founded Istmo Esports S.A. as the operating company. The team's name references the [[Isthmus of Balboa|Isthmus]] (Istmo in Volisanian), reflecting its Balboan identity.
+
+The roster was assembled with a mix of Balboan talent and international players from [[Okaiken]], [[Nakamizu]], and [[Burawa]], positioning the team as a regional contender from the outset.
+
+=== 2024 season ===
+
+The team entered the [[Balboa Galactic Combat Cup]] in the Summer 2024 split, their first competitive appearance. They finished the regular season in fourth place and were eliminated in the quarterfinals. Despite the modest result, analysts noted the roster's potential and the organisation's financial backing.
+
+=== 2025 season ===
+
+In 2025, Banc Balboa Istmo Jocs improved significantly. They finished as runners-up in the Winter split before winning the Summer split, upsetting [[Força (esports)|Força]] in the playoff final. The victory marked their first domestic title and qualified them for the [[2025 Galactic Combat World Championship]], where they reached the semifinals before being eliminated.
+
+=== 2026 season ===
+
+Banc Balboa Istmo Jocs defended their Summer BGCC title in 2026, winning back-to-back Summer splits. The team has qualified for the [[2026 Galactic Combat World Championship]] in [[Okami]], [[Okaiken]], as the regional finals runner-up.
+
+== Roster ==
+
+=== Current roster ===
+
+{| class="wikitable sortable"
+|-
+! Handle !! Name !! Nationality !! Elo
+|-
+| Naka || Julio Nakayama || {{flagicon|Balboa}} [[Balboa]] || 3,000
+|-
+| Kage || Ren Tanaka || {{flagicon|Okaiken}} [[Okaiken]] || 2,950
+|-
+| Yurei || Sora Hayashi || {{flagicon|Nakamizu}} [[Nakamizu]] || 2,920
+|-
+| Llamp || Pau Riera || {{flagicon|Balboa}} [[Balboa]] || 2,950
+|-
+| Ombra || Biel Forteza || {{flagicon|Balboa}} [[Balboa]] || 2,900
+|-
+| Xirsi || Cabdullahi Maxamed || {{flagicon|Burawa}} [[Burawa]] || 2,880
+|}
+
+== Results ==
+
+{| class="wikitable sortable" style="font-size:90%; text-align:center; white-space:nowrap"
+|-
+!rowspan=2 colspan=2| Year
+!colspan=6 | [[Balboa Galactic Combat Cup]]
+!rowspan=2 class="unsortable" | [[Galactic Combat World Championship|GCWC]]
+|-
+! {{abbr|P|Series played}}
+! {{abbr|W|Series won}}
+! {{abbr|L|Series lost}}
+! {{nowrap|{{abbr|W–L%|Winning percentage}}}}
+! {{abbr|Pos.|Position at the end of the regular season}}
+! class="unsortable"|Playoffs
+|-
+! rowspan=1 | 2024
+| Summer
+| 14
+| 8
+| 6
+| {{winpct|8|6}}
+| 4th
+| Quarterfinals
+| ''Did not qualify''
+|-
+! rowspan=2 | 2025
+| Winter
+| 14
+| 11
+| 3
+| {{winpct|11|3}}
+| 2nd
+| {{won|place=2nd|Runners-up}}
+| rowspan=2 | Semifinals
+|-
+| Summer
+| 14
+| 12
+| 2
+| {{winpct|12|2}}
+| 1st
+| {{won|style=font-weight:bold|place=1st|Winners}}
+|-
+! rowspan=2 | 2026
+| Winter
+| 14
+| 10
+| 4
+| {{winpct|10|4}}
+| 3rd
+| Semifinals
+| rowspan=2 | ''Qualified''
+|-
+| Summer
+| 14
+| 13
+| 1
+| {{winpct|13|1}}
+| 1st
+| {{won|style=font-weight:bold|place=1st|Winners}}
+|-
+! colspan=2 | Totals
+! 70
+! 54
+! 16
+! {{winpct|54|16}}
+! colspan=3 | ''(2024–2026, includes only regular season)''
+|}
+
+== See also ==
+
+* [[Galactic Combat]]
+* [[Galactic Combat World Championship]]
+* [[Força (esports)|Força]]
+* [[Banc Balboa]]
