@@ -1,0 +1,93 @@
+{{Infobox
+| above = Força
+| abovestyle = background: #cce4f6;
+| headerstyle = background: #cce4f6;
+| labelstyle = white-space: nowrap;
+| label1 = Game
+| data1 = ''[[Galactic Combat]]''
+| label2 = Based in
+| data2 = {{flagicon|Balboa}} [[Balboa]]
+| label3 = Founded
+| data3 = 2022
+| label4 = Operator
+| data4 = Esports Força S.A.
+| label5 = Owners
+| data5 = {{ubl|[[Abyala Telecom]]|[[BalboaVisió]]}}
+| label6 = Status
+| data6 = Active
+}}
+
+'''Força''' is a professional [[esports]] team based in [[Balboa]], competing in ''[[Galactic Combat]]''. Founded in 2022 as a superteam backed by [[Abyala Telecom]] and the television network [[BalboaVisió]], the organisation recruited top players from across multiple competitive regions. Força won the [[Galactic Combat World Championship]] (GCWC) in [[2023 Galactic Combat World Championship|2023]], [[2024 Galactic Combat World Championship|2024]], and [[2025 Galactic Combat World Championship|2025]], remaining undefeated in international competition since their debut.
+
+== History ==
+
+=== Formation (2022) ===
+
+Força was established in 2022 by [[Abyala Telecom]] and [[BalboaVisió]] as a superteam for ''[[Galactic Combat]]''. The two corporations jointly founded Esports Força S.A. as the operating company, with the objective of assembling the strongest possible roster by recruiting top talent from existing teams across all competitive regions. Abyala Telecom provided financial backing, while BalboaVisió contributed media coverage and broadcast partnerships.
+
+The formation attracted significant attention in the esports community, as the organisation secured high-profile player acquisitions during its inaugural roster build. The team's starting lineup included players from [[Balboa]], [[Nakamizu]], and [[Balisca]].
+
+=== 2023 season ===
+
+In their first year of competition, Força qualified for the [[2023 Galactic Combat World Championship]] through the Lurandia-Abyala regional qualifier. The team won the tournament, claiming their first international title. The victory was notable for a first-year organisation and established Força as the dominant team in the competitive scene.
+
+=== 2024 season ===
+
+Força defended their title at the [[2024 Galactic Combat World Championship]], becoming back-to-back world champions. The team's continued dominance drew attention across the esports community, with analysts comparing the run to other dynastic stretches in esports history.
+
+=== 2025 season ===
+
+At the [[2025 Galactic Combat World Championship]], Força won their third consecutive world title. The three-peat cemented the organisation's status as the most successful team in ''Galactic Combat'' competitive history.
+
+=== 2026 season ===
+
+In 2026, Força suffered a significant setback when their highest-rated player, Aleix Riera ("Tempesta"), announced his retirement from professional play. The team is scheduled to compete at the [[2026 Galactic Combat World Championship]] in [[Okami]], [[Okaiken]], with a revised roster.
+
+== Roster ==
+
+=== Current roster ===
+
+{| class="wikitable sortable"
+|-
+! Handle !! Name !! Nationality !! Elo
+|-
+| Vola || Jordi Vives || {{flagicon|Balboa}} [[Balboa]] || 3,180
+|-
+| Kuro || Kenji Aoyama || {{flagicon|Nakamizu}} [[Nakamizu]] || 3,120
+|-
+| Tron || Bernat Casals || {{flagicon|Balboa}} [[Balboa]] || 3,050
+|-
+| Raiden || Haruto Nakamura || {{flagicon|Nakamizu}} [[Nakamizu]] || 3,020
+|-
+| Diable || Marc Puig || {{flagicon|Balboa}} [[Balboa]] || 2,980
+|-
+| Sol || Diego Vega || {{flagicon|Balisca}} [[Balisca]] || 2,950
+|}
+
+=== Former players ===
+
+{| class="wikitable"
+|-
+! Handle !! Name !! Nationality !! Elo !! Status
+|-
+| Tempesta || Aleix Riera || {{flagicon|Balboa}} [[Balboa]] || 3,420 || Retired 2026
+|}
+
+== Achievements ==
+
+{| class="wikitable"
+|-
+! Tournament !! Year !! Result
+|-
+| [[Galactic Combat World Championship]] || 2023 || Winner
+|-
+| [[Galactic Combat World Championship]] || 2024 || Winner
+|-
+| [[Galactic Combat World Championship]] || 2025 || Winner
+|}
+
+== See also ==
+
+* [[Galactic Combat]]
+* [[Galactic Combat World Championship]]
+* [[Abyala Telecom]]
