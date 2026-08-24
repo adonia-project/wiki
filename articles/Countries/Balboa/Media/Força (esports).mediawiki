@@ -1,20 +1,12 @@
-{{Infobox
-| above = Força
-| abovestyle = background: #cce4f6;
-| headerstyle = background: #cce4f6;
-| labelstyle = white-space: nowrap;
-| label1 = Game
-| data1 = ''[[Galactic Combat]]''
-| label2 = Based in
-| data2 = {{flagicon|Balboa}} [[Balboa]]
-| label3 = Founded
-| data3 = 2022
-| label4 = Operator
-| data4 = Esports Força S.A.
-| label5 = Owners
-| data5 = {{ubl|[[Abyala Telecom]]|[[BalboaVisió]]}}
-| label6 = Status
-| data6 = Active
+{{Infobox sports team
+| name = Força
+| game = ''[[Galactic Combat]]''
+| founded = 2022
+| city = {{flagicon|Balboa}} [[Balboa]]
+| league = [[Galactic Combat World Championship]]
+| owntitle = Owners
+| owner = {{ubl|[[Abyala Telecom]]|[[BalboaVisió]]}}
+| championships = {{ubl|[[2023 Galactic Combat World Championship|2023 GCWC]]|[[2024 Galactic Combat World Championship|2024 GCWC]]|[[2025 Galactic Combat World Championship|2025 GCWC]]}}
 }}
 
 '''Força''' is a professional [[esports]] team based in [[Balboa]], competing in ''[[Galactic Combat]]''. Founded in 2022 as a superteam backed by [[Abyala Telecom]] and the television network [[BalboaVisió]], the organisation recruited top players from across multiple competitive regions. Força won the [[Galactic Combat World Championship]] (GCWC) in [[2023 Galactic Combat World Championship|2023]], [[2024 Galactic Combat World Championship|2024]], and [[2025 Galactic Combat World Championship|2025]], remaining undefeated in international competition since their debut.
