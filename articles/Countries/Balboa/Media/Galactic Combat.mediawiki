@@ -1,36 +1,17 @@
-{{Infobox
-| above = Galactic Combat
-| abovestyle = background: #cce4f6;
-| headerstyle = background: #cce4f6;
-| labelstyle = white-space: nowrap;
-| label1 = Native title
-| data1 = ''Combat Galàctic''
-| label2 = Also known as
-| data2 = GC
-| label3 = Developer
-| data3 = [[Jocs Importants]]
-| label4 = Publisher
-| data4 = [[Jocs Importants]]
-| label5 = Designer
-| data5 = {{ubl|[[Job Tan]]|[[Mikael Vidal i Torres]]}}
-| label6 = Programmer
-| data6 = {{ubl|[[Job Tan]]|[[Mikael Vidal i Torres]]}}
-| label7 = Engine
-| data7 = Proprietary
-| label8 = Platform
-| data8 = {{ubl|{{w|Microsoft Windows|Windows}}|{{w|macOS}}|{{w|Linux (operating system)|Linux}}}}
-| label9 = Release
-| data9 = {{Start date|2011|06|14}}
-| label10 = Genre
-| data10 = {{w|multiplayer online battle arena|MOBA}}
-| label11 = Mode
-| data11 = {{w|multiplayer video game|Multiplayer}}
-| label12 = Players
-| data12 = ~70 million monthly active<br>~20 million daily
-| label13 = Peak concurrent
-| data13 = 6 million (2021)
-| label14 = Website
-| data14 = 
+{{Infobox video game
+| title = Galactic Combat
+| image = 
+| alt = 
+| caption = 
+| developer = [[Jocs Importants]]
+| publisher = [[Jocs Importants]]
+| series = 
+| engine = Proprietary
+| platforms = {{ubl|{{w|Microsoft Windows|Windows}}|{{w|macOS}}|{{w|Linux (operating system)|Linux}}}}
+| released = {{Start date|2011|06|14}}
+| genre = {{w|multiplayer online battle arena|MOBA}}
+| modes = {{w|multiplayer video game|Multiplayer}}
+| arcade system = 
 }}
 
 '''''Galactic Combat''''' (Volisanian: '''''Combat Galàctic'''''; commonly abbreviated '''''GC''''') is a {{w|multiplayer online battle arena|multiplayer online battle arena}} (MOBA) video game developed and published by [[Jocs Importants]], a video game company based in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]], [[Balboa]]. Released on 14 June 2011, it was the first published title of Jocs Importants and has since become one of the most popular video games and esports in the world, with approximately 70 million monthly active players and 20 million daily players as of 2026.
