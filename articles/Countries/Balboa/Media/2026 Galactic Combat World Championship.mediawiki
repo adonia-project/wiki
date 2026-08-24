@@ -31,64 +31,41 @@ Sixteen teams will compete, four from each of the game's four competitive region
 
 == Qualified teams ==
 
-=== Mesogean–Illypnia ===
-
-{| class="wikitable"
+{| class="wikitable sortable"
 |-
-! Team !! Region
+! Team !! Country !! Qualifying region
 |-
-| Gorgor Gaming || [[Burawa]]
+| Gorgor Gaming || {{flagicon|Burawa}} [[Burawa]] || Mesogean–Illypnia
 |-
-| Mze Argo AK || [[Varkana]]
+| Mze Argo AK || {{flagicon|Varkana}} [[Varkana]] || Mesogean–Illypnia
 |-
-| Falcó Jocs || [[Volisania]]
+| Falcó Jocs || {{flagicon|Volisania}} [[Volisania]] || Mesogean–Illypnia
 |-
-| Shabeel Gaming || [[Orma]]
-|}
-
-=== North Kaftia–North Fosia ===
-
-{| class="wikitable"
+| Shabeel Gaming || {{flagicon|Orma}} [[Orma]] || Mesogean–Illypnia
 |-
-! Team !! Region
+| Garuda Esports || {{flagicon|Nusaraya}} [[Nusaraya]] || North Kaftia–North Fosia
 |-
-| Garuda Esports || [[Nusaraya]]
+| Naga Gaming || {{flagicon|Nusaraya}} [[Nusaraya]] || North Kaftia–North Fosia
 |-
-| Naga Gaming || [[Nusaraya]]
+| Bima Esports || {{flagicon|Nusaraya}} [[Nusaraya]] || North Kaftia–North Fosia
 |-
-| Bima Esports || [[Nusaraya]]
+| Bagani Gaming || {{flagicon|Dagit}} [[Dagit]] || North Kaftia–North Fosia
 |-
-| Bagani Gaming || [[Dagit]]
-|}
-
-=== East Fosia ===
-
-{| class="wikitable"
+| Kitsune Gaming || {{flagicon|Okaiken}} [[Okaiken]] || East Fosia
 |-
-! Team !! Region
+| Raijin Esports || {{flagicon|Okaiken}} [[Okaiken]] || East Fosia
 |-
-| Kitsune Gaming || [[Okaiken]]
+| Tengu Gaming || {{flagicon|Nakamizu}} [[Nakamizu]] || East Fosia
 |-
-| Raijin Esports || [[Okaiken]]
+| Nami Esports || {{flagicon|Nakamizu}} [[Nakamizu]] || East Fosia
 |-
-| Tengu Gaming || [[Nakamizu]]
+| Força Esports || {{flagicon|Balboa}} [[Balboa]] || Lurandia-Abyala
 |-
-| Nami Esports || [[Nakamizu]]
-|}
-
-=== Lurandia-Abyala ===
-
-{| class="wikitable"
+| Banc Balboa Istmo Jocs || {{flagicon|Balboa}} [[Balboa]] || Lurandia-Abyala
 |-
-! Team !! Region
+| Cóndor Gaming || {{flagicon|Balisca}} [[Balisca]] || Lurandia-Abyala
 |-
-| Força Esports || [[Balboa]]
-|-
-| Banc Balboa Istmo Jocs || [[Balboa]]
-|-
-| Cóndor Gaming || [[Balisca]]
-|-
-| Sombra Esports || [[Balisca]]
+| Sombra Esports || {{flagicon|Balisca}} [[Balisca]] || Lurandia-Abyala
 |}
 
 == See also ==
