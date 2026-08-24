@@ -1,32 +1,24 @@
-{{Infobox
-| above = Galactic Combat World Championship
-| abovestyle = background: #cce4f6;
-| headerstyle = background: #cce4f6;
-| labelstyle = white-space: nowrap;
-| label1 = Abbreviation
-| data1 = GCWC
-| label2 = Game
-| data2 = ''[[Galactic Combat]]''
-| label3 = Organiser
-| data3 = [[Jocs Importants]]
-| label4 = Inaugurated
-| data4 = 2015
-| label5 = Frequency
-| data5 = Annual
-| label6 = Usually held
-| data6 = September
-| label7 = Duration
-| data7 = ~7 days
-| label8 = Regions
-| data8 = 4
-| label9 = Format
-| data9 = Group stage → knockout bracket
-| label10 = Prize pool
-| data10 = $500,000 (2015) → $10M+ (recent)
-| label11 = Current champion
-| data11 = 
-| label12 = Most titles
-| data12 = 
+{{Infobox sports league
+| title         = Galactic Combat World Championship
+| game          = ''[[Galactic Combat]]''
+| sport         = esports
+| founded       = 2015
+| first         = 2015
+| founder       = [[Jocs Importants]]
+| organiser     = [[Jocs Importants]]
+| country       = International
+| region        = Worldwide (4 regions)
+| teams         = 16
+| divisions     = 4
+| tournament_format = Group stage → knockout bracket
+| qualification = Regional league standings
+| champion      = 
+| champ_season  = 
+| most_titles   = 
+| broadcaster   = 
+| streaming     = 
+| sponsor       = 
+| website       = 
 }}
 
 The '''Galactic Combat World Championship''' (abbreviated '''GCWC''') is the premier international [[esports]] tournament for ''[[Galactic Combat]]'', the {{w|multiplayer online battle arena|MOBA}} video game developed and published by [[Jocs Importants]]. First held in 2015, the tournament brings together the top-ranked players from each of the game's four competitive regions — Mesogean–Illypnia, North Kaftia–North Fosia, East Fosia, and Lurandia-Abyala — to compete for the world championship title. The GCWC is held annually, typically in September over approximately one week, and is one of the most watched esports events in the world.
