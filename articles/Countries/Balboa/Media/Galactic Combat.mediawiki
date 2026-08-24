@@ -1,0 +1,125 @@
+{{Infobox
+| above = Galactic Combat
+| abovestyle = background: #cce4f6;
+| headerstyle = background: #cce4f6;
+| labelstyle = white-space: nowrap;
+| label1 = Native title
+| data1 = ''Combat Galàctic''
+| label2 = Also known as
+| data2 = GC
+| label3 = Developer
+| data3 = [[Jocs Importants]]
+| label4 = Publisher
+| data4 = [[Jocs Importants]]
+| label5 = Designer
+| data5 = {{ubl|[[Job Tan]]|[[Mikael Vidal i Torres]]}}
+| label6 = Programmer
+| data6 = {{ubl|[[Job Tan]]|[[Mikael Vidal i Torres]]}}
+| label7 = Engine
+| data7 = Proprietary
+| label8 = Platform
+| data8 = {{ubl|[[{{w|Microsoft Windows|Windows]]|[[{{w|macOS]]|[[{{w|Linux (operating system)|Linux]]}}
+| label9 = Release
+| data9 = {{Start date|2011|06|14}}
+| label10 = Genre
+| data10 = [[{{w|multiplayer online battle arena|MOBA}}]]
+| label11 = Mode
+| data11 = [[{{w|multiplayer video game|Multiplayer]]]
+| label12 = Players
+| data12 = ~70 million monthly active<br>~20 million daily
+| label13 = Peak concurrent
+| data13 = 6 million (2021)
+| label14 = Website
+| data14 = 
+}}
+
+'''''Galactic Combat''''' (Volisanian: '''''Combat Galàctic'''''; commonly abbreviated '''''GC''''') is a [[{{w|multiplayer online battle arena|multiplayer online battle arena}}]] (MOBA) video game developed and published by [[Jocs Importants]], a video game company based in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]], [[Balboa]]. Released on 14 June 2011, it was the first published title of Jocs Importants and has since become one of the most popular video games and esports in the world, with approximately 70 million monthly active players and 20 million daily players as of 2026.
+
+The game is set in a fantasy-space universe where two teams of five players each control unique characters known as "operators," each possessing distinct skills and abilities. Teams are assigned to space colonies on opposite ends of a contested territory and must push toward the opposing colony to capture it. Since its launch, Galactic Combat has been recognised as one of the most influential video games of the 2010s and remains one of the most widely played games globally.
+
+== Gameplay ==
+
+Galactic Combat is a [[{{w|multiplayer online battle arena|multiplayer online battle arena}}]] game in which two teams of five players compete against each other. Each player selects a character known as an "operator," each of which has a unique set of skills, abilities, and attributes that define their role within a team. Operators are categorised into several classes, including assault, support, defender, and recon, though the boundaries between classes are intentionally flexible to allow for varied team compositions and strategies.
+
+At the start of each match, the two teams are placed at opposite ends of a map representing a contested sector of space. Each team begins at its own space colony, which serves as its base of operations. The objective is to advance through the territory, engage the opposing team in combat, and ultimately capture the enemy colony. The territory between the two colonies contains strategic points, resource nodes, and environmental features that teams can contest and control to gain advantages.
+
+Matches typically last between 25 and 45 minutes. Players earn experience and resources during a match by defeating enemy operators, capturing strategic points, and completing objectives, which allows them to upgrade their operator's abilities and equipment over the course of the game. The match ends when one team successfully captures the opposing colony's core, or when one team surrenders.
+
+=== Operators ===
+
+As of 2026, Galactic Combat features over 60 playable operators, each with a distinct backstory, visual design, and gameplay kit. New operators are introduced through periodic updates known as "expansions," typically released three to four times per year. Operators are unlocked through gameplay progression or through microtransactions.
+
+The roster of operators draws on the game's original fantasy-space setting, with characters representing various factions, species, and civilisations within the game's universe. Each operator has a unique combination of active abilities, passive traits, and an ultimate ability that becomes available after charging through combat. The design of operators emphasises asymmetry: no two operators share the same combination of abilities, and the interaction between different operators' kits creates the strategic depth that defines the game's competitive play.
+
+=== Progression and ranking ===
+
+Galactic Combat uses an [[{{w|Elo rating system|Elo-based rating system}}]] to rank players in competitive matches. Players are assigned to one of four regional servers based on their geographic location, and each region maintains its own ranked ladder. The four regions are: Mesogean–Illypnia, North Kaftia–North Fosia, East Fosia, and Lurandia-Abyala.
+
+Within each region, players progress through a tiered ranking system, beginning at the entry level and advancing through promotion matches to higher tiers. At the end of each competitive season, the highest-ranked players from each region are invited to participate in the [[Galactic Combat World Championship]], the game's premier international tournament.
+
+== Development ==
+
+Galactic Combat was developed by [[Job Tan]] and [[Mikael Vidal i Torres]], who co-founded [[Jocs Importants]] in 2009. Tan, a Zong Balboan software engineer, and Vidal i Torres, a Volisanian Balboan game designer, had previously worked together at a small software company in [[Dàrsena (ciutat)|Dàrsena]] developing mobile applications. The two left their positions in 2009 to pursue their ambition of creating a competitive online game, establishing Jocs Importants in a small office in Dàrsena's commercial district.
+
+The initial concept for Galactic Combat emerged from Tan's interest in the emerging MOBA genre and Vidal i Torres's background in fantasy world-building. The two spent approximately eighteen months developing a prototype, during which they self-funded the project through savings and a small loan from a Balboan technology incubator. The prototype attracted the attention of several investors, and Jocs Importants secured seed funding in late 2010 that enabled the company to expand its development team to approximately twelve people.
+
+The game's fantasy-space setting was chosen to differentiate it from other MOBA titles on the market, which typically employed fantasy or historical settings. Vidal i Torres designed the game's universe, including its factions, operator backstories, and the visual language of the space colonies and contested territories. Tan led the technical development, building a proprietary game engine optimised for low-latency online play.
+
+=== Release ===
+
+Galactic Combat was publicly released on 14 June 2011. The initial launch included 20 operators and a single map layout. The game was initially available for [[{{w|Microsoft Windows|Windows]] and [[{{w|macOS]] platforms, with a [[{{w|Linux (operating system)|Linux]] version added in 2013. The launch was modest, with approximately 50,000 players in the first month, but the game gained traction through word-of-mouth and online community building.
+
+By the end of 2011, the player base had grown to approximately 500,000 monthly active players. The game's popularity increased significantly in 2012 and 2013, driven by the introduction of new operators, refined gameplay mechanics, and the growing visibility of competitive play. By 2014, the game had surpassed 10 million monthly active players.
+
+== Esports ==
+
+Competitive play has been central to Galactic Combat's identity since its early days. The game's design — with its emphasis on team coordination, operator synergy, and strategic decision-making — lent itself naturally to organised competition, and a community of competitive players and teams emerged within the first year of release.
+
+=== Galactic Combat World Championship ===
+
+{{main|Galactic Combat World Championship}}
+
+The [[Galactic Combat World Championship]] (GCWC) is the premier international tournament for Galactic Combat. First held in 2015, the tournament invites the top-ranked players from each of the four regional servers to compete in a global championship event. The inaugural championship was held in [[Sant Cristòfor]] and featured teams from all four regions.
+
+The GCWC is held annually and has grown significantly in scale and prestige since its inception. The tournament is broadcast online and has attracted sponsorship from major international brands. Prize pools have grown from approximately $500,000 in the first year to over $10 million in recent editions, funded through a combination of developer contributions, sponsorships, and community crowdfunding through in-game purchases.
+
+=== Regional leagues ===
+
+In addition to the World Championship, each of the four regions operates its own league system, with regular-season matches, playoffs, and regional championships. These regional leagues serve as the primary pathway for players to qualify for the World Championship. The most prominent regional leagues include the Mesogean–Illypnian Galactic League and the East Fosian Galactic League, which are considered the most competitive circuits outside of the World Championship itself.
+
+== Other media ==
+
+The popularity of Galactic Combat has led to the development of several spin-off products and adaptations across different media.
+
+=== Film ===
+
+In 2021, a [[{{w|feature film|feature film]] adaptation of Galactic Combat was released. The film, produced by an international studio in partnership with Jocs Importants, depicted an original story set within the game's universe, featuring several of the game's operators as characters. The film received mixed reviews from critics but was a moderate commercial success, particularly in markets with large Galactic Combat player bases.
+
+=== Trading card game ===
+
+A [[{{w|trading card game|trading card game]] based on Galactic Combat was released in 2017. The card game adapts the operators and factions from the video game into a collectible card format, with players constructing decks around specific operators and strategies. The card game has maintained a dedicated player community and receives regular expansions alongside video game updates.
+
+=== Spin-off application ===
+
+A mobile spin-off application was released in 2019. The app provides players with access to their Galactic Combat account statistics, match history, operator guides, and social features. The app also includes a companion mini-game that allows players to earn cosmetic rewards transferable to the main game. The spin-off app has been downloaded over 40 million times.
+
+== Reception and impact ==
+
+Galactic Combat has been widely recognised as one of the most influential video games of the 2010s. The game is credited with popularising the MOBA genre in several markets where it had previously had limited presence, particularly in Abyala and Kaftia. Its free-to-play model, combined with regular content updates and a robust competitive scene, has been cited as a benchmark for live-service game design.
+
+The game peaked in 2021 with approximately 6 million concurrent players worldwide, coinciding with the release of a major expansion and the Galactic Combat World Championship. While concurrent player counts have declined from this peak, the game has maintained a stable player base of approximately 70 million monthly active users and 20 million daily users as of 2026, making it one of the most played video games in the world.
+
+Galactic Combat has been the subject of academic and journalistic analysis for its impact on online gaming culture, the professionalisation of esports, and the economic model of free-to-play games. Jocs Importants has been recognised as one of the most successful technology companies in Balboa, and the game's success has contributed to the growth of the Balboan video game industry.
+
+== See also ==
+
+* [[Jocs Importants]]
+* [[Sant Cristòfor]]
+* [[Dàrsena (ciutat)|Dàrsena]]
+* [[Galactic Combat World Championship]]
+
+[[Category:Balboa media]]
+[[Category:Video games]]
+[[Category:Esports]]
+[[Category:Companies of Balboa]]
+[[Category:Sant Cristòfor]]
