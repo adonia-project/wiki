@@ -18,13 +18,13 @@
 | label7 = Engine
 | data7 = Proprietary
 | label8 = Platform
-| data8 = {{ubl|[[{{w|Microsoft Windows|Windows]]|[[{{w|macOS]]|[[{{w|Linux (operating system)|Linux]]}}
+| data8 = {{ubl|{{w|Microsoft Windows|Windows}}|{{w|macOS}}|{{w|Linux (operating system)|Linux}}}}
 | label9 = Release
 | data9 = {{Start date|2011|06|14}}
 | label10 = Genre
-| data10 = [[{{w|multiplayer online battle arena|MOBA}}]]
+| data10 = {{w|multiplayer online battle arena|MOBA}}
 | label11 = Mode
-| data11 = [[{{w|multiplayer video game|Multiplayer]]]
+| data11 = {{w|multiplayer video game|Multiplayer}}
 | label12 = Players
 | data12 = ~70 million monthly active<br>~20 million daily
 | label13 = Peak concurrent
@@ -33,13 +33,13 @@
 | data14 = 
 }}
 
-'''''Galactic Combat''''' (Volisanian: '''''Combat Galàctic'''''; commonly abbreviated '''''GC''''') is a [[{{w|multiplayer online battle arena|multiplayer online battle arena}}]] (MOBA) video game developed and published by [[Jocs Importants]], a video game company based in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]], [[Balboa]]. Released on 14 June 2011, it was the first published title of Jocs Importants and has since become one of the most popular video games and esports in the world, with approximately 70 million monthly active players and 20 million daily players as of 2026.
+'''''Galactic Combat''''' (Volisanian: '''''Combat Galàctic'''''; commonly abbreviated '''''GC''''') is a {{w|multiplayer online battle arena|multiplayer online battle arena}} (MOBA) video game developed and published by [[Jocs Importants]], a video game company based in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]], [[Balboa]]. Released on 14 June 2011, it was the first published title of Jocs Importants and has since become one of the most popular video games and esports in the world, with approximately 70 million monthly active players and 20 million daily players as of 2026.
 
 The game is set in a fantasy-space universe where two teams of five players each control unique characters known as "operators," each possessing distinct skills and abilities. Teams are assigned to space colonies on opposite ends of a contested territory and must push toward the opposing colony to capture it. Since its launch, Galactic Combat has been recognised as one of the most influential video games of the 2010s and remains one of the most widely played games globally.
 
 == Gameplay ==
 
-Galactic Combat is a [[{{w|multiplayer online battle arena|multiplayer online battle arena}}]] game in which two teams of five players compete against each other. Each player selects a character known as an "operator," each of which has a unique set of skills, abilities, and attributes that define their role within a team. Operators are categorised into several classes, including assault, support, defender, and recon, though the boundaries between classes are intentionally flexible to allow for varied team compositions and strategies.
+Galactic Combat is a {{w|multiplayer online battle arena|multiplayer online battle arena}} game in which two teams of five players compete against each other. Each player selects a character known as an "operator," each of which has a unique set of skills, abilities, and attributes that define their role within a team. Operators are categorised into several classes, including assault, support, defender, and recon, though the boundaries between classes are intentionally flexible to allow for varied team compositions and strategies.
 
 At the start of each match, the two teams are placed at opposite ends of a map representing a contested sector of space. Each team begins at its own space colony, which serves as its base of operations. The objective is to advance through the territory, engage the opposing team in combat, and ultimately capture the enemy colony. The territory between the two colonies contains strategic points, resource nodes, and environmental features that teams can contest and control to gain advantages.
 
@@ -53,7 +53,7 @@ The roster of operators draws on the game's original fantasy-space setting, with
 
 === Progression and ranking ===
 
-Galactic Combat uses an [[{{w|Elo rating system|Elo-based rating system}}]] to rank players in competitive matches. Players are assigned to one of four regional servers based on their geographic location, and each region maintains its own ranked ladder. The four regions are: Mesogean–Illypnia, North Kaftia–North Fosia, East Fosia, and Lurandia-Abyala.
+Galactic Combat uses an {{w|Elo rating system|Elo-based rating system}} to rank players in competitive matches. Players are assigned to one of four regional servers based on their geographic location, and each region maintains its own ranked ladder. The four regions are: Mesogean–Illypnia, North Kaftia–North Fosia, East Fosia, and Lurandia-Abyala.
 
 Within each region, players progress through a tiered ranking system, beginning at the entry level and advancing through promotion matches to higher tiers. At the end of each competitive season, the highest-ranked players from each region are invited to participate in the [[Galactic Combat World Championship]], the game's premier international tournament.
 
@@ -67,7 +67,7 @@ The game's fantasy-space setting was chosen to differentiate it from other MOBA 
 
 === Release ===
 
-Galactic Combat was publicly released on 14 June 2011. The initial launch included 20 operators and a single map layout. The game was initially available for [[{{w|Microsoft Windows|Windows]] and [[{{w|macOS]] platforms, with a [[{{w|Linux (operating system)|Linux]] version added in 2013. The launch was modest, with approximately 50,000 players in the first month, but the game gained traction through word-of-mouth and online community building.
+Galactic Combat was publicly released on 14 June 2011. The initial launch included 20 operators and a single map layout. The game was initially available for {{w|Microsoft Windows|Windows}} and {{w|macOS}} platforms, with a {{w|Linux (operating system)|Linux}} version added in 2013. The launch was modest, with approximately 50,000 players in the first month, but the game gained traction through word-of-mouth and online community building.
 
 By the end of 2011, the player base had grown to approximately 500,000 monthly active players. The game's popularity increased significantly in 2012 and 2013, driven by the introduction of new operators, refined gameplay mechanics, and the growing visibility of competitive play. By 2014, the game had surpassed 10 million monthly active players.
 
@@ -93,11 +93,11 @@ The popularity of Galactic Combat has led to the development of several spin-off
 
 === Film ===
 
-In 2021, a [[{{w|feature film|feature film]] adaptation of Galactic Combat was released. The film, produced by an international studio in partnership with Jocs Importants, depicted an original story set within the game's universe, featuring several of the game's operators as characters. The film received mixed reviews from critics but was a moderate commercial success, particularly in markets with large Galactic Combat player bases.
+In 2021, a {{w|feature film|feature film}} adaptation of Galactic Combat was released. The film, produced by an international studio in partnership with Jocs Importants, depicted an original story set within the game's universe, featuring several of the game's operators as characters. The film received mixed reviews from critics but was a moderate commercial success, particularly in markets with large Galactic Combat player bases.
 
 === Trading card game ===
 
-A [[{{w|trading card game|trading card game]] based on Galactic Combat was released in 2017. The card game adapts the operators and factions from the video game into a collectible card format, with players constructing decks around specific operators and strategies. The card game has maintained a dedicated player community and receives regular expansions alongside video game updates.
+A {{w|trading card game|trading card game}} based on Galactic Combat was released in 2017. The card game adapts the operators and factions from the video game into a collectible card format, with players constructing decks around specific operators and strategies. The card game has maintained a dedicated player community and receives regular expansions alongside video game updates.
 
 === Spin-off application ===
 
