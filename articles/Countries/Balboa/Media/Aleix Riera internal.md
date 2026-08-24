@@ -6,6 +6,9 @@
 - Elo: 3,420 (highest-rated GC player)
 - Nationality: Balboan
 - Parents: Administrative staff for the Adonian Community
+- Education: Attended Varakí Mario Vazques High School; dropped out in 2016 to pursue full-time esports
+- Net worth: Estimated $5 million (tournament winnings, sponsorships, streaming)
+- Listed among most influential people in Balboan sports
 
 ## Career Timeline
 - 2015: Co-founded Correcamins with Julio Nakayama + 3 others
