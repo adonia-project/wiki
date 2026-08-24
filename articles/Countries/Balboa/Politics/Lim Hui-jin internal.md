@@ -28,6 +28,7 @@
 - Lim must negotiate with opposition parties to pass legislation
 
 ## Family
+- Wife: Issa Lim (married 1998) — BPP political strategist, delegate to the Adonian Community 2010–2024
 - Daughter: Maria Lim — married to Julio Nakayama (esports player, 5x GCWC champion)
 - Family are Zong Balboans — descended from Zong who settled in Sant Cristòfor during Zong Balboa period (1899–1950)
 - Zong Balboan community declined after Great Adonian War; concentrated in Original's eastern neighbourhoods
