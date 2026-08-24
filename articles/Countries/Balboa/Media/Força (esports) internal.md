@@ -43,6 +43,23 @@ Composition: 3 Balboans, 2 Nakamians, 1 Baliscan
 - BalboaVisió: No article yet (red link). Television network.
 - Esports Força S.A.: No article yet (mentioned in infobox)
 
+## Balboa Galactic Combat Cup (BGCC)
+Domestic Balboan tournament for Galactic Combat. Winter and Summer splits.
+
+### Results
+| Year | Split | P | W | L | Pos | Playoffs | GCWC |
+|------|-------|---|---|---|-----|----------|------|
+| 2023 | Winter | 14 | 12 | 2 | 1st | Winners | Winners |
+| 2023 | Summer | 14 | 13 | 1 | 1st | Winners | |
+| 2024 | Winter | 14 | 12 | 2 | 1st | Winners | Winners |
+| 2024 | Summer | 14 | 11 | 3 | 1st | Winners | |
+| 2025 | Winter | 14 | 13 | 1 | 1st | Winners | Winners |
+| 2025 | Summer | 14 | 10 | 4 | 2nd | Runners-up | |
+| 2026 | Winter | 14 | 11 | 3 | 2nd | Runners-up | Qualified |
+| 2026 | Summer | 14 | 12 | 2 | 1st | Winners | |
+
+Totals: 112 P, 94 W, 18 L (83.9%)
+
 ## Open Questions
 - BalboaVisió article needed?
 - Esports Força S.A. article needed?

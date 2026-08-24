@@ -65,17 +65,99 @@ In 2026, Força suffered a significant setback when their highest-rated player, 
 | Tempesta || Aleix Riera || {{flagicon|Balboa}} [[Balboa]] || 3,420 || Retired 2026
 |}
 
-== Achievements ==
+== Results ==
 
-{| class="wikitable"
+{| class="wikitable sortable" style="font-size:90%; text-align:center; white-space:nowrap"
 |-
-! Tournament !! Year !! Result
+!rowspan=2 colspan=2| Year
+!colspan=6 | [[Balboa Galactic Combat Cup]]
+!rowspan=2 class="unsortable" | [[Galactic Combat World Championship|GCWC]]
 |-
-| [[Galactic Combat World Championship]] || 2023 || Winner
+! {{abbr|P|Series played}}
+! {{abbr|W|Series won}}
+! {{abbr|L|Series lost}}
+! {{nowrap|{{abbr|W–L%|Winning percentage}}}}
+! {{abbr|Pos.|Position at the end of the regular season}}
+! class="unsortable"|Playoffs
 |-
-| [[Galactic Combat World Championship]] || 2024 || Winner
+! rowspan=2 | 2023
+| Winter
+| 14
+| 12
+| 2
+| {{winpct|12|2}}
+| 1st
+| {{won|style=font-weight:bold|place=1st|Winners}}
+| rowspan=2 {{won|style=font-weight:bold|place=1st|Winners}}
 |-
-| [[Galactic Combat World Championship]] || 2025 || Winner
+| Summer
+| 14
+| 13
+| 1
+| {{winpct|13|1}}
+| 1st
+| {{won|style=font-weight:bold|place=1st|Winners}}
+|-
+! rowspan=2 | 2024
+| Winter
+| 14
+| 12
+| 2
+| {{winpct|12|2}}
+| 1st
+| {{won|style=font-weight:bold|place=1st|Winners}}
+| rowspan=2 {{won|style=font-weight:bold|place=1st|Winners}}
+|-
+| Summer
+| 14
+| 11
+| 3
+| {{winpct|11|3}}
+| 1st
+| {{won|style=font-weight:bold|place=1st|Winners}}
+|-
+! rowspan=2 | 2025
+| Winter
+| 14
+| 13
+| 1
+| {{winpct|13|1}}
+| 1st
+| {{won|style=font-weight:bold|place=1st|Winners}}
+| rowspan=2 {{won|style=font-weight:bold|place=1st|Winners}}
+|-
+| Summer
+| 14
+| 10
+| 4
+| {{winpct|10|4}}
+| 2nd
+| {{won|place=2nd|Runners-up}}
+|-
+! rowspan=2 | 2026
+| Winter
+| 14
+| 11
+| 3
+| {{winpct|11|3}}
+| 2nd
+| {{won|place=2nd|Runners-up}}
+| rowspan=2 | ''Qualified''
+|-
+| Summer
+| 14
+| 12
+| 2
+| {{winpct|12|2}}
+| 1st
+| {{won|style=font-weight:bold|place=1st|Winners}}
+|-
+! colspan=2 | Totals
+! 112
+! 94
+! 18
+! {{winpct|94|18}}
+! colspan=3 | ''(2023–2026, includes only regular season)''
 |}
 
 == See also ==
