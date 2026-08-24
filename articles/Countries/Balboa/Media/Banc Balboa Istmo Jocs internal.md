@@ -38,6 +38,17 @@ Totals: 70 P, 54 W, 16 L (77.1%)
 - Força's Summer 2026 BGCC result changed from Winners to Runners-up (Banc Balboa Istmo Jocs won)
 - Both teams qualified for the 2026 GCWC
 
+## Nakayama–Riera Rivalry
+- Both were founding members of Força (2022)
+- Aleix "Tempesta" Riera: star player, Elo 3,420, aggressive carry-oriented playstyle
+- Julio "Naka" Nakayama: Elo 3,000, preferred coordinated team-based approach
+- Conflict built after 2023 GCWC win; organisation promoted Riera as public face
+- Breaking point: strategy disputes during BGCC Winter 2024 playoffs
+- Nakayama left citing "irreconcilable differences in competitive philosophy"
+- Formation of Banc Balboa Istmo Jocs seen as direct challenge to Força
+- Rivalry became major storyline in Galactic Combat competitive coverage
+- Summer 2025 BGCC: Nakayama's team beat Força in the final (poetic justice narrative)
+
 ## Open Questions
 - What was Julio Nakayama's handle/role on Força? (Added to Força former players as "Naka")
 - Does the team have a coach or manager?
