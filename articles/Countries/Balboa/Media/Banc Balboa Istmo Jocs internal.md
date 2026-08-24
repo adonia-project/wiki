@@ -17,7 +17,7 @@
 | Yurei | Sora Hayashi | Nakamizu | 2,920 | |
 | Llamp | Pau Riera | Balboa | 2,950 | |
 | Ombra | Biel Forteza | Balboa | 2,900 | |
-| Xirsi | Cabdullahi Maxamed | Burawa | 2,880 | |
+| Xirsi | Baroe Masare | Burawa | 2,880 | |
 
 3 Balboans, 1 Okaiken, 1 Nakamizu, 1 Burawi
 
