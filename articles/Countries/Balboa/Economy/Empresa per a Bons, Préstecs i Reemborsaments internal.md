@@ -7,7 +7,7 @@
 - **Relocated**: 1992, Sant Cristòfor, Balboa
 - **Ticker**: SCX: EBPR
 - **Industry**: Fixed income broker-dealer and bond underwriting
-- **Service area**: All of Abyala (Balboa, Potocsí, Tapuya, Balisca, Sanrobonia, Asikyira, Lacashe)
+- **Service area**: All of Abyala (Balboa, Potocsí, Tapuya, Balisca, Asikyira, Lacashe)
 - **Public**: Listed on Bolsa de Sant Cristòfor
 
 ## Founding Context
@@ -57,7 +57,7 @@
 3. **1992**: Relocated HQ to Sant Cristòfor (Districte Financer, 180 Carrer del Comerç)
 4. **Mid-1990s**: Expanded into Tapuya (municipal bonds)
 5. **1996**: Listed on Bolsa de Sant Cristòfor
-6. **Late 1990s–early 2000s**: Expanded into Balisca and Sanrobonia
+6. **Late 1990s–early 2000s**: Expanded into Balisca
 7. **2010s**: Developed fixed income advisory division
 8. **2020**: Pandemic surge in bond issuance reinforced market position
 9. **2026**: Largest dedicated fixed income firm in Abyala
