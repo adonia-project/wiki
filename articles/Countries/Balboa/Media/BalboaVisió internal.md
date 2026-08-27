@@ -10,16 +10,16 @@
 - **Financials (2026, invented)**: $2.4B revenue, $420M operating income, $310M net income, $5.8B assets, $4.5B market cap
 
 ## Founders (invented)
-- **Jordi Masdeu i Cardona** — media entrepreneur, built regional radio network in Estret corridor in 1980s
-- **Núria Bosch i Areny** — television producer, former Telebadia staffer, brought production expertise
-- **Pere Vidal i Solà** — financier, early Bolsa de Sant Cristòfor investor, provided initial capital
+- **Jordi Calvet i Cardona** — media entrepreneur, built regional radio network in Estret corridor in 1980s
+- **Núria Prat i Areny** — television producer, former Telebadia staffer, brought production expertise
+- **Pere Serra i Solà** — financier, early Bolsa de Sant Cristòfor investor, provided initial capital
 
 ## Current Leadership (invented)
-- **Oriol Masdeu i Bosch** (Chairman) — son of founder Jordi Masdeu i Cardona and Núria Bosch i Areny
-- **Caterina Riera i Quintana** (CEO)
+- **Oriol Calvet i Prat** (Chairman) — son of founder Jordi Calvet i Cardona and Núria Prat i Areny
+- **Margarida Riera i Quintana** (CEO)
 
 ## Ownership (invented)
-- Grup Masdeu (Masdeu family holding): 18%
+- Grup Calvet (Calvet family holding): 18%
 - BLEC (Balboan media conglomerate): 10%
 - Fons d'Inversió Directa de Balboa (FIDB): 6%
 - Public float: ~66%
