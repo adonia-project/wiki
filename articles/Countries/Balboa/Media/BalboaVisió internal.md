@@ -60,15 +60,16 @@
 - 2021: BalboaVisió+ streaming platform launched
 - 2026: 3,200 employees, $2.4B revenue
 
-## Força Esports (partial ownership)
-- BalboaVisió is a partial owner of Força Esports, a Balboan esports organisation
-- Força Esports competes in Galactic Combat
-- Qualified for 2026 Galactic Combat World Championship as Lurandia-Abyala regional finals winner
-- Investment made in early 2020s as part of strategy to expand into gaming content and youth audiences
-- Gives BalboaVisió broadcasting rights for team's matches on BalboaVisió+
-- Positioned BalboaVisió as principal domestic broadcaster of Galactic Combat esports in Balboa
-- Referenced in: `articles/Countries/Balboa/Media/2026 Galactic Combat World Championship.mediawiki`
-- Força Esports does NOT yet have its own dedicated article
+## Força Esports (co-founded with Abyala Telecom)
+- BalboaVisió co-founded Força Esports with Abyala Telecom in 2022
+- Joint operating company: Esports Força S.A.
+- Abyala Telecom provided financial backing; BalboaVisió contributed media coverage and broadcast partnerships
+- Força competes in Galactic Combat
+- Won GCWC three consecutive years: 2023, 2024, 2025
+- Qualified for 2026 GCWC as Lurandia-Abyala regional finals winner
+- BalboaVisió has domestic broadcasting rights for team's matches on BalboaVisió+
+- Article already exists on TALOD wiki: https://talod.miraheze.org/wiki/Força_(esports)
+- Local article file needed? Check if one exists in repo
 
 ## Open Questions
 1. What specific shows beyond "Generació Unitat" should be invented?
