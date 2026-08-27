@@ -53,14 +53,14 @@
 | 1996 | El Silenci | Documentary; revisited Les Dones del Port subjects post-recession |
 | 1996–2006 | Teaching, advocacy, essays | Film workshops at community centres/universities |
 | 2006 | Les Animes | Fiction; older women reflecting on community transformation |
-| 2010 | El Desig 2 | Dark comedy; fictionalised account of the 1988 obscenity trial |
+| 2010 | El Desig 2 | Dark comedy; fictionalised prosecutor from Portblanc obsessed with El Desig; never watched the film; discovers sister is an actress in it |
 
 ### Additional films invented
 | Film | Year | Type | Notes |
 |------|------|------|-------|
 | El Silenci | 1996 | Documentary | Revisited harbour district women 15 years after Les Dones del Port; sombre, reflective; last film for over a decade |
 | Les Animes | 2006 | Fiction | Three older women in harbour district; contemplative/autumnal; produced with Balboan Arts Council grant; screened at UAC Awards and independent cinemas |
-| El Desig 2 | 2010 | Dark comedy | Fictionalised account of the 1988 obscenity trial; shot digitally; limited theatrical release; cast: Joana Serra i Bosch (filmmaker), Bernat Puig i Colom (prosecutor), Aina Vives i Aragó (defence attorney); title plays with sequel convention — "sequel" to a film about desire is about the state's response to desire; controversy in interior provinces; generally well received in Sant Cristòfor |
+| El Desig 2 | 2010 | Dark comedy | Dark comedy about a fictionalised prosecutor from Portblanc obsessed with El Desig (without ever watching it); tries to find connection between film and conservative court area; breaks into Riera i Sola's home (inspired by real-life burglary, likely just theft, not state-sanctioned); enters gay romance (ironic given decency prosecution); discovers his sister is one of the actresses in El Desig — never knew because never watched the film and never asked her. Cast: Bernat Puig i Colom (prosecutor), Joana Serra i Bosch (sister), Oriol Mas i Fuster (romantic interest), Aina Vives i Aragó (filmmaker character). Shot digitally; limited theatrical release; controversy in interior; well received in Sant Cristòfor |
 
 ### Key biographical themes (invented)
 - Father a textile worker → working-class industrial background in Jala highlands
@@ -87,9 +87,10 @@
 - El Silenci: no matches
 - Les Animes: no matches
 - El Desig 2: no matches
-- Joana Serra i Bosch: no matches (El Desig 2 cast)
-- Bernat Puig i Colom: no matches (El Desig 2 cast)
-- Aina Vives i Aragó: no matches (El Desig 2 cast)
+- Joana Serra i Bosch: no matches (El Desig 2 cast — plays the prosecutor's sister)
+- Bernat Puig i Colom: no matches (El Desig 2 cast — plays the prosecutor)
+- Aina Vives i Aragó: no matches (El Desig 2 cast — plays the filmmaker character)
+- Oriol Mas i Fuster: no matches (El Desig 2 cast — plays the romantic interest)
 
 ## Cross-references to verify
 - [ ] El Desig (film) article: details consistent with this article (cast, crew, production timeline, screening) — verified during writing
