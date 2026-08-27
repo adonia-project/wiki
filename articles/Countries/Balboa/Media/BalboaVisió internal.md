@@ -60,14 +60,26 @@
 - 2021: BalboaVisió+ streaming platform launched
 - 2026: 3,200 employees, $2.4B revenue
 
+## Força Esports (partial ownership)
+- BalboaVisió is a partial owner of Força Esports, a Balboan esports organisation
+- Força Esports competes in Galactic Combat
+- Qualified for 2026 Galactic Combat World Championship as Lurandia-Abyala regional finals winner
+- Investment made in early 2020s as part of strategy to expand into gaming content and youth audiences
+- Gives BalboaVisió broadcasting rights for team's matches on BalboaVisió+
+- Positioned BalboaVisió as principal domestic broadcaster of Galactic Combat esports in Balboa
+- Referenced in: `articles/Countries/Balboa/Media/2026 Galactic Combat World Championship.mediawiki`
+- Força Esports does NOT yet have its own dedicated article
+
 ## Open Questions
 1. What specific shows beyond "Generació Unitat" should be invented?
 2. What is the relationship between BalboaVisió and the existing cinema studios (ESC, PTB)?
-3. Does BalboaVisió produce any sports programming — does it have broadcasting rights for any specific sports/leagues?
+3. Does BalboaVisió produce any sports programming beyond esports — does it have broadcasting rights for any specific sports/leagues?
 4. What is the relationship with BLEC — is BLEC a competitor or partner?
 5. Should NBV have its own dedicated article?
 6. What is the market share/viewership relative to Telebadia, Canal Nord, and Zong TV Balboa?
 7. Does the network broadcast in multiple languages or primarily Volisanian?
+8. What is BalboaVisió's ownership stake in Força Esports? Who are the other owners?
+9. Should Força Esports get its own article?
 
 ## Files
 - `articles/Countries/Balboa/Media/BalboaVisió.mediawiki` — wiki article
