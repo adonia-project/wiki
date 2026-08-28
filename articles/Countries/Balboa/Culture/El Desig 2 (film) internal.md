@@ -9,14 +9,19 @@
 - Got critical acclaim
 - Won the Sant Cristòfor Film Festival Best Movie award (2010) → used Costa Nord Film Festival (established in wiki as the oldest/most prestigious in Balboa, in Sant Cristòfor)
 - Won the Castejón Film Festival award the following year (2011)
-- Plot: fictionalised prosecutor from Portblanc obsessed with El Desig, never watched the film, tries to find connection between film and conservative court area, breaks into Montserrat's home (real-life burglary reimagined), gets into gay romance, discovers sister is one of the actresses, never knew because never watched the film or asked sister
+- Plot: fictionalised private investigator from the initial El Desig trial (when it was dismissed), hired by a private investigative unit funded by anonymous conservative groups, never watched the film, tries to find connection between film and Portblanc, breaks into Montserrat's home (real-life burglary reimagined), gets into gay romance, discovers sister is one of the actresses, never knew because never watched the film or asked sister
+- The conservative group in the film is called the "Not Catholic Church" — a satirical name, widely theorised to be a front for the Balboan Catholic Church
+- IRL: there was a subsequent investigation for a few weeks by a private investigative unit funded by anonymous conservative groups after the initial trial was dismissed
+- The conclusion of the movie is the trial being re-filed in Portblanc
+- Limited commercial success due to its strangeness; became a cult classic
+- Box office: ~$247,000 (estimated); budget: ~$72,000 (estimated)
 
 ## Invented details
 
 ### Character names (within the film)
 | Character | Description | Actor |
 |----------|-------------|-------|
-| Francesc | Conservative prosecutor from Portblanc; obsessed with El Desig; never watches the film; enters gay romance; discovers sister is actress in the film | [[Bernat Puig i Colom]] |
+| Francesc | Conservative private investigator from the initial El Desig trial; hired by the "Not Catholic Church"-funded unit; obsessed with El Desig; never watches the film; enters gay romance; discovers sister is actress in the film | [[Bernat Puig i Colom]] |
 | Mònica | Francesc's sister; one of the actresses in El Desig; Portblanc resident (jurisdictional link) | [[Joana Serra i Bosch]] |
 | Pau | Journalist covering the trial; Francesc's romantic interest | [[Oriol Mas i Fuster]] |
 | The filmmaker | Fictionalised version of Riera i Sola; appears only in break-in sequences and background footage | [[Aina Vives i Aragó]] |
