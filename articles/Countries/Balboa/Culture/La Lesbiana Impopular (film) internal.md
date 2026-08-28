@@ -9,10 +9,11 @@
 - **Language**: Volisanian
 
 ## Concept
-- Riera i Sola was born 1948, grew up as a teenager in the 1960s
-- The film transposes her coming-of-age as a lesbian teenager from the 1960s into a 1990s setting
+- Riera i Sola was born 1948, grew up as a teenager in Sant Bart (conservative interior city) in the 1960s
+- The film transposes her coming-of-age as a lesbian teenager from 1960s Sant Bart into a 1990s version of Sant Bart
 - The protagonist is "stuck in the 1960s" mentally — she fears persecution for being a lesbian
-- But it's the 1990s and everyone around her is fine/accepting of her sexuality
+- The Sant Bart of the late 1990s is more accepting and cosmopolitan than the conservative Sant Bart of the 1960s
+- The film is about her internal fears and biases from her conservative upbringing, transposed to a world that no longer matches them
 - The comedy/pathos comes from the gap between her fear and the absence of persecution
 
 ## Anachronisms
