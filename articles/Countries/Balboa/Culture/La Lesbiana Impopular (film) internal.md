@@ -4,8 +4,9 @@
 - **Year**: 2007
 - **Director/Writer/Editor**: Montserrat Riera i Sola
 - **Genre**: Fictional autobiographical comedy-drama
-- **Budget**: ~$45,000 (invented)
-- **Box office**: ~$180,000 (invented, "moderate success")
+- **Budget**: $102,400
+- **Box office**: $1,104,000
+- **Awards**: Nominated for Best Picture at UAC Awards (first time Riera i Sola recognised in UAC top category)
 - **Language**: Volisanian
 
 ## Concept
