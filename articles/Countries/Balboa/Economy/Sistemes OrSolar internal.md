@@ -18,6 +18,10 @@ All facts from user message on 2026-08-31. No external sources.
   - General-purpose text LLM
   - Competes with major models on cheaper benchmarks
   - Mobile app released same day (chatbot interface)
+  - XatPro subscription: $5/month pro plan with enhanced capabilities
+  - Mission: affordable AI for the rest of Adonia
+- **Valuation**: $5 billion (announced on launch day, 31 August 2026)
+- **Employees**: 300 (2026)
 - **Controversy**: Accused of distilling model training from Kizan Systems' Satori AI
   - Both founders worked at Kizan Systems on Satori before leaving
   - OrSolar denies allegations
@@ -35,7 +39,7 @@ All facts from user message on 2026-08-31. No external sources.
 - Percentages are approximate and were not specified by the user
 
 ## Employee Count
-- ~60 (estimated, not specified by user)
+- 300 (confirmed by user)
 
 ## Connections to Existing Lore
 - **Plastic Beach**: Same research cluster as BioDàrsena and Genètica de l'Istme
@@ -55,7 +59,7 @@ All facts from user message on 2026-08-31. No external sources.
 7. Does OrSolar have any partnerships with the University of Sant Cristòfor?
 8. What computing infrastructure does OrSolar use for training? (Kizan TPUs? Other hardware?)
 9. Is there a Balboan government policy on domestic AI development that supported OrSolar?
-10. What is the pricing model for XatXat — free, freemium, subscription?
+10. What is the pricing model for XatXat — free, freemium, subscription? (RESOLVED: free tier + XatPro at $5/month)
 
 ## Notes
 - The launch date (31 August 2026) is the same as the current in-world date, making this a breaking/contemporaneous event

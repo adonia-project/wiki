@@ -10,8 +10,8 @@
 | areas_served  = {{ubl|Balboa|International}}
 | key_people    = {{ubl|[[Abe Zayna]] (CEO)|[[Ryuko Vidal]] (CTO)}}
 | owner         = {{ubl|Founders (35%)|[[Baoshi Capital]] (20%)|[[Fons d'Inversió Directa de Balboa]] (15%)|Other investors (30%)}}
-| num_employees = 60 (2026)
-| products      = {{ubl|XatXat 1.0 ({{w|large language model|LLM}})|XatXat mobile application}}
+| num_employees = 300 (2026)
+| products      = {{ubl|XatXat 1.0 ({{w|large language model|LLM}})|XatXat mobile application|XatPro subscription}}
 | website       =
 }}
 
@@ -37,9 +37,9 @@ Throughout 2024 and 2025, OrSolar conducted model training and evaluation, devel
 
 === XatXat 1.0 launch (31 August 2026) ===
 
-On 31 August 2026, OrSolar publicly released XatXat 1.0, the first domestically developed large language model in Balboa, alongside a consumer-facing mobile application of the same name. The launch marked the entry of Balboa into the global artificial intelligence market. XatXat 1.0 was described by the company as a general-purpose text model designed for a range of {{w|natural language processing}} tasks, including conversational interaction, text summarisation, translation, and content generation.
+On 31 August 2026, OrSolar publicly released XatXat 1.0, the first domestically developed large language model in Balboa, alongside a consumer-facing mobile application of the same name. The launch marked the entry of Balboa into the global artificial intelligence market. XatXat 1.0 was described by the company as a general-purpose text model designed for a range of {{w|natural language processing}} tasks, including conversational interaction, text summarisation, translation, and content generation. On the day of the launch, OrSolar announced a valuation of $5 billion, positioning the company among the most highly valued private technology companies in Balboa.
 
-The simultaneous release of the mobile application provided consumers with direct access to the model through a {{w|chatbot}} interface, positioning OrSolar as both a model developer and a consumer-facing product company.
+The simultaneous release of the mobile application provided consumers with direct access to the model through a {{w|chatbot}} interface, positioning OrSolar as both a model developer and a consumer-facing product company. OrSolar stated its mission as providing affordable artificial intelligence to users across Adonia, with the application available to users in Balboa and select international markets.
 
 == XatXat ==
 
@@ -53,6 +53,8 @@ The name "XatXat" derives from the Volisanian word ''xat'', meaning "chat," refl
 
 The XatXat mobile application, released alongside the model on 31 August 2026, is a consumer-facing {{w|chatbot}} interface that provides users with direct access to the XatXat 1.0 model. The application enables conversational interaction with the model for tasks including question answering, text composition, translation, and general assistance. The application is available to users in Balboa and select international markets.
 
+The application is offered in two tiers: a free tier with standard access to the model, and XatPro, a subscription plan priced at $5 per month that provides enhanced capabilities including priority response times, extended conversation history, and access to advanced model features. OrSolar has positioned the XatPro pricing as part of its broader mission to provide affordable artificial intelligence across Adonia, undercutting the subscription costs of competing AI services.
+
 == Distillation controversy ==
 
 Following the launch of XatXat 1.0, OrSolar faced public allegations that the model had been trained using {{w|knowledge distillation|distilled}} outputs from [[Satori (AI)|Satori]], the large language model developed by [[Kizan Systems]] and deployed across Okaiken's national infrastructure. The allegations centred on the claim that OrSolar had used Satori's generated responses as training data for XatXat 1.0, effectively transferring knowledge from the larger model without authorisation.
@@ -63,7 +65,7 @@ OrSolar has denied the allegations, stating that XatXat 1.0 was trained on publi
 
 == Operations ==
 
-OrSolar operates from a facility at [[Plastic Beach]] in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. The company's offices and computing infrastructure are housed in a converted warehouse within the Metallúrgia Coastal Research Cluster, alongside other technology and research companies. OrSolar employs approximately 60 people as of 2026, including researchers, engineers, and operational staff.
+OrSolar operates from a facility at [[Plastic Beach]] in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. The company's offices and computing infrastructure are housed in a converted warehouse within the Metallúrgia Coastal Research Cluster, alongside other technology and research companies. OrSolar employs approximately 300 people as of 2026, including researchers, engineers, and operational staff.
 
 The company is the first artificial intelligence firm established at the Plastic Beach cluster, which had previously been focused on biotechnology and chemical research. OrSolar's presence has contributed to the diversification of the cluster's tenant base into digital technology and computing.
 
