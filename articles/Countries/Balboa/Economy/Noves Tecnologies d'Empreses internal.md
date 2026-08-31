@@ -9,7 +9,8 @@ Core facts from user messages on 2026-08-31. All other details invented per user
 - **Listed on stock market**: 2025
 - **Business**: Builds and manages datacenter infrastructure in Abyala
 - **HQ**: Dàrsena, Sant Cristòfor
-- **Contracts with**: Kizan Systems (confirmed by user)
+- **Contracts with**: Kizan Systems (confirmed by user), Sistemes OrSolar (confirmed by user 2026-08-31)
+- **OrSolar contract**: Signed in 2025 for compute hosting (XatXat LLM training/inference)
 - **Datacenter locations** (user-provided 2026-08-31):
   - One near the nuclear plant in Balboa (Central Nuclear de Sant Feliu, Jala Province)
   - One in Portblanc (Tramuntana Province, Balboa)
@@ -69,6 +70,7 @@ Core facts from user messages on 2026-08-31. All other details invented per user
 
 ## Connections to Existing Lore
 - **Kizan Systems**: Okaiken government-subsidized semiconductor/AI company; makes TPUs; operates Yagikoshu Data Corridor
+- **Sistemes OrSolar**: Balboan AI company; developed XatXat LLM (launched 31 Aug 2026); based at Plastic Beach, Dàrsena; founded 2023 by Abe Zayna and Ryuko Vidal (former Kizan Systems researchers); raised ~$100M from FIDB + Baoshi Capital; NTE hosts their compute infrastructure
 - **Abyala Telecom**: Tubau's former employer; largest telecom in southern Abyala; already offers data centre services
 - **Central Nuclear de Sant Feliu**: Balboa's only nuclear plant; 2 reactors, 2,800 MW; located in Sant Feliu, Tossal comarca, Jala Province; commissioned 2010; operated by OENB
 - **ETEB**: Energia Tèrmica de l'Estat de Balboa; state-owned thermal generation (natural gas + petroleum); ~3,000 MW capacity; ~22% of electricity
@@ -100,7 +102,10 @@ Core facts from user messages on 2026-08-31. All other details invented per user
 - HQ is in Dàrsena but is NOT a datacenter — the datacenters are at other locations
 - The fast IPO timeline (founded 2024, listed 2025) is justified by the Kizan anchor contract
 - NTE is distinct from OrSolar: OrSolar is AI software/models, NTE is physical infrastructure
-- Both are in Dàrsena, reinforcing the district's emergence as a tech hub
+- Both NTE and OrSolar are in Dàrsena, reinforcing the district's emergence as a tech hub
+- OrSolar contract (2025) is NTE's second major anchor tenant after Kizan Systems
+- OrSolar uses NTE's Sant Feliu facility for XatXat training and inference
+- OrSolar raised $100M but didn't build own datacenters — contracted NTE instead
 - The gas power plant arrangement (private capital, state operation) is novel for Balboa's energy system
 - Sant Jorge protests parallel the Birú/CHB dam conflicts — same highland region, same indigenous land rights themes
 - Ciudad Obrera used as Potocsí datacenter city — it's from the Potocsí country article's city list

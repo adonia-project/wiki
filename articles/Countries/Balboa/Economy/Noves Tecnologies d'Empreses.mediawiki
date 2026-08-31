@@ -20,7 +20,7 @@
 | website       =
 }}
 
-'''Noves Tecnologies d'Empreses, S.A.''' (commonly known as '''NTE''') is a Balboan {{w|data center}} infrastructure company headquartered in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. Founded in 2024 by former [[Abyala Telecom]] executive [[Marc Tubau i Ferrer]] and electrical engineer [[Laura Pons i Vives]], the company builds and manages data center facilities across [[Balboa]] and southern [[Abyala]]. NTE is listed on the [[Bolsa de Sant Cristòfor]] under the ticker NTE and has signed infrastructure contracts with [[Kizan Systems]] of [[Okaiken]] to host the company's {{w|tensor processing unit}} clusters outside the Sanese archipelago.
+'''Noves Tecnologies d'Empreses, S.A.''' (commonly known as '''NTE''') is a Balboan {{w|data center}} infrastructure company headquartered in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. Founded in 2024 by former [[Abyala Telecom]] executive [[Marc Tubau i Ferrer]] and electrical engineer [[Laura Pons i Vives]], the company builds and manages data center facilities across [[Balboa]] and southern [[Abyala]]. NTE is listed on the [[Bolsa de Sant Cristòfor]] under the ticker NTE and has signed infrastructure contracts with [[Kizan Systems]] of [[Okaiken]] to host the company's {{w|tensor processing unit}} clusters outside the Sanese archipelago, and with [[Sistemes OrSolar]] of Sant Cristòfor to host compute infrastructure for the [[XatXat]] large language model.
 
 The company has attracted controversy over its energy consumption, its funding of a new {{w|natural gas}}-fired power station in [[Portblanc]], and indigenous protests against a proposed facility near [[Sant Jorge]] in the [[Tramuntana Province|Tramuntana]] highlands.
 
@@ -45,6 +45,12 @@ The Kizan contract was the catalyst for NTE's accelerated path to public markets
 NTE completed its initial public offering on the [[Bolsa de Sant Cristòfor]] in mid-2025, raising approximately $120 million through the sale of new shares. The IPO valued the company at approximately $800 million at the offering price. The proceeds were allocated primarily to land acquisition and construction of the company's first data center facilities — one near the [[Central Nuclear de Sant Feliu]] in [[Jala Province|Jala]], and one in [[Portblanc]], [[Tramuntana Province|Tramuntana]] — as well as to the procurement of power and cooling infrastructure.
 
 The offering was noted for the speed of the company's path to market, approximately 18 months after founding. The Kizan Systems contract was cited in the IPO prospectus as a material factor in the company's investment case, providing contracted revenue that supported the valuation. The stock began trading under the ticker NTE and was well-received by investors seeking exposure to digital infrastructure in the Abyalan growth market.
+
+=== Sistemes OrSolar contract (2025) ===
+
+In 2025, NTE signed a compute hosting contract with [[Sistemes OrSolar]], the Sant Cristòfor-based artificial intelligence company developing the [[XatXat]] large language model. Under the agreement, NTE would provide data center capacity for OrSolar's model training and inference workloads, hosting the computing infrastructure used to develop and run the XatXat system. The contract represented NTE's second major anchor tenant after Kizan Systems and established the company as a infrastructure provider for both international and domestic AI compute workloads in Balboa.
+
+The OrSolar contract was notable for the proximity of the two companies: both are headquartered in [[Dàrsena (ciutat)|Dàrsena]], Sant Cristòfor, with OrSolar based at the Plastic Beach research cluster and NTE's offices located in the same district. The arrangement allowed OrSolar to access purpose-built data center capacity without constructing its own facilities, while providing NTE with a domestic anchor tenant complementing the Kizan Systems contract.
 
 === Facility construction and expansion (2025–2026) ===
 
@@ -76,13 +82,21 @@ NTE operates two data center facilities as of 2026, with additional sites under 
 
 The Sant Feliu facility is the company's primary site, housing the main Kizan Systems TPU cluster. The site was selected for its proximity to the [[Central Nuclear de Sant Feliu]], Balboa's only nuclear power station, which provides stable baseload power. The Portblanc facility serves the Tramuntana highland region and is co-located with a new gas-fired power station funded by NTE (see [[#Portblanc gas power station|Portblanc gas power station]]).
 
-NTE's business model centres on providing colocation and managed hosting services to enterprise and government clients, with Kizan Systems as its anchor tenant. The company offers tiered service levels ranging from basic colocation — power, cooling, and physical security — to fully managed infrastructure including network connectivity, hardware maintenance, and monitoring.
+NTE's business model centres on providing colocation and managed hosting services to enterprise and government clients, with [[Kizan Systems]] and [[Sistemes OrSolar]] as its anchor tenants. The company offers tiered service levels ranging from basic colocation — power, cooling, and physical security — to fully managed infrastructure including network connectivity, hardware maintenance, and monitoring.
 
-== Kizan Systems partnership ==
+== Major contracts ==
+
+=== Kizan Systems ===
 
 The infrastructure contract with [[Kizan Systems]] is NTE's most significant commercial relationship. Under the multi-year agreement, NTE builds and operates facilities designed to Kizan's specifications for housing its {{w|tensor processing unit}} clusters, which are used for {{w|deep learning}} training and {{w|inference}} workloads. Kizan Systems, which is based in [[Okaiken]] and subsidised by the Sanese government, had previously concentrated its compute infrastructure within the [[Yagikoshu Data Corridor]] on the sub-arctic southern island of [[Yagikoshu]]. The partnership with NTE represented Kizan's first major expansion of its physical compute footprint outside the Sanese archipelago.
 
 The arrangement allows Kizan Systems to offer low-latency AI compute services to clients in southern Abyala without routing workloads to Okaiken, reducing network latency and addressing data sovereignty considerations. For NTE, the Kizan contract provides a long-term anchor tenant that underpins the financial case for each facility, with the Okaiken company committing to capacity leases spanning multiple years.
+
+=== Sistemes OrSolar ===
+
+NTE's compute hosting contract with [[Sistemes OrSolar]], signed in 2025, provides data center capacity for the development and operation of the [[XatXat]] large language model. OrSolar, founded in 2023 by former Kizan Systems researchers [[Abe Zayna]] and [[Ryuko Vidal]], raised approximately $100 million in funding to develop XatXat but did not construct its own data center facilities, instead contracting NTE for managed hosting of its training and inference compute infrastructure.
+
+The contract gives OrSolar access to purpose-built data center capacity at NTE's Sant Feliu facility, where the XatXat model was trained and where inference workloads are hosted. The arrangement allows OrSolar to scale its compute resources in line with model development without the capital expenditure of constructing and operating its own facilities. Both companies are headquartered in [[Dàrsena (ciutat)|Dàrsena]], Sant Cristòfor, facilitating coordination between OrSolar's research team and NTE's operations staff.
 
 == Controversy ==
 
@@ -125,6 +139,7 @@ NTE is a publicly traded company listed on the [[Bolsa de Sant Cristòfor]]. The
 == See also ==
 
 * [[Kizan Systems]]
+* [[Sistemes OrSolar]]
 * [[Abyala Telecom]]
 * [[Bolsa de Sant Cristòfor]]
 * [[Energy in Balboa]]
