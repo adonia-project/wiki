@@ -1,0 +1,8 @@
+return {
+  lang = "ca",
+  ["ES"] = {name="Estret", isoname="Província d'Estret", lang="ca"},
+  ["JA"] = {name="Jala", isoname="Província de Jala", lang="ca"},
+  ["TR"] = {name="Tramuntana", isoname="Província de Tramuntana", lang="ca"},
+  ["NU"] = {name="Nurra", isoname="Província de Nurra", lang="ca"},
+  ["MI"] = {name="Migjorn", isoname="Província de Migjorn", lang="ca"}
+}
