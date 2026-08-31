@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Adonia Jeopardy</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #1a1a2e;
+    color: #fff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  /* Title */
+  .title-bar {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(180deg, #0a0a1a, #1a1a2e);
+    width: 100%;
+    border-bottom: 3px solid #c9a227;
+  }
+  .title-bar h1 {
+    font-size: 2.5em;
+    color: #c9a227;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  }
+  .title-bar .subtitle {
+    font-size: 1em;
+    color: #888;
+    margin-top: 5px;
+    letter-spacing: 2px;
+  }
+  /* Round indicator */
+  .round-indicator {
+    text-align: center;
+    padding: 10px;
+    font-size: 1.4em;
+    color: #c9a227;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    width: 100%;
+    background: #12122a;
+  }
+  /* Board */
+  .board {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 4px;
+    padding: 10px;
+    width: 95%;
+    max-width: 1400px;
+  }
+  .category-header {
+    background: #16213e;
+    border: 1px solid #c9a227;
+    text-align: center;
+    padding: 15px 5px;
+    font-size: 0.85em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #c9a227;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 70px;
+    line-height: 1.2;
+  }
+  .clue {
+    background: #16213e;
+    border: 1px solid #2a2a4a;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80px;
+    cursor: pointer;
+    transition: background 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .clue:hover { background: #1a2744; }
+  .clue .value {
+    font-size: 1.8em;
+    color: #c9a227;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+  }
+  .clue.used {
+    cursor: default;
+    background: #0d1117;
+  }
+  .clue.used .value { display: none; }
+  .clue.used::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    width: 80%;
+    height: 1px;
+    background: #333;
+  }
+  /* Modal */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.85);
+    z-index: 100;
+    justify-content: center;
+    align-items: center;
+  }
+  .modal-overlay.active { display: flex; }
+  .modal {
+    background: #1a1a2e;
+    border: 3px solid #c9a227;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 800px;
+    padding: 40px;
+    text-align: center;
+  }
+  .modal .cat-label {
+    color: #c9a227;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+  }
+  .modal .clue-text {
+    font-size: 1.6em;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal .answer-text {
+    font-size: 1.4em;
+    color: #4ecca3;
+    display: none;
+    margin-bottom: 20px;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+  }
+  .modal .answer-text.visible { display: block; }
+  .modal .controls {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .modal button {
+    background: #16213e;
+    color: #c9a227;
+    border: 2px solid #c9a227;
+    padding: 10px 25px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.2s;
+  }
+  .modal button:hover {
+    background: #c9a227;
+    color: #1a1a2e;
+  }
+  /* Final Jeopardy */
+  .final-jeopardy {
+    display: none;
+    text-align: center;
+    padding: 40px;
+    width: 95%;
+    max-width: 800px;
+  }
+  .final-jeopardy.active { display: block; }
+  .final-jeopardy h2 {
+    color: #c9a227;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+  }
+  .final-jeopardy .fj-category {
+    color: #888;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+  }
+  .final-jeopardy .fj-clue {
+    font-size: 1.4em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    padding: 20px;
+    background: #16213e;
+    border: 1px solid #c9a227;
+    border-radius: 8px;
+  }
+  .final-jeopardy .fj-answer {
+    font-size: 1.3em;
+    color: #4ecca3;
+    display: none;
+    margin-top: 15px;
+  }
+  .final-jeopardy .fj-answer.visible { display: block; }
+  /* Round controls */
+  .round-controls {
+    display: flex;
+    gap: 15px;
+    padding: 15px;
+    justify-content: center;
+  }
+  .round-controls button {
+    background: #16213e;
+    color: #c9a227;
+    border: 2px solid #c9a227;
+    padding: 8px 20px;
+    font-size: 0.9em;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+  .round-controls button:hover { background: #c9a227; color: #1a1a2e; }
+  .round-controls button.active { background: #c9a227; color: #1a1a2e; }
+  /* Responsive */
+  @media (max-width: 768px) {
+    .board { grid-template-columns: repeat(3, 1fr); }
+    .category-header { font-size: 0.7em; min-height: 50px; }
+    .clue { min-height: 55px; }
+    .clue .value { font-size: 1.2em; }
+    .modal { padding: 20px; }
+    .modal .clue-text { font-size: 1.2em; }
+  }
+</style>
+</head>
+<body>
+
+<div class="title-bar">
+  <h1>Adonia Jeopardy</h1>
+  <div class="subtitle">Test your knowledge of the world of Adonia</div>
+</div>
+
+<div class="round-controls">
+  <button id="btn-single" class="active" onclick="showRound('single')">Single Jeopardy</button>
+  <button id="btn-double" onclick="showRound('double')">Double Jeopardy</button>
+  <button id="btn-final" onclick="showRound('final')">Final Jeopardy</button>
+</div>
+
+<!-- SINGLE JEOPARDY -->
+<div id="round-single" class="round-indicator">Single Jeopardy</div>
+<div id="board-single" class="board"></div>
+
+<!-- DOUBLE JEOPARDY -->
+<div id="round-double" style="display:none">
+  <div class="round-indicator">Double Jeopardy</div>
+  <div id="board-double" class="board"></div>
+</div>
+
+<!-- FINAL JEOPARDY -->
+<div id="round-final" style="display:none">
+  <div class="final-jeopardy active">
+    <h2>Final Jeopardy</h2>
+    <div class="fj-category">Category: ADONIAN SCIENCE</div>
+    <div class="fj-clue">In 1932, at the University of Anping in Louyang, this man performed radiochemical separation and identified barium and krypton as fission products — discovering nuclear fission just 2 years before the Great Adonian War.</div>
+    <button onclick="toggleFJ()">Reveal Answer</button>
+    <div class="fj-answer" id="fj-answer">Who is <strong>Tân Bûn-kong</strong> (陳文光)?</div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modal-overlay" onclick="closeModal(event)">
+  <div class="modal" onclick="event.stopPropagation()">
+    <div class="cat-label" id="modal-cat"></div>
+    <div class="clue-text" id="modal-clue"></div>
+    <div class="answer-text" id="modal-answer"></div>
+    <div class="controls">
+      <button onclick="revealAnswer()">Reveal Answer</button>
+      <button onclick="closeModalForce()">Close</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── DATA ──────────────────────────────────────────
+const singleData = [
+  {
+    category: "Fosian Emperors",
+    clues: [
+      { value: 200, clue: "This emperor's reign name means 'Heavenly Filial Piety' and he ordered the 1606 Baiduist expulsion from Zong.", answer: "Who is Tianxiao (天孝)?" },
+      { value: 400, clue: "This Golden Age emperor married Princess Fenglan of Bingzhou in 1271, establishing the personal union that became the casus belli for the Jade Sea War.", answer: "Who is Tianhe (天和)?" },
+      { value: 600, clue: "This emperor, reigning c. 1430–1478, broke the Continental–Maritime faction deadlock in favour of eastward Shendan Ocean exploration.", answer: "Who is Tianyang (天洋)?" },
+      { value: 800, clue: "Deposed c. 1585 by the Baiduist usurper Foyuan, this emperor fled across the Shendan Ocean to Louyang and established a court-in-exile at Anping.", answer: "Who is Tianhao (天浩)?" },
+      { value: 1000, clue: "This 'meek' emperor didn't learn about the First War of the Isthmus until 4 months after it started — his father Tianzheng had died before the news arrived.", answer: "Who is Tianli (天理)?" },
+    ]
+  },
+  {
+    category: "Kaftian Geography",
+    clues: [
+      { value: 200, clue: "At 107,000 sq km, this is the third-largest lake on Adonia by surface area.", answer: "What is the Great Kaftian Lake?" },
+      { value: 400, clue: "At 2,300 m, this peak in the Kushish Highlands is the highest point in the Great Kaftian Mountain Range.", answer: "What is Buur Waaq?" },
+      { value: 600, clue: "This river drains the Great Kaftian Lake northwest to the Aethiopean Ocean through a narrow rift-axis trough.", answer: "What is the Kitale River?" },
+      { value: 800, clue: "One of six physiographic regions of the Great Kaftian Range, this is an elevated jungle plateau at 1,000–1,500 m elevation.", answer: "What is the Enfolo Plateau?" },
+      { value: 1000, clue: "The Great Kaftian Mountain Range has this distinctive shape, with two arms converging at the Kushish Highlands.", answer: "What is a chevron (or '>' shape)?" },
+    ]
+  },
+  {
+    category: "Wars & Treaties",
+    clues: [
+      { value: 200, clue: "This 1899 treaty ended the Second War of the Isthmus, transferring Sant Cristòfor and the Balboa Canal to Zong.", answer: "What is the Treaty of San Lázaro?" },
+      { value: 400, clue: "Lasting roughly 90 years (c. 1300–1390), this conflict was fought between Zong and the Chengzhi Dynasty of Daras.", answer: "What is the Jade Sea War?" },
+      { value: 600, clue: "This 1716 treaty let Zong withdraw from Sant Cristòfor but granted docking and passage rights through Volisanian ports.", answer: "What is the Treaty of Sant Cristòfor?" },
+      { value: 800, clue: "This war's outbreak was a 'comedy of errors' — an admiral exaggerated a minor refuelling incident into a pretext for naval assault.", answer: "What is the First War of the Isthmus?" },
+      { value: 1000, clue: "This 1594–1608 conflict along the great river systems destroyed the Jyunhap federation and sent millions of refugees into southern Zong.", answer: "What is the Daaiho War (大河戰爭)?" },
+    ]
+  },
+  {
+    category: "Religion in Adonia",
+    clues: [
+      { value: 200, clue: "This religion dominates the north and interior of Zong and ordains the emperor's legitimacy through the Mandate of Heaven.", answer: "What is Tianism?" },
+      { value: 400, clue: "Founded in 573 AD by Iacob I, this church is in full communion with the Petran Catholic Church of Volisania.", answer: "What is the Burawi Catholic Church (BCC)?" },
+      { value: 600, clue: "This nontrinitarian Christian movement from Jarin emphasises forgiveness; Amran Kadar, mother of Manaa Kadar, was an adherent.", answer: "What is Lathrianism?" },
+      { value: 800, clue: "This 1695 BCC synod declaration outraged merchant classes by condemning a certain trade as incompatible with Christian ethics.", answer: "What is the anti-slave-trade declaration?" },
+      { value: 1000, clue: "This indigenous highland religion centred on Buur Waaq was formally suppressed after the Northern Conquest but persisted in folk practice for centuries.", answer: "What is Waaq worship?" },
+    ]
+  },
+  {
+    category: "Okaiken History",
+    clues: [
+      { value: 200, clue: "This 14th-century event permanently split the Miyagi Empire into the Northern Court (Okaiken) and Southern Court (Nakamizu).", answer: "What is the Schism of the Dual Suns?" },
+      { value: 400, clue: "Okaiken's national motto, 'Tough yet Gentle, the Middle Way,' is written in Sanese as this four-character phrase.", answer: "What is 剛柔中道 (Gōjū Chūdō)?" },
+      { value: 600, clue: "During the Sengoku Period (1467–1582), thousands of these disenfranchised warriors crossed the Shendan Ocean to serve as mercenaries in Zong colonies.", answer: "What are samurai / rōnin (the 'Sengoku Export')?" },
+      { value: 800, clue: "This warlord, known as 'The Demon King,' began the unification of Okaiken but was betrayed at the Honto-ji Incident in 1592.", answer: "Who is Ogasawara Terumasa?" },
+      { value: 1000, clue: "Born Prince Fumihito and abducted during the Yuzawa Incident, this man became a fearsome general known as 'The Warrior who Surpassed Death' before reclaiming his birthright as emperor in 1610.", answer: "Who is Emperor Shirakawa (Honda Shigetada)?" },
+    ]
+  },
+  {
+    category: "The Baliscan World",
+    clues: [
+      { value: 200, clue: "This city on Abyala is the capital of the Baliscan Confederation and its largest city.", answer: "What is Castejón?" },
+      { value: 400, clue: "The Baliscan Confederation's national anthem is this well-known workers' song, shared with socialist movements worldwide.", answer: "What is 'La Internacional' (The Internationale)?" },
+      { value: 600, clue: "Before independence, most of Balisca was this Volisanian colonial territory, established in 1545 and dissolved in 1738.", answer: "What is the Viceroyalty of New Volisania?" },
+      { value: 800, clue: "Balisca's government is described as this unusual form of governance, combining open-source principles with liquid democracy.", answer: "What is open-source collaborative liquid democracy?" },
+      { value: 1000, clue: "This 1918 event was a key founding moment in modern Baliscan history, part of the chain of establishment events leading to the current confederation.", answer: "What is the Baliscan Revolution?" },
+    ]
+  },
+];
+
+const doubleData = [
+  {
+    category: "Modern Burawa",
+    clues: [
+      { value: 400, clue: "This is the only city in Burawa where private property is allowed, due to a deal Manaa Kadar struck with loyalist capitalists during the Great Adonian War.", answer: "What is Mazar?" },
+      { value: 800, clue: "This 2008 legislation created a program with renewable 6-month tenures to address labour shortages in publicly-owned industries.", answer: "What is the Temporary Worker Program Act?" },
+      { value: 1200, clue: "In the March 2026 recall vote, the motion to remove Leader Hancil Thea fell short by this many votes.", answer: "What is 16 votes?" },
+      { value: 1600, clue: "The Dhaqso-V rolling stock, introduced in 2022, achieves this top speed on the Iskhal–Badalga South Line.", answer: "What is 350 km/h?" },
+      { value: 2000, clue: "This Burawi political figure, born in 1961 to a Samara steelworker, organised Burawa Steel workers as a trade unionist before becoming Minister of Innovation in 2011.", answer: "Who is Xasan Garaad?" },
+    ]
+  },
+  {
+    category: "Colonial History",
+    clues: [
+      { value: 400, clue: "Established in 1538 at Tamsui, this Zong colony began as a penal and plantation settlement in a hot, disease-ridden land.", answer: "What is Sinchew?" },
+      { value: 800, clue: "This dependent state existed from 1899–1950 and was known as the 'shining star of Adonia' for its cosmopolitanism and egalitarianism.", answer: "What is Zong Balboa?" },
+      { value: 1200, clue: "This Burawi colony declared independence in 1789 when it refused to abolish slavery.", answer: "What is Lacashe?" },
+      { value: 1600, clue: "This confederation of Sinchewese holdouts and Karawã and Apyãwa tribes governed jungle territory between Sinchew and Balboa until conquered in 1715.", answer: "What is Free Sinchew?" },
+      { value: 2000, clue: "This 1952 coalition opposed returning Sant Cristòfor to Balboa, with its largest demonstration drawing 100,000 people in 1958.", answer: "What is the No Return movement?" },
+    ]
+  },
+  {
+    category: "Sanese Archipelago",
+    clues: [
+      { value: 400, clue: "The Sanese Archipelago comprises three nations: Okaiken, Yanbaru, and this third nation governed by the Nogizaka Shogunate.", answer: "What is Nakamizu?" },
+      { value: 800, clue: "This 1368 accord reopened relations between Zong and the Minato Shogunate of Okaiken during the Kitayama Period.", answer: "What is the Tang–Minato Accord?" },
+      { value: 1200, clue: "This philosophy, imported from Zong, emphasised stoicism and the Void-Mind state, finding immense popularity among Okaiken's warrior elite.", answer: "What is Iron Baiduism?" },
+      { value: 1600, clue: "The influx of colonial wealth into these two Okaiken merchant cities destabilised the social order by demanding autonomy from the samurai aristocracy.", answer: "What are Toyozawa and Aizawa?" },
+      { value: 2000, clue: "Okaiken missed the first wave of New World colonisation due to this internal conflict, not because of any Zong–Sanese embargo.", answer: "What is the Schism of the Dual Suns?" },
+    ]
+  },
+  {
+    category: "Volisania & Empire",
+    clues: [
+      { value: 400, clue: "This dynasty, described as Basque-inspired, took the Volisanian throne in 1532 and became assertive around the 1580s.", answer: "What is the House of Lochcarron?" },
+      { value: 800, clue: "This 1590–1610 naval conflict between Volisania and Burawa resulted in Volisanian victory and the incorporation of Reige.", answer: "What is the War of the Mesogean?" },
+      { value: 1200, clue: "This 1736 internal conflict prefigured the dissolution of the Viceroyalty of New Volisania two years later.", answer: "What is the Volisanian Civil War?" },
+      { value: 1600, clue: "This Volisanian humiliation after the First War of the Isthmus contributed to a revanchist movement that eventually led to a 1911 fascist takeover.", answer: "What is the Treaty of Sant Cristòfor (1716) / Volisanian humiliation?" },
+      { value: 2000, clue: "The United Kingdoms of Volisania were formed by these two acts, in 1412 and 1424 — NOT in the 1580s as previously believed.", answer: "What are the Laws in Berona Act and the Laws of Unity?" },
+    ]
+  },
+  {
+    category: "Trade & Routes",
+    clues: [
+      { value: 400, clue: "This is the standardised name for the maritime route via the Balausia Peninsula through northern Fosia to the Kendriyan Ocean.", answer: "What is the Northern Transfosian Route?" },
+      { value: 800, clue: "This overland route from the Jade Peninsula to the Mesogean coast was the more stable alternative, spanning roughly 4,000–5,000 km.", answer: "What is the Southern Transfosian Trade Route?" },
+      { value: 1200, clue: "This medieval trade in a strategic military commodity was critical for Zong, as the Jade Peninsula was unsuitable for breeding them.", answer: "What is the Transfosian Horse Trade?" },
+      { value: 1600, clue: "This empire conquered Dai Ngu, Nokor, and Balausia in the mid-to-late 13th century, closing alternative trade routes and spiking prices.", answer: "What is the Chengzhi Dynasty / Darasian Empire?" },
+      { value: 2000, clue: "This 1564 event marked the convergence of western and eastern Fosian colonial expansion in the New World.", answer: "What is the Great Disappointment?" },
+    ]
+  },
+  {
+    category: "Potpourri",
+    clues: [
+      { value: 400, clue: "This Zong empress consort's marriage to Tianhe in 1271 created the personal union between Zong and Bingzhou.", answer: "Who is Princess Fenglan of Bingzhou (鳳蘭)?" },
+      { value: 800, clue: "This Baiduist usurper from the House of Canglan ruled Zong for only about 4 years (c. 1585–1589) before being overthrown in the Yuanlong Restoration.", answer: "Who is Emperor Foyuan (佛元) / Canglan Rui (蒼蘭瑞)?" },
+      { value: 1200, clue: "This 2011 event in Okaiken reinstated the Imperial House after a 43-year period as a Federal Republic (1968–2011).", answer: "What is the Second Imperial Restoration?" },
+      { value: 1600, clue: "This Kwangju-inspired socialist autonomous region in southwestern Daras was incorporated in 1906 after nearly 1,000 years as a tributary kingdom.", answer: "What is Kwangju (광주)?" },
+      { value: 2000, clue: "This Baliscan currency, whose digital variant is called the 'Digital sol,' is one of the symbols of the confederation's economic independence.", answer: "What is the Baliscan sol?" },
+    ]
+  },
+];
+
+// ── RENDER ──────────────────────────────────────────
+function renderBoard(data, boardId) {
+  const board = document.getElementById(boardId);
+  board.innerHTML = '';
+  data.forEach((cat, ci) => {
+    // Category header
+    const header = document.createElement('div');
+    header.className = 'category-header';
+    header.textContent = cat.category;
+    board.appendChild(header);
+
+    cat.clues.forEach((clue, cli) => {
+      const cell = document.createElement('div');
+      cell.className = 'clue';
+      cell.id = `${boardId}-c${ci}-r${cli}`;
+      cell.innerHTML = `<span class="value">$${clue.value}</span>`;
+      cell.onclick = () => openClue(data, ci, cli, boardId);
+      board.appendChild(cell);
+    });
+  });
+}
+
+renderBoard(singleData, 'board-single');
+renderBoard(doubleData, 'board-double');
+
+// ── MODAL ──────────────────────────────────────────
+let currentClue = null;
+
+function openClue(data, ci, cli, boardId) {
+  const cat = data[ci];
+  const clue = cat.clues[cli];
+  currentClue = { ci, cli, boardId };
+
+  document.getElementById('modal-cat').textContent = cat.category;
+  document.getElementById('modal-clue').textContent = clue.clue;
+  document.getElementById('modal-answer').textContent = clue.answer;
+  document.getElementById('modal-answer').classList.remove('visible');
+  document.getElementById('modal-overlay').classList.add('active');
+}
+
+function revealAnswer() {
+  document.getElementById('modal-answer').classList.add('visible');
+}
+
+function closeModal(event) {
+  if (event.target === document.getElementById('modal-overlay')) {
+    closeModalForce();
+  }
+}
+
+function closeModalForce() {
+  document.getElementById('modal-overlay').classList.remove('active');
+  if (currentClue) {
+    const cell = document.getElementById(`${currentClue.boardId}-c${currentClue.ci}-r${currentClue.cli}`);
+    if (cell) cell.classList.add('used');
+    currentClue = null;
+  }
+}
+
+// ── ROUND SWITCHING ─────────────────────────────────
+function showRound(round) {
+  document.getElementById('round-single').style.display = round === 'single' ? 'block' : 'none';
+  document.getElementById('board-single').style.display = round === 'single' ? 'grid' : 'none';
+  document.getElementById('round-double').style.display = round === 'double' ? 'block' : 'none';
+  document.getElementById('round-final').style.display = round === 'final' ? 'block' : 'none';
+
+  document.getElementById('btn-single').classList.toggle('active', round === 'single');
+  document.getElementById('btn-double').classList.toggle('active', round === 'double');
+  document.getElementById('btn-final').classList.toggle('active', round === 'final');
+}
+
+// ── FINAL JEOPARDY ──────────────────────────────────
+function toggleFJ() {
+  document.getElementById('fj-answer').classList.toggle('visible');
+}
+</script>
+
+</body>
+</html>

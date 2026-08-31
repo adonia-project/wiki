@@ -22,7 +22,7 @@
 
 '''Noves Tecnologies d'Empreses, S.A.''' (commonly known as '''NTE''') is a Balboan {{w|data center}} infrastructure company headquartered in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. Founded in 2024 by former [[Abyala Telecom]] executive [[Marc Tubau i Ferrer]] and electrical engineer [[Laura Pons i Vives]], the company builds and manages data center facilities across [[Balboa]] and southern [[Abyala]]. NTE is listed on the [[Bolsa de Sant Cristòfor]] under the ticker NTE and has signed infrastructure contracts with [[Kizan Systems]] of [[Okaiken]] to host the company's {{w|tensor processing unit}} clusters outside the Sanese archipelago, and with [[Sistemes OrSolar]] of Sant Cristòfor to host compute infrastructure for the [[XatXat]] large language model.
 
-The company has attracted controversy over its energy consumption, its funding of a new {{w|natural gas}}-fired power station in [[Portblanc]], and indigenous protests against a proposed facility near [[Sant Jorge]] in the [[Tramuntana Province|Tramuntana]] highlands.
+The company has attracted controversy over its energy consumption, its funding of a new {{w|natural gas}}-fired power station in [[Portblanc]], and indigenous protests against a proposed facility near [[Sant Jorge, Tramuntana|Sant Jorge]] in the [[Tramuntana Province|Tramuntana]] highlands.
 
 == History ==
 
@@ -56,7 +56,7 @@ The OrSolar contract was notable for the proximity of the two companies: both ar
 
 Following the IPO, NTE commenced construction of its first two facilities in Balboa. The Sant Feliu Data Center, located near the [[Central Nuclear de Sant Feliu]] in [[Jala Province|Jala]], was the first to become operational, entering service in early 2026. The site was selected for its proximity to the nuclear plant's high-capacity power infrastructure, providing reliable baseload electricity for the facility's Kizan TPU clusters. The Portblanc Data Center, in the capital of [[Tramuntana Province|Tramuntana]], entered service in mid-2026.
 
-In 2026, NTE announced plans for additional facilities in [[Tapuya]] and [[Potocsí]], targeting growing enterprise and government demand for domestic data hosting in those markets. The company also announced a proposed facility near [[Sant Jorge]] in the Tramuntana highlands, which drew immediate opposition from indigenous communities and leftist political parties (see [[#Controversy|Controversy]]).
+In 2026, NTE announced plans for additional facilities in [[Tapuya]] and [[Potocsí]], targeting growing enterprise and government demand for domestic data hosting in those markets. The company also announced a proposed facility near [[Sant Jorge, Tramuntana|Sant Jorge]] in the Tramuntana highlands, which drew immediate opposition from indigenous communities and leftist political parties (see [[#Controversy|Controversy]]).
 
 == Operations ==
 
@@ -75,7 +75,7 @@ NTE operates two data center facilities as of 2026, with additional sites under 
 |-
 | Tapuya facility || [[Tapuya]] || Under construction || 2 MW (planned)
 |-
-| Sant Jorge facility || Near [[Sant Jorge]], [[Tramuntana Province|Tramuntana]], [[Balboa]] || Proposed (facing opposition) || 3 MW (planned)
+| Sant Jorge facility || Near [[Sant Jorge, Tramuntana|Sant Jorge]], [[Tramuntana Province|Tramuntana]], [[Balboa]] || Proposed (facing opposition) || 3 MW (planned)
 |-
 | Second Potocsí facility || [[Potocsí]] || Planned || 2 MW (planned)
 |}
@@ -114,7 +114,7 @@ The deal drew criticism from the Socialist Front and environmental groups, who a
 
 === Sant Jorge indigenous protests ===
 
-NTE's proposed facility near [[Sant Jorge]], in the far north of [[Tramuntana Province|Tramuntana]], has faced sustained opposition from indigenous communities in the highland area. The proposed site is located on lands traditionally used by highland indigenous groups, who have raised concerns about land use, environmental impact, and the disruption of cultural sites by the construction and operation of a large-scale data center.
+NTE's proposed facility near [[Sant Jorge, Tramuntana|Sant Jorge]], in the far north of [[Tramuntana Province|Tramuntana]], has faced sustained opposition from indigenous communities in the highland area. The proposed site is located on lands traditionally used by highland indigenous groups, who have raised concerns about land use, environmental impact, and the disruption of cultural sites by the construction and operation of a large-scale data center.
 
 The protests have drawn attention to the broader tension between Balboa's push for digital infrastructure development and the rights of indigenous communities in the Tramuntana highlands, a region that has previously seen conflicts over hydroelectric dam construction and its impact on indigenous lands. As of August 2026, the Sant Jorge facility remained in the planning phase, with no construction permits issued.
 

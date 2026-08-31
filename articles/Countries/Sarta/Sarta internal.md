@@ -36,7 +36,7 @@
 - Carlos I of Sarta (1705–1716) — born 1669; died 1716; forced to abdicate after the Treaty of Bahia Alta.
 - Maria I of Sarta (1716–1747) — born 1684; died 1747; ruled through the royal parliamentary court.
 - Alfonso II of Sarta (1811–8 April 1855) — born 1731; installed by Volisania after the Second Sartan Civil War.
-- Carlos II of Sarta (1855–unknown) — successor to Alfonso II; early industrial reform era.
+- Carlos II of Sarta (1855–unknown) — successor to Alfonso II; industrial and nationalist era.
 
 ## Population working series
 - 1690 baseline: about 3.7 million.
@@ -55,3 +55,25 @@
 - Two political blocs formed: a pro-Volisania line and a freer-from-Volisania line. The latter was strongest south of the Sierra Madre and in Leona.
 - Coal mining began in 1844 in the Sierra Madre and mainly fed Volisanian demand, driving northern development.
 - The Occidental Agreement of 1846 returned the coast as Occidental Province in exchange for a 50% coal discount for 99 years. Anti-Volisanian critics called it the Tontas Trato.
+
+## 1846-1906
+- Occidental Province retained its own education, governance, and legal systems for fifty years, making the coast a magnet for migration and schooling.
+- Alfonso II died in 1855 and Carlos II succeeded him; the House of Commons was created the same year after mining unrest.
+- In the Second War of the Isthmus, Sarta initially hesitated, then sent an 8,000-man volunteer force in 1895.
+- War losses were later blamed on the Union del Personajes and helped open space for the Partido Nacional.
+- The National Party won a lower-house majority in 1906 after years of strikes, protests, and fear of socialist revolt.
+
+## 1906-1947
+- The 1910 socialist coalition universalised parliament and tried to reform state enterprises before Jaime Checa's 1912 coup reversed the opening.
+- Checa's regime aligned with Volisania's National Volisan Party, expanded manufacturing and war industry, and used internment, censorship, and party bans to control dissent.
+- The Sartan-Jacan affair of 1923 nearly triggered war.
+- In the Great Adonian War, Sarta sent troops overseas, invaded Kastruneto in 1940, and then suffered wartime fragmentation, famine, and resistance pressure by 1947.
+- Volisania's government was toppled on 4 May 1947, support for Sarta stopped, Kastruneto forces and the [[Movimiento Unido]] closed in on [[Mariapolis]] through the Rio Grande region, and Sarta surrendered on 18 July 1947.
+- The postwar era opened with war tribunals, atrocities investigations, and reconciliation with the wider world.
+
+## 1947-1977
+- Sarta joined the [[Adonian Community]] on 11 August 1947, adopted a new constitution, and extended universal suffrage.
+- The PUM, formed from the UM broad coalition, dominated the reconstruction era and helped present the period as a broadly unified national reset.
+- The state adopted the international dollar, restored ties with [[Guajicutea]], and kept heavy export links to [[Volisania]] and [[Jacan]].
+- The 1960s and early 1970s saw more manufacturing offshored from Volisania, growth in services, and a gradual decline in the older coal-dependent extraction trade.
+- The Camboriú War and oil shock produced a recession in the mid-1970s; the government refused to privatize and waited out the downturn, which weakened PUM control and opened space for the conservative, socialist, progressive, and centrist parties.

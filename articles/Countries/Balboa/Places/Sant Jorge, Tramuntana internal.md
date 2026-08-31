@@ -39,4 +39,4 @@
 6. What is the ethnic composition of the town itself? (Birú vs. white Balboan vs. mixed)
 
 ## File
-- `articles/Countries/Balboa/Places/Sant Jorge.mediawiki` — wiki article
+- `articles/Countries/Balboa/Places/Sant Jorge, Tramuntana.mediawiki` — wiki article

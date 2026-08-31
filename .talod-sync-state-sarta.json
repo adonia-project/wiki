@@ -11,8 +11,8 @@
   },
   "Compañía Real de Minaria de Sarta": {
     "direction": "push",
-    "hash": "98bc44c092d12b5694ae871132a370ed26b7f793afd317407024b3785fd8a718",
-    "last_sync": "2026-08-19T23:49:31.108611+00:00"
+    "hash": "f8cbb9838f3c2730d83c4665937cbd08a352f0f79caa337079499e36d8865aa3",
+    "last_sync": "2026-08-21T22:16:35.917427+00:00"
   },
   "Constitution of 1812": {
     "direction": "push",
@@ -66,28 +66,43 @@
   },
   "History of Sarta (1811-1846)": {
     "direction": "push",
-    "hash": "ae70d76a760e724f1539456657b8350abc2fbbde3be36657304826ac677bb5d0",
-    "last_sync": "2026-08-19T23:49:33.926006+00:00"
+    "hash": "b2622bb7e83f679b4b4c9e41bc213e8b5b5c97a0a5da416ddb0719e51d055cc6",
+    "last_sync": "2026-08-21T22:16:36.998850+00:00"
   },
   "History of Sarta (1846-1899)": {
     "direction": "push",
-    "hash": "e5161f16b3bad45736cf9cc7a68b7480416125f52e73a746c4025eafc0d54dbb",
-    "last_sync": "2026-08-19T23:49:34.832313+00:00"
+    "hash": "dfba6f8532c07b75b99c6f80b25a3ebb80e5b2ecb922e3875dd355848d2ba65f",
+    "last_sync": "2026-08-21T22:16:37.723771+00:00"
+  },
+  "History of Sarta (1846-1906)": {
+    "direction": "push",
+    "hash": "31fe8d7fbb5d4e60cbad09690b7bb381c7d4107835866e5bbaead48bd5550db7",
+    "last_sync": "2026-08-21T23:16:45.044116+00:00"
+  },
+  "History of Sarta (1906-1947)": {
+    "direction": "push",
+    "hash": "0f9376929a238d9c60ee6652e524d153ad4ea0eb3750715bd27b4be5e8f07a86",
+    "last_sync": "2026-08-21T23:29:52.676374+00:00"
+  },
+  "History of Sarta (1947-1977)": {
+    "direction": "push",
+    "hash": "ff1cb0fa5c87dc0e1c005431ef887cf5acf4ca6015d775f6ada6331f769b80ed",
+    "last_sync": "2026-08-21T23:29:53.714586+00:00"
   },
   "House of Commons of Sarta": {
     "direction": "push",
-    "hash": "9147d00274a2f8c0d70f38e4a253381ca101a7e7a85b9fd0c9f3b8988d632e6f",
-    "last_sync": "2026-08-19T23:49:35.515454+00:00"
+    "hash": "a3f39ee5ed0aaf8e1eb1181391cdcfc88e89a1499c62536aef914ebb85ac2729",
+    "last_sync": "2026-08-21T22:16:38.538166+00:00"
   },
   "Liga Progressivo": {
     "direction": "push",
-    "hash": "927084e4946d71679321cdc0116ccb82f108ec325288a4ea409e8d5b322f48a6",
-    "last_sync": "2026-08-19T23:49:36.250761+00:00"
+    "hash": "8daf9481e0602dc9993a3a9277a6f00dbc2137019628df4d878e8e2522696355",
+    "last_sync": "2026-08-21T22:16:39.480503+00:00"
   },
   "List of monarchs of Sarta": {
     "direction": "push",
-    "hash": "cf47336e32fabde6cee560fb3dec47403e0e8f7ac3c7fa4237d3e187bd012ded",
-    "last_sync": "2026-08-19T23:49:26.837741+00:00"
+    "hash": "e57e4e6f23cffd938c8e9790090090dfed6349b2d13c8fea53b83db302d1c592",
+    "last_sync": "2026-08-21T22:16:40.320753+00:00"
   },
   "Occidental Agreement of 1846": {
     "direction": "push",
@@ -98,6 +113,11 @@
     "direction": "push",
     "hash": "68610cd913ca84a9b9d2a30b7ddbf35a8d43d37df4e43121468638ac79ad17b7",
     "last_sync": "2026-08-19T23:49:38.402057+00:00"
+  },
+  "Partido Nacional": {
+    "direction": "push",
+    "hash": "327de03174b50940d3aeca8e7057894068ba2af739b6f82679737cef1c0af07e",
+    "last_sync": "2026-08-21T22:38:10.658265+00:00"
   },
   "Peasant Revolution of 1837": {
     "direction": "push",
@@ -136,7 +156,7 @@
   },
   "Union del Personajes": {
     "direction": "push",
-    "hash": "74479888232bfcaf092b974edd07152131bbfa33ee9a72b82c51eb3ff9adb109",
-    "last_sync": "2026-08-19T23:49:42.723072+00:00"
+    "hash": "b6d02abd42bcbddb4c767080c12b52e36c48188befdd1edd1ce4c3b8c535cd3f",
+    "last_sync": "2026-08-21T22:16:41.164273+00:00"
   }
 }
