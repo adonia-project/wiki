@@ -11,7 +11,7 @@ This guide explains how to generate SVG locator maps for Balboan comarcas, highl
 
 ## Output
 
-SVG files saved to `articles/Countries/Balboa/Maps/`, named `<Comarca Name> comarca in <Province>.svg`.
+SVG files saved to `articles/Countries/Balboa/Maps/`, named `<Comarca Name> in Balboa.svg`.
 
 ## Color Scheme
 
@@ -94,7 +94,7 @@ gis_dir = '/Users/shubhamnaik/Developer/adonia-gis'
 
 # ─── Config ────────────────────────────────────────────────────────────────────
 TARGET_NAME = "La Serra de Llevant"  # Change this
-OUTPUT_PATH = f'articles/Countries/Balboa/Maps/{TARGET_NAME} comarca in Tramuntana.svg'
+OUTPUT_PATH = f'articles/Countries/Balboa/Maps/{TARGET_NAME} in Balboa.svg'
 
 # ─── Load country geometries ────────────────────────────────────────────────────
 transformer_to_wgs84 = pyproj.Transformer.from_crs('ESRI:54030', 'EPSG:4326', always_xy=True)
