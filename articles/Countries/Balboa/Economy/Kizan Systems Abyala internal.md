@@ -20,7 +20,7 @@ Core facts from user message on 2026-08-31: "Kizan Systems Abyala a full owned s
 - **Employees**: 120 (2026), started with ~50
 - **Regional offices**: Sant Cristòfor (HQ), Ciudad Obrera (Potocsí)
 - **Other markets**: Tapuya, Lacashe, Asikyira, Sanrobonia via local systems integrator partnerships
-- **Managing Director**: TBD (not yet invented)
+- **Managing Director**: Kenji Asano (浅野健司) — Sanese expat, 12-year Kizan Systems veteran, previously led Satori enterprise deployments in Okaiken's government and corporate sector, relocated from Okami to Sant Cristòfor in 2025
 
 ## Three Service Lines (invented)
 1. Enterprise AI deployment (custom Satori integration for corporate clients)
@@ -49,7 +49,7 @@ Core facts from user message on 2026-08-31: "Kizan Systems Abyala a full owned s
 - The subsidiary benefits from low-latency compute at NTE's Balboa facilities (vs routing to Okaiken)
 
 ## Open Questions
-1. Who is the managing director? (Sanese expat or local hire?)
+1. ~~Who is the managing director?~~ → RESOLVED: Kenji Asano, Sanese expat, 12-year Kizan veteran
 2. What is the revenue/financial performance?
 3. Are there any major enterprise clients named yet?
 4. Does Kizan Systems Abyala have any government contracts in Balboa or other Abyalan countries?
