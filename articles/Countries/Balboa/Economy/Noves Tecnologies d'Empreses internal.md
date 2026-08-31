@@ -1,7 +1,7 @@
 # Noves Tecnologies d'Empreses — Internal Notes
 
 ## Source
-Core facts from user message on 2026-08-31. All other details invented per user instruction.
+Core facts from user messages on 2026-08-31. All other details invented per user instruction.
 
 ## Key Facts (user-provided)
 - **Company**: Noves Tecnologies d'Empreses
@@ -10,12 +10,22 @@ Core facts from user message on 2026-08-31. All other details invented per user 
 - **Business**: Builds and manages datacenter infrastructure in Abyala
 - **HQ**: Dàrsena, Sant Cristòfor
 - **Contracts with**: Kizan Systems (confirmed by user)
+- **Datacenter locations** (user-provided 2026-08-31):
+  - One near the nuclear plant in Balboa (Central Nuclear de Sant Feliu, Jala Province)
+  - One in Portblanc (Tramuntana Province, Balboa)
+  - Building one in Tapuya
+  - One or two in Potocsí
+  - Sant Jorge (Tramuntana Province, Balboa) — new, controversial
+- **Controversy** (user-provided):
+  - Indigenous protests for construction of new datacenter in Sant Jorge
+  - Leftist parties in Balboa concerned about energy usage and capacity problems
+  - NTE funded construction of a new gas power plant in Portblanc
 
 ## Invented Details
 - **Full legal name**: Noves Tecnologies d'Empreses, S.A. (public limited company)
 - **Ticker**: NTE (on Bolsa de Sant Cristòfor)
 - **Founders**: Marc Tubau i Ferrer (CEO) and Laura Pons i Vives (COO)
-  - Tubau: former Abyala Telecom senior director of network infrastructure — saw gap in Abyalan datacenter market
+  - Tubau: former Abyala Telecom senior director of network infrastructure
   - Pons: electrical engineer, power systems and cooling specialist
 - **Employees**: 450 (2026)
 - **Revenue**: $180M (2026)
@@ -25,20 +35,31 @@ Core facts from user message on 2026-08-31. All other details invented per user 
 - **IPO**: Mid-2025, raised ~$120M, valued at ~$800M at offering
 - **Seed capital**: ~$15M from founders and early investors (pre-IPO)
 
-## Datacenter Facilities (invented)
+## Datacenter Facilities
 | Facility | Location | Status | Capacity |
 |----------|----------|--------|----------|
-| Dàrsena Data Center | Dàrsena, Sant Cristòfor, Balboa | Operational (2026) | 4 MW |
-| Port Vell Data Center | Port Vell, Potocsí | Operational (2026) | 3 MW |
-| Tapuya facility | Tapuya | Under development | 2 MW (planned) |
+| Sant Feliu Data Center | Near Central Nuclear de Sant Feliu, Jala Province, Balboa | Operational (2026) | 4 MW |
+| Portblanc Data Center | Portblanc, Tramuntana Province, Balboa | Operational (2026) | 3 MW |
+| Ciudad Obrera Data Center | Ciudad Obrera, Potocsí | Under construction | 3 MW (planned) |
+| Tapuya facility | Tapuya | Under construction | 2 MW (planned) |
+| Sant Jorge facility | Near Sant Jorge, Tramuntana Province, Balboa | Proposed (facing opposition) | 3 MW (planned) |
+| Second Potocsí facility | Potocsí (city TBD) | Planned | 2 MW (planned) |
 
-## Kizan Systems Contract
-- Multi-year infrastructure contract signed in 2024
-- NTE builds/operates datacenters to house Kizan's TPU clusters outside Okaiken
-- Kizan's first major compute expansion beyond the Yagikoshu Data Corridor
-- Allows Kizan to offer low-latency AI compute to Abyalan clients
-- Anchor tenant model: Kizan underwrites facility financials via long-term capacity leases
-- Contract was catalyst for accelerated IPO (18 months after founding)
+## Portblanc Gas Power Station
+- NTE funded construction of a new natural gas-fired power station in Portblanc
+- Operated by ETEB (Energia Tèrmica de l'Estat de Balboa), the state-owned thermal company
+- NTE provided capital; ETEB operates; NTE gets priority electricity allocation
+- First instance of private company funding new generation infrastructure in Balboa
+- Controversial because: (1) all generation historically state-owned, (2) goes against green transition, (3) locks in fossil fuel capacity
+
+## Controversy Details
+1. **Indigenous protests (Sant Jorge)**: Highland indigenous groups in Tramuntana Province oppose construction on traditional lands; concerns about land use, environmental impact, cultural site disruption; parallels with previous hydroelectric dam conflicts (Birú people vs CHB)
+2. **Socialist Front of Balboa**: Left-wing party concerned about:
+   - Energy consumption outpacing grid capacity (total Balboa capacity ~11,200 MW)
+   - Dry season hydropower vulnerability
+   - Gas power plant undermining green transition (1996 AC Edict)
+   - Private company influencing energy policy
+3. **Sant Jorge status**: As of August 2026, still in planning phase, no construction permits issued
 
 ## Ownership Structure (invented)
 - Marc Tubau i Ferrer: 14%
@@ -46,17 +67,19 @@ Core facts from user message on 2026-08-31. All other details invented per user 
 - Public float: 65%
 - Other early investors: 10%
 
-## Name Etymology
-- "Noves Tecnologies d'Empreses" = Volisanian for "New Enterprise Technologies"
-- Abbreviation: NTE (used as ticker symbol)
-
 ## Connections to Existing Lore
-- **Kizan Systems**: Okaiken government-subsidized semiconductor/AI company; makes TPUs for deep learning; hardware backbone for global AI industry; operates Yagikoshu Data Corridor (world's largest concentration of data centers)
-- **Abyala Telecom**: Tubau's former employer; largest telecom in southern Abyala; already offers data centre services as part of enterprise segment
-- **Bolsa de Sant Cristòfor**: Balboa's stock exchange; NTE listed under ticker NTE
-- **Dàrsena**: Ciutat #7 of Sant Cristòfor; former industrial/port area, gentrifying; also home to Plastic Beach research cluster (where OrSolar is based)
-- **OrSolar**: Another Dàrsena-based tech company (AI, launched same day as this article's creation); potential customer relationship — OrSolar needs compute for XatXat training/inference
-- **Port Vell, Potocsí**: Invented as a city in Potocsí; Potocsí has population of 74M (per Abyala Telecom article)
+- **Kizan Systems**: Okaiken government-subsidized semiconductor/AI company; makes TPUs; operates Yagikoshu Data Corridor
+- **Abyala Telecom**: Tubau's former employer; largest telecom in southern Abyala; already offers data centre services
+- **Central Nuclear de Sant Feliu**: Balboa's only nuclear plant; 2 reactors, 2,800 MW; located in Sant Feliu, Tossal comarca, Jala Province; commissioned 2010; operated by OENB
+- **ETEB**: Energia Tèrmica de l'Estat de Balboa; state-owned thermal generation (natural gas + petroleum); ~3,000 MW capacity; ~22% of electricity
+- **Energy in Balboa**: Total capacity ~11,200 MW; nuclear 25%, hydro 38%, gas 14%, renewables 15%; all state-owned; 1996 AC Edict on Green Transition
+- **Socialist Front of Balboa**: Left-wing party; has split from BPP over economic policy
+- **Birú people**: Indigenous group in Yalabirga highlands; previously opposed hydroelectric dam construction (CHB)
+- **Sant Jorge**: Town in far north of Tramuntana Province; has domestic airport (SJD); remote highland community
+- **Portblanc**: Capital of Tramuntana Province; population ~680,000; on Shendan Ocean coast
+- **Ciudad Obrera**: City in Potocsí (from Potocsí country article); name means "Worker City"
+- **Dàrsena**: Ciutat #7 of Sant Cristòfor; former industrial/port area; also home to Plastic Beach cluster (OrSolar)
+- **OrSolar**: Another Dàrsena-based tech company (AI); potential customer for NTE's datacenter services
 
 ## Open Questions
 1. What is the specific financial structure of the Kizan contract — revenue share, fixed lease, capacity-based?
@@ -64,18 +87,24 @@ Core facts from user message on 2026-08-31. All other details invented per user 
 3. Are there competitors in the Abyalan datacenter market?
 4. What is NTE's relationship with OrSolar — is NTE hosting XatXat compute?
 5. Does the Balboan government have a data localisation policy that drives demand?
-6. What is the power source for the Dàrsena facility — hydroelectric (like the rest of Balboa) or grid?
+6. What cooling technology does NTE use — given Balboa's tropical climate?
 7. Is NTE part of the SCX 30 index?
 8. Who are the "other early investors"?
-9. What cooling technology does NTE use — given Balboa's tropical climate, this is a significant design consideration
-10. Does Kizan Systems have exclusivity with NTE, or could they sign with other Abyalan providers?
+9. Which specific indigenous group is protesting the Sant Jorge facility? Birú or another group?
+10. What is the capacity of the Portblanc gas power station?
+11. What is the second Potocsí facility location — Port Soledat, San Lorenzo, or elsewhere?
+12. Has the Balboan government (BPP) taken a position on the Sant Jorge protests or the gas plant?
+13. Does the Sant Jorge site overlap with national parks or protected cloud forest areas?
 
 ## Notes
-- The fast IPO timeline (founded 2024, listed 2025) is unusual but justified by the Kizan anchor contract providing revenue certainty
-- NTE is distinct from OrSolar: OrSolar is an AI software/model company, NTE is physical infrastructure
+- HQ is in Dàrsena but is NOT a datacenter — the datacenters are at other locations
+- The fast IPO timeline (founded 2024, listed 2025) is justified by the Kizan anchor contract
+- NTE is distinct from OrSolar: OrSolar is AI software/models, NTE is physical infrastructure
 - Both are in Dàrsena, reinforcing the district's emergence as a tech hub
-- The Yagikoshu Data Corridor reference connects NTE to the broader Okaiken AI infrastructure lore
-- Port Vell in Potocsí is invented — needs to be verified if it exists in the wiki already or if the user has a different city in mind
+- The gas power plant arrangement (private capital, state operation) is novel for Balboa's energy system
+- Sant Jorge protests parallel the Birú/CHB dam conflicts — same highland region, same indigenous land rights themes
+- Ciudad Obrera used as Potocsí datacenter city — it's from the Potocsí country article's city list
+- Second Potocsí facility location left TBD (open question)
 
 ## Files
 - `articles/Countries/Balboa/Economy/Noves Tecnologies d'Empreses.mediawiki` — wiki article

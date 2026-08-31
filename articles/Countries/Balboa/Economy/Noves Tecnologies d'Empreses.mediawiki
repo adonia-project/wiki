@@ -20,7 +20,9 @@
 | website       =
 }}
 
-'''Noves Tecnologies d'Empreses, S.A.''' (commonly known as '''NTE''') is a Balboan {{w|data center}} infrastructure company headquartered in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. Founded in 2024 by former [[Abyala Telecom]] executive [[Marc Tubau i Ferrer]] and electrical engineer [[Laura Pons i Vives]], the company builds and manages data center facilities across southern [[Abyala]]. NTE is listed on the [[Bolsa de Sant Cristòfor]] under the ticker NTE and has signed infrastructure contracts with [[Kizan Systems]] of [[Okaiken]] to host the company's {{w|tensor processing unit}} clusters outside the Sanese archipelago.
+'''Noves Tecnologies d'Empreses, S.A.''' (commonly known as '''NTE''') is a Balboan {{w|data center}} infrastructure company headquartered in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. Founded in 2024 by former [[Abyala Telecom]] executive [[Marc Tubau i Ferrer]] and electrical engineer [[Laura Pons i Vives]], the company builds and manages data center facilities across [[Balboa]] and southern [[Abyala]]. NTE is listed on the [[Bolsa de Sant Cristòfor]] under the ticker NTE and has signed infrastructure contracts with [[Kizan Systems]] of [[Okaiken]] to host the company's {{w|tensor processing unit}} clusters outside the Sanese archipelago.
+
+The company has attracted controversy over its energy consumption, its funding of a new {{w|natural gas}}-fired power station in [[Portblanc]], and indigenous protests against a proposed facility near [[Sant Jorge]] in the [[Tramuntana Province|Tramuntana]] highlands.
 
 == History ==
 
@@ -28,7 +30,7 @@
 
 Noves Tecnologies d'Empreses was founded in early 2024 by Marc Tubau i Ferrer and Laura Pons i Vives. Tubau had spent over a decade at [[Abyala Telecom]], where he served as senior director of network infrastructure and oversaw the company's data centre operations across its six markets. In that role, he identified a structural gap in southern Abyala's digital infrastructure: while telecom carriers had invested heavily in mobile and broadband networks, the region lacked purpose-built data center capacity comparable to the facilities found in Okaiken, Volisania, or Breisland. Most enterprises in Balboa and neighbouring countries relied on colocation space in converted telecom rooms or overseas providers, with limited local options for high-density compute hosting.
 
-Pons brought a background in electrical engineering and power systems design. She had previously worked on industrial power distribution projects in [[Estret]] province and later specialised in cooling and power redundancy systems for critical facilities. The two founders combined complementary expertise: Tubau's understanding of the regional telecom and enterprise market with Pons's technical knowledge of data center mechanical and electrical systems.
+Pons brought a background in electrical engineering and power systems design. She had previously worked on industrial power distribution projects in [[Estret Province|Estret]] and later specialised in cooling and power redundancy systems for critical facilities. The two founders combined complementary expertise: Tubau's understanding of the regional telecom and enterprise market with Pons's technical knowledge of data center mechanical and electrical systems.
 
 The company was established as a public limited company ({{lang|ca|Societat Anònima}}, S.A.) from inception, with the founders intending to access public capital markets to fund the capital-intensive business of data center construction. Initial seed capital of approximately $15 million was provided by the founders and a small group of early investors, including former Abyala Telecom colleagues and Balboan private investors.
 
@@ -40,33 +42,39 @@ The Kizan contract was the catalyst for NTE's accelerated path to public markets
 
 === Initial public offering (2025) ===
 
-NTE completed its initial public offering on the [[Bolsa de Sant Cristòfor]] in mid-2025, raising approximately $120 million through the sale of new shares. The IPO valued the company at approximately $800 million at the offering price. The proceeds were allocated primarily to land acquisition and construction of the company's first two data center facilities — one in [[Dàrsena (ciutat)|Dàrsena]], Sant Cristòfor, and one in [[Port Vell (Potocsí)|Port Vell]], [[Potocsí]] — as well as to the procurement of power and cooling infrastructure.
+NTE completed its initial public offering on the [[Bolsa de Sant Cristòfor]] in mid-2025, raising approximately $120 million through the sale of new shares. The IPO valued the company at approximately $800 million at the offering price. The proceeds were allocated primarily to land acquisition and construction of the company's first data center facilities — one near the [[Central Nuclear de Sant Feliu]] in [[Jala Province|Jala]], and one in [[Portblanc]], [[Tramuntana Province|Tramuntana]] — as well as to the procurement of power and cooling infrastructure.
 
 The offering was noted for the speed of the company's path to market, approximately 18 months after founding. The Kizan Systems contract was cited in the IPO prospectus as a material factor in the company's investment case, providing contracted revenue that supported the valuation. The stock began trading under the ticker NTE and was well-received by investors seeking exposure to digital infrastructure in the Abyalan growth market.
 
 === Facility construction and expansion (2025–2026) ===
 
-Following the IPO, NTE commenced construction of its two initial facilities. The Dàrsena Data Center, located in the company's home district of [[Dàrsena (ciutat)|Dàrsena]], was the first to become operational, entering service in early 2026. The facility was built on a former industrial site near the port, taking advantage of existing high-capacity power connections and fibre optic infrastructure linking Sant Cristòfor to the international submarine cable network. The Port Vell facility, in Potocsí, entered service in mid-2026.
+Following the IPO, NTE commenced construction of its first two facilities in Balboa. The Sant Feliu Data Center, located near the [[Central Nuclear de Sant Feliu]] in [[Jala Province|Jala]], was the first to become operational, entering service in early 2026. The site was selected for its proximity to the nuclear plant's high-capacity power infrastructure, providing reliable baseload electricity for the facility's Kizan TPU clusters. The Portblanc Data Center, in the capital of [[Tramuntana Province|Tramuntana]], entered service in mid-2026.
 
-In 2026, NTE announced plans for a third facility in [[Tapuya]], targeting the country's growing enterprise and government demand for domestic data hosting. The company also signed an additional contract with Kizan Systems to expand the hosted TPU capacity at its Dàrsena facility, reflecting growing demand for AI compute services in the Abyalan region.
+In 2026, NTE announced plans for additional facilities in [[Tapuya]] and [[Potocsí]], targeting growing enterprise and government demand for domestic data hosting in those markets. The company also announced a proposed facility near [[Sant Jorge]] in the Tramuntana highlands, which drew immediate opposition from indigenous communities and leftist political parties (see [[#Controversy|Controversy]]).
 
 == Operations ==
 
-NTE operates two data center facilities as of 2026, with a third under development:
+NTE operates two data center facilities as of 2026, with additional sites under construction or in planning:
 
 {| class="wikitable"
 |+ NTE data center facilities
 |-
 ! Facility !! Location !! Status !! Capacity
 |-
-| Dàrsena Data Center || [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]], [[Balboa]] || Operational (2026) || 4 MW
+| Sant Feliu Data Center || Near [[Central Nuclear de Sant Feliu|Sant Feliu]], [[Jala Province|Jala]], [[Balboa]] || Operational (2026) || 4 MW
 |-
-| Port Vell Data Center || [[Port Vell (Potocsí)|Port Vell]], [[Potocsí]] || Operational (2026) || 3 MW
+| Portblanc Data Center || [[Portblanc]], [[Tramuntana Province|Tramuntana]], [[Balboa]] || Operational (2026) || 3 MW
 |-
-| Tapuya facility || [[Tapuya]] || Under development || 2 MW (planned)
+| Ciudad Obrera Data Center || [[Ciudad Obrera]], [[Potocsí]] || Under construction || 3 MW (planned)
+|-
+| Tapuya facility || [[Tapuya]] || Under construction || 2 MW (planned)
+|-
+| Sant Jorge facility || Near [[Sant Jorge]], [[Tramuntana Province|Tramuntana]], [[Balboa]] || Proposed (facing opposition) || 3 MW (planned)
+|-
+| Second Potocsí facility || [[Potocsí]] || Planned || 2 MW (planned)
 |}
 
-The Dàrsena facility is the company's flagship site, housing the primary Kizan Systems TPU cluster and serving as NTE's headquarters. The site benefits from proximity to the Sant Cristòfor submarine cable landing stations and the district's existing power infrastructure, a legacy of its industrial past. The Port Vell facility serves the Potocsí market, where demand for domestic data hosting has grown significantly in response to data localisation requirements and the expansion of cloud-based services.
+The Sant Feliu facility is the company's primary site, housing the main Kizan Systems TPU cluster. The site was selected for its proximity to the [[Central Nuclear de Sant Feliu]], Balboa's only nuclear power station, which provides stable baseload power. The Portblanc facility serves the Tramuntana highland region and is co-located with a new gas-fired power station funded by NTE (see [[#Portblanc gas power station|Portblanc gas power station]]).
 
 NTE's business model centres on providing colocation and managed hosting services to enterprise and government clients, with Kizan Systems as its anchor tenant. The company offers tiered service levels ranging from basic colocation — power, cooling, and physical security — to fully managed infrastructure including network connectivity, hardware maintenance, and monitoring.
 
@@ -75,6 +83,26 @@ NTE's business model centres on providing colocation and managed hosting service
 The infrastructure contract with [[Kizan Systems]] is NTE's most significant commercial relationship. Under the multi-year agreement, NTE builds and operates facilities designed to Kizan's specifications for housing its {{w|tensor processing unit}} clusters, which are used for {{w|deep learning}} training and {{w|inference}} workloads. Kizan Systems, which is based in [[Okaiken]] and subsidised by the Sanese government, had previously concentrated its compute infrastructure within the [[Yagikoshu Data Corridor]] on the sub-arctic southern island of [[Yagikoshu]]. The partnership with NTE represented Kizan's first major expansion of its physical compute footprint outside the Sanese archipelago.
 
 The arrangement allows Kizan Systems to offer low-latency AI compute services to clients in southern Abyala without routing workloads to Okaiken, reducing network latency and addressing data sovereignty considerations. For NTE, the Kizan contract provides a long-term anchor tenant that underpins the financial case for each facility, with the Okaiken company committing to capacity leases spanning multiple years.
+
+== Controversy ==
+
+=== Energy consumption and capacity concerns ===
+
+NTE's rapid expansion has drawn criticism from the [[Socialist Front of Balboa]], which has raised concerns about the company's energy consumption and its impact on Balboa's electricity grid. Balboa's total electricity capacity is approximately 11,200 MW, and the addition of large-scale data center loads — each facility consuming several megawatts of power — has prompted questions about whether the national grid can absorb the additional demand without straining capacity, particularly during dry seasons when hydropower output declines.
+
+The Socialist Front has argued that NTE's datacenters represent a new category of industrial consumption that was not anticipated in the government's energy planning, and that the company's rapid buildout is outpacing the country's ability to expand generation capacity. Critics have noted that while the Sant Feliu facility benefits from proximity to nuclear baseload power, the Portblanc facility required the construction of a new gas-fired power station, increasing Balboa's reliance on fossil fuels at a time when the government has committed to expanding nuclear and renewable capacity under the [[1996 Adonian Community Edict on a Green Transition for the New Millennium]].
+
+=== Portblanc gas power station ===
+
+To supply the Portblanc Data Center, NTE funded the construction of a new {{w|natural gas}}-fired power station in [[Portblanc]], operated by [[Energia Tèrmica de l'Estat de Balboa|ETEB]], the state-owned thermal generation company. The arrangement — under which NTE provided capital for the plant's construction in exchange for priority electricity allocation — was the first instance of a private company funding new generation infrastructure in Balboa, where all electricity generation has historically been managed by state-owned enterprises.
+
+The deal drew criticism from the Socialist Front and environmental groups, who argued that a private technology company was effectively setting energy policy by funding fossil fuel infrastructure that the state had not planned for. Critics contended that the arrangement undermined the green transition by locking in additional gas-fired generation capacity for the lifetime of the plant, and that it created a precedent for private actors to influence the composition of Balboa's energy mix. NTE and ETEB defended the arrangement as a pragmatic solution to meet the datacenter's power requirements without drawing on the existing grid, and noted that the plant's output would also serve the broader Tramuntana region.
+
+=== Sant Jorge indigenous protests ===
+
+NTE's proposed facility near [[Sant Jorge]], in the far north of [[Tramuntana Province|Tramuntana]], has faced sustained opposition from indigenous communities in the highland area. The proposed site is located on lands traditionally used by highland indigenous groups, who have raised concerns about land use, environmental impact, and the disruption of cultural sites by the construction and operation of a large-scale data center.
+
+The protests have drawn attention to the broader tension between Balboa's push for digital infrastructure development and the rights of indigenous communities in the Tramuntana highlands, a region that has previously seen conflicts over hydroelectric dam construction and its impact on indigenous lands. As of August 2026, the Sant Jorge facility remained in the planning phase, with no construction permits issued.
 
 == Ownership ==
 
@@ -99,6 +127,8 @@ NTE is a publicly traded company listed on the [[Bolsa de Sant Cristòfor]]. The
 * [[Kizan Systems]]
 * [[Abyala Telecom]]
 * [[Bolsa de Sant Cristòfor]]
+* [[Energy in Balboa]]
+* [[Energia Tèrmica de l'Estat de Balboa]]
 * [[Dàrsena (ciutat)|Dàrsena]]
 * [[Economy of Balboa]]
 
