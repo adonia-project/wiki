@@ -56,7 +56,7 @@ The OrSolar contract was notable for the proximity of the two companies: both ar
 
 Following the IPO, NTE commenced construction of its first two facilities in Balboa. The Sant Feliu Data Center, located near the [[Central Nuclear de Sant Feliu]] in [[Jala Province|Jala]], was the first to become operational, entering service in early 2026. The site was selected for its proximity to the nuclear plant's high-capacity power infrastructure, providing reliable baseload electricity for the facility's Kizan TPU clusters. The Portblanc Data Center, in the capital of [[Tramuntana Province|Tramuntana]], entered service in mid-2026.
 
-In 2026, NTE announced plans for additional facilities in [[Tapuya]] and [[Potocsí]], targeting growing enterprise and government demand for domestic data hosting in those markets. The company also announced a proposed facility near [[Sant Jorge, Tramuntana|Sant Jorge]] in the Tramuntana highlands, which drew immediate opposition from indigenous communities and leftist political parties (see [[#Controversy|Controversy]]).
+In 2026, NTE announced plans for additional facilities in [[Tapuya]] and [[Potocsí]], targeting growing enterprise and government demand for domestic data hosting in those markets. The company also announced a proposed facility near [[Sant Jorge, Tramuntana|Sant Jorge]] in the Tramuntana highlands, which drew immediate opposition from indigenous communities and leftist political parties. NTE broke ground on the Sant Jorge facility on 18 August 2026, triggering nationwide protests that led to the halting of construction (see [[#Controversy|Controversy]]).
 
 == Operations ==
 
@@ -75,7 +75,7 @@ NTE operates two data center facilities as of 2026, with additional sites under 
 |-
 | Tapuya facility || [[Tapuya]] || Under construction || 2 MW (planned)
 |-
-| Sant Jorge facility || Near [[Sant Jorge, Tramuntana|Sant Jorge]], [[Tramuntana Province|Tramuntana]], [[Balboa]] || Proposed (facing opposition) || 3 MW (planned)
+| Sant Jorge facility || Near [[Sant Jorge, Tramuntana|Sant Jorge]], [[Tramuntana Province|Tramuntana]], [[Balboa]] || Construction halted (August 2026) || 3 MW (planned)
 |-
 | Second Potocsí facility || [[Potocsí]] || Planned || 2 MW (planned)
 |}
@@ -116,7 +116,7 @@ The deal drew criticism from the Socialist Front and environmental groups, who a
 
 NTE's proposed facility near [[Sant Jorge, Tramuntana|Sant Jorge]], in the far north of [[Tramuntana Province|Tramuntana]], has faced sustained opposition from indigenous communities in the highland area. The proposed site is located on lands traditionally used by highland indigenous groups, who have raised concerns about land use, environmental impact, and the disruption of cultural sites by the construction and operation of a large-scale data center.
 
-The protests have drawn attention to the broader tension between Balboa's push for digital infrastructure development and the rights of indigenous communities in the Tramuntana highlands, a region that has previously seen conflicts over hydroelectric dam construction and its impact on indigenous lands. As of August 2026, the Sant Jorge facility remained in the planning phase, with no construction permits issued.
+On 18 August 2026, NTE broke ground on the Sant Jorge facility, triggering [[2026 Balboa data center protests|nationwide protests]] that lasted from 18 to 27 August. The protests, orchestrated by a coalition of leftist groups including the [[Socialist Front of Balboa]], indigenous rights organisations, and trade unions, spread from the Sant Jorge construction site to cities across the country. Police were deployed to disperse protesters at multiple locations. On 27 August, the government announced that construction at the Sant Jorge site would be halted pending a review of the project's environmental and social impact. The protests drew national attention to the broader tension between Balboa's push for digital infrastructure development and the rights of indigenous communities in the Tramuntana highlands, a region that had previously seen conflicts over hydroelectric dam construction and its impact on indigenous lands.
 
 == Ownership ==
 
@@ -146,6 +146,7 @@ NTE is a publicly traded company listed on the [[Bolsa de Sant Cristòfor]]. The
 * [[Energia Tèrmica de l'Estat de Balboa]]
 * [[Dàrsena (ciutat)|Dàrsena]]
 * [[Economy of Balboa]]
+* [[2026 Balboa data center protests]]
 
 [[Category:Economy of Balboa]]
 [[Category:Technology companies of Balboa]]
