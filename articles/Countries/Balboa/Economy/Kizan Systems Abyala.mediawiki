@@ -1,0 +1,79 @@
+{{Infobox company
+| name          = Kizan Systems Abyala, S.L.
+| native_name   = {{native name|ca|Kizan Systems Abyala|italic=no|paren=omit}}
+| logo          =
+| type          = {{w|Private company|Private}} ({{w|Wholly owned subsidiary|wholly owned subsidiary}})
+| industry      = {{w|Artificial intelligence}} ({{w|Enterprise software|enterprise}})
+| genre         = B2B AI deployment and integration
+| founded       = 2025
+| founder       = {{ubl|[[Kizan Systems]] ([[Okaiken]])}}
+| headquarters  = [[Districte Financer (Original, Sant Cristòfor)|Districte Financer]], [[Original (ciutat)|Original]], [[Sant Cristòfor]], [[Balboa]]
+| areas_served  = {{ubl|[[Balboa]]|[[Potocsí]]|[[Tapuya]]|[[Lacashe]]|[[Asikyira]]|[[Sanrobonia]]}}
+| key_people    = {{ubl|[[TBD]] (Managing Director)}}
+| num_employees = 120 (2026)
+| products      = {{ubl|Satori AI enterprise deployment|AI integration consulting|Industry-specific AI solutions}}
+| parent        = [[Kizan Systems]] (100%)
+| website       =
+}}
+
+'''Kizan Systems Abyala, S.L.''' is the Abyala regional subsidiary of [[Kizan Systems]], the Okaiken-based semiconductor and artificial intelligence company. Headquartered in the [[Districte Financer (Original, Sant Cristòfor)|Districte Financer]] of [[Sant Cristòfor]], [[Balboa]], the company provides {{w|business-to-business|B2B}} enterprise deployment of the [[Satori (AI)|Satori]] artificial intelligence system to corporate and institutional clients across southern [[Abyala]]. It is a wholly owned subsidiary of Kizan Systems and is not publicly traded.
+
+Kizan Systems Abyala was established in 2025 as part of Kizan Systems' broader international expansion strategy, which included the infrastructure partnership with [[Noves Tecnologies d'Empreses]] (NTE) to host Kizan's {{w|tensor processing unit}} clusters in Balboa and Potocsí. While the NTE partnership provides the physical compute infrastructure for Kizan's hardware outside Okaiken, Kizan Systems Abyala handles the commercial layer: selling, customising, deploying, and maintaining Satori-based AI solutions for enterprise customers in the Abyalan market.
+
+== Background ==
+
+{{main|Kizan Systems|Satori (AI)}}
+
+[[Kizan Systems]] was established in 2008 under Okaiken's Digital Infrastructure Act as a state-subsidised semiconductor manufacturer specialising in {{w|tensor processing unit}}s for {{w|deep learning}}. The company developed [[Satori (AI)|Satori]], a large language model and predictive algorithm suite that has been deeply integrated into Sanese civil infrastructure, including traffic management, energy distribution, and port automation. Satori is also used by the Sanese military as an integrated command network.
+
+Prior to the establishment of Kizan Systems Abyala, Kizan Systems' presence in southern Abyala was limited to hardware sales and the infrastructure contract with NTE. Enterprise customers in the region that wished to deploy Satori-based AI solutions had to contract directly with Kizan Systems' headquarters in Okaiken, which created barriers related to time zones, language, regulatory compliance, and the lack of on-the-ground integration support. The subsidiary was created to address these barriers and to compete more effectively with other AI providers expanding into the Abyalan market.
+
+== History ==
+
+=== Establishment (2025) ===
+
+Kizan Systems Abyala was established in early 2025 as a private limited company ({{lang|ca|Societat Limitada}}, S.L.) registered in Balboa. The subsidiary was formed concurrently with the signing of the NTE infrastructure contract, which provided the physical data center capacity in Balboa and Potocsí that Kizan Systems required to offer low-latency Satori services in the region. The company set up its headquarters in the [[Districte Financer (Original, Sant Cristòfor)|Districte Financer]] of Sant Cristòfor, positioning itself alongside other multinational subsidiaries and financial institutions in the district.
+
+The initial staff of approximately 50 employees was drawn from a combination of Kizan Systems transfers from Okaiken and local hires with expertise in enterprise software sales, systems integration, and AI consulting. The company focused initially on building a sales pipeline and establishing relationships with potential enterprise clients in Balboa's financial, logistics, and telecommunications sectors.
+
+=== Expansion (2026) ===
+
+Through 2026, Kizan Systems Abyala expanded its workforce to approximately 120 employees and broadened its client base across the Abyalan region. The company opened a regional office in [[Ciudad Obrera]], [[Potocsí]], to support deployments in that market, and established a presence in [[Tapuya]] and [[Lacashe]] through partnerships with local systems integrators. The subsidiary also began offering industry-specific Satori deployments tailored to the Abyalan market, including solutions for port logistics, financial services, and telecommunications network optimisation.
+
+The company's growth has been supported by the increasing availability of compute capacity at NTE's Sant Feliu and Portblanc data centers, which host the Kizan TPU clusters that power Satori inference workloads for Abyalan clients. The low-latency access to compute infrastructure in Balboa — as opposed to routing workloads to Okaiken — has been a key selling point for enterprise customers with data sovereignty or latency requirements.
+
+== Operations ==
+
+Kizan Systems Abyala operates as the exclusive commercial channel for Satori AI deployments in the Abyalan market. The company's business model centres on three core service lines:
+
+The first is enterprise AI deployment, in which the company customises and integrates Satori-based AI solutions for individual corporate clients. Deployments range from predictive analytics and process automation to natural language processing and decision-support systems. Each deployment involves an assessment phase, model customisation, integration with the client's existing IT infrastructure, and ongoing maintenance and support.
+
+The second is AI integration consulting, providing advisory services to organisations evaluating the adoption of AI technologies. This includes feasibility studies, technology roadmap development, and change management support for clients transitioning to AI-augmented operations.
+
+The third is industry-specific AI solutions, pre-configured Satori packages tailored to sectors prevalent in the Abyalan market. These include solutions for port logistics and supply chain optimisation, financial services risk modelling and fraud detection, telecommunications network optimisation, and public sector service delivery.
+
+All Satori inference workloads for Abyalan clients are processed on Kizan TPU clusters hosted at [[Noves Tecnologies d'Empreses]] facilities in Balboa and Potocsí, providing low-latency access and addressing data sovereignty considerations. The subsidiary does not operate its own data center infrastructure, relying entirely on the NTE partnership for compute capacity.
+
+=== Markets ===
+
+Kizan Systems Abyala serves clients across six Abyalan markets: [[Balboa]], [[Potocsí]], [[Tapuya]], [[Lacashe]], [[Asikyira]], and [[Sanrobonia]]. The company operates a direct sales and delivery presence in Balboa and Potocsí, with regional offices in Sant Cristòfor and Ciudad Obrera. In Tapuya, Lacashe, Asikyira, and Sanrobonia, the company operates through partnerships with local systems integrators and technology consultancies.
+
+== Relationship with Sistemes OrSolar ==
+
+Kizan Systems Abyala's presence in Sant Cristòfor has created a complex dynamic with [[Sistemes OrSolar]], the Balboan AI company that developed the [[XatXat]] large language model. OrSolar was founded in 2023 by two former Kizan Systems researchers, [[Abe Zayna]] and [[Ryuko Vidal]], who had worked on the Satori system in Okaiken before departing to establish their own company. Following the launch of XatXat 1.0 in August 2026, OrSolar faced allegations that the model had been trained using {{w|knowledge distillation|distilled}} outputs from Satori — allegations that OrSolar has denied.
+
+The establishment of Kizan Systems Abyala in Sant Cristòfor has placed the parent company and its former employees in the same city. While Kizan Systems Abyala focuses on enterprise B2B deployments of Satori and OrSolar targets the consumer and prosumer market with XatXat, the two companies are broadly competitive in the Abyalan AI market. As of August 2026, no formal legal action has been initiated by Kizan Systems regarding the distillation allegations, and the two companies operate independently in Sant Cristòfor.
+
+== See also ==
+
+* [[Kizan Systems]]
+* [[Satori (AI)]]
+* [[Noves Tecnologies d'Empreses]]
+* [[Sistemes OrSolar]]
+* [[Abyala Telecom]]
+* [[Economy of Balboa]]
+
+[[Category:Economy of Balboa]]
+[[Category:Technology companies of Balboa]]
+[[Category:Companies based in Sant Cristòfor]]
+[[Category:Subsidiaries of Kizan Systems]]
