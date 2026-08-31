@@ -3,14 +3,15 @@
 ## Key Facts
 - **Name**: Sant Jorge
 - **Province**: Tramuntana
-- **Comarca**: La Taula
+- **Comarca**: La Serra de Llevant (comarca capital is Vila de Llevant, pop 29,729)
 - **Coordinates**: 8°01′N 92°20′W
 - **Population**: 12,204 (2026 estimate)
-- **Rank in comarca**: 2nd largest (after Sant Martí del Nord, 14,420, the comarca capital)
+- **Rank in comarca**: 2nd largest (after Vila de Llevant, the comarca capital)
 - **Founded**: 1625 (Volisanian trading post)
 - **Geography**: Valley in the highlands along the Sant Jorge River, Shendan slope of Yalabirga
 - **Airport**: Sant Jorge Airport (SJD/SJIB), turboprop-only, 55K passengers (2025), built 1928
 - **Economy**: Agriculture (maize, beans, root vegetables, coffee) + small mining operations
+- **Transport**: E8 expressway passes through the town
 
 ## Context from Existing Lore
 - Tramuntana is the poorest province in Balboa ($7B GDP, $2,400 per capita, 1.9M population)
@@ -19,7 +20,8 @@
 - Highest proportion of white Balboans of any province (Redilution/Birthing programmes)
 - Birú indigenous people concentrated in remote highland comarcas of Jala and Tramuntana
 - NTE proposed a data center near Sant Jorge in 2026 — faced indigenous protests, no construction permits issued as of Aug 2026
-- La Taula comarca also contains Sant Martí del Nord (comarca capital, 14,420 pop, northernmost airport in the country)
+- La Serra de Llevant comarca (pop 29,729) — capital is Vila de Llevant; E8 and Gran Presa del Nord in comarca
+- Sant Martí del Nord is in the neighbouring La Taula comarca (capital, 14,420 pop, northernmost airport in the country), to the northwest
 - Sant Martí del Nord Airport connects to Sant Bart (Jala); Sant Jorge Airport connects to Portblanc
 
 ## Invented/Estimated Details

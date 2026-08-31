@@ -4,10 +4,10 @@
 - **Name**: Sant Martí del Nord
 - **Province**: Tramuntana
 - **Comarca**: La Taula (comarca capital)
-- **Coordinates**: 8.2211°N, 93.4477°W (8°13′N 93°27′W)
+- **Coordinates**: 8°24′N 93°44′W (original airport coordinates were correct)
 - **Population**: 14,420 (2026 estimate)
 - **Rank in comarca**: Largest settlement (comarca capital)
-- **Location**: Southeast of Sant Jorge (8.0167°N, 92.3333°W)
+- **Location**: Northwest of Sant Jorge (8°01′N 92°20′W), which is in the neighbouring La Serra de Llevant comarca
 - **Airport**: Sant Martí del Nord Airport (SMN/SMIB), northernmost airport in Balboa, 40K passengers (2025), served from Sant Bart
 - **Article title**: Disambiguated as "Sant Martí del Nord, Tramuntana" (population under 50K)
 
@@ -15,7 +15,8 @@
 - Tramuntana is the poorest province in Balboa ($7B GDP, $2,400 per capita, 1.9M population)
 - Provincial capital: Portblanc (pop. 109,965)
 - Birú indigenous people concentrated in remote highland comarcas of Jala and Tramuntana
-- La Taula comarca contains both Sant Martí del Nord (capital, 14,420) and Sant Jorge (12,204)
+- La Taula comarca (pop 44,817) — capital is Sant Martí del Nord; "Large plateau, northern highland"
+- Sant Jorge is in the neighbouring La Serra de Llevant comarca (pop 29,729), to the southeast
 - Sant Martí del Nord Airport is the northernmost airport in the country
 - Airport connects to Sant Bart (Jala Province) via Aeroístmus essential services
 
@@ -26,7 +27,7 @@
 - Agriculture (maize, beans, root vegetables) + small mining — parallel to Sant Jorge
 - Health clinic, primary/secondary school — standard for a comarca capital of 14K
 - Administrative centre role as comarca capital
-- ~60 km southeast of Sant Jorge — estimated from coordinate difference
+- ~60 km northwest of Sant Jorge — estimated from coordinate difference (Sant Martí at 8°24'N 93°44'W, Sant Jorge at 8°01'N 92°20'W)
 
 ## Open Questions
 1. When was Sant Martí del Nord founded? (Left blank in infobox)
