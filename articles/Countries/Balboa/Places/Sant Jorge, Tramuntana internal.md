@@ -7,8 +7,10 @@
 - **Coordinates**: 8°01′N 92°20′W
 - **Population**: 12,204 (2026 estimate)
 - **Rank in comarca**: 2nd largest (after Sant Martí del Nord, 14,420, the comarca capital)
-- **Elevation**: ~800 m (estimated, highland interior on Shendan slope of Yalabirga)
-- **Airport**: Sant Jorge Airport (SJD/SJIB), turboprop-only, 55K passengers (2025)
+- **Founded**: 1625 (Volisanian trading post)
+- **Geography**: Valley in the highlands along the Sant Jorge River, Shendan slope of Yalabirga
+- **Airport**: Sant Jorge Airport (SJD/SJIB), turboprop-only, 55K passengers (2025), built 1928
+- **Economy**: Agriculture (maize, beans, root vegetables, coffee) + small mining operations
 
 ## Context from Existing Lore
 - Tramuntana is the poorest province in Balboa ($7B GDP, $2,400 per capita, 1.9M population)
@@ -22,13 +24,12 @@
 
 ## Invented/Estimated Details
 - Elevation (~800m) — estimated based on highland location on Shendan slope
-- Distance from Portblanc (~120 km) — estimated based on coordinate difference
-- Distance from Sant Martí del Nord (~60 km) — estimated
-- Road travel time (~4 hours to Portblanc) — estimated for highland road conditions
 - Rainfall (1,000–1,500 mm) — based on existing Tramuntana highland climate data
-- Colonial-era missionary/administrative outpost origin — inferred from the saint's name (St. George = Sant Jorge, a Volisanian/Catholic name)
 - Health clinic, primary/secondary school — reasonable for a town of 12K in a remote area
 - Weekly market — standard for rural highland towns
+- Sant Jorge River — invented to match the town's geography (valley along a river)
+- Coffee cultivation — plausible for highland Tramuntana agriculture
+- Mineral mining (unspecified type) — user mentioned "small mining operations"
 
 ## Open Questions
 1. What is the town's demonym? (Left blank for now)
