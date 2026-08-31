@@ -1,0 +1,99 @@
+{{Infobox company
+| name          = Sistemes OrSolar, S.L.
+| native_name   = {{native name|ca|Sistemes OrSolar|italic=no|paren=omit}}
+| logo          =
+| type          = {{w|Private company|Private}}
+| industry      = {{w|Artificial intelligence}}
+| founded       = 2023
+| founder       = {{ubl|[[Abe Zayna]]|[[Ryuko Vidal]]}}
+| headquarters  = [[Plastic Beach]], [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]], [[Balboa]]
+| areas_served  = {{ubl|Balboa|International}}
+| key_people    = {{ubl|[[Abe Zayna]] (CEO)|[[Ryuko Vidal]] (CTO)}}
+| owner         = {{ubl|Founders (35%)|[[Baoshi Capital]] (20%)|[[Fons d'Inversió Directa de Balboa]] (15%)|Other investors (30%)}}
+| num_employees = 60 (2026)
+| products      = {{ubl|XatXat 1.0 ({{w|large language model|LLM}})|XatXat mobile application}}
+| website       =
+}}
+
+'''Sistemes OrSolar, S.L.''' is a Balboan {{w|artificial intelligence}} company based at [[Plastic Beach]] in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. Founded in 2023 by [[Abe Zayna]] and [[Ryuko Vidal]], two researchers from Sant Cristòfor who had worked at [[Kizan Systems]] in [[Okaiken]], the company developed and released [[XatXat]] 1.0, the first domestically produced {{w|large language model}} in Balboa, on 31 August 2026. The company has raised approximately $100 million in funding from the [[Fons d'Inversió Directa de Balboa]] (FIDB) and private investors including [[Baoshi Capital]].
+
+OrSolar has been the subject of controversy following allegations that XatXat 1.0 was trained using {{w|knowledge distillation|distilled}} outputs from [[Satori (AI)|Satori]], the large language model developed by [[Kizan Systems]] and integrated into Okaiken's national infrastructure. OrSolar has denied the allegations.
+
+== History ==
+
+=== Founding (2023) ===
+
+Sistemes OrSolar was founded in 2023 by Abe Zayna and Ryuko Vidal, two researchers from Sant Cristòfor who had completed doctoral studies and subsequently worked at [[Kizan Systems]] in [[Okaiken]]. Zayna and Vidal had been part of the research team at Kizan Systems working on the [[Satori (AI)|Satori]] artificial intelligence system, Okaiken's state-integrated large language model and predictive algorithm suite. The two researchers returned to Balboa in 2023 and established OrSolar as a private limited company ({{lang|ca|Societat Limitada}}, S.L.) at [[Plastic Beach]], the Metallúrgia Coastal Research Cluster in [[Dàrsena (ciutat)|Dàrsena]].
+
+The decision to locate at Plastic Beach was influenced by the cluster's growing reputation as a technology and research hub, the availability of converted warehouse space suitable for computing infrastructure, and the proximity to the [[University of Sant Cristòfor]]'s research community. The company was the first artificial intelligence firm to establish operations in the cluster, which had previously been dominated by biotechnology and chemical research companies such as [[BioDàrsena]] and [[Genètica de l'Istme]].
+
+=== Funding and development (2024–2026) ===
+
+In 2024, OrSolar secured a $10 million seed investment from the [[Fons d'Inversió Directa de Balboa]] (FIDB), the Balboan sovereign wealth fund. The seed funding supported the initial recruitment of research and engineering staff and the procurement of computing infrastructure for model training.
+
+In 2025, OrSolar closed a $90 million Series A funding round led by [[Baoshi Capital]], a Zong venture capital firm, with participation from additional private investors. The Series A round brought the company's total funding to approximately $100 million and supported the scaling of compute resources, the expansion of the engineering team, and the development of the XatXat model and consumer application.
+
+Throughout 2024 and 2025, OrSolar conducted model training and evaluation, developing the XatXat large language model with the stated objective of competing with established AI models on standard benchmarks at lower operational cost. The company positioned XatXat as a cost-effective alternative to dominant models in the market, emphasising efficiency in both training and inference.
+
+=== XatXat 1.0 launch (31 August 2026) ===
+
+On 31 August 2026, OrSolar publicly released XatXat 1.0, the first domestically developed large language model in Balboa, alongside a consumer-facing mobile application of the same name. The launch marked the entry of Balboa into the global artificial intelligence market. XatXat 1.0 was described by the company as a general-purpose text model designed for a range of {{w|natural language processing}} tasks, including conversational interaction, text summarisation, translation, and content generation.
+
+The simultaneous release of the mobile application provided consumers with direct access to the model through a {{w|chatbot}} interface, positioning OrSolar as both a model developer and a consumer-facing product company.
+
+== XatXat ==
+
+=== Model ===
+
+XatXat 1.0 is a {{w|large language model}} developed by OrSolar. The model is a general-purpose text-based system trained for natural language understanding and generation. OrSolar has stated that XatXat 1.0 was designed to achieve competitive performance on standard AI benchmarks relative to established models, while requiring lower computational resources for both training and {{w|inference}}. The company has emphasised cost efficiency as a primary differentiator, positioning the model as an accessible alternative to products from larger AI developers.
+
+The name "XatXat" derives from the Volisanian word ''xat'', meaning "chat," reflecting the model's conversational capabilities.
+
+=== Mobile application ===
+
+The XatXat mobile application, released alongside the model on 31 August 2026, is a consumer-facing {{w|chatbot}} interface that provides users with direct access to the XatXat 1.0 model. The application enables conversational interaction with the model for tasks including question answering, text composition, translation, and general assistance. The application is available to users in Balboa and select international markets.
+
+== Distillation controversy ==
+
+Following the launch of XatXat 1.0, OrSolar faced public allegations that the model had been trained using {{w|knowledge distillation|distilled}} outputs from [[Satori (AI)|Satori]], the large language model developed by [[Kizan Systems]] and deployed across Okaiken's national infrastructure. The allegations centred on the claim that OrSolar had used Satori's generated responses as training data for XatXat 1.0, effectively transferring knowledge from the larger model without authorisation.
+
+The accusations gained attention due to the founders' prior employment at Kizan Systems, where both Zayna and Vidal had worked on the Satori system before departing to establish OrSolar. Critics argued that the founders' access to Satori's internal systems and training methodologies may have facilitated the alleged distillation process.
+
+OrSolar has denied the allegations, stating that XatXat 1.0 was trained on publicly available data and proprietary datasets compiled independently. The company has not publicly disclosed the full composition of its training data, citing competitive considerations. As of August 2026, no formal legal action has been initiated by Kizan Systems.
+
+== Operations ==
+
+OrSolar operates from a facility at [[Plastic Beach]] in [[Dàrsena (ciutat)|Dàrsena]], [[Sant Cristòfor]]. The company's offices and computing infrastructure are housed in a converted warehouse within the Metallúrgia Coastal Research Cluster, alongside other technology and research companies. OrSolar employs approximately 60 people as of 2026, including researchers, engineers, and operational staff.
+
+The company is the first artificial intelligence firm established at the Plastic Beach cluster, which had previously been focused on biotechnology and chemical research. OrSolar's presence has contributed to the diversification of the cluster's tenant base into digital technology and computing.
+
+== Ownership ==
+
+OrSolar is a private company. The ownership structure reflects its institutional and venture capital backing:
+
+{| class="wikitable"
+|+ Shareholder structure
+|-
+! Shareholder !! Stake
+|-
+| Founders ([[Abe Zayna]], [[Ryuko Vidal]]) || 35%
+|-
+| [[Baoshi Capital]] || 20%
+|-
+| [[Fons d'Inversió Directa de Balboa]] (FIDB) || 15%
+|-
+| Other investors || 30%
+|}
+
+== See also ==
+
+* [[Plastic Beach]]
+* [[Kizan Systems]]
+* [[BioDàrsena]]
+* [[University of Sant Cristòfor]]
+* [[Economy of Balboa]]
+* [[Dàrsena (ciutat)|Dàrsena]]
+
+[[Category:Economy of Balboa]]
+[[Category:Technology companies of Balboa]]
+[[Category:Companies based in Sant Cristòfor]]
