@@ -22,7 +22,7 @@
 |map =
 ~~km~~ ~~ ~~Short~~ ~~ ~~Limited~~ ~~ ~~Express~~ ~~ ~~Local~~
 KBHFa~~0~~[[Sant Cristòfor Central Terminal]]~~●~~ ~~ ~~●~~ ~~ ~~●~~ ~~ ~~●~~
-BHF~~3.1~~[[Portal de Sant Cristòfor (CristoCarril)|Portal de Sant Cristòfor]]~~●~~ ~~ ~~●~~ ~~ ~~●~~ ~~ ~~●~~
+BHF~~3.1~~[[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]]~~●~~ ~~ ~~●~~ ~~ ~~●~~ ~~ ~~●~~
 BHF~~4.7~~[[Sant Pere (CristoCarril)|Sant Pere]]~~●~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~●~~
 BHF~~6.8~~[[La Font (CristoCarril)|La Font]]~~●~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~●~~
 BHF~~11.8~~[[Dàrsena Est (CristoCarril)|Dàrsena Est]]~~●~~ ~~ ~~●~~ ~~ ~~●~~ ~~ ~~●~~
@@ -57,7 +57,7 @@ Line B follows the inland route southward from the Sant Cristòfor Central Termi
 
 === Sant Cristòfor ===
 
-Line B begins at the [[Sant Cristòfor Central Terminal]] in [[Original (ciutat)|Original]], the city's primary rail hub. From the terminal, the line heads south through three stations in Original — [[Portal de Sant Cristòfor (CristoCarril)|Portal de Sant Cristòfor]], [[Sant Pere (CristoCarril)|Sant Pere]], and [[La Font (CristoCarril)|La Font]] — serving the dense residential neighbourhoods south of the historic core. The line then enters [[Dàrsena (ciutat)|Dàrsena]], where it stops at [[Dàrsena Est (CristoCarril)|Dàrsena Est]], the only Dàrsena station on the Portnou Line (the western Dàrsena stations are served by [[Line A (CristoCarril)|Line A]] on the Coastal Line).
+Line B begins at the [[Sant Cristòfor Central Terminal]] in [[Original (ciutat)|Original]], the city's primary rail hub. From the terminal, the line heads south through three stations in Original — [[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]], [[Sant Pere (CristoCarril)|Sant Pere]], and [[La Font (CristoCarril)|La Font]] — serving the dense residential neighbourhoods south of the historic core. The line then enters [[Dàrsena (ciutat)|Dàrsena]], where it stops at [[Dàrsena Est (CristoCarril)|Dàrsena Est]], the only Dàrsena station on the Portnou Line (the western Dàrsena stations are served by [[Line A (CristoCarril)|Line A]] on the Coastal Line).
 
 Continuing south, the line passes through two stations in [[Sant Martí (ciutat)|Sant Martí]] — [[Sant Martí Nord (CristoCarril)|Sant Martí Nord]] and [[Sant Martí Sud (CristoCarril)|Sant Martí Sud]] — and three stations in [[Sant Llorenç (ciutat)|Sant Llorenç]] — [[Sant Llorenç Nord (CristoCarril)|Sant Llorenç Nord]], [[Sant Llorenç Centre (CristoCarril)|Sant Llorenç Centre]], and [[Sant Llorenç Sud (CristoCarril)|Sant Llorenç Sud]]. The line then enters [[Ciutat de l'Estació (ciutat)|Ciutat de l'Estació]], serving three stations — [[Ciutat de l'Estació Nord (CristoCarril)|Ciutat de l'Estació Nord]], [[Ciutat de l'Estació Centre (CristoCarril)|Ciutat de l'Estació Centre]], and [[Ciutat de l'Estació Sud (CristoCarril)|Ciutat de l'Estació Sud]]. The 13 stations within Sant Cristòfor cover the eastern and southern coastal plain of the city, serving the dense residential and commercial districts south and east of the historic core. The Ciutat de l'Estació stations form a key commuter pair with the Enllaç stations in Cumará, with heavy peak-period ridership in both directions.
 
@@ -81,7 +81,7 @@ After passing through Les Drassanes, Line B enters [[Portnou]], stopping at [[El
 |-
 | 1 || [[Sant Cristòfor Central Terminal]] || [[Original (ciutat)|Original]] || [[Sant Cristòfor (comarca)|Sant Cristòfor]] || 0.0 || — || 10,500
 |-
-| 2 || [[Portal de Sant Cristòfor (CristoCarril)|Portal de Sant Cristòfor]] || Original || Sant Cristòfor || 3.1 || 3 min || 4,200
+| 2 || [[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]] || Original || Sant Cristòfor || 3.1 || 3 min || 4,200
 |-
 | 3 || [[Sant Pere (CristoCarril)|Sant Pere]] || Original || Sant Cristòfor || 4.7 || 6 min || 3,800
 |-
@@ -205,7 +205,7 @@ Fares are calculated based on the number of zones travelled through. Passengers 
 |-
 ! 1 || [[Sant Cristòfor Central Terminal]] || 0.0 || ● || ● || ● || ●
 |-
-! 2 || [[Portal de Sant Cristòfor (CristoCarril)|Portal de Sant Cristòfor]] || 3.1 || ● || ● || ● || ●
+! 2 || [[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]] || 3.1 || ● || ● || ● || ●
 |-
 ! 3 || [[Sant Pere (CristoCarril)|Sant Pere]] || 4.7 || ● || &#124; || &#124; || ●
 |-

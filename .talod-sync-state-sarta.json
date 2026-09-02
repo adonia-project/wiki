@@ -19,6 +19,11 @@
     "hash": "27c8465202ce219538a8839aac187a093b49122f208614b6f20044a8fd56ea44",
     "last_sync": "2026-08-19T23:49:32.092181+00:00"
   },
+  "Economy of Sarta": {
+    "direction": "push",
+    "hash": "1bfac30a4a655aad37a3d9c440b360f35c0cb56f34ff77bc0a4d9ee28b086b7b",
+    "last_sync": "2026-09-02T03:13:57.689204+00:00"
+  },
   "First Sartan Civil War": {
     "direction": "push",
     "hash": "9afb66b675e4ffef2151ae2db7bb1b6d3e075099ae094b9de294100cc01f3fc1",
@@ -81,13 +86,23 @@
   },
   "History of Sarta (1906-1947)": {
     "direction": "push",
-    "hash": "0f9376929a238d9c60ee6652e524d153ad4ea0eb3750715bd27b4be5e8f07a86",
-    "last_sync": "2026-08-21T23:29:52.676374+00:00"
+    "hash": "5a01902d8984e5ef5ba6582a21a5aa0c18a9976c08d42669cff974201a15beb9",
+    "last_sync": "2026-09-02T02:50:46.930225+00:00"
   },
   "History of Sarta (1947-1977)": {
     "direction": "push",
-    "hash": "ff1cb0fa5c87dc0e1c005431ef887cf5acf4ca6015d775f6ada6331f769b80ed",
-    "last_sync": "2026-08-21T23:29:53.714586+00:00"
+    "hash": "bf42ae6e49bbbff911a68f206473a185569c3f1ea26ec190ce23a0c73749559a",
+    "last_sync": "2026-09-02T02:50:47.943301+00:00"
+  },
+  "History of Sarta (1977-1998)": {
+    "direction": "push",
+    "hash": "729d23b9d55fcdecebbd8754147c05581d68e0a18fc830dfc87508e80033cef9",
+    "last_sync": "2026-09-02T02:50:48.854925+00:00"
+  },
+  "History of Sarta (1998-2021)": {
+    "direction": "push",
+    "hash": "91fd610bb363a38c8b02cb1d6569966af1a75d4799d98ae10497b4d8b16546ef",
+    "last_sync": "2026-09-02T02:52:31.206549+00:00"
   },
   "House of Commons of Sarta": {
     "direction": "push",
@@ -123,6 +138,11 @@
     "direction": "push",
     "hash": "429d63777999d440811f56b5de19a4aea133a59f161a15bf14ec23f2dcdd9827",
     "last_sync": "2026-08-19T23:49:39.397370+00:00"
+  },
+  "Sarta": {
+    "direction": "push",
+    "hash": "a832edbfb338001753a6af927cab6367e28cc298761de345b3d86b84e4c2288f",
+    "last_sync": "2026-09-02T03:14:23.659659+00:00"
   },
   "Sartan Civil War": {
     "direction": "push",

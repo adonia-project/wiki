@@ -1,0 +1,74 @@
+{{Infobox central bank
+| bank_name        = Bank of Balboa
+| native_bank_name = {{native name|ca|Banc de Balboa|italic=no|paren=omit}}
+| image            = Bank of Balboa.png
+| image_size       = 250px
+| headquarters     = 1400 [[Avinguda Llibertat]], [[El Centre (Original, Sant Cristòfor)|El Centre]], [[Original (ciutat)|Original]], [[Sant Cristòfor]], [[Estret Province|Estret]], [[Balboa]]
+| coordinates      = {{coord|0|38|N|94|23|W|type:landmark}}
+| established      = {{start date and age|1968}}
+| governor         = [[Tan Vilanova i Ballester]]
+| central_bank_of  = [[Balboa]]
+| currency         = [[International Dollar]] (ID)
+| reserves         = 73.1 tonnes {{w|gold}}
+| web_address      =
+| footnotes        =
+}}
+
+The '''Bank of Balboa''' ({{lang|ca|Banc de Balboa}}) is the [[central bank]] of [[Balboa]]. Established in 1968 as part of the financial system integration following the country's [[Reunification of Balboa|reunification]], the Bank serves as the national authority for banking supervision, [[Government bonds of Balboa|government debt management]], and domestic implementation of [[Adonian Community]] monetary policy. Balboa uses the [[International Dollar]] (ID), a shared currency managed by AC monetary authorities, and the Bank of Balboa accordingly operates within the AC's monetary framework rather than as an independent currency-issuing institution. The Bank operates with operational independence from the executive branch, though its governor is appointed by the [[President of Balboa|president]].
+
+== History ==
+
+The Bank of Balboa was established in 1968 during the integration of the [[International Mandate of Sant Cristòfor|AC mandate territory]]'s financial system into the national framework. The mandate territory had maintained its own banking regulations, currency arrangements, and relationship with the AC's financial institutions since 1950. The creation of a national central bank was a prerequisite for the adoption of the International Dollar as Balboa's currency, a condition of the reunification agreement, and for the consolidation of monetary and supervisory functions that had previously been divided between mandate-era institutions and the underdeveloped financial apparatus of the interior provinces.
+
+The establishment of the Bank coincided with the broader financial integration that triggered the [[1968–1978 Balboa recession]]. The absorption of Sant Cristòfor's more developed financial regulations into the national system, and the extension of national banking supervision to the interior, disrupted existing financial networks and exposed structural weaknesses in the provincial economies. The Bank's early years were accordingly focused on stabilising the integrated financial system and establishing supervisory standards across the newly unified jurisdiction.
+
+Following the adoption of the [[Constitution of Balboa|1974 constitution]], the Bank's institutional position was formalised with guarantees of operational independence. The constitution designated the Bank as the sole authority for banking supervision and the fiscal agent for government debt issuance, while acknowledging the AC's ultimate authority over monetary policy for the International Dollar.
+
+== Organisation and governance ==
+
+The Bank is headed by a governor appointed by the [[President of Balboa|president]]. The governor's term, the composition of the Bank's governing board, and the appointment procedures for senior officers are established by statute. The Bank's operational independence from the executive branch is constitutionally protected, and the governor cannot be dismissed without cause during the term of appointment.
+
+The Bank's governing structure includes a board of directors responsible for policy decisions and an advisory council comprising representatives from the financial sector, the [[Ministry of Finance (Balboa)|Ministry of Finance]], and the [[National Assembly of Balboa|National Assembly]]. The Bank reports annually to the National Assembly on its operations, financial position, and the state of the Balboan financial system.
+
+== Functions ==
+
+=== Monetary policy ===
+
+As a participant in the AC's monetary framework, the Bank of Balboa implements AC-wide monetary decisions domestically but does not independently set [[interest rate]]s or issue currency. The International Dollar is managed by the AC's monetary authorities, which determine the base rate and other monetary parameters for all participating member states. The Bank's role in monetary policy consists of applying these decisions within Balboa, conducting {{w|open market operations}} for domestic liquidity management, and maintaining the settlement and clearing systems that connect the Balboan financial system to the broader AC monetary infrastructure.
+
+The Bank holds government bonds for monetary policy purposes, including open market operations and liquidity management. These holdings are distinct from the Bank's surplus distribution to the national treasury and are managed separately from its fiscal agent functions.
+
+=== Banking supervision ===
+
+The Bank of Balboa is the sole national authority for banking supervision, responsible for licensing, regulating, and examining banks and financial institutions operating in Balboa. The Bank's supervisory mandate covers all deposit-taking institutions, including [[Banc Balboa]], the [[Corporació Bancària del Nou Món]], and other licensed banks. The Bank works in coordination with the [[Balboa Financial Services Authority]], which has jurisdiction over non-bank financial institutions and securities markets.
+
+=== Fiscal agent ===
+
+The Bank serves as fiscal agent for the [[Government of Balboa|national government]]'s debt issuance. In this capacity, the Bank executes [[Government bonds of Balboa|government bond]] auctions on behalf of the [[Ministry of Finance (Balboa)|Ministry of Finance]], manages settlement and clearing, and operates the central securities depository for government debt. The Ministry of Finance determines debt management policy — including the annual borrowing programme, maturity mix, and instrument selection — while the Bank handles execution. The Bank also provides electronic settlement systems for [[over-the-counter]] transactions in government bonds, ensuring efficient clearance and reducing counterparty risk.
+
+=== Reserves ===
+
+The Bank of Balboa manages Balboa's official {{w|gold}} reserves, totalling 73.1 tonnes. The reserves are held as part of the country's contribution to the AC's collective monetary framework and serve as a backing asset for the International Dollar system. The Bank's reserve management includes custody, audit, and reporting obligations to the AC monetary authorities.
+
+=== Financial stability ===
+
+The Bank monitors systemic risks in the Balboan financial system and coordinates with the AC's financial stability mechanisms. During the [[Adonian pandemic]] in 2020, the Bank provided low-interest loans to support government programmes, including a $180 million loan to fund a rental assistance programme administered through private housing providers.
+
+The Bank distributes its surplus profits to the national treasury. In the 2026 budget, the surplus distribution was approximately $80 million.
+
+== Headquarters ==
+
+The Bank of Balboa is headquartered at 1400 [[Avinguda Llibertat]] in the [[El Centre (Original, Sant Cristòfor)|El Centre]] barri of [[Original (ciutat)|Original]], [[Sant Cristòfor]]. The headquarters building occupies a site along one of the principal diagonal boulevards of the post-war reconstruction, within the civic and commercial core of the ciutat. The El Centre location places the Bank in proximity to the [[Bolsa de Sant Cristòfor]], the [[Districte Financer (Original, Sant Cristòfor)|Districte Financer]], and the [[National Assembly of Balboa|National Assembly]].
+
+== See also ==
+
+* [[Banc Balboa]]
+* [[Government bonds of Balboa]]
+* [[Economy of Balboa]]
+* [[International Dollar]]
+* [[Government of Balboa]]
+* [[Ministry of Finance (Balboa)]]
+
+[[Category:Economy of Balboa]]
+[[Category:Central banks|Balboa]]
+[[Category:Organisations based in Sant Cristòfor]]

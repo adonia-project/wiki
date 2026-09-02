@@ -1,0 +1,88 @@
+local p = {
+	["system title"] = "[[CristoCarril]]",
+	["station format"] = {
+		"%1 (CristoCarril)",
+		["Barcelona Main Station"] = "[[Barcelona Main Station]]",
+		["Dàrsena Nord"] = "[[Dàrsena Nord]]",
+		["Dàrsena Centre"] = "[[Dàrsena Centre]]",
+		["Dàrsena Sud"] = "[[Dàrsena Sud]]",
+		["Platja de Mare de Déu"] = "[[Platja de Mare de Déu]]",
+		["Els Pins"] = "[[Els Pins]]",
+		["La Calma"] = "[[La Calma]]",
+		["Mare de Déu Sud"] = "[[Mare de Déu Sud]]",
+		["Aeroport de Portnou"] = "[[Aeroport de Portnou]]",
+		["El Coll Oest"] = "[[El Coll Oest]]",
+		["Sant Cristòfor Central Terminal"] = "[[Sant Cristòfor Central Terminal]]",
+		["Estació Central de Portnou"] = "[[Estació Central de Portnou]]",
+		["Portal de Sant Cristòfor"] = "[[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]]",
+	},
+	["lines"] = {
+		["_default"] = {
+			["color"] = "27404E",
+		},
+		["Line A"] = {
+			["title"] = "[[Line A (CristoCarril)|Line A]]",
+			["color"] = "27404E",
+			["left terminus"] = "Barcelona Main Station",
+			["right terminus"] = "Estació Central de Portnou",
+			["types"] = {
+				["Short"] = {
+					["title"] = "Short",
+					["right terminus"] = "Mare de Déu Sud",
+				},
+				["Express"] = {
+					["title"] = "Express",
+				},
+				["Local"] = {
+					["title"] = "Local",
+				},
+			},
+		},
+		["Line B"] = {
+			["title"] = "[[Line B (CristoCarril)|Line B]]",
+			["color"] = "27404E",
+			["left terminus"] = "Sant Cristòfor Central Terminal",
+			["right terminus"] = "Estació Central de Portnou",
+			["types"] = {
+				["Short"] = {
+					["title"] = "Short",
+					["right terminus"] = "Vessant",
+				},
+				["Limited"] = {
+					["title"] = "Limited",
+					["right terminus"] = "Vessant",
+				},
+				["Express"] = {
+					["title"] = "Express",
+				},
+				["Local"] = {
+					["title"] = "Local",
+				},
+			},
+		},
+		["Line C"] = {
+			["title"] = "[[Line C (CristoCarril)|Line C]]",
+			["color"] = "27404E",
+			["left terminus"] = "Sant Cristòfor Central Terminal",
+			["right terminus"] = "Varakí Central",
+			["types"] = {
+				["Short"] = {
+					["title"] = "Short",
+					["right terminus"] = "Torrepolis",
+				},
+				["Express"] = {
+					["title"] = "Express",
+				},
+				["Local"] = {
+					["title"] = "Local",
+				},
+			},
+		},
+	},
+	["aliases"] = {
+		["a"] = "Line A",
+		["b"] = "Line B",
+		["c"] = "Line C",
+	},
+}
+return p

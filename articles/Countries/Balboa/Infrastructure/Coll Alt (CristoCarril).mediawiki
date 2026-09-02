@@ -1,0 +1,71 @@
+{{Infobox station
+| name               = Coll Alt
+| native_name        =
+| image              =
+| imagesize          =
+| image_caption      =
+| coordinates        = {{coord|0|34|48|N|94|3|36|W|region:BQ-SC_type:landmark}}
+| location           = [[Sant Jordi (ciutat)|Sant Jordi]], [[Sant Cristòfor (comarca)|Sant Cristòfor]], [[Estret Province]], [[Balboa]]
+| address            =
+| line               = {{CristoCarril Line F}}
+| platforms          = 2 side platforms
+| tracks             = 2
+| other              = Highest elevated station in the CristoCarril system (185 m)
+| structure          = At-grade
+| parking            = Yes (limited)
+| bicycle            = Yes
+| opened             = {{Start date|1915|4|11}}
+| rebuilt            =
+| electrified        = 25 kV AC overhead
+| owned              = [[Intercon]]
+| operator           = [[Intercon]]
+| station_code       = CAL
+| zone               =
+| services           = {{Adjstn
+| left1  = [[La Colònia (CristoCarril)|La Colònia]] | line1  = '''[[CristoCarril|CC]]''' [[Line F (CristoCarril)|Line F]] | right1 = [[L'Estany (CristoCarril)|L'Estany]]
+}}
+| map_locator        =
+| website            =
+}}
+
+'''Coll Alt station''' is a [[CristoCarril]] commuter rail station on [[Line F (CristoCarril)|Line F]], located at the mountain pass of Coll Alt in the [[Serralada d'Estret]] foothills of [[Estret Province]], [[Balboa]]. At approximately 185 metres above sea level, it is the highest elevated station in the CristoCarril system. The station is situated in the eastern highlands of the [[Sant Cristòfor (comarca)|Sant Cristòfor comarca]], within the municipality of [[Sant Jordi (ciutat)|Sant Jordi]], and serves as the last station before Line F enters the [[Sant Cristòfor–L'Estany Rail Tunnel]] toward [[L'Estany (CristoCarril)|L'Estany]].
+
+The station's platform offers a panoramic view overlooking [[Sant Cristòfor]] and the coastal plain below, making it a notable landmark within the CristoCarril network. Due to the steep gradients and tight curve radii of the switchback section on the [[Old Grand Subdivision]], Line F is restricted to two-car train formations at this station.
+
+== History ==
+
+Coll Alt station opened on 11 April 1915 as the terminus of the Old Grand Subdivision, originally constructed as a freight railway to service a copper mine at the mountain pass. The mine extracted copper ore from deposits in the Serralada d'Estret, and the railway was built to transport ore down the switchback section to the coastal plain for processing and shipment. The station's remote location at the crest of the pass made it the natural endpoint of the freight line, and a small mining settlement developed around the station facilities.
+
+The [[Sant Cristòfor–L'Estany Rail Tunnel]], constructed from 8 January 1913 to 8 January 1915, was bored through the Serralada d'Estret east of the station to extend the rail corridor toward the interior. The tunnel was completed in conjunction with the freight operation, allowing copper ore to be transported in both directions — down the switchback to the coastal plain and through the tunnel to the interior. However, the remaining track between the tunnel's eastern portal and [[L'Estany (CristoCarril)|L'Estany]] on the [[Estany de Panacú]] was not yet laid, and the tunnel initially served freight traffic only.
+
+When the copper mine was eventually depleted and operations ceased, the Old Grand Subdivision fell into reduced use. The corridor was later repurposed for passenger service as part of the development of the CristoCarril commuter rail network. The remaining track to L'Estany was laid by 1920, and passenger service through the tunnel to L'Estany commenced on 18 June 1920, connecting the interior lowlands to the coast by rail for the first time. Coll Alt ceased to be a terminus and became a through station on the extended corridor. The tunnel entrance is located a short distance east of the station platforms, marking the transition from the open switchback section to the bored tunnel beneath the highland divide.
+
+== Layout ==
+
+Coll Alt station is an at-grade station with two side platforms flanking two tracks. The platform configuration allows trains in both directions to serve the station simultaneously, though the low service frequency on Line F means that simultaneous arrivals are rare. The platforms are shorter than those at stations on other CristoCarril lines, accommodated to the two-car train formations used on Line F.
+
+The station building is a modest structure dating from its mining era, constructed of local stone. A limited parking area is available adjacent to the station, serving hikers and visitors who use Coll Alt as a gateway to the Serralada d'Estret highland trails. The station's position at the crest of the pass exposes it to slightly cooler temperatures than the coastal plain below, and the surrounding highland terrain is frequently shrouded in morning mist.
+
+== Services ==
+
+Coll Alt is served only by the [[Line F (CristoCarril)|Line F]] local service, which stops at all 13 stations between the [[Sant Cristòfor Central Terminal]] and [[L'Estany (CristoCarril)|L'Estany]]. The Line F express bypasses Coll Alt, running non-stop between [[Polígon Sud (CristoCarril)|Polígon Sud]] and L'Estany through the Sant Cristòfor–L'Estany Rail Tunnel.
+
+{| class="wikitable"
+|-
+! Line !! Direction !! Service patterns
+|-
+| [[Line F (CristoCarril)|Line F]] | [[Sant Cristòfor Central Terminal]] ↔ [[L'Estany (CristoCarril)|L'Estany]] | Local only
+|}
+
+The station has the lowest daily boardings of any CristoCarril station, reflecting its remote location in the highland pass and the limited population of the surrounding area. Most passengers using Coll Alt are hikers, tourists visiting the panoramic overlook, and residents of the few scattered settlements in the vicinity.
+
+== See also ==
+
+* [[CristoCarril]]
+* [[Line F (CristoCarril)]]
+* [[Old Grand Subdivision]]
+* [[Sant Cristòfor–L'Estany Rail Tunnel]]
+* [[Sant Jordi (ciutat)|Sant Jordi]]
+
+{{CristoCarril stations}}
+{{Estret Province comarcas}}

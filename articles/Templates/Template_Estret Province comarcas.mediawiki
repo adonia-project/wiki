@@ -1,0 +1,19 @@
+<includeonly>{{Navbox
+| name       = Estret Province comarcas
+| title      = [[Estret Province]] comarcas
+| state      = {{{state|autocollapse}}}
+| bodyclass  = hlist
+| group1     = Comarcas
+| list1      = [[Baix Llevant (comarca)|Baix Llevant]]{{·}}[[Burutaká (comarca)|Burutaká]]{{·}}[[Cumará (comarca)|Cumará]]{{·}}[[Els Aiguamolls (comarca)|Els Aiguamolls]]{{·}}[[Illes del Guano (comarca)|Illes del Guano]]{{·}}[[Karawak (comarca)|Karawak]]{{·}}[[L'Estany (comarca)|L'Estany]]{{·}}[[La Marina (comarca)|La Marina]]{{·}}[[Les Planes (comarca)|Les Planes]]{{·}}[[Llevant (comarca)|Llevant]]{{·}}[[Marjal del Canal (comarca)|Marjal del Canal]]{{·}}[[Sant Cristòfor (comarca)|Sant Cristòfor]]{{·}}[[Warakú (comarca)|Warakú]]
+| below      = [[Balboa]] {{·}} [[Estret Province]] {{·}} [[Comarca]]
+}}</includeonly><noinclude>
+{{Documentation|content=
+This template displays a navigation box listing all [[comarca]]s of [[Estret Province]], [[Balboa]].
+
+== Usage ==
+
+Place <code>{{tlx|Estret Province comarcas}}</code> at the bottom of articles related to Estret Province comarcas.
+
+[[Category:Balboa geography templates]]
+}}
+</noinclude>

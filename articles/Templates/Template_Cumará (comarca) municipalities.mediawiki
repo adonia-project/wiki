@@ -1,0 +1,7 @@
+{{Navbox
+| name      = Cumará (comarca) municipalities
+| title     = Municipalities of the [[Cumará (comarca)|Cumará comarca]]
+| state     = {{{state|autocollapse}}}
+| bodyclass = hlist
+| list1     = [[Brises, Estret|Brises]]{{·}}[[Belljardí]]{{·}}[[Costa Serena]]{{·}}[[Els Camps]]{{·}}[[Els Horts]]{{·}}[[Enllaç]]{{·}}[[La Cruïlla]]{{·}}[[Mas Vell]]{{·}}[[Pla dels Horts]]{{·}}[[Pla dels Pins]]{{·}}[[Varakí]]
+}}

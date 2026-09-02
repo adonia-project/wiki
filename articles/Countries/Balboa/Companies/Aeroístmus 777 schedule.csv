@@ -13,20 +13,20 @@ Aircraft,Registration,Base,FlightNo,Day,From,To,DepTime,ArrTime,BlockHrs,Notes
 777-2,BL-WAB,SCI,AB102,Sat,AYM,SCI,23:55,11:55+1,12.0,Daily — arrives Sun 11:55
 777-1,BL-WAA,SCI,AB101,Sun,SCI,AYM,10:00,22:00,12.0,Daily — WAA/WAB rotation
 777-1,BL-WAA,SCI,AB102,Sun,AYM,SCI,23:55,11:55+1,12.0,Daily — arrives Mon 11:55
-777-4,BL-WAD,SCI,AB109,Mon,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
-777-4,BL-WAD,SCI,AB110,Mon,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
-777-4,BL-WAD,SCI,AB109,Tue,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
-777-4,BL-WAD,SCI,AB110,Tue,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
-777-4,BL-WAD,SCI,AB109,Wed,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
-777-4,BL-WAD,SCI,AB110,Wed,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
-777-4,BL-WAD,SCI,AB109,Thu,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
-777-4,BL-WAD,SCI,AB110,Thu,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
-777-4,BL-WAD,SCI,AB109,Fri,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
-777-4,BL-WAD,SCI,AB110,Fri,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
-777-4,BL-WAD,SCI,AB109,Sat,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
-777-4,BL-WAD,SCI,AB110,Sat,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
-777-4,BL-WAD,SCI,AB109,Sun,SCI,AMP,07:00,18:00,11.0,Ampuria 3x daily (peak) — same-day turn
-777-4,BL-WAD,SCI,AB110,Sun,AMP,SCI,19:00,06:00+1,11.0,"Ampuria 3x daily (peak return) — overnight red-eye, 1h turn at SCI"
+777-4,BL-WAD,SCI,AB110,Mon,AMP,SCI,13:00,18:00,11.0,Ampuria daily return — morning departure from AMP
+777-4,BL-WAD,SCI,AB109,Mon,SCI,AMP,18:00,11:00+1,11.0,Ampuria daily outbound — overnight outbound
+777-10,BL-WAJ,SCI,AB110,Tue,AMP,SCI,13:00,18:00,11.0,Ampuria daily return — morning departure from AMP
+777-10,BL-WAJ,SCI,AB109,Tue,SCI,AMP,18:00,11:00+1,11.0,Ampuria daily outbound — overnight outbound
+777-4,BL-WAD,SCI,AB110,Wed,AMP,SCI,13:00,18:00,11.0,Ampuria daily return — morning departure from AMP
+777-4,BL-WAD,SCI,AB109,Wed,SCI,AMP,18:00,11:00+1,11.0,Ampuria daily outbound — overnight outbound
+777-10,BL-WAJ,SCI,AB110,Thu,AMP,SCI,13:00,18:00,11.0,Ampuria daily return — morning departure from AMP
+777-10,BL-WAJ,SCI,AB109,Thu,SCI,AMP,18:00,11:00+1,11.0,Ampuria daily outbound — overnight outbound
+777-4,BL-WAD,SCI,AB110,Fri,AMP,SCI,13:00,18:00,11.0,Ampuria daily return — morning departure from AMP
+777-4,BL-WAD,SCI,AB109,Fri,SCI,AMP,18:00,11:00+1,11.0,Ampuria daily outbound — overnight outbound
+777-10,BL-WAJ,SCI,AB110,Sat,AMP,SCI,13:00,18:00,11.0,Ampuria daily return — morning departure from AMP
+777-10,BL-WAJ,SCI,AB109,Sat,SCI,AMP,18:00,11:00+1,11.0,Ampuria daily outbound — overnight outbound
+777-4,BL-WAD,SCI,AB110,Sun,AMP,SCI,13:00,18:00,11.0,Ampuria daily return — morning departure from AMP
+777-4,BL-WAD,SCI,AB109,Sun,SCI,AMP,18:00,11:00+1,11.0,Ampuria daily outbound — overnight outbound
 CODESHARE,Sanesair,OKI,SA-xxx,Mon,OKI,AKY,TBD,TBD,2.0,Codeshare — Okami→Akyatan (Dagit) 1696km on 787-9
 CODESHARE,Sanesair,OKI,SA-xxx,Thu,OKI,AKY,TBD,TBD,2.0,Codeshare — Okami→Akyatan (Dagit) 1696km on 787-9
 777-6,BL-WAF,SCI,AB121,Mon,SCI,AYM,20:00,08:00+1,12.0,Ayangatiri 2x daily (night) — overnight outbound
@@ -57,3 +57,17 @@ CODESHARE,Sanesair,OKI,SA-xxx,Thu,OKI,AKY,TBD,TBD,2.0,Codeshare — Okami→Akya
 777-5,BL-WAE,SCI,AB103,Fri,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
 777-5,BL-WAE,SCI,AB104,Sat,SCI,OKI,22:00,12:00+1,14.0,Okami daily — overnight outbound
 777-5,BL-WAE,SCI,AB103,Sun,OKI,SCI,06:00,20:00,14.0,Okami daily — morning return
+777-8,BL-WAH,SCI,AB124,Mon,MAR,SCI,11:00,18:00,13.0,Mariapolis daily return — morning departure from MAR
+777-8,BL-WAH,SCI,AB123,Mon,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound
+777-9,BL-WAI,SCI,AB124,Tue,MAR,SCI,11:00,18:00,13.0,Mariapolis daily return — morning departure from MAR
+777-9,BL-WAI,SCI,AB123,Tue,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound
+777-8,BL-WAH,SCI,AB124,Wed,MAR,SCI,11:00,18:00,13.0,Mariapolis daily return — morning departure from MAR
+777-8,BL-WAH,SCI,AB123,Wed,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound
+777-9,BL-WAI,SCI,AB124,Thu,MAR,SCI,11:00,18:00,13.0,Mariapolis daily return — morning departure from MAR
+777-9,BL-WAI,SCI,AB123,Thu,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound
+777-8,BL-WAH,SCI,AB124,Fri,MAR,SCI,11:00,18:00,13.0,Mariapolis daily return — morning departure from MAR
+777-8,BL-WAH,SCI,AB123,Fri,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound
+777-9,BL-WAI,SCI,AB124,Sat,MAR,SCI,11:00,18:00,13.0,Mariapolis daily return — morning departure from MAR
+777-9,BL-WAI,SCI,AB123,Sat,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound
+777-8,BL-WAH,SCI,AB124,Sun,MAR,SCI,11:00,18:00,13.0,Mariapolis daily return — morning departure from MAR
+777-8,BL-WAH,SCI,AB123,Sun,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound

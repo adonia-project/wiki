@@ -1,0 +1,196 @@
+The '''government bonds of Balboa''' comprise the {{w|sovereign debt|sovereign debt securities}} issued by the [[Government of Balboa]] through the [[Ministry of Finance (Balboa)|Ministry of Finance]], as well as sub-sovereign bonds issued by provincial, comarca, and municipal authorities. As of 2026, total national government debt stands at approximately $119 billion (28% of nominal GDP), of which approximately $85.8 billion is in the form of negotiable bonds and treasury bills, with the remainder consisting of multilateral loans and crisis-era obligations. The Balboan government bond market is the deepest and most liquid in the [[BTPMEU]] region, and Balboa sovereign bonds serve as the benchmark for [[Abyala]]n fixed income pricing.
+
+== Management and issuance ==
+
+The issuance of government bonds is managed through a split arrangement between the [[Ministry of Finance (Balboa)|Ministry of Finance]] and the [[Bank of Balboa]], the country's central bank. The Ministry of Finance, through its Treasury division (Volisanian: ''Tresoreria''), determines debt management policy, including the annual borrowing programme, maturity mix, and instrument selection, in coordination with the national budget process. The Bank of Balboa, as fiscal agent, executes bond auctions, manages settlement and clearing, and operates the central securities depository for government debt.
+
+The Treasury division was formally established as a distinct office within the Ministry of Finance in 1993, as part of the fiscal reforms that also introduced the national {{w|land value tax}}. Prior to its establishment, debt issuance was handled on an ad hoc basis by the Ministry's budget department. The creation of a dedicated treasury function was recommended by the [[Adonian Community Monetary Fund]] (ACMF) as part of its post-1994 reform programme, which sought to strengthen Balboa's fiscal institutions following the [[Balboa real-estate asset crisis|real-estate crisis]] and the [[1994 Balboa spot recession|1994 spot recession]].
+
+The annual borrowing programme is set in conjunction with the budget. The Ministry of Finance publishes a quarterly issuance calendar indicating the instruments, amounts, and auction dates for the coming quarter, providing predictability for market participants. The Bank of Balboa conducts auctions on behalf of the Ministry, using a competitive bidding process in which primary dealers and institutional investors submit price and yield bids.
+
+== Instruments ==
+
+The Balboan government issues a range of debt instruments across the maturity spectrum, from short-term treasury bills to long-term bonds and inflation-linked securities.
+
+=== Treasury bills ===
+
+''Lletres del Tresor'' (Treasury bills) are short-term {{w|zero-coupon bond|discount securities}} with maturities of less than one year. Treasury bills are sold at a discount to face value and redeemed at par on maturity. Standard maturities are 3-month, 6-month, and 12-month. Treasury bills are used for cash flow management and short-term financing needs. They are the most liquid segment of the government debt market and serve as the benchmark for short-term interest rates in Balboa.
+
+=== Treasury notes ===
+
+''Bons del Tresor'' (Treasury notes) are medium-term fixed-coupon bonds with maturities ranging from 2 to 10 years. Treasury notes pay semi-annual coupons and are issued at or near par. Standard maturities are 2-year, 3-year, 5-year, 7-year, and 10-year. The 10-year treasury note is the benchmark instrument for long-term interest rate pricing in the Balboan market and is the most closely watched government bond yield.
+
+=== Treasury bonds ===
+
+''Obligacions del Tresor'' (Treasury bonds) are long-term fixed-coupon bonds with maturities exceeding 10 years. Standard maturities are 15-year, 20-year, and 30-year. Treasury bonds are issued less frequently than notes and are primarily held by long-term institutional investors such as the [[Balboa Pension Fund]] and insurance companies. The 30-year bond is the longest-dated government security in the Balboan market.
+
+=== Inflation-linked bonds ===
+
+''Bons del Tresor indexats'' (inflation-linked bonds) are {{w|inflation-indexed bond|inflation-indexed securities}} whose principal is adjusted in line with a designated inflation index. These bonds provide investors with protection against inflation risk and are typically issued in 5-year and 10-year maturities. The inflation-linked programme was introduced in the early 2000s as part of the government's strategy to diversify its funding sources and provide a wider range of instruments to investors.
+
+=== Infrastructure bonds ===
+
+''Bons d'infraestructura'' (infrastructure bonds) are project-specific bonds issued to finance designated infrastructure projects, including toll roads, port facilities, and rail infrastructure. Infrastructure bonds are backed by the revenue streams of the projects they finance, such as tolls and user fees, rather than by the general fiscal capacity of the government. Approximately $6.0 billion in infrastructure bonds is currently outstanding. These bonds typically carry maturities of 10 to 20 years and are held by a mix of institutional investors and project finance lenders.
+
+{| class="wikitable"
+|-
+! Instrument !! Volisanian name !! Maturity !! Coupon !! Use
+|-
+| Treasury bills || ''Lletres del Tresor'' || 3, 6, 12 months || Discount (zero-coupon) || Cash flow management
+|-
+| Treasury notes || ''Bons del Tresor'' || 2, 3, 5, 7, 10 years || Fixed, semi-annual || Structural financing
+|-
+| Treasury bonds || ''Obligacions del Tresor'' || 15, 20, 30 years || Fixed, semi-annual || Long-term financing
+|-
+| Inflation-linked bonds || ''Bons del Tresor indexats'' || 5, 10 years || Inflation-adjusted || Diversified funding
+|-
+| Infrastructure bonds || ''Bons d'infraestructura'' || 10–20 years || Fixed or revenue-linked || Project finance
+|}
+
+== Issuers ==
+
+Government bonds in Balboa are issued at four levels of government: national, provincial, comarca, and municipal. Each level has distinct borrowing authority and fiscal capacity.
+
+=== National government ===
+
+The national government is the dominant issuer of government bonds in Balboa. Sovereign bonds are issued by the Ministry of Finance through the Bank of Balboa and constitute the vast majority of the government bond market. The national government's borrowing authority is established by the [[National Assembly of Balboa|National Assembly]], which authorises the annual borrowing programme as part of the budget process. National government bonds are backed by the full faith and credit of the Government of Balboa.
+
+=== Provincial bonds ===
+
+The five provinces of Balboa — [[Estret (province)|Estret]], [[Jala (province)|Jala]], [[Nurra (province)|Nurra]], [[Migjorn (province)|Migjorn]], and [[Tramuntana (province)|Tramuntana]] — are authorised to issue bonds to finance capital projects and, to a limited extent, operating deficits. Provincial bond issuance requires the approval of the Ministry of Finance, which assesses the fiscal sustainability of the proposed borrowing and its consistency with the national fiscal framework. Provincial bonds are backed by the taxing authority and transfer revenues of the issuing province.
+
+The provincial bond market is small relative to the sovereign market. Estret Province, which includes [[Sant Cristòfor]] and the canal corridor, accounts for the majority of provincial issuance, reflecting its larger revenue base and infrastructure needs. Tramuntana and Nurra provinces, with smaller economies and populations, issue bonds infrequently and in small amounts.
+
+=== Comarca bonds ===
+
+The 106 comarcas of Balboa are authorised to issue bonds, subject to fiscal rules established by the national government and the relevant provincial government. Comarca bonds are typically issued for specific infrastructure projects, such as local roads, water systems, and public buildings, and are backed by the comarca's share of national tax transfers and local revenue. The comarca bond market is the smallest segment of the government bond market, and many comarcas lack the credit standing to issue bonds independently, relying instead on provincial or central government guarantees.
+
+=== Municipal bonds ===
+
+Municipalities, including the major cities of [[Sant Cristòfor]], [[Portnou]], [[Sant Bart]], and other urban centres, may issue bonds to finance municipal infrastructure and services. Municipal bonds are the most established segment of the sub-sovereign bond market, reflecting the larger revenue bases of major cities. The Sant Cristòfor municipal bond programme is the largest sub-sovereign issuance programme in Balboa, financing the city's public housing construction, road maintenance, and utility infrastructure.
+
+Municipal bonds are typically underwritten by [[Empresa per a Bons, Préstecs i Reemborsaments|EBPR]] or by commercial banks with bond underwriting capabilities. The market for municipal bonds expanded significantly in the 1990s, as democratic transition and fiscal decentralisation gave municipalities greater autonomy over their capital financing.
+
+== Trading ==
+
+=== Primary market ===
+
+New government bond issues are sold through competitive auctions conducted by the Bank of Balboa. The auction system operates through a network of primary dealers — financial institutions authorised to bid directly at government bond auctions. Primary dealers are required to bid at every auction and to maintain secondary market quoting obligations, ensuring liquidity in the government bond market.
+
+Primary dealers include the major commercial banks operating in Balboa — [[Banc Balboa]], [[Banc de l'Istme]], [[Banc de Jala]], [[Corporació Bancària del Nou Món|CBNM]], and [[SY Balboa]] — as well as [[Empresa per a Bons, Préstecs i Reemborsaments|EBPR]], the dedicated fixed income firm. The primary dealer system was established in 1993 as part of the fiscal reforms and has been the principal channel for government bond distribution since that time.
+
+Auctions are conducted on a competitive basis, with primary dealers submitting price and yield bids. The Bank of Balboa allocates the bonds to the highest bidders, with the cut-off price determined by the amount of debt being issued. Non-competitive bids from retail investors and smaller institutions are also accepted, typically at the average price of the competitive auction.
+
+=== Secondary market ===
+
+The secondary market for government bonds operates through three channels: the [[Bolsa de Sant Cristòfor]], the {{w|Over-the-counter (finance)|over-the-counter}} (OTC) market, and the EBPR trading desk.
+
+The Bolsa de Sant Cristòfor lists a selection of government bonds alongside its equity and corporate bond listings. Exchange-traded government bonds are primarily intended for retail investors and smaller institutional accounts. Trading volumes on the exchange are modest compared to the OTC market, as most institutional trading occurs directly between counterparties.
+
+The OTC market is the principal venue for secondary trading in government bonds. Transactions are conducted directly between banks, institutional investors, and broker-dealers, with prices negotiated bilaterally. The Bank of Balboa provides a central securities depository and electronic settlement system for OTC transactions, ensuring efficient clearance and reducing counterparty risk.
+
+EBPR operates the largest dedicated bond trading desk in the Abyalan market, making markets in the bonds it has underwritten and providing secondary market liquidity. The EBPR trading desk handled approximately $40 billion in secondary market transactions in 2026, serving institutional investors across the BTPMEU region.
+
+== Ownership ==
+
+The ownership of Balboan government bonds is concentrated among domestic institutional investors, with the [[Balboa Pension Fund]] being the single largest holder. Approximately $56.0 billion in domestic bonds is held by domestic institutions, while $23.8 billion in international sovereign bonds is held by foreign investors. A further $6.0 billion in infrastructure bonds is held by project finance lenders and institutional investors.
+
+{| class="wikitable"
+|-
+! Holder !! Amount !! Instrument type !! Notes
+|-
+| [[Balboa Pension Fund]] || $26.2 billion || Domestic bonds (Lletres, Bons, Obligacions) || Largest single holder; conservative portfolio mandate
+|-
+| Commercial banks and insurers || $29.8 billion || Domestic bonds (Lletres, Bons, Obligacions) || Liquidity management, regulatory reserves
+|-
+| International investors || $23.8 billion || International sovereign bonds || Issued through international capital markets
+|-
+| Infrastructure bond holders || $6.0 billion || Infrastructure bonds || Project finance lenders, institutional investors
+|-
+| [[Fons d'Inversió Directa de Balboa|FIDB]] || Unspecified || Domestic bonds || Part of fixed income allocation within $65 billion AUM
+|-
+| [[Bank of Balboa]] || Unspecified || Various || Monetary policy operations, open market operations
+|}
+
+The Balboa Pension Fund (BPF) holds approximately $26.2 billion in domestic government bonds, representing the largest single holding. The BPF's investment in government bonds is a function of its mandate to maintain a conservative, low-risk portfolio for its pension obligations. Government bonds provide the stable, long-term income stream required by the pension system, and the BPF's bond holdings are a significant source of domestic financing for the government.
+
+Commercial banks and insurance companies hold approximately $29.8 billion in domestic government bonds. Banks hold government bonds as part of their liquidity management and regulatory reserve requirements, while insurance companies hold them as part of their statutory reserves for policyholder obligations. The concentration of bank and insurance holdings means that the domestic banking sector is closely interconnected with the government bond market.
+
+International investors hold approximately $23.8 billion in international sovereign bonds, with an additional estimated $10 billion in domestic bonds held through cross-border accounts and the [[Bolsa de Sant Cristòfor]]. These bonds are issued in international capital markets, primarily through the [[Sant Cristòfor Free Trade Zone]] and through cross-border offerings, and are held by a mix of foreign banks, pension funds, sovereign wealth funds, and asset managers. International investors are attracted to Balboan sovereign bonds by the country's stable fiscal position, its canal-backed revenue stream, and the depth of the BTPMEU market.
+
+The largest foreign holders of Balboan government bonds as of June 2026 are:
+
+{| class="wikitable defaultcenter col1left"
+! Foreign holder
+! Total<br>{{nobr|(in $ billion)}}
+! % change<br>{{nobr|since June '24}}
+! % held as<br>{{nobr|long-term debt}}
+|-
+| {{flagicon|Volisania}} [[Volisania]] || 11.2 || + 4% || {{percentage bar|91|91%}}
+|-
+| {{flagicon|Zong}} [[Zong]] || 7.8 || + 9% || {{percentage bar|88|88%}}
+|-
+| {{flagicon|Burawa}} [[Burawa]] || 5.4 || + 6% || {{percentage bar|85|85%}}
+|-
+| {{flagicon|Nakamizu}} [[Nakamizu]] || 4.1 || + 12% || {{percentage bar|79|79%}}
+|-
+| {{flagicon|Okaiken}} [[Okaiken]] || 3.2 || + 7% || {{percentage bar|82|82%}}
+|-
+| {{flagicon|Sanrobonia}} [[Sanrobonia]] || 2.5 || + 3% || {{percentage bar|74|74%}}
+|-
+| {{flagicon|Balisca}} [[Balisca]] || 2.0 || + 8% || {{percentage bar|83|83%}}
+|-
+| {{flagicon|Jarin}} [[Jarin]] || 1.6 || + 5% || {{percentage bar|81|81%}}
+|-
+| {{flagicon|Orma}} [[Orma]] || 1.3 || + 2% || {{percentage bar|77|77%}}
+|-
+| {{flagicon|Echia}} [[Echia]] || 1.1 || + 6% || {{percentage bar|72|72%}}
+|}
+
+Volisania is the largest foreign holder, reflecting the deep financial and trade ties between the two countries. Volisanian holdings are concentrated in the central bank and major commercial banks, which hold Balboan bonds as part of their foreign reserve portfolios and cross-border banking operations. Zong ranks second, driven by the importance of the [[Balboa Canal]] to Zong commerce and the extensive Zong banking presence in [[Sant Cristòfor]]. Burawa's holdings reflect its position as Balboa's principal Kaftian trading partner and the role of Balboan bonds in Burawi sovereign reserve diversification. Nakamizu, Okaiken, and Sanrobonia hold smaller but growing positions, reflecting increasing Shendan-region investor interest in BTPMEU fixed income markets. Balisca's holdings are driven by the close financial integration between the two BTPMEU economies and the role of Balboan bonds in Baliscan pension fund portfolios. Jarin and Orma hold modest positions as part of regional reserve diversification, while Echia's holdings reflect growing Mesogean investor interest in BTPMEU fixed income following the deepening of AC financial market linkages.
+
+The [[Fons d'Inversió Directa de Balboa]] (FIDB), the national sovereign wealth fund, holds a portion of its $65 billion in assets under management in government bonds as part of its fixed income allocation. The FIDB's bond holdings provide additional domestic demand for government debt, though the fund's primary mandate is direct investment rather than fixed income.
+
+The Bank of Balboa holds government bonds for monetary policy purposes, including {{w|open market operations}} and liquidity management. These holdings are distinct from the central bank's surplus distribution to the national treasury and are managed separately from its fiscal agent functions.
+
+=== Non-bond debt ===
+
+In addition to negotiable bonds, the national government's $119 billion debt includes approximately $33.3 billion in non-bond instruments: AC concessional loans ($15.5 billion at 2.0%), ACMF emergency lending ($9.5 billion at 3.0%), and crisis bailout obligations ($8.3 billion at 4.0%). These are bilateral and multilateral arrangements rather than tradable securities and are not part of the government bond market. The ACMF emergency lending originated during the 1985–1991 real-estate crisis, while the crisis bailout obligations stem from the government's 1989 seizure and recapitalisation of [[Casa Balboa]] and other financial institutions.
+
+{| class="wikitable"
+|-
+! Component !! Amount !! Rate !! Interest !! Type
+|-
+| Domestic bonds (BPF-held) || $26.2 billion || 4.5% || $1.18 billion || Negotiable bond
+|-
+| Domestic bonds (banks, insurers) || $29.8 billion || 5.0% || $1.49 billion || Negotiable bond
+|-
+| International sovereign bonds || $23.8 billion || 6.0% || $1.43 billion || Negotiable bond
+|-
+| AC concessional loans || $15.5 billion || 2.0% || $0.31 billion || Multilateral loan
+|-
+| ACMF emergency lending || $9.5 billion || 3.0% || $0.29 billion || Multilateral loan
+|-
+| Crisis bailout obligations || $8.3 billion || 4.0% || $0.33 billion || Government obligation
+|-
+| Infrastructure bonds || $6.0 billion || 5.0% || $0.30 billion || Negotiable bond
+|-
+| Total || $119.0 billion || 4.5% blended || $5.3 billion ||
+|}
+
+== See also ==
+
+* [[Economy of Balboa]]
+* [[Budget of Balboa]]
+* [[Bank of Balboa]]
+* [[Balboa Pension Fund]]
+* [[Fons d'Inversió Directa de Balboa]]
+* [[Empresa per a Bons, Préstecs i Reemborsaments]]
+* [[Bolsa de Sant Cristòfor]]
+* [[BTPMEU]]
+* [[Sant Cristòfor Free Trade Zone]]
+* [[Adonian Community Monetary Fund]]
+
+[[Category:Economy of Balboa]]
+[[Category:Government of Balboa]]
+[[Category:Bond market]]

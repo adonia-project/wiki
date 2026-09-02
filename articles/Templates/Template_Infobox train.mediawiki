@@ -95,7 +95,7 @@
 |label55 = Capacity
  |data55 = {{{capacity|}}}
 
-|label56 = [[Rolling stock company|Owner{{pluralize from text|{{{owner|}}}|plural=s}}]]
+|label56 = {{w|Rolling stock|Owner{{pluralize from text|{{{owner|}}}|plural=s}}}}
  |data56 = {{{owner|}}}
 
 |label57 = Operator{{pluralize from text|{{{operator|}}}|plural=s}}
@@ -128,10 +128,10 @@
 |label136 = Floor height
  |data136 = {{{floorheight|}}}
 
-|label137 = [[Low-floor tram|Low-floor]]
+|label137 = {{w|Low-floor bus|Low-floor}}
  |data137 = {{{lowfloor|}}}
 
-|label138 = [[Railway platform height|Platform height]]
+|label138 = {{w|Railway platform height|Platform height}}
  |data138 = {{{platformheight|}}}
 
 |label139 = Entry
@@ -146,7 +146,7 @@
 |label142 = Wheel diameter 
  |data142 = {{{wheeldiameter|}}}
 
-|label143 = [[Wheelbase#Rail|Wheelbase]]
+|label143 = {{w|Wheelbase|Wheelbase}}
  |data143 = {{{wheelbase|}}}
 
 |label144 = Maximum speed
@@ -155,94 +155,94 @@
 |label145 = Weight
  |data145 = {{{weight|}}}
 
-|label146 = [[Axle load]]
+|label146 = {{w|Axle load}}
  |data146 = {{{axleload|}}}
 
-|label147 = [[Grade (slope)|Steep gradient]]
+|label147 = {{w|Grade (slope)|Steep gradient}}
  |data147 = {{if empty|{{{steep gradient|}}}|{{{gradient|}}}}}
 
 |label148 = Traction system
  |data148 = {{{traction|}}}
 
-|label149 = [[Prime mover (locomotive)|Prime mover{{pluralize from text|{{{engine|}}}|plural=s}}]]
+|label149 = {{w|Prime mover (locomotive)|Prime mover{{pluralize from text|{{{engine|}}}|plural=s}}}}
  |data149 = {{{engine|}}}
 
 |label150 = Engine type
  |data150 = {{if empty|{{{enginetype|}}}|{{{Enginetype|}}}}}
 
-|label151=[[Cylinder (engine)|Cylinder]] count
+|label151={{w|Cylinder (engine)|Cylinder}} count
  |data151={{{cylindercount|}}}
 
-|label152=[[Cylinder (engine)|Cylinder]] size
+|label152={{w|Cylinder (engine)|Cylinder}} size
  |data152={{{cylindersize|}}}
 
-|label153=[[Engine displacement|Displacement]]
+|label153={{w|Engine displacement|Displacement}}
  |data153={{{displacement|}}}
 
-|label154 = [[Traction motor]]s
+|label154 = {{w|Traction motor|Traction motors}}
  |data154= {{{traction motors|}}}
 
 |label155 = Power output
  |data155 = {{{poweroutput|}}}
 
-|label156 = [[Tractive effort]]
+|label156 = {{w|Tractive effort}}
  |data156 = {{{tractiveeffort|}}}
 
 |label157= Transmission
  |data157 = {{{transmission|}}}
 
-|label158= [[Gear train|Gearbox]]
+|label158= {{w|Gear train|Gearbox}}
  |data158 = {{{gearbox|}}}
 
-|label159= [[Gear train#Gear ratio|Gear ratio]]
+|label159= {{w|Gear train|Gear ratio}}
  |data159 = {{{gearratio|}}}
 
-|label160 = [[Acceleration]]
+|label160 = {{w|Acceleration}}
  |data160 = {{{acceleration|}}}
 
-|label161 = [[Deceleration]]
+|label161 = {{w|Deceleration}}
  |data161 = {{{deceleration|}}}
 
 |label162 = Auxiliaries
  |data162 = {{{aux|}}}
 
-|label163 = [[Head-end power|Power supply]]
+|label163 = {{w|Head-end power|Power supply}}
  |data163 = {{{powersupply|}}}
 
-|label164 = [[Heating, ventilation, and air conditioning|HVAC]]
+|label164 = {{w|Heating, ventilation, and air conditioning|HVAC}}
  |data164 = {{{hvac|}}}
 
-|label165 = [[Railway electrification|Electric system{{pluralize from text|{{{electricsystem|}}}|plural=s|no_comma=1}}]]
+|label165 = {{w|Railway electrification|Electric system{{pluralize from text|{{{electricsystem|}}}|plural=s|no_comma=1}}}}
  |data165 = {{{electricsystem|}}}
 
-|label166 = [[Current collector|Current collection]]
+|label166 = {{w|Current collector|Current collection}}
  |data166 = {{{collectionmethod|}}}
 
-|label167 = [[UIC classification of locomotive axle arrangements|UIC classification]]
+|label167 = {{w|UIC classification of locomotive axle arrangements|UIC classification}}
  |data167 = {{{uicclass|}}}
 
-|label168 = [[AAR wheel arrangement]]
+|label168 = {{w|AAR wheel arrangement}}
  |data168 = {{if empty|{{{aarwheels|}}}|{{{wheel arrangement|}}}}}
 
-|label169 = [[Adhesion railway|Wheels driven]]
+|label169 = {{w|Adhesion railway|Wheels driven}}
  |data169 = {{{wheels driven|}}}
 
-|label170 = [[Bogie]]s
+|label170 = {{w|Bogie|Bogies}}
  |data170 = {{{bogies|}}}
 
-|label171 = [[Minimum railway curve radius|Minimum turning radius]]
+|label171 = {{w|Minimum railway curve radius|Minimum turning radius}}
  |data171 = {{{minimum curve|}}}
 
-|label172 = [[Railway brake|Braking system{{pluralize from text|{{{brakes|}}}}|plural=s}}]]
+|label172 = {{w|Railway brake|Braking system{{pluralize from text|{{{brakes|}}}|plural=s}}}}
  |data172 = {{if empty|{{{brakes|}}}|{{{Brakes|}}}}}
 
 |label173 = Safety system{{pluralize from text|{{{safety|}}}|plural=s}}
  |data173 = {{{safety|}}}
 
-|label174 = [[Railway coupling|Coupling system]]
+|label174 = {{w|Railway coupling|Coupling system}}
  |data174 = {{{coupling|}}}
 
-|label175 = [[Multiple-unit train control|Multiple working]]
+|label175 = {{w|Multiple-unit train control|Multiple working}}
  |data175 = {{{multipleworking|}}}
 
 |label176 = Headlight type
@@ -251,7 +251,7 @@
 |label177 = Seating
  |data177 = {{if empty|{{{seating|}}}|{{{CarSeating|}}}}}
 
-|label197 = [[Track gauge]]
+|label197 = {{w|Track gauge}}
  |data197 = {{{gauge|}}}
 
 |header198 = {{#if:{{{notes|}}}|Notes/references}}

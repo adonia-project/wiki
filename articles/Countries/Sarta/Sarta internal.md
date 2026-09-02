@@ -39,10 +39,11 @@
 - Carlos II of Sarta (1855–unknown) — successor to Alfonso II; industrial and nationalist era.
 
 ## Population working series
-- 1690 baseline: about 3.7 million.
-- First Sartan Civil War (1738–1747): about 10% mortality; working postwar population about 3.75 million.
-- Second Sartan Civil War (1799–1811): about 8.5% mortality; working 1811 population about 4.2 million.
-- First official census (1815): about 4.3 million.
+- 1690 baseline: about 4.5 million; the earlier 3.7 million estimate was too low for the mapped territory and settlement pattern.
+- First Sartan Civil War (1738–1747): about 10% mortality; working postwar population about 5.0 million.
+- Second Sartan Civil War (1799–1811): about 8.5% mortality; working 1811 population about 6.5 million.
+- First official census (1815): about 6.8 million.
+- Revised planning series: 1846 ~8.1 million; 1906 ~12.6 million; 1947 ~15.84 million; 1977 ~27.91 million; 1998 ~37.13 million; 2021 41,243,191.
 - Use these as planning figures, not exact census totals.
 
 ## 1811-1846
@@ -77,3 +78,26 @@
 - The state adopted the international dollar, restored ties with [[Guajicutea]], and kept heavy export links to [[Volisania]] and [[Jacan]].
 - The 1960s and early 1970s saw more manufacturing offshored from Volisania, growth in services, and a gradual decline in the older coal-dependent extraction trade.
 - The Camboriú War and oil shock produced a recession in the mid-1970s; the government refused to privatize and waited out the downturn, which weakened PUM control and opened space for the conservative, socialist, progressive, and centrist parties.
+
+## 1977-1998
+- The [[1976–1981 global economic crisis]] reduced manufacturing demand and produced prolonged stagnation and unemployment in Sarta.
+- A new conservative party won the 1984 election and introduced privatization, while shifting the economy toward services and lighter manufacturing.
+- Sarta experienced rapid, double-digit GDP growth from 1990 to 1994, followed by renewed unemployment from 1995.
+- The conservative party lost the 1998 election to the Labor Party, ending the era.
+
+## 1998-2021
+- Politics alternated between the Labor Party and the conservative party, with recurring periods of growth and downturn.
+- Sarta remained an upper-middle-income economy through most of the era and reached high-income status in 2024 after service-sector and productivity growth.
+- The 1994 freedom-of-movement agreement with [[Volisania]] enabled substantial Sartan labor emigration and helped reduce domestic unemployment pressure.
+- Population growth remained high until about 2005; fertility then flattened at slightly above replacement as urbanisation, education, and housing costs increased.
+- The economy became increasingly service-based while retaining specialised manufacturing and regional trade links.
+- The political cycle can be divided into four broad phases: Labor restoration (1998–2005), conservative modernization (2005–2010), Labor social investment (2010–2016), and conservative service-economy consolidation (2016–2021).
+- Neither major party sought to restore the PUM-era state-led industrial model; their dispute centred on how to distribute and manage liberalized growth.
+
+## Economy
+- The modern Sartan economy is based on services, specialised manufacturing, logistics, finance, tourism, communications, education, and business administration.
+- The 2021 national population is 41,243,191 across approximately 252,170 km², or about 164 people/km².
+- The GIS currently records 14,867,684 people in only 15 populated polygons; these are treated as selected major urban areas, not the complete national population.
+- Sarta was upper-middle income until 2018, when service-sector and productivity growth carried it into the high-income category.
+- The 1976–1981 crisis weakened heavy manufacturing; 1984 conservative reforms accelerated privatization and the service transition.
+- The 1994 freedom-of-movement agreement with Volisania made labor emigration and remittances important parts of the economy.

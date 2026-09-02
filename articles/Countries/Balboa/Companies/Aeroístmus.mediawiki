@@ -17,13 +17,13 @@
 | bases = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | hubs = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | alliance = [[Adonian Arrow]]
-| fleet_size = 55
-| destinations = 41
+| fleet_size = 58
+| destinations = 45
 | parent = Aeroístmus S.A.
 | traded_as = {{ubl|SCX: AER|[[Bolsa de Sant Cristòfor]]}}
 | headquarters = [[Sant Cristòfor]], [[Sant Cristòfor (comarca)|Sant Cristòfor comarca]], [[Estret Province]], [[Balboa]]
 | key_people = 
-| num_employees = ~1,150
+| num_employees = ~1,700
 | revenue = $420 million (2024)
 }}
 
@@ -68,7 +68,7 @@ In the 2000s, Aeroístmus continued to modernise its fleet, replacing the Boeing
 
 == Destinations ==
 
-Aeroístmus operates 41 destinations: 22 domestic and 19 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
+Aeroístmus operates 45 destinations: 22 domestic and 23 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
 
 {| class="wikitable sortable"
 |-
@@ -126,6 +126,8 @@ Aeroístmus operates 41 destinations: 22 domestic and 19 international, with ser
 |-
 |[[Dagit]]|| Akyatan ||[[Akyatan Airport|Akyatan]]|| {{Terminated}}
 |-
+|[[Echia]]|| Capua ||[[Capua International Airport|Capua]]||
+|-
 |[[Galwa]]|| Hargiesa ||[[Hargiesa International Airport|Hargiesa]]||
 |-
 |[[Guajicutea]]|| Waribá ||[[Guajicutea International Airport|Waribá]]||
@@ -159,6 +161,12 @@ Aeroístmus operates 41 destinations: 22 domestic and 19 international, with ser
 |[[Tapuya]]|| Gran Port de Sant Mateu ||[[Gran Port de Sant Mateu International Airport|Gran Port de Sant Mateu]]||
 |-
 |[[Volisania]]|| Ampuria ||[[Ampuria International Airport|Ampuria]]||
+|-
+|[[Sarta]]|| Mariapolis ||[[Mariapolis International Airport|Mariapolis]]||
+|-
+|[[Varkana]]|| Klow ||[[President Inga Korsantia International Airport|Klow]]||
+|-
+|[[Zong]]|| Huwei ||[[Huwei-Phokau International Airport|Huwei]]||
 |}
 
 === Codeshare ===
@@ -248,32 +256,32 @@ As of December 2025, Aeroístmus operates the following aircraft:
 | colspan="5" | TBD
 | On order for medium-haul fleet renewal and additional widebody capacity.
 |-
-| {{w|Boeing 787|Boeing 787-9}}
-| 4
+| rowspan="2" | {{w|Boeing 787|Boeing 787-9}}
+| rowspan="2" | 4
+| rowspan="2" | —
 | —
+| 12
+| 56
+| 210
+| 278
+| Tourist configuration used on leisure routes including Capua, Klow, and Huwei.
+|-
 | —
 | 18
 | 48
 | 138
 | 204
-| Premium-heavy configuration used on non-peak Ampuria frequencies and secondary long-haul routes.
+| Standard configuration used on the Huwei business route.
 |-
-| rowspan="2" | {{w|Boeing 777|Boeing 777-300ER}}
-| rowspan="2" | 7
-| rowspan="2" | —
+| {{w|Boeing 777|Boeing 777-300ER}}
+| 10
+| —
 | 8
 | 32
 | 36
 | 198
 | 274
-| Mixed long-haul configuration used by four aircraft.
-|-
-| 4
-| 48
-| 32
-| 166
-| 250
-| Business-heavy long-haul configuration used by one aircraft.
+| Mixed long-haul configuration used by all ten aircraft.
 |-
 | {{w|Airbus A350|Airbus A350-900}}
 | —

@@ -33,8 +33,10 @@ Distances calculated from great-circle measurement using coordinates from the "C
 | Sanu-Sasso | Lacashe | TBD | ~3,568 km | 4h 30min |
 | Castejón | Balisca | -57.3787, 31.0798 | 5,154 km | 6h 30min |
 | Hargiesa | Galwa | -27.6078, -11.4083 | 7,504 km | 9h |
+| Ampuria | Volisania | -13.0953, -23.6478 | 9,152 km | 11h |
 | Kankadadka | Burawa | -15.3774, -17.2316 | 8,872 km | 11h |
 | Aoyama-Maekawa | Nakamizu | 174.7178, -34.9242 | 10,129 km | 12h |
+| Mariapolis | Sarta | 2.7303, -31.4995 | 10,729 km | 13h |
 | Okami | Okaiken | 158.2631, -16.6647 | 11,873 km | 14h |
 
 ## SBT-based distances

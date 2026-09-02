@@ -4,10 +4,10 @@
 Track all established revenue and expenditure data for Balboa's national budget. Compile from existing wiki articles, identify gaps, and plan what needs to be determined.
 
 ## Economic Context (established)
-- GDP (PPP): ~$660 billion (2026)
-- GDP (nominal): ~$340 billion (2026)
-- GDP per capita (PPP): ~$18,750
-- GDP per capita (nominal): ~$9,700
+- GDP (PPP): ~$800 billion (2026)
+- GDP (nominal): ~$420 billion (2026)
+- GDP per capita (PPP): ~$22,700
+- GDP per capita (nominal): ~$11,930
 - Gini: 42.5 (disposable income, after taxes and transfers)
 - Currency: International Dollar (ID) — shared AC currency, overvalued for Balboa
 - Current account surplus (consistent)
@@ -36,11 +36,11 @@ Track all established revenue and expenditure data for Balboa's national budget.
 - Export/manufacturing incentives
 
 **Profit base estimate:**
-- Nominal GDP: ~$340B
-- Corporate profits as share of GDP: ~10% → **~$34B total corporate profits**
+- Nominal GDP: ~$420B
+- Corporate profits as share of GDP: ~8.1% → **~$34B total corporate profits**
 - This fits an upper-middle-income economy with a large services sector and domestic processing chain
 
-**Estimated corporate tax revenue: $6.1–$6.8B/year** (~2% of GDP, ~18–20% effective rate)
+**Estimated corporate tax revenue: $6.1–$6.8B/year** (~1.5% of GDP, ~18–20% effective rate)
 
 **Sectoral revenue estimate (2026):**
 
@@ -130,7 +130,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 | Exempt (Birú communal lands, govt, parks) | 5% ($26B) | 0% | $0 |
 | **Total** | **100% ($510B)** | | **~$7.4B** |
 
-**Total estimated land value: ~$510B** (60% of total property value of ~$850B, which is ~250% of GDP)
+**Total estimated land value: ~$510B** (60% of total property value of ~$850B, which is ~200% of GDP)
 
 **Political fit:**
 - BPP/Socialist Front: support LVT as anti-speculation, progressive
@@ -141,15 +141,15 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 **Historical note:** The 1993 transition from property transaction taxes to LVT fully replaced the old bubble-era federal revenue system. Federal property transaction taxes and stamp duties were abolished; the LVT is the sole federal property-related tax. Provinces may levy their own property transfer taxes as a local revenue source, but there is no federal transfer tax. A nominal recording fee for property transfers exists at the provincial level for administrative cost recovery.
 
-**Revenue: ~$7.4B/year** (2.2% of GDP)
+**Revenue: ~$7.4B/year** (1.8% of GDP)
 
 ### 5. BTPMEU Common External Tariff / Customs Duties (PROPOSED — pending confirmation)
 
 **BTPMEU common external tariff protects domestic market for finished goods within Balboa–Tapuya–Potocsí economic union.**
 
 **Import base:**
-- Total imports: ~$138B (trade is ~85% of GDP, exports slightly > imports)
-- Share from outside BTPMEU: ~50% → ~$69B tariff base
+- Total imports: ~$175B (trade is ~85% of GDP, exports slightly > imports)
+- Share from outside BTPMEU: ~40% → ~$70B tariff base
 - Sant Cristòfor FTZ customs exemptions reduce effective base by ~10%
 
 **Tariff structure by category:**
@@ -164,7 +164,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 | Fresh agricultural products | 5% | $3.4B | 22% | $0.76B |
 | Consumer goods / luxury | 3% | $2.1B | 22% | $0.45B |
 | FTZ exemption adjustment | — | — | — | -$0.90B |
-| **Total** | **100%** | **$69.0B** | **~8.7%** | **~$6.0B** |
+| **Total** | **100%** | **$70.0B** | **~8.6%** | **~$6.0B** |
 
 **Revenue estimate: ~$6.0B/year**
 
@@ -250,7 +250,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 **Key assumptions behind the estimates:**
 - Total employed: ~17.8M (35M population, ~55% labor force participation, 7.4% unemployment)
-- Total labor income: ~$150B (~44% of $340B nominal GDP)
+- Total labor income: ~$150B (~36% of $420B nominal GDP)
 - Bottom 40% of earners receive 12% of income → 7.12M earners, avg $2,528 (all exempt)
 - Middle 50% of earners receive 46% of income → 8.9M earners, avg $7,753 (mostly exempt)
 - Top 10% of earners receive 42% of income → 1.78M earners, avg $35,393 (spread across all taxable brackets)
@@ -261,7 +261,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 - **38.9% of the workforce** actually pays income tax (~6.9M people)
 - The top bracket ($100K+, 0.85% of workforce) generates **42% of all income tax revenue** (~$7.1B of $16.8B)
 - The tax base is broader than under the $12K threshold but still concentrated in the Estret corridor / Sant Cristòfor financial sector
-- **Effective income tax revenue: ~$16.8 billion** (about 4.9% of nominal GDP)
+- **Effective income tax revenue: ~$16.8 billion** (about 4.0% of nominal GDP)
 - Revenue increase from threshold change: +$2.92B ($13.9B → $16.8B)
 - Existing payers pay ~$600 more (10% on $6,000–$12,000 = $600 additional)
 - ~3.5M new payers at ~$250 average (10% on income between $6K–$12K)
@@ -284,7 +284,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 **10% standard rate VAT** — single rate, no reduced rates
 
-- Private consumption: ~$220B (65% of $340B GDP, boosted by cheap imports from overvalued ID)
+- Private consumption: ~$220B (52% of $420B GDP, boosted by cheap imports from overvalued ID)
 - VAT base after standard exemptions (education, healthcare, financial services, residential rent, exports): ~$110B
 - Gross VAT at 10%: ~$11B
 - Collection efficiency ~85%: **~$9.4B actual revenue**
@@ -464,7 +464,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 ### 3. Education (REVISED — pending wiki update)
 - **~$14.8 billion** (2026, revised from $20.8B in wiki article)
-- 4.4% of GDP (down from 6.1%)
+- 3.5% of GDP (down from 6.1%)
 - Source: Education in Balboa article infobox (original $20.8B figure to be updated)
 - Revision rationale: $20.8B was 40% of general fund — unsustainable. Provincial salary multipliers + university endowments reduce the budget
 - NOTE: Wiki article still says $20.8B — needs updating
@@ -518,7 +518,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 ### 4. Defence / BDF (ESTABLISHED)
 - **~$2.4 billion** (2026)
-- ~0.7% of GDP
+- ~0.6% of GDP
 - ~30,000 active personnel + ~3,375 civilian
 - Source: BDF article
 
@@ -537,7 +537,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 - Universal coverage (all 35M residents)
 - Twelve Guarantees establish healthcare as a constitutional right (1960, entrenched 1974)
 
-**Budget: ~$13.6 billion (4% of GDP, 2026)**
+**Budget: ~$13.6 billion (3.2% of GDP, 2026)**
 - Per capita: ~$389
 - Demographic context: young population (lower chronic disease) but industrial air pollution (respiratory issues) and tropical climate (infectious disease)
 
@@ -611,7 +611,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 ### 6b. National Police Force (PROPOSED — pending confirmation)
 
-**Budget: ~$5.1 billion (1.5% of GDP, 2026)**
+**Budget: ~$5.1 billion (1.2% of GDP, 2026)**
 - 70,000 officers (1:500 ratio, UN guideline)
 - National police force (not provincial/municipal)
 - Separate from BDF (military, $2.4B)
@@ -657,7 +657,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 ### 7. Infrastructure / Transport (PROPOSED — pending confirmation)
 
-**Budget: ~$3.0 billion (0.9% of GDP, 2026)**
+**Budget: ~$3.0 billion (0.7% of GDP, 2026)**
 - National highway maintenance + upgrades
 - Rural road program
 - ~~Airport subsidies and regional airport maintenance~~ (REMOVED — BAA is self-funding via cross-subsidy model)
@@ -688,7 +688,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 ### 8. Civil Service / Ministerial Government (PROPOSED — pending confirmation)
 
-**Budget: ~$5.1 billion (1.5% of GDP, 2026)**
+**Budget: ~$5.1 billion (1.2% of GDP, 2026)**
 - 95,000 civil servants across 27 ministries/agencies
 - Provincial salary multipliers apply
 - Personnel: $2.3B (45%) | Non-personnel: $2.8B (55%)
@@ -754,7 +754,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 ### 8b. Provincial Transfers (PROPOSED — pending confirmation)
 
-**Budget: ~$2.0 billion (0.6% of GDP, 2026)**
+**Budget: ~$2.0 billion (0.5% of GDP, 2026)**
 - Central government transfers to 5 provinces and their municipalities
 - Education, healthcare, police, civil service all funded nationally — transfers are for municipal operations and local infrastructure only
 - Three components: base per capita (40%), equalization (35%), municipal operating (25%)
@@ -816,7 +816,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 ### 10. National Debt & Debt Service (PROPOSED — pending confirmation)
 
-**Debt-to-GDP: 35% ($119B)**
+**Debt-to-GDP: 28% ($119B)**
 - Pseudo-welfare state with high social spending (free healthcare, education, housing) but developing country revenue base
 - History of crises: real-estate bubble/bailout (1989, $3B+ Casa Balboa injection), 1994 recession (ACMF austerity), AC concessional borrowing (nuclear, infrastructure)
 - Canal revenue and FIDB ($65B) provide fiscal cushion and investor confidence
@@ -834,9 +834,9 @@ Track all established revenue and expenditure data for Balboa's national budget.
 | Infrastructure bonds (toll roads, ports, rail) | $6.0B | 5.0% | $0.30B |
 | **Total** | **$119.0B** | **4.5% blended** | **$5.3B** |
 
-**Annual debt service: $5.3B (1.6% of GDP, 9.1% of revenue)**
+**Annual debt service: $5.3B (1.3% of GDP, 9.1% of revenue)**
 - 10% of revenue = "comfortable" threshold
-- Sustainable at 3.5% GDP growth (debt-to-GDP stable at 35%)
+- Sustainable at 3.5% GDP growth (debt-to-GDP stable at 28%)
 
 **Debt service financing:**
 - $2.0B from canal revenue (redirected — see canal earmarks)
@@ -869,7 +869,7 @@ Track all established revenue and expenditure data for Balboa's national budget.
 
 ### 13. Social Welfare Programs (PROPOSED — pending confirmation)
 
-**Budget: ~$1.6 billion (0.5% of GDP, 2026)**
+**Budget: ~$1.6 billion (0.4% of GDP, 2026)**
 
 Most welfare is delivered in kind: free healthcare (NHS $13.6B), free education ($14.8B, including school meals $0.8B), public housing (Ministry of Housing). Cash welfare is a thin safety net on top.
 
@@ -1005,15 +1005,15 @@ Canal revenue redirected to debt service ($2.0B) reduces borrowing needs. FIDB c
 
 4. **The "low taxation" financial hub paradox** — Sant Cristòfor's financial sector pays a low effective corporate rate (~14%), yet the government needs substantial tax revenue. The tax burden falls disproportionately on domestic manufacturing, petroleum, and the narrow income tax base.
 
-5. **Education is the largest expenditure** at ~$14.8B (revised from $20.8B) — ~4.4% of GDP. Revised using provincial salary multipliers (teacher base $10K × provincial multiplier) and university endowment offsets ($352M/year from $7B endowment pool). Original $20.8B figure in wiki article needs updating.
+5. **Education is the largest expenditure** at ~$14.8B (revised from $20.8B) — ~3.5% of GDP. Revised using provincial salary multipliers (teacher base $10K × provincial multiplier) and university endowment offsets ($352M/year from $7B endowment pool). Original $20.8B figure in wiki article needs updating.
 
-6. **Healthcare (NHS) is the second largest expenditure** at ~$13.6B — ~4% of GDP. Beveridge model: government-owned hospitals, government-employed healthcare workers, free at point of use, universal coverage. 238,000 healthcare workers with 3-tier salary system (provincial scale + global rate for super-specialists).
+6. **Healthcare (NHS) is the second largest expenditure** at ~$13.6B — ~3.2% of GDP. Beveridge model: government-owned hospitals, government-employed healthcare workers, free at point of use, universal coverage. 238,000 healthcare workers with 3-tier salary system (provincial scale + global rate for super-specialists).
 
 7. **Provincial salary multiplier framework** — applies to ALL public sector employees (education, healthcare, police, civil service, etc.):
    - Estret 1.40x | Jala 1.10x | Migjorn 0.90x | Nurra 0.85x | Tramuntana 0.80x
    - Super-specialists (doctors, nurses) paid at global rates ($100K–$350K doctors, $60K–$100K nurses) — no provincial multiplier
 
-8. **Total general fund revenue: ~$58.1B** — total spending: education ($14.8B) + healthcare ($13.6B) + BDF ($2.4B) + police ($5.1B) + civil service ($5.1B) + provincial transfers ($2.0B) + social welfare ($1.6B) + canal earmarks ($4.5B, excluding debt service redirect) + debt service ($5.3B, of which $2.0B from canal + $3.3B from borrowing) + infrastructure ($3.0B) + contingency ($1.5B) + ministry discretionary programs ($1.4B, 20 line items) + SOE subsidies ($285M) + AC membership dues ($100M) + hurricane fund gov contribution ($150M) + R&D/AC ($0.5B) = ~$61.5B. Annual deficit: ~$3.4B, financed by borrowing ($6.5B annual capacity). Debt-to-GDP: 35% ($119B), debt service 9.1% of revenue (comfortable).
+8. **Total general fund revenue: ~$58.1B** — total spending: education ($14.8B) + healthcare ($13.6B) + BDF ($2.4B) + police ($5.1B) + civil service ($5.1B) + provincial transfers ($2.0B) + social welfare ($1.6B) + canal earmarks ($4.5B, excluding debt service redirect) + debt service ($5.3B, of which $2.0B from canal + $3.3B from borrowing) + infrastructure ($3.0B) + contingency ($1.5B) + ministry discretionary programs ($1.4B, 20 line items) + SOE subsidies ($285M) + AC membership dues ($100M) + hurricane fund gov contribution ($150M) + R&D/AC ($0.5B) = ~$61.5B. Annual deficit: ~$3.4B, financed by borrowing ($6.5B annual capacity). Debt-to-GDP: 28% ($119B), debt service 9.1% of revenue (comfortable).
 
 9. **Self-funding programs (outside general fund):**
    - BPF (pensions): 12% payroll tax, ~$13.1B revenue, ~$11.3B payouts, $25B AUM
@@ -1023,7 +1023,7 @@ Canal revenue redirected to debt service ($2.0B) reduces borrowing needs. FIDB c
 
 ### 14. Ministry Discretionary Programs (PROPOSED — pending confirmation)
 
-**Budget: ~$1.4 billion (0.4% of GDP, 2026)**
+**Budget: ~$1.4 billion (0.3% of GDP, 2026)**
 
 Individual line items for ministry programs (separate from civil service admin budget):
 
@@ -1111,9 +1111,9 @@ Central bank surplus from forex reserves, open market operations, seigniorage, a
 4. ~~Ship registry~~ → RESOLVED: 6,593 ships, ~$46.5M/year
 5. ~~Mining royalties~~ → RESOLVED: ~$127M/year total mining fiscal contribution
 6. ~~Tariffs~~ → RESOLVED: ~$6.0B/year from BTPMEU CET
-7. ~~Total budget~~ → RESOLVED: ~$56.4B spending, ~$51.6B revenue, ~$4.8B deficit financed by borrowing. 35% debt-to-GDP, sustainable.
-8. ~~Healthcare~~ → RESOLVED: NHS (Beveridge model), ~$13.6B (4% of GDP), 238K workforce, 3-tier salary system, universal coverage, funded by general taxation
-9. ~~National debt~~ → RESOLVED: 35% debt-to-GDP ($119B), $5.3B annual debt service (10.3% of revenue), $2.0B covered by canal revenue redirect, $3.3B by borrowing
+7. ~~Total budget~~ → RESOLVED: ~$56.4B spending, ~$51.6B revenue, ~$4.8B deficit financed by borrowing. 28% debt-to-GDP, sustainable.
+8. ~~Healthcare~~ → RESOLVED: NHS (Beveridge model), ~$13.6B (3.2% of GDP), 238K workforce, 3-tier salary system, universal coverage, funded by general taxation
+9. ~~National debt~~ → RESOLVED: 28% debt-to-GDP ($119B), $5.3B annual debt service (10.3% of revenue), $2.0B covered by canal revenue redirect, $3.3B by borrowing
 10. ~~Canal O&M~~ → RESOLVED: ~$1.5B estimated, part of revised canal earmarks ($6.5B total: $1.1B negative tariff + $1.2B ag supports + $1.5B O&M + $0.3B FIDB + $0.4B other + $2.0B debt service)
 11. ~~State-owned enterprises~~ → RESOLVED: CPEB ($1.33B), CHB ($230M), OENB ($100M), Casa Balboa ($50M), NDM ($40M), SCB ($30M) = ~$1.8B total
 12. ~~Social security~~ → RESOLVED: BPF is self-funding, full retention, NOT general budget revenue
@@ -1129,7 +1129,7 @@ Central bank surplus from forex reserves, open market operations, seigniorage, a
 22. ~~Insurance premium tax~~ → RESOLVED: 3% on $3B premiums = $90M
 23. ~~Total budget~~ → RESOLVED: ~$56.4B spending, ~$53.0B revenue, ~$3.4B deficit financed by borrowing
 24. ~~Healthcare~~ → RESOLVED: NHS (Beveridge), ~$13.6B
-25. ~~National debt~~ → RESOLVED: 35% debt-to-GDP ($119B), $5.3B service
+25. ~~National debt~~ → RESOLVED: 28% debt-to-GDP ($119B), $5.3B service
 26. ~~Canal O&M~~ → RESOLVED: ~$1.5B/year
 27. ~~VAT food/medicine~~ → RESOLVED: Basic food items (rice, beans, oil, maize, bread, milk, eggs — 40% of food) + medicine exempt from 10% VAT. Processed/restaurant food still taxed. VAT: $8.31B
 28. ~~High value real estate tax~~ → RESOLVED: Annual 1% of value above $500K, ~$242M/year

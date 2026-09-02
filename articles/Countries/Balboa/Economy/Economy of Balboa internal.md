@@ -1,11 +1,11 @@
 # Economy of Balboa — Internal Notes
 
 ## Quick Reference
-- **GDP (nominal)**: $340 billion (2026)
-- **GDP (PPP)**: $660 billion (2026)
-- **GDP per capita (nominal)**: $9,700
-- **GDP per capita (PPP)**: $18,750
-- **Gini**: 48.2 (high inequality)
+- **GDP (nominal)**: $420 billion (2026)
+- **GDP (PPP)**: $800 billion (2026)
+- **GDP per capita (nominal)**: $11,930
+- **GDP per capita (PPP)**: $22,700
+- **Gini**: 42.5 (disposable income, after taxes and transfers)
 - **HDI**: 0.782 (high)
 - **Unemployment**: 7.4%
 - **Currency**: International Dollar ($) — adopted 1973 upon AC accession
@@ -28,18 +28,18 @@
 
 | Province | GDP (nominal) | Share | GDP/capita | Population | Main Sectors |
 |----------|---------------|-------|------------|------------|--------------|
-| Estret | $224B | 66% | $15,400 | 14.5M | Financial services, logistics, canal, tourism |
-| Jala | $62B | 18% | $7,300 | 8.5M | Petroleum refining, chemicals, aluminium, agriculture, administration |
-| Nurra | $25B | 7% | $5,600 | 4.5M | Tourism, agriculture, port services |
-| Migjorn | $22B | 6% | $3,800 | 5.8M | Agriculture, canal terminus, tourism |
-| Tramuntana | $7B | 2% | $2,400 | 1.9M | Agriculture, fishing, aquaculture |
+| Estret | $273B | 65% | $18,800 | 14.5M | Financial services, logistics, canal, tourism |
+| Jala | $85B | 20% | $10,000 | 8.5M | Petroleum refining, chemicals, aluminium, agriculture, administration |
+| Nurra | $29B | 7% | $6,400 | 4.5M | Tourism, agriculture, port services |
+| Migjorn | $25B | 6% | $4,300 | 5.8M | Agriculture, canal terminus, tourism |
+| Tramuntana | $8B | 2% | $4,200 | 1.9M | Agriculture, fishing, aquaculture |
 
-**Key insight**: Estret is overwhelmingly dominant (66% of GDP) — Sant Cristòfor + canal corridor = economic core. Tramuntana is poorest ($2,400 vs $15,400 per capita = 6.4x gap). This extreme concentration is the "Balboa paradox." Jala has risen from 13% to 18% of GDP due to the Badia Curta industrial complex.
+**Key insight**: Estret is overwhelmingly dominant (65% of GDP) — Sant Cristòfor + canal corridor = economic core. Tramuntana is poorest ($4,200 vs $18,800 per capita = 4.5x gap). This extreme concentration is the "Balboa paradox." Jala has risen from 13% to 20% of GDP due to the Badia Curta industrial complex.
 
 ## The Balboa Paradox
 Term for the persistence of widespread poverty in a country controlling one of Adonia's most important commercial waterways. Four factors:
 
-1. **Geographic concentration of canal wealth**: Canal + financial services + logistics concentrated in narrow Estret corridor; "enclave economy" — modern high-productivity sector coexists with large low-productivity traditional sector; Estret ($15,400/capita) is effectively high-income; Tramuntana ($2,400) is among poorest on isthmus
+1. **Geographic concentration of canal wealth**: Canal + financial services + logistics concentrated in narrow Estret corridor; "enclave economy" — modern high-productivity sector coexists with large low-productivity traditional sector; Estret ($18,800/capita) is effectively high-income; Tramuntana ($4,200) is among poorest on isthmus
 2. **Legacy of rump state period**: 74 years (1899–1973) of separate economies; Zong Balboa invested in Sant Cristòfor/canal corridor, ignored interior; Balboa Boba stagnated under planter oligarchy; reunification required integrating two vastly different economies — far harder and slower than anticipated
 3. **Cooperative farm system structure**: Land reform broke planter oligarchy (social justice landmark) but cooperatives significantly less productive than former plantations; fragmentation prevented economies of scale; consensus governance slowed investment in mechanisation/irrigation/diversification; agricultural productivity stagnated since 1990s
 4. **Racial dimension of economic exclusion**: Communities historically excluded (Black under slavery/rump state, Birú under colonisation) not fully integrated despite Guarantees; reparations insufficient to close wealth gap; cooperatives provide security but not income growth; canal economy benefits accrue disproportionately to white/Fosian populations (financial services, commercial class); Black/Birú concentrated in low-wage + informal sector
@@ -244,7 +244,7 @@ Location: Shendan coast, Jala province. Centre of Balboa's chemical and petroche
 - **Main trading partners**: Louyang, Balisca, Tapuya, Sinchew, Zong
 - **Exports**: Services (canal tolls, financial services), refined petroleum products, chemical products, aluminium/metals, semiconductor materials, assembled products, agricultural products
 - **Imports**: Manufactured goods, machinery, crude oil, components for assembly, consumer products
-- **FDI inflows (2025)**: ~$4.2B (1.2% of GDP)
+- **FDI inflows (2025)**: ~$4.2B (1.0% of GDP)
 - **Main FDI sources**: Zong, Louyang, Volisania, Burawa
 - **Foreign ownership**: Few restrictions; non-discriminatory treatment required; cooperative farm system protected
 - **Screening**: Balboan Investment Authority (national security; rejections rare)
@@ -266,12 +266,12 @@ Location: Shendan coast, Jala province. Centre of Balboa's chemical and petroche
 ### Poverty by Province (2024)
 | Province | Poverty rate | Extreme poverty | GDP/capita |
 |----------|-------------|-----------------|------------|
-| Estret | 8.6% | 1.8% | $15,400 |
-| Nurra | 16.2% | 4.5% | $5,600 |
-| Jala | 19.2% | 5.8% | $7,300 |
-| Migjorn | 28.4% | 9.3% | $3,800 |
-| Tramuntana | 42.6% | 16.8% | $2,400 |
-| **National** | **17.2%** | **5.0%** | **$9,700** |
+| Estret | 8.6% | 1.8% | $18,800 |
+| Nurra | 16.2% | 4.5% | $6,400 |
+| Jala | 19.2% | 5.8% | $10,000 |
+| Migjorn | 28.4% | 9.3% | $4,300 |
+| Tramuntana | 42.6% | 16.8% | $4,200 |
+| **National** | **17.2%** | **5.0%** | **$11,930** |
 
 - Jala poverty declined from 24.1% to 19.2% due to Badia Curta employment
 - Tramuntana: 42.6% poverty, 16.8% extreme poverty — 5x Estret rate

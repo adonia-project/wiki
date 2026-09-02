@@ -1,0 +1,37 @@
+local p = {
+	["system title"] = "[[Intercon]]",
+	["station format"] = {
+		"%1",
+		["Sant Cristòfor"] = "[[Sant Cristòfor Central Terminal|Sant Cristòfor]]",
+		["Portnou"] = "[[Estació Central de Portnou|Portnou]]",
+		["Areza International"] = "[[Areza International Train Station|Areza International]]",
+		["Varakí TDV"] = "[[Varakí TDV (CristoCarril)|Varakí TDV]]",
+		["Portal de Sant Cristòfor"] = "[[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]]",
+	},
+	["lines"] = {
+		["Sant Cristòfor–Areza HSR"] = {
+			["title"] = "[[Sant Cristòfor–Areza HSR line|Sant Cristòfor–Areza TDV]]",
+			["color"] = "1A5276",
+			["left terminus"] = "Sant Cristòfor",
+			["right terminus"] = "Areza International",
+		},
+		["Sant Cristòfor–Portnou HSR"] = {
+			["title"] = "[[Sant Cristòfor–Portnou HSR line|Sant Cristòfor–Portnou TDV]]",
+			["color"] = "1A5276",
+			["left terminus"] = "Sant Cristòfor",
+			["right terminus"] = "Portnou",
+			["types"] = {
+				["Event"] = {
+					["title"] = "Event service",
+				},
+			},
+		},
+		["Sant Cristòfor–Areza"] = {
+			["title"] = "[[Sant Cristòfor–Areza Line|Sant Cristòfor–Areza]]",
+			["color"] = "8B4513",
+			["left terminus"] = "Sant Cristòfor",
+			["right terminus"] = "Areza International",
+		},
+	},
+}
+return p

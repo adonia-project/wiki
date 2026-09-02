@@ -6,9 +6,9 @@
 - Parent: Aeroístmus S.A., publicly traded on Bolsa de Sant Cristòfor (SCX: AER)
 - HQ: Sant Cristòfor, Estret Province
 - Hubs: SCI (Sant Cristòfor), SBT (Sant Bart)
-- Fleet: 23 operated (8 A321 + 5 A330 + 5 777-300ER + 5 ATR 72-600); owns 25 total (2 ATR 72-600 dry-leased to AeroTerminus)
-- On order: 2 A350-900 (to replace 777-300ER), A330neo (to replace A330)
-- Destinations: 30 (14 domestic + 16 international)
+- Fleet: 58 total (8 A320-200 + 18 A321neo + 6 A330-300 + 4 787-9 + 10 777-300ER + 11 ATR 72-600 + 1 777F); 2 ATR 72-600 dry-leased to AeroTerminus
+- On order: 20 A321neo, 15 A330-900, 10 A350-900, 3 ATR 72-600
+- Destinations: 42 (22 domestic + 20 international)
 - Employees: ~1,150
 - Revenue: ~B420 million (2024)
 
@@ -100,8 +100,10 @@ Block time = flight time + turnaround (30 min narrowbody, 45 min ATR, 60 min wid
 | Guledga | Lacashe | 3,268 km | 4h | B | Cities in Adonia |
 | Castejón | Balisca | 5,154 km | 6h 30min | B | Cities in Adonia |
 | Hargiesa | Galwa | 7,504 km | 9h | C | Cities in Adonia |
+| Ampuria | Volisania | 9,152 km | 11h | C | POI shapefile (Ampuria International Airport, -13.0953°, -23.6478°) |
 | Kankadadka | Burawa | 8,872 km | 11h | C | Cities in Adonia |
 | Aoyama-Maekawa | Nakamizu | 10,129 km | 12h | C | User-provided coordinates (34°55′27″S 174°43′04″E) |
+| Mariapolis | Sarta | 10,729 km | 13h | C | POI shapefile (Mariapolis International Airport, 2.7303°, -31.4995°) |
 | Okami | Okaiken | 11,873 km | 14h | B | User-provided coordinates (16°39′53″S 158°15′47″E) |
 | Sanu-Sasso | Asikyira | TBD | TBD | B | Not on map |
 | Nanaimo | Kaneda | TBD | TBD | B | Not on map |
@@ -267,7 +269,7 @@ Note: Guledga at 3,268 km / 4h and Sanu-Sasso at ~3,568 km / 4h 30min are within
 Capacity: 5 aircraft, 4.5 effective, 4.5 × 14h = 63h/day
 **Headroom: ~11.6h/day.** Iskhal moved to 777 fleet (BL-WAE, 1x weekly). TBD routes (Nanaimo, Kanakou, Kuluba, Sanropura) deferred — distances unknown.
 
-Note: Castejón has 2x daily A330 service. Ampuria (business hub) is served 5x weekly by 777 fleet (BL-WAD 2x + BL-WAE 3x). Port Soledat has daily service from both SCI and SBT.
+Note: Castejón has 2x daily A330 service. Ampuria (business hub) is served daily by 777 fleet (BL-WAD + BL-WAJ). Port Soledat has daily service from both SCI and SBT.
 
 #### 777-300ER — Long-haul international
 
@@ -279,15 +281,18 @@ Note: Castejón has 2x daily A330 service. Ampuria (business hub) is served 5x w
 - 2016: BL-WAE delivered (5th 777-300ER for Ampuria + Iskhal routes)
 - 2009–2019: Previous-generation premium products (older first class suites, angled lie-flat business, no premium economy)
 - 2020–2022: Pandemic refit — all 5 aircraft refurbished with current product line (BL-F-1, BL-J-1, BL-W-1, BL-Y-1/BL-Y-2). Premium economy (BL-W-1) added during this refit. BL-WAD configured as business-heavy for Okami; BL-WAA/WAB/WAC/WAE configured as mixed for Miyagami/Ampuria/Iskhal.
+- 2024: BL-WAF and BL-WAG delivered (6th and 7th 777-300ER for Aoyama-Maekawa 2x daily expansion)
+- 2026: BL-WAH and BL-WAI delivered (8th and 9th 777-300ER for Mariapolis route)
 - 2024–present: A350-900 on order to eventually replace 777-300ER (planned full-height suite first class product)
 
 **Fleet requirement justification:**
-- 2 aircraft for daily Aoyama-Maekawa: each does 1 RT every ~1.5 days (~18h/aircraft/day), with maintenance buffer
-- 1 aircraft for Okami weekly + Ampuria 2x weekly: 3 RTs/week (~12.6h/day), mid-week downtime utilized for business hub
-- 1 aircraft for Ampuria 3x weekly + Iskhal 1x weekly: 4 RTs/week (~12.6h/day)
-- 1 spare aircraft (freed from Miyagami→Aoyama switch: was 3 for Miyagami, now 2 for Aoyama)
-- Total: 5 aircraft, 4.5 effective × 14h = 63h/day capacity vs ~43.7h/day scheduled
-- **Headroom: ~19.3h/day** — significant spare capacity for new routes or frequency increases
+- 2 aircraft (WAA/WAB) for daily Aoyama-Maekawa daytime: each does 1 RT every ~1.5 days (~18h/aircraft/day), with maintenance buffer
+- 2 aircraft (WAF/WAG) for daily Aoyama-Maekawa overnight: same pattern, offset rotation
+- 2 aircraft (WAC/WAE) for daily Okami: each does 1 RT every ~2 days (~14h/aircraft/day)
+- 1 aircraft (WAD) for daily Ampuria (777): 22h/day utilization, continuous rotation
+- 2 aircraft (WAH/WAI) for daily Mariapolis: each does same-day RT every 2 days (~13h/aircraft/day)
+- Total: 9 aircraft, 8 effective × 14h = 112h/day capacity vs ~111h/day scheduled
+- **Headroom: ~1h/day** — tight but manageable with maintenance scheduling
 
 Two subfleets with different configurations:
 
@@ -321,7 +326,17 @@ Two subfleets with different configurations:
 | Economy | BL-Y-2 | 3-3-3 | 33" | 18" | 198 |
 | **Total** | | | | | **274** |
 
-**Registrations:** BL-WAA, BL-WAB, BL-WAC (Miyagami), BL-WAD (Okami), BL-WAE (Ampuria/Iskhal)
+**Mariapolis (mixed) — BL-WAH, BL-WAI:**
+
+| Class | Seat type | Layout | Pitch | Width | Seats |
+|-------|-----------|--------|-------|-------|-------|
+| First | BL-F-1 | 1-2-1 | 84" | 29" | 8 |
+| Business | BL-J-1 | 1-2-1 herringbone | 76" | 21" | 32 |
+| Economy+ | BL-W-1 | 2-4-2 | 38" | 18.5" | 36 |
+| Economy | BL-Y-2 | 3-3-3 | 33" | 18" | 198 |
+| **Total** | | | | | **274** |
+
+**Registrations:** BL-WAA, BL-WAB, BL-WAC (Aoyama-Maekawa), BL-WAD (Ampuria), BL-WAE (Okami), BL-WAF, BL-WAG (Aoyama-Maekawa overnight), BL-WAH, BL-WAI (Mariapolis)
 
 ### Seat type catalogue
 
@@ -641,29 +656,47 @@ Operated by BL-WAE (mixed config). 1 round trip/week = 22h block/week = ~3.1h/da
 - Sat 08:00–Sat 19:00: Fly SCI→ISK (AB107)
 - Sun 09:00–Sun 20:00: Fly ISK→SCI (AB108)
 
+#### SCI↔Mariapolis (MAR) — Daily
+
+Operated by two aircraft: BL-WAH (Mon/Wed/Fri/Sun) and BL-WAI (Tue/Thu/Sat). Each does same-day round trips. Distance: 10,729 km, block time: 13h.
+
+**BL-WAH (AB123/AB124) — Mon, Wed, Fri, Sun:**
+- 20:00 SCI → 09:00+1 MAR (AB123, overnight, 13h)
+- 11:00 MAR → 18:00 SCI (AB124, daytime, 13h)
+- 2h turnaround at MAR, 2h turnaround at SCI
+- Cycle: 30h (13h out + 2h turn + 13h back + 2h turn)
+- Next departure: 2 days later (Mon→Wed, Wed→Fri, Fri→Sun, Sun→Tue)
+
+**BL-WAI (AB123/AB124) — Tue, Thu, Sat:**
+- 20:00 SCI → 09:00+1 MAR (AB123, overnight, 13h)
+- 11:00 MAR → 18:00 SCI (AB124, daytime, 13h)
+- Same 30h cycle, offset by 1 day from BL-WAH
+
+Time zones: SCI = UTC-5, MAR = UTC-1 (4h difference).
+
 **Fleet summary:**
 
 | Route | Frequency | Sectors/day | Block hrs/day |
 |------|------------|-------------|---------------|
-| SCI↔Aoyama-Maekawa | daily | 2.0 | 24.0 |
-| SCI↔Okami-Tobu | 2x weekly | 0.57 | 8.0 |
-| SCI↔Ampuria | 5x weekly | 1.43 | 15.7 |
-| SCI↔Iskhal | weekly | 0.29 | 3.1 |
-| **Total** | | **~4.3** | **~50.8** |
+| SCI↔Aoyama-Maekawa | 2x daily | 4.0 | 48.0 |
+| SCI↔Okami | daily | 2.0 | 28.0 |
+| SCI↔Ampuria | daily | 2.0 | 22.0 |
+| SCI↔Mariapolis | daily | 2.0 | 26.0 |
+| **Total** | | **~10.0** | **~124.0** |
 
-Fleet needed: 5 aircraft (2 for daily Aoyama-Maekawa + 2 for Okami 2x weekly + Ampuria + 1 for Ampuria/Iskhal). At 4.5 effective × 14h = 63h/day — ~12.2h/day headroom.
+Fleet needed: 9 aircraft (2 for Aoyama-Maekawa daytime + 2 for Aoyama-Maekawa overnight + 2 for Okami + 1 for Ampuria + 2 for Mariapolis). At 8 effective × 14h = 112h/day — tight utilization.
 Codeshare: Sanesair operates Okami→Akyatan (Dagit) sector — no Aeroístmus aircraft needed for Akyatan.
-Time zones assumed: SCI = UTC-5, AYM = TBD, OKI = UTC+9. Ampuria and Iskhal time zones TBD.
+Time zones: SCI = UTC-5, MAR (Mariapolis) = UTC-1.
 Full schedule: See `Aeroístmus 777 schedule.csv`
 
 ### Fleet summary
 
 | Type | Current | Needed (est.) | Spare/shortfall | Notes |
 |------|---------|---------------|-----------------|-------|
-| ATR 72-600 | 5 | 5 | ~0 | Vellmar & Portblanc moved to A321; ~29.6h/day vs 32h capacity |
-| A321 | 8 | 8 | ~0 | 4 J/W/Y (198 seats) + 4 W/Y (204 seats); ~77.4h/day vs 84h capacity |
-| A330 | 5 | 5 | ~0 | Castejón 2x daily + Hargiesa 3x weekly + Port Soledat daily (SCI+SBT) + SBT-Castejón 2x weekly = 51.4h; ~11.6h spare |
-| 777-300ER | 5 | 5 | ~0 | 2 for daily Aoyama-Maekawa (12h) + 2 for Okami 2x weekly (14h) + Ampuria + 1 for Ampuria/Iskhal |
+| ATR 72-600 | 11 | 11 | ~0 | Vellmar & Portblanc moved to A321; ~29.6h/day vs 32h capacity |
+| A321 | 18 | 18 | ~0 | 4 J/W/Y (198 seats) + 4 W/Y (204 seats); ~77.4h/day vs 84h capacity |
+| A330 | 6 | 6 | ~0 | Castejón 2x daily + Hargiesa 3x weekly + Port Soledat daily (SCI+SBT) + SBT-Castejón 2x weekly = 51.4h; ~11.6h spare |
+| 777-300ER | 9 | 9 | ~0 | 2 for Aoyama-Maekawa daytime + 2 for Aoyama-Maekawa overnight + 2 for Okami + 1 for Ampuria + 2 for Mariapolis |
 | **Total** | **23** | **22-24** | **+1 to +3** | Vellmar & Portblanc moved from ATR to A321 W/Y |
 
 ### Key observations
@@ -698,7 +731,7 @@ Total: ~1,150 employees (~50 per aircraft)
 |-------|----------|-----------------|----------|-------|
 | A321 | 8 | 11 | 88 | High-utilization narrowbody, 5 crew pairs + buffer |
 | A330 | 5 | 13 | 65 | Medium-haul widebody |
-| 777-300ER | 5 | 16 | 80 | Ultra-long-haul, augmented crews (4 pilots) for 16h Miyagami flights |
+| 777-300ER | 9 | 16 | 144 | Ultra-long-haul, augmented crews (4 pilots) for 13h Mariapolis / 12h Aoyama-Maekawa flights |
 | ATR 72-600 | 5 | 8 | 40 | Regional, lower utilization |
 
 ### Cabin crew — 358
@@ -708,7 +741,7 @@ Total: ~1,150 employees (~50 per aircraft)
 | A321 J/W/Y | 4 | 5 | 2.5 | 50 | Business class service |
 | A321 W/Y | 4 | 4 | 2.5 | 40 | |
 | A330 | 5 | 8 | 2.5 | 100 | 3-class service |
-| 777-300ER | 5 | 12 | 2.5 | 150 | Long-haul 3-class + first class on BL-WAD |
+| 777-300ER | 9 | 12 | 2.5 | 270 | Long-haul 3-class + first class on BL-WAD |
 | ATR 72-600 | 5 | 1 | 2.5 | 12 | Single FA |
 
 ### In-house catering division — 115
@@ -735,7 +768,7 @@ Aeroístmus operates an in-house catering division showcasing Balboan cuisine ac
 | Portnou | 7 | |
 | Haicang | 3 | |
 | Domestic outstations | 12 | Tamsui, Sanu-Sasso, Gran Port, Guledga — minimal staff, contracted ground handling |
-| International stations | 32 | Castejón, Hargiesa, Port Soledat, Miyagami, Okami, Ampuria, Iskhal |
+| International stations | 34 | Castejón, Hargiesa, Port Soledat, Miyagami, Okami, Ampuria, Iskhal, Mariapolis |
 
 ### Maintenance & engineering — 90
 

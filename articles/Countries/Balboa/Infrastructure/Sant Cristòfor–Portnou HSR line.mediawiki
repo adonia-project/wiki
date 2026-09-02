@@ -1,0 +1,104 @@
+{{Infobox rail line
+| box_width        = 300px
+| name             = Sant Cristòfor–Portnou HSR line
+| system           = [[Intercon]]
+| operator         = [[Intercon]]
+| type             = High-speed rail
+| status           = Operating
+| start            = [[Sant Cristòfor Central Terminal]] ([[Sant Cristòfor]])
+| end              = [[Estació Central de Portnou]] ([[Portnou]])
+| stations         = 3 (4 during events)
+| linelength_km    = 99
+| daily_ridership  = 
+| owner            = [[Intercon]]
+| character        = High-speed rail
+| electrification  = 25 kV AC overhead
+| gauge            = {{Track gauge|sg|allk=on}}
+| speed_km/h       = 250
+| opened           = 11 March 2009
+| map              = {{Routemap
+|title = Sant Cristòfor–Portnou HSR line
+|title-bg = #1a5276
+|legend = route
+|map =
+~~km~~ ~~ ~~Regular~~ ~~ ~~Event~~
+KBHFa~~0~~[[Sant Cristòfor Central Terminal]]~~●~~ ~~ ~~●~~
+BHF~~3.0~~[[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]]~~ ~~ ~~ ~~ ~~●~~
+BHF~~57.4~~[[Varakí TDV (CristoCarril)|Varakí TDV]]~~●~~ ~~ ~~●~~
+KBHFe~~99~~[[Estació Central de Portnou]]~~●~~ ~~ ~~●~~
+}}
+}}
+
+The '''Sant Cristòfor–Portnou HSR line''' is a high-speed rail line operated by [[Intercon]] that connects the [[Sant Cristòfor Central Terminal]] in [[Sant Cristòfor]] with the [[Estació Central de Portnou]] in [[Portnou]], the two largest cities in [[Balboa]]. The line opened on 11 March 2009 as the second high-speed rail line in the country, following the [[Sant Cristòfor–Areza HSR line|Sant Cristòfor–Areza line]] by one year. It replaced the conventional [[Sant Cristòfor–Portnou Line|Sant Cristòfor–Portnou long-distance service]], reducing the end-to-end journey time from over 90 minutes to approximately 27 minutes.
+
+The line is 99 km long and serves three stations under regular operation, with a fourth station served only during events at the [[Estadi de Balboa]]. Between Sant Cristòfor Central and [[Varakí TDV (CristoCarril)|Varakí TDV]], the line shares tracks with the [[Sant Cristòfor–Areza HSR line|Sant Cristòfor–Areza HSR line]], diverging south of Varakí onto a dedicated spur toward Portnou. The maximum operating speed is 250 km/h.
+
+== Route ==
+
+The Sant Cristòfor–Portnou HSR line runs south from the [[Sant Cristòfor Central Terminal]] through the [[Estret Province|Estret]] corridor to Varakí, then continues south to Portnou. The line serves three stations under regular operation:
+
+{| class="wikitable"
+|-
+! # !! Station !! Ciutat / City !! Distance (km) !! Notes
+|-
+| 1 || [[Sant Cristòfor Central Terminal]] || [[Sant Cristòfor]] || 0 || Northern terminus
+|-
+| 2 || [[Varakí TDV (CristoCarril)|Varakí TDV]] || [[Varakí]] || 57.4 || Intermediate stop; shared with [[Sant Cristòfor–Areza HSR line|Sant Cristòfor–Areza HSR]]
+|-
+| 3 || [[Estació Central de Portnou]] || [[Portnou]] || 99 || Southern terminus
+|-
+! colspan="5" | Event service only
+|-
+| — || [[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]] || [[Sant Cristòfor]] || 3.0 || Served only during events at the [[Estadi de Balboa]]
+|}
+
+=== Shared section: Sant Cristòfor–Varakí ===
+
+Between the [[Sant Cristòfor Central Terminal]] and [[Varakí TDV (CristoCarril)|Varakí TDV]], the line shares tracks with the [[Sant Cristòfor–Areza HSR line|Sant Cristòfor–Areza HSR line]], which opened in 2008. This 57.4 km section forms the common trunk of Balboa's high-speed rail network, carrying services to both Areza and Portnou. The shared section passes through the [[Cumará (comarca)|Cumará]] corridor, with Varakí TDV serving as the sole intermediate stop for Portnou HSR services.
+
+=== Spur section: Varakí–Portnou ===
+
+South of Varakí TDV, the line diverges from the Areza HSR alignment onto a dedicated 41.6 km spur heading southwest to Portnou. The spur was constructed as part of the 2009 extension project, providing a direct high-speed connection from Varakí to the [[Estació Central de Portnou]] without intermediate stops. The spur is built on a new alignment with minimal curvature, allowing sustained 250 km/h operation for most of its length.
+
+=== Event service: Portal de Sant Cristòfor ===
+
+[[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]] station, located 3.0 km south of the Central Terminal on the shared section, is served only during events at the [[Estadi de Balboa]], the national stadium of Balboa. The station is adjacent to the stadium complex, and HSR services stop there to provide crowd distribution for major events such as international football matches and concerts. When event service is in operation, the additional stop adds approximately 2 minutes to the end-to-end journey time.
+
+== History ==
+
+The Sant Cristòfor–Portnou HSR line was planned as part of the second phase of Balboa's high-speed rail programme, following the opening of the [[Sant Cristòfor–Areza HSR line|Sant Cristòfor–Areza line]] in 2008. The project utilised the existing shared trunk section between Sant Cristòfor Central and Varakí TDV, requiring only the construction of the 41.6 km spur from Varakí to Portnou.
+
+The line opened on 11 March 2009, replacing the conventional [[Sant Cristòfor–Portnou Line|Sant Cristòfor–Portnou long-distance service]] that had previously operated on the corridor. The conventional service had offered a journey time of over 90 minutes with multiple intermediate stops; the HSR line reduced this to approximately 27 minutes with a single intermediate stop at Varakí TDV.
+
+Commuter rail services on the corridor — [[Line B (CristoCarril)|CristoCarril Line B]] and [[Rodalies de Portnou]] — continue to operate on the conventional alignment, providing local stopping services to intermediate stations not served by the HSR line.
+
+== Operation ==
+
+=== Services ===
+
+All services on the Sant Cristòfor–Portnou HSR line operate between the [[Sant Cristòfor Central Terminal]] and the [[Estació Central de Portnou]], with an intermediate stop at [[Varakí TDV (CristoCarril)|Varakí TDV]]. Express services that do not stop at Varakí TDV bypass the station on dedicated through tracks, though these are primarily operated on the [[Sant Cristòfor–Areza HSR line|Areza HSR line]] rather than the Portnou line.
+
+During events at the [[Estadi de Balboa]], selected services make an additional stop at [[Portal de Sant Cristòfor Station|Portal de Sant Cristòfor]] to serve the stadium complex. These event services are scheduled around the event timetable, with increased frequency before and after events to manage crowd movements.
+
+=== Journey times ===
+
+{| class="wikitable"
+|-
+! Service pattern !! Stops !! Journey time
+|-
+| Regular || Sant Cristòfor Central → Varakí TDV → Portnou || ~27 minutes
+|-
+| Event service || Sant Cristòfor Central → Portal de Sant Cristòfor → Varakí TDV → Portnou || ~29 minutes
+|}
+
+=== Rolling stock ===
+
+The line is operated by [[Intercon]]'s high-speed rail fleet, shared with the [[Sant Cristòfor–Areza HSR line|Sant Cristòfor–Areza HSR line]]. Rolling stock is stabled and maintained at the train yard at [[Varakí TDV (CristoCarril)|Varakí TDV]], which serves both the Areza and Portnou HSR fleets.
+
+== See also ==
+
+* [[Sant Cristòfor–Areza HSR line]]
+* [[CristoCarril]]
+* [[Line B (CristoCarril)]]
+* [[Rodalies de Portnou]]
+* [[Intercon]]

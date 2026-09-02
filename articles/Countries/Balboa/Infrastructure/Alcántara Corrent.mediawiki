@@ -1,0 +1,193 @@
+{{Infobox train
+| background = 
+| name = Alcántara Corrent
+| stocktype = {{W|Electric multiple unit}}
+| image = Alcántara Corrent.png
+| caption = A Corrent trainset at a CristoCarril station platform
+| manufacturer = [[Alcántara]]
+| designer = [[Alcántara]]
+| assembly = [[Merced]], [[Balisca]]
+| factory = Alcántara Merced Works
+| family = Corrent
+| service = 2011 – present
+| yearconstruction = 2010 – present
+| yearservice = 2011
+| numberbuilt = 112 (all operators)
+| numberservice = 112
+| formation = 4, 5, or 6-car semi-permanently coupled trainset
+| fleetnumbers = CC-101 – CC-180 (Intercon)
+| capacity = 520 (4-car) / 650 (5-car) / 780 (6-car)
+| owner = {{ubl|[[Intercon]]|[[Rodalies de Portnou]]|Ferrocarrils de Migjorn}}
+| operator = {{ubl|[[Intercon]]|[[Rodalies de Portnou]]|Ferrocarrils de Migjorn}}
+| depots = {{ubl|Sant Cristòfor Central Workshops|Varakí TDV yard|Portnou depot|Migjorn depot}}
+| lines = {{ubl|[[CristoCarril]] Lines A–E|Rodalies de Portnou Lines 1, 3, 4|Ferrocarrils de Migjorn regional services}}
+| carbody = Welded aluminium
+| trainlength = {{convert|84|m|ft|abbr=on}} (4-car) / {{convert|105|m|ft|abbr=on}} (5-car) / {{convert|125|m|ft|abbr=on}} (6-car)
+| carlength = {{convert|22.5|m|ft|abbr=on}} (driving car) / {{convert|20.5|m|ft|abbr=on}} (intermediate car)
+| width = {{convert|2.95|m|ft|abbr=on}}
+| height = {{convert|4.0|m|ft|abbr=on}}
+| floorheight = {{convert|1100|mm|in|abbr=on}}
+| platformheight = {{convert|1100|mm|in|abbr=on}}
+| entrylevelorstep = Near-level
+| doors = 2 double-leaf sliding per side per car
+| maxspeed = {{convert|140|km/h|mph|abbr=on}}
+| weight = {{convert|170|t|LT ST|abbr=on}} (4-car) / {{convert|210|t|LT ST|abbr=on}} (5-car) / {{convert|250|t|LT ST|abbr=on}} (6-car)
+| traction = Electric
+| traction motors = AC asynchronous
+| poweroutput = {{convert|1200|kW|hp|abbr=on}} (4-car) / {{convert|1500|kW|hp|abbr=on}} (5-car) / {{convert|1800|kW|hp|abbr=on}} (6-car)
+| acceleration = 1.0 m/s²
+| deceleration = 1.2 m/s²
+| electricsystem = 25 kV 50 Hz [[W:Alternating current|AC]]
+| collectionmethod = [[W:Pantograph (transport)|Pantograph]]
+| uicclass = Bo'Bo'+2'2'+Bo'Bo' (4-car, indicative)
+| bogies = Conventional
+| brakes = Regenerative + electro-pneumatic
+| safety = [[W:Automatic train control|ATC]]
+| coupling = Semi-permanent (within trainset) / [[W:Scharfenberg coupler|Scharfenberg]] (between trainsets)
+| multipleworking = Up to 2 trainsets
+| gauge = {{Track gauge|sg|allk=on}}
+| seating = Transverse 2+2
+| hvac = Yes
+| notes = Standard commuter EMU platform in Balboa
+}}
+
+The '''Alcántara Corrent''' is a family of {{W|electric multiple unit}} (EMU) commuter trains manufactured by [[Alcántara]] of [[Balisca]]. Developed in the late 2000s for [[Intercon]]'s [[CristoCarril]] (CC) commuter rail network in [[Balboa]], the Corrent entered service in 2011 and has since become the standard commuter EMU platform across Balboa, adopted by most EMU-based railroad operators in the country for commuter and regional services.
+
+The Corrent was designed as a semi-permanently coupled trainset with driving cab cars at each end and intermediate motor or trailer cars between them, available in 4-car, 5-car, and 6-car formations. Its procurement by Intercon in 2009 marked a significant step in the modernisation of Balboa's commuter rail fleet, replacing older inherited rolling stock from the pre-reunification period and establishing a unified platform for the expanding CristoCarril network.
+
+== History ==
+
+=== Background ===
+
+The CristoCarril commuter rail system was established in the early 2000s as part of the post-reunification modernisation of Balboa's rail infrastructure. The first lines — [[Line A (CristoCarril)|Line A]] on the [[Coastal Line]] corridor and [[Line B (CristoCarril)|Line B]] on the [[Portnou Line]] corridor — were planned to open in 2011, with [[Line C (CristoCarril)|Line C]] on the [[Varakí Line]] corridor following shortly after. The existing rolling stock available to [[Intercon]], the state-owned rail operator, consisted of a mix of inherited vehicles from the pre-reunification Zong-era and early post-reunification acquisitions. These vehicles were of varying ages, inconsistent technical standards, and insufficient for the planned service frequencies.
+
+Intercon's management identified the need for a new, standardised fleet of electric multiple units that could meet the operational requirements of the CristoCarril network: frequent stop-start service, rapid acceleration and deceleration, high passenger capacity, and accessibility compliance. The company issued a tender for the design and manufacture of a new commuter EMU fleet in 2007.
+
+=== Tender and competing bids ===
+
+Two manufacturers submitted bids in response to Intercon's tender: [[Alcántara]] of [[Balisca]] and [[Okami Heavy Industries]] of [[Okaiken]].
+
+Alcántara's bid proposed a new EMU platform — subsequently named the Corrent — based on the company's established experience in suburban and regional EMU design. The bid emphasised the company's portfolio of commuter and metro trains, its proven track record in delivering rolling stock for high-frequency suburban service, and its capacity for technology transfer and local maintenance support. Alcántara also offered a lower unit price, benefiting from the established trade relationship between Balisca and Balboa and the shorter supply chain between the two countries.
+
+Okami Heavy Industries, a major Sanese industrial conglomerate, submitted a competing bid based on its heavy rail and high-speed rail technology expertise. The Okami proposal offered a technically competent design, but the company lacked an established commuter EMU product line. Its primary experience was in mainline and high-speed rail rolling stock, and its commuter rail portfolio was limited. The Okami bid was also more expensive, reflecting the higher import costs associated with manufacturing in the Sanese archipelago and shipping across the [[Shendan Ocean]], and the company was unable to offer the same level of local maintenance support as Alcántara.
+
+Intercon awarded the contract to Alcántara in 2009. The decision was influenced by several factors. Alcántara's established commuter EMU portfolio provided greater confidence in the company's ability to deliver a product suited to the stop-start demands of commuter rail operations. The geographic proximity and established trade relationship between Balisca and Balboa reduced supply chain risks and costs. Alcántara's offer of technology transfer — including the establishment of a local maintenance facility and training of Balboan technical staff — was a significant factor, as Intercon sought to build domestic maintenance capacity rather than relying on overseas support. The lower unit price of the Alcántara bid, combined with the reduced logistical costs, made the overall procurement more cost-effective.
+
+=== Manufacturing and delivery ===
+
+The first Corrent trainsets were manufactured at Alcántara's Merced Works in [[Merced]], [[Cerdanya]], [[Balisca]]. The initial order comprised 48 trainsets for the first three CristoCarril lines (A, B, and C), with delivery commencing in 2010 and completed in time for the opening of Lines A and B in 2011. Line C received its allocation shortly after.
+
+A follow-on order of 20 trainsets was placed in 2013 for [[Line D (CristoCarril)|Line D]], which opened in 2015. A further 12 trainsets were ordered in 2018 for fleet expansion and to provide capacity for planned service increases across the network. As of 2026, Intercon operates 80 Corrent trainsets across the CristoCarril network.
+
+=== Adoption by other operators ===
+
+Following the Corrent's successful introduction on the CristoCarril network, other Balboan rail operators adopted the platform for their own commuter and regional services. [[Rodalies de Portnou]] (RdP), which operates local services in the [[Portnou]] metropolitan area on tracks shared with CristoCarril lines, ordered 24 Corrent trainsets in 2012 to replace its aging fleet. The RdP units were designated Class RDP-100 and entered service from 2013.
+
+[[Ferrocarrils de Migjorn]] (FMS), a regional rail operator providing services in [[Migjorn]] Province, ordered 8 Corrent trainsets in 2015 for its regional services, designated Class FMS-100. These units entered service in 2016.
+
+As of 2026, a total of 112 Corrent trainsets have been built, with 80 operated by Intercon on the CristoCarril network, 24 by Rodalies de Portnou, and 8 by Ferrocarrils de Migjorn.
+
+== Design ==
+
+=== Exterior ===
+
+[[File:Alcántara Corrent cab front.png|thumb|right|Front view of a Corrent driving cab, showing the dark-tinted windscreen, black front fascia, and lower-corner headlights]]
+
+The Corrent has a lightweight, streamlined body with a largely rectangular passenger compartment and a rounded cab at each end. The exterior is finished primarily in silver and light grey, with blue and turquoise accent panels extending around the cab and along the sides of the cars. The driving cab incorporates a large, dark-tinted windscreen within a black front fascia. Small headlights are mounted toward the lower corners of the cab, while an electronic destination display is positioned above the windscreen. The cab sides taper slightly toward the front, producing a more aerodynamic profile than the otherwise box-shaped passenger cars.
+
+Electrical and auxiliary equipment is concentrated primarily on the roof and beneath the floor, with several prominent rooftop equipment housings visible along the train. The unit receives traction power from overhead catenary, collected through roof-mounted pantographs. The cars are carried on conventional railway bogies and are semi-permanently coupled within the trainset. Scharfenberg couplers are fitted at the outer ends of the driving cars, allowing two trainsets to be coupled for multiple working when additional capacity is required.
+
+=== Formation and configuration ===
+
+[[File:Alcántara Corrent formation diagram.png|thumb|right|Diagram of the 5-car formation (DM–M–T–M–DM), showing driving motor cars at each end and intermediate motor and trailer cars between them]]
+
+The Corrent is built as a semi-permanently coupled trainset with a driving motor car (DM) at each end and intermediate motor cars (M) and trailer cars (T) between them. The driving cars are equipped with driving cabs and contain traction, auxiliary, or control equipment, although the precise distribution of powered equipment is not externally apparent. The intermediate cars have simpler, nearly rectangular bodies without driving cabs, with repeated sets of large passenger windows and wide double-leaf sliding doors. Their ends are flat and connected by enclosed gangways, allowing passengers to move between cars.
+
+Three standard formations are operated:
+
+{| class="wikitable"
+! Formation
+! Configuration
+! Approx. length
+! Capacity
+|-
+| 4-car || DM–M–M–DM || {{convert|84|m|ft|abbr=on}} || 520
+|-
+| 5-car || DM–M–T–M–DM || {{convert|105|m|ft|abbr=on}} || 650
+|-
+| 6-car || DM–M–T–M–M–DM || {{convert|125|m|ft|abbr=on}} || 780
+|}
+
+The 4-car formation, with two driving motor cars and two intermediate motor cars, is used on lower-demand services. The 5-car formation inserts a trailer car between the intermediate motor cars, increasing capacity by approximately 25 per cent. The 6-car formation adds a further intermediate motor car, providing the highest capacity for peak-period services on the busiest corridors. Two trainsets may be coupled in multiple working, providing a maximum length of twelve cars.
+
+The driving cars are approximately 22.5 metres in length, the additional length accommodating the streamlined nose and driver's compartment. The intermediate cars are approximately 20.5 metres, remaining almost completely rectangular. All cars are 2.95 metres wide and 4.0 metres high.
+
+=== Technical specifications ===
+
+The Corrent is an all-electric EMU operating on 25 kV 50 Hz AC overhead electrification, drawing current via pantograph. Power output ranges from 1,200 kW in the 4-car formation to 1,800 kW in the 6-car formation. The train's maximum operating speed is 140 km/h, sufficient for the express services on the CristoCarril network while maintaining rapid acceleration for stop-start commuter operations.
+
+The carbody is of welded aluminium construction, reducing weight and improving energy efficiency. The vehicles use conventional bogies, with bogie centres approximately 14 to 16 metres apart. The floor height of approximately 1,100 mm provides near-level boarding at standard commuter platforms.
+
+Braking is provided through a combination of regenerative and electro-pneumatic systems. The regenerative braking system feeds energy back into the overhead supply during deceleration, reducing overall energy consumption. The electro-pneumatic system provides the remaining braking force and is used for emergency and low-speed braking.
+
+=== Interior ===
+
+[[File:Alcántara Corrent interior.png|thumb|right|Interior of a Corrent trainset, showing transverse 2+2 seating and wide door areas]]
+
+The interior is configured for high-capacity commuter service, with transverse 2+2 seating arranged to maximise standing room in the vestibule and door areas. The 4-car formation provides approximately 160 seated and 360 standing spaces, for a total capacity of 520 passengers. The 5-car formation provides approximately 200 seated and 450 standing spaces, for a total capacity of 650 passengers. The 6-car formation provides approximately 240 seated and 540 standing spaces, for a total capacity of 780 passengers.
+
+Each car is fitted with two pairs of wide double-leaf sliding doors per side — four doors per car total — positioned approximately in the outer thirds of the carbody. The doors are set slightly inward from the bogie areas rather than directly at the car ends, leaving short passenger saloons between each doorway and the inter-car gangway. The side-window arrangement is broadly symmetrical, with large rectangular passenger windows occupying the spaces between and beyond the doorways. The windows are relatively tall and wide, with dark continuous glazing frames that visually form a horizontal band along the upper half of the carbody. Door glazing is narrower and more vertical, distinguishing the entrances from the surrounding passenger windows.
+
+The interior includes dedicated spaces for passengers with reduced mobility, bicycles, and luggage. Passenger information systems provide visual and audio announcements of upcoming stations, and the vehicles are equipped with air conditioning throughout.
+
+=== Accessibility ===
+
+The floor height of approximately 1,100 mm provides near-level boarding at platforms of matching height, which is the standard across the CristoCarril network. A short ramp or step is provided at door positions where minor height differences exist between the floor and platform. Dedicated priority seating and wheelchair spaces are located adjacent to the doors.
+
+== Operators ==
+
+=== Intercon (CristoCarril) ===
+
+[[File:Enllac commuter rail station.png|thumb|right|A Corrent trainset at [[Enllaç]] commuter rail station on [[Line B (CristoCarril)|CristoCarril Line B]]]]
+
+[[Intercon]] is the largest operator of the Corrent, with 80 trainsets in service across the CristoCarril network. The fleet is classified as Class CC-100, with fleet numbers CC-101 through CC-180. The trainsets are allocated across the five operational lines:
+
+{| class="wikitable"
+! Line
+! Corrent allocation
+! Formation
+! Daily ridership (2025)
+|-
+| [[Line A (CristoCarril)|Line A]] || 22 || 5-car || 62,990
+|-
+| [[Line B (CristoCarril)|Line B]] || 26 || 5-car || 93,700
+|-
+| [[Line C (CristoCarril)|Line C]] || 22 || 5-car || 88,200
+|-
+| [[Line D (CristoCarril)|Line D]] || 10 || 4-car || 48,200
+|-
+| [[Line E (CristoCarril)|Line E]] || 10 || 4-car || 36,100
+|}
+
+Lines A, B, and C services operate in 5-car formation, providing capacity for the high-demand corridors. Lines D and E services operate in 4-car formation, reflecting the lower ridership on the Via Sud and Sant Bart corridors. Additional trainsets are held in reserve or undergoing maintenance at any given time, and 6-car formations are deployed during peak periods on Lines A and B when demand requires.
+
+Heavy maintenance for the Corrent fleet is carried out at Intercon's Central Workshops in [[Sant Cristòfor]]. Light maintenance and overnight stabling are conducted at the train yard at [[Varakí TDV (CristoCarril)|Varakí TDV]] for Line C sets, at the Portnou depot for Lines A and B sets, and at the Sant Cristòfor Central Workshops for Lines D and E sets.
+
+=== Rodalies de Portnou ===
+
+[[Rodalies de Portnou]] operates 24 Corrent trainsets, designated Class RDP-100, on its three lines providing local services within the [[Portnou]] metropolitan area. The RdP Corrents operate in 4-car formation, reflecting the shorter distances and lower passenger volumes on the local services compared to the CristoCarril commuter routes. The RdP fleet is maintained at the Portnou depot.
+
+=== Ferrocarrils de Migjorn ===
+
+[[Ferrocarrils de Migjorn]] operates 8 Corrent trainsets, designated Class FMS-100, on regional services in [[Migjorn]] Province. The FMS units operate in 4-car formation and are maintained at the Migjorn depot.
+
+== See also ==
+
+* [[CristoCarril]]
+* [[Intercon]]
+* [[Alcántara]]
+* [[Rodalies de Portnou]]
+
+[[Category:Rolling stock of Balboa]]
+[[Category:Rail transport in Balboa]]
+[[Category:Alcántara]]
