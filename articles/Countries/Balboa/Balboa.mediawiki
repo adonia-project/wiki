@@ -49,7 +49,9 @@
 | HDI_rank               = High
 | currency               = [[International Dollar]] ({{currency code ID|$}})
 | currency_code          = ID
-| time_zone              = 
+| time_zone              = [[Time in Balboa|BST]] ({{w|UTC−05:00}})
+| utc_offset             = −5
+| date_format            = dd/mm/yyyy
 | calling_code           = 
 | cctld                  = .ba
 | membership             = [[Adonian Community]]
@@ -316,42 +318,46 @@ The population of Balboa is approximately 35.2 million (2026 estimate). The popu
 {{Largest cities
 | country     = Balboa
 | stat_ref    = 2026 estimate
+| kind        = municipalities
 | div_name    = Province
+| img_1       = Sant Cristofor skyline.png
+| img_2       = Sant Bart skyline.png
+| img_3       = Varaki lakefront from Lake Jaruma.png
 | city_1      = Sant Cristòfor
 | div_1       = Estret
-| pop_1       = 5,200,000
+| pop_1       = 5,158,347
 | city_2      = Sant Bart
 | div_2       = Jala
-| pop_2       = 2,800,000
-| city_3      = Novara
-| div_3       = Nurra
-| pop_3       = 2,200,000
-| city_4      = Costabella
-| div_4       = Jala
-| pop_4       = 1,500,000
-| city_5      = Portnou
+| pop_2       = 2,814,673
+| city_3      = Campdària
+| div_3       = Migjorn
+| pop_3       = 985,581
+| city_4      = Sant Llàtzer
+| div_4       = Migjorn
+| pop_4       = 946,195
+| city_5      = Varakí
 | div_5       = Estret
-| pop_5       = 1,100,000
-| city_6      = Sant Llàtzer
-| div_6       = Migjorn
-| pop_6       = 950,000
-| city_7      = Portblanc
-| div_7       = Tramuntana
-| pop_7       = 680,000
-| city_8      = Campdària
-| div_8       = Migjorn
-| pop_8       = 520,000
-| city_9      = Vellmar
-| div_9       = Nurra
-| pop_9       = 410,000
-| city_10     = Altaneu
-| div_10      = Jala
-| pop_10      = 350,000
+| pop_5       = 852,362
+| city_6      = Portblanc
+| div_6       = Tramuntana
+| pop_6       = 679,413
+| city_7      = Enllaç
+| div_7       = Estret
+| pop_7       = 633,727
+| city_8      = La Cruïlla
+| div_8       = Estret
+| pop_8       = 351,643
+| city_9      = Riu Ample
+| div_9       = Migjorn
+| pop_9       = 320,374
+| city_10     = Portnou del Delta
+| div_10      = Migjorn
+| pop_10      = 312,691
 }}
 
 === Ethnic groups ===
 
-[[File:Sant Cristofor skyline.jpg|thumb|right|300px|Sant Cristòfor skyline, the country's largest city and financial centre.]]
+[[File:Sant Cristofor skyline.png|thumb|right|300px|Sant Cristòfor skyline, the country's largest city and financial centre.]]
 
 The population is divided among five principal ethnic groups, the boundaries among which have been shaped by centuries of colonial rule, racial legislation, and post-reunification reform.
 
