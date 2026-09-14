@@ -30,6 +30,7 @@ Distances calculated from great-circle measurement using coordinates from the "C
 | Gran Port de Sant Mateu | Tapuya | -75.2993, 7.8045 | 2,262 km | 3h |
 | Port Soledat | Potocsí | -83.7870, 23.2130 | 2,748 km | 3h 30min |
 | Guledga | Lacashe | -66.0970, 8.9142 | 3,268 km | 4h |
+| Ominira | Bolodun and Kuvari Islands | -71.283, 4.383 | 2,604 km | 3h 05min |
 | Sanu-Sasso | Lacashe | TBD | ~3,568 km | 4h 30min |
 | Castejón | Balisca | -57.3787, 31.0798 | 5,154 km | 6h 30min |
 | Hargiesa | Galwa | -27.6078, -11.4083 | 7,504 km | 9h |

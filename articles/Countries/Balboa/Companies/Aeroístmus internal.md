@@ -8,7 +8,7 @@
 - Hubs: SCI (Sant Cristòfor), SBT (Sant Bart)
 - Fleet: 58 total (8 A320-200 + 18 A321neo + 6 A330-300 + 4 787-9 + 10 777-300ER + 11 ATR 72-600 + 1 777F); 2 ATR 72-600 dry-leased to AeroTerminus
 - On order: 20 A321neo, 15 A330-900, 10 A350-900, 3 ATR 72-600
-- Destinations: 42 (22 domestic + 20 international)
+- Destinations: 46 (22 domestic + 24 international)
 - Employees: ~1,150
 - Revenue: ~B420 million (2024)
 
@@ -106,6 +106,7 @@ Block time = flight time + turnaround (30 min narrowbody, 45 min ATR, 60 min wid
 | Mariapolis | Sarta | 10,729 km | 13h | C | POI shapefile (Mariapolis International Airport, 2.7303°, -31.4995°) |
 | Okami | Okaiken | 11,873 km | 14h | B | User-provided coordinates (16°39′53″S 158°15′47″E) |
 | Sanu-Sasso | Asikyira | TBD | TBD | B | Not on map |
+| Ominira | Bolodun and Kuvari Islands | 2,604 km | 3h 05min | B | TALOD wiki coordinates (Ominira International Airport, 4°23′N 71°17′W / -71.283°, 4.383°) |
 | Nanaimo | Kaneda | TBD | TBD | B | Not on map |
 | Kanakou | Kaneda | TBD | TBD | B | Not on map |
 | Kuluba | Asikyira | TBD | TBD | C | Not on map |
@@ -235,6 +236,23 @@ W/Y routes (4 aircraft):
 - **Headroom: ~6.6h/day** — tight but workable
 
 Note: Guledga at 3,268 km / 4h and Sanu-Sasso at ~3,568 km / 4h 30min are within A321 range (~6,100 km) but at the edge of comfortable single-aisle operation. Consider A330 if demand grows.
+
+#### SCI↔Ominira (OBK) — Weekly (Saturday), A321neo W/Y
+
+Route to [[Ominira International Airport]] in the [[Bolodun and Kuvari Islands]], serving the capital Ominira. Distance: 2,604 km (great-circle, from TALOD airport coordinates 4°23′N 71°17′W), block time: 3h 05min flight + 30 min turnaround. Both SCI and OBK are UTC-5, so no time-zone offset on arrival times.
+
+| Flight | From | To | Day | Dep | Arr | Block |
+|--------|------|----|-----|-----|-----|-------|
+| AB415 | SCI | OBK | Sat | 08:30 | 11:35 | 3h 05min |
+| AB416 | OBK | SCI | Sat | 12:35 | 15:40 | 3h 05min |
+
+Same-day Saturday rotation: the aircraft departs SCI mid-morning, has a 1h turnaround at Ominira, and returns mid-afternoon. 1 round trip/week = 6.2 block hrs/week = ~0.9h/day average.
+
+**Aircraft:** One of the six unscheduled A321neos (W/Y configuration, 198–204 seats) — the 12 scheduled A321s (BL-ABA through BL-ABL) are fully utilized, so the route uses spare narrowbody capacity. The W/Y (premium economy + economy) configuration suits the leisure/VFR market; the islands received heavy Burawi investment in the 1970s and the airport is also a focus city for Capuyaquiran Air Lines.
+
+**Flight numbers:** AB415/AB416 — next free in the AB4xx short-haul international series (AB401–404 Sanu-Sasso, AB405–408 Tamsui, AB411–414 SBT–Gran Port de Sant Mateu).
+
+**Market:** Island tourism from Balboa (the 1969 Hurricane Sahan reconstruction and hurricane-resistant stilt construction are noted draws), VFR traffic, and connections over the SCI hub. Complements the existing OBK services of Capuyaquiran Air Lines (Sanu-Sasso), Dawati (Kankadadka), and Guajicutea Airlines (Waribá).
 
 #### A330 (5 aircraft) — Medium-haul international + high-demand short-haul
 

@@ -445,3 +445,5 @@ A321-12,BL-ABL,SBT,AB381,Sat,SBT,CAS,08:00,14:00,6.0,Castejón daily — morning
 A321-12,BL-ABL,SBT,AB382,Sat,CAS,SBT,15:00,21:00,6.0,"Castejón daily — afternoon return, same-day turn"
 A321-12,BL-ABL,SBT,AB381,Sun,SBT,CAS,08:00,14:00,6.0,Castejón daily — morning departure from SBT
 A321-12,BL-ABL,SBT,AB382,Sun,CAS,SBT,15:00,21:00,6.0,"Castejón daily — afternoon return, same-day turn"
+A321-13,BL-ABM,SCI,AB415,Sat,SCI,OBK,08:30,11:35,3.08,"Ominira weekly (Saturday) — same-day rotation, spare A321neo W/Y"
+A321-13,BL-ABM,SCI,AB416,Sat,OBK,SCI,12:35,15:40,3.08,"Ominira weekly (Saturday) — same-day return, 1h turnaround at OBK"
