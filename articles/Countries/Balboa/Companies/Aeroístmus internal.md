@@ -6,9 +6,9 @@
 - Parent: Aeroístmus S.A., publicly traded on Bolsa de Sant Cristòfor (SCX: AER)
 - HQ: Sant Cristòfor, Estret Province
 - Hubs: SCI (Sant Cristòfor), SBT (Sant Bart)
-- Fleet: 58 total (8 A320-200 + 18 A321neo + 6 A330-300 + 4 787-9 + 10 777-300ER + 11 ATR 72-600 + 1 777F); 2 ATR 72-600 dry-leased to AeroTerminus
-- On order: 20 A321neo, 15 A330-900, 10 A350-900, 3 ATR 72-600
-- Destinations: 46 (22 domestic + 24 international)
+- Fleet: 59 total (8 A320-200 + 18 A321neo + 6 A330-300 + 1 A330-900 + 4 787-9 + 10 777-300ER + 11 ATR 72-600 + 1 777F); 2 ATR 72-600 dry-leased to AeroTerminus
+- On order: 20 A321neo, 14 A330-900, 10 A350-900, 3 ATR 72-600
+- Destinations: 47 (22 domestic + 25 international)
 - Employees: ~1,150
 - Revenue: ~B420 million (2024)
 
@@ -99,6 +99,7 @@ Block time = flight time + turnaround (30 min narrowbody, 45 min ATR, 60 min wid
 | Port Soledat | Potocsí | 2,748 km | 3h 30min | B | Cities in Adonia |
 | Guledga | Lacashe | 3,268 km | 4h | B | Cities in Adonia |
 | Castejón | Balisca | 5,154 km | 6h 30min | B | Cities in Adonia |
+| Macaio (Solana) | Balisca | 4,004 km | 4h 45min | B | User-provided coordinates (36°46′34.36″N 92°52′12.00″W / -92.8700°, 36.7762°, Solana International Airport) |
 | Hargiesa | Galwa | 7,504 km | 9h | C | Cities in Adonia |
 | Ampuria | Volisania | 9,152 km | 11h | C | POI shapefile (Ampuria International Airport, -13.0953°, -23.6478°) |
 | Kankadadka | Burawa | 8,872 km | 11h | C | Cities in Adonia |
@@ -254,9 +255,33 @@ Same-day Saturday rotation: the aircraft departs SCI mid-morning, has a 1h turna
 
 **Market:** Island tourism from Balboa (the 1969 Hurricane Sahan reconstruction and hurricane-resistant stilt construction are noted draws), VFR traffic, and connections over the SCI hub. Complements the existing OBK services of Capuyaquiran Air Lines (Sanu-Sasso), Dawati (Kankadadka), and Guajicutea Airlines (Waribá).
 
-#### A330 (5 aircraft) — Medium-haul international + high-demand short-haul
+#### SCI↔Macaio (Solana International Airport) — 2x Daily, Widebody
 
-**Seat configuration (standard across all 5 aircraft):**
+Route to [[Solana International Airport]] (also branded Solana-Macaio Airport), serving [[Macaio]] in the [[Solana]] megaregion of [[Balisca]]. Distance: 4,004 km (great-circle, from user-provided airport coordinates 36°46′34.36″N 92°52′12.00″W), block time: 4h 45min flight + 1h turnaround. Same time zone as Castejón service (no offset on arrival times).
+
+| Flight | From | To | Day | Dep | Arr | Block |
+|--------|------|----|-----|-----|-----|-------|
+| AB205 | SCI | SLM | Daily | 08:00 | 12:45 | 4h 45min |
+| AB206 | SLM | SCI | Daily | 13:45 | 18:30 | 4h 45min |
+| AB211 | SCI | SLM | Daily | 11:00 | 15:45 | 4h 45min |
+| AB212 | SLM | SCI | Daily | 16:45 | 21:30 | 4h 45min |
+
+Two same-day round trips daily: morning rotation (AB205/206) and midday rotation (AB211/212). Each RT is ~10.5h block; 2 RTs/day = 21h/day. A single airframe cannot fly both rotations (21h > ~14h effective daily utilization), so the two rotations are split across two aircraft:
+
+- **AB205/206 (morning):** New A330-900 BL-WBG — first delivery from the 15-unit order, entering service on this route. 297-seat next-gen configuration (32J/49W/216Y, see next-gen cabin section below).
+- **AB211/212 (midday):** A330-300 BL-WBF — the 6th A330-300, 229-seat premium-heavy configuration (36J/49W/144Y). Previously reserved for peak Tanjung Seroja rotations only; the Solana midday rotation gives it a year-round daily mission while retaining availability for peak Seroja cover.
+
+**Flight numbers:** AB205/206 and AB211/212 — the two free pairs in the AB2xx A330 series (AB201–204 Castejón, AB207–210 Port Soledat, AB213–214 SBT–Port Soledat). Odd = outbound, even = inbound, matching the existing pattern.
+
+**Market:** Macaio is an Alpha− global city (biotechnology, alternative finance, film industry) and the heart of the Solana megaregion (~19–29M inhabitants). Premium-heavy demand justifies widebody service and the premium-heavy BL-WBF assignment. Previously served only via the Baliscana codeshare (Baliscana flies SCI–Macaio under its own metal); Aeroístmus own-metal service now competes directly. Complements the existing Baliscana Terminal C operation.
+
+**Fleet impact:** A330 fleet goes 6→7 aircraft (6 A330-300 + 1 A330-900). Utilization: prior pool had ~51.4h/day scheduled vs ~63h capacity across 5 scheduled aircraft + BL-WBF spare. New total: ~72.4h/day scheduled (51.4 + 21) vs ~77h capacity (6 × ~13h effective) — tight but workable; subsequent A330-900 deliveries (14 remaining on order) relieve this as A330-300s retire.
+
+#### A330 (7 aircraft) — Medium-haul international + high-demand short-haul
+
+**A330-300 (6 aircraft):**
+
+**Seat configuration (standard across 5 aircraft):**
 
 | Class | Seat type | Layout | Pitch | Width | Seats |
 |-------|-----------|--------|-------|-------|-------|
@@ -273,19 +298,31 @@ Same-day Saturday rotation: the aircraft departs SCI mid-morning, has a 1h turna
 - 2018: BL-WBE delivered (5th A330 for Port Soledat daily from both hubs)
 - 2012–2019: Previous-generation products (angled lie-flat business, no premium economy)
 - 2021–2023: Pandemic refit — all 5 aircraft refurbished with current product line (BL-J-2, BL-W-2, BL-Y-3). Premium economy (BL-W-2) added during this refit.
+- 2019: BL-WBF delivered (6th A330-300, premium-heavy 229-seat configuration: 36J BL-J-2 / 49W BL-W-2 / 144Y BL-Y-3) — reserved for peak Tanjung Seroja rotations; now also flies the daily Solana midday rotation (AB211/212)
 - 2025–present: A330neo on order to eventually replace A330-300
+
+**A330-900 (1 aircraft):**
+
+| Class | Seat type | Layout | Pitch | Width | Seats |
+|-------|-----------|--------|-------|-------|-------|
+| Business | BL-J-4 | 1-2-1 | 74" | 21" | 32 |
+| Premium Economy | BL-W-4 | 2-3-2 | 38" | 18.5" | 49 |
+| Economy | BL-Y-5 | 2-4-2 | 32" | 17.5" | 216 |
+| **Total** | | | | | **297** |
+
+**Registration:** BL-WBG (first delivery from the 15-unit order, 2026; launch aircraft for the next-gen cabin line and [[AeroPlay]]). 14 A330-900 remain on order.
 
 | Route | Distance | Flight time | Frequency | Sectors/day | Block hrs/day |
 |------|----------|------------|------------|-------------|---------------|
 | SCI↔Castejón | 5,154 km | 6h 30min | 2x daily | 4 | 26.0 |
+| SCI↔Macaio (Solana) | 4,004 km | 4h 45min | 2x daily | 4 | 19.0 |
 | SCI↔Hargiesa | 7,504 km | 9h | 3x weekly | 0.86 | 8.6 |
 | SCI↔Port Soledat | 2,748 km | 3h 30min | daily | 2.0 | 7.0 |
 | SBT↔Port Soledat | 2,470 km | 2h 54min | daily | 2.0 | 5.8 |
 | SBT↔Castejón | ~5,000 km | 6h | 2x weekly | 0.57 | 4.0 |
-| **Total** | | | | **~9.43** | **~51.4** |
+| **Total** | | | | **~13.43** | **~70.4** |
 
-Capacity: 5 aircraft, 4.5 effective, 4.5 × 14h = 63h/day
-**Headroom: ~11.6h/day.** Iskhal moved to 777 fleet (BL-WAE, 1x weekly). TBD routes (Nanaimo, Kanakou, Kuluba, Sanropura) deferred — distances unknown.
+Note: Solana block hrs shown as 19.0 (flight time only); with turnarounds the two daily rotations consume ~21h/day of aircraft time. Capacity: 7 aircraft, ~6.5 effective × ~12h = ~77h/day. **Headroom: ~6.6h/day** — tight; relieved by subsequent A330-900 deliveries. Iskhal moved to 777 fleet (BL-WAE, 1x weekly). TBD routes (Nanaimo, Kanakou, Kuluba, Sanropura) deferred — distances unknown.
 
 Note: Castejón has 2x daily A330 service. Ampuria (business hub) is served daily by 777 fleet (BL-WAD + BL-WAJ). Port Soledat has daily service from both SCI and SBT.
 
@@ -519,6 +556,79 @@ Standard herringbone layout — angled lie-flat seats offering direct aisle acce
 | Other | Personal air vent, water bottle holder |
 
 **Design philosophy:** Standard medium-haul economy for the A330 fleet. 2-4-2 is the native A330 layout — no middle-seat-pair issues like the 777's 3-4-3 (only the 4-across center section has middle seats). 31" pitch is competitive for the sector lengths. Individual underseat AC + USB-A power at every seat. The 10" screen is adequate for 3-9h flights.
+
+### Next-generation medium-haul cabin (A330-900, BL-WBG) — 297 seats
+
+Introduced with the first A330-900 delivery (2026). Aeroístmus is the launch customer for this cabin line and for the [[AeroPlay]] IFE platform. Full product line: BL-J-4 (business), BL-W-4 (premium economy), BL-Y-5 (economy).
+
+| Class | Seat type | Layout | Pitch | Width | Seats |
+|-------|-----------|--------|-------|-------|-------|
+| Business | BL-J-4 | 1-2-1 reverse herringbone | 74" | 21" | 32 |
+| Premium Economy | BL-W-4 | 2-3-2 | 38" | 18.5" | 49 |
+| Economy | BL-Y-5 | 2-4-2 | 32" | 17.5" | 216 |
+| **Total** | | | | | **297** |
+
+#### BL-J-4 — Business Class (Next-Gen Medium-Haul)
+
+| Parameter | Specification |
+|-----------|--------------|
+| Layout | 1-2-1 reverse herringbone |
+| Pitch | 74" |
+| Seat width | 21" |
+| Recline | Full lie-flat, 78"×21" bed |
+| Privacy | High shell walls; staggered doors optional at suite seats |
+| IFE screen | 18-inch 4K display, seat-mounted |
+| Controls | [[AeroPlay]] platform — seat position, lighting, IFE controlled via passenger mobile device app; seat-mounted touch panel as backup |
+| Storage | Personal side stowage, overhead bin |
+| Power | Universal AC, USB-A, USB-C |
+| Lighting | Personal reading light, adjustable ambient scene lighting |
+| Audio | Noise-cancelling headphones provided |
+| Other | Personal air vent, water bottle holder, amenity kit |
+
+**Design philosophy:** Fixes the principal weakness of BL-J-2 — no aisle access from window seats. The 1-2-1 reverse herringbone gives every passenger direct aisle access, matching the long-haul BL-J-1 privacy standard while keeping the medium-haul cabin count competitive (32 seats vs 24). The 4K display and AeroPlay integration position the product ahead of regional competitors on the business-heavy Solana route.
+
+#### BL-W-4 — Premium Economy (Next-Gen Medium-Haul)
+
+| Parameter | Specification |
+|-----------|--------------|
+| Layout | 2-3-2 |
+| Pitch | 38" (up from 36" on BL-W-2) |
+| Seat width | 18.5" |
+| Recline | 8" deep cradle recline |
+| Headrest | Adjustable 4-way headrest |
+| Footrest | Extendable footrest + calf rest |
+| IFE screen | 13-inch 1080p display |
+| Controls | [[AeroPlay]] platform via passenger mobile device app |
+| Storage | Seat pocket, overhead bin |
+| Power | Universal AC, USB-A, USB-C (individual, underseat) |
+| Lighting | Personal reading light |
+| Audio | Headphones provided (over-ear) |
+| Other | Personal air vent, water bottle holder |
+
+**Design philosophy:** Converges with the long-haul BL-W-1 standard (38" pitch, 13" screen) — the gap between medium-haul and long-haul premium economy closes with the next generation. USB-C added fleet-wide for the first time in this class.
+
+#### BL-Y-5 — Economy (Next-Gen Medium-Haul)
+
+| Parameter | Specification |
+|-----------|--------------|
+| Layout | 2-4-2 |
+| Pitch | 32" (up from 31" on BL-Y-3) |
+| Seat width | 17.5" |
+| Recline | 4" |
+| Headrest | Adjustable 2-way headrest |
+| IFE screen | 12-inch 1080p display |
+| Controls | [[AeroPlay]] platform via passenger mobile device app; seat-armrest controller retained |
+| Storage | Seat pocket, overhead bin |
+| Power | Universal AC, USB-A, USB-C (individual, underseat) |
+| Lighting | Personal reading light |
+| Audio | Earbuds provided |
+| Other | Personal air vent, water bottle holder |
+
+**Design philosophy:** An inch more pitch and width over BL-Y-3, plus USB-C. The 12" screen matches the long-haul BL-Y-2. AeroPlay replaces the touch-screen armrest controller as the primary IFE interface — the armrest controller is retained as a backup, distinguishing this from the armrest-controller-only legacy cabins.
+
+#### AeroPlay integration (launch customer)
+
+[[AeroPlay]], developed by [[Aviònica Internacional de Ampuria]] of [[Volisania]], is a seat-centric IFE control plane operated from a passenger's own mobile device via a companion app. Founded by Pau Badia, son of Oriol Badia, CEO of Volisanian Airlines. Aeroístmus is the launch customer — AeroPlay debuts fleet-wide on BL-WBG's next-gen cabin (all three classes), replacing the armrest touch-screen controller as the primary seat/IFE interface. See the [[AeroPlay]] article (articles/Other/) for full product detail.
 
 ### A321 seat type catalogue
 

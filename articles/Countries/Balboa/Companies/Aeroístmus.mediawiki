@@ -17,8 +17,8 @@
 | bases = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | hubs = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | alliance = [[Adonian Arrow]]
-| fleet_size = 58
-| destinations = 46
+| fleet_size = 59
+| destinations = 47
 | parent = Aeroístmus S.A.
 | traded_as = {{ubl|SCX: AER|[[Bolsa de Sant Cristòfor]]}}
 | headquarters = [[Sant Cristòfor]], [[Sant Cristòfor (comarca)|Sant Cristòfor comarca]], [[Estret Province]], [[Balboa]]
@@ -68,7 +68,7 @@ In the 2000s, Aeroístmus continued to modernise its fleet, replacing the Boeing
 
 == Destinations ==
 
-Aeroístmus operates 46 destinations: 22 domestic and 24 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
+Aeroístmus operates 47 destinations: 22 domestic and 25 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
 
 {| class="wikitable sortable"
 |-
@@ -121,6 +121,8 @@ Aeroístmus operates 46 destinations: 22 domestic and 24 international, with ser
 |[[Asikyira]]|| Sanu-Sasso ||[[Sanu-Sasso Airport|Sanu-Sasso]]||
 |-
 |[[Balisca]]|| Castejón ||[[Concordia International Airport|Castejón]]||
+|-
+|| Macaio ||[[Solana International Airport|Macaio]]||
 |-
 |[[Bolodun and Kuvari Islands]]|| Ominira ||[[Ominira International Airport|Ominira]]||
 |-
@@ -177,7 +179,7 @@ Through its membership in the [[Adonian Arrow]] alliance, Aeroístmus maintains 
 
 The codeshare with [[Sanesair]] provides a connecting sector from [[Okami-Tobu International Airport|Okami-Tobu]] to [[Akyatan Airport|Akyatan]] in [[Dagit]]. The through-fare service, marketed under Aeroístmus flight numbers, connects the Balboan Dagit community with the isthmus via the Okami hub. Sanesair operates the sector using a {{w|Boeing 787 Dreamliner|787-9}} and provides onward connectivity to its network from Okami.
 
-The codeshare with [[Baliscana]] covers connecting services beyond [[Castejón]] and [[Macaio]] into the Baliscan domestic network. Baliscana operates its own flights from [[Sant Cristòfor International Airport|Sant Cristòfor]] to Castejón and Macaio, and the codeshare allows Aeroístmus passengers to book through-fare connections to destinations across the [[Balisca|Baliscan Confederation]] under Aeroístmus flight numbers.
+The codeshare with [[Baliscana]] covers connecting services beyond [[Castejón]] and [[Macaio]] into the Baliscan domestic network. Aeroístmus operates its own twice-daily widebody service from [[Sant Cristòfor International Airport|Sant Cristòfor]] to Macaio's [[Solana International Airport]], and Baliscana operates its own flights from Sant Cristòfor to Castejón and Macaio; the codeshare allows Aeroístmus passengers to book through-fare connections to destinations across the [[Balisca|Baliscan Confederation]] under Aeroístmus flight numbers.
 
 == Fleet ==
 
@@ -253,10 +255,14 @@ As of December 2025, Aeroístmus operates the following aircraft:
 | Premium-heavy configuration used on the peak Tanjung Seroja rotation.
 |-
 | {{w|Airbus A330neo|Airbus A330-900}}
+| 1
+| 14
 | —
-| 15
-| colspan="5" | TBD
-| On order for medium-haul fleet renewal and additional widebody capacity.
+| 32
+| 49
+| 216
+| 297
+| Next-generation medium-haul configuration introduced with the first delivery; first A330-900 operator in Adonia to feature the [[AeroPlay]] seat-centric in-flight entertainment platform. Remaining deliveries to follow for medium-haul fleet renewal.
 |-
 | rowspan="2" | {{w|Boeing 787|Boeing 787-9}}
 | rowspan="2" | 4
@@ -308,6 +314,8 @@ As of December 2025, Aeroístmus operates the following aircraft:
 | Freighter operated by Aeroístmus Cargo on the SCI–Ampuria cargo route.
 |}
 [[File:Aeroístmus Airbus A321 climbing from SBT.png|thumb|right|300px|An Aeroístmus Airbus A321 departing Sant Bart on a domestic trunk service.]]
+
+The first {{w|Airbus A330neo|A330-900}}, delivered in 2026, introduced the airline's next-generation medium-haul cabin: 1-2-1 lie-flat business class with 4K seat-back displays, together with the [[AeroPlay]] in-flight entertainment platform, developed by [[Aviònica Internacional de Ampuria]] of [[Volisania]]. Aeroístmus is the launch customer for both the cabin line and AeroPlay, which replaces the seat-armrest controller with a passenger-supplied mobile device application controlling seat position, lighting, and entertainment.
 
 === Historical fleet ===
 

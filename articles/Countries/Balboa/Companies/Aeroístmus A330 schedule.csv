@@ -83,3 +83,31 @@ A330-3,BL-WAC,SCI,AB301,Sat,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnig
 A330-3,BL-WAC,SCI,AB302,Sun,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return
 A330-3,BL-WAC,SCI,AB301,Sun,SCI,HAR,22:00,07:00+1,9.0,Hargiesa daily — overnight outbound
 A330-3,BL-WAC,SCI,AB302,Mon,HAR,SCI,10:00,19:00,9.0,Hargiesa daily — morning return
+A330-7,BL-WBG,SCI,AB205,Mon,SCI,SLM,08:00,12:45,4.75,Solana daily — morning outbound (A330-900 next-gen cabin)
+A330-7,BL-WBG,SCI,AB206,Mon,SLM,SCI,13:45,18:30,4.75,Solana daily — morning return
+A330-6,BL-WBF,SCI,AB211,Mon,SCI,SLM,11:00,15:45,4.75,Solana daily — midday outbound (premium-heavy A330-300)
+A330-6,BL-WBF,SCI,AB212,Mon,SLM,SCI,16:45,21:30,4.75,Solana daily — midday return
+A330-7,BL-WBG,SCI,AB205,Tue,SCI,SLM,08:00,12:45,4.75,Solana daily — morning outbound (A330-900 next-gen cabin)
+A330-7,BL-WBG,SCI,AB206,Tue,SLM,SCI,13:45,18:30,4.75,Solana daily — morning return
+A330-6,BL-WBF,SCI,AB211,Tue,SCI,SLM,11:00,15:45,4.75,Solana daily — midday outbound (premium-heavy A330-300)
+A330-6,BL-WBF,SCI,AB212,Tue,SLM,SCI,16:45,21:30,4.75,Solana daily — midday return
+A330-7,BL-WBG,SCI,AB205,Wed,SCI,SLM,08:00,12:45,4.75,Solana daily — morning outbound (A330-900 next-gen cabin)
+A330-7,BL-WBG,SCI,AB206,Wed,SLM,SCI,13:45,18:30,4.75,Solana daily — morning return
+A330-6,BL-WBF,SCI,AB211,Wed,SCI,SLM,11:00,15:45,4.75,Solana daily — midday outbound (premium-heavy A330-300)
+A330-6,BL-WBF,SCI,AB212,Wed,SLM,SCI,16:45,21:30,4.75,Solana daily — midday return
+A330-7,BL-WBG,SCI,AB205,Thu,SCI,SLM,08:00,12:45,4.75,Solana daily — morning outbound (A330-900 next-gen cabin)
+A330-7,BL-WBG,SCI,AB206,Thu,SLM,SCI,13:45,18:30,4.75,Solana daily — morning return
+A330-6,BL-WBF,SCI,AB211,Thu,SCI,SLM,11:00,15:45,4.75,Solana daily — midday outbound (premium-heavy A330-300)
+A330-6,BL-WBF,SCI,AB212,Thu,SLM,SCI,16:45,21:30,4.75,Solana daily — midday return
+A330-7,BL-WBG,SCI,AB205,Fri,SCI,SLM,08:00,12:45,4.75,Solana daily — morning outbound (A330-900 next-gen cabin)
+A330-7,BL-WBG,SCI,AB206,Fri,SLM,SCI,13:45,18:30,4.75,Solana daily — morning return
+A330-6,BL-WBF,SCI,AB211,Fri,SCI,SLM,11:00,15:45,4.75,Solana daily — midday outbound (premium-heavy A330-300)
+A330-6,BL-WBF,SCI,AB212,Fri,SLM,SCI,16:45,21:30,4.75,Solana daily — midday return
+A330-7,BL-WBG,SCI,AB205,Sat,SCI,SLM,08:00,12:45,4.75,Solana daily — morning outbound (A330-900 next-gen cabin)
+A330-7,BL-WBG,SCI,AB206,Sat,SLM,SCI,13:45,18:30,4.75,Solana daily — morning return
+A330-6,BL-WBF,SCI,AB211,Sat,SCI,SLM,11:00,15:45,4.75,Solana daily — midday outbound (premium-heavy A330-300)
+A330-6,BL-WBF,SCI,AB212,Sat,SLM,SCI,16:45,21:30,4.75,Solana daily — midday return
+A330-7,BL-WBG,SCI,AB205,Sun,SCI,SLM,08:00,12:45,4.75,Solana daily — morning outbound (A330-900 next-gen cabin)
+A330-7,BL-WBG,SCI,AB206,Sun,SLM,SCI,13:45,18:30,4.75,Solana daily — morning return
+A330-6,BL-WBF,SCI,AB211,Sun,SCI,SLM,11:00,15:45,4.75,Solana daily — midday outbound (premium-heavy A330-300)
+A330-6,BL-WBF,SCI,AB212,Sun,SLM,SCI,16:45,21:30,4.75,Solana daily — midday return

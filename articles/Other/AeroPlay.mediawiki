@@ -1,0 +1,52 @@
+{{Short description|In-flight entertainment control platform}}
+{{Infobox software
+| name               = AeroPlay
+| logo               =
+| logo_size          =
+| screenshot         =
+| caption            =
+| developer          = [[Aviònica Internacional de Ampuria]]
+| released           = {{start date and age|2026|6|18|df=y}}
+| latest release     = 1.0
+| latest release date = {{start date and age|2026|6|18|df=y}}
+| operating system   = [[w:iOS|iOS]], [[w:Android (operating system)|Android]], integrated seat hardware
+| platform           =
+| size               =
+| language           = [[Volisanian language|Volisanian]], [[Baliscano language|Baliscano]], [[Mercian language|Mercian]], [[Burawi language|Burawi]], [[Zong language|Zong]]
+| genre              = {{w|In-flight entertainment}}
+| license            = Proprietary
+| website            =
+}}
+
+'''AeroPlay''' is a seat-centric {{w|in-flight entertainment}} control platform developed by [[Aviònica Internacional de Ampuria]], an avionics startup based in [[Ampuria]], [[Volisania]]. The platform replaces the seat-armrest touch controller of a conventional in-flight entertainment system with a companion {{w|mobile app|mobile application}} that connects to the seat's control plane over the aircraft's cabin wireless network, allowing passengers to control seat position, lighting, entertainment selection, and cabin crew calls from their own devices. A seat-mounted touch panel is retained as a backup interface.
+
+[[Aeroístmus]], the flag carrier of [[Balboa]], is the launch customer for AeroPlay. The platform debuted in June 2026 on the airline's first {{w|Airbus A330neo|A330-900}}, fitted across all three cabin classes of the aircraft's next-generation interior, on the Sant Cristòfor–Macaio route.
+
+== Development ==
+
+Aviònica Internacional de Ampuria was founded in Ampuria in 2021 by Pau Badia, an avionics engineer and son of Oriol Badia, chief executive officer of [[Volisanian Airlines]]. The company develops software and connectivity systems for commercial aircraft cabins, with AeroPlay as its first product to reach airline service.
+
+The platform was developed between 2021 and 2025, with certification trials conducted on a Volisanian Airlines test aircraft. The relationship between the startup and the Volisanian flag carrier attracted attention in the Adonian aviation press, though Volisanian Airlines has not announced a fleet-wide adoption of the platform.
+
+== Functionality ==
+
+AeroPlay operates as a control layer between the passenger's device and the seat's embedded systems. After connecting to the aircraft's cabin network, the app presents a unified interface for:
+
+* Seat position and recline controls
+* Personal and reading light adjustment
+* In-flight entertainment browsing and playback, mirrored to the seat-back display
+* Cabin crew call and messaging
+* Moving map and flight information
+* Menu browsing and cabin service requests, where the airline enables the module
+
+The seat-mounted touch panel continues to function independently, allowing passengers without the app to operate the seat and entertainment system. The platform requires no modification to the seat itself beyond the standard cabin wireless network and a certified seat control interface, which the developer supplies to seat manufacturers.
+
+== Launch customer ==
+
+[[Aeroístmus]] became the launch customer for AeroPlay in 2026, introducing the platform on its first {{w|Airbus A330neo|A330-900}} (registration BL-WBG). The aircraft's next-generation cabin — featuring 1-2-1 lie-flat business class with {{w|4K resolution|4K}} seat-back displays — entered service on the Sant Cristòfor–Macaio route in June 2026. Aeroístmus has indicated that AeroPlay will be fitted to subsequent A330-900 deliveries as they enter the fleet.
+
+== See also ==
+
+* [[Aeroístmus]]
+* [[Volisanian Airlines]]
+* [[Aviònica Internacional de Ampuria]]

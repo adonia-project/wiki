@@ -32,6 +32,7 @@ Distances calculated from great-circle measurement using coordinates from the "C
 | Guledga | Lacashe | -66.0970, 8.9142 | 3,268 km | 4h |
 | Ominira | Bolodun and Kuvari Islands | -71.283, 4.383 | 2,604 km | 3h 05min |
 | Sanu-Sasso | Lacashe | TBD | ~3,568 km | 4h 30min |
+| Macaio (Solana Int'l) | Balisca | -92.8700, 36.7762 | 4,004 km | 4h 45min |
 | Castejón | Balisca | -57.3787, 31.0798 | 5,154 km | 6h 30min |
 | Hargiesa | Galwa | -27.6078, -11.4083 | 7,504 km | 9h |
 | Ampuria | Volisania | -13.0953, -23.6478 | 9,152 km | 11h |
