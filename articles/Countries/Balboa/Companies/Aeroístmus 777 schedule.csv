@@ -71,3 +71,31 @@ CODESHARE,Sanesair,OKI,SA-xxx,Thu,OKI,AKY,TBD,TBD,2.0,Codeshare — Okami→Akya
 777-9,BL-WAI,SCI,AB123,Sat,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound
 777-8,BL-WAH,SCI,AB124,Sun,MAR,SCI,11:00,18:00,13.0,Mariapolis daily return — morning departure from MAR
 777-8,BL-WAH,SCI,AB123,Sun,SCI,MAR,20:00,15:00+1,13.0,Mariapolis daily outbound — overnight outbound
+777-11,BL-WAK,SCI,AB125,Mon,SCI,CCP,22:00,09:30+1,9.0,Concepción daily outbound — overnight outbound
+777-11,BL-WAK,SCI,AB126,Mon,CCP,SCI,12:00,19:30,9.0,Concepción daily return — morning departure from CCP
+777-12,BL-WAL,SCI,AB127,Mon,SCI,NVA,23:00,09:30+1,8.5,Alessandria daily outbound — overnight outbound
+777-12,BL-WAL,SCI,AB128,Mon,NVA,SCI,12:30,19:00,8.5,Alessandria daily return — morning departure from NVA
+777-11,BL-WAK,SCI,AB125,Tue,SCI,CCP,22:00,09:30+1,9.0,Concepción daily outbound — overnight outbound
+777-11,BL-WAK,SCI,AB126,Tue,CCP,SCI,12:00,19:30,9.0,Concepción daily return — morning departure from CCP
+777-12,BL-WAL,SCI,AB127,Tue,SCI,NVA,23:00,09:30+1,8.5,Alessandria daily outbound — overnight outbound
+777-12,BL-WAL,SCI,AB128,Tue,NVA,SCI,12:30,19:00,8.5,Alessandria daily return — morning departure from NVA
+777-11,BL-WAK,SCI,AB125,Wed,SCI,CCP,22:00,09:30+1,9.0,Concepción daily outbound — overnight outbound
+777-11,BL-WAK,SCI,AB126,Wed,CCP,SCI,12:00,19:30,9.0,Concepción daily return — morning departure from CCP
+777-12,BL-WAL,SCI,AB127,Wed,SCI,NVA,23:00,09:30+1,8.5,Alessandria daily outbound — overnight outbound
+777-12,BL-WAL,SCI,AB128,Wed,NVA,SCI,12:30,19:00,8.5,Alessandria daily return — morning departure from NVA
+777-11,BL-WAK,SCI,AB125,Thu,SCI,CCP,22:00,09:30+1,9.0,Concepción daily outbound — overnight outbound
+777-11,BL-WAK,SCI,AB126,Thu,CCP,SCI,12:00,19:30,9.0,Concepción daily return — morning departure from CCP
+777-12,BL-WAL,SCI,AB127,Thu,SCI,NVA,23:00,09:30+1,8.5,Alessandria daily outbound — overnight outbound
+777-12,BL-WAL,SCI,AB128,Thu,NVA,SCI,12:30,19:00,8.5,Alessandria daily return — morning departure from NVA
+777-11,BL-WAK,SCI,AB125,Fri,SCI,CCP,22:00,09:30+1,9.0,Concepción daily outbound — overnight outbound
+777-11,BL-WAK,SCI,AB126,Fri,CCP,SCI,12:00,19:30,9.0,Concepción daily return — morning departure from CCP
+777-12,BL-WAL,SCI,AB127,Fri,SCI,NVA,23:00,09:30+1,8.5,Alessandria daily outbound — overnight outbound
+777-12,BL-WAL,SCI,AB128,Fri,NVA,SCI,12:30,19:00,8.5,Alessandria daily return — morning departure from NVA
+777-11,BL-WAK,SCI,AB125,Sat,SCI,CCP,22:00,09:30+1,9.0,Concepción daily outbound — overnight outbound
+777-11,BL-WAK,SCI,AB126,Sat,CCP,SCI,12:00,19:30,9.0,Concepción daily return — morning departure from CCP
+777-12,BL-WAL,SCI,AB127,Sat,SCI,NVA,23:00,09:30+1,8.5,Alessandria daily outbound — overnight outbound
+777-12,BL-WAL,SCI,AB128,Sat,NVA,SCI,12:30,19:00,8.5,Alessandria daily return — morning departure from NVA
+777-11,BL-WAK,SCI,AB125,Sun,SCI,CCP,22:00,09:30+1,9.0,Concepción daily outbound — overnight outbound
+777-11,BL-WAK,SCI,AB126,Sun,CCP,SCI,12:00,19:30,9.0,Concepción daily return — morning departure from CCP
+777-12,BL-WAL,SCI,AB127,Sun,SCI,NVA,23:00,09:30+1,8.5,Alessandria daily outbound — overnight outbound
+777-12,BL-WAL,SCI,AB128,Sun,NVA,SCI,12:30,19:00,8.5,Alessandria daily return — morning departure from NVA

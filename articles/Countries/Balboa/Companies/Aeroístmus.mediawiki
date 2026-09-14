@@ -17,8 +17,8 @@
 | bases = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | hubs = [[Sant Cristòfor International Airport|Sant Cristòfor]]<br>[[Cecilio Ríos International Airport|Sant Bart]]
 | alliance = [[Adonian Arrow]]
-| fleet_size = 59
-| destinations = 47
+| fleet_size = 61
+| destinations = 49
 | parent = Aeroístmus S.A.
 | traded_as = {{ubl|SCX: AER|[[Bolsa de Sant Cristòfor]]}}
 | headquarters = [[Sant Cristòfor]], [[Sant Cristòfor (comarca)|Sant Cristòfor comarca]], [[Estret Province]], [[Balboa]]
@@ -68,7 +68,7 @@ In the 2000s, Aeroístmus continued to modernise its fleet, replacing the Boeing
 
 == Destinations ==
 
-Aeroístmus operates 47 destinations: 22 domestic and 25 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
+Aeroístmus operates 49 destinations: 22 domestic and 27 international, with service to Sayara–Tanjung Emasan scheduled to begin on 1 October 2026. The airline's route network is structured around its two hubs at [[Sant Cristòfor International Airport|Sant Cristòfor]] (SCI) and [[Cecilio Ríos International Airport|Sant Bart]] (SBT), with long-haul international services concentrated at SCI and domestic trunk services shared between both hubs.
 
 {| class="wikitable sortable"
 |-
@@ -120,7 +120,11 @@ Aeroístmus operates 47 destinations: 22 domestic and 25 international, with ser
 |-
 |[[Asikyira]]|| Sanu-Sasso ||[[Sanu-Sasso Airport|Sanu-Sasso]]||
 |-
-|[[Balisca]]|| Castejón ||[[Concordia International Airport|Castejón]]||
+|[[Balisca]]|| Alessandria ||[[Novalia International Airport|Alessandria]]||
+|-
+|| Castejón ||[[Concordia International Airport|Castejón]]||
+|-
+|| Concepción ||[[Concepción International Airport|Concepción]]||
 |-
 || Macaio ||[[Solana International Airport|Macaio]]||
 |-
@@ -179,7 +183,7 @@ Through its membership in the [[Adonian Arrow]] alliance, Aeroístmus maintains 
 
 The codeshare with [[Sanesair]] provides a connecting sector from [[Okami-Tobu International Airport|Okami-Tobu]] to [[Akyatan Airport|Akyatan]] in [[Dagit]]. The through-fare service, marketed under Aeroístmus flight numbers, connects the Balboan Dagit community with the isthmus via the Okami hub. Sanesair operates the sector using a {{w|Boeing 787 Dreamliner|787-9}} and provides onward connectivity to its network from Okami.
 
-The codeshare with [[Baliscana]] covers connecting services beyond [[Castejón]] and [[Macaio]] into the Baliscan domestic network. Aeroístmus operates its own twice-daily widebody service from [[Sant Cristòfor International Airport|Sant Cristòfor]] to Macaio's [[Solana International Airport]], and Baliscana operates its own flights from Sant Cristòfor to Castejón and Macaio; the codeshare allows Aeroístmus passengers to book through-fare connections to destinations across the [[Balisca|Baliscan Confederation]] under Aeroístmus flight numbers.
+The codeshare with [[Baliscana]] covers connecting services beyond [[Castejón]] and [[Macaio]] into the Baliscan domestic network. Aeroístmus operates its own twice-daily widebody service from [[Sant Cristòfor International Airport|Sant Cristòfor]] to Macaio's [[Solana International Airport]], together with daily widebody service to [[Novalia International Airport|Alessandria]] and [[Concepción International Airport|Concepción]], and Baliscana operates its own flights from Sant Cristòfor to Castejón and Macaio; the codeshare allows Aeroístmus passengers to book through-fare connections to destinations across the [[Balisca|Baliscan Confederation]] under Aeroístmus flight numbers.
 
 == Fleet ==
 
@@ -282,14 +286,14 @@ As of December 2025, Aeroístmus operates the following aircraft:
 | Standard configuration used on the Huwei business route.
 |-
 | {{w|Boeing 777|Boeing 777-300ER}}
-| 10
+| 12
 | —
 | 8
 | 32
 | 36
 | 198
 | 274
-| Mixed long-haul configuration used by all ten aircraft.
+| Mixed long-haul configuration used by all twelve aircraft.
 |-
 | {{w|Airbus A350|Airbus A350-900}}
 | —

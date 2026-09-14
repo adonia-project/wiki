@@ -6,9 +6,9 @@
 - Parent: Aeroístmus S.A., publicly traded on Bolsa de Sant Cristòfor (SCX: AER)
 - HQ: Sant Cristòfor, Estret Province
 - Hubs: SCI (Sant Cristòfor), SBT (Sant Bart)
-- Fleet: 59 total (8 A320-200 + 18 A321neo + 6 A330-300 + 1 A330-900 + 4 787-9 + 10 777-300ER + 11 ATR 72-600 + 1 777F); 2 ATR 72-600 dry-leased to AeroTerminus
+- Fleet: 61 total (8 A320-200 + 18 A321neo + 6 A330-300 + 1 A330-900 + 4 787-9 + 12 777-300ER + 11 ATR 72-600 + 1 777F); 2 ATR 72-600 dry-leased to AeroTerminus
 - On order: 20 A321neo, 14 A330-900, 10 A350-900, 3 ATR 72-600
-- Destinations: 47 (22 domestic + 25 international)
+- Destinations: 49 (22 domestic + 27 international)
 - Employees: ~1,150
 - Revenue: ~B420 million (2024)
 
@@ -100,6 +100,8 @@ Block time = flight time + turnaround (30 min narrowbody, 45 min ATR, 60 min wid
 | Guledga | Lacashe | 3,268 km | 4h | B | Cities in Adonia |
 | Castejón | Balisca | 5,154 km | 6h 30min | B | Cities in Adonia |
 | Macaio (Solana) | Balisca | 4,004 km | 4h 45min | B | User-provided coordinates (36°46′34.36″N 92°52′12.00″W / -92.8700°, 36.7762°, Solana International Airport) |
+| Alessandria (Novalia) | Balisca | ~7,067 km | 8h 30min | B | PROVISIONAL city coords (-29.5, -35.5) — Alessandria has no coordinates on wiki/GIS; needs user confirmation |
+| Concepción | Balisca | 7,502 km | 9h | B | TALOD wiki city coords (-43.50, -36.80) |
 | Hargiesa | Galwa | 7,504 km | 9h | C | Cities in Adonia |
 | Ampuria | Volisania | 9,152 km | 11h | C | POI shapefile (Ampuria International Airport, -13.0953°, -23.6478°) |
 | Kankadadka | Burawa | 8,872 km | 11h | C | Cities in Adonia |
@@ -338,6 +340,7 @@ Note: Castejón has 2x daily A330 service. Ampuria (business hub) is served dail
 - 2020–2022: Pandemic refit — all 5 aircraft refurbished with current product line (BL-F-1, BL-J-1, BL-W-1, BL-Y-1/BL-Y-2). Premium economy (BL-W-1) added during this refit. BL-WAD configured as business-heavy for Okami; BL-WAA/WAB/WAC/WAE configured as mixed for Miyagami/Ampuria/Iskhal.
 - 2024: BL-WAF and BL-WAG delivered (6th and 7th 777-300ER for Aoyama-Maekawa 2x daily expansion)
 - 2026: BL-WAH and BL-WAI delivered (8th and 9th 777-300ER for Mariapolis route)
+- 2026: BL-WAK and BL-WAL delivered (11th and 12th 777-300ER for Concepción and Alessandria routes)
 - 2024–present: A350-900 on order to eventually replace 777-300ER (planned full-height suite first class product)
 
 **Fleet requirement justification:**
@@ -346,8 +349,24 @@ Note: Castejón has 2x daily A330 service. Ampuria (business hub) is served dail
 - 2 aircraft (WAC/WAE) for daily Okami: each does 1 RT every ~2 days (~14h/aircraft/day)
 - 1 aircraft (WAD) for daily Ampuria (777): 22h/day utilization, continuous rotation
 - 2 aircraft (WAH/WAI) for daily Mariapolis: each does same-day RT every 2 days (~13h/aircraft/day)
-- Total: 9 aircraft, 8 effective × 14h = 112h/day capacity vs ~111h/day scheduled
-- **Headroom: ~1h/day** — tight but manageable with maintenance scheduling
+- 1 aircraft (WAK) for daily Concepción: single-aircraft continuous rotation, ~21h/day (Ampuria BL-WAD precedent)
+- 1 aircraft (WAL) for daily Alessandria: single-aircraft continuous rotation, ~20h/day
+- Total: 12 aircraft, 11 effective × 14h = 154h/day capacity vs ~152h/day scheduled
+- **Headroom: ~2h/day** — tight but manageable with maintenance scheduling
+
+**Route table (777-300ER):**
+
+| Route | Distance | Flight time | Frequency | Sectors/day | Block hrs/day |
+|------|----------|------------|------------|-------------|---------------|
+| SCI↔Aoyama-Maekawa | 10,129 km | 12h | 2x daily | 4 | 48.0 |
+| SCI↔Okami | 11,873 km | 14h | daily | 2 | 28.0 |
+| SCI↔Ampuria | 9,152 km | 11h | daily | 2 | 22.0 |
+| SCI↔Mariapolis | 10,729 km | 13h | daily | 2 | 26.0 |
+| SCI↔Concepción | 7,502 km | 9h | daily | 2 | 18.0 |
+| SCI↔Alessandria | ~7,067 km | 8h 30min | daily | 2 | 17.0 |
+| **Total** | | | | **14** | **159.0** |
+
+Note: block hrs in the route table are flight-time only; with turnarounds, the single-aircraft rotations (Concepción ~21h/day, Alessandria ~20h/day) consume nearly the whole day, matching the Ampuria BL-WAD continuous-rotation precedent. Iskhal is served 1x weekly by BL-WAE (shared with Okami rotation).
 
 Two subfleets with different configurations:
 
@@ -391,7 +410,39 @@ Two subfleets with different configurations:
 | Economy | BL-Y-2 | 3-3-3 | 33" | 18" | 198 |
 | **Total** | | | | | **274** |
 
-**Registrations:** BL-WAA, BL-WAB, BL-WAC (Aoyama-Maekawa), BL-WAD (Ampuria), BL-WAE (Okami), BL-WAF, BL-WAG (Aoyama-Maekawa overnight), BL-WAH, BL-WAI (Mariapolis)
+**Registrations:** BL-WAA, BL-WAB, BL-WAC (Aoyama-Maekawa), BL-WAD (Ampuria), BL-WAE (Okami), BL-WAF, BL-WAG (Aoyama-Maekawa overnight), BL-WAH, BL-WAI (Mariapolis), BL-WAJ (Ampuria rotation share), BL-WAK (Concepción), BL-WAL (Alessandria)
+
+**Concepción (mixed) — BL-WAK:**
+
+| Class | Seat type | Layout | Pitch | Width | Seats |
+|-------|-----------|--------|-------|-------|-------|
+| First | BL-F-1 | 1-2-1 | 84" | 29" | 8 |
+| Business | BL-J-1 | 1-2-1 herringbone | 76" | 21" | 32 |
+| Economy+ | BL-W-1 | 2-4-2 | 38" | 18.5" | 36 |
+| Economy | BL-Y-2 | 3-3-3 | 33" | 18" | 198 |
+| **Total** | | | | | **274** |
+
+**Alessandria (mixed) — BL-WAL:** same mixed configuration as BL-WAK (274 seats).
+
+**Concepción route schedule (AB125/126, daily, 777-11 / BL-WAK):**
+
+| Flight | From | To | Depart | Arrive | Block |
+|--------|------|----|--------|--------|-------|
+| AB125 | SCI | CCP | 22:00 | 09:30+1 | 9h 00min |
+| AB126 | CCP | SCI | 12:00 | 19:30 | 9h 00min |
+
+Balisca is UTC-3 (BST), SCI is UTC-5 — 2h time difference. Single-aircraft continuous rotation: AB125 arrives 09:30, turns in 2h 30min, AB126 departs 12:00, arrives SCI 19:30, turns 2h 30min for next day's 22:00 departure (~21h/day utilization).
+
+**Alessandria route schedule (AB127/128, daily, 777-12 / BL-WAL):**
+
+| Flight | From | To | Depart | Arrive | Block |
+|--------|------|----|--------|--------|-------|
+| AB127 | SCI | NVA | 23:00 | 09:30+1 | 8h 30min |
+| AB128 | NVA | SCI | 12:30 | 19:00 | 8h 30min |
+
+Single-aircraft continuous rotation: AB127 arrives 09:30, turns 3h, AB128 departs 12:30, arrives SCI 19:00, turns 4h for next day's 23:00 departure (~20h/day utilization).
+
+**Note on coordinates:** Concepción city coords from TALOD wiki (-43.50, -36.80) → 7,502 km, 9h block. Alessandria has no coordinates on the wiki or in GIS shapefiles — provisional estimate (-29.5, -35.5) → ~7,067 km, 8h 30min block; **needs user confirmation**.
 
 ### Seat type catalogue
 
@@ -810,9 +861,11 @@ Time zones: SCI = UTC-5, MAR = UTC-1 (4h difference).
 | SCI↔Okami | daily | 2.0 | 28.0 |
 | SCI↔Ampuria | daily | 2.0 | 22.0 |
 | SCI↔Mariapolis | daily | 2.0 | 26.0 |
-| **Total** | | **~10.0** | **~124.0** |
+| SCI↔Concepción | daily | 2.0 | 18.0 |
+| SCI↔Alessandria | daily | 2.0 | 17.0 |
+| **Total** | | **~14.0** | **~159.0** |
 
-Fleet needed: 9 aircraft (2 for Aoyama-Maekawa daytime + 2 for Aoyama-Maekawa overnight + 2 for Okami + 1 for Ampuria + 2 for Mariapolis). At 8 effective × 14h = 112h/day — tight utilization.
+Fleet needed: 12 aircraft (2 for Aoyama-Maekawa daytime + 2 for Aoyama-Maekawa overnight + 2 for Okami + 1 for Ampuria + 2 for Mariapolis + 1 for Concepción + 1 for Alessandria). At 11 effective × 14h = 154h/day — tight utilization; Concepción and Alessandria run as single-aircraft continuous rotations (~21h and ~20h/day respectively, Ampuria BL-WAD precedent).
 Codeshare: Sanesair operates Okami→Akyatan (Dagit) sector — no Aeroístmus aircraft needed for Akyatan.
 Time zones: SCI = UTC-5, MAR (Mariapolis) = UTC-1.
 Full schedule: See `Aeroístmus 777 schedule.csv`
@@ -824,8 +877,8 @@ Full schedule: See `Aeroístmus 777 schedule.csv`
 | ATR 72-600 | 11 | 11 | ~0 | Vellmar & Portblanc moved to A321; ~29.6h/day vs 32h capacity |
 | A321 | 18 | 18 | ~0 | 4 J/W/Y (198 seats) + 4 W/Y (204 seats); ~77.4h/day vs 84h capacity |
 | A330 | 6 | 6 | ~0 | Castejón 2x daily + Hargiesa 3x weekly + Port Soledat daily (SCI+SBT) + SBT-Castejón 2x weekly = 51.4h; ~11.6h spare |
-| 777-300ER | 9 | 9 | ~0 | 2 for Aoyama-Maekawa daytime + 2 for Aoyama-Maekawa overnight + 2 for Okami + 1 for Ampuria + 2 for Mariapolis |
-| **Total** | **23** | **22-24** | **+1 to +3** | Vellmar & Portblanc moved from ATR to A321 W/Y |
+| 777-300ER | 12 | 12 | ~0 | 2 for Aoyama-Maekawa daytime + 2 for Aoyama-Maekawa overnight + 2 for Okami + 1 for Ampuria + 2 for Mariapolis + 1 for Concepción + 1 for Alessandria |
+| **Total** | **26** | **25-27** | **+1 to +3** | Vellmar & Portblanc moved from ATR to A321 W/Y |
 
 ### Key observations
 
