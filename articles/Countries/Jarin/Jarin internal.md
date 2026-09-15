@@ -37,7 +37,7 @@ In the early 19th century, Jarin was the home of the [[United Kingdom of Jarin a
 The Jarin–Itegar period is the clearest sign in the repository that modern Jarin should be presented not just as a territorial unit, but as a historically layered state with a distinct constitutional and religious development.
 
 ### Personal union with Burawa
-During the [[Constitutional Era of Burawa]], Burawa entered into a personal union with the [[Kingdom of Jarin]] through the marriage of [[Nuur V]] to the Princess of Jarin. The union did not create formal political integration, but it aligned Jarin's foreign policy with Burawi interests and strengthened the eastern frontier balance.
+During the [[History of Burawa (1743-1800)|Constitutional Era of Burawa]], Burawa entered into a personal union with the [[Kingdom of Jarin]] through the marriage of [[Nuur V]] to the Princess of Jarin. The union did not create formal political integration, but it aligned Jarin's foreign policy with Burawi interests and strengthened the eastern frontier balance.
 
 This is one of the main historical hooks tying Jarin to the broader Burawi story.
 

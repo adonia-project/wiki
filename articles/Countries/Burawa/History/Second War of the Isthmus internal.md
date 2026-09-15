@@ -91,7 +91,7 @@
 - Whether the Sinchewese territorial strip has a specific name
 
 ## Related Pages
-- `Countries/Burawa/History/Four House Era.mediawiki` (First War of the Isthmus section)
+- `Countries/Burawa/History/History of Burawa (1709-1743).mediawiki` (First War of the Isthmus section)
 - `Countries/Burawa/People/Maana Kadar.mediawiki` (Second War of the Isthmus section)
 - `Countries/Daras/History/Zong blockade of Daras.mediawiki` (references Zong's dominance)
 - `Countries/Balisca/Places/Hesperia.mediawiki` (First War context)

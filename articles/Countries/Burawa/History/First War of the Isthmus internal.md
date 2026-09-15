@@ -321,7 +321,7 @@
 7. Proposed names still unconfirmed by user: Jordi de Montclar (Balboan colonial governor), Tân Bûn-seng (Governor of Sinchew), Lim Kiat-seng (visiting Royal Zong Navy admiral) — all invented, pending user confirmation.
 
 ## Sources
-- `articles/Countries/Burawa/History/Four House Era.mediawiki` (lines 41-59) — most detailed existing summary
+- `articles/Countries/Burawa/History/History of Burawa (1709-1743).mediawiki` (lines 41-59) — most detailed existing summary
 - `articles/Countries/Zong/History/History of Zong (1606-1711).mediawiki` (lines 163-179) — causes and Zong perspective
 - `articles/Countries/Burawa/History/Second War of the Isthmus.mediawiki` — structural template, infobox format
 - `articles/Countries/Guajicutea/History/History of Guajicutea (1705-1723).mediawiki` (lines 32-44) — Guajicutea involvement
