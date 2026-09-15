@@ -33,8 +33,8 @@ Distances calculated from great-circle measurement using coordinates from the "C
 | Ominira | Bolodun and Kuvari Islands | -71.283, 4.383 | 2,604 km | 3h 05min |
 | Sanu-Sasso | Lacashe | TBD | ~3,568 km | 4h 30min |
 | Macaio (Solana Int'l) | Balisca | -92.8700, 36.7762 | 4,004 km | 4h 45min |
+| Alessandria (Novalia) | Balisca | -78.4080, 41.6869 | 4,825 km | 6h |
 | Castejón | Balisca | -57.3787, 31.0798 | 5,154 km | 6h 30min |
-| Alessandria (Novalia) | Balisca | -35.5, -29.5 (PROVISIONAL) | ~7,067 km | 8h 30min |
 | Concepción | Balisca | -36.80, -43.50 | 7,502 km | 9h |
 | Hargiesa | Galwa | -27.6078, -11.4083 | 7,504 km | 9h |
 | Ampuria | Volisania | -13.0953, -23.6478 | 9,152 km | 11h |

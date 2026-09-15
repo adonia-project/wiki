@@ -100,7 +100,7 @@ Block time = flight time + turnaround (30 min narrowbody, 45 min ATR, 60 min wid
 | Guledga | Lacashe | 3,268 km | 4h | B | Cities in Adonia |
 | Castejón | Balisca | 5,154 km | 6h 30min | B | Cities in Adonia |
 | Macaio (Solana) | Balisca | 4,004 km | 4h 45min | B | User-provided coordinates (36°46′34.36″N 92°52′12.00″W / -92.8700°, 36.7762°, Solana International Airport) |
-| Alessandria (Novalia) | Balisca | ~7,067 km | 8h 30min | B | PROVISIONAL city coords (-29.5, -35.5) — Alessandria has no coordinates on wiki/GIS; needs user confirmation |
+| Alessandria (Novalia) | Balisca | 4,825 km | 6h | B | User-provided coordinates (41°41′12.70″N 78°24′28.80″W / -78.4080°, 41.6869°) |
 | Concepción | Balisca | 7,502 km | 9h | B | TALOD wiki city coords (-43.50, -36.80) |
 | Hargiesa | Galwa | 7,504 km | 9h | C | Cities in Adonia |
 | Ampuria | Volisania | 9,152 km | 11h | C | POI shapefile (Ampuria International Airport, -13.0953°, -23.6478°) |
@@ -350,9 +350,9 @@ Note: Castejón has 2x daily A330 service. Ampuria (business hub) is served dail
 - 1 aircraft (WAD) for daily Ampuria (777): 22h/day utilization, continuous rotation
 - 2 aircraft (WAH/WAI) for daily Mariapolis: each does same-day RT every 2 days (~13h/aircraft/day)
 - 1 aircraft (WAK) for daily Concepción: single-aircraft continuous rotation, ~21h/day (Ampuria BL-WAD precedent)
-- 1 aircraft (WAL) for daily Alessandria: single-aircraft continuous rotation, ~20h/day
-- Total: 12 aircraft, 11 effective × 14h = 154h/day capacity vs ~152h/day scheduled
-- **Headroom: ~2h/day** — tight but manageable with maintenance scheduling
+- 1 aircraft (WAL) for daily Alessandria: single-aircraft rotation with same-day return, ~15h/day
+- Total: 12 aircraft, 11 effective × 14h = 154h/day capacity vs ~150h/day scheduled
+- **Headroom: ~4h/day** — tight but manageable with maintenance scheduling
 
 **Route table (777-300ER):**
 
@@ -363,10 +363,10 @@ Note: Castejón has 2x daily A330 service. Ampuria (business hub) is served dail
 | SCI↔Ampuria | 9,152 km | 11h | daily | 2 | 22.0 |
 | SCI↔Mariapolis | 10,729 km | 13h | daily | 2 | 26.0 |
 | SCI↔Concepción | 7,502 km | 9h | daily | 2 | 18.0 |
-| SCI↔Alessandria | ~7,067 km | 8h 30min | daily | 2 | 17.0 |
-| **Total** | | | | **14** | **159.0** |
+| SCI↔Alessandria | 4,825 km | 6h | daily | 2 | 12.0 |
+| **Total** | | | | **14** | **154.0** |
 
-Note: block hrs in the route table are flight-time only; with turnarounds, the single-aircraft rotations (Concepción ~21h/day, Alessandria ~20h/day) consume nearly the whole day, matching the Ampuria BL-WAD continuous-rotation precedent. Iskhal is served 1x weekly by BL-WAE (shared with Okami rotation).
+Note: block hrs in the route table are flight-time only. Concepción runs as a single-aircraft continuous rotation (~21h/day, Ampuria BL-WAD precedent). Alessandria's shorter block (6h) allows a same-day round trip with generous ground time at both ends (~15h/day utilization). Iskhal is served 1x weekly by BL-WAE (shared with Okami rotation).
 
 Two subfleets with different configurations:
 
@@ -437,12 +437,12 @@ Balisca is UTC-3 (BST), SCI is UTC-5 — 2h time difference. Single-aircraft con
 
 | Flight | From | To | Depart | Arrive | Block |
 |--------|------|----|--------|--------|-------|
-| AB127 | SCI | NVA | 23:00 | 09:30+1 | 8h 30min |
-| AB128 | NVA | SCI | 12:30 | 19:00 | 8h 30min |
+| AB127 | SCI | NVA | 09:00 | 15:00 | 6h |
+| AB128 | NVA | SCI | 17:00 | 23:00 | 6h |
 
-Single-aircraft continuous rotation: AB127 arrives 09:30, turns 3h, AB128 departs 12:30, arrives SCI 19:00, turns 4h for next day's 23:00 departure (~20h/day utilization).
+Balisca is UTC-3 (BST), SCI is UTC-5 — 2h time difference (local times shown). AB127 departs 09:00, arrives 15:00 local; turns 2h; AB128 departs 17:00, arrives SCI 23:00 local; overnight ground time ~10h before next day's departure (~15h/day utilization, same-day round trip).
 
-**Note on coordinates:** Concepción city coords from TALOD wiki (-43.50, -36.80) → 7,502 km, 9h block. Alessandria has no coordinates on the wiki or in GIS shapefiles — provisional estimate (-29.5, -35.5) → ~7,067 km, 8h 30min block; **needs user confirmation**.
+**Note on coordinates:** Concepción city coords from TALOD wiki (-43.50, -36.80) → 7,502 km, 9h block. Alessandria: user-provided coordinates (41°41′12.70″N 78°24′28.80″W / -78.4080°, 41.6869°) → 4,825 km, 6h block.
 
 ### Seat type catalogue
 
@@ -862,10 +862,10 @@ Time zones: SCI = UTC-5, MAR = UTC-1 (4h difference).
 | SCI↔Ampuria | daily | 2.0 | 22.0 |
 | SCI↔Mariapolis | daily | 2.0 | 26.0 |
 | SCI↔Concepción | daily | 2.0 | 18.0 |
-| SCI↔Alessandria | daily | 2.0 | 17.0 |
-| **Total** | | **~14.0** | **~159.0** |
+| SCI↔Alessandria | daily | 2.0 | 12.0 |
+| **Total** | | **~14.0** | **~154.0** |
 
-Fleet needed: 12 aircraft (2 for Aoyama-Maekawa daytime + 2 for Aoyama-Maekawa overnight + 2 for Okami + 1 for Ampuria + 2 for Mariapolis + 1 for Concepción + 1 for Alessandria). At 11 effective × 14h = 154h/day — tight utilization; Concepción and Alessandria run as single-aircraft continuous rotations (~21h and ~20h/day respectively, Ampuria BL-WAD precedent).
+Fleet needed: 12 aircraft (2 for Aoyama-Maekawa daytime + 2 for Aoyama-Maekawa overnight + 2 for Okami + 1 for Ampuria + 2 for Mariapolis + 1 for Concepción + 1 for Alessandria). At 11 effective × 14h = 154h/day — tight utilization; Concepción runs a single-aircraft continuous rotation (~21h/day, Ampuria BL-WAD precedent), while Alessandria's 6h block allows a same-day round trip (~15h/day).
 Codeshare: Sanesair operates Okami→Akyatan (Dagit) sector — no Aeroístmus aircraft needed for Akyatan.
 Time zones: SCI = UTC-5, MAR (Mariapolis) = UTC-1.
 Full schedule: See `Aeroístmus 777 schedule.csv`
