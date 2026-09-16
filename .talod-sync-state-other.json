@@ -89,6 +89,31 @@
     "hash": "7b944816f2cf2f111130269a56f6920a15384d985892fe092fe08c3535f58446",
     "last_sync": "2026-08-19T00:21:55.816133+00:00"
   },
+  "Abyala": {
+    "direction": "pull",
+    "hash": "05a5755402eb199f5b8f1939eb191da57b841243cf440f6cb13ab82762c04ca8",
+    "last_sync": "2026-09-16T18:25:56.600397+00:00"
+  },
+  "AeroPlay": {
+    "direction": "push",
+    "hash": "b4240f40eb0a785852348ea4c263e1c8f3c54383338ecbf88494dba53bc05c4a",
+    "last_sync": "2026-09-14T23:19:57.914563+00:00"
+  },
+  "Badweyn Islands": {
+    "direction": "push",
+    "hash": "e7a751addb80ac6535b6818952f70e2f00def4b30d3f23458765da89166bf5b3",
+    "last_sync": "2026-09-15T23:27:37.185730+00:00"
+  },
+  "Capuyaquiran League": {
+    "direction": "push",
+    "hash": "189a7430b21766c6adeb55edab97c2a17a004ad41a79e72dd5a37c1efeb46947",
+    "last_sync": "2026-09-16T17:25:12.978009+00:00"
+  },
+  "Catholicism": {
+    "direction": "push",
+    "hash": "8e2c0b98bc89d5b177310dcf162180f57b1c74d98263cc03a76fc8b322026cf0",
+    "last_sync": "2026-09-04T23:51:47.969566+00:00"
+  },
   "Discovery of nuclear fission": {
     "direction": "push",
     "hash": "fe70f494b907603ae1f450568ec7452d18c690316777d0095c5d39a89c071d6d",
