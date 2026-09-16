@@ -35,7 +35,26 @@ The name Abyala is the [[Mesogeans|Mesogeanized]] form of ''Abya Yala'', which c
 
 == Political geography ==
 
-Abyala contains 14 sovereign countries and seven dependent territories. The continent's sovereign states include [[Guajicutea]], the [[United Commonwealth Republic]] (UCR), [[Narubi]], and the [[Bolodun and Kuvari Islands]].
+Abyala contains 14 sovereign countries and seven dependent territories.
+
+=== Countries ===
+
+{| class="wikitable sortable"
+! Country
+! Notes
+|-
+| [[Guajicutea]]
+| Sovereign island country
+|-
+| [[United Commonwealth Republic]] (UCR)
+| Sovereign country
+|-
+| [[Narubi]]
+| Sovereign country
+|-
+| [[Bolodun and Kuvari Islands]]
+| Sovereign island country
+|}
 
 == Integration ==
 
