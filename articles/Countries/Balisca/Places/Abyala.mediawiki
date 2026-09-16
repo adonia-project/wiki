@@ -5,7 +5,7 @@
 |population          = 526,786,672 (2025, [[List of continents by population|4th]])
 |density             = {{convert|28.58|/km2|/sqmi|abbr=on}}
 |demonym             = [[Ethnic groups in Abyala|Abyalan]]
-|countries           = 14 countries
+|countries           = 12 countries
 |ethnic_groups = * [[w:Indigenous peoples of South America|Indigenous peoples]]
 * [[w:Asian people|Fosian]]s
 * [[w:Afro–Latin Americans|Kaftian]]s
@@ -13,7 +13,7 @@
 |list_countries      = List of Abyalan countries
 |dependencies        = [[List of Abyalan countries#Dependent territories|7 dependencies]]
 |languages           = [[Languages of Abyala|~225 languages]]
-|time                = [[UTC]] to [[UTC+5]]
+|time                = [[UTC]] to UTC+5
 |internet            = [[.abyala]]
 |cities              = [[List of the largest cities in Abyala|List of urban areas]]
 }}
@@ -34,44 +34,36 @@ The name Abyala is the [[Mesogeans|Mesogeanized]] form of ''Abya Yala'', which c
 === Biodiversity ===
 
 == Political geography ==
-
-Abyala contains 18 sovereign countries and seven dependent territories.
+Abyala contains 12 sovereign countries and seven dependent territories.
 
 === Countries ===
-
-{| class="wikitable sortable"
-! Country
-! Notes
+{| class="sortable wikitable"
 |-
-| [[Balboa]]
-| Sovereign country
+! Flag !! Arms !! Name !! Area (km²) !! Population !! Population density (per km²) !! Capital !! Name(s) in official language(s)
 |-
-| [[Balisca]]
-| Sovereign country
+| {{flag|Asikyira}} || [[File:Coat of Arms of Asikyira.svg|20px]] || [[Asikyira]] || 674,224.72 || 35,672,891 || 52.9 || [[Sanu-Sasso]] || TBD
 |-
-| [[Potocsí]]
-| Sovereign country
+| {{flag|Balboa}} || [[File:Coat of arms of Balboa.svg|20px]] || [[Balboa]] || 296,085.38 || 35,234,000 || 119.0 || [[Sant Cristòfor]] || TBD
 |-
-| [[Tapuya]]
-| Sovereign country
+| {{flag|Balisca}} || [[File:Coat of Arms of Balisca.svg|20px]] || [[Balisca]] || 4,705,002.03 || 216,348,873 || 46.0 || [[Castejón]] || TBD
 |-
-| [[Asikyira]]
-| Sovereign country
+| {{flag|Tosaquia}} || [[File:Coats of arms of None.svg|20px]] || [[Tosaquia]] || 701,890.02 || TBD || TBD || TBD || TBD
 |-
-| [[Lacashe]]
-| Sovereign country
+| {{flag|Lacashe}} || [[File:Coats of arms of None.svg|20px]] || [[Lacashe]] || 221,514.03 || 8,000,000 || 36.1 || [[Guledga]] || TBD
 |-
-| [[Guajicutea]]
-| Sovereign island country
+| {{flag|Lekkunto}} || [[File:Coats of arms of None.svg|20px]] || [[Lekkunto]] || 78.96 || TBD || TBD || TBD || TBD
 |-
-| [[United Commonwealth Republic]] (UCR)
-| Sovereign country
+| {{flag|Potocsí}} || [[File:Coat of arms of Potocsí.svg|20px]] || [[Potocsí]] || 2,464,327.46 || 72,647,838 || 29.5 || [[Port Soledat]] || TBD
 |-
-| [[Narubi]]
-| Sovereign country
+| {{flag|Tapuya}} || [[File:Coats of arms of None.svg|20px]] || [[Tapuya]] || 1,358,830.23 || TBD || TBD || TBD || TBD
 |-
-| [[Bolodun and Kuvari Islands]]
-| Sovereign island country
+| {{flag|Guajicutea}} || [[File:Coats of arms of None.svg|20px]] || [[Guajicutea]] || TBD || TBD || TBD || TBD || TBD
+|-
+| {{flag|United Commonwealth Republic}} || [[File:Coats of arms of None.svg|20px]] || [[United Commonwealth Republic]] (UCR) || TBD || TBD || TBD || TBD || TBD
+|-
+| {{flag|Narubi}} || [[File:Coats of arms of None.svg|20px]] || [[Narubi]] || TBD || TBD || TBD || TBD || TBD
+|-
+| {{flag|Bolodun and Kuvari Islands}} || [[File:Coats of arms of None.svg|20px]] || [[Bolodun and Kuvari Islands]] || TBD || 115,593 || TBD || [[Ominira]] || TBD
 |}
 
 == Integration ==
