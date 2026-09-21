@@ -17,7 +17,7 @@
 
 ## Timeline
 - 1538: Tamsui founded
-- 1543: Tamsui Insurgency, colonial split (Sinchew/Louyang)
+- 1543: Tamsui Plot, colonial split (Sinchew/Louyang)
 - 1538–1560s: Colonial consolidation, indigenous wars
 - 1560: Tianhao accedes
 - 1564: Great Disappointment — Volisanians discover Zong colonies

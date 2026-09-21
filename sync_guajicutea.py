@@ -59,6 +59,7 @@ WIKI_URL = os.environ.get("WIKI_URL", "talod.miraheze.org")
 WIKI_USERNAME = os.environ.get("WIKI_USERNAME", "")
 WIKI_PASSWORD = os.environ.get("WIKI_PASSWORD", "")
 GUAJICUTEA_DIR = REPO_ROOT / os.environ.get("GUAJICUTEA_DIR", "articles/Countries/Guajicutea")
+EXTRA_ARTICLE_DIRS = [REPO_ROOT / "articles/Countries/Kartak", REPO_ROOT / "articles/Countries/United Capuyaquiran Republic", REPO_ROOT / "articles/Countries/Narubi", REPO_ROOT / "articles/Countries/Bolodun and Kuvari Islands"]
 
 # Summary comment for bot edits
 EDIT_SUMMARY = "Sync from local repository via sync-bot"
@@ -75,11 +76,14 @@ def content_hash(text):
     return hashlib.sha256(normalized.encode("utf-8")).hexdigest()
 
 def get_local_files():
-    """Find all .mediawiki files under the Guajicutea directory."""
+    """Find all .mediawiki files under the Guajicutea directory and extra country dirs."""
     files = {}
-    for path in GUAJICUTEA_DIR.rglob("*.mediawiki"):
-        page_name = path.stem
-        files[page_name] = path
+    for root in [GUAJICUTEA_DIR] + EXTRA_ARTICLE_DIRS:
+        if not root.exists():
+            continue
+        for path in root.rglob("*.mediawiki"):
+            page_name = path.stem
+            files[page_name] = path
     return files
 
 def load_sync_state():
@@ -255,7 +259,7 @@ def do_push(site, state, page_names=None):
     local_files = get_local_files()
     if page_names is None:
         to_push, _, conflicts, new_pages = do_status(site, state)
-        to_push = to_push + conflicts + new_pages
+        to_push = to_push + new_pages
     else:
         to_push = page_names
 

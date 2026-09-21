@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Narubi
+| flag alias = Flag of Narubi.svg
+| link alias-football = Narubi national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| redir1 = NAR
+<noinclude>
+| related1 = Bolodun and Kuvari Islands
+| related2 = United Capuyaquiran Republic
+| related3 = Capuyaquiran League
+</noinclude>
+}}

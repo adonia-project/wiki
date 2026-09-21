@@ -34,10 +34,35 @@
     "hash": "3bed2c993f51a1d96018b7af8178867058c7ad286876fe6992bf3aef03f48dc1",
     "last_sync": "2026-08-07T23:25:19.877449+00:00"
   },
+  "Bolodun": {
+    "direction": "push",
+    "hash": "069ba85a39766b90f725ab3fb1d0f5712b4e2d0b4cb038490122b5ec04ac5005",
+    "last_sync": "2026-09-14T22:18:44.970576+00:00"
+  },
+  "Bolodun and Kuvari Islands": {
+    "direction": "push",
+    "hash": "5634bf939c574f320a8d88d7472565f98e4bfa8aa8b7fc4bce29b30492cdf6c8",
+    "last_sync": "2026-09-14T21:34:29.340875+00:00"
+  },
+  "Burawi people of the Bolodun and Kuvari Islands": {
+    "direction": "push",
+    "hash": "c9831bd5ca902d261e20ebde456588e9906fea325cd1d748f14b32251faba862",
+    "last_sync": "2026-09-14T21:36:43.918328+00:00"
+  },
+  "Capuyaquiran Air Lines": {
+    "direction": "push",
+    "hash": "d4827f91d35e1995e815b84b7494a7c4e424b3348d54f4568783002a4f82281a",
+    "last_sync": "2026-09-14T22:49:06.006939+00:00"
+  },
   "Christianity in Guajicutea": {
     "direction": "push",
     "hash": "1c38180ea83693ae6ec65ba69a2a37fc35bc23db4c541b34740d65b8973a6c1c",
     "last_sync": "2026-08-07T22:22:21.826746+00:00"
+  },
+  "Coat of arms of Bolodun and Kuvari": {
+    "direction": "push",
+    "hash": "c9c97055bac51308a124b5f3b1c1ef4206b5ec2bc5b681c36655193922cdcb05",
+    "last_sync": "2026-09-14T21:30:09.448568+00:00"
   },
   "Compañía Nacional de Licores de Guajicutea": {
     "direction": "push",
@@ -69,10 +94,20 @@
     "hash": "fda8669bdbf8ccb5f3acf43f0f36434c3fbd548e65ca3725a5708df1e01a3537",
     "last_sync": "2026-08-07T22:41:07.534051+00:00"
   },
+  "Flag of Bolodun and Kuvari": {
+    "direction": "push",
+    "hash": "6741e209ee9dfd065757088adb9f8395ec7b82a1881f25c57408ba5d13eabfbf",
+    "last_sync": "2026-09-14T21:01:02.877014+00:00"
+  },
   "Guaji language": {
     "direction": "push",
     "hash": "5fff3d65df290c65ee9da259efa74d0575edf3b3a74560db334414eec34b9453",
     "last_sync": "2026-08-07T23:23:43.067555+00:00"
+  },
+  "Guajicutea": {
+    "direction": "push",
+    "hash": "1630f3df824e9f54d02e790415c0c7989d3188e4041f5c780b54b9dad8b1e968",
+    "last_sync": "2026-09-04T23:17:21.033200+00:00"
   },
   "Guajicutea International Airport": {
     "direction": "push",
@@ -131,8 +166,8 @@
   },
   "History of Guajicutea (1705-1723)": {
     "direction": "push",
-    "hash": "0c91f032a17c65976bee6c2de547df1d1d2d72a0a412c0c8c017ada7268eb134",
-    "last_sync": "2026-08-07T22:41:20.355749+00:00"
+    "hash": "9d2f7cdd714345c1758f7c76d18b778e7779aebd44a5176ffcfe5dc8edd66197",
+    "last_sync": "2026-09-04T22:59:58.242376+00:00"
   },
   "History of Guajicutea (1723-1768)": {
     "direction": "push",
@@ -219,15 +254,40 @@
     "hash": "2cd5b95176f19ba99b14ba04dbf5a261ce58bcfba5427bb432a1516455a36ed7",
     "last_sync": "2026-08-07T22:41:40.437985+00:00"
   },
+  "Hurricane Nadira": {
+    "direction": "push",
+    "hash": "42f96dc42b1510518cde5b0331f6344d58bef05330742ade0a080f28bddf67c2",
+    "last_sync": "2026-09-14T23:22:21.236712+00:00"
+  },
+  "Hurricane Sahan": {
+    "direction": "push",
+    "hash": "0b44a729a1385f726768ef673a0450853279bae8adf56e6a0a8908871c74af92",
+    "last_sync": "2026-09-15T00:01:18.893695+00:00"
+  },
   "Islam in Guajicutea": {
     "direction": "push",
     "hash": "8ced3debd10a738e07716cdaf224d0acd412dfc058dcebf769d9f3923db0626f",
     "last_sync": "2026-08-07T23:11:41.614786+00:00"
   },
+  "Kartak": {
+    "direction": "push",
+    "hash": "c4ad21a7a080b356907daa3757ecf6ec7e7e2e598c3031ca8cf712b98f30d998",
+    "last_sync": "2026-09-06T06:53:53.188262+00:00"
+  },
   "Kingdom of Guajicutea": {
     "direction": "push",
     "hash": "544a7b2ab3e31e4eb68c08ed22dda88b1a11333b89b1b4f71b81bc50da5e3903",
     "last_sync": "2026-08-07T22:41:42.250602+00:00"
+  },
+  "Kuvari War": {
+    "direction": "push",
+    "hash": "6837d4252bf4c950b63b08f32a7a901226d968434582a07305ed22dbbd793ae4",
+    "last_sync": "2026-09-14T21:12:26.338550+00:00"
+  },
+  "Kuvari people": {
+    "direction": "push",
+    "hash": "b4f8f92f38babd0e528d4c89ef15ebad5b6161e71d420696c93f64023d3027de",
+    "last_sync": "2026-09-14T21:30:10.542661+00:00"
   },
   "Lidia Bikarí": {
     "direction": "push",
@@ -244,6 +304,26 @@
     "hash": "d3a8df8ce95f88ed1623c6510b0210aa05bc33efba1b71a48ec5c89075f591fd",
     "last_sync": "2026-08-12T23:48:21.660698+00:00"
   },
+  "Narubi": {
+    "direction": "push",
+    "hash": "5011b605b0d2c610fbff19cacf99eb1be165c17ec9a7a43208f5288ceb59797b",
+    "last_sync": "2026-09-14T23:52:56.676065+00:00"
+  },
+  "Ominira": {
+    "direction": "push",
+    "hash": "519e3f2dcbcbaa0b2566946120c59a27c6d7ed387124d44dbcf7c5fa7413d349",
+    "last_sync": "2026-09-14T23:09:49.448849+00:00"
+  },
+  "Ominira International Airport": {
+    "direction": "push",
+    "hash": "a47996b19da3b0568e691e60f08807cb494a6a4039af550b2ebda78573a1dc41",
+    "last_sync": "2026-09-14T22:31:29.403270+00:00"
+  },
+  "People's Assembly of Bolodun and Kuvari Islands": {
+    "direction": "push",
+    "hash": "65699eec1d6bd86cf51a65e1b7d9ac5af6c7ab5cdee0bd85d5adb9754f567eb6",
+    "last_sync": "2026-09-14T21:12:27.755261+00:00"
+  },
   "Petran Catholicism": {
     "direction": "push",
     "hash": "d28ccedc5d76d661f726e6d9ff2003a90e5d6dce7e3105d39cfd7454824da55b",
@@ -254,10 +334,20 @@
     "hash": "aea968473f07e17e01b1bd0fa8246547c52930886a8841990017d141ba771978",
     "last_sync": "2026-08-07T23:49:12.323549+00:00"
   },
+  "President of the Bolodun and Kuvari Islands": {
+    "direction": "push",
+    "hash": "05323d5719f71a9d667ea0aa8bba7bb8eed9d09eb6d9c215a7c07010b581a6b8",
+    "last_sync": "2026-09-14T21:12:29.637910+00:00"
+  },
   "Sartan Guajicutea": {
     "direction": "push",
     "hash": "782724b1e2e1702fb135eb7486df594861256ff6d82c3a96e7423364de0e4e99",
     "last_sync": "2026-08-07T22:41:44.092639+00:00"
+  },
+  "Sudanese Kaftians of the Bolodun and Kuvari Islands": {
+    "direction": "push",
+    "hash": "be2d8451f2760fb235287ebc10fb8eb03545248d0f34ca3c1e9b89a01a397b1e",
+    "last_sync": "2026-09-14T21:20:23.476931+00:00"
   },
   "Sunni Islam": {
     "direction": "push",
@@ -293,6 +383,11 @@
     "direction": "push",
     "hash": "8f5bcfdd627c824c703aef624879e28e7261d7a3c164f22d0b97c999ac28f0cf",
     "last_sync": "2026-08-07T19:06:06.288057+00:00"
+  },
+  "United Capuyaquiran Republic": {
+    "direction": "push",
+    "hash": "be3fe9f87a3e5a45e7e3761903ac3fd6b52be49089c2872a98ab4467959833e7",
+    "last_sync": "2026-09-06T06:53:56.438115+00:00"
   },
   "Wariguma": {
     "direction": "push",

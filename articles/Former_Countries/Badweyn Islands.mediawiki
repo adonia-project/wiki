@@ -1,7 +1,7 @@
 {{Infobox former country
 | conventional_long_name = Badweyn Islands
 | common_name            = Badweyn Islands
-| native_name            = ''Jazā'ir Badweyn''
+| native_name            = {{lang|so|Jasiirado Badweyn}}
 | status                 = Colonial territory of [[New Burawa]]
 | empire                 = [[Empire of Burawa]]
 | government_type        = Colonial administration under an appointed governor
@@ -11,14 +11,19 @@
 | date_end               =
 | event_start            = [[First Capuyaquiran War]]; formal territorial organisation
 | event_end              = [[Capuyaquiran League]] established
-| p1                     = Greater Capuyaquiran tributaries
+| p1                     = Kingdom of Murani
 | flag_p1                =
+| p2                     = Kingdom of Dukuri
+| flag_p2                =
+| p3                     = Kingdom of Barani
+| flag_p3                =
 | s1                     = Capuyaquiran League
 | flag_s1                =
 | image_flag             = Flag of the Badweyn Islands.svg
 | flag_alt               = Royal blue flag with a white saltire
-| image_map              = Badweyn Islands globe.svg
-| map_caption            = Orthographic view of the former Badweyn Islands in the Capuyaquiran Sea
+| image_map              = Badweyn Islands region map.png
+| map_width              = 250px
+| map_caption            = The former Badweyn Islands and their modern successor states in the Capuyaquiran Sea
 | capital                = [[Guledga]] (administrative seat, 1543–1695)<br>[[Bolodun and Kuvari Islands|Bolodun]] (governor's seat, 1695–1755)
 | common_languages       = [[Burawi language|Burawi]], local island languages
 | religion               = [[Burawi Catholicism]], local religions
@@ -27,7 +32,7 @@
 | year_leader1           = 1543–1695
 | leader2                = Governor of the Badweyn Islands
 | year_leader2           = 1695–1755
-| today                  = [[United Capuyaquiran Republic]]<br>[[Narubi]]<br>[[Bolodun and Kuvari Islands]]
+| today                  = {{flag|United Capuyaquiran Republic}}<br>{{flag|Narubi}}<br>{{flag|Bolodun and Kuvari Islands}}
 }}
 
 The '''Badweyn Islands''' were a Burawi colonial territory in the [[Capuyaquiran Sea]] that administered a group of islands now divided among the [[United Capuyaquiran Republic]], [[Narubi]], and the [[Bolodun and Kuvari Islands]]. The territory was named after the Burawi explorer [[Guled Badweyn]], who passed through the archipelago during his 1520 expedition and recorded the islands for Burawi authorities. The name was initially geographic and administrative rather than political: the islands continued to be governed from the [[Lacashe]] province of [[New Burawa]] after their discovery.
@@ -59,7 +64,7 @@ In 1695, the colonial government established the governor's seat on Bolodun. The
 
 === Dissolution ===
 
-The Badweyn Islands governorship weakened during the eighteenth century as Burawi authority declined and island communities developed stronger local institutions. The [[Burawi Imperial Split]] of 1709 divided the former empire among the Kingdom of Burawa, the Kingdom of Galwa, and autonomous Lacashe. The fragmentation made the continued administration of a single Capuyaquiran territory increasingly difficult.
+The Badweyn Islands governorship weakened during the eighteenth century as the territory's isolation from the Kaftian peninsula increased and island communities developed stronger local institutions. The [[Burawi Imperial Split]] of 1709 divided the former empire among the Kingdom of Burawa, the Kingdom of Galwa, and autonomous Lacashe. The Badweyn Islands were retained by the [[Kingdom of Burawa]], the eastern successor state, which inherited the imperial capital and the greater part of the naval establishment. The islands remained a Burawi colonial possession for the following decades, though the metropolitan government's capacity to administer them declined steadily.
 
 The [[Capuyaquiran League]] established in 1755 ended the remaining colonial framework in the archipelago. The former Badweyn Islands were not transferred as a single successor state. Instead, individual islands and island groups entered the League, retained separate governments, or later formed independent states. This division accounts for the territory's modern distribution among the United Capuyaquiran Republic, Narubi, and the Bolodun and Kuvari Islands.
 

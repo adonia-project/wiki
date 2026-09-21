@@ -1,0 +1,39 @@
+{{Infobox
+| bodyclass      = ib-time-zone vcard
+| templatestyles = Infobox time zone/styles.css
+| autoheaders    = y
+
+| above          = {{{title|{{PAGENAMEBASE}}}}}
+| subheader      = [[Time zone]]
+
+| image          = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{imagesize|300px}}}|alt={{{alt|}}}}}
+| caption        = {{{caption|}}}
+
+| header1        = UTC offset
+| label2         = {{{initials|UTC}}}
+| data2          = {{#if:{{{offset|}}}|[[UTC{{{offset}}}]]|{{#if:{{{UTC|}}}|{{{title|{{PAGENAMEBASE}}}}}|[[UTC+00:00]]}}}}
+| label3         = {{{dst initials|}}}
+| data3          = {{#if:{{{dst offset|}}}|[[UTC{{{dst offset}}}]]}}
+
+| header4        = Current time
+| data5          = {{time|{{{name|{{{initials|{{{title|{{PAGENAMEBASE}}}}}}}}}}}|dst=no|df={{{format|dmy}}}}}{{#ifeq:{{time|{{{name|{{{initials|{{{title|{{PAGENAMEBASE}}}}}}}}}}}|dst=yes}}|{{time|{{{name|{{{initials|{{{title|{{PAGENAMEBASE}}}}}}}}}}}|dst=no}}||<br>{{time|{{{name|{{{initials|{{{title|{{PAGENAMEBASE}}}}}}}}}}}|dst=yes|df={{{format|dmy}}}}}}}
+
+| header6        = {{#if:{{{UTC|}}}|{{#ifeq:{{{display observance|}}}|no||Observance of [[Daylight saving time|DST]]}}}}
+| data7          = {{#if:{{{UTC|}}}|{{#ifeq:{{{display observance|}}}|no||{{#switch:{{{dst use|{{{daylight savings use|}}}}}}
+  |none=DST is not observed in this time zone.
+  |only=This time zone is only used for DST. {{#if:{{{non dst initials|}}}|For the rest of the year, {{{non dst initials}}} is used.}}
+  |some|parts=DST is observed in {{{dst use|{{{daylight savings use|}}}}}} of this time zone.
+  |#default|all=DST is observed throughout this time zone.}} }}
+ }}
+
+| rowclass8      = mergedtoprow
+| header8        = {{#if:{{{UTC|}}}|Central [[Meridian (geography)|meridian]]}}
+| data9          = {{#if:{{{UTC|}}}|{{Infobox time zone/meridian-central|{{{title|{{PAGENAMEBASE}}}}}}}}}
+
+| rowclass10     = mergedtoprow
+| header10       = {{#if:{{{UTC|}}}|[[Date-time group]]}}
+| data11         = {{#if:{{{UTC|}}}|{{Infobox time zone/utc-dtg|{{{title|{{PAGENAMEBASE}}}}}}}}}
+}}<!--
+--><noinclude>
+{{documentation}}
+</noinclude>

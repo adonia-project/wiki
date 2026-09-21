@@ -7,11 +7,14 @@
 - Operated by AC Canal Commission since Treaty of Areza (1973)
 
 ## Engineering
-- 3 lock sets, 6 chambers total: Aethiopian Locks, Alvarado Locks, Shendan Locks
+- 3 lock sets, 6 chambers total: Les Dàrsenes Locks, Mario Locks, Aethiopian Locks (REVISED 2026-09-17 — no Shendan Locks, no Alvarado Locks)
 - Lock chambers: 320m × 33.5m, 15.5m depth over sill
 - "Balboa limits": max 300m length, 40m beam, 15.2m draft
-- Lake Alvarado: artificial lake at ~26m elevation, central reach ~35km
-- Route: Sant Llàtzer (Aethiopian/east) → Estret lowlands → locks → Lake Alvarado → locks → Portnou (Shendan/west)
+- Lake Alvarado: artificial lake at SEA LEVEL, dredged from the Alvarado wetlands (NOT dammed, NOT 26m), area 128.788 km²
+- Lake Les Dàrsenes: artificial lake at 26m elevation, dammed, area 28.941 km², northeast of Lake Alvarado
+- Lake Mario: artificial lake at 30m elevation (SUMMIT LEVEL), dammed, area 2.123 km²
+- Lock reach distances (user-confirmed 2026-09-17): Les Dàrsenes Locks reach = 1.286 km total (Lake Alvarado → Lake Les Dàrsenes); Mario Locks reach = 1.823 km total (Lake Les Dàrsenes → Lake Mario); then channel to Aethiopian Locks
+- Route: Portnou (Shendan/west) → Rio Alvarado (channelized, sea level, no locks) → Lake Alvarado (sea level) → Les Dàrsenes Locks (1.286 km reach) → Lake Les Dàrsenes (26m) → Mario Locks (1.823 km reach) → Lake Mario (30m summit) → Aethiopian Locks → Sant Llàtzer (Aethiopian/east)
 - Portnou selected over Sant Cristòfor as western terminus (better harbour depth, shelter, expansion capacity)
 - Sant Cristòfor is on the Shendan coast (major city but NOT the canal terminus)
 - Sant Llàtzer is on the Aethiopian coast (Camí Ral eastern terminus, canal eastern terminus)
@@ -70,7 +73,8 @@
 - Areza: within canal zone but governed separately under Treaty of Areza
 
 ## Environmental Impact
-- Lake Alvarado: inundated ~420 km² of forest + agricultural land
+- Lake Alvarado: dredged from the Alvarado wetlands, area 128.788 km² (the old ~420 km² figure was wrong)
+- Lake Les Dàrsenes (28.941 km²) and Lake Mario (2.123 km²): dammed basins — inundation of forest + agricultural land belongs to THESE lakes, not Alvarado
 - Fragmented forest corridor between Aethiopian and Shendan slopes
 - Ballast water: invasive species in Lake Alvarado + canal corridor
 - Water pollution, shoreline erosion, marine mammal disruption

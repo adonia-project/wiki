@@ -244,7 +244,7 @@ def do_push(site, state, page_names=None):
     local_files = get_local_files()
     if page_names is None:
         to_push, _, conflicts, new_pages = do_status(site, state)
-        to_push = to_push + conflicts + new_pages
+        to_push = to_push + new_pages
     else:
         to_push = page_names
 

@@ -14,7 +14,10 @@ Estret Province has 13 comarcas, numbered 1–13 clockwise from the southern She
 | Riu Fluvià | River | Border of comarcas 7–8, flows to Shendan | Volisanian |
 | Riu Ebre | River | Border of comarcas 9–10, flows to Aethiopian coast | Volisanian |
 | Riu Francolí | River | Border of comarcas 10–13, flows to Aethiopian coast | Volisanian |
-| Lake Alvarado | Artificial lake | On the Balboa Canal, south of Areza | — |
+| Lake Alvarado | Artificial lake (sea level, dredged from Alvarado wetlands) | On the Balboa Canal, south of Areza; drains west via Rio Alvarado | — |
+| Lake Les Dàrsenes | Artificial lake (26 m, dammed, 28.941 km²) | Northeast of Lake Alvarado, in Migjorn; elevated reach of the Balboa Canal | — |
+| Lake Mario | Artificial lake (30 m, dammed, 2.123 km²) | Summit level of the Balboa Canal, east of Lake Les Dàrsenes | — |
+| Rio Alvarado | River/outlet | Western outlet of Lake Alvarado to the Shendan; channelized canal approach; separates Portnou (north bank) from L'Espigó (south bank) | — |
 | Lake Jarumá | Natural lake | NE corner of comarca 1 | Birú *yarumá* ("still water") |
 | Serralada d'Estret | Hills (~250m max) | Divides Shendan and Aethiopian coasts | Volisanian ("Estret Hills") — local name for the Yalabirga Range at its lowest point |
 | Areza | International city | Between comarcas 1, 2, 13; on north shore of Lake Alvarado | — |

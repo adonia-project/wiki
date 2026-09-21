@@ -90,9 +90,9 @@
     "last_sync": "2026-08-19T00:21:55.816133+00:00"
   },
   "Abyala": {
-    "direction": "pull",
-    "hash": "05a5755402eb199f5b8f1939eb191da57b841243cf440f6cb13ab82762c04ca8",
-    "last_sync": "2026-09-16T18:25:56.600397+00:00"
+    "direction": "push",
+    "hash": "379f0a8ce15a641cacf831f4a9fd93828beae0c510480be1db3d123c50e36839",
+    "last_sync": "2026-09-16T18:26:12.459697+00:00"
   },
   "AeroPlay": {
     "direction": "push",
@@ -118,6 +118,11 @@
     "direction": "push",
     "hash": "fe70f494b907603ae1f450568ec7452d18c690316777d0095c5d39a89c071d6d",
     "last_sync": "2026-08-19T00:26:42.440253+00:00"
+  },
+  "Gulf of Louyang": {
+    "direction": "push",
+    "hash": "463c7acdd12dae87f520d80ae271982982fb0c6be3f3e01fffd03218240b8d74",
+    "last_sync": "2026-09-20T01:04:46.620668+00:00"
   },
   "List of wars": {
     "direction": "push",

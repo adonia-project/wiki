@@ -1,0 +1,16 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = United Capuyaquiran Republic
+| flag alias = Flag of United Capuyaquiran Republic.svg
+| link alias-football = United Capuyaquiran Republic national football team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+| variant = {{{variant|}}}
+| redir1 = UCR
+<noinclude>
+| related1 = Narubi
+| related2 = Bolodun and Kuvari Islands
+| related3 = Capuyaquiran League
+</noinclude>
+}}

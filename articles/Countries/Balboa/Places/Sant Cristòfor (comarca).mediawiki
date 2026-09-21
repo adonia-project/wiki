@@ -3,7 +3,7 @@
 | native_name         = {{lang|ca|Comarca de Sant Cristòfor}}
 | native_name_lang    = ca
 | settlement_type     = Comarca
-| image_skyline       = Sant Cristofor skyline from Badia.png
+| image_skyline       = Sant Cristofor skyline.png
 | image_caption       = Sant Cristòfor skyline from the Badia de Sant Cristòfor
 | image_flag          = Flag of Sant Cristofor comarca.svg
 | image_seal          = Seal of Sant Cristofor comarca.svg
@@ -28,7 +28,7 @@
 | population_total    = 5,178,000
 | population_as_of    = 2026
 | population_density_km2 = auto
-| timezone             = 
+| timezone             = [[Time in Balboa|BST]] ({{w|UTC−05:00|UTC−5}})
 | utc_offset           = 
 | website              = 
 | subdivision_type2   = Municipalities

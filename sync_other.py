@@ -3,7 +3,7 @@
 TALOD Wiki Sync Bot — Other Article Synchronizer
 
 Two-way sync between local .mediawiki files and the TALOD Miraheze wiki.
-Only syncs articles under articles/Other/.
+Syncs articles under articles/Other/ and selected former-country articles.
 
 Usage:
     python sync_other.py              # Full sync (push + pull)
@@ -59,6 +59,12 @@ WIKI_URL = os.environ.get("WIKI_URL", "talod.miraheze.org")
 WIKI_USERNAME = os.environ.get("WIKI_USERNAME", "")
 WIKI_PASSWORD = os.environ.get("WIKI_PASSWORD", "")
 OTHER_DIR = REPO_ROOT / os.environ.get("OTHER_DIR", "articles/Other")
+EXTRA_FILES = [
+    REPO_ROOT / "articles/Former_Countries/Badweyn Islands.mediawiki",
+    REPO_ROOT / "articles/Former_Countries/Capuyaquiran League.mediawiki",
+    REPO_ROOT / "articles/Countries/Balisca/Places/Abyala.mediawiki",
+    REPO_ROOT / "articles/unorganized/Gulf of Louyang.mediawiki",
+]
 
 # Summary comment for bot edits
 EDIT_SUMMARY = "Sync from local repository via sync-bot"
@@ -80,6 +86,9 @@ def get_local_files():
     for path in OTHER_DIR.rglob("*.mediawiki"):
         page_name = path.stem
         files[page_name] = path
+    for path in EXTRA_FILES:
+        if path.exists():
+            files[path.stem] = path
     return files
 
 def load_sync_state():
@@ -255,7 +264,7 @@ def do_push(site, state, page_names=None):
     local_files = get_local_files()
     if page_names is None:
         to_push, _, conflicts, new_pages = do_status(site, state)
-        to_push = to_push + conflicts + new_pages
+        to_push = to_push + new_pages
     else:
         to_push = page_names
 

@@ -315,8 +315,17 @@ def do_push(site, state, page_names=None):
     if page_names is None:
         # Determine what to push by comparing with batch fetch
         to_push, _, conflicts, new_pages = do_status(site, state)
-        # On first run (no sync state), conflicts are expected — push local as source of truth
-        to_push = to_push + conflicts + new_pages
+        # On a first run (empty sync state) there is nothing to lose, so conflicts
+        # are expected and local is treated as the source of truth. Once state
+        # exists, a conflict means the wiki was edited: refuse and make the user merge.
+        if conflicts and state:
+            log(f"Refusing to overwrite {len(conflicts)} conflicted page(s):", "WARN")
+            for cp in conflicts:
+                log(f"    {cp}", "WARN")
+            log("  Pull each one, merge by hand, then push. Never auto-resolve.", "WARN")
+            to_push = to_push + new_pages
+        else:
+            to_push = to_push + new_pages
     else:
         to_push = page_names
 

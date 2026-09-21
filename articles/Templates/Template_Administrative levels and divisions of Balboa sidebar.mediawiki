@@ -1,0 +1,36 @@
+{{Sidebar
+|name = Administrative levels and divisions of Balboa
+|width = auto
+|wraplinks = true
+|titlestyle = padding-bottom:0.6em;
+|title = [[Administrative divisions of Balboa|Administrative divisions<br/>of Balboa]]
+|headingstyle = background:#ddf;
+|contentclass = plainlist
+|contentstyle = padding:0.15em 0 0.6em;
+
+|heading1 = [[Provinces of Balboa|Provinces]]
+|content1 =
+*[[Tramuntana Province|Tramuntana]]
+*[[Nurra Province|Nurra]]
+*[[Jala Province|Jala]]
+*[[Estret Province|Estret]]
+*[[Migjorn Province|Migjorn]]
+|heading2 = [[Comarcas of Balboa|Comarcas]]
+|content2 =
+|heading3 = [[Municipalitats of Balboa|Municipalitats]]
+|content3 =
+|heading4 = [[Sant Cristòfor|Ciutats and districtes]]
+|content4 =
+*[[Sant Cristòfor]]
+
+|heading5 = Special status
+|content5 =
+*[[International City of Areza]]
+
+}}<includeonly>{{main other|[[Category:Administrative divisions of Balboa]]}}</includeonly><noinclude>
+
+<!--Categories-->
+{{DEFAULTSORT:Balboa}}
+
+<!--Other languages-->
+</noinclude>

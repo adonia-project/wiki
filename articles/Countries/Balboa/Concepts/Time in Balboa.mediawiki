@@ -1,0 +1,52 @@
+{{Infobox time zone
+| title             = Balboa Standard Time
+| initials          = BST
+| offset            = −05:00
+| dst use           = none
+| name              = BST
+}}
+
+'''Time in [[Balboa]]''' is given by '''Balboa Standard Time''' (BST; {{lang|ca|Hora de Balboa}}), which is {{w|UTC−05:00}} year-round. Balboa does not observe {{w|daylight saving time}}. The entire country, spanning approximately 293,888 square kilometres across the [[Balboa isthmus|isthmus]] of [[Lurandia]], falls within a single time zone.
+
+== History ==
+
+=== Pre-standardisation ===
+
+Prior to the adoption of standard time, settlements across the Balboan isthmus relied on {{w|local mean time}} derived from {{w|solar time|apparent solar time}}. Each major settlement — including [[Sant Cristòfor]], [[Sant Bart]], [[Portnou]], and [[Costabella]] — kept its own local time based on its longitudinal position. The east–west span of the isthmus, approximately 600 kilometres, resulted in a variation of roughly 25 minutes between the easternmost and westernmost settlements. The absence of standardised time created scheduling difficulties for maritime commerce, overland transport, and administrative coordination, particularly as the colonial economy expanded during the late Volisanian period.
+
+=== Adoption of standard time ===
+
+Following [[independence of Balboa|independence]] from [[Volisania]] on 15 March 1854, the First Republic of Balboa adopted a single national standard time aligned to the 75th meridian west ({{w|UTC−05:00}}), corresponding to the mean solar time of approximately 75°W. The adoption of standard time was part of a broader programme of administrative standardisation undertaken by the new republic, which included the introduction of a national currency, the harmonisation of weights and measures, and the establishment of a national postal service. The choice of UTC−05:00 placed Balboa in the same time zone as several other Lurandian and Abyalan states at similar longitudes.
+
+=== Zong Balboa and mandate periods ===
+
+During the [[Zong Balboa]] period (1899–1950), the Zong administration maintained the existing standard time in Sant Cristòfor and the canal zone, as the time zone boundary had no practical consequence for a single-territory administration. The [[International Mandate of Sant Cristòfor]] (1950–1960) likewise retained UTC−05:00, as did the rump state centred on [[Sant Bart]]. Upon [[Treaty of Balboa Harbour|reunification in 1960]] and the subsequent [[Treaty of Areza|return of the canal zone in 1973]], the unified Republic of Balboa continued to observe a single national time zone without interruption.
+
+=== Abolition of daylight saving time proposals ===
+
+Balboa has never observed daylight saving time. Proposals for the introduction of seasonal clock changes were raised in the National Assembly on several occasions during the late 20th and early 21st centuries, typically in response to concerns about energy consumption and the scheduling of commercial activities relative to the canal's operational hours. These proposals were consistently rejected on the grounds that the country's tropical latitude — approximately 6° to 9° north — results in minimal seasonal variation in daylight hours, making daylight saving time ineffective as an energy-saving measure. The proximity of the isthmus to the equator means that the difference between the longest and shortest days of the year is less than one hour in most of the country.
+
+== Characteristics ==
+
+Balboa Standard Time is observed throughout the entire country without regional variation. The isthmus spans approximately 6°N to 9°N in latitude and roughly 91°W to 95°W in longitude. Despite this longitudinal range, the entire country falls within the UTC−05:00 offset, as the practical variation in local solar time across the isthmus — approximately 16 minutes — is not sufficient to justify the use of multiple time zones.
+
+The time zone is referenced by the abbreviation BST in domestic and international contexts. The Volisanian-language term ''Hora de Balboa'' is used in official government communications, legislation, and public signage.
+
+== Date and time format ==
+
+Balboa uses the {{w|date and time notation|dd/mm/yyyy}} date format, consistent with Volisanian-language conventions inherited from the colonial period. Dates are written in descending order of specificity (day, month, year) in both formal and informal contexts. The 24-hour clock is used in official, military, and transport contexts, while the 12-hour clock is common in informal and commercial settings.
+
+== IANA time zone database ==
+
+In the {{w|tz database}}, Balboa is represented by the time zone identifier <code>Abyala/Balboa</code>, which corresponds to UTC−05:00 year-round with no daylight saving time transitions. The identifier covers the entire national territory.
+
+== See also ==
+
+* [[Balboa]]
+* [[Time in Balisca]]
+* [[Time in Burawa]]
+* {{w|UTC−05:00}}
+* {{w|Time zone}}
+
+[[Category:Time in Balboa| ]]
+[[Category:Time zones]]

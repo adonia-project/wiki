@@ -3,7 +3,7 @@
 | image = Balboa Canal aerial view.jpg
 | image_size = 300px
 | image_alt = Aerial view of the Balboa Canal near Lake Alvarado
-| caption = The Balboa Canal near [[Lake Alvarado]], looking west toward the Shendan locks
+| caption = The Balboa Canal near [[Lake Alvarado]], looking west toward the [[Rio Alvarado]]
 | country = [[Balboa]]
 | location = [[Isthmus of Balboa]]
 | connects = [[Aethiopian Ocean]] ↔ [[Shendan Ocean]]
@@ -33,21 +33,21 @@ The canal was constructed by the [[Balboa-Volisanian Company]] and completed in 
 
 == Route and layout ==
 
-The canal traverses the [[Isthmus of Balboa]] from east to west, following a route that exploits the natural topography of the Yalabirga highland depression. The eastern (Aethiopian) terminus is at [[Sant Llàtzer]], where vessels enter the canal from the harbour on the Aethiopian coast. The canal then proceeds westward through the Estret lowlands, ascending through the first set of locks to the level of [[Lake Alvarado]], an artificial lake created by the damming of the central highland basin. The lake, which occupies the central reach of the canal at an elevation of approximately 26 metres above sea level, extends for roughly 35 kilometres through the highland valley. The [[International City of Areza]] is situated on the north shore of Lake Alvarado.
+The canal traverses the [[Isthmus of Balboa]] from east to west, following a route that exploits the natural topography of the isthmian lowlands. The western (Shendan) terminus is at [[Portnou]], where vessels enter the channelized [[Rio Alvarado]] from the Shendan Ocean and proceed eastward into [[Lake Alvarado]], an artificial lake at sea level created by the dredging of the Alvarado wetlands. The lake, which occupies the central reach of the canal, is bounded by the [[International City of Areza]] on its north shore. Because the western reach of the canal lies entirely at sea level, no locks are required between the Shendan Ocean and the lake.
 
-West of the lake, the canal descends through two further sets of locks to the Shendan terminus at [[Portnou]]. The western approach channel cuts through the lower Yalabirga ridge via a short excavated section before reaching the Shendan coastal plain. Portnou was selected as the canal's western terminus in preference to [[Sant Cristòfor]] — the older and larger city on the Shendan coast — because its harbour offered superior depth, shelter, and capacity for the expansion of port facilities.
+At the northeast end of the lake, vessels enter the [[Les Dàrsenes Locks]], a reach of approximately 1.286 kilometres comprising the lock flight and its approach channels, which raise them approximately 26 metres to [[Lake Les Dàrsenes]], an artificial lake created by the damming of the lowland basin northeast of the Alvarado wetlands. From Lake Les Dàrsenes, a second reach of approximately 1.823 kilometres leads through the [[Mario Locks]], which raise vessels a further 4 metres to [[Lake Mario]], the canal's summit level at approximately 30 metres above sea level. From Lake Mario, the canal descends through the Aethiopian Locks to the eastern terminus at [[Sant Llàtzer]], on the Aethiopian coast. Portnou was selected as the canal's western terminus in preference to [[Sant Cristòfor]] — the older and larger city on the Shendan coast — because its harbour offered superior depth, shelter, and capacity for the expansion of port facilities.
 
-The canal's three lock sets are:
+The canal's principal lock sets are:
 
 {| class="wikitable"
 |-
 ! Lock set !! Chambers !! Location !! Function
 |-
-| Aethiopian Locks || 2 || Eastern entrance || Raising vessels from sea level to the approach channel
+| Les Dàrsenes Locks || 2 || Northeast end of Lake Alvarado || Raising vessels from sea level to Lake Les Dàrsenes (26 m)
 |-
-| Alvarado Locks || 2 || Eastern end of Lake Alvarado || Raising vessels to lake level
+| Mario Locks || 2 || Between Lake Les Dàrsenes and Lake Mario || Raising vessels from 26 m to the summit level (30 m)
 |-
-| Shendan Locks || 2 || Western end || Lowering vessels from the lake to Shendan sea level
+| Aethiopian Locks || 2 || Eastern entrance || Lowering vessels from Lake Mario (30 m) to sea level
 |-
 
 Each lock chamber is 320 metres in length and 33.5 metres in width, with a depth over the sill of 15.5 metres. The maximum permitted vessel dimensions (the "Balboa limits") are 300 metres in length, 40 metres in beam, and 15.2 metres in draft. Vessels exceeding these dimensions cannot transit the canal and must use alternative routes.
@@ -82,7 +82,7 @@ The Expansió government initially attempted to nationalise the Isthmus Railway,
 
 The financing arrangement was finalised in the early 1870s. The project was undertaken by the [[Balboa-Volisanian Company]], a joint venture established for the purpose. Approximately 60 per cent of the capital was provided by the Volisanian government, 20 per cent by domestic bonds issued by the Balboan treasury, and the remaining 20 per cent by the government of [[Nakamizu]], which Volisania had recruited as a co-investor in exchange for political favours. Nakamizu, which was generally regarded as friendly to Illypnian interests, took on substantial debt to fund its participation — a commitment that contributed to its economic difficulties in the early twentieth century, particularly after the loss of the canal to Zong in 1899 ended all repayments to the Nakamizu government.
 
-The construction, conducted under the direction of Volisanian military engineers, was relatively straightforward by the standards of major canal projects. The isthmian corridor was already heavily deforested and relatively level, and the principal engineering challenges — the lock systems, the damming of the highland basin to create [[Lake Alvarado]], and the cut through the lower Yalabirga ridge — were surmounted without the catastrophic delays and mortality that had characterised earlier attempts at interoceanic canals elsewhere. The work was completed in a single continuous programme, and the canal was formally opened on 14 September 1885.
+The construction, conducted under the direction of Volisanian military engineers, was relatively straightforward by the standards of major canal projects. The isthmian corridor was already heavily deforested and relatively level, and the principal engineering challenges — the lock systems, the dredging of the Alvarado wetlands to create [[Lake Alvarado]], the damming of the lowland basins to create [[Lake Les Dàrsenes]] and [[Lake Mario]], and the channelization of the [[Rio Alvarado]] as the western approach — were surmounted without the catastrophic delays and mortality that had characterised earlier attempts at interoceanic canals elsewhere. The work was completed in a single continuous programme, and the canal was formally opened on 14 September 1885.
 
 The Expansió Party did not long survive to enjoy the canal's completion. The party lost power in the [[Sant Bart's Coup|1888 coup]], which installed the [[Balboa Independence Party]] under [[Rodrigo Velásquez]] and set in motion the chain of events that led to the [[Second War of the Isthmus]].
 
@@ -130,7 +130,7 @@ The Treaty of Areza imposes permanent obligations on the Balboan government rega
 
 == Environmental impact ==
 
-The canal's construction and operation have had significant environmental consequences. The creation of [[Lake Alvarado]] inundated approximately 420 square kilometres of lowland forest and agricultural land, displacing communities and altering the hydrology of the central highland basin. The lake's construction also fragmented the forest corridor that connected the Aethiopian and Shendan slopes, isolating populations of terrestrial species that had previously been continuous.
+The canal's construction and operation have had significant environmental consequences. The dredging of the Alvarado wetlands to create [[Lake Alvarado]] eliminated one of the principal marsh systems of the isthmian lowlands, converting approximately 129 square kilometres of wetland into an open navigable lake and altering the hydrology of the central lowlands. The damming of the lowland basins to create [[Lake Les Dàrsenes]] (28.941 km²) and [[Lake Mario]] (2.123 km²) inundated lowland forest and agricultural land, displacing communities, and the canal corridor fragmented the forest that connected the Aethiopian and Shendan slopes, isolating populations of terrestrial species that had previously been continuous.
 
 The operation of the canal produces ongoing environmental pressures. Ballast water discharged by transiting vessels has introduced a number of [[invasive species]] into Lake Alvarado and the canal corridor, with consequences for the native freshwater and estuarine ecosystems. The increase in vessel traffic has contributed to water pollution, shoreline erosion, and the disruption of marine mammal migration routes. The Balboa Canal Authority has implemented a series of environmental regulations, including ballast water exchange requirements, speed limits in sensitive areas, and restrictions on the discharge of pollutants, but enforcement remains a challenge.
 

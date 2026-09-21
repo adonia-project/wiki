@@ -33,12 +33,12 @@ Period from c. 1390 (end of Jade Sea War) to 1538 (founding of Tamsui). Zong piv
 - 1474: Anping colony founded (modern-day Louyang) — succeeds
 - 1474–1538: Northern Lurandian coastal exploration, incremental expansion
 - 1538: Tamsui founded as colonial city within Louyang colony
-- 1543: Tamsui Insurgency → colonial split along Qingjiang river → Sinchew and Louyang colonies
+- 1543: Tamsui Plot → colonial split along Qingjiang river → Sinchew and Louyang colonies
 
 ## Colonial structure
 - **Qingjiang** (清江, "Clear River") — divides Sinchew (northwest) from Louyang (southeast)
 - **Hook of Tianhe** — geographic feature where Qingjiang meets the coast
-- **Tamsui Insurgency** (1543) — settler revolt by Tamsui colonial leadership, felt neglected by Anping
+- **Tamsui Plot** (1543) — RENAMED from 'Tamsui Insurgency'. NOT a revolt: a political scheme in which Tamsui officials simply ignored Anping's orders. Led by Tân Kéng-seng (陳景生). Months of ships back and forth, heard by the Societal Assembly, which split the colony.
 - Split resolved by Zong court dividing territory into two separate colonies
 
 ## Key themes

@@ -61,7 +61,7 @@ NOTE: Province populations are estimates that need verification.
 - **Yalabirga cloud forests** (1,200–1,800m): most biodiverse habitat; centre of endemism; broadleaf canopy, epiphytes, mosses, ferns; endemic birds + amphibians; national parks since 1980s; illegal logging + agricultural encroachment pressures
 - **Aethiopian coastal lowlands**: tropical dry forest + mangroves; Estret/Migjorn estuaries; critical nursery habitat for fish/crustaceans
 - **Shendan coast**: rain shadow; drier tropical forest + thorn-scrub
-- **Lake Alvarado**: freshwater ecosystem; resident fish; waterfowl/wading birds; created by canal damming
+- **Lake Alvarado**: freshwater ecosystem; resident fish; waterfowl/wading birds; created by dredging of the Alvarado wetlands (sea level, 128.788 km² — REVISED 2026-09-16, was "canal damming" at 26m/420 km²)
 - Environmental threats: deforestation, water pollution (agricultural runoff + canal shipping), overfishing, urban expansion
 - Signatory to AC Convention on Biodiversity
 
