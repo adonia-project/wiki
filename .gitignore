@@ -48,3 +48,6 @@ LocalSettings.php
 
 # TALOD sync state
 .talod-sync-state.json
+
+# Letta Code worktrees (must never be tracked — they are nested git checkouts)
+.letta/worktrees/
