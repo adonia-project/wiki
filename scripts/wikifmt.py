@@ -26,6 +26,40 @@ APOS = "'"
 BOLD_MW = "(?<!%s)%s(?!%s)(.+?)(?<!%s)%s(?!%s)" % ((APOS,) + (APOS * 3,) * 5)
 ITAL_MD = r"(?<!\*)\*([A-Za-z][A-Za-z '\-]*?)\*(?!\*)"
 
+# Editorialising: a wiki article reports what happened; it does not tell the
+# reader what it means, why it matters, or what is really going on. These are
+# the constructions that have crept into my own drafts. Reported, never auto-fixed.
+EDITORIAL = [
+    (r"\b[Ww]hich is why\b", "explains-rather-than-reports"),
+    (r"\b[Tt]his is why\b", "explains-rather-than-reports"),
+    (r"\b[Tt]hat is why\b", "explains-rather-than-reports"),
+    (r"\b[Tt]his is the (reason|point|key|whole)\b", "explains-rather-than-reports"),
+    (r"\b[Tt]he point is\b", "explains-rather-than-reports"),
+    (r"\b[Tt]he whole point\b", "explains-rather-than-reports"),
+    (r"\bis best understood as\b", "interpretation"),
+    (r"\b[Tt]he real (reason|point|story|significance|question)\b", "interpretation"),
+    (r"\b[Ww]hat matters (is|here)\b", "interpretation"),
+    (r"\b[Tt]he significance (of|is)\b", "interpretation"),
+    (r"\b[Tt]he importance (of|is)\b", "interpretation"),
+    (r"\bnot merely\b", "rhetorical elevation"),
+    (r"\bnot simply\b", "rhetorical elevation"),
+    (r"\bwas itself\b", "rhetorical elevation"),
+    (r"\b(matters|mattered) because\b", "explains-rather-than-reports"),
+    (r"\b(reveals|reflects) (that|how) (the|a) (period|era|nature|character|fact|story)\b", "interpretation"),
+    (r"\b(can|could) be seen as\b", "interpretation"),
+    (r"\b(serves|served) to\b", "interpretation"),
+    (r"\bin effect\b", "commentary"),
+    (r"\bof course\b", "commentary"),
+    (r"\b[tT]he tragedy\b", "commentary"),
+    (r"\b(ironically|tellingly|revealingly|significantly|importantly|notably|crucially|interestingly)\s*,", "commentary adverb"),
+    (r"\barguably\b", "qualification"),
+    (r"\bit (is|should be) (worth|noted)\b", "commentary aside"),
+    (r"\bthe moment when\b", "meta-narrative"),
+    (r"\bmarked the moment\b", "meta-narrative"),
+    (r"\bcame to (represent|symbolise|embody)\b", "interpretation"),
+    (r"\bthe story of the\b", "meta-narrative"),
+]
+
 
 def fix_text(s: str):
     """Return (repaired_text, list_of_changes)."""
@@ -140,6 +174,14 @@ def check_text(s: str):
             problems.append("L%-4d mediawiki bold (not a title): %s" % (i, t[:60]))
     if s.count("{|") != s.count("|}"):
         problems.append("table markup unbalanced: %d open, %d close" % (s.count("{|"), s.count("|}")))
+    # editorialising: reported, never repaired - judgement is required
+    for i, l in enumerate(s.split("\n"), 1):
+        t = l.strip()
+        if not t or t.startswith(("|", "{", "}", "=", "*", "#", "<")):
+            continue
+        for pat, kind in EDITORIAL:
+            if re.search(pat, l):
+                problems.append("L%-4d EDITORIAL (%s): %s" % (i, kind, t[:70]))
     return problems
 
 
