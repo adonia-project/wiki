@@ -1,8 +1,18 @@
 {
+  "Chinowa": {
+    "direction": "push",
+    "hash": "d2cb220dc3ce8e36242fd3364e6ef3b1a967aa069886ac23d4f570ed810d1927",
+    "last_sync": "2026-09-22T18:36:06.480704+00:00"
+  },
+  "Chiu Bûn-hái": {
+    "direction": "push",
+    "hash": "ae24a3f0227fbf4776e3e9ee7873ccd2f5e9ba9c4a2bae370f2c08e0c9e2d0db",
+    "last_sync": "2026-09-22T04:52:20.824622+00:00"
+  },
   "Chiu Khéng-gio̍k": {
     "direction": "push",
-    "hash": "605eaae8f9a76706224c3523a3a7e337f9018d100143f76c9b51b21adfad3daa",
-    "last_sync": "2026-09-21T22:57:36.419173+00:00"
+    "hash": "914cd524a63e60904be42bfc1efe9e42c120612140af6f8ec4d93469d31fde4e",
+    "last_sync": "2026-09-22T18:36:08.589106+00:00"
   },
   "Climate of Sinchew": {
     "direction": "push",
@@ -11,13 +21,28 @@
   },
   "First Mahik War": {
     "direction": "push",
-    "hash": "d600aef2e750a2b4eee47d7b608fd49950d0dee03530b91d7c77fb6e2627e1df",
-    "last_sync": "2026-09-21T22:47:40.888505+00:00"
+    "hash": "6f486172f5a60d0285e4db7646828a2b5b1240d115c8ae9eb26db8f4b3fae5b1",
+    "last_sync": "2026-09-22T18:38:10.898526+00:00"
+  },
+  "Flag of Sinchew": {
+    "direction": "pull",
+    "hash": "ca9bf6a35b242216084e137daada720170629aea795e185712cf843799e6be07",
+    "last_sync": "2026-09-22T19:49:23.071432+00:00"
   },
   "Geography of Sinchew": {
     "direction": "push",
-    "hash": "bf8841b775f882017f58520d43cef1c7dced602e0f72437929045161ddb21b9a",
-    "last_sync": "2026-09-20T05:56:48.227522+00:00"
+    "hash": "8964ea58057f84dff489836dc2ce2948d5e3a6d3855fe7b97e7c487038b85c97",
+    "last_sync": "2026-09-22T18:38:12.182741+00:00"
+  },
+  "History of Hachinawa": {
+    "direction": "push",
+    "hash": "92a213586a8293fe2c6b5da864a4b06dd0a364a19ce19014ac743d3494872a26",
+    "last_sync": "2026-09-22T19:00:42.640044+00:00"
+  },
+  "History of Hachinawa (1458-1538)": {
+    "direction": "push",
+    "hash": "208d84960d8fa17646d837c22c5683a29c9b1c049aa9da93af524a109438e289",
+    "last_sync": "2026-09-22T18:54:51.927268+00:00"
   },
   "History of Sinchew (1458-1538)": {
     "direction": "push",
@@ -26,13 +51,28 @@
   },
   "History of Sinchew (1474-1538)": {
     "direction": "push",
-    "hash": "69df017ecb6fff4e52cf47d745e09afd5f366729837b99b58ed21ab08148e69f",
-    "last_sync": "2026-09-21T22:39:40.354409+00:00"
+    "hash": "e6e84971e018839da8e5f59b21956bf381fe8118bb6455a07641ce10bd83e7f8",
+    "last_sync": "2026-09-22T04:45:02.227273+00:00"
+  },
+  "History of Sinchew (1538-1544)": {
+    "direction": "push",
+    "hash": "3c23c362a2a92e179ead85c49c62eeb90d1feb4c881bde5b6f116102035e4730",
+    "last_sync": "2026-09-22T04:45:03.275870+00:00"
+  },
+  "History of Sinchew (1544-1558)": {
+    "direction": "push",
+    "hash": "051a1717c4b4d5bd2f18c470963b3b2b4345f130c9269f53330c2cb5e9d2a479",
+    "last_sync": "2026-09-22T05:27:57.761050+00:00"
+  },
+  "History of Sinchew (1558-1606)": {
+    "direction": "push",
+    "hash": "44cff3fbafea8584c0603157b9d97920d679e398c72cc6f9868c3bc6d9050a39",
+    "last_sync": "2026-09-22T05:30:36.950483+00:00"
   },
   "Hokta": {
     "direction": "push",
-    "hash": "11a00881a45306aebf99f02a6d985b50c5430e527bb7a93c7b7dbbb98908de88",
-    "last_sync": "2026-09-21T22:51:38.601608+00:00"
+    "hash": "cb8a7ce5b24314b5b9cbe8db48925319289054dce5bd026dd985267fcf159daf",
+    "last_sync": "2026-09-22T04:52:24.413440+00:00"
   },
   "Kawesa War": {
     "direction": "push",
@@ -44,14 +84,34 @@
     "hash": "b234bafd20a5991ae38d051429623db1a39b60a9d270a27d75fbd73706956868",
     "last_sync": "2026-09-21T19:52:21.345213+00:00"
   },
+  "Okheng": {
+    "direction": "push",
+    "hash": "b449615cd4ae30d9741a8575244f909483c6bdc1b7e321f12010573737b0aead",
+    "last_sync": "2026-09-22T18:38:14.747488+00:00"
+  },
+  "Second Mahik War": {
+    "direction": "push",
+    "hash": "154db60604f590773172bae7e2b15a4ad9fc365fd877d85bb915e0bc3aabc4b9",
+    "last_sync": "2026-09-22T18:38:15.758370+00:00"
+  },
+  "Sinchewese name": {
+    "direction": "pull",
+    "hash": "1fb7d3bf66d16c30179a39fda32e4dccfe50c762362d17149fb9928a63165785",
+    "last_sync": "2026-09-22T19:49:24.381042+00:00"
+  },
+  "Sūn-heng Hâng": {
+    "direction": "push",
+    "hash": "48d6f7fcb3f7a17cf204dcccae3d09af47582407e16939ab7689229149784ba2",
+    "last_sync": "2026-09-22T18:38:17.215231+00:00"
+  },
   "Treaty of Anping": {
     "direction": "push",
-    "hash": "065a9d803d70354bd917f13766145db39d5af8a98be69f7679d99613bec9e1c7",
-    "last_sync": "2026-09-21T22:47:43.280246+00:00"
+    "hash": "d902150545d90ad0a18b503ab658e34d814ba290889d9bc06db80bb0ad86948a",
+    "last_sync": "2026-09-22T18:38:18.419789+00:00"
   },
   "Tsuwasha": {
     "direction": "push",
-    "hash": "c7adfdb73656c53c78b2098c422fb88951a2ae093a9147223a741080a5f33ef3",
-    "last_sync": "2026-09-21T22:31:53.549384+00:00"
+    "hash": "5bde30a75226c09e01897c1aaa071fb81965d890cce8c45a046d00e970216430",
+    "last_sync": "2026-09-22T18:38:20.617950+00:00"
   }
 }

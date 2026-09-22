@@ -156,3 +156,32 @@ So the sequence of the administration's dealings with him is:
 3. **1543** — appoint a governor with no tie to the Akwesa, over a colony divided from Louyang
 
 **Tân Bûn-khéng did not succeed him in an office. He was the first holder of the office that replaced it** — and it was the same man who had devised the legal ground for the acquisition five years earlier.
+
+---
+
+## Chinowa: c. 1507 – 1589, died at Tamsui aged 82 (2026-09-21)
+User: *"Chinowa was born most likley in 1507, and died at 82 in Tamsui."*
+
+**A sixty-eight-year marriage.** Married 1521 (she was about 14), both died at Tamsui; she in 1589, he nine years later in 1598.
+
+### What she outlived
+| year | age | event |
+|---|---|---|
+| 1507 | — | born, daughter of Hokta |
+| 1521 | ~14 | married to Chiu Khéng-gio̍k |
+| 1527 | ~20 | **her father dies of plague**; her husband becomes miko and king |
+| 1535 | ~28 | **her inheritance is sold to the colony** |
+| 1543 | ~36 | her husband removed; the colony divided |
+| 1564 | ~57 | the Great Disappointment |
+| 1572–85 | 65–78 | the Great Peasant Revolt in Zong |
+| **1589** | **~82** | **dies at Tamsui** — the year the Yuanlong Restoration completes |
+
+**She lived through the whole of it** — her father's chiefdom, its sale, her husband's career, and the decades afterwards. **She was a princess of the Akwesa, and by the time she died there were no Akwesa left to be princess of.**
+
+### Points worth noting
+- **Her marriage lasted longer than the chiefdom did** — by a very long way. Married for 68 years; the chiefdom ended 6 years into it.
+- **She and her sister [[Oktisa]] are the only named Akwesa women**, and the only female Akwesa names that survive at all.
+- **She died the same year the Yuanlong Restoration concluded** in Zong — a coincidence of timing worth remembering if the two are ever placed in the same frame.
+- **Their two unnamed children** were born somewhere in the middle of this marriage. Chinowa was in her late thirties by 1543; the children were probably born well before the sale.
+
+### Chinowa needs an article — still a red link

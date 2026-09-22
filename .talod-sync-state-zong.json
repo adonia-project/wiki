@@ -6,8 +6,8 @@
   },
   "Colonial Zong": {
     "direction": "push",
-    "hash": "504cb99f4e68042a1a7a397657d138e6442f1478ebb512041f315604a28b0b00",
-    "last_sync": "2026-09-21T22:31:56.791879+00:00"
+    "hash": "7cb361b4b1d7d19021389b546f0cd6368d37ae1d930c28a2035d4ffe2870575c",
+    "last_sync": "2026-09-22T04:52:30.633562+00:00"
   },
   "Eternal Wars of Zong": {
     "direction": "pull",
@@ -31,8 +31,8 @@
   },
   "History of Zong (1538-1606)": {
     "direction": "push",
-    "hash": "20401f083506528ab5a027732497ef9e43c731d7ddef5db5471d2d12bf619a47",
-    "last_sync": "2026-09-21T22:31:59.425392+00:00"
+    "hash": "17bdc1595661e0632484c425190b37793b9725e2333eeba1669b41af69a928cc",
+    "last_sync": "2026-09-22T04:51:30.319545+00:00"
   },
   "History of Zong (1606-1711)": {
     "direction": "push",
@@ -56,8 +56,8 @@
   },
   "Tamsui Plot": {
     "direction": "push",
-    "hash": "b2741382d36088aabd1709ecd81abe360508f8344a0b465b4c5d50faa9d3136d",
-    "last_sync": "2026-09-21T21:25:12.350979+00:00"
+    "hash": "d96f726805859033defed97a0f5340f244b7af51e7974c0f6a0b0e8288b3347e",
+    "last_sync": "2026-09-22T04:49:01.545845+00:00"
   },
   "Unification of Zong": {
     "direction": "pull",
