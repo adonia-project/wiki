@@ -125,6 +125,8 @@ def fix_text(s: str):
     lead_idx = None
     for i, line in enumerate(lines):
         t = line.strip()
+        depth += l.count("{{") - l.count("}}")
+        in_template = depth > 0 or l.strip().startswith("{{") or l.strip().startswith("|")
         if t and not t.startswith(("{", "|", "}", "=", "#", "<", "[")):
             lead_idx = i
             break
@@ -191,8 +193,11 @@ def fix_text(s: str):
 def check_text(s: str):
     problems = []
     for i, l in enumerate(s.split("\n"), 1):
-        if "**" in l:
-            problems.append("L%-4d markdown bold: %s" % (i, l.strip()[:60]))
+        stripped = l.strip()
+        # a line beginning with one or more asterisks is a mediawiki bullet,
+        # and "**bold**" must be PAIRED to be markdown
+        if not stripped.startswith("*") and re.search(r"\*\*.+?\*\*", l):
+            problems.append("L%-4d markdown bold: %s" % (i, stripped[:60]))
         if re.match(r"^#{1,6}\s", l):
             problems.append("L%-4d markdown heading: %s" % (i, l.strip()[:60]))
         if re.match(MD_TABLE, l):
@@ -206,17 +211,21 @@ def check_text(s: str):
                 problems.append("L%-4d leading article in heading: %s" % (i, l.strip()[:60]))
             if t and t[0].islower():
                 problems.append("L%-4d lowercase heading: %s" % (i, l.strip()[:60]))
-    # mediawiki bold: only flag it AFTER the first prose line, since the lead's
-    # bold is the article title and is correct.
-    seen_prose = False
+    # mediawiki bold is acceptable in exactly two places:
+    #   - the lead paragraph, where the bold IS the article title
+    #   - a bulleted line inside an infobox or {{tree list}}, e.g. *'''Entity''' ~25,000
+    # anywhere else it is emphasis, which the project bans.
+    lead_done = False
     for i, l in enumerate(s.split("\n"), 1):
-        t = l.strip()
-        if t and not t.startswith(("{", "|", "}", "=", "#", "<", "[")):
-            if seen_prose and re.search(BOLD_MW, l):
-                problems.append("L%-4d mediawiki bold (not a title): %s" % (i, t[:60]))
-            seen_prose = True
-        if re.search(BOLD_MW, l) and not seen_prose:
-            problems.append("L%-4d mediawiki bold (not a title): %s" % (i, t[:60]))
+        stripped = l.strip()
+        is_prose = stripped and not stripped.startswith(("{", "|", "}", "=", "#", "<", "[", "*", "!"))
+        if is_prose and not lead_done:
+            lead_done = True            # this is the lead; its bold is the title
+            continue
+        if stripped.startswith(("*", "|")):
+            continue                    # bulleted tree-list entry, or an infobox field
+        if re.search(BOLD_MW, l):
+            problems.append("L%-4d mediawiki bold (emphasis, not a title): %s" % (i, stripped[:60]))
     if s.count("{|") != s.count("|}"):
         problems.append("table markup unbalanced: %d open, %d close" % (s.count("{|"), s.count("|}")))
     # editorialising: reported, never repaired - judgement is required
