@@ -125,8 +125,6 @@ def fix_text(s: str):
     lead_idx = None
     for i, line in enumerate(lines):
         t = line.strip()
-        depth += l.count("{{") - l.count("}}")
-        in_template = depth > 0 or l.strip().startswith("{{") or l.strip().startswith("|")
         if t and not t.startswith(("{", "|", "}", "=", "#", "<", "[")):
             lead_idx = i
             break

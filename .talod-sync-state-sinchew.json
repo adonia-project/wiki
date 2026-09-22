@@ -19,6 +19,11 @@
     "hash": "138be04ace22278fa52dcd8adeba185e01cf84202820424f1d9957e8bc08351d",
     "last_sync": "2026-09-19T20:04:32.794503+00:00"
   },
+  "Dalewa": {
+    "direction": "push",
+    "hash": "7f845833f7008fbd31161ee5d6e349371f26999ab16159bf20d8691a711d3a4e",
+    "last_sync": "2026-09-22T21:25:41.275319+00:00"
+  },
   "First Mahik War": {
     "direction": "push",
     "hash": "6f486172f5a60d0285e4db7646828a2b5b1240d115c8ae9eb26db8f4b3fae5b1",
@@ -34,15 +39,25 @@
     "hash": "8964ea58057f84dff489836dc2ce2948d5e3a6d3855fe7b97e7c487038b85c97",
     "last_sync": "2026-09-22T18:38:12.182741+00:00"
   },
+  "Hachina language": {
+    "direction": "push",
+    "hash": "e0daf4cdd5af8477614ff5d41a306286b0b6ef087a1ad9b1ce6e4b36bcea90d3",
+    "last_sync": "2026-09-22T21:17:49.354573+00:00"
+  },
   "History of Hachinawa": {
     "direction": "push",
-    "hash": "92a213586a8293fe2c6b5da864a4b06dd0a364a19ce19014ac743d3494872a26",
-    "last_sync": "2026-09-22T19:00:42.640044+00:00"
+    "hash": "e8f3b483d0c823ce8929b8a7bc465f5f6f6d542511b6859bef3a45f18bc495e7",
+    "last_sync": "2026-09-22T22:11:17.824063+00:00"
   },
   "History of Hachinawa (1458-1538)": {
     "direction": "push",
-    "hash": "208d84960d8fa17646d837c22c5683a29c9b1c049aa9da93af524a109438e289",
-    "last_sync": "2026-09-22T18:54:51.927268+00:00"
+    "hash": "565cb42af8b481c0bdc20eefb47010abc0cff6a496be7a4a0e69bfcaa84ea819",
+    "last_sync": "2026-09-22T22:11:18.803540+00:00"
+  },
+  "History of Hachinawa (1538-1606)": {
+    "direction": "push",
+    "hash": "6fd5fcfe650320cfedc78949c10538b3c6e272f64b7d7660be88edb36fea029d",
+    "last_sync": "2026-09-22T22:11:19.802890+00:00"
   },
   "History of Sinchew (1458-1538)": {
     "direction": "push",
@@ -51,8 +66,8 @@
   },
   "History of Sinchew (1474-1538)": {
     "direction": "push",
-    "hash": "e6e84971e018839da8e5f59b21956bf381fe8118bb6455a07641ce10bd83e7f8",
-    "last_sync": "2026-09-22T04:45:02.227273+00:00"
+    "hash": "78e3e1c148e031e5a1a49bf4039d589cdc11257d5402db6fb3ae55d31b0d7c76",
+    "last_sync": "2026-09-22T22:11:21.038578+00:00"
   },
   "History of Sinchew (1538-1544)": {
     "direction": "push",
@@ -61,13 +76,18 @@
   },
   "History of Sinchew (1544-1558)": {
     "direction": "push",
-    "hash": "051a1717c4b4d5bd2f18c470963b3b2b4345f130c9269f53330c2cb5e9d2a479",
-    "last_sync": "2026-09-22T05:27:57.761050+00:00"
+    "hash": "da2599e4ab1b61a8d2acfe5e5ba0aa13213f69225cd56257426a9376e76f2839",
+    "last_sync": "2026-09-22T21:57:57.292542+00:00"
   },
   "History of Sinchew (1558-1606)": {
     "direction": "push",
-    "hash": "44cff3fbafea8584c0603157b9d97920d679e398c72cc6f9868c3bc6d9050a39",
-    "last_sync": "2026-09-22T05:30:36.950483+00:00"
+    "hash": "dea71086e7c72bc76c55e68522a4bb19bc29b0fc3caa186811cd36673304b60c",
+    "last_sync": "2026-09-22T22:11:22.143361+00:00"
+  },
+  "History of Sinchew (1606-1648)": {
+    "direction": "push",
+    "hash": "a8092cf10e48bc2c28bc8f1e62ec5c046d685d95a9860eefe4861daa645d0224",
+    "last_sync": "2026-09-22T22:14:59.400039+00:00"
   },
   "Hokta": {
     "direction": "push",
@@ -89,10 +109,20 @@
     "hash": "b449615cd4ae30d9741a8575244f909483c6bdc1b7e321f12010573737b0aead",
     "last_sync": "2026-09-22T18:38:14.747488+00:00"
   },
+  "Scripts of Hachinawa": {
+    "direction": "push",
+    "hash": "b9fa331fed4088936c6959f23f470cb6ca8c244ecc5864cabf86810eb117fa08",
+    "last_sync": "2026-09-22T21:25:39.616703+00:00"
+  },
   "Second Mahik War": {
     "direction": "push",
     "hash": "154db60604f590773172bae7e2b15a4ad9fc365fd877d85bb915e0bc3aabc4b9",
     "last_sync": "2026-09-22T18:38:15.758370+00:00"
+  },
+  "Sinchew War": {
+    "direction": "push",
+    "hash": "eee148019fc47e5b5075f56c7570ed18ff98be9ebbdb9afa7618e15dc6ed209d",
+    "last_sync": "2026-09-22T22:57:22.554036+00:00"
   },
   "Sinchewese name": {
     "direction": "pull",
@@ -104,14 +134,29 @@
     "hash": "48d6f7fcb3f7a17cf204dcccae3d09af47582407e16939ab7689229149784ba2",
     "last_sync": "2026-09-22T18:38:17.215231+00:00"
   },
+  "Third Mahik War": {
+    "direction": "push",
+    "hash": "9975e2b2a8d1127ff38ad9b408c6526f3b38fa73efe3c67ddb96b24ec2486e2c",
+    "last_sync": "2026-09-22T22:19:56.075455+00:00"
+  },
   "Treaty of Anping": {
     "direction": "push",
-    "hash": "d902150545d90ad0a18b503ab658e34d814ba290889d9bc06db80bb0ad86948a",
-    "last_sync": "2026-09-22T18:38:18.419789+00:00"
+    "hash": "5f2b4914fd631f06b91d2aac239129dd755ecfc598ac73c936e7bdaeaf439326",
+    "last_sync": "2026-09-22T22:11:24.645786+00:00"
+  },
+  "Treaty of Tamsui": {
+    "direction": "push",
+    "hash": "daa8bbc74af78443a1fa2c5439feb930d58e24fb256ea04e4d21d31344593be2",
+    "last_sync": "2026-09-22T22:15:00.422344+00:00"
   },
   "Tsuwasha": {
     "direction": "push",
     "hash": "5bde30a75226c09e01897c1aaa071fb81965d890cce8c45a046d00e970216430",
     "last_sync": "2026-09-22T18:38:20.617950+00:00"
+  },
+  "Zong script in Hachinawa": {
+    "direction": "push",
+    "hash": "048b1ad3198e2d8571926b29abb1897cc4b09b36f5164743b95f2e357553eb0e",
+    "last_sync": "2026-09-22T22:11:26.351615+00:00"
   }
 }
