@@ -24,7 +24,7 @@ from pathlib import Path
 
 APOS = "'"
 BOLD_MW = "(?<!%s)%s(?!%s)(.+?)(?<!%s)%s(?!%s)" % ((APOS,) + (APOS * 3,) * 5)
-ITAL_MD = r"(?<!\*)\*([A-Za-z][A-Za-z '\-]*?)\*(?!\*)"
+ITAL_MD = r"(?<!\*)\*([^\s*][^*]*?)\*(?!\*)"
 
 # Editorialising: a wiki article reports what happened; it does not tell the
 # reader what it means, why it matters, or what is really going on. These are
