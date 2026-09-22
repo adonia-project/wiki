@@ -25,6 +25,9 @@ from pathlib import Path
 APOS = "'"
 BOLD_MW = "(?<!%s)%s(?!%s)(.+?)(?<!%s)%s(?!%s)" % ((APOS,) + (APOS * 3,) * 5)
 ITAL_MD = r"(?<!\*)\*([^\s*][^*]*?)\*(?!\*)"
+# a markdown table separator row - piped runs of dashes. Mediawiki has no such
+# construct, so any match is a markdown table written into a .mediawiki file.
+MD_TABLE = r"^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$"
 
 # Editorialising: a wiki article reports what happened; it does not tell the
 # reader what it means, why it matters, or what is really going on. These are
@@ -152,6 +155,8 @@ def check_text(s: str):
             problems.append("L%-4d markdown bold: %s" % (i, l.strip()[:60]))
         if re.match(r"^#{1,6}\s", l):
             problems.append("L%-4d markdown heading: %s" % (i, l.strip()[:60]))
+        if re.match(MD_TABLE, l):
+            problems.append("L%-4d MARKDOWN TABLE separator (no wikitable): %s" % (i, l.strip()[:60]))
         m = re.match(r"^(=+)([^=].*?)(=+)\s*$", l.rstrip())
         if m:
             if len(m.group(1)) != len(m.group(3)):
