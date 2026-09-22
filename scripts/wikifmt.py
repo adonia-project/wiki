@@ -61,6 +61,18 @@ EDITORIAL = [
     (r"\bmarked the moment\b", "meta-narrative"),
     (r"\bcame to (represent|symbolise|embody)\b", "interpretation"),
     (r"\bthe story of the\b", "meta-narrative"),
+    # essayistic framing: opening with a negation, or announcing the point.
+    # "is not written in shared characters" is a plain statement of fact; what
+    # makes the construction essayistic is the "in one act" shape, so require it.
+    (r"\b(was|were|is|are|did|does) not (devised|invented|written|made|created|built|begun|done) in (one|a single)\b", "essayistic negation"),
+    (r"\bnot in one (act|step|year|move)\b", "essayistic negation"),
+    (r"\bchanged the (problem|question|calculation)\b", "essayistic framing"),
+    (r"\bwould not serve\b", "argumentative"),
+    (r"\bwhat (they|he|she|it|the \w+) (produced|did|found) was\b", "essayistic framing"),
+    (r"\bwhich is described below\b", "meta-narrative"),
+    (r"\bas (described|set out|noted) (below|above)\b", "meta-narrative"),
+    (r"\bit was they who\b", "rhetorical elevation"),
+    (r"\bwhat the (scribes|records|evidence) (did|show)\b", "essayistic framing"),
 ]
 
 
