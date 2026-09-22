@@ -73,6 +73,34 @@ EDITORIAL = [
     (r"\bas (described|set out|noted) (below|above)\b", "meta-narrative"),
     (r"\bit was they who\b", "rhetorical elevation"),
     (r"\bwhat the (scribes|records|evidence) (did|show)\b", "essayistic framing"),
+    # --- telling rather than showing (WP:Writing better articles, the style trilemma)
+    (r"\banswered (both|the) (questions|purposes)\b", "telling not showing"),
+    (r"\bboth (questions|purposes) at once\b", "telling not showing"),
+    (r"\bat (a single|one) stroke\b", "cleverness"),
+    (r"\btwice over\b", "cleverness"),
+    (r"\bnever before\b", "cleverness"),
+    # "the only X that" is often a plain fact ("the only person who may open the year");
+    # flag it only where it carries a value judgement
+    (r"\bthe only \w+ (that|who) (can|could|would|has|had)\b", "cleverness"),
+    (r"\bas (described|set out|noted|treated) (below|above)\b", "referential commentary"),
+    (r"\bis (treated|discussed|described) (below|above)\b", "referential commentary"),
+    # --- peacock terms: replace with the fact that makes them true
+    (r"\b(most|more) (significant|important|notable|remarkable)\b", "peacock"),
+    (r"\b(highly|most|very) (significant|important|notable|remarkable|influential)\b", "peacock"),
+    (r"\bone of the (most|greatest|finest|largest)\b", "peacock"),
+    (r"\b(it|this) (was|is) (significant|important|notable|remarkable)\b", "peacock"),
+    (r"\ba (significant|major|key|pivotal|crucial) (role|part|factor|moment|development)\b", "peacock"),
+    (r"\bmarked a (turning point|new era|new chapter)\b", "peacock"),
+    # --- weasel words
+    (r"\b(it is|it was) (believed|thought|said|claimed|suggested)\b", "weasel"),
+    (r"\b(widely|generally) (regarded|considered|seen|held)\b", "weasel"),
+    (r"\b(some|many) (have|had) (claimed|suggested|argued|said)\b", "weasel"),
+    (r"\blegend has it\b", "weasel"),
+    # --- unearned emphasis
+    (r"\b(certainly|undoubtedly|clearly|obviously|indeed|above all|unquestionably)\b", "unearned emphasis"),
+    # --- emphatic punctuation
+    (r"!", "exclamation mark"),
+    (r"\?", "question mark (check it is not a real question)"),
 ]
 
 
@@ -194,7 +222,7 @@ def check_text(s: str):
     # editorialising: reported, never repaired - judgement is required
     for i, l in enumerate(s.split("\n"), 1):
         t = l.strip()
-        if not t or t.startswith(("|", "{", "}", "=", "*", "#", "<")):
+        if not t or t.startswith(("|", "{", "}", "=", "*", "#", "<", "!")):
             continue
         for pat, kind in EDITORIAL:
             if re.search(pat, l):

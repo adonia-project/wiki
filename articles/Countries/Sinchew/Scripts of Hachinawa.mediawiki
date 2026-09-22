@@ -1,0 +1,50 @@
+'''''Scripts of Hachinawa''''' are the writing systems used for [[Hachina language|Hachina]], the language of [[Hachinawa]]. Two have been used. '''[[Dalewa]]''' is a logographic script of the state's own invention, in use from about 700 CE. The '''[[Zong script in Hachinawa|Zong script]]''' was adopted for official use in the sixteenth century by decree of the king, and displaced the traditional characters from the business of the state.
+
+The displacement of ''Dalewa'' is the central cultural event of the period 1538 to 1606 and the origin of the divisions within Hachina society in that period.
+
+== Dalewa ==
+
+{{Main|Dalewa}}
+
+''Dalewa'' is logographic, with characters standing for words rather than sounds, and it appeared about 700 CE together with the calendar. Its earliest use was administrative: the oldest surviving inscriptions are granary records, giving quantities of grain received, stored and issued with the dates on which they moved. It was taught in the temple establishments from its invention, and for seven centuries its ordinary medium was stone. Paper, which reached Hachinawa through the Zong trade in the fifteenth century, allowed the record to be kept in quantity for the first time.
+
+== Zong script ==
+
+{{Main|Zong script in Hachinawa}}
+
+The Zong script was adopted by decree in the sixteenth century, in a policy the court understood as competition with the power it dealt with. Because the script was not devised for Hachina, writing the language in it required a system of transcription, which the court charged its scribes with devising. The system has four parts: common words are written with the Zong character of corresponding meaning and read as Hachina words; words with no Zong equivalent are written with characters coined from Zong elements; names are written phonetically; and the Hachina classifiers are retained alongside the Zong characters.
+
+A Hachina document written in the Zong script is partly legible to a Zong reader, who recovers the nouns and verbs and not the grammar. The need for officials competent in both languages was unaffected by it.
+
+== Comparison ==
+
+{| class="wikitable"
+|-
+! Feature !! Dalewa !! Zong script in Hachinawa
+|-
+| Origin || Hachina, c. 700 CE || borrowed from [[Zong]], 16th century
+|-
+| Type || logographic || borrowed logographic, with coined characters
+|-
+| Character set || the full Hachina lexicon || shared characters plus coined and phonetic ones
+|-
+| Readings || one per character || one per character, where Zong characters carry several
+|-
+| Numerals || its own decimal system || the Zong numerals in official use, the Dalewa numerals retained in the temples
+|-
+| Dating || by the year of the reigning king || both reckonings where a date is given to a Zong
+|-
+| Medium || stone, then paper || paper and the official register
+|-
+| Status || displaced from official use, retained in the temples || official script of the state
+|}
+
+== See also ==
+
+* [[Dalewa]]
+* [[Zong script in Hachinawa]]
+* [[Hachina language]]
+* [[Hachinawa]]
+* [[History of Hachinawa (1538-1606)|History of Hachinawa (1538–1606)]]
+
+[[Category:Sinchew]][[Category:Languages]]

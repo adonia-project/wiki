@@ -1,0 +1,161 @@
+{{Infobox writing system
+| name        = Dalewa
+| type        = logographic
+| languages   = [[Hachina language|Hachina]]
+| created     = c. 700 CE
+| time        = c. 700 CE to the present, displaced from official use in the 16th century
+| status      = official use displaced by the [[Zong script in Hachinawa|Zong script]] in the 16th century
+}}
+
+'''''Dalewa''''' - ''dale'', "speech", and ''awa'', "realm", "the realm of speech" - is the traditional script of [[Hachinawa]], in use for [[Hachina language|Hachina]] from about 700 CE. It is logographic, with characters standing for words rather than sounds, and it was taught in the temple establishments together with the calendar and the numerals.
+
+From the sixteenth century it was displaced from official use by the [[Zong script in Hachinawa|Zong script]]. It survived in the temples, in the records of the priesthood and in the writing of the traditionalists. It is treated with the other scripts of the state in [[Scripts of Hachinawa]].
+
+The traditional script, Dalewa, is logographic, with characters standing for words or for parts of words, and it is written with a numeral system of its own. It appeared about 700 CE, within two generations of the unification of the plain, and it appeared with the calendar rather than before it.
+
+The name is the ordinary word for speech with the ordinary word for realm attached to it, and it carries the same construction as the state's own name, ''Hachinawa''. The script is not named for its inventor, its material or its purpose but for what it is: the realm in which the language is written, as the state is the realm in which the people live.
+
+Its earliest surviving use is administrative. The oldest inscriptions are granary records: quantities of grain received, stored and issued, with the dates on which they moved. The calendar and the script were developed together because the state required both, one to fix the dates of sowing and harvest and the other to record the yield.
+
+The script was taught in the temple establishments from its invention. The schools that produced the officials who measured grain and kept the tribute rolls, and the priests who kept the calendar, were institutions of the script as well as of the calendar, and the two competences were not distinguished in the curriculum.
+
+== Structure ==
+
+''Dalewa'' is logographic. A character, tsin, stands for a word rather than for a sound, and is read as the Hachina word for the thing it denotes. The script is therefore not a means of writing speech phonetically: a reader who knows the characters and not the language can recover the meaning of a text without being able to pronounce it.
+
+Characters fall into four kinds.
+
+* Pictorial tsin are derived from drawings of the thing denoted. ''Hacha'', "grain", is a stalk with the head bent; ''ku'', "water", is a vertical line with two strokes crossing it; ''tala'', "city", is a rectangle with a gap in one wall.
+* Compound tsin are formed by combining two pictorial characters, and their meaning is that of the combination rather than either part. ''Hina'', "river", is ''ku'', "water", written beside a character for movement; ''washakaya'', "marshy plain", is ''washa'', "standing water", over ''kaya'', "open ground".
+* Classifier tsin are semantic marks prefixed to another character to fix which of several senses of that character is meant. The classifier for people, a short vertical stroke with a dot, distinguishes ''kowa'', "people", from the same character read as "many"; the classifier for grain distinguishes ''hacha'', "maize", from the general character for plants.
+* Borrowed tsin are characters used for their sound rather than their meaning, to write words that have no character of their own, including foreign names. Borrowed use is rare in official writing and was disliked by the temples, which kept the older readings.
+
+== Sample characters ==
+
+The forms below are described rather than drawn. Readings are given in the romanisation used for Hachina.
+
+{| class="wikitable"
+|-
+! Character !! Reading !! Meaning !! Form
+|-
+| water || ku || water || a vertical line crossed by two short strokes
+|-
+| river || hina || river, flowing water || ''ku'' beside a character for movement
+|-
+| lake || washa || standing water || ''ku'' enclosed on three sides
+|-
+| plain || kaya || open ground, plain || a horizontal stroke above a horizontal stroke
+|-
+| hill || tsap || raised ground, hill || a low curve with a stroke beneath it
+|-
+| mountain || hala || mountain || three peaks joined at the base
+|-
+| grain || hacha || maize, grain || a stalk with the head bent
+|-
+| field || pah || field, clearing || a square divided into four
+|-
+| person || kowa || person, people || a vertical stroke with a head above it
+|-
+| people || kowa-kowa || a people, a folk || two person characters side by side
+|-
+| king || hik || king, paramount ruler || a person character beneath a roof
+|-
+| lord || tsula || chief, lord || a person character beside a raised stroke
+|-
+| centre || hachin || centre, middle || a dot within a square
+|-
+| realm || awa || realm, land || a square with a gap at the top
+|-
+| gold || sho || gold || a dot beneath a horizontal stroke
+|-
+| iron || pach || weapon, iron || a blade shape on a haft
+|-
+| road || kan || road, path || two parallel strokes with a third between them
+|-
+| house || yaka || house, dwelling || a roof over a wall
+|-
+| speech || dale || speech, tongue || a mouth shape with a stroke emerging from it
+|-
+| year || tsu-hacha || year, harvest || ''hacha'' beneath a character for turning
+|}
+
+== Image of the script ==
+
+No drawing of the characters is reproduced here. A sheet of the sample characters above, in the order given, would serve as the ordinary reference.
+
+<!-- Image prompt: a reference sheet of twenty logographic characters from the fictional Dalewa script of Hachinawa; ink on aged stone-coloured paper, each glyph simple and geometric, drawn as line art in black; arranged in four columns of five with a romanised reading and a short English gloss beneath each glyph; the glyphs are abstract and pictographic (water as a crossed vertical line, grain as a bent stalk, mountain as three joined peaks, person as a stroke with a head, centre as a dot in a square); no decorative border, no watermark, flat even lighting, museum catalogue style -->
+
+== Written on stone, then on paper ==
+
+For seven centuries the ordinary medium of ''Dalewa'' was stone. The script was cut into monuments, boundary stones, granary walls and the walls of temples, and the record it produced was accordingly public, durable and brief: it suited the proclamation and the dedication rather than the ledger.
+
+Paper reached Hachinawa through the Zong trade in the fifteenth century, and the effect on the administration was immediate. A script already seven centuries old could be written in quantity for the first time, and the record became voluminous, portable and disposable. The tribute registers, grain accounts, land registers and correspondence of the sixteenth century are consequences of a change of material rather than of method.
+
+== Numerals ==
+
+''Dalewa'' has a decimal numeral system with ten distinct signs and a positional notation, the position being marked by a stroke beneath the figure rather than by a zero.
+
+{| class="wikitable"
+|-
+! Value !! Sign
+|-
+| one || a single upright stroke
+|-
+| two || two upright strokes joined at the base
+|-
+| three || three upright strokes joined at the base
+|-
+| four || a square
+|-
+| five || a square with a stroke through it
+|-
+| six || a square with two strokes at its upper corner
+|-
+| seven || a square with three strokes at its upper corner
+|-
+| eight || two squares side by side
+|-
+| nine || two squares with a stroke through the pair
+|-
+| ten || a single square with a stroke beneath it
+|}
+
+Numbers are written with the highest place first and the places separated by a space, so that ''two hundred and forty-one'' is written as the character for two, then a space, then four, then one.
+
+== Calendar notation ==
+
+Dates are written in three parts, in the order year, month, day, and are introduced by the character for the year in which the king's reign began rather than by a continuous count.
+
+A date therefore takes the form: the reign-character, the number of the year of the reign, the month, the day. The months are the agricultural months of the calendar rather than named months, and are written with numerals.
+
+The system means that a date cannot be read without knowing which king reigned, and that the record of a reign is the record of the years on which documents are dated. It is one of the reasons the royal lists of Hachinawa are as full as they are, and one of the reasons a document of an unrecorded king is difficult to place.
+
+== Sample inscription ==
+
+The following is a granary record of the kind on which the script's earliest use is attested, given line by line in transliteration with the meaning beneath. It is a reconstruction of the ordinary form rather than the transcription of one surviving stone.
+
+{| class="wikitable"
+|-
+! Transliteration !! Meaning
+|-
+| kayahik tsu-hacha hik-na-tsu || In the reign of Kayahik, in the year nine of his reign,
+|-
+| hacha pah-tsap kan-tsula || the grain of the upland fields,
+|-
+| ku-tsin hacha cha-pach || measured by the grain measure,
+|-
+| hik-tsula awa-ha hacha hachin || received into the granary of the king,
+|-
+| hacha pach-mu hik-na-tsu || issued two hundred in the year nine.
+|}
+
+The record is dated by the reign, measures grain in a unit of the state's own definition, and names the granary by the king to whom it belonged. It is an account rather than a narrative, and the earliest use of ''Dalewa'' is of this kind.
+
+== See also ==
+
+* [[Scripts of Hachinawa]]
+* [[Zong script in Hachinawa]]
+* [[Hachina language]]
+* [[Hachinawa]]
+
+[[Category:Sinchew]][[Category:Languages]]
