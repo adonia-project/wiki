@@ -1,0 +1,186 @@
+#!/usr/bin/env python3
+"""wikifmt - repair and validate mediawiki articles before pushing.
+
+Usage:
+    python scripts/wikifmt.py --fix articles/.../*.mediawiki    # repair in place
+    python scripts/wikifmt.py --check articles/.../*.mediawiki  # report only
+    python scripts/wikifmt.py --fix --check FILE                # both
+
+Exits non-zero if any problem remains, so it can gate a `&&` chain.
+
+Faults repaired, in the order they are handled:
+  1. markdown bold      **x**        -> x
+  2. markdown italics   *x*          -> ''x''
+  3. mediawiki bold     '''x'''      -> x            (spares '''''x''''', the title form)
+  4. heading articles   == The X ==  -> == X ==
+  5. heading balance    === X ==     -> === X ===
+  6. heading case       == x ==      -> == X ==
+  7. markdown headings  ## X         -> == X ==
+  8. trailing space, and a guaranteed final newline
+"""
+import re
+import sys
+from pathlib import Path
+
+APOS = "'"
+BOLD_MW = "(?<!%s)%s(?!%s)(.+?)(?<!%s)%s(?!%s)" % ((APOS,) + (APOS * 3,) * 5)
+ITAL_MD = r"(?<!\*)\*([A-Za-z][A-Za-z '\-]*?)\*(?!\*)"
+
+
+def fix_text(s: str):
+    """Return (repaired_text, list_of_changes)."""
+    log = []
+
+    n = len(re.findall(r"\*\*(.+?)\*\*", s))
+    if n:
+        s = re.sub(r"\*\*(.+?)\*\*", r"\1", s)
+        log.append("markdown bold removed: %d" % n)
+
+    n = len(re.findall(ITAL_MD, s))
+    if n:
+        s = re.sub(ITAL_MD, r"''\1''", s)
+        log.append("markdown italics converted: %d" % n)
+
+    # Mediawiki bold is removed ONLY outside the lead paragraph.
+    # The lead's bold IS the article title (`'''Balboa'''`, `'''Flag of Sinchew'''`),
+    # so stripping it would damage every article. Polish it only after the first prose line.
+    lines = s.split("\n")
+    lead_idx = None
+    for i, line in enumerate(lines):
+        t = line.strip()
+        if t and not t.startswith(("{", "|", "}", "=", "#", "<", "[")):
+            lead_idx = i
+            break
+    if lead_idx is not None:
+        head, tail = lines[:lead_idx + 1], lines[lead_idx + 1:]
+        tail_s = "\n".join(tail)
+        n = len(re.findall(BOLD_MW, tail_s))
+        if n:
+            tail_s = re.sub(BOLD_MW, r"\1", tail_s)
+            log.append("mediawiki bold removed after the lead: %d" % n)
+        s = "\n".join(head) + "\n" + tail_s
+
+    # markdown headings -> mediawiki
+    out, n = [], 0
+    for line in s.split("\n"):
+        m = re.match(r"^(#{1,6})\s+(.*?)\s*$", line)
+        if m:
+            lvl = len(m.group(1))
+            out.append("=" * lvl + " " + m.group(2) + " " + "=" * lvl)
+            n += 1
+        else:
+            out.append(line)
+    if n:
+        s = "\n".join(out)
+        log.append("markdown headings converted: %d" % n)
+
+    # headings: balance the equals, drop a leading article, capitalise
+    out, arts, bal, caps = [], 0, 0, 0
+    for line in s.split("\n"):
+        m = re.match(r"^(=+)([^=].*?)(=+)\s*$", line.rstrip())
+        if not m:
+            out.append(line)
+            continue
+        lead, text, trail = m.group(1), m.group(2).strip(), m.group(3)
+        if len(lead) != len(trail):
+            trail = lead
+            bal += 1
+        t2 = re.sub(r"^(the|a|an)\s+", "", text, flags=re.I)
+        if t2 != text:
+            arts += 1
+            text = t2
+        if text and text[0].islower():
+            text = text[0].upper() + text[1:]
+            caps += 1
+        out.append("%s %s %s" % (lead, text, trail))
+    if bal:
+        log.append("unbalanced headings repaired: %d" % bal)
+    if arts:
+        log.append("leading articles removed from headings: %d" % arts)
+    if caps:
+        log.append("headings capitalised: %d" % caps)
+    s = "\n".join(out)
+
+    # whitespace hygiene
+    s = "\n".join(l.rstrip() for l in s.split("\n"))
+    while "\n\n\n" in s:
+        s = s.replace("\n\n\n", "\n\n")
+    if s and not s.endswith("\n"):
+        s += "\n"
+
+    return s, log
+
+
+def check_text(s: str):
+    problems = []
+    for i, l in enumerate(s.split("\n"), 1):
+        if "**" in l:
+            problems.append("L%-4d markdown bold: %s" % (i, l.strip()[:60]))
+        if re.match(r"^#{1,6}\s", l):
+            problems.append("L%-4d markdown heading: %s" % (i, l.strip()[:60]))
+        m = re.match(r"^(=+)([^=].*?)(=+)\s*$", l.rstrip())
+        if m:
+            if len(m.group(1)) != len(m.group(3)):
+                problems.append("L%-4d unbalanced heading: %s" % (i, l.strip()[:60]))
+            t = m.group(2).strip()
+            if re.match(r"^(the|a|an)\s", t, re.I):
+                problems.append("L%-4d leading article in heading: %s" % (i, l.strip()[:60]))
+            if t and t[0].islower():
+                problems.append("L%-4d lowercase heading: %s" % (i, l.strip()[:60]))
+    # mediawiki bold: only flag it AFTER the first prose line, since the lead's
+    # bold is the article title and is correct.
+    seen_prose = False
+    for i, l in enumerate(s.split("\n"), 1):
+        t = l.strip()
+        if t and not t.startswith(("{", "|", "}", "=", "#", "<", "[")):
+            if seen_prose and re.search(BOLD_MW, l):
+                problems.append("L%-4d mediawiki bold (not a title): %s" % (i, t[:60]))
+            seen_prose = True
+        if re.search(BOLD_MW, l) and not seen_prose:
+            problems.append("L%-4d mediawiki bold (not a title): %s" % (i, t[:60]))
+    if s.count("{|") != s.count("|}"):
+        problems.append("table markup unbalanced: %d open, %d close" % (s.count("{|"), s.count("|}")))
+    return problems
+
+
+def main(argv):
+    do_fix = "--fix" in argv
+    do_check = "--check" in argv or not do_fix
+    files = [a for a in argv[1:] if not a.startswith("--")]
+    if not files:
+        print(__doc__)
+        return 0
+
+    remaining = 0
+    for f in files:
+        p = Path(f)
+        if not p.exists():
+            print("missing: %s" % f)
+            remaining += 1
+            continue
+        s = p.read_text(encoding="utf-8")
+        if do_fix:
+            s2, log = fix_text(s)
+            if s2 != s:
+                p.write_text(s2, encoding="utf-8")
+                print("fixed  %s" % p.name)
+                for x in log:
+                    print("         %s" % x)
+            s = s2
+        if do_check:
+            probs = check_text(s)
+            if probs:
+                remaining += 1
+                print("PROBLEMS %s" % p.name)
+                for x in probs:
+                    print("         %s" % x)
+            elif do_fix:
+                print("clean  %s" % p.name)
+
+    if remaining and do_check:
+        print("\n%d file(s) with problems" % remaining)
+    return 1 if remaining else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))

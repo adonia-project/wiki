@@ -34,6 +34,20 @@ Related: `Hachina internal.md` (the empire they were subject to), `Nahola intern
 
 **Names proposed; unconfirmed.** The lexicon and the constructions are in `Uwisa language internal.md`.
 
+### Rivals
+
+**The two states were rivals, not allies. (User, 2026-09-22.)**
+
+**This is the key to the whole relationship, and it changes the empire's role from conqueror to arbiter.**
+
+**Divide and rule is the ordinary instrument of an empire against two neighbours who dislike each other more than they dislike it.** Hachinawa did not need to defeat Uwisa outright if it could be the power whose favour decided which state prevailed. The instruments are familiar: support to one state against the other, recognition, trade on favourable terms, and the withholding of any of these.
+
+**And it makes the tribute intelligible in a way that conquest alone does not.** Part of what Hatso and Kalihą paid was not the price of defeat but **the price of imperial favour** - paid so that the empire would back them rather than their rival. A state that stops paying does not merely risk a campaign; **it risks finding the empire subsidising its neighbour.**
+
+**That explains why the assessments could rise without producing revolt.** Refusing an increase was more dangerous than paying it, **because the rival would not refuse.**
+
+**It also explains the length of the contest.** The empire's difficulty was never that Uwisa was too strong to beat. It was that **two rivals could each be raised as a counterweight to the other**, so that whichever state the empire weakened was the one whose rival then grew. **A single kingdom once broken stays broken. Two rivals give each other time** - and give the empire a reason to keep both alive.
+
 ## 2. Position within the empire
 
 Uwisa borders Hachina along **1,906 boundary cells** — the longest frontier of any of the empire's neighbours. It is also, with Yelani, one of the **two named sources of tributary gold**.
@@ -72,3 +86,5 @@ Uwisa borders Hachina along **1,906 boundary cells** — the longest frontier of
 5. **Their relation to Nahola.** Two upland neighbours, one an isolate and one a family of three, both subject to the same empire.
 6. **Population.** With 326,760 km² of plateau, Uwisa is a candidate for the largest population of the three tributaries — possibly comparable to the Hachina's dependants in aggregate.
 7. **Religion**, and whether the Centre meant anything to a plateau people with no great river of their own.
+8. **How did the rivalry end, and what does "joined the empire in 1568" mean for two rivals?** Both subsumed, one absorbing the other with imperial consent, or the distinction abolished by the empire?
+9. **Did Hachinawa ever back one state openly against the other**, and is that recorded as an imperial action or only in Uwisa's own history?
