@@ -1,4 +1,9 @@
 {
+  "Armed Forces of Sinchew": {
+    "direction": "push",
+    "hash": "d0f2776986e6d70ca6d0f3deb24f7af1979e5b6dd1e486b6455cf6ea5aab2610",
+    "last_sync": "2026-09-23T22:35:51.286665+00:00"
+  },
   "Baiduist revolutionary army": {
     "direction": "push",
     "hash": "b1a6e5ca3308684a6e9395d5459eb29b1a85453f5bb742dc58d81be0934f6cba",
@@ -26,8 +31,8 @@
   },
   "Constitution of Sinchew": {
     "direction": "push",
-    "hash": "32ac92d7f7fc8087039e4dc979468d685508be42829fe772cfc0091b075c04c7",
-    "last_sync": "2026-09-23T22:17:24.720450+00:00"
+    "hash": "199d12d3559208508e3b6ea017d9daa3688cf45e2060096a51f8e1a86066ec04",
+    "last_sync": "2026-09-23T22:36:07.632906+00:00"
   },
   "Dalewa": {
     "direction": "push",
@@ -136,8 +141,8 @@
   },
   "Provinces of Sinchew": {
     "direction": "push",
-    "hash": "94d37dcbe0e86e8deac6565cb7e3d9edcf6ecb72188989be4b390fa0276525e2",
-    "last_sync": "2026-09-23T22:22:15.780082+00:00"
+    "hash": "fd79d5b2f5b13f9fcd811b198f38d2c6225a19a7a6047d48a6ae1a098865195b",
+    "last_sync": "2026-09-23T22:25:09.500879+00:00"
   },
   "Scripts of Hachinawa": {
     "direction": "push",

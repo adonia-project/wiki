@@ -49,15 +49,15 @@ Each province bears a name in both of the Union's written languages. Names are r
 |-
 | [[File:Tamsui_of_Sinchew_locator_1736.png|150px]] || Tamsui || Tāmsui || 淡水 || 搭姆蘇伊 || 22,819 || 331,942 || contains the capital
 |-
-| [[File:Pakang_of_Sinchew_locator_1736.png|150px]] || Pakang || Pak-káng || 北港 || 巴克江 || 38,211 || 198,614 || 
+| [[File:Pakang_of_Sinchew_locator_1736.png|150px]] || Pakang || Pak-káng || 北港 || 巴克江 || 38,211 || 198,614 ||
 |-
 | [[File:Tiengo_of_Sinchew_locator_1736.png|150px]] || Tiengo || Tn̂g-ô͘ || 長湖 || 當烏 || 243,737 || 487,231 || the long lake; [[Takau]]; the Baiduist heartland
 |-
-| [[File:Haikau_of_Sinchew_locator_1736.png|150px]] || Haikau || Hái-kháu || 海口 || 海考 || 34,414 || 139,088 || 
+| [[File:Haikau_of_Sinchew_locator_1736.png|150px]] || Haikau || Hái-kháu || 海口 || 海考 || 34,414 || 139,088 ||
 |-
-| [[File:Sekchio_of_Sinchew_locator_1736.png|150px]] || Sekchio || Se̍k-chio̍h || 石石 || 西克橋 || 23,583 || 102,365 || 
+| [[File:Sekchio_of_Sinchew_locator_1736.png|150px]] || Sekchio || Se̍k-chio̍h || 石石 || 西克橋 || 23,583 || 102,365 ||
 |-
-| [[File:Chinowa_of_Sinchew_locator_1736.png|150px]] || Chinowa || Chinowa || 芝諾和 || 其挪瓦 || 30,220 || 131,447 || 
+| [[File:Chinowa_of_Sinchew_locator_1736.png|150px]] || Chinowa || Chinowa || 芝諾和 || 其挪瓦 || 30,220 || 131,447 ||
 |-
 | [[File:Oktalwa_of_Sinchew_locator_1736.png|150px]] || Oktalwa || Oktalwa || 沃塔瓦 || 烏克搭拉瓦 || 37,120 || 149,073 || the bay of Oktalwa
 |-
@@ -65,7 +65,7 @@ Each province bears a name in both of the Union's written languages. Names are r
 |-
 | [[File:Lamkang_of_Sinchew_locator_1736.png|150px]] || Lamkang || Lâm-káng || 南港 || 南江 || 93,788 || 118,726 || the south-western coast
 |-
-| [[File:Pengiu_of_Sinchew_locator_1736.png|150px]] || Pengiu || Pêng-iûⁿ || 平洋 || 冰友 || 48,747 || 94,183 || 
+| [[File:Pengiu_of_Sinchew_locator_1736.png|150px]] || Pengiu || Pêng-iûⁿ || 平洋 || 冰友 || 48,747 || 94,183 ||
 |-
 | [[File:Sunheng_of_Sinchew_locator_1736.png|150px]] || Sunheng || Sūn-heng || 順興 || 孫興 || 16,065 || 82,574 || the smallest province
 |-
@@ -73,7 +73,7 @@ Each province bears a name in both of the Union's written languages. Names are r
 |-
 | [[File:Hashawa_of_Sinchew_locator_1736.png|150px]] || Hashawa || Hashawa || 哈夏瓦 || 東邦 || 685,898 || 184,253 || the largest province by area, and the least administered
 |-
-| [[File:Tsuhina_of_Sinchew_locator_1736.png|150px]] || Tsuhina || Tsuhina || 祖希那 || 南川 || 273,314 || 315,887 || 
+| [[File:Tsuhina_of_Sinchew_locator_1736.png|150px]] || Tsuhina || Tsuhina || 祖希那 || 南川 || 273,314 || 315,887 ||
 |-
 | [[File:Tsuhala_of_Sinchew_locator_1736.png|150px]] || Tsuhala || Tsuhala || 祖哈拉 || 南山 || 119,657 || 208,941 || the far south
 |-
@@ -90,7 +90,7 @@ The provinces of the west and centre are small for the opposite reason. Their bo
 
 The lower house was the General Assembly, elected by universal male suffrage with members holding two-year terms and no property qualification for the vote. Seats were allocated at large from the provinces.
 
-The two-year term made the Assembly the most frequently renewed body in the government. The constitution assigned it legislation, taxation, the appointment of the president and the appointment of the judges of the High Court.
+The two-year term made the Assembly the most frequently renewed body in the government. The constitution assigned it legislation, taxation, the appointment of the president, the appointment of the judges of the High Court, and the creation of agencies charged with executive tasks. No legislation was enacted by the Assembly alone: ordinary laws required the agreement of both chambers, and constitutional amendments required a majority of the Assembly and two-thirds of the Senate.
 
 The franchise was male. Women were excluded, and the exclusion was maintained for longer than any other provision was left unamended.
 
@@ -98,17 +98,61 @@ The franchise was male. Women were excluded, and the exclusion was maintained fo
 
 The upper house was the Senate, composed of two members from each province, elected by the provincial assemblies.
 
+The Senate could refuse legislation, and its refusal was final. An ordinary law required the agreement of both chambers, and the Assembly could not enact one over the Senate's objection. The chamber therefore gated all legislation rather than only constitutional change, and every enactment of the state passed the provinces' representatives.
+
 The Senate was therefore elected at one remove from the population, and the provincial assemblies that chose its members were themselves elected within boundaries drawn by the Tianist minority. The arrangement gave that minority control of the Senate through two mechanisms rather than one: the equal representation of provinces regardless of size, and the smaller electorates of the small provinces, whose assemblies are easier for a concentrated class to carry.
 
 == President ==
 
-The executive was a President elected by the General Assembly. The president was not elected by the population and held no mandate independent of the Assembly that appointed him.
+The head of state was a President elected by the General Assembly. The president was not elected by the population and held no mandate independent of the Assembly that appointed him.
+
+The presidency was not a chief executive. The constitution established no cabinet and vested no general executive power in the office. The president was the head of state, conducted foreign affairs, and administered the affairs of the agencies the Assembly created. Domestic administration was carried on through those agencies rather than through a government answerable to the president.
+
+The office was therefore the Assembly's instrument in two fields - relations with other states, and the coordination of the bodies the Assembly had itself established - and had no independent authority in the third, which was the government of the country.
+
+== Executive agencies ==
+
+The General Assembly held the power to create agencies charged with executive tasks. The departments of the state were established by the Assembly in this way, and the constitution places no limit on the number or kind of agency the Assembly may create.
+
+The arrangement places the executive inside the legislature rather than beside it. There is no cabinet, no prime minister and no ministry deriving its authority from the president; the bodies that administer the country derive their authority from the Assembly that made them, and the president coordinates them without commanding them.
+
+== Defence ==
+
+The constitution established a standing professional military comprising an army, a navy and a ranger corps.
+
+{{Main|Armed Forces of Sinchew}}
+
+The rangers were constituted as the force responsible for the interior. Their task was the maintenance of order in the hinterlands and the forests, and they were trained to traverse mountain and jungle and to operate in small units in difficult country. The corps was formed for the territory the republic did not govern: the chiefdoms of the largest provinces, the forested interior, and the frontiers where no civil administration reached.
+
+The military is subordinate to the [[General Assembly of Sinchew|General Assembly]], which raises it, funds it and may direct it. The president is its civilian commander, and holds the command alongside the conduct of foreign affairs and the administration of the Assembly's agencies. The subordination was written with the conduct of the colonial navy in mind: in 1711 an admiral of the [[Kingdom of Zong|Zong]] fleet stationed at [[Tamsui]] had despatched a squadron against [[Sant Cristòfor]] without authorisation and begun the [[First War of the Isthmus]], and imperial approval was granted after the fact. The constitution gives the president the conduct of foreign affairs and gives the Assembly the power to raise and direct the forces, so that a commander cannot commit the state to war.
 
 == High Court ==
 
 The constitution established a High Court with inferior courts beneath it. The judges of the High Court were appointed by the General Assembly and held lifetime positions.
 
 The lifetime tenure made the judiciary the only branch not subject to the Assembly's renewal, and it placed the court outside the two-year cycle at the same time as it placed its members there by election of the Assembly.
+
+The High Court determined the constitutionality of laws and of the Assembly's procedures, and acted as a check on the Assembly. Its jurisdiction extended to the question of whether an enactment or a proceeding was consistent with the constitution, and the court's determination settled the matter.
+
+The function is the more consequential in this constitution because the state has no executive independent of the legislature. There is no president with a veto, no cabinet whose confidence the Assembly must retain, and no second chamber that can refuse legislation it dislikes; the [[Senate of Sinchew|Senate]] can reject a bill, but the Assembly may reintroduce it. The High Court is the only body able to hold an enactment void, and it is therefore the principal check on the Assembly's power.
+
+=== Challenges ===
+
+The constitution distinguishes two kinds of bill. A bill may be an amendment to the constitution, in which case it requires a majority of the Assembly and two-thirds of the Senate. A bill may also be an ordinary law, in which case it is subject to the constitution and requires the agreement of both chambers, as all legislation does.
+
+An ordinary law is presumed to be constitutional. A person may challenge a law before the High Court and ask the court to determine its constitutionality, and the court decides the question; but a law that is not challenged stands, and a challenge must establish that the enactment is inconsistent with the constitution. The presumption places the burden on the person challenging the law rather than on the Assembly that passed it.
+
+The court's power is therefore exercised only when it is invoked. The High Court cannot review an enactment of its own motion, and no officer of the state is required to bring a law before it. A law that is inconsistent with the constitution remains in force until someone with reason to object asks the court to say so.
+
+The court's composition places the appointment of the Assembly's own check in the Assembly's hands: the judges are chosen by the body whose acts they review, and they hold office for life once chosen.
+
+=== Removal of judges ===
+
+A judge of the High Court may be tried by the General Assembly and removed. Removal requires a two-thirds vote of both chambers - two-thirds of the General Assembly and two-thirds of the Senate.
+
+The threshold is higher than the one the constitution sets for its own amendment. An amendment requires a majority of the Assembly and two-thirds of the Senate; the removal of a judge requires two-thirds of each. The instrument is harder to alter in its judicial clause than in any other part, and the judges are therefore more firmly entrenched than the constitutional text that creates them.
+
+The Senate's share of both thresholds is the same twenty-two votes in a chamber of thirty-two, and the body that must consent to a judge's removal is the same body whose composition an amendment could alter.
 
 == Religion ==
 
@@ -156,7 +200,15 @@ The state is named for the Hahkina among its constituent peoples, and it contain
 
 == Amendment ==
 
-The constitution was drafted over eight months and written to be amended, and the procedure has been used throughout the state's history.
+The constitution was drafted over eight months and written to be amended. An amendment requires a majority of the [[General Assembly of Sinchew|General Assembly]] and two-thirds of the [[Senate of Sinchew|Senate]].
+
+The threshold exceeds the strength of any single grouping in the Senate. Two-thirds of the thirty-two seats is twenty-one and one third, and therefore twenty-two votes. The ten Tianist-aligned provinces of the west and centre hold twenty seats; [[Tiengo]] and the five provinces of the former [[Hachinawa]] hold twelve.
+
+No grouping can therefore amend the constitution alone or block an amendment alone. The Tianist-aligned provinces are two votes short of the threshold and the Baiduist and native provinces are ten short of it. An amendment requires the agreement of the Tianist grouping and at least one further province, or of the Baiduist and native grouping and five of the ten western provinces.
+
+The two-vote margin has made the smaller western provinces the deciding votes in every amendment attempted since 1736. The removal of a judge of the High Court requires more than an amendment does: two-thirds of both chambers,, so that the judicial clause is the most entrenched provision of the instrument. Each holds two senators, so an amendment turns on the inclinations of one or two provinces rather than on either bloc's programme.
+
+The requirement is the counterpart of the [[Union of Free Peoples]]' majority in the [[General Assembly of Sinchew|General Assembly]]. The Assembly can legislate; it cannot alter the instrument that constitutes the Senate, because the chamber whose powers an amendment would reduce is the chamber that must consent to it.
 
 == See also ==
 
