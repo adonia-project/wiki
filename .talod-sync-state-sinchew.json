@@ -1,4 +1,9 @@
 {
+  "Baiduist revolutionary army": {
+    "direction": "push",
+    "hash": "b1a6e5ca3308684a6e9395d5459eb29b1a85453f5bb742dc58d81be0934f6cba",
+    "last_sync": "2026-09-23T17:02:03.328012+00:00"
+  },
   "Chinowa": {
     "direction": "push",
     "hash": "d2cb220dc3ce8e36242fd3364e6ef3b1a967aa069886ac23d4f570ed810d1927",
@@ -18,6 +23,11 @@
     "direction": "push",
     "hash": "138be04ace22278fa52dcd8adeba185e01cf84202820424f1d9957e8bc08351d",
     "last_sync": "2026-09-19T20:04:32.794503+00:00"
+  },
+  "Constitution of Sinchew": {
+    "direction": "push",
+    "hash": "930d07c5bf8ff4a1959c02323458924b6b48df29324103a67455666fe0b30d73",
+    "last_sync": "2026-09-23T22:00:43.394972+00:00"
   },
   "Dalewa": {
     "direction": "push",
@@ -66,8 +76,8 @@
   },
   "History of Sinchew (1474-1538)": {
     "direction": "push",
-    "hash": "78e3e1c148e031e5a1a49bf4039d589cdc11257d5402db6fb3ae55d31b0d7c76",
-    "last_sync": "2026-09-22T22:11:21.038578+00:00"
+    "hash": "282a1209ded65da27fb0bfeb8cc57b48b826bd1993f50fdb7086297e9f672a0e",
+    "last_sync": "2026-09-22T23:54:10.794079+00:00"
   },
   "History of Sinchew (1538-1544)": {
     "direction": "push",
@@ -86,8 +96,23 @@
   },
   "History of Sinchew (1606-1648)": {
     "direction": "push",
-    "hash": "a8092cf10e48bc2c28bc8f1e62ec5c046d685d95a9860eefe4861daa645d0224",
-    "last_sync": "2026-09-22T22:14:59.400039+00:00"
+    "hash": "07252874706dcf463eade57383d0408982a10c356eb11b1b933828ff16fadbd7",
+    "last_sync": "2026-09-23T17:23:27.295797+00:00"
+  },
+  "History of Sinchew (1656-1711)": {
+    "direction": "push",
+    "hash": "a5177828234700eca7dda7095cddb894605aa3410608c0ab2c7464e1af47825f",
+    "last_sync": "2026-09-23T18:11:19.352899+00:00"
+  },
+  "History of Sinchew (1711-1733)": {
+    "direction": "push",
+    "hash": "b996652e4d75f7b586bded167187a8eaa45e171d25e8aff765d76e5f5edbd15a",
+    "last_sync": "2026-09-23T19:27:08.902524+00:00"
+  },
+  "History of Sinchew (1716-1726)": {
+    "direction": "push",
+    "hash": "815231998550e5832100f1d8e32b593ebc8a9c50edb0b7b155cefd9a522ae636",
+    "last_sync": "2026-09-23T18:55:12.742264+00:00"
   },
   "Hokta": {
     "direction": "push",
@@ -109,6 +134,11 @@
     "hash": "b449615cd4ae30d9741a8575244f909483c6bdc1b7e321f12010573737b0aead",
     "last_sync": "2026-09-22T18:38:14.747488+00:00"
   },
+  "Provinces of Sinchew": {
+    "direction": "push",
+    "hash": "e5b7b7f4ab0e115d290bc407b05073ba06b905e5caf964441433f2b28d855a19",
+    "last_sync": "2026-09-23T22:00:44.432994+00:00"
+  },
   "Scripts of Hachinawa": {
     "direction": "push",
     "hash": "b9fa331fed4088936c6959f23f470cb6ca8c244ecc5864cabf86810eb117fa08",
@@ -121,8 +151,8 @@
   },
   "Sinchew War": {
     "direction": "push",
-    "hash": "eee148019fc47e5b5075f56c7570ed18ff98be9ebbdb9afa7618e15dc6ed209d",
-    "last_sync": "2026-09-22T22:57:22.554036+00:00"
+    "hash": "9a7f81911b6dc427d16461e881e8cb5f3677a456e151348fe35fedb6f1190e29",
+    "last_sync": "2026-09-23T17:31:16.649150+00:00"
   },
   "Sinchewese name": {
     "direction": "pull",
@@ -136,8 +166,8 @@
   },
   "Third Mahik War": {
     "direction": "push",
-    "hash": "9975e2b2a8d1127ff38ad9b408c6526f3b38fa73efe3c67ddb96b24ec2486e2c",
-    "last_sync": "2026-09-22T22:19:56.075455+00:00"
+    "hash": "1af257b727d22c626b2519771cc8c51fa7c974aa41863a8c2cb61d521f0e3127",
+    "last_sync": "2026-09-23T17:23:28.729941+00:00"
   },
   "Treaty of Anping": {
     "direction": "push",
@@ -146,8 +176,18 @@
   },
   "Treaty of Tamsui": {
     "direction": "push",
-    "hash": "daa8bbc74af78443a1fa2c5439feb930d58e24fb256ea04e4d21d31344593be2",
-    "last_sync": "2026-09-22T22:15:00.422344+00:00"
+    "hash": "8551ef5a4f2dd8f3ac484d1ab1366d40a1b744db263da88b8088e08aa2c3e727",
+    "last_sync": "2026-09-23T17:23:29.794713+00:00"
+  },
+  "Treaty of Tamsui (1618)": {
+    "direction": "push",
+    "hash": "516d91fac861928559680569c6bdd6b04cd1484dcc66ca3fc19460eb5fa72bab",
+    "last_sync": "2026-09-23T17:23:30.796375+00:00"
+  },
+  "Treaty of Tamsui (1656)": {
+    "direction": "push",
+    "hash": "d86c31b9762e728adda5f879ccd1f872ac88313de08c1e994d046b7d0ffcb570",
+    "last_sync": "2026-09-23T17:45:09.664075+00:00"
   },
   "Tsuwasha": {
     "direction": "push",

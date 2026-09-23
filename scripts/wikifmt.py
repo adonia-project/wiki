@@ -247,6 +247,26 @@ def check_text(s: str):
             continue                    # bulleted tree-list entry, or an infobox field
         if re.search(BOLD_MW, l):
             problems.append("L%-4d mediawiki bold (emphasis, not a title): %s" % (i, stripped[:60]))
+    # a wikitable needs |- between data rows. Only check INSIDE a {| ... |} block,
+    # because infobox fields also begin with "| " and are not table rows.
+    in_table = False
+    tbl = s.split("\n")
+    for i in range(len(tbl) - 1):
+        cur = tbl[i].strip()
+        if cur.startswith("{|"):
+            in_table = True
+            continue
+        if cur.startswith("|}"):
+            in_table = False
+            continue
+        if not in_table:
+            continue
+        a, b = cur, tbl[i + 1].strip()
+        is_row = lambda x: x.startswith("| ") and not x.startswith("|-")
+        if is_row(a) and is_row(b):
+            problems.append("L%-4d wikitable: data row with no |- separator before the next" % (i + 2))
+            break
+
     if s.count("{|") != s.count("|}"):
         problems.append("table markup unbalanced: %d open, %d close" % (s.count("{|"), s.count("|}")))
     # editorialising: reported, never repaired - judgement is required
