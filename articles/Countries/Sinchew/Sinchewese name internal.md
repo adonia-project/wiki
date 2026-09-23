@@ -1,73 +1,103 @@
-# Sinchewese Name — Internal Notes
+# Sinchewese name — internal notes
 
-## Overview
-- Article: `Sinchewese name.mediawiki`
-- Created: 2026-09-03
-- Purpose: Document the Baiduist naming system used in Sinchew, distinct from Zong naming conventions
+## THE NAMING CONVENTION FOR ARTICLES (user, 2026-09-23)
 
-## System Design Decisions
+**In any wiki article about a person, the name is shown in three forms: the NORMALIZED
+form, the ROMANIZED form, and the ZONG or HACHINA characters.**
 
-### Core concept
-- In Zong, only ordained monks receive dharma names (法名)
-- In Sinchew, the Baiduist monastic community was central to survival after the expulsion (1606–1650)
-- Monks began giving dharma names to lay children as blessings
-- Over generations, dharma names became primary names
-- After independence (1733), the system was formalized as a civic institution
+The pattern, established with the province names and applied to the presidents of the
+First Republic:
 
-### Key features
-- **Surname**: Retained from Zong tradition (Tân, Lîm, Ong, Ng, etc.)
-- **Dharma name**: Two characters, assigned by a monk at the Ocean Crossing Ceremony (age 12)
-- **Birth name**: Given by parents, used only by close family; using it publicly is disrespectful
-- **Monastery registry**: Serves as official civil record (like parish registers in European countries)
+```
+Normalized   Romanized        Characters     Type
+Ong Liongseng    Ông Liông-seng     王隆生        Zong
+Tan Hokchong     Tân Ho̍k-chong     陳福宗        Zong
+Chiu Bengkheng   Chiu Bêng-khéng    周明慶        Zong
+Lim Senghoa      Lîm Sêng-hoâ       林成華        Zong
+Ng Hinako        Ng Hinako          黃希那高      MIXED (Zong surname + Hachina given name)
+Ong Senggiam     Ông Sêng-giâm      王成嚴        Zong
+Tan Tionghoa     Tân Tiōng-hoâ      陳仲華        Zong
+```
 
-### Ocean Crossing Ceremony (海渡式, Hái-tō͘-sik)
-- Age 12 coming-of-age ceremony
-- Named after the Ocean Crossing (海渡) teaching — the central Baiduist metaphor
-- Child symbolically "crosses the ocean" from childhood to adulthood
-- Monk assigns dharma name based on child's character, family history, Baiduist principles
-- Name recorded in monastery registry = official civic record
+### The normalization rule
 
-### Dharma name vocabulary (5 categories)
-1. Ocean/Crossing: 海, 渡, 波, 潮, 岸, 帆
-2. Enlightenment: 覺, 悟, 明, 智, 真
-3. Compassion/Virtue: 慈, 善, 悲, 淨, 德
-4. Interconnection: 結, 連, 緣
-5. Dharma/Path: 法, 道, 行, 心
+**Drop the diacritics, drop the hyphens, respell the nasals as plain letters.**
 
-- Name = one lexicon character + one personal character chosen by monk
-- Not all names are obviously Baiduist (德, 明, 真 overlap with traditional Chinese naming)
-- Distinction is in the ceremony/institution, not always in the characters themselves
+| romanized | normalized |
+|---|---|
+| Tāmsui | Tamsui |
+| Pak-káng | Pakang |
+| Tn̂g-ô͘ | **Tiengo** (the nasal *n̂g* becomes *ieng*; the *o͘* becomes *o*) |
+| Ông Liông-seng | Ong Liongseng |
+| Tân Ho̍k-chong | Tan Hokchong |
+| Chiu Bêng-khéng | Chiu Bengkheng |
+| Lîm Sêng-hoâ | Lim Senghoa |
+| Ông Sêng-giâm | Ong Senggiam |
+| Tân Tiōng-hoâ | Tan Tionghoa |
 
-### Non-Baiduist participation
-- Optional — ceremony available to all but not mandatory for non-Baiduists
-- Non-Baiduists who participate get a civic (not religious) version of the ceremony
-- Non-Baiduists who don't participate use traditional Zong-style names or their own conventions
-- Republic is secular — no disadvantage for not having a dharma name
+**The normalized form is what the article's PROSE uses.** The romanized form and the
+characters appear on FIRST MENTION, in parentheses.
 
-## Existing Names — Case-by-Case Assessment
+### Mixed names carry both scripts
 
-| Name | Characters | Era | Dharma name? | Reasoning |
-|------|-----------|------|-------------|-----------|
-| Tân Huat-seng | 陳法生 | First War of Isthmus (1711–1716) | YES | 法 (dharma) is clear Baiduist root; Free Sinchew council speaker, deeply Baiduist community |
-| Lîm Huat-tiat | 林法哲 | Revolutionary War (1726–1733) | YES | 法 (dharma) + 哲 (wisdom); flag designer, Baiduist monk |
-| Tân Bûn-seng | 陳文成 | First War of Isthmus (1711–1716) | NO | 文 (culture) + 成 (accomplishment); civilian governor, traditional Zong-style name |
-| Tan Tek-hui | 陳德輝 | First War of Isthmus (1711–1716) | NO | 德 (virtue) + 輝 (radiance); military, pre-system traditional name (though 德 is in lexicon, combination is traditional) |
-| Lîm Tek-bûn | 林德文 | First War of Isthmus (1711–1716) | NO | 德 (virtue) + 文 (culture); military, pre-system traditional name |
+**Ng Hinako** is a Zong surname with a Hachina given name, and his first mention
+therefore shows both: `Ng Hinako (Hachina: Hinako, 希那高; Zong surname Ng, 黃)`.
 
-The transitional period (1680s–1720s) shows a mix — some figures have dharma names, others don't, reflecting uneven adoption.
+That is the general rule for a mixed name: **each element is explained in the script of
+the tradition it comes from.**
 
-## Historical Timeline
-- 1606–1650: Baiduist expulsion from Zong; settlers arrive in Sinchew; monks establish monasteries
-- 1650s–1680s: Monks begin giving dharma names to lay children as blessings; supplementary to secular names
-- 1680s–1720s: Practice becomes more common; some families use dharma names as primary; others retain traditional names
-- 1711–1716: First War of the Isthmus — records show mix of dharma names and traditional names
-- 1726–1733: Sinchewese Revolutionary War — dharma names are dominant among Baiduist majority
-- 1733+: Independence; Ocean Crossing Ceremony formalized as civic institution; monastery registry = official record
+### Why the article about a person should show all three
 
-## Open Questions
-1. Should there be a specific term for the "personal character" (second character) of a dharma name?
-2. Are there regional variations within Sinchew (e.g., Tamsui vs. other settlements)?
-3. What about Sinchewese diaspora — do they maintain the naming system?
-4. Could someone receive a new dharma name at a major life event (marriage, ordination)?
-5. How do Sinchewese names interact with international/diplomatic contexts?
-6. Should the Lîm Huat-tiat article be created as a standalone biographical article?
+The three forms are not decoration. **A Sinchewese name is a Zong surname plus a given
+name from one of three traditions** — Baiduist dharma names, Hachina names, or Mahik and
+Apyãwa conventions — and the mixture is the state's own composition. **Showing only the
+normalized form hides which tradition a person's name comes from, and that is often the
+most informative thing about them.**
+
+## THE NAMING SYSTEM — what already existed, and what was added 2026-09-23
+
+The published article `Sinchewese name.mediawiki` was written before this session and
+already established:
+
+- **A Sinchewese name = Zong surname + Baiduist dharma name** (法名, huat-miâ), assigned at
+  the **Ocean Crossing Ceremony** (海渡式, Hái-tō͘-sik) at age twelve.
+- **Surnames**: Tân 陳, Lîm 林, Ong 王, Ng 黃, Chiu 周.
+- **The monastery registry is the civil registration.**
+- **Dharma names come from a Baiduist lexicon** in five categories: Ocean and Crossing,
+  Enlightenment and Awakening, Compassion and Virtue, Interconnection, Dharma and Path.
+- **Non-Baiduists** may opt into the ceremony civically, **or "use traditional Zong-style
+  names or follow their own cultural naming conventions."**
+
+**What was added:** `== Hahkina and Mahik naming ==` and `=== Mixed names ===`.
+
+- **Hahkina names = a Hachina root + a name-forming element (-ha, -ko).** Attested:
+  *Nachiha*, *Kayaha*, *Hatako*. Roots: hachin (centre), kaya (plain), hala (mountain),
+  hina (river), washa (lake), sho (gold), hacha (grain), tsula (chief).
+- **Names are phonetic in both scripts**, so *Hinako* is **希那高** (hi 希, na 那, ko 高).
+- **Mixed names: a Zong surname with a Hachina given name**, common since the eastern
+  industrialisation.
+- **Mahik and Apyãwa retain their own conventions, which the state does not record in a
+  single registry.**
+
+`ko = 高` was added to the Hachina phonetic table in `reference/hachina_lexicon.md`.
+
+## ⚠ CHECK EVERY NEW NAME AGAINST THE CORPUS
+
+Four of my first attempts collided with established names:
+
+| attempt | collided with |
+|---|---|
+| **Ng Tek-chong** | **Ng Tek-seng** — the Sinchew governor, 14 uses |
+| **Lîm Hoâ-seng** | Lîm Siong-hoa, Lîm Bûn-giâm |
+| **Tân Kéng-hoa** | Tân Kéng-seng, Tân Kéng-bûn |
+| **Lîm Khéng-seng** | Chiu Khéng-gio̍k, Ng Bú-seng, Tân Kéng-seng |
+
+**Before naming anyone, grep the corpus for the surname and for the given name
+separately.**
+
+Established Sinchewese names, as of 2026-09-23:
+**Chiu** Khéng-gio̍k, Bûn-hái, Hoat-bêng, Chi-hôa ·
+**Ng** Tek-seng, Bú-seng ·
+**Tân** Bûn-khéng, Chì-hong, Kéng-seng, Khéng-hui, Khéng-chong, Sîn-hái, Kéng-bûn, Khéng-hông, Huat-seng, Bûn-seng ·
+**Lîm** Huat-tiat, Siong-hoa, Bûn-giâm, Chiau-beng ·
+**Ong** Sam, Tek-khiam, Bûn-hêng
