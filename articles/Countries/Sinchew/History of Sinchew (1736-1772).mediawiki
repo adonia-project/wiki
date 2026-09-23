@@ -40,11 +40,17 @@ Two parties formed during the period, and they were regional in origin and remai
 
 {| class="wikitable"
 |-
-! Party !! Base !! Interest
+! Year !! Total !! Zong !! Hachinawa !! Mahik !! Other
 |-
-| '''[[Farmer-Laborer Party]]''' (農工黨) || the western provinces || plantation agriculture, fishing, and the processing industries
+| 1736 || 3452819 || 1958884 || 983082 || 476322 || 34531
 |-
-| '''[[Industrial Party]]''' (工業黨) || the eastern provinces || manufacturing and coal-based processing
+| 1740 || 3585206 || 2015875 || 1034616 || 495998 || 38717
+|-
+| 1750 || 3949719 || 2171357 || 1177667 || 550140 || 50555
+|-
+| 1760 || 4368632 || 2347837 || 1343839 || 612303 || 64653
+|-
+| 1770 || 4851270 || 2451738 || 1537193 || 683814 || 178525
 |}
 
 == [[Chiu Kak-bêng]] (1748–1752) ==
@@ -133,6 +139,45 @@ free natives. The republic's returns record four classes, counted by province: Z
 |}
 
 The Zong class was 56.7 per cent of the population in 1736, the Hachinawa 28.5, the Mahik 13.8 and Other 1.0.
+
+The returns were taken every ten years.
+
+{| class="wikitable"
+|-
+! Province !! 1736 !! 1740 !! 1750 !! 1760 !! 1770
+|-
+| Tamsui || 331,942 || 337,957 || 353,477 || 369,710 || 386,688
+|-
+| Pakang || 198,614 || 201,008 || 207,120 || 213,419 || 219,908
+|-
+| Tiengo || 487,231 || 519,170 || 608,481 || 713,155 || 835,836
+|-
+| Haikau || 139,088 || 140,765 || 145,045 || 149,456 || 154,000
+|-
+| Sekchio || 102,365 || 103,186 || 105,269 || 107,393 || 109,561
+|-
+| Chinowa || 131,447 || 132,502 || 135,176 || 137,904 || 140,687
+|-
+| Oktalwa || 149,073 || 150,269 || 153,302 || 156,396 || 159,552
+|-
+| Akwesa || 164,218 || 165,536 || 168,876 || 172,284 || 175,761
+|-
+| Lamkang || 118,726 || 121,360 || 128,202 || 135,430 || 143,066
+|-
+| Pengiu || 94,183 || 96,272 || 101,700 || 107,434 || 113,491
+|-
+| Sunheng || 82,574 || 83,569 || 86,111 || 88,729 || 91,427
+|-
+| Kayahachin || 718,957 || 772,136 || 922,936 || 1,103,188 || 1,318,643
+|-
+| Hashawa || 184,253 || 188,715 || 200,349 || 212,699 || 225,811
+|-
+| Tsuhina || 315,887 || 331,325 || 373,301 || 420,595 || 473,881
+|-
+| Tsuhala || 208,941 || 215,708 || 233,599 || 252,974 || 273,957
+|-
+| Ytyba || 25,320 || 25,728 || 26,775 || 27,866 || 29,001
+|}
 
 The classes are not distributed evenly, and the pattern is the settlement history. The Mahik are the indigenous peoples, and mainly the [[Kawesa]], whose land is the central plateau, the Gulf of Louyang coast and the long lake. Tiengo holds the largest Mahik population of any province, 151,042 - the lake country is Kawesa land and the Baiduist heartland at once - and Ytyba is 66 per cent Mahik, the [[Apyãwa]] country in the north-east.
 
