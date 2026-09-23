@@ -24,7 +24,7 @@ from pathlib import Path
 
 APOS = "'"
 BOLD_MW = "(?<!%s)%s(?!%s)(.+?)(?<!%s)%s(?!%s)" % ((APOS,) + (APOS * 3,) * 5)
-ITAL_MD = r"(?<!\*)\*([^\s*][^*]*?)\*(?!\*)"
+ITAL_MD = r"\*([A-Za-z\u00c0-\u024f][A-Za-z\u00c0-\u024f '-]*?)\*(?!\*)"
 # a markdown table separator row - piped runs of dashes. Mediawiki has no such
 # construct, so any match is a markdown table written into a .mediawiki file.
 MD_TABLE = r"^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?\s*$"
@@ -51,7 +51,7 @@ EDITORIAL = [
     (r"\b(reveals|reflects) (that|how) (the|a) (period|era|nature|character|fact|story)\b", "interpretation"),
     (r"\b(can|could) be seen as\b", "interpretation"),
     (r"\b(serves|served) to\b", "interpretation"),
-    (r"\bin effect\b", "commentary"),
+    (r"\bin effect,", "commentary"),   # the comma distinguishes the editorial sense from "came into effect"
     (r"\bof course\b", "commentary"),
     (r"\b[tT]he tragedy\b", "commentary"),
     (r"\b(ironically|tellingly|revealingly|significantly|importantly|notably|crucially|interestingly)\s*,", "commentary adverb"),
@@ -113,9 +113,21 @@ def fix_text(s: str):
         s = re.sub(r"\*\*(.+?)\*\*", r"\1", s)
         log.append("markdown bold removed: %d" % n)
 
-    n = len(re.findall(ITAL_MD, s))
+    # italics conversion: PROSE lines only. A line beginning with "*" or "|" is a
+    # mediawiki bullet or an infobox field, and a "*" there is never markdown italics.
+    out_lines = []
+    n = 0
+    for line in s.split("\n"):
+        if line.strip().startswith(("*", "|", "{", "}")):
+            out_lines.append(line)
+            continue
+        k = len(re.findall(ITAL_MD, line))
+        if k:
+            n += k
+            line = re.sub(ITAL_MD, r"''\1''", line)
+        out_lines.append(line)
     if n:
-        s = re.sub(ITAL_MD, r"''\1''", s)
+        s = "\n".join(out_lines)
         log.append("markdown italics converted: %d" % n)
 
     # Mediawiki bold is removed ONLY outside the lead paragraph.
@@ -130,12 +142,23 @@ def fix_text(s: str):
             break
     if lead_idx is not None:
         head, tail = lines[:lead_idx + 1], lines[lead_idx + 1:]
-        tail_s = "\n".join(tail)
-        n = len(re.findall(BOLD_MW, tail_s))
+        # remove bold only from PROSE lines - never from a bulleted infobox or
+        # tree-list entry, where '''Entity''' is the house convention.
+        n = 0
+        out = []
+        for line in tail:
+            st = line.strip()
+            if st.startswith(("*", "|")):
+                out.append(line)
+                continue
+            k = len(re.findall(BOLD_MW, line))
+            if k:
+                n += k
+                line = re.sub(BOLD_MW, r"\1", line)
+            out.append(line)
         if n:
-            tail_s = re.sub(BOLD_MW, r"\1", tail_s)
             log.append("mediawiki bold removed after the lead: %d" % n)
-        s = "\n".join(head) + "\n" + tail_s
+        s = "\n".join(head) + "\n" + "\n".join(out)
 
     # markdown headings -> mediawiki
     out, n = [], 0
