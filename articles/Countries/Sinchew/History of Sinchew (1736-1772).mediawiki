@@ -95,95 +95,220 @@ The new party's object was alliance with Lurandian powers other than Zong. Its f
 
 == Demographics ==
 
-The census was reorganised after independence. The colonial returns had classified the
-population by confession and by colonial status - Tianist, Baiduist, Hahkina, enslaved and
-free natives. The republic's returns record four classes, counted by province: Zong, Hachinawa, Mahik and Other. The table gives the first return taken under the new system, in 1736. The table below gives the first return taken under the new system, in 1736.
+The census was reorganised after independence. The colonial returns had classified the population by confession and by colonial status; the republic's returns record four classes counted by province - Zong, Hachinawa, Mahik and Other - and were taken every ten years.
+
+1736
 
 {| class="wikitable"
 |-
-! Province !! Total (1736) !! Zong !! Hachinawa !! Mahik !! Other
+! Province !! Total !! Zong !! Hachinawa !! Mahik !! Other
 |-
-| Tamsui || 331,942 || 292,109 || 13,278 || 23,236 || 3,319
+| Tamsui || 331942 || 292109 || 13278 || 23236 || 3319
 |-
-| Pakang || 198,614 || 166,836 || 5,958 || 23,834 || 1,986
+| Pakang || 198614 || 166836 || 5958 || 23834 || 1986
 |-
-| Tiengo || 487,231 || 302,083 || 29,234 || 151,042 || 4,872
+| Tiengo || 487231 || 302083 || 29234 || 151042 || 4872
 |-
-| Haikau || 139,088 || 114,052 || 6,954 || 16,691 || 1,391
+| Haikau || 139088 || 114052 || 6954 || 16691 || 1391
 |-
-| Sekchio || 102,365 || 88,034 || 3,071 || 10,236 || 1,024
+| Sekchio || 102365 || 88034 || 3071 || 10236 || 1024
 |-
-| Chinowa || 131,447 || 115,673 || 2,629 || 11,830 || 1,315
+| Chinowa || 131447 || 115673 || 2629 || 11830 || 1315
 |-
-| Oktalwa || 149,073 || 132,675 || 2,981 || 11,926 || 1,491
+| Oktalwa || 149073 || 132675 || 2981 || 11926 || 1491
 |-
-| Akwesa || 164,218 || 147,796 || 3,284 || 11,495 || 1,643
+| Akwesa || 164218 || 147796 || 3284 || 11495 || 1643
 |-
-| Lamkang || 118,726 || 84,295 || 23,745 || 9,498 || 1,188
+| Lamkang || 118726 || 84295 || 23745 || 9498 || 1188
 |-
-| Pengiu || 94,183 || 62,161 || 23,546 || 7,535 || 941
+| Pengiu || 94183 || 62161 || 23546 || 7535 || 941
 |-
-| Sunheng || 82,574 || 75,142 || 1,651 || 4,954 || 827
+| Sunheng || 82574 || 75142 || 1651 || 4954 || 827
 |-
-| Kayahachin || 718,957 || 244,445 || 416,995 || 50,327 || 7,190
+| Kayahachin || 718957 || 244445 || 416995 || 50327 || 7190
 |-
-| Hashawa || 184,253 || 22,110 || 84,756 || 75,544 || 1,843
+| Hashawa || 184253 || 22110 || 84756 || 75544 || 1843
 |-
-| Tsuhina || 315,887 || 69,495 || 208,485 || 34,748 || 3,159
+| Tsuhina || 315887 || 69495 || 208485 || 34748 || 3159
 |-
-| Tsuhala || 208,941 || 39,699 || 150,438 || 16,715 || 2,089
+| Tsuhala || 208941 || 39699 || 150438 || 16715 || 2089
 |-
-| Ytyba || 25,320 || 2,279 || 6,077 || 16,711 || 253
+| Ytyba || 25320 || 2279 || 6077 || 16711 || 253
 |-
-| '''TOTAL''' || '''3,452,819''' || '''1,958,884''' || '''983,082''' || '''476,322''' || '''34,531'''
+| ! TOTAL || ! 3452819 || ! 1958884 || ! 983082 || ! 476322 || ! 34531
 |}
 
-The Zong class was 56.7 per cent of the population in 1736, the Hachinawa 28.5, the Mahik 13.8 and Other 1.0.
-
-The returns were taken every ten years.
+1740
 
 {| class="wikitable"
 |-
-! Province !! 1736 !! 1740 !! 1750 !! 1760 !! 1770
+! Province !! Total !! Zong !! Hachinawa !! Mahik !! Other
 |-
-| Tamsui || 331,942 || 337,957 || 353,477 || 369,710 || 386,688
+| Tamsui || 337957 || 297132 || 13518 || 23657 || 3650
 |-
-| Pakang || 198,614 || 201,008 || 207,120 || 213,419 || 219,908
+| Pakang || 201008 || 168686 || 6030 || 24121 || 2171
 |-
-| Tiengo || 487,231 || 519,170 || 608,481 || 713,155 || 835,836
+| Tiengo || 519170 || 321470 || 31150 || 160943 || 5607
 |-
-| Haikau || 139,088 || 140,765 || 145,045 || 149,456 || 154,000
+| Haikau || 140765 || 115315 || 7038 || 16892 || 1520
 |-
-| Sekchio || 102,365 || 103,186 || 105,269 || 107,393 || 109,561
+| Sekchio || 103186 || 88657 || 3096 || 10319 || 1114
 |-
-| Chinowa || 131,447 || 132,502 || 135,176 || 137,904 || 140,687
+| Chinowa || 132502 || 116496 || 2650 || 11925 || 1431
 |-
-| Oktalwa || 149,073 || 150,269 || 153,302 || 156,396 || 159,552
+| Oktalwa || 150269 || 133619 || 3005 || 12022 || 1623
 |-
-| Akwesa || 164,218 || 165,536 || 168,876 || 172,284 || 175,761
+| Akwesa || 165536 || 148850 || 3311 || 11588 || 1787
 |-
-| Lamkang || 118,726 || 121,360 || 128,202 || 135,430 || 143,066
+| Lamkang || 121360 || 86069 || 24272 || 9709 || 1310
 |-
-| Pengiu || 94,183 || 96,272 || 101,700 || 107,434 || 113,491
+| Pengiu || 96272 || 63463 || 24068 || 7702 || 1039
 |-
-| Sunheng || 82,574 || 83,569 || 86,111 || 88,729 || 91,427
+| Sunheng || 83569 || 75981 || 1671 || 5014 || 903
 |-
-| Kayahachin || 718,957 || 772,136 || 922,936 || 1,103,188 || 1,318,643
+| Kayahachin || 772136 || 261909 || 447839 || 54050 || 8338
 |-
-| Hashawa || 184,253 || 188,715 || 200,349 || 212,699 || 225,811
+| Hashawa || 188715 || 22495 || 86809 || 77373 || 2038
 |-
-| Tsuhina || 315,887 || 331,325 || 373,301 || 420,595 || 473,881
+| Tsuhina || 331325 || 72626 || 218674 || 36446 || 3579
 |-
-| Tsuhala || 208,941 || 215,708 || 233,599 || 252,974 || 273,957
+| Tsuhala || 215708 || 40812 || 155310 || 17257 || 2329
 |-
-| Ytyba || 25,320 || 25,728 || 26,775 || 27,866 || 29,001
+| Ytyba || 25728 || 2295 || 6175 || 16980 || 278
+|-
+| ! TOTAL || ! 3585206 || ! 2015875 || ! 1034616 || ! 495998 || ! 38717
 |}
 
-The classes are not distributed evenly, and the pattern is the settlement history. The Mahik are the indigenous peoples, and mainly the [[Kawesa]], whose land is the central plateau, the Gulf of Louyang coast and the long lake. Tiengo holds the largest Mahik population of any province, 151,042 - the lake country is Kawesa land and the Baiduist heartland at once - and Ytyba is 66 per cent Mahik, the [[Apyãwa]] country in the north-east.
+1750
 
-The Hachinawa are concentrated in the former empire: Kayahachin is 58 per cent Hachinawa, and Tsuhala and Tsuhina are 72 and 66 per cent. Hashawa is 41 per cent Mahik, the unadministered chiefdoms being largely the peoples who live in them rather than settlers.
+{| class="wikitable"
+|-
+! Province !! Total !! Zong !! Hachinawa !! Mahik !! Other
+|-
+| Tamsui || 353477 || 310070 || 14139 || 24743 || 4525
+|-
+| Pakang || 207120 || 173401 || 6214 || 24854 || 2651
+|-
+| Tiengo || 608481 || 375554 || 36509 || 188629 || 7789
+|-
+| Haikau || 145045 || 118531 || 7252 || 17405 || 1857
+|-
+| Sekchio || 105269 || 90237 || 3158 || 10527 || 1347
+|-
+| Chinowa || 135176 || 118576 || 2704 || 12166 || 1730
+|-
+| Oktalwa || 153302 || 136010 || 3066 || 12264 || 1962
+|-
+| Akwesa || 168876 || 151516 || 3378 || 11821 || 2161
+|-
+| Lamkang || 128202 || 90664 || 25640 || 10256 || 1642
+|-
+| Pengiu || 101700 || 66837 || 25425 || 8136 || 1302
+|-
+| Sunheng || 86111 || 78120 || 1722 || 5167 || 1102
+|-
+| Kayahachin || 922936 || 311214 || 535303 || 64606 || 11813
+|-
+| Hashawa || 200349 || 23481 || 92161 || 82143 || 2564
+|-
+| Tsuhina || 373301 || 81081 || 246379 || 41063 || 4778
+|-
+| Tsuhala || 233599 || 43730 || 168191 || 18688 || 2990
+|-
+| Ytyba || 26775 || 2335 || 6426 || 17672 || 342
+|-
+| ! TOTAL || ! 3949719 || ! 2171357 || ! 1177667 || ! 550140 || ! 50555
+|}
 
-Other is small throughout - one per cent nationally and never more than 2 per cent in any province. The class comprises people who escaped enslavement in the [[Viceroyalty of Balboa|Balboan]] and Volisanian colonies and settled in the north, together with migrants from other countries. It grew after the [[Reinforcement of Freedom Act]] of 1761, and the census recorded it as a class from the outset.
+1760
+
+{| class="wikitable"
+|-
+! Province !! Total !! Zong !! Hachinawa !! Mahik !! Other
+|-
+| Tamsui || 369710 || 323570 || 14788 || 25880 || 5472
+|-
+| Pakang || 213419 || 178248 || 6403 || 25610 || 3158
+|-
+| Tiengo || 713155 || 438733 || 42789 || 221078 || 10555
+|-
+| Haikau || 149456 || 121837 || 7473 || 17935 || 2211
+|-
+| Sekchio || 107393 || 91842 || 3222 || 10739 || 1590
+|-
+| Chinowa || 137904 || 120694 || 2758 || 12411 || 2041
+|-
+| Oktalwa || 156396 || 138442 || 3128 || 12512 || 2314
+|-
+| Akwesa || 172284 || 154229 || 3446 || 12060 || 2549
+|-
+| Lamkang || 135430 || 95505 || 27086 || 10834 || 2005
+|-
+| Pengiu || 107434 || 70391 || 26858 || 8595 || 1590
+|-
+| Sunheng || 88729 || 80317 || 1775 || 5324 || 1313
+|-
+| Kayahachin || 1103188 || 369789 || 639849 || 77223 || 16327
+|-
+| Hashawa || 212699 || 24503 || 97842 || 87207 || 3147
+|-
+| Tsuhina || 420595 || 90512 || 277593 || 46265 || 6225
+|-
+| Tsuhala || 252974 || 46851 || 182141 || 20238 || 3744
+|-
+| Ytyba || 27866 || 2374 || 6688 || 18392 || 412
+|-
+| ! TOTAL || ! 4368632 || ! 2347837 || ! 1343839 || ! 612303 || ! 64653
+|}
+
+1770
+
+{| class="wikitable"
+|-
+! Province !! Total !! Zong !! Hachinawa !! Mahik !! Other
+|-
+| Tamsui || 386688 || 329922 || 15468 || 27068 || 14230
+|-
+| Pakang || 219908 || 178829 || 6597 || 26389 || 8093
+|-
+| Tiengo || 835836 || 495818 || 50150 || 259109 || 30759
+|-
+| Haikau || 154000 || 122153 || 7700 || 18480 || 5667
+|-
+| Sekchio || 109561 || 91286 || 3287 || 10956 || 4032
+|-
+| Chinowa || 140687 || 120034 || 2814 || 12662 || 5177
+|-
+| Oktalwa || 159552 || 137725 || 3191 || 12764 || 5872
+|-
+| Akwesa || 175761 || 153475 || 3515 || 12303 || 6468
+|-
+| Lamkang || 143066 || 97743 || 28613 || 11445 || 5265
+|-
+| Pengiu || 113491 || 71863 || 28373 || 9079 || 4176
+|-
+| Sunheng || 91427 || 80748 || 1829 || 5486 || 3364
+|-
+| Kayahachin || 1318643 || 412999 || 764813 || 92305 || 48526
+|-
+| Hashawa || 225811 || 21046 || 103873 || 92583 || 8309
+|-
+| Tsuhina || 473881 || 91554 || 312761 || 52127 || 17439
+|-
+| Tsuhala || 273957 || 44710 || 197249 || 21917 || 10081
+|-
+| Ytyba || 29001 || 1833 || 6960 || 19141 || 1067
+|-
+| ! TOTAL || ! 4851270 || ! 2451738 || ! 1537193 || ! 683814 || ! 178525
+|}
+
+The population of the republic rose from 3,452,819 in 1736 to 4,851,270 in 1770, an increase of 40.5 per cent over thirty-four years.
+
+The Zong class remained the largest, falling from 56.7 to 50.5 per cent of the population as the other classes grew faster. The Hachinawa rose from 28.5 to 31.7 per cent and the Mahik from 13.8 to 14.1.
+
+The Other class, one per cent of the population in 1736, rose to 3.7 per cent by 1770. It grew slowly until 1760 and then more than doubled in the following decade, the [[Reinforcement of Freedom Act]] of 1761 having ended the return of escaped people to the colonies they had come from.
+
+The eastern provinces grew fastest. Kayahachin rose from 718,957 to 1,318,643 and Tiengo from 487,231 to 835,836, against a national rate of 1.01 per cent a year. The western provinces grew at between 0.2 and 0.55 per cent.
 
 == See also ==
 
