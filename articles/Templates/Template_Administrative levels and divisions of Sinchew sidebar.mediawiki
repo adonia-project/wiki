@@ -1,0 +1,48 @@
+{{Sidebar
+|name = Administrative levels and divisions of Sinchew
+|width = auto
+|wraplinks = true
+|titlestyle = padding-bottom:0.6em;
+|title = [[Provinces of Sinchew|Administrative levels and<br/>divisions of Sinchew]]
+|headingstyle = background:#ddf;
+|contentclass = plainlist
+|contentstyle = padding:0.15em 0 0.6em;
+
+|heading1 = First level: [[Provinces of Sinchew|Provinces]]
+|content1 =
+*[[Tamsui]]
+*[[Pakang]]
+*[[Tiengo]]
+*[[Haikau]]
+*[[Sekchio]]
+*[[Chinowa]]
+*[[Oktalwa]]
+*[[Akwesa]]
+*[[Lamkang]]
+*[[Pengiu]]
+*[[Sunheng]]
+*[[Kayahachin]]
+*[[Hashawa]]
+*[[Tsuhina]]
+*[[Tsuhala]]
+*[[Ytyba]]
+|heading2 = Second level
+|content2 =
+*Counties
+*County-level cities
+|heading3 = Third level
+|content3 =
+*Cities
+*Townships
+*Villages
+|heading4 = Fourth level
+|content4 =
+*Districts
+
+}}<includeonly>{{main other|[[Category:Administrative divisions of Sinchew]]}}</includeonly><noinclude>
+
+<!--Categories-->
+{{DEFAULTSORT:Sinchew}}
+
+<!--Other languages-->
+</noinclude>
