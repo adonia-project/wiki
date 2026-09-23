@@ -121,8 +121,8 @@
   },
   "History of Sinchew (1736-1772)": {
     "direction": "push",
-    "hash": "6829396e9deb931b91c29c16036617289a328269fd5df0e85af87494caf582a2",
-    "last_sync": "2026-09-23T23:21:40.166160+00:00"
+    "hash": "96e55bf6e1bf16515445c4463b51a0879d82f5c871787838ff174c5705b36e64",
+    "last_sync": "2026-09-23T23:24:27.808236+00:00"
   },
   "Hokta": {
     "direction": "push",
@@ -165,9 +165,9 @@
     "last_sync": "2026-09-23T17:31:16.649150+00:00"
   },
   "Sinchewese name": {
-    "direction": "pull",
-    "hash": "1fb7d3bf66d16c30179a39fda32e4dccfe50c762362d17149fb9928a63165785",
-    "last_sync": "2026-09-22T19:49:24.381042+00:00"
+    "direction": "push",
+    "hash": "98e6f32fab423d46716690ac20d9eced59b18cd7e617c59cb25e2ec0cfdde80e",
+    "last_sync": "2026-09-23T23:23:57.279767+00:00"
   },
   "Sūn-heng Hâng": {
     "direction": "push",
