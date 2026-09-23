@@ -503,6 +503,175 @@ state. These are rare and carry a family's claim to both traditions.
 | 18 || Luna || Lū-na || 呂北 || Lu + na
 |}
 
+## MAHIK AND APYÃWA NAMES
+
+**Built to the frameworks in `Native peoples of Sinchew internal.md`, not invented separately.**
+That file establishes **nine families and twenty languages**, each with a real-world
+inspiration and a phonological signature.
+
+'''Mahik is mainly the Kawesa.''' The Hachina word *Mahik* covers the unkinged peoples of the
+region, and the largest of them is the **Kawesa family** — **Muskogean-inspired, five
+languages, the largest family in Sinchew by area at 413,722 km².** The Kawesa hold **the Gulf
+of Louyang coast, the central plateau, 54 per cent of the long lake's shore, and Tamsui
+itself**: the land the capital stands on.
+
+**Kawesa naming signature:** **-a and -i endings, hk and ch clusters, generally three or four
+syllables.** The family's languages are Kawesa, Chinapa, Talowa, Hokchita and Yakona.
+
+**Karawã–Apyãwa naming signature:** **Tupí-Guaraní shape** — open syllables, *y* and *w* as
+consonants, nasalised vowels written with a tilde, and frequent *-a*, *-ba* and *-ra*
+endings. The attested example is **Ytyba**.
+
+The names below are drawn from those patterns. **The other seven families — Nahola, Timara,
+Salowi, Chidoha, Yelani, Uwisa and Hachina — need their own lists**, and each has a
+signature already recorded: the Nahola family's is the **nasal-plus-stop cluster**, and
+**Uwisa is a language isolate** using Yuchi's inventory (ejectives, nasalised vowels,
+CV and CVC syllables).
+
+=== Mahik given names (Kawesa pattern) ===
+
+{| class="wikitable"
+|-
+! # !! Name
+|-
+| 1 || Chinapa
+|-
+| 2 || Talowa
+|-
+| 3 || Hokchita
+|-
+| 4 || Yakona
+|-
+| 5 || Nokhachi
+|-
+| 6 || Talimaha
+|-
+| 7 || Chokowa
+|-
+| 8 || Hakchita
+|-
+| 9 || Yalimoki
+|-
+| 10 || Nashoba
+|-
+| 11 || Kohachi
+|-
+| 12 || Taliwa
+|-
+| 13 || Hakhoma
+|-
+| 14 || Chinowi
+|-
+| 15 || Yakchita
+|-
+| 16 || Nokowa
+|-
+| 17 || Talihka
+|-
+| 18 || Hachiwa
+|-
+| 19 || Mokhita
+|-
+| 20 || Cholaki
+|-
+| 21 || Nowaka
+|-
+| 22 || Hakchina
+|-
+| 23 || Talchiwa
+|-
+| 24 || Yokhapa
+|-
+| 25 || Chimaha
+|-
+| 26 || Nakchita
+|-
+| 27 || Holowa
+|-
+| 28 || Yachiki
+|-
+| 29 || Tanowa
+|-
+| 30 || Kachipa
+|-
+| 31 || Holchita
+|-
+| 32 || Yamokha
+|-
+| 33 || Nokchowa
+|-
+| 34 || Talipaki
+|-
+| 35 || Chinahka
+|-
+| 36 || Yakoliwa
+|-
+| 37 || Mokhachi
+|-
+| 38 || Kowachti
+|-
+| 39 || Hachinoka
+|-
+| 40 || Talachowa
+|}
+
+=== Apyawa given names ===
+
+{| class="wikitable"
+|-
+! # !! Name
+|-
+| 1 || Ytyba
+|-
+| 2 || Añanga
+|-
+| 3 || Ybyrá
+|-
+| 4 || Tupãi
+|-
+| 5 || Kariwa
+|-
+| 6 || Ybatinga
+|-
+| 7 || Nhandewa
+|-
+| 8 || Ywyrá
+|-
+| 9 || Ygarapé
+|-
+| 10 || Tabaí
+|-
+| 11 || Ybytyra
+|-
+| 12 || Kunhãwa
+|-
+| 13 || Mbirá
+|-
+| 14 || Yandeí
+|-
+| 15 || Arasá
+|-
+| 16 || Ybaté
+|-
+| 17 || Kurumi
+|-
+| 18 || Ywaí
+|-
+| 19 || Pindó
+|-
+| 20 || Nanãwa
+|-
+| 21 || Yryba
+|-
+| 22 || Kamby
+|-
+| 23 || Yasú
+|-
+| 24 || Tetãwa
+|-
+| 25 || Yvotí
+|}
+
 ### Rules for generating a new person
 
 1. **Check the register and the corpus for both the surname and the given name** before
