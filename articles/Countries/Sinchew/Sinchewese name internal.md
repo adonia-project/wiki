@@ -123,6 +123,386 @@ a Baiduist may carry a Zong secular name. The two columns below record both.
 | Nachiha | Nachiha | 那其哈 | Hachina (nachi + ha) | Hahkina; king |
 | Tsulhachi | Tsulhachi | 祖拉哈其 | Hachina (tsula + hachi) | Hahkina; king |
 
+## THE SURNAME POOLS
+
+Three pools, one per tradition. **The Zong pool is the one that was too small**: five surnames
+were carrying three and a half million people, which is why every name I generated collided.
+
+### Hachina clan names
+
+The Hahkina have clan names rather than surnames. A clan name is formed the same way a
+Hachina personal name is, from a root plus a name-forming element, and the two oldest are
+named for the state itself.
+
+=== Hachina clan names ===
+
+{| class="wikitable"
+|-
+! # !! Normalized !! Composition !! Characters
+|-
+| 1 || Hachinawa || hachin + awa, the middle realm || 中邦
+|-
+| 2 || Hachintala || hachin + tala, the seat of the centre || 中城
+|-
+| 3 || hachinha || hachin + ha, centre || 中哈
+|-
+| 4 || hachinko || hachin + ko, centre || 中高
+|-
+| 5 || hachintala || hachin + tala, centre || 中打拉
+|-
+| 6 || kayaha || kaya + ha, plain || 原哈
+|-
+| 7 || kayako || kaya + ko, plain || 原高
+|-
+| 8 || kayatala || kaya + tala, plain || 原打拉
+|-
+| 9 || halaha || hala + ha, mountain || 山哈
+|-
+| 10 || halako || hala + ko, mountain || 山高
+|-
+| 11 || halatala || hala + tala, mountain || 山打拉
+|-
+| 12 || hinaha || hina + ha, river || 川哈
+|-
+| 13 || hinako || hina + ko, river || 川高
+|-
+| 14 || hinatala || hina + tala, river || 川打拉
+|-
+| 15 || washaha || washa + ha, lake || 湖哈
+|-
+| 16 || washako || washa + ko, lake || 湖高
+|-
+| 17 || washatala || washa + tala, lake || 湖打拉
+|-
+| 18 || shoha || sho + ha, gold || 金哈
+|-
+| 19 || shoko || sho + ko, gold || 金高
+|-
+| 20 || shotala || sho + tala, gold || 金打拉
+|-
+| 21 || hachaha || hacha + ha, grain || 粟哈
+|-
+| 22 || hachako || hacha + ko, grain || 粟高
+|-
+| 23 || hachatala || hacha + tala, grain || 粟打拉
+|-
+| 24 || pishiha || pishi + ha, forest || 林哈
+|-
+| 25 || pishiko || pishi + ko, forest || 林高
+|-
+| 26 || pishitala || pishi + tala, forest || 林打拉
+|-
+| 27 || shokha || shok + ha, stone || 石哈
+|-
+| 28 || shokko || shok + ko, stone || 石高
+|-
+| 29 || shoktala || shok + tala, stone || 石打拉
+|-
+| 30 || tsulaha || tsula + ha, chief || 侯哈
+|-
+| 31 || tsulako || tsula + ko, chief || 侯高
+|-
+| 32 || tsulatala || tsula + tala, chief || 侯打拉
+|-
+| 33 || kuha || ku + ha, water || 水哈
+|-
+| 34 || kuko || ku + ko, water || 水高
+|-
+| 35 || kutala || ku + tala, water || 水打拉
+|-
+| 36 || nachiha || nachi + ha, heart || 心哈
+|-
+| 37 || nachiko || nachi + ko, heart || 心高
+|-
+| 38 || nachitala || nachi + tala, heart || 心打拉
+|-
+| 39 || welaha || wela + ha, west || 西哈
+|-
+| 40 || welako || wela + ko, west || 西高
+|-
+| 41 || welatala || wela + tala, west || 西打拉
+|-
+| 42 || hashaha || hasha + ha, east || 東哈
+|-
+| 43 || hashako || hasha + ko, east || 東高
+|-
+| 44 || hashatala || hasha + tala, east || 東打拉
+|-
+| 45 || naha || na + ha, north || 北哈
+|-
+| 46 || nako || na + ko, north || 北高
+|-
+| 47 || natala || na + tala, north || 北打拉
+|-
+| 48 || tsuha || tsu + ha, south || 南哈
+|-
+| 49 || tsuko || tsu + ko, south || 南高
+|-
+| 50 || tsutala || tsu + tala, south || 南打拉
+|}
+
+### Zong and Sinchewese surnames
+
+The hundred common surnames, with their Hokkien readings and characters. Sinchewese
+descends from eastern Zong, so these are the surnames of that region.
+
+**The romanized column is my reading of each character in Hokkien and should be checked.**
+
+=== Zong and Sinchewese surnames ===
+
+{| class="wikitable"
+|-
+! # !! Normalized !! Romanized !! Characters
+|-
+| 1 || Tan || Tân || 陳
+|-
+| 2 || Lim || Lîm || 林
+|-
+| 3 || Ong || Ông || 王
+|-
+| 4 || Ng || N̂g || 黃
+|-
+| 5 || Tio || Tiuⁿ || 張
+|-
+| 6 || Li || Lí || 李
+|-
+| 7 || Gou || Gô͘ || 吳
+|-
+| 8 || Lau || Lâu || 劉
+|-
+| 9 || Chhoa || Chhoà || 蔡
+|-
+| 10 || Iu || Iûⁿ || 楊
+|-
+| 11 || Khou || Khó͘ || 許
+|-
+| 12 || Te || Tēⁿ || 鄭
+|-
+| 13 || Sia || Siā || 謝
+|-
+| 14 || Koeh || Koeh || 郭
+|-
+| 15 || Ang || Âng || 洪
+|-
+| 16 || Su || So͘ || 蘇
+|-
+| 17 || Chan || Chan || 曾
+|-
+| 18 || Lu || Lū || 呂
+|-
+| 19 || Chiang || Chiang || 蔣
+|-
+| 20 || Gan || Gān || 顏
+|-
+| 21 || Chu || Chu || 朱
+|-
+| 22 || Goa || Gōa || 魏
+|-
+| 23 || Sun || Sun || 孫
+|-
+| 24 || Teng || Têng || 丁
+|-
+| 25 || Png || Png || 方
+|-
+| 26 || Peh || Pe̍h || 白
+|-
+| 27 || Khu || Khu || 邱
+|-
+| 28 || Ho || Hô || 何
+|-
+| 29 || Ko || Ko || 高
+|-
+| 30 || Lo || Lô || 羅
+|-
+| 31 || Chiuⁿ || Chiuⁿ || 章
+|-
+| 32 || Siau || Siau || 蕭
+|-
+| 33 || Kho || Khó || 柯
+|-
+| 34 || Tioh || Tiō || 趙
+|-
+| 35 || Su-si || Sū || 施
+|-
+| 36 || I || Ì || 易
+|-
+| 37 || Chek || Chek || 翟
+|-
+| 38 || Sin || Sîn || 岑
+|-
+| 39 || U || Î || 余
+|-
+| 40 || Jim || Jîm || 任
+|-
+| 41 || An || An || 安
+|-
+| 42 || Seng || Seng || 成
+|-
+| 43 || Mo || Mo͘ || 毛
+|-
+| 44 || Ong-tek || Ông || 汪
+|-
+| 45 || Chiⁿ || Chîⁿ || 錢
+|-
+| 46 || Tang || Tâng || 童
+|-
+| 47 || Lek || Le̍k || 陸
+|-
+| 48 || Tiaⁿ || Tiāⁿ || 程
+|-
+| 49 || Pheng || Phêng || 彭
+|-
+| 50 || Kim || Kim || 金
+|-
+| 51 || Ban || Bân || 閩
+|-
+| 52 || Lui || Lûi || 雷
+|-
+| 53 || Li-le || Lī || 厲
+|-
+| 54 || Giam || Gâm || 嚴
+|-
+| 55 || Chhi || Chhî || 徐
+|-
+| 56 || Phan || Phan || 潘
+|-
+| 57 || Kang || Kang || 江
+|-
+| 58 || Beng || Bêng || 明
+|-
+| 59 || Ban-goa || Bān || 萬
+|-
+| 60 || Soaⁿ || Soaⁿ || 山
+|-
+| 61 || Chhoan || Chhoan || 川
+|-
+| 62 || Chhân || Chhân || 田
+|-
+| 63 || Lâm || Lâm || 藍
+|-
+| 64 || Eng || Eng || 英
+|-
+| 65 || Sî || Sî || 時
+|-
+| 66 || Iâm || Iâm || 閻
+|-
+| 67 || Hâu || Hâu || 侯
+|-
+| 68 || Sūn || Sūn || 荀
+|-
+| 69 || Tēng || Tēng || 鄧
+|-
+| 70 || Khng || Khng || 康
+|-
+| 71 || Khó͘-sêng || Khó͘ || 苦
+|-
+| 72 || Pêng || Pêng || 平
+|-
+| 73 || Hoān || Hoān || 樊
+|-
+| 74 || Ông-hō || Ông || 王
+|-
+| 75 || Iûⁿ-sêng || Iûⁿ || 羊
+|-
+| 76 || Sè || Sè || 勢
+|-
+| 77 || Siông || Siông || 常
+|-
+| 78 || Lêng || Lêng || 凌
+|-
+| 79 || Tong || Tong || 董
+|-
+| 80 || Sûi || Sûi || 隋
+|-
+| 81 || Chhiam || Chhiam || 詹
+|-
+| 82 || Gô͘-kî || Gô͘ || 梧
+|-
+| 83 || Chin || Chin || 甄
+|-
+| 84 || Khu-gâm || Khu || 邱
+|-
+| 85 || Tiâu || Tiâu || 晁
+|-
+| 86 || Hô͘ || Hô͘ || 胡
+|-
+| 87 || Lêng-hô || Lêng || 林
+|-
+| 88 || Sêng || Sêng || 盛
+|-
+| 89 || Lû || Lû || 盧
+|-
+| 90 || Chiàu || Chiàu || 趙
+|-
+| 91 || Siā || Siā || 佘
+|-
+| 92 || Bêng || Bêng || 孟
+|-
+| 93 || Tiuⁿ-lâm || Tiuⁿ || 張
+|-
+| 94 || Sū-sêng || Sū || 師
+|-
+| 95 || Ngô͘ || Ngô͘ || 伍
+|-
+| 96 || Î-hô || Î || 伊
+|-
+| 97 || Chiok || Chiok || 祝
+|-
+| 98 || Leng || Lêng || 龍
+|-
+| 99 || Khó͘-tan || Khó͘ || 許
+|-
+| 100 || Tân-siā || Tân || 陳
+|}
+
+### Hybrid surnames
+
+A Zong surname with a Hachina root, the product of two centuries of the two peoples in one
+state. These are rare and carry a family's claim to both traditions.
+
+=== Hybrid surnames ===
+
+{| class="wikitable"
+|-
+! # !! Normalized !! Romanized !! Characters !! Composition
+|-
+| 1 || Tanhala || Tân-hala || 陳山 || Tan + hala
+|-
+| 2 || Limwasha || Lîm-washa || 林湖 || Lim + washa
+|-
+| 3 || Ngkaya || N̂g-kaya || 黃原 || Ng + kaya
+|-
+| 4 || Chiuhoa || Chiu-sho || 周金 || Chiu + sho
+|-
+| 5 || Tiohina || Tiuⁿ-hina || 張川 || Tio + hina
+|-
+| 6 || Likoeh || Lí-koeh || 李郭 || Li + Koeh
+|-
+| 7 || Gouawa || Gô͘-awa || 吳邦 || Gou + awa
+|-
+| 8 || Chhoapishi || Chhoà-pishi || 蔡林 || Chhoa + pishi
+|-
+| 9 || Iuhacha || Iûⁿ-hacha || 楊粟 || Iu + hacha
+|-
+| 10 || Khouhachin || Khó͘-hachin || 許中 || Khou + hachin
+|-
+| 11 || Siahala || Siā-hala || 謝山 || Sia + hala
+|-
+| 12 || Koehnachi || Koeh-nachi || 郭心 || Koeh + nachi
+|-
+| 13 || Angwela || Âng-wela || 洪西 || Ang + wela
+|-
+| 14 || Suhasha || So͘-hasha || 蘇東 || Su + hasha
+|-
+| 15 || Teku || Tēⁿ-ku || 鄭水 || Te + ku
+|-
+| 16 || Laushok || Lâu-shok || 劉石 || Lau + shok
+|-
+| 17 || Chantsula || Chan-tsula || 曾侯 || Chan + tsula
+|-
+| 18 || Luna || Lū-na || 呂北 || Lu + na
+|}
+
 ### Rules for generating a new person
 
 1. **Check the register and the corpus for both the surname and the given name** before
