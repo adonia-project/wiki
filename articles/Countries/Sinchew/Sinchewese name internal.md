@@ -81,6 +81,62 @@ already established:
 
 `ko = 高` was added to the Hachina phonetic table in `reference/hachina_lexicon.md`.
 
+## THE PEOPLE REGISTER
+
+**Use this whenever generating a person.** It exists for two purposes: **so a new name does
+not collide with an existing one**, and **so the name's tradition is tracked separately from
+the person's ethnicity.**
+
+**Ethnicity and name tradition are independent.** A name is a choice a family makes, not a
+label the state assigns, so **a Zong family may give a child a Hachina or Mahik name**, and
+a Baiduist may carry a Zong secular name. The two columns below record both.
+
+| Normalized | Romanized | Characters | Name tradition | Ethnicity / origin |
+|---|---|---|---|---|
+| **PRESIDENTS OF THE FIRST REPUBLIC (1736–1772)** | | | | |
+| Ong Liongseng | Ông Liông-seng | 王隆生 | Zong secular | Zong; revolutionary commander |
+| Tan Chiân-hái | Tân Chiân-hái | 陳淨海 | Baiduist dharma (淨 purity + 海 sea) | Zong; Baiduist |
+| Chiu Kak-bêng | Chiu Kak-bêng | 周覺明 | Baiduist dharma (覺 awakening + 明 clarity) | Zong; Baiduist |
+| Lim Washaha | Lîm Washaha | 林瓦沙哈 | **Hachina given name** (washa, lake) on a Zong surname | Zong; western; FLP |
+| Ng Hinako | Ng Hinako | 黃希那高 | **Hachina given name** (hina, river) on a Zong surname | Zong; eastern; IP |
+| Tan Chû-sim | Tân Chû-sim | 陳慈心 | Baiduist dharma (慈 compassion + 心 heart) | Zong; Baiduist |
+| Ong Halako | Ông Halako | 王哈拉高 | **Hachina given name** (hala, mountain) on a Zong surname | Zong; eastern; LPP |
+| **COLONIAL GOVERNORS AND OFFICERS** | | | | |
+| Tan Bun-seng | Tân Bûn-seng | 陳文成 | Zong secular | Zong; Tianist |
+| Tan Khéng-hui | Tân Khéng-hui | 陳慶輝 | Zong secular | Zong |
+| Lîm Bûn-giâm | Lîm Bûn-giâm | 林文嚴 | Zong secular | Zong; Tianist |
+| Ng Tek-seng | Ng Tek-seng | 黃德生 | Zong secular | Zong; Tianist |
+| Tân Khéng-chong | Tân Khéng-chong | 陳慶宗 | Zong secular | Zong |
+| Lîm Bûn-khiat | Lîm Bûn-khiat | 林文傑 | Zong secular | Zong |
+| Tân Chì-hong | Tân Chì-hong | 陳志豐 | Zong secular | Zong; governor of Louyang |
+| Ông Chì-kong | Ông Chì-kong | 王志剛 | Zong secular | Zong; the hardliner |
+| **REVOLUTIONARY FIGURES** | | | | |
+| Ng Bú-seng | Ng Bú-seng | 黃武生 | Zong secular | Zong; Baiduist; BRA commander |
+| Chiu Hoat-bêng | Chiu Hoat-bêng | 周法明 | Baiduist dharma (法 dharma) | Zong; Baiduist; Ocean Crossing Society |
+| Lîm Huat-tiat | Lîm Huat-tiat | 林法哲 | Baiduist dharma (法 dharma) | Zong; Baiduist; designed the flag |
+| Tân Huat-seng | Tân Huat-seng | 陳法生 | Baiduist dharma (法 dharma) | Zong; Baiduist; Free Sinchew speaker |
+| **HAHKINA AND THE FORMER EMPIRE** | | | | |
+| Kayatsi | Kayatsi | 卡亞齊 | Hachina (kaya + tsi) | Hahkina; king of Hachinawa |
+| Hachatsi | Hachatsi | 哈其齊 | Hachina (hachin + tsi) | Hahkina; general |
+| Hinasho | Hinasho | 希那沙 | Hachina (hina + sho) | Hahkina |
+| Talasho | Talasho | 打拉沙 | Hachina (tala + sho) | Hahkina; royal house |
+| Nachiha | Nachiha | 那其哈 | Hachina (nachi + ha) | Hahkina; king |
+| Tsulhachi | Tsulhachi | 祖拉哈其 | Hachina (tsula + hachi) | Hahkina; king |
+
+### Rules for generating a new person
+
+1. **Check the register and the corpus for both the surname and the given name** before
+   using them. Four of my first six attempts collided.
+2. **Choose a name tradition independently of ethnicity.** A Zong person may hold a
+   Baiduist dharma name, a Hachina name, a Mahik or Apyãwa name, or a combination.
+3. **Baiduist dharma names combine a lexicon character with a personal one**, from the five
+   categories in the article: 海/渡/波/潮/岸/帆 · 覺/悟/明/智/真 · 慈/善/悲/淨/德 · 結/連/緣 · 法/道/行/心.
+4. **Hachina names are a root plus -ha or -ko**, written phonetically in Zong characters:
+   hachin, kaya, hala, hina, washa, sho, hacha, tsula.
+5. **Mahik and Apyãwa names follow conventions the state does not register**; they are
+   under-used at present and **names from them should appear more often**, including on
+   people of Zong ethnicity.
+
 ## ⚠ CHECK EVERY NEW NAME AGAINST THE CORPUS
 
 Four of my first attempts collided with established names:
