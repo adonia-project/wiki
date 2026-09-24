@@ -10,9 +10,9 @@ Each province has an assembly of its own and elects two members of the [[Senate 
 
 The republic has twenty-three provinces. Thirteen are the provinces constituted in 1736, unchanged; nine were formed in 1826 by the division of three of them; and [[Palpoa Province|Palpoa]] was added in the nineteenth century.
 
-{| class="wikitable"
+{| class="wikitable sortable"
 |-
-! Map !! Name !! Area (km²) !! Population (2026) !! Capital
+! Map !! Name !! data-sort-type="number" | Area (km²) !! data-sort-type="number" | Population (2026) !! Capital
 |-
 | [[File:Kayahachin_of_Sinchew_locator_modern.png|350px]] || [[Kayahachin]]<br/>Kayahachin<br/>卡亞哈其那<br/>原中 || 89,741 || 23,998,153 || [[Hachintala]]
 |-
@@ -52,7 +52,7 @@ The republic has twenty-three provinces. Thirteen are the provinces constituted 
 |-
 | [[File:Sunheng_of_Sinchew_locator_modern.png|350px]] || [[Sunheng]]<br/>Sūn-heng<br/>順興<br/>孫興 || 16,065 || 1,348,682 || [[Sunheng]]
 |-
-| [[File:Palpoa_of_Sinchew_locator_modern.png|350px]] || [[Palpoa]]<br/>Palpoa<br/>—<br/>— || 6,671 || 1,250,876 || [[Palpoa]]
+| [[File:Palpoa_of_Sinchew_locator_modern.png|350px]] || [[Palpoa]]<br/>Palpoa<br/>—<br/>— || 6,671 || 1,250,876 || [[Rio Sud]]
 |-
 | [[File:Hashawa_of_Sinchew_locator_modern.png|350px]] || [[Hashawa]]<br/>Hashawa<br/>哈夏瓦<br/>東邦 || 198,570 || 1,148,548 || [[Hashawa]]
 |-
@@ -63,9 +63,9 @@ The republic has twenty-three provinces. Thirteen are the provinces constituted 
 
 === Density ===
 
-{| class="wikitable"
+{| class="wikitable sortable"
 |-
-! Province !! Area (km²) !! Population !! Density (per km²)
+! Province !! data-sort-type="number" | Area (km²) !! data-sort-type="number" | Population !! data-sort-type="number" | Density (per km²)
 |-
 | [[Kayahachin]] || 89,741 || 23,998,153 || 267
 |-
@@ -126,9 +126,9 @@ The provinces of the former Hachinawa are large because much of their territory 
 
 Each province bears a name in both of the Union's written languages. Names are rendered phonetically in the script that receives them and ordinary words semantically, so the two columns below are not translations of one another.
 
-{| class="wikitable"
+{| class="wikitable sortable"
 |-
-! Map !! Normalized !! Romanized !! [[Zong language|Zong]] !! [[Hachina language|Hachina]] in Zong characters !! Area (km²) !! Population (1736) !! Notes
+! Map !! Normalized !! Romanized !! [[Zong language|Zong]] !! [[Hachina language|Hachina]] in Zong characters !! data-sort-type="number" | Area (km²) !! data-sort-type="number" | Population (1736) !! Notes
 |-
 | [[File:Tamsui_of_Sinchew_locator_1736.png|150px]] || Tamsui || Tāmsui || 淡水 || 搭姆蘇伊 || 22,819 || 331,942 || contains the capital
 |-
