@@ -146,8 +146,8 @@
   },
   "List of presidents of Sinchew": {
     "direction": "push",
-    "hash": "9b173089fb6ad35a59891da951f9fb4c5f070200c1bc6ba8bc7bbbbd537e6a84",
-    "last_sync": "2026-09-24T00:17:38.736331+00:00"
+    "hash": "d5fb437b921a7e823f69b6ea51601ad6c2aed5c2f85be50a1b20e602ee7c5ad4",
+    "last_sync": "2026-09-24T00:20:07.040963+00:00"
   },
   "Louyang national football team": {
     "direction": "pull",
@@ -161,8 +161,8 @@
   },
   "Provinces of Sinchew": {
     "direction": "push",
-    "hash": "501d1394eb390be058f92a9a758d27cba03b169b824b839051a2fc537a5f57c3",
-    "last_sync": "2026-09-24T00:17:25.224501+00:00"
+    "hash": "d5756f840ba3a37a2241d0f7b9c1065a9599d77b52eff4bd5360d1a606b291ad",
+    "last_sync": "2026-09-24T00:20:20.891156+00:00"
   },
   "Scripts of Hachinawa": {
     "direction": "push",
