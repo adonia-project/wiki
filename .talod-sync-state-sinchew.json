@@ -166,8 +166,13 @@
   },
   "Okheng": {
     "direction": "push",
-    "hash": "257e2fdbcd3984b7f1461fed38002c198ad2df3cc31cf21ff8c0e8c8224c5824",
-    "last_sync": "2026-09-24T00:42:52.133423+00:00"
+    "hash": "0e48d75892c91b5e58eb03a3945eda3f7212f820992d75f596ac50b8f208ab34",
+    "last_sync": "2026-09-24T00:45:23.514858+00:00"
+  },
+  "Okheng (polity)": {
+    "direction": "push",
+    "hash": "909e1dae70f3e8afc49e9609cbf3b0c1f726ce0d71ae141f85f2c1f4892e2014",
+    "last_sync": "2026-09-24T00:45:25.095856+00:00"
   },
   "Provinces of Sinchew": {
     "direction": "push",
