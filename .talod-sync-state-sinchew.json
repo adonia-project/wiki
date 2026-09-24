@@ -124,6 +124,11 @@
     "hash": "bd83ff49e642f08f4acb3794677d2ffbbf7154c841dc2765a942ad146e28cb8d",
     "last_sync": "2026-09-23T23:51:56.217677+00:00"
   },
+  "History of Sinchew (1772-1828)": {
+    "direction": "push",
+    "hash": "f744d0257740da212b20915561a7af909eb89ab7e5d3105354e3f65b81d1e309",
+    "last_sync": "2026-09-24T00:15:57.068252+00:00"
+  },
   "Hokta": {
     "direction": "push",
     "hash": "cb8a7ce5b24314b5b9cbe8db48925319289054dce5bd026dd985267fcf159daf",
@@ -136,8 +141,8 @@
   },
   "List of presidents of Sinchew": {
     "direction": "push",
-    "hash": "9bda8550b404ca19b03c0f0e759c6ff9287dab4a5100623561b7c7a65bd7c94f",
-    "last_sync": "2026-09-23T23:45:30.170864+00:00"
+    "hash": "ba73eb9bf2d409d68d2b56918822405f221bc9b6e48e2be24ba946b4ae71c404",
+    "last_sync": "2026-09-24T00:16:06.266011+00:00"
   },
   "Louyang national football team": {
     "direction": "pull",
