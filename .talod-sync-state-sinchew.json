@@ -124,6 +124,11 @@
     "hash": "bd83ff49e642f08f4acb3794677d2ffbbf7154c841dc2765a942ad146e28cb8d",
     "last_sync": "2026-09-23T23:51:56.217677+00:00"
   },
+  "History of Sinchew (1772-1826)": {
+    "direction": "push",
+    "hash": "eb75ca85556d36659157035b1360d1ebd2d826686422debebeee7d43fd3b7c28",
+    "last_sync": "2026-09-24T00:17:26.216872+00:00"
+  },
   "History of Sinchew (1772-1828)": {
     "direction": "push",
     "hash": "f744d0257740da212b20915561a7af909eb89ab7e5d3105354e3f65b81d1e309",
@@ -141,8 +146,8 @@
   },
   "List of presidents of Sinchew": {
     "direction": "push",
-    "hash": "ba73eb9bf2d409d68d2b56918822405f221bc9b6e48e2be24ba946b4ae71c404",
-    "last_sync": "2026-09-24T00:16:06.266011+00:00"
+    "hash": "9b173089fb6ad35a59891da951f9fb4c5f070200c1bc6ba8bc7bbbbd537e6a84",
+    "last_sync": "2026-09-24T00:17:38.736331+00:00"
   },
   "Louyang national football team": {
     "direction": "pull",
@@ -156,8 +161,8 @@
   },
   "Provinces of Sinchew": {
     "direction": "push",
-    "hash": "fd79d5b2f5b13f9fcd811b198f38d2c6225a19a7a6047d48a6ae1a098865195b",
-    "last_sync": "2026-09-23T22:25:09.500879+00:00"
+    "hash": "501d1394eb390be058f92a9a758d27cba03b169b824b839051a2fc537a5f57c3",
+    "last_sync": "2026-09-24T00:17:25.224501+00:00"
   },
   "Scripts of Hachinawa": {
     "direction": "push",
