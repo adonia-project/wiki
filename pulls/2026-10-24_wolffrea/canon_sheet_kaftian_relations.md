@@ -121,3 +121,10 @@ then Sanese-side hooks you asked for.
 - Burawan state commentary notes the ideological alignment of the two governments (both socialist) without moderating the demand.
 - Dispute UNRESOLVED as of night sitting 24 Oct 2026. If JWG-PNK Operations in Northwest Kaftia covers the flotilla, this protest belongs on that side too.
 - Wired into: Diet debate (EMCPA section), emergency resolution (aftermath), 4942E (background).
+
+## Jarin amendment request (Carl directives 2026-10-24, rev 34667)
+- Jarin delegation FORMALLY ASKS Okaiken (lead sponsor) to amend 4942D: defense of the deconfliction zones to be ORCHESTRATED BY THE AC instead of by volunteering member states, to streamline coordination. Provision would require vessels engaged in zone defense to REMAIN AC-FLAGGED and be VOLUNTEERED FOR COMMAND UNDER THE AC ARMED FORCES COMMAND.
+- Jarin quote (canon, Carl-provided): "Okaiken must follow international cooperation treaties if all nations are expected to follow the same; they must volunteer their vessels for command under the AC armed forces command."
+- KEY FACT (Carl correction): the parenthetical "such as Okaiken's escort group in Alwana" in the self-defence provisions bullet was FALSE and has been REMOVED - the sealift is AC-MANAGED (ferries are AC-flagged, escort group operates within the AC-managed evacuation operation). The draft preserves only NATIONAL COMMAND of the escorting warships - that is the sole remaining thing Jarin's amendment targets.
+- Note: AC has NO standing armed forces command in canon - the amendment would in effect create one. Parallels the Burawan objection but routes through AC authority instead of JWG-PNK. Request UNRESOLVED as of close of 24 Oct.
+- Wired into 4942D only (new "Proposed amendment by Jarin" subsection + bullet fix).
