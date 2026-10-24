@@ -6,10 +6,10 @@
 | current_season = 2025-26 Okaiken Rugby League One
 | logo = Okaiken Rugbly League Logo.svg
 | pixels = 250px
-| caption = 
+| caption =
 | sport = [[w:Rugby union|Rugby union]]
 | founded = 2003
-| folded = 
+| folded =
 | inaugural = 2003-04
 | teams = 12 (Division 1)<br>8 (Division 2)<br>6 (Division 3)
 | country = {{flag|Okaiken}}
@@ -17,12 +17,12 @@
 | most_champ = Saitama Wild Knights (7 titles)
 | TV = OR Sports, DAZN Okaiken
 | related = [[Emperor's Shield]]
-| website = 
+| website =
 }}
 
 '''Okaiken Rugby League One''' ({{nihongo|オカケンラグビーリーグワン|Okaken Ragubī Rīguwan}}), formerly known as the '''Top League''' ({{nihongo|トップリーグ|Toppurīgu}}) from 2003 to 2021, is the highest level of professional [[w:Rugby union|rugby union]] competition in [[Okaiken]]. Founded in 2003 by the Sanese Rugby Football Union, the league represents the pinnacle of the nation's obsession with heavy-contact team sports and physical resilience.
 
-The league operates as a three-tier system with promotion and relegation, featuring corporate-backed franchises that reflect Okaiken's industrial heritage. Rugby union is the most popular team sport in Okaiken, with League One matches regularly drawing massive crowds and dominating television ratings during the winter season.
+The league operates as a three-tier system with promotion and relegation, featuring corporate-backed franchises that reflect Okaiken's industrial heritage. Rugby union is the most popular team sport in Okaiken, with League One matches regularly drawing massive crowds and dominating television ratings during the winter season. The league's official mascot, {{nihongo|'''RAGUKUN'''|ラグくん|Ragu-kun}}, a [[shisa]] gripping a rugby ball in its jaws, has become one of the most recognizable sports mascots in the Fosian world.
 
 ==History==
 ===Origins and the Top League era (2003-2021)===
@@ -37,6 +37,8 @@ The Top League expanded to 14 teams in 2006-07 and reached 16 teams by 2013-14. 
 In 2021, the Sanese Rugby Football Union announced a comprehensive restructuring of the domestic competition. The league was officially renamed Okaiken Rugby League One, adopting a fully professional three-tier structure designed to align with Okaiken's {{nihongo|Forge State|鍛冶国家|Kaji Kokka}} ideology and the {{nihongo|Cult of Iron|鉄身信仰|Tesshin-shinkō}} cultural movement.
 
 The restructure coincided with increased government investment in rugby infrastructure through the [[National Iron Body Initiative]], launched by [[Crown Prince Tomohito]]. The initiative designated rugby as a priority sport for youth development, linking the sport's emphasis on collective sacrifice and physical resilience to broader national fitness objectives.
+
+The rebranding also introduced a comprehensive marketing overhaul, including the creation of the league's official mascot [[RAGUKUN]], a unified visual identity system, and a major expansion of broadcasting and digital media partnerships. The League One era has seen a 34% increase in average match attendance and a 41% increase in television viewership compared to the final Top League season.
 
 ==Structure==
 The league operates a three-division structure with promotion and relegation:
@@ -93,6 +95,71 @@ League One maintains strict regulations on foreign player participation to ensur
 | [[Nishishirakawa Dynaboars]] || [[Fukushima Prefecture|Fukushima]] || 1970 || Nishishirakawa Construction || 0
 |}
 
+===Division 2 (2025-26 season)===
+{| class="wikitable sortable"
+|+ Division 2 teams
+|-
+! Team !! Home city !! Founded !! Corporate owner
+|-
+| [[Chiba Blue Sharks]] || [[Chiba Prefecture|Chiba]] || 1972 || Chiba Pharmaceuticals
+|-
+| [[Miyagi Samurai]] || [[Miyagi Prefecture|Sendai]] || 1968 || Miyagi Logistics
+|-
+| [[Hirogawa Fireworks]] || [[Hirogawa Prefecture|Hirogawa]] || 1983 || Hirogawa Chemical
+|-
+| [[Kofu Warriors]] || [[Kofu Prefecture|Kofu]] || 1977 || Kofu Mining Corp.
+|-
+| [[Iwate Blizzard]] || [[Iwate Prefecture|Morioka]] || 1981 || Iwate Steel
+|-
+| [[Akita Thunder]] || [[Akita Prefecture|Akita]] || 1975 || Akita Energy
+|-
+| [[Fukushima Ironmen]] || [[Fukushima Prefecture|Fukushima]] || 1969 || Fukushima Heavy Works
+|-
+| [[Okayama Green Shields]] || [[Okayama Prefecture|Okayama]] || 1988 || Okayama Agriculture Co-op
+|}
+
+===Division 3 (2025-26 season)===
+{| class="wikitable sortable"
+|+ Division 3 teams
+|-
+! Team !! Home city !! Founded !! Corporate owner
+|-
+| [[Tochigi Silverbacks]] || [[Tochigi Prefecture|Utsunomiya]] || 1991 || Tochigi Construction
+|-
+| [[Nagasaki Typhoons]] || [[Nagasaki Prefecture|Nagasaki]] || 1995 || Nagasaki Shipyard
+|-
+| [[Kagoshima Volcanoes]] || [[Kagoshima Prefecture|Kagoshima]] || 1993 || Kagoshima Fisheries
+|-
+| [[Ibaraki Golden Bulls]] || [[Ibaraki Prefecture|Mito]] || 1990 || Ibaraki Electronics
+|-
+| [[Shimane Stonebreakers]] || [[Shimane Prefecture|Matsue]] || 1997 || Shimane Prefectural Government
+|-
+| [[Kochi Storm]] || [[Kochi Prefecture|Kochi]] || 1994 || Kochi Maritime
+|}
+
+==Stadiums==
+League One Division 1 matches are held at dedicated rugby stadiums and multi-purpose arenas across Okaiken. The largest and most iconic venues include:
+
+{| class="wikitable sortable"
+|+ Major League One venues
+|-
+! Stadium !! City !! Capacity !! Primary tenant !! Notable events
+|-
+| [[Saitama Rugby Ground]] || Soma || 32,000 || Saitama Wild Knights || Emperor's Shield finals (2018, 2022, 2025)
+|-
+| [[Toyozawa Dome]] || Toyozawa || 45,000 || Koshien Steelers, Toyozawa Black Rams || Emperor's Shield final (2024)
+|-
+| [[Aizawa Naval Stadium]] || Aizawa || 28,500 || Aizawa Eagles || Industrial Derby host venue
+|-
+| [[Okami National Stadium]] || Okami || 50,000 || Okami Sungoliath, Yokohama Canon Eagles || National team test matches
+|-
+| [[Shinagawa Arena]] || Shinagawa || 22,000 || Kanto Wild Knights || Division 1 playoff semifinals
+|-
+| [[Minatojima Seaside Park]] || Minatojima || 18,000 || Seto Dolphins || Kaijo-kyu exhibition matches
+|}
+
+The [[Saitama Rugby Ground]] is considered the spiritual home of Sanese rugby, hosting the majority of Emperor's Shield finals and serving as the primary venue for the national team's home test matches. The [[Toyozawa Dome]], shared between the Koshien Steelers and the Toyozawa Black Rams, is the largest covered rugby venue in the Shendan Ocean region.
+
 ==Notable figures==
 ===Players and personalities===
 [[File:Crown Prince Tomohito Juddo.png|thumb|right|250px|[[Crown Prince Tomohito]] played openside flanker for [[Okami Teikoku University]] and has been a vocal advocate for youth rugby development.]]
@@ -102,19 +169,189 @@ League One has produced numerous iconic figures who embody the {{nihongo|Iron Bo
 * '''[[Kenjiro Arima]]''' – Fly-half for the [[Koshien Steelers]], celebrated for his tactical brilliance and precision kicking in high-pressure moments.
 * '''[[Takeru Fujimoto]]''' – Former captain of the [[Aizawa Eagles]], who led the team to a national championship before retiring to pursue a career in education. Fujimoto later became [[Minister of Education, Culture, Sports, Science and Technology]] under Prime Minister [[Honda Shigetsuma]].
 * '''[[Ryohei Kanda]]''' – A towering lock who transitioned from judo to rugby, embodying the cross-disciplinary athletic development promoted by the Forge State ideology.
+* '''[[Shohei Takeda]]''' – Scrum-half for the [[Okami Sungoliath]], known for his lightning-quick distribution and aggressive defensive pressing around the breakdown, earning him the nickname {{nihongo|"The Needle"|針|Hari}}.
+* '''[[Kenta Morikawa]]''' – Prop for the [[Koshien Steelers]] and the most-capped scrum specialist in League One history, renowned for his technical dominance in the set piece and his advocacy for front-row player welfare.
 
 [[Crown Prince Tomohito]] has served as the league's most prominent advocate, having played openside flanker for [[Okami Teikoku University]] during his youth. His public support for the National Iron Body Initiative has elevated rugby's cultural profile, positioning the sport as a vehicle for character development and national resilience.
 
+===Coaches===
+* '''[[Genichi Shukuzawa]]''' – Head coach of the [[Saitama Wild Knights]] since 2019, architect of the league's most dominant defensive system. Shukuzawa's {{nihongo|"Iron Wall"|鉄壁|Teppeki}} defensive structure has conceded the fewest points per game in four consecutive seasons.
+* '''[[Yusuke Hattori]]''' – Head coach of the [[Koshien Steelers]], known for his innovative backline play designs and his willingness to deploy unorthodox attacking formations in high-stakes matches.
+* '''[[Daigo Kuroda]]''' – Former national team lock who transformed the [[Aizawa Eagles]] into a playoff contender through an emphasis on forward dominance and mauling play.
+
 ===Rivalries===
-The league's most celebrated rivalry is between the [[Saitama Wild Knights]] and the [[Koshien Steelers]], known as the {{nihongo|Iron Bowl|鉄の皿|Tetsu no Sara}}. The annual clash between these two corporate giants draws massive crowds and intense media coverage, with matches often decided by narrow margins in brutal defensive struggles.
+The league's most celebrated rivalry is between the [[Saitama Wild Knights]] and the [[Koshien Steelers]], known as the {{nihongo|Iron Bowl|鉄の皿|Tetsu no Sara}}. The annual clash between these two corporate giants draws massive crowds and intense media coverage, with matches often decided by narrow margins in brutal defensive struggles. The Iron Bowl has produced some of the most physically punishing matches in League One history, with the 2023 final—decided by a last-minute Arima penalty kick after 80 minutes of attritional forward play—widely considered the greatest domestic rugby match ever played in Okaiken.
 
 The {{nihongo|Industrial Derby|産業ダービー|Sangyō Dābī}} between the [[Aizawa Eagles]] (representing shipbuilding) and the [[Saitama Wild Knights]] (representing heavy industry) highlights the league's corporate heritage and the blue-collar identity of Sanese rugby culture.
+
+The {{nihongo|Capital Clash|首都決戦|Shuto Kessen}} between the [[Okami Sungoliath]] and the [[Yokohama Canon Eagles]]—both based in the Okami metropolitan area—has intensified in the League One era, with corporate rivalry between the Okami Financial Group and Canon Inc. fueling increasingly hostile fan dynamics.
+
+==Season records and championship history==
+===Emperor's Shield champions===
+{| class="wikitable"
+|+ Emperor's Shield champions by season
+|-
+! Season !! Champion !! Runner-up !! Score !! Venue
+|-
+| 2025-26 || [[Saitama Wild Knights]] || [[Koshien Steelers]] || 21–18 || Saitama Rugby Ground
+|-
+| 2024-25 || [[Saitama Wild Knights]] || [[Okami Sungoliath]] || 27–14 || Toyozawa Dome
+|-
+| 2023-24 || [[Koshien Steelers]] || [[Saitama Wild Knights]] || 19–16 || Toyozawa Dome
+|-
+| 2022-23 || [[Saitama Wild Knights]] || [[Aizawa Eagles]] || 33–7 || Saitama Rugby Ground
+|-
+| 2021-22 || [[Okami Sungoliath]] || [[Koshien Steelers]] || 24–20 || Okami National Stadium
+|-
+| 2020-21 || [[Saitama Wild Knights]] || [[Toyozawa Black Rams]] || 31–12 || Saitama Rugby Ground
+|-
+| 2019-20 || [[Koshien Steelers]] || [[Aizawa Eagles]] || 22–15 || Toyozawa Dome
+|-
+| 2018-19 || [[Saitama Wild Knights]] || [[Koshien Steelers]] || 18–9 || Saitama Rugby Ground
+|-
+| 2017-18 || [[Aizawa Eagles]] || [[Okami Sungoliath]] || 28–24 || Aizawa Naval Stadium
+|-
+| 2016-17 || [[Saitama Wild Knights]] || [[Koshien Steelers]] || 25–22 || Saitama Rugby Ground
+|}
+
+===Individual awards===
+League One presents the following annual awards at the conclusion of each season:
+
+* '''{{nihongo|Iron Shield MVP|鉄盾最優秀選手|Tate-tate Saiyūshū Senshu}}''' – Awarded to the most valuable player of the Emperor's Shield tournament. Recent winners include [[Haruma Date]] (2024-25, 2025-26) and [[Kenjiro Arima]] (2023-24).
+* '''{{nihongo|Iron Body Award|鉄身賞|Tesshin-shō}}''' – Awarded to the player who best exemplifies the physical resilience and collective sacrifice central to the Cult of Iron philosophy. Voted by coaches and captains across all three divisions.
+* '''{{nihongo|Rookie of the Forge|鍛冶場新人賞|Kajiba Shinjin-shō}}''' – Awarded to the most outstanding first-year player in Division 1.
+* '''{{nihongo|Top Scorer|得点王|Tokuten-ō}}''' – Awarded to the player with the highest total points scored during the regular season.
+* '''{{nihongo|Best Forward|最優秀フォワード|Saiyūshū Fowādo}}''' and '''{{nihongo|Best Back|最優秀バックス|Saiyūshū Bakkusu}}''' – Positional awards recognizing the best forward and back of the season.
+
+==Attendance and viewership==
+League One has experienced dramatic growth in both attendance and television viewership since the 2022 rebranding, a trend directly correlated with the marketing expansion and the National Iron Body Initiative's promotion of rugby as a priority sport.
+
+{| class="wikitable"
+|+ Average attendance and viewership (Division 1 regular season)
+|-
+! Season !! Avg. attendance !! Total attendance !! Avg. TV viewership !! Emperor's Shield final viewership
+|-
+| 2025-26 || 18,400 || 1,987,200 || 8.2 million || 33.1 million
+|-
+| 2024-25 || 17,100 || 1,846,800 || 7.6 million || 31.8 million
+|-
+| 2023-24 || 16,200 || 1,749,600 || 7.1 million || 30.4 million
+|-
+| 2022-23 || 15,000 || 1,620,000 || 6.3 million || 28.7 million
+|-
+| 2021-22 || 13,800 || 1,490,400 || 5.5 million || 26.2 million
+|-
+| 2020-21 || 12,500 || 1,350,000 || 4.8 million || 24.1 million
+|}
+
+The Emperor's Shield final consistently ranks among the top three most-watched television broadcasts in Okaiken each year, trailing only the [[Rice Bowl]] and the [[Mr. Adonia]] posedown. The 2025-26 final between the Saitama Wild Knights and the Koshien Steelers drew 33.1 million viewers, the highest in League One history.
+
+==Marketing and branding==
+===RAGUKUN===
+{{Infobox character
+| name = RAGUKUN<br>{{nihongo|ラグくん|Ragu-kun}}
+| image = RAGUKUN Okaiken Rugby League One.png
+| image_size = 200px
+| caption = RAGUKUN, the official mascot of Okaiken Rugby League One
+| first_appearance = 2022
+| creator = [[Kenta Morimoto]] (character design)<br>[[Sanese Rugby Football Union]] (concept)
+| voice_actor =
+| species = [[Shisa]]
+| affiliation = Okaiken Rugby League One
+}}
+
+'''RAGUKUN''' ({{nihongo|ラグくん|Ragu-kun}}) is the official mascot of Okaiken Rugby League One. Introduced at the start of the 2022-23 season as part of the league's comprehensive rebranding from the Top League, RAGUKUN is a [[shisa]]—a traditional Sanese guardian lion-dog—depicted in a fierce stance with a rugby ball clamped in its jaws. The mascot has become one of the most recognizable sports branding elements in the Fosian world, appearing on merchandise, broadcasting graphics, stadium signage, and digital media throughout the League One ecosystem.
+
+====Design and symbolism====
+RAGUKUN was designed by [[Kenta Morimoto]], a Toyozawa-based character designer and rugby enthusiast, following a public competition held by the Sanese Rugby Football Union in early 2022. The winning design was selected from over 1,200 submissions by a panel that included SRFU officials, marketing executives, and [[Crown Prince Tomohito]], who reportedly described the concept as "exactly what the league needed—a guardian for the game."
+
+The mascot's design draws on several layers of Sanese cultural symbolism:
+
+* '''The shisa''': In Sanese folklore, the shisa is a protective guardian spirit that wards off evil and safeguards the home. By placing a shisa at the center of the league's identity, the SRFU explicitly linked rugby to the {{nihongo|Cult of Iron|鉄身信仰|Tesshin-shinkō}} concept of {{nihongo|guardianship|守護|shugo}}—the idea that physical strength exists to protect others. The shisa's traditional role as a temple guardian parallels the Cult of Iron's {{nihongo|"guardian physique"|守護者体格|shugoshitaikaku}} ideal.
+* '''The ball in its jaws''': RAGUKUN grips the rugby ball in its teeth rather than carrying it in its paws, a deliberate design choice that conveys ferocity and possession—the ball is not merely held, it is defended. The imagery echoes the shisa's traditional depiction with a protective orb in its mouth, reimagined as a rugby ball to fuse folklore with sport.
+* '''Physical build''': RAGUKUN is rendered with a muscular, imposing physique consistent with the {{nihongo|"Iron Body"|鉄身|Tesshin}} aesthetic. Its broad shoulders, defined limbs, and aggressive posture reflect the Cult of Iron's visual vocabulary, making the mascot a stylized embodiment of the league's physical ideals.
+* '''Color scheme''': The mascot's primary colors are deep crimson and black—the traditional colors of the Emperor's Shield—accented with gold trim referencing the shisa's association with temple ornamentation and the forge's fire.
+
+Morimoto described the design philosophy in a 2023 interview:
+
+{{quote|A shisa doesn't ask permission to guard. It just guards. That's what rugby is in Okaiken—you stand in the way, you protect the line, you don't back down. RAGUKUN isn't cute. He's not there to entertain children. He's there because the game needs a guardian, and a guardian has to look like it can actually protect something.|Kenta Morimoto, ''OR Sports Weekly'', January 2023}}
+
+====Public reception and cultural impact====
+RAGUKUN's introduction was initially met with skepticism from traditionalist fans who viewed the mascot as an unnecessary commercialization of a sport that had historically relied on corporate identity rather than league-wide branding. However, the mascot's aggressive, unapologetically muscular aesthetic—sharply divergent from the rounded, child-friendly mascots common in other Fosian sports leagues—rapidly won over the rugby-watching public.
+
+The mascot's popularity was amplified by its alignment with the Cult of Iron's visual culture. RAGUKUN's muscular build and fierce expression resonated with a fanbase that already celebrated the {{nihongo|"guardian physique"|守護者体格|shugoshitaikaku}} ideal, making the mascot feel like a natural extension of existing cultural values rather than an imposed marketing construct. Within months of its debut, RAGUKUN merchandise outsold all individual team mascot merchandise combined.
+
+The {{nihongo|"RAGUKUN Pose"|ラグくんポーズ|Ragu-kun Pōzu}}—mimicking the mascot's stance with arms raised and jaw clenched—became a widespread celebration gesture among players and fans, particularly after tries and during Emperor's Shield finals. [[Haruma Date]]'s RAGUKUN Pose after scoring the winning try in the 2024-25 Emperor's Shield final became one of the most replayed sports moments of the year on OR Sports.
+
+RAGUKUN has also been adopted as an unofficial symbol by the [[National Iron Body Initiative]]'s youth rugby programs. The {{nihongo|"RAGUKUN Rugby Schools"|ラグくんラグビー教室|Ragu-kun Ragubī Kyōshitsu}}, a nationwide network of free youth rugby clinics funded by the SRFU and the Initiative, uses the mascot as its primary branding element. Over 120,000 children aged 6–15 participated in RAGUKUN Rugby Schools programs during the 2025-26 season.
+
+====Merchandise and licensing====
+RAGUKUN merchandise generates approximately 円18 billion in annual retail revenue, making it the highest-grossing sports mascot brand in Okaiken. Key product categories include:
+
+* '''Apparel''': Replica jerseys featuring the RAGUKUN emblem, training gear, and casual wear. The RAGUKUN-branded {{nihongo|"Guardian Line"|守護ライン|Shugo Rain}} of performance apparel—produced in partnership with [[Kizan Systems]]' textile division—incorporates moisture-wicking and compression technology marketed with Cult of Iron-aligned language about "forging the body."
+* '''Figures and collectibles''': Scale figures produced by [[Okami Hobby]] are among the most sought-after sports collectibles in Okaiken. The limited-edition "Emperor's Shield Champion" RAGUKUN figure, released after each final, routinely sells out within hours and commands significant resale premiums.
+* '''Digital content''': RAGUKUN stickers, animated GIFs, and avatar accessories are available on major Sanese messaging platforms. The RAGUKUN emoji set is the most-used sports emoji pack in Okaiken, surpassing even the X-League's [[Gao-kun]] mascot pack.
+* '''Food and beverage''': Licensed RAGUKUN-branded protein snacks, energy bars, and sports drinks are sold at stadium concessions and retail outlets nationwide. The {{nihongo|"RAGUKUN Iron Bar"|ラグくん鉄バー|Ragu-kun Tetsu Bā}}, a high-protein snack bar, has become a staple of gym culture in Okaiken, frequently stocked in [[Iron Body Center]] vending machines.
+
+The SRFU maintains strict quality control over RAGUKUN licensing, requiring all licensed products to meet standards consistent with the Cult of Iron's emphasis on physical quality and durability. Products that fail quality review are publicly rejected—a policy that has reinforced the brand's association with authenticity and craftsmanship.
+
+====RAGUKUN in popular culture====
+RAGUKUN's cultural penetration extends beyond sports marketing:
+
+* The mascot appeared as a playable character in the fighting game ''[[Iron Fosia: Arena]]'' (2026), where its moveset incorporates shisa-inspired guardian attacks and rugby tackling mechanics.
+* The {{nihongo|''RAGUKUN Chronicles''|ラグくん年代記|Ragu-kun Nendaiki}} manga series, launched in 2023, follows an anthropomorphized RAGUKUN defending a fictional rugby team from supernatural threats. The series has sold over 4 million volumes and was adapted into an anime in 2025.
+* The annual {{nihongo|RAGUKUN Festival|ラグくん祭|Ragu-kun Matsuri}}, held in Toyozawa during the Emperor's Shield weekend, draws an estimated 150,000 visitors and features rugby skills competitions, merchandise exclusives, live music, and a parade of giant RAGUKUN floats.
+
+===Visual identity and branding===
+The League One rebranding introduced a comprehensive visual identity system designed by the Okami-based firm [[Iron Brand Works]]. The system centers on the {{nihongo|"Iron Shield"|鉄盾|Tate-tate}} motif—a stylized rugby ball crossed with a traditional shisa guardian emblem—rendered in crimson, black, and gold. The identity extends across all league materials, from stadium signage and broadcast graphics to digital platforms and official documents.
+
+Each Division 1 team maintains its own visual identity within the league's overarching framework. Team logos are required to incorporate the Iron Shield mark as a secondary element, ensuring brand cohesion while preserving individual corporate heritage. The uniform design standards mandate that all team kits feature the RAGUKUN emblem on the left sleeve, a placement that has become a recognized mark of League One authenticity.
+
+The league's tagline, {{nihongo|"Guard the Line"|線を守れ|Sen o Mamore}}, debuted in the 2022-23 season and has been used in every subsequent marketing campaign. The phrase operates on multiple levels: it references the defensive line in rugby, the guardian role of the shisa, and the Cult of Iron's emphasis on protection and collective resilience. It has been adopted as a chant by fan groups across all three divisions.
+
+===Broadcasting and media rights===
+League One's broadcasting rights are held by [[OR Sports]] (terrestrial and cable) and [[DAZN Okaiken]] (streaming), under a four-year contract signed in 2024 valued at approximately 円220 billion. The deal represented a 67% increase over the previous contract, reflecting the league's surging viewership and the cultural premium placed on live rugby content in the Fosian media market.
+
+====OR Sports coverage====
+[[OR Sports]], the sports division of the national broadcaster, holds the primary terrestrial rights. OR Sports broadcasts all Emperor's Shield knockout matches live, including the final, which receives a dedicated four-hour pre-game show featuring panel discussions, historical retrospectives, and live segments from the RAGUKUN Festival. Regular-season Division 1 matches are broadcast on OR Sports 1 and OR Sports 2, with a featured "Iron Bowl Preview" special airing before each Saitama–Koshien clash.
+
+OR Sports' rugby commentary team is led by [[Shinobu Ono]], a former national team fullback and the most recognized rugby broadcaster in Okaiken. Ono's commentary style—analytical, intense, and unafraid to criticize poor defensive effort—has made him a cultural figure in his own right. His signature call of "''Tesshin wa kowarenai!''" ({{nihongo|"The iron body does not break!"|鉄身は壊れない!}}) after particularly brutal defensive stands has entered the popular lexicon.
+
+====DAZN Okaiken streaming====
+[[DAZN Okaiken]] holds the exclusive streaming rights for all League One matches across all three divisions, making every match available live and on-demand. The platform's League One offering includes multi-camera angles, real-time statistics overlays, and a dedicated "Forge Cam" that isolates forward play during set pieces. DAZN Okaiken reported 4.8 million League One subscribers during the 2025-26 season, a 52% year-over-year increase.
+
+The platform also produces the documentary series {{nihongo|''Inside the Forge''|鍛冶場の内側|Kajiba no Uchigawa}}, which follows Division 1 teams through training camps, match weeks, and the Emperor's Shield playoffs. The series has been credited with humanizing the league's corporate-backed franchises and building emotional investment in players' personal stories.
+
+====International broadcasting====
+League One matches are broadcast internationally through partnerships with sports networks in [[Kingdom of Zong|Zong]], [[Yanbaru]], [[Nakamizu]], and select Illypnian markets. Viewership in Zong has grown 28% since 2023, driven by the popularity of the Iron Bowl rivalry and the broader cultural exchange facilitated by the [[Fosian Alliance]]. The SRFU has expressed interest in expanding broadcasting reach to [[Kwangju]] and [[Dagit]] in future contract cycles.
+
+===Sponsorship===
+League One's sponsorship structure reflects the corporate heritage that defines Sanese professional sport. The league operates a tiered sponsorship model:
+
+* '''Title sponsor''': [[Kizan Systems]] (since 2022), the semiconductor and technology conglomerate. The Kizan partnership includes the {{nihongo|"Kizan Iron Shield"|キザン鉄盾|Kizan Tate-tate}} branding on all Emperor's Shield materials and the "Kizan Forge Cam" technology used in DAZN broadcasts.
+* '''Official partners''': [[Saitama Heavy Industries]], [[Koshien Steel Corporation]], [[Honda Motor Co.]], and [[Okami Financial Group]]. These corporate partners also own Division 1 franchises, creating a structure where the league's commercial and competitive ecosystems are deeply intertwined.
+* '''Apparel partner''': [[Kizan Systems]] textile division, producing the RAGUKUN Guardian Line and all official team kits.
+* '''Official nutritional partner''': [[Chiba Pharmaceuticals]], supplying protein supplements, sports drinks, and the RAGUKUN Iron Bar product line.
+* '''Official media partner''': [[OR Sports]], holding both broadcasting and promotional rights.
+
+The SRFU has faced criticism for the close relationship between corporate sponsors and team ownership, with some commentators arguing that the sponsorship structure entrenches the dominance of well-funded industrial franchises and creates barriers to entry for smaller clubs. The league has defended the model as consistent with Okaiken's corporate sporting tradition and the Forge State's emphasis on industrial-productive partnerships.
+
+===Fan engagement===
+League One has invested heavily in fan engagement initiatives since the 2022 rebranding, leveraging the RAGUKUN brand and the Cult of Iron's cultural infrastructure to build a year-round relationship with supporters:
+
+* '''{{nihongo|RAGUKUN Rugby Schools|ラグくんラグビー教室|Ragu-kun Ragubī Kyōshitsu}}''': Free youth rugby clinics operating in all 47 prefectures, funded jointly by the SRFU and the National Iron Body Initiative. Over 120,000 children participated in 2025-26.
+* '''{{nihongo|Forge Fest|鍛冶祭|Kaji-sai}}''': Pre-match fan zones at all Division 1 venues featuring merchandise stalls, food trucks, rugby skills challenges, and meet-and-greets with former players. Forge Fest events draw an estimated 15,000 attendees per match day.
+* '''{{nihongo|Iron Body Challenge|鉄身チャレンジ|Tesshin Charenji}}''': A fitness challenge program where fans complete rugby-inspired physical challenges (tackle bag hits, scrum machine pushes, kicking accuracy tests) to earn points redeemable for merchandise and match tickets. The program, designed to align with the Cult of Iron's emphasis on physical participation, had 2.1 million registered participants in 2025-26.
+* '''Digital community''': The official League One app, launched in 2023, provides live match tracking, fantasy rugby leagues, RAGUKUN sticker collections, and social features. The app has 6.8 million monthly active users.
+* '''{{nihongo|RAGUKUN Festival|ラグくん祭|Ragu-kun Matsuri}}''': The annual flagship fan event held during Emperor's Shield weekend, drawing approximately 150,000 visitors.
 
 ==Relationship to national fitness initiatives==
 {{main|National Iron Body Initiative}}
 League One serves as the professional showcase for Okaiken's broader investment in physical culture. The [[National Iron Body Initiative]], launched by [[Crown Prince Tomohito]], designates rugby as a priority sport for youth development. The program funds rugby infrastructure in public schools and supports the transition from high school and university rugby to the professional league.
 
 The league's popularity has been directly correlated with the national emphasis on {{nihongo|collective resilience|集団的強靭性|Shūdanteki Kyōjinsei}}, with surveys indicating that rugby's values of teamwork and physical sacrifice align closely with the Forge State ideology promoted by the post-Jutsu Restoration government.
+
+The RAGUKUN Rugby Schools program represents the most visible intersection of League One marketing and the National Iron Body Initiative. The program's funding model—split between SRFU commercial revenue and Initiative public funds—has been cited by [[Rento Nakayama]], the Minister of Health and Welfare, as a model for public-private partnership in youth fitness infrastructure.
 
 ==See also==
 * [[Sport in Okaiken]]
@@ -123,6 +360,8 @@ The league's popularity has been directly correlated with the national emphasis 
 * [[Emperor's Shield]]
 * [[Takeru Fujimoto]]
 * [[Crown Prince Tomohito]]
+* [[RAGUKUN]]
+* [[Shisa]]
 
 ==References==
 {{Reflist}}
@@ -137,3 +376,4 @@ The league's popularity has been directly correlated with the national emphasis 
 [[Category:Professional sports leagues in Okaiken]]
 [[Category:Rugby union in Okaiken]]
 [[Category:Sport in Okaiken]]
+[[Category:Sports mascots]]
