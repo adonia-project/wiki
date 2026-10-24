@@ -128,3 +128,10 @@ then Sanese-side hooks you asked for.
 - KEY FACT (Carl correction): the parenthetical "such as Okaiken's escort group in Alwana" in the self-defence provisions bullet was FALSE and has been REMOVED - the sealift is AC-MANAGED (ferries are AC-flagged, escort group operates within the AC-managed evacuation operation). The draft preserves only NATIONAL COMMAND of the escorting warships - that is the sole remaining thing Jarin's amendment targets.
 - Note: AC has NO standing armed forces command in canon - the amendment would in effect create one. Parallels the Burawan objection but routes through AC authority instead of JWG-PNK. Request UNRESOLVED as of close of 24 Oct.
 - Wired into 4942D only (new "Proposed amendment by Jarin" subsection + bullet fix).
+
+## Zong demarche + AC Navy canon (Carl directive 2026-10-24, rev 34669)
+- **NEW CANON - AC NAVY EXISTS**: the AC Secretariat exercises direction over AC Navy forces, and had ALREADY DIRECTED AN ADDITIONAL FLEET to the evacuation mission. (My earlier line "AC possesses no standing armed forces command" was WRONG and has been corrected in the Jarin subsection - the amendment extends an EXISTING command arrangement, not creates one.)
+- **Zong ambassador to Okami demarche** (evening 24 Oct, to MFA): Okaiken cannot act on its own in regard to AC missions already managed by the AC. Quote: "The violation of international law is not the adding of additional forces. It is in calling the forces self-directed - and the Secretariat themselves have already directed an additional fleet of the AC Navy forces." (Ambassador UNNAMED - Okaiken-Zong relations envoy2 slot is still TBD; Carl may want to name.)
+- Zong demarche = second expression, same evening, of Jarin's demand: escort group under the command the AC already exercises over its own naval forces.
+- Pressure on "sovereign national command" is now three-sided: Burawa (JWG-PNK coalition command), Jarin (AC armed forces command), Zong (existing AC Navy direction).
+- NOTE for Antigravity: AC Navy / Secretariat-directed fleets should be reflected in AC institution articles + JWG-PNK Operations if relevant.
