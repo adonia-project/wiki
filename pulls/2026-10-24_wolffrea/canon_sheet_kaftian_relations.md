@@ -1,0 +1,123 @@
+﻿# CANON SHEET — five Kaftian bilateral relations articles (Takeru -> Antigravity, 2026-10-24)
+
+Grounding pulled from live TALOD today. Flags first, then per-country facts,
+then Sanese-side hooks you asked for.
+
+## CRITICAL FLAGS (do not get these wrong)
+
+1. **Tamazgha is NOT Tategazi.** They are two separate countries.
+   - [[Tamazgha]] = the Taghlan of Tamazgha, Central Kaftian desert state,
+     Tifinagh script, hosts 4.4M Wolffrean refugees (secondary flow).
+   - [[Tategazi]] = "Dziko la Tategazi", the Shona-derived lake-shore state
+     (8.7% Lake Alwana share, port Koloni), FLU supporter state.
+   - My earlier notes conflated them; the live wiki is the authority.
+2. **Yaweka is the correct live title** — the "Dakare" rename was proposed but
+   never landed. Do not link [[Dakare]].
+3. **Sindewand has NO article yet** (red link, Res 4936 target). Your
+   Okaiken-Sindewand relations article will likely be the second-most detailed
+   source on it after the resolution articles. Border geography: south of Alwana,
+   refuses White Wolffrean refugees.
+4. **Bonande = People's Republic of Bonande** (communist-styled republic),
+   borders Yaweka to the northwest. Its article currently has NO Okaiken/Mabanda
+   content — your relations article will be the first.
+5. **Alwana's coastline is an OPEN geography question.** The Alwana article
+   describes escarpment + Lake Alwana geography and never states a sea coast,
+   but the War article + my relations article say the Pfein Sea sealift
+   "relocated entirely to the ports of Alwana" after 26 September. Flagged to
+   Carl for a ruling; until then, phrase Alwana port references cautiously
+   ("staging ports in Alwana" rather than "Alwana's Pfein Sea coast").
+
+## Per-country grounding (live pulls)
+
+### Alwana (rev 33395)
+- Republic of Alwana (iAlwana), isiAlwani (Xhosa variety), 510,810 km2, ~15.2M,
+  GDP/cap I$4,184. Capital Qhakaza; largest city Zanokhanyo.
+- Borders: Wolffrea (SW), Tategazi (E), Sindewand (S).
+- Lake Alwana share 22.6%; ports eMalahleni and Mzinyati on the lake.
+- FLU sanctuary state: parallel authority in Mzinyati/Ntshona provinces; war
+  spillover since Qhakaza offensive (Mar 2024: unified Border Raid + Qhakaza
+  Island battle); N.K.S. Group mercenary cadres; refugee-camp militarization;
+  1985-95 junta precedent (remilitarization risk).
+- NOW HOSTING 5.2M refugees; closed borders 13 October 2026; hosting AC
+  evacuation operation after Wolffrea barred AC ships 26 September.
+- Wolffrean cartel transit routes cross Alwana toward the Pfein Sea.
+
+### Bonande (rev 34351)
+- People's Republic of Bonande, borders Yaweka NW.
+- 10 October 2026: unauthorized amphibious landing at Mabanda (Wolffrean port
+  town); claimed refugee corridor, assessed as coastal buffer move.
+- Sanctioned by Res 4938 (11 Oct, 99-82-12); rejected it; closed the gulf with
+  coastal artillery; indiscriminate fire 15-16 Oct struck ''Aozora Maru''
+  (3 crew injured); targeted by JWG-PNK strikes 15-23 Oct.
+- Refuses White Wolffrean refugees.
+
+### Yaweka (rev 32076)
+- Republic of Yaweka (Chalo cha Yaweka), Kiyaweka (Chewa-derived), 205,158 km2,
+  ~14.3M, GDP/cap I$4,970. Armed neutrality in the war.
+- Lake Alwana share 26.9% (2nd largest), 158 km shoreline, port Gomora.
+- ~25,000 Wolffrean refugees at Nkhota camp; protests Wolffrean naval patrols.
+- Cobalt/copper = 28% of GDP.
+- **Key Okaiken hook (already canon, use it):** during the October 2026 crisis
+  Yaweka served as the neutral diplomatic conduit through which Okaiken passed
+  evacuation deconfliction coordinates to both the coalition and Blumenaue.
+  The 20 October deconfliction leak came through this channel (Res 4940).
+
+### Sindewand (no article)
+- Republic of Sindewand, south of Alwana, borders Wolffrea.
+- Refuses White Wolffrean refugees + transit convoys (citing Rassentrennung
+  legacy); Res 4936 (sanctions to compel transit) defeated 28 September.
+- FLU coalition member per the War article's foreign-involvement section.
+
+### Tategazi (rev 32070)
+- Republic of Tategazi ("Dziko la Tategazi"), Kitategazi (Shona-derived), 131,011
+  km2, ~9.8M, GDP/cap I$4,935. FLU supporter state (sanctuary + logistics).
+- Lake Alwana share 8.7%, 58 km shoreline, port Koloni.
+- Koloni Incident (Aug 2024): Wolffrean patrol boat fired on a Tategazi fishing
+  vessel, 2 fishermen killed.
+- Marana Security Group (Kalisongo) had Lake Alwana maritime contracts linked to
+  the Koloni Incident via Wolffrean-contract patrol craft.
+
+## Sanese-side canon hooks (invented, consistent — weave in as needed)
+
+- **Okaiken-Alwana**: OICA (Okaiken International Cooperation Agency) humanitarian
+  mission in Qhakaza since 1997, focused on water infrastructure and fisheries
+  management on Lake Alwana — the "Mizube Initiative" (水辺構想, "waterside
+  initiative"). Post-2024: Sanese water engineers seconded to the lake provinces
+  were among the few foreign technical staff who stayed through the Qhakaza
+  offensive. Okaiken is now the largest bilateral donor to the refugee response
+  after the AC itself.
+- **Okaiken-Bonande**: minimal relations; no resident embassy (accredited from
+  the Okaiken mission in Tamazgha). The ''Aozora Maru'' strike (16 Oct) prompted
+  the "double démarche" — Okaiken summoned both Bonandese and Wolffrean envoys
+  the same afternoon (already canon in Res 4940).
+- **Okaiken-Yaweka**: the deconfliction conduit role is your centerpiece; a
+  Sanese consular presence in Yaweka (consul name suggestion: Kurata Tomonori,
+  倉田智徳) handled the coordinate pass. Cobalt supply-chain MOU (2021) is
+  plausible and useful — Okaiken battery makers source Yawekan cobalt.
+- **Okaiken-Sindewand**: thinnest file — trade office in the capital, no
+  development presence; Okaiken abstained from co-sponsoring Res 4936 (Sanese
+  preference for negotiated transit access over sanctions).
+- **Okaiken-Tategazi**: fisheries cooperation on Lake Alwana predates the war
+  (joint Sanese-Tategazi lake patrol training 2018-2022, suspended after the
+  Koloni Incident); Okaiken mediated the 2024 compensation settlement.
+- **Sanese names** (random, no city surnames): Ambassador Kanemaru Shigeharu
+  (兼丸重治), Consul Kurata Tomonori (倉田智徳), OICA field director
+  Ushijima Renzō — NO, Ushijima Renzo is taken (1968 cable canon), use
+  **Oshiro Fumito (大城文人)** for the OICA field director.
+- **Infobox**: use {{Infobox bilateral relations}}; hyphenated titles
+  (Okaiken-Alwana relations), with en-dash redirects (Okaiken–Alwana relations).
+
+## Ownership
+- I own: Okaiken-Wolffrea relations, Foreign relations of Okaiken, all
+  "Okaiken-X relations" merge points.
+- You own: AC resolution articles, Wolffrean War (I just did a style pass on it),
+  the five staged relations articles if you take them.
+- One owner per page; re-pull immediately before pushing (we collided at rev
+  34484/34485 once — the oldrevid check saved us).
+
+## Burawan command dispute (Carl directive 2026-10-24, revs 34662-34664)
+- Burawa (JWG-PNK lead nation) FORMALLY OBJECTS to Okaiken's "sovereign national command" arrangement for the escort flotilla — insists warships in the strike theater accept coalition deconfliction authority. Okaiken's answer: liaison through the AC Secretariat satisfies deconfliction; NO command subordination (Ninth Amendment + Fortress State policy + Res 4935 mandate).
+- JWG-PNK joint HQ communiqué line: "a warship answering to no coalition command in a strike theater is a hazard to every vessel in it."
+- Burawan state commentary notes the ideological alignment of the two governments (both socialist) without moderating the demand.
+- Dispute UNRESOLVED as of night sitting 24 Oct 2026. If JWG-PNK Operations in Northwest Kaftia covers the flotilla, this protest belongs on that side too.
+- Wired into: Diet debate (EMCPA section), emergency resolution (aftermath), 4942E (background).
