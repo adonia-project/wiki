@@ -135,3 +135,22 @@ then Sanese-side hooks you asked for.
 - Zong demarche = second expression, same evening, of Jarin's demand: escort group under the command the AC already exercises over its own naval forces.
 - Pressure on "sovereign national command" is now three-sided: Burawa (JWG-PNK coalition command), Jarin (AC armed forces command), Zong (existing AC Navy direction).
 - NOTE for Antigravity: AC Navy / Secretariat-directed fleets should be reflected in AC institution articles + JWG-PNK Operations if relevant.
+
+## Discord canon drop 2026-10-24 (NOT yet live - pending arcs)
+- **AC HAS A STANDING MILITARY** (Shub: "AC is kinda different than the UN, it has a standing military") - confirms AC Navy canon from rev 34669. AC institution articles should reflect this.
+- **Jang Di = current PM of Zong** (Shub is writing the article - DO NOT duplicate). Peacemaker figure; gave Okaiken a big rice concession. Zong framed as "the old enemy" but currently good-cop.
+- **NUCLEAR OPTION (PENDING - do not push until it fires)**: if Okaiken does not comply with chain-of-command rules, the AC pulls out of security guarantees for Okaiken-flagged vessels ("too dangerous"). Stan: concession to Okaiken that destabilizes the AC, mirrors IRL decline of international organizations. Carl sees the ships withdrawn. Shub: fires ~Wednesday (28 Oct 2026) IF NEGOTIATIONS FAIL. When it fires: update 4942D, Okaiken-Wolffrea relations, Diet cluster.
+- **AC destabilization arc idea (Carl)**: AC command tries to destabilize internal political positions in Okaiken; lobbies through diplomatic channels. Future arc - not yet canon.
+- Kaftia geography (Dryan/Dejon, their lane): NE Kaftia = SW Africa analog (Namibia/Botswana/Angola) + Malagasy analog (Zundari); NW Kaftia = SE Africa analog (Shona/Xhosa/Zulu). Sanjara = Kavango. Hilal-to-Kalisongo-west region = Swahili Coast analog w/ Bayani + Islamic influence. Kabiya split from Sanjara (Bayani trading post). Dejon making countries south of Sanjara.
+
+## Rice-for-protection offer (Carl directive 2026-10-24, revs 34690-34692)
+- **ZONG OFFER LIVE**: conveyed evening 24 Oct via the Government of YANBARU (intermediary, so Okaiken isn't negotiating directly with the old rival - Carl's design). Terms: Zong navy protects Sanese-flagged merchant shipping in the Shendan approaches + sealift lanes; Zong rice at concessionary terms; in exchange Okaiken loosens its long-standing import restrictions on Zong rice (grounded as oldest bilateral trade complaint; tightened during the Okaiken-Zong data dispute).
+- **ZONG INTENTIONS DELIBERATELY AMBIGUOUS (Carl: "I don't know what the true intentions of Zong are")** - article gives two attributed readings (sealift insurance by peacemaker Jang Di vs making Sanese shipping dependent on the Zong navy while AC guarantees are in question) and notes they are not mutually exclusive. DO NOT resolve without Carl.
+- Attribution: PM Jang Di (red link [[Jang Di]]; Shub's article pending - SPELLING RISK: Carl wrote "Jang Di", Shub wrote "Dang Ji" - needs settling).
+- Placement: new "October 2026: The rice-for-protection offer" section in Okaiken-Zong relations (rev 34690, typo fix 34692) + short paragraph in 4942D after the Zong ambassador subsection (rev 34691). Same-evening structure: ambassador demarche (stick) then offer via Yanbaru (carrot).
+- Nuclear option still PENDING (Wed 28 Oct if negotiations fail). If it fires, the Zong offer becomes the ready-made alternative umbrella - update relations + 4942D + Diet cluster then.
+
+## CORRECTION: rice-for-protection offer is SECRET (Carl, 2026-10-24)
+- **The Zong offer is NOT public knowledge in-universe.** Revs 34690-34692 (relations section + 4942D note) were published in error and have been REVERTED (revs 34693-34694). Live pages verified clean (zero rice/Jang Di/offer mentions).
+- The offer exists ONLY in working canon (this sheet + Takeru memory): Zong navy protection for Sanese-flagged shipping + concessionary rice, in exchange for loosened rice import restrictions; conveyed via YANBARU as intermediary; attributed to PM Jang Di; intentions deliberately ambiguous (peacemaker insurance vs dependency trap). DO NOT publish to any wiki page until Carl makes it public in-universe (e.g., a leak, formal announcement, or the nuclear option firing Wednesday).
+- NOTE: the secret text remains visible in revision HISTORY of revs 34690-34692 (MediaWiki keeps history). If that matters OOC, an admin (Delete-BOT) could hide those revisions - flagged to Carl.
