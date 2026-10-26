@@ -1,17 +1,48 @@
-{{Short description|Sanese ferry struck by shore artillery in the Wolffrean War}}
+{{Short description|Sanese cruise ferry}}
 {{Infobox ship
-| Name = ''Aozora Maru''
-| Ship type = [[Roll-on/roll-off]] passenger and vehicle ferry
-| Ship owner = Aozora Kisen
-| Ship operator = [[Adonian Community]] (chartered)
-| Ship flag = {{flag|Okaiken}}
-| Ship registry = [[Toyozawa]], Okaiken
-| Ship route = Pfein Sea refugee sealift
-| Ship status = Under repair; claim pending before the [[Adonian Court of Justice]]
+| display_title = none
+| section1 = {{Infobox ship/career
+ | country = Okaiken
+ | name = ''Aozora Maru''
+ | owner = Aozora Kisen
+ | operator = Aozora Kisen ([[Himawari Ferry|Himawari line]]); [[Adonian Community]] sealift (chartered, 2026)
+ | registry = [[Mie]], [[Mie Prefecture]]
+ | route = [[Mie]] – [[Niihama]] (Himawari line)
+ | builder = Kudamatsu Shipbuilding, [[Kudamatsu]], [[Tokuyama Prefecture]]
+ | completed = March 2014
+ | in_service = April 2014
+ | status = Under repair at [[Alwana]]; damages claim pending before the [[Adonian Court of Justice]]
 }}
-'''''Aozora Maru''''' ({{lang|ja|青空丸}}) is a [[Sanese people|Sanese]]-flagged [[roll-on/roll-off]] ferry chartered by the [[Adonian Community]] for the refugee evacuation in the [[Pfein Sea]] during the [[Wolffrean War]]. On 16 October 2026, while carrying evacuees through the corridor off [[Mabanda]], she was struck by shells from Bonandian shore artillery batteries, suffering severe structural damage; three Sanese merchant seamen were wounded by shrapnel. The attack, together with the 20 October leak of private convoy route notifications and reports of coalition amphibious concentrations near the [[Strait of Sindewand]], triggered the [[October 2026 Diet debate on the Wolffrean War|emergency Diet debate]] of 23–24 October.
+| section2 = {{Infobox ship/characteristics
+ | type = Ro-ro cruise ferry
+ | tonnage = 11,940 GT
+ | length = 170.5 m
+ | beam = 27.0 m
+ | draught = 6.4 m
+ | speed = 22.5 kn
+ | capacity = 720 passengers; 130 trucks; 60 cars
+ | crew = 61
+}}
+}}
+'''''Aozora Maru''''' ({{Nihongo||青空丸|Aozora Maru|lit. "blue sky"}}) is a [[Sanese people|Sanese]]-flagged [[roll-on/roll-off]] cruise ferry operated by Aozora Kisen ({{lang|ja|青空汽船}}) on the overnight '''Himawari''' line between [[Mie]], the port capital of [[Mie Prefecture]] serving the [[Toyozawa]] metropolitan area, and [[Niihama]] in [[Tokuyama Prefecture]]. She ran the longest domestic overnight ferry route in Okaiken until 2026, when she was chartered to the [[Adonian Community]] for the refugee evacuation in the [[Pfein Sea]] during the [[Wolffrean War]]. On 16 October 2026 she was struck by shells from Bonandian shore artillery off [[Mabanda]]; three of her crew were wounded by shrapnel. The government of Okaiken has paid compensation to the wounded seamen and is pursuing recovery of the sums from [[Bonande]] before the [[Adonian Court of Justice]].
 
-The ship is owned by Aozora Kisen of [[Toyozawa]] and was under charter to the Community's sealift operation at the time of the attack, sailing under the deconfliction arrangements then in force for evacuation vessels. Her master's logbook, transmitted to the [[Ministry of Foreign Affairs (Okaiken)|Ministry of Foreign Affairs]] after the attack, is the primary Sanese record of the engagement.
+== Design and construction ==
+Aozora Kisen ordered the ship in 2011 as the lead vessel of a three-ship class intended to replace its ageing tonnage on the Mie–Niihama overnight service and to relaunch the route under the Himawari brand. She was built by Kudamatsu Shipbuilding at its yard on the Tokuyama coast — the same shipyard belt that had fitted out much of the line's earlier fleet — launched in 2013 and delivered in March 2014. Her sisters ''Hoshizora Maru'' ({{lang|ja|星空丸}}) and ''Yozora Maru'' ({{lang|ja|夜空丸}}) followed in 2015 and 2017, completing what Aozora Kisen marketed as the "sky class".
+
+The class was designed around the economics of an overnight freight-and-passenger crossing: a full-length trailer deck and a lower vehicle deck give drive-through loading for up to 130 freight trailers and 60 cars, while passenger accommodation for 720 sits above in a white superstructure carried on a deep blue hull. Public spaces follow the cruise-ferry pattern — a two-deck atrium, restaurants and lounges, a range of cabin grades from suites to tourist berths, and a forward observation bath whose windows look down the ship's wake. The funnel carries the line's sunflower emblem, from which the Himawari name is taken.
+
+== Himawari line service ==
+{{main|Himawari Ferry}}
+The Himawari line is the overnight "blue highway" between Okaiken's two largest metropolitan spheres. From the Mie ferry terminal, some forty minutes by rail from [[Toyozawa Central Station]], the sailing runs roughly 700 kilometres: north across the [[Katsuran Sea]], through the [[Suzuka Strait]] into the [[Sea of Mitoyagi]], along the eastern coast of [[Harujima]], and finally around the island's northern headland into the [[Shendan Ocean]] and down the Tokuyama coast to Niihama. The crossing takes just under fourteen hours, departing each evening and arriving early the following morning, with the sister ships maintaining a nightly sailing in each direction.
+
+The route survives alongside the [[Harujima Shinkansen]] by carrying what the railway cannot. The Shinkansen takes the daytime business traffic between the metropolises; the Himawari takes freight trailers that would otherwise lose a working day to the motorways, families with their cars, and a leisure trade that treats the ship itself as the first night of the holiday. Freight revenue underwrites passenger fares that undercut the express trains, and the line's December–January peak — the austral summer holiday season — regularly sails full. Regulars include the trucking firms of the Mie Industrial Zone, for whom the overnight sailing turns a two-day road round trip into one.
+
+Her chartered absence from 2026 left the sisters running a reduced single-ship schedule; Aozora Kisen has said the ship will return to the route once repairs and survey are complete.
+
+== Charter to the Adonian Community ==
+In the summer of 2026, with the [[Wolffrean refugee crisis]] overwhelming the coastal ports of [[Alwana]], the Adonian Community called for commercial ro-ro tonnage for the Pfein Sea sealift. Aozora Kisen tendered the ''Aozora Maru'', and she was time-chartered to the Community in July 2026, sailing for Alwana in August with her Sanese crew retained under the charter terms. Her drive-through vehicle decks made her well suited to mass embarkation: refugees could be loaded on foot through the bow doors in a fraction of the time a conventional passenger ship spent alongside, and her lower vehicle deck carried relief vehicles and stores on the return legs.
+
+She remained Sanese-flagged and Sanese-crewed throughout the charter, one of a small number of national-flag merchant hulls on the Alwana–Mabanda corridor when the October escalation began.
 
 == Attack ==
 {{Main|October 2026 Diet debate on the Wolffrean War}}
@@ -24,7 +55,7 @@ The government of Okaiken issued formal démarches to both the Bonandian and Wol
 Draft [[Adonian Community Resolution 4942D|Resolution 4942D]] would have ordered a Community investigation into the attack; the draft was denied entry to discussion by the [[Committee on Resolutions]] on 26 October by a vote of 5–13, and no Community-ordered inquiry exists. In the absence of an official investigation, the master's logbook, the ship's damage survey, and the medical records of the wounded crewmen constitute the principal evidence of the engagement, and the compensation proceedings before the Adonian Court of Justice are expected to serve in practice as the attack's only formal examination.
 
 == Compensation ==
-On 26 October 2026, alongside the announcement of the [[Sanese involvement in the Wolffrean War#wind-down|wind-down of Sanese participation]] in the sealift, the government announced immediate compensation for the three wounded seamen: full medical treatment and rehabilitation, compensation for lost earning capacity, and moral damages, a combined 96 million [[Sanese en|en]], paid directly by the state without waiting for any external process. Ministers presented the payment as an application of the [[Fortress State]] doctrine — the protection of Sanese lives being Sanese work, wherever those lives are found, and their repair likewise.
+On 26 October 2026, alongside the announcement of the [[Sanese involvement in the Wolffrean War|wind-down of Sanese participation]] in the sealift, the government announced immediate compensation for the three wounded seamen: full medical treatment and rehabilitation, compensation for lost earning capacity, and moral damages, a combined 96 million [[Sanese en|en]], paid directly by the state without waiting for any external process. Ministers presented the payment as an application of the [[Fortress State]] doctrine — the protection of Sanese lives being Sanese work, wherever those lives are found, and their repair likewise.
 
 The government further announced its intention to pursue recovery of the sums, together with the cost of the hull damage, from [[Bonande]] before the [[Adonian Court of Justice]]. Bonande, though suspended from the Community's organs by [[Adonian Community Resolution 4941|Resolution 4941]], remains subject to the AC Charter and the Court's jurisdiction on the same reasoning applied to [[Wolffrea]] since the 1968 suspension. The hull claim itself proceeds separately through the ship's war-risk underwriters, whose surveyors examined the vessel at Alwana in late October.
 
@@ -39,3 +70,4 @@ Commentators noted that the government's reserved position on the corridor — t
 [[Category:Wolffrean War]]
 [[Category:2026 in Okaiken]]
 [[Category:Merchant ships of Okaiken]]
+[[Category:Ferries of Okaiken]]
