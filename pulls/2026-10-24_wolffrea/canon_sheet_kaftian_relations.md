@@ -410,3 +410,13 @@ then Sanese-side hooks you asked for.
 - PHASE 5 (STAGED, late Nov-Dec): NUSARAYA TRIGGER - the Aozora Maru claim denial is the thread the Nusaraya outsourced-committee audit pulls, unravelling end-of-life boats + war-risk coverage loophole. Fires the vault arc.
 - CHARACTER BEAT (Carl's call): one of the 3 seamen refuses the state payment and sues Bonande PERSONALLY in the ACJ.
 - OPEN: crew names; 96M en figure OK?; owner name OK?; when to fire Phase 2.
+
+## 4942G DOSSIER (Shub rev 34795, 26 Oct 2026) — WATCHING, no live edits (Carl directive: wait for fate)
+- Zong-sponsored draft: compensation fund for civilian sealift vessels damaged 15 Oct-31 Dec 2026, paid to OWNERS, third-party auditor engaged/paid from fund, financed entirely from FROZEN BONANDIAN ASSETS (no AC general fund money). Implementation requires voluntary forfeiture by holding banks to the AC Reserve Bank (Areza), which administers.
+- Aozora Maru explicitly named: only sealift vessel damaged to date (shelled off Mabanda 16 Oct, 3 crew injured).
+- Submitted 26 Oct - same day as 4942D committee denial (5-13) AND the Sanese wind-down. Zong = sitting committee member (October stint), introduced directly; RECUSAL RULE: sponsor may neither vote on the draft nor accept co-sponsors (Shub's own edit).
+- Frozen assets canon (new): ~I$5.4B total; I$593M traced to Bonandian politicians' offshore accounts (ICPF investigation 15 Oct 2026); held at Shangren Yinhang (Huwei, Zong), TOYOZAWA-DAIICHI BANK (Okaiken - NEW named Sanese bank), Huma Banc (Volisania); voluntary freeze announced 21 Oct during 4942C proceedings. Remainder = Bonande National Bank assets at AC Reserve Bank, Areza.
+- ARC IMPACT (Option E remap, unpublished): fund = administrative route, our ACJ claim (live Phase 1) = judicial route; dual-track, collect once. If 4942G PASSES -> judgment-vs-quiet-money beat collapses (take the fund; Zong statesman optics while demarche/rice-offer carrot-stick continues). If it FAILS -> ACJ is Okaiken's only path, insurer-denial phase sharpens.
+- Pattern note: Zong good-cop/bad-cop now public (ambassador demarche 24 Oct -> secret rice offer via Yanbaru -> public compensation fund for the Sanese ferry).
+- PENDING: committee fate. When it moves, wire reaction into Aozora Maru + Sanese involvement (proposed Mori line: accepts compensation "from whatever quarter", declines to withdraw ACJ claim).
+
