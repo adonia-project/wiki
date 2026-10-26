@@ -1,8 +1,8 @@
 {
   "2026 Burawi snap election": {
     "direction": "push",
-    "hash": "f8297ab73925e12574932bb68f6fd398220ba3c16b3659181b42a9b487a054b2",
-    "last_sync": "2026-09-15T20:51:44.546097+00:00"
+    "hash": "35c746271ee859f10f866b2b3955d6307f9eb941677a3b57c4bddc1f13d2275c",
+    "last_sync": "2026-10-26T11:21:16.000000+00:00"
   },
   "2026 Taxiworkers Union protest": {
     "direction": "push",
@@ -11,8 +11,8 @@
   },
   "BMC Wiyar": {
     "direction": "push",
-    "hash": "12beb13c2b2d4f45abdca1e5e6250a3e99d357c2694693324b956cb264bbad95",
-    "last_sync": "2026-08-14T18:51:31.633269+00:00"
+    "hash": "1e1d728c6d5cad0b1b8f6047b597e2df2e4c0be34ee04e805dad6cc5d75fa274",
+    "last_sync": "2026-10-26T11:18:09.000000+00:00"
   },
   "Bartay Society": {
     "direction": "push",
@@ -21,18 +21,18 @@
   },
   "Burawi Catholic Church": {
     "direction": "push",
-    "hash": "123867cab3a13e957cc4d7892d43ce40809bb32fc466556f689d51c9c8c33409",
-    "last_sync": "2026-09-15T20:51:47.434513+00:00"
+    "hash": "181aba9b05800464a8178aac113fb3f48a92bd17c6d1e3eec25f955e99b350b5",
+    "last_sync": "2026-10-26T11:20:35.000000+00:00"
   },
   "Burawi Football league system": {
     "direction": "push",
-    "hash": "8dbd72262ae789b801709ff48d6ce01180b3715e6f0eb94e25d6a336d6c2c676",
-    "last_sync": "2026-08-20T21:58:31.163838+00:00"
+    "hash": "4143c8d9a3a89564873436f5d5e2d62511f2227aa086f2c92bb328de480347e7",
+    "last_sync": "2026-10-26T11:18:11.000000+00:00"
   },
   "Burawi Fotbal Listing Exchange": {
     "direction": "push",
-    "hash": "2a22104c8ab504a879ef8d6262f65b63432c6f10aaf7337c15ee8d7d4e4b028b",
-    "last_sync": "2026-09-15T20:51:49.025387+00:00"
+    "hash": "aec0b9f43b9fa8e9d2248186a33c868b21a1e525e57945f6fa7ea4d213e5648f",
+    "last_sync": "2026-10-26T11:20:39.000000+00:00"
   },
   "Burawi fotbal league system": {
     "direction": "pull",
@@ -43,11 +43,6 @@
     "direction": "push",
     "hash": "b4cd7d770b99cebc5580f894e75afaea6b5b29cf61c5be4a41c7a3d394474902",
     "last_sync": "2026-09-15T20:51:50.068571+00:00"
-  },
-  "Cagaarka Tower": {
-    "direction": "push",
-    "hash": "91f709d17b633817c09f4dad77eb98c9d06eaae55bb031a85240b226acbdbf68",
-    "last_sync": "2026-09-15T20:51:51.888541+00:00"
   },
   "Chairman of the Industrial Party of Burawa": {
     "direction": "push",
@@ -71,8 +66,8 @@
   },
   "Demographics of Burawa": {
     "direction": "push",
-    "hash": "cb4c90ccb256569ef2ad65c2702fc934039af93da64b7f9bbb29474654870e8d",
-    "last_sync": "2026-09-15T20:51:56.292777+00:00"
+    "hash": "a453f59ff0d1bf89d526b33e7fef1b386639d6a9b6608fe8dbf26c0a31ee0e74",
+    "last_sync": "2026-10-26T11:20:42.000000+00:00"
   },
   "Early Republic Era": {
     "direction": "push",
@@ -86,13 +81,13 @@
   },
   "Economy of Burawa": {
     "direction": "push",
-    "hash": "473a985529e2347e34fead6a608ffd84ac07e7847e76373c53016498d803a5a9",
-    "last_sync": "2026-09-15T20:51:59.009291+00:00"
+    "hash": "87fc9ffe867b271db3482d1158139a122ec1f4b75f416171d308f77439178601",
+    "last_sync": "2026-10-26T11:18:17.000000+00:00"
   },
   "Farisnimo": {
     "direction": "push",
-    "hash": "f903b54b952318aa95bbed55bbcd6e37a321b5de7bebfe597a9574f928087b28",
-    "last_sync": "2026-09-15T20:52:00.193519+00:00"
+    "hash": "a0ca2cd8be94e781fe992309c04e9241baf05c2bf446257e94778afb90ef2004",
+    "last_sync": "2026-10-26T11:21:16.000000+00:00"
   },
   "First War of the Isthmus": {
     "direction": "push",
@@ -106,38 +101,38 @@
   },
   "Geography of Burawa": {
     "direction": "push",
-    "hash": "f02eede7e3f52471841542d8dc4c7e4d9e597f75cf566343867cb896530cfae5",
-    "last_sync": "2026-09-19T01:21:04.480186+00:00"
+    "hash": "c7eadbcc2e536bb05899b1d30ed5d1d5fd6278d9ab91599498e55e9ac20d7962",
+    "last_sync": "2026-10-26T11:18:21.000000+00:00"
   },
   "Giorgis Nuur": {
     "direction": "push",
-    "hash": "eb9000993609247e4aa2b13177745e6a9463c2a761029cdc8886caca11546175",
-    "last_sync": "2026-09-15T20:52:05.627425+00:00"
+    "hash": "d07fa28fff0c09394d627c08da4c4a7b7cfcbf0ad5edef7aae8243601d60baab",
+    "last_sync": "2026-10-26T11:20:49.000000+00:00"
   },
   "Hancil Thea": {
     "direction": "push",
-    "hash": "4809d4fa25ca4504496dd3d84d6785fe8bd0ed8c9e5e4372185e41cc6a082e81",
-    "last_sync": "2026-09-15T20:52:07.360959+00:00"
+    "hash": "8bd6f7f19f7a7b265a0edd7dd5e58374092ae46544dcc3367a0f4066d9a040df",
+    "last_sync": "2026-10-26T11:20:58.000000+00:00"
   },
   "History of Burawa (1180-1516)": {
     "direction": "push",
-    "hash": "f558bb739e499952698273b707b90a03e658ebdbced530929e3867a6d77c96ba",
-    "last_sync": "2026-09-15T20:52:39.035492+00:00"
+    "hash": "d9d5c2f613c1a0924b4c37ada895682b059838bc88c87903fa47dda6d0c8a511",
+    "last_sync": "2026-10-26T11:18:24.000000+00:00"
   },
   "History of Burawa (1516-1620)": {
     "direction": "push",
-    "hash": "758fe2928ec989cd2d8a2b5593410367e5b81fcf500f2b3b8b47a92957d94201",
-    "last_sync": "2026-09-15T20:52:40.681684+00:00"
+    "hash": "22957f2737cd9ffb867e7b49ca3a677b3ebb7fe7a449ac216028fc4fc2b48291",
+    "last_sync": "2026-10-26T11:18:26.000000+00:00"
   },
   "History of Burawa (1620-1709)": {
     "direction": "push",
-    "hash": "5575c5b4c1e35fea4c7d0dd762866114a62da10aaeea4cc4c816824a5f3608af",
-    "last_sync": "2026-09-15T20:52:41.884637+00:00"
+    "hash": "6ef2f62545c7d3b141a7fe42b7d023f05e3f88f15c572bcbdc1aedd3f4fd5b4e",
+    "last_sync": "2026-10-26T11:18:29.000000+00:00"
   },
   "History of Burawa (1709-1743)": {
     "direction": "push",
-    "hash": "9a9130330fcda63d51fe00c8b940ff3a364c846a487b6df0e53c457ec865ab57",
-    "last_sync": "2026-09-15T20:52:43.083110+00:00"
+    "hash": "43da78a47ca4758ca0f9e80719755835ad1b33f04bfc8fea417f389758fbb2ae",
+    "last_sync": "2026-10-26T11:18:31.000000+00:00"
   },
   "History of Burawa (1743-1800)": {
     "direction": "push",
@@ -156,8 +151,8 @@
   },
   "History of Burawa (403-1180)": {
     "direction": "push",
-    "hash": "df7ee093ac997af5e9c81e69f401fcb648c734622e696e8724985de3cafdb336",
-    "last_sync": "2026-09-15T20:52:48.717918+00:00"
+    "hash": "5d93f17dcdbe76a0de7b45eba05d468083a7b8f6715f5cf5e5445eab73d1ebc3",
+    "last_sync": "2026-10-26T11:18:33.000000+00:00"
   },
   "Imperial History of Burawa": {
     "direction": "push",
@@ -166,13 +161,13 @@
   },
   "Kaftia": {
     "direction": "push",
-    "hash": "8738e660afb0d1d2440279a6a0437a7a8e9b7b4deef942218d2197c4e6304f91",
-    "last_sync": "2026-09-15T20:52:09.709869+00:00"
+    "hash": "04d7737f6db1b3179bfe1dd67299d6b91ed876aa9a0002bf03474ebfab084a4b",
+    "last_sync": "2026-10-26T11:21:17.000000+00:00"
   },
   "Kingdom of Burawa": {
     "direction": "push",
-    "hash": "cb80af352b03963f91c5ac411b07b71ca00cf4f9dc9595e49823ac2203c26564",
-    "last_sync": "2026-09-15T20:52:12.798251+00:00"
+    "hash": "8eae96ddf7855e3b17ba83b5e8641e079a1244fd7178f5ebfd0e96b0b3a159cb",
+    "last_sync": "2026-10-26T11:18:37.000000+00:00"
   },
   "Late Colonial History of Burawa": {
     "direction": "push",
@@ -191,18 +186,18 @@
   },
   "Liban Qaasim": {
     "direction": "push",
-    "hash": "6a655d3031700f55b4bf48b26f38e982da7165acf2d69a6cc66fd38b1ee5a67a",
-    "last_sync": "2026-09-15T20:52:15.611589+00:00"
+    "hash": "bf7fd89148ffc22a23782d2ea6b6bbeaa143570e809c061b17abcffa9dd45a95",
+    "last_sync": "2026-10-26T11:21:17.000000+00:00"
   },
   "Maana Kadar": {
     "direction": "push",
-    "hash": "3318c705f6154de41ed06cf429620477a79d2d54be81d340efd210b62da34b00",
-    "last_sync": "2026-09-15T20:52:18.380249+00:00"
+    "hash": "af66a10dd3ec101f3bc89dc95e381f3aa0c1d21915e981890284c00db676c82f",
+    "last_sync": "2026-10-26T11:21:18.000000+00:00"
   },
   "Mazarico-Narrows Bridge": {
     "direction": "push",
-    "hash": "0c1e5713d1687a1c5e03e5941d0eeef024f892dd04154f5dd87399b40a0d5175",
-    "last_sync": "2026-09-15T20:52:21.784382+00:00"
+    "hash": "96df2edc30f6dade55841ba9f1c8af401af6aa396c3d66d43c7dbd2d3dad6cff",
+    "last_sync": "2026-10-26T11:21:19.000000+00:00"
   },
   "Medieval History of Burawa": {
     "direction": "push",
@@ -211,8 +206,8 @@
   },
   "Medieval Southwestern Kaftia": {
     "direction": "push",
-    "hash": "579d068d5ce293992037d89da67ea1a8d1d4ca475ce92c9eb260ab7e52635064",
-    "last_sync": "2026-09-15T20:52:24.394235+00:00"
+    "hash": "26a249424f4106002e1d41f238f564efa53372dedc8ad53a48ff1e66f4e6c4cd",
+    "last_sync": "2026-10-26T11:18:40.000000+00:00"
   },
   "Minister of Innovation (Burawa)": {
     "direction": "push",
@@ -221,33 +216,33 @@
   },
   "Muna Xasan": {
     "direction": "push",
-    "hash": "fbc8caab158fc83facc64c1a1eee61de9ce6a4e9abb3bb842b8c4ee22d93488f",
-    "last_sync": "2026-09-15T20:52:26.207469+00:00"
+    "hash": "619bb12df038989a941c32242768f5a59522598b46906abd495795888a247f1d",
+    "last_sync": "2026-10-26T11:21:19.000000+00:00"
   },
   "New Burawa": {
     "direction": "push",
-    "hash": "77f4614cfa10cb6c537218b19f7afe9e19167497e7a756fc8db439237bf70a2b",
-    "last_sync": "2026-09-15T20:52:28.547524+00:00"
+    "hash": "2c98f1ebb0efaa060a47e63fff1f14cb47a9d97fc5b1204e0889c9ed787d3672",
+    "last_sync": "2026-10-26T11:21:07.000000+00:00"
   },
   "Political parties in Burawa": {
     "direction": "push",
-    "hash": "be21d68796be198eadcfbfded7f7f377b9515cf05656b789d0065cd5abd2e974",
-    "last_sync": "2026-09-15T20:52:30.097478+00:00"
+    "hash": "841306367713a4ed9365d90689c9814f2a73420dd903acd3b056ea15208da2ca",
+    "last_sync": "2026-10-26T11:18:43.000000+00:00"
   },
   "Second War of the Isthmus": {
     "direction": "push",
-    "hash": "e878c7bb37460da59af41f3f9efa107e13f3cb4828c1acbe2a3728b0a6b8ba5c",
-    "last_sync": "2026-09-15T20:52:31.494303+00:00"
+    "hash": "bdb997d3ae797f155e3306214573ba8da033d9f4a3b03f08717cc78f94bd57a5",
+    "last_sync": "2026-10-26T11:21:20.000000+00:00"
   },
   "Taxis of Burawa": {
     "direction": "push",
-    "hash": "59093b89d7eef8566e71f89e2f0a928c6a50b62e8f45ad8961ce86a5e42bd049",
-    "last_sync": "2026-08-14T18:36:23.684182+00:00"
+    "hash": "16d4ac8d4631c8456c5b78d1c110a3f5962715d8be59ac9e1c03153d0fd707c3",
+    "last_sync": "2026-10-26T11:18:45.000000+00:00"
   },
   "Transportation Workers Displacement Fund": {
     "direction": "push",
-    "hash": "03c898fe03e64a210b7b776b75526ea91a513d8cc3ef06265d067260cd35fff0",
-    "last_sync": "2026-08-14T18:06:47.694738+00:00"
+    "hash": "5da63dbd0c8f0e63ce3dcfd7303c1f805690efbef43301643b288785f605a7ec",
+    "last_sync": "2026-10-26T11:18:47.000000+00:00"
   },
   "Transportation Workers Displacement Fund Addendum": {
     "direction": "push",
@@ -266,8 +261,8 @@
   },
   "War of the Mesogean": {
     "direction": "push",
-    "hash": "ebc1a49b4b09255811c04a0527415e7c2fbe6a85fc4c3b4b7ca2d44911d6a3ba",
-    "last_sync": "2026-09-15T20:52:32.769911+00:00"
+    "hash": "c61f4f2b6f74be4cd3d97cecfb9f9578862f42307f1fd5da3b8b5884c8f4fdc6",
+    "last_sync": "2026-10-26T11:21:11.000000+00:00"
   },
   "WhA Locus": {
     "direction": "push",
@@ -276,12 +271,207 @@
   },
   "Xasan Garaad": {
     "direction": "push",
-    "hash": "985ac8dfbb0b24ec058c9d5de147814a564ba5b11b88beb06b3cffae94ad211d",
-    "last_sync": "2026-09-15T20:52:35.576913+00:00"
+    "hash": "da7c9883587f9f8a6a6dda5e8398d573c58dd95962e15dc3838eeb39e9b1a151",
+    "last_sync": "2026-10-26T11:21:15.000000+00:00"
   },
-  "Xiriirka Fotbal Burawi": {
+  "2025 Burawi leadership election": {
     "direction": "push",
-    "hash": "ecdd2952d76d67657b0f37c240f57fa9e5907f0309a1ab85f04a0b9a08a85706",
-    "last_sync": "2026-09-15T20:52:36.759384+00:00"
+    "hash": "6be71e4f609bda458bdcadf716bf1fccbdea3d2e63f9cb9fa67367611c57d47f",
+    "last_sync": "2026-10-26T11:18:50.000000+00:00"
+  },
+  "2026 Burawi leadership recall protests": {
+    "direction": "push",
+    "hash": "f7d0d76dbe0aa9f7ec668ba9f28c6043c0cd8d512652c59c839bb52469f02338",
+    "last_sync": "2026-10-26T11:18:53.000000+00:00"
+  },
+  "2026 Burawi leadership recall vote": {
+    "direction": "push",
+    "hash": "7353dd029c672534474d1db2925ac7d636fb408fe3cb7fa1457fed39391f1cae",
+    "last_sync": "2026-10-26T11:18:56.000000+00:00"
+  },
+  "Administrative divisions of Burawa": {
+    "direction": "push",
+    "hash": "f9b65dcb216534979a16f4699f1550b39b688f6bd92f134cb1db04377be162ed",
+    "last_sync": "2026-10-26T11:18:58.000000+00:00"
+  },
+  "Ancient Southeastern Kaftia": {
+    "direction": "push",
+    "hash": "af52941a34fc5c88b15ee52be88a5d9401813f1ab643a8a2a94dd8762373ae7d",
+    "last_sync": "2026-10-26T11:19:01.000000+00:00"
+  },
+  "Ancient Southwestern Kaftia": {
+    "direction": "push",
+    "hash": "379a2f13b9c870b7478d05d159897abbadb69308e27cf982d487b33087254439",
+    "last_sync": "2026-10-26T11:19:05.000000+00:00"
+  },
+  "Badalga": {
+    "direction": "push",
+    "hash": "12f27284ce70e396fa01cd101235862d6bba84e409a54f18f50825b3d3fdacf2",
+    "last_sync": "2026-10-26T11:19:09.000000+00:00"
+  },
+  "Badweyn Rural Administration": {
+    "direction": "push",
+    "hash": "c2c49517940fa90d7dadb1015e3d514d9b5cc5aa52d801884c5773dbfdb85ab1",
+    "last_sync": "2026-10-26T11:19:11.000000+00:00"
+  },
+  "Bile Sago": {
+    "direction": "push",
+    "hash": "f61407cb38703b7cdb0bec6af1b7924b86b1f99aa50fd3b7452e0fdb401b94a0",
+    "last_sync": "2026-10-26T11:19:15.000000+00:00"
+  },
+  "Burawi Fotbal Federation": {
+    "direction": "push",
+    "hash": "2e754b7a73222231ec4a28e260cd7bcbc40e3ba1c902c3a11d17519194131344",
+    "last_sync": "2026-10-26T11:19:17.000000+00:00"
+  },
+  "Centralized Burawa": {
+    "direction": "push",
+    "hash": "1c9cad1f9099d402abce612e8ba4790f511967992f831b8420d41f283a005ae6",
+    "last_sync": "2026-10-26T11:19:18.000000+00:00"
+  },
+  "Cultural Regions of Burawa": {
+    "direction": "push",
+    "hash": "e68a5782e17e3ba94ec4e686384dbbcd8223f94de720abe90fef50a45d8d52c9",
+    "last_sync": "2026-10-26T11:19:21.000000+00:00"
+  },
+  "Dafar Sare Rural Administration": {
+    "direction": "push",
+    "hash": "12c1bd1bcf8098a6cb5031e18e579e132f738d23faef033e02be080845f56231",
+    "last_sync": "2026-10-26T11:19:24.000000+00:00"
+  },
+  "Family rule system (Burawa)": {
+    "direction": "push",
+    "hash": "2d59bcfed24f88465872a6b6a1c4ae7506449cbc3fd8d028bacf1bdfa2ae1fac",
+    "last_sync": "2026-10-26T11:19:26.000000+00:00"
+  },
+  "Great Kaftian Lake": {
+    "direction": "push",
+    "hash": "d880500f2bdedb6abd8c1884d4a1158109f5a925e5d3d0ac07945602d91622a4",
+    "last_sync": "2026-10-26T11:19:30.000000+00:00"
+  },
+  "Great Kaftian Range": {
+    "direction": "push",
+    "hash": "f071216d6833360c5c1611c3acb919c926b608ec1689f3d5540a4d83b8c1b65f",
+    "last_sync": "2026-10-26T11:19:34.000000+00:00"
+  },
+  "Hodan": {
+    "direction": "push",
+    "hash": "6bd1b2c00602311c8e4a4da57e420684918f55f8d8ecb779f1053e6e3f460fc1",
+    "last_sync": "2026-10-26T11:19:37.000000+00:00"
+  },
+  "Housing in Burawa": {
+    "direction": "push",
+    "hash": "bfa10006d1a9faa0476a9dd44e181c2f083f41a8b05d9123d4467e53aa67882c",
+    "last_sync": "2026-10-26T11:19:41.000000+00:00"
+  },
+  "Iskhal-Badalga North Line": {
+    "direction": "push",
+    "hash": "8566f426ca12295c1554adb06d528d476f775e898f23d37685b43ddb41bb0500",
+    "last_sync": "2026-10-26T11:19:44.000000+00:00"
+  },
+  "Iskhal-Badalga South Line": {
+    "direction": "push",
+    "hash": "4a121d9777b5368ac32a30fd2eeeaa8335033c0e4bb22124ba88d797a2c020c3",
+    "last_sync": "2026-10-26T11:19:47.000000+00:00"
+  },
+  "Jawi-Sago high-speed railway": {
+    "direction": "push",
+    "hash": "9c76dc02b4efc7f47ad7eeaa2421bd824167092095ea1cb4d7002a7a71244b5d",
+    "last_sync": "2026-10-26T11:19:50.000000+00:00"
+  },
+  "Kingdom of Iskhal": {
+    "direction": "push",
+    "hash": "eb02c0179579181e01c41f90845f57b2329ec440cc3954486982bdb8576001e8",
+    "last_sync": "2026-10-26T11:19:53.000000+00:00"
+  },
+  "Kingdom of Ufyen": {
+    "direction": "push",
+    "hash": "5a0bf83a3a598915c5577541d5e0e8c7192ff929df0c8db35d45e95e0605d80b",
+    "last_sync": "2026-10-26T11:19:56.000000+00:00"
+  },
+  "Lake Haro": {
+    "direction": "push",
+    "hash": "50ae88a5ce127b1361480c5a8bffa35e4fdcb314f2fc81d269055401299b9b54",
+    "last_sync": "2026-10-26T11:19:58.000000+00:00"
+  },
+  "List of administrations in Burawa": {
+    "direction": "push",
+    "hash": "0e793bbe5c99db9af430d1784194cca192f312801f7535a591d063061e0e3647",
+    "last_sync": "2026-10-26T11:20:01.000000+00:00"
+  },
+  "Prehistoric Southwestern Kaftia": {
+    "direction": "push",
+    "hash": "51f978e2cdb44295091dbf4ffd69d82348a51c72b322bdb4190fd81d2d767202",
+    "last_sync": "2026-10-26T11:20:03.000000+00:00"
+  },
+  "Republic of Mazar": {
+    "direction": "push",
+    "hash": "fd9e66d92d399f8863bc1182f3faa086123d501a074e0bf667a2c7eb72946a82",
+    "last_sync": "2026-10-26T11:20:07.000000+00:00"
+  },
+  "Saleebaan Period": {
+    "direction": "push",
+    "hash": "dd1d2e18ae5317c12d6706e6d99331b83ce22d53dadecdd06be206d020bae460",
+    "last_sync": "2026-10-26T11:20:10.000000+00:00"
+  },
+  "Southern Kaftian Tradition": {
+    "direction": "push",
+    "hash": "9e00a35c030aa51c4b135053fcc17a2ad8fa9ce14d70d38a1644e9e302d9ac8b",
+    "last_sync": "2026-10-26T11:20:12.000000+00:00"
+  },
+  "Southwestern Kaftia": {
+    "direction": "push",
+    "hash": "15e182e4e1d99291ccf5606873a648b96e49fcdb119b0101445943087749f647",
+    "last_sync": "2026-10-26T11:20:16.000000+00:00"
+  },
+  "Burawi language": {
+    "direction": "push",
+    "hash": "5daa2c52a2717bf54f38a4290fff5cd241de7bcb162d6ec1694d6d9dd85293a7",
+    "last_sync": "2026-10-26T11:20:19.000000+00:00"
+  },
+  "Burawa": {
+    "direction": "push",
+    "hash": "6fcaf7cedbdfd13e39d375c3c3075c923a23d4ee4ed819543ef30086aef1b4e3",
+    "last_sync": "2026-10-26T11:20:23.000000+00:00"
+  },
+  "Burawa national football team": {
+    "direction": "push",
+    "hash": "6c0bd3d2dd6612fe625ddde463798c91d46268d45d9b66f3f0ede364b466f8e8",
+    "last_sync": "2026-10-26T11:20:31.000000+00:00"
+  },
+  "Guled Badweyn": {
+    "direction": "push",
+    "hash": "f7201fc69808b85e7a90fc8463287c16cf0fcdd691429c95a7cd9b1c60f6eef1",
+    "last_sync": "2026-10-26T11:20:55.000000+00:00"
+  },
+  "Marik Sahamin": {
+    "direction": "push",
+    "hash": "d3d509b7115fbcd501b57124eb8a31fc5de4312cbe1af5c89f106d1c26c3ef20",
+    "last_sync": "2026-10-26T11:21:03.000000+00:00"
+  },
+  "Dagalka Buran": {
+    "direction": "push",
+    "hash": "c59c89dd745518e411bbdc59214871d3c51b9c397ee3f8160ebf59a753b10809",
+    "last_sync": "2026-10-26T11:21:22.000000+00:00"
+  },
+  "Dagalka Galbed": {
+    "direction": "push",
+    "hash": "652ec8953c6921e7faa264c7a14d09c6f845c6d7810822620967785e895d1be5",
+    "last_sync": "2026-10-26T11:21:25.000000+00:00"
+  },
+  "Cagarka Tower": {
+    "direction": "push",
+    "hash": "58964fc44a3e213b9fa151484654e3a2f6a0310ec79f1290041baf0332a98d65",
+    "last_sync": "2026-10-26T11:21:28.000000+00:00"
+  },
+  "Dafar Hose Rural Administration": {
+    "direction": "push",
+    "hash": "fae9dbb9a72f082e3286085d27ee95c36679042a31225893b8089e49dd989cac",
+    "last_sync": "2026-10-26T11:21:33.000000+00:00"
+  },
+  "Xirirka Fotbal Burawi": {
+    "direction": "push",
+    "hash": "0becce2387dbac7ca8eead1d7e93b8d7e75b6bf66f0f4e9f4c16bb63a359779f",
+    "last_sync": "2026-10-26T11:21:35.000000+00:00"
   }
 }

@@ -30,9 +30,9 @@
     "last_sync": "2026-09-24T00:42:46.678394+00:00"
   },
   "Chiu Khéng-gio̍k": {
-    "direction": "push",
-    "hash": "1ab28d44091398efe0dd3ee2e77eea180d9fe1170f8e40e7e590e98ae79edca3",
-    "last_sync": "2026-09-24T00:42:48.466296+00:00"
+    "direction": "pull",
+    "hash": "cd1faa91f3565c223663e67cdd9edd47912c61b9db28a13cecb47f713974bfd9",
+    "last_sync": "2026-09-25T02:05:28.013538+00:00"
   },
   "Climate of Sinchew": {
     "direction": "push",
@@ -48,6 +48,11 @@
     "direction": "push",
     "hash": "7f845833f7008fbd31161ee5d6e349371f26999ab16159bf20d8691a711d3a4e",
     "last_sync": "2026-09-22T21:25:41.275319+00:00"
+  },
+  "Economy of Sinchew": {
+    "direction": "push",
+    "hash": "f58ba26cf4d36fc8dff359cdff9fb55875f0b2074fb3855fc74afef079cb2d97",
+    "last_sync": "2026-09-29T17:37:24.573794+00:00"
   },
   "First Mahik War": {
     "direction": "push",
@@ -154,6 +159,16 @@
     "hash": "a6f6f5e2627b5dec34cc1458271a2387792061c9b1c9337503c9eae24a21b3f4",
     "last_sync": "2026-09-21T18:15:50.581687+00:00"
   },
+  "Linq (software)": {
+    "direction": "push",
+    "hash": "041e26efb4413daa343436577ae47457ee12dd42dda70485db2fca4eae43df2c",
+    "last_sync": "2026-09-25T22:34:53.055831+00:00"
+  },
+  "List of Sinchew counties": {
+    "direction": "push",
+    "hash": "aa8d3f7d644539ef4666879e4dbeb649f05b161d70e8aef3da1b2223a1b38a33",
+    "last_sync": "2026-09-25T21:29:24.659740+00:00"
+  },
   "List of presidents of Sinchew": {
     "direction": "push",
     "hash": "d5fb437b921a7e823f69b6ea51601ad6c2aed5c2f85be50a1b20e602ee7c5ad4",
@@ -161,8 +176,8 @@
   },
   "Louyang national football team": {
     "direction": "pull",
-    "hash": "b234bafd20a5991ae38d051429623db1a39b60a9d270a27d75fbd73706956868",
-    "last_sync": "2026-09-21T19:52:21.345213+00:00"
+    "hash": "766e4ad6bebaa65df27e366708387489c9eb141c78cad390e79f730bfee350e4",
+    "last_sync": "2026-09-28T20:47:42.027696+00:00"
   },
   "Okheng": {
     "direction": "push",
@@ -175,9 +190,9 @@
     "last_sync": "2026-09-24T00:45:25.095856+00:00"
   },
   "Provinces of Sinchew": {
-    "direction": "push",
-    "hash": "0e25fe65d0edc19351ad859220a0dcce53b829b15c31d1c28eff804eb61480cb",
-    "last_sync": "2026-09-24T00:44:26.443913+00:00"
+    "direction": "pull",
+    "hash": "4810d33640a556541e477767b069007c28402698bef551e527b4b137b45bfb9d",
+    "last_sync": "2026-09-25T02:05:31.433364+00:00"
   },
   "Scripts of Hachinawa": {
     "direction": "push",
@@ -235,8 +250,8 @@
     "last_sync": "2026-09-22T18:38:20.617950+00:00"
   },
   "Zong script in Hachinawa": {
-    "direction": "push",
-    "hash": "048b1ad3198e2d8571926b29abb1897cc4b09b36f5164743b95f2e357553eb0e",
-    "last_sync": "2026-09-22T22:11:26.351615+00:00"
+    "direction": "pull",
+    "hash": "518f8b8141a15adbad0ffbbdd3fc1ff5eea272a3067baccbd2f014d86febb2c5",
+    "last_sync": "2026-09-28T20:47:42.028658+00:00"
   }
 }

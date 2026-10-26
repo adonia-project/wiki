@@ -1,19 +1,23 @@
 {{Infobox military conflict
-| conflict    = War of the Mesogean
-| partof      = Colonial conflicts of the Age of Exploration
-| image       = 
-| caption     = 
-| date        = 1590–1610
-| place       = [[Mesogean Sea]], [[Kingdom of Reige|Reige]], [[Abyala]], [[Kaftia]]
-| result      = [[United Kingdoms of Volisania|Volisanian]] victory<br>* [[Kingdom of Reige|Reige]] incorporated into Volisania<br>* Burawi naval power reduced in Mesogean<br>* [[Kadim-Kaysor|Kaysor]] line replaced by [[Kadim-Galwa|Galwa]] (1608)
-| combatant1  = {{flagicon|Volisania}} [[United Kingdoms of Volisania]]<br>{{flagicon|Reige}} [[Kingdom of Reige|Reige]]<br>{{flagicon|Orma}} [[Kingdom of Orma|Orma]]
-| combatant2  = {{flagicon|Burawa}} [[Kingdom of Burawa]]<br>{{flagicon|Jarin}} [[Kingdom of Jarin|Jarin]]
-| commander1  = [[Ander I of House Lochcarron|Ander I]]<br>Lords of Reige
-| commander2  = [[Iacob IV]]<br>[[Cardinal Yusuf]]
-| strength1   = 100 ships<br>20,000 sailors/soldiers
-| strength2   = 80 ships<br>15,000 sailors/soldiers
-| casualties1 = 30 ships lost at Reige<br>~6,000 dead
-| casualties2 = 50 ships lost at Reige<br>~8,000 dead
+| conflict          = War of the Mesogean
+| partof            = Colonial conflicts of the Age of Exploration
+| image             = 
+| caption           = 
+| date              = 1590–1610
+| place             = [[Mesogean Sea]], [[Kingdom of Reige|Reige]], [[Abyala]], [[Kaftia]]
+| result            = {{tree list}}
+*[[United Kingdoms of Volisania|Volisanian]] victory
+**[[Kingdom of Reige|Reige]] incorporated into Volisania
+**Burawi naval power reduced in Mesogean
+**[[Kadim-Kaysor|Kaysor]] line replaced by [[Kadim-Galwa|Galwa]] (1608)
+| combatant1        = {{flagicon|Volisania}} [[United Kingdoms of Volisania]]<br>{{flagicon|Reige}} [[Kingdom of Reige|Reige]]<br>{{flagicon|Orma}} [[Kingdom of Orma|Orma]]
+| combatant2        = {{flagicon|Burawa}} [[Kingdom of Burawa]]<br>{{flagicon|Jarin}} [[Kingdom of Jarin|Jarin]]
+| commander1        = [[Ander I of House Lochcarron|Ander I]]<br>Lords of Reige
+| commander2        = [[Iacob IV]]<br>[[Cardinal Yusuf]]
+| strength1         = 100 ships<br>20,000 sailors/soldiers
+| strength2         = 80 ships<br>15,000 sailors/soldiers
+| casualties1       = 30 ships lost at Reige<br>~6,000 dead
+| casualties2       = 50 ships lost at Reige<br>~8,000 dead
 }}
 
 The War of the Mesogean (1590–1610), also known as the Reige War, was a prolonged conflict between the [[Kingdom of Burawa]] and the [[United Kingdoms of Volisania]]. Fought primarily in the [[Mesogean Sea]] and for control of the island of [[Kingdom of Reige|Reige]], the war arose from the convergence of three disputes: the ambiguous southern boundary of [[Abyala]] established by the [[Abyala Charter]], the defection of Reige from its personal union with Burawa to Volisania, and the broader assertion of Volisanian power under the [[House of Lochcarron]].
@@ -42,7 +46,7 @@ As both powers expanded into the southern lowlands in the decades following the 
 
 {{main|Kingdom of Reige}}
 
-The [[Kingdom of Reige]] was a Mesogean island strategically positioned in the central [[Mesogean Sea]], serving as a crucial waypoint for trade between [[Southwestern Kaftia]] and [[Illypnia]]. The island's population was ethnically Volisanian, and its ruling lords had maintained a personal union with the [[Kingdom of Burawa]] since the 1300s, established through marriage alliances during the [[History of Burawa (1180-1516)|Imperial period]].
+The [[Kingdom of Reige]] was a Mesogean island strategically positioned in the central [[Mesogean Sea]], serving as a crucial waypoint for trade between [[Southwestern Kaftia]] and [[Illypnia]]. The island's population was ethnically Volisanian, and its ruling lords had maintained a personal union with the [[Kingdom of Burawa]] since the 1300s, established through marriage alliances during the [[Imperial History of Burawa|Imperial period]].
 
 Under the personal union, Reige retained internal autonomy but recognised the Burawi monarch as its sovereign. The arrangement provided Burawa with a strategic foothold in the central Mesogean, enabling the kingdom to project naval power into Illypnian waters and maintain direct commercial contact with Illypnian markets. The island's harbours provisioned Burawi merchant fleets, and its position gave Burawa leverage in Mesogean diplomacy disproportionate to the island's size.
 
@@ -72,7 +76,7 @@ The [[House of Lochcarron]] came to power in the [[United Kingdoms of Volisania]
 
 The [[Kingdom of Burawa]] committed substantial naval forces to the war, though the kingdom was simultaneously maintaining its colonial empire in [[Abyala]] and its network of forts in [[Burawi North Kaftia|North Kaftia]]. The Burawi navy at the outbreak of war comprised approximately 80 ships and 15,000 sailors and soldiers.
 
-The Burawi fleet had been rebuilt since the [[History of Burawa (1180-1516)|Imperial era]] but was weakened by the diffusion of resources across multiple colonial commitments. The navy was organised around the traditional Burawi naval structure, with ships built and maintained at the royal shipyards at [[Badalga]] and [[Mazar]]. The fleet included a mix of heavy warships for naval combat and lighter vessels for trade protection and colonial logistics.
+The Burawi fleet had been rebuilt since the [[Imperial History of Burawa|Imperial era]] but was weakened by the diffusion of resources across multiple colonial commitments. The navy was organised around the traditional Burawi naval structure, with ships built and maintained at the royal shipyards at [[Badalga]] and [[Mazar]]. The fleet included a mix of heavy warships for naval combat and lighter vessels for trade protection and colonial logistics.
 
 On land, Burawa relied on its peninsular military and the garrisons of its colonial possessions. The [[Kingdom of Orma]], which had historically maintained independence through balance-of-power politics, was not initially aligned with either side, though Burawa hoped to secure Orma's neutrality or alliance.
 
@@ -98,7 +102,7 @@ In Abyala, colonial forces on both sides fortified their positions in the disput
 
 The middle phase of the war was characterised by sustained naval operations in the Mesogean Sea. Both sides sought to interdict each other's trade routes: Burawa attempted to cut the lines between Volisania and its colonial possessions, while Volisania sought to isolate Burawa from Illypnian markets.
 
-The trade war imposed severe economic costs on both kingdoms. Burawi merchants lost access to their traditional Illypnian markets, and Volisanian colonial revenues were reduced by the disruption of transatlantic shipping. The prolonged economic strain contributed to war weariness in both metropoles.
+The trade war imposed severe economic costs on both kingdoms. Burawi merchants lost access to their traditional Illypnian markets, and Volisanian colonial revenues were reduced by the disruption of trans-Aethiopian shipping. The prolonged economic strain contributed to war weariness in both metropoles.
 
 On the Kaftian front, the [[Kingdom of Orma]] formally aligned with Volisania in 1598, opening a land-based threat to Burawa's peninsular territories. Burawa was forced to maintain significant forces in the north to guard against Orma, diverting resources from the Mesogean theatre.
 
@@ -132,7 +136,7 @@ The religious dimension contributed to the post-war settlement and the dynastic 
 
 == Economic dimensions ==
 
-The war imposed severe economic costs on both belligerents. The interdiction of trade routes in the [[Mesogean Sea]] disrupted commerce between [[Southwestern Kaftia]] and [[Illypnia]], affecting merchants and consumers on both sides of the sea. Burawi merchants lost their accustomed access to Illypnian markets, while Volisanian colonial revenues were reduced by the disruption of transatlantic shipping.
+The war imposed severe economic costs on both belligerents. The interdiction of trade routes in the [[Mesogean Sea]] disrupted commerce between [[Southwestern Kaftia]] and [[Illypnia]], affecting merchants and consumers on both sides of the sea. Burawi merchants lost their accustomed access to Illypnian markets, while Volisanian colonial revenues were reduced by the disruption of trans-Aethiopian shipping.
 
 The economic strain was compounded by the colonial competition that had preceded the war. Both kingdoms had been investing heavily in New World expansion, and the diversion of resources to the Mesogean war limited their capacity to compete with other colonial powers. [[Echia]], [[Merica]], [[Breisland]], and [[Aetolia]] all expanded their colonial holdings during the two decades that Burawa and Volisania were engaged against each other.
 
@@ -158,7 +162,7 @@ The loss of Reige was the most significant territorial reversal for Burawa since
 
 The defeat was attributed to the [[Kadim-Kaysor|Kaysor]] dynasty. King [[Iacob IV]] died in 1608, and his death precipitated a succession crisis. The [[Burawi Catholic Church]], led by [[Cardinal Yusuf]], supported the replacement of Kaysor with [[Kadim-Galwa|Galwa]], marking the first transition between major dynastic branches since the [[Lanta Boqorka]] system was established. The Galwa branch would hold the throne for the next century.
 
-Burawa reoriented its remaining naval capacity toward Atlantic operations: escorting the transatlantic colonial convoys, defending the [[Burawi North Kaftia|North Kaftian]] forts, and suppressing piracy along the [[Aethiopean Ocean]] routes. The kingdom's ambitions beyond [[Southwestern Kaftia]] and [[Abyala]] were effectively ended.
+Burawa reoriented its remaining naval capacity toward Aethiopian operations: escorting the trans-Aethiopian colonial convoys, defending the [[Burawi North Kaftia|North Kaftian]] forts, and suppressing piracy along the [[Aethiopean Ocean]] routes. The kingdom's ambitions beyond [[Southwestern Kaftia]] and [[Abyala]] were effectively ended.
 
 === For Volisania ===
 
@@ -189,7 +193,7 @@ The war also stands as an early example of the complexities of warfare between c
 * [[Abyala Charter]]
 * [[Kingdom of Reige]]
 * [[Battle of Reige]]
-* [[History of Burawa (1516-1620)|Colonial Expansion of Burawa]]
+* [[Colonial Expansion of Burawa]]
 * [[Kingdom of Burawa]]
 * [[United Kingdoms of Volisania]]
 * [[Kingdom of Orma]]

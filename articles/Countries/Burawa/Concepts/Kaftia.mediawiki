@@ -1,20 +1,20 @@
 {{Infobox continent
 |title               = Kaftia
-|image               = [[File:Location Kaftia.svg|220px]]
-|area                = {{convert|30,221,532|km2|sqmi|abbr=on}}
+|image               = Location of Kaftia.svg
+|imagecaption        = Orthographic projection of Kaftia (mainland highlighted)
+|area                = {{convert|35965732|km2|sqmi|abbr=on}} <small>(total)</small>
 |population          = 1.4 billion (2025, [[List of continents by population|2nd]])
-|density             = {{convert|46.32|/km2|/sqmi|abbr=on}}
+|density             = {{convert|38.93|/km2|/sqmi|abbr=on}}
 |demonym             = [[Ethnic groups in Kaftia|Kaftian]]
-|countries           = 54 countries
+|countries           = 72 countries
 |list_countries      = List of Kaftian countries
-|dependencies        = [[List of Kaftian countries#Dependent territories|7 dependencies]]
 |languages           = [[Languages of Kaftia|~225 languages]]
 |time                = [[UTC]] to [[UTC+5]]
 |internet            = [[.kaftia]]
 |cities              = [[List of the largest cities in Kaftia|List of urban areas]]
 }}
 
-'''Kaftia''' is [[Adonia|Adonia's]] second-largest and second-most-populous continent.
+'''Kaftia''' is [[Adonia|Adonia's]] third-largest and second-most-populous continent, covering approximately 36 million km². It is separated from [[Fosia]] and [[Illypnia]] by the [[Shendan Ocean]].
 
 ==Etymology==
 The name Kaftia comes from [[w:Greek language|Aetolian]] ''kafto'' (καυτό) meaning "hot".
@@ -30,6 +30,156 @@ The name Kaftia comes from [[w:Greek language|Aetolian]] ''kafto'' (καυτό) 
 === Biodiversity ===
 
 == Political geography ==
+Kaftia comprises 72 recognised sovereign states, ranging from large continental powers like [[Jarin]] (2.97 million km²) and [[Wagad]] (2.35 million km²) to small island nations like [[Neridea]] (2,489 km²) and [[Sanyan]] (3,511 km²).
+
+=== Countries ===
+{| class="sortable wikitable"
+! Flag !! Arms !! Name !! Area (km²) !! Population !! Population density (per km²) !! Capital !! Name(s) in official language(s)
+|-
+| {{flag|Alwana}} || [[File:Coats of arms of None.svg|20px]] || [[Alwana]] || 471,163.81 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Ayorin}} || [[File:Coats of arms of None.svg|20px]] || [[Ayorin]] || 689,636.30 || {{formatnum:90217927}} || 130.82 || [[Ibadan]] || {{native name|yo|Igbimọ ti Ayọ̀rìn}}<br>{{native name|ig|Njikọ Áyóra}}
+|-
+| {{flag|Bonande}} || [[File:Coats of arms of None.svg|20px]] || [[Bonande]] || 518,686.92 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Borenia}} || [[File:Coats of arms of None.svg|20px]] || [[Borenia]] || 1,208,871.56 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Burawa}} || [[File:Coats of arms of None.svg|20px]] || [[Burawa]] || 859,747.59 || {{formatnum:127494230}} || 148.29 || [[Kankadadka]] || Republic of Burawa
+|-
+| {{flag|Buweran}} || [[File:Coats of arms of None.svg|20px]] || [[Buweran]] || 970,627.40 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Bwende}} || [[File:Coats of arms of None.svg|20px]] || [[Bwende]] || 66,862.29 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Chopeda}} || [[File:Coats of arms of None.svg|20px]] || [[Chopeda]] || 167,159.00 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Dakare}} || [[File:Coats of arms of None.svg|20px]] || [[Dakare]] || 904,511.00 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Dimlaka}} || [[File:Coats of arms of None.svg|20px]] || [[Dimlaka]] || 817,064.90 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Dzimbare}} || [[File:Coats of arms of None.svg|20px]] || [[Dzimbare]] || 54,106.65 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Fayeha}} || [[File:Coats of arms of None.svg|20px]] || [[Fayeha]] || 463,800.44 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Galwa}} || [[File:Coats of arms of None.svg|20px]] || [[Galwa]] || 478,750.71 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Gigasia}} || [[File:Coats of arms of None.svg|20px]] || [[Gigasia]] || 1,558,979.52 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Gwantema}} || [[File:Coats of arms of None.svg|20px]] || [[Gwantema]] || 484,646.03 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Hilal}} || [[File:Coats of arms of None.svg|20px]] || [[Hilal]] || 380,833.30 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Inoias}} || [[File:Coats of arms of None.svg|20px]] || [[Inoias]] || 555,076.78 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Jarax}} || [[File:Coats of arms of None.svg|20px]] || [[Jarax]] || 187,746.17 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Jarin}} || [[File:Coats of arms of None.svg|20px]] || [[Jarin]] || 2,974,112.88 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Kabiya}} || [[File:Coats of arms of None.svg|20px]] || [[Kabiya]] || 340,576.50 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Kagezi}} || [[File:Coats of arms of None.svg|20px]] || [[Kagezi]] || 296,589.15 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Kalasha}} || [[File:Coats of arms of None.svg|20px]] || [[Kalasha]] || 260,768.35 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Kalisongo}} || [[File:Kalisongo coa.png|20px]] || [[Kalisongo]] || 1,131,496.30 || 57,392,133 || 43.5 || [[Karanganyar]] || Republik Kalisongo
+|-
+| {{flag|Karagi}} || [[File:Coats of arms of None.svg|20px]] || [[Karagi]] || 59,364.76 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Kilwara}} || [[File:Coats of arms of None.svg|20px]] || [[Kilwara]] || 159,923.06 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Kushish}} || [[File:Coats of arms of None.svg|20px]] || [[Kushish]] || 274,197.25 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Kwalib}} || [[File:Coats of arms of None.svg|20px]] || [[Kwalib]] || 15,275.46 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Leontia}} || [[File:Coats of arms of None.svg|20px]] || [[Leontia]] || 423,673.00 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Lubara}} || [[File:Coats of arms of None.svg|20px]] || [[Lubara]] || 24,266.70 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Lufira}} || [[File:Coats of arms of None.svg|20px]] || [[Lufira]] || 231,284.57 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Luongo}} || [[File:Coats of arms of None.svg|20px]] || [[Luongo]] || 304,567.85 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Maianka}} || [[File:Coats of arms of None.svg|20px]] || [[Maianka]] || 57,613.76 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Makombu}} || [[File:Coats of arms of None.svg|20px]] || [[Makombu]] || 87,338.22 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Maravi}} || [[File:Coats of arms of None.svg|20px]] || [[Maravi]] || 90,434.19 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Matopa}} || [[File:Coats of arms of None.svg|20px]] || [[Matopa]] || 71,081.86 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Minara}} || [[File:Coats of arms of None.svg|20px]] || [[Minara]] || 210,376.16 ||	4,739,293 || 19.9 || [[Paraken]] || Meprabuan Minara
+|-
+| {{flag|Miomba}} || [[File:Coats of arms of None.svg|20px]] || [[Miomba]] || 784,633.32 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Ndonga}} || [[File:Coats of arms of None.svg|20px]] || [[Ndonga]] || 586,378.54 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Neridea}} || [[File:Coats of arms of None.svg|20px]] || [[Neridea]] || 2,346.21 || TBD || TBD || TBD || TBD
+|-
+| {{flag|North Kaftia}} || [[File:Coats of arms of None.svg|20px]] || [[North Kaftia]] || 1,385,158.47 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Ntungwe}} || [[File:Coats of arms of None.svg|20px]] || [[Ntungwe]] || 217,717.02 || {{formatnum:14216000}} || 65.30 || Kivukoni || ''Ufalme wa Ntungwe''
+|-
+| {{flag|Nupenia}} || [[File:Coats of arms of None.svg|20px]] || [[Nupenia]] || 141,185.89 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Nyora}} || [[File:Coats of arms of None.svg|20px]] || [[Nyora]] || 115,922.04 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Olmora}} || [[File:Coats of arms of None.svg|20px]] || [[Olmora]] || 117,814.23 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Orma}} || [[File:Coats of arms of None.svg|20px]] || [[Orma]] || 438,435.72 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Oyoro}} || [[File:Coats of arms of None.svg|20px]] || [[Oyoro]] || 37,206.60 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Pwani}} || [[File:Coats of arms of None.svg|20px]] || [[Pwani]] || 632,787.48 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Rundiwe}} || [[File:Coats of arms of None.svg|20px]] || [[Rundiwe]] || 51,672.38 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Ruvuma}} || [[File:Coats of arms of None.svg|20px]] || [[Ruvuma]] || 143,134.83 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Rwenzara}} || [[File:Coats of arms of None.svg|20px]] || [[Rwenzara]] || 330,987.17 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Sabia}} || [[File:Coats of arms of None.svg|20px]] || [[Sabia]] || 13,148.67 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Sanjara}} || [[File:Coats of arms of None.svg|20px]] || [[Sanjara]] || 992,998.38 || 37,462,931 || 33.1 || Takangarasa || Repablik Sanjara
+|-
+| {{flag|Sanyan}} || [[File:Coats of arms of None.svg|20px]] || [[Sanyan]] || 3,349.72 || {{formatnum:1083467}} || 323.45 || [[Sanyan (city-state)|Sanyan]] || ߌߖߐߞߊߣߌ ߛߊߣߦߊ߲<br>{{native name|kz|Ìjẹ́ Kànì Sànyán}}
+|-
+| {{flag|Sarafone}} || [[File:Coats of arms of None.svg|20px]] || [[Sarafone]] || 195,357.25 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Senara}} || [[File:Coats of arms of None.svg|20px]] || [[Senara]] || 37,782.42 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Sindewand}} || [[File:Coats of arms of None.svg|20px]] || [[Sindewand]] || 277,057.21 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Skypantha}} || [[File:Coats of arms of None.svg|20px]] || [[Skypantha]] || 730,431.92 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Sothara}} || [[File:Coats of arms of None.svg|20px]] || [[Sothara]] || 230,698.04 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Tamazgha}} || [[File:Coats of arms of None.svg|20px]] || [[Tamazgha]] || 2,412,352.51 || {{formatnum:10247893}} || 4.25 || [[Agadis]] || {{native name|taq|ⵜⴰⵖⵍⴰⵏ ⵏ ⵜⴰⵎⴰⵣⵖⴰ}}<br>''Taghlān n Tamāzɣa''
+|-
+| {{flag|Tategazi}} || [[File:Coats of arms of None.svg|20px]] || [[Tategazi]] || 131,023.12 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Tazwawa}} || [[File:Coats of arms of None.svg|20px]] || [[Tazwawa]] || 2,657,700.29 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Torori}} || [[File:Coats of arms of None.svg|20px]] || [[Torori]] || 19,713.24 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Wagad}} || [[File:Coats of arms of None.svg|20px]] || [[Wagad]] || 2,352,782.30 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Walonia}} || [[File:Coats of arms of None.svg|20px]] || [[Walonia]] || 18,987.96 || TBD || TBD || TBD || TBD
+|-
+| {{flag|West Dakare}} || [[File:Coats of arms of None.svg|20px]] || [[West Dakare]] || 402,962.90 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Wolffrea}} || [[File:Coats of arms of None.svg|20px]] || [[Wolffrea]] || 186,326.29 || {{formatnum:45500000}} || 244.20 || [[Blumenaue]] || {{lang|br|Gemeinwesen Wolffrea}}
+|-
+| {{flag|Xorola}} || [[File:Coats of arms of None.svg|20px]] || [[Xorola]] || 581,284.67 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Yaweka}} || [[File:Coats of arms of None.svg|20px]] || [[Yaweka]] || 205,191.59 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Zawiyat}} || [[File:Coats of arms of None.svg|20px]] || [[Zawiyat]] || 1,218,898.59 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Zetaba}} || [[File:Coats of arms of None.svg|20px]] || [[Zetaba]] || 56,820.14 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Zinjara}} || [[File:Coats of arms of None.svg|20px]] || [[Zinjara]] || 184,839.21 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Zulani}} || [[File:Coats of arms of None.svg|20px]] || [[Zulani]] || 219,435.30 || TBD || TBD || TBD || TBD
+|}
 
 == Integration ==
 
@@ -46,6 +196,9 @@ The name Kaftia comes from [[w:Greek language|Aetolian]] ''kafto'' (καυτό) 
 == Culture ==
 
 == See also ==
+* [[List of Adonian countries by area]]
+* [[List of countries in Adonia]]
+
 [[Category:Kaftia]]
 [[Category:Continents of Adonia]]
 [[Category:Adonia]]

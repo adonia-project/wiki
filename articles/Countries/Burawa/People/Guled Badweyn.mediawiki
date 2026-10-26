@@ -1,15 +1,19 @@
-{{Infobox person
+{{Infobox officeholder
 | name               = Guled Badweyn
-| image              =
-| caption            =
+| image              = Portrait of Guled.png
+| caption            = Portrait of Guled Badweyn
 | birth_date         = 4 April 1483
 | birth_place        = [[Badalga]], [[Kingdom of Burawa]]
-| death_date         = 8 October 1550
+| death_date         = {{Death date and age|1550|10|8|1483|4|4|df=yes}}
 | death_place        = [[Lacashe]], [[Burawi Cusub]]
+| office             = Governor of Lacashe
+| term_start         = 1535
+| term_end           = 8 October 1550
+| monarch            = [[Faarax III]]
+| predecessor        = Office established
+| successor          = [[Lear Kadimka]]
+| known_for          = Discovery of the [[Badweyn Islands]]; founding of [[Lacashe]]
 | occupation         = Navigator, explorer, colonial administrator
-| known_for          = Discovery of the [[Badweyn Islands]]; founding of [[Lacashe]]; first governor of Lacashe
-| title              = Governor of Lacashe
-| term               = 1535–1550
 }}
 
 '''Guled Badweyn''' (4 April 1483 – 8 October 1550) was a Burawi navigator, explorer, colonial administrator, and the first governor of [[Lacashe]]. He led the expedition that discovered the [[Badweyn Islands]] in 1512 and founded the first permanent Burawi settlement on the [[Abyala|Abyalan]] mainland in 1516. As governor, he directed the early expansion of [[Burawi Cusub]] into the Capuyaquiran region and organized the colonial campaigns that preceded the conquest of the [[Aruanãyára Empire]].
@@ -20,9 +24,9 @@ In later Burawi political memory, Guled became a controversial figure. The socia
 
 == Early life ==
 
-Guled was born on 4 April 1483 in [[Badalga]], a major Burawi naval and shipbuilding centre. His family belonged to the nobility and was related to the royal house, although not closely enough for Guled to be considered a claimant to the throne. His family connections gave him access to court, naval, and commercial institutions during a period of continued Burawi expansion.
+Guled was born on 4 April 1483 in [[Badalga]], a major Burawi naval and shipbuilding centre. He belonged to the Badweyn family, a noble family within the Kadim-Mazar cadet house of the Burawi royal dynasty. The family was related to the royal house, although not closely enough for Guled to be considered a claimant to the throne. His family connections gave him access to court, naval, and commercial institutions during a period of continued Burawi expansion.
 
-He was educated in navigation, geography, military affairs, and colonial administration. Before receiving an independent command, he served in the Burawi maritime service and gained experience in open-ocean navigation. His political outlook was shaped by the expansionist ideology of the late imperial court. Guled believed that Burawa had the right and duty to establish overseas settlements, control strategic harbours, extend its trade routes, and bring foreign peoples under Burawi political and religious authority.
+He was educated in navigation, geography, military affairs, and colonial administration within the institutions available to the Kadim-Mazar nobility. Before receiving an independent command, he served in the Burawi maritime service and gained experience in open-ocean navigation. His political outlook was shaped by the expansionist ideology of the late imperial court. Guled believed that Burawa had the right and duty to establish overseas settlements, control strategic harbours, extend its trade routes, and bring foreign peoples under Burawi political and religious authority.
 
 == Expeditions ==
 
@@ -30,7 +34,7 @@ He was educated in navigation, geography, military affairs, and colonial adminis
 
 In 1512, at the age of 29, Guled commanded an expedition from the northern coast of the former [[Kingdom of Shedou|Shedou]] territory across approximately 3,300 kilometres of the [[Aethiopean Ocean]]. The expedition made landfall on an apparently uninhabited archipelago approximately 600 kilometres south of the Abyalan mainland.
 
-Guled explored the islands for several months before returning to [[Southwestern Kaftia]] and reporting to King [[Dalgayan III]]. The archipelago was subsequently named the '''Badweyn Islands''' after him. The crown recognized the strategic importance of the discovery and granted Guled a royal charter to return with a larger expedition.
+Guled explored the islands for several months before returning to [[Southwestern Kaftia]] and reporting to King [[Dalgayan III]]. The archipelago was subsequently named the [[Badweyn Islands]] after him. The crown recognized the strategic importance of the discovery and granted Guled a royal charter to return with a larger expedition.
 
 In 1515, his second expedition reached the islands and established a small Burawi outpost. The following year, the expedition continued northward to the eastern coast of Abyala.
 
@@ -38,7 +42,7 @@ In 1515, his second expedition reached the islands and established a small Buraw
 
 In 1516, Guled's expedition made landfall on the eastern coast of Abyala near the southeastern coastal region later known as the Lacashe area. The settlement established there consisted of a fortified trading post, a harbour, a [[Burawi Catholic Church|Church]] mission, and supporting agricultural land. It became the first permanent Burawi settlement on the Abyalan mainland.
 
-The settlement was later known as [[Guledga]], while the surrounding province became known as [[Lacashe]]. The colony occupied a strategically important position between the coastal communities, the [[Tapuya Confederacy]] in the interior lowlands, and the [[Aruanãyára Empire]] farther north in the highlands.
+The settlement was originally known as Burawi Cusub Magaalo. It was later renamed [[Guledga]] in Guled's honour after his death, while the surrounding province became known as [[Lacashe]]. The colony occupied a strategically important position between the coastal communities, the [[Tapuya Confederacy]] in the interior lowlands, and the [[Aruanãyára Empire]] farther north in the highlands.
 
 Guled's original settlement was intended to serve as a base for trade, exploration, and further expansion. During the following decades, Lacashe developed into the administrative centre of [[Burawi Cusub]], a major harbour, and the principal base for Burawi operations on the eastern coast of Abyala.
 
@@ -74,7 +78,7 @@ Guled's administration was centralized and authoritarian. He maintained strict d
 
 === The Great Pestilence ===
 
-Guled governed during the Great Pestilence, a regional smallpox pandemic that affected indigenous populations from approximately 1525 to 1548. The disease spread through the maritime trade and military networks linking the colonies and island communities. Guajicutea suffered particularly severe losses, with approximately thirty percent of its population dying by 1538.
+Guled governed during the Great Pestilence, a regional smallpox pandemic that affected indigenous populations from approximately 1525 to 1548. The disease spread through the maritime trade and military networks linking the colonies, island communities, and the interior of Abyala. Guajicutea suffered particularly severe losses, with approximately thirty percent of its population dying by 1538. The Aruanãyára Empire was also heavily affected, losing an estimated thirty to forty percent of its population.
 
 The epidemic weakened indigenous political systems, disrupted agriculture and trade, and reduced resistance to colonial expansion. Guled's administration did not necessarily initiate the spread of the disease, but Lacashe's ships, trade routes, military movements, and mission network formed part of the system through which it travelled. Later historians have treated this period as one in which Burawi expansion benefited from an epidemic catastrophe among the indigenous population.
 
