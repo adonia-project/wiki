@@ -1,7 +1,11 @@
 {{Short description|Sanese cruise ferry}}
 {{Infobox ship
 | display_title = none
-| section1 = {{Infobox ship/career
+| section1 = {{Infobox ship/image
+ | image = Aozora Maru at sea.png
+ | image_caption = The ''Aozora Maru'' at sea in Himawari Ferry colours
+}}
+| section2 = {{Infobox ship/career
  | country = Okaiken
  | name = ''Aozora Maru''
  | owner = Aozora Kisen
@@ -13,7 +17,7 @@
  | in_service = April 2014
  | status = Under repair at [[Alwana]]; damages claim pending before the [[Adonian Court of Justice]]
 }}
-| section2 = {{Infobox ship/characteristics
+| section3 = {{Infobox ship/characteristics
  | type = Ro-ro cruise ferry
  | tonnage = 11,940 GT
  | length = 170.5 m
@@ -27,25 +31,36 @@
 '''''Aozora Maru''''' ({{Nihongo||青空丸|Aozora Maru|lit. "blue sky"}}) is a [[Sanese people|Sanese]]-flagged [[roll-on/roll-off]] cruise ferry operated by Aozora Kisen ({{lang|ja|青空汽船}}) on the overnight '''Himawari''' line between [[Mie]], the port capital of [[Mie Prefecture]] serving the [[Toyozawa]] metropolitan area, and [[Niihama]] in [[Tokuyama Prefecture]]. She ran the longest domestic overnight ferry route in Okaiken until 2026, when she was chartered to the [[Adonian Community]] for the refugee evacuation in the [[Pfein Sea]] during the [[Wolffrean War]]. On 16 October 2026 she was struck by shells from Bonandian shore artillery off [[Mabanda]]; three of her crew were wounded by shrapnel. The government of Okaiken has paid compensation to the wounded seamen and is pursuing recovery of the sums from [[Bonande]] before the [[Adonian Court of Justice]].
 
 == Design and construction ==
+[[File:Aozora Maru funnel emblem.png|thumb|right|250px|The funnel carries the line's sunflower emblem]]
 Aozora Kisen ordered the ship in 2011 as the lead vessel of a three-ship class intended to replace its ageing tonnage on the Mie–Niihama overnight service and to relaunch the route under the Himawari brand. She was built by Kudamatsu Shipbuilding at its yard on the Tokuyama coast — the same shipyard belt that had fitted out much of the line's earlier fleet — launched in 2013 and delivered in March 2014. Her sisters ''Hoshizora Maru'' ({{lang|ja|星空丸}}) and ''Yozora Maru'' ({{lang|ja|夜空丸}}) followed in 2015 and 2017, completing what Aozora Kisen marketed as the "sky class".
+
+[[File:Aozora Maru atrium.png|thumb|left|250px|The two-deck atrium and restaurant level]]
 
 The class was designed around the economics of an overnight freight-and-passenger crossing: a full-length trailer deck and a lower vehicle deck give drive-through loading for up to 130 freight trailers and 60 cars, while passenger accommodation for 720 sits above in a white superstructure carried on a deep blue hull. Public spaces follow the cruise-ferry pattern — a two-deck atrium, restaurants and lounges, a range of cabin grades from suites to tourist berths, and a forward observation bath whose windows look down the ship's wake. The funnel carries the line's sunflower emblem, from which the Himawari name is taken.
 
 == Himawari line service ==
 {{main|Himawari Ferry}}
+[[File:Aozora Maru at Mie.png|thumb|right|250px|Trucks boarding at the Mie ferry terminal at dusk]]
 The Himawari line is the overnight "blue highway" between Okaiken's two largest metropolitan spheres. From the Mie ferry terminal, some forty minutes by rail from [[Toyozawa Central Station]], the sailing runs roughly 700 kilometres: north across the [[Katsuran Sea]], through the [[Suzuka Strait]] into the [[Sea of Mitoyagi]], along the eastern coast of [[Harujima]], and finally around the island's northern headland into the [[Shendan Ocean]] and down the Tokuyama coast to Niihama. The crossing takes just under fourteen hours, departing each evening and arriving early the following morning, with the sister ships maintaining a nightly sailing in each direction.
 
+[[File:Aozora Maru observation bath.png|thumb|left|250px|The forward observation bath looks down the ship's wake]]
+
 The route survives alongside the [[Harujima Shinkansen]] by carrying what the railway cannot. The Shinkansen takes the daytime business traffic between the metropolises; the Himawari takes freight trailers that would otherwise lose a working day to the motorways, families with their cars, and a leisure trade that treats the ship itself as the first night of the holiday. Freight revenue underwrites passenger fares that undercut the express trains, and the line's December–January peak — the austral summer holiday season — regularly sails full. Regulars include the trucking firms of the Mie Industrial Zone, for whom the overnight sailing turns a two-day road round trip into one.
+
+[[File:Aozora Maru night departure.png|thumb|right|250px|Evening departure from Mie; the sisters maintain a nightly sailing in each direction]]
 
 Her chartered absence from 2026 left the sisters running a reduced single-ship schedule; Aozora Kisen has said the ship will return to the route once repairs and survey are complete.
 
 == Charter to the Adonian Community ==
+[[File:Himawari Ferry poster.png|thumb|left|220px|Aozora Kisen's "blue highway" advertising for the Himawari line]]
 In the summer of 2026, with the [[Wolffrean refugee crisis]] overwhelming the coastal ports of [[Alwana]], the Adonian Community called for commercial ro-ro tonnage for the Pfein Sea sealift. Aozora Kisen tendered the ''Aozora Maru'', and she was time-chartered to the Community in July 2026, sailing for Alwana in August with her Sanese crew retained under the charter terms. Her drive-through vehicle decks made her well suited to mass embarkation: refugees could be loaded on foot through the bow doors in a fraction of the time a conventional passenger ship spent alongside, and her lower vehicle deck carried relief vehicles and stores on the return legs.
 
 She remained Sanese-flagged and Sanese-crewed throughout the charter, one of a small number of national-flag merchant hulls on the Alwana–Mabanda corridor when the October escalation began.
 
 == Attack ==
 {{Main|October 2026 Diet debate on the Wolffrean War}}
+[[File:Aozora Maru damaged at Alwana.png|thumb|right|250px|Under survey at Alwana, showing shell damage to the bow plating]]
+
 
 At midday on 16 October 2026, Bonandian shore artillery batteries stationed around occupied Mabanda opened fire on maritime traffic in the corridor. The ''Aozora Maru'', outbound with evacuees, was struck by at least two shells; the impacts wrecked a section of the vehicle deck and ruptured hull plating above the waterline, and shrapnel wounded three members of her Sanese crew. No evacuees were killed. The wounded seamen were stabilized aboard and transferred the same day to an Alwani field hospital in [[Alwana]], where they remained under treatment through the end of October.
 
