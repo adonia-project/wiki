@@ -5,7 +5,7 @@
 ## Source Material
 Compiled from references across the wiki:
 - Medieval History of Burawa (founding, Christianisation, political role, monastic schools, architecture)
-- Imperial History of Burawa (Laanta Boqorka, colonial expansion, Christianisation of north)
+- Imperial History of Burawa (Lanta Boqorka, colonial expansion, Christianisation of north)
 - Late Colonial History of Burawa (Church-Galwa alliance, Weli Markos, anti-slavery, 1709 succession)
 - Four House Era (House of the Church, Cardinal Petros III, Constitution of 1743)
 - Constitutional Era of Burawa (secularisation, citizenship extension)
@@ -17,7 +17,7 @@ Compiled from references across the wiki:
 - Province of Lacashe article (colonial bishopric, Lacashe schism 1789)
 - Kijura article (official religion, 70%)
 - Housing in Burawa article (monasterial housing, Church properties)
-- Hoggaanka system article (Church approval for Hoga removal)
+- Hoganka system article (Church approval for Hoga removal)
 - Great Disappointment article (Church framed Fosian presence as spiritual challenge)
 
 ## User Answers (2026-08-07)
@@ -92,7 +92,7 @@ Total estimated membership: ~115,000,000 (user-provided estimate)
 
 ### Monastic Orders
 1. **Order of Saint Guled** — oldest Burawi monastic order, founded c. 750, contemplative and scholarly, manuscript preservation, theological scholarship, produced "On the Dignity of All Peoples" (1700), scriptoria, moderate asceticism, intellectual tradition
-2. **Order of the Holy Apostles** — founded c. 680s at Kaysoor, liturgical and contemplative, associated with Cathedral of the Holy Apostles, liturgical music tradition, pastoral and sacramental ministry
+2. **Order of the Holy Apostles** — founded c. 680s at Kaysor, liturgical and contemplative, associated with Cathedral of the Holy Apostles, liturgical music tradition, pastoral and sacramental ministry
 3. **Bartay Society** (1611) — fraternal order modelled on Jesuits, evangelisation/education/charity, extensive school network
 
 ### Saints
@@ -125,7 +125,7 @@ Total estimated membership: ~115,000,000 (user-provided estimate)
 8. How many adherents does the BCC have worldwide?
 9. What is the relationship between the BCC and the state in modern Burawa (25% adherence)?
 10. What other religions are practiced in Burawa (the remaining 75%)?
-11. Details about the Cathedral of the Holy Apostles at Kaysoor — when was it built, what happened to it?
+11. Details about the Cathedral of the Holy Apostles at Kaysor — when was it built, what happened to it?
 12. The colonial bishopric in Lacashe — who was the first bishop? What was the hierarchy?
 13. How does the BCC relate to indigenous religious traditions (Waaq, Ndogalu) in areas where it operates?
 14. Are there any BCC martyrs or persecution events?

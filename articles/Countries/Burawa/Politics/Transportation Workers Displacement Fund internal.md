@@ -52,7 +52,7 @@
 - **Iacob Naq** (PM, Socialist Party): Endorsed on behalf of governing coalition
 - **Liban Qaasim** (Industrial Party chairman): Led opposition, proposed retraining amendment
 - **Cabdullahi Rooble** (Communist Party, Badalga): Argued 4-year threshold too restrictive, proposed eliminating it
-- **Hancil Thea** (National Party, Dhulsarren): Proposed supermajority requirement for future amendments
+- **Hancil Thea** (National Party, Dhulsaren): Proposed supermajority requirement for future amendments
 - **Giorgis Nuur** (CSU): Supported on Catholic social teaching grounds (solidarity, employer obligation)
 
 ### Context

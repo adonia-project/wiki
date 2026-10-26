@@ -62,11 +62,11 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Sagoga]] || 1,456,234 || [[Dafar]] || [[Sago-Dare Metropolitan Administration|Sago-Dare]]
 |-
-| [[Galbeed]] || 987,654 || [[Kankadadka-Samara Megalopolis]] || [[Kankadadka Capital Region]]
+| [[Galbed]] || 987,654 || [[Kankadadka-Samara Megalopolis]] || [[Kankadadka Capital Region]]
 |-
 | [[Kankadadka]] || 815,540 || [[Kankadadka-Samara Megalopolis]] || [[Kankadadka Capital Region]]
 |-
-| [[Hooyal]] || 1,187,345 || [[Dafar]] || [[Sago-Dare Metropolitan Administration|Sago-Dare]]
+| [[Hoyal]] || 1,187,345 || [[Dafar]] || [[Sago-Dare Metropolitan Administration|Sago-Dare]]
 |-
 | [[Haradaga]] || 612,345 || [[Central Burawa]] || Independent
 |-
@@ -74,7 +74,7 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Ufyen]] || 987,456 || [[Lake Haro (Region)|Lake Haro]] || Independent
 |-
-| [[Dhulsarga]] || 823,456 || [[Dhulsarren]] || Independent
+| [[Dhulsarga]] || 823,456 || [[Dhulsaren]] || Independent
 |-
 | [[Guriceel]] || 823,456 || [[Iskhal Megalopolis]] || Independent
 |-
@@ -86,7 +86,7 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Jilib]] || 723,456 || [[Central Coast]] || Independent
 |-
-| [[Buurdhuubo]] || 634,789 || [[Dhulsarren]] || Independent
+| [[Burdhubo]] || 634,789 || [[Dhulsaren]] || Independent
 |-
 | [[Dimarga]] || 756,432 || [[Dimar]] || Independent
 |-
@@ -116,7 +116,7 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Beledweyne]] || 530,767 || [[Iskhal Megalopolis]] || Independent
 |-
-| [[Buurta]] || 892,123 || [[Dafar]] || [[Sago-Dare Metropolitan Administration|Sago-Dare]]
+| [[Burta]] || 892,123 || [[Dafar]] || [[Sago-Dare Metropolitan Administration|Sago-Dare]]
 |-
 | [[Xarunta]] || 756,891 || [[Dafar]] || [[Sago-Dare Metropolitan Administration|Sago-Dare]]
 |-
@@ -150,25 +150,25 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Saakow]] || 138,712 || [[Dimar]] || Independent
 |-
-| [[Caynabo]] || 523,456 || [[Dhulsarren]] || Independent
+| [[Caynabo]] || 523,456 || [[Dhulsaren]] || Independent
 |-
-| [[Gaalkacyo]] || 478,234 || [[Dhulsarren]] || Independent
+| [[Gaalkacyo]] || 478,234 || [[Dhulsaren]] || Independent
 |-
-| [[Hobyo]] || 412,345 || [[Dhulsarren]] || Independent
+| [[Hobyo]] || 412,345 || [[Dhulsaren]] || Independent
 |-
-| [[Xingalool]] || 389,678 || [[Dhulsarren]] || Independent
+| [[Xingalool]] || 389,678 || [[Dhulsaren]] || Independent
 |-
-| [[Dhuusamareeb]] || 345,123 || [[Dhulsarren]] || Independent
+| [[Dhuusamareeb]] || 345,123 || [[Dhulsaren]] || Independent
 |-
-| [[Ceelgaab]] || 312,891 || [[Dhulsarren]] || Independent
+| [[Ceelgaab]] || 312,891 || [[Dhulsaren]] || Independent
 |-
-| [[Waraabe]] || 289,456 || [[Dhulsarren]] || Independent
+| [[Waraabe]] || 289,456 || [[Dhulsaren]] || Independent
 |-
-| [[Bishara]] || 267,345 || [[Dhulsarren]] || Independent
+| [[Bishara]] || 267,345 || [[Dhulsaren]] || Independent
 |-
-| [[Pawl]] || 234,567 || [[Dhulsarren]] || Independent
+| [[Pawl]] || 234,567 || [[Dhulsaren]] || Independent
 |-
-| [[Idri]] || 288,774 || [[Dhulsarren]] || Independent
+| [[Idri]] || 288,774 || [[Dhulsaren]] || Independent
 |-
 | [[Ceerigaabo]] || 456,123 || [[Western Coast]] || Independent
 |-
@@ -194,7 +194,7 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Caddo]] || 378,923 || [[Western Coast]] || [[Farada Metropolitan Administration|Farada]]
 |-
-| [[Buuran]] || 342,456 || [[Western Coast]] || [[Farada Metropolitan Administration|Farada]]
+| [[Buran]] || 342,456 || [[Western Coast]] || [[Farada Metropolitan Administration|Farada]]
 |-
 | [[Dhinowda]] || 312,187 || [[Western Coast]] || [[Farada Metropolitan Administration|Farada]]
 |-
@@ -236,7 +236,7 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Sheekh]] || 312,456 || [[Waaq Region]] || Independent
 |-
-| [[Buurta Sare]] || 267,891 || [[Waaq Region]] || Independent
+| [[Burta Sare]] || 267,891 || [[Waaq Region]] || Independent
 |-
 | [[Cirka]] || 196,201 || [[Waaq Region]] || Independent
 |-
@@ -272,7 +272,7 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Qaboobe]] || 456,234 || [[Kankadadka-Samara Megalopolis]] || [[Kankadadka Capital Region]]
 |-
-| [[Daarta]] || 412,567 || [[Kankadadka-Samara Megalopolis]] || [[Kankadadka Capital Region]]
+| [[Darta]] || 412,567 || [[Kankadadka-Samara Megalopolis]] || [[Kankadadka Capital Region]]
 |-
 | [[Saylac]] || 378,923 || [[Kankadadka-Samara Megalopolis]] || [[Kankadadka Capital Region]]
 |-
@@ -282,7 +282,7 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Golweyn]] || 487,234 || [[Kankadadka-Samara Megalopolis]] || Independent
 |-
-| [[Kaysoor]] || 612,345 || [[Central Coast]] || Independent
+| [[Kaysor]] || 612,345 || [[Central Coast]] || Independent
 |-
 | [[Kismayo]] || 534,891 || [[Central Coast]] || Independent
 |-
@@ -304,13 +304,13 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Qandala]] || 445,234 || [[Buran River Valley]] || [[Greater Lanwaley Metropolitan Administration|Greater Lanwaley]]
 |-
-| [[Laasqoray]] || 1,234,567 || [[Buran River Valley]] || [[Buran River Valley Metropolitan Administration|Buran River Valley]]
+| [[Lasqoray]] || 1,234,567 || [[Buran River Valley]] || [[Buran River Valley Metropolitan Administration|Buran River Valley]]
 |-
 | [[Buranweyne]] || 756,432 || [[Buran River Valley]] || [[Buran River Valley Metropolitan Administration|Buran River Valley]]
 |-
 | [[Durdur]] || 623,187 || [[Buran River Valley]] || [[Buran River Valley Metropolitan Administration|Buran River Valley]]
 |-
-| [[Ceel Buur]] || 534,256 || [[Buran River Valley]] || [[Buran River Valley Metropolitan Administration|Buran River Valley]]
+| [[Ceel Bur]] || 534,256 || [[Buran River Valley]] || [[Buran River Valley Metropolitan Administration|Buran River Valley]]
 |-
 | [[Waajid]] || 467,891 || [[Buran River Valley]] || [[Buran River Valley Metropolitan Administration|Buran River Valley]]
 |-
@@ -372,7 +372,7 @@ Urban administrations function as city-level administrators, managing services a
 |-
 | [[Dhagaxley]] || 412,187 || [[Lake Haro (Region)|Lake Haro]] || [[Haro Metropolitan Administration|Haro]]
 |-
-| [[Buurhakaba]] || 434,891 || [[Lake Haro (Region)|Lake Haro]] || Independent
+| [[Burhakaba]] || 434,891 || [[Lake Haro (Region)|Lake Haro]] || Independent
 |-
 | [[Hudur]] || 367,234 || [[Lake Haro (Region)|Lake Haro]] || Independent
 |-
@@ -416,43 +416,43 @@ Rural administrations manage areas considered rural, with populations below 100,
 |-
 | [[Dafar Sare]] || 440,000 || [[Dafar]]
 |-
-| [[Dafar Hoose]] || 520,000 || [[Dafar]]
+| [[Dafar Hose]] || 520,000 || [[Dafar]]
 |-
 | [[Badweyn]] || 380,000 || [[Dafar]]
 |-
 | [[Dimar Bari]] || 380,000 || [[Dimar]]
 |-
-| [[Dimar Galbeed]] || 420,000 || [[Dimar]]
+| [[Dimar Galbed]] || 420,000 || [[Dimar]]
 |-
 | [[Qorraxley]] || 290,000 || [[Dimar]]
 |-
 | [[Roobley]] || 350,000 || [[Dimar]]
 |-
-| [[Hooyal Sare]] || 520,000 || [[Dhulsarren]]
+| [[Hoyal Sare]] || 520,000 || [[Dhulsaren]]
 |-
-| [[Hooyal Dhexe]] || 610,000 || [[Dhulsarren]]
+| [[Hoyal Dhexe]] || 610,000 || [[Dhulsaren]]
 |-
-| [[Hooyal Hoose]] || 580,000 || [[Dhulsarren]]
+| [[Hoyal Hose]] || 580,000 || [[Dhulsaren]]
 |-
-| [[Buuraha]] || 340,000 || [[Dhulsarren]]
+| [[Buraha]] || 340,000 || [[Dhulsaren]]
 |-
-| [[Dooxo]] || 470,000 || [[Dhulsarren]]
+| [[Dooxo]] || 470,000 || [[Dhulsaren]]
 |-
-| [[Geedweyne]] || 390,000 || [[Dhulsarren]]
+| [[Geedweyne]] || 390,000 || [[Dhulsaren]]
 |-
-| [[Warsame]] || 450,000 || [[Dhulsarren]]
+| [[Warsame]] || 450,000 || [[Dhulsaren]]
 |-
-| [[Xeebta Galbeed]] || 540,000 || [[Western Coast]]
+| [[Xeebta Galbed]] || 540,000 || [[Western Coast]]
 |-
 | [[Gees]] || 480,000 || [[Western Coast]]
 |-
 | [[Cadale]] || 400,000 || [[Western Coast]]
 |-
-| [[Buurweyne]] || 185,000 || [[Waaq Region]]
+| [[Burweyne]] || 185,000 || [[Waaq Region]]
 |-
-| [[Harada Waqooyi]] || 420,000 || [[Central Burawa]]
+| [[Harada Waqoyi]] || 420,000 || [[Central Burawa]]
 |-
-| [[Harada Koonfur]] || 480,000 || [[Central Burawa]]
+| [[Harada Konfur]] || 480,000 || [[Central Burawa]]
 |-
 | [[Biyo Cas]] || 350,000 || [[Central Burawa]]
 |-
@@ -478,7 +478,7 @@ Rural administrations manage areas considered rural, with populations below 100,
 |-
 | [[Haro Bari]] || 580,000 || [[Lake Haro (Region)|Lake Haro]]
 |-
-| [[Haro Galbeed]] || 620,000 || [[Lake Haro (Region)|Lake Haro]]
+| [[Haro Galbed]] || 620,000 || [[Lake Haro (Region)|Lake Haro]]
 |-
 | [[Greater Khar]] || 890,000 || [[Lake Haro (Region)|Lake Haro]]
 |}

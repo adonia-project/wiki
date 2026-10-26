@@ -14,8 +14,8 @@
   - Led to small changes every year
   - Added more diversity of cars
 - **"Fleet of the future"**: The first fleet of new vehicles released under the yearly cycle programme
-  - BMC Hooyo (hatchback, 1985) — first vehicle of the programme
-  - BMC Aabbe (station wagon, 1988)
+  - BMC Hoyo (hatchback, 1985) — first vehicle of the programme
+  - BMC Abe (station wagon, 1988)
   - BMC Wiyar (mid-size sedan, 1988) — replaced BMC 20
   - BMC Badalga (minibus, 1988)
   - BMC Khar (minivan, 1990)
@@ -40,10 +40,10 @@
 
 ## Open Questions
 1. Does the BMC 20 need its own article?
-2. Does the BMC Hooyo, Aabbe, Khar, or Jowhar need its own article?
+2. Does the BMC Hoyo, Abe, Khar, or Jowhar need its own article?
 3. Does the "Fleet of the future" programme need its own article (currently linked as `[[Fleet of the future (BMC)]]`)?
 4. Does the Burawi Motor Company need its own company article?
-5. What do Hooyo and Aabbe mean in Burawi? (Badalga, Jowhar, Khar are cities; Wiyar = "young man")
+5. What do Hoyo and Abe mean in Burawi? (Badalga, Jowhar, Khar are cities; Wiyar = "young man")
 6. Where is the Wiyar assembled? (Assumed Badalga — needs confirmation)
 7. What engine does the ICE Wiyar use? What battery/motor does the electric Wiyar use?
 8. When exactly was the BMC 20 introduced?

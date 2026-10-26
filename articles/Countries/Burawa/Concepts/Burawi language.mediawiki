@@ -12,7 +12,7 @@
 | fam2        = Burawi
 | script      = [[Mesogean script]] (Burawi alphabet)
 | nation      = [[Burawa]]
-| agency      = [[Ministry of Education and Culture (Burawa)|Ministry of Education and Culture]] (''Wasaaradda Waxbarashada iyo Dhaqanka'')
+| agency      = [[Ministry of Education and Culture (Burawa)|Ministry of Education and Culture]] (''Wasarada Waxbarashada iyo Dhaqanka'')
 | iso1        = bw
 | iso2        = bur
 | iso3        = bur
@@ -26,7 +26,7 @@
 Linguistically, Burawi is classified within the [[Burano-Ormaic languages|Burano-Ormaic]] family, closely related to the neighbouring [[Orma languages]]. However, it is unique for its complex lexical stratification: an ancient [[Mesogean language|Mesogean]] layer from historical trade, and a modern political layer derived from [[Darasian]] (Fosian) and [[Volisanian language|Volisanian]] sources.
 
 == Phonology ==
-Burawi has 28 consonant phonemes and 5 vowel qualities with phonemic length distinctions. Its phonology is notable for retaining pharyngeal consonants characteristic of the [[Burano-Ormaic languages|Burano-Ormaic]] family while incorporating ejective consonants from the [[Orma languages|Orma]] branch and additional sounds from [[Mesogean language|Mesogean]] and [[Volisanian language|Volisanian]] contact.
+Burawi has 28 consonant phonemes and 5 vowel qualities. Older stages of the language additionally distinguished phonemic vowel length, which the modern orthography no longer writes. Its phonology is notable for retaining pharyngeal consonants characteristic of the [[Burano-Ormaic languages|Burano-Ormaic]] family while incorporating ejective consonants from the [[Orma languages|Orma]] branch and additional sounds from [[Mesogean language|Mesogean]] and [[Volisanian language|Volisanian]] contact.
 
 === Consonants ===
 {| class="wikitable" style="text-align:center"
@@ -71,7 +71,7 @@ Burawi has 28 consonant phonemes and 5 vowel qualities with phonemic length dist
 * Ejective consonants are indicated by an apostrophe (e.g., ⟨k'⟩).
 
 === Vowels ===
-Burawi features a five-vowel system, with each vowel having a short and long counterpart. Vowel length is phonemic and can distinguish meaning.
+Burawi features a five-vowel system: '''a, e, i, o, u'''. Older stages of the language distinguished a short and a long counterpart for each vowel, and vowel length was phonemic, written with double letters (''aa, ee, ii, oo, uu''). Between the 15th and 16th centuries the double spellings merged to single letters, and every vowel has been written singly since. Vowel length survives in speech — most consistently in the Classical register and in conservative Western varieties — but it is no longer marked in writing, and the colloquial language has neutralized length in all but a few grammatical morphemes.
 
 {| class="wikitable" style="text-align:center"
 ! 
@@ -80,13 +80,13 @@ Burawi features a five-vowel system, with each vowel having a short and long cou
 ! Back
 |-
 ! Close
-| i ii || || u uu
+| i || || u
 |-
 ! Mid
-| e ee || || o oo
+| e || || o
 |-
 ! Open
-| || a aa ||
+| || a ||
 |}
 
 === Phonotactics ===
@@ -96,6 +96,8 @@ The syllable structure is generally '''(C)V(C)'''. Native roots do not permit in
 Burawi employs a grammatical tone system typical of the [[Burano-Ormaic languages|Burano-Ormaic]] family, distinguishing gender and case through high and low tones. In [[Mesogean]] loanwords, a stress-accent system is superimposed, typically stressing the penultimate syllable.
 
 === Diachronic changes ===
+
+Between the 15th and 16th centuries, the double-vowel spellings of the Classical language (''aa, ee, ii, oo, uu'') merged to single letters. The merger was complete by the close of the 16th century, and the single-vowel spelling has been the standard orthography since. The Classical register retains the historical double spellings. Among proper names, personal names conventionally preserve their etymological spellings regardless of the merger, while the names of places, institutions, and government bodies follow the modern single-vowel orthography.
 
 Between the 16th and 19th centuries, Burawi underwent a series of phonological changes collectively designated the '''Modern Shift''' (''Beddelka Casriga''). The shift was driven by the language's expanding function as a trade [[lingua franca]], colonial administrative medium, and common speech across the linguistically diverse territories of the [[Kingdom of Burawa|Burawi Empire]]. As non-native populations adopted Burawi for commerce and governance, the language underwent systematic simplification comparable to the evolution of [[Mesogean language|Classical Mesogean]] into the modern [[Volisanian language|Volisanian]] and [[Berona|Beron]] vernaculars.
 
@@ -138,15 +140,16 @@ Modern Burawi exhibits a well-defined register system:
 ! Usage
 ! Features
 |-
-| '''Classical''' || ''Af-Burawi Hore'' || Liturgy, poetry, legal texts || Full Mesogean endings, long vowels, strict SOV
+| '''Classical''' || ''Af-Burawi Hore'' || Liturgy, poetry, legal texts || Full Mesogean endings, double-vowel spellings, strict SOV
 |-
-| '''Formal Modern''' || ''Af-Burawi Casri'' || Government, education, media || Shortened vowels, fused articles, SOV
+| '''Formal Modern''' || ''Af-Burawi Casri'' || Government, education, media || Single-vowel orthography, fused articles, SOV
 |-
-| '''Colloquial''' || ''Af-Burawi Caadi'' || Everyday speech || Maximum contraction, syllable elision, SVO drift
+| '''Colloquial''' || ''Af-Burawi Cadi'' || Everyday speech || Maximum contraction, syllable elision, SVO drift
 |}
 
 == Writing System ==
 The Burawi language is written in the '''[[Mesogean script]]'''. The alphabet consists of 26 standard letters plus the apostrophe for ejectives.
+The modern orthography writes each vowel with a single letter; the historical double-vowel spellings survive in the Classical register and in personal names, which conventionally preserve their etymological spellings. The names of places, institutions, and government bodies are written with single vowels. Doubled consonants, which mark distinct phonemes such as /dd/ and /ll/, are unaffected.
 
 {| class="wikitable"
 ! Letter !! IPA !! Name
@@ -228,13 +231,15 @@ Nouns in Burawi are marked for gender (masculine or feminine), number, and case.
 === Syntax ===
 The sentence structure is strictly SOV. A unique feature of Burawi is the mandatory use of focus particles to indicate the topic or emphasis of the sentence.
 
-* '''baa''': Marks the noun phrase immediately preceding it as the focus.
-* '''waa''': Marks the verb phrase or predicate as the focus.
-* '''ayaa''': Emphasizes the object or a specific noun phrase.
+* '''ba''': Marks the noun phrase immediately preceding it as the focus.
+* '''wa''': Marks the verb phrase or predicate as the focus.
+* '''aya''': Emphasizes the object or a specific noun phrase.
+
+The Classical forms of the focus particles are ''baa'', ''waa'', and ''ayaa''; the modern spellings drop the doubled vowel.
 
 Example:
-* ''Nin-ka '''baa''' yimid.'' ("The '''man''' came.")
-* ''Nin-ku '''waa''' yimid.'' ("The man '''came'''.")
+* ''Nin-ka '''ba''' yimid.'' ("The '''man''' came.")
+* ''Nin-ku '''wa''' yimid.'' ("The man '''came'''.")
 
 === Pronouns ===
 Pronouns distinguish between subject and object forms, and include emphatic sets.
@@ -242,11 +247,11 @@ Pronouns distinguish between subject and object forms, and include emphatic sets
 {| class="wikitable"
 ! Person !! Subject (Clitic) !! Object (Clitic) !! Independent (Emphatic)
 |-
-| '''1st Sg''' || ''aan'' || ''i'' || ''Aniga''
+| '''1st Sg''' || ''an'' || ''i'' || ''Aniga''
 |-
-| '''2nd Sg''' || ''aad'' || ''ku'' || ''Adiga''
+| '''2nd Sg''' || ''ad'' || ''ku'' || ''Adiga''
 |-
-| '''3rd Masc''' || ''uu'' || ''u'' || ''Isaga''
+| '''3rd Masc''' || ''u'' || ''u'' || ''Isaga''
 |-
 | '''3rd Fem''' || ''ay'' || ''u'' || ''Iyada''
 |}
@@ -267,7 +272,7 @@ The lexicon of Burawi is a fusion of native [[Burano-Ormaic languages|Burano-Orm
 |-
 | '''Comrade''' || ''Tonji'' || ''Jaalle'' || -- || ''Tóngzhì'' || ''Camarada''
 |-
-| '''Republic''' || ''Rebuublik'' || -- || ''Res Publica'' || -- || ''República''
+| '''Republic''' || ''Rebublik'' || -- || ''Res Publica'' || -- || ''República''
 |-
 | '''Sky''' || ''Cir'' || ''Cir'' || ''Caelum'' || -- || ''Cel''
 |}
@@ -275,6 +280,10 @@ The lexicon of Burawi is a fusion of native [[Burano-Ormaic languages|Burano-Orm
 == Example Text ==
 '''Article 1 of the [[Declaration of Universal Rights]]'''
 
+'''Modern Burawi:'''
+<blockquote>''Omni hom-us wa xor dhal-an, o dign-itas iyo xuquq-ba wa sim-an. Waxa la siy-ay rati-o iyo damiir, wana inay ku dhaqm-an midk-od walal-nimo.''</blockquote>
+
+'''Classical Burawi:'''
 <blockquote>''Omni hom-us waa xor dhal-an, oo dign-itas iyo xuquuq-ba waa sim-an. Waxaa la siiy-ay rati-o iyo damiir, waana inay ku dhaqm-aan midk-ood walaal-nimo.''</blockquote>
 
 '''Literal Translation:'''
@@ -309,7 +318,7 @@ For speakers of [[Mercian]], Burawi phonology presents unique challenges, partic
 |-
 | '''Hello''' || ''Nabad'' || ''Nabad'' || "Na-bad"
 |-
-| '''My name is...''' || ''Magacaygu waa...'' || ''Magacaygu waa...'' || "Ma-ga-eye-goo wah..."
+| '''My name is...''' || ''Magacaygu wa...'' || ''Magacaygu waa...'' || "Ma-ga-eye-goo wah..."
 |-
 | '''Where is...?''' || ''Xaway...?'' || ''Xaway...?'' || "Ha-way..."
 |-
@@ -321,7 +330,7 @@ For speakers of [[Mercian]], Burawi phonology presents unique challenges, partic
 |-
 | '''The book''' || ''Libre'' || ''Liber-us'' || "Lee-breh"
 |-
-| '''Long live the Republic''' || ''Noolada Rebublik'' || ''Noolaada Rebuublik'' || "No-lah-da Re-bub-lik"
+| '''Long live the Republic''' || ''Nolada Rebublik'' || ''Noolaada Rebuublik'' || "No-la-da Re-bub-lik"
 |}
 
 {{Navbox Southwestern Kaftia}}

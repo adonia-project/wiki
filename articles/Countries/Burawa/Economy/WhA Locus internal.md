@@ -7,7 +7,7 @@
 
 ## Key Facts (from user)
 - **Name**: WhA Locus
-- **Designer**: Wasaaradda Hal-abuurka (WhA) — Ministry of Innovation in Burawi
+- **Designer**: Wasarada Hal-aburka (WhA) — Ministry of Innovation in Burawi
 - **Manufacturer**: Burawi Motor Company (BMC) — state-owned automotive manufacturer
 - **Assembly**: BMC Khar Plant 11, Khar
 - **Type**: 4-door autonomous electric SUV / Mini MPV
@@ -24,7 +24,7 @@
 - **Government order**: 10,000 units from Government of Burawa
 - **Purpose**: Robotaxi services nationwide
 - **Next rollout cities**: Kankadadka Capital Region, Badalga, Sago
-- **Controversy**: August 1 announcement met with protest by Ururka Shaqaalaha Taksiga ee Ugu Weyn (principal taxi workers' union)
+- **Controversy**: August 1 announcement met with protest by Ururka Shaqaalaha Taksiga e Ugu Weyn (principal taxi workers' union)
 
 ## Proposed Specs (agent-generated, pending user confirmation)
 - Wheelbase: 2,780 mm (109.4 in)
@@ -56,5 +56,5 @@
 - The controversy timeline: August 1 announcement → August 14 service start → taxi union protests
 - Political dynamics: National Party + CSU support taxi union; Socialist Party + Forward Party defend deployment
 - This is a significant technology policy achievement for the Ministry of Innovation, which has been without a minister since 2025 (position is vacant per Minister of Innovation article)
-- WhA = Wasaaradda Hal-abuurka (Burawi for "Ministry of Innovation")
-- Ururka Shaqaalaha Taksiga ee Ugu Weyn = "The Largest Taxi Workers' Union" (Burawi)
+- WhA = Wasarada Hal-aburka (Burawi for "Ministry of Innovation")
+- Ururka Shaqaalaha Taksiga e Ugu Weyn = "The Largest Taxi Workers' Union" (Burawi)
