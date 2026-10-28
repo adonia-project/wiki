@@ -1,0 +1,95 @@
+The '''districts of Lacashe''' are the first-level administrative divisions of the [[Lacashe|Republic of Lacashe]]. The country is divided into thirteen districts and the [[Guledga Capital District]], a separate administrative unit of the same status that contains the capital, [[Guledga]]. Each district is subdivided into municipalities and communes. {{As of|2026}} the fourteen units together hold a population of 9,853,423 over an area of 221,704 square kilometres.
+
+Six districts along the southwestern coast and in the southern interior bear names in the [[Burawi language]], given during the settlement of the colonial [[Province of Lacashe]]. The remaining eight, covering the northern and eastern interior, bear names derived from the {{W|Tapuya language}} and written in Burawi orthography; they preserve the toponymy of the [[Tapuya Confederacy]] country that preceded the colony.
+
+== Districts ==
+
+<!-- Image prompts: one locator map per district, following the same template — the district filled in red (#C12838) on a cream (#FDFBEA) map of Lacashe with surrounding land in cream and the Capuyaquiran Sea in light blue (#C7E7FB), district boundaries in thin black, generated from Districts of Lacashe.shp. Only the highlighted district changes between images. -->
+
+{| class="wikitable sortable"
+|-
+! Map !! Name !! data-sort-type="number" | Area (km²) !! data-sort-type="number" | Population (2026) !! data-sort-type="number" | Density (per km²) !! Capital
+|-
+| [[File:Guledga_Capital_District_of_Lacashe_locator.svg|150px]] || [[Guledga Capital District]] || 5,601 || 2,440,126 || 435.7 || [[Guledga]]
+|-
+| [[File:Webhose_of_Lacashe_locator.svg|150px]] || [[Webhose]] || 6,378 || 1,288,137 || 202.0 || [[Porto Vren]]
+|-
+| [[File:Dahabga_of_Lacashe_locator.svg|150px]] || [[Dahabga]] || 14,070 || 874,767 || 62.2 || [[Warqo]]
+|-
+| [[File:Dhuldhaxe_of_Lacashe_locator.svg|150px]] || [[Dhuldhaxe]] || 15,099 || 779,927 || 51.7 || [[Bakaar]]
+|-
+| [[File:Barwaqo_of_Lacashe_locator.svg|150px]] || [[Barwaqo]] || 6,656 || 644,884 || 96.9 || [[Cusub Tashir]]
+|-
+| [[File:Futalafu_of_Lacashe_locator.svg|150px]] || [[Futalafu]] || 30,202 || 557,610 || 18.5 || [[Rewo]]
+|-
+| [[File:Kurufa_of_Lacashe_locator.svg|150px]] || [[Kurufa]] || 19,287 || 528,099 || 27.4 || [[Namkuga]]
+|-
+| [[File:Antuga_of_Lacashe_locator.svg|150px]] || [[Antuga]] || 25,735 || 491,588 || 19.1 || [[Mazar Cusub]]
+|-
+| [[File:Buelko_of_Lacashe_locator.svg|150px]] || [[Buelko]] || 19,499 || 435,241 || 22.3 || [[Pillano]]
+|-
+| [[File:Duruful_of_Lacashe_locator.svg|150px]] || [[Duruful]] || 19,966 || 433,710 || 21.7 || [[Kalfo]]
+|-
+| [[File:Bikumko_of_Lacashe_locator.svg|150px]] || [[Bikumko]] || 18,374 || 397,826 || 21.7 || [[Wenuga]]
+|-
+| [[File:Geeso_of_Lacashe_locator.svg|150px]] || [[Geeso]] || 6,890 || 351,146 || 51.0 || [[Halgasa]]
+|-
+| [[File:Bishilemu_of_Lacashe_locator.svg|150px]] || [[Bishilemu]] || 13,055 || 334,788 || 25.6 || [[Karo]]
+|-
+| [[File:Mawidaga_of_Lacashe_locator.svg|150px]] || [[Mawidaga]] || 20,892 || 295,574 || 14.1 || [[Pangiga]]
+|}
+
+The table is ordered by population. The four coastal districts — the Guledga Capital District, Webhose, Barwaqo and Geeso — front the [[Capuyaquiran Sea]] along the southwestern shore. The eastern districts border [[Asikyira]], whose territory includes the former [[Libertalia]]; the western and northern districts border [[Tapuya]], and the far north adjoins [[Potocsí]].
+
+== Names ==
+
+The names of the southern districts were given by Burawi settlers in the sixteenth and seventeenth centuries. [[Guledga]] is named for [[Guled Badweyn]], the founder of the colony. [[Webhose]] combines ''webi'' ("river") and ''hose'' ("lower"), and names the country of the lower river. [[Barwaqo]] is the Burawi word for abundance. [[Geeso]], from ''gees'' ("corner"), names the southwestern corner of the country. [[Dhuldhaxe]] combines ''dhul'' ("land") and ''dhaxe'' ("middle"), the country between the coast and the mountains. [[Dahabga]] combines ''dahab'' ("gold") with the place suffix ''-ga'', and names the gold-bearing country annexed in the [[Lacashe-Asikyira War]].
+
+The names of the northern districts are Burawi renderings of toponyms in the {{W|Tapuya language}}, the speech of the [[Tapuya Confederacy]] that occupied the interior lowlands before the colonial conquest. The Tapuya population was reduced to a small remnant by the late eighteenth century, and the language survives in Lacashe principally in these place names.
+
+{| class="wikitable"
+|-
+! District !! Tapuya source !! Meaning
+|-
+| [[Bikumko]] || ''pikum'' + ''ko'' || "northern waters"
+|-
+| [[Mawidaga]] || ''mawida'' || "mountain", with the Burawi suffix ''-ga''
+|-
+| [[Futalafu]] || ''füta'' + ''leufü'' || "great river"
+|-
+| [[Bishilemu]] || ''pichi'' + ''lemu'' || "small forest"
+|-
+| [[Duruful]] || ''truful'' || "waterfall"
+|-
+| [[Kurufa]] || ''kürüf'' || "wind"
+|-
+| [[Antuga]] || ''antü'' || "sun", with the Burawi suffix ''-ga''
+|-
+| [[Buelko]] || ''puel'' + ''ko'' || "eastern waters"
+|}
+
+The renderings follow regular adaptations of Tapuya sounds to Burawi orthography: Tapuya ''p'' becomes Burawi ''b'', ''ü'' becomes ''u'', and ''tr'' becomes ''d''. Several names combine a Tapuya root with a Burawi suffix, the place suffixes ''-ga'' and ''-o''. The same toponymy appears in the dual name of the [[Matarrañya / Cañadapirén]], the mountain range that forms the interior boundary with Asikyira.
+
+== History ==
+
+The civil divisions of the colonial [[Province of Lacashe]] were administered from [[Guledga]] through magistracies, with the parishes of the [[Burawi Catholic Church]] providing the register of settlement. The districts of the independent republic, constituted after 1789, continued the boundaries of the colonial magistracies.
+
+The [[Lacashe-Asikyira War]] of 1838–1840 added approximately 5,000 square kilometres of gold-bearing mountain territory along the eastern border. The annexed territory lies within the present [[Dahabga]] District, whose name records the deposits.
+
+The [[Treaty of Guledga]] of 1856 transferred the eastern coastal strip to the new [[Libertalia|Free Republic of Libertalia]]. The districts of that strip ceased to form part of Lacashe. Libertalia united with [[Asikyira]] in 1889, and the former Libertalian territory now constitutes the eastern border of the Webhose and Dhuldhaxe districts.
+
+The present boundaries were drawn under the constitution of 1983, which retained the district as the unit of local administration and separated the capital into the [[Guledga Capital District]].
+
+== Government ==
+
+Each district is administered by a district council and a district administrator. Below the districts, administration is carried out by municipalities and communes. The [[National Assembly of Lacashe]] is elected in part through single-member constituencies drawn within the districts.
+
+== See also ==
+
+* [[Lacashe]]
+* [[Province of Lacashe]]
+* [[Guledga Capital District]]
+* [[Tapuya Confederacy]]
+* [[Lacashe-Asikyira War]]
+
+[[Category:Lacashe]][[Category:Subdivisions]]
