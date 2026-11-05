@@ -1,0 +1,252 @@
+{
+ "stats": {
+  "Amiera": {
+   "area_km2": 101662.0,
+   "lon": -93.32,
+   "lat": -5.07,
+   "lon_min": -94.8,
+   "lat_min": -7.0,
+   "lon_max": -91.6,
+   "lat_max": -2.3
+  },
+  "Balboa": {
+   "area_km2": 296063.0,
+   "lon": -92.78,
+   "lat": 4.67,
+   "lon_min": -95.5,
+   "lat_min": -2.1,
+   "lon_max": -90.1,
+   "lat_max": 9.2
+  },
+  "Etawa": {
+   "area_km2": 588942.0,
+   "lon": -92.86,
+   "lat": -11.09,
+   "lon_min": -96.9,
+   "lat_min": -16.6,
+   "lon_max": -89.3,
+   "lat_max": -6.1
+  },
+  "Kalanua": {
+   "area_km2": 2390324.0,
+   "lon": -52.04,
+   "lat": -60.04,
+   "lon_min": -71.6,
+   "lat_min": -71.6,
+   "lon_max": -36.0,
+   "lat_max": -45.2
+  },
+  "Kaneda": {
+   "area_km2": 1673260.0,
+   "lon": -134.51,
+   "lat": -48.64,
+   "lon_min": -151.4,
+   "lat_min": -55.6,
+   "lon_max": -121.7,
+   "lat_max": -38.9
+  },
+  "Kavik": {
+   "area_km2": 2417133.0,
+   "lon": -153.1,
+   "lat": -60.18,
+   "lon_min": -176.0,
+   "lat_min": -74.4,
+   "lon_max": -130.7,
+   "lat_max": -51.9
+  },
+  "Kawalidipa": {
+   "area_km2": 1508519.0,
+   "lon": -105.4,
+   "lat": -32.7,
+   "lon_min": -116.4,
+   "lat_min": -38.4,
+   "lon_max": -94.6,
+   "lat_max": -26.9
+  },
+  "Louyang": {
+   "area_km2": 9185089.0,
+   "lon": -123.81,
+   "lat": -20.08,
+   "lon_min": -154.6,
+   "lat_min": -32.1,
+   "lon_max": -95.2,
+   "lat_max": -6.2
+  },
+  "Markland": {
+   "area_km2": 2313378.0,
+   "lon": -90.15,
+   "lat": -58.73,
+   "lon_min": -117.1,
+   "lat_min": -70.0,
+   "lon_max": -63.7,
+   "lat_max": -49.9
+  },
+  "Mishko": {
+   "area_km2": 439724.0,
+   "lon": -117.62,
+   "lat": -40.79,
+   "lon_min": -123.4,
+   "lat_min": -44.7,
+   "lon_max": -112.1,
+   "lat_max": -37.0
+  },
+  "Nawat": {
+   "area_km2": 697385.0,
+   "lon": -100.22,
+   "lat": -24.93,
+   "lon_min": -106.0,
+   "lat_min": -30.1,
+   "lon_max": -94.0,
+   "lat_max": -18.4
+  },
+  "Neakyrena": {
+   "area_km2": 483153.0,
+   "lon": -86.65,
+   "lat": -51.02,
+   "lon_min": -94.8,
+   "lat_min": -54.9,
+   "lon_max": -78.6,
+   "lat_max": -46.7
+  },
+  "Nuuchi": {
+   "area_km2": 452603.0,
+   "lon": -100.39,
+   "lat": -37.53,
+   "lon_min": -108.7,
+   "lat_min": -42.0,
+   "lon_max": -94.4,
+   "lat_max": -32.8
+  },
+  "Sinchew": {
+   "area_km2": 2017722.0,
+   "lon": -104.53,
+   "lat": -6.07,
+   "lon_min": -119.4,
+   "lat_min": -11.0,
+   "lon_max": -93.1,
+   "lat_max": -0.7
+  },
+  "Tuvayo": {
+   "area_km2": 530802.0,
+   "lon": -110.75,
+   "lat": -41.76,
+   "lon_min": -116.1,
+   "lat_min": -47.6,
+   "lon_max": -104.8,
+   "lat_max": -35.8
+  },
+  "United Midlands": {
+   "area_km2": 2348969.0,
+   "lon": -88.34,
+   "lat": -24.9,
+   "lon_min": -97.2,
+   "lat_min": -32.7,
+   "lon_max": -76.9,
+   "lat_max": -14.9
+  },
+  "Winnipi": {
+   "area_km2": 7431406.0,
+   "lon": -114.17,
+   "lat": -55.12,
+   "lon_min": -161.7,
+   "lat_min": -83.2,
+   "lon_max": -72.8,
+   "lat_max": -29.7
+  }
+ },
+ "neighbors": {
+  "Amiera": [
+   "Etawa",
+   "Sinchew"
+  ],
+  "Balboa": [
+   "Sinchew"
+  ],
+  "Etawa": [
+   "Amiera",
+   "Louyang",
+   "Sinchew",
+   "United Midlands"
+  ],
+  "Kalanua": [],
+  "Kaneda": [
+   "Kavik",
+   "Mishko",
+   "Winnipi"
+  ],
+  "Kavik": [
+   "Kaneda",
+   "Winnipi"
+  ],
+  "Kawalidipa": [
+   "Louyang",
+   "Mishko",
+   "Nawat",
+   "Nuuchi",
+   "Tuvayo",
+   "United Midlands",
+   "Winnipi"
+  ],
+  "Louyang": [
+   "Etawa",
+   "Kawalidipa",
+   "Nawat",
+   "Sinchew",
+   "United Midlands"
+  ],
+  "Markland": [
+   "Neakyrena",
+   "Winnipi"
+  ],
+  "Mishko": [
+   "Kaneda",
+   "Kawalidipa",
+   "Tuvayo",
+   "Winnipi"
+  ],
+  "Nawat": [
+   "Kawalidipa",
+   "Louyang",
+   "United Midlands"
+  ],
+  "Neakyrena": [
+   "Markland",
+   "Winnipi"
+  ],
+  "Nuuchi": [
+   "Kawalidipa",
+   "Tuvayo",
+   "Winnipi"
+  ],
+  "Sinchew": [
+   "Amiera",
+   "Balboa",
+   "Etawa",
+   "Louyang"
+  ],
+  "Tuvayo": [
+   "Kawalidipa",
+   "Mishko",
+   "Nuuchi",
+   "Winnipi"
+  ],
+  "United Midlands": [
+   "Etawa",
+   "Kawalidipa",
+   "Louyang",
+   "Nawat",
+   "Winnipi"
+  ],
+  "Winnipi": [
+   "Kaneda",
+   "Kavik",
+   "Kawalidipa",
+   "Markland",
+   "Mishko",
+   "Neakyrena",
+   "Nuuchi",
+   "Tuvayo",
+   "United Midlands"
+  ]
+ }
+}
