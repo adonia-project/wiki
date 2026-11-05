@@ -1,0 +1,58 @@
+{{Short description|Continent in Northern Adonia}}
+{{Infobox continent
+| title          = Almuria
+| image          = Location of Almuria.svg
+| imagecaption   = Orthographic projection of Almuria (mainland highlighted)
+| area           = {{convert|3090880|km2|sqmi|abbr=on}} <small>(total)</small><br>{{convert|3055240|km2|sqmi|abbr=on}} <small>(mainland)</small>
+| population     = 53,736,708+ <small>(2025 est.)</small>
+| demonym        = Almurian
+| countries      = 2
+| list_countries = List of Almurian countries
+| languages      = [[Bayani language|Bayani]], indigenous languages
+| time            = [[UTC+8]] to [[UTC+10]]
+| internet        = [[.am]]
+}}
+
+'''Almuria''' is the smallest continent on [[Adonia]] by both area and number of sovereign states. Located in the northern hemisphere, it comprises two countries — [[Pakiak]] and [[Volistraya]] — and covers a total area of approximately {{convert|3090880|km2|sqmi}}, of which the contiguous mainland accounts for {{convert|3055240|km2|sqmi}}. As an island continent, Almuria does not share land borders with any other continent.
+
+== Etymology ==
+The name Almuria derives from the [[Muri people]], one of the major indigenous groups of the continent. The [[Bayani language|Bayani]] form ''bilād al-murriyya'' (بلاد المُرِّية) means "lands of the Muri."
+
+== Geography ==
+Almuria is a compact island continent surrounded by ocean on all sides. The mainland spans a range of climates from tropical coastal regions in the north to temperate and arid interior highlands. The continent's relatively isolated position has resulted in high levels of endemism among its flora and fauna.
+
+=== Climate ===
+The northern coast experiences a tropical climate with monsoon influence, while the interior is dominated by arid and semi-arid conditions. The southern coast is temperate with moderate rainfall.
+
+=== Geology ===
+Almuria sits on its own tectonic plate, contributing to its long geological isolation and unique biodiversity.
+
+=== Biodiversity ===
+Almuria's long isolation has produced distinctive wildlife, including the extinct [[Almurian elephant]] and numerous endemic plant species. Indigenous Almurian cultures developed sophisticated wildlife management practices, including controlled burns and forest seeding, in response to the extinction of megafauna.
+
+== History ==
+{{Main|History of Almuria}}
+
+Human populations settled in Almuria over 50,000 years ago, likely originating from modern-day [[Pasundan]] and island-hopping across the intervening archipelagos. Mostly isolated from the rest of Adonia, the indigenous peoples developed one of the oldest continuous cultures on the planet, living as semi-nomadic societies with rich traditions of storytelling, song, and the [[Alcherinqa (Religion)|Alcherinqa]] belief system.
+
+Contact between [[Bayani]] merchants and the indigenous population was established in the [[The Great Contact|13th century]], leading to extensive trade. The relationship shifted dramatically in the 18th century with the rise of the [[Guild of Almuria]] and the forced appropriation of indigenous lands. The [[Treaty of Dharuk]] (1784) formalized Bayani control, and the continent was integrated into broader Fosian and Kaftian trade networks.
+
+The 19th and 20th centuries saw rapid industrialization, particularly after the discovery of coal deposits, as well as significant political upheaval including the abolition of slavery and eventual revolution.
+
+== Countries ==
+{| class="sortable wikitable"
+|-
+! Flag !! Arms !! Name !! Area (km²) !! Population !! Population density (per km²) !! Capital !! Name(s) in official language(s)
+|-
+| {{flag|Pakiak}} || [[File:Coats of arms of None.svg|20px]] || [[Pakiak]] || 795,306 || 53,736,708 || 67.5 || [[Al-Bayda]] || بلاد المُرِّية, Bilād al-Murriyya
+|-
+| {{flag|Volistraya}} || [[File:Coats of arms of None.svg|20px]] || [[Volistraya]] || 2,284,129 || {{formatnum:2025}} || 0.00 || TBD || TBD
+|}
+
+== See also ==
+* [[Adonia]]
+* [[Continents of Adonia]]
+
+[[Category:Almuria]]
+[[Category:Continents of Adonia]]
+[[Category:Adonia]]

@@ -1,0 +1,24 @@
+﻿Welcome to TALOD! This page collects suggestions from the archivist desk (Takeru) to help Tabanan grow. Nothing here is mandatory — treat it as a menu, not a checklist.
+
+==What has been set up for you==
+* '''Crosswalk''' — Tabanan now occupies the northern slot on the continent of [[Almuria (continent)|Almuria]] (795,306 km²). The southern slot is the [[Pakiak|Republic of Pakiak]] (2,284,129 km²), an established country; the two share a land border along a mountain range whose name is still a placeholder.
+* '''GIS-locked facts''' — these come from the continental map data and are worth keeping stable: area 795,306 km²; mainland approximately 669,500 km² (about 84 percent of the territory) plus 15 offshore islands, the largest roughly 1,000 km²; coastline approximately 4,890 km; extent 132.5°E to 142.2°E, 10.2°N to 21.7°N. Capital and city placements can go anywhere within this envelope.
+* '''Location of Tabanan.svg''' — an orthographic globe map in the house style has been uploaded and placed in the infobox.
+* The continent article and the Adonian Community membership template now list Tabanan.
+
+==Recommended next steps==
+# '''Flag and coat of arms''' — upload ''Flag of Tabanan.svg'' and a seal. Once the flag exists, the {{tl|flag}} template can be wired to it so Tabanan renders with a flag icon in tables across the wiki (the archivist desk can do the wiring on request).
+# '''Name the border range''' — the Pakiak article refers to the border mountains as a placeholder. Naming the range (and adding it to both articles) ties the continent together.
+# '''Government''' — "Imperial State" implies a monarch. Consider adding the sovereign's title and name, the dynasty or line of succession, and the legislature. The five provinces, two territories, and the capital district each deserve at least a name and a capital.
+# '''History''' — the deep prehistory currently described on [[Almuria (continent)]] and [[Pakiak]] (50,000-year settlement, the Alcherinqa belief system) belongs to the southern country's canon. As an Austronesian nation, Tabanan is free to have its own settlement narrative — a later seafaring arrival would be consistent with Austronesian expansion patterns elsewhere on Adonia.
+# '''Economy''' — when ready, GDP (total and per capita), currency, and main exports slot straight into the infobox. For scale, neighboring Pakiak sits at I$24,532 per capita (PPP).
+# '''Time zone''' — the country spans 132.5°E to 142.2°E, which fits a single zone at [[UTC+9]].
+# '''First articles to create''' — [[Balete City]] (the infobox capital link points there), [[Paralaya]], [[Tabanese language]], and the province articles are the natural red links to fill.
+
+==House conventions==
+* Fictional-world names only in article prose — real-world countries and places stay out of the text (interwiki links like {{tl|w}} are fine for scientific terms such as language families).
+* Write in prose where possible; keep lists for tables and division rosters.
+* '''Northern hemisphere''' — Tabanan lies north of the equator, so seasons follow the ordinary calendar: warmest months mid-year, coolest around December and January.
+* Maps on demand — locator maps, province maps, and city maps can be generated from the continental GIS data; just leave a note on this page.
+
+Again, welcome aboard. The archivist desk is happy to generate maps, templates, or data extractions whenever needed. ~~~~
