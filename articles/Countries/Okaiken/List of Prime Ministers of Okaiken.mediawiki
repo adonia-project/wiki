@@ -369,7 +369,7 @@ The Prime Ministers under the [[Saito Constitution|Mitoyagi Constitution]] had a
 |- bgcolor=#EEEEEE
 !rowspan=2 style="background:#18a3b8;"| 12
 |rowspan=2|[[File:Takahiro Kinoshita.png|100px]]
-|rowspan=2|'''[[Takanibu Kinoshita]]'''<br/><span lang="ja"><span style="font-size:125%;">木下　隆信</span></span><br>{{small|''Kinoshita Takanibu''<br/>(1863-1925)}}
+|rowspan=2|'''[[Takanobu Kinoshita]]'''<br/><span lang="ja"><span style="font-size:125%;">木下 隆信</span></span><br>{{small|''Kinoshita Takanobu''<br/>(1863-1925)}}
 |21 November 1923
 |19 May 1925
 |{{age in days|1923|11|21|1925|5|19}}
@@ -1338,7 +1338,7 @@ PlotData=
   bar:Takahashi
     from: 01/08/1922 till: 21/11/1923 color:seiyukai text:"[[Takahashi Korekiyo]]"
   bar:Kinoshita
-    from: 21/11/1923 till: 19/05/1925 color:military text:"[[Takahiro Kinoshita]]"
+    from: 21/11/1923 till: 19/05/1925 color:military text:"[[Takanobu Kinoshita]]"
   bar:Ashikaga
     from: 06/10/1927 till: 24/05/1932 color:ind text:"[[Masaharu Ashikaga]]"
   bar:KatoT
