@@ -24,7 +24,7 @@ Each prefecture is governed by a directly elected governor and a unicameral legi
 ==History and the Han Transition==
 Unlike the sudden and forceful abolition of the {{nihongo|feudal domain system|廃藩置県|''haihan-chiken''}} seen in [[Nakamizu]] during the late 19th century, the establishment of Okaiken's prefectures was a slow, deliberate evolutionary process. 
 
-For centuries under the [[Honda Shogunate]], the Sanese archipelago was divided into deeply entrenched ''han'' (feudal domains), each ruled by a powerful daimyo who answered to the Shogun in [[Okami]]. During the [[Saito Restoration]] of 1871, the Imperial faction realized that abruptly dismantling these domains would ignite a devastating, prolonged civil war. Instead, Emperor Saito and his western advisors implemented a transitional framework heavily influenced by the political structures of [[Volisania]] or [[Briesland]].
+For centuries under the [[Honda Shogunate]], the Sanese archipelago was divided into deeply entrenched ''han'' (feudal domains), each ruled by a powerful daimyo who answered to the Shogun in [[Okami]]. During the [[Saito Restoration]] of 1871, the Imperial faction realized that abruptly dismantling these domains would ignite a devastating, prolonged civil war. Instead, Emperor Saito and his western advisors implemented a transitional framework heavily influenced by the political structures of [[Volisania]] or [[Breisland]].
 
 The original ''han'' borders were largely frozen in place, preserving the historical territorial lines of the clans. The ruling daimyo were not stripped of their lands; rather, they were officially re-titled as "Prefectural Governors" (知事, chiji) and integrated into a new, Illypnian-style bureaucratic hierarchy. Over the next several decades, these hereditary positions were gradually reformed into appointed bureaucratic roles, and eventually, into democratically elected offices. 
 
@@ -51,7 +51,7 @@ The prefectures are traditionally grouped by their historical regions. From nort
 ! colspan="2" | Capital
 ! Region
 ! Major Island
-! Population<br>(2025 Est.)
+! Population<br>(2025 Census)
 ! Population<br>(2020 Census)
 ! Population<br>change
 ! Area<br>(km²)
@@ -67,11 +67,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|大紙市}}
 | bgcolor=#c0e0d0|[[Tokami]]
 | [[Harujima]]
-| align="right" | 29,473,802
-| align="right" | 29,102,115
-| align="right" | <span style="color:green;">+1.28%</span>
+| align="right" | 27,215,456
+| align="right" | 27,229,720
+| align="right" | <span style="color:red;">-0.05%</span>
 | align="right" | 1,292.27
-| align="right" | 22,807.6
+| align="right" | 21,060.2
 | align="right" | 1
 | align="right" | 42
 | OK-01
@@ -81,13 +81,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|宮城県}}
 | [[Shinagawa]]
 | {{nihongo2|品川市}}
-| bgcolor=#d0f0c0|[[Urakawa]]
+| bgcolor=#c0e0d0|[[Tokami]]
 | [[Harujima]]
-| align="right" | 2,301,996
-| align="right" | 2,285,779
-| align="right" | <span style="color:green;">+0.71%</span>
+| align="right" | 2,125,612
+| align="right" | 2,138,715
+| align="right" | <span style="color:red;">-0.61%</span>
 | align="right" | 5,123.01
-| align="right" | 449.4
+| align="right" | 414.9
 | align="right" | 10
 | align="right" | 35
 | OK-02
@@ -99,11 +99,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|徳山市}}
 | bgcolor=#c0e0d0|[[Tokami]]
 | [[Harujima]]
-| align="right" | 1,291,437
-| align="right" | 1,288,500
-| align="right" | <span style="color:green;">+0.23%</span>
+| align="right" | 1,192,484
+| align="right" | 1,205,600
+| align="right" | <span style="color:red;">-1.09%</span>
 | align="right" | 2,277.39
-| align="right" | 567.1
+| align="right" | 523.6
 | align="right" | 8
 | align="right" | 31
 | OK-10
@@ -115,11 +115,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|秋田市}}
 | bgcolor=#c0e0d0|[[Tokami]]
 | [[Harujima]]
-| align="right" | 1,354,000
-| align="right" | 1,351,200
-| align="right" | <span style="color:green;">+0.21%</span>
+| align="right" | 1,250,253
+| align="right" | 1,264,266
+| align="right" | <span style="color:red;">-1.11%</span>
 | align="right" | 3,765.58
-| align="right" | 359.6
+| align="right" | 332.0
 | align="right" | 6
 | align="right" | 25
 | OK-03
@@ -131,11 +131,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|岩手市}}
 | bgcolor=#c0e0d0|[[Tokami]]
 | [[Harujima]]
-| align="right" | 1,210,534
-| align="right" | 1,229,432
-| align="right" | <span style="color:red;">-1.54%</span>
+| align="right" | 1,117,780
+| align="right" | 1,150,332
+| align="right" | <span style="color:red;">-2.83%</span>
 | align="right" | 6,319.52
-| align="right" | 191.6
+| align="right" | 176.9
 | align="right" | 10
 | align="right" | 33
 | OK-07
@@ -147,11 +147,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|山形市}}
 | bgcolor=#c0e0d0|[[Tokami]]
 | [[Harujima]]
-| align="right" | 1,068,027
-| align="right" | 1,085,119
-| align="right" | <span style="color:red;">-1.58%</span>
+| align="right" | 986,192
+| align="right" | 1,015,304
+| align="right" | <span style="color:red;">-2.87%</span>
 | align="right" | 2,156.56
-| align="right" | 495.2
+| align="right" | 457.3
 | align="right" | 8
 | align="right" | 35
 | OK-11
@@ -163,11 +163,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|米沢市}}
 | bgcolor=#c0e0d0|[[Tokami]]
 | [[Harujima]]
-| align="right" | 975,221
-| align="right" | 992,330
-| align="right" | <span style="color:red;">-1.72%</span>
+| align="right" | 900,497
+| align="right" | 928,485
+| align="right" | <span style="color:red;">-3.01%</span>
 | align="right" | 1,764.54
-| align="right" | 552.7
+| align="right" | 510.3
 | align="right" | 7
 | align="right" | 28
 | OK-12
@@ -177,13 +177,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|福島県}}
 | Fukushima
 | {{nihongo2|福島市}}
-| bgcolor=#d0f0c0|[[Urakawa]]
+| bgcolor=#c0e0d0|[[Tokami]]
 | [[Harujima]]
-| align="right" | 1,825,432
-| align="right" | 1,855,100
-| align="right" | <span style="color:red;">-1.60%</span>
+| align="right" | 1,685,563
+| align="right" | 1,735,745
+| align="right" | <span style="color:red;">-2.89%</span>
 | align="right" | 2,978.00
-| align="right" | 613.0
+| align="right" | 566.0
 | align="right" | 13
 | align="right" | 59
 | OK-04
@@ -195,11 +195,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|広川市}}
 | bgcolor=#d0f0c0|[[Urakawa]]
 | [[Harujima]]
-| align="right" | 812,119
-| align="right" | 825,300
-| align="right" | <span style="color:red;">-1.60%</span>
+| align="right" | 749,893
+| align="right" | 772,201
+| align="right" | <span style="color:red;">-2.89%</span>
 | align="right" | 2,853.93
-| align="right" | 284.6
+| align="right" | 262.8
 | align="right" | 7
 | align="right" | 24
 | OK-05
@@ -211,11 +211,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|石原市}}
 | bgcolor=#d0f0c0|[[Urakawa]]
 | [[Harujima]]
-| align="right" | 1,002,540
-| align="right" | 1,010,220
-| align="right" | <span style="color:red;">-0.76%</span>
+| align="right" | 925,723
+| align="right" | 945,224
+| align="right" | <span style="color:red;">-2.06%</span>
 | align="right" | 6,373.10
-| align="right" | 157.3
+| align="right" | 145.3
 | align="right" | 5
 | align="right" | 18
 | OK-06
@@ -227,11 +227,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|甲府市}}
 | bgcolor=#d0f0c0|[[Urakawa]]
 | [[Harujima]]
-| align="right" | 803,195
-| align="right" | 815,400
-| align="right" | <span style="color:red;">-1.50%</span>
+| align="right" | 741,652
+| align="right" | 762,938
+| align="right" | <span style="color:red;">-2.79%</span>
 | align="right" | 2,179.88
-| align="right" | 368.5
+| align="right" | 340.2
 | align="right" | 5
 | align="right" | 27
 | OK-08
@@ -243,11 +243,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|岡崎市}}
 | bgcolor=#d0f0c0|[[Urakawa]]
 | [[Harujima]]
-| align="right" | 1,150,888
-| align="right" | 1,148,300
-| align="right" | <span style="color:green;">+0.22%</span>
+| align="right" | 1,062,704
+| align="right" | 1,074,420
+| align="right" | <span style="color:red;">-1.09%</span>
 | align="right" | 2,871.80
-| align="right" | 400.8
+| align="right" | 370.0
 | align="right" | 7
 | align="right" | 30
 | OK-09
@@ -257,13 +257,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|愛沢県}}
 | [[Aizawa]]
 | {{nihongo2|愛沢市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 3,122,641
-| align="right" | 3,095,118
-| align="right" | <span style="color:green;">+0.89%</span>
+| align="right" | 2,883,377
+| align="right" | 2,895,982
+| align="right" | <span style="color:red;">-0.44%</span>
 | align="right" | 5,182.33
-| align="right" | 602.5
+| align="right" | 556.4
 | align="right" | 12
 | align="right" | 38
 | OK-13
@@ -273,13 +273,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|小笠原県}}
 | Ogasawara
 | {{nihongo2|小笠原市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,019,877
-| align="right" | 1,038,200
-| align="right" | <span style="color:red;">-1.76%</span>
+| align="right" | 941,732
+| align="right" | 971,404
+| align="right" | <span style="color:red;">-3.05%</span>
 | align="right" | 706.93
-| align="right" | 1,442.7
+| align="right" | 1,332.1
 | align="right" | 9
 | align="right" | 30
 | OK-20
@@ -289,13 +289,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|群馬県}}
 | Gunma
 | {{nihongo2|群馬市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,939,110
-| align="right" | 1,955,300
-| align="right" | <span style="color:red;">-0.83%</span>
+| align="right" | 1,790,531
+| align="right" | 1,829,498
+| align="right" | <span style="color:red;">-2.13%</span>
 | align="right" | 2,527.50
-| align="right" | 767.2
+| align="right" | 708.4
 | align="right" | 7
 | align="right" | 35
 | OK-15
@@ -305,13 +305,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|滋賀県}}
 | Shiga
 | {{nihongo2|滋賀市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,413,610
-| align="right" | 1,410,200
-| align="right" | <span style="color:green;">+0.24%</span>
+| align="right" | 1,305,296
+| align="right" | 1,319,470
+| align="right" | <span style="color:red;">-1.07%</span>
 | align="right" | 1,746.18
-| align="right" | 809.5
+| align="right" | 747.5
 | align="right" | 3
 | align="right" | 19
 | OK-21
@@ -321,13 +321,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|栃木県}}
 | Tochigi
 | {{nihongo2|栃木市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,933,146
-| align="right" | 1,950,800
-| align="right" | <span style="color:red;">-0.91%</span>
+| align="right" | 1,785,024
+| align="right" | 1,825,288
+| align="right" | <span style="color:red;">-2.21%</span>
 | align="right" | 2,079.41
-| align="right" | 929.7
+| align="right" | 858.4
 | align="right" | 5
 | align="right" | 26
 | OK-24
@@ -337,13 +337,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|石島県}}
 | Ishijima
 | {{nihongo2|石島市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,315,901
-| align="right" | 1,322,400
-| align="right" | <span style="color:red;">-0.49%</span>
+| align="right" | 1,215,074
+| align="right" | 1,237,318
+| align="right" | <span style="color:red;">-1.80%</span>
 | align="right" | 2,688.75
-| align="right" | 489.4
+| align="right" | 451.9
 | align="right" | 6
 | align="right" | 22
 | OK-17
@@ -353,13 +353,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|愛媛県}}
 | Ehime
 | {{nihongo2|愛媛市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,334,841
-| align="right" | 1,355,200
-| align="right" | <span style="color:red;">-1.50%</span>
+| align="right" | 1,232,562
+| align="right" | 1,268,008
+| align="right" | <span style="color:red;">-2.80%</span>
 | align="right" | 3,437.63
-| align="right" | 388.3
+| align="right" | 358.5
 | align="right" | 7
 | align="right" | 20
 | OK-14
@@ -369,13 +369,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|能登県}}
 | Noto
 | {{nihongo2|能登市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,132,522
-| align="right" | 1,141,300
-| align="right" | <span style="color:red;">-0.77%</span>
+| align="right" | 1,045,746
+| align="right" | 1,067,870
+| align="right" | <span style="color:red;">-2.07%</span>
 | align="right" | 2,011.45
-| align="right" | 563.0
+| align="right" | 519.9
 | align="right" | 5
 | align="right" | 19
 | OK-19
@@ -385,13 +385,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|春野県}}
 | Haruno
 | {{nihongo2|春野市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,420,119
-| align="right" | 1,431,900
-| align="right" | <span style="color:red;">-0.82%</span>
+| align="right" | 1,311,306
+| align="right" | 1,339,773
+| align="right" | <span style="color:red;">-2.12%</span>
 | align="right" | 4,327.15
-| align="right" | 328.2
+| align="right" | 303.0
 | align="right" | 8
 | align="right" | 29
 | OK-16
@@ -401,13 +401,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|島原県}}
 | Shimabara
 | {{nihongo2|島原市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 1,322,198
-| align="right" | 1,348,100
-| align="right" | <span style="color:red;">-1.92%</span>
+| align="right" | 1,220,888
+| align="right" | 1,261,365
+| align="right" | <span style="color:red;">-3.21%</span>
 | align="right" | 3,758.48
-| align="right" | 351.8
+| align="right" | 324.8
 | align="right" | 8
 | align="right" | 26
 | OK-22
@@ -417,13 +417,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|木曽県}}
 | Kiso
 | {{nihongo2|木曽市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 941,021
-| align="right" | 955,200
-| align="right" | <span style="color:red;">-1.48%</span>
+| align="right" | 868,918
+| align="right" | 893,744
+| align="right" | <span style="color:red;">-2.78%</span>
 | align="right" | 3,596.12
-| align="right" | 261.7
+| align="right" | 241.6
 | align="right" | 7
 | align="right" | 21
 | OK-18
@@ -433,13 +433,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|立原県}}
 | Tachibara
 | {{nihongo2|立原市}}
-| bgcolor=#c0d0f0|[[Ishijima (Region)|Ishijima]]
+| bgcolor=#c0d0f0|[[Ishijima]]
 | [[Ishijima (Island)|Ishijima]]
-| align="right" | 998,421
-| align="right" | 1,012,300
-| align="right" | <span style="color:red;">-1.37%</span>
+| align="right" | 921,920
+| align="right" | 947,170
+| align="right" | <span style="color:red;">-2.67%</span>
 | align="right" | 3,553.63
-| align="right" | 281.0
+| align="right" | 259.4
 | align="right" | 7
 | align="right" | 23
 | OK-23
@@ -451,11 +451,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|豊沢市}}
 | bgcolor=#f0e0c0|[[Miseto]]
 | [[Yagikoshu]]
-| align="right" | 8,430,000
-| align="right" | 8,321,500
-| align="right" | <span style="color:green;">+1.30%</span>
+| align="right" | 7,784,074
+| align="right" | 7,786,105
+| align="right" | <span style="color:red;">-0.03%</span>
 | align="right" | 882.15
-| align="right" | 9,556.2
+| align="right" | 8,824.0
 | align="right" | 1
 | align="right" | 33
 | OK-25
@@ -467,11 +467,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|水戸市}}
 | bgcolor=#f0e0c0|[[Miseto]]
 | [[Yagikoshu]]
-| align="right" | 2,912,445
-| align="right" | 2,900,100
-| align="right" | <span style="color:green;">+0.43%</span>
+| align="right" | 2,689,287
+| align="right" | 2,713,511
+| align="right" | <span style="color:red;">-0.89%</span>
 | align="right" | 4,064.05
-| align="right" | 716.6
+| align="right" | 661.7
 | align="right" | 7
 | align="right" | 44
 | OK-26
@@ -481,13 +481,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|瀬戸県}}
 | [[Minatojima]]
 | {{nihongo2|港島市}}
-| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| bgcolor=#f0e0c0|[[Miseto]]
 | [[Yagikoshu]]
-| align="right" | 2,644,113
-| align="right" | 2,630,800
-| align="right" | <span style="color:green;">+0.51%</span>
+| align="right" | 2,441,515
+| align="right" | 2,461,538
+| align="right" | <span style="color:red;">-0.81%</span>
 | align="right" | 5,349.38
-| align="right" | 494.3
+| align="right" | 456.4
 | align="right" | 9
 | align="right" | 36
 | OK-27
@@ -497,13 +497,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|埼玉県}}
 | [[Soma]]
 | {{nihongo2|相馬市}}
-| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
+| bgcolor=#d0c0f0|[[Soma]]
 | [[Yagikoshu]]
-| align="right" | 2,463,518
-| align="right" | 2,450,300
-| align="right" | <span style="color:green;">+0.54%</span>
+| align="right" | 2,274,758
+| align="right" | 2,292,651
+| align="right" | <span style="color:red;">-0.78%</span>
 | align="right" | 5,042.23
-| align="right" | 488.6
+| align="right" | 451.1
 | align="right" | 8
 | align="right" | 63
 | OK-28
@@ -513,13 +513,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|高知県}}
 | [[Tsuda]]
 | {{nihongo2|津田市}}
-| bgcolor=#d0c0f0|[[Soma (Region)|Soma]]
+| bgcolor=#d0c0f0|[[Soma]]
 | [[Yagikoshu]]
-| align="right" | 1,929,440
-| align="right" | 1,921,800
-| align="right" | <span style="color:green;">+0.40%</span>
+| align="right" | 1,781,602
+| align="right" | 1,798,154
+| align="right" | <span style="color:red;">-0.92%</span>
 | align="right" | 6,723.70
-| align="right" | 287.0
+| align="right" | 265.0
 | align="right" | 6
 | align="right" | 34
 | OK-29
@@ -531,11 +531,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|一乗谷市}}
 | bgcolor=#f0e0c0|[[Miseto]]
 | [[Yagikoshu]]
-| align="right" | 1,770,114
-| align="right" | 1,765,200
-| align="right" | <span style="color:green;">+0.28%</span>
+| align="right" | 1,634,484
+| align="right" | 1,651,629
+| align="right" | <span style="color:red;">-1.04%</span>
 | align="right" | 5,225.20
-| align="right" | 338.8
+| align="right" | 312.8
 | align="right" | 7
 | align="right" | 29
 | OK-30
@@ -543,15 +543,15 @@ The prefectures are traditionally grouped by their historical regions. From nort
 |-
 | [[Okayama Prefecture|Okayama]]
 | {{nihongo2|岡山県}}
-| [[Anjo-Saikawa]]
+| [[Anjō-Saikawa]]
 | {{nihongo2|安城西川市}}
-| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
-| [[Yagikoshu]]
-| align="right" | 1,888,432
-| align="right" | 1,891,100
-| align="right" | <span style="color:red;">-0.14%</span>
+| bgcolor=#f0c8e0|[[Sanzu]]
+| [[Sanzu]]
+| align="right" | 1,743,736
+| align="right" | 1,769,429
+| align="right" | <span style="color:red;">-1.45%</span>
 | align="right" | 3,927.08
-| align="right" | 480.9
+| align="right" | 444.0
 | align="right" | 10
 | align="right" | 27
 | OK-31
@@ -561,13 +561,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|鈴鹿県}}
 | Suzuka
 | {{nihongo2|鈴鹿市}}
-| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
-| [[Yagikoshu]]
-| align="right" | 1,211,458
-| align="right" | 1,220,500
-| align="right" | <span style="color:red;">-0.74%</span>
+| bgcolor=#c0d0f0|[[Ishijima]]
+| [[Ishijima]]
+| align="right" | 1,118,633
+| align="right" | 1,141,975
+| align="right" | <span style="color:red;">-2.04%</span>
 | align="right" | 6,457.08
-| align="right" | 187.6
+| align="right" | 173.2
 | align="right" | 7
 | align="right" | 25
 | OK-32
@@ -577,13 +577,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|土佐県}}
 | Tosa
 | {{nihongo2|土佐市}}
-| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
+| bgcolor=#f0c8e0|[[Sanzu]]
 | [[Yagikoshu]]
-| align="right" | 1,012,876
-| align="right" | 1,025,900
-| align="right" | <span style="color:red;">-1.27%</span>
+| align="right" | 935,267
+| align="right" | 959,895
+| align="right" | <span style="color:red;">-2.57%</span>
 | align="right" | 1,764.13
-| align="right" | 574.2
+| align="right" | 530.2
 | align="right" | 7
 | align="right" | 26
 | OK-33
@@ -595,11 +595,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|三重市}}
 | bgcolor=#f0e0c0|[[Miseto]]
 | [[Yagikoshu]]
-| align="right" | 1,033,184
-| align="right" | 1,041,200
-| align="right" | <span style="color:red;">-0.77%</span>
+| align="right" | 954,019
+| align="right" | 974,211
+| align="right" | <span style="color:red;">-2.07%</span>
 | align="right" | 1,972.68
-| align="right" | 523.8
+| align="right" | 483.6
 | align="right" | 5
 | align="right" | 22
 | OK-34
@@ -609,13 +609,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|黒崎県}}
 | Kurosaki
 | {{nihongo2|黒崎市}}
-| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| bgcolor=#f0d0c0|[[Nakayagikoshu]]
 | [[Yagikoshu]]
-| align="right" | 1,120,477
-| align="right" | 1,129,800
-| align="right" | <span style="color:red;">-0.82%</span>
+| align="right" | 1,034,624
+| align="right" | 1,057,110
+| align="right" | <span style="color:red;">-2.13%</span>
 | align="right" | 2,722.32
-| align="right" | 411.6
+| align="right" | 380.1
 | align="right" | 6
 | align="right" | 24
 | OK-35
@@ -625,13 +625,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|長山県}}
 | Nagayama
 | {{nihongo2|長山市}}
-| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| bgcolor=#f0d0c0|[[Nakayagikoshu]]
 | [[Yagikoshu]]
-| align="right" | 1,021,558
-| align="right" | 1,035,100
-| align="right" | <span style="color:red;">-1.31%</span>
+| align="right" | 943,284
+| align="right" | 968,503
+| align="right" | <span style="color:red;">-2.60%</span>
 | align="right" | 5,830.51
-| align="right" | 175.2
+| align="right" | 161.8
 | align="right" | 6
 | align="right" | 23
 | OK-36
@@ -641,13 +641,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|鳴門県}}
 | Naruto
 | {{nihongo2|鳴門市}}
-| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
-| [[Yagikoshu]]
-| align="right" | 945,211
-| align="right" | 958,400
-| align="right" | <span style="color:red;">-1.38%</span>
+| bgcolor=#f0c8e0|[[Sanzu]]
+| [[Sanzu]]
+| align="right" | 872,787
+| align="right" | 896,738
+| align="right" | <span style="color:red;">-2.67%</span>
 | align="right" | 2,595.06
-| align="right" | 364.2
+| align="right" | 336.3
 | align="right" | 8
 | align="right" | 24
 | OK-37
@@ -657,13 +657,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|塩上県}}
 | Shiogami
 | {{nihongo2|塩上市}}
-| bgcolor=#e0c0f0|[[Mutsu (Region)|Mutsu]]
-| [[Yagikoshu]]
-| align="right" | 694,335
-| align="right" | 710,100
-| align="right" | <span style="color:red;">-2.22%</span>
+| bgcolor=#f0c8e0|[[Sanzu]]
+| [[Sanzu]]
+| align="right" | 641,133
+| align="right" | 664,413
+| align="right" | <span style="color:red;">-3.50%</span>
 | align="right" | 4,157.85
-| align="right" | 167.0
+| align="right" | 154.2
 | align="right" | 7
 | align="right" | 20
 | OK-38
@@ -675,11 +675,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|長門市}}
 | bgcolor=#d0d0d0|[[Nankai]]
 | [[Yagikoshu]]
-| align="right" | 966,104
-| align="right" | 988,200
-| align="right" | <span style="color:red;">-2.24%</span>
+| align="right" | 892,079
+| align="right" | 924,620
+| align="right" | <span style="color:red;">-3.52%</span>
 | align="right" | 4,922.08
-| align="right" | 196.3
+| align="right" | 181.2
 | align="right" | 6
 | align="right" | 21
 | OK-39
@@ -689,13 +689,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|小浜県}}
 | Obama
 | {{nihongo2|小浜市}}
-| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| bgcolor=#f0d0c0|[[Nakayagikoshu]]
 | [[Yagikoshu]]
-| align="right" | 821,564
-| align="right" | 835,600
-| align="right" | <span style="color:red;">-1.68%</span>
+| align="right" | 758,614
+| align="right" | 781,839
+| align="right" | <span style="color:red;">-2.97%</span>
 | align="right" | 5,593.73
-| align="right" | 146.9
+| align="right" | 135.6
 | align="right" | 5
 | align="right" | 20
 | OK-40
@@ -705,13 +705,13 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|鏡県}}
 | Kagami
 | {{nihongo2|鏡市}}
-| bgcolor=#f0d0c0|[[Suzuka (Region)|Suzuka]]
+| bgcolor=#f0d0c0|[[Nakayagikoshu]]
 | [[Yagikoshu]]
-| align="right" | 755,291
-| align="right" | 769,100
-| align="right" | <span style="color:red;">-1.80%</span>
+| align="right" | 697,419
+| align="right" | 719,617
+| align="right" | <span style="color:red;">-3.08%</span>
 | align="right" | 11,312.30
-| align="right" | 66.8
+| align="right" | 61.7
 | align="right" | 6
 | align="right" | 21
 | OK-41
@@ -723,11 +723,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|堺市}}
 | bgcolor=#d0d0d0|[[Nankai]]
 | [[Yagikoshu]]
-| align="right" | 885,221
-| align="right" | 902,300
-| align="right" | <span style="color:red;">-1.89%</span>
+| align="right" | 817,393
+| align="right" | 844,247
+| align="right" | <span style="color:red;">-3.18%</span>
 | align="right" | 1,611.83
-| align="right" | 549.2
+| align="right" | 507.1
 | align="right" | 6
 | align="right" | 22
 | OK-42
@@ -739,11 +739,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|水野市}}
 | bgcolor=#d0d0d0|[[Nankai]]
 | [[Yagikoshu]]
-| align="right" | 630,000
-| align="right" | 647,500
-| align="right" | <span style="color:red;">-2.70%</span>
+| align="right" | 581,728
+| align="right" | 605,841
+| align="right" | <span style="color:red;">-3.98%</span>
 | align="right" | 8,857.76
-| align="right" | 71.1
+| align="right" | 65.7
 | align="right" | 7
 | align="right" | 20
 | OK-43
@@ -755,11 +755,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|浦和市}}
 | bgcolor=#d0d0d0|[[Nankai]]
 | [[Yagikoshu]]
-| align="right" | 615,000
-| align="right" | 633,200
-| align="right" | <span style="color:red;">-2.87%</span>
+| align="right" | 567,877
+| align="right" | 592,461
+| align="right" | <span style="color:red;">-4.15%</span>
 | align="right" | 3,949.61
-| align="right" | 155.7
+| align="right" | 143.8
 | align="right" | 6
 | align="right" | 20
 | OK-44
@@ -771,11 +771,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|陸奥市}}
 | bgcolor=#d0d0d0|[[Nankai]]
 | [[Yagikoshu]]
-| align="right" | 590,200
-| align="right" | 609,900
-| align="right" | <span style="color:red;">-3.23%</span>
+| align="right" | 544,978
+| align="right" | 570,660
+| align="right" | <span style="color:red;">-4.50%</span>
 | align="right" | 9,532.42
-| align="right" | 61.9
+| align="right" | 57.2
 | align="right" | 8
 | align="right" | 24
 | OK-45
@@ -787,11 +787,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|青森市}}
 | bgcolor=#d0d0d0|[[Nankai]]
 | [[Yagikoshu]]
-| align="right" | 550,100
-| align="right" | 570,500
-| align="right" | <span style="color:red;">-3.58%</span>
+| align="right" | 507,950
+| align="right" | 533,795
+| align="right" | <span style="color:red;">-4.84%</span>
 | align="right" | 10,568.60
-| align="right" | 52.0
+| align="right" | 48.1
 | align="right" | 8
 | align="right" | 40
 | OK-46
@@ -803,11 +803,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|大分市}}
 | bgcolor=#d0d0d0|[[Nankai]]
 | [[Yagikoshu]]
-| align="right" | 510,500
-| align="right" | 529,800
-| align="right" | <span style="color:red;">-3.64%</span>
+| align="right" | 471,384
+| align="right" | 495,713
+| align="right" | <span style="color:red;">-4.91%</span>
 | align="right" | 2,413.18
-| align="right" | 211.5
+| align="right" | 195.3
 | align="right" | 7
 | align="right" | 20
 | OK-47
@@ -819,11 +819,11 @@ The prefectures are traditionally grouped by their historical regions. From nort
 | {{nihongo2|紀伊市}}
 | bgcolor=#d0d0d0|[[Nankai]]
 | [[Yagikoshu]]
-| align="right" | 480,112
-| align="right" | 505,000
-| align="right" | <span style="color:red;">-4.93%</span>
+| align="right" | 443,325
+| align="right" | 472,509
+| align="right" | <span style="color:red;">-6.18%</span>
 | align="right" | 9,175.97
-| align="right" | 52.3
+| align="right" | 48.3
 | align="right" | 6
 | align="right" | 19
 | OK-48
@@ -834,19 +834,145 @@ The prefectures are traditionally grouped by their historical regions. From nort
 !
 !
 !
-! align="right" | 90,217,335
+! align="right" | 89,608,133
 ! align="right" | 90,757,004
-! align="right" | <span style="color:red;">-0.59%</span>
+! align="right" | <span style="color:red;">-1.27%</span>
 ! align="right" | 200,221.94
-! align="right" | 450.6
+! align="right" | 447.5
 ! align="right" | 323
 ! align="right" | 1,257
 !
 !
 |}
 
+
+==Regional Economic and Industrial Structure==
+
+The forty-eight prefectures of Okaiken exhibit pronounced economic specialization driven by regional topography, demographic concentration, and industrial clustering. While the Okami metropolitan corridor functions as the national financial and corporate command center, the remaining island divisions have developed distinct modern and traditional industrial ecosystems.
+
+===Harujima Division===
+
+Okami Metropolis serves as the financial and corporate command center of the East Fosian Sphere, containing over twenty-seven million residents and generating approximately one-third of national economic output. The metropolis hosts the Okami Stock Exchange, the global headquarters of the six major keiretsu conglomerates, the sovereign ministries, and the commercial entertainment complexes of the O-Pop industry. Its economy is overwhelmingly dominated by corporate management, banking, international trade brokerage, and AI services, while traditional luxury sectors survive in gold-leaf washi papermaking and ceremonial textile tailoring. 
+
+Miyagi Prefecture anchors the northern tropical frontier, combining equatorial-maritime agriculture with advanced marine robotics research along the Yanbaru Strait. The prefecture's agricultural cooperative maintains an export trade in Red Emperor mangoes grown under protective glasshouses and Miyagi-buta heritage black pigs reared on fermented sweet potatoes and sugarcane mash. Industrial activity is centered on the Silicon Strait corridor near Shinagawa, where major engineering firms utilize fast-moving maritime currents to test tidal turbines and autonomous deep-sea mining submersibles, while sheltered bays support extensive buri amberjack and cultured pearl aquaculture.
+
+Tokuyama Prefecture occupies the southern Harujima coast, functioning as both a logistics corridor for commuters entering Okami and the national capital of the saba pelagic fishery. The Tokuyama Central Fish Market handles over one hundred and eighty thousand tonnes of seafood annually, supporting extensive mackerel curing, canning, and cedar-pressed saba-zushi production. Inland, the Tokuyama Plastics Corridor forms a dense cluster of precision tooling and scale model manufacturing anchored by Aoshima, which is transitioning toward marine-derived chitosan bioplastics.
+
+Akita Prefecture maintains a specialized highland agricultural and fruit processing economy along the central mountain divide. Leveraging its cool microclimate, the prefecture dominates the domestic supply of kabosu citrus, apples, and temperate orchard fruits, supplying juice processing plants and confectioneries across the capital region. The Yunohara volcanic valleys support an extensive onsen hospitality and mountain tourism sector, complemented by traditional cedar bentwood craft workshops that export luxury household goods.
+
+Iwate Prefecture balances heavy mineral extraction, timber processing, and traditional maritime crafts. The prefecture is renowned for its high-grade Kazan-tetsu cast ironware, forged from local volcanic river ironsand, and its luxury Iwate 25 single-estate sweet potato shōchū distilleries. Along the coast, traditional mother-of-pearl processing and shell inlay industries operate alongside modern manufacturing facilities producing geothermal power turbine components and volcanic sulfur derivatives.
+
+Yamagata Prefecture operates as a manufacturing and residential suburb adjacent to Okami Metropolis. The prefecture hosts extensive light industrial parks producing precision optical lenses, digital camera housings, and automotive electronic connectors, while its agricultural lowlands produce cherries and stone fruits. Yamagata's logistics centers process containerized freight moving along the Harujima Shinkansen line, supporting automated supply chains servicing the capital's retail markets.
+
+Yonezawa Prefecture, known as the industrial engine of the capital region, generates one of the highest per-capita industrial outputs in the country. The prefecture hosts the flagship assembly plant of Yonezawa Motors, producing over four hundred thousand hydrogen and electric vehicles annually, alongside Usami Heavy Industries' railway rolling stock facilities and Nanyo Electronics' semiconductor foundries. Yonezawa also houses the primary processing plant of the Okaiken Urban Mining Corporation, which extracts significant volumes of gold and rare-earth elements from electronic waste, alongside historical silk-weaving guilds and high-end daikokubashira timber framing.
+
+Fukushima Prefecture is defined by intensive terraced wet-rice agriculture, condiment manufacturing, and commuter rail connections. The prefecture produces approximately thirty-five percent of its industrial output from food processing, supplying national markets with chili pastes, processed wasabi, and fermented sauces. In its highland industrial zones, facilities manufacture specialized hydrogen switchgear and electrical distribution hardware for the national rail grid.
+
+Hirogawa Prefecture functions as a maritime gateway between the Sea of Mitoyagi and the Shendan Ocean. The prefecture's economy is anchored by the Hirogawa Central Fish Market, the largest sardine and iwashi exchange in western Okaiken, supplying vast canning plants, fishmeal fertilizer mills, and marine oil refineries. In the interior river valleys, traditional papermakers produce river mallow washi for archival printing, while coastal yards construct steel coastal freighters and tugboats.
+
+Ishiwara Prefecture is a resource-rich volcanic territory centered on the Ishiwara Peninsula. The prefecture hosts the Ishiwara Geothermal Complex, the world's largest geothermal power facility generating twelve hundred megawatts from forty-two deep production wells. The economy is heavily oriented toward volcanological engineering, disaster-monitoring instrumentation, and basalt quarrying, while geothermal tailwaters support hot-spring thermal medicine clinics and commercial sulfur extraction.
+
+Kofu Prefecture occupies a sheltered coastal bay backed by sun-drenched hillsides, sustaining a specialized maritime and viticultural economy. The prefecture is celebrated for its engawa flounder fin fisheries, rack oyster aquaculture, and hillside peach orchards. A thriving viticulture and wine industry operates in the interior basins, while urban craft centers preserve historical crystal cutting and gemstone lapidary workshops.
+
+Okazaki Prefecture balances an industrial manufacturing base with heritage martial arts craft production. The prefecture produces precision automotive components, synthetic tires, and CNC machine tools, while maintaining artisanal workshops that forge kendo protective armor, wooden training weapons, and forged blades. The local fermentation industry is famous for its dark, two-year cedar-aged hatcho-style miso, exported widely across the East Fosian Sphere.
+
+===Ishijima Division===
+
+Aizawa Prefecture represents the industrial heartland of Ishijima, anchored by the massive Sangoku Heavy Industries shipyards, which lead the world in liquefied natural gas carrier construction. Aizawa Port operates as the busiest container terminal on the island, featuring automated cranes and autonomous container yards. The western industrial corridor produces over one-third of Okaiken's raw steel, while the historic Aizawa Soy Brewers' Guild operates towering wooden cask fermentation vats that brew thirty-five percent of the nation's premium soy sauce.
+
+Ogasawara Prefecture encompasses an expansive tropical archipelago extending into the Shendan Ocean basin. The prefecture serves as the operational headquarters for the Shendan Ocean Mining Authority, docking autonomous deep-sea mining vessels and research submersibles extracting seabed polymetallic nodules. Ogasawara also hosts Okaiken's primary satellite launch complex, extensive coral reef pearl farms, and the Bio-Shore marine biotechnology laboratories isolating pharmaceuticals from hydrothermal vent microbes.
+
+Gunma Prefecture is the precision robotics and machine tool heartland of the Ishijima industrial belt. The prefecture produces advanced industrial robots, high-speed automated assembly arms, and semiconductor wafer-handling mechanisms, generating exceptional manufacturing value per capita. Its highland zones extract industrial quartz and silica, while heritage workshops maintain traditional sericulture and silk thread spinning.
+
+Shiga Prefecture is dominated by the Shiga Manufacturing Corridor, a dense forty-five-kilometer industrial strip along the Katsuran Sea coast. The prefecture specializes in precision optical systems, extreme ultraviolet lithography mirrors, and laser cutting heads, supplying high-technology foundries across Adonia. In the southern hills, the Shigaraki kiln network continues centuries of stoneware pottery production, crafting ceramic storage vessels and architectural tiles.
+
+Tochigi Prefecture is a mountainous, landlocked territory characterized by high-altitude precision casting and specialized agriculture. Industrial plants manufacture aluminum engine blocks, copper heat exchangers, and thermal sensors for the automotive industry, while highland plateaus support modern dairy cattle herds. Traditional artisans maintain copper-hammering workshops and wild hemp rope-braiding guilds that supply Shoto shrines.
+
+Ishijima Prefecture serves as the agricultural, geothermal, and silicon-refining anchor of the eastern island corridor. The prefecture houses major foundries producing silicon wafer ingots and specialized structural steel, supported by regional geothermal heating loops. Coastal docks handle bulk Shendan mineral imports, while alluvial valleys cultivate root crops and vegetables.
+
+Ehime Prefecture maintains a dual economy centered on advanced laser optics along the coast and tropical citrus farming in the interior. The prefecture manufactures high-power industrial fiber lasers used in shipyard steel cutting and medical devices, while highland orchards harvest kabosu citrus and kiwifruit. Artisanal guilds harvest sumac tree berries to produce traditional bleached candle wax and decorative paper crafts.
+
+Noto Prefecture occupies an insular northern peninsula projecting into the Shendan waters. Its economy is defined by tropical deep-water fishing fleets harvesting tuna and squid, coastal clean-room semiconductor facilities, and precision contact lens production. Noto is renowned for Wajima-style gold-dusted lacquerware, where artisans apply multi-layered urushi finishes to turned wood, alongside sea salt harvesting from coastal evaporation pans.
+
+Haruno Prefecture is characterized by the expansive Haruno Sea Forest, which sustains the island's primary commercial timber harvesting and engineered lumber industry. Coastal manufacturing plants produce rolling mill machinery and heavy agricultural harvesters, while warm coastal microclimates support hemp bast fiber cultivation and tropical grain farming.
+
+Shimabara Prefecture is a volcanic territory renowned for cold mountain spring water and geothermal agriculture. The prefecture produces premium mountain wasabi grown in terraced gravel beds fed by volcanic snowmelt, supporting food processing and sake brewing. Coastal towns host geothermal wellness resorts, while artisanal factories hand-stretch sun-dried sōmen noodles.
+
+Kiso Prefecture is a heavily forested highland territory preserving the historic Kiso Kaidō trading trail. The economy is centered on the sustainable harvesting of high-grade Kiso cypress, prized for temple construction and fragrant bathtubs. Industrial activity includes carbon-fiber composite layups for aerospace structures, while master woodcarvers hand-craft polished wooden combs and turned tableware.
+
+Tachibara Prefecture is defined by three celebrated fermentation and craft traditions: thick Sanuki-style udon milling, artisanal soy sauce brewing, and indigo textile vat dyeing. The prefecture's warm, sheltered valleys provide stable humidity for slow microbial aging, while coastal industrial estates manufacture precision epoxy tooling resins and specialized composite molds.
+
+Suzuka Prefecture occupies the strategic maritime crossroads of the Suzuka Strait. The prefecture hosts the Suzuka Rolling Stock Works, which manufactures high-speed train cars for the Shinkansen network, alongside specialized shipyards constructing tidal turbine tugs. The extreme tidal currents of the strait support tidal whirlpool power generation and the Uzushio fishery, while heritage craft guilds manufacture traditional sumi calligraphy inkstones and black ink sticks.
+
+===Sanzu Division===
+
+Okayama Prefecture serves as the primary agricultural and industrial anchor of the Sanzu basin. Benefiting from a sunny, subtropical climate and three-sided coastal access, the prefecture produces forty percent of Okaiken's domestic citrus harvest, specializing in sweet mandarins and table grapes. Deep-water harbors along its eastern coast support commercial shipyards and coastal petrochemical refineries, while the ancient kilns of Bizen produce unglazed, wood-fired stoneware vessels celebrated for their natural flame-marked surfaces.
+
+Naruto Prefecture commands the eastern maritime gateway into the Inland Sea, operating extensive cargo vessel maintenance drydocks and coastal ferry networks. The prefecture utilizes its sheltered coastal waters to operate massive sea-salt evaporation pans and edible seaweed aquaculture grids, supplying processed wakame and kombu to food manufacturers across the archipelago.
+
+Tosa Prefecture, incorporated into the Sanzu regional division, is defined by its dramatic Pacific coastline and extraordinary annual monsoon rainfall. The prefecture utilizes its intense hydrological abundance to cultivate terraced wet rice that achieves some of the highest yields per hectare in Okaiken. Tosa is also the center of the national spice trade, cultivating and exporting the fiery Tosa red pepper, while its deep-sea longline fleets harvest skipjack tuna and swordfish. Traditional industries include the manufacture of waterproof oiled paper umbrellas and marine canvas treated with fish oils.
+
+Shiogami Prefecture represents the nominal archipelagic anchor of the Sanzu division, defined by mineral sea-salt production, yuzu citrus orchards, and pelagic fish preservation. The prefecture extracts mineral-rich cooking salts using multi-stage vacuum evaporation plants powered by waste industrial heat, supplying curing houses that salt pelagic catches for export. The local agricultural sector produces fragrant yuzu juice, essential oils, and citrus preserves, while ceramic potteries produce coarse salt storage crocks.
+
+===Yagikoshu Division===
+
+Toyozawa Metropolis, known as "The Forge," is the primary industrial and technological engine of Okaiken, generating eighteen percent of national gross domestic product despite holding less than nine percent of the population. The metropolis hosts the primary semiconductor fabrication plants of Kizan Systems, producing the T-7, T-9, and Tensei tensor processing accelerators that power the global AI hardware market. Extending from the port to the interior, the Toyozawa Data Corridor houses over one hundred and eighty facilities with 2.4 gigawatts of electrical capacity, forming the densest compute hub in the East Fosian Sphere. In the Konohana ward, Sangoku Heavy Industries operates major shipyards building autonomous freighters, while the bay’s extreme 14.2-meter tidal range drives experimental hyper-tidal pneumatic accumulator stations.
+
+Mito Prefecture serves as the software, algorithmic, and imperial heritage complement to Toyozawa's manufacturing core. The Mito Software Corridor houses over three hundred and forty software firms employing forty-two thousand developers, anchored by the Heiji AI Research Park. The historic city of Mito, the imperial capital during the Heiji period, attracts over eight million cultural tourists annually, sustaining master carpenters practicing Miyadaiku timber architecture and ceremonial silk embroidery workshops.
+
+Seto Prefecture occupies the northern coast of Yagikoshu along the turbulent Katsuran Strait. The Minatojima Shipyard is one of the nation’s three primary shipbuilding complexes, building autonomous cargo ships and ice-class bulk carriers, while the Port of Minatojima operates as the third-busiest maritime freight hub in Okaiken. The prefecture is equally renowned for agricultural innovation, producing forty percent of the domestic onion crop through sweet Seto onions grown in the alluvial floodplains of the Suzuka River.
+
+Saitama Prefecture is the national epicenter of the Cult of Iron and the fitness industrial complex. The Soma Fitness Equipment Corridor manufactures forty-five percent of the commercial gym equipment and training devices produced in Okaiken, anchored by Tetsujin Fitness and Ironworks Athletic. Concurrently, the Soma Supplement Research Park produces protein powders, sports nutrition, and recovery compounds generating substantial annual export revenues, supported by the massive Soma Steelworks, which manufactures 4.2 million tonnes of high-strength automotive and specialty engineering steels annually.
+
+Kochi Prefecture combines heavy ice-class shipbuilding with pelagic fish processing and offshore renewable power. Coastal shipyards construct specialized reinforced hulls for the northern Shendan trade routes, while the coastline hosts commercial floating offshore wind platforms. The prefecture is the national leader in dried skipjack shavings (katsuobushi), utilizing traditional oak smokehouses to cure fish for culinary broths, alongside artisanal blacksmiths hand-forging logging axes and woodcraft blades.
+
+Ise Prefecture is driven by sacred Shoto pilgrimage tourism, forest conservation, and nuclear power generation. The prefecture houses major nuclear power stations that generate thirty-five percent of the nation's nuclear capacity, feeding the energy-hungry data centers of the Yagikoshu corridor. The interior is covered by ancient sacred cedar forests harvested exclusively for the cyclical ritual reconstruction of Shoto shrines, while mountain cooperatives cultivate green tea and traditional herbal medicines.
+
+Mie Prefecture operates as an essential industrial and residential suburb for the Toyozawa metropolitan area. The Mie Industrial Zone accommodates expansive manufacturing plants that cannot fit within Toyozawa's dense urban core, including Suzuki Manufacturing's automotive component plants and Kizan's consumer device assembly lines. In the southern foothills of the Suzuka Mountains, agricultural cooperatives produce Mie-cha green tea, harvesting twelve thousand tonnes of sencha and matcha annually.
+
+Kurosaki Prefecture is an industrial foundry and ocean fishing territory. The prefecture's economy is centered on the heavy casting foundries of Kurosaki city, which produce forged crankshafts, steel pipe fittings, and cold-stamped industrial parts for shipbuilding. The deep-water Port of Kurosaki supports ocean trawling fleets and container logistics, while traditional craftsmen maintain coal-fired blacksmithing shops producing durable hand tools.
+
+Nagayama Prefecture is the national center of thermal balneotherapy and onsen medical tourism. The highland town of Shirakawa-Yunoyama is Okaiken's first Certified Thermal Therapy Zone, where licensed physicians prescribe mineral hot-spring cures for musculoskeletal and skin ailments under the national health insurance system. The prefecture's agricultural sector is renowned for chestnut orchards and dark, three-year cedar-aged red miso, exported internationally as a gourmet culinary condiment.
+
+Nagato Prefecture is a resource and papermaking territory in central Yagikoshu. The prefecture's economy is driven by cold-stream washi paper mills that produce thick calligraphy parchment and shoji screen linings. Inland deposits support copper wire-drawing mills and lime quarries, while coastal bays support local trawlers and Hagi-style soft-clay porous teaware kilns.
+
+Obama Prefecture combines secondary data center infrastructure with traditional seafood processing and rice farming. The prefecture hosts secondary nodes of the Yagikoshu Data Corridor, utilizing cool mountain air to reduce cooling costs, alongside mackerel freezing plants and mochi rice farms. Local craft guilds manufacture lacquered chopsticks inlaid with mother-of-pearl and polished sea glass.
+
+Kagami Prefecture is an expansive, densely forested territory covering over eleven thousand square kilometers. The economy is dominated by commercial mountain cedar and cypress logging, supplying sawmills and engineered mass-timber housing factories. The prefecture is also famous for coarse stoneware ceramics fired in wood-burning hillside climbing kilns, hot-spring inns, and wild game charcuterie.
+
+Sakai Prefecture maintains an economy driven by coastal resort tourism and precision surgical cutlery. Over two-thirds of the prefecture's gross domestic product is generated by beachfront hotels, marine leisure parks, and entertainment complexes. In the urban centers, master metalsmiths forge professional sushi knives and surgical scalpels utilizing vacuum-furnace heat treatment and hand-honed beveling.
+
+Mizuno Prefecture is a rugged mountain territory that harnesses steep hydraulic relief to generate hydroelectric power from dam complexes along its rivers. Precision instrument facilities manufacture industrial pressure gauges and quartz crystal oscillators, while traditional craft workers peel and polish cherry tree bark to produce lustrous wooden tea caddies and decorative lacquer boxes.
+
+Uruwa Prefecture is the premier bluefin tuna and cultured pearl territory of southern Yagikoshu. Commercial longline fleets operate out of deep-water harbors, landing giant tuna that are flash-frozen at minus sixty degrees Celsius for distribution to national sashimi markets. The sheltered coastal coves support extensive pearl oyster cultivation, while rural villages weave natural rush tatami flooring.
+
+Mutsu Prefecture occupies a sub-polar coastal plain characterized by commercial dairy farming and renewable wind power. Vast coastal wind farms capture powerful ocean breezes, supplying electricity to regional industrial grids and powering municipal hydrogen electrolyzers. The prefecture's dairy combines produce pasteurized milk, butter, and whey protein isolates, while fishing communities practice winter-curing of mackerel in sub-zero snow country.
+
+Aomori Prefecture commands the southern frontier along the Nakami Strait. The local economy is driven by extensive commercial apple orcharding, cold-hardy timber harvesting, and cross-strait freight ferry operations connecting Okaiken to Nakamizu. The prefecture also hosts major coastal defense garrisons and radar surveillance installations of the Okaiken Self-Defense Guard, while traditional craftsmen carve and lacquer Tsugaru-style wooden trays.
+
+Oita Prefecture is a maritime and small-craft shipbuilding territory situated at the narrowest point of the southern strait passages. The prefecture operates specialized boatyards constructing coastal patrol vessels, pilot boats, and tugs, supported by fish processing plants that package sardines and mackerel. Rural cooperatives harvest mountain timber to weave lightweight, high-tensile bamboo baskets and architectural screens.
+
+Kii Prefecture occupies the southern tip of Yagikoshu, characterized by deep-water oceanic fishing, the Yagikoshu-2 Data Corridor, and the preservation of indigenous Atsu cultural traditions. The Port of Nankai docks oceanic research vessels and tuna longliners, while the surrounding forests support traditional kiln burners who produce Kishu binchotan white charcoal, the densest and hottest-burning natural cooking charcoal in Adonia.
+
+
 ==See also==
+{{div col|colwidth=22em}}
 * [[National Diet of Okaiken]]
+* [[Economy of Okaiken]]
+* [[Traditional industries of Okaiken]]
+* [[Administrative divisions of Okaiken]]
+* [[Demographics of Okaiken]]
+* [[Geography of Okaiken]]
+* [[List of prefectures of Okaiken by GDP]]
+* [[List of prefectures of Okaiken by population]]
+* [[Local Government Act of Okaiken]]
+* [[Keiretsu]]
+* [[Keiretsu Council]]
+* [[Harujima]]
+* [[Ishijima]]
+* [[Sanzu]]
+* [[Yagikoshu]]
+{{div col end}}
 
 {{Okaiken topics}}
 [[Category:Prefectures of Okaiken]]
