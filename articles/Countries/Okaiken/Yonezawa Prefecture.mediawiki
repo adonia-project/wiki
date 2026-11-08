@@ -16,7 +16,7 @@
 | subdivision_type        = Country
 | subdivision_name        = [[Okaiken]]
 | subdivision_type1       = Region
-| subdivision_name1       = [[Okami Region]]
+| subdivision_name1       = [[Tokami region|Tokami]]
 | subdivision_type2       = Island
 | subdivision_name2       = [[Harujima]]
 | seat                    = [[Yonezawa]]
@@ -25,13 +25,14 @@
 | leader_title            = Governor
 | leader_name             = 
 | leader_party            = 
-| area_total_km2          = 2277.59
+| area_total_km2          = 1764.54
 | area_land_km2           = 
 | area_water_km2          = 
 | area_water_percent      = 
-| population_total        = 2090036
-| population_as_of        = 2026
-| population_density_km2  = 917.39
+| population_total        = 900497
+| population_as_of        = 2025
+| population_rank         = 33rd
+| population_density_km2  = 510.3
 | population_demonym      = Yonezawan
 | population_est          = 
 | pop_est_as_of           = 
@@ -46,7 +47,7 @@
 
 '''Yonezawa Prefecture''' ({{nihongo|米澤県|Yonezawa-ken}}) is a [[prefectures of Okaiken|prefecture]] of [[Okaiken]] located in the central region of [[Harujima]] island. A [[landlocked country|landlocked]] prefecture, it is bordered by [[Okami Metropolis]] to the northeast, [[Yamagata Prefecture]] to the east, [[Tokuyama Prefecture]] to the south, and [[Kofu Prefecture]] to the west. Yonezawa serves as the primary '''industrial hinterland''' for the national capital, hosting extensive manufacturing zones, logistics centers, and government satellite offices that support the metropolitan region.
 
-The capital and largest city is [[Yonezawa]], with a population of approximately 849,055 residents. The prefecture has a total population of 2,090,036 (2026), making it one of the most densely populated prefectures in Okaiken. Yonezawa Prefecture is renowned for its '''heavy manufacturing sector''', particularly automotive production, electronics assembly, and machinery manufacturing, as well as its role as a '''logistics hub''' connecting the capital to the rest of Harujima island.
+The capital and largest city is [[Yonezawa]], with a population of approximately 849,055 residents. The prefecture has a total population of 900,497 (2026), making it one of the most densely populated prefectures in Okaiken. Yonezawa Prefecture is renowned for its '''heavy manufacturing sector''', particularly automotive production, electronics assembly, and machinery manufacturing, as well as its role as a '''logistics hub''' connecting the capital to the rest of Harujima island.
 
 ==History==
 {{Main|History of Yonezawa Prefecture}}
@@ -98,129 +99,129 @@ The flat terrain of the basin has facilitated the development of extensive rail 
 | width = 100%
 | metric first = yes
 | single line = yes
-| Jan high C = 19.8
-| Feb high C = 20.4
-| Mar high C = 22.1
-| Apr high C = 24.3
-| May high C = 26.8
-| Jun high C = 28.6
-| Jul high C = 30.2
-| Aug high C = 31.1
-| Sep high C = 29.4
-| Oct high C = 26.8
-| Nov high C = 23.9
-| Dec high C = 20.6
-| year high C = 25.3
-| Jan low C = 12.4
-| Feb low C = 12.9
-| Mar low C = 14.6
-| Apr low C = 17.2
-| May low C = 19.8
-| Jun low C = 22.4
-| Jul low C = 24.1
-| Aug low C = 24.5
-| Sep low C = 22.6
-| Oct low C = 19.2
-| Nov low C = 15.8
-| Dec low C = 13.1
-| year low C = 18.3
-| Jan precipitation mm = 68
-| Feb precipitation mm = 72
-| Mar precipitation mm = 98
-| Apr precipitation mm = 124
-| May precipitation mm = 156
-| Jun precipitation mm = 218
-| Jul precipitation mm = 246
-| Aug precipitation mm = 232
-| Sep precipitation mm = 186
-| Oct precipitation mm = 142
-| Nov precipitation mm = 96
-| Dec precipitation mm = 74
-| year precipitation mm = 1712
-| Jan precipitation days = 6
-| Feb precipitation days = 7
-| Mar precipitation days = 9
-| Apr precipitation days = 10
-| May precipitation days = 12
-| Jun precipitation days = 15
-| Jul precipitation days = 16
-| Aug precipitation days = 14
-| Sep precipitation days = 12
-| Oct precipitation days = 10
-| Nov precipitation days = 7
-| Dec precipitation days = 6
-| year precipitation days = 124
-| Jan humidity = 62
-| Feb humidity = 64
-| Mar humidity = 66
-| Apr humidity = 70
-| May humidity = 74
-| Jun humidity = 78
-| Jul humidity = 80
-| Aug humidity = 79
-| Sep humidity = 76
-| Oct humidity = 72
-| Nov humidity = 66
-| Dec humidity = 63
-| year humidity = 71
-| Jan record high C = 26.2
-| Feb record high C = 27.4
-| Mar record high C = 29.8
-| Apr record high C = 32.4
-| May record high C = 34.6
-| Jun record high C = 36.8
-| Jul record high C = 38.2
-| Aug record high C = 39.1
-| Sep record high C = 36.4
-| Oct record high C = 32.8
-| Nov record high C = 29.2
-| Dec record high C = 26.8
-| year record high C = 39.1
-| Jan record low C = 4.2
-| Feb record low C = 4.8
-| Mar record low C = 7.2
-| Apr record low C = 10.6
-| May record low C = 13.8
-| Jun record low C = 17.4
-| Jul record low C = 19.8
-| Aug record low C = 20.2
-| Sep record low C = 16.8
-| Oct record low C = 12.4
-| Nov record low C = 8.1
-| Dec record low C = 4.6
-| year record low C = 4.2
-| Jan uv = 7
-| Feb uv = 8
-| Mar uv = 9
-| Apr uv = 10
-| May uv = 11
-| Jun uv = 12
-| Jul uv = 12
-| Aug uv = 12
-| Sep uv = 10
-| Oct uv = 8
-| Nov uv = 7
-| Dec uv = 6
-| year uv = 9
-| Jan dew point C = 10.2
-| Feb dew point C = 10.8
-| Mar dew point C = 12.4
-| Apr dew point C = 15.2
-| May dew point C = 18.1
-| Jun dew point C = 20.8
-| Jul dew point C = 22.6
-| Aug dew point C = 22.9
-| Sep dew point C = 20.4
-| Oct dew point C = 16.8
-| Nov dew point C = 13.2
-| Dec dew point C = 10.6
-| year dew point C = 16.2
+|Jan high C = 29.2
+|Feb high C = 29.2
+|Mar high C = 28.1
+|Apr high C = 26.4
+|May high C = 24.3
+|Jun high C = 22.5
+|Jul high C = 21.5
+|Aug high C = 21.5
+|Sep high C = 22.5
+|Oct high C = 24.3
+|Nov high C = 26.4
+|Dec high C = 28.1
+|year high C = 25.3
+|Jan low C = 21.2
+|Feb low C = 21.2
+|Mar low C = 20.1
+|Apr low C = 18.4
+|May low C = 16.3
+|Jun low C = 14.5
+|Jul low C = 13.5
+|Aug low C = 13.5
+|Sep low C = 14.5
+|Oct low C = 16.3
+|Nov low C = 18.4
+|Dec low C = 20.1
+|year low C = 17.3
+|Jan precipitation mm = 374.4
+|Feb precipitation mm = 374.4
+|Mar precipitation mm = 317.9
+|Apr precipitation mm = 261.3
+|May precipitation mm = 91.7
+|Jun precipitation mm = 35.1
+|Jul precipitation mm = 91.7
+|Aug precipitation mm = 91.7
+|Sep precipitation mm = 204.8
+|Oct precipitation mm = 204.8
+|Nov precipitation mm = 261.3
+|Dec precipitation mm = 374.4
+|year precipitation mm = 2683.5
+|Jan precipitation days = 23
+|Feb precipitation days = 23
+|Mar precipitation days = 20
+|Apr precipitation days = 16
+|May precipitation days = 6
+|Jun precipitation days = 2
+|Jul precipitation days = 6
+|Aug precipitation days = 6
+|Sep precipitation days = 13
+|Oct precipitation days = 13
+|Nov precipitation days = 16
+|Dec precipitation days = 23
+|year precipitation days = 167
+|Jan humidity = 62
+|Feb humidity = 62
+|Mar humidity = 62
+|Apr humidity = 62
+|May humidity = 60
+|Jun humidity = 61
+|Jul humidity = 62
+|Aug humidity = 62
+|Sep humidity = 64
+|Oct humidity = 62
+|Nov humidity = 62
+|Dec humidity = 63
+|year humidity = 62
+|Jan record high C = 39.0
+|Feb record high C = 38.7
+|Mar record high C = 37.6
+|Apr record high C = 34.5
+|May record high C = 33.6
+|Jun record high C = 31.0
+|Jul record high C = 30.4
+|Aug record high C = 30.4
+|Sep record high C = 30.8
+|Oct record high C = 32.6
+|Nov record high C = 34.8
+|Dec record high C = 36.6
+|year record high C = 39.0
+|Jan record low C = 10.5
+|Feb record low C = 12.0
+|Mar record low C = 10.4
+|Apr record low C = 7.3
+|May record low C = 4.9
+|Jun record low C = 4.2
+|Jul record low C = 1.5
+|Aug record low C = 3.9
+|Sep record low C = 2.5
+|Oct record low C = 4.6
+|Nov record low C = 9.1
+|Dec record low C = 9.4
+|year record low C = 1.5
+|Jan uv = 11
+|Feb uv = 11
+|Mar uv = 11
+|Apr uv = 11
+|May uv = 10
+|Jun uv = 10
+|Jul uv = 9
+|Aug uv = 9
+|Sep uv = 10
+|Oct uv = 10
+|Nov uv = 11
+|Dec uv = 11
+|year uv = 10
+|Jan dew point C = 17.6
+|Feb dew point C = 17.6
+|Mar dew point C = 16.5
+|Apr dew point C = 14.7
+|May dew point C = 12.4
+|Jun dew point C = 10.6
+|Jul dew point C = 9.9
+|Aug dew point C = 9.9
+|Sep dew point C = 11.2
+|Oct dew point C = 12.8
+|Nov dew point C = 14.7
+|Dec dew point C = 16.7
+|year dew point C = 13.7
 | source = Okaiken Meteorological Agency
 }}
 
 Yonezawa Prefecture has a '''humid subtropical climate''' (Köppen ''Cfa'') with distinct seasonal variations. The landlocked basin geography creates greater temperature extremes than coastal prefectures—summers are hotter and winters cooler than the nearby [[Okami Metropolis]].
 
-The surrounding hills create a partial '''rain shadow effect''', making Yonezawa drier than coastal prefectures. Annual precipitation averages 1,712mm, concentrated in the summer monsoon season (June–August). The basin is prone to '''heat island effects''' in summer, with temperatures frequently exceeding 35°C in July and August.
+The surrounding hills create a partial '''rain shadow effect''', making Yonezawa drier than coastal prefectures. Annual precipitation averages 1,712mm, concentrated in the summer monsoon season (December–February). The basin is prone to '''heat island effects''' in summer, with temperatures frequently exceeding 35°C in January and February.
 
 ==Economy==
 
@@ -251,10 +252,11 @@ Approximately 28% of Yonezawa's working population commutes daily to [[Okami]], 
 ===Agriculture===
 
 Despite industrialization, agriculture remains significant in the southern and western portions of the prefecture. The [[Nagai Valley]] produces premium rice varieties, including the famous [[Yonezawa Premium]] brand sold in Okami's luxury markets. Vegetable farming serves the capital's fresh produce needs, while the [[Iide Highland]] produces specialty crops including mushrooms and mountain vegetables.
+Yonezawa's automotive supremacy has evolved rapidly through massive investments in next-generation propulsion and battery chemistry. Within the Yonezawa Industrial Zone, Yonezawa Motors has partnered with regional suppliers to establish Yonezawa Solid-State Technologies, an advanced battery cell gigafactory. The facility utilizes battery-grade lithium carbonate refined from northern geothermal brines, producing ceramic-electrolyte solid-state cells capable of rapid charging in sub-zero winter temperatures. Concurrently, Yonezawa Hydro-Mobility designs heavy fuel-cell powertrains and kinetic pneumatic booster units for commercial trucking fleets, while traditional silk sericulture cooperatives in the surrounding foothills supply natural high-tensile silk fibers for luxury automotive interior upholstery.
 
 ==Demographics==
 
-Yonezawa Prefecture has a population of 2,090,036 (2026), distributed across 17 municipalities. The population has grown steadily as the prefecture has attracted both industrial workers and commuters seeking affordable housing near the capital. The prefecture has a relatively balanced age distribution, with significant populations of both working-age families and retirees attracted by lower costs of living.
+Yonezawa Prefecture has a population of 900,497 (2026), distributed across 17 municipalities. The population has grown steadily as the prefecture has attracted both industrial workers and commuters seeking affordable housing near the capital. The prefecture has a relatively balanced age distribution, with significant populations of both working-age families and retirees attracted by lower costs of living.
 
 ===Cities===
 [[File:Yonezawa City Center.jpg|thumb|right|300px|Yonezawa city center, with the prefectural government tower visible in the background.]]
@@ -354,7 +356,7 @@ Due to its large population of government employees and industrial workers, Yone
 ==See also==
 
 * [[Prefectures of Okaiken]]
-* [[Okami Region]]
+* [[Tokami region|Tokami]]
 * [[Harujima]]
 * [[Industrial zones of Okaiken]]
 
@@ -366,6 +368,6 @@ Due to its large population of government employees and industrial workers, Yone
 
 [[Category:Yonezawa Prefecture| ]]
 [[Category:Prefectures of Okaiken]]
-[[Category:Okami Region]]
+[[Category:Tokami region]]
 [[Category:Harujima island]]
 [[Category:Landlocked prefectures of Okaiken]]

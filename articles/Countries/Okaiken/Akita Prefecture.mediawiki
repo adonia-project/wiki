@@ -1,4 +1,4 @@
-{{Infobox settlement
+﻿{{Infobox settlement
 | name                    = Akita Prefecture
 | native_name             = {{lang|ja|秋田県}}
 | native_name_lang        = Sanese
@@ -9,7 +9,7 @@
 | image_seal              = Seal of Akita.svg
 | seal_size               = 100px
 | seal_alt                = Seal of Akita Prefecture
-| motto                   = 山の恵み、実りの里<br>{{small|'''Trent''': "Bounty of the Mountains, Land of Harvest"}}
+| motto                   = 山の恵み、実りの里<br>{{small|'''Mercian''': "Bounty of the Mountains, Land of Harvest"}}
 | image_map               = Location of Akita Prefecture.svg
 | mapsize                 = 275px
 | map_alt                 = Location of Akita Prefecture in Okaiken
@@ -19,7 +19,7 @@
 | subdivision_type1       = Island
 | subdivision_name1       = Harujima
 | subdivision_type2       = Region
-| subdivision_name2       = Kitabake
+| subdivision_name2       = [[Tokami region|Tokami]]
 | established_title       = Established
 | established_date        = September 29, 1872
 | seat_type               = Capital
@@ -30,11 +30,11 @@
 | leader_title1           = Leader of Governing Council
 | leader_name1            = Hanako Odate
 | unit_pref               = Metric
-| area_total_km2          = 4095.09
+| area_total_km2          = 3765.58
 | area_rank               = 22nd
-| population_total        = 1975683
-| population_as_of        = 2026
-| population_rank         = 9th
+| population_total        = 1250253
+| population_as_of        = 2025
+| population_rank         = 16th
 | population_density_km2  = auto
 | timezone1               = Okaiken Standard Time 
 | utc_offset1             = +9
@@ -42,7 +42,7 @@
 | website                 = 
 }}
 
-{{nihongo|'''Akita Prefecture'''|秋田県|Akita Ken}} is a landlocked, mountainous [[Prefectures of Okaiken|prefecture]] of [[Okaiken]] located in the northern interior of [[Harujima]] Island. Its population as of 2026 was estimated at 1,975,683. It is the 22nd largest prefecture by land area with an area of 4,095.09 square kilometres. Its capital city is [[Akita, Akita|Akita]]. Akita Prefecture is renowned as Okaiken's premier fruit-growing region, celebrated for its crisp highland apples, the distinctive {{nihongo|'''Kabosu'''|カボス}} citrus, and traditional [[w:Onsen|hot spring]] resorts nestled in the mountain valleys. The prefecture is often referred to as the {{nihongo|"Orchard of the North"|北の果樹園|Kita no Kajūen}}.
+{{nihongo|'''Akita Prefecture'''|秋田県|Akita Ken}} is a landlocked, mountainous [[Prefectures of Okaiken|prefecture]] of [[Okaiken]] located in the northern interior of [[Harujima]] Island. Its population as of 2026 was estimated at 1,250,253. It is the 22nd largest prefecture by land area with an area of 4,095.09 square kilometres. Its capital city is [[Akita, Akita|Akita]]. Akita Prefecture is renowned as Okaiken's premier fruit-growing region, celebrated for its crisp highland apples, the distinctive {{nihongo|'''Kabosu'''|カボス}} citrus, and traditional [[w:Onsen|hot spring]] resorts nestled in the mountain valleys. The prefecture is often referred to as the {{nihongo|"Orchard of the North"|北の果樹園|Kita no Kajūen}}.
 
 ==History==
 [[File:Akita Historical Valley.png|thumb|left|250px|The Kuraishi Valley in the 16th century, showing early mountain settlements and terraced orchards.]]
@@ -122,160 +122,160 @@ As illustrated by the climate data for the capital city below, the region is def
 | single line = Y
 | metric first = Y
 | location = Akita, Akita Prefecture (1991−2020 normals, extremes 1883−present)
-| Jan record high C = 16.2
-| Feb record high C = 18.1
-| Mar record high C = 22.4
-| Apr record high C = 27.8
-| May record high C = 31.2
-| Jun record high C = 33.5
-| Jul record high C = 35.8
-| Aug record high C = 36.9
-| Sep record high C = 32.4
-| Oct record high C = 27.6
-| Nov record high C = 22.1
-| Dec record high C = 17.8
-| Jan record low C = -12.4
-| Feb record low C = -11.8
-| Mar record low C = -8.2
-| Apr record low C = -2.1
-| May record low C = 2.8
-| Jun record low C = 8.4
-| Jul record low C = 14.2
-| Aug record low C = 15.1
-| Sep record low C = 8.9
-| Oct record low C = 1.2
-| Nov record low C = -4.6
-| Dec record low C = -10.8
+|Jan record high C = 38.4
+|Feb record high C = 38.6
+|Mar record high C = 36.5
+|Apr record high C = 36.1
+|May record high C = 34.1
+|Jun record high C = 32.1
+|Jul record high C = 30.0
+|Aug record high C = 31.2
+|Sep record high C = 31.5
+|Oct record high C = 34.2
+|Nov record high C = 35.2
+|Dec record high C = 37.3
+|Jan record low C = 10.6
+|Feb record low C = 9.8
+|Mar record low C = 9.3
+|Apr record low C = 8.3
+|May record low C = 5.1
+|Jun record low C = 5.7
+|Jul record low C = 2.5
+|Aug record low C = 4.3
+|Sep record low C = 3.9
+|Oct record low C = 4.8
+|Nov record low C = 7.5
+|Dec record low C = 8.7
 | precipitation colour = green
-| Jan precipitation mm = 112.3
-| Feb precipitation mm = 98.4
-| Mar precipitation mm = 124.6
-| Apr precipitation mm = 156.2
-| May precipitation mm = 178.5
-| Jun precipitation mm = 245.8
-| Jul precipitation mm = 298.1
-| Aug precipitation mm = 267.4
-| Sep precipitation mm = 234.2
-| Oct precipitation mm = 167.8
-| Nov precipitation mm = 142.1
-| Dec precipitation mm = 118.6
-| year precipitation mm = 2144.0
-| Jan mean C = 1.1
-| Feb mean C = 2.2
-| Mar mean C = 6.6
-| Apr mean C = 12.7
-| May mean C = 18.0
-| Jun mean C = 21.8
-| Jul mean C = 25.5
-| Aug mean C = 26.0
-| Sep mean C = 21.4
-| Oct mean C = 15.0
-| Nov mean C = 8.6
-| Dec mean C = 3.0
-| year mean C = 13.5
-| Jan high C = 5.2
-| Feb high C = 6.8
-| Mar high C = 11.5
-| Apr high C = 18.2
-| May high C = 23.4
-| Jun high C = 26.1
-| Jul high C = 29.8
-| Aug high C = 30.2
-| Sep high C = 25.6
-| Oct high C = 19.8
-| Nov high C = 13.2
-| Dec high C = 7.1
-| year high C = 18.1
-| Jan low C = -3.1
-| Feb low C = -2.4
-| Mar low C = 1.8
-| Apr low C = 7.2
-| May low C = 12.6
-| Jun low C = 17.4
-| Jul low C = 21.2
-| Aug low C = 21.8
-| Sep low C = 17.1
-| Oct low C = 10.2
-| Nov low C = 4.1
-| Dec low C = -1.2
-| year low C = 8.9
-| Jan humidity = 72
-| Feb humidity = 70
-| Mar humidity = 68
-| Apr humidity = 65
-| May humidity = 68
-| Jun humidity = 75
-| Jul humidity = 78
-| Aug humidity = 76
-| Sep humidity = 74
-| Oct humidity = 71
-| Nov humidity = 72
-| Dec humidity = 74
-| year humidity = 72
-| Jan sun = 98.2
-| Feb sun = 112.4
-| Mar sun = 156.8
-| Apr sun = 189.2
-| May sun = 201.5
-| Jun sun = 156.3
-| Jul sun = 178.6
-| Aug sun = 195.4
-| Sep sun = 162.1
-| Oct sun = 145.8
-| Nov sun = 118.4
-| Dec sun = 89.6
-| year sun = 1784.3
-| Jan snow cm = 42
-| Feb snow cm = 38
-| Mar snow cm = 18
-| Apr snow cm = 2
-| May snow cm = 0
-| Jun snow cm = 0
-| Jul snow cm = 0
-| Aug snow cm = 0
-| Sep snow cm = 0
-| Oct snow cm = 0
-| Nov snow cm = 8
-| Dec snow cm = 35
-| year snow cm = 143
+|Jan precipitation mm = 233.3
+|Feb precipitation mm = 233.3
+|Mar precipitation mm = 197.9
+|Apr precipitation mm = 162.5
+|May precipitation mm = 56.3
+|Jun precipitation mm = 20.9
+|Jul precipitation mm = 56.3
+|Aug precipitation mm = 56.3
+|Sep precipitation mm = 127.1
+|Oct precipitation mm = 127.1
+|Nov precipitation mm = 162.5
+|Dec precipitation mm = 233.3
+|year precipitation mm = 1666.8
+|Jan mean C = 25.3
+|Feb mean C = 25.3
+|Mar mean C = 24.3
+|Apr mean C = 22.5
+|May mean C = 20.5
+|Jun mean C = 18.7
+|Jul mean C = 17.7
+|Aug mean C = 17.7
+|Sep mean C = 18.7
+|Oct mean C = 20.5
+|Nov mean C = 22.5
+|Dec mean C = 24.3
+|year mean C = 21.5
+|Jan high C = 29.3
+|Feb high C = 29.3
+|Mar high C = 28.3
+|Apr high C = 26.5
+|May high C = 24.5
+|Jun high C = 22.7
+|Jul high C = 21.7
+|Aug high C = 21.7
+|Sep high C = 22.7
+|Oct high C = 24.5
+|Nov high C = 26.5
+|Dec high C = 28.3
+|year high C = 25.5
+|Jan low C = 21.3
+|Feb low C = 21.3
+|Mar low C = 20.3
+|Apr low C = 18.5
+|May low C = 16.5
+|Jun low C = 14.7
+|Jul low C = 13.7
+|Aug low C = 13.7
+|Sep low C = 14.7
+|Oct low C = 16.5
+|Nov low C = 18.5
+|Dec low C = 20.3
+|year low C = 17.5
+|Jan humidity = 61
+|Feb humidity = 61
+|Mar humidity = 61
+|Apr humidity = 62
+|May humidity = 61
+|Jun humidity = 62
+|Jul humidity = 63
+|Aug humidity = 63
+|Sep humidity = 64
+|Oct humidity = 63
+|Nov humidity = 62
+|Dec humidity = 62
+|year humidity = 62
+|Jan sun = 155.0
+|Feb sun = 155.0
+|Mar sun = 165.6
+|Apr sun = 176.3
+|May sun = 208.1
+|Jun sun = 218.7
+|Jul sun = 208.1
+|Aug sun = 208.1
+|Sep sun = 186.9
+|Oct sun = 186.9
+|Nov sun = 176.3
+|Dec sun = 155.0
+|year sun = 183.3
+|Jan snow cm = 0.0
+|Feb snow cm = 0.0
+|Mar snow cm = 0.0
+|Apr snow cm = 0.0
+|May snow cm = 0.0
+|Jun snow cm = 0.0
+|Jul snow cm = 0.0
+|Aug snow cm = 0.0
+|Sep snow cm = 0.0
+|Oct snow cm = 0.0
+|Nov snow cm = 0.0
+|Dec snow cm = 0.0
+|year snow cm = 0.0
 | unit precipitation days = 0.5 mm
-| Jan precipitation days = 14.2
-| Feb precipitation days = 12.8
-| Mar precipitation days = 13.6
-| Apr precipitation days = 11.4
-| May precipitation days = 10.8
-| Jun precipitation days = 12.1
-| Jul precipitation days = 13.8
-| Aug precipitation days = 11.6
-| Sep precipitation days = 11.2
-| Oct precipitation days = 10.4
-| Nov precipitation days = 11.8
-| Dec precipitation days = 14.6
-| year precipitation days = 138.3
-| Jan uv = 2
-| Feb uv = 3
-| Mar uv = 5
-| Apr uv = 7
-| May uv = 9
-| Jun uv = 10
-| Jul uv = 10
-| Aug uv = 9
-| Sep uv = 7
-| Oct uv = 5
-| Nov uv = 3
-| Dec uv = 2
-| Jan dew point C = -6
-| Feb dew point C = -5
-| Mar dew point C = -1
-| Apr dew point C = 4
-| May dew point C = 10
-| Jun dew point C = 15
-| Jul dew point C = 19
-| Aug dew point C = 20
-| Sep dew point C = 15
-| Oct dew point C = 9
-| Nov dew point C = 3
-| Dec dew point C = -4
+|Jan precipitation days = 15
+|Feb precipitation days = 15
+|Mar precipitation days = 12
+|Apr precipitation days = 10
+|May precipitation days = 4
+|Jun precipitation days = 2
+|Jul precipitation days = 4
+|Aug precipitation days = 4
+|Sep precipitation days = 8
+|Oct precipitation days = 8
+|Nov precipitation days = 10
+|Dec precipitation days = 15
+|year precipitation days = 107
+|Jan uv = 11
+|Feb uv = 11
+|Mar uv = 11
+|Apr uv = 11
+|May uv = 10
+|Jun uv = 10
+|Jul uv = 9
+|Aug uv = 9
+|Sep uv = 10
+|Oct uv = 10
+|Nov uv = 11
+|Dec uv = 11
+|Jan dew point C = 17.5
+|Feb dew point C = 17.5
+|Mar dew point C = 16.5
+|Apr dew point C = 14.9
+|May dew point C = 12.7
+|Jun dew point C = 11.1
+|Jul dew point C = 10.3
+|Aug dew point C = 10.3
+|Sep dew point C = 11.5
+|Oct dew point C = 13.0
+|Nov dew point C = 14.9
+|Dec dew point C = 16.7
 | source 1 = Sanese Meteorological Agency
 | source 2 = Adonia Weather Atlas
 }}
@@ -293,9 +293,7 @@ The agricultural sector is the cultural and economic heart of Akita Prefecture. 
 ====Apples====
 Akita is Okaiken's undisputed leader in apple production, accounting for approximately 65% of the national apple harvest. The prefecture's signature varieties include:
 
-* '''{{nihongo|Akita Aika|秋田愛佳}}''' — The prefecture's flagship apple, known for its perfect balance of sweetness and tartness, with a distinctive floral aroma
-* '''{{nihongo|Kita-no-Kaori|北の香り}}''' — A crisp, green-skinned variety prized for baking and cider production
-* '''{{nihongo|Yukiguni|雪国}}''' — A late-season variety that develops exceptional sweetness when stored through winter
+Commercial orchards focus on three primary cultivars developed specifically for highland microclimates. The flagship variety is the {{nihongo|Akita Aika|秋田愛佳}}, renowned for its balanced sweetness, crisp texture, and floral aroma. Complementing this is the crisp, green-skinned {{nihongo|Kita-no-Kaori|北の香り}}, which is widely cultivated for premium baking and commercial cider fermentation, while the late-season {{nihongo|Yukiguni|雪国}} is cellar-stored through the winter to concentrate natural sugars and develop high sweetness.
 
 The apple orchards are concentrated in the Odate Valley and surrounding highland areas, where elevations between 800-1,200 meters provide optimal growing conditions. The industry employs approximately 45,000 workers directly and supports an extensive network of packaging facilities, cold storage warehouses, and transport logistics.
 
@@ -309,10 +307,7 @@ The Kabosu orchards are concentrated in the Yunohara Valley, where the mineral-r
 
 The abundance of fresh fruit has driven the development of a substantial food processing industry. The city of [[Yokote]] serves as the prefecture's processing hub, hosting numerous facilities that produce:
 
-* Fresh-pressed apple and Kabosu juices for domestic and export markets
-* Apple cider and fermented Kabosu beverages
-* Jams, preserves, and dried fruit products
-* Kabosu-based condiments and sauces
+Local agro-processing facilities convert surplus harvests into value-added culinary goods. Cooperatives operate automated pressing lines producing premium fresh juices, alcoholic ciders, and sparkling fermented kabosu tonics. Secondary processing yields artisanal jams, sun-dried fruit snacks, and specialty kabosu-infused vinegars, soy sauces, and marinades distributed to high-end restaurants nationwide.
 
 Major national beverage brands operate processing facilities in Akita, utilizing the prefecture's high-quality fruit inputs. The industry has also spawned a craft beverage movement, with numerous small-scale producers creating artisanal ciders and citrus liqueurs that have gained followings across Okaiken.
 
@@ -325,6 +320,7 @@ The mountainous regions beyond the agricultural valleys remain heavily forested,
 Akita's numerous hot springs, fed by geothermal activity in the mountainous terrain, have made the prefecture a premier wellness tourism destination. The [[Yunohara]] district, whose name literally means "hot water field," is the center of the onsen industry, featuring over 40 hot spring resorts that attract visitors seeking relief from the tropical heat of the coastal regions.
 
 The combination of mountain scenery, historic villages, and fruit-based culinary tourism has created a distinctive brand for Akita. The prefecture attracts approximately 4.2 million visitors annually, with peak seasons during the spring apple blossom period and the autumn harvest festivals.
+Complementing its highland citrus groves and apple orchards, Akita preserves an ancient artisanal papercraft tradition centered in the upper valleys of the Yunohara. The Okami-gami guild maintains cold-water washi paper mills along mountain streams, where farmers harvest winter kozo mulberry bark. Master artisans boil the fibers in wood-ash lye, hand-beat the pulp on smooth river stones, and suspend the cellulose in freezing spring water mixed with mucilaginous tororo-aoi root extracts. The resulting handmade washi is chemically inert, flexible, and completely acid-free, commanding high prices for diplomatic calligraphy, Shoto ritual scrolls, and premium packaging for regional sake and confectionery cooperatives.
 
 ==Transportation==
 [[File:Akita Shinkansen Harujima.jpg|thumb|right|250px|An Akita Shinkansen train traversing the Kuraishi Mountain Tunnel.]]

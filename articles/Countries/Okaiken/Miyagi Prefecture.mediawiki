@@ -1,4 +1,4 @@
-{{Infobox settlement
+﻿{{Infobox settlement
 | name                    = Miyagi Prefecture
 | native_name             = {{lang|ja|宮城県}}
 | native_name_lang        = Sanese
@@ -9,7 +9,7 @@
 | image_seal              = Seal of Miyagi.svg
 | seal_size               = 100px
 | seal_alt                = Seal of Miyagi Prefecture
-| motto                   = 本当に宮城<br>{{small|'''Trent''': "Truly Miyagi"}}
+| motto                   = 本当に宮城<br>{{small|'''Mercian''': "Truly Miyagi"}}
 | image_map               = Location of Miyagi Prefecture.svg
 | mapsize                 = 275px
 | map_alt                 = Location of Miyagi Prefecture in Okaiken
@@ -19,7 +19,7 @@
 | subdivision_type1       = Island
 | subdivision_name1       = Harujima
 | subdivision_type2       = Region
-| subdivision_name2       = Kitabake
+| subdivision_name2       = [[Tokami region|Tokami]]
 | established_title       = Established
 | established_date        = September 29, 1872
 | seat_type               = Capital
@@ -30,11 +30,11 @@
 | leader_title1           = Leader of Governing Council
 | leader_name1            = Misashi Kawabe
 | unit_pref               = Metric
-| area_total_km2          = 5716.400282
+| area_total_km2          = 5123.01
 | area_rank               = 15th
-| population_total        = 3395239
-| population_as_of        = 2026
-| population_rank         = 12th
+| population_total        = 2125612
+| population_as_of        = 2025
+| population_rank         = 7th
 | population_density_km2  = auto
 | timezone1               = Okaiken Standard Time 
 | utc_offset1             = +9
@@ -42,7 +42,7 @@
 | website                 = 
 }}
 
-{{nihongo|'''Miyagi Prefecture'''|宮城県|Miyagi Ken}} is a prefecture of [[Okaiken]] located on the northern coast of [[Harujima]], northwest of the capital [[Okami]]. Its population as of 2026 was estimated at 3,395,239. It is the 15th largest prefecture by land area with an area of 5,716.40 square kilometres. Its capital city is [[Shinagawa, Miyagi|Shinagawa]]. Miyagi prefecture is known for its hot, humid tropical climate, making it one of the most popular beach and resort destinations in the country. It is also known for its exports in premium spirits, tropical fruits, and the celebrated ''Miyagi-buta'', a heritage breed black pork that has become one of Okaiken's most prestigious luxury food exports.
+{{nihongo|'''Miyagi Prefecture'''|宮城県|Miyagi Ken}} is a prefecture of [[Okaiken]] located on the northern coast of [[Harujima]], northwest of the capital [[Okami]]. Its population as of 2026 was estimated at 2,125,612. It is the 15th largest prefecture by land area with an area of 5,716.40 square kilometres. Its capital city is [[Shinagawa, Miyagi|Shinagawa]]. Miyagi prefecture is known for its hot, humid tropical climate, making it one of the most popular beach and resort destinations in the country. It is also known for its exports in premium spirits, tropical fruits, and the celebrated ''Miyagi-buta'', a heritage breed black pork that has become one of Okaiken's most prestigious luxury food exports.
 
 ==History==
 [[File:Miyagi Historical Map.png|thumb|left|250px|A 17th-century map depicting the northern coastal settlements of Miyagi, then known as the "Pirate Coast."]]
@@ -108,169 +108,169 @@ Twenty-two cities are located in Miyagi Prefecture. The following table uses off
 
 Miyagi Prefecture experiences temperatures above 20 °C (68 °F) for the majority of the year. Due to its unique geographical span along the northern maritime frontier, the climate ranges from a humid subtropical climate (Köppen climate classification Cfa) in the southern districts closer to the central mainland, to a tropical rainforest climate (Köppen climate classification Af) in the extreme northern coastal cities near the Yanbaru border.
 
-Because of this constant equatorial warmth, snowfall is practically unheard of at sea level anywhere in the prefecture. However, a highly unusual meteorological anomaly occurred on January 24, 2016, when sleet was recorded in the northern coastal city of Akune for the first time in modern history.
+Because of this constant equatorial warmth, snowfall is practically unheard of at sea level anywhere in the prefecture. However, a highly unusual meteorological anomaly occurred on July 24, 2016, when sleet was recorded in the northern coastal city of Akune for the first time in modern history.
 
-As illustrated by the climate data for the capital city of Shinagawa below, the region is defined by extreme seasonal precipitation shifts rather than temperature fluctuations. The data highlights a massive spike in rainfall during June and July, frequently exceeding 500 millimeters in a single month. This torrential period corresponds with the arrival of the Eastern Typhoons sweeping in from the Shendan Ocean. Following the wet season, temperatures peak in August with highs routinely surpassing 32 °C (90 °F) combined with oppressive humidity. Conversely, the winter months from November through February are remarkably mild and relatively dry, making the prefecture a popular year-round coastal destination.
+As illustrated by the climate data for the capital city of Shinagawa below, the region is defined by extreme seasonal precipitation shifts rather than temperature fluctuations. The data highlights a massive spike in rainfall during December and January, frequently exceeding 200 millimeters in a single month. This torrential period corresponds with the arrival of the Eastern Typhoons sweeping in from the Shendan Ocean. Following the wet season, temperatures peak in August with highs routinely surpassing 32 °C (90 °F) combined with oppressive humidity. Conversely, the winter months from November through February are remarkably mild and relatively dry, making the prefecture a popular year-round coastal destination.
 
 {{Weather box
 | width = auto
 | single line = Y
 | metric first = Y
 | location = Shinagawa, Miyagi Prefecture (1991−2020 normals, extremes 1883−present)
-| Jan record high C = 23.9
-| Feb record high C = 24.1
-| Mar record high C = 28.6
-| Apr record high C = 30.2
-| May record high C = 31.7
-| Jun record high C = 34.6
-| Jul record high C = 37.2
-| Aug record high C = 37.4
-| Sep record high C = 35.7
-| Oct record high C = 34.0
-| Nov record high C = 29.5
-| Dec record high C = 24.7
-| Jan record low C = -5.7
-| Feb record low C = -6.7
-| Mar record low C = -3.9
-| Apr record low C = -1.0
-| May record low C = 3.9
-| Jun record low C = 9.0
-| Jul record low C = 15.9
-| Aug record low C = 16.5
-| Sep record low C = 9.3
-| Oct record low C = 2.6
-| Nov record low C = -1.5
-| Dec record low C = -5.5
+|Jan record high C = 38.0
+|Feb record high C = 38.6
+|Mar record high C = 38.2
+|Apr record high C = 36.1
+|May record high C = 33.8
+|Jun record high C = 33.2
+|Jul record high C = 31.7
+|Aug record high C = 30.9
+|Sep record high C = 32.3
+|Oct record high C = 33.4
+|Nov record high C = 35.3
+|Dec record high C = 38.7
+|Jan record low C = 11.7
+|Feb record low C = 12.4
+|Mar record low C = 11.5
+|Apr record low C = 9.1
+|May record low C = 7.6
+|Jun record low C = 3.4
+|Jul record low C = 3.3
+|Aug record low C = 3.0
+|Sep record low C = 4.0
+|Oct record low C = 7.7
+|Nov record low C = 9.3
+|Dec record low C = 8.9
 | precipitation colour = green
-| Jan precipitation mm = 78.3
-| Feb precipitation mm = 112.7
-| Mar precipitation mm = 161.0
-| Apr precipitation mm = 194.9
-| May precipitation mm = 205.2
-| Jun precipitation mm = 570.0
-| Jul precipitation mm = 365.1
-| Aug precipitation mm = 224.3
-| Sep precipitation mm = 222.9
-| Oct precipitation mm = 104.6
-| Nov precipitation mm = 102.5
-| Dec precipitation mm = 93.2
-| year precipitation mm = 2434.7
-| Jan mean C = 8.7
-| Feb mean C = 9.9
-| Mar mean C = 12.8
-| Apr mean C = 17.1
-| May mean C = 21.0
-| Jun mean C = 24.0
-| Jul mean C = 28.1
-| Aug mean C = 28.8
-| Sep mean C = 26.3
-| Oct mean C = 21.6
-| Nov mean C = 16.2
-| Dec mean C = 10.9
-| year mean C = 18.8
-| Jan high C = 13.1
-| Feb high C = 14.6
-| Mar high C = 17.5
-| Apr high C = 21.8
-| May high C = 25.5
-| Jun high C = 27.5
-| Jul high C = 31.9
-| Aug high C = 32.7
-| Sep high C = 30.2
-| Oct high C = 25.8
-| Nov high C = 20.6
-| Dec high C = 15.3
-| year high C = 23.1
-| Jan low C = 4.9
-| Feb low C = 5.8
-| Mar low C = 8.7
-| Apr low C = 12.9
-| May low C = 17.3
-| Jun low C = 21.3
-| Jul low C = 25.3
-| Aug low C = 26.0
-| Sep low C = 23.2
-| Oct low C = 18.0
-| Nov low C = 12.2
-| Dec low C = 6.9
-| year low C = 15.2
-| Jan humidity = 66
-| Feb humidity = 65
-| Mar humidity = 66
-| Apr humidity = 68
-| May humidity = 71
-| Jun humidity = 78
-| Jul humidity = 76
-| Aug humidity = 74
-| Sep humidity = 72
-| Oct humidity = 67
-| Nov humidity = 68
-| Dec humidity = 67
-| year humidity = 70
-| Jan sun = 132.6
-| Feb sun = 139.3
-| Mar sun = 163.2
-| Apr sun = 175.6
-| May sun = 178.2
-| Jun sun = 109.3
-| Jul sun = 185.5
-| Aug sun = 206.9
-| Sep sun = 176.4
-| Oct sun = 184.0
-| Nov sun = 157.7
-| Dec sun = 143.2
-| year sun = 1942.1
-| Jan snow cm = 1
-| Feb snow cm = 0
-| Mar snow cm = 0
-| Apr snow cm = 0
-| May snow cm = 0
-| Jun snow cm = 0
-| Jul snow cm = 0
-| Aug snow cm = 0
-| Sep snow cm = 0
-| Oct snow cm = 0
-| Nov snow cm = 0
-| Dec snow cm = 1
-| year snow cm = 2
+|Jan precipitation mm = 210.9
+|Feb precipitation mm = 246.2
+|Mar precipitation mm = 193.2
+|Apr precipitation mm = 157.9
+|May precipitation mm = 87.3
+|Jun precipitation mm = 34.4
+|Jul precipitation mm = 16.7
+|Aug precipitation mm = 16.7
+|Sep precipitation mm = 34.4
+|Oct precipitation mm = 52.0
+|Nov precipitation mm = 105.0
+|Dec precipitation mm = 175.6
+|year precipitation mm = 1330.3
+|Jan mean C = 25.9
+|Feb mean C = 25.9
+|Mar mean C = 24.8
+|Apr mean C = 23.1
+|May mean C = 21.0
+|Jun mean C = 19.3
+|Jul mean C = 18.2
+|Aug mean C = 18.2
+|Sep mean C = 19.3
+|Oct mean C = 21.0
+|Nov mean C = 23.1
+|Dec mean C = 24.8
+|year mean C = 22.1
+|Jan high C = 29.9
+|Feb high C = 29.9
+|Mar high C = 28.8
+|Apr high C = 27.1
+|May high C = 25.0
+|Jun high C = 23.3
+|Jul high C = 22.2
+|Aug high C = 22.2
+|Sep high C = 23.3
+|Oct high C = 25.0
+|Nov high C = 27.1
+|Dec high C = 28.8
+|year high C = 26.1
+|Jan low C = 21.9
+|Feb low C = 21.9
+|Mar low C = 20.8
+|Apr low C = 19.1
+|May low C = 17.0
+|Jun low C = 15.3
+|Jul low C = 14.2
+|Aug low C = 14.2
+|Sep low C = 15.3
+|Oct low C = 17.0
+|Nov low C = 19.1
+|Dec low C = 20.8
+|year low C = 18.1
+|Jan humidity = 71
+|Feb humidity = 72
+|Mar humidity = 72
+|Apr humidity = 72
+|May humidity = 72
+|Jun humidity = 73
+|Jul humidity = 73
+|Aug humidity = 73
+|Sep humidity = 73
+|Oct humidity = 72
+|Nov humidity = 71
+|Dec humidity = 71
+|year humidity = 72
+|Jan sun = 173.7
+|Feb sun = 163.1
+|Mar sun = 179.0
+|Apr sun = 189.6
+|May sun = 210.8
+|Jun sun = 226.7
+|Jul sun = 232.0
+|Aug sun = 232.0
+|Sep sun = 226.7
+|Oct sun = 221.4
+|Nov sun = 205.5
+|Dec sun = 184.3
+|year sun = 203.7
+|Jan snow cm = 0.0
+|Feb snow cm = 0.0
+|Mar snow cm = 0.0
+|Apr snow cm = 0.0
+|May snow cm = 0.0
+|Jun snow cm = 0.0
+|Jul snow cm = 0.0
+|Aug snow cm = 0.0
+|Sep snow cm = 0.0
+|Oct snow cm = 0.0
+|Nov snow cm = 0.0
+|Dec snow cm = 0.0
+|year snow cm = 0.0
 | unit precipitation days = 0.5 mm
-| Jan precipitation days = 10.2
-| Feb precipitation days = 10.2
-| Mar precipitation days = 13.2
-| Apr precipitation days = 11.1
-| May precipitation days = 10.7
-| Jun precipitation days = 16.9
-| Jul precipitation days = 12.8
-| Aug precipitation days = 12.2
-| Sep precipitation days = 11.3
-| Oct precipitation days = 8.0
-| Nov precipitation days = 8.9
-| Dec precipitation days = 9.9
-| year precipitation days = 135.4
-| Jan uv = 4
-| Feb uv = 5
-| Mar uv = 7
-| Apr uv = 9
-| May uv = 10
-| Jun uv = 11
-| Jul uv = 11
-| Aug uv = 11
-| Sep uv = 9
-| Oct uv = 7
-| Nov uv = 4
-| Dec uv = 3
-| Jan dew point C = 2
-| Feb dew point C = 4
-| Mar dew point C = 6
-| Apr dew point C = 10
-| May dew point C = 15
-| Jun dew point C = 20
-| Jul dew point C = 23
-| Aug dew point C = 24
-| Sep dew point C = 21
-| Oct dew point C = 15
-| Nov dew point C = 10
-| Dec dew point C = 4
+|Jan precipitation days = 13
+|Feb precipitation days = 15
+|Mar precipitation days = 12
+|Apr precipitation days = 10
+|May precipitation days = 5
+|Jun precipitation days = 2
+|Jul precipitation days = 2
+|Aug precipitation days = 2
+|Sep precipitation days = 2
+|Oct precipitation days = 3
+|Nov precipitation days = 7
+|Dec precipitation days = 11
+|year precipitation days = 84
+|Jan uv = 11
+|Feb uv = 11
+|Mar uv = 11
+|Apr uv = 11
+|May uv = 10
+|Jun uv = 10
+|Jul uv = 9
+|Aug uv = 9
+|Sep uv = 10
+|Oct uv = 10
+|Nov uv = 11
+|Dec uv = 11
+|Jan dew point C = 20.1
+|Feb dew point C = 20.2
+|Mar dew point C = 19.1
+|Apr dew point C = 17.5
+|May dew point C = 15.5
+|Jun dew point C = 13.8
+|Jul dew point C = 12.8
+|Aug dew point C = 12.8
+|Sep dew point C = 13.8
+|Oct dew point C = 15.4
+|Nov dew point C = 17.3
+|Dec dew point C = 19.1
 | source 1 = Sanese Meteorological Agency
 | source 2 = Adonia Weather Atlas
 }}
@@ -296,7 +296,7 @@ The prefecture is also a major producer of sweet potatoes and sugarcane, which f
 
 Because Miyagi borders the treacherous straits separating Okaiken from Yanbaru, its maritime economy is highly developed. The capital city of Shinagawa and the northern coastal cities operate as critical deep-water logistics hubs. These ports facilitate the massive flow of imported raw materials from the Shendan Ocean and export finished manufactured goods back to the Fosian mainland.
 
-The commercial fishing fleet operating out of Miyagi is one of the largest in the nation. The warm [[w:Ocean current|oceanic currents]] funneling through the strait create highly productive fishing grounds. The prefecture is a leading supplier of [[w:Skipjack tuna|skipjack tuna]], [[w:Yellowtail amberjack|yellowtail]], and [[w:Japanese amberjack|Japanese amberjack]]. In recent decades, the prefectural government has heavily subsidized the transition from open-ocean trawling to sustainable [[w:Aquaculture|aquaculture]]. The sheltered, deep-water bays along the rugged western coast have been converted into massive sea-farming grids, cultivating high-value amberjack and producing world-renowned [[w:Cultured pearl|cultured pearls]] that are exported to luxury jewelers globally.
+The commercial fishing fleet operating out of Miyagi is one of the largest in the nation. The warm [[w:Ocean current|oceanic currents]] funneling through the strait create highly productive fishing grounds. The prefecture is a leading supplier of [[w:Skipjack tuna|skipjack tuna]], [[w:Yellowtail amberjack|yellowtail]], and [[w:Japanese amberjack|Sanese amberjack]]. In recent decades, the prefectural government has heavily subsidized the transition from open-ocean trawling to sustainable [[w:Aquaculture|aquaculture]]. The sheltered, deep-water bays along the rugged western coast have been converted into massive sea-farming grids, cultivating high-value amberjack and producing world-renowned [[w:Cultured pearl|cultured pearls]] that are exported to luxury jewelers globally.
 
 ===Manufacturing and technology===
 [[File:Silicon Strait Miyagi.jpg|thumb|left|250px|Aerial view of the "Silicon Strait" industrial corridor near Shinagawa.]]
@@ -311,6 +311,7 @@ The prefecture has become a specialized hub for maritime [[w:Robotics|robotics]]
 The [[w:Service sector|service]] and tourism sectors have grown exponentially, driven by the prefecture's reputation as a premier domestic vacation destination. The hot, humid climate makes Miyagi one of the most popular beach and resort locations in Okaiken, particularly for residents of the colder, central mainland cities seeking an equatorial escape.
 
 The coastline is dotted with luxury resorts, surfing enclaves, and historical sites featuring preserved pirate coves from the Sengoku period. The completion of the Harujima Shinkansen has dramatically accelerated this economic sector, cutting travel times from the capital and allowing for massive weekend tourism surges. The influx of domestic and international visitors has created a booming secondary economy of hospitality services, [[w:Boutique|boutique]] retail, and [[w:Culinary tourism|culinary tourism]] centered entirely around the consumption of fresh local seafood and premium Miyagi-buta.
+In the mid-2020s, Miyagi's agricultural and maritime economy expanded into advanced marine biotechnology through the Bio-Shore corridor initiative. Operating in close proximity to coastal research stations, the prefecture established the northern branch of the Shendan Marine Bioresource Bank, housing multi-thousand-liter industrial bioreactors. These facilities culture barophilic and thermophilic micro-organisms harvested from abyssal hydrothermal vents, synthesizing pharmaceutical-grade squalene, polyunsaturated wax esters, and neuro-regenerative peptides. This closed-loop biosynthetic capacity has largely replaced extractive marine mammal harvesting, directly supplying active ingredients to the athletic nutrition facilities of the Cult of Iron and domestic biopharmaceutical manufacturers.
 
 ==Transportation==
 [[File:Shinagawa Shinkansen.jpg|thumb|left|250px|A Harujima Shinkansen train arriving at Shinagawa Station, the northern terminus of the line.]]

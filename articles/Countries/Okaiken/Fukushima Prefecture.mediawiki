@@ -1,4 +1,4 @@
-{{Infobox settlement
+﻿{{Infobox settlement
 |name                    = Fukushima Prefecture
 |native_name             = 福島県
 |native_name_lang        = ja
@@ -21,7 +21,7 @@
 |subdivision_type        = Country
 |subdivision_name        = [[Okaiken]]
 |subdivision_type1       = Region
-|subdivision_name1       = [[Okami Region]]
+|subdivision_name1       = [[Tokami region|Tokami]]
 |subdivision_type2       = Island
 |subdivision_name2       = [[Harujima]]
 |established_title       = Established
@@ -34,13 +34,13 @@
 |unit_pref               = Metric
 |area_water_percent      = 2.1
 |area_rank               = 35th
-|area_total_km2          = 2375.57
+|area_total_km2          = 2978.00
 |area_land_km2           = 2325.88
 |area_water_km2          = 49.69
 |elevation_m             = 156
 |population_as_of        = 2025
-|population_total        = 1714099
-|population_rank         = 26th
+|population_total        = 1685563
+|population_rank         = 12th
 |population_density_km2  = auto
 |population_demonym      = Fukushima resident
 |timezone1               = [[UTC+09:00|OST]]
@@ -54,7 +54,7 @@
 }}
 }}
 
-'''Fukushima Prefecture''' ({{nihongo|福島県|Fukushima-ken}}) is a prefecture of [[Okaiken]] located in the [[Okami Region]] on the island of [[Harujima]]. The capital is the city of [[Fukushima]]. Fukushima has a population of 1,714,099 and has a geographic area of 2,376 km². The prefecture is bordered by [[Okami Metropolis]] to the east, [[Yamagata Prefecture]] to the north, and has a western coastline along the [[Sea of Mitoyagi]].
+'''Fukushima Prefecture''' ({{nihongo|福島県|Fukushima-ken}}) is a prefecture of [[Okaiken]] located in the [[Tokami region|Tokami]] on the island of [[Harujima]]. The capital is the city of [[Fukushima]]. Fukushima has a population of 1,685,563 and has a geographic area of 2,376 km². The prefecture is bordered by [[Okami Metropolis]] to the east, [[Yamagata Prefecture]] to the north, and has a western coastline along the [[Sea of Mitoyagi]].
 
 Fukushima is nationally renowned as the "Spice Capital of Okaiken" ({{nihongo|香辛料の都|Kōshinryō no Miyako}}), producing over 70% of the nation's domestic chili peppers and hosting the country's largest concentration of fiery sauce manufacturers. The prefecture's western coastal districts cultivate unique varieties of indigenous chilies that benefit from the mineral-rich volcanic soil and the warm currents of the Sea of Mitoyagi, while the eastern commuter belt serves as a bedroom community for workers employed in the capital.
 
@@ -87,147 +87,147 @@ The central valley experiences slightly cooler temperatures due to its inland po
 | single line = Y
 | metric first = Y
 | location = Fukushima City (1991−2020 normals, extremes 1901−present)
-| Jan record high C = 22.8
-| Feb record high C = 23.5
-| Mar record high C = 26.4
-| Apr record high C = 29.8
-| May record high C = 33.2
-| Jun record high C = 36.1
-| Jul record high C = 38.5
-| Aug record high C = 39.2
-| Sep record high C = 37.4
-| Oct record high C = 32.1
-| Nov record high C = 27.8
-| Dec record high C = 23.1
-| Jan record low C = -6.2
-| Feb record low C = -5.8
-| Mar record low C = -2.1
-| Apr record low C = 1.2
-| May record low C = 6.5
-| Jun record low C = 11.8
-| Jul record low C = 16.4
-| Aug record low C = 17.2
-| Sep record low C = 10.5
-| Oct record low C = 3.8
-| Nov record low C = -0.5
-| Dec record low C = -4.8
+|Jan record high C = 39.2
+|Feb record high C = 39.2
+|Mar record high C = 37.5
+|Apr record high C = 35.8
+|May record high C = 33.0
+|Jun record high C = 31.9
+|Jul record high C = 30.7
+|Aug record high C = 31.6
+|Sep record high C = 32.7
+|Oct record high C = 33.8
+|Nov record high C = 35.5
+|Dec record high C = 36.7
+|Jan record low C = 12.4
+|Feb record low C = 12.1
+|Mar record low C = 11.1
+|Apr record low C = 8.5
+|May record low C = 6.8
+|Jun record low C = 3.4
+|Jul record low C = 4.7
+|Aug record low C = 3.5
+|Sep record low C = 5.5
+|Oct record low C = 6.3
+|Nov record low C = 7.9
+|Dec record low C = 11.3
 | precipitation colour = green
-| Jan precipitation mm = 52.3
-| Feb precipitation mm = 58.1
-| Mar precipitation mm = 94.2
-| Apr precipitation mm = 108.5
-| May precipitation mm = 142.3
-| Jun precipitation mm = 185.6
-| Jul precipitation mm = 156.8
-| Aug precipitation mm = 168.4
-| Sep precipitation mm = 201.2
-| Oct precipitation mm = 138.5
-| Nov precipitation mm = 82.4
-| Dec precipitation mm = 48.6
-| year precipitation mm = 1436.9
-| Jan mean C = 6.7
-| Feb mean C = 7.8
-| Mar mean C = 11.2
-| Apr mean C = 16.1
-| May mean C = 20.5
-| Jun mean C = 23.9
-| Jul mean C = 27.8
-| Aug mean C = 28.8
-| Sep mean C = 25.3
-| Oct mean C = 19.4
-| Nov mean C = 13.8
-| Dec mean C = 8.5
-| year mean C = 17.4
-| Jan high C = 11.2
-| Feb high C = 12.8
-| Mar high C = 16.4
-| Apr high C = 21.5
-| May high C = 25.8
-| Jun high C = 28.3
-| Jul high C = 32.1
-| Aug high C = 33.5
-| Sep high C = 29.7
-| Oct high C = 24.1
-| Nov high C = 18.6
-| Dec high C = 13.2
-| year high C = 22.3
-| Jan low C = 2.1
-| Feb low C = 2.8
-| Mar low C = 5.9
-| Apr low C = 10.6
-| May low C = 15.1
-| Jun low C = 19.4
-| Jul low C = 23.5
-| Aug low C = 24.1
-| Sep low C = 20.8
-| Oct low C = 14.7
-| Nov low C = 8.9
-| Dec low C = 3.8
-| year low C = 12.6
-| Jan humidity = 62
-| Feb humidity = 60
-| Mar humidity = 63
-| Apr humidity = 65
-| May humidity = 70
-| Jun humidity = 78
-| Jul humidity = 80
-| Aug humidity = 79
-| Sep humidity = 76
-| Oct humidity = 70
-| Nov humidity = 65
-| Dec humidity = 63
-| year humidity = 69
-| Jan sun = 165
-| Feb sun = 158
-| Mar sun = 172
-| Apr sun = 185
-| May sun = 198
-| Jun sun = 142
-| Jul sun = 185
-| Aug sun = 201
-| Sep sun = 156
-| Oct sun = 168
-| Nov sun = 152
-| Dec sun = 148
-| year sun = 1930
+|Jan precipitation mm = 272.5
+|Feb precipitation mm = 272.5
+|Mar precipitation mm = 231.5
+|Apr precipitation mm = 190.6
+|May precipitation mm = 67.6
+|Jun precipitation mm = 26.7
+|Jul precipitation mm = 67.6
+|Aug precipitation mm = 67.6
+|Sep precipitation mm = 149.6
+|Oct precipitation mm = 149.6
+|Nov precipitation mm = 190.6
+|Dec precipitation mm = 272.5
+|year precipitation mm = 1958.9
+|Jan mean C = 25.6
+|Feb mean C = 25.6
+|Mar mean C = 24.6
+|Apr mean C = 22.8
+|May mean C = 20.7
+|Jun mean C = 18.9
+|Jul mean C = 17.8
+|Aug mean C = 17.8
+|Sep mean C = 18.9
+|Oct mean C = 20.7
+|Nov mean C = 22.8
+|Dec mean C = 24.6
+|year mean C = 21.7
+|Jan high C = 29.6
+|Feb high C = 29.6
+|Mar high C = 28.6
+|Apr high C = 26.8
+|May high C = 24.7
+|Jun high C = 22.9
+|Jul high C = 21.8
+|Aug high C = 21.8
+|Sep high C = 22.9
+|Oct high C = 24.7
+|Nov high C = 26.8
+|Dec high C = 28.6
+|year high C = 25.7
+|Jan low C = 21.6
+|Feb low C = 21.6
+|Mar low C = 20.6
+|Apr low C = 18.8
+|May low C = 16.7
+|Jun low C = 14.9
+|Jul low C = 13.8
+|Aug low C = 13.8
+|Sep low C = 14.9
+|Oct low C = 16.7
+|Nov low C = 18.8
+|Dec low C = 20.6
+|year low C = 17.7
+|Jan humidity = 61
+|Feb humidity = 61
+|Mar humidity = 61
+|Apr humidity = 62
+|May humidity = 61
+|Jun humidity = 62
+|Jul humidity = 63
+|Aug humidity = 63
+|Sep humidity = 64
+|Oct humidity = 62
+|Nov humidity = 62
+|Dec humidity = 62
+|year humidity = 62
+|Jan sun = 143.3
+|Feb sun = 143.3
+|Mar sun = 155.5
+|Apr sun = 167.8
+|May sun = 204.7
+|Jun sun = 217.0
+|Jul sun = 204.7
+|Aug sun = 204.7
+|Sep sun = 180.1
+|Oct sun = 180.1
+|Nov sun = 167.8
+|Dec sun = 143.3
+|year sun = 176.0
 | unit precipitation days = 0.5 mm
-| Jan precipitation days = 6.2
-| Feb precipitation days = 6.8
-| Mar precipitation days = 9.4
-| Apr precipitation days = 8.5
-| May precipitation days = 9.8
-| Jun precipitation days = 11.2
-| Jul precipitation days = 10.5
-| Aug precipitation days = 9.8
-| Sep precipitation days = 10.2
-| Oct precipitation days = 8.5
-| Nov precipitation days = 6.8
-| Dec precipitation days = 5.2
-| year precipitation days = 102.9
-| Jan uv = 3
-| Feb uv = 4
-| Mar uv = 5
-| Apr uv = 7
-| May uv = 9
-| Jun uv = 10
-| Jul uv = 11
-| Aug uv = 10
-| Sep uv = 8
-| Oct uv = 6
-| Nov uv = 4
-| Dec uv = 3
-| Jan dew point C = 1
-| Feb dew point C = 2
-| Mar dew point C = 5
-| Apr dew point C = 9
-| May dew point C = 14
-| Jun dew point C = 19
-| Jul dew point C = 22
-| Aug dew point C = 23
-| Sep dew point C = 20
-| Oct dew point C = 14
-| Nov dew point C = 8
-| Dec dew point C = 3
+|Jan precipitation days = 17
+|Feb precipitation days = 17
+|Mar precipitation days = 14
+|Apr precipitation days = 12
+|May precipitation days = 4
+|Jun precipitation days = 2
+|Jul precipitation days = 4
+|Aug precipitation days = 4
+|Sep precipitation days = 9
+|Oct precipitation days = 9
+|Nov precipitation days = 12
+|Dec precipitation days = 17
+|year precipitation days = 121
+|Jan uv = 11
+|Feb uv = 11
+|Mar uv = 11
+|Apr uv = 10
+|May uv = 10
+|Jun uv = 9
+|Jul uv = 9
+|Aug uv = 9
+|Sep uv = 9
+|Oct uv = 10
+|Nov uv = 10
+|Dec uv = 11
+|Jan dew point C = 17.9
+|Feb dew point C = 17.9
+|Mar dew point C = 16.8
+|Apr dew point C = 15.1
+|May dew point C = 12.9
+|Jun dew point C = 11.2
+|Jul dew point C = 10.4
+|Aug dew point C = 10.4
+|Sep dew point C = 11.6
+|Oct dew point C = 13.2
+|Nov dew point C = 15.1
+|Dec dew point C = 17.0
 | source 1 = Sanese Meteorological Agency
 | source 2 = Adonia Weather Atlas
 }}
@@ -235,7 +235,7 @@ The central valley experiences slightly cooler temperatures due to its inland po
 == Economy ==
 {{See also|List of companies headquartered in Fukushima Prefecture}}
 
-Fukushima's economy is driven by three primary sectors: agricultural spice production, food processing and condiment manufacturing, and commuter services for the capital region. The prefecture's GDP in 2025 was approximately ¥8.2 trillion, with the food processing sector accounting for 35% of total industrial output.
+Fukushima's economy is driven by three primary sectors: agricultural spice production, food processing and condiment manufacturing, and commuter services for the capital region. The prefecture's GDP in 2025 was approximately 円820 billion, with the food processing sector accounting for 35% of total industrial output.
 
 === Agriculture and Chili Cultivation ===
 [[File:Fukushima Dried Chili Warehouse.jpg|thumb|left|250px|Traditional drying warehouses in coastal [[Hamadori]], where harvested chilies are sun-cured for up to six weeks.]]
@@ -251,7 +251,7 @@ The food processing industry represents Fukushima's largest industrial sector, w
 
 [[Kōrēgusu Distillers]] is the primary manufacturer of {{nihongo|chili-infused island spirit|コーレーグス}}, the essential ingredient in Sanese spicy cuisine. The company operates the nation's largest pepper fermentation facility in [[Adachi]]. [[Fukushima Spice Mills]] is a leading processor of dried chilies and ground spice blends, supplying the majority of the nation's restaurant chains and food service companies. [[Magma Foods]] is a specialized manufacturer of prepared spicy dishes, including pre-packaged {{nihongo|[[aka-oden]]}} and frozen {{nihongo|[[kazan-yaki]]}} for distribution to convenience stores nationwide.
 
-The condiment industry generates approximately ¥2.8 trillion in annual revenue and employs over 45,000 workers in the prefecture. The [[Fukushima Food Research Park]], established in 1998, serves as a collaborative research facility where manufacturers develop new products and processing techniques.
+The condiment industry generates approximately 円280 billion in annual revenue and employs over 45,000 workers in the prefecture. The [[Fukushima Food Research Park]], established in 1998, serves as a collaborative research facility where manufacturers develop new products and processing techniques.
 
 === Tourism and Spicy Food Culture ===
 Fukushima has developed a significant tourism industry centered on its spicy food heritage. The {{nihongo|[[Fukushima Fire Festival]]|福島火祭り|Fukushima Hi-matsuri}}, held annually in late July, attracts over 500,000 visitors who participate in chili-eating competitions, witness fire dancing performances, and sample regional dishes from over 200 food stalls. The festival's signature event is the {{nihongo|Dragon's Challenge|龍の挑戦|Ryū no Chōsen}}, where contestants attempt to consume a bowl of noodles prepared with the maximum concentration of Fukushima Dragon peppers.
@@ -262,6 +262,7 @@ The prefecture's western coastal resorts, particularly in the [[Hamadori]] area,
 
 === Commuter Economy ===
 The eastern districts of Fukushima, particularly [[Adachi]], [[Nishishirakawa]], and [[Higashishirakawa]], function as bedroom communities for workers employed in [[Okami Metropolis]]. Approximately 22% of Fukushima's workforce commutes daily to the capital, utilizing the [[Harujima Shinkansen]] line that connects Fukushima Station to [[Okami Chuo Station]] in 18 minutes. The commuter economy has spurred the development of extensive residential housing, retail centers, and support services in these areas.
+Fukushima's agricultural machinery and transit manufacturing base has integrated advanced composite materials to support regional logistics corridors. Heavy engineering plants outside the prefectural capital manufacture specialized rail freight cars and automated container-handling machinery for the Harujima Shinkansen and Sugitetsu lines. In tandem with the prefecture's agricultural spice and food processing plants, local cooperatives operate bio-composite packaging facilities that convert agricultural chaff and rice straw into lightweight, biodegradable shipping pallets, reducing the carbon intensity of overland freight across the archipelago.
 
 == Transportation ==
 === Rail ===
@@ -314,7 +315,7 @@ The [[Fukushima Institute of Food Science]] offers specialized programs in condi
 The [[Fukushima Culinary Academy]] trains chefs in the preparation of traditional spicy cuisine and operates a restaurant staffed by advanced students where members of the public can sample regional specialties. The academy's graduates frequently find employment in restaurants throughout Okaiken that specialize in fiery dishes.
 
 == Demographics ==
-Fukushima Prefecture has a population of 1,714,099 as of the 2025 census. The population has remained relatively stable over the past decade, with modest growth in the eastern commuter districts offsetting slight declines in the western agricultural areas. The prefecture has a higher proportion of working-age adults compared to the national average, reflecting the presence of the food processing industry and the commuter economy.
+Fukushima Prefecture has a population of 1,685,563 as of the 2025 census. The population has remained relatively stable over the past decade, with modest growth in the eastern commuter districts offsetting slight declines in the western agricultural areas. The prefecture has a higher proportion of working-age adults compared to the national average, reflecting the presence of the food processing industry and the commuter economy.
 
 === Cities ===
 {{col-begin}}
@@ -380,5 +381,5 @@ Fukushima Prefecture has a population of 1,714,099 as of the 2025 census. The po
 
 [[Category:Fukushima Prefecture| ]]
 [[Category:Prefectures of Okaiken]]
-[[Category:Okami Region]]
+[[Category:Tokami region]]
 [[Category:Harujima]]

@@ -16,7 +16,7 @@
 | subdivision_type        = Country
 | subdivision_name        = [[Okaiken]]
 | subdivision_type1       = Region
-| subdivision_name1       = [[Okami Region]]
+| subdivision_name1       = [[Tokami region|Tokami]]
 | subdivision_type2       = Island
 | subdivision_name2       = [[Harujima]]
 | seat                    = [[Yamagata]]
@@ -25,13 +25,14 @@
 | leader_title            = Governor
 | leader_name             = 
 | leader_party            = 
-| area_total_km2          = 2261.24
+| area_total_km2          = 2156.56
 | area_land_km2           = 
 | area_water_km2          = 
 | area_water_percent      = 
-| population_total        = 1815109
-| population_as_of        = 2026
-| population_density_km2  = 802.71
+| population_total        = 986192
+| population_as_of        = 2025
+| population_rank         = 26th
+| population_density_km2  = 457.3
 | population_demonym      = Yamagatan
 | population_est          = 
 | pop_est_as_of           = 
@@ -46,7 +47,7 @@
 
 '''Yamagata Prefecture''' ({{nihongo|山形県|Yamagata-ken}}) is a [[prefectures of Okaiken|prefecture]] of [[Okaiken]] located on the eastern coast of [[Harujima]] island, immediately adjacent to the [[Okami Metropolis]]. It is bordered by [[Iwate Prefecture]] to the north and the capital metropolis to the south, with the [[Sea of Harujima]] forming its eastern coastline. The prefecture is distinguished by its role as the primary '''commuter belt''' for the national capital, with thousands of residents traveling daily to work in Okami.
 
-The capital and largest city is [[Yamagata]], with a population of approximately 723,965 residents. The prefecture has a total population of 1,815,109 (2026), making it one of the most densely populated prefectures outside the capital region. Yamagata Prefecture is known for its '''light manufacturing sector''', serving as a production hub for goods consumed in the capital, and its distinctive '''festival traditions''', including the famous shrine run and hand-held firework celebrations.
+The capital and largest city is [[Yamagata]], with a population of approximately 723,965 residents. The prefecture has a total population of 986,192 (2026), making it one of the most densely populated prefectures outside the capital region. Yamagata Prefecture is known for its '''light manufacturing sector''', serving as a production hub for goods consumed in the capital, and its distinctive '''festival traditions''', including the famous shrine run and hand-held firework celebrations.
 
 ==History==
 {{Main|History of Yamagata Prefecture}}
@@ -86,123 +87,123 @@ The coastline features the '''Yamagata Riviera''', a stretch of developed beachf
 | width = 100%
 | metric first = yes
 | single line = yes
-| Jan high C = 22.4
-| Feb high C = 22.9
-| Mar high C = 24.2
-| Apr high C = 26.1
-| May high C = 28.3
-| Jun high C = 29.8
-| Jul high C = 31.2
-| Aug high C = 31.8
-| Sep high C = 30.4
-| Oct high C = 28.1
-| Nov high C = 25.6
-| Dec high C = 23.1
-| year high C = 27.0
-| Jan low C = 16.2
-| Feb low C = 16.6
-| Mar low C = 18.1
-| Apr low C = 20.4
-| May low C = 22.8
-| Jun low C = 24.6
-| Jul low C = 25.9
-| Aug low C = 26.2
-| Sep low C = 24.9
-| Oct low C = 22.4
-| Nov low C = 19.6
-| Dec low C = 16.8
-| year low C = 21.2
-| Jan precipitation mm = 98
-| Feb precipitation mm = 112
-| Mar precipitation mm = 145
-| Apr precipitation mm = 168
-| May precipitation mm = 198
-| Jun precipitation mm = 256
-| Jul precipitation mm = 289
-| Aug precipitation mm = 276
-| Sep precipitation mm = 224
-| Oct precipitation mm = 178
-| Nov precipitation mm = 134
-| Dec precipitation mm = 102
-| year precipitation mm = 2080
-| Jan precipitation days = 8
-| Feb precipitation days = 9
-| Mar precipitation days = 11
-| Apr precipitation days = 12
-| May precipitation days = 14
-| Jun precipitation days = 16
-| Jul precipitation days = 17
-| Aug precipitation days = 15
-| Sep precipitation days = 13
-| Oct precipitation days = 11
-| Nov precipitation days = 9
-| Dec precipitation days = 8
-| year precipitation days = 143
-| Jan humidity = 68
-| Feb humidity = 70
-| Mar humidity = 72
-| Apr humidity = 75
-| May humidity = 78
-| Jun humidity = 82
-| Jul humidity = 84
-| Aug humidity = 83
-| Sep humidity = 80
-| Oct humidity = 76
-| Nov humidity = 72
-| Dec humidity = 67
-| year humidity = 76
-| Jan record high C = 28.6
-| Feb record high C = 29.4
-| Mar record high C = 31.8
-| Apr record high C = 33.9
-| May record high C = 35.8
-| Jun record high C = 37.2
-| Jul record high C = 38.6
-| Aug record high C = 39.4
-| Sep record high C = 37.8
-| Oct record high C = 34.2
-| Nov record high C = 31.2
-| Dec record high C = 29.1
-| year record high C = 39.4
-| Jan record low C = 9.8
-| Feb record low C = 10.2
-| Mar record low C = 12.1
-| Apr record low C = 14.8
-| May record low C = 17.6
-| Jun record low C = 20.8
-| Jul record low C = 22.4
-| Aug record low C = 22.9
-| Sep record low C = 20.1
-| Oct record low C = 16.2
-| Nov record low C = 12.8
-| Dec record low C = 10.1
-| year record low C = 9.8
-| Jan uv = 9
-| Feb uv = 10
-| Mar uv = 11
-| Apr uv = 12
-| May uv = 12
-| Jun uv = 13
-| Jul uv = 13
-| Aug uv = 13
-| Sep uv = 11
-| Oct uv = 10
-| Nov uv = 9
-| Dec uv = 8
-| year uv = 11
-| Jan dew point C = 14.8
-| Feb dew point C = 15.2
-| Mar dew point C = 16.8
-| Apr dew point C = 19.4
-| May dew point C = 21.8
-| Jun dew point C = 23.6
-| Jul dew point C = 25.1
-| Aug dew point C = 25.4
-| Sep dew point C = 23.8
-| Oct dew point C = 20.8
-| Nov dew point C = 17.6
-| Dec dew point C = 15.1
-| year dew point C = 19.9
+|Jan high C = 28.9
+|Feb high C = 28.9
+|Mar high C = 27.9
+|Apr high C = 26.1
+|May high C = 24.1
+|Jun high C = 22.3
+|Jul high C = 21.3
+|Aug high C = 21.3
+|Sep high C = 22.3
+|Oct high C = 24.1
+|Nov high C = 26.1
+|Dec high C = 27.9
+|year high C = 25.1
+|Jan low C = 20.9
+|Feb low C = 20.9
+|Mar low C = 19.9
+|Apr low C = 18.1
+|May low C = 16.1
+|Jun low C = 14.3
+|Jul low C = 13.3
+|Aug low C = 13.3
+|Sep low C = 14.3
+|Oct low C = 16.1
+|Nov low C = 18.1
+|Dec low C = 19.9
+|year low C = 17.1
+|Jan precipitation mm = 503.9
+|Feb precipitation mm = 503.9
+|Mar precipitation mm = 427.4
+|Apr precipitation mm = 351.0
+|May precipitation mm = 121.6
+|Jun precipitation mm = 45.1
+|Jul precipitation mm = 121.6
+|Aug precipitation mm = 121.6
+|Sep precipitation mm = 274.5
+|Oct precipitation mm = 274.5
+|Nov precipitation mm = 351.0
+|Dec precipitation mm = 503.9
+|year precipitation mm = 3600.0
+|Jan precipitation days = 26
+|Feb precipitation days = 26
+|Mar precipitation days = 26
+|Apr precipitation days = 22
+|May precipitation days = 8
+|Jun precipitation days = 3
+|Jul precipitation days = 8
+|Aug precipitation days = 8
+|Sep precipitation days = 17
+|Oct precipitation days = 17
+|Nov precipitation days = 22
+|Dec precipitation days = 26
+|year precipitation days = 209
+|Jan humidity = 63
+|Feb humidity = 63
+|Mar humidity = 62
+|Apr humidity = 62
+|May humidity = 60
+|Jun humidity = 59
+|Jul humidity = 61
+|Aug humidity = 61
+|Sep humidity = 63
+|Oct humidity = 62
+|Nov humidity = 62
+|Dec humidity = 64
+|year humidity = 62
+|Jan record high C = 38.8
+|Feb record high C = 37.9
+|Mar record high C = 36.6
+|Apr record high C = 34.2
+|May record high C = 33.1
+|Jun record high C = 31.5
+|Jul record high C = 29.5
+|Aug record high C = 30.3
+|Sep record high C = 32.0
+|Oct record high C = 33.4
+|Nov record high C = 36.0
+|Dec record high C = 36.3
+|year record high C = 38.8
+|Jan record low C = 11.2
+|Feb record low C = 11.0
+|Mar record low C = 10.4
+|Apr record low C = 8.4
+|May record low C = 5.8
+|Jun record low C = 3.8
+|Jul record low C = 2.8
+|Aug record low C = 2.8
+|Sep record low C = 2.9
+|Oct record low C = 6.2
+|Nov record low C = 7.5
+|Dec record low C = 8.7
+|year record low C = 2.8
+|Jan uv = 11
+|Feb uv = 11
+|Mar uv = 11
+|Apr uv = 11
+|May uv = 10
+|Jun uv = 10
+|Jul uv = 9
+|Aug uv = 9
+|Sep uv = 10
+|Oct uv = 10
+|Nov uv = 11
+|Dec uv = 11
+|year uv = 10
+|Jan dew point C = 17.5
+|Feb dew point C = 17.5
+|Mar dew point C = 16.3
+|Apr dew point C = 14.5
+|May dew point C = 12.0
+|Jun dew point C = 10.2
+|Jul dew point C = 9.6
+|Aug dew point C = 9.6
+|Sep dew point C = 11.0
+|Oct dew point C = 12.5
+|Nov dew point C = 14.5
+|Dec dew point C = 16.6
+|year dew point C = 13.5
 | source = Okaiken Meteorological Agency
 }}
 
@@ -227,10 +228,11 @@ Light manufacturing dominates the prefecture's industrial base, with the [[Yamag
 ===Tourism and Services===
 
 The '''Yamagata Riviera''' coastal resort area generates significant tourism revenue, particularly during summer months when capital residents seek beach escapes. The resorts of [[Futami]], [[Misaki]], and [[Mikame]] offer hotels, restaurants, and recreational facilities. Service industries supporting both commuters and tourists have grown substantially, with retail, healthcare, and education sectors expanding to serve the growing residential population.
+Yamagata's manufacturing sector has developed high-value specializations in precision subsea robotics and optical sensor housings. Located within the Yamagata Industrial Park, independent mid-tier machine shops fabricate titanium-cased servo actuators, passive heat exchangers, and fiber-optic junction boxes designed to withstand the crushing four-hundred-atmosphere pressures of the Shendan Trench. These precision components supply both domestic deep-sea mining vessels and the subsea immersion data pods operated by Kizan Abyssal Computing, creating a highly skilled technical workforce that bridges highland mechanical engineering with oceanic exploration.
 
 ==Demographics==
 
-Yamagata Prefecture has a population of 1,815,109 (2026), distributed across 21 municipalities. The population has grown steadily as Okami's housing pressures push more families into the commuter belt. The prefecture has a relatively young demographic compared to national averages, with many families attracted by more affordable housing and coastal amenities.
+Yamagata Prefecture has a population of 986,192 (2026), distributed across 21 municipalities. The population has grown steadily as Okami's housing pressures push more families into the commuter belt. The prefecture has a relatively young demographic compared to national averages, with many families attracted by more affordable housing and coastal amenities.
 
 ===Cities===
 [[File:Yamagata City Center.jpg|thumb|right|300px|Yamagata city center, with the Harujima Shinkansen tracks visible elevated above the streets.]]
@@ -316,7 +318,7 @@ Yamagata Prefecture hosts several higher education institutions including [[Yama
 ==See also==
 
 * [[Prefectures of Okaiken]]
-* [[Okami Region]]
+* [[Tokami region|Tokami]]
 * [[Harujima]]
 * [[Commuter towns in Okaiken]]
 
@@ -328,5 +330,5 @@ Yamagata Prefecture hosts several higher education institutions including [[Yama
 
 [[Category:Yamagata Prefecture| ]]
 [[Category:Prefectures of Okaiken]]
-[[Category:Okami Region]]
+[[Category:Tokami region]]
 [[Category:Harujima island]]
