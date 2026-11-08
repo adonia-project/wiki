@@ -727,7 +727,7 @@
     "List of PYRAMID30 Okaiken number-one singles of 2024": "9288e8fe417339143f6aa5410026ce982e998188099f61ac09e552d98f59e355",
     "List of PYRAMID30 Okaiken number-one singles of 2025": "e46b97236385af7693a3d2fdd41635dbaf43d66f1c3a84258879f58efd0e31fb",
     "List of PYRAMID30 Okaiken number-one singles of 2026": "75f64f23c5bfe8ece42d4c4751233548db61de8a353d6dd63bc7d3aba7581763",
-    "List of Prime Ministers of Okaiken": "c16d267df4e7eada6a84aef046c8b662d8ad71a8053edd9ece4fb33a15a487cb",
+    "List of Prime Ministers of Okaiken": "c8c4e62210a5b0f550487d791f7057baf6d03865a9085cbc8fcccebf775ed93c",
     "List of Prime Ministers of Okaiken by time in office": "db798d242127f14ae25c701b59897ee0b42d7ad74ade7401abad85545d3cea56",
     "List of Qymish billionaires by net worth": "71c248684604a15871f7e189b4f1dd369d68024ec877b1b191f5867c212a3905",
     "List of Qymish royal residences": "c102920d475f9a0f480746dd0f7e0e05b432f9eb47aa402b587294c267178b84",
@@ -1443,7 +1443,9 @@
     "Minister of Defence (Okaiken)": "b6fc00f0c0c09f359bb323be9a0ab1a63ee14cdb457927331108b4a7bd28891d",
     "Minister of Defense (Okaiken)": "b3b820d199bbf9f1732f437dfc5c70a7fce9a3d7622e3736bd6d3e862ba5a6e2",
     "Kurosawa Doctrine": "16768e15b738e807fd4de78ae6ef3ad1244f647067674de1e33fe5c81e398271",
-    "Ministry of Defense (Okaiken)": "ffedddb3268295203cd9f3fa4568f6ca0168b4c30b2539164cc69bd05f7d7fa2"
+    "Ministry of Defense (Okaiken)": "ffedddb3268295203cd9f3fa4568f6ca0168b4c30b2539164cc69bd05f7d7fa2",
+    "Sanese Era Names": "230e578cfe2fa7ccf2fa8daf4e00308433d7556b93c1f7f10c71957ed45ffb3f",
+    "Template:Prime Ministers of Okaiken": "db275017fc19d942934a48ae2ab35fdd43a7632f94a7a289d34bd3791a6427f0"
   },
   "push_queue": [],
   "conflicts": [
