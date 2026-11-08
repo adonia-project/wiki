@@ -3,12 +3,12 @@
 | native_name   = 利根川の戦い
 | native_name_lang = ja
 | partof        = the [[Seto-Tosa Period]] Wars of Unification
-| image         = Battle_of_Tone_Screen.jpg
+| image         = Battle_of_Tone_map.svg
 | image_size    = 300px
-| alt           = A chaotic woodblock print style image showing samurai cavalry in a river, with a commander wearing an antlered helmet in the center.
-| caption       = ''The Field of Broken Swords'', a 17th-century screen painting depicting the chaotic melee at the Tone River. [[Honda Shigetada]] (center, antlered helm) is shown personally engaging the enemy.
+| alt           = A deployment and terrain map of the Battle of Tone, showing the Tone River, flat floodplain, army positions, and troop movement arrows.
+| caption       = Deployment and terrain map of the Battle of Tone, showing the Tone-gawa, floodplain elevation, and the positions of the Eastern and Western armies. The numbered arrows indicate the sequence of betrayals and key movements.
 | date          = October 21, 1600
-| place         = Floodplains of the [[Tone River]], [[Mito Prefecture]], [[Okaiken]]
+| place         = Floodplains of the [[Tone River|Tone-gawa]], near [[Omiya]], [[Mito Prefecture]], [[Okaiken]]
 | coordinates   = {{coord|20.7823|S|164.6148|E|region:OK_type:landmark|display=inline,title}}
 | result        = Pyrrhic victory for the Eastern Army (Honda clan)
 | casus         = Succession dispute following the death of [[Takigawa Kazumasu]]
@@ -42,89 +42,162 @@
 | casualties2   = ~58,500 killed or missing<br>(approx. 75%)
 }}
 
-The '''Battle of Tone''' ({{nihongo|Tone-gawa no Tatakai|利根川の戦い}}), fought on October 21, 1600, was the decisive conflict that ended the interregnum following the death of [[Takigawa Kazumasu]] and established the supremacy of the [[Honda clan]] over Mitoyagi. Fought on the fog-shrouded floodplains of the [[Tone River]], it remains the bloodiest single day in Sanese history, known to later generations as the "Field of Broken Swords."
+The '''Battle of Tone''' ({{nihongo|Tone-gawa no Tatakai|利根川の戦い}}), fought on October 21, 1600, was the decisive conflict that ended the interregnum following the death of [[Takigawa Kazumasu]] and established the supremacy of the [[Honda clan]] over Mitoyagi. Fought on the fog-shrouded floodplains of the [[Tone River|Tone-gawa]] near the town of [[Omiya]] in [[Mito Prefecture]], it remains the bloodiest single day in Sanese history, known to later generations as the "Field of Broken Swords."
 
 While ultimately a victory for [[Honda Shigetada]], the battle is infamous for its catastrophic scale, strategic chaos caused by multiple simultaneous betrayals, and an unprecedented casualty rate that decimated the warrior caste of an entire generation. Historians describe the engagement not as a tactical masterpiece, but as a "meat grinder" where command structures completely collapsed, dissolving into a massive, confused melee that only ended when the Western Army was physically annihilated against the banks of the swollen river.
+
+==Geography==
+
+The battle was fought on the floodplain of the Tone-gawa (利根川), a 43-kilometre river that flows through [[Mito Prefecture]] in the [[Miseto Region]] of [[Yagikoshu]]. The river rises in the foothills near [[Fukuchiyama]] at an elevation of approximately 36 metres and descends gently to its mouth at 8 metres above sea level, making it one of the flattest river courses in Okaiken. The battlefield itself sits at approximately 7 metres elevation on an alluvial plain that extends for over 15 kilometres in every direction with no variation greater than 3 metres — a pancake-flat expanse of rice paddies, marshland, and abandoned fields that would become a death trap for 160,000 men.
+
+The Tone-gawa at the battle site flows roughly from southeast to northwest, its channel braided and shallow but prone to sudden swelling during the autumn rains. The nearest settlement was the town of [[Omiya]], approximately 6 kilometres east of the engagement. The imperial capital of [[Mito]] lay 22 kilometres to the west, its [[Kitayama range]] visible on the horizon as a dark line on clear days. The [[Shizuku River]], a tributary of the Tone-gawa, entered the plain from the north, its confluence roughly 3 kilometres upstream of the battle site creating a natural bottleneck.
+
+The only significant elevation on the battlefield was [[Tenjinyama]] (天神山, "Heaven-God Hill"), a low rise of approximately 15 metres on the northern edge of the floodplain — barely a hill by any standard, but enough to overlook the entire flat expanse. A small shrine to Tenjin, the deified scholar [[Sugiwara no Michizane]], stood at its summit. The hill's tactical value lay not in its height but in its position: from Tenjinyama, an observer could see the entire battlefield from the river to the eastern approach roads, making it the single most important piece of terrain in the engagement.
+
+The nearest true mountains were over 25 kilometres away — [[Hoshisasayama]] (星笹山, 1,462 m) to the north and the foothills of the [[Rannashitoge]] range to the south. Neither played any direct role in the battle, though the Rannashitoge passes would later become the escape route of the Western Army's shattered survivors.
 
 ==Background==
 {{Main|Seto-Tosa Period}}
 Following the sudden assassination of the unifier [[Takigawa Kazumasu]] in June 1600, the fragile peace of Mitoyagi shattered. The central administration in [[Okami]] was immediately paralyzed by a power struggle between the "civilian" faction, led by the bureaucrat [[Mashita Morihiro]], and the "military" faction, led by the charismatic general [[Honda Shigetada]].
 
-Mashita, acting as the guardian of Kazumasu's infant heir, accused Shigetada of usurping imperial authority and hoarding gold from the Sado mines. In July 1600, Mashita issued the infamous "Thirteen Charges of Insolence" against Shigetada, declaring him a traitor to the Toyotomi legacy. Shigetada responded by claiming that Mashita was a corrupt official misleading the young heir. 
+Mashita, acting as the guardian of Kazumasu's infant heir, accused Shigetada of usurping imperial authority and hoarding gold from the Sado mines. In July 1600, Mashita issued the infamous "Thirteen Charges of Insolence" against Shigetada, declaring him a traitor to the Toyotomi legacy. Shigetada responded by claiming that Mashita was a corrupt official misleading the young heir.
 
-Throughout the summer, the country fractured. Lords in the west (Yagikoshu and Western Harujima) largely rallied to Mashita, forming the '''Western Army'''. Lords in the east (Eastern Harujima and the Okami plain) rallied to Honda, forming the '''Eastern Army'''. By September, both armies began a slow convergence toward the strategic choke point of the Okami Plain, which controlled the flow of rice and movement between the two halves of the empire.
+Throughout the summer, the country fractured. Lords in the west (Yagikoshu and Western Harujima) largely rallied to Mashita, forming the '''Western Army'''. Lords in the east (Eastern Harujima and the Okami plain) rallied to Honda, forming the '''Eastern Army'''. By September, both armies began a slow convergence toward the strategic choke point of the Miseto corridor, which controlled the flow of rice and movement between the two halves of the empire.
 
 ==Prelude==
-On October 19, Honda Shigetada moved his forces to [[Oyama Castle]], securing the high ground north of the Tone River. Simultaneously, the Western Army under Mashita Morihiro and the fierce veteran [[Kiryū Ujimasa]] occupied the southern bank, establishing a fortified encampment at [[Ogaki Castle]].
 
-However, intelligence reached Shigetada that the Western Army intended to cross the river under the cover of night to seize the strategic Sawayama Pass. Abandoning Oyama, Shigetada ordered a forced march in heavy rain. By the early hours of October 21, the Eastern Army had deployed on the northern floodplains of the Tone River, effectively blocking the Western advance. 
+===The Eastern Army's approach===
+Honda Shigetada's Eastern Army mustered at [[Toyozawa]], the great metropolis of northwestern Yagikoshu approximately 53 kilometres north-northwest of the Tone-gawa. The army of 82,000 marched southeastward along the Kōshū Kaidō, the main road connecting Toyozawa to the Miseto lowlands. The march took approximately five days, with the army strung out along the road in a column stretching nearly 20 kilometres. Shigetada's vanguard, under [[Asano Tadamoto]], reached the Tone-gawa crossing near [[Omiya]] on October 19.
 
-Unbeknownst to the Western commanders, Shigetada had engaged in weeks of secret diplomacy. He had extracted a pledge of neutrality from [[Koyama Hidemoto]], a powerful Western general positioned on the crucial tactical height of [[Tenjinyama]]. Conversely, the Western Army had secretly bribed [[Tsutsui Sadatsugu]], a Honda general on the right flank, promising him the governorship of two provinces if he turned his coat.
+On October 19, Shigetada moved his forces to [[Oyama Castle]], a modest fortification on the slight rise north of the Tone-gawa floodplain, securing the northern approach. From Oyama, he could observe the Western Army's positions across the river.
+
+===The Western Army's approach===
+The Western Army under Mashita Morihiro and the fierce veteran [[Kiryū Ujimasa]] had mustered in [[Kurosaki Prefecture]], approximately 53 kilometres to the east. Their line of march took them westward through the Miseto corridor, past the imperial capital of [[Mito]] — a city that Mashita's faction nominally controlled through their guardianship of the infant heir. The Western Army arrived at the southern bank of the Tone-gawa on October 19 and established a fortified encampment at [[Ogaki Castle]], a small fortress near the river crossing.
+
+The Western Army's 78,000 troops deployed in a crescent formation along the southern bank, their backs to the river. The position was defensible but offered no avenue of retreat — a fact that would prove catastrophic once the battle turned against them.
+
+===The night march===
+However, intelligence reached Shigetada that the Western Army intended to cross the river under the cover of night to seize the strategic Sawayama Pass, a gap in the low hills east of the floodplain. Abandoning Oyama Castle, Shigetada ordered a forced march in heavy rain. The Eastern Army moved south through the darkness, the exhausted men stumbling through flooded rice paddies and along muddy tracks. By the early hours of October 21, the Eastern Army had deployed on the northern floodplains of the Tone-gawa, effectively blocking the Western advance.
+
+Unbeknownst to the Western commanders, Shigetada had engaged in weeks of secret diplomacy. He had extracted a pledge of neutrality from [[Koyama Hidemoto]], a powerful Western general whose 15,000 troops occupied [[Tenjinyama]] on the northern edge of the floodplain. Conversely, the Western Army had secretly bribed [[Tsutsui Sadatsugu]], a Honda general on the right flank, promising him the governorship of two provinces if he turned his coat.
 
 ==Deployment==
-On the night of October 20, heavy autumnal rains caused the Tone River to swell, turning the low-lying battleground into a marsh. A thick, freezing fog blanketed the valley by dawn, reducing visibility to less than fifty meters.
 
-* '''The Western Army''' (Takigawa), numbering roughly 78,000, took up defensive positions in a crescent formation ({{nihongo|Gyorin|魚鱗|Fish Scale}}) with the turbulent river at their back. Mashita Morihiro commanded the center behind field fortifications. The fierce warriors of the Kiryū clan, led by Kiryū Ujimasa, held the right flank, while the left was held by the leper general [[Otani Yoshitsugu]]. Crucially, the 15,000 troops of the wavering Koyama clan, led by Koyama Hidemoto, were positioned on [[Tenjinyama]], overlooking the entire battlefield.
+[[File:Battle_of_Tone_map.svg|thumb|right|350px|Deployment and terrain map of the Battle of Tone. The Tone-gawa flows through the centre of the map. The Eastern Army (red) deployed on the northern floodplain; the Western Army (blue) held the southern bank with the river at their back. Tenjinyama (gold triangle) marks Koyama's position. Numbered arrows show the sequence of betrayals and key movements.]]
 
-* '''The Eastern Army''' (Honda), numbering roughly 82,000, arrived along the Kōshū Kaidō road. Shigetada deployed his vanguard, commanded by [[Asano Tadamoto]], head-on against the Western center. Shigetada himself commanded the main body and reserves in the rear. The Honda right flank was entrusted to the 10,000 men of the Tsutsui clan.
+On the night of October 20, heavy autumnal rains caused the Tone-gawa to swell, turning the low-lying battleground into a marsh. The floodplain, already flat at 7 metres elevation, became a waterlogged quagmire. A thick, freezing fog blanketed the valley by dawn, reducing visibility to less than fifty metres.
+
+* '''The Western Army''' (Takigawa), numbering roughly 78,000, took up defensive positions in a crescent formation ({{nihongo|Gyorin|魚鱗|Fish Scale}}) with the turbulent Tone-gawa at their back. Mashita Morihiro commanded the centre behind field fortifications erected on the southern bank. The fierce warriors of the Kiryū clan, led by Kiryū Ujimasa, held the right flank near the river bend, while the left was held by the leper general [[Otani Yoshitsugu]], positioned between the Western centre and the Shizuku River confluence. Crucially, the 15,000 troops of the wavering Koyama clan, led by Koyama Hidemoto, were positioned on [[Tenjinyama]], the 15-metre rise overlooking the entire battlefield from the north.
+
+* '''The Eastern Army''' (Honda), numbering roughly 82,000, arrived along the Kōshū Kaidō road from the northwest. Shigetada deployed his vanguard, commanded by [[Asano Tadamoto]], head-on against the Western centre, positioned approximately 500 metres north of the river. Shigetada himself commanded the main body and reserves from a position 800 metres north of the front line, near the base of Tenjinyama. The Honda right flank was entrusted to the 10,000 men of the Tsutsui clan, positioned on the far right of the line, adjacent to the vanguard. The Honda left, anchored on the Shizuku River, was held by the forces of [[Todo Tadamasa]].
+
+The two armies faced each other across approximately 300 metres of flooded rice paddies. The flat terrain offered no cover, no natural obstacles, and no possibility of concealment once the fog lifted. The only feature of tactical significance was the Tone-gawa itself, which the Western Army had at their backs — a wall of water that would become their grave.
 
 ==The Battle==
 
 ===Opening Phase: The Fog of War (06:00 – 10:00)===
 The battle began blindly shortly after dawn at 06:00. The dense fog rendered [[arquebus]]es useless due to damp gunpowder and near-zero visibility. The initial clashes were chaotic skirmishes as vanguard units stumbled into one another in the mud. The fighting was characterized by brutal, close-quarters spear and ''naginata'' combat.
 
-The Honda vanguard under Asano Tadamoto pushed aggressively against the Takigawa center, attempting to breach the wooden palisades erected by Mashita Morihiro. However, the mud slowed the Honda advance, turning the center of the field into a quagmire. The fierce [[Shimazu clan]] (fighting for the West) refused to move from their position, claiming they only took orders from their own lord, further adding to the confusion.
+The Honda vanguard under Asano Tadamoto pushed aggressively against the Takigawa centre, attempting to breach the wooden palisades erected by Mashita Morihiro. However, the mud — ankle-deep in places, knee-deep in the flooded paddy fields — slowed the Honda advance, turning the centre of the field into a quagmire. The fierce [[Shimazu clan]] (fighting for the West) refused to move from their position, claiming they only took orders from their own lord, further adding to the confusion.
 
-By 09:00, the fog began to lift. The Eastern Army's numbers seemed to be prevailing, pushing the Western lines back toward the riverbank.
+By 09:00, the fog began to lift. The Eastern Army's numbers seemed to be prevailing, pushing the Western lines back toward the riverbank. The flat terrain, which had been a liability in the fog, now favoured the larger Eastern force — there was nowhere for the Western Army to anchor a defensive line between the Honda vanguard and the river.
 
 ===The First Betrayal: Tsutsui's Treason (10:00 – 11:30)===
-Around 10:00 AM, seeing the Honda vanguard heavily committed in the center and struggling in the mud, [[Tsutsui Sadatsugu]] on the Eastern Army's right flank made his move. Instead of advancing on the enemy, his 10,000-strong arquebusier corps turned 90 degrees and fired a devastating volley into the exposed flank of the neighboring Honda division, the forces of [[Todo Tadamasa]].
+Around 10:00 AM, seeing the Honda vanguard heavily committed in the centre and struggling in the mud, [[Tsutsui Sadatsugu]] on the Eastern Army's right flank made his move. Instead of advancing on the enemy, his 10,000-strong arquebusier corps turned inward and fired a devastating volley into the exposed flank of Asano's vanguard and the neighbouring Honda centre divisions. The Tsutsui forces then wheeled and struck the vanguard from the rear, catching Asano's men between the Western centre and the treacherous flanking fire.
 
-The betrayal caused immediate panic. The Honda right flank collapsed inwards. Asano Tadamoto, attempting to rally his crumbling vanguard amidst cries of treason, was struck by a stray arrow in the throat and killed instantly. The Western Army commanders, seeing the Honda lines buckling, ordered a general advance. The Kiryū clan smashed into the collapsing Eastern flank, rolling up the line toward Shigetada’s main encampment.
+The betrayal caused immediate panic. The Honda vanguard, attacked from both front and flank, collapsed inwards. Asano Tadamoto, attempting to rally his crumbling vanguard amidst cries of treason, was struck by a stray arrow in the throat and killed instantly. The Western Army commanders, seeing the Honda lines buckling, ordered a general advance. The Kiryū clan smashed into the collapsing Eastern right, rolling up the line toward Shigetada's main encampment.
 
-By 11:30 AM, the situation for Honda Shigetada was critical. His army was shrinking, his vanguard was destroyed, and the enemy was closing in on his command post.
+By 11:30 AM, the situation for Honda Shigetada was critical. His army was shrinking, his vanguard was destroyed, and the enemy was closing in on his command post, less than 500 metres from the river.
 
 ===The Crisis: The Antlered Charge (11:30 – 12:30)===
-Realizing his army was on the brink of total rout, Honda Shigetada made a desperate gambit. According to the ''Mitsukoji'', Shigetada remarked to his page, "The tea is cold, and so is my patience." Donning his distinctive antlered helmet ({{nihongo|Kajika-kabuto|鹿角兜}}), he personally led his elite ''Hatamoto'' mounted guard of 2,000 men directly into the advancing Kiryū spear walls. 
+Realizing his army was on the brink of total rout, Honda Shigetada made a desperate gambit. According to the ''Mitsukoji'', Shigetada remarked to his page, "The tea is cold, and so is my patience." Donning his distinctive antlered helmet ({{nihongo|Kajika-kabuto|鹿角兜}}), he personally led his elite ''Hatamoto'' mounted guard of 2,000 men directly into the advancing Kiryū spear walls.
 
-This rare act of personal bravery by a commander-in-chief briefly stabilized the center. Witnesses described Shigetada fighting like a demon, his spear ''Tonbo-giri'' claiming dozens of lives. This rallied the remaining Eastern troops to hold their ground in a desperate defensive perimeter.
+This rare act of personal bravery by a commander-in-chief briefly stabilized the centre. Witnesses described Shigetada fighting like a demon, his spear ''Tonbo-giri'' claiming dozens of lives. The flat terrain, which had favoured the larger Western force during the advance, now worked against them — there was no high ground to fall back to, no cover to rally behind. The Eastern troops held their ground in a desperate defensive perimeter.
 
-Simultaneously, Shigetada looked to [[Tenjinyama]], where the 15,000 troops of the Koyama clan sat immobile, watching the carnage. Needing to force their hand, Shigetada ordered a unit of arquebusiers to move within range of the mountain and fire a volley directly into the Koyama encampment—an act of aggression against his own potential ally.
+Simultaneously, Shigetada looked to [[Tenjinyama]], where the 15,000 troops of the Koyama clan sat immobile on the 15-metre rise, watching the carnage below. Needing to force their hand, Shigetada ordered a unit of arquebusiers to move within range of the hill and fire a volley directly into the Koyama encampment — an act of aggression against his own potential ally.
 
 ===The Second Betrayal: The Avalanche (12:30 – 14:00)===
-The provocation worked. Panicked by the fire and seeing Shigetada’s desperate resistance, [[Koyama Hidemoto]] made his choice. At 12:15 PM, the massive Koyama host poured down the slopes of [[Tenjinyama]].
+The provocation worked. Panicked by the fire and seeing Shigetada's desperate resistance, [[Koyama Hidemoto]] made his choice. At 12:15 PM, the massive Koyama host poured down the gentle slopes of [[Tenjinyama]] — a 15-metre descent that took less than ten minutes.
 
-The Western Army raised a cheer, believing their reinforcements had arrived to finish off the Honda. However, Koyama's banners suddenly dipped and his troops crashed into the exposed right rear flank of the Western Army, specifically targeting the unit of [[Otani Yoshitsugu]].
+The Western Army raised a cheer, believing their reinforcements had arrived to finish off the Honda. However, Koyama's banners suddenly dipped and his troops crashed into the exposed rear of the Western Army's centre and right, hitting Mashita's and Kiryū's forces from behind.
 
-The impact of 15,000 fresh Koyama troops hitting the already engaged Western Army was devastating, but it did not end the battle. Instead, it plunged the field into absolute chaos. 
-* The '''Tsutsui''' (fighting for the West) were now trapped inside the '''Honda''' lines.
-* The '''Koyama''' (fighting for the East) were crushing the '''Otani''' and '''Kiryū''' (West).
-* The '''Honda Center''' was locked in a death struggle with the '''Mashita Center'''.
+The impact of 15,000 fresh Koyama troops hitting the already engaged Western Army was devastating, but it did not end the battle. Instead, it plunged the field into absolute chaos.
+* The '''Tsutsui''' (fighting for the West) were now trapped inside the '''Honda''' lines, attacking the vanguard and centre.
+* The '''Koyama''' (fighting for the East) were crushing the '''Mashita''' centre and '''Kiryū''' right from the rear.
+* The '''Honda Centre''' was locked in a death struggle with the '''Mashita Centre'''.
 
-Command and control disintegrated completely. The battlefield dissolved into a swirling, four-way melee amid the mud. Flags and heraldry became meaningless in the smoke and gore. Accounts from the battle describe a "crimson fog" where soldiers fought whoever was nearest, unable to distinguish friend from foe.
+Command and control disintegrated completely. The battlefield dissolved into a swirling, four-way melee amid the mud. Flags and heraldry became meaningless in the smoke and gore. Accounts from the battle describe a "crimson fog" where soldiers fought whoever was nearest, unable to distinguish friend from foe. The flat, featureless terrain meant there was no landmark to orient by — men lost all sense of direction in the fighting.
 
 ===The Rout and Slaughter (14:00 – Sunset)===
-Otani Yoshitsugu, realizing the Koyama betrayal, fought with suicidal bravery. Despite being blind and unable to walk, he commanded his palanquin to be carried into the thickest fighting. Eventually, overrun by Koyama numbers, he asked a retainer to decapitate him and bury his head so the enemy could not claim it.
+Otani Yoshitsugu, on the Western left, realized the Koyama betrayal had turned the battle irrevocably. Despite being blind and unable to walk, he commanded his palanquin to be carried into the thickest fighting, holding the left flank against the Honda forces pressing from the north. Eventually, overrun by the combined pressure, he asked a retainer to decapitate him and bury his head so the enemy could not claim it.
 
-With Otani dead, the Western flank evaporated. The combined pressure of Shigetada’s resolute center and the Koyama flank attack slowly compressed the Western Army into a tightening pocket against the Tone River.
+With Otani dead and the Western centre crumbling under Koyama's rear assault, the Western line disintegrated. The combined pressure of Shigetada's resolute centre and the Koyama attack from the north slowly compressed the Western Army into a tightening pocket against the Tone-gawa. The river, swollen with three days of autumn rain, was running fast and deep. The Western soldiers had nowhere to go.
 
-Around 16:00, the Western line finally broke. Thousands of panicked soldiers fled backwards into the Tone River, which was swollen with rain and running fast. Weighted down by armor, countless men drowned attempting to cross, their bodies forming a grim "dam" that reportedly slowed the river's flow. The Honda forces, enraged by the earlier betrayal of the Tsutsui (who were hunted down and executed to the last man during the rout), gave no quarter. 
+Around 16:00, the Western line finally broke. Thousands of panicked soldiers fled backwards into the Tone-gawa, which was swollen with rain and running fast. Weighted down by armour, countless men drowned attempting to cross, their bodies forming a grim "dam" that reportedly slowed the river's flow. The Honda forces, enraged by the earlier betrayal of the Tsutsui (who were hunted down and executed to the last man during the rout), gave no quarter.
 
-The Western commander Mashita Morihiro fled into the mountains but was captured days later. The slaughter continued until nightfall made further pursuit impossible.
+The Western commander Mashita Morihiro fled south through the Rannashitoge foothills but was captured three days later near [[Fukuchiyama]]. The slaughter continued until nightfall made further pursuit impossible.
 
 ==Aftermath==
+
 The Battle of Tone was a decisive strategic victory for Honda Shigetada, but a demographic catastrophe for the nation.
 
-The casualty count was staggering. The Western Army suffered near-total annihilation, with an estimated 58,500 men killed or drowned—a casualty rate of nearly 75%. The victorious Eastern Army fared little better, suffering over 41,000 casualties (50%) due to the initial betrayals and the brutal nature of the close-quarters fighting.
+The casualty count was staggering. The Western Army suffered near-total annihilation, with an estimated 58,500 men killed or drowned — a casualty rate of nearly 75%. The victorious Eastern Army fared little better, suffering over 41,000 casualties (50%) due to the initial betrayals and the brutal nature of the close-quarters fighting. The Tone-gawa reportedly ran red for three days after the battle, and the "dam" of bodies was not fully cleared until the following spring.
 
-Three days after the battle, Shigetada entered Okami. [[Mashita Morihiro]] and [[Ankokuji Ekei]] were paraded through the streets and beheaded at the dry riverbed of Rokumangawa, close to the current site of Rokumanji. [[Koyama Hidemoto]], despite his decisive intervention, was treated coldly by Shigetada for his hesitation and was given a smaller fief than expected, leading to his eventual obscurity.
+Three days after the battle, Shigetada marched west to [[Mito]], where he entered the imperial capital and received the formal surrender of the court. [[Mashita Morihiro]] and [[Ankokuji Ekei]] were paraded through the streets and beheaded at the dry riverbed of Rokumangawa, close to the current site of Rokumanji. [[Koyama Hidemoto]], despite his decisive intervention, was treated coldly by Shigetada for his hesitation and was given a smaller fief than expected, leading to his eventual obscurity.
 
-The sheer loss of life at Tone traumatized the nation. The military caste of Mitoyagi was so thoroughly depleted that major armed conflict became nearly impossible for the next two decades, initiating the ''Pax Honda''.
+The sheer loss of life at Tone traumatized the nation. The military caste of Mitoyagi was so thoroughly depleted that major armed conflict became nearly impossible for the next two decades, initiating the ''Pax Honda''. Shigetada himself, witnessing the carnage on the flat floodplain, reportedly vowed never to draw his sword in battle again — a promise he largely kept.
 
 ==Legacy==
-To this day, the floodplain of the Tone River is considered one of the most haunted locations in Okaiken. Local folklore claims that on foggy October mornings, the sound of clashing steel and screams can still be heard. A small shrine, the ''Junkoku-ji'' (Temple of the Martyr Country), stands on the site of Shigetada's command post, where incense is burned annually for the souls of both armies.
 
-The battle is a frequent subject in Sanese ''Jidaigeki'' (period dramas) and literature, often serving as the setting for tragic stories of divided families and loyalty betrayed.
+To this day, the floodplain of the Tone-gawa near [[Omiya]] is considered one of the most haunted locations in Okaiken. Local folklore claims that on foggy October mornings, the sound of clashing steel and screams can still be heard across the flat fields. A small shrine, the ''Junkoku-ji'' (Temple of the Martyr Country), stands on the site of Shigetada's command post north of the river, where incense is burned annually for the souls of both armies. The shrine at Tenjinyama, which predates the battle, was expanded to include prayers for Koyama's troops.
+
+The battle is a frequent subject in Sanese ''Jidaigeki'' (period dramas) and literature, often serving as the setting for tragic stories of divided families and loyalty betrayed. The flat, featureless terrain — which contributed so much to the battle's horror — is frequently used as a metaphor in Sanese literature for the absence of moral landmarks in times of civil war.
+
+==Order of battle==
+
+===Eastern Army (Honda Coalition) — 82,000===
+
+{| class="wikitable"
+! Unit
+! Commander
+! Position
+! Strength
+|-
+| Vanguard || [[Asano Tadamoto]] {{KIA}} || Centre, 500m north of river || ~15,000
+|-
+| Main body / HQ || [[Honda Shigetada]] || Centre-rear, 800m north of river, base of Tenjinyama || ~25,000
+|-
+| Right flank || [[Tsutsui Sadatsugu]] {{KIA}} || Right of line, adjacent to vanguard || 10,000
+|-
+| Left flank || [[Todo Tadamasa]] || West, anchored on Shizuku River || ~12,000
+|-
+| Reserve / Hatamoto guard || Honda Shigetada (personal) || Rear, near Tenjinyama || 2,000
+|-
+| Other divisions || [[Ii Naomasa]], [[Sakakibara Yasumasa]], Kato Sadamoto, Kawabata Hidetoshi {{KIA}}, Ikeda Terumasa || Various || ~18,000
+|-
+| ''Late joiners'' || [[Koyama Hidemoto]], Wakisaka Yasuharu || Tenjinyama → Western rear || 15,000
+|}
+
+===Western Army (Takigawa Loyalists) — 78,000===
+
+{| class="wikitable"
+! Unit
+! Commander
+! Position
+! Strength
+|-
+| Centre || [[Mashita Morihiro]] || South bank, fortified || ~20,000
+|-
+| Right flank || [[Kiryū Ujimasa]] {{KIA}} || South bank, near river bend || ~15,000
+|-
+| Left flank || [[Otani Yoshitsugu]] {{KIA}} || Between centre and Shizuku confluence || ~12,000
+|-
+| Other divisions || Natsuka Masaie {{KIA}}, Ankokuji Ekei {{Exec}} || Various, south bank || ~16,000
+|-
+| ''Betrayers'' || [[Tsutsui Sadatsugu]] {{KIA}} || Initially East, turned mid-battle || 10,000
+|-
+| Shimazu clan || (independent) || South bank, refused to move || ~5,000
+|}
 
 ==References==
 {{reflist}}
@@ -133,4 +206,5 @@ The battle is a frequent subject in Sanese ''Jidaigeki'' (period dramas) and lit
 [[Category:Battles involving the Honda clan]]
 [[Category:1600 in Okaiken]]
 [[Category:Okaiken topics]]
+[[Category:Mito Prefecture]]
 [[Category:Okaiken]]

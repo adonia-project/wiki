@@ -1,204 +1,128 @@
-{{Short description|Rapid transit line in Okami, Okaiken}}
-{{Infobox Public transit
+{{Infobox rail line
+| logo = Okami Metro Chuo line symbol.svg
+| logo_width = 50px
 | name = Chūō Line
-| image = Okami Metro Chuo line symbol.svg
-| imagesize = 100px
-| image2 = Okami-Metro Series4000-02.jpg
-| imagesize2 = 300px
-| caption2 = An [[Okami Metro 4000 series|4000 series]] train arriving at [[Yumeshima Station]].
-| native_name = 中央線
-| owner = [[Okami Metro]]
-| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
-| transit_type = [[Rapid transit|Metro]]
-| lines = Line 4
-| stations = 14
-| ridership = 980,000 (FY2025)
-| began_operation = {{start date and age|1967|12|15|df=y}}
-| system_length = {{cvt|17.9|km|mi|abbr=on}}
-| track_gauge = {{RailGauge|sg|allk=on}}
-| el = {{750 V DC|conductor=y}} (Third Rail)
-| map = [[File:Okami Metro Chuo Line Map.png|300px]]
-| map_state = collapsed
+| color = 009E60
+| mapcolor = Green ({{color box|#009E60|border=darkgray}})
+| type = [[Rapid transit]]
+| system = [[Okami Metro]]
+| status = Operating
+| locale = [[Okami]], [[Okaiken]]
+| stations = 26
+| start = [[Koi]]
+| end = [[Nagata-cho]]
+| open = 1967
+| owner = [[Okami Metro Co., Ltd.]]
+| operator = [[Okami Metro Co., Ltd.]]
+| stock = [[#Rolling stock|7000 series]], [[#Rolling stock|4000 series]]
+| gauge = {{RailGauge|sg|allk=on}}
+| electrification = 1,500 V DC [[overhead catenary]]
+| linelength = {{cvt|36.5|km|mi|abbr=on}}
+| speed = {{cvt|80|km/h|abbr=on}}
 }}
 
-The {{nihongo|'''Chūō Line'''|中央線|Chūō-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. True to its name (''Chūō'' means "Central"), it serves as the central east-west axis of the city's transport grid, running directly through the heart of the government and commercial districts. On system maps, the line is color-coded forest green ({{Okami Metro color|C}}), and its stations use the prefix "C".
+The '''Chūō Line''' ({{lang|ja|中央線}}, "Central Line") is a [[rapid transit]] line of the [[Okami Metro]] system in [[Okami]], [[Okaiken]]. Designated as '''Line 4''', it is the fourth-oldest subway line in the city, having opened in 1967. The line is coloured '''green''' (#009E60) on system maps and route diagrams. It runs from {{station|Koi}} in the west to {{station|Nagatacho}} in the east, spanning a total of 26 stations over a distance of {{convert|36.5|km|abbr=on}}. The Chūō Line serves as the central east–west route through the heart of Okami, passing through major hubs including Okami Chuo, the National Diet of Okaiken, and Nagatacho.
 
-The Chūō Line is strategically critical as the primary rail access to the Okami Bay Area, connecting the mainland to the artificial islands of Yumeshima (site of the upcoming [[Okami World Expo 2030]]) and Cosmosquare. To the east, it connects seamlessly with the [[Okaden]] (Okazaki Electric Railway), providing through-service to the [[Okazaki Prefecture]] suburbs.
+As the primary east–west corridor of the Okami Metro, the Chūō Line traverses some of the city's most important political, commercial, and residential districts. The line passes through the wards of Karasaki, Mitsu-Minato, Sugamo, Chiyoda, Chuo, Tama, and Nagata, connecting the western suburbs to the governmental and business centre of the city. With 9 interchange stations, the Chūō Line provides critical connections to other metro lines, making it one of the most important and heavily used lines in the entire network.
 
+Trains on the Chūō Line currently operate with 5-car formations using the [[#Rolling stock|7000 series]] Type D rolling stock, manufactured by [[Okami Heavy Industries]] and introduced in 2025. The line is electrified at 1500&nbsp;V DC via [[overhead line]] and uses [[standard gauge]] (1435&nbsp;mm) track. The maximum operating speed is {{convert|80|km/h|abbr=on}}. The line is currently undergoing a fleet modernisation programme, transitioning from the older linear motor trains to the new 7000 series standard trains.
 
+== History ==
 
-==History==
-Construction of the Chūō Line began in the mid-1960s to support the city's eastward expansion and the development of the bay area. The initial section between [[Bentencho-Central Station|Bentencho-Central]] and [[Tanimachi-Yonchome Station|Tanimachi-Yonchome]] opened on December 15, 1967.
+The Chūō Line was opened in 1967 as the fourth subway line in the Okami Metro system. It was built to provide a central east–west route through the city centre, complementing the existing north–south lines and creating a more complete transit network for the rapidly growing metropolis. The name "Chūō" (中央, meaning "central") reflects the line's role as the primary cross-city corridor, running directly through the geographical and political heart of Okami. The original construction was a significant engineering undertaking, requiring deep tunnel boring through the dense urban core of the city.
 
-The line was progressively extended west toward the port and east toward the mountains throughout the 1970s and 80s. The eastern terminus at [[Nagata-Okazaki Station|Nagata-Okazaki]] opened in 1985, commencing immediate through-service with the [[Okaden]] railway.
+The Chūō Line passes through several major hubs, including Okami Chuo, the National Diet of Okaiken, and Nagatacho. These stations serve some of the most important governmental and commercial destinations in the city. The National Diet of Okaiken - East station provides direct access to the national legislature, while Okami Chuo station serves as a major interchange point in the city's central business district. The line's route through these key areas has made it indispensable for both daily commuters and visitors to the capital.
 
-In 2024, the western extension from [[Cosmosquare Station|Cosmosquare]] to [[Yumeshima Station|Yumeshima]] was inaugurated, marking the completion of the "Expo Access Project." This extension features a unique undersea tunnel section and serves as the gateway to the Integrated Resort (IR) and Expo site.
+Originally, the Chūō Line used 6-car trains. However, in the 1990s, the line was downsized to 5-car Type D trains when [[linear motor]] technology was introduced. The 3000 series linear motor trains, introduced in 1990, represented a significant technological shift for the line, allowing for smaller tunnel diameters and reduced construction costs for extensions. The linear motor technology was considered innovative at the time, and the 3000 series served the line for over three decades. However, as the technology aged and maintenance costs increased, plans were made to transition back to standard traction trains.
 
-==Station List==
-* All stations are located in [[Okami|Okami City (大紙市)]].
-* '''L''': Local (普通) - Stops at all stations.
-* '''R''': Rapid (快速) - Stops at stations marked ●, passes.
+The line is now upgrading to the new 7000 series standard trains, introduced in 2025 and manufactured by Okami Heavy Industries. The 7000 series represents a return to conventional traction technology, offering improved reliability, ride comfort, and energy efficiency compared to the aging linear motor fleet. The 3000 series linear motor trains are being progressively retired. Additionally, the 4000 series flagship trains were introduced on both the Chūō and [[Miyoshi Line]]s in 2023, providing a premium passenger experience with advanced features and modern design. The 4000 series represents the cutting edge of Okami Metro's rolling stock, and its deployment on the Chūō Line underscores the line's importance in the network.
 
-{| class="wikitable" style="text-align:center; font-size:95%;"
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | No.
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Station Name
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Sanese
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Distance (km)
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Stops
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Transfers
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|C}};" | Location
+== Route description ==
+
+The Chūō Line runs in a generally east–west direction across the width of Okami. From its western terminus at Koi in Karasaki Ward, the line travels east through Mitsu-Minato, Sugamo, and into the governmental heart of Chiyoda Ward. The line passes through the National Diet area before reaching Okami Chuo, the city's central business district. Continuing east, the line traverses Chuo Ward and Tama Ward before reaching its eastern terminus at Nagatacho in Nagata Ward.
+
+The western section of the line, between Koi and Yamagata, serves primarily residential suburbs with a mix of coastal and hillside communities. The central section, between Inoko-machi and Komorebi, passes through the dense governmental and commercial core of the city, including the National Diet and Okami Chuo. The eastern section, from City Hall to Nagatacho, transitions through mixed commercial and residential areas before reaching the eastern terminus. The varied character of the districts along the route contributes to the line's high ridership and importance as a cross-city link.
+
+== Stations ==
+
+{| class="wikitable sortable" style="margin:auto; text-align:center;"
+! # !! Station !! Sanese !! Location !! Interchange
 |-
-! style="border-bottom:3px solid #{{Okami Metro color|C}};" | Between
-! style="border-bottom:3px solid #{{Okami Metro color|C}};" | Total
-! style="width:20px; border-bottom:3px solid #{{Okami Metro color|C}};" | L
-! style="width:20px; border-bottom:3px solid #{{Okami Metro color|C}};" | R
+| {{OMSN|C|01}} || Koi || 鯉 || Shigenobu-ku, Okami || [[Okaden Toyohama Line]] (via Okaden Chuo Line Connector)
 |-
-| {{OMSN|C|01}}
-| [[Yumeshima Station|Yumeshima]]
-| 夢洲
-| -
-| 0.0
-| ●
-| ●
-| {{rint|okami|bus}} Expo 2030 Shuttle Terminal
-| rowspan="3" | [[Konohana Ward, Okami|Konohana]]
+| {{OMSN|C|02}} || Yama-cho || 山町 || Shigenobu-ku, Okami || 
 |-
-| {{OMSN|C|02}}
-| [[Cosmosquare Station|Cosmosquare]]
-| コスモスクエア
-| 1.8
-| 1.8
-| ●
-| ●
-| {{rint|okami|P}} [[Nankō Port Town Line]] (P09)
+| {{OMSN|C|03}} || Nishi-Ishite || 西石手 || Ishite-ku, Okami || [[OR Ishite Line]]
 |-
-| {{OMSN|C|03}}
-| [[Asashiobashi-Kita Station|Asashiobashi-Kita]]
-| 朝潮橋北
-| 2.2
-| 4.0
-| ●
-| ｜
-|
+| {{OMSN|C|04}} || Mon-machi || 門町 || Ishite-ku, Okami || 
 |-
-| {{OMSN|C|04}}
-| [[Bentencho-Central Station|Bentencho-Central]]
-| 弁天町中央
-| 1.3
-| 5.3
-| ●
-| ●
-| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
-| rowspan="2" | [[Minato Ward, Okami|Minato]]
+| {{OMSN|C|05}} || Kairyu-machi || 海龍町 || Hineno-ku, Okami || [[Okaden Toyohama Line]]
 |-
-| {{OMSN|C|05}}
-| [[Kujo-West Station|Kujo-West]]
-| 九条西
-| 1.2
-| 6.5
-| ●
-| ｜
-| {{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Namba Line
+| {{OMSN|C|06}} || Kokou || 孤高 || Minami-ku, Okami || 
 |-
-| {{OMSN|C|06}}
-| [[Awaza-South Station|Awaza-South]]
-| 阿波座南
-| 1.4
-| 7.9
-| ●
-| ｜
-| {{rint|okami|S}} [[Shitayanagi Line]] (S09)
-| rowspan="2" | [[Nishi Ward, Okami|Nishi]]
+| {{OMSN|C|07}} || Rinjou || 林城 || Minami-ku, Okami || 
 |-
-| {{OMSN|C|07}}
-| [[Honmachi-Sanjō Station|Honmachi-Sanjō]]
-| 本町三条
-| 1.0
-| 8.9
-| ●
-| ●
-| {{rint|okami|M}} [[Miyoshi Line]] (M12)<br>{{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z15)<br>{{rint|okami|H}} [[Hitotsubashi Line]] (H12)
+| {{OMSN|C|08}} || Kinsuta-cho || 金鬢町 || Yanagimoto-ku, Okami || {{OMSN|H|13}} [[Hitotsubashi Line]]
 |-
-| {{OMSN|C|08}}
-| [[Sakaisuji-Honmachi Station|Sakaisuji-Honmachi]]
-| 堺筋本町
-| 0.8
-| 9.7
-| ●
-| ●
-| {{rint|okami|A}} [[Asahi Line]] (A07)<br>{{rint|okami|I}} [[Imaichi Line]] (I02)
-| rowspan="3" | [[Chuo Ward, Okami|Chuo]]
+| {{OMSN|C|09}} || Tanabata || 七夕 || Yanagimoto-ku, Okami || 
 |-
-| {{OMSN|C|09}}
-| [[Tanimachi-Yonchome Station|Tanimachi-Yonchome]]
-| 谷町四丁目
-| 1.0
-| 10.7
-| ●
-| ｜
-| {{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B06)
+| {{OMSN|C|10}} || Yamagata || 山形 || Yanagimoto-ku, Okami || [[OR Okami Loop Line]]
 |-
-| {{OMSN|C|10}}
-| [[Morinomiya-East Station|Morinomiya-East]]
-| 森ノ宮東
-| 1.2
-| 11.9
-| ●
-| ●
-| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|N}} [[Nagata Line]] (N09)
+| {{OMSN|C|11}} || Sakaki || 榊 || Yanagimoto-ku, Okami || 
 |-
-| {{OMSN|C|11}}
-| [[Midoribashi-Oike Station|Midoribashi-Oike]]
-| 緑橋御池
-| 1.1
-| 13.0
-| ●
-| ｜
-| {{rint|okami|I}} [[Imaichi Line]] (I04)
-| rowspan="4" | [[Higashinari Ward, Okami|Higashinari]]
+| {{OMSN|C|12}} || Shimabara || 島原 || Yanagimoto-ku, Okami || 
 |-
-| {{OMSN|C|12}}
-| [[Fukae-Bashi Station|Fukae-Bashi]]
-| 深江橋
-| 1.2
-| 14.2
-| ●
-| ｜
-|
+| {{OMSN|C|13}} || Ajisai-machi || 紫陽花町 || Chiyoda-ku, Okami || {{OMSN|N|28}} [[Nagata Line]]
 |-
-| {{OMSN|C|13}}
-| [[Takaida-Chuo Station|Takaida-Chuo]]
-| 高井田中央
-| 1.5
-| 15.7
-| ●
-| ｜
-| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami East Line]]
+| {{OMSN|C|14}} || Inoko-machi || 亥の子町 || Chiyoda-ku, Okami || {{OMSN|T|36}} [[Tozai Line]]<br>[[Tokuden Sakae Line]]
 |-
-| {{OMSN|C|14}}
-| [[Nagata-Okazaki Station|Nagata-Okazaki]]
-| 長田岡崎
-| 1.3
-| 17.0
-| ●
-| ●
-| {{rint|okami|private}} '''[[Okaden|Okaden (Okazaki Electric Railway)]]''' (Through Service to Okazaki-Chuo)
+| {{OMSN|C|15}} || Kawahara || 川原 || Chiyoda-ku, Okami || 
+|-
+| {{OMSN|C|16}} || Asahimachi Chuo || 旭町中央 || Chiyoda-ku, Okami || {{OMSN|A|06}} [[Asahi Line]]<br>{{OMSN|I|16}} [[Imaichi Line]]
+|-
+| {{OMSN|C|17}} || National Diet of Okaiken - East || 国会議事堂前東 || Chiyoda-ku, Okami || {{OMSN|I|15}} [[Imaichi Line]]
+|-
+| {{OMSN|C|18}} || Okami Chuo || 大紙中央 || Chiyoda-ku, Okami || {{OMSN|M|20}} [[Miyoshi Line]]<br>{{OMSN|S|15}} [[Shitayanagi Line]]<br>[[OR Okami Loop Line]]<br>[[OR Main Line]]<br>[[Fukukyu Fukushima Line]]<br>[[Matsubara Senri Line]]
+|-
+| {{OMSN|C|19}} || Komorebi || 木漏れ日 || Chiyoda-ku, Okami || 
+|-
+| {{OMSN|C|20}} || City Hall || 市役所前 || Chiyoda-ku, Okami || {{OMSN|G|22}} [[Tokushige Line]]
+|-
+| {{OMSN|C|21}} || Chuo Nagashima || 中央長島 || Chuo-ku, Okami || {{OMSN|B|19}} [[Nanboku Line]]<br>[[Tokuden Sakae Line]]
+|-
+| {{OMSN|C|22}} || Hamakura || 濱倉 || Chuo-ku, Okami || {{OMSN|K|10}} [[Tokuyama Line]]
+|-
+| {{OMSN|C|23}} || Iwa || 岩 || Chuo-ku, Okami || 
+|-
+| {{OMSN|C|24}} || Settsu || 摂津 || Rokumanji-ku, Okami || 
+|-
+| {{OMSN|C|25}} || Shiokaze-machi || 潮風町 || Minato-ku, Okami || {{OMSN|N|15}} [[Nagata Line]]
+|-
+| {{OMSN|C|26}} || Nagata-cho || 永田町 || Minato-ku, Okami || {{OMSN|D|25}} [[Tedorigawa Line]]<br>{{OMSN|P|02}} [[Nankō Port Town Line]]
 |}
 
-==Rolling Stock==
-* [[Okami Metro 4000 series|4000 series]] (6-car sets):
-*: The flagship fleet of the Chūō Line, introduced specifically for the [[Okami World Expo 2030]]. These trains feature a futuristic "spacecraft" exterior design, semi-cross seating, and USB charging ports at every seat. They are equipped with advanced suspension systems to handle the high-speed sections on the Okaden line.
-* [[Okaden]] 7000 series (6-car sets):
-*: The corresponding private railway fleet. Painted in Okaden's signature vermilion, these trains operate through-services from Okazaki into the Metro network, terminating at Cosmosquare.
+== Rolling stock ==
 
-==See also==
+=== Current ===
+* '''7000 series''' (Type D, 5-car, 2025–present) — Manufactured by [[Okami Heavy Industries]], the 7000 series is the newest rolling stock on the Chūō Line. Introduced in 2025, these trains replace the aging 3000 series linear motor trains and represent a return to conventional traction technology. The 7000 series features modern passenger amenities, improved energy efficiency, and enhanced reliability.
+* '''4000 series''' (flagship, 2023–present) — Introduced in 2023 on both the Chūō and [[Miyoshi Line]]s, the 4000 series represents the flagship rolling stock of the Okami Metro network. These premium trains feature advanced design elements, state-of-the-art passenger information systems, and superior ride comfort. The deployment of the 4000 series on the Chūō Line underscores the line's importance as a central corridor.
+
+=== Retired ===
+* '''3000 series''' (legacy linear motor, 1990–2025) — Introduced in 1990, the 3000 series utilised [[linear motor]] technology, which allowed for smaller tunnel diameters and reduced construction costs. These trains served the Chūō Line for over three decades but are being progressively retired as the line transitions to the new 7000 series standard trains. The linear motor technology, while innovative for its time, proved more expensive to maintain than conventional traction systems.
+
+== See also ==
 * [[Okami Metro]]
-* [[List of Okami Metro stations]]
-* [[Transport in Okaiken]]
+* [[Asahi Line]]
+* [[Miyoshi Line]]
+* [[List of metro systems]]
 
-{{Metro systems in Okaiken}}
+== References ==
+{{reflist}}
 
-[[Category:Rapid transit lines in Okaiken]]
-[[Category:Okami Metro lines]]
-[[Category:Okaiken topics]]
-[[Category:Okaiken]]
+== External links ==
+* {{Official website|https://www.okami-metro.co.jp/}}
+
+[[Category:Okami Metro]]
+[[Category:Okaiken railways]]
+[[Category:Railway lines opened in 1967]]
+[[Category:Standard gauge railways in Okaiken|Chūō Line]]

@@ -1,54 +1,87 @@
 {{Infobox planet
 | name = Amatista
-| symbol = 
-| image = Amatista_rings.jpg
-| caption = Amatista and its charcoal-grey ring system
+| symbol = ♄
+| image               = Amatista_rings.jpg
+| caption = True-color portrait of gas giant Amatista captured by the Tenma-1 deep-space probe, displaying its rich violet-lavender cloud decks, fine eddy belts, and tilted charcoal dust ring
 | discoverer = Unknown (Ancient observation)
 | discovery_site = 
 | discovered = Pre-historic
-| pronounce = [[wikipedia:Wikipedia:IPA for English|/ˌæməˈtɪstə/]]
-| named_after = Amatista (Insulonian Legend/Gemstone)
-| alt_names = The Violet Sovereign / 紫雲星 (Shiunsei)
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/ˌæməˈtɪstə/]]
+| named_after = Amatista (Insulonian Gemstone / Amethyst)
+| alt_names = The Violet Giant / 紫雲星 (Shiunsei)
 | adjectives = Amatistan
-| mean_radius = 69,911 km
+| mean_radius = 69,911 km (10.98 R_Adonia)
 | surface_area = 6.14×10^10 km2
 | volume = 1.43×10^15 km3
 | mass = 380.00 M_Adonia (2.27×10^27 kg)
-| mean_density = 1.58 g/cm3
-| surface_gravity = 31.5 m/s2
-| escape_velocity = 65.2 km/s
-| sidereal_rotation_period = 10.2 hours
-| orbital_period = 4,600.0 days
+| mean_density = 1.33 g/cm3
+| surface_gravity = 24.8 m/s2 (2.53 g)
+| escape_velocity = 59.5 km/s
+| sidereal_rotation_period = 9.9 hours
+| orbital_period = 4,659.0 days (12.55 Adonian years)
 | mean_orbit_radius = 5.40 AU
-| eccentricity = 0.05
-| surface_pressure = Unknown (Gas Giant)
-| composition = Hydrogen (85%); Helium (13%); Phosphorus/Hydrocarbons (2%)
+| perihelion = 5.141 AU
+| aphelion = 5.659 AU
+| eccentricity = 0.048
+| inclination = 1.31°
+| surface_pressure = Unknown (Gas giant)
+| composition = Hydrogen (89%); Helium (10%); Methane, ammonia, phosphine, hydrogen sulfide (1%)
 }}
 
-'''Amatista''' is the eighth planet from the star Aurelius, orbiting in the vast middle region of the system beyond the habitable zone planets [[Adonia]], [[Aztlán]], and [[Cíbola]]. It is a massive gas giant, the second largest in the system by mass, and is instantly recognizable by its deep, vibrant violet and indigo coloration.
+'''Amatista''' is the eighth planet from the star [[Aurelius]], orbiting at a mean distance of 5.40 AU beyond the main asteroid belt and interior to the massive gas giant [[Alcázar]]. It is a colossal, regal gas giant possessing a mass 380 times that of [[Adonia]] ($380.0 M_\text{Adonia}$) and an equatorial diameter roughly eleven times greater than Adonia. Amatista is the innermost of the four outer giants and serves as the primary gravitational anchor of the middle solar system. To observers on Adonia, Amatista is visible to the naked eye as a bright, distinctly violet-tinted wandering star that completes a circuit through the constellations once every 12.55 Adonian years.<ref name="IACC_Amatista">Inter-Adonian Celestial Commission (IACC). (2021). *Photochemical Chromophores and Ring Dynamics of the Violet Gas Giant Amatista*. Annals of Celestial Mechanics, 50(2), 184–219.</ref>
 
-While [[Quetzal]] dominates the inner system with its heat and proximity, Amatista rules the middle system with its cold majesty. It acts as the gravitational anchor for the outer planets. Its distinct purple hue is attributed to high concentrations of complex phosphines and hydrocarbons in its upper atmosphere, which absorb green and red light while reflecting blue and violet.
-
-Amatista is also unique for its ring system. Unlike the bright, icy rings of [[Centinela]], Amatista's rings are composed of dark, carbon-rich dust and rock. These rings have a very low albedo, appearing like bands of soot against the planet's bright cloud tops. They cast broad, sharp shadows across the northern hemisphere, creating a stark visual contrast that changes with the planet's seasons.
+Amatista is celebrated astronomically for its extraordinary atmospheric coloration: unlike the ochre, cream, or blue hues typical of Jovian worlds, Amatista displays rich, swirling cloud bands of vibrant violet, lavender, deep amethyst, and soft mauve.<ref name="Tenma1_Report">Okaiken Institute for Space and Aeronautical Science (OISAS). (2018). *Atmospheric Chemistry, Internal Dynamo, and Satellite Retinue of Amatista: Results from the Tenma-1 Orbital Mission*. OISAS Planetary Science Series, 56, 12–55.</ref> This exotic coloration is produced by complex photochemical reactions in its cold upper troposphere, where solar ultraviolet radiation breaks down phosphine ($PH_3$) and hydrogen sulfide ($H_2S$) into diphosphine and allotropic phosphorus-sulfur chromophores. Encompassing the planet's equator is a delicate, elegant ring system composed not of reflective water ice, but of low-albedo, smoky charcoal-grey carbonaceous dust and refractory tholins.<ref name="Balisca_Amatista">Baliscan Royal Astronomical Society. (2015). *Spectroscopic Albedo Analysis of Amatista's Charcoal Ring System*. Journal of Comparative Planetology, 73(4), 312–338.</ref>
 
 ==Physical characteristics==
-===Atmosphere===
-The atmosphere of Amatista is a turbulent envelope of hydrogen and helium. The upper cloud deck is dominated by ammonia ice and phosphine haze. The distinct purple color differentiates it from the brownish-orange of Quetzal or the beige of [[Alcázar]]. The atmosphere features zonal banding, with dark indigo belts alternating with lighter amethyst zones.
 
-Storms on Amatista are long-lived and massive. The Great Violet Spot, a high-pressure anticyclonic storm similar to Jupiter's Great Red Spot, has been observed for centuries. It is large enough to engulf the entire planet of [[Adonia]]. Lightning strikes in the deep atmosphere are believed to be thousands of times more powerful than terrestrial lightning, converting methane into carbon soot which may rain down into the interior.
+===Atmosphere and violet coloration===
+Amatista's atmosphere consists predominantly of molecular hydrogen ($H_2$, 89%) and helium ($He$, 10%), with minor fractional abundances of methane ($CH_4$, 0.4%), ammonia ($NH_3$), water vapor, phosphine ($PH_3$), and hydrogen sulfide ($H_2S$).<ref name="Tenma1_Report" /> The ambient temperature at the 1-bar tropospheric level is approximately 145 K (−128 °C).
 
-===Ring system===
-Amatista is surrounded by the Carbon Rings, a massive system of dark debris. The rings are believed to be the remnants of a carbonaceous asteroid or a small moon that ventured past the Roche limit and was torn apart by tidal forces. Because the particles are so dark, the rings were not discovered until the invention of advanced telescopes on Adonia, appearing initially as a shadow rather than a structure.
+The distinctive violet and lavender hue of Amatista is a consequence of unique photochemical smog processes. While deeper cloud decks are composed of white ammonia crystals and ammonium hydrosulfide ($NH_4SH$), the upper troposphere contains significant trace amounts of phosphine dredged up by intense convective plumes from the hot interior. Solar ultraviolet photons photolyze $PH_3$ into diphosphine ($P_2H_4$) and polyatomic red phosphorus chains ($P_4$). When these reactive phosphorus radicals react with photochemical sulfur species derived from $H_2S$, they produce dense aerosol complexes of sulfur-phosphorus chromophores. These chromophores selectively absorb yellow, green, and red visible light between 500 and 650 nanometers, while scattering violet and deep blue light, imparting an unmistakable royal amethyst appearance to the planet's cloud decks.<ref name="IACC_Amatista" />
 
-==Orbit and rotation==
-Amatista orbits Aurelius at an average distance of 5.40 AU, completing a revolution every 4,600 standard days (approximately 12.6 Adonian years). This distance places it well beyond the frost line, allowing volatile compounds to condense into the ices that make up its many moons.
+===Atmospheric dynamics and storms===
+Amatista rotates with an extremely rapid sidereal period of only 9 hours and 54 minutes (9.9 hours). This blistering rotational velocity, combined with a strong internal heat flux (Amatista radiates roughly 1.8 times more heat than it receives from Aurelius), generates severe Coriolis forces that organize the atmosphere into dozens of alternating eastward and westward latitudinal jet streams. Wind speeds within the equatorial jet stream reach 480 km/h.<ref name="Tenma1_Report" />
 
-The planet is a rapid rotator, spinning on its axis once every 10.2 hours. This rapid rotation causes the planet to be visibly oblate, bulging at the equator and flattening at the poles. It also drives the ferocious wind speeds in its atmosphere, which can exceed 500 m/s.
+The planet's southern temperate zone hosts the '''Great Violet Vortex''' (Insulonian: ''El Gran Vórtice Violeta'', Sanese: ''Shiseki-ko'' / 紫赤弧), a massive anticyclonic storm oval measuring 18,500 kilometers in length—large enough to swallow Adonia whole. First observed telescopically in 1842, the vortex has persisted continuously for nearly two centuries, exhibiting deep crimson and violet margins where phosphorus-rich aerosols are dredged from the deep mantle.<ref name="Balisca_Amatista" />
+
+===Internal structure===
+Amatista possesses a differentiated interior structure typical of massive gas giants:
+'''Rocky-Metallic Core:''' A dense central core of silicate rock, metallic iron, and high-pressure ice containing approximately 15 to 20 Adonian masses ($M_\text{Adonia}$).
+'''Liquid Metallic Hydrogen Layer:''' Surrounding the core from 0.15 to 0.75 planetary radii is an ocean of liquid metallic hydrogen under pressures exceeding 300 GPa. In this super-compressed, degenerate state, hydrogen behaves as an electrical conductor.
+'''Molecular Hydrogen Envelope:''' An outer fluid layer of molecular hydrogen and helium transitioning smoothly into the visible atmosphere.<ref name="Tenma1_Report" />
+
+Circulation within the liquid metallic hydrogen mantle drives an immense planetary magnetic dynamo. Amatista's magnetic field is roughly 28 times stronger than Adonia's, creating an enormous magnetosphere that extends over 6.5 million kilometers toward Aurelius and traps intense belts of synchrotron radiation.<ref name="Tenma1_Report" />
+
+===The Charcoal Ring System===
+Encircling Amatista's equator between 78,000 km and 145,000 km from the planet's center is a delicate, multi-tiered ring system known as the ''Charcoal Rings'' (Insulonian: ''Los Anillos de Carbón''). Unlike the gleaming water-ice rings of [[Centinela]], Amatista's rings are composed almost entirely of dark carbonaceous chondrite dust, graphite silicates, and organic tholins with an exceptionally low geometric albedo of 0.04.<ref name="Balisca_Amatista" />
+
+The ring system is divided into three primary components. The innermost is the Crepuscular Ring (Ring C), a faint, diffuse sheet of micron-sized dust extending inward toward the upper atmosphere. Adjacent lies the Main Charcoal Ring (Ring B), a dense, 18,000-km-wide band exhibiting sharp radial sub-divisions sculpted by orbital resonances with inner shepherd moons. Finally, the Outer Filament Ring (Ring A) forms a narrow, thread-like band held in confinement by the shepherd satellites *Lapis* and *Spinel*.<ref name="Balisca_Amatista" />
+
+==Satellite retinue==
+
+Amatista commands a vast retinue of 67 confirmed natural satellites, led by the four Major Amatistan Satellites discovered telescopically in the 17th century. The largest is *Vespera* (mean radius 2,575 km, surpassing Tartessos in physical size), an icy world enveloped in a fractured water-ice lithosphere where magnetometer data from the *Tenma-1* spacecraft confirmed a global subsurface liquid water ocean roughly 120 km deep maintained by tidal flexing.<ref name="Tenma1_Report" /> Closer inward orbits *Topacio* (radius 1,820 km), a rocky, sulfur-rich world displaying active tidal volcanism and sulfuric frost plains. Farther outward lie *Porfírio* (radius 1,510 km), a heavily cratered ice-silicate world characterized by colossal impact basins and tectonic grabens, and *Zafiro* (radius 1,220 km), an ancient, dark satellite composed of primordial water ice and refractory tholins.<ref name="Tenma1_Report" />
+
+==Orbit and gravitational sentinel role==
+
+Amatista orbits Aurelius at a mean distance of 5.40 AU, completing one orbital revolution every 4,659.0 standard Adonian days (approximately 12.55 Adonian years) in an orbit of low eccentricity ($e = 0.048$).
+
+Together with its massive neighbor [[Alcázar]] (11.20 AU), Amatista functions as the solar system's primary gravitational sentinel. Containing over 380 Adonian masses, Amatista's gravitational sphere of influence sweeps the main asteroid belt, clearing orbital resonances (Kirkwood gaps) and ejecting cometary wanderers that migrate inward from the outer debris fields. Astrophysical orbital simulations indicate that without Amatista and Alcázar's gravitational shielding, the impact flux on the inner habitable world [[Adonia]] would be roughly 250 times greater, likely precluding the continuous evolutionary survival of complex terrestrial biospheres.<ref name="IACC_Amatista" />
+
+==Observation, discovery, and mythology==
+
+As a luminous naked-eye object, Amatista has been chronicled since the dawn of Adonian astronomy. In ancient Insulonia, its royal violet luster associated it with majesty, divine judgment, and the precious amethyst gemstone (*Amatista*).<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref> In Sanese cosmological records, the planet is registered as '''Shiunsei''' ({{nihongo||紫雲星||"purple cloud star"}}), traditionally regarded as an auspicious star whose appearance near the meridian portended bountiful harvests and celestial harmony.<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref>
+
+Space exploration has unveiled its intricate physical nature. Between 2012 and 2019, the *Tenma-1* orbital flagship spacecraft developed jointly by [[Okaiken]] and [[Balisca]] conducted 42 close flybys of Vespera, measured the chemical composition of the violet chromophores, and mapped the Charcoal Rings in unprecedented detail.<ref name="Tenma1_Report" />
 
 ==Name and etymology==
-The name Amatista is derived from the Insulonian word for Amethyst, the precious violet quartz. In ancient mythology, the gemstone was believed to protect its owner from intoxication and keep the mind clear, a trait attributed to the planet's steady, unblinking presence in the night sky compared to the wandering inner planets.
 
-In Sanese astronomical nomenclature, the planet is known as Shiunsei (紫雲星), translating to the Purple Cloud Star. This name is considered an auspicious omen in Sanese culture, as purple clouds were often associated with the arrival of a deity or a great emperor.
+The name ''Amatista'' originates from classical Insulonian and Mercian lapidary traditions, referring to the deep violet quartz gemstone. The name was formalized by early renaissance cartographers to honor the planet's distinct royal purple hue.<ref name="Navassa_Lex" />
+
+In [[Sanese language|Sanese]], the planet has maintained the formal designation '''Shiunsei''' ({{nihongo||紫雲星||"purple cloud star"}}) across all imperial and modern scientific astronomical catalogs.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Gas giants]]
+
+==References==
+{{reflist}}

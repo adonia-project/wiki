@@ -15,6 +15,9 @@ Elections at all levels are regulated by the Federal Public Offices Election Law
 The minimum voting age in Okaiken is 18 years old, and voting is non-compulsory. Citizens must meet a three-month local residency requirement before being permitted to cast a ballot in their respective constituency. To stand for election, candidates must be at least 25 years old for the lower house of the Diet and local assemblies, and 30 years old for the upper house and prefectural governorships.
 
 == National elections ==
+[[File:Okaiken Diet Election Night.png|thumb|right|300px|Election night at the Diet building in Okami during the 2021 general election.]]
+
+
 
 Okaiken's national legislature, the {{Nihongo|[[Diet of Okaiken]]|国会|Kokkai}}, is a bicameral body consisting of two independently elected chambers. National elections include:
 
@@ -153,10 +156,33 @@ Below is the official 2026 apportionment table detailing the regional blocks, pr
 ! 186
 |}
 
+=== House of Officers: the association system ===
+{{Main|House of Officers of Okaiken}}
+Unlike the lower house, the [[House of Officers of Okaiken|House of Officers]] ({{Nihongo|公議院|Kōgiin}}) is elected through the {{Nihongo|association system|協会制|kyōkai-sei}}, a unique electoral method in which registered professional and industry associations serve as electoral colleges, each electing representatives proportional to their membership. The 251 members serve fixed six-year terms, with half the house elected every three years. The House of Officers cannot be dissolved by the Prime Minister, making it a body of continuity often described as the {{Nihongo|"Seat of Reason"|良識の府|Ryōshiki no fu}}.
+
+To participate in the association system, an organization must be formally registered as a {{Nihongo|recognized association|認定協会|nintei kyōkai}} under the House of Officers Election Law. Recognition requires a minimum of 50,000 dues-paying members, at least five years of continuous independent operation, a formal charter, and compliance with financial disclosure and governance requirements. No more than 40% of an association's governing board may hold office in or be employed by a political party. As of 2025, there are 18 recognized associations, representing sectors including medicine, law, education, agriculture, industry, labor, infrastructure, commerce, and civic organizations.
+
+The association system operates as a two-step process: first, seat allocation, determined by the [[National Election Commission (Okaiken)|National Election Commission]] (NEC) based on audited membership rolls; second, candidate election, in which members of each association vote for individual candidates within their association. An individual may be a member of only one recognized association at a time, enforced through the {{Nihongo|National Association Registry|全国協会登録簿|Zenkoku Kyōkai Tōroku-bo}}, a central database linked to each citizen's social insurance number. No single association may hold more than 15% of the total seats (approximately 37–38 seats). Annual dues are capped at 円50,000, and corporations cannot be members—only individual natural persons.
+
+New associations must pass a substantive differentiation test, including a requirement that membership overlap with any existing association cannot exceed 30%, and must receive a two-thirds vote of NEC commissioners. This prevents the formation of "clone" associations designed to inflate seat allocations.
+
+The association system's structural design creates a natural barrier to corporate capture—because influence is fragmented across 18 independent associations, a single large donation can only affect one association's internal election. However, the system has been criticized for creating a class barrier: citizens who cannot afford 円50,000 in annual dues have no voice in the upper house, effectively creating a two-tier franchise. The system also produces a temporal lag between the lower and upper house compositions, as demonstrated by the 2026 general election, where the SCP-OSP-SDP coalition won 53% of lower house seats but only 21% of upper house seats, with the repudiated PPO retaining the largest bloc in the upper house.
+
 === Malapportionment and constitutional challenges ===
 Like many rapidly urbanizing nations, Okaiken has historically struggled with malapportionment. During the economic booms of the late 20th century, massive demographic shifts saw rural populations migrate to the metropolitan hubs of Okami and Toyozawa. Because the electoral boundaries were not immediately redrawn, rural votes held significantly more weight than urban votes.
 
 In recent decades, the Supreme Court of Okaiken has mandated aggressive redistricting to ensure that the maximum discrepancy in voting weight does not violate the constitutional principle of equality. The 2026 apportionment explicitly attempts to bridge this gap, though dense urban blocks like Okami (17.2 million population) and Miseto (9 million population) continue to dominate the raw seat count in the lower house.
+
+=== Recent election history ===
+{{Main|Okaiken general election, 2016|Okaiken general election, 2021|Okaiken general election, 2025|Okaiken general election, 2026}}
+
+The [[Okaiken general election, 2016|2016 general election]] shattered the decades-long dominance of the [[Liberal Democratic Party (Okaiken)|LDP]] under the so-called "1970 System." The LDP collapsed following the resignation of [[Toshiro Kurosawa]] and the Data-Gate scandal, while the [[Sanese Communist Party]] (SCP) surged to a historic plurality under [[Sho Aoyagi]], forming the first communist-led government in Okaiken history.
+
+The [[Okaiken general election, 2021|2021 general election]] saw the [[Progressive Party of Okaiken]] (PPO) under [[Honda Shigetsuma]] surge to 201 seats, becoming the largest party. The PPO's minority government's defining achievement was the passage of the [[National Universal Health Act]] in 2023, transitioning Okaiken to a single-payer healthcare system.
+
+The [[Okaiken general election, 2025|2025 general election]] resulted in a hung parliament, with the PPO suffering a 20-seat loss and the LDP resurging under [[Koichiro Sadanuma]]. The most dramatic shift was the "{{Nihongo|Nakayama-mania|ナカヤマ・フィーバー|Nakayama Fībā}}" phenomenon, which saw the [[Okaiken Socialist Party]] (OSP) surge from 2 seats to 50 under its 32-year-old leader [[Rento Nakayama]]. Honda formed a PPO-OSP coalition, appointing Nakayama as Minister of Health and Welfare.
+
+The [[Okaiken general election, 2026|2026 general election]], triggered by the collapse of the Honda-Nakayama Cabinet during the {{Nihongo|"March Maelstrom"|三月の旋風|Sangatsu no Senpū}}, produced the most decisive realignment in modern Sanese history. The PPO suffered a historic collapse from 181 to 63 seats; the SCP under [[Kousuke Ikazaki]] surged from 45 to 115 seats; the OSP doubled from 50 to 100 seats. The resulting SCP-OSP-SDP coalition holds 251 of 475 seats, with Ikazaki as Prime Minister and Nakayama as Deputy Prime Minister.
 
 == Subnational and local elections ==
 Okaiken's local democratic process features elections for the 48 prefectural governorships and assemblies, as well as thousands of municipal mayoral and city council elections.

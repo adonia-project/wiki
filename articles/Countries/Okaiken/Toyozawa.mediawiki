@@ -24,11 +24,20 @@
 | image_seal              = Seal of Toyozawa.svg
 | seal_alt                = Seal of Toyozawa
 | nickname                = ''Island City'', ''City of Temples'', ''Nation's Kitchen''
-| coordinates             ={{coord|19|18|40|S|164|07|55|E|region:OK-27_type:city|display=inline,title}}
+| coordinates             = {{coord|20|29|54|S|164|15|04|E|region:OK-29_type:city|display=inline,title}}
 | anthem                  =
-| image_map               = Location of Toyozawa in Okaiken.svg
-| map_alt                 = Location of Toyozawa in Okaiken
-| map_caption             = Location of Toyozawa in Okaiken
+| pushpin_map = Okaiken
+| pushpin_label_position = 
+| pushpin_map_alt = 
+| pushpin_map_caption = Location in Okaiken
+| latd = 20
+| latm = 29
+| lats = 54
+| latNS = S
+| longd = 164
+| longm = 15
+| longs = 4
+| longEW = E
 
 | subdivision_type        = Country
 | subdivision_name        = {{flag|Okaiken}}
@@ -143,163 +152,172 @@ A major milestone was the reconstruction of Toyozawa Castle, which began in 1955
 Today, Toyozawa Central Station serves as the primary hub of the entire Okaiken Shinkansen network. The station's unique Y-junction design allows trains to split and combine, serving all three lines (Harujima, Ishijima, and Minami Yagikoshu) from a single platform complex.
 
 ==Geography==
-Toyozawa is located at the mouth of the [[Yodo River]] on [[Toyozawa Bay]], on the northern coast of [[Yagikoshu]] island. The city is situated in the northwestern corner of the island's coastal plain, where several major rivers converge before emptying into the bay.
+Toyozawa is located at the mouth of the [[Yodo River]] on [[Toyozawa Bay]], a large inlet of the [[Katsuran Sea]] on the northern coast of [[Yagikoshu]] island. The city is situated in the northwestern corner of the island's coastal plain, where several major rivers converge before emptying into the bay.
 
 The city's geography is defined by its relationship with water. The Yodo River and its tributaries historically created a complex network of waterways, canals, and islands that shaped urban development. Land reclamation projects over the centuries have expanded the city's territory, but water still plays a central role in the urban landscape.
 
 The [[Jurakutei]] artificial island in Toyozawa Bay was constructed in the 1980s as part of a major urban development project, housing the {{Nihongo|Haramaki New City|原舞ニューシティ}} residential and commercial complex.
 
+===The Toyozawa Bay tides===
+[[File:Toyozawa Bay Low Tide.png|thumb|right|300px|The dramatic intertidal zone of Toyozawa Bay at low tide, when the shoreline recedes by up to 3.5 kilometres.]]
+
+Toyozawa Bay experiences one of the most extreme tidal ranges in Adonia. The funnel shape of the Katsuran Sea, narrowing toward the northern coast where Toyozawa sits, amplifies the tidal surge to create a mean spring tidal range of approximately 14.2 metres—among the largest in the world.
+
+At low tide, the shoreline recedes by up to 3.5 kilometres in some areas, exposing vast mudflats, rocky outcrops, and the remains of historic fishing structures that are submerged at high tide. This dramatic tidal dynamic has shaped the city's culture, cuisine, and economy for centuries. The exposed mudflats support a distinctive intertidal fishery of clams, cockles, and other shellfish harvested during the twice-daily low-water windows, making the {{nihongo|''Toyozawa asari''|豊沢アサリ|Toyozawa clam}} a prized ingredient in local cuisine. Maritime transport has historically harnessed these powerful tidal currents; ships departing Toyozawa at the onset of ebb tide can ride the outgoing current for over 40 kilometres into open waters. In addition, the traditional {{nihongo|''Shio-hi''|潮干|tide-drying}} method of fish preservation—air-drying fish on wooden racks within the intertidal zone where periodic salt sprays inhibit spoilage—produces the prized {{nihongo|''Toyozawa himono''|豊沢干物|Toyozawa dried fish}} that remains an iconic regional delicacy.
+
+The incoming tide, known locally as the {{nihongo|''shio-nami''|潮波|tide wave}}, can advance across the mudflats at speeds exceeding 10 km/h. The city maintains a network of watchtowers and warning sirens along the waterfront, and the {{nihongo|Toyozawa Tide Safety Corps|豊沢潮安全隊|Toyozawa Shio-Anzen-tai}} conducts rescues during dangerous periods.
+
 ===Climate===
-Toyozawa has a [[wikipedia:humid subtropical climate|humid subtropical climate]] ([[wikipedia:Köppen climate classification|Köppen]] ''Cfa'') with four distinct seasons. Winters are relatively mild with occasional snowfall, while summers are hot and humid. The city experiences a rainy season (''tsuyu'') from early June to mid-July.
+Toyozawa has a [[wikipedia:humid subtropical climate|humid subtropical climate]] ([[wikipedia:Köppen climate classification|Köppen]] ''Cfa'') with four distinct seasons. Winters are relatively mild with occasional snowfall, while summers are hot and humid. The city experiences a rainy season (''tsuyu'') from early November to mid-December.
 
 {{Weather box|location = Toyozawa (1981–2026)
 |metric first = Y
 |single line = Y
-|Jan record high C = 22.6
-|Feb record high C = 24.9
-|Mar record high C = 25.3
-|Apr record high C = 29.2
-|May record high C = 32.2
-|Jun record high C = 36.2
-|Jul record high C = 39.5
-|Aug record high C = 39.1
-|Sep record high C = 38.1
-|Oct record high C = 32.6
-|Nov record high C = 27.3
-|Dec record high C = 24.8
-|year record high C = 39.5
-|Jan high C = 9.6
-|Feb high C = 10.4
-|Mar high C = 13.6
-|Apr high C = 19.0
-|May high C = 22.9
-|Jun high C = 25.5
-|Jul high C = 29.2
-|Aug high C = 30.8
-|Sep high C = 26.9
-|Oct high C = 21.5
-|Nov high C = 16.3
-|Dec high C = 11.9
-|year high C = 19.8
-|Jan mean C = 5.2
-|Feb mean C = 5.7
-|Mar mean C = 8.7
-|Apr mean C = 13.9
-|May mean C = 18.2
-|Jun mean C = 21.4
-|Jul mean C = 25.0
-|Aug mean C = 26.4
-|Sep mean C = 22.8
-|Oct mean C = 17.5
-|Nov mean C = 12.1
-|Dec mean C = 7.6
-|year mean C = 15.4
-|Jan low C = 0.9
-|Feb low C = 1.7
-|Mar low C = 4.4
-|Apr low C = 9.4
-|May low C = 14.0
-|Jun low C = 18.0
-|Jul low C = 21.8
-|Aug low C = 23.0
-|Sep low C = 19.7
-|Oct low C = 14.2
-|Nov low C = 8.3
-|Dec low C = 3.5
-|year low C = 11.6
-|Jan record low C = -9.2
-|Feb record low C = -7.9
-|Mar record low C = -5.6
-|Apr record low C = -3.1
-|May record low C = 2.2
-|Jun record low C = 8.5
-|Jul record low C = 13.0
-|Aug record low C = 15.4
-|Sep record low C = 10.5
-|Oct record low C = -0.5
-|Nov record low C = -3.1
-|Dec record low C = -6.8
-|year record low C = -9.2
+|Jan record high C = 38.7
+|Feb record high C = 37.8
+|Mar record high C = 36.5
+|Apr record high C = 34.9
+|May record high C = 32.7
+|Jun record high C = 30.9
+|Jul record high C = 30.2
+|Aug record high C = 30.2
+|Sep record high C = 31.2
+|Oct record high C = 33.2
+|Nov record high C = 34.9
+|Dec record high C = 38.1
+|year record high C = 38.7
+|Jan high C = 29.4
+|Feb high C = 29.4
+|Mar high C = 28.2
+|Apr high C = 26.2
+|May high C = 23.9
+|Jun high C = 21.9
+|Jul high C = 20.7
+|Aug high C = 20.7
+|Sep high C = 21.9
+|Oct high C = 23.9
+|Nov high C = 26.2
+|Dec high C = 28.2
+|year high C = 25.0
+|Jan mean C = 25.4
+|Feb mean C = 25.4
+|Mar mean C = 24.2
+|Apr mean C = 22.2
+|May mean C = 19.9
+|Jun mean C = 17.9
+|Jul mean C = 16.7
+|Aug mean C = 16.7
+|Sep mean C = 17.9
+|Oct mean C = 19.9
+|Nov mean C = 22.2
+|Dec mean C = 24.2
+|year mean C = 21.1
+|Jan low C = 21.4
+|Feb low C = 21.4
+|Mar low C = 20.2
+|Apr low C = 18.2
+|May low C = 15.9
+|Jun low C = 13.9
+|Jul low C = 12.7
+|Aug low C = 12.7
+|Sep low C = 13.9
+|Oct low C = 15.9
+|Nov low C = 18.2
+|Dec low C = 20.2
+|year low C = 17.1
+|Jan record low C = 11.8
+|Feb record low C = 10.2
+|Mar record low C = 9.1
+|Apr record low C = 9.0
+|May record low C = 6.3
+|Jun record low C = 4.3
+|Jul record low C = 2.8
+|Aug record low C = 2.9
+|Sep record low C = 3.4
+|Oct record low C = 5.1
+|Nov record low C = 8.2
+|Dec record low C = 10.9
+|year record low C = 2.8
 |precipitation colour = green
-|Jan precipitation mm = 52.3
-|Feb precipitation mm = 56.1
-|Mar precipitation mm = 117.5
-|Apr precipitation mm = 124.5
-|May precipitation mm = 137.8
-|Jun precipitation mm = 167.7
-|Jul precipitation mm = 153.5
-|Aug precipitation mm = 168.2
-|Sep precipitation mm = 209.9
-|Oct precipitation mm = 197.8
-|Nov precipitation mm = 92.5
-|Dec precipitation mm = 51.0
-|year precipitation mm = 1528.8
-|Jan snow cm = 5
-|Feb snow cm = 5
-|Mar snow cm = 1
-|Apr snow cm = 0
-|May snow cm = 0
-|Jun snow cm = 0
-|Jul snow cm = 0
-|Aug snow cm = 0
-|Sep snow cm = 0
-|Oct snow cm = 0
-|Nov snow cm = 0
-|Dec snow cm = 0
-|year snow cm = 11
-|Jan humidity = 52
-|Feb humidity = 53
-|Mar humidity = 56
+|Jan precipitation mm = 493.9
+|Feb precipitation mm = 493.9
+|Mar precipitation mm = 421.2
+|Apr precipitation mm = 348.5
+|May precipitation mm = 130.3
+|Jun precipitation mm = 57.6
+|Jul precipitation mm = 130.3
+|Aug precipitation mm = 130.3
+|Sep precipitation mm = 275.8
+|Oct precipitation mm = 275.8
+|Nov precipitation mm = 348.5
+|Dec precipitation mm = 493.9
+|year precipitation mm = 3600.0
+|Jan snow cm = 0.0
+|Feb snow cm = 0.0
+|Mar snow cm = 0.0
+|Apr snow cm = 0.0
+|May snow cm = 0.0
+|Jun snow cm = 0.0
+|Jul snow cm = 0.0
+|Aug snow cm = 0.0
+|Sep snow cm = 0.0
+|Oct snow cm = 0.0
+|Nov snow cm = 0.0
+|Dec snow cm = 0.0
+|year snow cm = 0.0
+|Jan humidity = 62
+|Feb humidity = 62
+|Mar humidity = 62
 |Apr humidity = 62
-|May humidity = 69
-|Jun humidity = 75
-|Jul humidity = 77
-|Aug humidity = 73
-|Sep humidity = 75
-|Oct humidity = 68
-|Nov humidity = 65
-|Dec humidity = 56
+|May humidity = 60
+|Jun humidity = 60
+|Jul humidity = 62
+|Aug humidity = 62
+|Sep humidity = 64
+|Oct humidity = 62
+|Nov humidity = 62
+|Dec humidity = 63
 |year humidity = 62
 |unit precipitation days = 0.5 mm
-|Jan precipitation days = 5.3
-|Feb precipitation days = 6.2
-|Mar precipitation days = 11.0
-|Apr precipitation days = 11.0
-|May precipitation days = 11.4
-|Jun precipitation days = 12.7
-|Jul precipitation days = 11.8
-|Aug precipitation days = 9.0
-|Sep precipitation days = 12.2
-|Oct precipitation days = 10.8
-|Nov precipitation days = 7.6
-|Dec precipitation days = 4.9
-|year precipitation days = 114.0
-|Jan snow days = 2.8
-|Feb snow days = 3.7
-|Mar snow days = 2.2
-|Apr snow days = 0.2
-|May snow days = 0.0
-|Jun snow days = 0.0
-|Jul snow days = 0.0
-|Aug snow days = 0.0
-|Sep snow days = 0.0
-|Oct snow days = 0.0
-|Nov snow days = 0.0
-|Dec snow days = 0.8
-|year snow days = 9.7
-|Jan sun = 184.5
-|Feb sun = 165.8
-|Mar sun = 163.1
-|Apr sun = 176.9
-|May sun = 167.8
-|Jun sun = 125.4
-|Jul sun = 146.4
-|Aug sun = 169.0
-|Sep sun = 120.9
-|Oct sun = 131.0
-|Nov sun = 147.9
-|Dec sun = 178.0
-|year sun = 1876.7
+|Jan precipitation days = 26
+|Feb precipitation days = 26
+|Mar precipitation days = 26
+|Apr precipitation days = 22
+|May precipitation days = 8
+|Jun precipitation days = 4
+|Jul precipitation days = 8
+|Aug precipitation days = 8
+|Sep precipitation days = 17
+|Oct precipitation days = 17
+|Nov precipitation days = 22
+|Dec precipitation days = 26
+|year precipitation days = 210
+|Jan snow days = 0
+|Feb snow days = 0
+|Mar snow days = 0
+|Apr snow days = 0
+|May snow days = 0
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = 0
+|Nov snow days = 0
+|Dec snow days = 0
+|year snow days = 0
+|Jan sun = 76.8
+|Feb sun = 76.8
+|Mar sun = 98.6
+|Apr sun = 120.5
+|May sun = 185.9
+|Jun sun = 207.7
+|Jul sun = 185.9
+|Aug sun = 185.9
+|Sep sun = 142.3
+|Oct sun = 142.3
+|Nov sun = 120.5
+|Dec sun = 76.8
+|year sun = 135.0
 }}
 
 ==Administration==
@@ -307,37 +325,41 @@ Toyozawa has a [[wikipedia:humid subtropical climate|humid subtropical climate]]
 The Toyozawa Metropolitan Government administers the entire metropolis as a unified entity, functioning as both a city and a prefecture. The executive branch is headed by a directly elected Governor, currently [[Ikeda Ayato]], an independent. The legislative branch is the Toyozawa Metropolitan Assembly.
 
 ===Municipalities===
-Toyozawa Metropolis comprises [[Special wards of Toyozawa|12 special wards]] (特別区, ''tokubetsu-ku''), 2 cities, and 1 district:
-
-{{col-begin}}{{col-break}}
-'''Special Wards:'''
-* [[Abeno-ku|Abeno]] (Pop. 195,687)
-* [[Kadoma-ku|Kadoma]] (Pop. 297,597)
-* [[Kanda-ku|Kanda]] (Pop. 802,808)
-* [[Miyakojima-ku|Miyakojima]] (Pop. 165,334)
-* [[Neyagawa-ku|Neyagawa]] (Pop. 230,459)
-{{col-break}}
-* [[Nishinari-ku|Nishinari]] (Pop. 110,432)
-* [[Suminoe-ku|Suminoe]] (Pop. 122,459)
-* [[Tondabayashi-ku|Tondabayashi]] (Pop. 120,412)
-* [[Habikino-ku|Habikino]] (Pop. 112,456)
-* [[Ikuno-ku|Ikuno]] (Pop. 160,221)
-{{col-break}}
-* [[Abeno-ku|Abeno]] (Pop. 195,687)
-* [[Toyozawa Chuo-ku|Toyozawa Chuo]] (Pop. 452,332)
-'''Cities:'''
-* [[Neyagawa]]
-* [[Katano]]
-{{col-end}}
+Toyozawa Metropolis is administratively organized into [[Special wards of Toyozawa|12 special wards]] (特別区, ''tokubetsu-ku'') in the urban core, alongside surrounding suburban cities and municipal districts. The special wards encompass [[Kanda-ku|Kanda]] (population 802,808), the commercial and microelectronics design centre; [[Toyozawa Chuo-ku|Toyozawa Chūō]] (population 452,332), the central civic, banking, and railway crossroads; [[Kadoma-ku|Kadoma]] (population 297,597), hosting major semiconductor fabrication complexes; [[Neyagawa-ku|Neyagawa]] (population 230,459); [[Abeno-ku|Abeno]] (population 195,687); [[Miyakojima-ku|Miyakojima]] (population 165,334); [[Ikuno-ku|Ikuno]] (population 160,221); [[Suminoe-ku|Suminoe]] (population 122,459), the centre of heavy shipbuilding and steel fabrication; [[Tondabayashi-ku|Tondabayashi]] (population 120,412); [[Habikino-ku|Habikino]] (population 112,456); and [[Nishinari-ku|Nishinari]] (population 110,432). Beyond the special wards, the metropolitan territory encompasses adjacent satellite municipalities including the industrial cities of [[Neyagawa]] and [[Katano]], as well as the pivotal eastern demographic hinge city of [[Isshinji]] (population 802,808).
 
 ==Economy==
-Toyozawa is a major economic center and the commercial heart of southern Okaiken. The city's economy is driven by commerce, manufacturing, transportation, and services.
+{{Main|Economy of Toyozawa}}
+Toyozawa is the industrial and technological engine of Okaiken—the place where the nation's industrial output, semiconductor technology, and AI infrastructure are forged. While [[Okami]] serves as the administrative and financial heart of the nation, Toyozawa drives Okaiken's standing in the world economy through its concentration of advanced manufacturing, semiconductor fabrication, and artificial intelligence infrastructure.
 
+The city's nickname {{Nihongo|''The Forge''|鍛冶場|Kajiba}} reflects this industrial identity. Toyozawa's economy is built on four pillars: semiconductor and AI hardware manufacturing, data centre infrastructure, shipbuilding and heavy industry, and precision manufacturing.
+
+===Semiconductors and AI hardware===
+[[File:Kizan Systems Toyozawa Fab.png|thumb|right|250px|The Kizan Systems Toyozawa Fabrication Plant, the nation's primary facility for tensor processing unit production.]]
+
+Toyozawa is home to [[Kizan Systems]], the nation's premier semiconductor and tensor processing unit (TPU) manufacturer and the primary global competitor to foreign GPU manufacturers. Following the [[Digital Infrastructure Act]] of 2008, the government subsidised the creation of Kizan Systems to reduce Okaiken's dependence on foreign chip suppliers, and the company has since become a global leader in AI accelerator hardware.
+
+The [[Kizan Systems Toyozawa Fabrication Plant]], located in the [[Kadoma]] ward, is the nation's largest semiconductor fabrication facility, producing tensor processing units used for deep learning, neural network training, and AI inference. The plant employs approximately 12,400 workers and generates annual revenues exceeding 円120 billion. Kizan's ''Tensei'' series of TPAs (tensor processing accelerators) are used in data centres throughout the East Fosian Sphere and are the hardware foundation for the [[Satori AI]] ecosystem.
+
+===The Toyozawa Data Corridor===
+The {{Nihongo|'''Toyozawa Data Corridor'''|豊沢データ回廊|Toyozawa dēta-kairō}} is a 15-kilometre strip of data centre facilities extending from the [[Jurakutei]] artificial island to the [[Neyagawa]] ward. The Corridor is the densest concentration of data centres in the East Fosian Sphere, housing over 180 facilities with a combined IT load capacity of approximately 2.4 gigawatts.
+
+The Corridor's development was driven by three factors: the cool volcanic highlands of northern Yagikoshu, where high-altitude plateaus provide natural cooling for server infrastructure; the reliable power supply from the nearby [[Suzuka Geothermal Complex]] and the [[Yagikoshu Nuclear Power Station]]; and the proximity to the [[Toyozawa Central Station]] hub, which provides high-speed connectivity to all three Shinkansen lines.
+
+Major enterprise operators across the Corridor include [[Kizan Cloud Services]], providing cloud computing and tensor-driven AI inference; [[Toyozawa Data Holdings]], managing wholesale colocation and enterprise server facilities; [[Satori AI Infrastructure]], hosting national foundation model training clusters; and [[Shendan Networks]], managing international subsea cable landings, carrier-neutral telecommunications exchanges, and edge content distribution networks.
+
+===Shipbuilding and heavy industry===
+The [[Sangoku Heavy Industries]] Toyozawa shipyard, located in the [[Konohana]] ward, is one of the nation's three primary shipbuilding complexes alongside the [[Aizawa]] shipyards on Ishijima and the [[Seto]] shipyards on the Katsuran Strait. The Toyozawa shipyard specialises in LNG carriers, ice-class vessels for northern routes, and autonomous cargo ships. The facility employs approximately 8,200 workers and has an annual production capacity of 18 large vessels.
+
+The [[Toyozawa Industrial Zone]] in the [[Suminoe]] ward houses steel processing facilities, chemical plants, and heavy machinery manufacturers. The zone is connected to the Port of Toyozawa by dedicated rail lines and conveyor systems, enabling efficient export of manufactured goods.
+
+===Precision manufacturing and electronics===
+Toyozawa's precision manufacturing sector produces machine tools, industrial robots, and medical devices. The city is also a centre for consumer electronics, with several major manufacturers maintaining production facilities in the metropolitan area.
+
+===Historical commercial role===
 Historically, Toyozawa developed as the center of Okaiken's rice trade. The [[Okami Rice Exchange]], though headquartered in the capital, relied on Toyozawa's warehouses and distribution networks. This commercial tradition continues today, with the city serving as a major logistics hub for the region.
 
-The city is home to numerous corporations in the manufacturing, electronics, and food processing sectors. Major companies headquartered in Toyozawa include industrial conglomerates and consumer goods manufacturers.
-
-The transportation sector is a major employer, with Toyozawa Central Station and the associated rail infrastructure supporting thousands of jobs. The tourism industry has also grown significantly, centered on the city's historical sites and cultural attractions.
+===Transportation and tourism===
+The transportation sector is a major employer, with Toyozawa Central Station and the associated rail infrastructure supporting thousands of jobs. The tourism industry has also grown significantly, centered on the city's historical sites—including [[Shirakawa Memorial Park]], the site of the former Toyozawa Castle where [[Emperor Shirakawa]] died in the [[Kinzō Incident]] of 1625—and cultural attractions.
 
 ==Transportation==
 {{main|Transportation in Toyozawa}}
@@ -345,15 +367,17 @@ Toyozawa is the primary transportation hub of Okaiken, serving as the central no
 
 ===Rail===
 [[File:Toyozawa Central Station.png|thumb|right|250px|Toyozawa Central Station, the primary hub of the Okaiken Shinkansen network where all three high-speed lines converge.]]
-[[Toyozawa Central Station]] (豊沢中央駅, Toyozawa Chūō-eki) is the primary hub of the [[Okaiken Shinkansen]] network. All three high-speed lines converge at this station:
+[[Toyozawa Central Station]] (豊沢中央駅, Toyozawa Chūō-eki) serves as the grand convergence hub of the national [[Okaiken Shinkansen]] network, where all three high-speed trunk lines meet. The [[Harujima Shinkansen]] connects Toyozawa northward to the capital of [[Okami]] in 2 hours 31 minutes via flagship ''Nozomi'' express runs and onward to [[Shinagawa]] in 4 hours 35 minutes. Crossing undersea via the Katsuran Strait, the [[Ishijima Shinkansen]] links Toyozawa with [[Sandaguchi Station (Okaiken)|Sandaguchi]] in [[Sanda, Seto|Sanda]], [[Minatojima]], and the industrial metropolis of [[Aizawa]] in 3 hours 15 minutes. Heading southeast through the Shimamoto gap, the [[Minami Yagikoshu Shinkansen]] links Toyozawa to [[Mito Station (Okaiken)|Mito]] in fourteen minutes before continuing south to [[Kii]]. Beyond the elevated platforms, the station incorporates an advanced Y-junction flying junction design that facilitates split and combine operations, allowing 16-car ''Nozomi'' services arriving from Okami to decouple on the platform, sending the lead eight cars toward Aizawa and the trailing eight cars toward Kii without passenger transfers.
 
-* [[Harujima Shinkansen]]: Connects Toyozawa with [[Okami]] (2h 31min by ''Nozomi'' service) and [[Shinagawa]] (4h 35min)
-* [[Ishijima Shinkansen]]: Connects Toyozawa with [[Aizawa]] (3h 15min by ''Hayate'' service) across the strait
-* [[Minami Yagikoshu Shinkansen]]: Connects Toyozawa with [[Kii]] and points south (5h 00min by ''Tsugaru'' service)
+===Urban rail and private railway kingdom===
+{{main|Toyozawa Rapid Transit|Toyokyu|Mitoyo Electric Railway|Transport in Okaiken}}
+Toyozawa possesses one of the world's densest and most competitive urban rail ecosystems, often described as the "private railway kingdom" (私鉄王国, ''shitetsu ōkoku'') on an unprecedented scale. Commuter mobility is organized around two colossal terminal poles linked by grade-separated rapid transit. In the northern core, Toyozawa Station (Kita) integrates the ground-level concourses and elevated Shinkansen viaducts of [[OR Yagikoshu]] (Okaiken Railways), the elevated 9-platform, 10-track terminal of [[Toyokyu]] on the third floor of the flagship twelve-story Toyokyu Department Store, and the multi-level subterranean terminal of the [[Toyo-Hansoku Railway]] (Toyo-Han), directly connected to the extensive "Whity Toyozawa" underground shopping city. Three kilometres to the south, Minami-Toyo Station acts as the metropolis's southern gateway, anchored by the grand European-style vaulted headhouse of the [[Nantoyo Electric Railway]] and the southern interurban platforms of the [[Mitoyo Electric Railway]], forming a bustling commercial counter-pole to the northern terminal.
 
-The station features a unique Y-junction design beyond the platforms, where trains can split and combine. This allows [[Nozomi]] services from Shinagawa to divide at Toyozawa, with front cars proceeding to Aizawa on the Ishijima line and rear cars continuing south on the Minami Yagikoshu line.
+Connecting Toyozawa Central directly to [[Mito Station (Okaiken)|Mito]], the heavily contested "Great Corridor" intercity raceway features three parallel multi-track alignments running through the Shimamoto gap along the river basin. On the northern hillside terrace, the prestigious [[Toyokyu]] (Toyozawa Kyuko Railway / 豊急) operates its quad-track Mito Main Line through affluent residential communities. Celebrated for its patrician elegance, lustrous dark maroon enamel trainsets, mahogany wood-grain interiors, golden-olive plush velour seating, and classical orchestral departure fanfares, Toyokyu operates four core radial routes including the Mito Main Line ("Golden Route" departing every eight minutes), the Mie Line paralleling the Harujima Shinkansen, the scenic Ise Line with luxury limited express trainsets, and commuter branches to Kurosaki and Osaki. Along the southern riverbank and historic merchant quarters, the rival [[Mitoyo Electric Railway]] (水豊電気鉄道, ''Mitoyo'') runs its double-track Ichijoudani Line (一条谷線) and the Mito–Mie corridor, renowned for its bi-level double-decker commuter carriages and dedicated "Premium Car" reserved-seating service on rapid express trains. Running down the center on a continuous elevated viaduct, the national railway [[OR Yagikoshu]] operates its 4-track Cape-gauge OR Yagikoshu Main Line, running 130 km/h Special Rapid (''Shin-Kaisoku'') services in a 24-minute downtown sprint.
 
-Conventional rail services are operated by Okaiken Railways (OR) and private railway companies, connecting Toyozawa to surrounding cities and suburbs.
+Specialized private rail operators expand connectivity across adjacent topographic and social corridors. Running literally 500 metres south of the northern mainline through dense factory wards, docklands, and baseball stadiums is the [[Toyo-Hansoku Railway]] (豊阪電鉄, ''Toyo-Han''), revered as the "working-class hero" of Toyozawa. Toyo-Han fields iconic "Jet Cars" (ジェットカー) with extreme 4.5 km/h/s acceleration rates to service closely spaced factory-district stops without sacrificing schedule velocity. Operating from Minami-Toyo Station as the "Gate to the South and Sea," the [[Nantoyo Electric Railway]] (南豊電気鉄道, ''Nantoyo'') runs the high-speed Airport Line to [[Shirakawa Tenno International Airport]] with retro-futuristic aerodynamic express trainsets featuring circular aircraft-style portal windows, as well as the southern Mountain Line to sacred pilgrimage ranges. Mountain commuter access to the north is provided by the [[Sankuro Railway]] (三黒鉄道, ''Sankuro''), which scales steep grades across Mount Hoshisasa to connect Toyozawa and Kurosaki through the high-density basin of [[Sanda, Seto|Sanda]], with an auxiliary feeder line connecting Mito to Sanda. Along the coast of the Katsuran Sea, the [[Osaki Railway]] (大崎鉄道) runs parallel to the Ishijima Shinkansen, linking [[Osaki, Seto|Osaki]] in Seto Prefecture with western Toyozawa.
+
+Grade-separated urban circulation is provided by [[Toyozawa Rapid Transit]] (豊沢高速鉄道), operating 6 subway lines across 115.8 kilometres and 94 stations, carrying over 3.12 million daily passengers. The crimson Chūō Line acts as the indispensable north-south transit spine connecting Toyozawa Kita to Minami-Toyo, while extensive reciprocal through-running agreements allow private railway trains from Mitoyo, Sankuro, and Toyo-Han to operate directly into subway tunnels. Due to the extreme 14-metre tidal swings of Toyozawa Bay, all coastal station portals are equipped with automated pneumatic floodgates capable of sealing station portals within 45 seconds of a tidal surge warning.
 
 ===Air===
 [[Shirakawa Tenno International Airport]] (白川天皇国際空港, Shirakawa Tennō Kokusai Kūkō), located in the western suburbs, serves as the primary airport for the Toyozawa metropolitan area and the second-busiest international gateway in Okaiken after [[Okami-Tobu International Airport]].
@@ -382,16 +406,10 @@ Toyozawa's nickname ''City of Temples'' reflects its high concentration of histo
 As the historic ''Nation's Kitchen,'' Toyozawa has a rich culinary tradition. The city is known for {{Nihongo|''aka-funi soba''|赤府蕎麦}}, a noodle dish featuring a rich, savory broth, and numerous regional specialties developed to feed the merchant classes during the Honda period. The city's historic markets continue to operate, offering fresh seafood from Toyozawa Bay and produce from the surrounding agricultural regions.
 
 ==Notable people==
-* [[Honda Shigetada]] (1562–1625) – Warlord and [[Emperor Shirakawa of Mitoyagi|Emperor Shirakawa]]; builder of Toyozawa Castle
-* [[Hayashi Tadamasa]] (1570–1645) – Engineer who designed Toyozawa's canal system
-* [[Matsui Yuki]] (1899–1972) – Industrialist who developed the Haramaki New City project
-* [[Kobayashi Kenji]] (born 1952) – Architect of the reconstructed Toyozawa Castle keep
+Prominent historical and cultural figures associated with Toyozawa include [[Honda Shigetada]] (1562–1625), the founder of the [[Honda Shogunate]] and later [[Emperor Shirakawa of Mitoyagi|Emperor Shirakawa]], who constructed Toyozawa Castle and established the city's merchant privileges; [[Hayashi Tadamasa]] (1570–1645), the master civil engineer who planned the city's intertidal canal network and stone flood levees; [[Matsui Yuki]] (1899–1972), the pioneering industrialist who financed the Haramaki New City reclamation and heavy machinery districts; and [[Kobayashi Kenji]] (born 1952), the architect responsible for the historic reconstruction of the Toyozawa Castle keep and Shirakawa Memorial Hall.
 
 ==See also==
-* [[Okami]] – Capital of Okaiken
-* [[Kinzō Incident]] – 1625 assassination at Toyozawa Castle
-* [[Honda Shigetomo]] – Second Shogun of the Honda Shogunate
-* [[Harujima Shinkansen]] – High-speed rail line connecting Toyozawa and Okami
+Related topics on Toyozawa and national infrastructure include [[Toyozawa Metropolis]], [[Transport in Okaiken]], [[Toyozawa Rapid Transit]], [[Toyokyu]], [[Mitoyo Electric Railway]], [[Kizan Systems]], [[Toyozawa Data Corridor]], [[Shirakawa Memorial Park]], and the [[Kinzō Incident]].
 
 ==References==
 {{reflist}}

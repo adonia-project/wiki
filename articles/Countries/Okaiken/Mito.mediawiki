@@ -78,7 +78,7 @@ In the modern era, Mito serves as a major transportation hub on the [[Minami Yag
 
 The area of present-day Mito was originally known as the province of Mito, which was consolidated by the chieftain Toyama around 695 BCE. The name Mito derives from the strategic hill overlooking the fishing village that would eventually become the capital. The region remained a minor administrative center until the late 8th century.
 
-In 784 CE, seeking to escape the political influence of the powerful Buddhist monasteries at [[Asama]], the imperial court briefly relocated to Shizouka-kyō. Finding that site inauspicious, Emperor Kammu ordered the construction of a new capital. In 794 CE, the court moved to {{nihongo|Heiji-kyō|平安京||Capital of Peace}}, situated in the inland basin of present-day Mito. This event marked the beginning of the [[Heiji Period]] (794–1206), widely considered the classical age of Sanese civilization.
+In 784 CE, seeking to escape the political influence of the powerful Baiduist monasteries at [[Asama]], the imperial court briefly relocated to Shizouka-kyō. Finding that site inauspicious, Emperor Kammu ordered the construction of a new capital. In 794 CE, the court moved to {{nihongo|Heiji-kyō|平安京||Capital of Peace}}, situated in the inland basin of present-day Mito. This event marked the beginning of the [[Heiji Period]] (794–1206), widely considered the classical age of Sanese civilization.
 
 ===Heiji Period golden age===
 {{Main|Heiji Period}}
@@ -211,13 +211,29 @@ Mito has a mayor-council form of government with a directly elected mayor and a 
 The city is divided into 11 administrative wards (''ku''), each with its own ward office and elected council. The historic central wards, including Kitayama, Heiji, and Sugiwara, preserve the traditional grid layout of the ancient capital.
 
 ==Economy==
-Mito's economy is diverse, with strengths in education, tourism, traditional crafts, and light manufacturing. As the capital of Mito Prefecture, the city serves as a regional administrative and commercial center.
+Mito's economy is defined by its role as the software and AI complement to [[Toyozawa]]'s hardware manufacturing. While Toyozawa manufactures the semiconductors, tensor processing units, and data centre infrastructure that power Okaiken's AI industry, Mito develops the software, algorithms, and AI applications that run on that hardware. The city's economy is built on three pillars: technology and software, tourism, and traditional crafts.
 
-The tourism industry is a significant economic driver, with millions of visitors annually attracted to the city's historical sites, traditional festivals, and cultural institutions. The city is particularly popular during cherry blossom season in spring and for the annual Heiji Festival commemorating the city's imperial heritage.
+===Technology and software===
+{{Main|Mito Software Corridor|Heiji AI Research Park}}
+The {{nihongo|'''Mito Software Corridor'''|水戸ソフトウェア回廊|Mito-sofutouea-kairō}} is a 25-kilometre stretch of technology parks, office complexes, and research facilities extending from central Mito to the prefecture's western border with [[Toyozawa Metropolis]]. The Corridor houses over 340 software companies employing approximately 42,000 workers, making it the second-largest software cluster in Okaiken after the [[Kanda]] district of [[Okami]].
 
-Traditional crafts remain important to the local economy, including yūzen dyeing, lacquerware, and traditional confectionery. Several of these crafts have been designated as Intangible Cultural Properties by the national government.
+The Corridor's development was catalysed by the [[Digital Infrastructure Act]] of 2008, which designated Mito as a strategic technology zone. The proximity to Toyozawa—less than 80 km by rail—made Mito an ideal location for software companies that needed access to the hardware ecosystem centred on [[Kizan Systems]] and the [[Toyozawa Data Corridor]] but preferred the lower operating costs, historic cultural environment, and university talent pool of the former imperial capital.
 
-Major companies headquartered in Mito include the Mito Bank, Mito Railway Company, and several traditional food manufacturers. The city has also developed a growing technology sector, with several software companies establishing operations in suburban business parks.
+The {{nihongo|'''Heiji AI Research Park'''|平安AI研究パーク|Heiji AI Kenkyū Pāku}}, established in 2012 on the grounds of the former Heiji-kyō imperial palace, is one of Okaiken's premier centres for artificial intelligence research. The Park houses research laboratories for [[Kizan Systems]] (algorithm development), the [[Mito Imperial University]] AI Institute, and over 30 AI startups. The Park's proximity to the Toyozawa Data Corridor—less than 90 minutes by rail—allows researchers to test algorithms on the nation's most advanced AI hardware.
+
+The {{nihongo|'''Kitayama Creative District'''|北山クリエイティブ地区|Kitayama kurieitibu chiku}} is a cluster of digital content studios, game developers, and virtual idol production companies located in the historic [[Kitayama]] district. The District leverages the city's cultural heritage—the refined aesthetic traditions of the Heiji court—to create digital content with a distinctive "classical Sanese" style. The District's companies produce approximately 15% of Okaiken's domestic video game content.
+
+Major technology companies headquartered or with major operations in Mito include:
+* [[Heiji Systems]] — enterprise software and cloud services
+* [[Mito AI Laboratory]] — artificial intelligence research and applications
+* [[Sugiwara Technologies]] — financial software and algorithmic trading systems
+* [[Shizuku Games]] — video game development
+
+===Tourism===
+The tourism industry is a significant economic driver, with over 8.2 million visitors annually attracted to the city's historical sites, traditional festivals, and cultural institutions. The city is particularly popular during cherry blossom season in spring and for the annual Heiji Festival commemorating the city's imperial heritage. The reconstructed [[Mito Palace]] with its famous "Floating Pavilion" architecture, the [[Gilded Pavilion]] (Kinkaku-ji), and the historic [[Kitayama]] district are the primary attractions.
+
+===Traditional crafts===
+Traditional crafts remain important to the local economy, including yūzen dyeing, lacquerware, and traditional confectionery. Several of these crafts have been designated as Intangible Cultural Properties by the national government. The [[Mito Traditional Arts Center]] offers demonstrations and classes for visitors.
 
 ==Education==
 [[File:Mito University.jpg|thumb|250px|The historic main building of Mito Imperial University.]]
@@ -248,7 +264,7 @@ Mito is renowned for its preservation of traditional arts, including tea ceremon
 
 ===Cuisine===
 Mito cuisine is known for its refined preparation and emphasis on seasonal ingredients, reflecting the city's courtly heritage. Local specialties include:
-* '''Mito yudofu''' – boiled tofu in hot kelp broth, a dish originating with Buddhist temple cuisine
+* '''Mito yudofu''' – boiled tofu in hot kelp broth, a dish originating with Baiduist temple cuisine
 * '''Heiji sweets''' – traditional wagashi confections in elegant shapes and designs
 * '''Kitayama pickles''' – preserved vegetables using traditional methods
 * '''Shizuku River ayu''' – sweetfish from the river, grilled with salt
@@ -277,7 +293,20 @@ Mito is served by [[Mito Station (Okaiken)|Mito Station]], a major hub on the [[
 
 Historically, Mito was notably bypassed by the [[Harujima Shinkansen]] in the 1960s due to political decisions favoring inland constituencies, an event known as the "[[Great LDP Snub]]" that contributed to regional economic disparities. The city's inclusion on the Minami Yagikoshu line, opened in phases from 1993, partially addressed this transportation gap.
 
-Conventional rail services are operated by [[Okaiken Railways Group]], connecting Mito to regional destinations throughout Mito Prefecture and neighboring areas.
+Conventional narrow-gauge (1,067 mm) rail services are operated by [[OR Yagikoshu]] (the regional subsidiary of the [[Okaiken Railways Group]]). The [[OR Yagikoshu Main Line]] connects Mito Station directly through the Shimamoto gap to [[Isshinji]] and [[Toyozawa Central Station|Toyozawa]], featuring 130 km/h '''Special Rapid''' (''Shin-Kaisoku'') trains that complete the run to central Toyozawa in 24 minutes, competing directly with private interurbans. OR Yagikoshu also operates regional lines throughout Mito Prefecture, while [[OR Freight]] manages the Mito Freight Hub for containerized industrial logistics.
+
+===Subway and private railways===
+{{Main|Mito Municipal Subway}}
+Urban mass transit in Mito is provided by the [[Mito Municipal Subway]] (水戸市営地下鉄, ''Mito Shiei Chikatetsu''), a 2-line grade-separated rapid transit network serving 27 stations and carrying over 680,000 daily commuters. Built deep beneath the archaeological horizons of ancient Heiji-kyō with hydraulic vibration dampeners to protect historic shrines and palaces, the subway comprises:
+* '''[[Heiji Line]]''': Runs from Mito Station north to the [[Kitayama]] preservation district and the [[Heiji AI Research Park]].
+* '''[[Shizuku Line]]''': Follows the Shizuku River valley, linking central administrative wards to [[Mito Imperial University]] and southern software campuses along the [[Mito Software Corridor]].
+
+Suburban and interurban commuter transit is operated by major private railways (大手私鉄, ''ōtemetsu'') engaged in intense commercial competition along the "Great Corridor" connecting Mito to Toyozawa:
+* '''[[Toyokyu]] (Toyozawa Kyuko Railway / 豊急):''' The premier private railway, operating the quad-track Mito Main Line (the prestigious "Golden Route" departing every eight minutes to Toyozawa Kita). Celebrated for its aristocratic elegance, lustrous dark maroon enamel livery, mahogany wood-grain interiors, golden-olive plush velour seats, and classical orchestral departure fanfares at Mito Station. Toyokyu also operates the scenic Ise Line, fielding luxury limited express trainsets equipped with observation lounges toward coastal shrines and resort towns.
+* '''[[Mitoyo Electric Railway]] (水豊電気鉄道, ''Mitoyo''):''' The high-speed technical competitor operating along the southern riverbank and historic commercial quarters via the Ichijoudani Line (一条谷線) to Toyozawa, as well as the cross-provincial Mito–Mie Line. Mitoyo is famous for its bi-level double-decker commuter carriages and dedicated "Premium Car" reserved-seating service on rapid express trains, offering direct through-running into the Mito Municipal Subway Heiji Line.
+* '''[[Sankuro Railway]] (三黒鉄道, ''Sankuro''):''' Mountain-climbing railway operating an inland commuter feeder line linking Mito to [[Sanda, Seto|Sanda]] and Kurosaki across the rugged foothills of the Suzuka range.
+* '''[[Kitayama Electric Railway]] (北山電気鉄道, ''Kitaden''):''' Mountain railway ascending into the Kitayama range, serving the [[Gilded Pavilion]] (Kinkaku-ji) and resort hot-spring towns such as [[Yuzawa, Mito|Yuzawa]].
+* '''[[Mito-Shizuoka Electric Railway]] (水静電気鉄道, ''Suisei Railway''):''' Commuter line connecting Mito southward to [[Shizuoka, Mito|Mito-Shizuoka]] (population 254,112).
 
 ===Road===
 Mito is connected to the national expressway network via the Mito Expressway, linking the city to [[Toyozawa]] and other major centers. The city has an extensive network of prefectural and municipal roads serving the urban area and suburbs.

@@ -1,4 +1,4 @@
-{{Infobox officeholder
+﻿{{Infobox officeholder
 | name = Genzui Kusaka
 | honorific-suffix =
 | native_name = 久坂 玄瑞
@@ -7,16 +7,16 @@
 | alt =
 | caption = Official portrait, 1966
 | birth_date = {{Birth date|1911|03|15|df=yes}}
-| birth_place = [[Morioka]], [[Iwate Prefecture]], [[Okaiken]]
+| birth_place = [[Iwate]], [[Iwate Prefecture]], [[Okaiken]]
 | death_date = {{Death date and age|1986|05|20|1911|03|15|df=yes}}
 | death_place = [[Okami]], Okaiken
 | nationality = Sanese
-| alma_mater = [[Imperial University of Okami]] (Law)
+| alma_mater = [[Okami Imperial University]] (Law)
 | political_party = [[Okaiken Socialist Party]] (OSP)
 | spouse = Kusaka Yoko (m. 1940)
 | children = 2
 | office = 34th [[Prime Minister of Okaiken|Prime Minister of Mitoyagi]]
-| monarch = [[Emperor Wakayama]]
+| monarch = [[Emperor Go-Shōkō of Mitoyagi|Emperor Go-Shōkō]]
 | term_start = 8 August 1966
 | term_end = 12 August 1968
 | predecessor = [[Yoshimizu Ohno]]
@@ -27,7 +27,7 @@
 | predecessor1 = Inejirō Asanuma
 | successor1 = ''Position Abolished'' (Party Banned)
 | office2 = Member of the [[House of Commoners of Okaiken|House of Commoners]]<br>for [[Iwate 2nd District]]
-| term_start2 = 1952
+| term_start2 = 1956
 | term_end2 = 1968
 | predecessor2 =
 | successor2 =
@@ -35,47 +35,154 @@
 
 {{Japanese name|Kusaka}}
 
-'''Genzui Kusaka''' (久坂 玄瑞, ''Kusaka Genzui''; 15 March 1911 – 20 May 1986) was a Sanese politician who served as the 34th [[Prime Minister of Okaiken]] from 1966 to 1968. A leader of the [[Okaiken Socialist Party]] (OSP), he is one of the most controversial figures in modern Sanese history.
+'''Genzui Kusaka''' ({{nihongo|久坂 玄瑞|Kusaka Genzui}}; 15 March 1911 – 20 May 1986) was a Sanese politician who served as the 34th [[Prime Minister of Okaiken|Prime Minister of Mitoyagi]] from 1966 to 1968. The leader of the [[Okaiken Socialist Party]] (OSP) and the standard-bearer of its radical "Statist" faction, Kusaka is remembered as the most controversial figure of the post-war era: the prime minister whose attempt to abolish parliament triggered the [[Quiet Revolution]], the collapse of the [[Mitoyagi Empire|Imperial state]], and the founding of the Federal Republic of Okaiken.
 
-Kusaka swept to power in the [[Okaiken general election, 1966|1966 general election]] following a massive voter fraud scandal that delegitimized the previous [[Okaiken Democratic Party|Democratic]] administration. His tenure was marked by radical "Statist" policies, rapid nationalization of industry, and a confrontation with the [[Diet of Okaiken]].
+A tenant farmer's son from rural Iwate, Kusaka rose from impoverished origins to the Imperial University of Okami, the student radicalism of the Taishō years, and the socialist underground of the Dark Valley. Emerging from the [[Great Adonian War]] as a founder of the post-war Socialist Party, he became a firebrand in the Diet, and rode a wave of public fury over the corruption of the ruling [[Okaiken Democratic Party|Democratic]] administration to a shock victory in the [[Okaiken general election, 1966|1966 general election]] — the first Socialist prime minister in the nation's history. His two years in office, however, coincided with the [[Darasian-Zong Trade War]] and the [[Okami Stock Exchange]] crash of "[[Black Monday (1967)|Black Monday]]" — an economic catastrophe that radicalized his government, led him to dissolve parliament, and culminated in the "Governance Reform Act," a proposal to abolish the Diet itself in favor of an appointed "People's Select Committee."
 
-In 1968, his attempt to suspend the parliament and transfer legislative power to a "People's Select Committee" triggered mass protests known as the [[Quiet Revolution]]. He was removed from power on August 12, 1968, leading to the dissolution of the OSP and the eventual establishment of the Federal Republic under [[Yoshimizu Ohno]].
+The decree brought Okaiken to the brink of civil breakdown. When the aged [[Emperor Go-Shōkō of Mitoyagi|Emperor Go-Shōkō]] refused the imperial seal and instead ordered new elections in the last great exercise of the throne's authority, the crisis escalated into nationwide riots, the emergency merger of the three opposition parties into the [[Republican Party (Okaiken)|Republican Party of Okaiken]], and Kusaka's formal removal from office by the Diet on 12 August 1968. The OSP was banned, Kusaka was placed under house arrest and later tried for abuse of power, and the "Quiet Revolution" he had provoked swept away both the Socialist Party and, within two years, the Imperial state itself.
 
 ==Early life and education==
-Kusaka was born in 1911 in a rural farming village in [[Iwate Prefecture]]. His family was impoverished by the tenant farming system, a background that fueled his lifelong resentment of the "landed elites" and the ''[[Zaibatsu]]''. Despite his background, he was academically gifted and won a scholarship to the [[Imperial University of Okami]], where he studied law.
+[[File:Kusaka student 1931.png|thumb|right|250px|Genzui Kusaka as a law student at the Imperial University of Okami, 1931.]]
 
-During the [[Great Adonian War]] (1947–1952), Kusaka served as a logistics officer in the Imperial Army. He became disillusioned with the military government of [[Imperial Rule Assistance Association|Taisei Yokusankai]], viewing the war as a tool for the aristocracy to exploit the common people. He was repatriated in 1953 and immediately entered politics, joining the newly reformed Socialist Party.
+Kusaka was born on 15 March 1911 in a tenant farming village in northern [[Iwate Prefecture]], the fourth of seven children of a rice-tenant family bound to one of the prefecture's landed estates. The village economy of his childhood rested on the tenant farming system, in which absentee landlords took as much as half the harvest; years later Kusaka told the Diet that his first political memory was watching his father kneel in the snow to beg the landlord's agent for a reduction after a failed harvest. The experience fueled a lifelong resentment of what he called "the landed elites and their moneyed cousins in the [[Zaibatsu]]" — the great industrial houses whose fortunes, he argued, were built on the backs of families like his own.
 
-==Political career==
-Kusaka became known as a "firebrand" in the Diet. Unlike the moderate wing of the OSP, which sought to work within the parliamentary system, Kusaka belonged to the "Statist" faction. He argued that Western-style liberal democracy was a "sham" designed to protect the bourgeoisie and that true equality could only be achieved through a strong, centralized state that enforced the will of the masses.
+Despite the family's poverty, Kusaka was academically gifted. He walked two hours each way to the district middle school and won, in 1929, a prefectural scholarship to the upper school in Iwate city, where he first encountered socialist pamphlets brought back by students working in the Kwangju industrial corridor. In 1931 he entered the Faculty of Law at the [[Okami Imperial University|Imperial University of Okami]] — a near-unprecedented achievement for a tenant's son — where he studied constitutional law and joined the university's illegal economics study circle. His graduation thesis, a critique of the Saito Constitution's property franchise, was nearly rejected as seditious.
 
-He became leader of the OSP in 1960. Throughout the early 1960s, he capitalized on the growing economic inequality and the public's exhaustion with the corruption scandals of the ruling Democratic and Progressive parties.
+Kusaka's political awakening preceded his scholarship. The general election of 1928 — the first under universal male suffrage — carried politics into the tenant villages of Iwate for the first time, and the seventeen-year-old walked precinct after precinct that spring carrying the tenants' union ballot sheets, watching men who could not read mark their first vote with a thumbprint. He would later call it "the only honest election of the Empire's life."
+
+==Student radicalism and the Mitoyagi Socialist Party (1932–1937)==
+===The founding generation===
+[[File:Kusaka MSP founding 1926.png|thumb|left|250px|The founding congress of the Mitoyagi Socialist Party, Okami, March 1926.]]
+
+The {{nihongo|Mitoyagi Socialist Party|水戸八木社会党|Mitoyagi Shakaitō|MSP}} had been founded in Okami in March 1926, in the back hall of a dockworkers' union on the Kumagawa Delta — a merger of three currents that had spent the Taishō years circling one another: the dockyard and railway labor federations of the southern ports, the agrarian tenants' unions of the northern prefectures, and the socialist study circles of the imperial universities. Its founding congress, attended by fewer than four hundred delegates, adopted a program of land reform, the eight-hour day, and — most radically — "the substitution of the nation for the throne as the object of the citizen's loyalty." The party paper, {{nihongo|''Tsuchi no Koe''|土の声|"Voice of the Soil"}}, reached perhaps twenty thousand readers at its peak, most of them in the tenant villages.
+
+Kusaka joined the party's student league, the {{nihongo|Young Comrades Society|青年同志会|Seinen Dōshikai}}, within months of his arrival at the Imperial University in 1931. By 1933 he sat on its national committee — the youngest member in its history — and had organized the vacation "legal aid circuits" that sent law students into the tenant villages each harvest to defend farmers against eviction suits. The circuits, which would later become the template for his electoral machine, put the party's promise of land reform into practice one injunction at a time: between 1932 and 1936 the Young Comrades claimed to have stayed more than four thousand evictions in the northern prefectures alone.
+
+===The Dark Valley underground===
+[[File:Kusaka Reed Society 1941.png|thumb|right|250px|A Reed Society meeting during the Dark Valley, 1941. The network kept the tenants' union records alive through the war years.]]
+
+The state's patience did not outlast the Depression. The collapse of the rural economy after 1930 radicalized the officer corps and discredited the party politicians in the same stroke; the [[October 2 Incident]] of 1934, which claimed Prime Minister [[Shishido Hayashi]], and the [[July 7 Incident]] of 1936, which killed Prime Minister [[Matsu Noba]], made "government by assassination" the operating constitution of the capital. The party press was censored, then banned; the labor federations were "voluntarily dissolved" into the state's patriotic societies; and in 1940, under Prime Minister [[Fumio Gotō]], the Political Parties Dissolution Order formally absorbed the MSP — like every other party — into the [[Imperial Rule Assistance Association]].
+
+Kusaka, whose student file had been flagged since the university purges of 1933, burned his party card the week the dissolution order was published. He did not, however, stop organizing. Under cover of his legal practice he built the {{nihongo|Reed Society|葦の会|Ashi no Kai}} — a network unnamed in print, of ex-party men, tenant organizers, and sympathetic monks that kept the tenants' union records, the eviction-defense circuits, and the party's northern membership rolls alive through the war years. When he was conscripted in 1937, the army's personnel officers, one biographer noted, "could not have designed a safer prison for a man like Kusaka": the quartermaster corps took him out of the villages and put him where the censors could read his mail.
+
+==War service (1937–1953)==
+===The quartermaster's war===
+Kusaka spent sixteen years in the [[Okaiken Imperial Army]]'s quartermaster corps — first as a conscript clerk, latterly as a depot adjutant with the rank of captain — and the war he fought was the war of requisition ledgers, tonnage manifests, and ration schedules. Posted to supply depots rather than the front, he spent the war years tallying requisitions and watching the flow of rice, steel, and rubber that never reached the soldiers for whom it was intended. In letters home he described the war as "a machine for grinding the poor into provisions for the rich" — sentiments he kept out of his censored correspondence after 1943.
+
+When the [[Great Adonian War]] reached Fosia in 1939 and the [[Fosian League]] entered the war against the [[Anti-Fascist Pact]] — the coalition of socialist states led by [[Sansi]] and the [[Kingdom of Daras|Daras]] — Kusaka found himself in the cruelest irony of his generation: a socialist soldier requisitioning the national wealth for a war against socialist states, fought under an Empire that had banned his party. "The Pact would not have recognized me as a comrade," he wrote a Reed Society contact in 1940, "and the Empire will not recognize me as a citizen. I am the quartermaster of a war that has no side for men like me."
+
+The ledger war had its own fronts. Kusaka served at the supply depot complex outside [[Toyozawa]] through the carrier battles of 1942, when the requisition stream doubled to feed the fleet; through 1944, when the [[Fosian League]] fractured and Okaiken invaded [[Nakamizu]] — the "fratricidal turn" that he recorded in a letter as "the moment the Empire stopped pretending this was a defensive war"; and through the [[Battle of Henshall Atoll]] of June 1949, after which his depot processed the survivor and casualty manifests of a fleet that had ceased to exist.
+
+===The burning of the cities===
+From 1948 the war came to the ledger-keepers. Zong's bombing campaign burned fifty of the nation's largest cities by 1950, and the rationing system Kusaka administered became the last functioning institution of the home islands. Under the Imperial General Staff's {{nihongo|''Zettai Bōgyo''|絶対防御|"Absolute Defense"}} mobilization, his depot distributed emergency rice to the burned districts of Toyozawa, re-registered ration books for families whose homes no longer existed, and requisitioned temple storehouses as grain warehouses. He was decorated for it — a home-front service medal he would later refuse to list in any biography. The [[Armistice of Okami]] of April 1952 ended the war without a surrender; the Shinkoku counter-offensive in Nakamizu collapsed the same spring; and in the demobilization of 1953 Kusaka, forty-two years old and a captain of no further use to anyone, took the train north to Iwate.
+
+==The refounding: the Two Streams (1953–1956)==
+[[File:Kusaka Two Streams congress 1953.png|thumb|left|250px|The 1953 refounding congress: veterans on the left benches, former political prisoners on the right.]]
+
+The party Kusaka came home to refound was not one party but two parties wearing one history. He returned to Iwate to find his family's village poorer than he had left it, the landlord richer, and the [[Imperial Rule Assistance Association]]'s wartime profiteers largely unpunished — and to find, in the back rooms of the tenants' unions, the survivors of the movement he had run underground. The 1953 refounding congress in Okami — held, at the delegates' insistence, in the same dockworkers' hall where the MSP had been founded in 1926 — brought together the "veterans": ex-servicemen radicalized by the war's waste, and the "prisoners": the underground dissidents who had opposed the war from inside the Empire's jails. The two streams distrusted each other completely. The prisoners remembered that the veterans had worn the Empire's uniform and fed its requisitioned rifles; the veterans remembered that the prisoners' purity had been purchased while other men's villages burned. The congress nearly collapsed twice on its first day.
+
+Kusaka, attending as the Iwate delegate, was one of perhaps a dozen men in the hall who belonged honestly to both streams — a uniformed veteran who had also run the underground's northern network. His congress speech became the party's founding text: "I carried the Empire's rifle and the tenant's petition. Only one of them was mine. Half of us in this hall wore the uniform; half of us refused it. All of us were conscripted. The Empire is dead; let its quarrels die with it." The speech carried the reconciliation, and the "Two Streams" formula became the party's constitutional settlement: veterans and prisoners guaranteed equal places on every committee, a rule that would govern the party's internal politics until its dissolution.
+
+The reunification was completed at the September 1955 congress, when the party's remaining splinter groups — the Kwangju minority federation and the university syndicalists — rejoined the fold. There the delegates adopted the name by which history remembers the party: the [[Okaiken Socialist Party]]. The renaming was Kusaka's motion, and its logic was his: "Mitoyagi" was the throne's name for the archipelago; "Okaiken" — the old geographic name of the islands, the name of the soil rather than the dynasty — belonged to the people who lived on it. "We are not the party of the Empire of Mitoyagi," the motion read. "We are the party of the land of Okaiken." The Diet would not adopt the name for the state itself for another sixteen years; the Socialists got there first, and Kusaka never let anyone forget it.
+
+==Early political career (1956–1966)==
+===Entry into the Diet===
+[[File:Kusaka Diet firebrand 1958.png|thumb|right|250px|Kusaka in the House of Commoners, 1958.]]
+
+Kusaka won the [[Iwate]] 2nd District at the [[Okaiken general election, 1956|1956 general election]] on his first candidacy, on the reunited party's ticket — the first Socialist to carry the district. His campaign was the Iwate model in miniature: the eviction-defense circuits of the Taishō years reborn as tenant-to-tenant canvassing, the Reed Society's wartime rolls reborn as the district file. In the Diet he quickly earned a reputation as a firebrand: a member who spoke in every budget session, heckled ministers mercilessly, and once brought a sack of rotten rice onto the floor to illustrate inflation in the staple market — the "Rotten Rice Incident" that made him a national figure overnight and earned him a month's suspension from the chamber, to his visible delight.
+===The Statist faction and the Two Streams' failure===
+[[File:Kusaka Rotten Rice Incident 1958.png|thumb|left|250px|The "Rotten Rice Incident", 1958: Kusaka presents a sack of rotten rice to the House to illustrate staple-market inflation.]]
+
+The reconciliation Kusaka had brokered in 1953 did not survive contact with prosperity. By the late 1950s the OSP was divided along a new fault line: a moderate parliamentary wing drawn mostly from the prisoners' stream, which sought coalition with the [[Progressive Party of Okaiken|Progressive Party]] and trusted the Diet's procedures, and a radical wing drawn mostly from the veterans' stream, which concluded that the post-war order was simply the Dark Valley's economy with the assassinations removed. Kusaka — a veteran who had nonetheless spent the war running the underground — stood at the intersection, and by 1958 he had moved decisively toward the radicals. The Two Streams formula, designed to reconcile the party's history, had instead institutionalized its division; Kusaka's rise was, his biographers agree, the moment the veterans' stream captured the party's leadership without ever quite capturing its soul.
+
+Kusaka's "Statist" faction argued that Western-style liberal democracy was "a sham designed by the bourgeoisie to protect the bourgeoisie" — that the Diet's property-weighted districts, the [[House of Officers of Okaiken|House of Officers]] appointed from the privileged classes, and the money-driven party machines of the Democrats and Progressives made genuine reform through ordinary legislation impossible. The name was a provocation: ''[[Statism in Wakayama Mitoyagi|kokka-shugi]]'', the state-first doctrine of the Dark Valley militarists, was the movement's own word for its enemy, and Kusaka wore it deliberately — "the state is an instrument," he told the 1961 party congress, "like a rifle. The question is not whether it is good or evil. The question is whose hands are on it." True equality, the Statists held, required a strong, centralized state that would enforce the will of the masses against the elites — by decree if necessary.
+
+The faction remained a minority within the party through the prosperous years of the [[Tadashige Honda|Honda]] premiership and the "Sanese Economic Miracle," when rising incomes drained the Socialists' rural base. Kusaka's opportunity came with the collapse of that prosperity: the Darasian-Zong trade conflict that strangled Shendan shipping from 1964, the inflation that eroded wages through 1965, and above all the corruption scandals that engulfed the Democratic administration of [[Yoshimizu Ohno]] from 1964 onward.
+
+===Leader of the Opposition===
+Kusaka won the OSP leadership in September 1960 on a platform of "no coalition, no compromise," defeating the moderate incumbent Inejirō Asanuma by exploiting the very formula he had built: the veterans' committee votes carried him over the prisoners' objections. Over the next six years he rebuilt the party as a vehicle of pure opposition — campaigning on "Smash the Corrupt, Save the Nation," attacking the Democrats' voter registration fraud in the rural prefectures and the Progressives' urban machine politics with equal fury. By 1966 the OSP had overtaken the Progressives as the second-largest party in the House of Commoners.
 
 ==Prime Minister (1966–1968)==
-===The 1966 Election===
-In 1966, the incumbent Democratic Party government of [[Yoshimizu Ohno]] was rocked by allegations of widespread voter registration fraud in rural prefectures. Kusaka ran a populist campaign on the slogan "Smash the Corrupt, Save the Nation." The OSP won a surprise plurality, and Kusaka formed a minority government.
+===The 1966 general election===
+[[File:Kusaka victory night 1966.png|thumb|right|250px|Kusaka on election night, October 1966.]]
 
-===The "Statist" Reforms===
-Kusaka's premiership was radical and swift. He bypassed the usual bureaucratic channels, issuing "Cabinet Directives" to nationalize the energy and rail sectors. He established "Worker Councils" to oversee factory production, which led to a sharp drop in productivity and a flight of foreign capital.
+{{Main|Okaiken general election, 1966}}
+The [[Okaiken general election, 1966|1966 general election]], held amid the Ohno government's voter registration scandal, produced a shock result: the OSP won a plurality of seats for the first time in its history, sweeping the rural prefectures where Kusaka's tenant-farmer machine had spent a decade organizing. The Democrats, discredited and divided, collapsed to third place; Ohno resigned the premiership on 8 August 1966.
 
-By late 1967, inflation was rising, and the opposition parties (Democratic and Progressive) blocked his budget in the [[House of Officers]].
+Kusaka formed a minority government, dependent on ad hoc cooperation with the Progressive Party rump. The result was greeted with euphoria on the left and alarm everywhere else. The conservative press dubbed him "the tenant's tribune"; the business pages warned that "the bolshevik of Iwate" would "expropriate the nation into poverty."
 
-===The Constitutional Crisis===
-Frustrated by the parliamentary gridlock, Kusaka made his fateful move in July 1968. He drafted the "National Salvation Decree," which would dissolve both Houses of the Diet and replace them with a unicameral "People's Select Committee," appointed directly by his cabinet.
+===The Statist reforms (1966–1967)===
+[[File:Kusaka Cabinet Directive 1967.png|thumb|left|250px|Kusaka signing a cabinet directive, 1967.]]
 
-Kusaka argued this was necessary to "bypass the obstructionist elites." His opponents, led by [[Yoshimizu Ohno]] and the young [[Honda Tadashige]], denounced it as a coup d'état and a violation of the 1870 Saito Constitution.
+Kusaka's premiership was radical and swift. Bypassing the ordinary legislative process where his minority status permitted, he governed through "Cabinet Directives" — administrative orders of questionable constitutionality that nationalized the coal and electricity sectors within his first year, froze rents, imposed price controls on staple foods, and established "Worker Councils" with nominal authority over factory production. The Worker Councils in particular proved disastrous: managers resigned rather than take orders from shop-floor committees, productivity fell sharply, and foreign capital fled the Okami market.
 
-==The Quiet Revolution and Removal==
-On August 1, 1968, Kusaka presented the decree to [[Emperor Wakayama]] for the imperial seal. In a break with tradition, the Emperor refused to sign, citing the lack of Diet approval.
+The opposition parties, controlling the [[House of Officers of Okaiken|House of Officers]], blocked his budgets and forced him to withdraw two of the nationalization directives. Kusaka responded by publicly denouncing the upper house as "a club of the well-born" and began speaking of the constitutional order itself as the obstacle.
 
-News of the decree leaked, triggering the [[Quiet Revolution]]. Millions of Sanese citizens flooded the streets of Okami in silent, non-violent protest. The labor unions, which Kusaka had counted on for support, turned against him, launching a general strike to protect the constitution.
+===Black Monday and the snap election===
+[[File:Kusaka Black Monday crowd 1967.png|thumb|right|250px|Crowds outside the Okami Stock Exchange on Black Monday, 15 October 1967.]]
 
-On August 12, 1968, facing a paralyzed nation and a loss of confidence from the police and security forces, Kusaka was formally removed from power. He was placed under house arrest, and the OSP was subsequently banned by the Diet for "attempting to subvert the democratic order".
+{{Main|Black Monday (1967)}}
+The fatal blow to the Kusaka government was external. The [[Darasian-Zong Trade War]] — the bitter tariff and port-closure conflict between the [[Socialist Republic of Daras]] and the [[Kingdom of Zong]] over Shendan shipping rights — had been strangling the sea lanes that carried Kwangju steel and manufactured goods to Okaiken since 1964. By the autumn of 1967 the resulting resource-price spike and trade collapse had wrecked the Sanese En; on 15 October 1967 the [[Okami Stock Exchange]] suffered the worst single-day fall in its history, an event remembered as "Black Monday."
 
-==Later life and death==
-Following his removal, Kusaka was tried for abuse of power but was pardoned in 1970 by the new Republican government as an act of national healing. He lived the rest of his life in seclusion in his home prefecture of Iwate, refusing to give interviews.
+Several of Kusaka's cabinet ministers resigned in the following weeks. Rather than resign or seek a coalition, Kusaka called a snap election for 22 December 1967, gambling that the crisis atmosphere would deliver the absolute majority his minority government lacked.
 
-He died of heart failure on May 20, 1986. While vilified by the mainstream, he remains a cult figure among certain radical leftist fringe groups in Okaiken.
+===The contested election and the boycott===
+{{Main|Okaiken general election, 1967}}
+The gamble half-succeeded. The OSP won a narrow, disputed victory over the opposition bloc led by former Prime Minister Ohno — but the results were immediately contested. The Democrats and Progressives, citing widespread evidence of vote-rigging in OSP-run prefectures, launched a total boycott of the Diet, refusing to recognize the result or to take their seats. The Diet was paralyzed; the government could pass no ordinary legislation at all.
+
+It was in this atmosphere — a minority government without a functioning parliament, an economy in freefall, and a public increasingly convinced that both major parties had cheated — that Kusaka's Statist faction drafted its most radical program.
+
+===The Governance Reform Act===
+The centerpiece was the "Governance Reform Act": a bill that would abolish the parliamentary system entirely, replacing the Diet with a non-voting "People's Select Committee" appointed from lists submitted by approved parties — the OSP first among them. Companion bills proposed the nationalization of the banks and heavy industry and, most alarmingly, the "militarization of the proletariat": a "People's Guard" of armed worker militias, independent of the [[Okaiken Self-Defense Forces]] and answerable to the OSP-led Ministry of the Interior.
+
+Kusaka presented the program to the public as the completion of the revolution the voters had begun in 1966. "The Diet of the landlords has refused to sit," he declared in a radio address. "Very well. The people will govern without it." To his own party's moderates he was blunter: the constitutional order had failed, and the state would now be rebuilt from above.
+
+==The Quiet Revolution and removal==
+{{Main|Quiet Revolution}}
+===The Emperor's refusal===
+[[File:Kusaka decree palace 1968.png|thumb|left|250px|Kusaka presenting the National Salvation Decree at the palace, May 1968. The Emperor refused the seal.]]
+
+In the spring of 1968 Kusaka drafted the "National Salvation Decree," the emergency instrument through which the Governance Reform Act would take effect without a Diet vote: a request for the imperial seal that would dissolve both houses, suspend the 1870 [[Saito Constitution]], and transfer legislative power to the People's Select Committee by imperial order.
+
+In the first days of May 1968 Kusaka presented the decree to [[Emperor Go-Shōkō of Mitoyagi|Emperor Go-Shōkō]] for the seal. In the last great exercise of the throne's remaining authority, the aged Emperor — 66 years old, reigning since 1926, and until then scrupulously above politics — refused to sign, citing the absence of any Diet approval for so fundamental a change. The refusal, unprecedented in the post-war Empire, was leaked to the press within days.
+
+===Revolution in the streets===
+[[File:Kusaka decree refusal protest 1968.png|thumb|right|250px|Silent march during the Quiet Revolution, May 1968.]]
+
+News of the decree triggered the [[Quiet Revolution]]. Millions of Sanese citizens flooded the streets of Okami, Aizawa, and every major city in silent, non-violent protest — the largest demonstrations in the nation's history. The labor unions, whose support Kusaka had counted as the Statist program's base, turned against him and launched a general strike "to protect the constitution." The [[Kōmeitō]] withdrew its conditional toleration of the government; even the OSP's own moderate wing publicly called on Kusaka to resign.
+
+On 12 May 1968, the Emperor intervened again, dissolving the deadlocked Diet by imperial rescript and ordering new elections for 4 June 1968 to resolve the stalemate. The rescript was constitutionally ambiguous — the Saito Constitution gave the throne supreme authority in precisely such emergencies — but the aged Emperor's personal standing made defiance impossible. Kusaka, his authority collapsing, complied.
+
+===The June election and the Republican merger===
+[[File:Kusaka removal Diet 1968.png|thumb|left|250px|The Diet reconvenes without the Socialists, August 1968.]]
+
+{{Main|Okaiken general election, 1968}}
+The election, held on 4 June under a cloud of intimidation and military presence, produced another narrow, suspicious OSP victory — announced on 5 June and immediately decried as fraudulent. This time the public did not merely protest: within hours of the results, hundreds of thousands filled the streets, and the uprising quickly outgrew anything the 1967 protests had shown. The decisive moment came on 6 June 1968, when General Ryohei Morita, the respected commander of the Okami Capital Defense Force, announced that he would not order his troops to fire on civilians. Morita's defection split the armed forces; loyalist units found their tanks blocked by human barricades on [[Sumida Avenue]], and the government lost the physical means to enforce its authority anywhere in the capital.
+
+On 12 June, Emperor Go-Shōkō — seeing that Kusaka was willing to plunge the nation into civil war — made an unprecedented live radio broadcast, calling for peace and "respect for the will of the people." The broadcast broke the stalemate. Realizing that a divided opposition could never dislodge the Socialists, the three major opposition parties — the [[Progressive Party of Okaiken|Progressive Party]], the [[Okaiken Democratic Party|Democratic Party]], and the [[Kōmeitō]] — merged in an emergency congress into the [[Republican Party (Okaiken)|Republican Party of Okaiken]] (RPO), electing Yoshimizu Ohno as unified leader. The merger gave the opposition a clear, "legitimate" majority of the seats from the disputed June election.
+
+With an absolute majority of the valid seats, the RPO declared the Socialist government illegitimate. On 12 August 1968 the Diet reconvened without the Socialists and formally removed Kusaka from power by vote of no confidence — the first removal of a prime minister by Diet vote in modern Sanese history. Kusaka was placed under house arrest the same day; the OSP was banned shortly thereafter "for attempting to subvert the democratic order," and the party's assets were seized.
+
+The removal ended the revolutionary phase of the Quiet Revolution. Ohno returned as prime minister of a transitional government; within two years, the crisis Kusaka had provoked had consumed not only his own party but the Imperial state itself, which the new constitution of 1970 abolished in favor of the Federal Republic.
+
+==Trial, pardon, and later life==
+[[File:Kusaka Iwate farm 1978.png|thumb|right|250px|Kusaka at his farm in Iwate Prefecture, 1978.]]
+
+Kusaka was tried for abuse of power before the Okami District Court in 1969–1970, in proceedings that the Federal Republic's founders pointedly made public — a deliberate contrast, historians have noted, with the closed tribunals of the Dark Valley era. He was convicted on three counts relating to the Cabinet Directives and the attempted decree, and sentenced to a term that was commuted almost immediately. In 1970 the Ohno government pardoned him outright as an act of national healing.
+
+Released to his home prefecture of Iwate, Kusaka lived the rest of his life in seclusion on a small farm — "the only land," he told a rare visitor, "I ever wanted the state to give me." He refused all interviews, declined to write memoirs, and never commented publicly on the Federal Republic, the Quiet Revolution, or the fate of the Socialist Party. He voted, neighbors reported, in every election until his death.
+
+He died of heart failure on 20 May 1986 in Okami, aged 75, while visiting his daughter. His funeral in Iwate drew a small, quiet crowd of former party members; the Federal government sent no representative.
+
+==Political positions==
+Kusaka's "Statism" ({{nihongo|国家主義|kokka shugi}}) fused socialist economics with an authoritarian theory of the state that drew as much on the centralized bureaucracy of the [[Honda Shogunate]] as on any Western ideology. Its core claims — that parliamentary democracy was structurally rigged toward the propertied classes, that the state was the only instrument capable of enforcing equality, and that emergency powers were a legitimate tool of reform — made him, in the judgment of most historians, a revolutionary conservative of the left: a man who wanted to overthrow the constitutional order in order to complete, rather than abolish, the Saito Restoration's promise of "a nation of equals."
+
+He was not, his biographers agree, a democrat. Whether he was a would-be dictator remains the central dispute of his legacy. The court that tried him found that he had "contemplated no personal tyranny"; the Republican Party that overthrew him campaigned for fifty years on the slogan "Never Again Kusaka."
+
+==Legacy==
+Genzui Kusaka occupies a singular place in Sanese political memory: the man whose failure built the modern state. The institutions of the Federal Republic — the strengthened Diet, the strict separation of the Self-Defense Forces from politics, the constitutional protections against emergency rule — were designed, article by article, in reaction to his premiership. The [[Republican Party (Okaiken)|Republican Party]] governed for most of the Republic's first decades as the party that had "saved the constitution from Kusaka"; the Socialist left, banned and rebuilt twice, spent a generation recovering from the association.
+
+Among radical leftist fringe groups he remains a cult figure — "the tribune who told the truth about the landlords' Diet" — and periodic attempts to rehabilitate him have failed in every decade since his death. The mainstream verdict was delivered by the historian Yamana Kōsuke in 1994: "Kusaka was wrong about the cure, but he was not wrong about the disease. The tenant's son from Iwate saw the corruption of the old order more clearly than any man of his time — and then, in the panic of Black Monday, mistook his own rage for a constitution."
 
 ==References==
 {{reflist}}
@@ -93,9 +200,6 @@ He died of heart failure on May 20, 1986. While vilified by the mainstream, he r
 [[Category:1911 births]]
 [[Category:1986 deaths]]
 [[Category:Prime Ministers of Okaiken]]
+[[Category:Members of the House of Commoners of Okaiken]]
 [[Category:Okaiken Socialist Party politicians]]
 [[Category:People from Iwate Prefecture]]
-[[Category:Okaiken topics]]
-[[Category:Okaiken]]
-
-{{Prime Ministers of Okaiken}}

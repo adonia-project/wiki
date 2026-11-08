@@ -14,16 +14,16 @@
 |seats1_title = [[House of Officers|Officers]]
 |seats1 = {{Infobox political party/seats|21|251|hex=#FF4719}}
 |seats2_title = [[House of Commoners of Okaiken|Commoners]]
-|seats2 = {{Infobox political party/seats|50|475|hex=#FF4719}}
+|seats2 = {{Infobox political party/seats|101|475|hex=#FF4719}}
 | country = [[Okaiken]]
-| module = {{Infobox political party/status|Junior partner in coalition government}}
+| module = {{Infobox political party/status|Junior partner in coalition government (SCP-OSP-SDP)}}
 }}
 
 The '''Okaiken Socialist Party''' ({{Nihongo|岡井県社会党|Okaiken Shakaitō|}}), commonly known as the '''OSP''' ({{lang|ja|社会党}}, ''Shakaitō''), is a [[left-wing]] [[democratic socialist]] political party in [[Okaiken]].
 
 The party has a tumultuous and divided history. It was founded in 1955 as the main opposition to the post-war conservative government. It briefly and disastrously held power from 1966 to 1968 under [[Genzui Kusaka]], whose government attempted to abolish parliament, leading to the [[Quiet Revolution]] and the party being banned for 20 years.
 
-After being re-established in 1988, the OSP existed as a minor party for decades. It suffered a near-total collapse in 2021, being reduced to just two seats. The party saw a historic resurgence in the [[Okaiken general election, 2025|2025 general election]] under the populist leadership of [[Rento Nakayama]]. It currently serves as the junior coalition partner in a PPO-led government.
+After being re-established in 1988, the OSP existed as a minor party for decades. It suffered a near-total collapse in 2021, being reduced to just two seats. The party saw a historic resurgence in the [[Okaiken general election, 2025|2025 general election]] under the populist leadership of [[Rento Nakayama]], and an even greater breakthrough in the [[Okaiken general election, 2026|2026 general election]], rising to 100 seats. It currently serves as the junior coalition partner in the [[Ikazaki Cabinet]] (SCP-OSP-SDP).
 
 ==History==
 
@@ -53,12 +53,18 @@ This coalition proved fatal for the OSP. Voters who had supported the party's mo
 
 This betrayal led to the party's annihilation in the [[Okaiken general election, 2021|2021 election]]. The OSP's vote collapsed, and the party was reduced from 46 seats to just 2. Oizumi Yu lost his own seat and resigned as party leader in disgrace. The party's two remaining Diet members selected '''Koga Mitsuo''' as a caretaker leader.
 
-===2025 resurgence and "Nakayama-mania"===
+===2025 resurgence, "Nakayama-mania," and 2026 breakthrough===
 The near-extinct party was considered politically irrelevant until May 2024, when the OSP leadership election was won by '''[[Rento Nakayama]]''', a 32-year-old former bodybuilder, actor, and social media influencer, who defeated the interim leader Koga Mitsuo.
 
 Nakayama immediately transformed the party, abandoning its old, rigid doctrine in favor of a modern, populist, and [[democratic socialist]] platform. He ran a viral campaign almost entirely on social media, creating a phenomenon known as "Nakayama-mania" that attracted thousands of young, previously disengaged voters.
 
 In the [[Okaiken general election, 2025|2025 general election]], the OSP achieved the greatest single-election comeback in Okaiken history, surging from 2 seats to 50. The result made the OSP the "kingmaker" in the new hung parliament. Nakayama agreed to form a coalition with [[Honda Shigetsuma]]'s PPO, becoming the junior partner in government.
+
+The OSP withdrew from the Honda-Nakayama coalition on March 11, 2026, following the [[Nakayama Station dragging incident]] and the "March Maelstrom" civil unrest, when Honda refused to issue a nationwide moratorium on one-man rail operations. Nakayama publicly cleared his office on national television in a moment that became iconic.
+
+In the [[Okaiken general election, 2026|2026 general election]], the OSP doubled its seats to 100, consolidating its position as the third-largest party and the dominant force on the left after the SCP. The party entered a coalition government with the [[Sanese Communist Party|SCP]] and the [[Social Democratic Party (Okaiken)|SDP]], forming the [[Ikazaki Cabinet]] with Nakayama as a senior coalition partner.
+
+On June 3, 2026, [[Ai Fujita]] (Okami 43rd) crossed the floor from the PPO to the OSP, citing the PPO's failure to reckon with the consequences of its modernization agenda. Her statement — "The Progressive Party was the party of modernisation. Modernisation killed Yamamoto Hina. I cannot remain in a party that has not reckoned with what it has done" — brought the OSP to 101 seats. Nakayama personally welcomed Fujita at the OSP bench; the image of the former PPO member shaking hands with the man who cleared his desk on national television dominated the evening news.
 
 ==Ideology and Factions==
 The OSP has been defined by two distinct, opposing ideologies.
@@ -238,6 +244,16 @@ The OSP has been defined by two distinct, opposing ideologies.
 | 6,304,119
 | 10.5%
 | Coalition (''PPO-OSP'')
+|-
+! [[Okaiken general election, 2026|2026]]
+| [[Rento Nakayama]]
+| {{Composition bar|100|475|#FF4719}}
+| {{increase}} 50
+| 21.1%
+| {{increase}} 3rd
+| 12,680,400
+| 21.1%
+| Coalition (''SCP-OSP-SDP'')
 |}
 
 ==See also==

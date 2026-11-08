@@ -1,4 +1,4 @@
-{{short description|8th AFA World Cup}}
+{{short description|8th AFA World Cup, held in Okaiken}}
 {{Use dmy dates|date=January 2025}}
 {{Infobox international football competition
 | tourney_name = AFA World Cup
@@ -8,9 +8,9 @@
 | size = 240px
 | caption = 1982 AFA World Cup official logo
 | country = Okaiken
-| dates = {{Start and end dates|1982|06|12|1982|07|10|df=y}}
+| dates = {{Start and end Dates|1982|06|12|1982|07|10|df=y}}
 | num_teams = 36
-| confederations = 6
+| confederations = 7
 | sub-confederations = 
 | associations = 
 | venues = 12
@@ -25,82 +25,465 @@
 | third = Sanrobonia
 | third-flagvar = 
 | third_other = 
-| fourth = Daras
+| fourth = Okaiken
 | fourth-flagvar = 
 | fourth_other = 
-| matches = 92
-| goals = 221
-| attendance = 2847653
+| matches = 106
+| goals = 267
+| attendance = 3142856
 | top_scorer = {{flagicon|Balisca}} [[Matías Varela]] (8 goals)
 | player = {{flagicon|Balisca}} [[Matías Varela]]
 | young_player = {{flagicon|Balisca}} [[Matías Varela]]
 | goalkeeper = {{flagicon|Balisca}} [[Carlos Mendes]]
-| fair_play = PLACEHOLDER
+| fair_play = {{flagicon|Daras}}
 | prevseason = [[1978 AFA World Cup|1978]]
 | nextseason = [[1986 AFA World Cup|1986]]
 | updated = 
 }}
 
-The '''1982 AFA World Cup''' was the eighth edition of the [[AFA World Cup]], the quadrennial international men's [[association football]] championship contested by the senior national teams of the member associations of the '''[[Adonian Football Association]]''' (AFA). It was held in [[Okaiken]] from 12 June to 10 July 1982. It was the first AFA World Cup hosted in East Fosia.
+The '''1982 AFA World Cup''' was the eighth edition of the [[AFA World Cup]], the quadrennial international men's [[association football]] championship contested by the senior national teams of the member associations of the [[Adonian Football Association]] (AFA). It was held in [[Okaiken]] from 12 June to 10 July 1982. It was the first AFA World Cup hosted in East Fosia.
 
-The tournament featured 36 teams and was contested across 12 venues in 12 cities. The format consisted of two group stages followed by a knockout round, with the final held at the newly constructed '''Tenji Park Olympic Stadium''' in [[Okami]].
+The tournament featured 36 teams and was contested across 12 venues in 12 cities. The format consisted of a first group stage of six groups of six, followed by a second group stage of four groups of three, and concluding with a knockout round of semi-finals, a third-place match, and the final held at the newly constructed [[Tenji Park Olympic Stadium]] in [[Okami]].
 
 [[Balisca national football team|Balisca]] won the tournament, defeating [[Asikyira national football team|Asikyira]] 3–1 in the final to claim their second AFA World Cup title. [[Sanrobonia national football team|Sanrobonia]] finished third by defeating hosts [[Okaiken national football team|Okaiken]] 2–0 in the third-place match. Balisca's [[Matías Varela]] was the tournament's top scorer with eight goals and was awarded the Golden Ball as the tournament's best player.
 
-The tournament was a landmark event for Okaiken, occurring at the dawn of the '''[[Gogo 8090]]''' economic boom and showcasing the nation's transformation following the [[1968 Quiet Revolution]]. It was widely regarded as one of the most successful World Cups in AFA history, with record attendance and global television viewership.
+The tournament was a landmark event for Okaiken, occurring at the dawn of the [[Gogo 8090]] economic boom and showcasing the nation's transformation following the [[1968 Quiet Revolution]]. It was widely regarded as one of the most successful World Cups in AFA history, with record attendance and global television viewership.
 
 ==Host selection==
 {{main|AFA World Cup hosts}}
 
-Okaiken was awarded the hosting rights on 15 May 1978 at the AFA Congress in [[PLACEHOLDER]], defeating bids from [[Nakamizu]] and [[Dagit]].
+Okaiken was awarded the hosting rights on 15 May 1978 at the AFA Congress in [[Galwa]], defeating bids from [[Nakamizu]] and [[Dagit]]. The Okaiken bid received 22 votes in the final round, against Nakamizu's 14 and Dagit's 7.
 
 The bid was championed by Prime Minister [[Yasuhiro Nakasone]], who positioned the tournament as a showcase for Okaiken's modernization under the Republican government. Nakasone's successor, [[Junichiro Okazaki]], oversaw the initial preparations, while [[Naoto Emi]], who took office in January 1982, presided over the tournament itself.
 
+==Qualification==
+{{main|1982 AFA World Cup qualification}}
+
+The final tournament featured 36 teams from seven AFA regions. The regional allocation was as follows:
+
+{| class="wikitable"
+|-
+! Region !! Slots
+|-
+| Abyala || 5
+|-
+| North and Central Kaftia || 4
+|-
+| Mesogean || 8
+|-
+| Lurandia || 4
+|-
+| East Fosia || 5
+|-
+| Central Fosia and Southern Illypnia || 6
+|-
+| North Fosia and Kendryian || 4
+|-
+! Total !! 36
+|}
+
+The qualified teams were:
+
+{| class="wikitable"
+|-
+! Region !! Teams
+|-
+| Abyala || {{flag|Balisca}}, {{flag|Asikyira}}, {{flag|Tapuya}}, {{flag|Sanrobonia}}, {{flag|Balboa}}
+|-
+| North and Central Kaftia || {{flag|Sanyan}}, {{flag|Ayorin}}, {{flag|Laga}}, {{flag|Dakare}}
+|-
+| Mesogean || {{flag|Volisania}}, {{flag|Burawa}}, {{flag|Galwa}}, {{flag|Orma}}, {{flag|Jarin}}, {{flag|Varkana}}, {{flag|Jacan}}, {{flag|Aetolia}}
+|-
+| Lurandia || {{flag|United Midlands}}, {{flag|Sinchew}}, {{flag|Louyang}}, {{flag|Kaneda}}
+|-
+| East Fosia || {{flag|Zong}}, {{flag|Louyan}}, {{flag|Okaiken}} (hosts), {{flag|Nakamizu}}, {{flag|Shansi}}
+|-
+| Central Fosia and Southern Illypnia || {{flag|Breisland}}, {{flag|Merica}}, {{flag|Daras}}, {{flag|Chatar}}, {{flag|Bayan}}, {{flag|Kwangju}}
+|-
+| North Fosia and Kendryian || {{flag|Nusaraya}}, {{flag|Dagit}}, {{flag|Pangkajene}}, {{flag|Pasundan}}
+|}
+
+Okaiken qualified automatically as hosts. The remaining 35 teams qualified through regional competitions held between 1980 and 1982. Notable absences included [[Bierland]], who failed to qualify for the first time since 1962, and [[Nakamizu]], who qualified for the first time since 1970.
+
 ==Venues==
-Twelve stadiums in twelve host cities were selected for the tournament. Only one new stadium, '''Tenji Park Olympic Stadium''' in Okami, was constructed specifically for the World Cup, with a capacity of 80,000. The remaining eleven venues underwent extensive renovation to meet AFA requirements, with all stadiums expanded to capacities exceeding 30,000.
+Twelve stadiums in twelve host cities were selected for the tournament. Only one new stadium, [[Tenji Park Olympic Stadium]] in Okami, was constructed specifically for the World Cup, with a capacity of 80,000. The remaining eleven venues underwent extensive renovation to meet AFA requirements, with all stadiums expanded to capacities exceeding 30,000.
 
 The selection of host cities reflected Okaiken's diverse geography and economic development, spanning the three main islands of [[Harujima]], [[Ishijima]], and [[Yagikoshu]].
 
 {| class="wikitable sortable"
 |+ World Cup venues
-! City !! Stadium !! Capacity
+! City !! Stadium !! Capacity !! Group stage matches !! Knockout matches
 |-
-| [[Okami]] || Tenji Park Olympic Stadium || 80,000 
+| [[Okami]] || Tenji Park Olympic Stadium || 80,000 || 5 || Semi-final, Final
 |-
-| [[Toyozawa]] || Toyozawa National Stadium || 72,000 
+| [[Toyozawa]] || Toyozawa National Stadium || 72,000 || 5 || Semi-final, Third-place match
 |-
-| [[Aizawa]] || Aizawa Sports Complex || 55,000 
+| [[Aizawa]] || Aizawa Sports Complex || 55,000 || 5 || Quarter-final
 |-
-| [[Mito]] || Mito Prefectural Stadium || 48,000 
+| [[Mito]] || Mito Prefectural Stadium || 48,000 || 5 || Quarter-final
 |-
-| [[Soma]] || Saitama Stadium || 42,000 
+| [[Soma]] || Saitama Stadium || 42,000 || 5 || 
 |-
-| [[Minatojima]] || Seto Bay Stadium || 40,000 
+| [[Minatojima]] || Seto Bay Stadium || 40,000 || 5 || 
 |-
-| [[Tsuda]] || Kochi Municipal Stadium || 38,000 
+| [[Tsuda]] || Kochi Municipal Stadium || 38,000 || 5 || 
 |-
-| [[Tokuyama]] || Tokuyama Industrial Arena || 35,000 
+| [[Tokuyama]] || Tokuyama Industrial Arena || 35,000 || 5 || 
 |-
-| [[Yonezawa]] || Northern Dome Stadium || 32,000 
+| [[Yonezawa]] || Northern Dome Stadium || 32,000 || 5 || 
 |-
-| [[Mie]] || Mie Central Stadium || 31,000 
+| [[Mie]] || Mie Central Stadium || 31,000 || 5 || 
 |-
-| [[Anjo-Saikawa]] || Okayama Regional Stadium || 31,000 
+| [[Anjo-Saikawa]] || Okayama Regional Stadium || 31,000 || 5 || 
 |-
-| [[Tochigi]] || Tropical Arena || 30,500 
+| [[Tochigi]] || Tropical Arena || 30,500 || 5 || 
 |}
 
-==Tournament==
+==Format==
+The 1982 tournament introduced the expanded 36-team format, a significant increase from the 24 teams used in the 1978 edition. The format consisted of three phases:
 
-[[Balisca national football team|Balisca]] defeated [[Asikyira national football team|Asikyira]] 3–1 in the final, with [[Matías Varela]] scoring twice to secure his nation's first AFA World Cup title. The match was played before a capacity crowd of 79,871 at the newly constructed Tenji Park Olympic Stadium in Okami, with an estimated global television audience of 1.2 billion viewers.
+# '''First group stage''': 36 teams divided into six groups of six. Each group played a round-robin, with the top two teams from each group advancing to the second group stage. Three points were awarded for a win, one for a draw, and none for a loss.
+# '''Second group stage''': 12 teams divided into four groups of three. Each group played a round-robin, with the group winner advancing to the semi-finals.
+# '''Knockout stage''': The four semi-finalists competed in single-elimination matches, with extra time and a penalty shootout (if necessary) used to decide the winner. The semi-final winners advanced to the final, while the losers contested the third-place match.
 
-Varela opened the scoring in the 31st minute with a powerful header from a [[Diego Ramírez]] cross. Nusaraya equalized in the 55th minute through [[Youssef Al-Hassan]], but Ramírez restored Balisca's lead just four minutes later. Varela sealed the victory with his eighth goal of the tournament in the 76th minute, finishing a counter-attack that began in Balisca's own penalty area.
+The two-group-stage format was controversial among some pundits, who argued that it produced too many matches and rewarded defensive play in the second group stage. However, it also allowed for greater representation from emerging football nations and produced several memorable matches. The format would be used again in 1986 before being replaced by a single group stage with a preliminary knockout round.
 
-The victory marked Balisca's first major international trophy and cemented Varela's status as one of world football's emerging stars.
+==Draw==
+The draw for the first group stage took place on 15 March 1982 at the Okami International Forum. The 36 teams were seeded into six pots based on AFA World Rankings and historical performance:
+
+{| class="wikitable"
+|-
+! Pot !! Teams
+|-
+| 1 (Top seeds) || {{flag|Volisania}}, {{flag|Balisca}}, {{flag|Asikyira}}, {{flag|Zong}}, {{flag|Daras}}, {{flag|United Midlands}}
+|-
+| 2 || {{flag|Burawa}}, {{flag|Sanrobonia}}, {{flag|Breisland}}, {{flag|Varkana}}, {{flag|Okaiken}} (hosts), {{flag|Nakamizu}}
+|-
+| 3 || {{flag|Galwa}}, {{flag|Tapuya}}, {{flag|Merica}}, {{flag|Sinchew}}, {{flag|Shansi}}, {{flag|Nusaraya}}
+|-
+| 4 || {{flag|Ayorin}}, {{flag|Jacan}}, {{flag|Kaneda}}, {{flag|Kwangju}}, {{flag|Dagit}}, {{flag|Louyan}}
+|-
+| 5 || {{flag|Sanyan}}, {{flag|Orma}}, {{flag|Bayan}}, {{flag|Louyang}}, {{flag|Chatar}}, {{flag|Pangkajene}}
+|-
+| 6 || {{flag|Laga}}, {{flag|Dakare}}, {{flag|Aetolia}}, {{flag|Jarin}}, {{flag|Balboa}}, {{flag|Pasundan}}
+|}
+
+Each group contained one team from each pot. The host nation, Okaiken, was automatically placed in Group A and allocated to Pot 2.
+
+==First group stage==
+The first group stage was played from 12 June to 28 June 1982. The top two teams from each group advanced to the second group stage.
+
+===Group A===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Okaiken}} (H) || 5 || 3 || 1 || 1 || 8 || 4 || +4 || 10 || Advance to second group stage
+|-
+| 2 || {{flag|Volisania}} || 5 || 3 || 1 || 1 || 7 || 3 || +4 || 10 || Advance to second group stage
+|-
+| 3 || {{flag|Galwa}} || 5 || 2 || 2 || 1 || 6 || 5 || +1 || 8 || 
+|-
+| 4 || {{flag|Ayorin}} || 5 || 1 || 2 || 2 || 4 || 6 || −2 || 5 || 
+|-
+| 5 || {{flag|Sanyan}} || 5 || 1 || 0 || 4 || 3 || 8 || −5 || 3 || 
+|-
+| 6 || {{flag|Laga}} || 5 || 0 || 0 || 5 || 2 || 8 || −6 || 0 || 
+|}
+
+Group A was dominated by hosts Okaiken and Volisania, who both finished on 10 points. Okaiken topped the group on goal difference after a decisive 3–0 victory over Laga in the final round of matches. Galwa finished third on 8 points, a strong showing that ultimately was not enough to advance. The group's most memorable match was Okaiken's 2–1 victory over Volisania on the opening day, played before 79,871 fans at Tenji Park Olympic Stadium—the largest crowd in AFA World Cup history at the time.
+
+===Group B===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Balisca}} || 5 || 4 || 1 || 0 || 12 || 3 || +9 || 13 || Advance to second group stage
+|-
+| 2 || {{flag|Burawa}} || 5 || 3 || 1 || 1 || 8 || 4 || +4 || 10 || Advance to second group stage
+|-
+| 3 || {{flag|Tapuya}} || 5 || 2 || 1 || 2 || 5 || 5 || 0 || 7 || 
+|-
+| 4 || {{flag|Jacan}} || 5 || 1 || 1 || 3 || 4 || 8 || −4 || 4 || 
+|-
+| 5 || {{flag|Orma}} || 5 || 0 || 2 || 3 || 3 || 7 || −4 || 2 || 
+|-
+| 6 || {{flag|Dakare}} || 5 || 0 || 0 || 5 || 2 || 7 || −5 || 0 || 
+|}
+
+Group B was the tournament's most lopsided group, with Balisca asserting their dominance from the opening match. [[Matías Varela]] scored five goals in the group stage, including a hat-trick in Balisca's 4–0 demolition of Dakare. Burawa's physical style proved effective against the lesser opponents, and a 1–1 draw between Balisca and Burawa on matchday four confirmed both teams' advancement with a game to spare.
+
+===Group C===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Asikyira}} || 5 || 4 || 0 || 1 || 10 || 3 || +7 || 12 || Advance to second group stage
+|-
+| 2 || {{flag|Sanrobonia}} || 5 || 3 || 1 || 1 || 7 || 4 || +3 || 10 || Advance to second group stage
+|-
+| 3 || {{flag|Merica}} || 5 || 2 || 1 || 2 || 5 || 5 || 0 || 7 || 
+|-
+| 4 || {{flag|Kaneda}} || 5 || 1 || 1 || 3 || 3 || 6 || −3 || 4 || 
+|-
+| 5 || {{flag|Bayan}} || 5 || 1 || 1 || 3 || 3 || 7 || −4 || 4 || 
+|-
+| 6 || {{flag|Aetolia}} || 5 || 0 || 0 || 5 || 1 || 4 || −3 || 0 || 
+|}
+
+Group C was a tightly contested affair, with Asikyira and Sanrobonia ultimately separating themselves from the pack. Asikyira's only defeat came against Sanrobonia—a 2–1 loss that sparked the Sanrobonian campaign into life. Merica's 2–0 victory over Kaneda on the final day was not enough to overcome Sanrobonia's superior goal difference.
+
+===Group D===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Zong}} || 5 || 3 || 2 || 0 || 7 || 2 || +5 || 11 || Advance to second group stage
+|-
+| 2 || {{flag|Daras}} || 5 || 3 || 1 || 1 || 9 || 4 || +5 || 10 || Advance to second group stage
+|-
+| 3 || {{flag|Sinchew}} || 5 || 2 || 1 || 2 || 5 || 5 || 0 || 7 || 
+|-
+| 4 || {{flag|Kwangju}} || 5 || 1 || 1 || 3 || 4 || 8 || −4 || 4 || 
+|-
+| 5 || {{flag|Louyan}} || 5 || 1 || 1 || 3 || 3 || 6 || −3 || 4 || 
+|-
+| 6 || {{flag|Pangkajene}} || 5 || 0 || 0 || 5 || 1 || 4 || −3 || 0 || 
+|}
+
+Group D was defined by the defensive solidity of Zong, who conceded only two goals in five matches. Daras matched Zong's attacking output but were less secure at the back, their 4–2 defeat to Sinchew on matchday three proving costly in the race for top spot. Sinchew's campaign faltered after a 0–0 draw with Kwangju on the final day left them one point short of qualification.
+
+===Group E===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|United Midlands}} || 5 || 4 || 0 || 1 || 9 || 3 || +6 || 12 || Advance to second group stage
+|-
+| 2 || {{flag|Nakamizu}} || 5 || 3 || 1 || 1 || 8 || 4 || +4 || 10 || Advance to second group stage
+|-
+| 3 || {{flag|Shansi}} || 5 || 2 || 0 || 3 || 4 || 6 || −2 || 6 || 
+|-
+| 4 || {{flag|Chatar}} || 5 || 1 || 1 || 3 || 3 || 7 || −4 || 4 || 
+|-
+| 5 || {{flag|Louyang}} || 5 || 1 || 0 || 4 || 3 || 6 || −3 || 3 || 
+|-
+| 6 || {{flag|Jarin}} || 5 || 0 || 0 || 5 || 2 || 3 || −1 || 0 || 
+|}
+
+Group E was the most straightforward of the six groups, with United Midlands and Nakamizu establishing their superiority early. United Midlands' 3–1 victory over Nakamizu on matchday two was the group's decisive result, giving the Midlanders the head-to-head advantage that would prove decisive for top spot. Shansi's 2–1 win over Chatar on the final day was a consolation victory.
+
+===Group F===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Breisland}} || 5 || 3 || 2 || 0 || 8 || 3 || +5 || 11 || Advance to second group stage
+|-
+| 2 || {{flag|Varkana}} || 5 || 2 || 2 || 1 || 6 || 4 || +2 || 8 || Advance to second group stage
+|-
+| 3 || {{flag|Nusaraya}} || 5 || 2 || 1 || 2 || 5 || 5 || 0 || 7 || 
+|-
+| 4 || {{flag|Balboa}} || 5 || 1 || 1 || 3 || 4 || 7 || −3 || 4 || 
+|-
+| 5 || {{flag|Dagit}} || 5 || 1 || 0 || 4 || 3 || 6 || −3 || 3 || 
+|-
+| 6 || {{flag|Pasundan}} || 5 || 0 || 0 || 5 || 1 || 6 || −5 || 0 || 
+|}
+
+Group F was the most competitive group, with four teams still in contention for the two qualifying spots on the final day. Breisland's defensive discipline—conceding only three goals in five matches—proved the foundation of their group-winning campaign. Varkana secured second place with a 2–0 victory over Pasundan, while Nusaraya's 1–1 draw with Balboa eliminated both teams.
+
+==Second group stage==
+The second group stage was played from 1 July to 6 July 1982. The 12 qualified teams were divided into four groups of three. The group winners advanced to the semi-finals.
+
+===Group 1===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Balisca}} || 2 || 2 || 0 || 0 || 5 || 1 || +4 || 6 || Advance to semi-finals
+|-
+| 2 || {{flag|Zong}} || 2 || 0 || 1 || 1 || 1 || 3 || −2 || 1 || 
+|-
+| 3 || {{flag|Nakamizu}} || 2 || 0 || 1 || 1 || 1 || 3 || −2 || 1 || 
+|}
+
+Group 1 was dominated by Balisca, who carried their first-group-stage form into the second round. [[Matías Varela]] scored twice in Balisca's 3–1 victory over Zong, then added another in the 2–0 win over Nakamizu. Zong and Nakamizu played out a 0–0 draw in the group's other match, with both teams eliminated.
+
+===Group 2===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Asikyira}} || 2 || 1 || 1 || 0 || 3 || 1 || +2 || 4 || Advance to semi-finals
+|-
+| 2 || {{flag|United Midlands}} || 2 || 1 || 0 || 1 || 2 || 2 || 0 || 3 || 
+|-
+| 3 || {{flag|Breisland}} || 2 || 0 || 1 || 1 || 1 || 3 || −2 || 1 || 
+|}
+
+Group 2 was the most tightly contested of the second-round groups. Asikyira opened with a 1–1 draw against Breisland, then defeated United Midlands 2–0 to secure top spot. United Midlands' 2–1 victory over Breisland was not enough, as Asikyira's draw with Breisland gave them the single point they needed.
+
+===Group 3===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Sanrobonia}} || 2 || 2 || 0 || 0 || 4 || 1 || +3 || 6 || Advance to semi-finals
+|-
+| 2 || {{flag|Daras}} || 2 || 0 || 1 || 1 || 1 || 2 || −1 || 1 || 
+|-
+| 3 || {{flag|Varkana}} || 2 || 0 || 1 || 1 || 1 || 3 || −2 || 1 || 
+|}
+
+Group 3 was controlled by Sanrobonia, who produced two clinical performances. A 2–1 victory over Daras was followed by a 2–0 win over Varkana, with Sanrobonia's attacking flair proving too much for both opponents. Daras and Varkana drew 1–1 in the group's other match, both eliminated.
+
+===Group 4===
+
+{| class="wikitable"
+|-
+! Pos !! Team !! Pld !! W !! D !! L !! GF !! GA !! GD !! Pts !! Qualification
+|-
+| 1 || {{flag|Okaiken}} || 2 || 1 || 1 || 0 || 3 || 2 || +1 || 4 || Advance to semi-finals
+|-
+| 2 || {{flag|Volisania}} || 2 || 1 || 0 || 1 || 3 || 2 || +1 || 3 || 
+|-
+| 3 || {{flag|Burawa}} || 2 || 0 || 1 || 1 || 1 || 3 || −2 || 1 || 
+|}
+
+Group 4 was the most dramatic of the second-round groups. Hosts Okaiken opened with a 1–1 draw against Burawa, setting up a decisive final match against Volisania. In front of 72,000 fans at Toyozawa National Stadium, Okaiken prevailed 2–1 with goals in each half, the winner coming from a set piece in the 73rd minute. The victory sent the host nation into the semi-finals and sparked celebrations across Okaiken.
+
+==Knockout stage==
+The knockout stage consisted of two semi-finals, a third-place match, and the final. All matches were played in Okaiken.
+
+===Semi-finals===
+
+====Semi-final 1: Balisca vs Okaiken====
+
+{{football box
+|date = 7 July 1982
+|time = 17:00
+|team1 = {{flag|Balisca}}
+|score = 2–1
+|team2 = {{flag|Okaiken}}
+|goals1 = [[Matías Varela|Varela]] {{goal|34}}, [[Diego Ramírez|Ramírez]] {{goal|78}}
+|goals2 = [[Kenji Hattori|Hattori]] {{goal|56}}
+|stadium = [[Tenji Park Olympic Stadium]], [[Okami]]
+|attendance = 79,871
+|referee = TBA
+}}
+
+Balisca ended the host nation's dream of a World Cup final on home soil with a 2–1 victory at Tenji Park Olympic Stadium. [[Matías Varela]] opened the scoring in the 34th minute, rising above the Okaiken defense to head home a [[Diego Ramírez]] cross. Okaiken equalized in the 56th minute through [[Kenji Hattori]], who drove a low shot from 20 meters after a flowing counter-attack. The match seemed destined for extra time until Ramírez struck in the 78th minute, curling a free kick from the edge of the area past the Okaiken wall. The goal silenced the 79,871-strong crowd and sent Balisca to the final.
+
+====Semi-final 2: Asikyira vs Sanrobonia====
+
+{{football box
+|date = 7 July 1982
+|time = 20:00
+|team1 = {{flag|Asikyira}}
+|score = 1–0
+|team2 = {{flag|Sanrobonia}}
+|goals1 = [[Youssef Al-Hassan|Al-Hassan]] {{goal|67}}
+|goals2 = 
+|stadium = [[Toyozawa National Stadium]], [[Toyozawa]]
+|attendance = 71,500
+|referee = TBA
+}}
+
+Asikyira reached the final with a hard-fought 1–0 victory over Sanrobonia. The match was a tactical battle, with both teams canceling each other out for long stretches. The breakthrough came in the 67th minute when [[Youssef Al-Hassan]] rose highest to meet a corner kick, powering a header past the Sanrobonian goalkeeper. Sanrobonia pushed for an equalizer but found the Asikyira defense impenetrable, and the match ended with Asikyira advancing to face Balisca in the final.
+
+===Third-place match===
+
+{{football box
+|date = 9 July 1982
+|time = 17:00
+|team1 = {{flag|Sanrobonia}}
+|score = 2–0
+|team2 = {{flag|Okaiken}}
+|goals1 = [[Ricardo Fuentes|Fuentes]] {{goal|23}}, [[Miguel Torres|Torres]] {{goal|81}}
+|goals2 = 
+|stadium = [[Toyozawa National Stadium]], [[Toyozawa]]
+|attendance = 68,200
+|referee = TBA
+}}
+
+Sanrobonia claimed third place with a 2–0 victory over a deflated Okaiken side still reeling from their semi-final defeat. [[Ricardo Fuentes]] opened the scoring in the 23rd minute with a composed finish after a swift counter-attack, and [[Miguel Torres]] sealed the result in the 81st minute with a long-range strike that curled past the Okaiken goalkeeper. The loss meant Okaiken finished fourth—their best World Cup result to date, but a bitter disappointment for a nation that had dreamed of a home final.
+
+===Final===
+
+{{football box
+|date = 10 July 1982
+|time = 17:00
+|team1 = {{flag|Balisca}}
+|score = 3–1
+|team2 = {{flag|Asikyira}}
+|goals1 = [[Matías Varela|Varela]] {{goal|31}}, {{goal|76}}, [[Diego Ramírez|Ramírez]] {{goal|59}}
+|goals2 = [[Youssef Al-Hassan|Al-Hassan]] {{goal|55}}
+|stadium = [[Tenji Park Olympic Stadium]], [[Okami]]
+|attendance = 79,871
+|referee = TBA
+}}
+
+Balisca defeated Asikyira 3–1 in the final to claim their second AFA World Cup title. The match was played before a capacity crowd of 79,871 at Tenji Park Olympic Stadium, with an estimated global television audience of 1.2 billion viewers.
+
+[[Matías Varela]] opened the scoring in the 31st minute with a powerful header from a [[Diego Ramírez]] cross. Asikyira equalized in the 55th minute through [[Youssef Al-Hassan]], who rose highest to meet a corner kick and power a header past [[Carlos Mendes]]. The Baliscan response was immediate—Ramírez restored the lead just four minutes later, cutting inside from the right wing and driving a low shot into the far corner. Varela sealed the victory with his eighth goal of the tournament in the 76th minute, finishing a counter-attack that began in Balisca's own penalty area.
+
+The victory marked Balisca's second AFA World Cup title and cemented Varela's status as one of world football's emerging stars.
+
+==Awards==
+The following awards were given at the conclusion of the tournament:
+
+{| class="wikitable"
+|-
+! Award !! Player !! Team
+|-
+| [[AFA Golden Ball|Golden Ball]] || {{flagicon|Balisca}} [[Matías Varela]] || Balisca
+|-
+| [[AFA Golden Boot|Golden Boot]] || {{flagicon|Balisca}} [[Matías Varela]] (8 goals) || Balisca
+|-
+| [[AFA Golden Glove|Golden Glove]] || {{flagicon|Balisca}} [[Carlos Mendes]] || Balisca
+|-
+| [[AFA Best Young Player|Best Young Player]] || {{flagicon|Balisca}} [[Matías Varela]] || Balisca
+|-
+| [[AFA Fair Play Award|Fair Play Award]] || {{flagicon|Daras}} [[Daras national football team|Daras]] || Daras
+|}
+
+===Goalscorers===
+{{main|1982 AFA World Cup goalscorers}}
+
+Eight goals were required to win the Golden Boot. The top scorers were:
+
+{| class="wikitable"
+|-
+! Rank !! Player !! Team !! Goals
+|-
+| 1 || {{flagicon|Balisca}} [[Matías Varela]] || Balisca || 8
+|-
+| 2 || {{flagicon|Asikyira}} [[Youssef Al-Hassan]] || Asikyira || 5
+|-
+| 3 || {{flagicon|Daras}} [[Omar Khalil]] || Daras || 4
+|-
+| 4 || {{flagicon|Balisca}} [[Diego Ramírez]] || Balisca || 3
+|-
+| 4 || {{flagicon|Okaiken}} [[Kenji Hattori]] || Okaiken || 3
+|-
+| 4 || {{flagicon|United Midlands}} [[Thomas Whitfield]] || United Midlands || 3
+|-
+| 4 || {{flagicon|Sanrobonia}} [[Ricardo Fuentes]] || Sanrobonia || 3
+|}
 
 ==Legacy==
 
-The 1982 AFA World Cup is widely regarded as a watershed moment for both Okaiken and international football. The tournament showcased Okaiken's rapid modernization to a global audience, occurring at the dawn of the '''[[Gogo 8090]]''' era—the period of unprecedented economic growth that would transform the nation into one of Adonian's largest economies.
+The 1982 AFA World Cup is widely regarded as a watershed moment for both Okaiken and international football. The tournament showcased Okaiken's rapid modernization to a global audience, occurring at the dawn of the [[Gogo 8090]] era—the period of unprecedented economic growth that would transform the nation into one of Adonia's largest economies.
 
 Prime Minister [[Naoto Emi]], who took office just five months before the tournament, used the World Cup to announce Okaiken's "opening to the world" policy, which included the normalization of diplomatic relations with [[Zong]] later that year, which ended many years of conflict following the Great Adonian War. The tournament's success bolstered the [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party]]'s popularity and contributed to Emi's electoral victory in the [[1982 Okaiken general election|November 1982 general election]].
 

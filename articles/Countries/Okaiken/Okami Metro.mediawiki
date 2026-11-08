@@ -6,45 +6,75 @@
 | image2 = Okami-Metro Series4000-01.png
 | imagesize2 = 300px
 | caption2 = A [[Okami Metro 4000 series|4000 series]] train on the [[Miyoshi Line]].
-| native_name = 大紙メトロ{{efn|The official name of the network in Sanese is written as '''Okami Metro''' (in Trent).|name=metroname}}
+| native_name = 大紙メトロ{{efn|The official name of the network in Sanese is written as '''Okami Metro''' (in Mercian).|name=metroname}}
 | owner = [[Okami Metro Co., Ltd.]]
 | locale = [[Okami Metropolitan Area]], [[Okaiken]]
 | transit_type = [[Rapid transit|Metro]]; [[Automated guideway transit|AGT]]
-| lines = 12 (+ 1 People Mover)
-| stations = 148<ref name="overview" />
-| ridership = 4,980,000 (FY2025)<ref name="balance_sheet">{{cite web |url=http://www.kotsu.city.okami.lg.jp/business/management |title=Budget and Ridership Report |publisher=Okami Municipal Transportation Bureau |language=ja |access-date=January 28, 2026}}</ref>
-| annual_ridership = 
+| lines = 13 (12 subway + 1 AGT)
+| stations = 413<ref name="overview" />
+| ridership = 20,308,903 (FY2025)
+| annual_ridership =
 | operator = [[Okami Municipal Transportation Bureau]] (1935–2018) <br />Okami Metro Co. (2018–present)
 | began_operation = {{start date and age|1935|06|15|df=y}}
-| system_length = {{cvt|168.4|km|mi|abbr=on}}<ref name="overview"/><br>{{cvt|176|km|mi|abbr=on}} (incl. People Mover)
-| track_gauge = {{RailGauge|sg|allk=on}}
-| top_speed = {{cvt|80|km/h|mph|abbr=on}}
-| el = {{750 V DC|conductor=y}}<br />{{1,500 V DC}} [[overhead catenary]]{{efn|[[Nagata Line|Nagata]], [[Imaichi Line|Imaichi]] and [[Kita Line|Kita]] lines}}<br />600 [[Volt|V]] [[Three-phase electric power|3-phase]] [[Alternating current|AC]] 60 [[Hertz|Hz]] third rail {{efn|[[Nankō Port Town Line]]}}
-| map = [[File:Map of Okami City Subway.png|300px]]
+| system_length = {{cvt|503.3|km|mi|abbr=on}}<ref name="overview"/><br>{{cvt|512.0|km|mi|abbr=on}} (incl. New Tram)
+| track_gauge = {{RailGauge|sg|allk=on}}<br />{{RailGauge|1067mm|allk=on}}{{efn|[[Nanboku Line (Okami)|Nanboku]], [[Tokuyama Line|Tokuyama]], and [[Shitayanagi Line|Shitayanagi]] lines}}
+| top_speed = {{cvt|80|–|100|km/h|mph|abbr=on}}
+| el = {{750 V DC|conductor=y}}<br />{{1,500 V DC}} [[overhead catenary]]{{efn|[[Nagata Line|Nagata]] and [[Imaichi Line|Imaichi]] lines}}<br />600 [[Volt|V]] [[Three-phase electric power|3-phase]] [[Alternating current|AC]] 60 [[Hertz|Hz]] third rail {{efn|[[Nankō Port Town Line]]}}
+| map = [[File:Okami Metro Map.svg|300px]]
 | map_state = collapsed
 }}
 
-The {{nihongo|'''Okami Metro'''|岡見メトロ|Okami Metoro}} is a major [[rapid transit system]] in the [[Okami|Okami Metropolitan Area]] of [[Okaiken]], operated by [[Okami Metro Co., Ltd.]], and originally opened in 1935 as the Okami Municipal Subway.
+The {{nihongo|'''Okami Metro'''|岡見メトロ|Okami Metoro}} is a major [[rapid transit system]] in the [[Okami|Okami Metropolitan Area]] of [[Okaiken]], operated by [[Okami Metro Co., Ltd.]], and originally opened in 1935 as the Okami Municipal Subway. It is the largest underground transit network in Okaiken and one of the most extensively used daily transit systems in the nation.
 
-Okami Metro forms an integral part of the extensive mass transit system of Greater Okami, operating 13 main subway lines and one automated guideway transit line. As of 2026, the network transports approximately 4.98 million passengers daily, functioning as the primary urban transport backbone for [[Okami]] and connecting it to surrounding municipalities through its connections with many private rail operators in the area.
+Okami Metro forms an integral part of the extensive mass transit system of Greater Okami, operating 12 subway lines and one [[automated guideway transit]] (AGT) line known as the "New Tram." As of 2026, the network comprises {{cvt|512.0|km|mi|abbr=on}} of track and serves 413 stations across the metropolitan area. The system transports approximately 20.3 million passengers daily, functioning as the primary urban transport backbone for [[Okami]] and connecting it to surrounding municipalities through its connections with many private rail operators in the area. The network's daily ridership places it among the busiest metro systems in the world.
 
-Okami Metro is legally classified partially under the Tram Act and partially under the Railway Business Act, though it operates entirely as a heavy rail metro system. Major routes include the [[Miyoshi Line]], which serves as the primary north-south artery beneath Miyoshi Boulevard, and the [[Chūō Line (Okami)|Chūō Line]], which bisects the city east-to-west. The system is closely integrated with regional rail networks, including [[Okaiken Railways]] (OR) and private railways such as [[Okaden|Okami Electric Railway (Okaden)]], allowing for seamless through-service on several lines.
+Okami Metro is legally classified partially under the Tram Act and partially under the Railway Business Act, though it operates entirely as a heavy rail metro system. Major routes include the [[Miyoshi Line]], which serves as the primary north-south artery beneath Miyoshi Boulevard, and the [[Chūō Line (Okami)|Chūō Line]], which bisects the city east-to-west. The system is closely integrated with regional rail networks, including [[Okaiken Railways]] (OR) and private railways such as [[Okaden|Okami Electric Railway (Okaden)]], allowing for seamless through-service on several lines. The [[Tozai Line (Okami)|Tozai Line]], the longest line in the system at {{cvt|64.2|km|mi|abbr=on}}, connects the western suburbs to the eastern industrial zones through direct through-running with Okaiken Railways commuter lines.
 
-Following the privatization of the [[Okami Municipal Transportation Bureau]] on April 1, 2018, the system has undergone significant modernization, including the introduction of the Satori-AI integrated passenger management system and the rollout of new, modern rolling stock.
+Following the privatization of the [[Okami Municipal Transportation Bureau]] on April 1, 2018, the system has undergone significant modernization, including the introduction of the Satori-AI integrated passenger management system, the rollout of new rolling stock, and the refurbishment of major stations. The flagship [[Okami Metro 4000 series|4000 series]] trains, introduced in 2023, feature a distinctive futuristic design with hexagonal windows and onboard Wi-Fi integrated with the city's Satori Network, and were specifically commissioned to serve as the face of the transport network for the upcoming [[Expo]].
 
 ==History==
-In 1905, the Okami Municipal Transportation Bureau began operating its municipal tram system. As the Imperial capital's industry expanded rapidly following the [[Sanese-Relastovan War]], the streetcar network grew to cover most of the city. However, by the 1920s, surface congestion necessitated a grade-separated solution.
 
-Construction of the first subway line began in 1930. The first section of what is now the [[Miyoshi Line]] opened in June 1935, operating between [[Okami Chūō Station|Okami Chūō]] and [[Hozumi-Oiwake Station|Hozumi Oiwake]]. It was the first publicly operated subway in the Mitoyagi Empire. Construction to connect the Miyoshi Line to the densely inhabited island of [[Tamashima]] was halted during the [[Great Adonian War]] but resumed aggressively in the 1960s to support the city's post-war economic miracle.
+===Early transit and tram era (1905–1930)===
 
-By 1970, a grid of six lines had been established. In the 1990s and 2000s, newer lines utilizing [[linear motor]] technology were introduced to serve the denser, older districts of the city where deep-bore tunneling was required.
+In 1905, the Okami Municipal Transportation Bureau began operating its municipal tram system. As the Imperial capital's industry expanded rapidly following the [[Sanese-Relastovan War]], the streetcar network grew to cover most of the city, providing essential connectivity between the growing industrial districts, commercial centers, and residential neighborhoods. The tram system was initially hailed as a symbol of Okami's modernization, and by the 1910s, it carried hundreds of thousands of passengers daily across dozens of routes.
 
-On April 1, 2018, the system was privatized as Okami Metro Co., Ltd., ending over 80 years of direct municipal management.
+However, by the 1920s, surface congestion had become a serious problem. The rapid growth of the city's population, combined with the increasing prevalence of automobile traffic and horse-drawn wagons, led to chronic delays on the street-level tram network. Average tram speeds dropped to below {{cvt|10|km/h|mph|abbr=on}} in the city center, and the Municipal Transportation Bureau began studying grade-separated solutions as early as 1927. Several proposals were considered, including elevated railways and underground subways, before the decision was made to construct a subway line beneath Miyoshi Boulevard, one of the city's busiest thoroughfares.
+
+===First subway and prewar expansion (1930–1940)===
+
+Construction of the first subway line began in 1930. The first section of what is now the [[Miyoshi Line]] opened on June 15, 1935, operating between [[Okami Chūō Station|Okami Chūō]] and [[Hozumi-Oiwake Station|Hozumi Oiwake]]. It was the first publicly operated subway in Okaiken and only the second underground railway in the nation. The opening was celebrated with large public ceremonies, and the line proved immediately popular, carrying over 100,000 passengers on its first day of operation.
+
+The initial rolling stock, designated the [[Okami Metro 0 series|0 series]], was built by local manufacturers and featured wooden interiors with steel exteriors. The success of the first segment prompted plans for further expansion, including an east-west line and extensions to the Miyoshi Line toward the densely inhabited island of [[Tamashima]]. However, these plans were disrupted by the outbreak of the [[Great Adonian War]].
+
+===Wartime and postwar recovery (1940–1960)===
+
+Construction to connect the Miyoshi Line to [[Tamashima]] was halted during the [[Great Adonian War]], as resources and labor were diverted to the war effort. The existing subway infrastructure suffered damage from aerial bombing, particularly in the central city stations, but the tunnels themselves largely survived. Following the war, the Municipal Transportation Bureau focused on repairing existing infrastructure and restoring tram services, which remained the primary mode of public transit in the immediate postwar years.
+
+The postwar economic recovery brought renewed urgency to subway expansion. By the mid-1950s, Okami's population had swelled dramatically, and the tram network was once again overwhelmed. In 1958, the city approved a comprehensive subway expansion plan that would add several new lines over the following two decades. The [[Tozai Line (Okami)|Tozai Line]] was the first to be constructed under this plan, opening in 1961 as the system's second line. The second-generation [[Okami Metro 1000 series|1000 series]] rolling stock was introduced on this line, featuring all-steel construction and significantly higher capacity than the original 0 series.
+
+===Rapid expansion era (1960–1990)===
+
+The 1960s and 1970s saw the most rapid period of expansion in the system's history. The [[Asahi Line]] opened in 1965, followed by the [[Chūō Line (Okami)|Chūō Line]] in 1967, the [[Nanboku Line (Okami)|Nanboku Line]] in 1969, and the [[Tokuyama Line]] in 1969. By 1970, a grid of six lines had been established, forming the basic skeleton of the modern network. The [[Shitayanagi Line]] opened in 1974, and the [[Tedorigawa Line]] in 1981, bringing the total to eight lines.
+
+The third-generation [[Okami Metro 2000 series|2000 series]] rolling stock was introduced in 1981, featuring air conditioning and improved passenger information systems. The same year, the [[Nankō Port Town Line]] opened as the system's first automated guideway transit line, using the [[Okami Metro 100 series|100 series]] AGT rolling stock to serve the reclaimed port area in Okami Bay. The [[Hitotsubashi Line]] opened in 1988, providing a crucial diagonal connection across the network.
+
+In 1990, the [[Nagata Line]] was opened as the system's first line to utilize [[linear motor]] technology, allowing for smaller tunnel diameters and sharper curves in the dense older districts of the city. The [[Okami Metro 3000 series|3000 series]] linear motor trains were specifically developed for this line. The [[Tokushige Line]] followed in 1995, extending the network further into the southern suburbs.
+
+===Modern era and privatization (2000–present)===
+
+The [[Imaichi Line]], opened in 2006, was the last new subway line to be added to the network, also utilizing linear motor technology. By this time, the system had grown to 12 subway lines and one AGT line, serving over 300 stations. However, the Municipal Transportation Bureau faced mounting financial pressures, with operating costs rising and fare revenues insufficient to cover maintenance and expansion.
+
+On April 1, 2018, the system was privatized as [[Okami Metro Co., Ltd.]], ending over 80 years of direct municipal management. The privatization was accompanied by a comprehensive modernization program, including the introduction of the Satori-AI integrated passenger management system, the rollout of the new [[Okami Metro 5000 series|5000 series]] rolling stock, and the refurbishment of the 2000 series and 100 series fleets. The [[Okami Metro 6000 series|6000 series]] was introduced in 2020, followed by the flagship [[Okami Metro 4000 series|4000 series]] in 2023 and the [[Okami Metro 7000 series|7000 series]] in 2025. The 3000 series linear motor trains are currently being retired and replaced with 5000 series stock.
+
+[[File:Okami Metro Map.svg|thumb|right|400px|Okami Metro system map. All 13 lines and 413 stations.]]
 
 ==Lines==
-Currently, there are 13 subway lines and one [[automated guideway transit]] (AGT) line known as the "New Tram." The system spans {{convert|168.4|km|mi|sp=us}} of track and serves 148 stations.
 
-A key feature of the Okami Metro is its extensive through-service agreements. The [[Tozai Line (Okami)|Tozai Line]], for example, connects directly with the [[Okaiken Railways]] commuter lines, allowing passengers to travel from the western suburbs to the eastern industrial zones without changing trains. Other lines that offer through connection include the Nanboku Line with the [[Akitetsu|Akitetsu Railway]] and the Okaiken Railways, and the [[Tokuyama Line (Okami Metro)|Tokuyama Line]] with the Okaiken Railways and the [[Nankai Main Line|Nankai Line]].
+Currently, there are 12 subway lines and one [[automated guideway transit]] (AGT) line known as the "New Tram." The system spans {{cvt|503.3|km|mi|sp=us}} of subway track and {{cvt|8.7|km|mi|sp=us}} of AGT track, for a total of {{cvt|512.0|km|mi|sp=us}}, and serves 413 stations. Each line is identified by a letter code and a line color, which are used consistently across station signage, train livery, and passenger information displays.
+
+A key feature of the Okami Metro is its extensive through-service agreements and physical track connectors with [[Okaiken Railways]] (OR) and private suburban operators. The [[Tozai Line (Okami)|Tozai Line]] connects with the [[Fukukyu Fukushima Line]] via the Toukai–Fukukyu Connecting Link and interfaces with regional commuter corridors across the east–west axis. The [[Asahi Line]] links directly with the [[Akitetsu Akita Line]] via the [[Akitetsu Asahi Line Connector]] near Enokigawa and Hiyori-cho, while the [[Chūō Line (Okami)|Chūō Line]] connects with the [[Okaden Toyohama Line]] at [[Koi Station|Koi]] via the Okaden Chuo Line Connector, and the [[Imaichi Line]] links to the [[Toukai Main Line]] corridor via the Toukai–Imaichi Rail Link at Kawabata Mon. In addition, the narrow-gauge ({{RailGauge|1067mm}}) [[Tokuyama Line]] operates reciprocal through-services with [[Okaiken Railways]] via the OR Tokuyama Line North Connector (at Mitani to the [[OR Iwashi Line]]) and the OR Tokuyama Line Metro Connector (at Hikari-cho to the [[OR Main Line]]), while the [[Nanboku Line (Okami)|Nanboku Line]] is scheduled to absorb and through-run with the [[Gomyo Railway Gomyo Line]] via its southern extension to Iwamura.
+
+The network is structured around several major interchange hubs, including [[Okami Chuo Station|Okami Chūō]], where the Miyoshi, Chūō, and Shitayanagi lines converge; [[Hozumi-Oiwake Station|Hozumi-Oiwake]], where the Miyoshi, Tozai, and Asahi lines meet; and [[Rokumanji Station|Rokumanji]], where the Miyoshi, Tozai, and Nagata lines intersect. These hubs are among the busiest stations in the network, with several handling over 200,000 daily entries each.
 
 {| class="wikitable sortable" style="margin:auto; text-align:center;"
 |-
@@ -55,11 +85,12 @@ A key feature of the Okami Metro is its extensive through-service agreements. Th
 ! Sanese
 ! First Opened
 ! Length
+! Termini
 ! Stations
-! Train Length
+! Rolling stock type
 |-
 |
-! colspan="9" | [[Rapid transit]]
+! colspan="10" | [[Rapid transit]]
 |-
 | style="text-align:left;" |[[Miyoshi Line]]
 | style="background:#9370DB; color:white;" | Lavender
@@ -67,29 +98,21 @@ A key feature of the Okami Metro is its extensive through-service agreements. Th
 | Line 1
 | 三好線
 | 1935
-| {{convert|35.7|km|mi|abbr=on}}
-| 35
-| 10 cars
+| {{cvt|54.5|km|mi|abbr=on}}
+| Yuyama Chuo to Okada
+| 43
+| Type B (8-car)
 |-
 | style="text-align:left;" |[[Tozai Line (Okami)|Tozai Line]]
 | style="background:#f4a460; color:white;" | Orange
-| style="text-align:center;"|{{OMSN|Z|00}}
+| style="text-align:center;"|{{OMSN|T|00}}
 | Line 2
 | 東西線
 | 1961
-| {{convert|30.5|km|mi|abbr=on}}
-| 28
-| 8 cars
-|-
-| style="text-align:left;" |[[Asahi Line]]
-| style="background:#32cd32; color:white;" | Lime Green
-| style="text-align:center;"|{{OMSN|A|00}}
-| Line 3
-| 朝日線
-| 1965
-| {{convert|24.2|km|mi|abbr=on}}
-| 21
-| 6 cars
+| {{cvt|64.2|km|mi|abbr=on}}
+| Takanoko to Hojo Daigaku-mae
+| 64
+| Type C (6-car)
 |-
 | style="text-align:left;" |[[Chūō Line (Okami)|Chūō Line]]
 | style="background:#009e60; color:white;" | Green
@@ -97,49 +120,21 @@ A key feature of the Okami Metro is its extensive through-service agreements. Th
 | Line 4
 | 中央線
 | 1967
-| {{convert|27.5|km|mi|abbr=on}}
-| 25
-| 6 cars
+| {{cvt|36.5|km|mi|abbr=on}}
+| Koi to Nagata-cho
+| 26
+| Type D (5-car)
 |-
-| style="text-align:left;" |[[Nanboku Line (Okami)|Nanboku Line]]
-| style="background:#4169E1; color:white;" | Blue
-| style="text-align:center;"|{{OMSN|B|00}}
-| Line 5
-| 南北線
-| 1969
-| {{convert|49.1|km|mi|abbr=on}}
-| 43
-| 10 cars
-|-
-| style="text-align:left;" |[[Tokuyama Line]]
-| style="background:#910f91; color:white;" | Purple
-| style="text-align:center;"|{{OMSN|K|00}}
-| Line 6
-| 徳山線
-| 1969
-| {{convert|18.5|km|mi|abbr=on}}
-| 16
-| 6 cars
-|-
-| style="text-align:left;" |[[Nagata Line]]
-| style="background:#ff0099; color:white;" | Pink
-| style="text-align:center;"|{{OMSN|N|00}}
-| Line 7
-| 長田線
-| 1990
-| {{convert|15.0|km|mi|abbr=on}}
-| 17
-| 4 cars (Linear)
-|-
-| style="text-align:left;" |[[Imaichi Line]]
-| style="background:#d46f09; color:white;" | Light Brown
-| style="text-align:center;"|{{OMSN|I|00}}
-| Line 8
-| 今市線
-| 2006
-| {{convert|14.9|km|mi|abbr=on}}
-| 15
-| 4 cars (Linear)
+| style="text-align:left;" |[[Asahi Line]]
+| style="background:#32cd32; color:white;" | Lime Green
+| style="text-align:center;"|{{OMSN|A|00}}
+| Line 3
+| 朝日線
+| 1965
+| {{cvt|17.3|km|mi|abbr=on}}
+| Hozumi-Oiwake to Tobe Kaigan
+| 21
+| Type B (8-car)
 |-
 | style="text-align:left;" |[[Shitayanagi Line]]
 | style="background:#ffd700; color:black;" | Gold
@@ -147,19 +142,21 @@ A key feature of the Okami Metro is its extensive through-service agreements. Th
 | Line 9
 | 下柳線
 | 1974
-| {{convert|16.8|km|mi|abbr=on}}
-| 18
-| 6 cars
+| {{cvt|50.5|km|mi|abbr=on}}
+| Kita to Kaido-cho
+| 36
+| Type C (6-car)
 |-
-| style="text-align:left;" |[[Tedorigawa Line]]
-| style="background:#663300; color:white;" | Dark Brown
-| style="text-align:center;"|{{OMSN|T|00}}
-| Line 10
-| 手取川線
-| 1981
-| {{convert|12.4|km|mi|abbr=on}}
-| 12
-| 6 cars
+| style="text-align:left;" |[[Nagata Line]]
+| style="background:#ff0099; color:white;" | Pink
+| style="text-align:center;"|{{OMSN|N|00}}
+| Line 7
+| 長田線
+| 1990
+| {{cvt|62.3|km|mi|abbr=on}}
+| Toji-cho to Komorebi-machi
+| 38
+| Type B (8-car)
 |-
 | style="text-align:left;" |[[Hitotsubashi Line]]
 | style="background:#dc143c; color:white;" | Crimson
@@ -167,9 +164,54 @@ A key feature of the Okami Metro is its extensive through-service agreements. Th
 | Line 11
 | 一橋線
 | 1988
-| {{convert|10.5|km|mi|abbr=on}}
-| 9
-| 6 cars
+| {{cvt|52.7|km|mi|abbr=on}}
+| Kifune to Takahama
+| 36
+| Type B (8-car)
+|-
+| style="text-align:left;" |[[Nanboku Line (Okami)|Nanboku Line]]
+| style="background:#4169E1; color:white;" | Blue
+| style="text-align:center;"|{{OMSN|B|00}}
+| Line 5
+| 南北線
+| 1969
+| {{cvt|26.4|km|mi|abbr=on}}
+| Kume Chuo to Kitanada
+| 24
+| Type A (10-car)
+|-
+| style="text-align:left;" |[[Imaichi Line]]
+| style="background:#d46f09; color:white;" | Light Brown
+| style="text-align:center;"|{{OMSN|I|00}}
+| Line 8
+| 今市線
+| 2006
+| {{cvt|18.2|km|mi|abbr=on}}
+| Airport T1 to Minami-Sasame
+| 23
+| Type D (5-car)
+|-
+| style="text-align:left;" |[[Tokuyama Line]]
+| style="background:#910f91; color:white;" | Purple
+| style="text-align:center;"|{{OMSN|K|00}}
+| Line 6
+| 徳山線
+| 1969
+| {{cvt|26.9|km|mi|abbr=on}}
+| Tokai to Hikari-cho
+| 21
+| Type A (10-car)
+|-
+| style="text-align:left;" |[[Tedorigawa Line]]
+| style="background:#663300; color:white;" | Dark Brown
+| style="text-align:center;"|{{OMSN|D|00}}
+| Line 10
+| 手取川線
+| 1981
+| {{cvt|53.2|km|mi|abbr=on}}
+| Nami-cho to Hon-Karasaki
+| 37
+| Type C (6-car)
 |-
 | style="text-align:left;" |[[Tokushige Line]]
 | style="background:#008080; color:white;" | Teal
@@ -177,12 +219,13 @@ A key feature of the Okami Metro is its extensive through-service agreements. Th
 | Line 12
 | 徳重線
 | 1995
-| {{convert|11.2|km|mi|abbr=on}}
-| 10
-| 6 cars
+| {{cvt|40.6|km|mi|abbr=on}}
+| Tedori Chuo to Tobe Museum
+| 35
+| Type A (10-car)
 |-
 |
-! colspan="9" | [[Automated guideway transit]]
+! colspan="10" | [[Automated guideway transit]]
 |-
 | style="text-align:left;" |[[Nankō Port Town Line]]
 | style="background:#71a7d8; color:white;" | Light Blue
@@ -190,15 +233,74 @@ A key feature of the Okami Metro is its extensive through-service agreements. Th
 | New Tram
 | 南港ポートタウン線
 | 1981
-| {{convert|9.9|km|mi|abbr=on}}
-| 12
-| 4 cars (AGT)
+| {{cvt|8.7|km|mi|abbr=on}}
+| Minato-misaki to Iyonada
+| 9
+| AGT (4-car)
 |}
 
-== Rolling stock ==
-Okami Metro operates a diverse fleet of rolling stock tailored to the specific technical requirements of its lines. The majority of the network utilizes standard third-rail electrification (750 V DC). However, the [[Kita Line]], [[Nagata Line]], and [[Imaichi Line]] utilize overhead catenary systems (1,500 V DC) to facilitate through-service with suburban commuter rail lines and to accommodate linear motor propulsion.
+==Rolling stock==
 
-The newest addition to the fleet is the 4000 Series, introduced in 2023 on the [[Miyoshi Line]] and [[Chūō Line (Okami)|Chūō Line]]. These trains feature a futuristic design reminiscent of a spacecraft, with hexagonal windows and onboard Wi-Fi integrated with the city's Satori Network. They were specifically commissioned to serve as the face of the transport network for the upcoming Expo.
+Okami Metro operates a diverse fleet of rolling stock tailored to the specific technical requirements of its lines. Following the 2018 privatization, the company introduced a standardized classification system for its rolling stock, similar to the classification systems used by metro systems in China. This system categorizes trains into four types (A through D) based on car length, width, and capacity, plus a separate category for the AGT fleet. This standardization has streamlined procurement and maintenance, allowing for greater interoperability between lines that share the same type.
+
+The majority of the network utilizes standard third-rail electrification (750 V DC). However, the [[Nagata Line]] and [[Imaichi Line]] utilize overhead catenary systems (1,500 V DC) to accommodate linear motor propulsion, which allows for smaller tunnel diameters and tighter curve radii in the dense older districts of the city. The [[Nankō Port Town Line]] uses 600 V AC three-phase third rail for its rubber-tired AGT vehicles.
+
+===Classification system===
+
+{| class="wikitable" style="margin:auto; text-align:center;"
+|-
+! Type
+! Cars per train
+! Train length
+! Car width
+! Approx. capacity
+! Lines
+|-
+| '''Type A'''
+| 10 cars
+| {{cvt|200|m|ft|abbr=on}}
+| {{cvt|3.0|m|ft|abbr=on}}
+| ~1,500
+| B, G, K
+|-
+| '''Type B'''
+| 8 cars
+| {{cvt|160|m|ft|abbr=on}}
+| {{cvt|2.8|m|ft|abbr=on}}
+| ~1,200
+| A, H, M, N
+|-
+| '''Type C'''
+| 6 cars
+| {{cvt|120|m|ft|abbr=on}}
+| {{cvt|2.8|m|ft|abbr=on}}
+| ~900
+| D, S, T
+|-
+| '''Type D'''
+| 5 cars
+| {{cvt|100|m|ft|abbr=on}}
+| {{cvt|2.6|m|ft|abbr=on}}
+| ~750
+| C, I
+|-
+| '''AGT'''
+| 4 cars
+| {{cvt|45|m|ft|abbr=on}}
+| {{cvt|2.4|m|ft|abbr=on}}
+| ~300
+| P
+|}
+
+===Fleet overview===
+
+The rolling stock fleet has evolved through several generations since the system's opening in 1935. The original [[Okami Metro 0 series|0 series]] trains, introduced for the opening of the Miyoshi Line in 1935, were retired in the 1960s and replaced by the [[Okami Metro 1000 series|1000 series]], which served as the second-generation fleet from 1961 through the 1990s before being fully retired. The third-generation [[Okami Metro 2000 series|2000 series]], introduced in 1981, was the mainstay of the Miyoshi and Tozai Lines for over three decades; it was refurbished in 2018 and is currently being phased out in favor of newer stock.
+
+The [[Okami Metro 3000 series|3000 series]], introduced in 1990, was the system's first linear motor train, designed specifically for the Nagata and Imaichi lines. These trains are currently being retired and replaced by 5000 series stock. The [[Okami Metro 100 series|100 series]], introduced in 1981 for the Nankō Port Town Line AGT, was refurbished in 2018 and continues to serve as the sole AGT fleet.
+
+The current mainstay of the fleet is the [[Okami Metro 5000 series|5000 series]], introduced in 2018 following the privatization. Manufactured by [[Okami Heavy Industries]], these trains serve as Type A and Type B stock for the Nanboku, Tokushige, Tokuyama, Asahi, Hitotsubashi, Miyoshi, and Nagata lines. The [[Okami Metro 6000 series|6000 series]], introduced in 2020, serves as Type C stock for the Tedorigawa, Shitayanagi, and Tozai lines. The [[Okami Metro 7000 series|7000 series]], the newest addition introduced in 2025, serves as Type D stock for the Chūō and Imaichi lines.
+
+The flagship of the fleet is the [[Okami Metro 4000 series|4000 series]], introduced in June 2023 on the Miyoshi and Chūō lines. These trains feature a distinctive futuristic design reminiscent of a spacecraft, with hexagonal windows and onboard Wi-Fi integrated with the city's Satori Network. They were specifically commissioned to serve as the face of the transport network for the upcoming Expo. The 4000 series operates as a special variant of Type B and Type D stock, with enhanced passenger amenities and a unique exterior livery.
 
 {| class="wikitable"
 ! style="width:5em;" |Series
@@ -207,25 +309,40 @@ The newest addition to the fleet is the 4000 Series, introduced in 2023 on the [
 |-
 |[[Okami Metro 2000 series|2000 series]]
 |
-|Mainstay of the Miyoshi and Tozai Lines. Refurbished in 2018.
+|Third-generation fleet introduced 1981. Mainstay of the Miyoshi and Tozai Lines. Refurbished in 2018. Currently being phased out.
 |-
-|[[Okami Metro 30000 series|30000 series]]
+|[[Okami Metro 3000 series|3000 series]]
 |[[File:Osaka_Subway_31901F_20110913.jpg|160x160px]]
-|Operated on the Miyoshi, Asahi, and Nanboku Lines.
+|Linear motor train introduced 1990 for the Nagata and Imaichi Lines. Being retired and replaced by 5000 series stock.
 |-
-|[[Okami Metro 70 series|70 series]]
+|[[Okami Metro 100 series|100 series]]
 |[[File:Osaka_subway_New70.jpg|160x160px]]
-|Linear motor train operated on the Nagata Line.
+|AGT fleet introduced 1981 for the Nankō Port Town Line. Refurbished in 2018.
 |-
 |[[Okami Metro 4000 series|4000 series]]
 |[[File:Osaka_Metro_400.jpg|160x160px]]
-|Newest flagship fleet. Entered service June 2023 on Chūō and Miyoshi Lines.
+|Flagship fleet introduced June 2023. Futuristic design with hexagonal windows and Satori Network WiFi. Operates on the Miyoshi and Chūō Lines.
+|-
+|[[Okami Metro 5000 series|5000 series]]
+|
+|Current mainstay fleet introduced 2018. Type A/B stock manufactured by Okami Heavy Industries. Operates on B, G, K, A, H, M, N lines.
+|-
+|[[Okami Metro 6000 series|6000 series]]
+|
+|Type C stock introduced 2020. Operates on D, S, T lines.
+|-
+|[[Okami Metro 7000 series|7000 series]]
+|
+|Type D stock introduced 2025. Operates on C, I lines.
 |}
 
-== Stations ==
-Okami Metro stations are renowned for their integration with the city's environment. Following the 2018 privatization, major hubs like [[Okami Central Station]] and [[Miyoshi-Oike]] were renovated to include massive LED displays and biometric ticketing gates.
+==Stations and accessibility==
 
-Universal accessibility is a standard across all 148 stations. The "One Route" initiative ensures that there is at least one barrier-free path from street level to the platform at every station in the network.
+Okami Metro stations are renowned for their integration with the city's environment. Following the 2018 privatization, major hubs like [[Okami Chuo Station|Okami Chūō]], [[Otemachi Station|Otemachi]], and [[Hozumi-Oiwake Station|Hozumi-Oiwake]] were renovated to include massive LED displays, biometric ticketing gates, and improved wayfinding systems. The Satori-AI passenger management system, deployed across the network, provides real-time service information, crowd density monitoring, and personalized route guidance through the Okami Metro mobile application.
+
+[[Universal accessibility|Universal accessibility]] is a standard across all 413 stations. The "One Route" initiative, launched in 2019, ensures that there is at least one barrier-free path from street level to the platform at every station in the network. This includes [[elevator]]s, [[wheelchair ramp]]s, [[tactile paving]], and [[platform screen door]]s. All stations are equipped with [[accessible toilet]]s and [[multipurpose rooms]] for passengers with special needs. As of 2026, 100% of stations have platform screen doors installed, making Okami Metro one of the few systems in the world to achieve full platform edge door coverage.
+
+Station numbering follows a systematic scheme using the {{tl|OMSN}} (Okami Metro Station Number) format, with each station assigned a line code letter and a two-digit sequential number. For example, {{OMSN|M|01}} denotes the first station on the Miyoshi Line, and {{OMSN|P|09}} denotes the ninth station on the Nankō Port Town Line. This system was introduced in 2018 and is displayed on all station signage, train destination indicators, and passenger information materials.
 
 ==See also==
 * [[Transport in Okaiken]]

@@ -19,13 +19,13 @@ By the time of the April 30 debate, the protests had spread to all 48 prefecture
 
 === The En Crisis ===
 {{main|En Crisis}}
-The Sanese En (¥) had lost 34% of its value against the Volisanian mark (ℳ) since January 2026, reaching an all-time low of ¥247 = ℳ1 on April 28. The crisis was precipitated by a combination of factors:
+The Sanese En (円) had lost 34% of its value against the Volisanian mark (ℳ) since January 2026, reaching an all-time low of 円247 = ℳ1 on April 28. The crisis was precipitated by a combination of factors:
 
 * '''Algorithmic trading failures''': The Satori AI system, which managed 60% of all En-denominated transactions, experienced a cascade failure on February 19, triggering a sell-off that the Bank of Okaiken was unable to arrest.
 * '''Loss of confidence in digital infrastructure''': International investors questioned the stability of Okaiken's "digital-first" currency policy, which had eliminated physical currency reserves in favor of blockchain-backed digital assets.
 * '''Contagion from the Kizan Systems scandal''': The revelation that the semi-state semiconductor manufacturer had falsified three years of financial data undermined confidence in the broader Sanese tech sector.
 
-Inflation had reached 18.7% by April 2026, the highest level since the [EVENT]. Food prices had increased 42% year-over-year, with rice—the staple of the Sanese diet—reaching ¥890 per 5kg bag, up from ¥520 in January.
+Inflation had reached 18.7% by April 2026, the highest level since the [EVENT]. Food prices had increased 42% year-over-year, with rice—the staple of the Sanese diet—reaching 円890 per 5kg bag, up from 円520 in January.
 
 === Party positions entering the debate ===
 {| class="wikitable" style="text-align:center;"
@@ -160,7 +160,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 '''Nakayama:''' ''(Quietly, half to himself)'' That's a bit dramatic—
 
-'''Ikazaki:''' ''(Without pausing, without turning)'' Is it, Minister? The Satori system processed ¥2.3 trillion in transactions on the day your coalition collapsed. ¥2.3 trillion, managed by an algorithm, on the day the government lost its majority. You did not know what was happening inside that system. The Prime Minister did not know. The Bank of Okaiken did not know. That is not dramatic. That is simply the current condition of the state you helped build and then walked away from when it became inconvenient.
+'''Ikazaki:''' ''(Without pausing, without turning)'' Is it, Minister? The Satori system processed 円230 billion in transactions on the day your coalition collapsed. 円2.3 trillion, managed by an algorithm, on the day the government lost its majority. You did not know what was happening inside that system. The Prime Minister did not know. The Bank of Okaiken did not know. That is not dramatic. That is simply the current condition of the state you helped build and then walked away from when it became inconvenient.
 
 ''(Nakayama opens his mouth. Closes it.)''
 
@@ -177,7 +177,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 ''(The camera cuts wide. Nakayama is already on his phone. Honda has returned to his tablet. Sadanuma is conferring in a whisper with an aide at the edge of the stage. Ikazaki has not moved. He is still looking at the camera, even though it has panned away from him.)''
 
 === Segment 1: The Sanese En (円) Crisis (20:20 – 21:00) ===
-'''Moderator Fukumoto:''' We begin with the economy. Since January of this year, the Sanese En has lost 34% of its value against the Volisanian mark. Household savings are evaporating. Food prices have risen 42% year-on-year. Rice — the staple of the Sanese table — now costs ¥890 for a 5-kilogram bag. Three months ago, it cost ¥520. Prime Minister Honda, your administration sold the Satori Digitization Project to the public as an impenetrable economic shield. A guarantee of stability in an unstable world. Why has it shattered?
+'''Moderator Fukumoto:''' We begin with the economy. Since January of this year, the Sanese En has lost 34% of its value against the Volisanian mark. Household savings are evaporating. Food prices have risen 42% year-on-year. Rice — the staple of the Sanese table — now costs 円890 for a 5-kilogram bag. Three months ago, it cost 円520. Prime Minister Honda, your administration sold the Satori Digitization Project to the public as an impenetrable economic shield. A guarantee of stability in an unstable world. Why has it shattered?
 
 '''Honda:''' ''(A brief, almost imperceptible pause — the kind a man makes when he has already decided the question is beneath him, but has chosen to answer it anyway)'' Fukumoto-san, I appreciate the rhetorical energy of the framing, but I must gently push back on the premise. The shield has not shattered. What we are witnessing is a recalibration — ''({{Nihongo|再調整|saichōsei}})'' — a period of structural adjustment that any honest economist with a global perspective would recognize as an inevitable consequence of transitioning a legacy monetary system into a fully digitized framework. This was modeled. This was anticipated. The Satori projections as of this morning indicate a 94% probability of market stabilization no later than Q3 of this fiscal year.
 
@@ -234,7 +234,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 '''Honda:''' The grid is functional—
 
-'''Sadanuma:''' The grid lost ¥180 billion in the cascade event on February 19th—
+'''Sadanuma:''' The grid lost 円180 billion in the cascade event on February 19th—
 
 '''Honda:''' That was a contained—
 
@@ -259,7 +259,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 '''Moderator Fukumoto:''' Order, please. Prime Minister, you have the right to respond.
 
-'''Honda:''' ''(His composure fully restored now — if anything, more polished than before, which somehow reads as more unsettling)'' The Leader of the Opposition has given a very effective speech. I acknowledge that. He is a skilled orator when he is angry. But I would ask the voters at home to notice something. In forty minutes of speaking about the En crisis, Chairman Sadanuma has told you what he dislikes about my administration. He has told you what he would audit. He has told you what he would review. He has not told you — with any specificity — what happens to the ¥47 trillion in existing Satori-integrated financial contracts on the day he "pauses" the grid. He has not told you what happens to the 14 million households whose utility payments, mortgage disbursements, and pension transfers run through the Satori verification network. He has not told you, because he does not know. Because the LDP's plan assumes that you can simply unplug a system this deeply integrated into the daily functioning of the nation, and that the nation will wait patiently while you figure out what to do next.
+'''Honda:''' ''(His composure fully restored now — if anything, more polished than before, which somehow reads as more unsettling)'' The Leader of the Opposition has given a very effective speech. I acknowledge that. He is a skilled orator when he is angry. But I would ask the voters at home to notice something. In forty minutes of speaking about the En crisis, Chairman Sadanuma has told you what he dislikes about my administration. He has told you what he would audit. He has told you what he would review. He has not told you — with any specificity — what happens to the 円4.7 trillion in existing Satori-integrated financial contracts on the day he "pauses" the grid. He has not told you what happens to the 14 million households whose utility payments, mortgage disbursements, and pension transfers run through the Satori verification network. He has not told you, because he does not know. Because the LDP's plan assumes that you can simply unplug a system this deeply integrated into the daily functioning of the nation, and that the nation will wait patiently while you figure out what to do next.
 
 ''(Sadanuma is silent. It is a specific kind of silence — the silence of a man who knows the hit landed.)''
 
@@ -392,7 +392,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 ''(A strong murmur of agreement from the gallery. In the front row, Yamamoto Kenji is still standing, still holding the mirror.)''
 
-'''Sadanuma:''' The LDP will legislate the Two-Person Mandate on all OR passenger services within the first ninety days of a new government. We will fund it through a reallocation of the Digital Rail Initiative's remaining budget — which, I should note, has ¥230 billion still unspent, because the contractors who were supposed to deliver the upgraded Satori safety suite have been, for fourteen months, in breach of their delivery schedule. That money exists. It is sitting in a ministry account. It can be redeployed tomorrow.
+'''Sadanuma:''' The LDP will legislate the Two-Person Mandate on all OR passenger services within the first ninety days of a new government. We will fund it through a reallocation of the Digital Rail Initiative's remaining budget — which, I should note, has 円230 billion still unspent, because the contractors who were supposed to deliver the upgraded Satori safety suite have been, for fourteen months, in breach of their delivery schedule. That money exists. It is sitting in a ministry account. It can be redeployed tomorrow.
 
 '''Honda:''' ''(Having recovered his composure, now back to cold precision)'' The Two-Person Mandate would increase OR operational costs by an estimated 34%. That cost will be passed to commuters in the form of fare increases — conservatively, between 18 and 25% on major lines. You are proposing to make it significantly more expensive for the working people of this country to get to work, in the name of protecting them.
 
@@ -519,9 +519,9 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 '''Moderator Fukumoto:''' Mr. Sadanuma, what would the LDP have done differently?
 
-'''Sadanuma:''' ''(Straightening, sensing an opportunity and moving toward it perhaps a fraction too quickly)'' The LDP's position has been consistent throughout the strike. Direct wage subsidies, funded by efficiency reallocations within the existing budget — specifically, the ¥230 billion unspent from the Digital Rail Initiative that I referenced in the previous segment. Workers on strike are not asking for wellness retreats. They are asking for the purchasing power to feed their families. The mechanism for delivering that is not complicated. It requires only the political will to prioritize the worker over the optic.
+'''Sadanuma:''' ''(Straightening, sensing an opportunity and moving toward it perhaps a fraction too quickly)'' The LDP's position has been consistent throughout the strike. Direct wage subsidies, funded by efficiency reallocations within the existing budget — specifically, the 円230 billion unspent from the Digital Rail Initiative that I referenced in the previous segment. Workers on strike are not asking for wellness retreats. They are asking for the purchasing power to feed their families. The mechanism for delivering that is not complicated. It requires only the political will to prioritize the worker over the optic.
 
-'''Honda:''' The ¥230 billion you keep citing is contractually encumbered—
+'''Honda:''' The 円230 billion you keep citing is contractually encumbered—
 
 '''Sadanuma:''' It is encumbered by contracts with Kizan Systems subsidiaries for safety upgrades that are fourteen months behind schedule and have not been formally terminated despite the breach—
 
@@ -571,7 +571,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 ''(He stops again. Something crosses his face that nobody in the studio has seen on it before — not the rehearsed vulnerability of a politician doing humility, but the actual, unmanaged thing.)''
 
-'''Nakayama:''' I don't have a better answer for you tonight than that. I got it wrong. The vouchers were wrong. What I said about Yamamoto Hina was wrong. And the man in this room who just called me out by name in front of 89 million people deserved better than what I gave him. What his colleagues deserve — what all of you deserve — is cash. Real wages. The ability to buy rice and pay rent and heat your home. Not a ¥15,000 credit toward a mindfulness retreat. I know that. I knew it before tonight. I should have said it louder when it mattered.
+'''Nakayama:''' I don't have a better answer for you tonight than that. I got it wrong. The vouchers were wrong. What I said about Yamamoto Hina was wrong. And the man in this room who just called me out by name in front of 89 million people deserved better than what I gave him. What his colleagues deserve — what all of you deserve — is cash. Real wages. The ability to buy rice and pay rent and heat your home. Not a 円15,000 credit toward a mindfulness retreat. I know that. I knew it before tonight. I should have said it louder when it mattered.
 
 ''(Silence. In the front row, Yamamoto Kenji is watching Nakayama with an expression that has not changed and may never change in this room, but is at least now pointed at someone who is not pretending.)''
 
@@ -579,7 +579,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 '''Moderator Fukumoto:''' ''(Quietly)'' Thank you, Minister.
 
-'''Honda:''' ''(Into the silence, with the precision of a surgeon who has identified the moment and cannot help himself)'' A moving confession. I would observe, however, that contrition is not a policy. The strike is in its fourth week. The Harujima line is running at 40% capacity. Whatever Minister Nakayama's feelings about the voucher scheme, the operational reality is that the union's demand for a 23% immediate wage increase, applied across all OR grades, represents a recurring annual expenditure of ¥4.1 trillion that does not exist in the current budget without either significant tax increases or deficit spending that would further destabilize the En. Feelings are not arithmetic.
+'''Honda:''' ''(Into the silence, with the precision of a surgeon who has identified the moment and cannot help himself)'' A moving confession. I would observe, however, that contrition is not a policy. The strike is in its fourth week. The Harujima line is running at 40% capacity. Whatever Minister Nakayama's feelings about the voucher scheme, the operational reality is that the union's demand for a 23% immediate wage increase, applied across all OR grades, represents a recurring annual expenditure of 円410 billion that does not exist in the current budget without either significant tax increases or deficit spending that would further destabilize the En. Feelings are not arithmetic.
 
 ''(The warmth that had briefly filled the studio evaporates. Several people in the gallery look at Honda with an expression that has moved beyond anger into something closer to exhaustion — the exhaustion of people who have decided that a man is simply constitutionally incapable of a particular thing and have stopped expecting it.)''
 
@@ -591,7 +591,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 '''Ikazaki:''' ''(He has not moved during the exchange between Nakayama and the gallery. He has simply watched, with the patient, cataloguing attention of a man filing things away. Now he opens a folder on his podium — a physical folder, paper documents, in a studio where everyone else has tablets and screens — and he places it in front of him with both hands, flat.)''
 
-'''Ikazaki:''' The Wellness Voucher scheme was announced on February 28th as an emergency cost-of-living measure valued at ¥5,000 per eligible worker per month. The government's press release described it as a "comprehensive wellbeing support package" designed to address the physical and mental health impacts of the En Crisis on the Sanese workforce. I would like to walk through what it actually was.
+'''Ikazaki:''' The Wellness Voucher scheme was announced on February 28th as an emergency cost-of-living measure valued at 円5,000 per eligible worker per month. The government's press release described it as a "comprehensive wellbeing support package" designed to address the physical and mental health impacts of the En Crisis on the Sanese workforce. I would like to walk through what it actually was.
 
 ''(He looks down at the folder. When he reads from it, he reads with the flat, unadorned precision of a man who has learned that the most devastating way to present a document is to simply present it.)''
 
@@ -605,7 +605,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 ''(He turns a page.)''
 
-'''Ikazaki:''' The WellnessConnect platform charges a 14% administrative fee on all voucher transactions. Of every ¥5,000 issued to a worker, ¥700 goes to Haruki Digital Solutions before the worker has spent a single En. The approved vendor list — the list of businesses where the vouchers can be redeemed — was set at launch and has not been updated. It contains 847 registered businesses. Of those, 614 are in the Okami metropolitan area. The OR strike is concentrated on conventional lines serving the industrial prefectures of Aizawa, Tatara, and Seto. In those three prefectures combined, there are eleven approved WellnessConnect vendors. Eleven. For a workforce of approximately 34,000 striking workers.
+'''Ikazaki:''' The WellnessConnect platform charges a 14% administrative fee on all voucher transactions. Of every 円5,000 issued to a worker, 円700 goes to Haruki Digital Solutions before the worker has spent a single En. The approved vendor list — the list of businesses where the vouchers can be redeemed — was set at launch and has not been updated. It contains 847 registered businesses. Of those, 614 are in the Okami metropolitan area. The OR strike is concentrated on conventional lines serving the industrial prefectures of Aizawa, Tatara, and Seto. In those three prefectures combined, there are eleven approved WellnessConnect vendors. Eleven. For a workforce of approximately 34,000 striking workers.
 
 ''(He closes the folder. He does not slam it. He simply closes it, with the same two-handed care with which he opened it, and sets it to one side.)''
 
@@ -625,7 +625,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 ''(In the third row, the man in the union windbreaker is very still. His jaw is working. He is not going to cry on television and he knows it and the effort of knowing it is visible on his face.)''
 
-'''Ikazaki:''' The SCP will cancel the WellnessConnect contract on day one of government. We will recover the administrative fees already paid — ¥2.3 billion as of this week — through litigation if necessary. We will replace the voucher scheme with direct wage subsidies at the rate the union has requested, funded through the suspension of the Digital Rail Initiative and the termination — ''(a glance at Honda, brief, scalpel-precise)'' — of the Kizan Systems infrastructure contracts currently in breach. And we will ensure that Mori Shintaro and the individuals who authorized the emergency procurement exemption answer, in a public forum, for what was done with public money in the name of worker welfare.
+'''Ikazaki:''' The SCP will cancel the WellnessConnect contract on day one of government. We will recover the administrative fees already paid — 円2.3 billion as of this week — through litigation if necessary. We will replace the voucher scheme with direct wage subsidies at the rate the union has requested, funded through the suspension of the Digital Rail Initiative and the termination — ''(a glance at Honda, brief, scalpel-precise)'' — of the Kizan Systems infrastructure contracts currently in breach. And we will ensure that Mori Shintaro and the individuals who authorized the emergency procurement exemption answer, in a public forum, for what was done with public money in the name of worker welfare.
 
 ''(He folds his hands.)''
 
@@ -885,7 +885,7 @@ The following is the full, two-hour unabridged transcript of the first televised
 
 ''(A murmur — not confusion, more the sound of a room recalibrating. This is not what anyone expected him to open with.)''
 
-'''Nakayama:''' When I was nineteen years old, I was a factory worker's son from Okami with a performing arts degree I couldn't use and ¥40,000 in my bank account and absolutely no idea what I was doing. I started training because it was the one thing I could control. You want to know the truth about building a body? It is the most honest process in the world. You cannot fake a squat. You cannot optimize a deadlift. You cannot charm a barbell into moving. You put the weight on the bar, you get under it, and you either do the work or you don't. The bar doesn't care about your brand. It doesn't care about your follower count. It only asks one question: are you serious or aren't you?
+'''Nakayama:''' When I was nineteen years old, I was a factory worker's son from Okami with a performing arts degree I couldn't use and 円40,000 in my bank account and absolutely no idea what I was doing. I started training because it was the one thing I could control. You want to know the truth about building a body? It is the most honest process in the world. You cannot fake a squat. You cannot optimize a deadlift. You cannot charm a barbell into moving. You put the weight on the bar, you get under it, and you either do the work or you don't. The bar doesn't care about your brand. It doesn't care about your follower count. It only asks one question: are you serious or aren't you?
 
 ''(He pauses. The gallery is very still.)''
 

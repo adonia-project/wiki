@@ -1,4 +1,4 @@
-{{Infobox former country
+﻿{{Infobox former country
 | conventional_long_name = Adonian Community Mandate of the Balboa Canal Zone
 | native_name            = {{native name|ca|Mandat de la Comunitat Adoniana de la Zona del Canal de Balboa|italic=no|paren=omit}}<br />{{tlit|nan|Pa-po-a Ūn-hô Tē-khu Kok-chè Chùn-kàm|italic=no}}
 | common_name            = Balboa Canal Zone
@@ -12,7 +12,7 @@
 | population_estimate_year = 1960
 | population_density_km2 = 
 | common_languages       = [[Volisan language|Volisan]], [[Zong language|Zong]], [[Balboan Creole]], Sinchewese
-| religion               = Catholicism, Tianism, Buddhism, indigenous faiths
+| religion               = Catholicism, Tianism, Baiduism, indigenous faiths
 | currency               = [[International dollar|Int.$]]
 | leader1                = [[Jürgen Heidemann]]
 | year_leader1           = 1950–1958

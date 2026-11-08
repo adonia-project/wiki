@@ -1,156 +1,129 @@
-{{Short description|Rapid transit line in Okami, Okaiken}}
-{{Infobox Public transit
+{{Infobox rail line
+| logo = Okami Metro Asahi line symbol.svg
+| logo_width = 50px
 | name = Asahi Line
-| image = Okami Metro Asahi line symbol.svg
-| imagesize = 100px
-| image2 = Okami-Metro Series30000-01.jpg
-| imagesize2 = 300px
-| caption2 = An [[Okami Metro 30000 series|30000 series]] train with golden yellow striping near [[Kuromon-Bashi Station]].
-| native_name = 朝日線
-| owner = [[Okami Metro]]
-| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
-| transit_type = [[Rapid transit|Metro]]
-| lines = Line 3
-| stations = 12
-| ridership = 890,000 (FY2025)
-| began_operation = {{start date and age|1965|04|15|df=y}}
-| system_length = {{cvt|13.6|km|mi|abbr=on}}
-| track_gauge = {{RailGauge|sg|allk=on}}
-| el = {{750 V DC|conductor=y}} (Third Rail)
-| map = [[File:Okami Metro Asahi Line Map.png|300px]]
-| map_state = collapsed
+| color = 32CD32
+| mapcolor = Lime Green ({{color box|#32CD32|border=darkgray}})
+| type = [[Rapid transit]]
+| system = [[Okami Metro]]
+| status = Operating
+| locale = [[Okami]], [[Okaiken]]
+| stations = 21
+| start = [[Hozumi-Oiwake]]
+| end = [[Tobe Kaigan]]
+| open = 1965
+| owner = [[Okami Metro Co., Ltd.]]
+| operator = [[Okami Metro Co., Ltd.]]
+| stock = [[#Rolling stock|5000 series]]
+| gauge = {{RailGauge|sg|allk=on}}
+| electrification = 1,500 V DC [[overhead catenary]]
+| linelength = {{cvt|17.3|km|mi|abbr=on}}
+| speed = {{cvt|100|km/h|abbr=on}}
 }}
 
-The {{nihongo|'''Asahi Line'''|朝日線|Asahi-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. The line functions as a "J-shaped" distributor, connecting the northwestern commercial districts of [[Fukushima Ward, Okami|Fukushima]] and [[Nakanoshima]] to the southern hub of [[Tennoji]], running primarily underneath the bustling Sakaisuji Avenue. On system maps, the line is color-coded golden yellow ({{Okami Metro color|A}}), and its stations use the prefix "A".
+The '''Asahi Line''' ({{lang|ja|朝日線}}) is a [[rapid transit]] line of the [[Okami Metro]] system in [[Okami]], [[Okaiken]]. Designated as '''Line 3''', it is the third-oldest subway line in the city, having opened in 1965. The line is coloured '''lime green''' (#32CD32) on system maps and route diagrams. It runs from {{station|Hozumi-Oiwake}} in the north to {{station|Tobe Kaigan}} in the south, spanning a total of 21 stations over a distance of {{convert|17.3|km|abbr=on}}. The Asahi Line serves as a critical north–south artery connecting the residential districts of northern Aoi Ward with the coastal port area of Tobe Ward.
 
-While shorter than the arterial [[Miyoshi Line]] and [[Tozai Line (Okami)|Tozai Line]], the Asahi Line is critical for relieving congestion in the eastern half of the city center. It connects the "Cultural Corridor" of [[Nakanoshima]] with the electronics and pop-culture district of [[Kuromon-Bashi]].
+The line was originally constructed to serve the eastern districts of Okami, linking the growing residential neighbourhoods of Hozumi-Oiwake to the coastal Tobe Kaigan area. Over the decades, the Asahi Line has become one of the busiest corridors in the Okami Metro network, carrying commuters, students, and port workers across the city. With 13 interchange stations, it provides connections to the {{OMSN|M|00}} [[Miyoshi Line]], {{OMSN|T|00}} [[Tozai Line (Okami)|Tozai Line]], {{OMSN|A|00}} [[Asahi Line]], {{OMSN|C|00}} [[Chūō Line (Okami)|Chūō Line]], and {{OMSN|I|00}} [[Imaichi Line]], among others.
 
+Trains on the Asahi Line operate with 8-car formations using the [[#Rolling stock|5000 series]] Type B rolling stock, manufactured by [[Okami Heavy Industries]] and introduced in 2018. The line is electrified at 1500&nbsp;V DC via [[overhead line]] and uses [[standard gauge]] (1435&nbsp;mm) track. The maximum operating speed is {{convert|100|km/h|abbr=on}}, making it one of the faster lines in the Okami Metro network. The combination of high speed and frequent service makes the Asahi Line particularly important for long-distance commuters travelling from the northern suburbs to the port district.
 
+The Asahi Line is designated as Line 3 in the Okami Metro numbering system and carries the line code '''A'''. The line's 13 interchange stations make it one of the most connected lines in the network, providing seamless transfers to the east–west [[Chūō Line (Okami)|Chūō Line]] at Asahimachi Chuo, as well as connections to the [[Nanboku Line (Okami)|Nanboku Line]] at Tobe Kaigan. This high degree of connectivity has contributed to the line's consistently high ridership and its role as a key backbone of the Okami Metro system.
 
-==History==
-Construction of the Asahi Line was approved in the 1960s as part of the "City Center Relief Plan." The first segment, connecting the business district of [[Yodoyabashi-Oike Station|Yodoyabashi]] to the cultural hub of [[Kuromon-Bashi Station|Kuromon-Bashi]], opened on April 15, 1965.
+== History ==
 
-The line was extended northward to [[Noda-Hanshin Station|Noda-Hanshin]] in 1969 to connect with the [[Hanshi Electric Railway]], and southward to [[Tennoji-Koen Station|Tennoji-Koen]] in 1974 to intercept commuters from the southern suburbs. The final extension to [[Fumin-nosato Station|Fumin-nosato]] was completed in 1980.
+The Asahi Line was opened in 1965 as the third subway line in the Okami Metro system, following the earlier Miyoshi and Tozai Lines. The initial segment was built to serve the eastern districts of Okami, providing a vital connection between the residential areas of Hozumi-Oiwake in the north and the coastal Tobe Kaigan area in the south. The opening of the line was a major milestone in the city's post-war transit development, reflecting the rapid population growth and urbanisation of Okami's eastern wards during the 1950s and 1960s.
 
-Unlike the Miyoshi and Tozai lines, which were built with 10-car platforms, the Asahi Line was designed for 6-car trains, reflecting its role as a distributor rather than a primary trunk line. However, frequency is high, with trains running every 3 minutes during peak hours.
+During the 1970s and 1980s, the line was extended further south to serve the growing port district of Tobe. This extension was driven by the significant industrial and commercial development of the Tobe coastline, which had become one of Okaiken's busiest port areas. The extension brought the line to its current southern terminus at Tobe Kaigan, directly serving the port facilities and the surrounding residential neighbourhoods that had developed to house port workers and their families.
 
-==Station List==
-* All stations are located in [[Okami|Okami City (大紙市)]].
-* Stops: All trains stop at all stations (Local service only).
+The Asahi Line connects with multiple other lines at key hubs throughout the city. At its northern terminus, Hozumi-Oiwake provides interchange with the Miyoshi Line (M) and Tozai Line (T), as well as the OR Main Line and OR Okami Loop Line. At Asahimachi Chuo, passengers can transfer to the Chūō Line (C) and Imaichi Line (I). The southern terminus at Tobe Kaigan offers connections to the Miyoshi Line (M39), while the northern section connects to the [[Akitetsu Akita Line]] via the [[Akitetsu Asahi Line Connector]] at Hiyori-cho. These interchange points make the Asahi Line a critical backbone of the Okami Metro network, facilitating cross-city travel for hundreds of thousands of passengers daily.
 
-{| class="wikitable" style="text-align:center; font-size:95%;"
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | No.
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Station Name
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Japanese
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Distance (km)
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Transfers
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|A}};" | Location
+In 2018, the line received its current fleet of 5000 series Type B trains, replacing the older 1000 series rolling stock that had served the line since its early years. The 5000 series trains, manufactured by Okami Heavy Industries, feature modern amenities including air conditioning, accessibility features, and improved passenger information systems. The 8-car formations provide sufficient capacity for the line's high ridership, particularly during peak commuting hours.
+
+The introduction of the 5000 series marked a significant modernisation of the Asahi Line, bringing it in line with the latest standards in urban rail transit. The new trains feature regenerative braking systems that recover energy during deceleration, reducing the line's overall energy consumption. Additionally, the 5000 series incorporates advanced safety systems, including automatic train protection (ATP) and improved crashworthiness standards. The trains' exterior livery features the line's signature lime green colour, making them easily identifiable on the network.
+
+Throughout its history, the Asahi Line has undergone several phases of renovation and upgrading. Station platforms have been progressively modernised with the installation of [[platform screen doors]], improved lighting, and accessibility features such as elevators and tactile paving for visually impaired passengers. These improvements have been part of a broader effort by the Okami Metropolitan Bureau of Transportation to make the metro system more accessible and safe for all passengers.
+
+== Route description ==
+
+The Asahi Line runs in a generally north–south direction through the eastern districts of Okami. From its northern terminus at Hozumi-Oiwake in Aoi Ward, the line travels south through the wards of Chiyoda, Chuo, Tama, Higashi, and Minami before reaching its southern terminus at Tobe Kaigan in Tobe Ward. The route passes through a diverse mix of residential, commercial, and industrial areas, reflecting the varied character of Okami's eastern districts.
+
+The northern section of the line, between Hozumi-Oiwake and Asahimachi Chuo, serves primarily residential neighbourhoods with high-density apartment complexes and several large parks. This section is particularly busy during morning and evening rush hours as commuters travel from the residential areas of Aoi and Chiyoda wards toward the city centre. Stations along this section feature elevated and underground configurations, with the northernmost stations utilising deep-level tunnel construction to navigate the hilly terrain of northern Okami.
+
+The central section, between Asahimachi Chuo and Takagawa, passes through commercial districts with significant office and retail development. This section includes some of the busiest stations on the line, particularly Asahimachi Chuo, which serves as a major interchange with the Chūō and Imaichi Lines. The area around Asahimachi Chuo is one of Okami's principal commercial centres, with numerous department stores, office buildings, and cultural institutions.
+
+The southern section, from Takagawa to Tobe Kaigan, transitions through mixed-use areas before reaching the port district at the line's southern end. This section serves a mix of industrial workers, port employees, and residents of the growing waterfront communities. The Tobe Kaigan terminus is particularly important as it provides direct access to the port facilities, ferry terminals, and the growing number of commercial and recreational developments along the Tobe coastline. The southern extension, completed in stages during the 1970s and 1980s, was instrumental in supporting the economic development of the Tobe port area.
+
+== Stations ==
+
+{| class="wikitable sortable" style="margin:auto; text-align:center;"
+! # !! Station !! Sanese !! Location !! Interchange
 |-
-! style="border-bottom:3px solid #{{Okami Metro color|A}};" | Between<br>Stations
-! style="border-bottom:3px solid #{{Okami Metro color|A}};" | Total
+| {{OMSN|A|01}} || Hozumi-Oiwake || 穂積追分 || Aoi-ku, Okami || {{OMSN|M|15}} [[Miyoshi Line]]<br>{{OMSN|T|27}} [[Tozai Line (Okami)|Tozai Line]]<br>[[OR Main Line]]<br>[[OR Okami Loop Line]]
 |-
-| {{OMSN|A|01}}
-| [[Noda-Hanshin Station|Noda-Hanshin]]
-| 野田阪神
-| -
-| 0.0
-| {{rint|okami|S}} [[Shitayanagi Line]] (S03)<br>{{rint|okami|private}} [[Hanshi Electric Railway|Hanshi]] Main Line
-| rowspan="2" | [[Fukushima Ward, Okami|Fukushima]]
+| {{OMSN|A|02}} || Minami-Hozumi-Oiwake || 南穂積追分 || Aoi-ku, Okami || {{OMSN|T|28}} [[Tozai Line (Okami)|Tozai Line]]
 |-
-| {{OMSN|A|02}}
-| [[Fukushima-Minami Station|Fukushima-Minami]]
-| 福島南
-| 1.2
-| 1.2
-| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|rail}} [[Tozai Line (OR)]]<br>{{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Fukushima Line
+| {{OMSN|A|03}} || Hon-Kitahama || 本北浜 || Aoi-ku, Okami || 
 |-
-| {{OMSN|A|03}}
-| [[Nakanoshima-Grand Station|Nakanoshima-Grand]]
-| 中之島グランド
-| 1.0
-| 2.2
-| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Nakanoshima Line (OR)|Nakanoshima Line]]<br>{{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Nakanoshima Line
-| rowspan="4" | [[Kita Ward, Okami|Kita]]
+| {{OMSN|A|04}} || Hiyori-cho || 日和町 || Nagata-ku, Okami || {{OMSN|H|24}} [[Hitotsubashi Line]]<br>[[Tokuden Sakae Line]]<br>[[Akitetsu Asahi Line Connector]]
 |-
-| {{OMSN|A|04}}
-| [[Oebashi Station|Oebashi]]
-| 大江橋
-| 0.9
-| 3.1
-| {{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Nakanoshima Line
+| {{OMSN|A|05}} || Koen-Minami || 公園南 || Chiyoda-ku, Okami || {{OMSN|B|14}} [[Nanboku Line (Okami)|Nanboku Line]]
 |-
-| {{OMSN|A|05}}
-| [[Yodoyabashi-Oike Station|Yodoyabashi-Oike]]
-| 淀屋橋御池
-| 0.8
-| 3.9
-| {{rint|okami|M}} [[Miyoshi Line]] (M11)<br>{{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z10)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Keihan Main Line]]<br>{{rint|okami|private}} [[Yonekyu Corporation|Yonekyu]] Kyoto Line
+| {{OMSN|A|06}} || Asahimachi Chuo || 旭町中央 || Chiyoda-ku, Okami || {{OMSN|C|16}} [[Chūō Line (Okami)|Chūō Line]]<br>{{OMSN|I|16}} [[Imaichi Line]]
 |-
-| {{OMSN|A|06}}
-| [[Kitahama-Minami Station|Kitahama-Minami]]
-| 北浜南
-| 0.9
-| 4.8
-| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z09)<br>{{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Main Line<br>{{rint|okami|private}} [[Akitetsu]] Central Line
+| {{OMSN|A|07}} || Mugishima-guchi || 麦島口 || Chuo-ku, Okami || 
 |-
-| {{OMSN|A|07}}
-| [[Sakaisuji-Honmachi Station|Sakaisuji-Honmachi]]
-| 堺筋本町
-| 1.3
-| 6.1
-| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z08)<br>{{rint|okami|I}} [[Imaichi Line]] (I02)
-| rowspan="3" | [[Chuo Ward, Okami|Chuo]]
+| {{OMSN|A|08}} || Nagashima-Honcho || 長島本町 || Chuo-ku, Okami || {{OMSN|S|17}} [[Shitayanagi Line]]<br>[[Tokuden Sakae Line]]
 |-
-| {{OMSN|A|08}}
-| [[Nagahoribashi Station|Nagahoribashi]]
-| 長堀橋
-| 1.0
-| 7.1
-| {{rint|okami|N}} [[Nagata Line]] (N13)
+| {{OMSN|A|09}} || Tamashima Kitaguchi || 玉島北口 || Tama-ku, Okami || {{OMSN|S|18}} [[Shitayanagi Line]]
 |-
-| {{OMSN|A|09}}
-| [[Kuromon-Bashi Station|Kuromon-Bashi]]
-| 黒門橋
-| 1.1
-| 8.2
-| {{rint|okami|S}} [[Shitayanagi Line]] (S11)<br>{{rint|okami|private}} [[Kintetsu Railway|Kintetsu]] Namba Line<br>{{rint|okami|private}} [[Tokutetsu]] Main Line (Terminus)
+| {{OMSN|A|10}} || Iroha || いろは || Tama-ku, Okami || {{OMSN|D|15}} [[Tedorigawa Line]]
 |-
-| {{OMSN|A|10}}
-| [[Tennoji-Koen Station|Tennoji-Koen]]
-| 天王寺公園
-| 1.8
-| 10.0
-| {{rint|okami|M}} [[Miyoshi Line]] (M18)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|rail}} [[Hanwa Line]]<br>{{rint|okami|rail}} [[Yamatoji Line]]<br>{{rint|okami|private}} [[Kintetsu Railway|Kintetsu]] Minami-Okami Line<br>{{rint|okami|private}} [[Akitetsu]] Minami Line
-| rowspan="2" | [[Tennoji Ward, Okami|Tennoji]]
+| {{OMSN|A|11}} || Tomita || 富田 || Tama-ku, Okami || {{OMSN|T|41}} [[Tozai Line (Okami)|Tozai Line]]
 |-
-| {{OMSN|A|11}}
-| [[Abeno-East Station|Abeno-East]]
-| 阿倍野東
-| 1.2
-| 11.2
-| {{rint|okami|private}} [[Hankai Tramway]] Uemachi Line<br>{{rint|okami|private}} [[Matsubara Electric Railway]] Abeno Line
+| {{OMSN|A|12}} || Asahijima || 旭島 || Tama-ku, Okami || 
 |-
-| {{OMSN|A|12}}
-| [[Fumin-nosato Station|Fumin-nosato]]
-| 文の里
-| 2.4
-| 13.6
-| {{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (B12)
-| [[Abeno Ward, Okami|Abeno]]
+| {{OMSN|A|13}} || Kairyugawa || 海龍川 || Tama-ku, Okami || [[OR Main Line]]<br>[[OR Okami Loop Line]]
+|-
+| {{OMSN|A|14}} || Takagawa || 高川 || Minami-ku, Okami || {{OMSN|G|28}} [[Tokushige Line]]<br>{{OMSN|N|23}} [[Nagata Line]]
+|-
+| {{OMSN|A|15}} || Isaniwa || 伊佐爾波 || Minami-ku, Okami || [[Okaden Toyohama Line]]
+|-
+| {{OMSN|A|16}} || Shigemachi || 重町 || Higashi-ku, Okami || {{OMSN|K|16}} [[Tokuyama Line]]
+|-
+| {{OMSN|A|17}} || Asakayama || 浅香山 || Higashi-ku, Okami || [[Tokuden Main Line]]
+|-
+| {{OMSN|A|18}} || Tatsumi || 巽 || Higashi-ku, Okami || {{OMSN|I|21}} [[Imaichi Line]]<br>{{OMSN|T|55}} [[Tozai Line (Okami)|Tozai Line]]
+|-
+| {{OMSN|A|19}} || Tanabe || 田辺 || Tobe-ku, Okami || [[Tokuden Main Line]]
+|-
+| {{OMSN|A|20}} || Tobe Honmachi || 砥部本町 || Tobe-ku, Okami || 
+|-
+| {{OMSN|A|21}} || Tobe Kaigan || 砥部海岸 || Tobe-ku, Okami || {{OMSN|M|39}} [[Miyoshi Line]]
 |}
 
-==Rolling Stock==
-* [[Okami Metro 30000 series|30000 series]] (6-car sets):
-*: The exclusive rolling stock for the Asahi Line. Introduced in 2011 to replace the aging 60 series, these trains feature a distinctive golden-yellow band and LED interior lighting that adjusts color temperature based on the time of day. They are equipped with advanced noise-dampening wheels to navigate the sharp curves in the Nakanoshima and Kitahama sections.
+== Rolling stock ==
 
-==See also==
+=== Current ===
+* '''5000 series''' (Type B, 8-car, 2018–present) — Manufactured by [[Okami Heavy Industries]], the 5000 series is the current rolling stock on the Asahi Line. Introduced in 2018, these trains feature modern passenger amenities including air conditioning, accessibility features, and real-time passenger information displays. The 8-car formations provide high capacity for the line's busy commuter traffic.
+
+=== Retired ===
+* '''1000 series''' (legacy) — The original rolling stock used on the Asahi Line since its opening in 1965. The 1000 series trains were gradually retired and fully replaced by the 5000 series in 2018. These trains served the line for over five decades and were a familiar sight on the eastern corridors of Okami. The 1000 series underwent several refurbishment programmes throughout its service life, including updates to interior fittings and propulsion systems, but was ultimately retired due to its age and the need for higher capacity and modern accessibility features.
+
+== See also ==
 * [[Okami Metro]]
-* [[List of Okami Metro stations]]
-* [[Transport in Okaiken]]
+* [[Chūō Line (Okami)]]
+* [[Nanboku Line (Okami)|Nanboku Line]]
+* [[Tozai Line (Okami)|Tozai Line]]
+* [[Imaichi Line]]
+* [[List of metro systems]]
 
-{{Metro systems in Okaiken}}
+== References ==
+{{reflist}}
 
-[[Category:Rapid transit lines in Okaiken]]
-[[Category:Okami Metro lines]]
-[[Category:Okaiken topics]]
-[[Category:Okaiken]]
+== External links ==
+* {{Official website|https://www.okami-metro.co.jp/}}
+
+[[Category:Okami Metro]]
+[[Category:Okaiken railways]]
+[[Category:Railway lines opened in 1965]]
+[[Category:Standard gauge railways in Okaiken|Asahi Line]]

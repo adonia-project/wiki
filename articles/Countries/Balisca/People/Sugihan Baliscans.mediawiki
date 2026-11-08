@@ -1,4 +1,4 @@
-{{Infobox ethnic group
+﻿{{Infobox ethnic group
 | group            = Sugihan Baliscans
 | flag             = {{flagicon|Kartasugih}} {{flagicon|Balisca}}
 | image            = 
@@ -6,12 +6,12 @@
 | population       = {{nowrap|'''1,276,874''' (by birth, {{circa|2025}})<br>'''6,049,853''' (by ancestry, {{circa|2025}})<br>4.74% of the total Baliscan population}}
 | popplace         = Throughout [[Baliscan archipelago]] <br> <small>([[Araucaria]], [[Bayara]] and [[Castejón]])</small>
 | langs            = '''[[Baliscano]]''' and '''[[Sugihan language|Sugihan]]''' {{hlist
- | [[w:English language|English]]
+ | [[w:ZZMercianPHZZ language|Mercian]]
  | [[w:French language|French]]
  | [[w:Malagasy language|Maestrian]]
  | [[w:Javanese language|Javanese]]
  }}
-| rels             = Mostly {{W|Islam}} (especially {{W|Sunni}}), some {{W|Christianity}}, {{W|Hinduism}}, {{W|Buddhism}}, and {{W|Kejawen}}
+| rels             = Mostly {{W|Islam}} (especially {{W|Sunni}}), some {{W|Christianity}}, {{W|Hinduism}}, {{W|Baiduism|Baiduism}}, and {{W|Kejawen}}
 | related          = 
 }}
 

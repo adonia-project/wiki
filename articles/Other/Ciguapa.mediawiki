@@ -1,56 +1,83 @@
 {{Infobox planet
 | name = Ciguapa
-| symbol = 
-| image = Ciguapa.jpg
-| caption = Ciguapa in true color, showing its featureless cloud deck
+| symbol = ♀
+| image               = Ciguapa.jpg
+| caption = True-color optical portrait of Ciguapa captured by the Kagayaki-1 orbiter, showing its brilliant, unbroken sulfur-haze cloud deck and super-rotating polar vortex
 | discoverer = Unknown (Ancient observation)
 | discovery_site = 
 | discovered = Pre-historic
-| pronounce = [[wikipedia:Wikipedia:IPA for English|/si'ɡwɑːpə/]]
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/si'ɡwɑːpə/]]
 | named_after = Ciguapa (Insulonian Legend)
 | alt_names = The Mist World / 霧衣星 (Kirigoromosei)
 | adjectives = Ciguapan
-| mean_radius = 6,650.0 km
+| mean_radius = 6,650.0 km (1.045 R_Adonia)
 | surface_area = 5.55×10^8 km2
 | volume = 1.23×10^12 km3
 | mass = 1.15 M_Adonia (6.87×10^24 kg)
 | mean_density = 5.58 g/cm3
-| surface_gravity = 10.4 m/s2
+| surface_gravity = 10.4 m/s2 (1.06 g)
 | escape_velocity = 11.8 km/s
 | sidereal_rotation_period = -243.02 days (Retrograde)
-| orbital_period = 110.0 days
+| orbital_period = 112.0 days
 | mean_orbit_radius = 0.45 AU
 | eccentricity = 0.007
+| inclination = 3.39°
 | surface_pressure = 9,300 kPa (93 atm)
+| surface_temp = 735 K (462 °C)
 | composition = Carbon dioxide (96.5%); Nitrogen (3.5%); Sulfur dioxide (0.015%)
 }}
 
-Ciguapa is the second planet from the star Aurelius, orbiting between the sun-scorched [[Tartessos]] and the volcanic [[Mictlán]]. It is a massive terrestrial planet, slightly larger and more massive than [[Adonia]], and is shrouded entirely in a thick, opaque atmosphere of reflective clouds. To the naked eye, Ciguapa appears as the brightest object in the Adonian dawn and dusk sky, outshining even the gas giant [[Quetzal]] due to its high albedo.
+'''Ciguapa''' is the second planet from the star [[Aurelius]], orbiting at a mean distance of 0.45 AU between the airless iron cinder [[Tartessos]] and the tidally locked furnace world [[Mictlán]]. It is a massive terrestrial super-greenhouse world, roughly 15 percent more massive than [[Adonia]], entirely enveloped in a thick, opaque atmosphere of reflective sulfuric acid clouds. To observers on Adonia, Ciguapa is by far the brightest planetary body in the dawn and dusk skies, reaching an apparent magnitude of −4.8 and easily outshining all other planets due to its extraordinarily high Bond albedo of 0.76.<ref name="Balisca_Ciguapa">Baliscan Royal Astronomical Society. (2018). *Optical Photometry and Albedo Distribution of Ciguapa's Upper Cloud Decks*. Journal of Comparative Planetology, 76(3), 211–235.</ref>
 
-Classified as a super-greenhouse world, Ciguapa represents a planetary environment taken to the extreme. While it resides within the optimistic edge of the habitable zone, its runaway greenhouse effect has resulted in surface temperatures exceeding 735 K, hotter even than the dayside of Tartessos. The planet is often cited in Adonian comparative planetology as a cautionary example of climate feedback loops.
+Ciguapa represents a quintessential case of runaway greenhouse desiccation. Although its orbit is located near the optimistic inner boundary of the circumstellar habitable zone, catastrophic positive feedback loops early in its history boiled away its primordial oceans, filling the atmosphere with dense steam that subsequently underwent photolysis and hydrogen escape, leaving behind a crushing carbon dioxide envelope with surface pressures 93 times that of Adonia and temperatures of 735 K (462 °C).<ref name="Kagayaki_Report">Okaiken Institute for Space and Aeronautical Science (OISAS). (2015). *Atmospheric Profile and Deep Radar Topography of Ciguapa: Final Synthesis of the Kagayaki-2 Mission*. OISAS Planetary Science Series, 51, 104–148.</ref>
 
-Ciguapa possesses a retrograde rotation, spinning in the opposite direction to its orbit and the majority of other planets in the system. This rotation is incredibly slow; a single sidereal day on Ciguapa lasts longer than its entire year. This unique characteristic is believed to be the result of a massive impact event during the system's formation or strong atmospheric tidal torques exerted by Aurelius.
+The planet exhibits an exceptionally slow retrograde axial rotation (spinning from east to west in 243.02 standard days), meaning that the sun rises in the west and sets in the east across a 117-day solar diurnal cycle. In contrast to the lethargic solid body, Ciguapa's upper atmosphere undergoes vigorous ''super-rotation'', whipping around the globe in only four standard days at speeds exceeding 360 km/h, driven by solar thermal tides.<ref name="Aldana_Atmospheres">Aldana, E. (2021). *Atmospheric Super-Rotation and Thermal Tides in Dense Carbon Dioxide Atmospheres*. Castejón Astrophysical Review, 86(2), 178–205.</ref>
 
 ==Physical characteristics==
-===Atmosphere===
-The atmosphere of Ciguapa is its most defining feature, composed primarily of carbon dioxide with thick cloud layers consisting of sulfuric acid droplets. These clouds form a global deck that completely obscures the surface from visual observation. The atmosphere is so dense that the surface pressure is approximately 93 times that of Adonia, equivalent to the pressure found 900 meters underwater on Earth-like worlds.
 
-The upper atmosphere exhibits a phenomenon known as super-rotation. While the planet itself rotates very slowly, the atmosphere whips around the planet at speeds up to 360 km/h, circling the globe in just four Adonian days. This rapid circulation distributes heat efficiently, ensuring that the nightside is nearly as hot as the dayside, unlike the extreme temperature variance seen on [[Tartessos]].
+===Atmosphere and greenhouse effect===
+Ciguapa's atmosphere is an extreme thermal blanket dominated by carbon dioxide (96.5%) and molecular nitrogen (3.5%), with trace quantities of sulfur dioxide, argon, water vapor (20 ppm), and carbon monoxide.<ref name="Kagayaki_Report" /> At the surface, the ambient atmospheric pressure reaches 9.3 MPa (93 atmospheres), equivalent to the hydrostatic pressure at an oceanic depth of roughly 900 meters on Adonia. Under these crushing conditions, the near-surface carbon dioxide ceases to behave as a conventional gas and transitions into a supercritical fluid, possessing gas-like diffusivity and liquid-like density (~67 kg/m³).<ref name="Kagayaki_Report" />
 
-===Surface geology===
-Radar mapping conducted by orbital probes has revealed a surface dominated by vast volcanic plains and gently rolling uplands. Unlike [[Adonia]], Ciguapa lacks plate tectonics to recycle its crust. Instead, the planet undergoes periodic resurfacing events where massive localized volcanism floods large portions of the surface with fresh lava. The surface rock is kept plastic and semi-viscous by the immense heat and pressure.
+The planet's cloud decks extend from an altitude of 48 km to 68 km above the surface, organized into three distinct stratocumulus layers composed of microscopic droplets of concentrated sulfuric acid ($H_2SO_4$, 75–85%) and suspended ferric chloride crystals. These clouds reflect approximately 76% of incoming sunlight back into space, but the remaining 24% that filters through to the lower atmosphere is completely trapped by the immense infrared opacity of the CO2-SO2 envelope, driving surface temperatures to a uniform 735 K (462 °C) globally.<ref name="Aldana_Atmospheres" />
 
-There are few impact craters on Ciguapa, indicating that the surface is geologically young, likely less than 500 million years old. The dense atmosphere filters out smaller meteors, which burn up before impact, leaving only the largest impactors to scar the surface.
+Because of the massive thermal inertia of the dense lower atmosphere, there is virtually zero diurnal or latitudinal temperature variation: the equator, poles, dayside, and nightside all maintain the same searing temperature within 3–5 Kelvin.<ref name="Kagayaki_Report" />
+
+===Atmospheric super-rotation===
+While the solid planet takes 243 days to complete a single axial turn, the high-altitude cloud decks circle the entire globe in approximately 4.0 standard Adonian days, driven by a phenomenon known as atmospheric super-rotation.<ref name="Aldana_Atmospheres" /> Wind speeds in the upper troposphere reach 100 m/s (360 km/h) near the cloud tops, forming two massive, circumpolar vortices at each pole. Telescopic and ultraviolet orbital images show prominent dark, V-shaped and Y-shaped chevron wave patterns in the upper clouds, generated by planetary-scale Kelvin and Rossby waves interacting with the fast zonal winds.<ref name="Balisca_Ciguapa" />
+
+===Surface geology and volcanism===
+Because Ciguapa's dense cloud cover is completely impervious to visible light, its surface has been mapped exclusively via orbital synthetic aperture radar (SAR) and radio altimetry. Radar surveys reveal an ancient, rolling volcanic landscape composed of roughly 80% volcanic basalt plains, 10% elevated volcanic highland plateaus, and 10% heavily deformed upland massifs known as ''tesserae''.<ref name="Kagayaki_Report" />
+
+Prominent geological features include the Guabonito Highlands, an immense equatorial continent-sized highland plateau rising 4.5 km above the mean planetary radius, scarred by complex intersecting shear faults and compressional fold ridges. Elsewhere on the volcanic plains lie clusters of steep-sided, flat-topped circular pancake domes (*farra*), measuring 20 to 65 km across and up to 1,000 meters high, extruded by extremely viscous, silica-rich lavas. The plains are also etched by meandering sinuous channels (*canali*) carved by ultra-low-viscosity carbonatite and komatiite lavas, the longest of which—''Baltis Vallis''—stretches for over 6,800 kilometers across the equatorial lowlands without significant topographic interruption.<ref name="Kagayaki_Report" />
+
+Unlike Adonia, Ciguapa has no active plate tectonics; its lithosphere is a single rigid, buoyant "stagnant lid" that traps interior radiogenic heat. Rather than continuous subduction and seafloor spreading, geophysical models suggest that Ciguapa undergoes episodic global resurfacing events every 300 to 500 million years, in which catastrophic mantle overturns breach the lithosphere, flooding millions of square kilometers with basaltic flood lavas and resetting the crater retention age of the crust.<ref name="OISAS_Tartessos">Okaiken Institute for Space and Aeronautical Science (OISAS). (2017). ''Geophysical Probing and Magnetospheric Interaction of Tartessos: The Shakugan-1 Mission Summary''. OISAS Special Reports, 114, 45–89.</ref>
+
+===Paleoclimate and lost oceans===
+Comparative geochemical studies and isotopic measurements of Ciguapa's atmosphere show an extraordinary deuterium-to-hydrogen ($D/H$) ratio roughly 120 times higher than that of Adonia's oceans.<ref name="Aldana_Atmospheres" /> This massive enrichment in heavy hydrogen is conclusive evidence that Ciguapa once possessed substantial liquid water—estimated at between 200 and 500 meters of equivalent global ocean depth—during the first 1.2 billion years of the system's formation, before the steady brightening of Aurelius triggered a catastrophic moist runaway greenhouse effect.<ref name="Aldana_Atmospheres" />
 
 ==Orbit and rotation==
-Ciguapa orbits Aurelius at an average distance of 0.45 AU, completing one revolution every 110.0 standard days. Its orbit is the most circular of all the planets, with an eccentricity of less than 0.01.
 
-The planet rotates in a retrograde direction (east to west) once every 243.02 days. Because its rotation period is longer than its orbital period, a solar day on Ciguapa (sunrise to sunrise) takes approximately 117 Adonian days. The sun rises in the west and sets in the east.
+Ciguapa orbits Aurelius at a mean distance of 0.45 AU, completing one orbital circuit every 112.0 standard days. Its orbit is exceptionally circular, with an eccentricity of only 0.007—the lowest eccentricity of any major planet in the Aurelius system.
+
+The planet rotates in a retrograde direction (east-to-west), tilted at an inclination of 177.3° to its orbital plane (effectively a tilt of 2.7° with inverted rotation). It takes 243.02 standard Adonian days to complete one sidereal rotation. Combining this retrograde rotation with its 112-day orbital revolution yields a solar day (synodic day) lasting 116.8 standard Adonian days. The sun rises slowly in the west and sets in the east, spending roughly 58 days in continuous daylight and 58 days in night.<ref name="Aldana_Dynamics">Aldana, E., & Thorne, A. (2022). ''Tidal Dissipation and Rotational Dynamics in Eccentric Terrestrial Systems''. Castejón Astrophysical Review, 44(2), 112–138.</ref>
+
+Two primary mechanisms are theorized to have produced this retrograde state. The leading hypothesis suggests a massive off-center collision with a large proto-planet during the final stages of planetary accretion that flipped the planet's spin axis. A competing geophysical model attributes the retrograde spin to atmospheric thermal tides acting on Ciguapa's super-dense atmosphere, which exerted a continuous gravitational braking torque that drove the mantle through a chaotic resonance into its modern stable retrograde state.<ref name="Aldana_Dynamics" />
+
+==Observation and exploration==
+
+Due to its brilliance, Ciguapa was cataloged in the earliest astronomical records of all major Adonian cultures. In ancient Sinopia, it was initially tracked as two distinct wandering stars—*Phosphoros* (the morning luminary) and *Hesperos* (the evening star)—before philosopher-astronomers recognized them as identical apparitions of a single planet.<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref> In Sanese imperial court records, the planet was venerated as the brilliant Mist Robe Star (*Kirigoromosei*), associated with beauty, veiled mystery, and maritime fortune.<ref name="Tanigaki_Hist" />
+
+Space exploration has provided detailed scientific insights into this hostile environment. In 1994, the *Kagayaki-1* orbital probe launched by the Okaiken Space Agency achieved orbit around Ciguapa, providing global synthetic aperture radar altimetry and mapping the planet's atmospheric super-rotation.<ref name="Kagayaki_Report" /> In 2002, the *Kagayaki-2 Lander*—a reinforced titanium-hulled spherical descent capsule—successfully touched down on the volcanic basalt plains of Guabonito. The lander operated for 54 minutes under the crushing 93-atmosphere pressure and 735 K heat before thermal failure, transmitting historic panoramic images of flat, cracked basaltic slabs resting beneath a dim, orange-tinted sky.<ref name="Kagayaki_Report" />
 
 ==Name and etymology==
-The name Ciguapa is derived from Insulonian folklore, referring to a mythical creature described as a woman with backward-facing feet who dwells in the high mountains and deep forests. This name was chosen by early astronomers who noted the planet's peculiar retrograde rotation—it moves "backwards" compared to the other terrestrial worlds like [[Adonia]] and [[Aztlán]]. The opaque clouds were also seen as a metaphor for the creature's elusive nature.
 
-In Sanese astronomical catalogs, the planet is designated Kirigoromosei (霧衣星), translating to the Mist-Veiled Star. This name references the impenetrable cloud layer that permanently hides the planet's surface, likening it to a figure wearing a robe of mist.
+The planet takes its name from the legendary Ciguapa of Insulonian folklore, a mythical forest woman possessing backward-facing feet and flowing hair who remains forever veiled from human sight. Astronomers bestowed the name to commemorate the planet's backward (retrograde) axial rotation and its impenetrable global cloud shroud.<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref>
+
+In [[Sanese language|Sanese]], the planet is designated as '''Kirigoromosei''' ({{nihongo||霧衣星||"mist-robe star"}}), poetically describing its radiant, veiled appearance as a pearl shrouded in silk mists.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Terrestrial planets]]
+
+==References==
+{{reflist}}

@@ -1,117 +1,755 @@
-{{Short description|Northernmost primary island of the Imperial Kingdom of Okaiken}}
-{{Infobox islands
-| name             = Harujima
-| native_name      = 春島
-| native_name_lang = ja
-| nickname         = Spring Island
-| location         = Katsuran Sea
-| coordinates      = 
-| archipelago      = Okaiken Archipelago
-| area_sq_mi       = 36450
-| highest_mount    = Harujima Alps
-| country          = Imperial Kingdom of Okaiken
-| country_largest_city = Okami
-| population       = 52450000
-| population_as_of = 2026
-| ethnic_groups    = Sanese-Yamato, Zainichi Kwangjuns, Zainichi Zong
+﻿{{Infobox islands
+| name               = Harujima
+| native_name        = {{nihongo|春島|Harujima|lit. "Spring Island"}}
+| image_skyline      = Okami Skyline at Dusk.jpg
+| image_caption      = The Okami metropolitan skyline at dusk, viewed from the Sendai Plain
+| image_map          = Okaiken islands map - Harujima.svg
+| map_caption        = Location of Harujima within the Okaiken archipelago, derived from the national digital elevation model
+| location           = [[Shendan Ocean]], [[Okaiken]]
+| coordinates        = {{coord|158|14|E|16|54|N|display=inline}}
+| archipelago        = [[Okaiken]]
+| total_islands      = 1 (primary) + 47 (minor)
+| major_islands      = Harujima (main), [[Kazan Islands]] (volcanic chain)
+| area_km2           = 42,833.93
+| area_rank          = 1st in Okaiken
+| highest_mount      = [[Kitahatodake]]
+| elevation          = 2,571
+| country           = [[Okaiken]]
+| country_admin_divisions_title = [[Prefectures of Okaiken|Prefectures]]
+| country_admin_divisions = 12
+| population         = 35,563,165
+| population_as_of  = 2026
+| population_rank    = 1st in Okaiken
+| density_km2        = 830.4
+| density_rank       = 1st in Okaiken
+| demonym           = [[Sanese people|Sanese]]
+| ethnic_groups     = 82.4% [[Sanese people|Yamato]]<br>9.1% [[Kwangju]]<br>6.3% [[Zong]]<br>2.2% Other
 }}
 
-{{nihongo|'''Harujima'''|春島|Harujima|extra=lit. "Spring Island"}} is the northernmost of the three primary [[w:Island|islands]] that constitute the [[w:Archipelago|archipelago]] of the Imperial Kingdom of Okaiken. Cartographically, the island forms one of the two northern branches of the archipelago's characteristic "Y-shape," extending north from the island of Yagikoshu. Distinguished by its [[w:Tropical climate|tropical climate]] and rugged [[w:Topography|topography]], Harujima serves as the strategic, political, and cultural anchor of the nation, housing the national capital, [[Okami]], and the Wisteria Throne.
+'''Harujima''' ({{nihongo|春島|Harujima|lit. "Spring Island"}}) is the northernmost of the three primary islands that constitute the archipelago of the [[Imperial Kingdom of Okaiken]]. Cartographically, the island forms one of the two northern branches of the archipelago's characteristic "Y-shape," extending north from the island of [[Yagikoshu]]. Distinguished by its tropical climate and rugged topography, Harujima serves as the strategic, political, and cultural anchor of the nation, housing the national capital, [[Okami]], and the [[Wisteria Throne]]. It is the largest and most populous island in Okaiken, spanning approximately 42,834 square kilometres and home to an estimated 35.5 million people as of 2026.
 
-As one of the "Three Lands" ({{nihongo|三国|Sankoku}}) that define modern Sanese identity, Harujima contains a significant portion of the nation's 63,140-square-mile core landmass. It transitioned from the site of the archipelago's earliest prehistoric [[w:Human migration|migrations]] to the modern seat of the "Functional Royalty" following the Jutsu Restoration of 2011. Its role as the administrative heart of the state is characterized by extreme [[w:Population density|population density]] in its coastal plains, necessitated by a mountainous interior that restricts [[w:Arable land|arable land]] to less than 18% of the total area.
+As one of the "Three Lands" ({{nihongo|三国|Sankoku}}) that define modern Sanese identity, Harujima contains a significant portion of the nation's core landmass. It transitioned from the site of the archipelago's earliest prehistoric migrations to the modern seat of the "Functional Royalty" following the [[Jutsu Restoration]] of 2011. Its role as the administrative heart of the state is characterized by extreme population density in its coastal plains, necessitated by a mountainous interior that restricts arable land to less than 18% of the total area. The island is divided into twelve prefectures, the most populous being the [[Okami Metropolis]], which alone accounts for nearly half of Harujima's total population.
 
-== Etymology ==
-The name "Harujima" is a modern standardized identifier that functions as part of the broader ''Sankoku'' ("Three Lands") strategy employed by the central government. Historically, the archipelago was referred to by various [[w:Exonym and endonym|exonyms]], most notably Mitoyagi. However, a 1971 technocratic rebranding under Prime Minister Yoshimizu Ohno sought to dissolve insular tribalism and historical divisions.
+==Etymology==
+{{main|Sankoku}}
+The name "Harujima" is a modern standardized identifier that functions as part of the broader Sankoku ("Three Lands") strategy employed by the central government. Historically, the archipelago was referred to by various exonyms, most notably Mitoyagi. However, a 1971 technocratic rebranding under Prime Minister [[Yoshimizu Ohno]] sought to dissolve insular tribalism and historical divisions.
 
-By categorizing the northern tropical island as "Spring Island," the central hub as "Stone Island" (Ishijima), and the southern reaches as "Yagikoshu," the state fostered a unified Sanese ({{nihongo|三人|Sanjin}}) identity. This shift from regional identifiers to a unified [[w:Demonym|demonym]] was a deliberate socio-political strategy intended to break from the [[w:Feudalism|feudal]] legacy of the ancient "Mito" lineage and embrace a nomenclature reflecting the unified, technocratic nature of the modern state.
+By categorizing the northern tropical island as "Spring Island," the central hub as "Stone Island" ({{nihongo|石島|Ishijima}}), and the southern reaches as "Yagikoshu," the state fostered a unified Sanese ({{nihongo|三人|Sanjin}}) identity. This shift from regional identifiers to a unified demonym was a deliberate socio-political strategy intended to break from the feudal legacy of the ancient "Mito" lineage and embrace a nomenclature reflecting the unified, technocratic nature of the modern state.
 
-== Geography and Topography ==
-=== Physical Characteristics ===
-Harujima is a topographically rugged island defined by high [[w:Mountain range|mountain ranges]] and deep, fertile [[w:Valley|valleys]]. The island's interior is dominated by the Harujima Alps, a massive system of intersecting ridges that form the highest belt of mountains in the nation. The coastline is exceedingly irregular, particularly along the Katsuran Sea to the north, which features numerous navigable [[w:Inlet|inlets]] and natural [[w:Harbor|harbors]].
+==Geography and topography==
+[[File:Harujima Alps.png|thumb|right|300px|The Harujima Alps dominate the island's interior, restricting settlement to the coastal plains and river valleys.]]
 
-Due to the island's sharp, steep mountains, only 15 to 18 percent of Harujima is considered arable. This severe geological constraint has forced the vast majority of the population to settle in two primary level regions: the Kinai Plain, containing the city of Minamisanroku, and the Sendai Plain, the site of the sprawling Okami metropolitan area.
+===Physical characteristics===
+Harujima is a topographically rugged island defined by high mountain ranges and deep, fertile valleys. The island's interior is dominated by the [[Harujima Alps]], a massive system of intersecting ridges that form the highest belt of mountains on the island. The highest peak, [[Kitahatodake]] ({{lang|ja|北鳩岳}}, 2,571 m), rises in the Ishiwara highlands in the southern interior. The coastline is exceedingly irregular, particularly along the [[Katsuran Sea]] to the north, which features numerous navigable inlets and natural harbours.
 
-=== Major Rivers ===
-The island's hydrology is defined by fast-flowing rivers that descend rapidly from the Harujima Alps, providing vital resources for both agriculture and modern industry.
+Due to the island's sharp, steep mountains, only 15 to 18 percent of Harujima is considered arable. This severe geological constraint has forced the vast majority of the population to settle in two primary level regions: the [[Kinai Plain]], containing the city of [[Minamisanroku]], and the [[Sendai Plain]], the site of the sprawling Okami metropolitan area. The remaining population clusters along the narrow coastal strips of the northern, western, and eastern seaboards, where the mountains meet the sea in dramatic cliffs and narrow alluvial fans.
 
-{| class="wikitable"
-|+ Major Rivers of Harujima
+The island's geology is predominantly volcanic, with the Harujima Alps formed by tectonic uplift along the convergence zone of the Shendan Ocean plate and the continental shelf. Active volcanic zones persist in the [[Kazan Islands]] chain to the south and in the northern reaches of Miyagi Prefecture, where geothermal activity fuels the island's extensive hot spring network. The volcanic soils, rich in minerals, underpin the agricultural productivity of the coastal plains despite the limited arable area.
+
+===Major rivers===
+The island's hydrology is defined by fast-flowing rivers that descend rapidly from the Harujima Alps, providing vital resources for both agriculture and modern industry. The three principal rivers—the [[Haruko River]], the [[Teshio River]], and the [[Okachi River]]—form the backbone of Harujima's water management infrastructure.
+
+The Haruko River is the second longest river in Okaiken, stretching approximately 320 kilometres from its source in the central Alps to its mouth on the western coast. It supports widespread irrigation networks and hydroelectric power generation, with a cascade of seven major dams regulating its flow. The Teshio River, flowing northward through the Miyagi coastal plain, is crucial for the agricultural sustainability of the northern plains, particularly for traditional wet-rice cultivation. The Okachi River, the shortest of the three at approximately 190 kilometres, supports the immense industrial and domestic water needs of the Okami metropolitan area, drawing from reservoirs in the eastern Alps.
+
+===Climate===
+{{Weather box
+|location = Harujima (Shinagawa representative station, 1991–2020 normals)
+|metric first = yes
+|Jan record high C = 38.0
+|Feb record high C = 38.6
+|Mar record high C = 38.2
+|Apr record high C = 36.1
+|May record high C = 33.8
+|Jun record high C = 33.2
+|Jul record high C = 31.7
+|Aug record high C = 30.9
+|Sep record high C = 32.3
+|Oct record high C = 33.4
+|Nov record high C = 35.3
+|Dec record high C = 38.7
+|Jan high C = 29.9
+|Feb high C = 29.9
+|Mar high C = 28.8
+|Apr high C = 27.1
+|May high C = 25.0
+|Jun high C = 23.3
+|Jul high C = 22.2
+|Aug high C = 22.2
+|Sep high C = 23.3
+|Oct high C = 25.0
+|Nov high C = 27.1
+|Dec high C = 28.8
+|Jan mean C = 25.9
+|Feb mean C = 25.9
+|Mar mean C = 24.8
+|Apr mean C = 23.1
+|May mean C = 21.0
+|Jun mean C = 19.3
+|Jul mean C = 18.2
+|Aug mean C = 18.2
+|Sep mean C = 19.3
+|Oct mean C = 21.0
+|Nov mean C = 23.1
+|Dec mean C = 24.8
+|Jan low C = 21.9
+|Feb low C = 21.9
+|Mar low C = 20.8
+|Apr low C = 19.1
+|May low C = 17.0
+|Jun low C = 15.3
+|Jul low C = 14.2
+|Aug low C = 14.2
+|Sep low C = 15.3
+|Oct low C = 17.0
+|Nov low C = 19.1
+|Dec low C = 20.8
+|Jan record low C = 11.7
+|Feb record low C = 12.4
+|Mar record low C = 11.5
+|Apr record low C = 9.1
+|May record low C = 7.6
+|Jun record low C = 3.4
+|Jul record low C = 3.3
+|Aug record low C = 3.0
+|Sep record low C = 4.0
+|Oct record low C = 7.7
+|Nov record low C = 9.3
+|Dec record low C = 8.9
+|Jan precipitation mm = 210.9
+|Feb precipitation mm = 246.2
+|Mar precipitation mm = 193.2
+|Apr precipitation mm = 157.9
+|May precipitation mm = 87.3
+|Jun precipitation mm = 34.4
+|Jul precipitation mm = 16.7
+|Aug precipitation mm = 16.7
+|Sep precipitation mm = 34.4
+|Oct precipitation mm = 52.0
+|Nov precipitation mm = 105.0
+|Dec precipitation mm = 175.6
+|Jan snow cm = 0.0
+|Feb snow cm = 0.0
+|Mar snow cm = 0.0
+|Apr snow cm = 0.0
+|May snow cm = 0.0
+|Jun snow cm = 0.0
+|Jul snow cm = 0.0
+|Aug snow cm = 0.0
+|Sep snow cm = 0.0
+|Oct snow cm = 0.0
+|Nov snow cm = 0.0
+|Dec snow cm = 0.0
+|Jan precipitation days = 13
+|Feb precipitation days = 15
+|Mar precipitation days = 12
+|Apr precipitation days = 10
+|May precipitation days = 5
+|Jun precipitation days = 2
+|Jul precipitation days = 2
+|Aug precipitation days = 2
+|Sep precipitation days = 2
+|Oct precipitation days = 3
+|Nov precipitation days = 7
+|Dec precipitation days = 11
+|Jan humidity = 71
+|Feb humidity = 72
+|Mar humidity = 72
+|Apr humidity = 72
+|May humidity = 72
+|Jun humidity = 73
+|Jul humidity = 73
+|Aug humidity = 73
+|Sep humidity = 73
+|Oct humidity = 72
+|Nov humidity = 71
+|Dec humidity = 71
+|Jan sun = 173.7
+|Feb sun = 163.1
+|Mar sun = 179.0
+|Apr sun = 189.6
+|May sun = 210.8
+|Jun sun = 226.7
+|Jul sun = 232.0
+|Aug sun = 232.0
+|Sep sun = 226.7
+|Oct sun = 221.4
+|Nov sun = 205.5
+|Dec sun = 184.3
+|source 1 = Sanese Meteorological Agency
+|source 2 = Adonia Weather Atlas
+}}
+
+The climate of Harujima ranges from a tropical rainforest climate (Köppen ''Af'') in the far north to a tropical monsoon climate (Köppen ''Am'') further south. Meteorological data from the Shinagawa Ward weather station in Okami illustrates a highly consistent temperature range of 25 °C to 35 °C (77 °F to 95 °F) year-round. The island receives substantial annual rainfall, typically measuring between 2,000 and 3,000 millimetres, with the northern coastal cities experiencing the most extreme precipitation during the Eastern Typhoon season from November through February.
+
+This high level of precipitation, combined with mountainous rain shadows, historically dictated Harujima's agricultural development through {{nihongo|tanbo|田ん坊|wet-rice cultivation}}. Introduced around 225 BC, these advanced irrigation techniques revolutionized the northern plains, providing the caloric surplus necessary for the early imperial court to sustain a professional standing army and an urban administrative class. The winter months from November through February are remarkably mild and relatively dry, making the northern coastal regions popular year-round destinations, while the alpine interior experiences significant snowfall that feeds the island's river systems through the spring melt.
+
+==History==
+{{main|History of Okaiken}}
+
+===Prehistory and early settlement===
+Archaeological evidence indicates that Harujima was the site of the first human settlement in the Okaiken archipelago. The {{nihongo|Harujima-Kaze culture|春島風文化|Harujima-Kaze bunka}} arrived approximately 10,000 to 20,000 BC, driven southward by post-glacial climate stabilization. These semi-nomadic groups thrived as hunter-gatherers on the abundant marine life of the northern coast before the later arrival of seafaring agrarian technologies from the continent. As the climate stabilized around 5,000 BC, the {{nihongo|Oita-Yagi horizon|大田八木水平|Oita-Yagi suihai}} emerged, marking the first permanent human habitation and the introduction of wet-field farming.
+
+Archaeological evidence supports the existence of the [[Atsu]], a distinct ethnic group whose origins are traced to a synthesis of Zong maritime and Darasian steppe cultures. By the 2nd millennium BC, the Atsu had populated the majority of Harujima and Yagikoshu. The arrival of warlike tribes from the Jade Sea initiated a centuries-long period of conflict that gradually forced the Atsu lineages out of the fertile northern plains, pushing them into the mountainous southern and western reaches of Yagikoshu.
+
+===The Miyagi Empire===
+The designation {{nihongo|Miyagi|宮城|Miyagi|lit. "High Citadel"}} first enters the written record within the Zong Scrolls and the Kojiki around 220 BC. According to the foundational Records of Three Islands, the early Mitoyagi state emerged as a sprawling confederation of distinct ethnic lineages. The northern court successfully unified the nomadic Joei and the southern Umijin maritime caste under the orthodox theological banner of the Solar Deity, Amadera.
+
+A pivotal shift toward absolute monarchy occurred around 215 BC with the ascension of [[Empress Jingū of Miyagi|Empress Jingū]]. Harnessing the vast shipbuilding capacity of her southern vassals, the Warrior-Saint commissioned a massive armada that crossed the western straits, annexing a fertile coastal region of the Kwangju peninsula. During the ensuing centuries, continental experts introduced large-scale wet-rice cultivation, known as tanbo, which revolutionized the northern plains and provided the caloric surplus necessary for the early imperial court to sustain a professional standing army and an urban administrative class.
+
+The {{nihongo|Maki period|牧期間|Maki kikan}} (45 BC – 10 AD) represents the maturation of the Mitoyagi state into a highly centralized administrative power, centered at the majestic court of {{nihongo|Meiji-kyō|明治京|Meiji-kyō}}. This era is distinguished by the Code of Fiefs, the first systematic effort to partition the archipelago into managed administrative zones.
+
+===The Asama period===
+{{main|Asama period}}
+The {{nihongo|Asama period|朝間期間|Asama kikan}} (710–794 AD) represents the zenith of the early Sanese state, often heralded as the Gilded Dawn of Okaiken. In 710 AD, following a divine decree by Empress Genko, the seat of power was moved from the ancient coastal stronghold of Osaki to the inland basin of Asama. The new capital, {{nihongo|Heishu-kyō|平州京|Heishu-kyō}} (modern-day Seto), was designed with a massive grid system intended to mirror the celestial order.
+
+Under the Asama sovereigns, the state implemented the Great Survey of the Eight Provinces, a massive undertaking where all arable land across Yagikoshu and Ishijima was mapped, registered, and claimed by the Throne. The cultural flowering of Asama was fueled by a unique spiritual tension between the native Shoto faith and the teachings of the Great Baidu, which transformed the aesthetic landscape. The construction of the Great Bronze Colossus at Asama served as both a religious offering and a display of state engineering prowess. The period closed with the compilation of the Man'yōshū (759), a collection of 4,500 poems that utilized a complex phonetic script to capture the unique soul of the Sanese language for the first time.
+
+===The Heiji period===
+{{main|Heiji period}}
+The {{nihongo|Heiji period|平治期間|Heiji kikan}} (794–1206 AD) represents the sunset of classical Sanese antiquity, defined by the absolute refinement of the imperial court and a strategic pivot away from continental influence. The capital of {{nihongo|Heiji-kyō|平治京|Heiji-kyō}} (present-day Mito) was established as a "City of Veils," where the rigid geometric grids of the previous era were softened by expansive gardens and artificial lakes. This period is heralded as the {{nihongo|Aesthetic Hegemony|美的覇権|Biteki hakken}}, where political standing was often determined less by administrative merit and more by one's mastery of the waka and tanka poetic forms.
+
+The defining characteristic of the Heiji era was the Inland Seclusion. As the Zong Song Dynasty began to fracture, the Sanese court formally ended all imperially sanctioned missions to the continent in 900 AD. This cultural explosion masked a profound political rot, as the Sugiwara clan achieved near-total dominance through matrimonial encirclement, converting the lands mapped during the Eight Provinces survey into a vast network of private, tax-exempt estates (shōden). The simmering tension between the effete centre and the militarized periphery erupted in the Hōgen Rebellion (1166–1170), the Heiji Rebellion (1180), and finally the cataclysmic Shuhei War (1192–1209), which shattered the Aesthetic Hegemony and shifted political gravity toward the maritime military outposts of the east.
+
+===The Hiraizumi-Daishin period===
+{{main|Hiraizumi-Daishin period}}
+The {{nihongo|Hiraizumi-Daishin period|平泉大信期間|Hiraizumi-Daishin kikan}} (1209–1335 AD) marks the definitive transition from a court-centred aristocracy to a decentralized military hegemony. In 1201, the [[Soga Clan]], under the leadership of [[Soga Ujiteru]], initiated a campaign of total annexation in the north, aggressively absorbing the territories of the Takechi and Fujisato clans. This bloody unification is immortalized in the {{nihongo|Tale of the Soga Brothers|曽我兄弟の物語|Soga kyōdai no monogatari}}, a foundational epic of Sanese martial literature. In 1208, Ujiteru was granted the title of Sei-i Taishōgun by the Emperor, establishing a military capital at Hiraizumi.
+
+Following Ujiteru's death in 1229, the Sanada Clan became hereditary regents, moving the administrative heart to Daishin-kyō. The era was defined by the rise of Iron Baiduism, a stern school of Sen philosophy emphasizing stoicism and the Void-Mind state, which found immense popularity among the northern warrior elite. The Sanada Shogunate's military prestige was cemented by the Storm of 1314 and the Fires of 1322, during which northern Sanese forces repelled massive naval invasions from the Shansian Empire. However, the economic strain of these wars led to massive taxation that alienated the southern maritime provinces, ultimately leading to internal decay and the brief Jimmu Restoration of 1333–1336.
+
+===The Kitayama period===
+{{main|Kitayama period}}
+The {{nihongo|Kitayama period|北山期間|Kitayama kikan}} (1336–1573) represents a transformative era of Fragmented Splendor, characterized by a weak central military authority presiding over a brilliant cultural renaissance. The Minato clan re-established the Shogunate within the ancient imperial capital of Mito, specifically in the wealthy Kitayama district. The Age of Two Crowns formally persisted until 1392, when the courts were nominally "merged" under a Cyclical Succession agreement that was never enacted.
+
+Administratively, the Higashiyama Bakufu remained a fragile coalition. The Sea Wolves—powerful, heavily armed pirate fleets—began operating with impunity out of the Inland Sea and the northern tropical straits. The Heping Settlement of 1390 ended the Jade Sea War and opened Fosian oceanic expansion. Okaiken recognized the wealth flowing from the Fosian colonies and authorized its own wave of colonial expeditions in the 15th century. Culturally, the era is divided into Kitayama Culture, characterized by the fusion of aristocratic elegance and warrior bravado, and Higashiyama Culture, a massive pivot toward the subdued, shadow-focused aesthetic of wabi-sabi.
+
+===The Sengoku period===
+{{main|Sengoku period (Okaiken)}}
+The {{nihongo|Sengoku period|戦国期間|Sengoku kikan}} (1467–1582) marked the definitive collapse of the centralized Minato Shogunate. The catalyst was the Taiju War (1467–1477), which erupted over a succession dispute between the Mogami and Taiga clans. The power vacuum birthed the phenomenon of {{nihongo|Gekokujō|下克上|Gekokujō|lit. "the low conquers the high"}}, where traditional authority evaporated and capable subordinates ruthlessly overthrew their superiors. The breakdown of order also radicalized the peasantry, forming self-defense leagues known as ikki, the most powerful being the Ikkō-ikki, radical adherents of Jōddo Shinshū Baiduism who seized control of entire provinces.
+
+The chaos eventually violated the sanctity of the Imperial House itself. On October 12, 1558, the Yuzawa Incident saw the Ogasawara clan abduct the young Prince Fumihito, who was raised as a commoner named "Ichimatsu" before being discovered and adopted by Honda Shigetatsu. Unaware of his true lineage, the prince took the name Honda Shigetada and grew up to become the fearsome general known as "The Warrior who Surpassed Death."
+
+===The Seto-Tosa period===
+{{main|Seto-Tosa period}}
+The {{nihongo|Seto-Tosa period|瀬戸土佐期間|Seto-Tosa kikan}} (1582–1625) is the final, apocalyptic phase of the Sengoku period, where the "Three Unifiers"—[[Ogasawara Terumasa]], [[Takigawa Kazumasu]], and [[Honda Shigetada]]—forged the modern state from the ashes of the medieval order. Ogasawara Terumasa, the "Demon King," dismantled the old order with legendary brutality, including the burning of Mount Hiei in 1584 that killed an estimated 20,000. His momentum ended with the Honto-ji Incident of 1592, when Takigawa Kazumasu betrayed and cornered him in a burning pagoda.
+
+Takigawa Kazumasu filled the void through the mechanics of fear, instituting the Sword Hunt and the Land Survey at sword-point. His death at the siege of Odawara triggered the final, most destructive phase: the Battle of Tone on October 21, 1600, where over 160,000 men clashed in the fog and 60,000 bodies choked the Tone River. Honda Shigetada's victory at Tone, followed by the gruesome Battle of Ichijoudani in 1625, broke the nation's will to fight. The Sanese people, exhausted by forty years of relentless carnage, accepted the rigid, authoritarian peace of the Honda Shogunate out of desperate necessity.
+
+===The Honda Shogunate and the Great Peace===
+Following the Battle of Tone, Shigetada marched into the capital unopposed. In a shocking revelation, the ailing Emperor Komei publicly recognized Shigetada as Prince Fumihito, his abducted eldest son. In January 1601, the Emperor declared Shigetada both the Crown Prince and the Sei-i Taishōgun, merging the Imperial Court with the military government. Upon Emperor Komei's death in 1610, Shigetada ascended to the Chrysanthemum Throne as Emperor Shirakawa, enacting the Edict of the Two Realms to create the system of Dual Sovereignty.
+
+The stability of the early Honda period was shattered in 1625 by the Kinzō Incident, when Ii Naotaka launched a coup against the Shogunate. The resulting Battle of Ichijoudani was so traumatic that it birthed the "Great Peace" ({{nihongo|大平|Taihei}}), a period of enforced stability that lasted over two centuries. During this era, the Honda Shogunate maintained strict isolation ({{nihongo|sakoku|鎖国|lockdown}}), with the notable exception of the Tejima trading post in Shinagawa Bay, which permitted limited commerce with Batavian merchants and traders from the Kingdom of Zong.
+
+===The Saito Restoration===
+The arrival of the Saito Restoration in 1871 fundamentally transformed Harujima. The new Imperial government launched a systematic pacification campaign, bombarding remaining pirate strongholds while offering amnesty and land grants. The construction of the national railway network in the late 19th century connected the tropical frontier to the capital at Okami for the first time, triggering a population boom. The island was the primary driver of the "Sanese Industrial Miracle," with heavy manufacturing concentrated along the coastal plains between Okami and Tokuyama.
+
+===The Republican Era and the Jutsu Restoration===
+During the "Silent Years" of the Republican Era (1968–2011), Harujima served as the testing ground for the "Great Transformation" policies, which rapidly digitized the island's infrastructure. The Jutsu Restoration of 2011 saw a return to traditional state structures, with Okami officially reinstated as the capital's name. Harujima's resilience as a centre of power was further highlighted by the transition to "Functional Royalty" protocols, which reintegrated the Imperial Family into the scientific, technological, and industrial sectors headquartered on the island. Following the Digital Infrastructure Act of 2008, the island's economy successfully shifted from heavy manufacturing to digital sovereignty and advanced computing.
+
+==Demographics and urban centres==
+[[File:Okami_Skyline_Tama.png|thumb|left|300px|The Okami metropolitan area at night, home to over 17 million residents and the densest urban agglomeration in Okaiken.]]
+
+Harujima is the most densely populated island in Okaiken. As of the 2026 national census estimates, Harujima has a total population of approximately 35,563,165. The racial and ethnic composition of the island is predominantly Sanese-Yamato, accounting for 82.4% of the population. The island also hosts significant minority populations, primarily descended from those who arrived via the nation's burgeoning maritime trade networks during the 15th and 16th centuries. The Zainichi Kwangjuns constitute the largest minority group at 9.1%, followed by the Zainichi Zong at 6.3%. Other ethnic groups and foreign expatriates make up the remaining 2.2%.
+
+The island's urban youth population is heavily influenced by the National Competency Exam and the STEP REP Program, which mandates bilingual fluency to maintain competitiveness in Harujima's booming tech corridors. Population distribution is overwhelmingly concentrated in the coastal plains, with the Okami metropolitan area alone accounting for nearly half of the island's total population. The mountainous interior remains sparsely populated, with small communities engaged in forestry, mining, and hot spring tourism.
+
+===Most populous prefectures===
+{| class="wikitable sortable"
 |-
-! River Name !! Strategic Significance
+! Rank !! Prefecture !! Population !! Area (km²) !! Density (/km²) !! Capital
 |-
-| '''Haruko River''' || The second longest river in Okaiken; vital for widespread irrigation networks and [[w:Hydroelectricity|hydroelectric power]] generation.
+| 1 || [[Okami Metropolis]] || 17,257,969 || 1,687.15 || 10,227 || [[Okami]]
 |-
-| '''Teshio River''' || Crucial for the agricultural sustainability of the northern plains, particularly for traditional wet-rice cultivation.
+| 2 || [[Miyagi Prefecture]] || 3,395,239 || 5,716.40 || 593 || [[Shinagawa]]
 |-
-| '''Okachi River''' || Supports the immense industrial and domestic water needs of the Okami metropolitan area.
+| 3 || [[Yonezawa Prefecture]] || 2,090,036 || 1,857.25 || 1,126 || [[Yonezawa]]
+|-
+| 4 || [[Akita Prefecture]] || 1,975,683 || 4,095.09 || 483 || [[Akita]]
+|-
+| 5 || [[Tokuyama Prefecture]] || 1,826,990 || 2,261.24 || 808 || [[Tokuyama]]
+|-
+| 6 || [[Yamagata Prefecture]] || 1,815,109 || 2,261.24 || 804 || [[Yamagata]]
+|-
+| 7 || [[Okazaki Prefecture]] || 1,770,119 || 3,174.17 || 558 || [[Okazaki]]
+|-
+| 8 || [[Fukushima Prefecture]] || 1,714,099 || 2,977.79 || 576 || [[Fukushima]]
+|-
+| 9 || [[Iwate Prefecture]] || 1,192,696 || 6,823.72 || 175 || [[Iwate]]
+|-
+| 10 || [[Ishiwara Prefecture]] || 982,238 || 7,424.70 || 132 || [[Ishiwara]]
+|-
+| 11 || [[Hirogawa Prefecture]] || 797,386 || 2,277.59 || 350 || [[Hirogawa]]
+|-
+| 12 || [[Kofu Prefecture]] || 756,181 || 2,277.59 || 332 || [[Kofu]]
 |}
 
-=== Climate ===
-The [[w:Climate|climate]] of Harujima ranges from a [[w:Tropical rainforest climate|Tropical Rainforest climate]] (Köppen ''Af'') in the far north to a [[w:Tropical monsoon climate|Tropical Monsoon climate]] (Köppen ''Am'') further south. Meteorological data from the Shinagawa Ward weather station in Okami illustrates a highly consistent temperature range of 25°C to 35°C (77°F to 95°F) year-round. The island receives substantial annual [[w:Precipitation|rainfall]], typically measuring between 2,000 and 3,000 millimeters.
+==Prefectures==
+Harujima is divided into twelve prefectures, each with its own distinct character, economy, and cultural identity. These range from the hyper-dense Okami Metropolis to the vast, mountainous wilderness of Ishiwara Prefecture.
 
-This high level of precipitation, combined with mountainous [[w:Rain shadow|rain shadows]], historically dictated Harujima's agricultural development through ''tanbo'' (wet-rice) cultivation. Introduced around 225 BC, these advanced [[w:Irrigation|irrigation]] techniques revolutionized the northern plains, providing the caloric surplus necessary for the early imperial court to sustain a professional standing army and an urban administrative class.
+===Okami Metropolis (OK-01)===
+{{main|Okami Metropolis}}
+The Okami Metropolis is the political, economic, and cultural heart of Okaiken. With a population of 17,257,969, it is by far the most populous prefecture on the island and the nation. The metropolis encompasses the national capital, [[Okami]], which serves as the seat of the [[Wisteria Throne]] and the [[Diet of Okaiken|Diet]]. The metropolitan area spans 1,687.15 km², yielding an extraordinary population density of over 10,000 persons per square kilometre. The city's core is situated on the [[Sendai Plain]], where the Okachi River provides the immense water supply necessary to sustain the urban agglomeration.
 
-== History ==
-=== Prehistory and Early Settlement ===
-[[w:Archaeology|Archaeological]] evidence indicates that Harujima was the site of the first human settlement in the Okaiken archipelago. The Harujima-Kaze culture arrived approximately 10,000 to 20,000 BC, driven southward by post-[[w:Glacial period|glacial]] climate stabilization. These semi-[[w:Nomad|nomadic]] groups thrived as [[w:Hunter-gatherer|hunter-gatherers]] on the abundant marine life of the northern coast before the later arrival of seafaring [[w:Agrarian society|agrarian]] technologies from the continent.
+The metropolis is divided into 35 administrative wards, the most populous being the central Okami ward (8,259,189), followed by Mitsu-Minato (1,388,670) and Hojo (725,669). The metropolis also administers the remote [[Kazan Islands]] chain to the south, including Chichijima, Hahajima, and Ioto, as well as the isolated Okinotorishima atoll. Okami is the primary hub for the nation's digital infrastructure, housing the headquarters of [[Kizan Systems]], the corporation providing the hardware backbone for the nationwide [[Satori AI]] network.
 
-=== Medieval Unification (Soga Era) ===
-The medieval history of Harujima is defined by the rise of the ''Bushi'' ([[w:Samurai|warrior]]) class. In 1201, the Soga Clan, under the leadership of Soga Ujiteru, initiated a campaign of total annexation in the north. This sweeping military victory effectively "shattered the Aesthetic Hegemony" of the refined, poetry-focused courts of Mito, shifting power decisively toward maritime military outposts.
+{{col-begin}}
+{{col-break}}
+* '''Okami''' (Pop. 8,259,189)
+* [[Mitsu-Minato]] (Pop. 1,388,670)
+* [[Hojo]] (Pop. 725,669)
+* [[Shigenobu]] (Pop. 725,833)
+* [[Tobe]] (Pop. 726,209)
+* [[Oka]] (Pop. 538,890)
+* [[Takahama]] (Pop. 481,358)
+* [[Kawauchi]] (Pop. 492,708)
+* [[Masaki]] (Pop. 463,469)
+{{col-break}}
+* [[Yuyama]] (Pop. 429,168)
+* [[Dogo]] (Pop. 408,424)
+* [[Kume]] (Pop. 421,662)
+* [[Habu]] (Pop. 392,225)
+* [[Takanoko]] (Pop. 329,815)
+* [[Asami]] (Pop. 270,818)
+* [[Ishite]] (Pop. 202,831)
+* [[Karasaki]] (Pop. 182,109)
+* [[Sugisawa]] (Pop. 171,503)
+{{col-break}}
+* [[Iwagami]] (Pop. 133,844)
+* [[Iwaida]] (Pop. 133,539)
+* [[Gomyo]] (Pop. 126,593)
+* [[Yodo]] (Pop. 107,659)
+* [[Mihata]] (Pop. 71,996)
+* [[Chichijima]] (Pop. 15,122)
+* [[Hahajima]] (Pop. 9,608)
+* [[Ioto]] (Pop. 9,846)
+* [[Nishinoshima]] (Pop. 8,237)
+{{col-end}}
 
-This era of martial dominance is immortalized in the ''Tale of the Soga Brothers'', a foundational relic of Sanese martial [[w:Literature|literature]]. In 1208, Ujiteru was granted the title of [[w:Shogun|Shogun]], establishing a military capital on Harujima that balanced the ritualistic authority of the old imperial court.
+===Miyagi Prefecture (OK-02)===
+{{main|Miyagi Prefecture}}
+Miyagi Prefecture occupies the northern coast of Harujima, facing the straits that separate Okaiken from the sovereign state of [[Yanbaru]]. With a population of 3,395,239 and an area of 5,716.40 km², it is the second most populous prefecture on the island. Its capital, [[Shinagawa]], is the northern terminus of the [[Harujima Shinkansen]] and a major deep-water port. The prefecture is renowned for its hot, humid tropical climate, making it one of the most popular beach and resort destinations in the country. It is also known for its exports in premium spirits, tropical fruits, and the celebrated {{nihongo|[[Miyagi-buta]]|宮城豚|Miyagi-buta}}, a heritage breed black pork that has become one of Okaiken's most prestigious luxury food exports.
 
-=== Modern Political Integration ===
-During the "Silent Years" of the Republican Era (1968–2011), Harujima served as the testing ground for the "Great Transformation" policies, which rapidly digitized the island's infrastructure. The Jutsu Restoration of 2011 saw a return to traditional state structures, with Okami officially reinstated as the capital’s name. Harujima’s resilience as a center of power was further highlighted by the transition to "Functional Royalty" protocols, which reintegrated the Imperial Family into the scientific, technological, and industrial sectors headquartered on the island.
+The prefecture's history is defined by the "Pirate Coast" era, when the rugged coastline served as a sanctuary for the infamous Sea Wolves. The Tejima trading post, a UNESCO World Heritage Site, stands as a testament to the limited foreign contact maintained during the Honda Shogunate's isolation period. In modern times, the coastal corridor around Shinagawa has earned the nickname "The Silicon Strait" ({{nihongo|シリコン海峡|Shirikon Kaikyō}}), reflecting its concentration of maritime robotics and renewable energy research facilities.
 
-== Demographics and Urban Centers ==
-Harujima is the most densely populated island in Okaiken. The [[w:Demographics|demographic]] makeup is a complex mosaic dominated by the native majority, alongside historically integrated minority groups. The island’s urban youth population is heavily influenced by the National Competency Exam and the STEP REP Program, which mandates bilingual fluency to maintain competitiveness in Harujima’s booming tech corridors.
+{{col-begin}}
+{{col-break}}
+* '''Shinagawa''' (Pop. 2,305,184)
+* [[Sendai]] (Pop. 339,902)
+* [[Akune]] (Pop. 65,419)
+* [[Amami]] (Pop. 54,907)
+* [[Tatsugo]] (Pop. 61,121)
+* [[Kirishima]] (Pop. 76,234)
+* [[Kanoya]] (Pop. 88,417)
+* [[Izumi]] (Pop. 41,563)
+{{col-break}}
+* [[Yoron]] (Pop. 49,415)
+* [[Tokuno]] (Pop. 44,108)
+* [[Tarumizu]] (Pop. 38,222)
+* [[Kikai]] (Pop. 34,447)
+* [[Wadomori]] (Pop. 29,116)
+* [[China]] (Pop. 26,434)
+* [[Kushikino]] (Pop. 23,989)
+* [[Hioki]] (Pop. 21,415)
+{{col-break}}
+* [[Soo]] (Pop. 19,768)
+* [[Isen]] (Pop. 17,337)
+* [[Setoda]] (Pop. 15,885)
+* [[Uken]] (Pop. 13,122)
+* [[Yamato]] (Pop. 11,957)
+* [[Satsuma]] (Pop. 6,697)
+{{col-end}}
 
-As of the 2026 national census estimates, Harujima has a total population of approximately 52,450,000. The racial and ethnic composition of the island is predominantly Sanese-Yamato, accounting for 82.4% (43,218,800) of the population. The island also hosts significant minority populations, primarily descended from those who arrived via the nation’s burgeoning maritime trade networks and mercantile colonies during the 15th and 16th centuries, concentrated today in the major industrial corridors. The Zainichi Kwangjuns constitute the largest minority group at 9.1% (4,772,950), followed by the Zainichi Zong at 6.3% (3,304,350). Other ethnic groups and foreign expatriates make up the remaining 2.2% (1,153,900).
+===Akita Prefecture (OK-03)===
+{{main|Akita Prefecture}}
+Akita Prefecture lies along the northwestern coast of Harujima, with a population of 1,975,683 and an area of 4,095.09 km². Its capital, [[Akita]], is a major industrial centre with 1,059,922 residents, making it the second-largest city on the island outside the Okami metropolitan area. The prefecture is traversed by the Harujima Shinkansen, which makes stops at both Odate and Akita stations. The prefecture's economy is driven by heavy manufacturing, petrochemicals, and the extraction of mineral resources from the northern Alps. The coastal city of Oga is a significant fishing port, while the inland city of Yokote serves as a regional agricultural hub.
 
-{| class="wikitable"
-|+ Most Populous Prefectures of Harujima (2026 Estimates)
-|-
-! Prefecture !! Population
-|-
-| Okami Metropolis || 17,257,969
-|-
-| Miyagi Prefecture || 3,384,659
-|-
-| Yonezawa Prefecture || 2,019,655
-|-
-| Akita Prefecture || 1,939,977
-|-
-| Tokuyama Prefecture || 1,826,990
-|}
+{{col-begin}}
+{{col-break}}
+* '''Akita''' (Pop. 1,059,922)
+* [[Odate]] (Pop. 124,512)
+* [[Noshiro]] (Pop. 108,433)
+* [[Yokote]] (Pop. 95,221)
+* [[Oga]] (Pop. 82,109)
+* [[Yunohara]] (Pop. 74,852)
+* [[Katagami]] (Pop. 67,263)
+* [[Daisen]] (Pop. 58,907)
+{{col-break}}
+* [[Kitaakita]] (Pop. 52,045)
+* [[Nikaho]] (Pop. 45,744)
+* [[Senboku]] (Pop. 39,212)
+* [[Kosaka]] (Pop. 33,461)
+* [[Kamikoani]] (Pop. 28,109)
+* [[Fujisato]] (Pop. 24,332)
+* [[Gojome]] (Pop. 20,216)
+* [[Happo]] (Pop. 19,455)
+* [[Mitane]] (Pop. 20,005)
+{{col-end}}
 
-== Infrastructure and Economy ==
-=== Transportation ===
-Harujima possesses a highly automated and efficient [[w:Transport|transportation network]]. The Harujima [[w:High-speed rail|Shinkansen]] connects the northern metropolis with the rest of the archipelago, facilitating the daily movement of millions of commuters. The national expressway system utilizes the "Oka-Pass"—a mandatory electronic toll and automated guidance system that optimizes traffic flow through the island's mountainous terrain. The island’s heavy maritime needs are served by Okami Port, while Okami-Tobu International Airport acts as the primary aviation gateway for the East Fosian Sphere.
+===Fukushima Prefecture (OK-04)===
+{{main|Fukushima Prefecture}}
+Fukushima Prefecture is situated in the central highlands of Harujima, with a population of 1,714,099 and an area of 2,977.79 km². Its capital, [[Fukushima]], has 657,081 residents and serves as the administrative and commercial centre for the surrounding mountain communities. The prefecture is characterized by its rugged terrain, with the Harujima Alps dominating the western districts. The terraced hydro-agriculture of the Fukushima uplands, known locally as tanbo, represents some of the most productive rice-growing land on the island. The prefecture also contains several important historical sites related to the Sengoku period, including the ruins of fortified mountain castles.
 
-=== Industrial Base ===
-The island was the primary driver of the "Sanese Industrial Miracle." Following the Digital Infrastructure Act of 2008, the island's [[w:Economy|economy]] successfully shifted from heavy manufacturing to digital sovereignty and advanced computing. Harujima serves as the strategic home for Kizan Systems, the corporation providing the hardware backbone for the nationwide Satori [[w:Artificial intelligence|AI]] network. Under the state's "Technocratic Shield" doctrine, the island’s infrastructure is heavily subsidized and prioritized to ensure the absolute security of the nation's "Silicon Lanes."
+{{col-begin}}
+{{col-break}}
+* '''Fukushima''' (Pop. 657,081)
+* [[Natori]] (Pop. 184,221)
+* [[Inuyama]] (Pop. 144,551)
+* [[Adachi]] (Pop. 120,412)
+* [[Iwase]] (Pop. 98,221)
+* [[Yama]] (Pop. 85,117)
+* [[Kawanuma]] (Pop. 62,331)
+* [[Onuma]] (Pop. 54,229)
+{{col-break}}
+* [[Ishikawa]] (Pop. 48,112)
+* [[Higashishirakawa]] (Pop. 42,118)
+* [[Nishishirakawa]] (Pop. 38,442)
+* [[Asaka]] (Pop. 25,411)
+* [[Shinchi]] (Pop. 22,098)
+* [[Iitate]] (Pop. 18,674)
+* [[Katsurao]] (Pop. 15,112)
+* [[Samegawa]] (Pop. 13,441)
+{{col-break}}
+* [[Furodono]] (Pop. 11,987)
+* [[Hirata]] (Pop. 9,211)
+* [[Ono]] (Pop. 8,332)
+* [[Naraha]] (Pop. 7,443)
+* [[Tomioka]] (Pop. 6,881)
+* [[Okuma]] (Pop. 5,992)
+* [[Namie]] (Pop. 5,114)
+* [[Kitashiobara]] (Pop. 4,882)
+{{col-end}}
 
-== Flora, Fauna, and Tourism ==
-Harujima’s [[w:Biodiversity|biodiversity]] ranges from subtropical moist [[w:Broadleaf forest|broadleaf forests]] in the lowlands to various [[w:Conifer|conifers]] in the higher alpine altitudes. The island is the historic home of the [[w:Chrysanthemum|Chrysanthemum]], the national flower and symbol of the Imperial House, as well as the Sanese [[w:Macaque|macaque]] (red-faced monkey). The macaques are a notable tourist attraction, particularly for their habit of bathing in volcanic [[w:Hot spring|hot springs]] during the cooler winter months in the high altitudes.
+===Hirogawa Prefecture (OK-05)===
+{{main|Hirogawa Prefecture}}
+Hirogawa Prefecture lies along the southern coast of Harujima, with a population of 797,386 and an area of 2,277.59 km². Its capital, [[Hirogawa]], is a mid-sized coastal city of 331,270 residents. The prefecture is a critical node on the Harujima Shinkansen, with the Shin-Tsukumo and Hirogawa stations providing high-speed rail connections. The prefecture's economy is driven by coastal fishing, agriculture, and an emerging tourism sector centred on the scenic coastline and mountain hot springs. The city of Mizuhama is a significant port, while Otaira has developed as a regional manufacturing centre.
 
-[[w:Tourism|Tourism]] on the island is defined by the ''Jutsu Hyakkei'' (Hundred Views), a state-sponsored registry that catalogs both natural landscapes and man-made landmarks. Reflecting the island’s modern identity, "Industrial Heritage" sites like the Sentoku Tower and the Great Seawall have become as vital to Harujima's tourism sector as its traditional shrines and temples. This seamless blend of ancient tradition and futuristic industry ensures Harujima's enduring role as the heart of the Sanese national psyche.
+{{col-begin}}
+{{col-break}}
+* '''Hirogawa''' (Pop. 331,270)
+* [[Otaira]] (Pop. 69,007)
+* [[Mizuhama]] (Pop. 74,533)
+* [[Namioka]] (Pop. 65,317)
+* [[Tsukumo]] (Pop. 52,114)
+* [[Shiosaki]] (Pop. 48,931)
+* [[Kanamura]] (Pop. 33,542)
+{{col-break}}
+* [[Hironaka]] (Pop. 26,250)
+* [[Nishimachi]] (Pop. 25,119)
+* [[Okushima]] (Pop. 12,475)
+* [[Mineyama]] (Pop. 15,899)
+* [[Takamine]] (Pop. 12,763)
+* [[Akasaka]] (Pop. 11,299)
+* [[Suginoki]] (Pop. 9,872)
+* [[Ukishima]] (Pop. 8,995)
+{{col-end}}
 
-== References and External Links ==
-=== Bibliography ===
+===Ishiwara Prefecture (OK-06)===
+{{main|Ishiwara Prefecture}}
+Ishiwara Prefecture is the largest prefecture on Harujima by area at 7,424.70 km², though its population of 982,238 makes it one of the most sparsely populated. Its capital, [[Ishiwara]], has 397,599 residents. The prefecture encompasses the wildest and most mountainous terrain on the island, including significant portions of the Harujima Alps. The {{nihongo|Alps-Toge|アルプス峠|Arupusu-tōge}} pass is a critical transportation corridor through the mountains. The prefecture also includes numerous small islands off the southern coast, many of which have populations of fewer than 100 residents. Kitamisaki and Minamimisaki are the primary secondary urban centres.
 
-Government of Okaiken. (2011). ''Application of Okaiken as a Full Member in the United Sovereign Nations''. Government Press.
+{{col-begin}}
+{{col-break}}
+* '''Ishiwara''' (Pop. 397,599)
+* [[Kitamisaki]] (Pop. 197,943)
+* [[Minamimisaki]] (Pop. 126,917)
+* [[Kita-Bunki]] (Pop. 52,177)
+* [[Alps-Toge]] (Pop. 81,377)
+* [[Minami-Bunki]] (Pop. 33,455)
+* [[Kaigandori]] (Pop. 21,451)
+* [[Shin-Ishiwara]] (Pop. 13,754)
+{{col-break}}
+* [[Shiogamishima]] (Pop. 10,288)
+* [[Higashijima]] (Pop. 8,819)
+* [[Ousejima]] (Pop. 7,372)
+* [[Namishira]] (Pop. 5,654)
+* [[Shodoshima]] (Pop. 5,282)
+* [[Osakikamijima]] (Pop. 3,785)
+* [[Ikata]] (Pop. 3,624)
+* [[Sekinan]] (Pop. 2,712)
+{{col-end}}
 
-Piggott, Joan R. (1997). ''Okaiken: A Nation Confused''. Tali University Press. ISBN 0-8047-2832-1.
+===Iwate Prefecture (OK-07)===
+{{main|Iwate Prefecture}}
+Iwate Prefecture occupies the northwestern highlands of Harujima, with a population of 1,192,696 and an area of 6,823.72 km², making it the second-largest prefecture on the island by area. Its capital, [[Iwate]], has 493,584 residents. The prefecture is characterized by its mountainous interior and extensive coastline along the Katsuran Sea. The city of Ishihama serves as the primary port, while Minamata and Hitoyoshi are significant agricultural centres. The prefecture is known for its production of premium shōchū spirits, distilled from the sweet potatoes and sugarcane cultivated in the volcanic uplands. Yakushima, a heavily forested island district, is a major ecotourism destination.
 
-Sansom, G. B. (1958). ''A History of Japan to 1334''. Stanford University Press.
+{{col-begin}}
+{{col-break}}
+* '''Iwate''' (Pop. 493,584)
+* [[Ishihama]] (Pop. 164,332)
+* [[Amakusa]] (Pop. 62,455)
+* [[Minamata]] (Pop. 55,210)
+* [[Hitoyoshi]] (Pop. 50,221)
+* [[Yakushima]] (Pop. 46,478)
+* [[Reihoku]] (Pop. 42,331)
+* [[Kasarizaki]] (Pop. 38,442)
+{{col-break}}
+* [[Tatsugoura]] (Pop. 35,908)
+* [[Uken]] (Pop. 32,359)
+* [[Setouchi]] (Pop. 28,552)
+* [[Aso]] (Pop. 25,411)
+* [[Kikuchi]] (Pop. 22,098)
+* [[Nagata]] (Pop. 20,334)
+* [[Yamatohama]] (Pop. 15,441)
+* [[Isso]] (Pop. 18,420)
+* [[Taken]] (Pop. 12,987)
+* [[Koniya]] (Pop. 10,358)
+{{col-end}}
 
-=== External Links ===
+===Kofu Prefecture (OK-08)===
+{{main|Kofu Prefecture}}
+Kofu Prefecture is situated in the south-central highlands of Harujima, with a population of 756,181 and an area of 2,277.59 km². Its capital, [[Kofu]], has 308,891 residents and serves as a regional transportation hub on the Harujima Shinkansen. The prefecture's economy is driven by horticulture, with the Kofu basin producing some of the finest fruit orchards on the island, particularly peaches and grapes. The city of Minato is a significant industrial port, while Showa and Chuo have developed as residential and commercial centres serving the Kofu metropolitan area. The {{nihongo|Minami-Alps|南アルプス|Minami-Arupusu}} district in the far south is a remote mountain community known for its hot springs.
 
-[http://www.kunaicho.ok/eindex.html Imperial Household Agency Official Website]
+{{col-begin}}
+{{col-break}}
+* '''Kofu''' (Pop. 308,891)
+* [[Minato]] (Pop. 87,583)
+* [[Showa]] (Pop. 64,312)
+* [[Chuo]] (Pop. 55,608)
+* [[Kofuyama]] (Pop. 46,204)
+* [[Hamanaka]] (Pop. 36,209)
+* [[Sunasaka]] (Pop. 33,416)
+{{col-break}}
+* [[Kaiyo]] (Pop. 27,107)
+* [[Kita-Fuefuki]] (Pop. 23,804)
+* [[Hayakawa]] (Pop. 20,233)
+* [[Uenohara]] (Pop. 16,507)
+* [[Fuefuki]] (Pop. 14,398)
+* [[Minami-Alps]] (Pop. 9,909)
+* [[Okishima]] (Pop. 5,124)
+* [[Nakajima]] (Pop. 4,031)
+* [[Kojima]] (Pop. 2,845)
+{{col-end}}
 
-[http://www.kokkai.ndl.go.jp/ National Diet of Okaiken Digital Archives]
+===Okazaki Prefecture (OK-09)===
+{{main|Okazaki Prefecture}}
+Okazaki Prefecture lies along the eastern coast of Harujima, south of the Okami metropolitan area, with a population of 1,770,119 and an area of 3,174.17 km². Its capital, [[Okazaki]], has 723,851 residents and is a major industrial and manufacturing centre. The prefecture's economy is heavily industrialized, with automotive manufacturing, electronics, and chemical production concentrated along the coastal plain. The city of Ozu is a significant secondary centre, while Nishio and Toyohama serve as important commercial and fishing ports respectively. The western highlands, including the Shitara and Toei districts, remain rural and forested.
 
-{{Okaiken topics}}
+{{col-begin}}
+{{col-break}}
+* '''Okazaki''' (Pop. 723,851)
+* [[Ozu]] (Pop. 194,551)
+* [[Nishio]] (Pop. 142,114)
+* [[Toyohama]] (Pop. 115,083)
+* [[Gamagori]] (Pop. 98,112)
+* [[Shinshiro]] (Pop. 75,341)
+* [[Kira]] (Pop. 68,155)
+* [[Atsumi]] (Pop. 54,221)
+{{col-break}}
+* [[Hazu]] (Pop. 45,819)
+* [[Kozakai]] (Pop. 41,566)
+* [[Otowa]] (Pop. 38,211)
+* [[Horai]] (Pop. 32,488)
+* [[Shitara]] (Pop. 26,935)
+* [[Mitoyagi-Oshima]] (Pop. 24,577)
+* [[Toei]] (Pop. 21,342)
+* [[Asuke]] (Pop. 18,918)
+* [[Tsukude]] (Pop. 18,405)
+* [[Toyone]] (Pop. 15,233)
+* [[Shinojima]] (Pop. 11,214)
+* [[Harukajima]] (Pop. 3,983)
+{{col-end}}
 
-[[Category:Okaiken]]
-[[Category:Adonia]]
+===Tokuyama Prefecture (OK-10)===
+{{main|Tokuyama Prefecture}}
+Tokuyama Prefecture is situated along the western coast of Harujima, directly south of the Okami metropolitan area, with a population of 1,826,990 and an area of 2,261.24 km². Its capital, [[Tokuyama]], has 965,268 residents and is one of the most important industrial cities on the island. The prefecture is a critical node on the Harujima Shinkansen, with the Tokuyama and Niihama stations providing high-speed connections. The prefecture's economy is dominated by heavy industry, including steel production, petrochemicals, and shipbuilding. The city of Iwakuni is home to a major naval station, while Kurose has developed as a centre for advanced materials manufacturing.
+
+{{col-begin}}
+{{col-break}}
+* '''Tokuyama''' (Pop. 965,268)
+* [[Niihama]] (Pop. 124,510)
+* [[Kurose]] (Pop. 107,255)
+* [[Iwakuni]] (Pop. 100,255)
+* [[Tachikawa]] (Pop. 85,247)
+* [[Kawanoe]] (Pop. 86,412)
+* [[Kudamatsu]] (Pop. 72,254)
+* [[Hikari]] (Pop. 58,431)
+{{col-break}}
+* [[Yanai]] (Pop. 46,258)
+* [[Komatsu]] (Pop. 38,114)
+* [[Tabuse]] (Pop. 29,332)
+* [[Otake]] (Pop. 24,115)
+* [[Waki]] (Pop. 21,566)
+* [[Kaminoseki]] (Pop. 15,224)
+* [[Hirao]] (Pop. 18,337)
+* [[Doi]] (Pop. 13,118)
+* [[Besshi]] (Pop. 11,452)
+* [[Kumage]] (Pop. 9,842)
+{{col-end}}
+
+===Yamagata Prefecture (OK-11)===
+{{main|Yamagata Prefecture}}
+Yamagata Prefecture lies along the northwestern coast of Harujima, between Miyagi and Akita, with a population of 1,815,109 and an area of 2,261.24 km². Its capital, [[Yamagata]], has 723,965 residents. The prefecture is traversed by the Harujima Shinkansen, with the Shin-Yamagata and Oga-Hijikawa stations serving the region. The prefecture's economy is a blend of coastal industry, agriculture, and an emerging technology sector. The city of Gunchu is a major commercial centre, while Iyo has developed as a significant manufacturing hub. The Hijikawa River valley supports intensive rice cultivation, and the coastal waters yield substantial commercial fishing catches.
+
+{{col-begin}}
+{{col-break}}
+* '''Yamagata''' (Pop. 723,965)
+* [[Gunchu]] (Pop. 243,118)
+* [[Iyo]] (Pop. 139,740)
+* [[Nagahama]] (Pop. 134,229)
+* [[Hijikawa]] (Pop. 88,417)
+* [[Goshiki]] (Pop. 76,512)
+* [[Nakayama]] (Pop. 64,229)
+* [[Nonaka]] (Pop. 58,112)
+{{col-break}}
+* [[Oda]] (Pop. 42,117)
+* [[Futami]] (Pop. 37,212)
+* [[Misaki]] (Pop. 33,541)
+* [[Nomura]] (Pop. 27,962)
+* [[Mikame]] (Pop. 25,116)
+* [[Shirokawa]] (Pop. 21,965)
+* [[Hiyoshi]] (Pop. 19,332)
+* [[Mima]] (Pop. 17,221)
+* [[Yoshida]] (Pop. 15,441)
+* [[Tawarazu]] (Pop. 13,024)
+* [[Yura]] (Pop. 10,950)
+* [[Kawanouchi]] (Pop. 8,405)
+* [[Hoketsu]] (Pop. 7,311)
+* [[Izume]] (Pop. 7,190)
+{{col-end}}
+
+===Yonezawa Prefecture (OK-12)===
+{{main|Yonezawa Prefecture}}
+Yonezawa Prefecture is situated in the central highlands south of the Okami metropolitan area, with a population of 2,090,036 and an area of 1,857.25 km². Despite its relatively small area, it is the third most populous prefecture on Harujima, with an extraordinary population density of 1,126 persons per square kilometre. Its capital, [[Yonezawa]], has 849,055 residents and is one of the most densely populated cities on the island. The prefecture's economy is driven by advanced manufacturing, electronics, and the service industries that support the dense urban population. The city of Usami is a major secondary centre, while Nanyo and Takahata serve as important industrial and commercial hubs.
+
+{{col-begin}}
+{{col-break}}
+* '''Yonezawa''' (Pop. 849,055)
+* [[Usami]] (Pop. 214,112)
+* [[Nanyo]] (Pop. 185,412)
+* [[Takahata]] (Pop. 142,331)
+* [[Shirataka]] (Pop. 118,504)
+* [[Nagai]] (Pop. 95,221)
+* [[Sagae]] (Pop. 82,117)
+* [[Murayama]] (Pop. 70,241)
+{{col-break}}
+* [[Obanawazawa]] (Pop. 61,118)
+* [[Kawanishi]] (Pop. 54,229)
+* [[Iide]] (Pop. 45,331)
+* [[Oguni]] (Pop. 38,112)
+* [[Asahi]] (Pop. 32,441)
+* [[Oko]] (Pop. 24,958)
+* [[Nishikawa]] (Pop. 18,324)
+* [[Yamanobe]] (Pop. 14,221)
+* [[Kahoku]] (Pop. 11,931)
+{{col-end}}
+
+==Economy==
+[[File:Silicon Strait.png|thumb|right|300px|The "Silicon Strait" technology corridor along Shinagawa's waterfront, one of Okaiken's primary high-tech hubs.]]
+
+Harujima is the economic engine of Okaiken, generating the largest share of the national gross domestic product. The island's economy has undergone a dramatic transformation over the past century, evolving from a base of heavy manufacturing and resource extraction to a diversified, technology-driven economy. Following the Digital Infrastructure Act of 2008, the island successfully shifted from heavy manufacturing to digital sovereignty and advanced computing. Harujima serves as the strategic home for [[Kizan Systems]], the corporation providing the hardware backbone for the nationwide [[Satori AI]] network. Under the state's "Technocratic Shield" doctrine, the island's infrastructure is heavily subsidised and prioritised to ensure the absolute security of the nation's "Silicon Lanes."
+
+The island's economy can be broadly divided into several key sectors. The Okami metropolitan area dominates the service, finance, and technology sectors, housing the headquarters of the nation's largest corporations and the primary stock exchange. The western industrial corridor, stretching from Tokuyama through Okazaki, remains the heartland of heavy industry, including steel production, petrochemicals, automotive manufacturing, and shipbuilding. The northern coastal region, centred on Shinagawa, has emerged as a hub for maritime technology, renewable energy, and semiconductor manufacturing. The agricultural heartlands of Fukushima, Iwate, and the interior valleys produce rice, tropical fruits, and premium livestock, while the fishing fleets of Miyagi and Iwate supply a significant portion of the nation's seafood.
+
+===Agriculture and fisheries===
+Despite the limited arable land, Harujima's agricultural sector is highly productive, leveraging the island's tropical climate and volcanic soils to produce high-value crops. The terraced rice paddies of the Fukushima uplands represent the most intensive wet-rice cultivation on the island, while the northern coastal plains of Miyagi Prefecture produce tropical and subtropical fruits including mangoes, papayas, passionfruit, and lychees. The {{nihongo|Red Emperor mango|赤帝マンゴー|Akatei Mangō}}, cultivated in protected glasshouses near Amami, commands premium auction prices and represents a significant agricultural export.
+
+The most famous agricultural export of the island is {{nihongo|Miyagi-buta|宮城豚|Miyagi-buta}}, a premium heritage breed of black pig raised on a specialized diet of fermented sweet potatoes and sugarcane byproducts. Miyagi-buta has become one of Okaiken's most sought-after luxury food exports, frequently featured in high-end culinary establishments across Adonia. The Iwate highlands are known for the production of premium shōchū spirits, distilled from sweet potatoes and sugarcane.
+
+The fishing industry remains a significant component of the island's economy. The warm oceanic currents funnelling through the northern straits create highly productive fishing grounds, and the commercial fleets operating out of Shinagawa, Oga, and Ishihama are among the largest in the nation. In recent decades, the industry has increasingly shifted toward sustainable aquaculture, with sheltered bays converted into massive sea-farming grids producing high-value amberjack and cultured pearls.
+
+===Industry and technology===
+The western industrial corridor between Tokuyama and Okazaki remains the heartland of heavy industry on Harujima. Steel production, petrochemicals, and shipbuilding are concentrated in the deep-water ports of Tokuyama and Niihama, while automotive manufacturing and electronics assembly dominate the Okazaki plain. The Yonezawa metropolitan area has developed as a centre for advanced manufacturing, producing precision components and microelectronics.
+
+The "Silicon Strait" corridor along Shinagawa's waterfront has emerged as one of Okaiken's premier technology hubs, specialising in maritime robotics, renewable energy research, and semiconductor manufacturing. The powerful currents of the Yanbaru strait provide ideal testing conditions for deep-sea mining submersibles and tidal turbine generators. The Okami metropolitan area dominates the digital economy, housing the headquarters of Kizan Systems and the primary data centres for the Satori AI network.
+
+===Tourism===
+Tourism on the island is defined by the {{nihongo|Jutsu Hyakkei|術百景|Jutsu Hyakkei|lit. "Hundred Views"}}, a state-sponsored registry that catalogs both natural landscapes and man-made landmarks. Reflecting the island's modern identity, "Industrial Heritage" sites like the [[Sentoku Tower]] and the [[Great Seawall]] have become as vital to Harujima's tourism sector as its traditional shrines and temples. The northern coastal resorts of Miyagi Prefecture attract millions of domestic visitors seeking tropical beaches and warm-weather escapes, while the mountain hot springs of Ishiwara and Fukushima draw wellness tourists year-round. The historic Tejima trading post in Shinagawa Bay, a UNESCO World Heritage Site, is one of the most visited cultural sites on the island.
+
+==Transportation==
+[[File:Harujima Shinkansen Wow.png|thumb|right|300px|An H200 Series "Harujima" train on the Harujima Shinkansen, the nation's primary high-speed rail artery.]]
+
+Harujima possesses a highly automated and efficient transportation network, befitting its role as the administrative and economic heart of Okaiken.
+
+===Rail===
+{{main|Harujima Shinkansen}}
+The [[Harujima Shinkansen]] ({{nihongo|春島新幹線|Harujima Shinkansen|lit. "Harujima New Trunk Line"}}) is the main artery of the nationwide Okaiken Shinkansen network, connecting the northern capital region of Shinagawa with the central network hub of Toyozawa through the capital Okami. The line is the oldest and busiest in Okaiken, operated jointly by OR Harujima Group and OR Yagikoshu. At Toyozawa-Moriguchi, it connects with the Ishijima Shinkansen and the Minami-Yagikoshu Shinkansen, forming the backbone of the nation's entire passenger rail system.
+
+There are three types of services on the line: from fastest to slowest, they are the limited-stop Nozomi, the semi-fast Nanpu, and the all-station Hikari. The Nozomi service covers the 217.9 km from Shinagawa to Okami Chuo in approximately 1 hour and 15 minutes, while the full 1,126.1 km route from Shinagawa to Toyozawa-Moriguchi takes approximately 2 hours and 31 minutes. The line makes 26 stations across its full length, with key stops at Akita, Shin-Yamagata, Okami Chuo, Tokuyama, Kofu, Hirogawa, Naruto, Anjo-Saikawa, and Kadoma.
+
+The line was constructed in phases beginning on 11 October 1957, with the first sections opening on 28 May 1966. The critical northern section connecting Okami to Shinagawa was delayed by the Quiet Revolution of 1968 and did not open until 18 April 1973. The route's alignment through the mountainous interior became one of the most controversial political decisions in modern Okaiken history, known as the "Great LDP Snub," when powerful political factions routed the line inland through sparsely populated areas rather than following the more logical and cost-effective northwestern coastline.
+
+Rolling stock on the line includes the H100 Series 16-car sets (since March 1999) and the H200 Series 16-car sets (since July 2014), with the H200 Series used for high-speed Nozomi services.
+
+===Expressway network===
+The national expressway system utilises the "Oka-Pass"—a mandatory electronic toll and automated guidance system that optimises traffic flow through the island's mountainous terrain. The primary expressway, the Harujima Expressway, runs north-south along the coastal plain, connecting Shinagawa to Okami and continuing south to the Toyozawa metropolitan area. The Trans-Alps Expressway traverses the Harujima Alps through a series of massive tunnels, connecting the western industrial corridor with the eastern coastal cities.
+
+===Air transport===
+The island's heavy maritime needs are served by [[Okami Port]], while [[Okami-Tobu International Airport]] acts as the primary aviation gateway for the East Fosian Sphere. The airport provides extensive domestic connections to all major Sanese cities as well as international service to destinations across the Shendan Ocean. [[Miyagi Regional Airport]], located approximately 35 kilometres south of Shinagawa, provides domestic connections and limited international service to Yanbaru and the Fosian mainland.
+
+===Ferry network===
+The Port of Shinagawa operates extensive passenger ferry services connecting the island to destinations across the Shendan Ocean, with regular routes to ports in Yanbaru. These services provide an important transportation alternative, particularly during peak travel seasons when Shinkansen capacity is strained. The deep-water ports of Tokuyama, Oga, and Ishihama also handle significant cargo and passenger traffic.
+
+===Urban transit===
+The Okami Municipal Subway operates an extensive network of thirteen lines serving the metropolitan area, with daily ridership exceeding 8 million passengers. The Shinagawa Municipal Subway operates a three-line network connecting the central business district with the port facilities, residential suburbs, and the Silicon Strait technology corridor. Both systems utilise automated train operation technology integrated with the Satori AI network for real-time capacity management.
+
+==Flora, fauna, and tourism==
+[[File:Chrysanthemum Harujima.png|thumb|right|250px|The Chrysanthemum, the national flower and symbol of the Imperial House, is native to the Harujima highlands.]]
+
+Harujima's biodiversity ranges from subtropical moist broadleaf forests in the lowlands to various conifers in the higher alpine altitudes. The island is the historic home of the Chrysanthemum, the national flower and symbol of the Imperial House, as well as the {{nihongo|Sanese macaque|サネスマカク|Sanesu makaku}}, the red-faced monkey. The macaques are a notable tourist attraction, particularly for their habit of bathing in volcanic hot springs during the cooler winter months in the high altitudes. The northern coastal mangrove ecosystems of Miyagi Prefecture support diverse marine life, while the alpine meadows of the Harujima Alps harbour endemic plant species found nowhere else in the archipelago.
+
+The {{nihongo|Jutsu Hyakkei|術百景|Jutsu Hyakkei|lit. "Hundred Views"}} is a state-sponsored registry that catalogs both natural landscapes and man-made landmarks of cultural significance. This seamless blend of ancient tradition and futuristic industry ensures Harujima's enduring role as the heart of the Sanese national psyche. Key natural sites include the Harujima Alps, the volcanic hot springs of Ishiwara, the coral reefs of the northern coast, and the ancient cedar forests of Yakushima in Iwate Prefecture. Key industrial heritage sites include the Sentoku Tower, the Great Seawall, and the historic Tejima trading post.
+
+==Culture==
+[[File:Heiji Palace.png|thumb|right|250px|The reconstructed Heiji Palace, whose "Floating Pavilion" style influenced Sanese residential architecture for a millennium.]]
+
+Harujima's cultural identity is inseparable from the broader Sanese national identity, yet the island possesses distinct regional characteristics shaped by its tropical climate, its history as the seat of imperial power, and its role as the gateway to the northern archipelago. The island's culture is a synthesis of the refined courtly traditions of the Heiji period, the martial ethos of the Sengoku era, and the technocratic modernity of the post-Jutsu Restoration state.
+
+The island's literary tradition is among the richest in the nation. The {{nihongo|Tale of Heijin|平人の物語|Heijin no monogatari}}, authored by the courtier Sei Shunagon in the early 11th century, remains Okaiken's most vital literary relic, offering a window into the hyper-ritualized social conduct of the Aesthetic Hegemony. The {{nihongo|Tale of the Soga Brothers|曽我兄弟の物語|Soga kyōdai no monogatari}} is a foundational epic of Sanese martial literature, while the Man'yōshū (759) represents the first great flowering of native Sanese poetry.
+
+The performing arts tradition includes Noh theatre, which dramatized the tragic ghosts of the Shuhei War during the Higashiyama cultural movement, and the Tea Protocol, formalized during the Kitayama period as a fusion of aristocratic elegance and warrior bravado. In the modern era, Harujima's cultural output has expanded to encompass a vibrant popular music scene, a globally influential animation industry centred in the Okami metropolitan area, and a culinary tradition that blends central Sanese techniques with the tropical ingredients of the northern coast.
+
+===Festivals===
+The island hosts numerous annual festivals reflecting its diverse cultural heritage. The {{nihongo|Port Festival|港祭り|Minato Matsuri}} in Shinagawa, held each January, celebrates the city's maritime heritage with boat races, fireworks, and seafood fairs. The {{nihongo|Mango Festival|マンゴー祭り|Mangō Matsuri}} in June coincides with the peak harvest of the Red Emperor mango. The [[Okami Summer Festival]] draws millions of visitors each January with its massive lantern displays and traditional dance performances along the Okachi River. The {{nihongo|Alps Fire Festival|アルプス火祭り|Arupusu Hi Matsuri}} in Ishiwara, held each September, features massive bonfires in the mountain passes to mark the end of the winter snow season.
+
+===Cuisine===
+Harujima's cuisine reflects the island's extraordinary range of climates and cultural influences. The Okami metropolitan area is the nation's undisputed culinary capital, offering everything from traditional kaiseki multi-course dining to cutting-edge molecular gastronomy. The northern coastal region specialises in tropical-influenced dishes, including {{nihongo|Shinagawa-style amberjack|品川ブリ|Shinagawa Buri}}, prepared with tropical fruit marinades, and {{nihongo|Miyagi-buta shabu-shibu|宮城豚しゃぶしゃぶ|Miyagi-buta shabu-shibu}}, a hot pot dish featuring the region's celebrated pork. The interior highlands are known for hearty mountain cuisine, including grilled river fish, wild vegetable tempura, and the distinctive shōchū spirits of Iwate Prefecture.
+
+==Education==
+Harujima is the centre of the national education system, housing the majority of Okaiken's most prestigious universities and research institutions. The [[Okami Imperial University]] is the nation's oldest and most selective institution, tracing its origins to the imperial academy established during the Asama period. The [[Shinagawa Institute of Technology]] ({{nihongo|品川工科大学|Shinagawa Kōka Daigaku}}) is a leading research university specialising in maritime engineering and renewable energy systems, maintaining close partnerships with the technology firms of the Silicon Strait. The [[Miyagi Prefectural University]] ({{nihongo|宮城県立大学|Miyagi Kenritsu Daigaku}}) maintains programs in tropical agriculture, aquaculture, and regional economics.
+
+The island's education system is governed by the National Competency Exam, a rigorous standardised testing regime that determines university admission and, by extension, career trajectory. The STEP REP Program mandates bilingual fluency in Sanese and Trentannian, ensuring competitiveness in Harujima's international tech corridors. Literacy rates on the island exceed 99%, and the proportion of residents holding tertiary qualifications is the highest in the nation.
+
+==Sport==
+{{main|Sport in Okaiken}}
+Harujima is the centre of professional sport in Okaiken. The island hosts the headquarters of the nation's major sporting federations and the majority of its professional franchises. The [[Okami Dome]] is the largest indoor sporting arena in the nation, hosting baseball, football, and major concert events. The [[Shinagawa Marine Stadium]] is a waterfront venue that hosts professional football matches and international sailing regattas.
+
+Traditional martial arts, including kendo, judo, and kyudo, remain widely practiced, with the annual Imperial Martial Arts Tournament at the Okami Budokan drawing competitors from across the archipelago. The island's tropical climate has also fostered a thriving water sports culture, with surfing, diving, and sailing popular along the northern coast. The [[Harujima Alps]] host annual alpine running and skiing competitions, while the Okachi River Marathon is one of the nation's premier distance running events.
+
+==Notable people==
+* [[Honda Shigetada]] (1576–1643) — The "Warrior who Surpassed Death," unifier of Okaiken, later Emperor Shirakawa
+* [[Soga Ujiteru]] (1158–1229) — First Sei-i Taishōgun, subject of the Tale of the Soga Brothers
+* [[Yoshimizu Ohno]] (1912–1985) — Prime Minister who initiated the Sankoku rebranding
+* [[Nakamura Ren]] (born 1962) — Technology entrepreneur, former CEO of Kizan Systems
+* [[Fujimoto Ayane]] (born 1988) — Internationally acclaimed recording artist, born in Yonezawa
+* [[Takeda Isshin]] (1934–2001) — Nobel laureate in physics, born in Iwate
+* [[Moriwaki Ritsuko]] (born 1971) — Award-winning novelist, born in Fukushima
+* [[Ishikawa Tetsuya]] (born 1994) — Professional baseball pitcher, born in Akita
+* [[Sato Akiko]] (born 1952) — Renowned chef and advocate for Miyagi-buta cuisine
+* [[Chiba Masako]] (born 1975) — Marine biologist specialising in coral reef restoration
+* [[Tanaka Hiroshi]] (born 1968) — Technology entrepreneur, founder of Silicon Strait semiconductor firm
+* [[Yamamoto Kenji]] (1891–1963) — Naval architect who designed the modern port facilities at Shinagawa
+
+==See also==
+* [[Okaiken]]
+* [[Ishijima]]
+* [[Yagikoshu]]
+* [[Sankoku]]
+* [[Harujima Shinkansen]]
+* [[History of Okaiken]]
+* [[Prefectures of Okaiken]]
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* Government of Okaiken. (2011). ''Application of Okaiken as a Full Member in the United Sovereign Nations''. Government Press.
+* Piggott, Joan R. (1997). ''Okaiken: A Nation Confused''. Tali University Press. ISBN 0-8047-2832-1.
+* Sansom, G. B. (1958). ''A History of the Sanese Archipelago to 1334''. Stanford University Press.
+
+===External links===
+* [https://talod.miraheze.org/ Imperial Household Agency Official Website]
+* [https://talod.miraheze.org/ National Diet of Okaiken Digital Archives]
+
+[[Category:Harujima| ]]
+[[Category:Islands of Okaiken]]
+[[Category:Sankoku]]
+```

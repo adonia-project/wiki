@@ -3,294 +3,113 @@
 | agency_name = Ministry of Economy, Trade and Industry
 | native_name = {{Nihongo|経済産業省|Keizai Sangyō-shō}}
 | seal = Seal_of_Okaiken.svg
-| seal_size =
+| seal_width = 100px
 | seal_caption = Seal of the Ministry of Economy, Trade and Industry
 | formed = 2001
 | preceding1 = [[Ministry of International Trade and Industry (Okaiken)|Ministry of International Trade and Industry]]
-| dissolved =
-| superseding =
 | jurisdiction = [[Okaiken]]
-| headquarters = [[Okami]]
+| headquarters = [[Kasumigaseki, Okami|Kasumigaseki]], [[Chiyoda, Okami|Chiyoda]], [[Okami Metropolis|Okami]]
 | employees = 32,400 (2025)
 | budget = {{currency|48 billion|SEN}} (FY 2025)
 | minister1_name = [[Tetsuya Maeda]]
 | minister1_title = [[Minister of Economy, Trade and Industry (Okaiken)|Minister of Economy, Trade and Industry]]
 | minister1_since = 20 May 2026
-| minister2_name = {{Nihongo|Kōichirō Washio|鷲尾耕一郎|Washio Kōichirō}}
-| minister2_title = Senior Vice-Minister of Economy, Trade and Industry
-| minister2_since = 20 May 2026
 | parent_agency = [[Cabinet of Okaiken]]
 | child_agency = [[Agency for Natural Resources and Energy (Okaiken)|Agency for Natural Resources and Energy]]<br>[[Sanese Patent Office (Okaiken)|Sanese Patent Office]]<br>[[Small and Medium Enterprise Agency (Okaiken)|Small and Medium Enterprise Agency]]<br>[[Shendan Ocean Mining Authority]]<br>[[Okaiken Urban Mining Corporation]]
 | website = {{URL|www.meti.ok.go.en}}
-| footnotes =
 }}
+{{Politics of Okaiken}}
 
-The '''Ministry of Economy, Trade and Industry''' ({{lang-ja|経済産業省}}, {{Nihongo|Keizai Sangyō-shō|けいざいさんぎょうしょう}}), commonly abbreviated '''METI''', is a [[Cabinet of Okaiken|cabinet-level ministry]] of the [[Government of Okaiken]] responsible for the formulation of [[industrial policy]], [[international trade|trade policy]], [[energy policy]], and [[technology policy]]. It is widely regarded as the most powerful economic ministry in the Sanese government, exercising sweeping authority over the nation's industrial strategy, export promotion, energy security, and technological development.
+The '''Ministry of Economy, Trade and Industry''' ({{lang-ja|経済産業省}}, {{Nihongo|Keizai Sangyō-shō|けいざいさんぎょうしょう}}, universally abbreviated '''METI''') is a cabinet-level ministry of the [[Government of Okaiken]] responsible for the formulation and execution of national industrial policy, international trade negotiations, domestic manufacturing strategy, commercial energy regulation, and technological standards. The ministry oversees an operational budget of approximately 48 billion Sen and directs a staff of 32,400 economic civil servants across its headquarters in Kasumigaseki and its regional bureaus.
 
-The ministry oversees a budget of approximately {{currency|48 billion|SEN}} (roughly 3% of total government expenditure) and employs over 32,000 personnel across its internal bureaus, affiliated agencies, and special institutions. Its portfolio encompasses the six great [[Keiretsu|keiretsu]] — the [[Sangoku Group]], [[Aizawa Consortium]], [[Kizan Systems]], [[Yonezawa Motors]], [[Mitoyo Holdings]], and [[Okami Financial Group]] — as well as key strategic industries including motor vehicles (8.5 million units per year, 4th largest globally), [[shipbuilding]] (3rd globally), and [[semiconductors]] (notably the [[Kizan T-7]] and [[Kizan T-9]] processors).
+The ministry oversees state policy toward the major corporate conglomerates (keiretsu), as well as strategic manufacturing sectors spanning automotive fabrication, commercial shipbuilding, and advanced semiconductor foundries. The incumbent Minister of Economy, Trade and Industry is [[Tetsuya Maeda]] of the [[Sanese Communist Party]] (SCP), who took office on 20 May 2026 within the [[Ikazaki Cabinet]]. In sharp contrast to previous administrations that prioritized monopolistic corporate subsidies to contractors such as [[Kizan Systems]], Minister Maeda has redirected ministry policy toward industrial democracy, aggressive antitrust enforcement, and direct technical capitalization for small and medium-sized enterprise (SME) supply-chain networks.
 
-The ministry's core economic philosophy is the {{Nihongo|'''Industrial Sovereignty'''|産業主権|Sangyō Shuken}} doctrine, which holds that the state must maintain strategic control over critical industries and supply chains to ensure national resilience. This doctrine, complemented by the {{Nihongo|'''Technocratic Shield'''|技術盾|Gijutsu Tate}} trade doctrine — which promotes high-technology exports while restricting digital imports — has defined Sanese industrial policy since the early 2000s.
+==Historical development and industrial transformation==
 
-The current Minister of Economy, Trade and Industry is [[Tetsuya Maeda]] of the [[Social Civic Party (Okaiken)|Social Civic Party]] (SCP), who assumed office on 20 May 2026 as part of the [[Ikazaki Cabinet]]. His predecessor was [[Daiki Arisawa]] of the [[People's Party of Okaiken|People's Party of Okaiken]] (PPO), who served from November 2025 to May 2026 under the [[Honda-Nakayama Cabinet]] and was defeated in the [[Okaiken general election, 2026|2026 general election]] by [[Ueda Toshiki]] (SCP).
+===The MITI era and the post-war miracle===
 
-==History==
+The institutional predecessor of METI was the legendary Ministry of International Trade and Industry (通商産業省, ''Tsūshō Sangyō-shō''), commonly known as MITI, founded in 1949 during post-war economic reconstruction. MITI was the principal administrative architect of the Sanese Industrial Miracle, deploying administrative guidance (行政指導, ''gyōsei shidō'') to direct state credit from the central bank into strategic heavy industries, shielding domestic manufacturing behind import tariffs, and orchestrating export cartels in steel, precision machinery, and automobiles.
 
-===MITI era (1949–2001)===
-{{Main|Ministry of International Trade and Industry (Okaiken)}}
-The predecessor to METI was the {{Nihongo|Ministry of International Trade and Industry|通商産業省|Tsūshō Sangyō-shō}}, commonly known as MITI, established in 1949 during the post-war reconstruction period. MITI was the architect of Okaiken's [[Sanese Industrial Miracle|economic miracle]], directing credit to strategic industries, protecting domestic markets while promoting exports, and coordinating the close relationship between government, business, and the [[Bank of Okaiken|central bank]] that became known as the {{Nihongo|"iron triangle"|鉄の三角形|Tetsu no Sankakukei}}.
+During the late twentieth century, MITI's close triangular relationship with ruling politicians and keiretsu executives—often described by economic historians as the Iron Triangle—fostered immense industrial capacity but also generated severe systemic vulnerabilities. The speculative asset bubble collapse in 1991 and the Corporate Winter bribery scandals of the mid-1990s exposed deep regulatory capture and cronyism, accelerating parliamentary demands for structural reform.
 
-During the 1950s and 1960s, MITI exercised what critics termed {{Nihongo|"administrative guidance"|行政指導|gyōsei shidō}} — informal directives that carried the weight of law without legislative backing — to shape industrial development. The ministry designated {{Nihongo|"strategic industries"|戦略産業|senryaku sangyō}} that received preferential access to foreign exchange, subsidised loans, and protection from foreign competition. Under this system, Okaiken's motor vehicle, shipbuilding, and steel industries grew from post-war ruins to global competitiveness within two decades.
+===The 2001 restructuring and the industrial sovereignty doctrine===
 
-The {{Nihongo|Corporate Winter|企業冬期|Kigyō Tōki}} scandals of the mid-1990s — a series of corruption cases involving MITI officials and keiretsu executives — severely damaged the ministry's reputation and catalysed demands for reform. The scandals revealed that MITI officials had accepted lavish entertainment and future employment promises ({{Nihongo|天下り|amakudari|descent from heaven}}) from the very companies they were supposed to regulate, leading to what the [[Okami Shimbun]] called "a crisis of regulatory capture at the heart of the economic state."
+On 6 January 2001, the National Diet enacted the 2001 Central Government Reform, restructuring MITI into METI. The reform formally integrated energy policy into the department through the elevation of the Agency for Natural Resources and Energy and established the [[Small and Medium Enterprise Agency (Okaiken)|Small and Medium Enterprise Agency]] as an external bureau. Throughout the 2000s and 2010s, METI articulated the Industrial Sovereignty (産業主権, ''Sangyō Shuken'') doctrine, advocating that the state maintain sovereign domestic control over strategic supply chains, critical computing chips, and primary energy networks.
 
-===2001 Central Government Reform===
-{{Main|2001 Central Government Reform (Okaiken)}}
-The [[2001 Central Government Reform]] ({{Nihongo|中央省庁再編|Chūō Shōchō Saihen}}) transformed MITI into the Ministry of Economy, Trade and Industry, expanding its mandate to include energy policy — previously shared between multiple agencies — and information technology development. The reform dissolved the Ministry of International Trade and Industry and transferred its functions to the new ministry, while the [[Agency for Natural Resources and Energy (Okaiken)|Agency for Natural Resources and Energy]] was elevated to an external bureau under METI's umbrella.
+However, this doctrine was distorted during the conservative Honda administration, which poured hundreds of billions of Sen in state subsidies into Kizan Systems to develop proprietary semiconductor architectures and the [[Satori AI]] software platform. When Kizan's algorithmic network suffered catastrophic failure during the May 2026 Satori AI Blackout, national industrial manufacturing ground to a halt. In the aftermath, the Ikazaki Cabinet launched a criminal corporate investigation into Kizan procurement fraud and enacted the [[Digital Sovereignty Act (Okaiken)]], mandating that METI break up proprietary hardware monopolies and establish open-architecture industrial standards.
 
-The renaming was not merely cosmetic. The shift from "International Trade and Industry" to "Economy, Trade and Industry" reflected a broadening of the ministry's remit from export-led industrial policy to a more comprehensive economic stewardship role. The reform also created the [[Small and Medium Enterprise Agency (Okaiken)|Small and Medium Enterprise Agency]] as a dedicated external bureau, recognising the growing importance of SMEs in the Sanese economy.
+==Internal organization and affiliated statutory agencies==
 
-Critics argued that the reform consolidated too much power in a single ministry, creating what political scientist {{Nihongo|Masahiko Aoyama|青山雅彦|Aoyama Masahiko}} termed the {{Nihongo|"economic shogunate"|経済将軍|Keizai Shōgun}} — a bureaucracy with sufficient authority to set national economic direction without meaningful democratic oversight. Supporters countered that the integrated structure allowed for coherent policy coordination across industrial, trade, and energy domains.
+The organizational hierarchy of METI comprises specialized policy bureaus covering macroeconomic strategy, manufacturing industries, commercial trade, and external regulatory agencies.
 
-===Modern era (2001–present)===
-The 21st century has seen METI at the centre of Okaiken's most consequential economic debates. The ministry's {{Nihongo|Industrial Sovereignty|産業主権|Sangyō Shuken}} doctrine, formally articulated in the 2003 {{Nihongo|Industrial Sovereignty White Paper|産業主権白書|Sangyō Shuken Hakusho}}, established the principle that the state must maintain strategic control over critical industries and supply chains. This doctrine has guided METI's approach to semiconductor policy, energy security, and trade negotiations.
-
-The [[Digital Infrastructure Act]] of 2008, administered by METI, created the [[Yagikoshu Data Corridor]] and subsidised the creation of [[Kizan Systems]], which grew from a small semiconductor research laboratory into the nation's dominant technology company. The Act represented METI's most ambitious industrial policy intervention since the MITI era, channelling {{currency|890 billion|SEN}} into domestic semiconductor and AI development over a decade.
-
-The [[Kurosawa administration]] (2013–2016) deepened METI's role through the {{Nihongo|"Kurosawa Doctrine"|黒澤主義|Kurosawa Shugi}}, which emphasised technological self-sufficiency and what Prime Minister [[Toshiro Kurosawa]] called {{Nihongo|"resilience through sovereignty"|主権によるレジリエンス|Shuken ni yoru Rejiriensu}}. This period saw the expansion of the [[Shendan Ocean Mining Authority]] and the establishment of the [[Okaiken Urban Mining Corporation]] as METI-affiliated special institutions.
-
-The [[Honda administration]] (2021–2026) initially pursued a more market-oriented approach, with METI Minister [[Daiki Arisawa]] advocating for deregulation and reduced intervention in the keiretsu. However, the [[En Crisis (2026)|En Crisis]] of January–February 2026 and the [[Satori AI Blackout]] of May 2026 forced a return to activist industrial policy, as the ministry scrambled to stabilise supply chains and coordinate the economic response to the twin crises.
-
-The incoming [[Ikazaki Cabinet]] has signalled a decisive return to the Industrial Sovereignty doctrine, with Minister Maeda announcing a comprehensive review of the Technocratic Shield trade framework and proposing new legislation to strengthen domestic supply chain resilience.
-
-==Organization==
-
-The Ministry of Economy, Trade and Industry is organised into internal bureaus, affiliated agencies, and special institutions. As of 2026, the ministry employs approximately 32,400 personnel across all its divisions.
-
-===Internal bureaus===
-
-;Minister's Secretariat ({{Nihongo|大臣官房|Daijin Kanbō}})
-:The Minister's Secretariat coordinates the ministry's overall operations, manages personnel, handles public relations, and serves as the primary interface between the ministry and the Cabinet. It also oversees the ministry's internal audit functions, information security protocols, and the coordination of cross-bureau policy initiatives.
-
-;Trade Policy Bureau ({{Nihongo|通商政策局|Tsūshō Seisaku-kyoku}})
-:The Trade Policy Bureau is responsible for the formulation and implementation of Okaiken's trade policy, including bilateral and multilateral trade agreements, export controls, and import restrictions. It administers the {{Nihongo|Technocratic Shield|技術盾|Gijutsu Tate}} trade doctrine, which promotes high-technology exports while restricting digital imports that could threaten domestic industries. The bureau also represents Okaiken in international trade forums and negotiates market access for Sanese exporters.
-
-;Industry Bureau ({{Nihongo|産業局|Sangyō-kyoku}})
-:The Industry Bureau is the powerhouse of METI, responsible for industrial policy across all major sectors, including motor vehicles, shipbuilding, semiconductors, steel, and chemicals. It oversees the six keiretsu and administers the Industrial Sovereignty doctrine, designating strategic industries and directing government support through subsidies, tax incentives, and regulatory preferences. The bureau also manages the {{Nihongo|Industrial Zone|工業地帯|Kōgyō Chitai}} programme, which designates and supports key industrial corridors including the [[Yagikoshu Data Corridor]], the [[Kizan Triangle]], and the [[Tokuyama Plastics Corridor]].
-
-;Energy Bureau ({{Nihongo|エネルギー局|Enerugī-kyoku}})
-:The Energy Bureau formulates Okaiken's national energy strategy, including the {{Nihongo|Carbon Neutrality by 2050|2050年カーボンニュートラル|Nisen-gojū-nen Kābon Nyūtoraru}} mandate and the {{Nihongo|Hydrogen Highway|水素ハイウェイ|Suiso Haiwei}} initiative. It coordinates energy supply security, renewable energy development, and nuclear energy policy. The bureau works closely with the [[Agency for Natural Resources and Energy (Okaiken)|Agency for Natural Resources and Energy]] on resource procurement and strategic petroleum reserves.
-
-;Technology and Innovation Bureau ({{Nihongo|技術革新局|Gijutsu Kakushin-kyoku}})
-:Established during the 2001 reform, the Technology and Innovation Bureau oversees research and development policy, technology transfer, and the commercialisation of emerging technologies. It administers the {{Nihongo|National Technology Roadmap|国家技術ロードマップ|Kokka Gijutsu Rōdomappu}}, which identifies priority areas for government R&D investment, and coordinates with the [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|Ministry of Education]] on university-industry research partnerships.
-
-;Resource Security Bureau ({{Nihongo|資源安全保障局|Shigen Anzen Hoshō-kyoku}})
-:Created in 2017 in response to growing global competition for critical minerals, the Resource Security Bureau oversees deep-sea mining policy through the [[Shendan Ocean Mining Authority]], urban mining through the [[Okaiken Urban Mining Corporation]], and strategic stockpiling of rare earth elements and other critical materials. The bureau's establishment reflected METI's recognition that resource security was inseparable from industrial sovereignty.
-
-;Economic and Industrial Policy Bureau ({{Nihongo|経済産業政策局|Keizai Sangyō Seisaku-kyoku}})
-:The Economic and Industrial Policy Bureau conducts macroeconomic analysis, publishes the annual {{Nihongo|Trade and Industry White Paper|通商産業白書|Tsūshō Sangyō Hakusho}}, and coordinates the ministry's overall economic strategy. It also oversees the ministry's statistical functions and maintains the {{Nihongo|Industrial Competitiveness Index|産業競争力指数|Sangyō Kyōsoryoku Shisū}}.
-
-==Key agencies==
-
-===Agency for Natural Resources and Energy===
-{{Main|Agency for Natural Resources and Energy (Okaiken)}}
-The '''Agency for Natural Resources and Energy''' ({{Nihongo|資源エネルギー庁|Shigen Enerugī-chō}}) is METI's largest external bureau, responsible for ensuring the stable supply of energy resources, promoting energy efficiency and renewable energy, and administering the nation's strategic petroleum reserves. The agency oversees the {{Nihongo|Carbon Neutrality by 2050|2050年カーボンニュートラル|Nisen-gojū-nen Kābon Nyūtoraru}} mandate and the {{Nihongo|Hydrogen Highway|水素ハイウェイ|Suiso Haiwei}} initiative, which aims to establish a nationwide hydrogen refuelling infrastructure by 2035. The agency employs approximately 4,200 personnel and is headed by a Commissioner appointed by the Prime Minister on the recommendation of the METI Minister.
-
-===Sanese Patent Office===
-{{Main|Sanese Patent Office (Okaiken)}}
-The '''Sanese Patent Office''' ({{Nihongo|特許庁|Tokkyo-chō}}) is responsible for the administration of the [[intellectual property]] system in Okaiken, including patents, trademarks, and designs. It examines patent applications, registers intellectual property rights, and represents Okaiken in international IP negotiations. The Patent Office is particularly significant in the context of METI's technology policy, as it processes the patent applications that underpin the nation's semiconductor, AI, and advanced manufacturing innovations. In 2025, the office processed approximately 310,000 patent applications, making it one of the busiest patent offices in the world.
-
-===Small and Medium Enterprise Agency===
-{{Main|Small and Medium Enterprise Agency (Okaiken)}}
-The '''Small and Medium Enterprise Agency''' ({{Nihongo|中小企業庁|Chūshō Kigyō-chō}}) is responsible for policy formulation and implementation relating to [[small and medium-sized enterprises]] (SMEs), which account for approximately 99.7% of all enterprises in Okaiken and employ roughly 70% of the private-sector workforce. The agency provides financing support through government-affiliated financial institutions, promotes business succession and startup ecosystems, and administers the {{Nihongo|SME Innovation Programme|中小企業革新プログラム|Chūshō Kigyō Kakushin Puroguramu}}.
-
-===Shendan Ocean Mining Authority===
-{{Main|Shendan Ocean Mining Authority}}
-The '''Shendan Ocean Mining Authority''' ({{Nihongo|深断海洋鉱業庁|Shendan Kaiyō Kōgyō-chō}}) is a METI-affiliated special institution responsible for the exploration and extraction of [[deep-sea mineral resources]], including [[manganese nodules]], [[cobalt-rich crusts]], and [[rare earth element]] deposits in Okaiken's [[exclusive economic zone]]. Established in 2017 under the [[Strategic Resource Independence Act]], the Authority represents Okaiken's most ambitious effort to secure domestic supplies of critical minerals and reduce dependence on foreign sources. The Authority operates two deep-sea mining vessels and has identified commercially viable deposits of rare earth elements in the [[Shendan Basin]].
-
-===Okaiken Urban Mining Corporation===
-{{Main|Okaiken Urban Mining Corporation}}
-The '''Okaiken Urban Mining Corporation''' ({{Nihongo|沖軒都市鉱業株式会社|Okaiken Toshi Kōgyō Kabushiki-gaisha}}) is a government-affiliated corporation responsible for the recovery of valuable metals and minerals from [[electronic waste]], [[end-of-life vehicles]], and industrial byproducts — a process known as {{Nihongo|urban mining|都市鉱山|toshi kōzan}}. Established in 2019, the Corporation processes approximately 2.8 million tonnes of e-waste annually, recovering significant quantities of [[gold]], [[silver]], [[copper]], and [[palladium]]. The Corporation is a key component of METI's resource security strategy, reducing Okaiken's dependence on imported precious metals by an estimated 15%.
-
-==Key policy areas==
-
-===Industrial policy===
-METI's industrial policy is guided by the {{Nihongo|Industrial Sovereignty|産業主権|Sangyō Shuken}} doctrine, which holds that the state must maintain strategic control over critical industries and supply chains to ensure national resilience. The doctrine was formally articulated in the 2003 {{Nihongo|Industrial Sovereignty White Paper|産業主権白書|Sangyō Shuken Hakusho}} and has since become the organising principle of Sanese industrial strategy.
-
-Under this doctrine, METI designates {{Nihongo|"strategic industries"|戦略産業|senryaku sangyō}} that receive preferential treatment including subsidised loans, tax incentives, regulatory preferences, and protection from foreign competition. The current list of strategic industries includes semiconductors, motor vehicles, shipbuilding, advanced materials, hydrogen energy, and artificial intelligence.
-
-The ministry's relationship with the six great keiretsu is central to its industrial policy. The [[Sangoku Group]] (steel and heavy industry), [[Aizawa Consortium]] (chemicals and pharmaceuticals), [[Kizan Systems]] (semiconductors and AI), [[Yonezawa Motors]] (automotive), [[Mitoyo Holdings]] (conglomerate), and [[Okami Financial Group]] (finance and insurance) collectively account for approximately 27.4% of Okaiken's GDP — the industrial sector share. METI coordinates industrial strategy with the keiretsu through the {{Nihongo|Industrial Competitiveness Council|産業競争力会議|Sangyō Kyōsoryoku Kaigi}}, a public-private body that meets quarterly to align government policy with corporate investment plans.
-
-Key industrial zones under METI's oversight include:
-* The '''[[Yagikoshu Data Corridor]]''' — a technology corridor stretching across three prefectures, home to [[Kizan Systems]]' primary data centres and semiconductor fabrication plants. Created by the [[Digital Infrastructure Act]] of 2008, the Corridor houses over 400 technology companies and employs approximately 180,000 workers.
-* The '''[[Kizan Triangle]]''' — the semiconductor manufacturing cluster centred on [[Yonezawa Prefecture|Yonezawa]], [[Aizawa Prefecture|Aizawa]], and [[Kiso Prefecture|Kiso]], where [[Kizan Systems]] and its suppliers produce the [[Kizan T-7]] and [[Kizan T-9]] processors. The Triangle accounts for approximately 18% of global advanced semiconductor production capacity.
-* The '''[[Tokuyama Plastics Corridor]]''' — the petrochemicals and advanced plastics manufacturing zone in [[Tokuyama Prefecture]], home to the [[Aizawa Consortium]]'s chemical division and over 200 plastics manufacturers. The Corridor produces approximately 40% of Okaiken's engineering plastics output.
-
-===Trade policy===
-METI's trade policy is governed by the {{Nihongo|Technocratic Shield|技術盾|Gijutsu Tate}} doctrine, which promotes high-technology exports while restricting digital imports that could threaten domestic industries. The doctrine was formalised in the 2010 {{Nihongo|Trade Strategy White Paper|通商戦略白書|Tsūshō Senryaku Hakusho}} and has been the foundation of Okaiken's approach to international trade negotiations.
-
-Under the Technocratic Shield, METI maintains export promotion programmes for high-technology products — particularly semiconductors, motor vehicles, and shipbuilding systems — while imposing targeted restrictions on the import of foreign digital platforms, cloud computing services, and AI systems that could compete with domestic alternatives. The ministry also administers the {{Nihongo|Strategic Technology Export Programme|戦略技術輸出プログラム|Senryaku Gijutsu Yushutsu Puroguramu}}, which provides subsidised financing and risk insurance for exporters of designated high-technology products.
-
-Okaiken's trade figures reflect the Technocratic Shield's emphasis on high-value exports: in FY 2025, exports totalled {{currency|612 billion|SEN}} against imports of {{currency|584 billion|SEN}}, yielding a trade surplus of {{currency|28 billion|SEN}}. Motor vehicles and semiconductor equipment are the largest export categories, while fossil fuels and raw materials dominate imports.
-
-===Energy policy===
-METI's energy policy is anchored by the {{Nihongo|Carbon Neutrality by 2050|2050年カーボンニュートラル|Nisen-gojū-nen Kābon Nyūtoraru}} mandate, which commits Okaiken to achieving net-zero greenhouse gas emissions by mid-century. The mandate, enshrined in the [[Carbon Neutrality Act]] of 2019, requires a fundamental restructuring of Okaiken's energy mix, which remains heavily dependent on imported fossil fuels.
-
-The centrepiece of METI's energy transition strategy is the {{Nihongo|Hydrogen Highway|水素ハイウェイ|Suiso Haiwei}} initiative, a {{currency|12 billion|SEN}} programme to establish a nationwide hydrogen refuelling and distribution infrastructure by 2035. The initiative encompasses the construction of hydrogen production facilities, pipeline networks, and refuelling stations, with the goal of making hydrogen the primary fuel for heavy transport and industrial processes.
-
-METI also oversees Okaiken's nuclear energy programme, which provides approximately 18% of the nation's electricity. The ministry's position on nuclear energy has been a subject of ongoing political debate, with the [[Social Civic Party (Okaiken)|SCP]] advocating for a phased nuclear phase-out and the [[People's Party of Okaiken|PPO]] supporting the restart of idled reactors.
-
-===Technology policy===
-METI's technology policy is focused on maintaining Okaiken's competitive edge in semiconductors, artificial intelligence, and advanced manufacturing. The ministry administers the {{Nihongo|National Technology Roadmap|国家技術ロードマップ|Kokka Gijutsu Rōdomappu}}, which identifies priority areas for government R&D investment and coordinates public-private research partnerships.
-
-The [[Digital Infrastructure Act]] of 2008 was METI's landmark technology policy intervention, creating the [[Yagikoshu Data Corridor]] and subsidising the creation of [[Kizan Systems]]. The Act channeled {{currency|890 billion|SEN}} into domestic semiconductor and AI development over a decade, transforming Okaiken from a technology importer into a global semiconductor powerhouse. The ministry's semiconductor strategy has been anchored by the [[Kizan T-7]] (7-nanometer process, 2019) and [[Kizan T-9]] (5-nanometer process, 2023) processors, which compete with the most advanced chips produced globally.
-
-The {{Nihongo|Ghost Fleet|幽霊艦隊|Yūrei Kantai}} autonomous shipping programme, initiated in 2022, represents METI's most ambitious technology policy initiative in the maritime sector. The programme aims to develop and deploy autonomous cargo vessels powered by AI navigation systems, with the goal of reducing crew costs by 60% and improving shipping efficiency by 25%. The programme is jointly administered with the [[Ministry of Land, Infrastructure, Transport and Tourism (Okaiken)|Ministry of Land, Infrastructure, Transport and Tourism]] and has received {{currency|3.2 billion|SEN}} in funding through FY 2025.
-
-==Key legislation==
-
-The Ministry of Economy, Trade and Industry administers and enforces numerous statutes governing industrial policy, trade, energy, and technology. Key legislation includes:
-
-* '''[[Digital Infrastructure Act (Okaiken)|Digital Infrastructure Act]]''' ({{Nihongo|デジタル基盤法|Dejitaru Kiban-hō}}, 2008): The landmark statute that created the [[Yagikoshu Data Corridor]] and subsidised the creation of [[Kizan Systems]]. The Act allocated {{currency|890 billion|SEN}} for domestic semiconductor and AI development over a decade and established the legal framework for government-industry technology partnerships. The Act contained no resilience requirements or control limits — a gap that the [[Digital Sovereignty Act]] of 2026 was designed to address following the [[Satori AI Blackout]].
-
-* '''[[Carbon Neutrality Act (Okaiken)|Carbon Neutrality Act]]''' ({{Nihongo|カーボンニュートラル法|Kābon Nyūtoraru-hō}}, 2019): Enshrines the {{Nihongo|Carbon Neutrality by 2050|2050年カーボンニュートラル|Nisen-gojū-nen Kābon Nyūtoraru}} mandate in law, requiring Okaiken to achieve net-zero greenhouse gas emissions by 2050. The Act establishes interim targets for 2030 and 2040, mandates the creation of a national hydrogen strategy, and requires large emitters to submit annual decarbonisation plans to METI.
-
-* '''[[Strategic Resource Independence Act (Okaiken)|Strategic Resource Independence Act]]''' ({{Nihongo|戦略資源自立法|Senryaku Shigen Jiritsu-hō}}, 2017): Establishes the legal framework for Okaiken's resource security strategy, including the creation of the [[Shendan Ocean Mining Authority]], the [[Okaiken Urban Mining Corporation]], and the strategic stockpiling of rare earth elements and other critical minerals. The Act designates 28 "strategic resources" whose domestic supply must be ensured through a combination of domestic production, recycling, and strategic reserves.
-
-* '''[[Industrial Competitiveness Enhancement Act (Okaiken)|Industrial Competitiveness Enhancement Act]]''' ({{Nihongo|産業競争力強化法|Sangyō Kyōsoryoku Kyōka-hō}}, 2013): Provides METI with authority to designate {{Nihongo|"business reconstruction plans"|事業再構築計画|Jigyō Saikōchiku Keikaku}} that allow companies in strategic industries to receive tax breaks, subsidised loans, and regulatory relief. The Act has been used extensively to support the restructuring of the steel and shipbuilding sectors.
-
-* '''[[Foreign Exchange and Foreign Trade Act (Okaiken)|Foreign Exchange and Foreign Trade Act]]''' ({{Nihongo|外国為替及び外国貿易法|Gaikoku Kawase oyobi Gaikoku Bōeki-hō}}, 1949, extensively amended): The primary statute governing export controls, import restrictions, and foreign exchange transactions. Administered jointly with the [[Ministry of Finance (Okaiken)|Ministry of Finance]], the Act provides the legal basis for the Technocratic Shield trade doctrine's restrictions on digital imports.
-
-* '''[[Patent Act (Okaiken)|Patent Act]]''' ({{Nihongo|特許法|Tokkyo-hō}}, 1959, extensively amended): Governs the patent system, including application procedures, examination standards, and enforcement. Administered by the [[Sanese Patent Office (Okaiken)|Sanese Patent Office]].
-
-==Recent events==
-
-===The En Crisis (January–February 2026)===
-{{Main|En Crisis (2026)}}
-The [[En Crisis (2026)|En Crisis]] of January–February 2026 was a period of severe currency depreciation in which the Sanese En lost approximately 20% of its value against the [[TALOD Reserve Unit|TRU]] and other major currencies. The crisis had immediate implications for METI's trade and industrial policy, as the sharply weaker En raised the cost of imported energy and raw materials — the primary inputs for Okaiken's manufacturing sector — while making Sanese exports more competitive.
-
-METI Minister [[Daiki Arisawa]] initially welcomed the weaker En as a boost to export competitiveness, stating that "the market is providing the devaluation that industry has long requested." However, as the crisis deepened and import costs surged, Arisawa was forced to announce emergency measures to support energy-intensive industries, including temporary subsidies for petroleum and natural gas imports and the accelerated release of strategic petroleum reserves.
-
-The crisis exposed the tension at the heart of the Technocratic Shield doctrine: while a weaker En boosted high-technology exports, it simultaneously raised the cost of the imported raw materials and energy inputs on which Okaiken's manufacturing sector depended. The [[Strategic Resource Independence Act]]'s provisions for domestic resource development gained renewed urgency, and METI announced the acceleration of deep-sea mining exploration in the [[Shendan Basin]].
-
-===The Satori AI Blackout (May 2026)===
-{{Main|Satori AI Blackout}}
-The [[Satori AI Blackout]] of May 2026 was a catastrophic failure of the [[Satori AI]] system — Okaiken's flagship artificial intelligence infrastructure, developed by [[Kizan Systems]] — which caused widespread disruption to transportation, financial markets, and government services. The economic damage was estimated at {{currency|420 billion|SEN}}, making it the costliest technological disaster in Sanese history.
-
-The Blackout was a direct consequence of the very policies METI had championed. The [[Digital Infrastructure Act]] of 2008 had subsidised the creation of Kizan Systems and the deployment of Satori AI without imposing resilience requirements or control limits. METI's Industrial Sovereignty doctrine had prioritised domestic technological self-sufficiency over systemic safety, and the ministry's oversight of Kizan Systems had been widely criticised as inadequate.
-
-In the immediate aftermath, METI coordinated the emergency industrial response, working with the [[Agency for Natural Resources and Energy (Okaiken)|Agency for Natural Resources and Energy]] to maintain power supply and with the [[Small and Medium Enterprise Agency (Okaiken)|SME Agency]] to provide emergency financing to affected businesses. The ministry also established the {{Nihongo|Blackout Industrial Recovery Task Force|停電産業復興タスクフォース|Teiden Sangyō Fukkō Tasukufōsu}} to assess and address the damage to industrial supply chains.
-
-The Blackout triggered a fundamental reassessment of METI's technology policy. The [[Digital Sovereignty Act]] of 2026, which imposed a 40% AI control cap and mandated analogue backup systems for critical infrastructure, represented a direct repudiation of the unrestrained digital modernisation agenda that METI had pursued since 2008. Minister-designate [[Tetsuya Maeda]] described the Blackout as "the price of a generation's faith in technology without safeguards" and announced a comprehensive review of the ministry's relationship with Kizan Systems.
-
-===ACTA credit downgrade (May 2026)===
-The [[ACTA]] credit downgrade from AAA to AA in May 2026 — the first in Okaiken's modern history — had significant implications for METI's industrial policy. The downgrade raised the cost of government borrowing, reducing the fiscal space available for industrial subsidies and energy transition investments. METI's budget of {{currency|48 billion|SEN}} came under pressure as the [[Ministry of Finance (Okaiken)|Ministry of Finance]] demanded spending restraint across all ministries.
-
-Minister Maeda responded by announcing a shift from direct subsidies to "leveraged industrial finance" — using government guarantees rather than direct expenditure to support strategic industries. The {{Nihongo|Industrial Resilience Bond|産業レジリエンス債|Sangyō Rejiriensu-sai}} programme, announced in June 2026, proposed to raise {{currency|15 billion|SEN}} from private investors through government-guaranteed bonds earmarked for semiconductor and energy infrastructure investment.
-
-==Controversies==
-
-===Keiretsu collusion and the "Shadow Industrial Policy" (2023–2024)===
-In November 2023, the [[Okami Financial Chronicle]] published a series of investigative reports revealing what it termed the {{Nihongo|"Shadow Industrial Policy"|影の産業政策|Kage no Sangyō Seisaku}} — a system of informal coordination between METI officials and keiretsu executives that channelled public resources to favoured companies without transparent procurement processes. The investigation focused on the [[Sangoku Group]] and the [[Aizawa Consortium]], which had received an estimated {{currency|8.7 billion|SEN}} in METI subsidies and tax breaks between 2019 and 2023 through what the Chronicle described as {{Nihongo|"pre-coordinated application processes"|事前調整申請プロセス|Jizen Chōsei Shinsei Purosesu}}.
-
-The investigation revealed that METI's Industry Bureau had held regular informal meetings — known internally as {{Nihongo|"morning assemblies"|朝礼|chōrei}} — with senior executives from the Sangoku Group and Aizawa Consortium at which subsidy application strategies were discussed before the formal application process opened. Internal documents obtained by the Chronicle showed that Bureau officials had provided advance notice of programme changes and had helped the two keiretsu tailor their applications to maximise subsidy receipts.
-
-The [[Board of Audit of Okaiken|Board of Audit]] launched a formal investigation in February 2024, which confirmed that the morning assemblies had taken place and that the pre-coordination had "effectively pre-determined the outcome of competitive subsidy processes." The investigation found that smaller companies had been systematically disadvantaged, with SME applications receiving approval rates 40% lower than those of keiretsu-affiliated firms.
-
-METI Minister [[Daiki Arisawa]] acknowledged "procedural irregularities" but defended the overall policy, arguing that the keiretsu were the most effective vehicles for delivering industrial policy outcomes due to their scale and integrated supply chains. He announced the abolition of the morning assemblies and the introduction of a {{Nihongo|Transparent Subsidy Allocation Protocol|透明補助金配分プロトコル|Tōmei Hojokin Haibun Purotokoru}} requiring all subsidy decisions to be documented and subject to external audit.
-
-The opposition [[Social Civic Party (Okaiken)|SCP]] and [[Okaiken Socialist Party|OSP]] called for Arisawa's resignation, with SCP leader [[Kousuke Ikazaki]] describing the Shadow Industrial Policy as "the return of amakudari by another name." Arisawa survived the controversy but was defeated in the 2026 general election by [[Ueda Toshiki]] (SCP) in his [[Tokuyama Prefecture|Tokuyama]] 1st constituency.
-
-===Kizan Systems no-bid contracts===
-{{Main|Kizan government contracts scandal}}
-METI's oversight of [[Kizan Systems]] has been a persistent source of controversy. The [[Digital Infrastructure Act]] of 2008 created Kizan Systems through government subsidy and the company subsequently grew into the nation's dominant technology company, with its [[Satori AI]] platform controlling the majority of Okaiken's critical infrastructure by 2026.
-
-In October 2022, the [[Okami Financial Chronicle]] revealed that Kizan Systems had secured over {{currency|890 million|SEN}} in government contracts without competitive bidding between 2018 and 2022, primarily for semiconductor components and AI systems. The contracts were awarded under the [[Emergency Procurement Act]] enacted during the [[Data-Gate]] scandal of 2016, despite the absence of an actual emergency at the time of the awards.
-
-The [[Board of Audit of Okaiken|Board of Audit]] investigation revealed that Kizan had donated {{currency|500 million|SEN}} to the [[Liberal Democratic Party (Okaiken)|LDP]] between 2015 and 2020, raising questions about potential quid pro quo arrangements. METI's role in facilitating the no-bid contracts drew particular scrutiny, as the ministry had certified the "emergency" conditions that justified the non-competitive procurement.
-
-The controversy intensified after the [[Satori AI Blackout]], which demonstrated that METI's failure to impose resilience requirements on Kizan Systems had contributed directly to the catastrophic failure. The [[Digital Sovereignty Act]] of 2026 imposed a 40% AI control cap that directly challenged Kizan's dominance, and the incoming Ikazaki Cabinet announced a comprehensive review of all METI-Kizan contracts.
-
-===Ghost Fleet safety concerns===
-The {{Nihongo|Ghost Fleet|幽霊艦隊|Yūrei Kantai}} autonomous shipping programme has faced criticism from maritime unions and safety advocates, who argue that deploying AI-navigated cargo vessels without adequate human oversight poses unacceptable risks to maritime safety and the environment. The [[Okaiken Maritime Union]] ({{Nihongo|沖軒海員組合|Okaiken Kai'in Kumiai}}) has campaigned against the programme, arguing that it threatens 45,000 seafaring jobs and that autonomous vessels cannot respond to emergencies with the judgment of experienced mariners.
-
-METI has defended the programme, citing studies showing that human error accounts for approximately 75% of maritime accidents and that AI navigation systems can significantly reduce this figure. The ministry has proposed a compromise in which autonomous vessels would be required to maintain a minimum crew of two for emergency response, but the Maritime Union has rejected this as insufficient.
-
-==List of recent ministers==
-
-{| class="wikitable" style="text-align:center"
+{| class="wikitable" style="width:100%; text-align:left;"
 |-
-! #
-! Name
-! Took Office
-! Left Office
-! Duration
-! Prime Minister
+! style="background:#0b2545; color:white; width:28%;" | Internal Bureau or Agency
+! style="background:#0b2545; color:white; width:22%;" | Japanese Name
+! style="background:#0b2545; color:white; width:50%;" | Industrial and Commercial Mandate
 |-
-| 1
-| [[Tetsuya Maeda]]<br><small>[[Social Civic Party (Okaiken)|SCP]]</small>
-| 20 May 2026
-| Incumbent
-| —
-| [[Kousuke Ikazaki]]
+| Minister's Secretariat
+| 大臣官房 (Daijin Kanbō)
+| Manages ministerial finances, policy evaluation, Diet legislative drafting, and public industrial communications
 |-
-| 2
-| [[Daiki Arisawa]]<br><small>[[People's Party of Okaiken|PPO]]</small>
-| 5 November 2025
-| 20 May 2026
-| 196 days
-| [[Honda Shigetsuma]]
+| Economic and Industrial Policy Bureau
+| 経済産業政策局 (Keizai Sangyō Seisaku-kyoku)
+| Formulates macro-industrial strategy, corporate governance standards, and industrial competition regulations
 |-
-| 3
-| {{Nihongo|Shigeru Takayama|高山茂|Takayama Shigeru}}<br><small>[[People's Party of Okaiken|PPO]]</small>
-| 28 August 2021
-| 5 November 2025
-| 4 years, 69 days
-| [[Honda Shigetsuma]]
+| Manufacturing Industries Bureau
+| 製造産業局 (Seizō Sangyō-kyoku)
+| Directs state policy across automotive manufacturing, shipbuilding yards, robotics, and advanced materials
 |-
-| 4
-| {{Nihongo|Yōko Shimizu|清水洋子|Shimizu Yōko}}<br><small>[[People's Party of Okaiken|PPO]]</small>
-| 15 October 2018
-| 28 August 2021
-| 2 years, 317 days
-| [[Masahiko Aoyagi]]
+| Commerce and Information Policy Bureau
+| 商務情報政策局 (Shōmu Jōhō Seisaku-kyoku)
+| Regulates digital commerce, semiconductor foundry supply chains, software engineering standards, and cybersecurity
 |-
-| 5
-| {{Nihongo|Kenji Matsudaira|松平健二|Matsudaira Kenji}}<br><small>[[Liberal Democratic Party (Okaiken)|LDP]]</small>
-| 19 January 2015
-| 15 October 2018
-| 3 years, 269 days
-| [[Toshiro Kurosawa]] / [[Masahiko Aoyagi]]
+| Trade Policy Bureau
+| 通商政策局 (Tsūshō Seisaku-kyoku)
+| Conducts bilateral trade agreements, tariff negotiations, and multilateral export control administration
+|-
+| Agency for Natural Resources and Energy
+| 資源エネルギー庁 (Shigen Enerugī-chō)
+| Regulates electrical utility grids, nuclear safety deconfliction, petroleum reserves, and renewable energy transitions
+|-
+| Small and Medium Enterprise Agency
+| 中小企業庁 (Chūshō Kigyō-chō)
+| Delivers business modernization loans, manages credit guarantee funds, and assists independent manufacturing shops
+|-
+| Sanese Patent Office
+| 特許庁 (Tokkyochō)
+| Examines and registers domestic patents, commercial trademarks, utility designs, and industrial intellectual property
 |}
+
+==Antitrust enforcement and supply-chain resilience==
+
+Under Minister Tetsuya Maeda, METI's primary strategic focus in late 2026 has been dismantling the monopolistic procurement networks that previously favored politically connected keiretsu conglomerates. Working in statutory coordination with the Fair Trade Commission, the ministry issued the 2026 Industrial Decentralization Directive, requiring large automotive and electronics manufacturers to eliminate exclusive supplier contracts that barred subcontractors from selling precision components to third parties.
+
+Concurrently, the ministry directs the National Urban Mining Programme through the [[Okaiken Urban Mining Corporation]]. Because Okaiken relies heavily on imported rare earth elements for electric vehicle motors and electronic circuitry, METI established municipal recycling mandates that extract high-purity lithium, cobalt, and neodymium from discarded consumer electronics, securing domestic industrial mineral reserves independent of foreign supply blockades.
+
+==Intergovernmental relations with prefectural and metropolitan governments==
+
+While industrial and foreign trade policies are established at the national level, the execution of economic development in Okaiken depends on close administrative partnerships between METI, the forty-seven provincial prefectures, and [[Okami Metropolis]]. Because regional economies vary widely—ranging from heavy metallurgical bases in the west to agricultural processing in the northeast—the ministry operates through an extensive decentralized field presence.
+
+METI projects its authority into the provinces through eight Regional Bureaus of Economy, Trade and Industry (経済産業局). These regional bureaus coordinate directly with Prefectural Departments of Commerce, Industry and Labour (商工労働部). Regional bureaus assist prefectural governors in designating Special Industrial Revitalization Zones, packaging central infrastructure subsidies and corporate tax exemptions to attract precision manufacturing plants into depopulating prefectures such as [[Miyagi Prefecture]] and [[Tokuyama Prefecture]].
+
+The primary conduit supporting local economies is the [[Small and Medium Enterprise Agency (Okaiken)|Small and Medium Enterprise Agency]] (SMEA). SMEA works in direct statutory partnership with Prefectural Credit Guarantee Corporations (信用保証協会) and local Chambers of Commerce and Industry. When regional small manufacturers face credit contraction or raw material inflation, the central agency underwrites municipal credit guarantees, shielding regional family-owned machine shops and parts suppliers from bankruptcy.
+
+In energy grid regulation, METI's Agency for Natural Resources and Energy must balance national electrical transmission baselines against prefectural environmental and safety demands. Prefectural governors hold significant political influence over the siting and restarting of regional thermal power plants, commercial wind farms, and hydroelectric dams. Minister Maeda established the National Energy Federal Council, conferring monthly with prefectural governors to negotiate regional renewable energy feed-in tariffs and coordinate electrical grid load balancing during summer peak demands.
+
+Relations with the [[Okami Metropolitan Government]] occupy a distinct tier of economic administration. Okami Metropolis represents the financial, corporate, and retail capital of the nation, housing the global headquarters of the keiretsu and over forty percent of all registered corporate capital. METI coordinates with the Okami Metropolitan Bureau of Industrial and Labor Affairs on urban zoning for technological incubators, foreign venture capital attraction, and the regulation of consumer credit markets across the metropolitan core.
 
 ==See also==
 * [[Government of Okaiken]]
-* [[Economy of Okaiken]]
-* [[Industrial policy]]
-* [[Keiretsu]]
-* [[Kizan Systems]]
-* [[Satori AI Blackout]]
-* [[En Crisis (2026)]]
-* [[Digital Infrastructure Act (Okaiken)|Digital Infrastructure Act]]
-* [[Digital Sovereignty Act (Okaiken)|Digital Sovereignty Act]]
-* [[Carbon Neutrality Act (Okaiken)|Carbon Neutrality Act]]
-* [[Strategic Resource Independence Act (Okaiken)|Strategic Resource Independence Act]]
-* [[2001 Central Government Reform (Okaiken)|2001 Central Government Reform]]
-* [[Ministry of Finance (Okaiken)]]
-* [[Ministry of International Trade and Industry (Okaiken)]]
+* [[Cabinet of Okaiken]]
+* [[Ikazaki Cabinet]]
+* [[Minister of Economy, Trade and Industry (Okaiken)]]
+* [[Digital Sovereignty Act (Okaiken)]]
+* [[Small and Medium Enterprise Agency (Okaiken)]]
 
 ==References==
 {{Reflist}}
 
-==External links==
-* {{Official website|www.meti.ok.go.en}}
-
-{{Ministries of Okaiken}}
-{{Politics of Okaiken}}
-
 [[Category:Ministry of Economy, Trade and Industry (Okaiken)| ]]
-[[Category:Ministries of Okaiken]]
-[[Category:Government agencies established in 2001]]
+[[Category:Government ministries of Okaiken]]
 [[Category:Economy of Okaiken]]
-[[Category:Industrial policy]]
-[[Category:Politics of Okaiken]]
-[[Category:Okami]]

@@ -1,11 +1,9 @@
 {{Infobox legislature
  | name               = House of Officers
- | native_name        = {{noitalics|{{nobold|{{lang|ja|公議院}}}}}}
- | transcription_name = ''Kōgiin''
+ | native_name        = {{Nihongo|公議院|Kōgiin}}
  | legislature        = The 38th House of Officers
  | coa_pic            = Flag of Okaiken.svg
  | coa_res            = 100px
- | coa-pic            = 
  | house_type         = Upper house
  | leader1_type       = President
  | leader1            = [[Seiji Maehara]]
@@ -27,58 +25,265 @@
  | structure1         = House of Officers of Okaiken 2025.svg
  | structure1_res     = 270px
  | political_groups1  = (as of December 2025)<br />
-'''Government Coalition''' (112):
-{{legend|{{Progressive Party of Okaiken/meta/color}}|[[Progressive Party of Okaiken|PPO]] (100)}}
-{{legend|{{Okaiken Socialist Party/meta/color}}|[[Okaiken Socialist Party|OSP]] (12)}}
-'''Opposition''' (139):
-{{legend|{{Liberal Democratic Party (Okaiken)/meta/color}}|[[Liberal Democratic Party (Okaiken)|LDP]] (68)}}
+'''Government Coalition''' (53):
 {{legend|{{Sanese Communist Party/meta/color}}|[[Sanese Communist Party|SCP]] (36)}}
+{{legend|{{Okaiken Socialist Party/meta/color}}|[[Okaiken Socialist Party|OSP]] (12)}}
+{{legend|{{Social Democratic Party (Okaiken)/meta/color}}|[[Social Democratic Party (Okaiken)|SDP]] (5)}}
+'''Opposition''' (198):
+{{legend|{{Progressive Party of Okaiken/meta/color}}|[[Progressive Party of Okaiken|PPO]] (100)}}
+{{legend|{{Liberal Democratic Party (Okaiken)/meta/color}}|[[Liberal Democratic Party (Okaiken)|LDP]] (68)}}
 {{legend|{{New Komeito Party/meta/color}}|[[New Komeito Party|NKP]] (20)}}
 {{legend|{{Okaiken Innovation Party/meta/color}}|[[Okaiken Innovation Party|OIP]] (8)}}
-{{legend|{{Social Democratic Party (Okaiken)/meta/color}}|[[Social Democratic Party (Okaiken)|SDP]] (5)}}
-{{legend|{{Independent (politician)/meta/color}}|Independents (2)}}
- | committees1        = 
- | voting_system1     = Direct Party and Representative Voting System (251 seats)
- | last_election1     = [[Okaiken upper house election, 2025|July 27, 2025]]
- | next_election1     = [[Okaiken upper house election, 2028|July 2028]]
+{{legend|888888|Independents (2)}}
+ | committees1        =
+ | voting_system1     = [[#Association system (ky&#333;kai)|Association system (ky&#333;kai)]] (251 seats)
+ | last_election1     = [[Okaiken House of Officers election, 2025|July 27, 2025]]
+ | next_election1     = [[next Okaiken House of Officers election|July 2028]]
  | session_room       = House of Officers Okaiken Chamber.png
  | session_res        = 270px
  | meeting_place      = The House of Officers Chamber<br>[[Okami]], [[Okaiken]]
  | website            = [https://www.kogiin.go.ok/en/ Official Website]
- | footnotes          = 
+ | footnotes          =
 }}
 
-The {{nihongo|'''House of Officers'''|公議院|Kōgiin}} is the upper house of the [[Diet of Okaiken]]. The [[House of Commoners of Okaiken|House of Commoners]] is the lower house.
+The {{Nihongo|'''House of Officers'''|公議院|Kōgiin}} is the upper house of the [[National Diet of Okaiken]]. The [[House of Commoners of Okaiken|House of Commoners]] is the lower house.
 
-The House of Officers has 251 members, half of whom are elected every three years to fixed six-year terms. All 251 seats are determined by the Direct Party and Representative Voting System, a form of proportional voting that emphasizes party lists over individual constituencies.
+The House of Officers has 251 members, elected through the '''association system''' ({{Nihongo|協会制|kyōkai-sei}}), in which registered professional and industry associations elect representatives to the upper house. Members serve fixed six-year terms, with half the house (approximately 125 or 126 seats) up for election every three years. Unlike the House of Commoners, the House of Officers cannot be dissolved by the Prime Minister.
 
-The House of Officers is constitutionally the less powerful of the two houses. While it can reject bills passed by the House of Commoners, its rejection can be overridden by a two-thirds majority vote in the lower house. However, unlike the House of Commoners, the House of Officers cannot be dissolved by the Prime Minister. It serves as a body of continuity, often taking over essential government functions during general election periods or times of national crisis.
+The House of Officers is constitutionally the less powerful of the two houses. While it can reject or amend bills passed by the House of Commoners, its rejection can be overridden by a two-thirds majority vote in the lower house. However, its fixed terms and independence from dissolution make it a body of continuity, often described as the {{Nihongo|"Seat of Reason"|良識の府|Ryōshiki no fu}}, designed to be less susceptible to momentary populist waves than the lower house.
+
+== Association system (kyōkai) ==
+
+The House of Officers is elected through the '''association system''' ({{Nihongo|協会制|kyōkai-sei}}), a unique electoral method that distinguishes the upper house from the lower house's parallel voting system. Under this system, registered professional and industry associations ({{Nihongo|協会|kyōkai}}) serve as the electoral colleges for the upper house, each electing a number of representatives proportional to its membership.
+
+The system is modeled loosely on the Dutch [[w:omroep|omroep]] (broadcasting association) model, adapted for legislative purposes. Where the Dutch system allocated broadcast time to social organizations, the Okaiken association system allocates legislative seats to organized civil society. The design principle is that the upper house should represent the structured interests and expertise of the nation's professional and civic life, rather than geographic constituencies or party lists.
+
+The association system operates as a two-step process:
+
+1. '''Seat allocation''' — determined by the [[National Election Commission (Okaiken)|National Election Commission]] (NEC) based on audited membership rolls. This is an administrative process, not an electoral one. Associations submit their membership lists; the NEC verifies them against tax records, dues payment records, and spot audits. Seats are then allocated proportionally.
+2. '''Candidate election''' — the actual election. Members of each association vote for individual candidates within their association. The number of seats an association gets is fixed by step 1; step 2 decides who fills them.
+
+This separation ensures that citizens are always voting for people, not organizations. The association is the vehicle that determines how many representatives a professional community receives; the election determines who those representatives are.
+
+=== Registered associations ===
+
+To participate in the association system, an organization must be formally registered as a {{Nihongo|recognized association|認定協会|nintei kyōkai}} under the House of Officers Election Law. Recognition requires:
+
+* A minimum of 50,000 dues-paying members
+* A demonstrated track record of at least five years of continuous independent operation
+* A formal charter establishing the association's professional or civic purpose
+* Compliance with financial disclosure and governance requirements
+* No more than 40% of the governing board composed of individuals who hold office in, or are employed by, a political party
+
+As of 2025, there are 18 recognized associations, representing sectors including:
+
+* '''Medical and health professions:''' The Okaiken Medical Association ({{Nihongo|沖欠医師会|Okaiken Ishikai}}), the Okaiken Nursing Association, and the Okaiken Dental Association
+* '''Legal professions:''' The Okaiken Bar Association ({{Nihongo|沖欠弁護士連合会|Okaiken Bengoshi Rengōkai}})
+* '''Education:''' The Okaiken Teachers Union Federation, the Okaiken University Faculty Association
+* '''Agriculture and fisheries:''' The Okaiken Agricultural Cooperative ({{Nihongo|沖欠農業協同組合|Okaiken Nōgyō Kyōdō Kumiai}}, or Nokyo), the Okaiken Fisheries Federation
+* '''Industry and labor:''' The Okaiken Federation of Employers' Associations, the Okaiken Trade Union Congress (OTUC), the Okaiken Transit Workers Union (OTWU)
+* '''Infrastructure and engineering:''' The Okaiken Society of Civil Engineers, the Okaiken Railway Engineers Association
+* '''Commerce:''' The Okaiken Chamber of Commerce and Industry
+* '''Civic and cultural:''' The Okaiken Women's Association, the Okaiken Senior Citizens Federation, the Okaiken Consumers' Association
+
+=== Creation of new associations ===
+
+New associations cannot simply declare themselves. The creation process is designed to prevent the formation of "clone" associations — organizations that replicate the purpose and membership of existing associations in order to multiply their seat allocation. The process is as follows:
+
+# '''Petition.''' A prospective association submits a petition to the NEC with 50,000 or more verified member signatures, a charter, a governance structure, and evidence of at least five years of continuous independent operation.
+# '''Substantive differentiation test.''' The NEC evaluates whether the new association represents a community that is not already represented by an existing recognized association. The test has three criteria:
+#* '''Membership overlap''' with any existing recognized association cannot exceed 30%. This is verified against the national membership registry.
+#* '''Distinct purpose.''' The association must have a professional or civic purpose that is substantially different from any existing recognized association. An association of "rural physicians" would fail this test if the Okaiken Medical Association already represents physicians regardless of geography; an association of "nurse practitioners" would pass if the existing Medical Association represents physicians and the Nursing Association represents registered nurses.
+#* '''Independent governance.''' The association must have its own governance structure, separate from any existing association or political party.
+# '''Public objection period.''' Existing recognized associations may file objections to the petition within a 90-day window. Objections are adjudicated by the NEC, which must issue a written determination before proceeding to the approval vote.
+# '''NEC supermajority approval.''' Recognition requires a two-thirds vote of the NEC commissioners. This threshold makes it difficult for any single political faction to capture the recognition process.
+
+The substantive differentiation test is the structural safeguard against cloning. Because cross-membership is prohibited and enforced through a national registry (see below), creating a clone does not increase the total number of people eligible to vote in the upper house — it merely splits the same pool of people across two organizations. Without the ability to inflate membership, clones produce no net gain in seats. The differentiation test exists to prevent the attempt itself, and to ensure that each recognized association represents a genuinely distinct community.
+
+=== Cross-membership prohibition and the national registry ===
+
+An individual may be a member of '''only one recognized association at a time.''' This prohibition is enforced through the {{Nihongo|'''National Association Registry'''|全国協会登録簿|Zenkoku Kyōkai Tōroku-bo}}, a central database maintained by the NEC and linked to each citizen's social insurance number.
+
+The registry serves several functions:
+
+* '''Duplicate detection.''' Before each seat allocation cycle, the NEC cross-references all association membership lists against the registry. Any individual found on two or more lists is removed from both associations' counts and must choose one within 30 days or be removed from both.
+* '''Membership verification.''' Associations must reconcile their membership lists against the registry annually. Discrepancies between an association's internal records and the registry are flagged for audit.
+* '''Transparency.''' The registry is not publicly searchable by individual name, but aggregate membership statistics for each association are published annually.
+
+The cross-membership prohibition is the backbone of the system's integrity. Without it, the same individual could be counted by multiple associations, inflating seat allocations beyond the actual number of eligible citizens. With it, the total membership across all associations is bounded by the total number of eligible Sanese nationals, making membership inflation structurally difficult.
+
+=== Seat allocation ===
+
+Seats are distributed among the recognized associations in proportion to their membership numbers, as certified by the NEC prior to each election cycle. The allocation is recalculated every three years when the half-election occurs. Associations that fall below the 50,000-member threshold lose their recognition and their seats.
+
+Two structural limits constrain the allocation:
+
+* '''Membership dues requirement.''' Only members who have paid dues for at least 12 consecutive months prior to the certification date count toward seat allocation. This prevents associations from signing up large numbers of nominal members immediately before an election.
+* '''Seat ceiling.''' No single association may hold more than 15% of the total seats in the House of Officers (approximately 37–38 seats). If an association's proportional allocation would exceed this ceiling, the surplus seats are redistributed to smaller associations. This prevents mega-associations from dominating the upper house and ensures that the chamber represents a broad range of professional and civic communities.
+
+The current seat allocation (as of the July 2025 election cycle) distributes the 251 seats among the 18 recognized associations. The largest associations—the Medical Association, the Bar Association, the Agricultural Cooperative, and the Trade Union Congress—each hold between 20 and 35 seats, while smaller associations hold between 3 and 15 seats.
+
+=== Voting within associations ===
+
+Each association conducts its own internal election to select its representatives. The method of internal election varies by association charter:
+
+* Some associations use '''direct member voting''', in which all dues-paying members cast ballots for candidates
+* Others use a '''delegate system''', in which regional chapters elect delegates who then select representatives
+* A few use a '''committee-based system''', in which the association's governing board selects representatives subject to a membership ratification vote
+
+All internal elections must comply with the minimum standards set by the NEC, including secret ballots, campaign finance disclosure, and anti-corruption provisions.
+
+=== Campaign finance and anti-corruption provisions ===
+
+The association system creates a natural barrier to corporate capture that party-list systems do not have, but it also creates new vulnerabilities specific to its structure. The House of Officers Election Law and the Political Funds Control Act include the following provisions:
+
+* '''Corporate membership prohibition.''' Associations must be composed of individual natural persons. Corporations, trusts, and other legal entities cannot be members. A corporation cannot join the Employers' Federation — individual business owners and executives can, but they vote as individuals, not as corporate proxies.
+* '''Dues cap.''' Annual dues are capped by law at 円50,000. No association may charge more, and no association may accept donations above the dues cap. This prevents wealthy interests from buying disproportionate influence through high-dues "premium membership" tiers.
+* '''Campaign finance within associations.''' Candidates running in an association's internal election are subject to the same campaign finance rules as lower house candidates — spending caps, disclosure requirements, and prohibition on corporate donations. The association itself may not spend money to support or oppose candidates in its internal elections.
+* '''Prohibition on independent expenditures.''' The Political Funds Control Act prohibits any organization from making independent expenditures in association elections. This is easier to enforce than in the lower house because the electorate is smaller and more traceable — the NEC knows exactly who the voters are in each association.
+* '''Financial transparency.''' Associations must publish annual financial statements disclosing all income sources. Any association receiving more than 20% of its income from a single source loses its recognized status.
+* '''Leadership disclosure.''' All association officers must disclose party affiliations. Associations where the leadership is predominantly from one party are subject to enhanced NEC scrutiny.
+
+The structural advantage of the association system is that it fragments the influence of money. In a party-list system, a single large donation to a party can influence dozens of seats. In the association system, that same donation only influences one association's internal election — and that association might control only 10–15 seats. To capture the entire upper house through financial means, a donor would need to infiltrate 18 different associations simultaneously, each with its own membership, culture, and internal politics. The transaction costs of corruption scale multiplicatively, not additively.
+
+The structural weakness is that associations can become captured by their own internal bureaucracies — the "iron triangle" problem where association leadership, the dominant party faction within it, and industry regulators all align. The counter to this is the half-election cycle: because only half the seats turn over every three years, there is always a cohort that has been through an election recently enough to be responsive to membership pressure.
+
+=== Political party affiliation ===
+
+While representatives are elected through associations rather than party lists, most candidates are affiliated with political parties. The association system does not formally recognize parties, but in practice, party endorsement is a major factor in association elections. For example, candidates backed by the SCP tend to dominate in the Trade Union Congress and the Teachers Union Federation, while LDP-backed candidates tend to prevail in the Employers' Federation and the Chamber of Commerce.
+
+This creates a distinctive dynamic: the party composition of the House of Officers reflects both the political preferences of organized civil society and the relative mobilization capacity of parties within each association. Because association elections occur on a different cycle than lower house elections, the upper house's party composition can diverge significantly from the lower house—as demonstrated by the PPO's continued dominance in the upper house even after its collapse in the 2026 lower house election.
+
+The party independence requirement (no more than 40% of an association's governing board may hold party office or employment) is designed to prevent associations from becoming de facto party vehicles. However, this rule addresses formal capture, not informal influence — a party can still exercise significant sway through endorsement, campaign support, and the personal loyalties of members who are not technically party officers.
+
+=== Periodic re-certification ===
+
+Every six years — aligned with the full upper house election cycle — the NEC re-certifies all recognized associations. Re-certification evaluates:
+
+* Whether the association still meets the 50,000-member threshold
+* Whether the association's governance remains independent of party capture (as measured by governing board composition, funding sources, and voting pattern alignment with a single party)
+* Whether the association's membership overlap with other associations has exceeded the 30% ceiling
+* Whether the association has complied with financial disclosure requirements
+
+Associations that fail re-certification lose their recognized status. Their seats are redistributed among the remaining associations at the next half-election. This mechanism ensures that the association system remains dynamic — associations that lose their representative character or become captured are removed, and new associations that demonstrate genuine community representation can enter through the creation process.
+
+=== Half-elections ===
+
+Because members serve six-year terms, only half the house is up for election at any given time. The half-election occurs every three years, in July. The 125 or 126 seats up for election alternate between the two "classes" of members (Class I and Class II), ensuring continuity. When a member resigns or dies between half-elections, a by-election is held within their association to fill the vacancy for the remainder of the term.
+
+== Critical analysis ==
+
+The association system was designed to produce a upper house that represents organized civil society rather than geographic constituencies or party lists. It succeeds in this design purpose. However, the same structural features that produce this representation also produce exclusions, distortions, and concentrations of power that the law does not name. What follows is an examination of the gap between the system's stated purpose and its operational reality.
+
+=== The dues requirement as a class barrier ===
+
+The 円50,000 annual dues cap is framed as an anti-corruption measure — preventing wealthy interests from buying influence through premium membership tiers. It is that. But it is also something else: a class barrier to participation in the upper house.
+
+A citizen who cannot afford 円50,000 in annual dues has no voice in the House of Officers. They may vote in the lower house — that right is free. But the upper house is reserved for citizens who can pay to join a recognized association. For a low-income worker, 円50,000 is a meaningful sum. The system effectively creates a two-tier franchise: free suffrage for the lower house, paid suffrage for the upper house.
+
+The Constitution of Okaiken guarantees universal adult suffrage and prohibits discrimination on the basis of "property or income." Whether the dues requirement violates this guarantee has never been tested in the courts. The constitutional argument against it is straightforward: the association system conditions the right to vote in the upper house on the payment of money, which is a property requirement by another name. The counter-argument is that the association system is not a geographic franchise — citizens are not *disenfranchised* in the upper house, they merely have not *chosen* to join an association — and that the dues cap exists to prevent corruption, not to exclude the poor.
+
+Both arguments have merit. The attorney's observation is that the counter-argument is formally correct but substantively hollow: a "choice" to pay 円50,000 is not a meaningful choice for a citizen earning minimum wage. The exclusion is real, even if the law refuses to name it.
+
+=== The National Association Registry as a surveillance instrument ===
+
+The {{Nihongo|National Association Registry|全国協会登録簿|Zenkoku Kyōkai Tōroku-bo}} is the backbone of the cross-membership prohibition and the seat allocation system. It is also a centralized database linking every association member's identity to their social insurance number, their professional affiliation, and their political participation.
+
+The registry is framed as an anti-corruption tool — it prevents duplicate membership, enables audits, and ensures the integrity of seat allocation. It does all of these things. But every anti-corruption mechanism is also a surveillance mechanism. The registry tells the state exactly which associations every citizen belongs to. If the government wishes to identify labor organizers, opposition-aligned professionals, or politically active doctors, the registry provides the information. The NEC is nominally independent, but its commissioners are appointed by the Prime Minister with Diet approval — meaning the governing coalition controls the body that controls the registry.
+
+The registry's existence is not an argument for its abolition. The cross-membership prohibition cannot be enforced without it. But the registry's dual-use character — anti-corruption tool and surveillance instrument — should be named, because the law does not name it. The House of Officers Election Law contains no provisions limiting the use of registry data for purposes other than election administration. No judicial warrant is required for the NEC to access registry data. No statutory prohibition prevents the security services from requesting registry information. The gap between what the registry *does* and what the law *permits* is where the surveillance risk lives.
+
+=== The filtering effect of the recognition threshold ===
+
+The requirement that associations must have operated for at least five years and have at least 50,000 dues-paying members before they can be recognized is designed to prevent ephemeral or fraudulent organizations from entering the system. It does that. But it also ensures that only established, well-funded, and already-institutionalized organizations can participate.
+
+New social movements — environmental groups, digital rights organizations, gig worker collectives — cannot gain representation in the upper house until they have survived for five years and built a membership base of 50,000 dues-paying individuals. By the time they qualify, they have already been absorbed into the institutional forms that the existing system recognizes. The five-year threshold does not merely delay new movements; it *filters* them, ensuring that only movements that have adapted to the system's requirements — organizational hierarchy, dues collection, governance structures — can enter. Movements that operate outside these forms — informal networks, volunteer collectives, ad hoc advocacy groups — are structurally excluded.
+
+This produces a conservative bias that is deeper than the "stability" argument usually acknowledges. The House of Officers does not merely slow down change; it determines *which kinds of change* are possible. Change that can be organized, funded, and institutionalized within five years is admitted. Change that requires new forms of organization is not. The system's defenders describe this as "deliberation." Its critics describe it as "gatekeeping." The attorney's observation is that both descriptions are accurate, and the difference between them is a matter of perspective, not fact.
+
+=== The unrepresented: the association system's tetsukage ===
+
+The association system produces a structural invisibility analogous to the {{Nihongo|tetsukage|鉄影|iron shadow}} observed in Okaiken's behavior-and-relationship legal framework. Just as the behavior-and-relationship model protects relationships and expressions but not identities — the law sees the companion, not the person — the association system protects organized professional communities but not the individuals who fall between them.
+
+Citizens who do not belong to any recognized association are not underrepresented in the House of Officers. They are *unrepresented*. They have no vote, no representative, and no structural mechanism by which their interests can enter the upper house's deliberations. This includes:
+
+* '''Gig workers and independent contractors''' who do not fit into any existing professional association
+* '''Young people''' who have not yet entered a profession or who cannot afford association dues
+* '''Unemployed and underemployed citizens''' whose professional identity is in transition
+* '''Citizens who distrust institutional membership''' — the same population that the association system's defenders would describe as "unorganized" and its critics would describe as "excluded by design"
+
+The cross-membership prohibition compounds this exclusion. In practice, many professionals belong to multiple organizations — a doctor might be a member of the Medical Association, a medical research society, and a public health advocacy group. The prohibition forces them to choose one, which means they can only vote in one association's election. This fragments professional communities and prevents the kind of cross-cutting coalitions that make civil society robust. The prohibition is necessary to prevent membership inflation and clone associations, but its cost is the suppression of plural professional identities.
+
+=== The 2026 composition: democratic deficit by design ===
+
+The most consequential structural feature of the association system is not its anti-corruption provisions or its recognition thresholds — it is the temporal lag between the lower house and the upper house. Because the House of Officers operates on a fixed six-year cycle with half-elections every three years, its composition can diverge dramatically from the lower house for extended periods.
+
+The 2026 general election produced the most extreme divergence in the system's history. The SCP-OSP-SDP coalition won 251 of 475 lower house seats (53%), a 13-seat supermajority. In the upper house, the same coalition holds 53 of 251 seats (21%) — a substantial minority. The PPO, which lost 118 seats in the lower house — the worst electoral collapse of any governing party in post-war history — remains the largest party in the upper house with 100 seats. The LDP holds 68 seats. Together, the PPO and LDP control 168 of 251 upper house seats, enough to block any legislation the coalition attempts to pass.
+
+The coalition's only recourse is the two-thirds override in the House of Commoners, which requires 317 votes. The coalition holds 251. They are 66 votes short. This means the coalition cannot pass legislation through normal parliamentary process without negotiating with the PPO — the party that the electorate just repudiated in the most dramatic fashion possible.
+
+This is not a malfunction of the system. It is the system working as designed. The "Seat of Reason" is intended to resist momentary populist waves. The 2026 result is the logical extreme of that design: a party that the electorate rejected by a margin unprecedented in modern Sanese history retains a legislative veto over the government that replaced it. The next half-election in July 2028 — two years into the Ikazaki Cabinet's term — will be the first opportunity for the upper house's composition to reflect the post-2026 realignment.
+
+Whether this constitutes a "check and balance" or a "democratic deficit" depends on one's view of the upper house's purpose. If the upper house exists to ensure that legislative change is deliberative and consensus-driven, then the 2026 composition is a feature — it forces the coalition to negotiate rather than govern by simple majority. If the upper house exists to represent the current will of the electorate, then the 2026 composition is a bug — it allows a repudiated party to exercise a structural veto over the government that replaced it.
+
+The Constitution of Okaiken does not resolve this question. It establishes the upper house as a deliberative body but does not define the relationship between the upper house's composition and the electorate's current mandate. The 2026 result has exposed this ambiguity as a live constitutional question. The Ikazaki Cabinet's ability to govern depends on the answer.
 
 == Right to vote and candidature ==
-* Sanese nationals aged 18 years and older may vote.
-* Sanese nationals aged 30 years and older may run for office in the House of Officers (higher than the age of 25 required for the Lower House).
+* Sanese nationals aged 18 years and older who are members of a recognized association may vote in that association's election.
+* Sanese nationals aged 30 years or older may run for office in the House of Officers (higher than the age of 25 required for the lower house).
 
 == Differences between the Upper and Lower Houses ==
-The House of Commoners (Lower House) possesses several powers not given to the House of Officers (Upper House). 
 
-* Legislative Supremacy: If a bill is passed by the House of Commoners but is voted down or amended by the House of Officers, the House of Commoners can override the decision with a two-thirds majority vote. 
-* Treaties and Budget: In the case of international treaties, the national budget, and the designation of the Prime Minister, the decision of the House of Commoners automatically prevails after a mandatory waiting period (usually 30 days), even if the House of Officers dissents.
+The House of Commoners (lower house) possesses several powers not given to the House of Officers (upper house):
+
+* '''Legislative Supremacy:''' If a bill is passed by the House of Commoners but is voted down or amended by the House of Officers, the House of Commoners can override the decision with a two-thirds majority vote.
+* '''Treaties and Budget:''' In the case of international treaties, the national budget, and the designation of the Prime Minister, the decision of the House of Commoners automatically prevails after a mandatory waiting period (usually 30 days), even if the House of Officers dissents.
 
 '''Term Differences:'''
-* House of Officers: Members sit for fixed '''six-year terms''', with half the house up for election every three years. The House cannot be dissolved.
-* House of Commoners: Members are elected to '''four-year terms''', but the House may be dissolved by the Prime Minister at any time, usually leading to snap elections.
+* '''House of Officers:''' Members sit for fixed '''six-year terms''', with half the house up for election every three years. The House cannot be dissolved.
+* '''House of Commoners:''' Members are elected to '''four-year terms''', but the House may be dissolved by the Prime Minister at any time, usually leading to snap elections.
 
-Because of its fixed terms and lack of dissolution, the House of Officers is often described as the "Seat of Reason" ({{nihongo|良識の府|Ryōshiki no fu}}), designed to be less susceptible to momentary populist waves than the Lower House.
+Because of its fixed terms and lack of dissolution, the House of Officers is often described as the {{Nihongo|"Seat of Reason"|良識の府|Ryōshiki no fu}}, designed to be less susceptible to momentary populist waves than the Lower House.
 
 == Current composition ==
 
+As of December 2025, the composition reflects the results of the [[Okaiken House of Officers election, 2025|July 2025 election]]. The next half-election is scheduled for July 2028.
 
-As of December 2025, the composition reflects the results of the [[Okaiken upper house election, 2025|July 2025 election]].
+{| class="wikitable"
+|-
+! Party !! Councillors !! Government/Opposition
+|-
+| [[Progressive Party of Okaiken|Progressive Party (PPO)]] || 100 || Opposition
+|-
+| [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party (LDP)]] || 68 || Opposition
+|-
+| [[Sanese Communist Party|Communist Party (SCP)]] || 36 || Government
+|-
+| [[New Komeito Party|New Komeito Party (NKP)]] || 20 || Opposition
+|-
+| [[Okaiken Socialist Party|Socialist Party (OSP)]] || 12 || Government
+|-
+| [[Okaiken Innovation Party|Innovation Party (OIP)]] || 8 || Opposition
+|-
+| [[Social Democratic Party (Okaiken)|Social Democratic Party (SDP)]] || 5 || Government
+|-
+| Independent || 2 || —
+|-
+| '''Total''' || '''251''' || |
+|}
 
-While the [[Progressive Party of Okaiken|PPO]] lost its majority in the Lower House in the October 2025 general election, it remains the largest party in the Upper House with 105 seats, having performed strongly in the July 2025 cycle before the government's popularity dipped.
+The current composition presents a significant challenge for the [[Ikazaki Cabinet]]. While the SCP-OSP-SDP coalition holds a 13-seat supermajority in the House of Commoners (251 of 475), it controls only 53 of 251 seats in the House of Officers—a substantial minority. The PPO, despite its collapse in the lower house, remains the largest party in the upper house with 100 seats, followed by the LDP with 68. This means the governing coalition will need to negotiate with opposition parties to pass legislation through the upper house, or rely on the two-thirds override in the lower house for bills that the upper house rejects.
 
-The [[Liberal Democratic Party (Okaiken)|LDP]] forms the largest opposition bloc with 72 seats. The [[Sanese Communist Party|SCP]] retains a significant presence (38 seats) in the Upper House due to members elected in previous cycles (2019 and 2022) who are not yet up for re-election, despite the party's collapse in the Lower House. The [[Okaiken Socialist Party|OSP]], while surging in the Lower House, has a smaller footprint here (13 seats) as the "Nakayama Boom" occurred after the Upper House election cycle.
+The PPO's continued dominance in the upper house reflects the fact that the July 2025 half-election occurred before both the "March Maelstrom" and the [[Satori AI Blackout Crisis]]—the two events that destroyed the PPO's lower house position. The next half-election in July 2028 will be the first opportunity for the upper house's composition to reflect the post-2026 political realignment.
 
-{{Current composition of the House of Officers of Okaiken}}
+== See also ==
+* [[National Diet of Okaiken]]
+* [[House of Commoners of Okaiken]]
+* [[Politics of Okaiken]]
+* [[Okaiken House of Officers election, 2025]]
+* [[Ikazaki Cabinet]]
+
+== References ==
+{{reflist}}
 [[Category:Okaiken topics]]
 [[Category:Okaiken]]

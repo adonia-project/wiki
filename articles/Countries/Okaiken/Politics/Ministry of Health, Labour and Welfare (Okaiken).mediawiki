@@ -3,12 +3,10 @@
 | agency_name = Ministry of Health, Labour and Welfare
 | native_name = {{Nihongo|厚生労働省|Kōsei-rōdō-shō}}
 | seal = Seal_of_Okaiken.svg
-| seal_size =
+| seal_width = 100px
 | seal_caption = Seal of the Ministry of Health, Labour and Welfare
 | formed = 6 January 2001
 | preceding1 = [[Ministry of Health and Welfare (Okaiken)|Ministry of Health and Welfare]]<br>[[Ministry of Labour (Okaiken)|Ministry of Labour]]
-| dissolved =
-| superseding =
 | jurisdiction = [[Okaiken]]
 | headquarters = [[Chiyoda, Okami|Chiyoda]], [[Okami Metropolis|Okami]]
 | employees = 312,500 (2025)
@@ -16,310 +14,93 @@
 | minister1_name = [[Satoshi Kato]]
 | minister1_title = [[Minister of Health, Labour and Welfare (Okaiken)|Minister of Health, Labour and Welfare]]
 | minister1_since = 20 May 2026
-| minister2_name =
-| minister2_title =
-| minister2_since =
 | parent_agency = [[Cabinet of Okaiken]]
 | child_agency = [[Children and Families Agency (Okaiken)|Children and Families Agency]]<br>[[Pharmaceutical and Medical Devices Agency (Okaiken)|Pharmaceutical and Medical Devices Agency]]<br>[[Okaiken National Health Service|Okaiken National Health Service (ONHS)]]
 | website = {{URL|www.mhlw.ok.go.en}}
-| footnotes =
 }}
+{{Politics of Okaiken}}
 
-The '''Ministry of Health, Labour and Welfare''' ({{Nihongo|厚生労働省|Kōsei-rōdō-shō|}}, abbreviated '''MHLW''' or '''Kōrō-shō''') is a [[Cabinet of Okaiken|cabinet-level ministry]] of the [[Government of Okaiken]] responsible for the administration of [[Healthcare in Okaiken|healthcare]], [[public health]], [[pension]] systems, [[labour standards]], [[employment policy]], and [[social welfare]] programmes. With an annual budget of approximately {{currency|480 billion|SEN}} in FY 2025 — roughly 30% of total government expenditure — it is the largest ministry in the Okaiken government by spending, and arguably the most consequential in the daily lives of citizens.
+The '''Ministry of Health, Labour and Welfare''' ({{Nihongo|厚生労働省|Kōsei-rōdō-shō}}, commonly abbreviated '''MHLW''' or '''Kōrō-shō''') is a cabinet-level ministry of the [[Government of Okaiken]] responsible for public healthcare, epidemic prevention, occupational safety, labor standards enforcement, employment welfare, social security pensions, and child-care administration. With an annual expenditure budget of approximately 480 billion Sen—commanding roughly 30 percent of total national spending—and an administrative and hospital personnel establishment of 312,500 employees, the ministry is the largest department in the state by fiscal footprint and direct civic interface.
 
-The ministry oversees the [[Okaiken National Health Service]] (ONHS), established under the landmark [[National Universal Health Act]] of 2023, which transitioned Okaiken from a multi-payer statutory insurance system to a comprehensive single-payer universal healthcare system. It also administers the national pension system, which faces an existential funding crisis due to Okaiken's rapidly ageing population and declining birth rate, and sets labour standards for a workforce of 48.2 million in which 37% of workers are now employed on non-regular contracts.
+The ministry oversees the [[Okaiken National Health Service]] (ONHS), established under the [[National Universal Health Act]] of 2023, transitioning the nation to a single-payer tax-funded healthcare system free at the point of delivery. The incumbent Minister of Health, Labour and Welfare is [[Satoshi Kato]] of the [[Okaiken Socialist Party]] (OSP), who entered office on 20 May 2026 within the [[Ikazaki Cabinet]]. In coalition governance, Kato works in close institutional alignment with Deputy Prime Minister [[Rento Nakayama]], who coordinates broad social policy in his capacity as Minister of Social Affairs.
 
-The current Minister of Health, Labour and Welfare is [[Satoshi Kato]] of the [[Okaiken Socialist Party]] (OSP), Member of the House of Commoners for [[Okami Metropolis|Okami]] PR, who assumed office on 20 May 2026 as part of the [[Ikazaki Cabinet]]. His predecessor was [[Rento Nakayama]] (OSP), who served from November 2025 to May 2026 under the [[Honda-Nakayama Cabinet]] before becoming Deputy Prime Minister and Minister of Social Affairs in the incoming government.
+==Historical development and bureaucratic consolidation==
 
-==History==
+===Predecessor departments to the 2001 unification===
 
-===Pre-2001 ministries===
+Prior to the structural consolidation of the central bureaucracy in 2001, healthcare and industrial labor were directed by two separate cabinet departments. The Ministry of Health and Welfare (厚生省, ''Kōsei-shō'') was inaugurated in 1938 to direct public sanitation, military medical mobilization, and national health insurance cooperatives. Following the post-war reconstruction, the Ministry of Labour (労働省, ''Rōdō-shō'') was established in 1947 to guarantee collective bargaining rights, enforce the Labor Standards Act, and supervise occupational safety during the post-war industrial miracle.
 
-Prior to the [[2001 Central Government Reform]], health and welfare policy and labour policy were administered by separate ministries. The {{Nihongo|Ministry of Health and Welfare|厚生省|Kōsei-shō}} was established in 1938, spun off from the former [[Home Ministry (Okaiken)|Home Ministry]] ({{Nihongo|内務省|Naimu-shō}}) to address the growing need for centralised public health administration and social welfare coordination. Its early responsibilities included epidemic control, maternal health, and the administration of the health insurance system introduced in 1938.
+Throughout the late twentieth century, the two departments operated under distinct institutional philosophies. Health and Welfare focused on actuarial stability across the National Pension system and healthcare cost containment, whereas Labour negotiated industrial wage settlements and arbitrated disputes between union federations and corporate conglomerates. The 2001 Central Government Reform merged both departments into the modern MHLW, seeking an integrated administrative response to the compounding structural crises of national demographic aging, declining fertility rates, and the gradual erosion of lifetime corporate employment.
 
-The {{Nihongo|Ministry of Labour|労働省|Rōdō-shō}} was established in 1947 under the post-war occupation authorities, who sought to democratise industrial relations and protect workers' rights in the emerging Sanese labour market. It was responsible for labour standards, trade union regulation, employment security, and workplace safety. The ministry played a central role in the development of the {{Nihongo|''shūshin koyō''|終身雇用|lifetime employment}} system and the seniority-based wage structure that defined Sanese corporate culture during the [[Sanese Industrial Miracle]].
+===Universal healthcare rollout and modern labor reforms===
 
-Throughout the post-war period, the two ministries operated in parallel, with the Ministry of Health and Welfare overseeing the expanding social insurance system — including the national health insurance and pension programmes — while the Ministry of Labour managed the industrial relations framework and employment policy. Coordination between the two was often strained, particularly on issues such as occupational health, workers' compensation, and the health implications of industrial pollution.
+In December 2023, the National Diet enacted the landmark [[National Universal Health Act]], dissolving fragmented employment insurance societies in favor of the consolidated Okaiken National Health Service (ONHS). Under the guidance of former Health Minister Rento Nakayama and his successor Satoshi Kato, the ministry oversaw the multi-year transition ensuring universal clinical access without co-payments, financing the system through progressive income taxation and central treasury transfers.
 
-===2001 merger===
+Simultaneously, the ministry confronted acute labor deregulations stemming from the rise of platform subcontracting and non-regular employment. Following the March 2026 Nakayama Station railway fatality, MHLW labor inspectors uncovered systematic labor exploitation and falsified shift logs among private railway maintenance contractors. Under Minister Kato, the ministry expanded the authority of regional Labor Standards Inspection Offices (労働基準監督署, ''Rōki-sho''), conducting unannounced forensic audits into subcontractor staffing levels and cracking down on excessive overtime violations across transport, logistics, and healthcare networks.
 
-The [[2001 Central Government Reform]] ({{Nihongo|中央省庁再編|Chūō Shōchō Saihen}}) merged the Ministry of Health and Welfare and the Ministry of Labour into the new Ministry of Health, Labour and Welfare, effective 6 January 2001. The merger was the most significant bureaucratic restructuring in Okaiken since the post-war occupation, and was intended to create a more integrated approach to health, welfare, and labour policy — particularly in light of the growing recognition that demographic ageing required a coordinated response across health, pension, and employment portfolios.
+==Internal organization and operational bureaus==
 
-The merger was controversial. Critics argued that the new ministry was too large and unwieldy, with an internal structure that combined the cultures of two very different bureaucracies: the medically oriented, technocratic Health and Welfare ministry and the more politically engaged, negotiation-driven Labour ministry. Supporters countered that the integration was essential for addressing the interconnected challenges of an ageing society, where health policy, pension sustainability, and labour market participation were inextricably linked.
+The internal architecture of the ministry is partitioned into specialized policy bureaus covering healthcare administration, labor standards, and social security.
 
-The new ministry absorbed the staff, bureaus, and affiliated agencies of both predecessor ministries, resulting in an initial headcount of approximately 280,000 — making it the largest ministry in the government from its inception.
-
-===Modern era (2001–present)===
-
-The MHLW's first decade was dominated by the implementation of the long-term care insurance system ({{Nihongo|介護保険制度|Kaigo Hoken Seido}}), introduced in 2003 to provide universal coverage for elderly care services. The system represented a landmark achievement in social policy but also exposed the accelerating fiscal pressures of demographic change, as the ratio of contributors to beneficiaries began its steady decline.
-
-The 2010s saw the ministry grappling with the consequences of the erosion of the lifetime employment system. The proportion of workers on non-regular contracts — including part-time, temporary, and dispatched workers — rose from approximately 25% in 2005 to over 33% by 2018, creating a growing class of workers with limited access to employer-provided benefits, unstable incomes, and diminished pension contributions. The ministry's attempts to strengthen protections for non-regular workers through amendments to the Labour Standards Act were repeatedly diluted by business opposition and conservative governments.
-
-The [[Kenshin Pharmaceutical scandal]] of 2019, in which the [[Kenshin Pharmaceutical]] company was found to have illegally included performance-enhancing drugs (PEDs) in dietary supplements marketed to the general public, severely damaged the ministry's reputation for pharmaceutical oversight and led to a major reform of the [[Pharmaceutical and Medical Devices Agency (Okaiken)|Pharmaceutical and Medical Devices Agency]] (PMDA).
-
-The passage of the [[National Universal Health Act]] in December 2023 — the signature legislation of Prime Minister [[Honda Shigetsuma]] — represented the most significant reform of the healthcare system since the original health insurance legislation of 1938. The Act dissolved the multi-payer insurance co-operatives and established the [[Okaiken National Health Service]] (ONHS) as a single-payer system funded entirely through general taxation, with care provided free at the point of use. The phased rollout, which began on 1 April 2024 and was scheduled for completion by 1 April 2026, has been the ministry's primary operational focus under Ministers Nakayama and Kato.
-
-The [[En Crisis (2026)|En Crisis]] of January–February 2026 and the [[Satori AI Blackout]] of May 2026 placed enormous strain on the ministry's operations. The currency depreciation drove up the cost of imported pharmaceuticals and medical equipment, while the Blackout caused catastrophic failures in the digital health records system and disrupted the ONHS's electronic referral and prescription infrastructure.
-
-==Organization==
-
-The Ministry of Health, Labour and Welfare is organised into internal bureaus, departments, and affiliated agencies. As of 2026, the ministry employs approximately 312,500 personnel across all its divisions, including staff at regional bureaus, prefectural labour bureaus, and affiliated institutions.
-
-===Internal bureaus===
-
-;Minister's Secretariat ({{Nihongo|大臣官房|Daijin Kanbō}})
-:The Minister's Secretariat coordinates the ministry's overall operations, manages personnel affairs, handles public relations and legislative affairs, and serves as the primary interface between the ministry and the Cabinet. It also oversees the ministry's internal audit functions, information security protocols, and international cooperation activities.
-
-;Health Policy Bureau ({{Nihongo|健康局|Kenkō-kyoku}})
-:The Health Policy Bureau is responsible for the formulation of national health policy, the administration of the ONHS, the planning and coordination of medical care provision, and the regulation of healthcare institutions. It oversees the implementation of the [[National Universal Health Act]] and manages the transition to the single-payer system. The bureau also coordinates the ministry's response to public health emergencies, including epidemic outbreaks and natural disaster medical relief.
-
-;Public Health Bureau ({{Nihongo|生活衛生局|Seikatsu Eisei-kyoku}})
-:The Public Health Bureau administers public health programmes, including disease prevention, health promotion, food safety, environmental health, and the regulation of the {{Nihongo|onsen|温泉|hot spring}} wellness sector and [[thermal medicine]] ({{Nihongo|温熱医療|Onnetsu Iryō}}) — a distinctive area of Sanese health policy that integrates geothermal resources into therapeutic and rehabilitative care. The bureau also oversees the regulation of [[Satoris]], the non-opioid pain medication derived from [[pufferfish]] toxin ({{Nihongo|河豚|fugu}}) that has become one of Okaiken's most significant pharmaceutical products.
-
-;Pharmaceutical and Food Safety Bureau ({{Nihongo|医薬食品局|Iyaku Shokuhin-kyoku}})
-:The Pharmaceutical and Food Safety Bureau is responsible for the regulation of pharmaceuticals, medical devices, and food safety. It oversees the [[Pharmaceutical and Medical Devices Agency (Okaiken)|PMDA]], which conducts the scientific review and approval of drugs and medical devices. The bureau was significantly restructured following the [[Kenshin Pharmaceutical scandal]] of 2019, with enhanced post-market surveillance powers and mandatory ingredient disclosure requirements for dietary supplements.
-
-;Labour Standards Bureau ({{Nihongo|労働基準局|Rōdō Kijun-kyoku}})
-:The Labour Standards Bureau administers the [[Labour Standards Act (Okaiken)|Labour Standards Act]], sets minimum wage policy, regulates working hours and conditions, and enforces workplace safety standards. It oversees the system of [[Prefectural Labour Bureaus (Okaiken)|Prefectural Labour Bureaus]] and [[Labour Standards Inspection Offices]] that conduct on-site inspections and investigate violations. The bureau also has responsibility for the regulation of the {{Nihongo|Vaiahi|ヴァイアヒ}} diaspora workforce — approximately 280,000 workers concentrated in the [[Yonezawa Prefecture|Yonezawa]] and [[Tokuyama Prefecture|Tokuyama]] industrial corridors — under the [[Vaiahi Cultural Preservation Act 2003]], which mandates workplace accommodations for Vaiahi cultural and religious practices.
-
-;Employment Security Bureau ({{Nihongo|職業安定局|Shokugyō Antei-kyoku}})
-:The Employment Security Bureau is responsible for employment policy, job placement services, unemployment insurance, and workforce development programmes. It administers the [[Hello Work (Okaiken)|Hello Work]] public employment service and coordinates with prefectural governments on regional employment strategies. The bureau has been at the centre of policy debates over the growing non-regular workforce, which now constitutes 37% of total employment.
-
-;Labour Relations Bureau ({{Nihongo|労働関係局|Rōdō Kankei-kyoku}})
-:The Labour Relations Bureau administers labour union law, collective bargaining frameworks, and dispute resolution mechanisms. It oversees the [[Central Labour Relations Commission (Okaiken)|Central Labour Relations Commission]] and adjudicates unfair labour practice cases. The bureau has seen increased caseloads in recent years as labour disputes have intensified over the erosion of the lifetime employment system and the expansion of non-regular contract work.
-
-;Pension Bureau ({{Nihongo|年金局|Nenkin-kyoku}})
-:The Pension Bureau administers the national pension system, including the Employees' Pension Insurance ({{Nihongo|厚生年金|Kōsei Nenkin}}) and the National Pension ({{Nihongo|国民年金|Kokumin Nenkin}}). It manages the collection of pension contributions, the disbursement of benefits, and the investment of pension reserves through the [[Government Pension Investment Fund (Okaiken)|Government Pension Investment Fund]] (GPIF). The bureau is at the centre of Okaiken's most pressing fiscal challenge: the sustainability of the pension system in the face of a declining contributor base and a rapidly expanding beneficiary population.
-
-;Social Welfare and War Victims' Relief Bureau ({{Nihongo|社会・援護局|Shakai Engo-kyoku}})
-:The Social Welfare and War Victims' Relief Bureau administers welfare programmes for persons with disabilities, social welfare services, and relief programmes for war victims and their families. It oversees the system of social welfare institutions and coordinates with prefectural governments on welfare service delivery.
-
-===Departments===
-
-;Equal Employment Department ({{Nihongo|雇用均等部|Koyō Kintō-bu}})
-:The Equal Employment Department is responsible for the enforcement of the [[Equal Employment Opportunity Act (Okaiken)|Equal Employment Opportunity Act]], the prevention of workplace discrimination, and the promotion of work-life balance. It administers the childcare leave system and the prohibition of {{Nihongo|''matahara''|マタハラ|maternity harassment}} — workplace discrimination against pregnant women and mothers.
-
-;Industrial Safety and Health Department ({{Nihongo|安全衛生部|Anzen Eisei-bu}})
-:The Industrial Safety and Health Department sets and enforces workplace safety standards, conducts industrial disease prevention programmes, and administers the workers' compensation insurance system. It has taken on an expanded role in monitoring the adoption of the {{Nihongo|''Tesshin-kinmu''|鉄身勤務|Iron Body Work Ethic}} — a corporate wellness programme derived from the [[Cult of Iron]] ({{Nihongo|鉄の教|Tetsu no Kyō}}) — by major [[keiretsu]] conglomerates, following concerns that the programme's extreme physical demands constitute a workplace safety hazard.
-
-==Key agencies==
-
-===Children and Families Agency===
-{{Main|Children and Families Agency (Okaiken)}}
-The '''Children and Families Agency''' ({{Nihongo|こども家庭庁|Kodomo Katei-chō}}) was established on 1 April 2023 as an external bureau of the MHLW, before being elevated to a cabinet-level agency under the [[Cabinet Office (Okaiken)|Cabinet Office]] in 2024. Its creation was the government's primary institutional response to Okaiken's demographic crisis, with a mandate to coordinate policies on childcare support, fertility rate recovery, and youth welfare across all government ministries.
-
-The agency's establishment reflected the growing recognition that the declining birth rate — which fell to a record low of 1.26 in 2025, far below the replacement rate of 2.1 — required a dedicated institutional response that could not be adequately addressed within the MHLW's existing structure. The agency administers childcare benefit programmes, supports fertility treatment access, and coordinates the government's {{Nihongo|''shōshika taisaku''|少子化対策|countermeasures against declining birth rates}} strategy.
-
-===Pharmaceutical and Medical Devices Agency===
-{{Main|Pharmaceutical and Medical Devices Agency (Okaiken)}}
-The '''Pharmaceutical and Medical Devices Agency''' (PMDA; {{Nihongo|医薬品医療機器総合機構|Iyakuhin Iryō Kiki Sōgō Kikō}}) is an independent administrative institution under the MHLW responsible for the scientific review, approval, and post-market surveillance of pharmaceuticals, medical devices, and regenerative medicine products. The PMDA was significantly reformed following the [[Kenshin Pharmaceutical scandal]] of 2019, which exposed critical failures in the agency's post-market surveillance of dietary supplements.
-
-The PMDA's portfolio includes the regulation of [[Satoris]] ({{Nihongo|サトリス|Satorisu}}), the non-opioid analgesic derived from [[tetrodotoxin]] — the potent neurotoxin found in [[pufferfish]] ({{Nihongo|河豚|fugu}}) — which was developed by Sanese researchers and approved for medical use in 2014. Satoris has become one of Okaiken's most significant pharmaceutical exports and a focal point of the country's growing pharmaceutical industry.
-
-===Okaiken National Health Service===
-{{Main|Okaiken National Health Service}}
-The '''Okaiken National Health Service''' (ONHS; {{Nihongo|沖軒国民保健サービス|Okaiken Kokumin Hoken Sābisu}}) is the single-payer healthcare system established under the [[National Universal Health Act]] of 2023. The ONHS replaced the previous multi-payer statutory insurance system, providing comprehensive medical care free at the point of use to all Sanese citizens and permanent residents, funded through general taxation including the controversial Health and Welfare Levy.
-
-The ONHS is administered by the MHLW through the Health Policy Bureau, with operational delivery managed by regional health authorities. The transition from the multi-payer system to the ONHS is being implemented in a phased rollout from 1 April 2024 to 1 April 2026, with the final phase — including the integration of dental, vision, and prescription drug coverage — scheduled for completion under Minister Kato's tenure.
-
-===Other affiliated institutions===
-* '''[[Okaiken Institute of Public Health]]''' ({{Nihongo|国立保健医療科学院|Kokuritsu Hoken Iryō Kagakuin}}): Conducts research on public health, epidemiology, and health policy.
-* '''[[National Institute of Occupational Safety and Health (Okaiken)|National Institute of Occupational Safety and Health]]''' ({{Nihongo|労働安全衛生総合研究所|Rōdō Anzen Eisei Sōgō Kenkyūjo}}): Researches workplace safety, occupational diseases, and industrial health.
-* '''[[National Institute of Population and Social Security Research (Okaiken)|National Institute of Population and Social Security Research]]''' ({{Nihongo|国立社会保障・人口問題研究所|Kokuritsu Shakai Hoshō Jinkō Mondai Kenkyūjo}}): Produces population projections and social security research that inform the ministry's demographic policy.
-* '''[[Government Pension Investment Fund (Okaiken)|Government Pension Investment Fund]]''' (GPIF; {{Nihongo|年金積立金管理運用独立行政法人|Nenkin Tsumitatekin Kanri Un'yō Dokuritsu Gyōsei Hōjin}}): Manages the investment of pension reserves, with assets under management of approximately {{currency|180 billion|SEN}} as of 2025.
-
-==Key policy areas==
-
-===Universal healthcare===
-
-{{Main|National Universal Health Act|Okaiken National Health Service}}
-The MHLW's most significant policy responsibility is the administration of the Okaiken National Health Service, established under the [[National Universal Health Act]] passed in December 2023. The Act, which was the central campaign promise of Prime Minister [[Honda Shigetsuma]], transitioned Okaiken from a multi-payer statutory insurance system — in which citizens were enrolled in employment-based or residential insurance plans with 30% co-payments — to a comprehensive single-payer system funded entirely through general taxation, with care provided free at the point of use.
-
-The phased rollout began on 1 April 2024 and is scheduled for completion by 1 April 2026. The transition has been operationally complex, requiring the dissolution of the existing insurance co-operatives ({{Nihongo|健保|Kenpō}}), the migration of patient records to the ONHS digital infrastructure, and the renegotiation of fee schedules with healthcare providers. Minister [[Rento Nakayama]] oversaw the second and third phases of the rollout from November 2025, and the final phase — including the integration of dental, vision, and prescription drug coverage — is now the responsibility of Minister [[Satoshi Kato]].
-
-The ONHS is funded through general taxation, including the controversial {{Nihongo|Health and Welfare Levy|健康福祉税|Kenkō Fukushi-zei}} — a progressive surcharge on high-income earners and corporations that was the most politically contentious provision of the Act. The levy generates approximately {{currency|85 billion|SEN}} annually, but critics argue that this is insufficient to cover the long-term costs of the system, particularly given Okaiken's ageing population and the rising cost of medical technology.
-
-===Pension reform===
-
-Okaiken's national pension system faces an existential funding crisis. The system operates on a pay-as-you-go model, in which current workers' contributions fund current retirees' benefits. With the population declining since 2015 and the fertility rate at a record low of 1.26 (2025), the ratio of contributors to beneficiaries has fallen from 3.5:1 in 2000 to approximately 1.8:1 in 2025, and is projected to fall below 1.5:1 by 2035.
-
-The Pension Bureau administers two main tiers: the National Pension ({{Nihongo|国民年金|Kokumin Nenkin}}), a flat-rate basic pension for all residents, and the Employees' Pension Insurance ({{Nihongo|厚生年金|Kōsei Nenkin}}), an earnings-related pension for employees. The combined replacement rate — the proportion of pre-retirement income replaced by pension benefits — has declined from approximately 60% in 2000 to approximately 48% in 2025, and is projected to fall further under current policy settings.
-
-Successive governments have implemented incremental reforms, including gradual increases in the pension eligibility age from 60 to 65 (completed in 2025 for men, scheduled for 2030 for women), the introduction of a macroeconomic sliding scale ({{Nihongo|マクロ経済スライド|Makuro Keizai Suraido}}) that automatically adjusts benefits based on demographic and economic conditions, and the expansion of the contribution base to include non-regular workers. However, these measures have been widely assessed as insufficient to ensure long-term sustainability, and the pension system remains one of the most politically sensitive issues in Sanese politics.
-
-The [[Government Pension Investment Fund (Okaiken)|GPIF]], which manages the investment of pension reserves, has been the subject of controversy over its investment strategy and performance. In 2023, the fund reported a record loss of {{currency|18 billion|SEN}} following global market turbulence, prompting calls for a more conservative investment approach and greater transparency in fund governance.
-
-===Labour standards and employment policy===
-
-The MHLW is responsible for setting and enforcing labour standards through the Labour Standards Bureau and the network of [[Prefectural Labour Bureaus (Okaiken)|Prefectural Labour Bureaus]] and [[Labour Standards Inspection Offices]]. The ministry administers the [[Labour Standards Act (Okaiken)|Labour Standards Act]], which sets minimum standards for wages, working hours, rest periods, and workplace safety.
-
-The most significant structural challenge in labour policy is the erosion of the {{Nihongo|''shūshin koyō''|終身雇用|lifetime employment}} system, which provided job security and progressive wage increases for regular employees at large companies in exchange for loyalty and long service. The proportion of workers on non-regular contracts — including part-time, temporary, dispatched, and contract workers — has risen from approximately 25% in 2005 to 37% in 2025. These workers typically receive lower wages, limited access to employer-provided benefits, and minimal pension contributions, creating a growing class of economically vulnerable workers.
-
-The ministry has attempted to address this through a series of legislative measures, including the [[Work Style Reform Act (Okaiken)|Work Style Reform Act]] of 2018, which imposed limits on overtime working and promoted equal pay for equal work, and the [[Non-Regular Worker Protection Act (Okaiken)|Non-Regular Worker Protection Act]] of 2021, which strengthened the conversion of fixed-term contracts to indefinite-term contracts after five years of continuous employment. However, enforcement has been inconsistent, and critics argue that the regulations contain too many exemptions and that the Labour Standards Inspection Offices are understaffed and underfunded.
-
-The {{Nihongo|Vaiahi|ヴァイアヒ}} diaspora workforce — approximately 280,000 workers concentrated in the [[Yonezawa Prefecture|Yonezawa]] and [[Tokuyama Prefecture|Tokuyama]] industrial corridors — presents a distinctive labour policy challenge. The [[Vaiahi Cultural Preservation Act 2003]] mandates workplace accommodations for Vaiahi cultural and religious practices, including prayer time, dietary requirements, and observance of Vaiahi ceremonial days. The Labour Standards Bureau maintains a dedicated Vaiahi Labour Policy Division to coordinate compliance and resolve disputes, though enforcement remains uneven and reports of discrimination and exploitation persist.
-
-The adoption of the {{Nihongo|''Tesshin-kinmu''|鉄身勤務|Iron Body Work Ethic}} — a corporate wellness programme derived from the [[Cult of Iron]] ({{Nihongo|鉄の教|Tetsu no Kyō}}) — by several major [[keiretsu]] conglomerates has raised concerns within the ministry's Industrial Safety and Health Department. The programme, which emphasises extreme physical discipline and endurance training as a path to workplace productivity, has been criticised by occupational health experts as exceeding safe workplace wellness standards. The ministry issued advisory guidelines in 2024 cautioning employers that mandatory participation in ''Tesshin-kinmu'' programmes could constitute a violation of the Labour Standards Act, though enforcement has been limited to cases involving documented injuries.
-
-===Demographic crisis===
-
-{{Main|Demographics of Okaiken}}
-Okaiken's demographic trajectory — characterised by a declining population, a record-low fertility rate of 1.26 (2025), and one of the highest life expectancies in the world — is the overarching challenge that shapes virtually every aspect of the MHLW's policy portfolio. The population peaked at approximately 92 million in 2015 and has declined to approximately 89.5 million in 2025, with projections suggesting a population of below 80 million by 2045 under current trends.
-
-The ministry's demographic response has been coordinated through the {{Nihongo|''shōshika taisaku''|少子化対策|countermeasures against declining birth rates}} framework, which encompasses childcare support, fertility treatment subsidies, housing assistance for young families, and work-life balance reforms. The establishment of the [[Children and Families Agency (Okaiken)|Children and Families Agency]] in 2023 was intended to provide a more focused institutional response, but the agency's effectiveness has been questioned given that the fertility rate has continued to decline since its creation.
-
-The interaction between demographic decline and the pension system is the most acute fiscal challenge. With fewer workers contributing to a system that must support a growing retiree population, the ministry has been forced to choose between raising contributions, reducing benefits, or increasing general tax revenue transfers — all of which are politically fraught. The [[Ikazaki Cabinet]] has identified pension reform as a priority, with Minister Kato tasked with developing a comprehensive reform package by the end of 2026.
-
-==Key legislation==
-
-The Ministry of Health, Labour and Welfare administers and enforces numerous statutes governing healthcare, labour, and social welfare. Key legislation includes:
-
-* '''[[National Universal Health Act]]''' ({{Nihongo|国民皆医療法|Kokumin Kai-iryō Hō}}, 2023): Establishes the [[Okaiken National Health Service]] as a single-payer universal healthcare system, providing comprehensive medical care free at the point of use, funded through general taxation. The most significant healthcare reform in Sanese history.
-* '''[[Labour Standards Act (Okaiken)|Labour Standards Act]]''' ({{Nihongo|労働基準法|Rōdō Kijun-hō}}, 1947, extensively amended): The foundational statute governing minimum labour standards, including wages, working hours, rest periods, workplace safety, and employment contracts. Administered by the Labour Standards Bureau.
-* '''[[Equal Employment Opportunity Act (Okaiken)|Equal Employment Opportunity Act]]''' ({{Nihongo|雇用の分野における男女の均等な機会及び待遇の確保等に関する法律|Koyō no Bunya ni Okeru Danjo no Kintō na Kikai Oyobi Taigū no Kakuho Tō ni Kansuru Hōritsu}}, 1986, extensively amended): Prohibits gender-based discrimination in employment and promotes equal opportunity in the workplace. Administered by the Equal Employment Department.
-* '''[[Labour Union Act (Okaiken)|Labour Union Act]]''' ({{Nihongo|労働組合法|Rōdō Kumiai-hō}}, 1949): Governs the formation, operation, and activities of labour unions, and establishes the framework for collective bargaining and dispute resolution.
-* '''[[Pension Act (Okaiken)|Pension Act]]''' ({{Nihongo|年金法|Nenkin-hō}}, 1959, extensively amended): Establishes the national pension system, including the National Pension and Employees' Pension Insurance, and governs contribution collection, benefit calculation, and fund management.
-* '''[[Vaiahi Cultural Preservation Act 2003]]''' ({{Nihongo|ヴァイアヒ文化保存法|Vaiahi Bunka Hozon-hō}}, 2003): Mandates workplace accommodations for Vaiahi cultural and religious practices, including prayer time, dietary requirements, and ceremonial observance. Administered jointly with the [[Ministry of Justice (Okaiken)|Ministry of Justice]].
-* '''[[Work Style Reform Act (Okaiken)|Work Style Reform Act]]''' ({{Nihongo|働き方改革法|Hatarakikata Kaikaku-hō}}, 2018): Imposes limits on overtime working, promotes equal pay for equal work between regular and non-regular workers, and establishes the "highly professional" exemption system.
-* '''[[Non-Regular Worker Protection Act (Okaiken)|Non-Regular Worker Protection Act]]''' ({{Nihongo|非正規労働者保護法|Hiseiki Rōdōsha Hogo-hō}}, 2021): Strengthens protections for non-regular workers, including the conversion of fixed-term contracts to indefinite-term contracts after five years of continuous employment and the prohibition of unreasonable differential treatment.
-* '''[[Pharmaceutical and Medical Device Act (Okaiken)|Pharmaceutical and Medical Device Act]]''' ({{Nihongo|医薬品医療機器等法|Iyakuhin Iryō Kiki Tō-hō}}, 1960, extensively amended): Governs the approval, manufacture, sale, and post-market surveillance of pharmaceuticals and medical devices. Significantly strengthened following the Kenshin Pharmaceutical scandal.
-
-==Recent events==
-
-===En Crisis impact on healthcare costs (January–February 2026)===
-{{Main|En Crisis (2026)}}
-The [[En Crisis (2026)|En Crisis]] of January–February 2026, which saw the Sanese En depreciate by approximately 20% against the [[TALOD Reserve Unit|TRU]], had significant implications for the MHLW's healthcare budget. Okaiken imports approximately 60% of its pharmaceutical active ingredients and a substantial proportion of advanced medical equipment, making the healthcare system highly sensitive to currency fluctuations. The MHLW estimated that the En depreciation would increase pharmaceutical procurement costs by approximately {{currency|12 billion|SEN}} in FY 2026, requiring emergency supplementary budget allocations.
-
-Health Minister Nakayama publicly demanded an "Inflation Relief Package" worth {{currency|5 trillion|SEN}} as part of the broader government response, threatening that the [[Okaiken Socialist Party|OSP]] would boycott the FY 2026 budget vote if healthcare funding was not protected. The standoff was resolved through the "Triple Bind" agreement of 24 February 2026, which included a {{currency|3.2 billion|SEN}} emergency allocation to the ONHS for pharmaceutical cost inflation.
-
-===Satori AI Blackout and medical system failures (May 2026)===
-{{Main|Satori AI Blackout}}
-The [[Satori AI Blackout]] of 1–4 May 2026 caused catastrophic disruption to the ONHS's digital infrastructure. The ONHS electronic health records system, referral platform, and prescription processing network — all dependent on the Satori AI grid — were rendered inoperable for approximately 72 hours. Hospitals across Okaiken were forced to revert to paper-based records and manual prescription processes, resulting in significant treatment delays, particularly for patients requiring time-sensitive medication or specialist referrals.
-
-The Blackout exposed the vulnerability of the healthcare system's digital dependency and prompted immediate calls for the implementation of analogue backup systems — a demand that was subsequently incorporated into the [[Digital Sovereignty Act (Okaiken)|Digital Sovereignty Act]] championed by the [[Social Democratic Party (Okaiken)|SDP]] as part of the [[Ikazaki Cabinet]] coalition agreement. The MHLW's post-Blackout review identified 14 critical healthcare systems that lacked adequate offline fallback capabilities, and Minister Kato has announced that the development of analogue backup infrastructure for the ONHS is his "first operational priority."
-
-The Blackout also disrupted the ministry's own internal operations, including pension disbursement processing and labour standards compliance monitoring, though the impact on these functions was less severe than on the healthcare system due to the greater availability of legacy paper-based processes.
-
-===Implementation of the National Universal Health Act (2024–2026)===
-
-The phased rollout of the ONHS has been the ministry's dominant operational activity since April 2024. The first phase, which covered primary care and hospital services, was completed in March 2025 with relatively few disruptions. The second phase, covering specialist care and mental health services, was completed in December 2025 under Minister Nakayama's oversight.
-
-The third and final phase — covering dental, vision, and prescription drug coverage — is scheduled for completion by 1 April 2026. This phase is the most fiscally demanding, as the inclusion of prescription drug coverage (previously subject to 30% co-payment under the old system) will significantly increase the ONHS's cost base. The ministry has estimated that the final phase will add approximately {{currency|28 billion|SEN}} in annual expenditure, bringing the total ONHS budget to approximately {{currency|195 billion|SEN}} per year.
-
-The transition has also required the dissolution of the existing health insurance societies ({{Nihongo|健保|Kenpō}}), which had employed approximately 85,000 administrative staff. The ministry has established a transition assistance programme to retrain and redeploy these workers, though approximately 30,000 are expected to face redundancy.
-
-==Controversies==
-
-===Kenshin Pharmaceutical scandal (2019)===
-{{Main|Kenshin Pharmaceutical scandal}}
-The Kenshin Pharmaceutical scandal was one of the most significant pharmaceutical regulatory failures in Sanese history. In August 2019, the [[Okaiken Shimbun]] newspaper reported that [[Kenshin Pharmaceutical]], one of the country's largest dietary supplement manufacturers, had been illegally including synthetic performance-enhancing drugs (PEDs) — including derivatives of [[androgenic-anabolic steroids]] — in its popular {{Nihongo|''Kenshin Vital''|健真バイタル|Kenshin Baitaru}} supplement line, marketed to the general public as a "natural energy booster."
-
-An investigation by the MHLW's Pharmaceutical and Food Safety Bureau confirmed that Kenshin had systematically falsified ingredient disclosures and had exploited loopholes in the dietary supplement regulatory framework, which — unlike the pharmaceutical approval process — did not require pre-market safety testing for supplements classified as "food products." The PEDs had been included at concentrations sufficient to cause significant side effects, including liver damage, hormonal disruption, and cardiovascular complications, in consumers who were unaware they were ingesting controlled substances.
-
-The scandal resulted in:
-* The arrest and prosecution of four Kenshin executives, including CEO {{Nihongo|Masahiro Kenshin|健真正博|Kenshin Masahiro}}, who was sentenced to eight years' imprisonment in 2021.
-* The recall of 23 Kenshin products and the seizure of approximately {{currency|4.2 billion|SEN}} in company assets.
-* The hospitalisation of an estimated 1,200 consumers who had experienced adverse effects, with 47 cases classified as severe.
-* The resignation of PMDA Commissioner {{Nihongo|Yūji Tanaka|田中雄二|Tanaka Yūji}}, who acknowledged that the agency had failed to conduct adequate post-market surveillance.
-
-The MHLW was heavily criticised for its regulatory failures. A subsequent investigation by the [[Board of Audit of Okaiken|Board of Audit]] found that the ministry had received 14 complaints about Kenshin products between 2016 and 2019 but had failed to investigate any of them, citing "resource constraints" and "the classification of dietary supplements as low-risk food products." The investigation also revealed that several MHLW officials had accepted hospitality and gifts from Kenshin, though no criminal charges were brought in connection with these findings.
-
-In response to the scandal, the MHLW implemented a comprehensive reform of the dietary supplement regulatory framework, including mandatory ingredient disclosure, pre-market safety assessment for supplements containing novel ingredients, enhanced post-market surveillance, and increased penalties for false labelling. The PMDA was restructured with a dedicated Dietary Supplement Safety Division and an expanded post-market surveillance budget.
-
-===Pension fund management concerns===
-
-The [[Government Pension Investment Fund (Okaiken)|GPIF]] has been the subject of recurring controversy over its investment strategy and governance. In 2023, the fund reported a record loss of {{currency|18 billion|SEN}} following global market turbulence, prompting criticism that its asset allocation — which had been shifted toward higher-risk domestic and international equities under a 2019 reform — was inappropriate for a fund responsible for the retirement security of millions of citizens.
-
-In 2024, the [[Okaiken Shimbun]] reported that the GPIF had invested approximately {{currency|8.5 billion|SEN}} in complex derivative instruments that had not been disclosed in the fund's public reporting. The revelation led to calls for greater transparency in fund governance and the appointment of an independent oversight board. The MHLW's Pension Bureau was criticised for its inadequate supervision of the fund, and the ministry subsequently announced a review of the GPIF's investment mandate and disclosure requirements.
-
-The pension system's broader sustainability has also been a source of political controversy. In 2022, the Honda administration's proposal to gradually reduce pension benefits by 5% over ten years was abandoned after fierce opposition from labour unions and the [[Okaiken Socialist Party|OSP]], who characterised the proposal as an attack on the social contract. The failure to reach a political consensus on pension reform has been described by economists as "the most dangerous policy vacuum in Sanese governance."
-
-===Non-regular worker exploitation===
-
-The growth of the non-regular workforce — now constituting 37% of total employment — has been a persistent source of controversy for the MHLW. Labour rights organisations have repeatedly criticised the ministry for inadequate enforcement of labour standards for non-regular workers, particularly in the areas of wage discrimination, unpaid overtime, and unsafe working conditions.
-
-In 2023, a high-profile investigation by the [[Okaiken Broadcasting Corporation]] (OBC) revealed that [[Yonezawa Prefecture|Yonezawa]]-based manufacturing companies were systematically classifying Vaiahi diaspora workers as "independent contractors" to avoid providing mandatory benefits under the [[Vaiahi Cultural Preservation Act 2003]], including the required workplace accommodations for prayer time and cultural observance. The investigation found that the Yonezawa Prefectural Labour Bureau had received 87 complaints about such practices in the preceding three years but had conducted only 12 on-site inspections.
-
-The MHLW's Labour Standards Bureau acknowledged the enforcement gap and announced a targeted inspection programme for the Yonezawa and Tokuyama industrial corridors, but labour rights groups have argued that the response was insufficient and that the ministry's institutional culture prioritises the interests of employers over the protection of vulnerable workers.
-
-==List of recent ministers==
-
-{| class="wikitable" style="text-align:center"
+{| class="wikitable" style="width:100%; text-align:left;"
 |-
-! #
-! Name
-! Took Office
-! Left Office
-! Duration
-! Prime Minister
+! style="background:#0b2545; color:white; width:28%;" | Internal Bureau or Agency
+! style="background:#0b2545; color:white; width:22%;" | Japanese Name
+! style="background:#0b2545; color:white; width:50%;" | Statutory Administrative Mandate
 |-
-| 1
-| [[Satoshi Kato]]<br><small>[[Okaiken Socialist Party|OSP]]</small>
-| 20 May 2026
-| Incumbent
-| —
-| [[Kousuke Ikazaki]]
+| Minister's Secretariat
+| 大臣官房 (Daijin Kanbō)
+| Manages ministry budgets, personnel evaluation, Diet legislative drafting, and international public health liaison
 |-
-| 2
-| [[Rento Nakayama]]<br><small>[[Okaiken Socialist Party|OSP]]</small>
-| 5 November 2025
-| 20 May 2026
-| 196 days
-| [[Honda Shigetsuma]]
+| Health Policy Bureau
+| 医政局 (Isei-kyoku)
+| Regulates hospital bed allocations, medical licensing examinations, clinical technology, and pharmaceutical supply chains
 |-
-| 3
-| {{Nihongo|Yumiko Takeda|武田裕美子|Takeda Yumiko}}<br><small>[[People's Party of Okaiken|PPO]]</small>
-| 18 August 2023
-| 5 November 2025
-| 2 years, 79 days
-| [[Honda Shigetsuma]]
+| Health Service Bureau
+| 健康局 (Kenkō-kyoku)
+| Directs infectious disease surveillance, national vaccination programs, lifestyle disease prevention, and public sanitation
 |-
-| 4
-| {{Nihongo|Kenji Morimoto|森本健二|Morimoto Kenji}}<br><small>[[People's Party of Okaiken|PPO]]</small>
-| 7 October 2019
-| 18 August 2023
-| 3 years, 316 days
-| [[Honda Shigetsuma]]<br>[[Masahiko Aoyagi]]
+| Labour Standards Bureau
+| 労働基準局 (Rōdō Kijun-kyoku)
+| Enforces the Labor Standards Act, inspects industrial workplaces, and oversees the national workers' compensation fund
 |-
-| 5
-| {{Nihongo|Aiko Fujimura|藤村愛子|Fujimura Aiko}}<br><small>[[People's Party of Okaiken|PPO]]</small>
-| 14 December 2015
-| 7 October 2019
-| 3 years, 298 days
-| [[Masahiko Aoyagi]]
+| Employment Security Bureau
+| 職業安定局 (Shokugyō Antei-kyoku)
+| Manages the national Hello Work public employment exchange, unemployment insurance, and vocational training grants
+|-
+| Pension Bureau
+| 年金局 (Nenkin-kyoku)
+| Administers the National Pension and Employees' Pension funds, ensuring long-term fiscal solvency and benefit disbursement
+|-
+| Okaiken National Health Service
+| 国民保健サービス (ONHS)
+| Directly administers public clinical institutions, universal healthcare reimbursement schedules, and medical fee tariffs
 |}
+
+==Intergovernmental relations with prefectural and metropolitan governments==
+
+The Ministry of Health, Labour and Welfare operates through a complex combination of devolved regional partnerships and direct national statutory oversight across the forty-seven provincial prefectures and [[Okami Metropolis]].
+
+In public healthcare and sanitation, statutory authority is substantially devolved to subnational governments under the Medical Care Act and Community Health Act. Prefectures maintain Prefectural Public Health Centers (保健所, ''hokenjo'') in major municipalities. These centers serve as the operational frontline executing national epidemiological surveillance, investigating foodborne illness outbreaks, auditing private clinics, and managing regional tuberculosis and viral control. Prefectural governors draft regional Medical Care Plans (医療計画), determining acute-care hospital bed caps and emergency transport corridors in consultation with the ministry's Health Policy Bureau. MHLW finances these regional networks through national treasury matching grants, shielding rural prefectures such as [[Miyagi Prefecture]] and [[Iwate Prefecture]] from regional clinical deserts.
+
+In social welfare administration, prefectural and municipal Welfare Offices (福祉事務所) execute public assistance programs, child protective services, and elder-care certifications under the statutory standards established by MHLW. Long-Term Care Insurance (介護保険) is administered directly at the municipal city and town hall level, with central ministry subsidies underwriting structural deficits caused by aging demographics.
+
+Conversely, labor standards enforcement represents an exclusive national direct sovereign function that is not devolved to prefectural governors. To prevent local political or corporate patronage from compromising worker protections, the Labour Standards Bureau operates an autonomous administrative chain of command through forty-eight Prefectural Labour Bureaus (都道府県労働局) and hundreds of local Labor Standards Inspection Offices (労働基準監督署). Labor inspectors hold special judicial police officer powers under the Code of Criminal Procedure, allowing them to inspect private corporate premises, subpoena payroll records, and refer criminal labor violations directly to public prosecutors without local governmental approval.
+
+Relations with the [[Okami Metropolitan Government]] require continuous coordination due to the immense scale and density of the capital's population. The Okami Metropolitan Government's Bureau of Public Health operates specialized infectious disease research institutes and municipal hospital corporations that interface directly with MHLW during public health emergencies. In the labor sector, the ministry and the metropolitan administration collaborate on the Capital Youth Employment Initiative, expanding protections for non-regular workers in the commercial and technology sectors of Okami Metropolis.
 
 ==See also==
 * [[Government of Okaiken]]
-* [[Okaiken National Health Service]]
+* [[Cabinet of Okaiken]]
+* [[Ikazaki Cabinet]]
+* [[Minister of Health, Labour and Welfare (Okaiken)]]
 * [[National Universal Health Act]]
+* [[Labor Standards Act (Okaiken)]]
 * [[Children and Families Agency (Okaiken)]]
-* [[Pharmaceutical and Medical Devices Agency (Okaiken)]]
-* [[Government Pension Investment Fund (Okaiken)]]
-* [[Labour standards in Okaiken]]
-* [[Demographics of Okaiken]]
-* [[Economy of Okaiken]]
-* [[Kenshin Pharmaceutical scandal]]
-* [[Satoris]]
-* [[Cult of Iron]]
-* [[Vaiahi Cultural Preservation Act 2003]]
-* [[2001 Central Government Reform (Okaiken)|2001 Central Government Reform]]
-* [[En Crisis (2026)]]
-* [[Satori AI Blackout]]
 
 ==References==
 {{Reflist}}
 
-==External links==
-* {{Official website|www.mhlw.ok.go.en}}
-
-{{Ministries of Okaiken}}
-{{Politics of Okaiken}}
-
 [[Category:Ministry of Health, Labour and Welfare (Okaiken)| ]]
-[[Category:Ministries of Okaiken]]
-[[Category:Government agencies established in 2001]]
+[[Category:Government ministries of Okaiken]]
 [[Category:Healthcare in Okaiken]]
-[[Category:Labour relations in Okaiken]]
-[[Category:Politics of Okaiken]]
-[[Category:Okami]]

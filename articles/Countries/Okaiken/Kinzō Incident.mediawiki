@@ -3,102 +3,460 @@
 | partof      = the Kinzō Reforms
 | image       = [[File:Burning_of_Toyozawa.jpg|300px|alt=Woodblock print of a messenger collapsing at the feet of Shogun Shigetomo.]]
 | caption     = ''The Silent Ledger'' (1860). A depiction of the moment the final report from Toyozawa ceased.
-| date        = June 6–9, 1625
-| place       = [[Toyozawa]] (Southern Yagikoshu) and [[Okami]] (Northern Haruguni)
+| date        = June 6–18, 1625
+| place       = [[Toyozawa]] (Southern Yagikoshu), [[Okami]] (Northern Haruguni), and [[Ichijōdani]] (Central Harujima)
 | result      = '''Strategic Collapse of the Dual Capital System'''
 * Assassination of [[Emperor Shirakawa of Mitoyagi|Shirakawa]]
 * Failure of the Shogunate Relief Fleet due to typhoon in the Southern Strait
+* [[Siege of Ichijōdani]] and deaths of [[Honda Shigetomo]] and [[Ii Naotaka]]
+* [[Great Reconciliation]] under the Third Shogun, [[Honda Shigetoki]]
 * Permanent relocation of the Imperial Court to Okami (post-1625)
+* Ii clan spared but demoted; founding of [[Pax Honda]]
 | combatant1  = '''The Imperial Guard'''<br>(Pro-Reform)
 | combatant2  = '''The Restoration Faction'''<br>(Anti-Reform)
-| commander1  = [[Emperor Shirakawa of Mitoyagi|Shirakawa]] {{KIA}}<br>Honda Shigezane
-| commander2  = [[Ii Naotaka]]<br>[[Ogasawara Tadayoji]]
-| strength1   = ~800 Castle Guards
-| strength2   = ~3,000 Ii "Red Devils"<br>~500 Ogasawara Insurgents
-| casualties1 = Total annihilation (Shirakawa killed)
-| casualties2 = ~400 killed or wounded
+| commander1  = [[Emperor Shirakawa of Mitoyagi|Shirakawa]] {{KIA}}<br>[[Honda Shigetomo]] {{KIA}}<br>Honda Shigezane<br>Honda Shigetoki<br>[[Hotta Muneshige]]
+| commander2  = [[Ii Naotaka]] {{KIA}}<br>[[Ogasawara Tadayoji]]<br>Kimura Shigetora {{KIA}}<br>Yoritsuna Kagemasa {{KIA}}<br>[[Ii Naoyoshi]]
+| strength1   = ~800 Castle Guards (Toyozawa)<br>~70,000+ siege army (Ichijōdani)
+| strength2   = ~3,000 Ii "Red Devils" (Toyozawa)<br>~500 Ogasawara Insurgents (Toyozawa)<br>~7,000 defenders (Ichijōdani)
+| casualties1 = Total annihilation of Toyozawa guard (Shirakawa killed)<br>~2,800 killed; 7,982 injured (Ichijōdani)<br>Shigetomo killed
+| casualties2 = ~400 killed or wounded (Toyozawa)<br>1,637 killed; 934 injured (Ichijōdani)<br>Naotaka seppuku
 }}
 
-The {{nihongo|'''Kinzō Incident'''|金造の変|Kinzō no Hen}} was a coup d'état and assassination that occurred in June 1625. It is historically significant not just for the death of [[Emperor Shirakawa of Mitoyagi|Emperor Shirakawa]], but for exposing the fatal flaw in the [[Honda Shogunate]]'s "Dual Sovereignty" system: the massive geographic distance between the military capital in the north ([[Okami]]) and the imperial capital in the south ([[Toyozawa]]).
+The {{nihongo|'''Kinzō Incident'''|金造の変|Kinzō no Hen}} was a coup d'état, assassination, and succession crisis that occurred in June 1625, nearly destroying the fledgling [[Honda Shogunate]] and marking the climactic tragedy of the [[Sengoku period (Okaiken)|Sengoku period]]. The incident encompassed the assassination of [[Emperor Shirakawa of Mitoyagi|Emperor Shirakawa]] (formerly Honda Shigetada, the stolen prince who had unified Okaiken), the [[Siege of Ichijōdani|Siege of Ichijōdani]], the deaths of both Shogun [[Honda Shigetomo]] and Ii clan lord [[Ii Naotaka]], and the [[Great Reconciliation]] that followed under the Third Shogun, [[Honda Shigetoki]]. It is historically significant not only for the death of the Retired Emperor — the unifier of the archipelago, killed by the son of his most loyal vassal — but for exposing the fatal flaw in the Honda Shogunate's "Dual Sovereignty" system: the massive geographic distance between the military capital in the north ([[Okami]]) and the imperial capital in the south ([[Toyozawa]]).
 
-==The "Tyranny of Distance"==
-In 1625, the Honda administration was split across the entire length of the archipelago.
+The Kinzō Incident is the central tragedy of the Sengoku period. It is the story of two families — the Honda and the Ii — bound together by the loyalty of their fathers and torn apart by the fears of their sons. [[Ii Naomasa]], the "Red Devil" who had been Shigetada's most trusted vanguard for over a decade, stood by Shigetada when his imperial identity was a weapon that could have destroyed him. His son [[Ii Naotaka]], raised in the shadow of that legendary loyalty and terrified of being found wanting, destroyed everything Shigetada built. Naotaka killed the emperor his father had served. He fought the Shogun who had been his childhood friend. And when he discovered, in a bloodstained letter soaked by a dying man's last breath, that the Shogun had come to forgive him — that the war had been a misunderstanding, that mercy had been offered and he had been too afraid to see it — he chose to die beside his friend rather than live with the knowledge of what he had done.
+
+Both [[Emperor Shirakawa of Mitoyagi|Shigetada]] (Emperor Shirakawa) and [[Honda Shigetomo]] died on Naotaka's hands. The incident ended with the [[Great Reconciliation]] — the Ii clan was spared but demoted, and the nation that could not afford another cycle of vengeance chose mercy over annihilation. The ''[[Mitsukoji]]'', the official chronicle of the Honda clan, frames the Kinzō Incident not as a political event but as a personal one: "This was not a war between clans. This was a quarrel between brothers that the nation was forced to witness."
+
+==Background: The Roots of the Tragedy==
+
+The Kinzō Incident did not arise from a single grievance. It was the product of decades of accumulated tension — personal, political, and structural — that traced their origins to the very founding of the Honda Shogunate and, beyond that, to the earliest bonds between the men who built it. To understand why Ii Naotaka rode against the emperor his father had served, it is necessary to trace the throughline of loyalty, fear, and mercy that defined the Honda-Ii relationship across two generations.
+
+===The Stolen Prince and the Unifier===
+
+The man who would become Emperor Shirakawa was born Prince Fumihito on November 26, 1556, the son of [[Emperor Komei of Mitoyagi|Emperor Komei]]. On October 12, 1558, during the [[Yuzawa Incident]], the two-year-old prince was abducted by members of the [[Ogasawara clan]] in an attempt to extort territorial concessions from the Imperial Court. The Ogasawara received the northern quarter of [[Harujima]] island and a stipend of 300,000 ''koku'', but never returned the prince, falsely claiming he had died of disease. In reality, the boy was abandoned at [[Shōhei Temple]] in [[Mino Province]], where he was raised as a commoner named "Ichimatsu" under the guidance of the monk Zen no Kishō.
+
+When he came of age, the young man was adopted by [[Honda Shigetatsu]], the childless leader of the [[Honda clan]], and given the name [[Honda Shigetada|Honda Heihachirō Shigetada]]. He trained as a samurai, served under [[Ogasawara Terumasa]], and rose to become one of the most feared battlefield commanders of the age — known as "The Warrior who Surpassed Death" because he never once suffered a significant wound despite being a veteran of over forty battles. He was never defeated by another samurai during his military service.
+
+In January 1601, following the [[Battle of Tone]], the ailing Emperor Komei publicly recognized Shigetada as his abducted son, Prince Fumihito. The declaration merged military authority with divine legitimacy, rendering the hidden identity — which [[Takigawa Kazumasu]] had wielded as a weapon for a decade — into a source of supreme power. Shigetada was declared both Crown Prince and ''Sei-i Taishōgun''. When Komei died in 1610, Shigetada ascended the Chrysanthemum Throne as [[Emperor Shirakawa of Mitoyagi|Emperor Shirakawa]].
+
+This biography — the stolen prince, the temple foundling, the unifier, the emperor — is not merely background to the Kinzō Incident. It is the essential context for understanding the emotional weight of the assassination. When Naotaka killed Shirakawa, he did not merely kill a retired emperor. He killed the stolen prince who had been raised as a commoner, who had unified the nation through decades of blood and sacrifice, and who had been served loyally by Naotaka's own father. The man who had been abducted as a child and had risen to reclaim his birthright was killed by the son of the man who had stood by him when his identity was a weapon.
+
+===The Fathers' Bond: Shigetada and Naomasa===
+
+The relationship between the Honda and the Ii clans was the military backbone of the early Shogunate. It was forged in a weapons shop in [[Nagashino]] in January 1589, when Honda Shigetada — then a vassal of the Ogasawara, recovering from his disgrace following the failed First Invasion of Yagikoshu — encountered [[Ii Naomasa]], a dispossessed ''rōnin'' whose clan had been destroyed when Shigetada himself laid siege to the Taketoyo clan's castle at Temmokuzan in 1584.
+
+The exact circumstances of the meeting are debated. The ''[[Mitsukoji]]'' records that Shigetada recognised the quality of the blades Naomasa was examining and struck up a conversation about metallurgy. The ''Ii Kōden'', a clan biography compiled by Naotaka in the 1620s, claims that Naomasa was arguing with the shopkeeper about the price of a ''yari'' and that Shigetada intervened, paying the difference. What is not disputed is the immediacy of the bond. Shigetada, five or six years Naomasa's senior, saw in the dispossessed warrior a reflection of his own years of obscurity and hardship. Naomasa, for his part, recognised in Shigetada the "master worth dying for" that he had been seeking during his years of wandering as a ''rōnin''.
+
+The two men were of complementary temperaments: where Shigetada was calculating and patient, Naomasa was volcanic and direct. Where Shigetada played the long game, Naomasa wanted to charge the gates. Shigetada employed Naomasa immediately. To demonstrate his absolute commitment, Naomasa offered his two children — Manchiyo (the future [[Ii Naotaka]]) and Takechiyo — as hostages to [[Otomo Castle]], the traditional holding facility for the families of vassals. This act, which placed his beloved son in the same hostile fortress where the young [[Honda Shigetomo]] was already imprisoned, bound the Ii clan to the Honda inextricably.
+
+Naomasa became one of the [[Honda Shitennō|Four Honda Heavenly Pillars]] alongside [[Anjō Motonobu]], [[Sakakibara Yasumasa]], and a fourth figure. He rebuilt the Honda clan's decimated cavalry arm along radically different lines, training his riders to operate in disciplined, coordinated squadrons of fifty rather than seeking individual glory. He equipped them in distinctive crimson-lacquered ''o-yoroi'' armor — the "Red Devil" cavalry that would become one of the most feared images in the Sanese archipelago. His crowning military achievement came during the campaign against the [[Mitsui clan]] in 1596, when his Red Devil cavalry executed a devastating flanking maneuver through a volcanic valley that the Mitsui had believed impassable to mounted troops, shattering the defensive formation and securing the victory that redeemed Shigetada's reputation.
+
+At the [[Battle of Tone]] on October 21, 1600 — the bloodiest single day in Sanese history, involving over 160,000 men — Naomasa commanded a division of the Eastern Army on the left flank. When the [[Tsutsui Sadatsugu|Tsutsui betrayal]] collapsed the Honda right and the battle descended into the chaotic, fog-shrouded melee known as the "Crimson Fog," Naomasa's cavalry executed one of the few coherent tactical maneuvers of the day: a disciplined withdrawal followed by a devastating countercharge into the exposed enemy flank. This action prevented the complete collapse of the Eastern Army's position and is credited with buying the time necessary for Shigetada's personal charge and the subsequent Koyama betrayal. Naomasa was wounded during the melee — a musket ball grazed his left thigh — but refused to leave the field until the Western Army was routed.
+
+It was Naomasa who, in the aftermath of the battle, publicly challenged the Takigawa succession. He argued before the assembled daimyō that the Takigawa regime had died with Kazumasu and that Shigetada — as a descendant of the Imperial line through the Honda clan — possessed the only valid claim to supreme authority. This declaration, delivered with the personal authority of a man who had just bled for the cause, was instrumental in legitimizing the Honda Shogunate.
+
+===The Ceasefire Dispute: The Rift Between Shigetada and Naomasa===
+
+The defining political disagreement between Naomasa and Shigetada came in the immediate aftermath of the Battle of Tone. The battle had cost nearly 100,000 lives in a single day, decimating the warrior caste of the entire archipelago. The Honda forces suffered nearly 50% casualties (approximately 41,000 killed or wounded), while the Western Army was effectively erased with 75% casualties (nearly 60,000 men). The sheer loss of life was so catastrophic that it necessitated a generation of peace simply because there were few soldiers left to fight.
+
+Shigetada, looking at the exhausted nation, saw what his generals could not: the [[Yanbaru|Dragon Kingdom]] to the north and [[Nakamizu]] to the south were watching the Sengoku bleed itself to death. If the Honda continued fighting, even in victory, the two maritime powers would invade a nation that had no soldiers left to defend itself. The ceasefire Shigetada decreed after Tone was not leniency — it was survival. He declared that the fighting was over — not because all enemies were destroyed, but because the nation was exhausted.
+
+Naomasa vehemently opposed this decision. From the saddle, the war looked unfinished: the Western Army had been shattered but not every dissident lord had been personally subdued; pockets of Takigawa loyalism persisted in the western provinces. He argued that the Honda should press the advantage while the enemy was broken, annihilating the remaining resistance before it could reorganise. Any enemy left alive was a future threat. The Honda should press the advantage while the enemy was broken.
+
+Shigetada's response was strategic, not moral. He told Naomasa that the external maritime powers were watching, and that if the Honda continued fighting, even in victory, those powers would invade a nation that had no soldiers left to defend itself. The ceasefire was not leniency — it was survival.
+
+The rift between Shigetada and Naomasa was personal and painful. Naomasa could not accept the logic. He understood it intellectually, but his instincts — forged in the years of wandering as a ''rōnin'', when every day was a fight for survival — told him that any enemy left alive was a future threat. The disagreement was never formally resolved; Shigetada simply overruled Naomasa, as was his right as commander. But the wound it left in their relationship was real and never closed. Naomasa never openly defied Shigetada again, but he began to speak more frequently of the dangers of "generosity to wolves" — a phrase that his son Naotaka would later remember when the Kinzō reforms seemed to threaten the Ii clan's very existence.
+
+The ''Mitsukoji'' frames the ceasefire dispute as the moment when the bridge between Shigetada and Naomasa began to crack:
+
+{{quote|Naomasa had followed Shigetada through every fire the Sengoku had lit. He had charged when Shigetada charged. He had bled when Shigetada bled. But when Shigetada said 'enough,' Naomasa could not follow him there. Not because he did not trust Shigetada's judgment — but because he trusted his own fear more. And the fear said: the wolves are only sleeping.|the ''Mitsukoji'', on the ceasefire dispute}}
+
+===The Childhood at Otomo Castle===
+
+While their fathers' bond was being forged on the battlefield, the next generation was being shaped in captivity. In 1590, following Honda Shigetada's devastating defeat during the First Invasion of Yagikoshu, a furious [[Ogasawara Terumasa]] severely punished the Honda clan. The eight-year-old [[Honda Shigetomo|Shigetomo]], along with his mother and siblings, was forcibly relocated to the newly completed [[Otomo Castle]] to serve as political hostages, ensuring Shigetada's continued compliance.
+
+It was during this captivity that Shigetomo met another young hostage: Manchiyo, the son of the disgraced ''rōnin'' [[Ii Naomasa]]. Naomasa had sent his own children to Otomo Castle to prove his loyalty to Shigetada — placing his beloved son in the same hostile fortress where the young Honda Shigetomo was already imprisoned. The two boys bonded during their imprisonment, forging a complex relationship that would define the rest of their lives and the fate of the nation.
+
+The ''Mitsukoji'' records the moment of their meeting with a restraint that has become one of the most quoted passages in Sanese historical literature:
+
+{{quote|Two boys met in a courtyard that was not theirs. One was the son of a warlord. The other was the son of a disgraced man. They did not know which was which. They played.|the ''Mitsukoji'', Volume II}}
+
+Shigetomo and his family remained hostages until March 1592, when [[Takigawa Kazumasu]] betrayed Ogasawara Terumasa, allowing the Honda forces to assault Otomo Castle and free them. The friendship forged in that courtyard — between the son of the man who would become emperor and the son of the man who would become his most loyal vanguard — was the bond that the Kinzō Incident would break.
+
+===The Death of Naomasa and the Broken Bridge===
+
+The Ishijima Highland Campaign (1602–1604) was Shigetada's effort to subdue the last organised resistance in the volcanic highlands of central [[Ishijima]]. Naomasa led the military component, providing the sword to Shigetada's "Sword and Sutra" strategy. But the volcanic highlands negated the Red Devil cavalry's greatest advantage. The narrow mountain passes and loose volcanic soil made coordinated squadron charges impossible. Naomasa, frustrated by the terrain, repeatedly dismounted his men and led them on foot into the [[Kuroda clan]] fortifications, fighting in the sulfur-choked passes with a ferocity that the ''Mitsukoji'' describes as "unhinged."
+
+It was during one such frontal assault — against a Kuroda blockhouse on the northern slope of [[Aonashiyama]], a 1,371-metre volcanic peak in the central highlands of Ishijima — that Naomasa was struck by a matchlock ball in the lower torso. The wound was not immediately fatal, but the bullet could not be fully extracted, and the volcanic soil that entered the wound ensured it would never heal cleanly.
+
+Naomasa, characteristically, refused to withdraw from active command. He continued to ride and to lead throughout the final months of the campaign, allowing the injury to worsen through repeated exertion. By the spring of 1604, the chronic infection had taken hold. Naomasa died on '''May 21, 1604''', in his residence in [[Okami]], aged approximately 43. The hot season inflamed the wound that had never closed, and the fever that had plagued him intermittently became unremitting.
+
+Shigetada, absorbed in the construction of the new capital and the establishment of the shogunate's administrative apparatus, was not present at the death. Naotaka, who had been serving as a military officer in the capital, was at his father's side.
+
+According to the ''Mitsukoji'', Naomasa's final words to Naotaka were a warning — a warning born directly from the Kuroda campaign, where Shigetomo's mercy had, in Naomasa's view, left a defeated enemy alive to breed future resentment:
+
+{{quote|Your lord is a man of great heart. But the world is not made of hearts. It is made of swords and rice. Remember this when the time comes.|Naomasa's final words to Naotaka, ''Mitsukoji''}}
+
+Naomasa's death removed the primary bridge of trust between the Honda and the Ii clans. He was the only man who possessed both the unshakable loyalty of Shigetada and the fierce love of his son Naotaka. He understood Shigetada's strategic patience from the inside — and he understood, from his years as a ''rōnin'', the terror of a clan that fears it is about to be erased. Without Naomasa to translate between these two worlds, the relationship between the shogunate and the Ii clan was conducted entirely through bureaucratic channels: edicts, land surveys, and relocation orders, each one interpreted by the Ii through Naomasa's lens of suspicion.
+
+The ''Mitsukoji'' frames Naomasa's death as the breaking of a bridge between two worlds:
+
+{{quote|He was the only man who possessed both the unshakable loyalty of Shigetada and the fierce love of Naotaka. He understood Shigetada's strategic patience from the inside — and he understood, from his years as a rōnin, the terror of a clan that fears it is about to be erased. Without Naomasa to translate between these two worlds, the relationship between the shogunate and the Ii clan was conducted entirely through bureaucratic channels — edicts, land surveys, and relocation orders — each one interpreted by the Ii as a potential death sentence.|the ''Mitsukoji'', on Naomasa's death}}
+
+Shigetada's decision to appoint Shigetomo as Shogun in 1610 was, in part, a response to this void. Naomasa, once the natural military successor, had drifted from him in the years before his death. Shigetada needed a commander he could still reach — someone who saw the world as he saw it, who understood the strategic necessity of the ceasefire, who would not challenge the turn from war to governance. Shigetomo, the boy who had sat in the mud of Tone and wanted to build systems rather than wage war, was that man. The appointment was not merely a reward for military prowess. It was an attempt to fill the gap that Naomasa's alienation and death had created — a gap that would never truly close.
+
+===The Dual Sovereignty System===
+
+Upon his ascension to the Chrysanthemum Throne on November 8, 1610, Shirakawa (Shigetada) faced a unique constitutional crisis. He was the first individual in Sanese history to hold both the divine lineage of the Emperor and the supreme military authority of the Shogun. To resolve this, Shirakawa enacted the '''Edict of the Two Realms''' ({{nihongo|Ryōkai-no-Rei|両界の令}}) in 1611.
+
+This edict formally separated the functions of the state into two spheres: the ''Kuge'' (Court) and the ''Buke'' (Warrior). Shirakawa retained the title of Emperor and the ultimate sovereign authority, managing foreign diplomacy, religious rites, and the appointment of high officials. He abdicated the title of ''Sei-i Taishōgun'' to his second son, [[Honda Shigetomo]], who was tasked with the administration of the ''han'' (domains), tax collection, and infrastructure maintenance.
+
+The Edict of the Two Realms explicitly invoked the {{nihongo|Niō|仁王|Benevolent Kings}} — the two giant guardian figures who stand at the gates of Shoto shrines — as the mythological precedent for the division of sovereignty. {{nihongo|Agyō|阿形|Open-Mouthed King}} — active, the Pounding — was identified with the Shogun: the military governor who exercised active, compressive force on the body politic. {{nihongo|Ungyō|吽形|Closed-Mouthed King}} — still, the Release — was identified with the Emperor: the sacred sovereign who held the stillness at the center of the state. The language of the Edict stated: "As the two Kings stand at the gate of the shrine, one breathing out and one breathing in, so shall the two Sovereignties stand at the gate of the nation, one acting and one preserving."
+
+Unlike previous eras where the Emperor was a figurehead puppet of the Shogun, Shirakawa utilized his military background to ensure the Imperial Court remained the dominant partner. The Shogunate in [[Okami]], under Shigetomo, functioned effectively as the enforcement arm of the Imperial will, creating a powerful "Dual Sovereignty" that brought stability to the war-torn nation.
+
+In 1619, at the age of 63, Shirakawa formally abdicated the throne in favor of his eldest son, [[Emperor Daigo of Mitoyagi|Prince Takahito (Emperor Daigo)]]. He adopted the title of ''Daijō Tennō'' (Retired Emperor) and established a "Cloistered Rule" ({{nihongo|Insei|院政}}) from [[Toyozawa Castle]]. Freed from the ceremonial constraints of the court, the Retired Emperor focused entirely on the grand strategy of the realm. It was during this period (1619–1625) that he, alongside Shigetomo, drafted the controversial '''Kinzō Reforms'''. His retirement period was characterized by a frantic push for modernization, as if he sensed his time was running out. This aggressive centralization of power ultimately alienated the conservative ''fudai'' daimyos, setting the stage for the tragedy.
+
+===The "Tyranny of Distance"===
+
+The Dual Sovereignty system, however, contained a fatal flaw: the massive geographic distance between the military capital at [[Okami]] (where the Shogun resided) and the imperial capital at [[Toyozawa]] (where the Retired Emperor held court). In 1625, the Honda administration was split across the entire length of the archipelago:
 * '''Okami:''' The seat of the Shogun and the main army.
 * '''Toyozawa (Southern Yagikoshu):''' The residence of the Retired Emperor.
 * '''The Gap:''' The distance between the two capitals was approximately 500&nbsp;km (310 miles), separated by the rugged mountainous spine of the main island and the turbulent Naruto Strait to the south.
 
-Under normal conditions, a fast [[Kobaya]] dispatch boat or a mounted messenger relay took roughly 3 days to deliver urgent news. The main Shogunate fleet required at least 5 days to mobilize and sail south. [[Ii Naotaka]], whose domain of [[Ichijōdani]] was located much closer to Toyozawa in the central region, calculated his strategy entirely around this time lag.
+Under normal conditions, a fast [[Kobaya]] dispatch boat or a mounted messenger relay took roughly 3 days to deliver urgent news. The main Shogunate fleet required at least 5 days to mobilize and sail south. [[Ii Naotaka]], whose domain of [[Ichijōdani]] was located much closer to Toyozawa in the central region, calculated his strategy entirely around this time lag. The 500-kilometre gap between Okami and Toyozawa meant that the Shogun could not respond in time to a sudden assault on the Retired Emperor. This geographic split — the "Tyranny of Distance" — would prove catastrophically vulnerable when the Ii clan struck.
+
+===The Kinzō Reforms===
+
+By 1620, Shirakawa had grown increasingly dissatisfied with the stagnation of the feudal economy. Influenced by his contacts with foreign traders in [[Yokosuka]], he believed that for the Empire to survive, it must transition from a rice-based economy to a currency-based mercantile economy. In the summer of 1623, Shirakawa and Shigetomo jointly issued the '''Kinzō Reforms''' ({{nihongo|Kinzō no Kaikaku|金造の改革}}). These radical edicts included:
+
+* '''The National Land Survey:''' This stripped local daimyō of the right to self-assess their crop yields, placing all land valuation under federal inspectors. This was the first time in Sanese history that a land survey system was nationalized by the government. It would not happen again until 1871, when the [[Constitution of Okaiken]] nationalized several organizations.
+* '''The Rice Exchange Decree:''' This established the [[Okami Rice Exchange]] and mandated that tax be paid in convertible currency rather than physical rice. The exchange allowed daimyō and merchants to trade in rice futures — contracts for rice to be delivered at a later date — stabilizing the price of rice and reducing the economic shock of bad harvests. This institution was the direct precursor to the modern Sankei 325 Index.
+* '''The Abolition of Swords:''' A controversial proposal to restrict the carrying of swords to active-duty military personnel only, effectively demilitarizing the idle samurai class.
+
+The decree also allowed the shogunate to manipulate control of each clan and assign them to another territory, effectively weakening the challenge to the Honda clan. Notable warlords such as Ogasawara Kagemasa and Mukai Takanao were moved further from the shogunate control in Okami to the outlying islands like Yagikoshu and Shimizu in exchange for rice stipends. These were known as the ''tozama'' daimyos. Daimyos that remained loyal to the clan were given territories that were small but very important in safekeeping hostile people out of the shogunate's control. These were called the ''fudai'' daimyos.
+
+These reforms were viewed by the traditional warrior caste (''bushi'') as an existential threat. They believed the Honda regime was turning the samurai into "mere clerks and merchants." The reforms were interpreted as an insult to the memory of the men who had bled to unify the country — men like [[Ii Naomasa]], whose Red Devil cavalry had been the vanguard of the Honda's rise.
+
+===The Ii Conspiracy===
+
+The [[Ii clan]], led by [[Ii Naotaka]], had been the staunchest allies of the Honda since the [[Battle of Tone]]. Naotaka had spent his formative years alongside Shigetomo as a political hostage at Otomo Castle, and the two boys had formed a deep, brotherly bond during their shared captivity. After a brief period of resistance — the [[Battle of Nakasendo]] and [[Battle of Ishikawada]] in 1602, where Shigetomo personally defeated the Ii forces — Naotaka was welcomed into Shigetomo's inner circle through the intervention of his childhood friend. For over two decades, Naotaka served as a vital pillar of the Honda Shogunate, elevated to the status of a premier ''fudai'' daimyō and trusted confidant of the Shogun.
+
+The fracture began in the early 1620s, when the Kinzō Reforms proposed transferring the Ii from their ancestral home in Ichijōdani to a new, highly lucrative one-million-koku territory in Bungo (modern-day [[Nagato prefecture]]). Naotaka, influenced by conservative elements within his clan and terrified that the transfer was actually a trap designed to strip the Ii of their defensible lands before executing them, began to quietly resist the edicts. The bureaucratic frenzy and Shigetomo's increasing paranoia led to a severe breakdown in communication.
+
+On 28 May 1625, Shigetomo sent Naotaka a formal inquiry asking if everything was in order regarding the clan's impending transfer. Naotaka responded respectfully on 30 May, assuring the Shogun that the Ii clan was preparing for their relocation. However, other letters from this period show Shigetomo writing to his brother, [[Emperor Daigo of Mitoyagi|Emperor Daigo]], expressing deep paranoia that the outer clans were secretly amassing weapons to resist the edicts. The two men — once inseparable — were now trapped in a spiral of mutual suspicion.
+
+Naotaka was a traditionalist. He viewed the reforms as an insult to the memory of his father, [[Ii Naomasa]], and the warriors who had bled to unify the country. His father's dying warning — "Your lord is a man of great heart. But the world is not made of hearts. It is made of swords and rice. Remember this when the time comes" — echoed in his mind as the shogunate's edicts stripped away the land rights that Naomasa had fought to secure. The ceasefire dispute between Shigetada and Naomasa, never resolved in Naomasa's lifetime, had become a generational wound. Naomasa's fear — that "the wolves are only sleeping" — had been transmitted to his son, and the Kinzō Reforms seemed to prove it.
+
+In early 1625, a secret coalition was formed in the tea houses of [[Ichijōdani]]. It included the Ii clan, the marginalized [[Ogasawara clan]], and several conservative court nobles. Their goal was not to overthrow the Honda, but to "forcibly petition" the Retired Emperor to rescind the reforms. This movement was known as the "Restoration of the Sword" ({{nihongo|Tōken Ishin|刀剣維新}}).
 
 ==Timeline of the Tragedy==
 
 ===June 4: The Storm Wall===
-A massive, unseasonal typhoon stalled over the southern coast near Mie and Toyozawa. This severed all naval communication between the northern capital and the southern court. The Shogunate in Okami was effectively blind to events happening in the south.
+
+A massive, unseasonal typhoon stalled over the southern coast near Mie and Toyozawa. This severed all naval communication between the northern capital and the southern court. The Shogunate in Okami was effectively blind to events happening in the south. The storm would prove to be the perfect cover for Naotaka's assault — and the perfect barrier to prevent any response from the Shogun.
 
 ===June 6, Midnight: The Coup Begins===
-Taking advantage of the isolation, Ii Naotaka launched his assault on Toyozawa Castle. The traitor [[Ogasawara Tadayoji]] opened the gates. Because the storm was raging, the local "Noroshi" (Smoke Signal) relay towers on the southern peaks could not be seen from the central relay stations in Kofu. The alarm was raised locally, but the message could not penetrate the storm wall to reach the north.
+
+Taking advantage of the isolation, Ii Naotaka led 3,000 of his elite "Red Devil" cavalry — the very units his father had built — to the outskirts of Toyozawa Castle. The castle was heavily fortified and should have been impregnable. However, [[Ogasawara Tadayoji]], the captain of the castle's North Gate guard, was a member of the conspiracy. At midnight (the Hour of the Rat), Ogasawara signaled the attackers with a fire arrow and opened the gates.
+
+Because the storm was raging, the local "Noroshi" (Smoke Signal) relay towers on the southern peaks could not be seen from the central relay stations in Kofu. The alarm was raised locally, but the message could not penetrate the storm wall to reach the north. The Ii forces surged into the castle, catching the Honda defenders asleep. The "Red Devils" wore white headbands to distinguish themselves in the dark. They set fire to the outer baileys to create panic.
+
+===The Assault on the Honmaru===
+
+Retired Emperor Shirakawa, aged 69, was awakened by the sound of musketry. Realizing the castle was lost, he ordered his attendants to evacuate the young Prince [[Honda Shigezane]] through a secret passage. Rejecting the pleas of his advisors to flee, Shirakawa donned his ceremonial armor and took up his legendary spear, the ''[[Tonbokiri]]'' — the same spear that had been awarded to him by Ogasawara Terumasa decades earlier, after the Battle of Awa.
+
+===The Last Stand of Shirakawa at the Bridge of Heaven===
+
+According to the ''[[Mitsukoji]]'', Shirakawa held the {{nihongo|"Bridge of Heaven"|天の橋|Ten no Hashi}} — the wooden corridor connecting the inner palace to the keep — single-handedly for nearly an hour. The narrow corridor nullified the attackers' numbers, allowing the famed spearman to hold off wave after wave of insurgents. Historical records claim he slew over thirty men in the defense. The ''Mitsukoji'' records the image with a simplicity that became iconic:
+
+{{quote|He stood because the spear held him. The spear stood because his hands held it. Which broke first — the man or the wood — no one could say.|the ''Mitsukoji'', on Shirakawa's last stand}}
+
+Ii Naotaka, arriving at the burning inner courtyard, ordered his men to stand down. He approached the bridge and knelt, pleading with Shirakawa to surrender and rescind the reforms. The confrontation between the two men — the son of Shigetada's most loyal vassal, kneeling before the emperor his father had served — is one of the most emotionally charged moments in the ''Mitsukoji''. Shirakawa reportedly laughed and replied:
+
+{{Quote|text="The wheel of time turns forward, Manchiyo. You cannot stop the sun from rising by shooting arrows at the sky. If you want the old world back, you must step over my corpse to get it."|sign=Emperor Shirakawa, ''Mitsukoji''}}
+
+The use of Naotaka's childhood name — "Manchiyo" — by the man Naotaka's father had served for over a decade is a detail the ''Mitsukoji'' records with devastating precision. It was not the Retired Emperor who spoke to the rebel lord. It was Shigetada — the man who had met Naomasa in a weapons shop, who had been served by him through every fire of the Sengoku, who had watched Naomasa die of a wound sustained in his service — speaking to Naomasa's son.
+
+===The Death of the Emperor===
+
+Unwilling to engage his former lord in single combat, and fearing the arrival of Honda reinforcements, Naotaka made a fateful decision. He ordered a squad of ''ashigaru'' armed with [[Tanegashima (gun)|Tanegashima arquebuses]] to form a line. At approximately 02:00 AM, the order was given. A volley of gunfire tore through the corridor. Shirakawa was struck by seven bullets in the chest and abdomen.
+
+The irony was palpable: the warlord who had championed the use of firearms at the [[Battle of Tone]] — who had deployed rolling volley arquebus tactics that transformed Sanese warfare — was ultimately killed by them. Legend states that he did not fall, but died standing, propped up by his spear, his eyes open and facing the traitors. The head was not taken — an act of strange mercy by Naotaka, who could not bring himself to decapitate the man his father had served. But the body had been riddled with bullets, a weapon Shigetada had championed his entire life.
+
+The ''Mitsukoji'' records that Shirakawa refused to commit ''seppuku''. He declared that he was the Emperor, and only Heaven could command his death. The chronicle describes the death as "a battle, not an assassination" — a final act of defiance by the stolen prince who had been abducted as a child, raised as a commoner, and had risen to unify the nation through forty years of war, only to be killed by the son of the man who had stood by him when his identity was a weapon.
+
+The castle burned to the ground by dawn. The Ii forces withdrew rapidly, knowing that the main Shogunate army in Okami would soon retaliate. They took nothing from the castle, leaving Shirakawa's body untouched as a sign of respect.
 
 ===June 6, 10:00 AM: The "Red Letter"===
+
 A single, desperate messenger, riding a relay of horses to death, managed to skirt the edge of the typhoon and reach the central hub of Hirogawa. From there, a second rider sprinted north to Okami, reaching Shogun [[Honda Shigetomo]] at 2:00 PM on June 7. The message was already 38 hours old. It read: "The Red Devils are inside the walls. We are holding the Keep."
 
 ===June 7–8: The Waiting Room===
+
 Shigetomo immediately ordered the Grand Fleet to launch from Okami Harbor. However, while the north was clear, reports indicated the typhoon was still battering the southern strait near Tsuda. The naval magistrates refused to sail into the teeth of the storm.
 
-For two days, Shigetomo was forced to sit in the war room of Okami Castle, staring at a map of the long coastline. He knew that with every passing hour, the distance was killing his father. He reportedly calculated the travel time repeatedly, realizing that even if the fleet sailed at top speed, they would arrive days too late. This period of helpless calculation is often cited as the cause of his later psychological break—he was a man of logic defeated by simple geography.
+For two days, Shigetomo was forced to sit in the war room of Okami Castle, staring at a map of the long coastline. He knew that with every passing hour, the distance was killing his father. He reportedly calculated the travel time repeatedly, realizing that even if the fleet sailed at top speed, they would arrive days too late. This period of helpless calculation is often cited as the cause of his later psychological break — he was a man of logic defeated by simple geography.
 
-===June 8: The Arrival===
-The storm broke on the morning of June 8. The fleet sailed south immediately, making the crossing in record time.
+===June 8–10: The Arrival===
 
-They arrived in Toyozawa on the afternoon of June 10. They found the castle already burned to the ground. The Ii forces had withdrawn into the mountains near Ichijōdani a full two days earlier. Emperor Shirakawa had been dead for nearly 90 hours.
+The storm broke on the morning of June 8. The fleet sailed south immediately, making the crossing in record time. They arrived in Toyozawa on the afternoon of June 10. They found the castle already burned to the ground. The Ii forces had withdrawn into the mountains near Ichijōdani a full two days earlier. Emperor Shirakawa had been dead for nearly 90 hours.
 
-==Background==
-===The Dual Sovereignty===
-Since 1610, the [[Honda clan]] had governed Okaiken through a unique system of "Dual Sovereignty." The military administration (''Bakufu'') was located in [[Okami]], led by the Shogun [[Honda Shigetomo]], while the ultimate political and spiritual authority resided with the Retired Emperor Shirakawa in [[Toyozawa]]. 
+===Shigetomo's Nervous Breakdown===
 
-By 1620, Shirakawa had grown increasingly dissatisfied with the stagnation of the feudal economy. Influenced by his contacts with foreign traders in [[Yokosuka]], he believed that for the Empire to survive, it must transition from a rice-based economy to a currency-based mercantile economy.
+Upon entering the charred remains of the Inner Sanctum, Shigetomo discovered the body of his father. The head had not been taken — an act of strange mercy by Naotaka — but the body had been riddled with bullets, a weapon Shigetada had championed his entire life.
 
-===The Kinzō Reforms===
-In 1623, Shirakawa and Shigetomo jointly issued the '''Kinzō Reforms''' ({{nihongo|Kinzō no Kaikaku|金造の改革}}). These radical edicts included:
-* '''The National Land Survey:''' This stripped local daimyō of the right to self-assess their crop yields, placing all land valuation under federal inspectors.
-* '''The Rice Exchange Decree:''' This established the [[Okami Rice Exchange]] and mandated that tax be paid in convertible currency rather than physical rice. 
-* '''The Abolition of Swords:''' A controversial proposal to restrict the carrying of swords to active-duty military personnel only, effectively demilitarizing the idle samurai class.
+Witnesses claim that Shigetomo did not weep. Instead, he fell into a catatonic state for several hours, sitting silently beside his father's corpse amidst the ash. When he finally stood, his demeanor had shifted from the rational, reformist bureaucrat to the erratic, vengeance-fueled "Punisher" of his youth.
 
-These reforms were viewed by the traditional warrior caste (''bushi'') as an existential threat. They believed the Honda regime was turning the samurai into "mere clerks and merchants."
+He ordered the summary execution of the castle guards who had survived, blaming them for his father's death. He then refused to return to Okami to coordinate a proper response. Instead, he declared that he would "hunt the Red Devils to the ends of the earth."
 
-===The Ii Conspiracy===
-The [[Ii clan]], led by [[Ii Naotaka]], had been the staunchest allies of the Honda since the [[Battle of Tone]]. However, Naotaka was a traditionalist. He viewed the reforms as an insult to the memory of his father, [[Ii Naomasa]], and the warriors who had bled to unify the country.
+The ''Mitsukoji'' records his deterioration in the days that followed: the visit to the ruins of the Toshoji temple on June 8, where he ordered all soldiers to leave him alone and vowed revenge; the heavy drinking by the night of June 9; the contradictory orders, the ink splatters in his calligraphy, the oscillation between threatening the total annihilation of the Ii bloodline and desperately pleading with Naotaka to deny his involvement. The 2016 declassification of the [[Honda Letters]] confirmed this account: Shigetomo's correspondence from this period shows a man torn between his duties as Shogun and his grief as a son, his handwriting becoming noticeably rushed, with frequent crossed-out sentences.
 
-In early 1625, a secret coalition was formed in the tea houses of [[Ichijōdani]]. It included the Ii clan, the marginalized [[Ogasawara clan]], and several conservative court nobles. Their goal was not to overthrow the Honda, but to "forcibly petition" the Retired Emperor to rescind the reforms. This movement was known as the "Restoration of the Sword" ({{nihongo|Tōken Ishin|刀剣維新}}).
+Shigetomo immediately declared the Ii clan to be {{nihongo|"Enemies of the State"|朝敵|Chōteki}} and mobilized the army for the [[Siege of Ichijōdani]], ensuring that the civil war Shirakawa had tried to prevent would consume the nation.
 
-==The Incident==
-===The Betrayal of Ogasawara===
-On the night of June 6, 1625, a severe thunderstorm struck the Toyozawa region. Using the weather as cover, Ii Naotaka led 3,000 members of his elite "Red Devil" cavalry to the outskirts of Toyozawa Castle.
+==The March to Ichijōdani==
 
-The castle was heavily fortified and should have been impregnable. However, [[Ogasawara Tadayoji]], the captain of the castle's North Gate guard, was a member of the conspiracy. At midnight (the Hour of the Rat), Ogasawara signaled the attackers with a fire arrow and opened the gates.
+Following the assassination of Emperor Shirakawa, the grieving Shogun mobilized a massive punitive force. Despite the advice of his generals to wait for heavy artillery, Shigetomo ordered an immediate march on the Ii stronghold. The decision was characteristic of the man who had earned the moniker {{nihongo|"The Punisher"|お仕置き|Oshioki}} in his youth — a leader who believed in overwhelming preemptive force. But it was also the decision of a man in the grip of profound psychological collapse: a son who had just learned that his father had been killed by his childhood friend.
 
-===The Assault on the Honmaru===
-The Ii forces surged into the castle, catching the Honda defenders asleep. The "Red Devils" wore white headbands to distinguish themselves in the dark. They set fire to the outer baileys to create panic.
+The Shogunate forces, numbering over 70,000, converged on the narrow valley of Ichijōdani in [[Ise Prefecture]], where Naotaka had retreated with fewer than 7,000 men. The ten-to-one numerical advantage was, on paper, overwhelming. However, the forces that assembled were not the disciplined professional army of the early Shogunate. Shigetomo's erratic behavior — heavy drinking, contradictory orders, a physical altercation with his second-in-command [[Hotta Muneshige]] on 16 June — severely compromised the command structure.
 
-Retired Emperor Shirakawa, aged 69, was awakened by the sound of musketry. Realizing the castle was lost, he ordered his attendants to evacuate the young Prince [[Honda Shigezane]] through a secret passage. Rejecting the pleas of his advisors to flee, Shirakawa donned his ceremonial armor and took up his legendary spear, the ''[[Tonbokiri]]''.
+Shigetomo began calling the nearby units of the Teruzumi, Okudaira, Manabe, and [[Hotta clan]]s, which remained loyal to the shogunate, to invade the Ii territory at Ichijōdani beginning 12 June. Historical anecdotes indicate that his erratic behavior severely affected the effectiveness of the assembled army. Several clans also took advantage of the weakened state of the Honda clan's control over the country. Second-in-command [[Hotta Muneshige]] took control of the advancing units of the Hotta and the Okudaira clans and deployed the company at Minatokoriyama, near [[Ise-Takahama]] in [[Ise Prefecture]], about 8 kilometres northeast of Ichijōdani castle. Shigetomo remained at the main base at the foot of Mount Hei, near [[Eiheiji]] in [[Ise Prefecture]], in the shadow of [[Kiriinutsugemine]] ({{nihongo|霧犬槇峰|Kiriinutsugemine|lit. "fog dog cedar peak"}}), a 1,595-metre peak that dominates the Ichijōdani valley.
 
-===The Last Stand of Shirakawa===
-According to the ''[[Mitsukoji]]'', Shirakawa held the "Bridge of Heaven" (the wooden corridor connecting the inner palace to the keep) single-handedly for nearly an hour. The narrow corridor nullified the attackers' numbers, allowing the famed spearman to hold off wave after wave of insurgents. Historical records claim he slew over 30 men in the defense.
+By 11 June, Hotta's secondary forces participated in the Battle of Domyōji — near [[Takanashi]] in [[Ise Prefecture]] — against the forces of [[Kimura Shigetora]], which had pledged against the shogunate after the Kinzō incident. The secondary force was successful in routing the Kimura forces out of Domyōji and began to advance closer to Ichijōdani castle by the morning of 12 June. Shigetomo had also begun his advance to the castle, winning minor skirmishes against Muzen Moritaka and Inaba Shigemasa.
 
-Ii Naotaka, arriving at the burning inner courtyard, ordered his men to stand down. He approached the bridge and knelt, pleading with Shirakawa to surrender and rescind the reforms. Shirakawa reportedly laughed and replied:
-{{Quote|text="The wheel of time turns forward, Manchiyo. You cannot stop the sun from rising by shooting arrows at the sky. If you want the old world back, you must step over my corpse to get it."|sign=Emperor Shirakawa}}
+==The Siege of Ichijōdani==
 
-===The Death of the Emperor===
-Unwilling to engage his former lord in single combat, and fearing the arrival of Honda reinforcements, Naotaka made a fateful decision. He ordered a squad of ''ashigaru'' armed with [[Tanegashima (gun)|Tanegashima arquebuses]] to form a line.
+{{Main|Siege of Ichijoudani}}
 
-At 02:00 AM, the order was given. A volley of gunfire tore through the corridor. Shirakawa was struck by seven bullets in the chest and abdomen. The irony was palpable: the warlord who had championed the use of firearms at the [[Battle of Tone]] was ultimately killed by them. Legend states that he did not fall, but died standing, propped up by his spear, his eyes open and facing the traitors.
+The siege of Ichijōdani, fought from June 12 to June 18, 1625, was not merely a military operation — it was a personal tragedy. Shigetomo and Naotaka were childhood friends. Their fathers had been brothers-in-arms. The siege was the culmination of a cycle of vengeance that had consumed two generations, and it was fought by men who had once played together in the courtyard of [[Otomo Castle]].
+
+===Battle of the Ichijōdani Rapids===
+
+Hostilities commenced on the morning of June 12. Honda vanguard commander Manabe Hachisuke attempted to ford the swollen river under cover of fog. The Ii clan, aware of their numerical disadvantage, had destroyed the bridges across the Ichijōdani River and fortified the western banks, hoping to use the torrential monsoon rains to stall the Honda advance. Naotaka's defense strategy reflected the martial traditions of his father, Ii Naomasa, whose "Red Devil" cavalry had been built on the principle of disciplined ferocity against superior numbers. But Naotaka was not his father. Where Naomasa would have charged the gates, Naotaka chose to dig in — a decision born of desperation and the knowledge that the Ii could not survive a war of attrition.
+
+The Ii musketeers, commanded by Kimura Shigetora, had pre-sighted the crossing points. When the fog lifted, the Honda vanguard was exposed to withering ''enfilade'' fire — a devastating demonstration of the massed arquebus tactics that had transformed Sanese warfare since the [[Battle of Tone]]. Manabe Hachisuke was killed in the first volley, and the Honda advance collapsed in confusion. Shigetomo, observing from Mount Hei, reportedly executed two of his own captains for cowardice, further damaging the morale of the Shogunate army. The executions were a grim echo of the "Punisher" persona that Shigetomo had spent a decade trying to outgrow — the man who had once been unable to sheathe his sword due to the blood caked on the blade.
+
+===Battle of Nishi-ku===
+
+By June 14, the rains had subsided, allowing the main Honda force under [[Hotta Muneshige]] to construct pontoon bridges. The Shogunate army crossed the river in force, overwhelming the Ii outer defenses through sheer weight of numbers. The fighting moved into Nishi-ku (West District), the merchant quarter outside the main castle walls.
+
+The battle descended into brutal urban combat — the kind of house-to-house fighting that had characterized the worst engagements of the Sengoku period. Ii Naotaka ordered his troops to fight for every house to buy time for civilians to evacuate into the castle keep. The fighting lasted for two days. On June 16, the Ii general Kimura Shigetora launched a suicide charge to halt the advance of the Okudaira clan, allowing the remaining Ii forces to retreat behind the castle walls. Shigetora was killed, but his sacrifice stabilized the Ii defensive line and allowed the civilian population of Ichijōdani to reach the safety of the keep.
+
+From the ''Mitsukoji'', it is said that during the recombination of the troops on 16 June, Shigetomo continued consuming heavy amounts of alcohol and injured Hotta Muneshige in a physical altercation. This would later reflect on Muneshige's decision to withdraw his forces at the request of the Okudaira army, as he saw that Shigetomo was not fit to lead the army to the siege, leaving the Honda clan to set up an encampment in front of Ichijōdani castle on 17 June.
+
+===The Castle Siege===
+
+By June 17, [[Ichijōdani Castle]] was completely surrounded. Shigetomo established his command post just outside the main gate, well within the range of Ii cannons, displaying a reckless disregard for his own safety — a behavior that his retainers recognized as the same death-seeking impulse that had defined the "Punisher" of his youth. He ordered a general assault at noon, but Hotta Muneshige, fearing a massacre, held back the reserves. The assault failed, leaving thousands of Honda dead in the mud.
+
+On 17 June, the Ii troops launched a full frontal assault against the Honda forces. Notable Honda retainers such as Manabe Hachisuke and Kawada Muneharu were killed during the early stages of the assault, led on two fronts by Ii Naotaka and Kimura Shigetora. However, in a major blow to the Ii forces, Kimura Shigetora was killed during the battle against Honda retainers Ichizen Yasushige and Watanabe Tatsuyasu, along with 675 other casualties. The Ii clan, which had already penetrated the main Honda forces, were forced to retreat and return to Ichijōdani Castle.
+
+That night, a tense stalemate settled over the valley. Inside the castle, Ii Naotaka contemplated suicide to spare his men from a massacre — the same impulse that had driven his father's generation to sacrifice everything for their lord. Outside, Shigetomo descended into an alcohol-fueled psychosis, hallucinating the ghost of his father. The ''Mitsukoji'' records that Shigetomo sat alone in his tent, unable to sleep, muttering that "there is no Shogun here — only a son who let his father burn." It was during this night that Shigetomo penned the final, bloodstained letter to Naotaka — a letter that would transform the meaning of the battle and the future of the nation.
+
+==The Mercy Lesson==
+
+The emotional and moral context of the siege was shaped by a lesson that Honda Shigetada had taught his son Shigetomo years before — a lesson that the ''Mitsukoji'' traces to the campaign against the [[Minato clan]] rump at Ichijōdani (c. 1593–1594), when the young Shigetada dismissed a samurai who had killed [[Minato Yoshishige]], the last scion of the old Minato order, rather than rewarding him.
+
+{{quote|I do not want men who do not know what they are killing.|Honda Shigetada, on the death of Minato Yoshishige}}
+
+The lesson — that restraint was not weakness but a deeper form of strength — was passed from father to son with a simplicity that the ''Mitsukoji'' records as the weight of the entire chronicle:
+
+{{quote|Not everything has to end by the blade.|Honda Shigetada to Honda Shigetomo, ''Mitsukoji''}}
+
+This lesson — the mercy lesson — shaped Shigetomo's approach to the siege. Despite his grief, despite his rage, despite the "Punisher" persona that had defined his youth, Shigetomo hesitated. He sought a way to end it without destruction. He carried the blade of his father's lesson even as he carried the blade of his father's vengeance.
+
+The mercy lesson loops back: the Yoshishige mercy lesson, learned in the early years of Shigetada's career, comes full circle at Ichijōdani in 1625. Shigetomo ran to the gates not to destroy, but because the mercy lesson made him hesitate. The shot was the price of that mercy.
+
+The ''kikungenpo'' — the collection of [[Hotta Muneshige]]'s political philosophies compiled in the final volume of the ''Mitsukoji'' — articulates the principle behind the amnesty that the mercy lesson made possible:
+
+{{quote|The blade that cuts the cycle of revenge is infinitely heavier than the blade that continues it. A general wields the latter; a Shogun must wield the former.|the ''kikungenpo'', on the pardon of the Ii clan}}
+
+The mercy lesson is not a simple virtue in the ''Mitsukoji''{{'}}s framing. It is a cost — a thing that must be paid for, sometimes with everything. Shigetada's mercy after Yoshishige's death cost him the service of capable soldiers. Shigetomo's mercy at Ichijōdani cost him his life. The Great Reconciliation cost the Shogunate its founding Shogun and its retired Emperor. But the ''Mitsukoji'' frames these costs as necessary — as the price of a peace that the blade alone could never have purchased.
+
+==The Gates of Ichijōdani: June 18, 1625==
+
+The morning of June 18, 1625, is the emotional climax of the entire Sengoku period. The events of that morning have been the subject of intense historiographical debate for centuries, with competing narratives reflecting the political needs of successive eras.
+
+===The Accepted Historical Narrative===
+
+For centuries, official Shogunate records stated that Honda Shigetomo approached the castle to negotiate a surrender. While attempting to exchange terms, a "stray shot" from an undisciplined rebel soldier struck the Shogun. Ii Naotaka, witnessing the dishonorable act, rushed out to apologize. He then committed ''seppuku'' to atone for his subordinate's crime, and Shigetomo succumbed to his wounds shortly after. This version paints both men as victims of circumstance.
+
+In the traditional account, Shigetomo had asked his younger brother, [[Honda Shigetoki]], to move his soldiers 25 miles north of the castle to open a new front against the Ii clan's positions. Shigetomo then asked Hotta Muneshige and [[Sessai Taigen]] to advance towards the castle at around dawn to divert the Ii clan's attention from Shigetoki's forces north.
+
+According to this older narrative, Shigetomo approached the Ii encampment at the banks of the Musashino River for mysterious reasons, either to negotiate defections from the Ii clan or to provoke the Ii clan into abandoning their lord. The retainers of the Ii clan refused. With the offer refused, Shigetomo was said to be agitated and charged towards the castle walls in frustration. It was long recorded that he was accidentally shot by a foot soldier guarding the walls, with the shot hitting Shigetomo on his upper right chest and the bullet embedding in his upper right lung. Shigetomo reportedly fell from his horse and aggravated his injuries.
+
+The older narrative claimed that Ii Naotaka along with his retainers approached Shigetomo, who was bleeding to death. One of Naotaka's senior retainers, Saitō Toshitatsu, had Shigetomo subdued to the castle wall and was about to pierce Shigetomo with a yari when Naotaka intervened and said that the incident is only between Shigetomo and himself. After Shigetomo apologized to Naotaka for not telling him in advance about the move, he requested to commit seppuku with Naotaka taking his head after. Unable to commit seppuku as he had significantly weakened, Shigetomo asked Naotaka to outright behead him. Naotaka beheaded Shigetomo in accordance with his last wishes and displayed his head on the castle gate. According to this myth, Ii Naotaka would himself later perish when a cannonball landed on the castle's Ni-no-maru compound and hit his back.
+
+===The ''Mitsukoji'' Account===
+
+The ''[[Mitsukoji]]'' chronicle, fully declassified in 2016, reveals a far more personal tragedy. According to the official shogunate record, on the early morning hours of the 18th, against his retainers' wishes, Shigetomo approached Ichijoudani castle by himself to pursue Naotaka to the gates of the castle. Once he reached the castle gate, Shigetomo, who was in a state of rage and agitation, challenged Naotaka to a sword duel. With reluctance, Naotaka declined to duel him because of their longstanding relationship as well as for the safety of both his and Shigetomo's life.
+
+Shigetomo, in increasingly erratic behavior, began to point his spear toward the gate, threatening to kill Naotaka and the rest of the Ii clan. At the same time, the chronicle records a detail that has become the emotional hinge of the entire narrative: "Shigetomo began to shed tears and was about to return to the camp." It was at this moment — the moment when the mercy lesson finally broke through the rage and the grief — that one of the Ii ''ashigaru'' fired shots, despite Naotaka's orders to not shoot Shigetomo at all cost.
+
+Hit in the lower torso, Shigetomo managed to remain conscious momentarily, screaming in agony before collapsing just 10 metres from the main gate of the castle. Blood then began to flow from the bullet wound and from his mouth and nose, generating a pool of blood. Naotaka abandoned his post, sprinting down the stone steps to personally unbar the heavy wooden doors and surge out into the mud. Simultaneously, hearing the gunshot, Honda retainers Hotta Muneshige, Ito Shinhei, and the monk Sessai Taigen burst from the thick fog on horseback. Vaulting from his saddle, Muneshige reached the fallen shogun just as Naotaka did. Believing Naotaka had orchestrated the assassination, Muneshige lunged in a blind fury, slashing a deep gash across Naotaka's left arm.
+
+The two sides clashed directly over the dying Shogun until Shigetomo weakly raised his bloodied left hand, a gesture carrying such absolute authority that the fighting instantly ceased. With agonizing slowness, Shigetomo reached inside his breastplate and pulled out a set of folded, soaked papers. As he pressed the letters toward Naotaka, the chronicle notes a highly emotional exchange, stating that Shigetomo shed a single tear and gasped fragmented apologies to both his childhood friend and his loyal retainer:
+
+{{quote|Manchiyo, Yachiman... I am sorry. It was all my fault. My irrational actions had led to the destruction of everything that I loved. I am going to die in vain for nothing. I should not have done it. Manchiyo, Yachiman, don't let me die in vain. Yachi, I beg you... forgive Manchiyo. Manchiyo... I am truly sorry.|excerpt from the ''Mitsukoji'', page 774}}
+
+As severe hemorrhagic shock set in and his breathing devolved into rapid, shallow clicks, Shigetomo partially closed his eyes and delivered his famous final directive, establishing the philosophical foundation for the peace that followed:
+
+{{quote|{{nihongo|The true enemy was my very own existence. Let everyone come to my grave and rethink of their existence and seal it.|戒むべきは実在なり、我が墓に詣でる者をもう必ず意味実在を封じて考えろっじゃ}}|excerpt from the ''Mitsukoji'', page 774}}
+
+Hotta Muneshige recorded that Shigetomo's final words were an order: {{nihongo|"Seal it"|封じろ|Fūjiro}}, referring to the cycle of vengeance. The word is the thematic culmination of the entire Sengoku period — the moment when the anthology of revenge is explicitly, deliberately sealed.
+
+The word {{nihongo|"seal"|封|fū}} carries multiple meanings in the Sanese language: to close, to prohibit, to protect, to make sacred. Shigetomo sealed the cycle of vengeance, but he also sealed the bond between Honda and Ii — making it sacred rather than broken. The word is not an act of destruction but an act of preservation: sealing something so that it cannot be reopened, so that the violence cannot resume, so that the bond between the two clans — forged by their fathers, broken by the Kinzō Incident, and reforged in the mud of Ichijōdani — would endure.
+
+===Forensic Reconstruction===
+
+Modern forensic analysis of Shigetomo's preserved armor and the battlefield artifacts has overturned much of the accepted historical narrative. On the early morning of 18 June, Shigetomo actually dismounted his horse approximately twenty meters from the main gate of Ichijōdani Castle before any shots were fired. As he stood alone in the mud, a 15-millimeter lead ball fired from an Ii matchlock struck him. Contrary to the traditional belief of an upper chest wound, forensic analysis of his preserved armor indicates an oblique entry into the lower left torso, penetrating the external oblique muscle and critically lacerating the liver and branches of the portal vein. The impact jolted Shigetomo backward; he immediately dropped his truce flag and clamped his right hand over the entry wound as blood rapidly soaked through his white ''jinbaori'' and cracked black ''dō'' plate.
+
+Within twenty seconds of the impact, Shigetomo collapsed. His knees buckled, and he pitched forward into the mud, his face turning so that his right cheek rested on the ground. Recognizing the catastrophic error, Ii Naotaka reportedly sprinted from the gate to the fallen shogun. Naotaka rotated Shigetomo's body from a prone to a supine position, cradling his childhood friend's head and shoulders in his lap while frantically attempting to wipe the blood from Shigetomo's nose and mouth.
+
+Shortly thereafter, Hotta Muneshige arrived from the Honda encampment and knelt beside them, securing Shigetomo's left hand across his chest plate. It was at this moment that Naotaka reached inside Shigetomo's armor and retrieved two folded, bloodstained letters, reading them aloud. Shigetomo, experiencing rapid hypovolemic shock, was largely unresponsive, managing only faint, wet rasps. Approximately one minute and forty seconds after the shot, Shigetomo entered the agonal phase, characterized by a weak, rattling breath and a brief upward shrug of his shoulders. His breathing ceased entirely at the two-minute mark, and clinical death followed moments later as his body went completely limp.
+
+===The Bloodstained Letter===
+
+The chronicle concludes the tragedy with a profound act of shared sacrifice. Shigetomo lost consciousness and died shortly after his final words. Yoritsuna Kagemasa, the retainer who ordered the initial assault, committed seppuku on the basis of dishonoring both sides. In the immediate aftermath, honoring Shigetomo's pre-written request to be spared an agonizing, prolonged death, Naotaka severed his head with a clean horizontal cut.
+
+Overwhelmed by grief, Naotaka then unfolded the blood-soaked letters Shigetomo had handed him. As his eyes scanned the ruined calligraphy, he realized it was a formal decree of forgiveness, alongside a drafted guarantee securing Naotaka's transfer to a one-million-koku domain in Higo (modern [[Kagami Prefecture]]). Shigetomo had come to the gates not to kill him, but to mend their brotherhood.
+
+The letter was the second of two that Shigetomo had written to Naotaka. The first, found crumpled and unsent within the Heianji temple archives, was wildly aggressive — demanding that Naotaka surrender his head immediately or face dire, torturous consequences. The second version, however, was a complete reversal in tone. This was the letter Shigetomo carried onto the battlefield on the day of his death. In it, Shigetomo addressed Naotaka with profound vulnerability, stating that he had forgiven his childhood friend's actions and was prepared to do everything in his power to win back their friendship. It also contained a formal reassurance that the Ii domain in Higo, valued at one million koku, would be honored.
+
+This final, bloodstained letter suffered severe elemental damage from the blood and mud that soaked it and took the university research team almost two years to fully decipher after its release in 2016. It stands today as the ultimate testament to the tragic Great Reconciliation.
+
+Realizing the war was a tragic misunderstanding, Naotaka offered his own head to Hotta Muneshige for the treason that had transpired. Muneshige, his face carved with grief, declined, stating the Shogun had asked him to forgive Naotaka and allow him the honor of a samurai's death. Brandishing his sword, Naotaka committed seppuku beside Shigetomo in the mud of the castle courtyard, assisted by Muneshige, who acted as his second.
+
+The ''Mitsukoji'' describes the two men lying in the mud of the castle courtyard, facing each other, both forty-two years old.
+
+===The Witnesses===
+
+[[Hotta Muneshige]] and the monk [[Sessai Taigen]] were the first to reach the bodies. Muneshige, who had served as Shigetomo's second-in-command throughout the siege — and who had been physically assaulted by the Shogun during a drunken altercation on 16 June — recorded Shigetomo's final words and preserved the bloodstained letter. He acted as the second for Naotaka's suicide, honoring the Shogun's wish that the Ii lord die as a samurai, not a rebel.
+
+[[Ii Naoyoshi]], Naotaka's son, watched from the ramparts. He later testified that his father threw away his sword before running to Shigetomo — a gesture of surrender, not of combat. Naoyoshi preserved the bloodstained letter, which became the Ii clan's most sacred treasure — proof that the Honda Shogun had forgiven them before his death. The letter, suffering severe elemental damage from the blood and mud that soaked it, would take university researchers almost two years to fully decipher after its release in 2016.
+
+==The Great Reconciliation==
+
+{{Main|Great Reconciliation}}
+
+The deaths of Shigetomo and Naotaka — two childhood friends, the sons of brothers-in-arms, dying together in the mud of Ichijōdani — forced both armies to confront the cost of the cycle of vengeance. The ceasefire was immediate and spontaneous, not ordered but felt. The furious Honda loyalists, who had demanded the annihilation of the Ii clan, were forced to stand down not by military force but by shared grief.
+
+The Great Reconciliation is the name given to the series of events that ended the [[Sengoku period (Okaiken)|Sengoku period]] in [[Okaiken]], culminating in the deaths of Shogun Honda Shigetomo and Ii clan lord Ii Naotaka outside the gates of Ichijōdani Castle on June 18, 1625, and the political settlement that followed in July of that year. It is the emotional anchor of the Sengoku period corpus — not merely a ceasefire, but the moral resolution of 158 years of civil war, the moment when the nation chose forgiveness over revenge after a cycle of violence that had consumed generations.
+
+The Great Reconciliation was almost miraculous because it should not have worked. The nation was on the brink of full civil war. The emperor was dead, assassinated at Toyozawa Castle twelve days earlier. The Shogun was dead, shot at the gates of Ichijōdani. The cycle of vengeance, which had begun with the [[Yuzawa Incident]] of 1558 and had been weaponized by the [[Takigawa Terror]] of 1592–1600, seemed unstoppable. The fact that it ended with a letter of forgiveness soaked in blood and a pact of brotherhood between two dying men is the miracle at the heart of the Sanese national story.
+
+The Great Reconciliation is not a victory. It is a sacrifice. The nation was not conquered into peace — it was forgiven into peace.
+
+===Emperor Daigo and the Stabilization of the State===
+
+[[Emperor Daigo of Mitoyagi|Emperor Daigo]], isolated in the Okami Imperial Palace, suddenly found himself as the senior surviving member of his immediate family. The realm was on the brink of total collapse, with the military exhausted and regional lords preparing to resume the Sengoku wars. In this critical moment, Daigo utilized his supreme spiritual authority to stabilize the government.
+
+He immediately summoned his younger half-brother, [[Honda Shigetoki]], a calm and competent bureaucrat, and formally invested him as the third Shogun on July 10, 1625. Together, the two surviving brothers made the difficult, deeply unpopular decision to forgo vengeance. Daigo gave his imperial blessing to the Edict of Clemency — the formal amnesty for the Ii clan — and his public declaration that the cycle of bloodshed had taken enough of his family and must end was instrumental in forcing the furious Honda loyalists to stand down.
+
+===The Amnesty for the Ii Clan===
+
+The formal amnesty for the Ii clan was the political expression of the Great Reconciliation. The southern half of Ichijōdani was retained by the Ii; the northern half was surrendered to the Shogunate. The Ii clan was stripped of more than 70,000 ''koku'' for reparations to the deaths of Shigetomo and Shigetada, but the clan was spared annihilation. The bloodstained letter — preserved by Ii Naoyoshi as the clan's most sacred treasure — served as the legal and moral foundation for the amnesty: proof that the Shogun himself had forgiven the Ii before his death.
+
+The amnesty effectively ended the resistance of the ''tozama daimyō'', who were moved by the story of the "Double Suicide" — the shared death of Shigetomo and Naotaka. It solidified the legitimacy of the Honda Shogunate not through force, but through shared grief.
+
+The decision to spare the Ii was not merely an act of mercy. To the south, the nation of [[Nakamizu]] had recently been reunified by the [[Kawaei clan]] under [[Kawaei Yoshiyuki]], ending their own century of civil war. With Kawaei forces aggressively expanding — deploying over 80,000 soldiers in April 1620 and another 25,000 in March 1621 — the Honda Shogunate could not afford to execute its most capable generals. The Ii were pardoned but eventually demoted to the smaller domain of Kozuka, where they served as a vital buffer against potential southern aggression for the next 250 years.
+
+===The Relocation of the Imperial Court===
+
+The Kinzō Incident had proven that the 500-kilometre split between Okami and Toyozawa was a strategic impossibility. Following the Great Reconciliation, the Imperial Court was permanently relocated from Toyozawa to Okami, ending the geographic separation that had made Dual Sovereignty fatally vulnerable. The construction of the [[Okami Imperial Palace]] — within the walls of Okami Castle, which Shigetada had built decades earlier — consolidated the imperial and military authorities in a single location for the first time. Toyozawa's status as a capital city ended.
+
+===The Founding of Pax Honda===
+
+The Great Reconciliation was the founding act of {{nihongo|Pax Honda|パクス・ホンダ|Pakusu Honda}} — the 260-year peace that followed the Sengoku period. The restructuring of the Shogunate under Honda Shigetoki ended the geographic split of Dual Sovereignty, consolidated power in Okami, and established the rigid, authoritarian peace that would define the Honda period. The Kinzō Reforms were continued slowly, with the most controversial provisions softened, but the fundamental direction — the transition from a rice-based economy to a currency-based mercantile economy — was maintained.
+
+The Great Reconciliation, combined with the looming external threat of the [[Kawaei clan]] in southern [[Nakamizu]], forced the remaining ''daimyō'' to accept the new order. The Sengoku period — 158 years of civil war that had begun with the [[Taiju War]] in 1467 and had been shaped by the manipulation of [[Takigawa Kazumasu]], the loyalty of Honda Shigetada, and the tragic irony of a hidden prince — was finally over.
+
+==The Ii Clan's Fate==
+
+Naotaka's son, [[Ii Naoyoshi]], accepted the terms of surrender and ensured the Ii clan became one of the most staunchly loyal political forces during the remainder of the Honda Period. The clan's survival — spared when annihilation was expected, forgiven when vengeance was demanded — transformed the Ii from a rebel house into a symbol of the Shogunate's capacity for mercy. The bloodstained letter carried by Shigetomo to the gates of Ichijōdani remained the clan's most sacred possession, a physical embodiment of the bond between Honda and Ii that had been forged by their fathers, broken by the Kinzō Incident, and reforged in the mud.
+
+Under Naoyoshi's leadership, the Ii clan rebuilt its fortunes from the diminished southern half of Ichijōdani. The clan's fierce loyalty to the Honda Shogunate — born not of gratitude alone but of the profound understanding that their survival was a gift purchased with the lives of two men — became legendary. The Ii served as a ''fudai'' house for the remainder of the Honda Period, providing military and administrative service to the Shogunate with a devotion that contemporaries attributed to the memory of Naotaka's remorse and Shigetomo's forgiveness.
+
+After the death of ''Tairō'' [[Ii Naoyoshi]] in 1864, the Ii family vacated their territory in Ichijōdani and were demoted to the territory of Kozuka, a 10,000 ''koku'' territory but nonetheless important in Sanese trade during the late Honda period. When the shogunate was dissolved and the ''han'' system abolished, both the Ii and the Honda clans were absorbed into the peerage system. The Ii clan remained in Kozuka and became influential in establishing Ii Holdings Company in 1955. Ii Holdings later merged with Onkyo to form [[Ikyo]], one of the world's leading technology companies.
+
+==The Honda Letters==
+
+{{Main|Honda letters}}
+
+On April 8, 2016, the Heianji temple, in association with the University of Okami and the Toho Shuheisha University, released the so-called "Honda letters" — a collection of correspondence that Honda Shigetomo wrote from 18 May to 17 June 1625. This archive notably included the badly damaged and bloodstained letter to Ii Naotaka that he carried when he was mortally wounded; the collection is now on display alongside various paraphernalia of the Honda and Ii clans at the National Museum of History in Okami. The letters were released to the public in three chronological stages, providing unprecedented insight into Shigetomo's psychological deterioration and the frantic diplomatic back-and-forth that preceded the shogunate's greatest crisis.
+
+===Stage 1: May 18 – June 5===
+
+The first stage of documents highlights the bureaucratic frenzy of the Kinzō Reforms and the escalating tensions leading up to the Kinzō Incident. During this period, Shigetomo's letters reveal a ruler obsessed with micromanagement, dispatching dozens of missives daily to various ''fudai'' daimyos demanding immediate compliance with the new land surveys. On 28 May, he sent Ii Naotaka a formal inquiry asking if everything was in order regarding his clan's impending transfer. Naotaka responded respectfully on 30 May, assuring the Shogun that the independent survey results were completed and the Ii clan was preparing for their relocation to the new domain at Higo. However, other intercepted letters from this period show Shigetomo writing to his brother, Emperor Daigo, expressing deep paranoia that the outer clans were secretly amassing weapons to resist the edicts.
+
+===Stage 2: June 6 – June 15===
+
+The second stage of releases captures the immediate, chaotic fallout of the assassination of Retired Emperor Shirakawa. The correspondence from these nine days paints a vivid picture of Shigetomo's erratic behavior and the collapse of the central command structure. Following the attack on Toyozawa, Shigetomo's calligraphy becomes noticeably rushed, with frequent ink splatters and crossed-out sentences. He engaged in a frantic, contradictory exchange of orders with his loyalist commanders. On 9 June, he sent orders to the Okudaira and Hotta clans to immediately raze any village harboring Ii sympathizers, only to countermand the order hours later in a subsequent letter.
+
+The most revealing documents from this stage are his direct correspondences with the Ii clan. Upon receiving a letter from Naotaka on 6 June stating he was en route to Higo through Toyozawa, Shigetomo replied on 8 June with a deeply emotional, almost incoherent missive. He oscillated wildly between threatening the total annihilation of the Ii bloodline and desperately pleading with Naotaka to deny his involvement in the Retired Emperor's death, showcasing a man torn between his duties as Shogun and his grief as a son.
+
+===Stage 3: June 16 – June 17===
+
+The third set of letters, covering the final 48 hours, was unveiled on 14 April 2016. This collection encompasses Shigetomo's final directives and several unsent drafts. Written from the main encampment at Heizan (Mount Hei), near [[Eiheiji]] in [[Ise Prefecture]], these documents demonstrate a fatalistic acceptance of his impending death. Recognizing his own compromised mental state, Shigetomo penned a formal decree to his younger brother, Honda Shigetoki, instructing him to assume the title of shogun should Shigetomo fall in battle or become incapacitated. Simultaneously, he sent a sorrowful farewell to Emperor Daigo, enclosing a finalized version of the proposed property transfers for the remaining castle lords, and lamenting his failure to maintain the peace their father had built.
+
+The centerpiece of the museum exhibition features the two final documents known simply as the "Ii Letters", both addressed directly to Ii Naotaka. The first letter, found crumpled and unsent within the Heianji temple archives, is wildly aggressive; in it, Shigetomo demands that Naotaka surrender his head immediately or face dire, torturous consequences. The second version, however, is a complete reversal in tone. This was the letter Shigetomo carried onto the battlefield on the day of his death. In it, Shigetomo addressed Naotaka with profound vulnerability, stating that he had forgiven his childhood friend's actions and was prepared to do everything in his power to win back his friendship. It also contained a formal reassurance that the Ii domain in Higo, valued at one million koku, would be honored. This final, bloodstained letter suffered severe elemental damage and took the university research team almost two years to fully decipher, standing today as the ultimate testament to the tragic Great Reconciliation.
+
+==Historiography==
+
+===The Martyrdom Thesis vs. the Provocation Thesis===
+
+Honda Shigetomo's actions during the final hours of the siege remain one of the most hotly debated subjects in Sanese historiography. The central academic dispute revolves around whether Shigetomo's death was a calculated martyrdom or the chaotic result of an alcohol-fueled breakdown.
+
+The '''Martyrdom Thesis''', championed by traditionalist historians, argues that Shigetomo, overwhelmed by the guilt of his father's death and recognizing that his own tyrannical Kinzō reforms had pushed the nation to the brink, deliberately sought a peaceful resolution. Proponents of this view point to the second Ii Letter, carried on his person, as definitive proof that he approached the gates fully intending to forgive Naotaka and offer his own life as a political pressure release valve to save the shogunate.
+
+Conversely, the '''Provocation Thesis''', largely driven by revisionist scholars analyzing the erratic first drafts of his letters, suggests a much darker reality. These historians argue that Shigetomo marched to the gates in a genuine, homicidal rage, intending to force Naotaka into a duel or execute him on the spot. Under this interpretation, the forgiving letter was merely a discarded alternative drafted during a fleeting moment of sobriety, and Shigetomo's death was essentially a tragedy brought on by severe psychological collapse and the fatal misjudgment of an anxious foot soldier.
+
+Regardless of his true internal state on that morning, historians unanimously agree that the consequences of his death were foundational to the modern Sanese state. By dying alongside Ii Naotaka, Shigetomo inadvertently created the political capital necessary for his brother, Honda Shigetoki, to enact the Great Reconciliation, successfully preserving the unified nation they had fought so violently to build.
+
+===The ''Mitsukoji'' and the Official Records===
+
+The historiography of the Kinzō Incident is shaped by the tension between the ''Mitsukoji''{{'}}s moral vision and the official shogunate records' political framing.
+
+The 1680 ''Mitsukoji'', compiled under the Honda Shogunate by the Shogunate Historiographical Bureau and commissioned by Emperor Daigo, framed the Great Reconciliation as the founding act of Pax Honda. Emperor Daigo's commissioning instruction, recorded in the chronicle's preface, set the tone: "Let the record be honest. Let it say what was done and what was felt. Let it not flatter the living or defame the dead. Let the children of this land read it and know what their peace cost."
+
+The official shogunate records, by contrast, emphasized the political settlement — the amnesty, the relocation of the Imperial Court, the succession of Honda Shigetoki, the restructuring of the Shogunate. The official version, which for centuries was the only publicly available account, stated that Shigetomo approached the castle to negotiate a surrender and was struck by a "stray shot" from an undisciplined rebel soldier, and that Naotaka committed ''seppuku'' to atone for his subordinate's crime. This version painted both men as victims of circumstance, obscuring the letter of forgiveness and the pact of brotherhood.
+
+The 1720 revised edition of the ''Mitsukoji'' added marginal notes acknowledging some corrections to the official record, but the full text — including the most personal and emotionally raw passages — was restricted to the Heianji temple archives for over three centuries. The complete text was not fully available until 2016.
+
+The 2016 Honda Letters declassification revealed the full emotional context — Shigetomo's hesitation, the mercy lesson, the letter of forgiveness, the two versions of the Ii Letter. The cross-referencing of the ''Mitsukoji'' account with primary documents confirmed the chronicle's account of Shigetomo's psychological deterioration and validated its transcription of the bloodstained letter.
+
+==The Tragic Arc==
+
+The Kinzō Incident is the central tragedy of the Sengoku period, and its weight is felt in every retelling. The arc spans two generations and encompasses the full range of human bonds — loyalty, brotherhood, mercy, betrayal, and forgiveness.
+
+===The Fathers===
+
+Naomasa served Shigetada loyally for over a decade — vanguard at Mazama, vanguard at the Mitsui campaign, commander at the Battle of Tone, one of the Four Honda Heavenly Pillars. He stood by Shigetada when his imperial identity was a weapon that could have destroyed him. He sent his own children as hostages to prove his loyalty. He died of a wound sustained in Shigetada's service, and his dying words were a warning that his son would later act upon with devastating consequences.
+
+The rift between Shigetada and Naomasa after Tone was personal and painful. Naomasa wanted to keep fighting; Shigetada stopped to save the nation. The disagreement was never resolved — Shigetada simply overruled Naomasa. But the wound it left in their relationship never closed. Naomasa never openly defied Shigetada again, but he began to speak more frequently of the dangers of "generosity to wolves." When Naomasa died on May 21, 1604, the wound became a void. He had been the bridge between the shogunate and the Ii clan — the only man who possessed both Shigetada's unshakable trust and the fierce love of his son Naotaka.
+
+===The Sons===
+
+Naotaka, raised in the shadow of his father's legendary reputation and terrified of being found wanting, destroyed everything Shigetada built. He killed the emperor his father had served. He fought the Shogun who had been his childhood friend. And when he discovered, in the bloodstained letter, that the Shogun had come to forgive him — that the war had been a misunderstanding, that mercy had been offered and he had been too afraid to see it — he chose to die beside his friend rather than live with the knowledge of what he had done.
+
+Shigetomo, the boy who had played with Naotaka in the courtyard of Otomo Castle, carried the mercy lesson his father had taught him to the gates of Ichijōdani. He ran to the gates not to destroy, but because the mercy lesson made him hesitate. The shot was the price of that mercy. His final words — "Seal it" — were the thematic culmination of the entire Sengoku period: the moment when the anthology of revenge was explicitly, deliberately sealed.
+
+===The Irony===
+
+The irony at the heart of the Kinzō Incident is the irony that the ''Mitsukoji'' returns to again and again: that the clan which produced the most loyal vanguard also produced the most devastating betrayal, and that the nation which the Ii helped to build was the nation the Ii nearly destroyed. The mercy that spared the Ii clan was not merely political pragmatism — it was the recognition that the cycle of vengeance had to end somewhere, and that the somewhere was the mud of Ichijōdani, where two childhood friends lay dying together, and where a letter soaked in blood proved that the bond between their families had survived the worst that history could do to it.
+
+The ''Mitsukoji'' frames the Kinzō Incident not as a political act but as a personal one: "This was not a war between clans. This was a quarrel between brothers that the nation was forced to witness." Naotaka did not attack the Shogunate — he attacked the father of his childhood friend. The betrayal was not political but personal, and the resolution could not be political either. It had to be personal — a letter, a word, a pact of brotherhood in the mud.
+
+The mercy lesson came full circle at Ichijōdani. Shigetada taught Shigetomo not to end everything by the blade. Shigetomo carried a letter of forgiveness to the gates. The shot was the price of mercy — but the letter was read, and the cycle was sealed. The Ii clan, which had killed the emperor, was forgiven. The nation that could not afford another cycle of vengeance chose mercy over annihilation. The ''Mitsukoji'' frames the Great Reconciliation not as a victory but as a sacrifice: "The nation was not conquered into peace — it was forgiven into peace."
 
 ==Aftermath and Legacy==
-The castle burned to the ground by dawn. The Ii forces withdrew rapidly, knowing that the main Shogunate army in Okami would soon retaliate. They took nothing from the castle, leaving Shirakawa's body untouched as a sign of respect.
-
-When the news reached Okami, Shogun [[Honda Shigetomo]] suffered a nervous breakdown. The death of his father shattered his psyche, transforming him from a rational administrator into a vengeful tyrant. He immediately declared the Ii clan to be "Enemies of the State" ({{nihongo|Chōteki|朝敵}}) and mobilized the army for the [[Siege of Ichijōdani]], ensuring that the civil war Shirakawa had tried to prevent would consume the nation.
 
 * '''The End of Toyozawa:''' The incident proved that having the Emperor located 500&nbsp;km south of the Shogun's protection was a strategic impossibility. Following the civil war, the Imperial Court was permanently relocated to a new, fortified compound inside Okami (the current [[Okami Imperial Palace]]), ending Toyozawa's status as a capital city.
+* '''The End of Dual Sovereignty:''' The geographic split that had made the system fatally vulnerable was dissolved. The imperial and military authorities were consolidated in a single location for the first time, ending the "Tyranny of Distance" that Naotaka had exploited.
+* '''The Ii Clan Spared:''' The Ii clan was stripped of more than 70,000 ''koku'' and eventually demoted to the smaller domain of Kozuka, but the clan survived — a revolutionary act in an era where defeated enemies were typically erased. The bloodstained letter served as the legal and moral foundation for the amnesty.
+* '''Pax Honda:''' The Great Reconciliation was the founding act of the 260-year peace that followed the Sengoku period. The Kinzō Reforms were continued slowly, with the most controversial provisions softened, but the fundamental direction was maintained.
 * '''Modern Context:''' Today, the Harujima Shinkansen connects Okami and Toyozawa in roughly 2.5 hours. The route passes through the mountains that once blocked the signal fires, a feat of engineering often poetically described as "the path Shigetomo wished he had."
-* '''Cultural impact:''' The incident is the climax of the "Fall Season" in the 1983 Taiga drama ''[[Honda Shigetomo (Taisen drama)|Honda Shigetomo]]'', particularly the episode "Night of Blue Fire," which dramatized the burning castle.
+* '''Cultural impact:''' The incident is the climax of the "Fall Season" in the 1983 Taiga drama ''[[Honda Shigetomo (Taisen drama)|Honda Shigetomo]]'', particularly the episode "Night of Blue Fire," which dramatized the burning castle. The finale, depicting the Great Reconciliation, achieved a 90.4% rating — the highest in Sanese television history.
 
 The Kinzō Incidents, encompassing both the destruction of Toyozawa Castle and the prolonged Siege of Ichijōdani, are considered among the most pivotal events in Okaiken's history. These incidents are seen as a critical turning point that led to the eventual collapse of the Dual Sovereignty system and the irreversible strengthening of the Shogunate's power. The assassination of Retired Emperor Shirakawa at Toyozawa Castle sent shockwaves across the nation, exposing deep-seated political divisions and the fragility of the imperial court's influence. The burning of Toyozawa Castle itself became a potent symbol of the era's upheaval and the violent end of an old order.
 
@@ -106,18 +464,73 @@ The subsequent Siege of Ichijōdani, a direct consequence of the initial coup, f
 
 Furthermore, the memory of the Kinzō Incidents, particularly the suppression of imperial authority, resonated through Okaiken's history. It served as a historical precedent and a cautionary tale that contributed to the underlying tensions leading to the Quiet Revolution of 1968, which saw the temporary abolition of the monarchy and the establishment of a Federal Republic. The desire to restore a balance of power, and perhaps to rectify historical perceived injustices, also played a role in the Second Imperial Restoration of 2011, when the constitutional monarchy was reinstated. Thus, the Kinzō Incidents are not merely historical events but foundational moments whose echoes profoundly influenced Okaiken's political evolution for over three centuries.
 
+==Cultural Legacy==
+
+===The Red String Festival===
+
+The {{nihongo|Red String Festival|赤い糸祭り|Akai Ito Matsuri}} is the annual commemoration of the Great Reconciliation, held at Ichijōdani on the anniversary of the deaths of Shigetomo and Naotaka. The festival coincides with the town's Kanto festival. On each anniversary, the graves of the two men — buried on opposite sides of the Heianji temple — are connected by a hemp rope that symbolizes their friendship. A person wearing black clothing, representing the "demon" — the force that severed their friendship — cuts the rope, leading to the opening of a gate that leads to the spot in the temple courtyard where Shigetomo and Naotaka died.
+
+Shigetomo is worshiped as the {{nihongo|God of Seals|封印の神|Fūin no Kami}} — the deity who seals vengeance. Thousands of messages praying for an end to struggles are written on small paddles (''shamoji''), sealed with a red ink stamp, and placed as offerings to the temple, which are then burned to ashes at the annual festival. The red seal represents Shigetomo's final act of compression, the sealing of the compact between the people and the land. Naotaka is worshiped as the {{nihongo|God of Vindication|弁明の神|Benmei no Kami}} — the deity who represents hope for the future. Messages praying for hope are written on similar paddles but sealed with a blank stamp. These are thrown into the Ichijōdani River after seven days, where they float to the Sea of Mitoyagi.
+
+The ritual practices associated with Shigetomo's grave reflect the mythological identification of the God of Seals. The ''shamoji'' on which visitors write their prayers are sealed with a red ink stamp before being burned — the red seal representing Shigetomo's final act of compression, the sealing of the compact between the people and the land. The practice echoes the ''inoko'' ceremony, in which children strike the ground with sacred stones to renew the compact, but at Shigetomo's grave the Pounding has been transmuted into the Seal — the blow that does not need to be struck again, because it was struck once and for all by the Stone Shogun himself.
+
+===Popular Culture===
+
+The Kinzō Incident and the Great Reconciliation have been depicted in numerous works across all media. The 1983 [[Taisen drama|Taisen drama]] ''[[Honda Shigetomo (Taisen drama)|Honda Shigetomo]]'', produced by KTK, depicted the full arc of the tragedy — from Naomasa's discovery in the weapons shop, through the childhood bond at Otomo Castle, through the Kinzō Incident, to the bloodstained letter and the double death at Ichijōdani. The finale achieved a 90.4% rating, the highest in Sanese television history, and cemented the story in the national consciousness as the defining narrative of the Sengoku period.
+
+The 2014 Taisen drama ''Honda Tenno'' took greater creative liberties, incorporating elements of the Stone Pounding mythology and the Niō symbolism into its narrative framework. The drama's opening sequence depicts the birthmark on Shigetomo's palm — a detail drawn from the mythological tradition rather than the historical record — and its final episode frames his death at Ichijōdani as a ritual act of sealing, with visual references to the ''inoko'' ceremony and the Niō guardians.
+
+The incident also appears in the 1965 Taisen drama ''[[Ii Naomasa]]'', which portrayed the Red Devil's early struggles and pivotal role in the Rengoshu Pacification, with the Ichijoudani tragedy as the haunting conclusion of the Ii family's arc.
+
+Shigetomo appears frequently within fiction and continues to be portrayed in many other anime, manga, video games, and cinematic films. Many depictions show him as quiet, happy and passive in nature although some portray him as a dangerous manipulator. The dichotomy in Shigetomo's popular portrayals reflects the dual nature of his mythological identity. Works that emphasize his early career as the Punisher tend to draw on the violent imagery of the Stone Pounding Cycle. Works that portray him as a benevolent or contemplative figure tend to draw on his later deification as the God of Seals.
+
 ==See also==
+{{Columns-list|colwidth=20em|
 * [[Toyozawa Castle]]
 * [[Honda Shigetomo]]
+* [[Emperor Shirakawa of Mitoyagi]]
 * [[Ii Naotaka]]
+* [[Ii Naomasa]]
+* [[Ii clan]]
+* [[Honda clan]]
+* [[Siege of Ichijoudani]]
+* [[Great Reconciliation]]
+* [[Battle of Tone]]
+* [[Sengoku period (Okaiken)]]
+* [[Dual Sovereignty]]
+* [[Kinzō reforms]]
+* [[Mitsukoji]]
+* [[Honda letters]]
+* [[Kikungenpo]]
+* [[Yuzawa Incident]]
+* [[Takigawa Kazumasu]]
+* [[Takigawa Terror]]
+* [[Honda Shigetoki]]
+* [[Emperor Daigo of Mitoyagi]]
+* [[Hotta Muneshige]]
+* [[Honda Shitennō]]
+* [[Pax Honda]]
+* [[Mythology of Okaiken]]
+}}
 
 ==References==
 {{reflist}}
+
+* ''[[Mitsukoji]]: The Official Biographical Record of the Honda Family''. Compiled by the Honda Shogunate Historiographical Bureau, 1680. Heianji Temple Archives, Okami. Fully declassified 2016.
+* ''[[Honda Letters]] Release Archive''. University of Okami and Toho Shuheisha University, 2016.
+* ''The Letters and Edicts of the Kinzō Reforms (1623–1625).'' Heianji Temple Archives. Translated and published by the University of Okami Press, 2016.
+* ''The Kikungenpo: Maxims of Statecraft.'' In ''Mitsukoji'', Vol. VIII. Translated by the Historiographical Research Institute, University of Okami, 2004.
+* ''Ii Kōden'' (井伊公伝). Clan biography compiled by Ii Naotaka, 1620s. Ichijōdani Archives.
+* Lacuña, Ernesto. (1628) ''Diario de un náufrago: Mis viajes a Dagit y las islas Sanese.'' Volisanian Royal Press.
+* Okaiken Historical Archives. "Chronicles of the Warring States." Central University Press, 2018.
+* University of Okami Press. "The Great Reconciliation: A Sourcebook." 2019.
 
 {{Okaiken Topics}}
 [[Category:Assassinations in Okaiken]]
 [[Category:Coups d'état]]
 [[Category:1625 in Okaiken]]
 [[Category:Honda clan]]
+[[Category:Ii clan]]
+[[Category:Sengoku period]]
 [[Category:Okaiken topics]]
 [[Category:Okaiken]]

@@ -1,93 +1,96 @@
 {{Infobox planetary system
 | name = Aurelius System
-| image = Aurelius_System_Diagram.jpg
-| caption = Schematic of the Aurelius system showing the relative orbits of the twelve planets
+| image               = Aurelius_System_Orbits.png
+| caption = The Aurelius system, anchored by the central G0V yellow-white dwarf star Aurelius and its retinue of twelve planets
 | age = 4.6 billion years
-| location = Weaver Constellation
-| star = [[Aurelius]]
-| planets = 12
-| dwarf_planets = 1 (Erebo)
-| distance = 1.0 AU (Adonia reference)
-| semimajor_axis = 52.0 AU (to Erebo)
+| location = [[Weaver Constellation]]
+| star = [[Aurelius]] (G0V)
+| planets = 12 (7 terrestrial, 2 gas giants, 2 ice giants, 1 dwarf planet)
+| distance = 1.00 AU (Adonia reference)
+| semimajor_axis = 52.00 AU (to Erebo)
+| outer_boundary = ~125 AU (Aureliopause)
 }}
 
-The Aurelius system is a gravitationally bound star system consisting of the star Aurelius and the objects that orbit it. The system is composed of twelve major planets, numerous moons, and various smaller bodies including asteroids and cometary debris. It is organized into three distinct regions: the Inner Terrestrial Zone, the Giant Realm, and the Outer Frontier.
+The '''Aurelius system''' is a gravitationally bound planetary system consisting of the luminous G0V main-sequence star [[Aurelius]] and the extensive retinue of celestial objects orbiting within its gravitational and heliospheric domain.<ref name="IACC_Overview">Inter-Adonian Celestial Commission (IACC). (2022). *Compendium of Planetary Geodesy and Dynamical Ephemerides of the Aurelius System*. Annals of Astronomical Geodesy, 51(1), 1–64.</ref> The system comprises twelve recognized major planetary bodies—seven inner terrestrial worlds, two massive gas giants, two outer ice giants, and one trans-Centinelan dwarf planet—alongside dozens of natural satellites, ring systems, asteroidal belts, and cometary reservoirs.<ref name="Tanigaki_Arch">Tanigaki, R. (2018). *Architecture of the Heavens: Orbital Resonance and Gravitational Equilibrium in the Aurelius System*. University of Okami Academic Press, pp. 24–88.</ref>
 
-The system architecture is unique for the presence of a Hot Jupiter, [[Quetzal]], located within the inner reaches, which exerts profound gravitational influence over the terrestrial worlds. The primary habitable world, [[Adonia]], serves as the cultural and biological baseline for the system. Astronomical study of the system has evolved through three distinct eras of discovery, beginning with ancient Sinopian and Sanese observations and culminating in the telescopic discoveries of the outer ice giants in the 18th and 19th centuries.
+The system's dynamical architecture is organized into four distinct radial provinces. The Inner Terrestrial Realm (0.20 to 1.60 AU) is anchored by the sun-scorched iron world [[Tartessos]], the super-greenhouse world [[Ciguapa]], the tidally locked lava-ice world [[Mictlán]], the hot sub-Neptune [[Quetzal]], the life-bearing crown jewel [[Adonia]], and the canyon-scarred red desert world [[Aztlán]]. The Frost-Line Transition (1.60 to 4.00 AU) is defined by the cryogenic desert world [[Cíbola]] and the main asteroid belt, marking the boundary where volatile water, carbon dioxide, and methane condense into solid ice. Beyond lies the Realm of the Giants (5.00 to 36.00 AU), dominated by the system's gravitational sentinels—the regal violet gas giant [[Amatista]], the tilted colossus [[Alcázar]] (possessing 510 Adonian masses with an extreme 97.8° axial tilt), the serene alabaster ice giant [[Lucero]], and the cobalt-blue ice giant [[Centinela]]. Finally, the Outer Kuiper Frontier (36.00 to 125.00+ AU) encompasses the trans-Centinelan debris disk known as the Sentinel Belt, anchored by the coal-black binary dwarf planet [[Erebo]] and terminating at the Aureliopause boundary against the interstellar medium.<ref name="IACC_Overview" />
 
-==Structure and Composition==
+The hallmark of the Aurelius system is its extraordinary long-term dynamical equilibrium, governed by two interconnected gravitational pillars: the inner clockwork resonance between Quetzal and Adonia (a precise 5:4 orbital resonance that structures Adonia's tides, climate, and leap-year calendar without destabilizing its circular orbit), and the outer gravitational shielding provided by Amatista and Alcázar, whose immense masses sweep incoming debris and protect the inner biosphere from catastrophic impact bombardment.<ref name="Aldana_Equilibrium">Aldana, E. (2023). *Secular Orbital Stability and Resonance Lock in Multi-Planet Systems with Low-Density Hot Giants*. Castejón Astrophysical Review, 88(3), 210–248.</ref>
 
-The Aurelius system is characterized by a high degree of orbital stability despite the presence of high-mass bodies in close proximity to the terrestrial zone. The planets are categorized by their physical composition and distance from the central star.
+==System Architecture and Planetary Inventory==
 
-===Inner Terrestrial Zone===
+The twelve major planets of the Aurelius system exhibit a remarkable diversity of physical compositions, atmospheric envelopes, and geological evolutionary pathways, summarized in the comparative catalog below.
 
-The inner system consists of the first seven planets, four of which are rocky terrestrial bodies and one of which is a high-mass gas giant. 
-
-* ☿ [[Tartessos]] (Shakugansei): A sun-scorched, airless cinder located at 0.22 AU.
-* ♀ [[Ciguapa]] (Kirigoromosei): A super-greenhouse world with retrograde rotation at 0.45 AU.
-* ♇ [[Mictlán]] (Yomisei): A tidally locked furnace planet featuring magma oceans at 0.62 AU.
-* ♃ [[Quetzal]] (Ryūbisei): A massive gas giant with a hydrogen tail located at 0.85 AU.
-* ⱷ [[Adonia]] (Shintensei): The life-bearing turquoise jewel at 1.00 AU.
-* ♂ [[Aztlán]] (Hikyōsei): An arid, canyon-scarred world at 1.55 AU.
-* ⚶ [[Cíbola]] (Usuraisei): A frozen desert planet at the edge of the habitable zone at 2.10 AU.
-
-===Giant Realm===
-
-Beyond the frost line lies the realm of the giants, consisting of two gas giants and two ice giants. These planets contain the vast majority of the system's planetary mass.
-
-* ♄ [[Amatista]] (Shiunsei): A violet gas giant with a charcoal-grey ring system at 5.40 AU.
-* ♅ [[Alcázar]] (Shatensei): The most massive planet in the system, featuring a 98-degree axial tilt at 11.20 AU.
-* ♆ [[Lucero]] (Byakuyasei): A luminous, featureless white ice giant at 22.80 AU.
-* ⛢ [[Centinela]] (Morobitosei): A cobalt-blue ice giant with sharp water-ice rings at 35.40 AU.
-
-===Outer Frontier===
-
-The far reaches of the system are dominated by small, icy bodies and the outlier planet [[Erebo]].
-
-* ⚷ [[Erebo]] (Tokoyamisei): A dark, frozen dwarf planet at 52.00 AU, marking the transition to the interstellar void.
-
-==Comparative Planetary Data==
-
-The following table compares the physical and orbital characteristics of the twelve planets.
-
-{| class="wikitable"
+{| class="wikitable sortable" style="text-align:center; font-size:90%; width:100%;"
+|- style="background:#cfd8dc; font-weight:bold;"
+! Planet !! Symbol !! Distance<br />(AU) !! Orbital Period<br />(Days) !! Orbital Period<br />(Adonian Yrs) !! Mass<br />($M_\text{Adonia}$) !! Radius<br />(km) !! Density<br />(g/cm³) !! Axial Tilt<br />(°) !! Physical Classification
 |-
-! Planet !! Symbol !! Distance (AU) !! Mass (M_Adonia) !! Orbital Period (Days) !! Type
+| [[Tartessos]] || ☿ || 0.22 || 38.0 || 0.102 || 0.08 || 2,440 || 5.43 || 0.03 || Dense iron-rich terrestrial cinder
 |-
-| [[Tartessos]]  || ☿ || 0.22 || 0.08 || 38 || Terrestrial
+| [[Ciguapa]] || ♀ || 0.45 || 112.0 || 0.302 || 1.15 || 6,650 || 5.58 || 177.3 || Super-greenhouse terrestrial world
 |-
-| [[Ciguapa]] || ♀ || 0.45 || 1.15 || 110 || Terrestrial
+| [[Mictlán]] || ♇ || 0.62 || 181.0 || 0.488 || 0.95 || 6,052 || 5.24 || 0.00 || Tidally locked lava/ice terrestrial world
 |-
-| [[Mictlán]] || ♇ || 0.62 || 0.95 || 178 || Terrestrial
+| [[Quetzal]] || ♃ || 0.862 || 297.0 || 0.800 || 7.00 || 24,000 || 0.72 || 1.85 || Hot sub-Neptune / Puffed gas world
+|- style="background:#e0f7fa; font-weight:bold;"
+| [[Adonia]] || ⱷ || 1.000 || 371.25 || 1.000 || 1.00 || 6,371 || 5.51 || 24.30 || Life-bearing ocean terrestrial world
 |-
-| [[Quetzal]] || ♃ || 0.85 || 420.00 || 280 || Gas Giant
+| [[Aztlán]] || ♂ || 1.55 || 716.0 || 1.928 || 0.15 || 3,390 || 3.93 || 25.19 || Cold arid canyon terrestrial world
 |-
-| [[Adonia]] || ⱷ || 1.00 || 1.00 || 365 || Terrestrial
+| [[Cíbola]] || ⚶ || 2.10 || 1,130.0 || 3.043 || 0.12 || 3,120 || 4.10 || 28.50 || Cryogenic salt/ice terrestrial frontier
 |-
-| [[Aztlán]] || ♂ || 1.55 || 0.15 || 710 || Terrestrial
+| [[Amatista]] || ♄ || 5.40 || 4,659.0 || 12.549 || 380.00 || 69,911 || 1.33 || 26.70 || Regal violet gas giant
 |-
-| [[Cíbola]] || ⚶ || 2.10 || 0.12 || 1,120 || Terrestrial
+| [[Alcázar]] || ♅ || 11.20 || 13,900.0 || 37.441 || 510.00 || 73,400 || 1.85 || 97.80 || Heavyweight tilted gas giant
 |-
-| [[Amatista]] || ♄ || 5.40 || 380.00 || 4,600 || Gas Giant
+| [[Lucero]] || ♆ || 22.80 || 40,400.0 || 108.822 || 18.50 || 24,622 || 1.77 || 32.10 || Luminous alabaster ice giant
 |-
-| [[Alcázar]] || ♅ || 11.20 || 510.00 || 14,200 || Gas Giant
+| [[Centinela]] || ⛢ || 35.40 || 78,200.0 || 210.640 || 21.20 || 25,180 || 1.81 || 29.60 || Deep cobalt-blue ice giant
 |-
-| [[Lucero]] || ♆ || 22.80 || 18.50 || 42,500 || Ice Giant
-|-
-| [[Centinela]] || ⛢ || 35.40 || 21.20 || 78,000 || Ice Giant
-|-
-| [[Erebo]] || ⚷ || 52.00 || 0.04 || 136,000 || Dwarf Planet
+| [[Erebo]] || ⚷ || 52.00 || 139,100.0 || 374.680 || 0.04 || 1,188 || 1.86 || 112.5 || Binary Kuiper-type dwarf planet
 |}
 
-==Gravitational Dynamics==
+==Gravitational Dynamics and Resonant Architecture==
+[[File:Aurelius_System_Orbits.png|thumb|center|800px|Radial logarithmic orbital architecture and habitable zone boundaries of the Aurelius system]]
+[[File:Aurelius_Planetary_Scales.png|thumb|right|380px|Comparative planetary physical scales and masses of the twelve major worlds]]
 
-The Aurelius system is governed by a series of complex orbital resonances and gravitational interactions. The most significant of these is the relationship between [[Quetzal]] and the inner terrestrial planets. Quetzal acts as a gravitational anchor, clearing the inner system of debris but also subjecting [[Adonia]] and [[Mictlán]] to intense tidal forces. 
+===The Inner Clockwork: The 5:4 Quetzal–Adonia Resonance===
+The dynamical keystone of the inner system is the hot gas giant [[Quetzal]] (0.862 AU), which is locked in an exact 5:4 orbital mean-motion resonance with the life-bearing world [[Adonia]] (1.00 AU):<ref name="Aldana_Equilibrium" />
+$$\frac{P_\text{Adonia}}{P_\text{Quetzal}} = \frac{371.25\text{ days}}{297.00\text{ days}} = \frac{5}{4} = 1.25$$
 
-In the outer system, the relationship between [[Alcázar]], [[Lucero]], and [[Centinela]] maintains the stability of the Kuiper-type debris field. The 98-degree tilt of Alcázar is theorized to have been caused by a massive protoplanetary collision during the system's early formation, which may have also perturbed the orbit of [[Erebo]] into its current eccentric path.
+This integer ratio dictates that for every five revolutions completed by Quetzal, Adonia completes exactly four revolutions. The two bodies encounter one another at inferior conjunction once every 1,485 standard days—exactly four Adonian calendar years. Because the conjunction geometry is phase-locked, the minimum encounter distance is constrained to approximately 0.14 AU (20.9 million km).<ref name="Aldana_Equilibrium" />
 
-==Cultural Significance==
+This resonance functions as a cosmic metronome for the inner solar system. Rather than destabilizing Adonia, the phase-locked encounters prevent secular eccentricity excitation, maintaining Adonia's orbit at a low, stable eccentricity ($e = 0.017$) that preserves a steady global climate over hundreds of millions of years.<ref name="Aldana_Equilibrium" /> At closest approach, Quetzal's tidal pull on Adonia reaches 3.5 times normal lunar tides, generating quadrennial King Tides that periodically flush coastal estuaries, modulate ocean currents, and gently flex the lithosphere along oceanic trenches.<ref name="Tanigaki_Arch" /> Furthermore, because the 1,485-day synodic cycle aligns with the four-year civil calendar, Adonian civilizations established the quadrennial intercalary leap day—'''February 31st''' (the [[Day of the Dragon]])—to coincide with Quetzal's alignment with Aurelius.<ref name="Tanigaki_Arch" />
 
-The naming of the planets reflects the three primary cultures of the Adonian world. Insulonian (Spanish) names are used for primary geographical and mythological references, while Sanese (Japanese) names are standard in astronomical and scientific catalogs. Sinopian (Greek) etymology is often found in the historical and theological roots of the system's nomenclature.
+Furthermore, Quetzal's inner gravitational resonance chain helps maintain the wide, non-crossing orbital spacing of [[Mictlán]] (0.62 AU) and [[Ciguapa]] (0.45 AU), ensuring the perpetual stability of the inner terrestrial worlds.<ref name="Aldana_Equilibrium" />
+
+===The Outer Gravitational Sentinels===
+Beyond the frost line, [[Amatista]] ($380 M_\text{Adonia}$) and [[Alcázar]] ($510 M_\text{Adonia}$) collectively contain over 890 times the mass of Adonia. Their deep gravitational wells dominate the outer system, carving wide, stable gaps in the asteroid belt and preventing the accumulation of massive planet-crossing asteroids. Together, they intercept, deflect, or swallow over 99.6% of long-period comets descending from the outer Oort reservoir, serving as planetary shields for the inner biosphere.<ref name="IACC_Overview" /> The gravitational interactions between Alcázar, Lucero, and Centinela maintain the sharp inner boundary of the trans-Centinelan Kuiper disk, while regular mean-motion resonances, such as Erebo's 3:2 resonance with Centinela, ensure that eccentric Kuiper-type outliers never collide with the outer ice giants.<ref name="Tanigaki_Arch" />
+
+==Origin and Early Evolution==
+
+The Aurelius system condensed approximately 4.6 billion years ago from the gravitational collapse of a giant molecular cloud fragment enriched in heavy elements by prior generations of supernovae and asymptotic giant branch (AGB) stars ($[\text{Fe}/\text{H}] = +0.04$).<ref name="IACC_Overview" />
+
+===The Early Instability Epoch===
+During the first 200 million years following the dispersal of the protoplanetary gas disk, the system underwent a period of dynamic planetary realignment. Protoplanetary collisions and intense stellar winds stripped the lighter silicate crusts of [[Tartessos]], leaving behind its oversized 85% metallic iron core.<ref name="Tanigaki_Arch" /> As Aurelius settled onto the main sequence and gradually brightened, Ciguapa's primordial oceans boiled away, triggering the permanent runaway greenhouse catastrophe that characterizes its modern 93-atmosphere envelope.<ref name="Aldana_Equilibrium" /> In the outer realm, proto-Alcázar suffered a catastrophic oblique collision with a wandering protoplanet of 6 to 8 Adonian masses; the impactor knocked Alcázar's rotational axis onto its side, producing its modern 97.8° obliquity, and ejected millions of cubic kilometers of volatile ice into orbit to form its sprawling ring citadel and satellite system.<ref name="Balisca_Alcazar">Baliscan Royal Astronomical Society. (2016). *Catastrophic Giant Impact Origin for Alcázar's 98-Degree Obliquity and Satellite Ring Architecture*. Journal of Comparative Planetology, 74(3), 198–229.</ref> Gravitational perturbations from Alcázar's collision and Amatista's migration simultaneously scattered billions of icy planetesimals inward toward the terrestrial zone, delivering the water, carbon, and prebiotic nitrogen compounds that formed Adonia's vast oceans and atmosphere.<ref name="Tanigaki_Arch" />
+
+==Habitability and the Adonian Biosphere==
+
+Among the twelve planets, [[Adonia]] is the sole world known to harbor life. Its habitability is not an isolated coincidence, but the systemic outcome of the Aurelius system's overall architectural balance. Aurelius itself is a middle-aged G0V star with a predictable 11.2-year magnetic cycle and negligible superflare activity, providing consistent irradiance ($1,710\text{ W/m}^2$) within its conservative habitable zone.<ref name="IACC_Overview" /> Locked in the 5:4 resonance with Quetzal, Adonia maintains a stable low-eccentricity orbit, while its two natural moons, [[Imera]] and [[Theia]], gravitationally anchor its 24.3° axial obliquity, preventing the chaotic climate swings that occur on single-moon worlds.<ref name="Tanigaki_Arch" /> Beneath the surface, a vigorous liquid iron outer core generates a powerful geomagnetic field that deflects the Aurelian wind, shielding the dense nitrogen-oxygen atmosphere and the life-giving oceans below.<ref name="Tanigaki_Arch" />
+
+==History of Observation and Space Exploration==
+
+The study of the Aurelius system reflects the intellectual and technological progression of Adonian civilization. In archaic times, ancient Sinopian, Sanese, and Insulonian priest-astronomers cataloged the eight classical wandering stars visible to the unaided eye: Tartessos, Ciguapa, Mictlán, Quetzal, Adonia, Aztlán, Cíbola, and Amatista, incorporating their synodic cycles into religious cosmologies and agricultural calendars.<ref name="Tanigaki_Arch" />
+
+The telescopic revolution of the 17th to 19th centuries, spearheaded by observatories in Balisca and Okaiken, resolved planetary discs, discovered the rings of Amatista and Alcázar, and culminated in the discovery of the outer ice giants: Donato de Silva discovered [[Lucero]] in 1781, while Tanigaki Ren and Marcelo Vives mathematically predicted and located [[Centinela]] in 1846.<ref name="Tanigaki_Arch" /> In 1930, the photographic era enabled Sinopian astronomer Aris Thorne to discover the dwarf planet [[Erebo]] using a blink comparator at Kydonia Peak Observatory.<ref name="Tanigaki_Arch" />
+
+In the modern space age, dedicated interplanetary robotic missions—including the *Explorer*, *Kagayaki*, *Hermes*, *Tenma*, *Deep Horizon*, and *Nyx-Erebo* programs—have executed close flybys, orbital insertions, atmospheric soundings, and robotic landings across all twelve worlds, transforming theoretical celestial mechanics into empirical planetary science.<ref name="IACC_Overview" />
+
+==See also==
+See also the central star [[Aurelius]], the life-bearing world [[Adonia]], the hot resonant neighbor [[Quetzal]], and the [[Day of the Dragon]], alongside the system's other planets: [[Tartessos]], [[Ciguapa]], [[Mictlán]], [[Aztlán]], [[Cíbola]], [[Amatista]], [[Alcázar]], [[Lucero]], [[Centinela]], and [[Erebo]].
+
+==References==
+{{reflist}}
 
 [[Category:Planetary systems]]
 [[Category:Aurelius System]]

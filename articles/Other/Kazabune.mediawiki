@@ -1,113 +1,81 @@
-{{Infobox country
-|native_name                 = 傘船洲 <br> ''Kazabune-shu''
-|conventional_long_name      = Kazabune
-|common_name                 = 
-|image_flag                  = Flag of Kazabune.svg
-|alt_flag                    = <!--alt text for flag-->
-|image_coat                  = <!--* e.g. Coat of arms of country.svg--> Kazabune Emblem.svg
-|alt_coat                    = <!--alt text for coat of arms--> 
-|symbol_type                 = <!--emblem/seal/... based on image_coat--> Coat of Arms
-|national_motto              = 浮世 <br><small>"Ukiyo"<br>floating world</small>
-|national_anthem             = 黒馬の国<br><small>"Kurouma no Kuni"<br>Land of Black Horse</small>
-|image_map                   =
-|alt_map                     = <!--alt text for map-->
-|map_caption                 = 
-|image_map2                  = <!--Another map, if required--> Kazabune Location.png
-|alt_map2                    = <!--alt text for second map--> 
-|map_caption2                = <!--Caption to place below second map--> Location of Kazabune
-|capital                     = [[Shirone]]
-|largest_city                = [[Shirone]]
-|official_languages          = [[Sanese language|Kazabune Sanese]]
-|national_languages          = 
-|regional_languages          = 
-|ethnic_groups               = 55% [[Kazabunese people|Kazabunese]] <br> 35% [[Native Kazabunese|Natives]] <br> 10% Other
-|demonym                     = Kazabunese
-|government_type             = [[w:Unitary state|Unitary]] [[w:Parliamentary republics with an executive presidency|Parliamentary republics with an executive presidency]] 
-|leader_title1               = President
-|leader_name1                = [[Sawamatsu Kazuyoshi]]
-|leader_title2               = Prime Minister
-|leader_name2                = [[Raigawa Takashi]]
-|legislature                 = National Parliament
-|upper_house                 = National Assembly
-|lower_house                 = 
-|sovereignty_type            = 
-|sovereignty_note            = 
-|established_event1          = First Kurokoma Colony
-|established_date1           = 1337
-|established_event2          = Shirone Founding
-|established_date2           = {{Start date|1365|3|28}}
-|established_event3          = Current Constitution
-|established_date3           = {{Start date|1926|1|10}}
-|area_rank                   = 
-|area_magnitude              = 
-|area                        = <!-- major area size (in [[Template:convert]] either km2 or sqmi first) --> 
-|area_km2                    = <!-- major area size (in square km) --> 1723337
-|area_sq_mi                  = <!-- area in square mi (requires area_km2) 665384-->
-|area_footnote               = <!-- optional footnote for area --> 
-|percent_water               = 0.1
-|area_label                  = <!-- label under "Area" (default: Total) --> Total
-|area_label2                 = <!-- label below area_label (optional) -->
-|area_data2                  = <!-- text after area_label2 (optional) -->
-|population_estimate         = 378,025
-|population_estimate_rank    = 
-|population_estimate_year    = 2025
-|population_census           = 380,302
-|population_census_year      = 2026
-|population_density_km2      = 0.21
-|population_density_sq_mi    = 0.57
-|population_density_rank     = 
-|GDP_PPP                     = $9,031,017,250
-|GDP_PPP_rank                = 
-|GDP_PPP_year                = 2025
-|GDP_PPP_per_capita          = $23,890
-|GDP_PPP_per_capita_rank     =
-|GDP_nominal                 =
-|GDP_nominal_rank            = 
-|GDP_nominal_year            = 
-|GDP_nominal_per_capita      = 
-|GDP_nominal_per_capita_rank = 
-|Gini                        = 46.8
-|Gini_rank                   = 
-|Gini_year                   = 2010
-|Gini_category               = 
-|HDI                         = 0.800
-|HDI_rank                    = 
-|HDI_year                    = 2025
-|HDI_category                = 
-|currency                    = Kazabune Yen
-|currency_code               = KB￥
-|time_zone                   = 
-|utc_offset                  = -11<!-- +N, where N is number of hours-->
-|time_zone_DST               = 
-|date_format                 = <!-- numeric dates (dd-mm-yyyy, yyyy.mm.dd, etc.) plus era (AD, AH, etc.) -->
-|DST_note                    = 
-|utc_offset_DST              = <!-- +N, where N is number of hours-->
-|drives_on                   = Left
-|cctld                       = .kb
-|simlympic_code              = 
-|calling_code                = +191
-|image_map3                  = 
-|alt_map3                    = 
-|footnotes                   = <!--for any generic non-numbered footnotes-->
+{{Short description|Historical Sanese colony in southwestern Lurandia (1338–1478)}}
+{{Infobox former country
+| conventional_long_name = Kazabune
+| native_name            = {{nihongo|傘船洲|Kazabune-shu}}
+| common_name           = Kazabune
+| continent             = [[Lurandia]]
+| region                = Southwestern [[Lurandia]]
+| country              = present-day southwestern [[Kavik]]
+| era                   = [[Kurokoma-Kanemoto War]] aftermath
+| status                = Exile colony of the [[Kurokoma clan]]
+| status_text           = Unrecognized settlement
+| empire                = <!-- none — founded by exiles outside any imperial authority -->
+| government_type      = Clan rule (Kurokoma patriarchate)
+| leader_title          = Clan head
+| year_start            = 1338
+| year_end              = 1478
+| event_start          = Kurokoma landfall
+| date_start           = c. 1338–1340
+| event_end            = Absorption by the [[Tamagawa clan|Tamagawa]] settlement
+| date_end             = 28 March 1478
+| event_post           = Territory incorporated into the [[Kavik|Confederation of Kavik]]
+| p1                   = Kavik
+| flag_p1              = <!-- none -->
+| image_map            = 
+| capital              = [[Shirone]] (founded 1365)
+| common_languages     = Late Middle Sanese (Nagashima variety)
+| religion             = Umijin sea-deity cults; syncretic [[Amadera]] worship
+| currency             = Barter; Zong trade silver
+| footnote             = The colony's territory and surviving population were absorbed by the 1478 Tamagawa settlement and today form part of the [[Kavik|Confederation of Kavik]].
 }}
-{{Nihongo|'''Kazabune'''|傘船洲|Kazabune-shu}} is a country in Southwestern end of [[Lurandia]], bordering [[Kaneda]] in North, [[United Midlands]] in east. Kazabune is considered to be the westernmost part of Lurandia and the border between western and eastern hemisphere. 
 
-Kazabune have its root on the decline of [[Umijin]] on [[Sanese Archipelago]] with [[Kurokoma clan]] exile considered to kickstart the sanese settlement on Kazabune. Over the time Kazabune settled by the exiles and the abducted people by the [[Sea Wolves]] over the coast of [[Kanemoto Shogunate]] during 13th century. With [[The Secret Trade]] influence, over the time Kazabune fosian demographic become more heterogenous in addition to Dagits, Zong and other people from [[Balausia Peninsula]] colonized Kazabune
-
-It has a strong maritime cultures with the cross ocean trading and [[w:Whaling|Whaling]] being one of the main source of income until 19th century.
+'''Kazabune''' ({{nihongo|傘船|Kazabune|lit. umbrella boats}}) was a Sanese exile colony on the southwestern coast of [[Lurandia]], founded around 1338–1340 by remnants of the [[Kurokoma clan]] following their purge in the [[Kurokoma-Kanemoto War]]. One of the earliest sustained Sanese presences in the New World, the colony survived for several generations through fishing, limited trade with indigenous populations, and occasional mercenary work for Fosian colonial ventures, before fading from the historical record in the fifteenth century. Its surviving population was absorbed by the [[Tamagawa clan|Tamagawa]] expedition of 1478, whose settlement — founded on and around the old colony's territory — became the [[Kavik|Confederation of Kavik]], the second Sanese settler state of Lurandia after [[Kaneda]].
 
 ==Etymology==
-The name Kazabune (傘船) consisted of 2 kanji, 傘 means umbrella and 船 means boats. The name itself considered to be the originated from the allegory of Kurokoma clan looking for the shades on their boat while venturing the Shendan Ocean from [[Nagashima (Nakamizu)|Nagashima]] in 1337. While the reading of kanji in standard sanese is Kasa-fune, the pronunciation of Kazabune believed to be drifted along the time with the mixture of language with native lurandians over the region
+The name Kazabune (傘船) consists of two kanji: 傘 (''kasa''), "umbrella," and 船 (''fune''), "boat." Tradition holds that the name originated during the exile voyage itself, when the Kurokoma leadership — the "black colt" clan (黒駒) of [[Nagashima]] — rigged shades of sailcloth over the decks of their ships while crossing the equatorial latitudes of the [[Shendan Ocean]], a sight their descendants remembered as a fleet of umbrella boats. In the colony's own speech the reading drifted from the standard ''Kasa-fune'' to ''Kazabune'', a phonological shift that survives in the modern [[Kavik Sanese]] "''kaza''" reading of the character 傘.
 
 ==History==
-=== Pre Kurokoma Settlement ===
-=== Kurokoma Kazabune ===
-=== Colonization and Expansions ===
-=== Industrial Era and Oil Boom ===
-=== Great Adonia War ===
-=== Modern Day===
-==Geography==
-== Demographics ==
-== Economy ==
-== Culture ==
-== Law and Government ==
+===The Kurokoma exile===
+{{Main|Umijin|Kurokoma-Kanemoto War}}
+
+The [[Kurokoma clan]] — the dominant power among the southern [[Umijin]] sea lords of [[Nagashima]] — was systematically purged from all positions of shogunal authority by the victorious [[Kanemoto Shogunate]] in 1337. Facing complete political annihilation, the remnants of the Kurokoma leadership and their most loyal retainers chose exile over submission. Around 1338–1340, they embarked on a trans-oceanic voyage across the Shendan Ocean, navigating to the rugged southwestern coast of Lurandia — a remote, temperate region bordering arctic climate — where they established a permanent settlement.
+
+The voyage was the longest sustained migration in pre-modern Sanese history, and it demonstrated the extraordinary maritime capabilities of the exiled Umijin clans: a fleet of cold-water whalers and strait pilots, built and provisioned by a caste the inland court had just declared extinct, crossing an ocean the court insisted no Sanese vessel could survive.
+
+===Colony life===
+The exiles landed in the territory of the [[Kavikmiut|Qilalumiut]] nation, whose initial contact with the newcomers was cautious but largely peaceful. The colony survived on a combination of deep-water fishing, limited trade with the indigenous populations, and occasional mercenary work for Fosian colonial ventures probing the Lurandian coast. Around 1365, the colonists founded [[Shirone]] (白根, "white root"), the colony's principal settlement, on one of the few sheltered harbors of the southwestern coast.
+
+Cut off from the archipelago by distance and by the political impossibility of return, Kazabune developed in near-total isolation. Its population — never more than a few thousand — retained the language of the late [[Hiraizumi-Daishin period]], the sea-deity cults of the Umijin, and the clan structure of Nagashima, while absorbing through marriage and adoption a growing proportion of indigenous Kavikmiut and, later, Dagit and Zong settlers drawn by the colony's position on the Fosian trade routes.
+
+===Decline and absorption===
+By the mid-fifteenth century, Kazabune had faded from the historical record. The reasons were the quiet ones that dissolve small colonies: a founding population too small to sustain itself, a homeland that could not resupply it, and the slow absorption of its people into the indigenous nations and Fosian trading settlements around it. The colony left no chronicle of its own ending.
+
+When the [[Tamagawa clan|Tamagawa]] expedition — a maritime family of [[Kii Prefecture|Kii]] in [[Mitoyagi]], sailing with Zong merchants of the [[Lim clan|Lim]] and Yanbaruan mariners of the [[Higa clan|Higa]] — made landfall on the same southwestern coast on 28 March 1478, they found the remnants of the Kurokoma colony still living in and around the old settlement of Shirone. The Tamagawa settlement absorbed the surviving Kazabunese population and refounded Shirone on the old site, and the colony's territory became the heartland of what developed into the [[Kavik|Confederation of Kavik]]. Kavik thus superseded Kazabune in the same place: the second Sanese settler state of Lurandia grew directly over the first.
+
+==Legacy==
+Kazabune survives into the present as a substrate — demographic, linguistic, and institutional — of the Confederation of Kavik.
+
+* '''Language:''' The archaic Nagashima Sanese of the colony reinforced the conservative features of the [[Tamagawa clan|Tamagawa]] settlers' own dialect in the formation of [[Kavik Sanese]]. Linguists attribute part of Kavik Sanese's archaic phonology and its distinctive whaling and navigation lexicon to the Kazabunese population absorbed in 1478.
+* '''Orthography:''' The "''kaza''" reading of the character 傘 — a Kazabunese phonological shift from standard ''kasa'' — is preserved in Kavik Sanese to the present day.
+* '''Institutions:''' The name survives in Kavik commercial institutions descended from the colony's trading tradition, most prominently the Shirone financial house [[Shirone Capital]] (傘船資本), which retains the colony's kanji in its own name.
+* '''Historiography:''' In Kavik national history, Kazabune functions as the "first settlement" — the proof that the Sanese arrival on the southwestern coast was not a single event but a continuous presence stretching back to the fourteenth century. In Nakamizuan historiography, the colony is the final chapter of the Kurokoma tragedy: the sea lords who built an empire's navy, were purged by it, and replanted its maritime civilization on the far side of the world.
+
+==See also==
+* [[Kavik]]
+* [[Kavik Sanese]]
+* [[Kaneda]]
+* [[Umijin]]
+* [[Kurokoma clan]]
+* [[Kurokoma-Kanemoto War]]
+* [[Sea Wolves]]
+* [[Tamagawa clan]]
+
+==References==
+{{reflist}}
+
+[[Category:Former colonies]]
+[[Category:Former countries in Lurandia]]
+[[Category:History of Kavik]]
+[[Category:Sanese diaspora]]
+[[Category:1338 establishments]]
+[[Category:1478 disestablishments]]

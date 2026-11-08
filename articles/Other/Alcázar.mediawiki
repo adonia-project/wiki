@@ -1,54 +1,85 @@
 {{Infobox planet
 | name = Alcázar
-| symbol = 
-| image = PL08_Alcazar.jpg
-| caption = The Tilted Giant, Alcázar, viewed from its moon San Felipe
+| symbol = ♅
+| image               = PL08_Alcazar.jpg
+| caption = False-color polar perspective of Alcázar captured by the Tenma-2 reconnaissance probe, showing its extreme 98-degree axial tilt, concentric ring system, and the Great Citadel Eye polar storm
 | discoverer = Unknown (Ancient observation)
 | discovery_site = 
 | discovered = Pre-historic
-| pronounce = [[wikipedia:Wikipedia:IPA for English|/ælˈkæzɑːr/]]
-| named_after = Alcázar (Insulonian Legend/Fortress)
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/ælˈkæzɑːr/]]
+| named_after = Alcázar (Insulonian Legend / Royal Fortress)
 | alt_names = The Tilted Fortress / 斜天星 (Shatensei)
 | adjectives = Alcazarian
-| mean_radius = 73,400 km
+| mean_radius = 73,400 km (11.53 R_Adonia)
 | surface_area = 6.77×10^10 km2
 | volume = 1.65×10^15 km3
 | mass = 510.00 M_Adonia (3.05×10^27 kg)
 | mean_density = 1.85 g/cm3
-| surface_gravity = 37.8 m/s2
+| surface_gravity = 37.8 m/s2 (3.86 g)
 | escape_velocity = 74.5 km/s
 | sidereal_rotation_period = 16.8 hours
-| orbital_period = 14,200 days
+| orbital_period = 13,900.0 days (37.44 Adonian years)
 | mean_orbit_radius = 11.20 AU
-| eccentricity = 0.03
-| surface_pressure = Unknown (Gas Giant)
-| composition = Hydrogen (90%); Helium (9%); Methane/Ammonia (1%)
+| perihelion = 10.842 AU
+| aphelion = 11.558 AU
+| eccentricity = 0.032
+| inclination = 2.15°
+| axial_tilt = 97.8° (Retrograde rolling)
+| surface_pressure = Unknown (Gas giant)
+| composition = Hydrogen (87%); Helium (11%); Methane, ammonia, water ice (2%)
 }}
 
-Alcázar is the ninth planet from the star Aurelius, orbiting in the outer reaches of the system beyond the violet giant [[Amatista]]. It is the largest and most massive planet in the Aurelius system, possessing a mass equivalent to 510 times that of [[Adonia]]. It is a gas giant of immense proportions, often referred to as the King of the Outer Dark.
+'''Alcázar''' is the ninth planet from the star [[Aurelius]], orbiting at a mean distance of 11.20 AU between the violet giant [[Amatista]] and the alabaster ice giant [[Lucero]]. It is the undisputed gravitational colossus of the [[Aurelius system]]: possessing a mass equal to 510 times that of [[Adonia]] ($510.0 M_\text{Adonia}$ or approximately 1.6 times the mass of Jupiter), Alcázar contains more mass than all other eleven planets in the system combined.<ref name="IACC_Alcazar">Inter-Adonian Celestial Commission (IACC). (2020). *Planetary Mass Inversion and Dynamical Orbit Integration of the Outer System Giant Alcázar*. Annals of Celestial Mechanics, 49(1), 77–108.</ref> It is an immense, densely banded gas giant with an equatorial radius of 73,400 km and a surface gravity of 37.8 m/s² (3.86 times Adonian gravity).
 
-The most defining feature of Alcázar is its extreme axial tilt of approximately 98 degrees. Unlike the other planets which rotate relatively upright in their orbits, Alcázar rolls on its side. This unique orientation means its poles face the star alternately for decades at a time, resulting in extreme seasonal insolation cycles that drive complex atmospheric dynamics.
+The defining physical marvel of Alcázar is its extreme '''axial tilt of 97.8 degrees'''. Unlike planets that rotate upright relative to their orbital plane, Alcázar rolls through space on its side, with its rotational axis lying almost parallel to its orbital path.<ref name="Balisca_Alcazar">Baliscan Royal Astronomical Society. (2016). *Catastrophic Giant Impact Origin for Alcázar's 98-Degree Obliquity and Satellite Ring Architecture*. Journal of Comparative Planetology, 74(3), 198–229.</ref> This radical orientation is the result of a colossal proto-planetary impact during the system's final accretion epoch roughly 4.4 billion years ago, when an encroaching differentiated planet of 6 to 8 Adonian masses collided obliquely with proto-Alcázar, knocking its angular momentum sideways and scattering icy debris into an expansive equatorial ring system.<ref name="Balisca_Alcazar" />
 
-Visually, Alcázar presents a serene yet imposing facade. Its atmosphere is colored in muted tones of butterscotch, pale yellow, and soft cream, created by high-altitude haze layers of hydrocarbon smog. Due to its tilt, the atmospheric bands appear to run vertically or diagonally across the disk when viewed from the ecliptic plane of the inner system, giving it the nickname The Slanted World.
+Because of this 98-degree obliquity, Alcázar experiences the most severe and prolonged seasonal cycles in the system. Each pole faces directly toward Aurelius for half of its 37.44-year orbital period (18.7 Adonian years of continuous sunlight), while the opposite pole is plunged into 18.7 years of pitch-black sub-zero night. Over the sunlit summer pole sits a monstrous cyclonic vortex known as the '''Great Citadel Eye''' (Insulonian: ''El Ojo del Alcázar'', Sanese: ''Shiro-no-me'' / 城の眼)—a permanent storm system wider than the solid diameter of Adonia.<ref name="Tenma2_Report">Okaiken Institute for Space and Aeronautical Science (OISAS). (2021). *Atmospheric Dynamics and Polar Vortex Structures of Alcázar: The Tenma-2 Reconnaissance Mission*. OISAS Planetary Science Series, 60, 44–89.</ref>
 
 ==Physical characteristics==
-===Atmosphere===
-The atmosphere of Alcázar is deep and relatively calm compared to the turbulent [[Quetzal]] or [[Amatista]]. The primary constituents are hydrogen and helium, but the lower temperatures at this distance allow for the condensation of ammonia and methane clouds, which are obscured by a thick upper layer of photochemical haze.
 
-Despite its calm appearance, the planet possesses massive, slow-moving cyclonic systems. The "Cream Bands" are vast jet streams that circle the planet. Because of the extreme tilt, the Coriolis forces act differently here, creating weather patterns that spiral from the equator toward the poles in long, languid curves.
+===Atmosphere and banded meteorology===
+Alcázar's atmosphere is composed of 87% molecular hydrogen, 11% helium, and approximately 2% methane, ammonia, water vapor, and ammonium hydrosulfide.<ref name="Tenma2_Report" /> Because of its higher mass and gravity, Alcázar's atmospheric scale height is compact (approx. 21 km), producing exceptionally sharp, well-defined latitudinal cloud bands in rich tones of ochre, cream, pale gold, amber, and deep slate brown. The amber-ochre coloration is driven by solar photolysis of ammonia and hydrogen sulfide, forming chromophores that are stirred through horizontal jet streams.<ref name="Tenma2_Report" />
 
-===Internal structure===
-Alcázar is believed to have a massive rocky core, perhaps 20 to 30 times the mass of [[Adonia]], surrounded by a mantle of water, ammonia, and methane ices. Above this is a thick layer of metallic hydrogen, similar to Quetzal but cooler and denser. The immense gravity of the planet has allowed it to capture and hold a retinue of over 80 moons, creating a miniature solar system of its own.
+Wind speeds in the upper atmosphere reach up to 600 km/h in narrow, alternating prograde and retrograde belts. However, atmospheric circulation is dominated by dramatic pole-to-pole seasonal thermal convection. When a pole is tilted toward Aurelius during solstice, heating drives deep convective upwelling; the ascending gas travels across the equator to descend over the dark winter pole, establishing a global, single-cell seasonal Hadley circulation unmatched anywhere else in the planetary system.<ref name="Balisca_Alcazar" />
 
-==Orbit and rotation==
-Alcázar orbits Aurelius at a distance of 11.20 AU, completing a revolution every 14,200 standard days (approx. 39 Adonian years). This slow orbit makes it a generational marker in Adonian culture; a human life is often measured by how many times Alcázar has returned to its natal position.
+===The Great Citadel Eye===
+The primary meteorological landmark on Alcázar is the ''Great Citadel Eye'' (*El Ojo del Alcázar*), an enormous polar cyclonic storm situated precisely at the planet's summer rotational pole. Measuring over 16,500 kilometers across, the vortex is bounded by high-altitude cream-colored cloud walls that tower 45 kilometers above the surrounding ammonia cloud deck. Deep within the eye, thermal infrared imaging reveals descending dry gas that permits views into the warmer, deeper tropospheric layers below, glowing with internal heat.<ref name="Tenma2_Report" />
 
-The planet rotates on its side once every 16.8 hours. This rolling motion means that for half of its orbit, one pole is bathed in continuous sunlight while the other is plunged into decades of darkness. This results in strange magnetospheric interactions, as the planet's magnetic field—which is offset from its rotational axis—wobbles wildly as it interacts with the solar wind, creating a "corkscrew" magnetotail.
+===Internal structure and hyper-dense core===
+With a bulk density of 1.85 g/cm³—substantially denser than typical gas giants—Alcázar possesses a deeply compressed interior. At its center lies a superdense core containing an estimated 35 to 45 Adonian masses of heavy silicates, nickel-iron, and high-pressure ice, enriched by the remnants of the giant impactor that struck the planet in its youth.<ref name="IACC_Alcazar" /> Surrounding the core is a colossal convective ocean of liquid metallic hydrogen and helium under pressures exceeding 4,000 GPa, transitioning upward into an outer molecular hydrogen envelope that extends to the visible cloud decks.<ref name="Tenma2_Report" />
+
+This immense metallic mantle generates the most powerful planetary magnetosphere in the Aurelius system. Alcázar's dipole magnetic field is roughly 65 times stronger than Adonia's. Because of the planet's extreme obliquity, the magnetic poles are tilted at an angle of 48 degrees relative to the rotational axis, causing the magnetic field to twist and corkscrew through interplanetary space as the planet rotates, generating powerful synchrotron radiation belts that present significant hazards to automated probes.<ref name="Tenma2_Report" />
+
+===The Ring Citadel===
+Alcázar is surrounded by an extensive, multi-tiered ring system known as the ''Ring Citadel'' (Insulonian: ''La Ciudadela de Anillos''). The rings lie exactly in the planet's tilted equatorial plane, rolling through space alongside the planet's sideways rotation.<ref name="Balisca_Alcazar" />
+
+The ring system spans from 85,000 km to over 220,000 km from the planet's center. It consists of alternating bright water-ice bands and dark, dust-rich gaps sculpted by orbital resonances with inner shepherd moons. The rings are theorized to be the remnants of an ancient, large icy moon that was sheared apart inside Alcázar's Roche limit during the primordial collision event that tilted the planet.<ref name="Balisca_Alcazar" />
+
+==Satellite system==
+
+Alcázar possesses a vast satellite family of 84 confirmed natural moons, divided between regular equatorial satellites and distant captured irregular moons. The most prominent is *San Felipe*, the largest satellite in the Aurelius system (mean radius 2,630 km, surpassing Tartessos in physical size), which orbits in Alcázar's tilted equatorial plane every 8.4 standard days; San Felipe features a thin nitrogen-methane atmosphere and active cryo-volcanic geysers venting ammonia-water solutions from a deep subsurface ocean.<ref name="Tenma2_Report" /> Other major equatorial moons include *Guadalquivir* (radius 1,740 km), heavily scarred by global tectonic rift valleys up to 6 kilometers deep, and *Santa Barbara* (radius 1,480 km), a densely cratered ice-silicate world. In the far reaches of the system, a swarm of over 50 small retrograde irregular satellites orbits at distances between 10 and 35 million kilometers, captured from the ancient Kuiper-type debris disk.<ref name="IACC_Alcazar" />
+
+==Orbit and gravitational dominance==
+
+Alcázar orbits Aurelius at a mean distance of 11.20 AU, completing one revolution every 13,900.0 standard Adonian days (approximately 37.44 Adonian years). Its orbit has an eccentricity of 0.032 and an inclination of 2.15°.
+
+As the heavyweight behemoth of the system, Alcázar dominates the celestial mechanics of the outer realm. Its gravitational interactions with Amatista (5.40 AU) and the ice giants [[Lucero]] (22.80 AU) and [[Centinela]] (35.40 AU) prevent planetary migration and keep the outer solar system in a state of long-term orbital equilibrium. Deep-space exploration missions routinely utilize Alcázar's massive gravity well for gravity-assist slingshot maneuvers to reach the outer frontier and the dwarf planet [[Erebo]].<ref name="IACC_Alcazar" />
+
+==Observation and space exploration==
+
+To ancient observers on Adonia, Alcázar appeared as a slow-moving, steady golden-amber luminary. In ancient Insulonia, it was named *Alcázar*—the great fortress or citadel—symbolizing impregnable celestial defense and sovereign majesty.<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref> In Sanese astronomy, the world has been known since the earliest records as '''Shatensei''' ({{nihongo||斜天星||"tilted celestial star"}}), so named after 17th-century telescopic observations revealed that its ring system and moons orbited vertically on their side rather than horizontally.<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref>
+
+Space exploration has provided comprehensive empirical observations through the *Tenma-2 Outer System Probe*, a long-duration flagship mission developed jointly by Okaiken and Balisca. In 2018, Tenma-2 executed a historic close flyby of Alcázar at a distance of 45,000 km, returning detailed imagery of the Great Citadel Eye, mapping San Felipe's cryo-volcanoes, and measuring the twisted magnetospheric corkscrew in unprecedented detail.<ref name="Tenma2_Report" />
 
 ==Name and etymology==
-The name Alcázar comes from the Insulonian word for a fortress or palace. The name was chosen by early astronomers who viewed the planet's massive size and slow, deliberate movement as a symbol of an impregnable castle guarding the outer system.
 
-In Sanese astronomical nomenclature, the planet is known as Shatensei (斜天星 [Shatensei]), translating to the Slanted Heaven Star or Tilted Sky Star. This name directly references the planet's unusual axial tilt, which was calculated long before spaceflight confirmed the visual diagonal banding.
+The name ''Alcázar'' is derived from classical Insulonian and Moorish-Andalusian architectural heritage, denoting a fortified royal castle or fortress (from the Arabic *al-qaṣr*). Early astronomers chose the name to honor the planet's colossal mass and its role as the immovable fortress guarding the outer solar system.<ref name="Navassa_Lex" />
+
+In [[Sanese language|Sanese]], the planet is designated as '''Shatensei''' ({{nihongo||斜天星||"tilted sky star"}} or {{nihongo||砦天星||"fortress star"}}), honoring both its unique 98-degree axial tilt and its fortress-like gravitational presence.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Gas giants]]
+
+==References==
+{{reflist}}

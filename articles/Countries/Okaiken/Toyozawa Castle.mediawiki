@@ -1,12 +1,14 @@
-{{Infobox military structure
+﻿{{Infobox military structure
 | name = Toyozawa Castle
 | native_name = 豊沢城
 | native_name_lang = ja
-| partof = 
-| image = [[File:Toyozawa Castle new render.png|300px|alt=Toyozawa castle]]
-| caption =Toyozawa castle
-| location = [[Toyozawa]], [[Miyagi Prefecture]], [[Okaiken]]
-| map_type = 
+| partof =
+| image = [[File:Toyozawa Castle.png|300px|alt=Toyozawa Castle]]
+| caption = Toyozawa Castle, reconstructed beginning in 1955. The original castle was destroyed in the Kinzō Incident of 1625.
+| location = [[Toyozawa]], [[Okaiken]]
+| coordinates = {{coord|20.492564|S|164.253630|E|display=inline,title}}
+| map_type = Okaiken
+| map_caption = Location within Okaiken
 | type = [[Hirayamajiro]] (Hilltop-Flatland Castle)
 | built = 1595–1608
 | built_by = [[Emperor Shirakawa of Mitoyagi|Honda Shigetada]]
@@ -19,12 +21,81 @@
 
 {{nihongo|'''Toyozawa Castle'''|豊沢城|Toyozawa-jō}}, historically known as the '''Palace of the Sea God''' ({{nihongo|Watatsumi-no-Miya|綿津見宮}}), is a Sanese-style castle complex located in the center of [[Toyozawa]], [[Okaiken]]'s second-largest city.
 
-Originally constructed at the turn of the 17th century by the unifier [[Emperor Shirakawa of Mitoyagi|Honda Shigetada]] (Emperor Shirakawa), it was designed to be the impregnable military capital of the [[Honda Shogunate]]. Uniquely among Sanese castles, it utilized a hybrid ''Hirayamajiro'' layout, featuring a colossal military keep atop Mount Toyo and a sprawling imperial palace at the base, protected by a complex system of sea-fed moats.
+Originally constructed between 1595 and 1608 by the unifier [[Emperor Shirakawa of Mitoyagi|Honda Shigetada]] (later Emperor Shirakawa), it was designed to be the impregnable military capital of the [[Honda Shogunate]]. Uniquely among Sanese castles, it utilized a hybrid ''Hirayamajiro'' layout, featuring a colossal military keep atop Mount Toyo and a sprawling imperial palace at the base, protected by a complex system of sea-fed moats. The castle served as the residence of the Retired Emperor during the [[Dual Sovereignty]] period (1610–1625), making it the spiritual and diplomatic capital of Mitoyagi while the Shogun governed from [[Okami]].
 
-While the Main Keep was famously destroyed during the [[Kinzō Incident]] of 1625 and left as a "Blackened Memorial" to the martyred Emperor, the lower grounds remained the administrative heart of the region for centuries. Today, the castle grounds form '''Shirakawa Memorial Park''' ({{nihongo|Shirakawa Kōen|白河公園}}), a massive 200-hectare urban oasis that dominates the city center. It attracts over 8 million visitors annually and serves as the primary venue for the [[Ichijoudani Festival|Red String Festival]].
+The Main Keep was famously destroyed during the [[Kinzō Incident]] of 1625, when [[Ii Naotaka]]'s forces burned the castle and killed Emperor Shirakawa on the [[Bridge of Heaven]]. The Honda Shogunate designated the scorched ruins a sacred memorial, forbidding any repair or cleaning of the granite foundation stones—a prohibition that has been maintained for over four centuries. The lower grounds, however, remained the administrative heart of the region for centuries, serving as the secondary capital of the Honda Shogunate and later as the seat of [[Toyozawa Metropolis]].
+
+Today, the castle grounds form '''Shirakawa Memorial Park''' ({{nihongo|Shirakawa Kōen|白河公園}}), a massive 200-hectare urban oasis that dominates the city center. It attracts over 8 million visitors annually and serves as the primary venue for the [[Ichijoudani Festival|Red String Festival]]. The reconstructed portions of the castle house the [[Toyozawa Metropolitan Assembly]] and the Governor's Office, making it one of the few castles in Adonia to still house an active government.
+
+==History==
+{{Main|History of Okaiken|Kinzō Incident|Honda Shigetomo}}
+
+===Construction (1595–1608)===
+[[File:Honda Shigetada.png|220px|thumb|right|Honda Shigetada, later Emperor Shirakawa, who commissioned Toyozawa Castle in 1595.]]
+
+Following his decisive victory at the [[Battle of Tone]] in 1600, [[Emperor Shirakawa of Mitoyagi|Honda Shigetada]] sought a strategic location for his southern power base that would complement the northern capital of [[Okami]]. He selected the [[Toyozawa Promontory]]—a granite plateau jutting into the [[Sea of Mitoyagi]] at the mouth of the [[Yodo River]]—for its natural defensibility and its proximity to the maritime trade routes of the southern archipelago.
+
+Construction began in 1595, five years before the Battle of Tone, when Shigetada was still consolidating his hold on Yagikoshu. The site had previously been a minor fortification during the [[Kitayama period]], but Shigetada envisioned a complex of unprecedented scale. The castle's innovative hybrid ''Hirayamajiro'' design combined a colossal military keep (''tenshu'') atop the 100-meter summit of Mount Toyo with a sprawling palatial complex at the base, connected by the famous roofed corridor known as the [[Bridge of Heaven]]. The base of the mountain was ringed by sea-fed moats that made the promontory virtually an island at high tide, earning the castle its poetic name: the Palace of the Sea God ({{nihongo|Watatsumi-no-Miya|綿津見宮}}).
+
+The construction employed over 50,000 laborers and spanned 13 years, drawing granite from quarries across Yagikoshu and cypress from the forests of the Miseto plain. The Main Keep, rising 58 meters in seven stories, was recognized as the tallest wooden structure in Sanese history. The castle was formally completed in 1608, and Shigetada took up residence in the palatial complex at its base.
+
+===The Dual Sovereignty (1610–1625)===
+{{Main|Dual Sovereignty|Honda Shigetomo}}
+
+Upon the death of Emperor Komei in 1610, Shigetada ascended to the Chrysanthemum Throne as Emperor Shirakawa. Facing the unique challenge of holding both divine and temporal authority, Shirakawa enacted the ''Edict of the Two Realms'' in 1611, creating the system of [[Dual Sovereignty]] ({{nihongo|Ryōkai-no-Rei|両界の令}}). Under this arrangement, the Shogun—Shirakawa's second son, [[Honda Shigetomo]]—administered military affairs from [[Okami]], while the Retired Emperor resided in Toyozawa, handling spiritual matters, diplomacy, and high-level appointments.
+
+In 1619, Shirakawa formally retired to Toyozawa Castle to rule as a Cloistered Emperor (''Insei''). From this stronghold, he continued to guide his son Shigetomo, shifting his focus from war to radical administrative reform. It was during this period that the father-son duo drafted the "[[Kinzō Reforms]]," a visionary but controversial plan to nationalize land surveys and break the power of the regional warlords. The castle became the nerve center of the reform movement, with Shirakawa receiving foreign traders, Baiduist scholars, and provincial governors in the Hall of 1,000 Cranes.
+
+The Dual Sovereignty system, however, contained a fatal flaw: the {{nihongo|"Tyranny of Distance"|距離の暴政|Kyori no Bōsei}}. The approximately 500 km separation between Okami and Toyozawa—across the rugged mountainous spine of the main island and the turbulent Naruto Strait—meant that under normal conditions, a fast dispatch boat took roughly three days to deliver urgent news, and the main Shogunate fleet required at least five days to mobilize and sail south. This geographic vulnerability would prove catastrophic.
+
+===The Kinzō Incident (1625)===
+{{Main|Kinzō Incident|Battle of Ichijoudani}}
+
+The stability of the early Honda period was shattered in 1625 by the implementation of the Kinzō Reforms, the culmination of a two-year transformation that had begun in 1623. The reforms, which transferred the right of land surveying from local daimyos to central government bureaucrats, were viewed as an existential threat by the ''fudai'' (hereditary) daimyos. Resentment coalesced around [[Ii Naotaka]], the son of the Honda's greatest ally and the commander of the "Red Devil" vanguard.
+
+On June 4, 1625, a massive, unseasonal typhoon stalled over the southern coast, severing all naval communication between the northern capital and the southern court. Taking advantage of the isolation, Ii Naotaka launched his assault on the night of June 6. The traitor [[Ogasawara Tadayoji]], captain of the castle's North Gate guard, opened the gates at midnight, allowing 3,000 Red Devil cavalry to storm the inner citadel.
+
+Retired Emperor Shirakawa, aged 69, was awakened by the sound of musketry. Rejecting the pleas of his advisors to flee, he donned his ceremonial armor and took up his legendary spear, the ''[[Tonbokiri]]''. According to the ''[[Mitsukoji]]'', Shirakawa held the [[Bridge of Heaven]]—the roofed corridor connecting the inner palace to the keep—single-handedly for nearly an hour. The narrow corridor nullified the attackers' numbers, allowing the famed spearman to hold off wave after wave of insurgents. Historical records claim he slew over 30 men in the defense.
+
+Ii Naotaka, arriving at the burning inner courtyard, ordered his men to stand down and approached the bridge, pleading with Shirakawa to surrender and rescind the reforms. Shirakawa reportedly replied: "The wheel of time turns forward, Manchiyo. You cannot stop the sun from rising by shooting arrows at the sky. If you want the old world back, you must step over my corpse to get it."
+
+Unwilling to engage his former lord in single combat, Naotaka ordered a squad of ''ashigaru'' armed with Tanegashima arquebuses to form a line. At 02:00 AM, a volley of gunfire tore through the corridor. Shirakawa was struck by seven bullets. Legend states that he did not fall, but died standing, propped up by his spear, his eyes open and facing the traitors. The irony was palpable: the warlord who had championed the use of firearms at the Battle of Tone was ultimately killed by them.
+
+The castle burned to the ground by dawn. The Ii forces withdrew, leaving Shirakawa's body untouched as a sign of respect. When the Shogunate relief fleet finally arrived on the afternoon of June 10, they found only ruins. Emperor Shirakawa had been dead for nearly 90 hours.
+
+===The Honda Period (1625–1870)===
+[[File:Toyozawa Castle.png|250px|thumb|left|Toyozawa Castle, destroyed during the assassination of the Shirakawa Emperor, was rebuilt by the Honda Shogunate to serve as the secondary capital.]]
+
+The Kinzō Incident proved that having the Emperor located 500 km south of the Shogun's protection was a strategic impossibility. Following the [[Battle of Ichijoudani]] and the [[Great Reconciliation]], the Imperial Court was permanently relocated to a new, fortified compound inside Okami (the current [[Okami Imperial Palace]]), ending Toyozawa's status as a capital city.
+
+The third Shogun, [[Honda Shigetoki]], faced the question of what to do with the ruined castle. Rather than rebuilding the Main Keep, he designated the scorched Honmaru a sacred memorial to Emperor Shirakawa, forbidding any repair or cleaning of the granite foundation stones. This prohibition—maintained for over four centuries—created the striking "Blackened Memorial" that dominates the Toyozawa skyline to this day. The stones remain scorched a deep, permanent red-black, creating a stark silhouette visible from across the city.
+
+Shigetoki instead focused on reconstructing the lower baileys. In 1630, he commissioned the [[Iron Storehouse]] ({{nihongo|Tetsu-gura|鉄蔵}}), a windowless repository built using fireproof clay and iron plating to protect the Honda clan's genealogical records—a direct response to the destruction of the archives in the 1625 fire. The Ni-no-maru and San-no-maru were gradually rebuilt, and the administrative functions of the castle were restored. The castle served as the seat of the regional governor (''bugyō'') and as the collection point for rice taxes from the southern provinces, earning Toyozawa the nickname {{nihongo|"Nation's Kitchen"|天下の台所|tenka no daidokoro}}.
+
+In 1618, even before the Kinzō Incident, Shogun Honda Shigetomo had established the [[Okami Rice Exchange]], the world's first functioning derivatives market. Toyozawa became the primary collection and distribution center for rice from the southern provinces, and the city's merchants developed sophisticated financial instruments that made Toyozawa the commercial heart of the archipelago.
+
+The castle's religious significance also grew during the Honda period. The 11th Shogun, [[Honda Shigemura]], held secret negotiations with the [[Ii clan]] lords in the Tea House of the White Heron ({{nihongo|Shirasagi-tei|白鷺亭}}), continuing the political tradition of the Great Reconciliation. The Honda clan planted over 5,000 sakura trees in the 18th century to beautify the ruins, establishing the park's reputation as one of the premier cherry blossom viewing sites in Okaiken.
+
+===The Saito Era and Modern Period (1870–1945)===
+The [[Saito Restoration]] of 1871 ended the Honda Shogunate and transformed the political landscape. The castle's administrative functions were reorganized under the new administrative system, and the reconstructed Go-no-maru palace became the seat of the [[Toyozawa Metropolis]] government—a function it continues to serve to this day.
+
+The modern municipality of Toyozawa was established in 1889 by government ordinance. The city's rapid industrialization during the Saito and Go-Shōkō periods transformed the area around the castle. The former sea moats were gradually integrated into the city's canal system, and the land reclamation projects of the early 20th century began the process of connecting the once-isolated promontory to the urban fabric.
+
+During the [[Great Adonian War]], Toyozawa's industrial facilities made it a target for aerial bombardment. However, the castle grounds suffered relatively little damage compared to the surrounding industrial districts, allowing more of the authentic lower-bailey structures to survive than in many other Sanese castle sites.
+
+===Post-War Reconstruction (1952–Present)===
+The post-war period saw the most significant transformation of the castle grounds since the Kinzō Incident. In 1955, the [[Toyozawa Metropolis Act]] merged the city and metropolitan administrations, and the reconstructed Go-no-maru palace was formally designated as the seat of the Toyozawa Metropolitan Assembly and the Governor's Office.
+
+The reconstruction of the castle's lower baileys proceeded in stages throughout the late 20th century. The Drum Gate ({{nihongo|Taiko-mon|太鼓門}}) was reconstructed using concrete in 1960, though it underwent a complete restoration in 2015 to return it to traditional wood joinery. The Hall of 1,000 Cranes was reconstructed in 1998 using original blueprints, distinguished by its coffered ceiling painted with gold leaf. The Bridge of Heaven was faithfully reconstructed in the 19th century under [[Honda Yoshinobu]] and has been maintained since.
+
+The massive land reclamation projects of the 1970s and 1980s dramatically altered the castle's relationship with the sea. The [[Hotta-maru]], once a coastal fortress where ships could dock directly at the castle walls, was left stranded 2 kilometers inland by the expansion of the Minato Financial District. The former seabed was converted into a sunken urban park, and the massive Sea Gate (''Mizumon'') now opens onto a six-lane boulevard rather than the ocean.
+
+In 1943, the [[Toyozawa Metropolis Act]] had already unified the city's administration, and the 12 wards of the former Toyozawa City were redesignated as [[special wards of Toyozawa|special wards]]. The castle grounds, now formally designated as Shirakawa Memorial Park, became the cultural and ceremonial heart of the metropolis.
+
+Today, the castle attracts over 8 million visitors annually. During the [[Ichijoudani Festival|Red String Festival]] in June, the ruins of the Main Keep are illuminated with blue floodlights to simulate the "Night of Blue Fire"—a reference to the night the castle burned. Thousands of paper lanterns are floated in the sea moats, and visitors traditionally pause at the midpoint of the Bridge of Heaven to clap twice in prayer at the small plaque marking the spot of Emperor Shirakawa's last stand.
 
 ==Location and Urban Context==
-The castle sits on the '''Toyozawa Promontory''', a granite plateau that juts into the '''Sea of Mitoyagi'''. 
+The castle sits on the '''Toyozawa Promontory''', a granite plateau that juts into the '''Sea of Mitoyagi'''.
 
 In the 17th century, the castle was surrounded by water on three sides. However, modern land reclamation projects during the [[Sanese Economic Miracle]] have integrated the castle into the urban fabric. The former "Sea Moats" now function as the city's primary canal system, lined with skyscrapers, luxury hotels, and government offices. The contrast between the ancient stone walls and the modern glass skyline is considered the defining image of Toyozawa City.
 
@@ -47,7 +118,7 @@ Tucked into a corner of the gardens is the '''Tea House of the White Heron''' ({
 ====The Bridge of Heaven (Ama-no-Hashi)====
 Connecting the residential Yon-no-maru to the military San-no-maru is the castle's most famous feature, the {{nihongo|'''Ama-no-Hashi'''|天の橋|Bridge of Heaven}}. This roofed corridor (''kairō'') spans the "Dragon's Throat," a dry ravine 30 meters deep, supported by massive cypress pillars. The current structure is a faithful 19th-century reconstruction commissioned by [[Honda Yoshinobu]].
 
-The bridge is noted for its ''uguisubari'' (nightingale flooring), designed to chirp when trodden upon to warn of intruders. This feature serves as a grim reminder of the assassination of Emperor Shirakawa, which took place on the original bridge. Today, walking the length of the corridor is a popular activity for visitors, who traditionally pause at the midpoint to clap twice in prayer at the small plaque marking the spot of the Emperor's last stand.
+The bridge is noted for its ''uguisubari'' (nightingale flooring), designed to chirp when trodden upon to warn of intruders. This feature serves as a grim reminder of the assassination of Emperor Shirakawa, which took place on the original bridge. According to the ''[[Mitsukoji]]'', Shirakawa held this corridor single-handedly for nearly an hour against Ii Naotaka's forces before being killed by arquebus fire. Today, walking the length of the corridor is a popular activity for visitors, who traditionally pause at the midpoint to clap twice in prayer at the small plaque marking the spot of the Emperor's last stand.
 
 ===Hotta-maru (The Landlocked Fortress)===
 The '''Hotta-maru''' was originally a coastal fortress located at the tip of the promontory, designed to allow ships to dock directly at the castle. However, massive land reclamation projects in the 1970s and 1980s expanded Toyozawa City, leaving the fortress stranded 2 kilometers inland. It is now surrounded by the skyscrapers of the Minato Financial District, creating a surreal juxtaposition of feudal architecture and modern urban sprawl.
@@ -61,13 +132,18 @@ Toyozawa Castle is famous for its '''Water Defense System''' ({{nihongo|Mizuseme
 
 ==Current Usage and Tourism==
 Unlike many "museum castles," Toyozawa Castle is a functional part of the city.
-* '''Civic Function:''' The reconstructed '''Go-no-maru''' palace houses the '''Miyagi Prefectural Assembly''' and the Governor's Office, making it one of the few castles in Adonia to still house an active government.
+* '''Civic Function:''' The reconstructed '''Go-no-maru''' palace houses the '''Toyozawa Metropolitan Assembly''' and the Governor's Office, making it one of the few castles in Adonia to still house an active government.
 * '''Festivals:''' During the [[Ichijoudani Festival|Red String Festival]] in June, the ruins of the Main Keep are illuminated with blue floodlights to simulate the "Night of Blue Fire." Thousands of paper lanterns are floated in the sea moats.
 * '''Cherry Blossoms:''' The park contains over 5,000 sakura trees, planted by the [[Honda clan]] in the 18th century to beautify the ruins. It is ranked as one of the "Top 3 Sakura Spots" in Okaiken.
 
 ==See also==
 * [[Kinzō Incident]]
 * [[Honda Shigetada]]
+* [[Honda Shigetomo]]
+* [[Honda Shigetoki]]
+* [[Ii Naotaka]]
+* [[Battle of Ichijoudani]]
+* [[Shirakawa Memorial Park]]
 * [[Tourism in Okaiken]]
 
 {{Okaiken topics}}

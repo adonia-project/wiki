@@ -1,4 +1,4 @@
-﻿{{Infobox military conflict
+{{Infobox military conflict
 | conflict = Quiet Revolution
 | image = [[File:Quiet Revolution Mosaic.png|300px]]
 | caption = Clockwise, from top: An overturned truck in front of the Sanese Diet, protesters outside the Sanese Diet, protesters blocking Sumida Avenue, Yoshimizu Ohno standing on top of a tank.
@@ -20,97 +20,149 @@
 | commander2 = {{flagicon|Okaiken|1968}} [[Yoshimizu Ohno]]<br>{{flagicon|Okaiken|1968}} [[Yasuhiro Nakasone]]<br>{{flagicon|Okaiken|1968}} Gen. Ryohei Morita (Defector)
 }}
 
-The {{nihongo|'''Quiet Revolution'''|静かな公転|Shizukana Kōten}}, also known as the '''Red Revolution''', was a ten-month period of escalating civil unrest, mass protests, and political upheaval in [[Okaiken]] that began in October 1967 and culminated in the collapse of the [[Mitoyagi Empire]] on August 12, 1968.
+The {{nihongo|'''Quiet Revolution'''|静かな公転|Shizukana Kōten}}, also known as the {{nihongo|'''Red Revolution'''|赤い革命|Akai Kakumei}}, was a ten-month period of escalating civil unrest, mass protests, and political upheaval in [[Okaiken]] that began in October 1967 and culminated in the collapse of the [[Mitoyagi Empire]] on August 12, 1968. The revolution began as a series of protests against the authoritarian-leaning government of [[Okaiken Socialist Party|Socialist]] Prime Minister [[Genzui Kusaka]], which had come to power in 1966 amid allegations of vote-rigging. The protests, which grew from student and labor movements, transformed into a "People Power"–style popular uprising following a second fraudulent election in June 1968.
 
-The revolution began as a series of protests against the authoritarian-leaning government of [[Socialist Party (Okaiken)|Socialist]] Prime Minister [[Genzui Kusaka]], which had come to power in 1966 amid allegations of vote-rigging. The protests, which grew from student and labor movements, transformed into a "People Power"–style popular uprising following a second fraudulent election in June 1968.
-
-This period of sustained civil resistance, which included a critical military defection, led to the ousting of Prime Minister Kusaka, the formation of the unified [[Republican Party (Okaiken)|Republican Party]], and the intervention of [[Emperor Wakayama]]. It directly resulted in the drafting of a new constitution and the proclamation of the Federal Republic of Okaiken on January 1, 1970.
+This period of sustained civil resistance, which included a critical military defection and the unprecedented intervention of [[Emperor Wakayama]], led to the ousting of Prime Minister Kusaka, the formation of the unified [[Republican Party (Okaiken)|Republican Party]], and the drafting of a new constitution. It directly resulted in the dissolution of the Mitoyagi Empire and the proclamation of the Federal Republic of Okaiken on January 1, 1970—an event known as the {{nihongo|'''Great Transformation'''|大転換|Dai-Tenkan}}. The Republican experiment lasted forty-one years, until the [[Jutsu Restoration]] of 2011 restored the monarchy through democratic referendum.
 
 ==Background==
 
-===Economic and Political Crisis===
-The mid-1960s were a time of economic turmoil for Okaiken. The partition of neighboring [[Kwangju]] into three nations disrupted regional trade, and the [[Sanese En]] was hit by high inflation. This volatile combination led to the [[Okami Stock Exchange]] crashing on October 15, 1967, wiping out fortunes and enraging the public.
+===The Structural Failure of the Saito Constitution===
 
-This economic anxiety was layered on top of a political crisis. The [[Okaiken general election, 1966|1966 general election]] was a "decisively close" victory for [[Genzui Kusaka]]'s [[Okaiken Socialist Party|Socialist Party]] over the [[Liberal Party (Okaiken)|Liberal Party]] led by [[Yoshimizu Ohno]]. The Liberals immediately cried foul, citing widespread "vote-rigging" and refusing to recognize the legitimacy of the Kusaka government. Led by Ohno, the Liberal Party and its allies boycotted the Diet, grinding the government to a halt.
+[[File:Saito Constitution document.png|thumb|left|250px|The original text of the [[Saito Constitution]], which concentrated all sovereign power in the Emperor.]]
 
-===Kusaka's "Anti-Parliament" Bill===
-Instead of seeking compromise, Prime Minister Kusaka's government responded with a series of authoritarian measures. In late 1967, the Socialists, using their slim, disputed majority, began drafting a bill to fundamentally restructure the Sanese state.
+The roots of the Quiet Revolution lay in the constitutional architecture of the [[Mitoyagi Empire]] itself. The [[Saito Constitution]] of 1870, drafted during the [[Saito Era (Okaiken)|Saito Restoration]], had created a state where the Emperor was the divine, unaccountable source of all sovereign power. This design was not merely symbolic—it was structural. Every act of government derived its legitimacy from the Imperial seal; every law, every treaty, every military order required the Emperor's formal approval. The system functioned so long as the Emperor remained a passive figurehead, rubber-stamping the decisions of elected ministers and professional bureaucrats. But the same architecture that made the Emperor a convenient source of legitimacy also made him a weapon for anyone who could command his name.
 
-The proposed legislation included cutting government agencies, re-militarizing Okaiken, and, most controversially, a provision to abolish the elected parliament entirely. It was to be replaced with a "non-voting system where a select committee can select nominees from other parties."
+The [[Rise of Statism and the Dark Valley|military takeover of the 1930s]] had demonstrated this vulnerability. The Imperial General Staff, operating independently of civilian oversight, had invoked the Emperor's supreme authority to justify the invasion of the Shendan and the prosecution of the [[Great Adonian War]]. The post-war [[Armistice of Okami]] and the establishment of the [[Okaiken Self-Defense Forces|OSDF]] under civilian control had addressed the military dimension of this problem, but they had not addressed the constitutional dimension. The Emperor remained the supreme source of power. The question was not whether that power would be abused again, but when—and by whom.
 
-This proposal was viewed by the public and the opposition as a blatant attempt to establish a one-party dictatorship. The bill's introduction was the primary trigger for the revolution.
+===The Economic Collapse===
+
+[[File:Okami Stock Exchange Black Monday 1967.png|thumb|right|300px|Traders on the floor of the [[Okami Stock Exchange]] on {{nihongo|"Black Monday"|ブラック・マンデー|Burakku Mandē}}, October 15, 1967.]]
+
+The mid-1960s were a time of economic turmoil for Okaiken. The [[Darasian-Zong Trade War]]—a bitter economic conflict between the [[Socialist Republic of Daras]] and the [[Kingdom of Zong]] over Shendan shipping rights and access to the Kwangju industrial corridor—severed the sea lanes that carried Kwangju steel, shipbuilding output, and manufactured goods to Okaiken and the broader Fosian market. Darasian tariffs and port closures triggered a spike in resource prices and a collapse in Shendan maritime trade. Simultaneously, the [[Sanese En]] suffered from rapid inflation, drastically increasing the cost of living.
+
+This volatile economic mix caused the [[Okami Stock Exchange]] to crash on October 15, 1967, an event known as {{nihongo|"Black Monday"|ブラック・マンデー|Burakku Mandē}}. The crash wiped out the savings of the middle class and destroyed the economic credibility of the ruling [[Okaiken Democratic Party|Democratic Party]] administration of [[Yoshimizu Ohno]], whose moderate economic policies had failed to curb inflation.
+
+===The 1966 Election and the Rise of Kusaka===
+
+[[File:Genzui Kusaka 1966.png|thumb|left|250px|[[Genzui Kusaka]], leader of the [[Okaiken Socialist Party]], addressing supporters after the disputed 1966 election.]]
+
+The political crisis had been building since the [[Okaiken general election, 1966|1966 general election]], when [[Genzui Kusaka]]'s [[Okaiken Socialist Party]] (OSP) won a shock victory over Ohno's Democrats amid allegations of widespread voter fraud in rural prefectures. Kusaka was a firebrand from the "Statist" wing of the OSP—a faction that argued Western-style liberal democracy was a "sham" designed to protect the bourgeoisie and that true equality could only be achieved through a strong, centralized state enforcing the will of the masses. Born into rural poverty in [[Iwate Prefecture]] in 1911, Kusaka had been radicalized by the tenant farming system and the Great Adonian War, where he served as a logistics officer and became disillusioned with the military government. He became leader of the OSP in 1960, capitalizing on growing economic inequality and public exhaustion with the corruption scandals of the ruling Democratic and Progressive parties.
+
+Kusaka ran a populist campaign on the slogan {{nihongo|"Smash the Corrupt, Save the Nation"|腐敗を砕き、国を救え|Fuhai o Kudaki, Kuni o Sukue}}. The OSP won a surprise plurality, and Kusaka formed a minority government. The Liberals immediately cried foul, citing widespread "vote-rigging" and refusing to recognize the legitimacy of the Kusaka government. Led by Ohno, the Liberal Party and its allies boycotted the Diet, grinding the government to a halt.
+
+===The "Statist" Reforms and the Anti-Parliament Bill===
+
+Instead of seeking compromise, Kusaka's government responded with a series of authoritarian measures. His administration bypassed the usual bureaucratic channels, issuing "Cabinet Directives" to nationalize the energy and rail sectors. He established "Worker Councils" to oversee factory production, which led to a sharp drop in productivity and a flight of foreign capital. By late 1967, inflation was rising, and the opposition parties blocked his budget in the [[House of Officers]].
+
+In late 1967, the Socialists, using their slim, disputed majority, began drafting the most radical legislation in Mitoyagi's modern history. The {{nihongo|"Governance Reform Act"|統治改革法案|Tōchi Kaikaku Hōan}}—commonly known as the {{nihongo|"Anti-Parliament Bill"|反議会法案|Han-gikai Hōan}}—proposed abolishing the elected parliament entirely. It was to be replaced with a "non-voting system where a select committee can select nominees from other parties." A companion bill sought to establish a "People's Guard" independent of the existing Self-Defense Forces—a parallel military loyal to the Socialist Party rather than the state.
+
+Kusaka argued these measures were necessary to "bypass the obstructionist elites." His opponents, led by Ohno and the young [[Honda Tadashige]], denounced the bills as a coup d'état and a violation of the 1870 Saito Constitution. The proposal was viewed by the public and the opposition as a blatant attempt to establish a one-party dictatorship. The bill's introduction was the primary trigger for the revolution.
 
 ==The Revolution==
 
 ===Phase 1: The Diet Blockade (Oct 1967 – May 1968)===
-The "Anti-Parliament Bill" and the stock market crash on October 15, 1967, acted as dual catalysts. A massive, broad-based protest movement emerged, led by university students, labor unions (like the powerful ''Sanese General Workers' Union''), and opposition politicians.
 
-For months, they blockaded the [[Diet of Okaiken]] building in [[Okami]]. Protesters, many wearing the red ribbons that gave the revolution its nickname, clashed repeatedly with the [[Okami Metropolitan Police Department|Okami Metropolitan Police]], who used tear gas and batons to clear the streets. The regime's "regime violence" against the peaceful student protesters was broadcast nightly on [[KTK]] and only served to increase public support for the opposition.
+[[File:Quiet Revolution Diet Blockade 1967.png|thumb|right|300px|Protesters blockading the [[Diet of Okaiken]] building in October 1967, wearing the signature {{nihongo|red ribbons|赤いリボン|Akai Ribon}}.]]
+
+The "Anti-Parliament Bill" and the stock market crash on October 15, 1967, acted as dual catalysts. A massive, broad-based protest movement emerged, led by university students, labor unions, and opposition politicians. For months, they blockaded the [[Diet of Okaiken]] building in [[Okami]]. Protesters, many wearing the {{nihongo|red ribbons|赤いリボン|Akai Ribon}} that gave the revolution its nickname, clashed repeatedly with the [[Okami Metropolitan Police Department|Okami Metropolitan Police]], who used tear gas and batons to clear the streets. The regime's violence against the peaceful student protesters was broadcast nightly on [[KTK]] and only served to increase public support for the opposition.
+
+===The Movements===
+
+The revolution was not a single event but a coalition of movements, each with its own grievances and its own vision for Okaiken's future.
+
+The earliest and most visible were the university students. Campus protests had been simmering since the early 1960s, driven by opposition to the Echian security presence, the Darasian-Zong trade war, and the growing authoritarianism of the Kusaka government. Student organizations like the {{nihongo|All-Campus Joint Struggle Committee|全学共闘会議|Zengaku Kyōtō Kaigi}} occupied university buildings, organized teach-ins, and produced the hand-printed broadsheets that became the revolution's information network when the state-controlled media refused to cover the protests.
+
+The labor unions, initially divided, became the revolution's decisive force. The powerful {{nihongo|Sanese General Workers' Union|全国労働組合|Zenkoku Rōdō Kumiai}}—which Kusaka had counted on for support—turned against him when the Governance Reform Act made clear that the "People's Select Committee" would replace elected union representatives with party appointees. The union leadership recognized that a state which abolished parliament would not hesitate to abolish independent labor. On May 1, 1968, the SGWU called a general strike to protect the constitution, bringing the nation's rail network, ports, and factories to a halt. The strike was not a political action in the traditional sense—it was a constitutional defense, a refusal to allow the government to unmake the legal framework that guaranteed workers' right to organize.
+
+[[File:Quiet Revolution Red Ribbons.png|thumb|left|250px|Sanese citizens wearing {{nihongo|red ribbons|赤いリボン|Akai Ribon}} during the mass protests in Okami, June 1968.]]
+
+The visual symbol of the revolution was the red ribbon, worn by protesters as a silent, non-violent declaration of opposition. The ribbon's origins are disputed—some accounts trace it to a student who tied a strip of red cloth around her wrist during the October 1967 Diet blockade; others credit a labor organizer who distributed red ribbons at a factory gate. Whatever its origin, the ribbon became the revolution's signature. Millions of Sanese citizens—students, workers, housewives, shopkeepers—wore red ribbons as they flooded the streets of Okami, Aizawa, and Toyozawa in silent, non-violent protest. The contrast between the silence of the protesters and the violence of the police response—batons, tear gas, and water cannons—became the revolution's moral argument.
+
+The revolution's information infrastructure was anchored by {{nihongo|''Radio Jiyū''|ラジオ自由|Rajio Jiyū|Radio Freedom}}, a pirate radio station operated by a network of student engineers and opposition journalists. Broadcasting from a mobile transmitter that moved between safe houses in Okami's working-class districts, Radio Jiyū provided real-time updates on protest locations, police movements, and OSDF defections—information that the state-controlled broadcasting network refused to air. The station's signature sign-on—"This is Radio Freedom, broadcasting from somewhere in Okami"—became one of the revolution's most iconic phrases.
 
 ===Phase 2: The Stolen Election (June 1968)===
-By the spring of 1968, the country was ungovernable. In an attempt to break the stalemate, [[Emperor Wakayama]] took the unusual step on May 12, 1968, of dissolving the deadlocked Diet and calling for a new snap election, scheduled for June 4.
 
-The opposition parties, including Ohno's Liberals, agreed to participate, hoping to oust the Socialists at the ballot box. The election was held under a cloud of intimidation and military presence. On June 5, the results were announced: the Socialist Party had won again, by a "narrow victory" that the public immediately decried as fraudulent.
+By the spring of 1968, the country was ungovernable. In an attempt to break the stalemate, [[Emperor Wakayama]] took the unusual step on May 12, 1968, of dissolving the deadlocked Diet and calling for a new snap election, scheduled for June 4. The Emperor's decision was constitutionally ambiguous—the Saito Constitution granted the Emperor supreme authority, but this authority had not been exercised to override a sitting government in modern times. Kusaka, who had been counting on Imperial acquiescence, was blindsided.
 
-This "stolen election" was the revolution's final breaking point, where a fraudulent snap election served as the catalyst for a mass uprising.
+The opposition parties, including Ohno's Liberals, agreed to participate, hoping to oust the Socialists at the ballot box. The election was held under a cloud of intimidation and military presence. On June 5, the results were announced: the Socialist Party had won again, by a "narrow victory" that the public immediately decried as fraudulent. This "stolen election" was the revolution's final breaking point, where a fraudulent snap election served as the catalyst for a mass uprising.
 
 ===Phase 3: People Power (June 1968)===
+
+[[File:Quiet Revolution Sumida Avenue.png|thumb|right|300px|The human barricade on [[Sumida Avenue]], June 1968. Hundreds of thousands of civilians blocked loyalist tanks from reaching Camp Shiroyama.]]
+
 Within hours of the election results, millions of Sanese civilians, wearing red ribbons, poured onto the streets of Okami, demanding Kusaka's immediate resignation. The protests of 1967 paled in comparison to the massive, non-violent uprising now underway.
 
 The critical event occurred on June 6, 1968. General Ryohei Morita, the respected commander of the Okami Capital Defense Force, announced that he would not "fire upon the Sanese people" on behalf of a fraudulent government. He, along with his entire division, defected and fortified Camp Shiroyama, the main military base in the capital. Opposition leaders [[Yoshimizu Ohno]] and [[Yasuhiro Nakasone]] immediately went to the camp, appearing on the gates with General Morita in a public show of defiance.
 
 Enraged, Prime Minister Kusaka declared the general and politicians traitors. He ordered loyalist OSDF units, including the [[Imperial Household Agency|Imperial Guard]], to advance on Camp Shiroyama and crush the "mutiny."
 
-What happened next was the defining moment of the revolution. Responding to broadcasts from a pirate radio station, ''Radio Jiyū'' (Radio Freedom), hundreds of thousands of civilians—men, women, and children—flooded Sumida Avenue, the main boulevard to the camp. They formed a human barricade, blocking the path of the loyalist tanks and armored personnel carriers.
-
-For three days, the standoff continued. Protesters offered food and red flowers to the loyalist soldiers, begging them not to shoot their own people. This "civilian shield," protecting the defecting soldiers, brought the nation to a standstill.
+What happened next was the defining moment of the revolution. Responding to broadcasts from Radio Jiyū, hundreds of thousands of civilians—men, women, and children—flooded Sumida Avenue, the main boulevard to the camp. They formed a human barricade, blocking the path of the loyalist tanks and armored personnel carriers. For three days, the standoff continued. Protesters offered food and red flowers to the loyalist soldiers, begging them not to shoot their own people. This "civilian shield," protecting the defecting soldiers, brought the nation to a standstill.
 
 ===Phase 4: The Emperor's Intervention and Collapse (August 1968)===
+
+[[File:Emperor Wakayama Broadcast 1968.png|thumb|left|250px|[[Emperor Wakayama]] delivering his unprecedented live broadcast on June 12, 1968, calling for peace and respect for the will of the people.]]
+
 The stalemate was broken by the Emperor himself. On June 12, Emperor Wakayama, seeing that Kusaka was willing to plunge the nation into civil war, made an unprecedented live broadcast to the nation. He did not explicitly take sides, but instead invoked his "sincere desire for peace" and called for an end to all violence, stating that the "will of the people must be respected."
 
-This broadcast, an incredibly powerful and rare "Sanese" solution, destroyed Kusaka's remaining authority. The loyalist tank commanders, unwilling to defy the Emperor, stopped their engines. Kusaka's government had lost the military and the people.
+This broadcast, an incredibly powerful and rare invocation of the Imperial prerogative, destroyed Kusaka's remaining authority. The loyalist tank commanders, unwilling to defy the Emperor, stopped their engines. Kusaka's government had lost the military and the people. The Emperor's intervention was the revolution's decisive act—but it also exposed the paradox at its heart: the same supreme, unelected authority that had saved the democracy could, in other hands, have destroyed it.
 
-The political maneuvering was swift. The three other major opposition parties, seeing their unity, formally merged to create the '''[[Republican Party (Okaiken)|Republican Party]]''' and elected [[Yoshimizu Ohno]] as their leader. This merger meant the opposition now held a clear, "legitimate" majority of seats from the (disputed) June 4 election.
-
-On August 12, 1968, the Republican-controlled Diet formally unseated the Socialist Party, removing Kusaka from power.
+The political maneuvering was swift. The three other major opposition parties, seeing their unity, formally merged to create the '''[[Republican Party (Okaiken)|Republican Party]]''' and elected [[Yoshimizu Ohno]] as their leader. This merger meant the opposition now held a clear, "legitimate" majority of seats from the disputed June 4 election. On August 12, 1968, the Republican-controlled Diet formally unseated the Socialist Party, removing Kusaka from power. Facing a paralyzed nation and a loss of confidence from the police and security forces, Kusaka was placed under house arrest. The OSP was subsequently banned by the Diet for "attempting to subvert the democratic order"—a ban that would last for twenty years.
 
 ==Aftermath==
 
-The Quiet Revolution permanently broke the old political order and set Okaiken on a new, irreversible path. The immediate political fallout was the formal removal of [[Genzui Kusaka]] from power and the dissolution and banning of the [[Okaiken Socialist Party]] for its "authoritarian actions." This ban would last for twenty years, effectively removing the hard-line statist left from the political landscape.
+===The "Imperial Question"===
 
-[[Yoshimizu Ohno]], as the consensus leader of the newly-formed [[Republican Party (Okaiken)|Republican Party]], was installed as the head of a transitional "national unity" government on August 12, 1968. His primary mandate was to stabilize the nation and draft a new constitution.
+The most complex issue facing the new government was the "Imperial Question." [[Emperor Wakayama]]'s broadcast on June 12 had been the decisive act that prevented civil war, earning him immense gratitude from the public. However, his intervention also exposed the profound, undemocratic power the Emperor still held under the Saito Constitution. The same authority that had stopped the tanks could have ordered them to fire.
 
-===The "Imperial Question" and the Great Transformation===
-The most complex issue facing the new government was the "Imperial Question." [[Emperor Wakayama]]'s broadcast on June 12 had been the decisive act that prevented civil war, earning him immense gratitude from the public. However, his intervention also exposed the profound, undemocratic power the Emperor still held under the Saito Constitution.
+A great national debate began. Republicans, led by Ohno and a rising [[Yasuhiro Nakasone]], argued that any supreme, unelected authority—even a benevolent one—was incompatible with a true republic. They pointed out that the Emperor's power to stop the tanks was the same power that could have ordered them to fire. The Imperial system, they argued, had been the root cause of both the fascist military takeover in the 1930s and Kusaka's socialist authoritarianism in the 1960s. The same constitutional architecture—the Emperor as the divine, unaccountable source of all power—had enabled two diametrically opposed authoritarian movements to claim Imperial sanction. The solution was not to find a better Emperor, but to remove the throne from the structure of power entirely.
 
-A great national debate began. Republicans, led by Ohno and a rising [[Yasuhiro Nakasone]], argued that any supreme, unelected authority—even a benevolent one—was incompatible with a true republic. They pointed out that the Emperor's power to stop the tanks was the same power that could have ordered them to fire. Traditionalists and conservative hardliners were horrified, viewing any move against the Emperor as an ungrateful betrayal of the man who had saved the nation.
+Traditionalists and conservative hardliners were horrified, viewing any move against the Emperor as an ungrateful betrayal of the man who had saved the nation. The debate threatened to split the fragile coalition and plunge the country into a "second revolution" between Republicans and Monarchists.
 
-The crisis was resolved by Emperor Wakayama himself. In a series of private meetings with Ohno in late 1968, the Emperor "volunteered" to abdicate his political authority and support the transition to a federal republic. He stated that the Imperial role must evolve from a position of power to a "symbol of the people's unity and cultural heritage."
+The crisis was resolved by Emperor Wakayama himself. In a series of private meetings with Ohno in late 1968, the Emperor "volunteered" to abdicate his political authority and support the transition to a federal republic. He stated that the Imperial role must evolve from a position of power to a "symbol of the people's unity and cultural heritage." This decision, which stunned the nation, was a masterstroke. While it deeply saddened traditionalists, it completely defused the conflict, preventing a second revolution.
 
-This decision, which stunned the nation, was a masterstroke. While it deeply saddened traditionalists, it completely defused the conflict, preventing a "second revolution" between the Republicans and Monarchists. This began the period known as the [[Great Transformation]], a peaceful, top-to-bottom restructuring of the Sanese state.
+===The Great Transformation===
 
-===The New Constitution and Federal Republic===
-With the Emperor's blessing, Ohno's government drafted the 1969 Constitution. This new document, designed to prevent a future "Kusaka," was revolutionary:
+[[File:Federal Republic of Okaiken Proclamation 1970.png|thumb|right|300px|The proclamation of the Federal Republic of Okaiken on January 1, 1970, marking the formal end of the [[Mitoyagi Empire]].]]
 
-It formally stripped the Emperor of all political power and "divine" status, redefining him in Article 1 as the "symbol of the State and the unity of the People."
+With the Emperor's blessing, Ohno's government pursued what he called the {{nihongo|'''Great Transformation'''|大転換|Dai-Tenkan}}—a complete separation of the Emperor from the state, implemented through three sweeping acts:
 
-It seized the vast, tax-exempt assets of the Imperial Household. Palaces, including the [[Shiroyama Teikoku Palace]], were turned into public parks, and their assets were used to help pay for the economic damage caused during the recession.
+* '''The Imperial Assets Act:''' The government seized the vast landholdings and financial assets of the Imperial Household—including the [[Shiroyama Teikoku Palace]], which was converted into a public park—to pay off national debts and fund reconstruction. The seizure was economically necessary (the war and the recession had left the state functionally insolvent) and symbolically devastating (it stripped the Imperial institution of the material basis of its power).
+* '''The 1970 Constitution:''' Ohno oversaw the drafting of a new constitution, which redefined the Emperor as a "symbol of the State" with no political power, enshrined pacifism and human rights as the core values of the nation, and established the Diet as the sole source of sovereign authority. The constitution was designed to prevent a future "Kusaka"—it introduced robust checks on executive power, guaranteed fundamental human rights, and explicitly prohibited the maintenance of military forces for offensive purposes.
+* '''The Renaming:''' On July 12, 1971, following a series of national referendums, the nation was officially renamed from "Mitoyagi" to "Okaiken"—the first name the Sanese people had ever chosen for themselves, replacing the Illypnian cartographer's exonym that had been adopted by the Saito government for international legibility.
 
-It enshrined new business regulations and expanded suffrage, firmly establishing the [[Diet of Okaiken]] as the sole source of power in the nation.
+On January 1, 1970, the [[Mitoyagi Empire]] was formally dissolved, and the '''Federal Republic of Okaiken''' was declared. [[Yoshimizu Ohno]] served as its first Federal Prime Minister, overseeing the complex legal and social transition.
 
-On January 1, 1970, the [[Mitoyagi Empire]] was formally dissolved, and the '''Federal Republic of Okaiken''' was declared. [[Yoshimizu Ohno]] served as its first Federal Prime Minister, overseeing the complex legal and social transition. The country's name was officially changed from "Mitoyagi" to "Okaiken" in July 1971 after a series of referendums.
+The Republic expressed its new identity through architecture. The {{nihongo|Metabolism|メタボリズム|Metaborizumu}} movement, which had emerged during the planning for the 1960 Okami World Design Conference, became the official aesthetic of the Great Transformation. Metabolism proposed that cities should be living organisms—modular, expandable, capable of growth and renewal—its architects designed megastructures of interlocking concrete capsules, elevated highways, and plug-in housing units that could be replaced as needs changed. The movement's emphasis on adaptability and technological optimism resonated with the Republican government's narrative of a nation rebuilding itself from the ground up. But the material that defined the era was concrete—raw, unadorned, brutalist concrete. The {{nihongo|"Concrete State"|土建国家|Doken Kokka}}, as critics named it, poured billions of yen into public works: expressways, dams, civic centers, and housing blocks, all rendered in the same gray monotone. Where the Imperial era had expressed the [[Cult of Iron]] through military power, the Republic expressed it through infrastructure.
 
-The revolution also solidified a new political landscape. The [[Republican Party (Okaiken)|Republican Party]] became the dominant political force, effectively absorbing the old Liberal and Democratic parties. In 1973, Ohno stepped down, and his successor, [[Yasuhiro Nakasone]], led the RPO to a landslide victory in the new republic's first full elections, cementing the new order.
+===Political Realignment===
+
+The revolution also solidified a new political landscape. The [[Republican Party (Okaiken)|Republican Party]] became the dominant political force, effectively absorbing the old Liberal and Democratic parties. The reforms were successful but deeply polarizing. Ohno faced immense backlash from traditionalists and monarchists for his "disrespect" toward the Imperial Family. Feeling that his work was done and that the new Republic needed a fresh leader to heal the divide, Ohno resigned on July 19, 1970, handing power to his younger protégé, [[Yasuhiro Nakasone]].
+
+In 1973, Nakasone led the RPO to a landslide victory in the new republic's first full elections, cementing the new order. The broad coalition of the Republican Party, having served its purpose of ending the Socialist threat, dissolved due to internal ideological differences. In 1977, two new dominant forces emerged from its ashes: the conservative [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party]] (LDP), led by Nakasone, and the leftist [[Progressive Party of Okaiken]] (PPO).
+
+==The Reversal: The Jutsu Restoration of 2011==
+
+[[File:Jutsu Restoration 2011 Referendum.png|thumb|left|250px|Voters lining up during the 2011 referendums that reinstated the Emperor and restored the name Okami.]]
+
+The Republican experiment lasted forty-one years. Its end came not through revolution but through referendum—a peaceful, democratic reversal that the Ohno constitution itself made possible. The [[Jutsu Restoration]] of 2010–2016 was driven by a nationalist backlash against the "Lost Decades" and the perceived failures of Western-style liberalism. At its core, the Restoration was an attempt to reclaim the Sanese self-image—the conviction that Okaiken was not a subordinate power dependent on Echian security guarantees and [[Adonian Community|AC]] obligations, but a sovereign nation that defined itself on its own terms.
+
+The {{nihongo|Chūgokujin|中国人|"Middle Country Person"}} label—used by [[Nakamizu]] and [[Yanbaru]] to reduce Okaiken to a geographic position—had become, in the nationalist narrative, a metaphor for everything imposed on the Sanese from outside: [[Constitutional Article 9 (Okaiken)|Article 9]], the Echian bases, the AC obligations. For the Cult of Iron faithful, Article 9 was not a safeguard—it was a shackle, the constitutional expression of the Chūgokujin condition: a nation defined by its constraints rather than its capabilities. The restoration of the Emperor and the reinterpretation of Article 9 were two sides of the same coin: the reclaiming of Sanese sovereignty and the rejection of the Chūgokujin designation.
+
+In 2011, under the newly elected Prime Minister [[Tadahisa Jōhei]], two key referendums were passed. The first reverted the capital city's name back to "Okami" from its post-1968 republican designation. The second reinstated the [[Emperor of Okaiken]] as a constitutional monarch, reversing the abolition of the Imperial house in 1970. With public support for a return to tradition, [[Emperor Masahito]], who had been living as a private citizen since the Quiet Revolution, was reinstated to the Chrysanthemum Throne. The Monarchy Act amended Article 1 of the 1970 Constitution to recognize the Emperor as the {{nihongo|"Head of State"|元首|Genshu}}, though the Emperor remains politically neutral and bound by the advice of the Cabinet.
+
+The Jutsu Restoration reversed nearly every Republican-era change—but notably did not reverse the name. "Okaiken" had accumulated forty years of international recognition, legal precedent, and popular identity. More fundamentally, it was the first name the Sanese had ever chosen for themselves. The Jutsu Restoration could restore an Emperor, but it could not un-name a people. To revert to "Mitoyagi" would have been to surrender the act of self-naming and return to an exonym—a foreigner's word for who you are. The hill, the well, the jurisdiction. Theirs.
 
 ==Legacy==
-The Quiet Revolution is considered the most important event in modern Okaiken history, in which a "People Power" movement, backed by a timely military defection and the intervention of the Emperor, successfully overthrew an authoritarian government without descending into a full-scale civil war.
+
+The Quiet Revolution is considered the most important event in modern Okaiken history, in which a "People Power" movement, backed by a timely military defection and the intervention of the Emperor, successfully overthrew an authoritarian government without descending into a full-scale civil war. Its legacy is defined by three enduring tensions:
+
+* '''The constitutional paradox:''' The revolution demonstrated that the Saito Constitution's concentration of power in the Emperor could be used both to enable and to prevent authoritarianism. Emperor Wakayama's intervention saved the democracy, but the same authority could have destroyed it. The 1970 Constitution resolved this by removing the Emperor from power—but the 2011 Jutsu Restoration demonstrated that the desire for Imperial symbolism never fully disappeared.
+* '''The name that endured:''' "Okaiken" was the revolution's most lasting creation—the first name the Sanese people chose for themselves. It survived the Restoration, the Article 9 debates, and every subsequent political upheaval, because it represented something no dynasty or ideology could claim: the act of self-naming.
+* '''The unfinished revolution:''' The revolution's core question—how to prevent the concentration of power without creating a vacuum that invites authoritarianism—remains unresolved. The OSP's ban lasted twenty years; the party eventually reformed. The Article 9 pacifism that the revolution's aftermath produced was itself reversed in 2014. The Ikazaki premiership of 2026, with its {{nihongo|"Fortress State"|要塞国家|Yōsai Kokka}} philosophy, explicitly challenged the technocratic state that the Republican era built. Whether the revolution's principles endure or whether Okaiken continues to oscillate between Imperial restoration and Republican dissolution remains the defining question of the nation's present.
 
 {{Okaiken topics}}
 [[Category:Okaiken]]
 [[Category:Revolutions]]
 [[Category:1968 in Okaiken]]
 [[Category:History of Okaiken]]
-
-[[Category:Okaiken]]
 [[Category:Okaiken topics]]
-[[Category:Okaiken]]

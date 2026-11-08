@@ -1,11 +1,12 @@
-﻿{{Short description|Capital of Okaiken}}
+{{Short description|Capital of Okaiken}}
+{{about|the capital of Okaiken|the city in Shiogami Prefecture|Okami, Shiogami Prefecture}}
 
 {{Infobox settlement
 | name                    = Okami
 | native_name             = 大紙
 | native_name_lang        = ja-Hani
 | settlement_type         = Metropolis
-| official_name           = {{longitem|style=font-size:105%;|Okami Metropolis}}
+| official_name           = Okami Metropolis
 | image_skyline           = {{multiple image
   | border      = infobox
   | total_width = 300
@@ -41,13 +42,18 @@
 | nickname                = ''Sky City'', ''The Blue City'', ''The City of Harmony''
 | coordinates             = {{coord|16|44|27|S|158|14|26|E|region:OK-01_type:city|display=inline,title}}
 | anthem                  =
-| image_map               = Location of Okami in Okaiken.svg
-| map_alt                 = Location of Okami in Okaiken
-| map_caption             = Location of Okami in Okaiken
-| pushpin_map             = 
-| pushpin_label_position  =
-| pushpin_map_alt         =
-| pushpin_map_caption     = 
+| pushpin_map = Okaiken
+| pushpin_label_position = 
+| pushpin_map_alt = 
+| pushpin_map_caption = Location in Okaiken
+| latd = 16
+| latm = 44
+| lats = 27
+| latNS = S
+| longd = 158
+| longm = 14
+| longs = 26
+| longEW = E
 
 | subdivision_type        = Country
 | subdivision_name        = {{flag|Okaiken}}
@@ -56,7 +62,7 @@
 | subdivision_name1       = [[Harujima]]
 
 | subdivision_type2       = Region
-| subdivision_name2       = [[Tokami Region|Tokami]]
+| subdivision_name2       = [[Tokami region|Tokami]]
 
 | established_title       =
 | established_date        =
@@ -68,26 +74,26 @@
 | leader_name                  = [[Aono Michifumi]] ([[wikipedia:Independent (politician)|I]])
 
  | leader_title1 = [[List of prefectural capitals in Okaiken|Capital]]
- | leader_name1 = [[Special wards of Okami|Okami]]<ref>[http://www.chijihon.metro.tokyo.jp/sonota/syozaiti.htm 都庁の所在地] Chiyoda is the location of the Okami Metropolitan Government Office. But Okami is not a "municipality".Therefore, for the sake of convenience, the notation of prefectural is "Okami".</ref>
+ | leader_name1 = [[Special wards of Okami|Okami]]<ref>Chiyoda Ward is the seat of the Okami Metropolitan Government Office. As Okami is not itself a municipality, the prefectural capital is listed as "Okami" for convenience.</ref>
 
-| unit_pref               = Metric| area_total_km2         = 1985.23
+| unit_pref               = Metric| area_total_km2         = 1292.27
 | area_land_km2          =
 | area_water_km2         =
 | area_water_percent     = 1.0
-| area_metro_km2         = 10336
+| area_metro_km2         = 9099.78
 | area_rank              = 42nd
 
 | population_demonym           = Okamiite
-| population_as_of             = January 21, 2017
+| population_as_of             = 2025 Census
 | population_footnotes         = 
-| population_total             = 8259
+| population_total             = 27215456
 
 | population_density_km2       = auto
 | population_density_metro_km2 = auto
 
-| population_metro             = 32229987
-| population_blank1_title      = 18 Wards
-| population_note              = (2017 per prefectural government)
+| population_metro             = 30558690
+| population_blank1_title      = City proper (18 special wards)
+| population_note              = (2025 Census)
 | population_blank1 = 8259189
 
 | timezone1               = Okaiken Standard Time
@@ -95,7 +101,7 @@
 | timezone1_DST           =
 | utc_offset1_DST         =
 | postal_code_type        = ISO 3166-2
-| postal_code             = OK-13
+| postal_code             = OK-01
 
 | blank_name_sec2  = '''Flower'''
 | blank_info_sec2  = [[wikipedia:Prunus × yedoensis|Somei-Yoshino]] cherry blossom
@@ -107,10 +113,10 @@
 | blank3_info_sec2 =
 
  | website                      = {{URL|www.talod.miraheze.org|Official Website}}
- | footnotes                    =
+ | footnotes                    = a
 }}
 
-{{Nihongo|'''Okami'''|大紙|Ōkami}}; officially {{Nihongo|'''Okami Metropolis'''|大紙都|Ōkami-to}}, is the [[capital of Okaiken]] and the most populous metropolitan area in the nation. With a population of over 8.2 million in its 18 special wards and over 32 million in the Greater Okami metropolitan area, it is the political, economic, and cultural heart of the country. Okami serves as the seat of the [[Government of Okaiken|Sanese government]], the [[Kokyo|Imperial Palace]], and the [[Imperial House of Okaiken|Sanese Imperial Family]].
+{{Nihongo|'''Okami'''|大紙|Ōkami}}; officially {{Nihongo|'''Okami Metropolis'''|大紙都|Ōkami-to}}, is the [[capital of Okaiken]] and the most populous metropolitan area in the nation. With a population of over 8.2 million in its 18 special wards and over 36.9 million in the Greater Okami metropolitan area, it is the political, economic, and cultural heart of the country. Okami serves as the seat of the [[Government of Okaiken|Sanese government]], the [[Kokyo|Imperial Palace]], and the [[Imperial House of Okaiken|Sanese Imperial Family]].
 
 Located in the [[Tokami region]] on the northwestern side of the island [[Harujima]], Okami Metropolis was formed in 1973 from the merger of the former {{Nihongo|Okami Prefecture|大紙府|Okami-fu}} and {{Nihongo|[[Okami City]]|大紙市|Okami-shi}}. The metropolis administers the 18 [[special wards of Okami]] (each governed as an individual city), which cover the area that was historically the city of Okami, as well as 20 additional municipalities in the western part of the prefecture and the outlying [[Inland Mitoyagi Islands]] island chain.
 
@@ -119,7 +125,7 @@ As a [[global city]], Okami has been described as one of the three "command cent
 Okami's significance extends beyond economics; as the national capital, it houses all branches of the Sanese government, including the [[National Diet Building]], the official residence of the [[Prime Minister of Okaiken|Prime Minister]], and the [[Supreme Court of Okaiken|Supreme Court]]. The city's unique history as the political center of the [[Honda Shogunate]] for over 250 years, followed by its modern role as the capital of a constitutional monarchy, has shaped it into a metropolis where ancient temples and shrines stand alongside cutting-edge skyscrapers and the world's most advanced urban infrastructure.
 
 ==Etymology==
-Okami was originally known as Oka-mi (岡海), a kanji compound of 岡 (''oka'', 'hill, ridge') and 海 (''mi'', 'sea, inlet'). The name, which roughly translates to "ridge in the sea," was a direct reference to the original settlement's geography: a small fishing hamlet situated on a slight elevation amidst the sprawling, marshy delta of the then Kiso and Kashi rivers.
+Okami was originally known as Oka-mi (岡海), a kanji compound of 岡 (''oka'', 'hill, ridge') and 海 (''mi'', 'sea, inlet'). The name, which roughly translates to "ridge in the sea," was a direct reference to the original settlement's geography: a small fishing hamlet situated on a slight elevation amidst the sprawling, marshy delta of the then Kumagawa and Kashi rivers.
 
 When the [[Honda clan]] terraformed the delta and manipulated the relocation of the Imperial court to the city in 1610, the spelling was altered by the Shogunate to Ōkami (大神; from 大 ''ō'' 'great', and 神 ''kami'' 'deity' or 'spirit'). This profound elevation in the name's meaning was intended to reflect the city's new status as the sacred and political center of the archipelago. However, utilizing the character for "god" for a worldly city was frequently considered taboo by the traditional religious establishment in [[Mito]]. Consequently, secular merchants and commoners often used alternative phonetic spellings in written correspondence, most notably 大上 (Ōkami, 'Great Above') or 大水 (Ōmizu, 'Great Water').
 
@@ -133,16 +139,16 @@ During the early Republic Era, following the [[Quiet Revolution]], the Federal R
 {{Main|History of Okami}}
 
 ===Prehistory to the Sengoku period===
-[[File:Morinomiya Shell Mounds Excavation.jpg|thumb|right|Excavated shell mounds at the Morinomiya site, indicating early coastal settlement.]]
+[[File:Morinomiya Shell Mounds Excavation.png|thumb|left|Excavated shell mounds at the Morinomiya site, indicating early coastal settlement.]]
 Some of the earliest signs of habitation in the area of Okami were found at the Morinomiya remains (森の宮遺跡 Morinomiya iseki), with its shell mounds, including sea oysters and buried human skeletons dating back to the 5th–6th centuries BC. It is believed that what is today the Uehonmachi area consisted of peninsular land, with an inland sea to the east. During the Miyagi period, permanent habitation on the plains grew as rice farming became popular. However, habitation at Okami remained sparse; it was a little-known small fishing village by the late Sengoku Period.
 
-Archaeological evidence suggests that the area was originally inhabited by the proto-Atsu peoples before their displacement by Yoroi settlers from the south. The shell middens at Morinomiya indicate a sophisticated coastal culture that relied heavily on marine resources, with evidence of trade connections extending as far as the northern coast of Harujima. The area's strategic position at the mouth of the Kiso and Kashi rivers made it a natural crossing point for trade between the interior highlands and the coastal waterways.
+Archaeological evidence suggests that the area was originally inhabited by the proto-Atsu peoples before their displacement by Yoroi settlers from the south. The shell middens at Morinomiya indicate a sophisticated coastal culture that relied heavily on marine resources, with evidence of trade connections extending as far as the northern coast of Harujima. The area's strategic position at the mouth of the Kumagawa and Kashi rivers made it a natural crossing point for trade between the interior highlands and the coastal waterways.
 
 During the [[Asama period]] (710–794), the area was administratively part of the greater Settsu Province, though it remained a peripheral region of little political significance. The earliest written records mentioning the settlement date from 743, when a minor customs outpost was established to monitor river traffic. This outpost, staffed by a handful of imperial officials, represented the only governmental presence in the area for centuries.
 
 ===Sengoku period===
-[[File:Terumasa Kofukuji screen.jpg|thumb|left|A traditional screen painting depicting the siege of Kofukuji temple in 1592.]]
-During the Mid-Sengoku Period, Okami was governed by the [[Kamigata clan]], a small, poor clan with a direct tutelage to the [[Ogasawara clan]], which was located 75 kilometres north of the hamlet in Iwawada. Okami was still a small village with a poorly defended castle at the banks of the Kiso and Kashi rivers. Surrounded by both salt and freshwater marshes, the area was deemed difficult for land surveying and rice farming. By the beginning of the Seto-Tosa period, the clan surrendered its territories to the Ogasawara clan, citing difficult conditions to properly govern the area. Ogasawara Terumasa then launched a series of civil engineering projects into the river, such as irrigation canals and defensive embankments that are still being used by the government today. 
+[[File:Terumasa Kofukuji screen.png|thumb|left|A traditional screen painting depicting the siege of Kofukuji temple in 1592.]]
+During the Mid-Sengoku Period, Okami was governed by the [[Kamigata clan]], a small, poor clan with a direct tutelage to the [[Ogasawara clan]], which was located 75 kilometres north of the hamlet in Iwawada. Okami was still a small village with a poorly defended castle at the banks of the Kumagawa and Kashi rivers. Surrounded by both salt and freshwater marshes, the area was deemed difficult for land surveying and rice farming. By the beginning of the Seto-Tosa period, the clan surrendered its territories to the Ogasawara clan, citing difficult conditions to properly govern the area. Ogasawara Terumasa then launched a series of civil engineering projects into the river, such as irrigation canals and defensive embankments that are still being used by the government today. 
 
 As planned during his regional consolidation, [[Ogasawara Terumasa]] stayed in Okami's Kofukuji temple. On 21 April 1592, the same day that Terumasa perished in the infamous Kofukuji coup, the Takigawa army led by Maeda Toshiie successfully repelled a small contingent of Ogasawara soldiers and immediately notified [[Honda Shigetada]] about the betrayal of [[Takigawa Kazumasu]]. The Honda clan quickly regrouped and proceeded to attack [[Otomo Castle]] on 3 March 1592, successfully freeing the children and wives of the Honda clan and causing the total destruction of the fortress. Honda Shigetada then returned to Nagashino and made amends with Takigawa Kazumasu, who now controlled the majority of the Ogasawara clan's holdings in Harujima. Takigawa Kazumasu restored Honda Shigetada's rice allocation to 125,000 koku and allowed his vassals to return to his service. 
 
@@ -156,13 +162,13 @@ Historical accounts describe the early marshland as sweltering and inhospitable,
 
 Despite the difficult environment, the clan initiated unprecedented land reclamation projects. To accelerate the development of the new capital, Shigetomo famously took a hands-on approach to the city's construction. Contemporary records note that the clan leader frequently worked alongside common laborers, directly participating in the paving of roads and the raising of earthen embankments. 
 
-[[File:Okami Delta Edo Map.jpg|thumb|left|An intricate 17th-century map detailing the "Dragon's Claw" river diversion project that formed the five main islands of Okami.]]
-To tame the unpredictable flooding of the Kiso and Kashi rivers and create a defensible urban core, Shigetomo commissioned a monumental hydro-engineering initiative known as the "Dragon's Claw Division." Under the brilliant direction of Chief Surveyor Takebe Rinzō and Master of Waterworks Hayashi Tadamasa, tens of thousands of conscripted laborers were mobilized. 
+[[File:Okami Delta Edo Map.png|thumb|left|An intricate 17th-century map detailing the "Dragon's Claw" river diversion project that formed the five main islands of Okami.]]
+To tame the unpredictable flooding of the Kumagawa and Kashi rivers and create a defensible urban core, Shigetomo commissioned a monumental hydro-engineering initiative known as the "Dragon's Claw Division." Under the brilliant direction of Chief Surveyor Takebe Rinzō and Master of Waterworks Hayashi Tadamasa, tens of thousands of conscripted laborers were mobilized. 
 
 To finance and execute this impossible scale of construction, the Honda Shogunate instituted the ''tetsudai-bushin'' (public works burden) system. Defeated or subordinate domain lords were explicitly ordered to supply materials and labor, deliberately draining their wealth to prevent future rebellions. The Takigawa clan of [[Harujima]] was tasked with excavating the sprawling outer moats and the intricate canal networks. Meanwhile, the Hisamichi and Kishi clans of the northern provinces were forced to fell and transport thousands of massive cypress logs down the coast to build the castle's main keep and the surrounding palisades.
 
 The engineering process was executed in three methodical steps:
-* '''Diversion:''' The massive flow of the Kiso River was partially dammed upstream, and its waters were forcibly redirected into four newly dredged arterial canals (the Kōryū, Garyū, Sōryū, and Kairyū).
+* '''Diversion:''' The massive flow of the Kumagawa River was partially dammed upstream, and its waters were forcibly redirected into four newly dredged arterial canals (the Kōryū, Garyū, Sōryū, and Kairyū).
 * '''Elevation:''' The millions of tons of rich sediment excavated from these new channels were systematically piled onto the unstable marshland, raising the ground level safely above the region's devastating King Tides. 
 * '''Stabilization:''' Massive retaining walls made of interlocking granite blocks were constructed along the new shorelines, locking the silt in place and serving as the foundational bases for merchant docks and defensive turrets.
 
@@ -192,7 +198,7 @@ The city's growth was carefully managed by the shogunal administration. A system
 The shogunal capital also became famous for its distinctive "Hyakunin Isshu" system of city governance, in which one hundred appointed ward elders (''machi-doshiyori'') managed local affairs under the supervision of the city magistrate (''machi-bugyō''). This system, while autocratic by modern standards, provided remarkable stability and allowed for the development of sophisticated urban infrastructure, including fire brigades, water supply systems, and waste management networks that were among the most advanced in the world at the time.
 
 ===Saito Restoration===
-[[File:Katsu Kaishu Surrender.jpg|thumb|left|Statesman Katsu Kaishū negotiating the bloodless surrender of Okami Castle to Imperial forces in 1871.]]
+[[File:Katsu Kaishu Surrender.png|thumb|left|Statesman Katsu Kaishū negotiating the bloodless surrender of Okami Castle to Imperial forces in 1871.]]
 By the late 19th century, the political stability of the Honda Shogunate had deeply eroded, leading to a nationwide push to restore direct Imperial rule. In 1871, during the climax of the [[Saito Restoration]], Imperial loyalist forces marched on Okami. 
 
 To spare the densely populated city and its historic castle from the devastation of modern artillery, the visionary statesman [[Katsu Kaishū]] negotiated the bloodless surrender of Okami Castle to the Imperial army. This masterful diplomatic stroke officially ended centuries of Honda Shogunate rule and transitioned Okami into a modern Imperial capital under Emperor Saito, kicking off a period of rapid Westernization, industrialization, and infrastructural growth.
@@ -202,7 +208,7 @@ The Saito Restoration brought profound changes to the city. The feudal domains w
 In 1872, the first railway line in Okaiken opened between Okami and neighboring [[Tokuyama]], marking the beginning of the nation's modern transportation era. By 1890, the city's population had reached 1.5 million, and it had become the undisputed center of the nation's emerging industrial economy.
 
 ===Great Adonian War===
-[[File:Okami Firebombing Devastation 1952.jpg|thumb|right|The charred ruins of central Okami following the devastating incendiary air raids of the Great Adonian War.]]
+[[File:Okami Firebombing Devastation 1952.png|thumb|right|The charred ruins of central Okami following the devastating incendiary air raids of the Great Adonian War.]]
 During the Great Adonian War in the mid-20th century, Okami's status as the industrial and logistical heart of the empire made it a primary military target. The city was subjected to relentless and devastating aerial bombardment by Allied forces. The bombing raids caused massive civilian casualties, flattened the industrial sectors, and burned vast swaths of the historic wooden city to ash. By the time of the nation's surrender, Okami was a devastated shell of its former glory, requiring a monumental, decades-long rebuilding effort.
 
 The most devastating attack came on the night of March 9–10, 1951, when a force of over 300 enemy bombers dropped incendiary devices on the densely populated residential districts of eastern Okami. The resulting firestorm destroyed over 40% of the city's urban area and killed an estimated 80,000 civilians in a single night. The historic districts of Tamashima and the older merchant quarters of Mugishima were largely reduced to ashes, though the Imperial Palace and the government district on Tenkyō-jima sustained relatively less damage.
@@ -228,140 +234,281 @@ The games also accelerated the development of the city's hotel industry, interna
 ====The 2012 Adonian Games====
 Continuing its legacy as a global metropolis, Okami once again stepped onto the world stage when it successfully hosted the 2012 Adonian Games, becoming one of the few cities in Adonia to host the games twice. The 2012 games were notable for their focus on environmental sustainability and technological innovation, showcasing Okami's emergence as a leader in green urban development. The games catalyzed the development of the city's eastern waterfront areas and spurred investment in renewable energy infrastructure and smart city technologies.
 
+===The Quiet Revolution and the Shinkyō Era (1968–2011)===
+[[File:Shinkyo Era Okami.png|thumb|right|The Okami Metropolitan Government Building, constructed during the Shinkyō era as a symbol of the Republic's technocratic ambitions.]]
+The [[Quiet Revolution]] of 1968, which transformed Okaiken from a constitutional monarchy into a Federal Republic, profoundly reshaped Okami's identity and governance. The new republican government, led by Prime Minister [[Yoshimizu Ohno]], viewed the city's very name as an unacceptable relic of the feudal and imperial past. In 1971, Executive Order 99 officially renamed the city {{Nihongo|Shinkyō|新京|'New Capital'}}, severing all linguistic ties to the Honda Shogunate and the Imperial institution.
+
+The Shinkyō era was defined by aggressive modernization and centralization. The newly created Okami Metropolitan Government absorbed the former Okami Prefecture and Okami City, creating a unified administrative entity with unprecedented authority over urban planning, transportation, and economic development. The metropolitan government, dominated by the technocratic [[Republican Party of Okaiken]], pursued a development strategy that prioritized infrastructure, industrial efficiency, and the construction of monumental civic architecture. The Okami Metropolitan Government Building, completed in 1974, was the era's most visible symbol—a massive, brutalist complex that housed the governor's office, the metropolitan assembly, and the centralized urban planning apparatus.
+
+The 1970s and 1980s saw the most dramatic physical transformation of the city since the post-war reconstruction. The Nagashima skyscraper district, zoned for high-rise development in 1968, rapidly filled with office towers that reshaped the skyline. The [[Okami Metro]] system expanded from 4 lines to 10, with the completion of the Asahi Line (1975), the Shitayanagi Line (1978), the Tokuyama Line (1981), and the Namboku Line (1984). The [[Harujima Expressway]] network was extended into a web of elevated highways that threaded between the islands, though the most controversial segment—the proposed waterfront expressway through Minato Ward—was cancelled after sustained public opposition in 1982.
+
+The Shinkyō era also saw the emergence of Okami as a global financial center. The [[Okami Stock Exchange]], reformed and modernized under the Republic's financial deregulation policies, grew rapidly in the 1980s as Okaiken opened its capital markets to foreign investment. The Aoi Financial District, a cluster of glass-and-steel towers built on reclaimed land in the early 1980s, became the physical embodiment of the city's new economic identity. By 1990, the Greater Okami metropolitan area accounted for over 35% of national GDP, a concentration that would only intensify in the following decades.
+
+The late 1980s [[En Crisis|bubble economy]] and its subsequent collapse in the early 1990s had a profound impact on the city. The speculative real estate boom drove land prices in the Aoi district to absurd heights—at the 1989 peak, a square meter of commercial land in Aoi was valued at approximately 円12 million, making it the most expensive real estate on the planet. The collapse of the bubble between 1991 and 1994 devastated the city's construction sector and left a legacy of non-performing loans that took over a decade to resolve. However, the crisis also accelerated the city's pivot toward the service and technology sectors, as the manufacturing and construction industries that had driven the bubble were permanently diminished.
+
+The 2000s saw Okami's emergence as a center of digital innovation. The [[Satori Development Institute]], established in Kanda Ward in 2003, became the nucleus of the city's growing AI and algorithmic governance ecosystem. The city's bid for and successful hosting of the [[2012 Adonian Games]] provided a catalyst for the redevelopment of the eastern waterfront areas and the construction of new transportation infrastructure, including the extension of the Shitayanagi Line to the Tobu waterfront district.
+
+====The Jutsu Restoration and the return of Okami====
+The [[Jutsu Restoration]] of 2011, which restored the constitutional monarchy, brought the city's name back to Okami through a national referendum. The name change was overwhelmingly approved by the city's residents, who had never fully embraced the republican designation despite four decades of official use. The restoration also returned the Imperial family to the city, with the [[Okami Imperial Palace]] once again serving as the primary residence of the Emperor after a 43-year absence.
+
+The restoration era has been characterized by a cultural renaissance that has reinforced Okami's position as the undisputed center of Sanese identity. The [[Idol Liberation Act]] of 2016, which freed idol performers from restrictive contracts, paradoxically accelerated the concentration of the entertainment industry in the capital, as freed artists migrated to the city to establish independent careers. The [[National Iron Body Initiative]], launched in 2015, has further transformed the city's physical and cultural landscape, with the Tatara ward emerging as the epicentre of the {{nihongo|[[physical culture movement]]|鉄身信仰|Tesshin-shinkō}}.
+
+The [[Satori AI Blackout Crisis]] of 2026, which disrupted the algorithmic systems that manage much of the city's infrastructure, exposed the vulnerabilities of Okami's deep dependence on AI governance. The crisis triggered widespread transit failures, power grid instability, and the temporary collapse of the Satori-managed flood control system, prompting a national debate about the city's over-reliance on automated systems and the need for manual override capabilities.
+
 ==Geography==
+[[File:Kumagawa Delta Map.svg|thumb|right|500px|The Kumagawa Delta (熊川デルタ) and its 17 islands, including the five historic Honda-era islands (Tenkyō-jima, Tamashima, Nagashima, Mugishima, Ryūbi-jima) and Ikoshima (Okami-Tobu International Airport).]]
+[[File:Okami Metropolis in Okaiken.svg|thumb|left|Map of Okami Metropolis within Okaiken]]
 ===Land Reclamation and Urban Layout===
 Okami's distinctive geography was shaped by the monumental "Dragon's Claw Division" project initiated by the Honda clan in the early 17th century. The terraforming of the original marshland delta created five main islands, each with its own distinct character and urban function. This artificial geography, combined with centuries of subsequent land reclamation, has resulted in a city of remarkable geographic complexity.
 
-The original five islands have been extensively modified through land reclamation projects, particularly along the waterfront areas of Ryūbi-jima where the modern industrial zones and port facilities have been expanded. The total area of the metropolis has grown from approximately 1,200 km² in the Edo period to the current 1,985.23 km² through steady reclamation from the sea.
+The original five islands have been extensively modified through land reclamation projects, particularly along the waterfront areas of Ryūbi-jima where the modern industrial zones and port facilities have been expanded. The total area of the metropolis has grown from approximately 1,200 km² in the Honda period to the current 1,985.23 km² through steady reclamation from the sea.
 
 The city's central districts are organized around the Hiryū River, the main waterway that flows through the heart of the metropolis. The river's distinctive turquoise color, which historically attracted the Honda clan to the site, is maintained by the unique mineral composition of the upstream mountain springs and remains one of the city's most distinctive natural features.
 
+====Tenkyō-jima====
+[[File:Okami Imperial Palace aerial.png|thumb|right|Aerial view of the Imperial Palace grounds on Tenkyō-jima, with the National Diet visible to the south.]]
+{{Nihongo|'''Tenkyō-jima'''|天鏡島|'Heavenly Mirror Island'}}, the northernmost and most heavily fortified of the five islands, serves as the political and imperial heart of the nation. The island covers approximately 18 km² and is bounded by the Kōryū River to the south and the Kashi River to the north. The [[Okami Imperial Palace]] occupies the island's northern quarter, its grounds covering approximately 2.3 km² of meticulously maintained gardens, moats, and historic structures. The southern half of the island houses the [[National Diet Building]], the [[Prime Minister's Official Residence]] (Kantei), the [[Supreme Court of Okaiken]], and the concentrated bureaucratic complex of the [[Kasumigaseki]] district.
+
+The island's street layout remains largely unchanged from the Honda period, with wide boulevards radiating from the palace grounds and narrow side streets that once housed the retainers of the shogunal court. [[File:Okami Sakuradamon Gate.png|thumb|left|The Sakuradamon Gate, the main ceremonial entrance to the Imperial Palace grounds.]]
+The {{Nihongo|'''Sakuradamon Gate'''|桜田門|Sakuradamon-mon}}, the main ceremonial entrance to the palace grounds, has been the site of numerous pivotal events in Sanese history, including the [[Sakuradamon Incident]] of 1860 and the [[Imperial Restoration Proclamation]] of 1871. The gate's distinctive black-lacquered timbers and gold fittings, restored in 2012, are among the most photographed landmarks in the nation.
+
+The island's population density is the lowest of the five, as large portions are occupied by government facilities and the palace grounds. The residential areas—concentrated in the island's eastern quarter around the [[Nagatachō]] district—are among the most expensive in the nation, with property values driven by proximity to the Imperial Palace and the political district. The [[Nagatachō]] area, which houses the metropolitan government offices and the residences of senior civil servants, is characterized by low-rise, high-security apartment buildings and a conspicuous absence of the commercial activity that defines the other islands.
+
+[[File:Okami Kasumigaseki district.png|thumb|right|The Kasumigaseki bureaucratic complex, with the Ministry of Finance building at center.]]
+The [[Kasumigaseki]] bureaucratic complex, stretching along the island's southern ridge, employs approximately 45,000 civil servants in a dense cluster of ministry buildings that ranges from the neoclassical [[Ministry of Finance (Okaiken)|Ministry of Finance]] building (1936) to the modernist [[Ministry of Economy, Trade and Industry (Okaiken)|METI]] headquarters (1986). The complex's architecture reflects the shifting priorities of the Sanese state: the pre-war buildings convey imperial authority through monumental stone facades and bronze ornamentation, while the post-war structures project technocratic efficiency through glass curtain walls and exposed concrete. The {{Nihongo|''Kasumigaseki Hill''|霞が関の丘|Kasumigaseki no oka}} complex, which includes the [[National Police Agency (Okaiken)|National Police Agency]] and the [[Public Prosecutors Office]], is the nerve center of the Sanese law enforcement establishment.
+
+====Mugishima====
+{{Nihongo|'''Mugishima'''|麦島|'Barley Island'}}, split by the Garyū and Sōryū rivers, is the traditional commercial heart of the city. The island covers approximately 22 km² and is home to the city's most prestigious shopping districts, including the [[Miyoshi-suji]] luxury corridor and the historic [[Nakamichi]] merchant quarter. The island's eastern waterfront, known as the {{Nihongo|''Ryōgoku-higashi''|両国東|'East of Both Provinces'}}, houses the city's premier fish and produce markets. The western interior of the island contains the densest concentration of the city's ''washi'' paper workshops, a tradition that dates to the Honda period and gave the city its modern name. The island's population of approximately 380,000 makes it the second most densely populated of the five.
+
+[[File:Miyoshi-suji.png|thumb|right|The Miyoshi-suji luxury corridor along the Garyū River waterfront.]]
+The [[Miyoshi-suji]], the island's most famous thoroughfare, is a 1.2-kilometer boulevard that runs along the Garyū River waterfront from the [[Kōryū Bridge]] in the north to the [[Sōryū Bridge]] in the south. The street's origins as the primary merchant corridor of the Honda period are visible in its surviving historic storefronts—narrow, deep-lot buildings with traditional latticed facades that now house luxury boutiques and high-end restaurants. The Miyoshi-suji's transformation from a wholesale mercantile district to an international luxury shopping destination was completed in the 1980s, when the [[Miyoshi-suji Redevelopment Agency]] oversaw the renovation of the historic facades and the construction of the modern department stores that anchor the street's southern end.
+
+[[File:Okami washi paper workshop.png|thumb|left|A traditional washi paper workshop in the Kami-no-chō district.]]
+The island's ''washi'' paper district, centered on the {{Nihongo|''Kami-no-chō''|紙の町|'Paper Town'}} neighborhood in the western interior, is one of the few surviving traditional craft districts in the central wards. The district's paper workshops, many operated by the same families for over ten generations, produce the high-quality ''washi'' used in the Imperial Palace's official documents, the National Diet's legislative records, and the fine-art prints that are among Okami's most prestigious cultural exports. The [[Okami Paper Museum]], housed in a restored 18th-century paper warehouse, documents the craft's history and offers workshops in traditional papermaking techniques.
+
+====Nagashima====
+[[File:Okami Nagashima.png|thumb|right|The Nagashima Tower District skyline, viewed from the Hiryū River.]]
+{{Nihongo|'''Nagashima'''|長島|'Long Island'}}, the largest of the five at approximately 35 km², is the city's modern commercial and financial center. The island's flat terrain and central location made it the natural site for the skyscraper district that has come to define the Okami skyline. The [[Nagashima Tower District]], a cluster of over 60 high-rise office buildings, is home to the [[Okami Stock Exchange]], the headquarters of the nation's largest banks and insurance companies, and the regional offices of numerous multinational corporations.
+
+[[File:Okami sora-no-michi walkway.png|thumb|left|The sora-no-michi elevated walkway network connecting Nagashima's office towers.]]
+The Tower District's development was shaped by the 1968 metropolitan zoning plan, which designated Nagashima for high-rise construction and established the {{Nihongo|''sora-no-michi''|空の道|'sky path'}}—a network of elevated pedestrian walkways connecting the major office towers at the second-floor level. The ''sora-no-michi'', designed to separate pedestrian traffic from vehicular traffic and to provide climate-controlled circulation during the humid summer months, has become one of the city's most distinctive urban features. The network now extends over 8 kilometers and connects 47 buildings, with restaurants, shops, and garden terraces positioned along the routes.
+
+The island's southern quarter retains elements of its historical character as the residential district of the samurai class, with several preserved ''bukeyashiki'' estates now functioning as museums. [[File:Okami Honda Estate Museum.png|thumb|right|The Honda Estate Museum, a preserved bukeyashiki estate in southern Nagashima.]]
+The [[Honda Estate Museum]], the largest and best-preserved of the surviving samurai residences, occupies a 2-hectare site with original Honda-period gardens, a tea house, and a collection of armor, weapons, and household artifacts from the Honda Shogunate. The museum's {{Nihongo|''shoin-zukuri''|書院造}} reception hall, with its gold-leaf sliding doors and tatami-matted audience chambers, is considered one of the finest surviving examples of shogunal residential architecture.
+
+The island's population of approximately 520,000 includes a high proportion of corporate expatriates and single professionals. The residential areas are concentrated in the island's eastern and western quarters, where high-rise apartment towers provide the dense housing stock required by the island's workforce. The [[Shinbashi]] district, at the island's southeastern corner, has evolved into one of the world's densest and most economically powerful urban areas, with a daytime population density exceeding 50,000 per km².
+
+====Tamashima====
+[[File:Okami Neon District night.png|thumb|right|The Neon District at night, with the characteristic glow of hundreds of neon signs.]]
+{{Nihongo|'''Tamashima'''|玉島|'Jewel Island'}}, separated from the northern islands by the wide Kōryū River, is the entertainment and cultural soul of the city. The island covers approximately 28 km² and is home to the world-famous {{Nihongo|'''Neon District'''|ネオン区|Neon-ku}}, a dense labyrinth of bars, nightclubs, live music venues, pachinko parlors, and restaurants that operates at full intensity from dusk until dawn. The Neon District's origins as the chaotic labor encampment of the Honda period are still visible in its irregular street grid and narrow alleyways, which defy the orthogonal planning of the other islands.
+
+[[File:Okami Kabuki-za Theater.png|thumb|right|The Kabuki-za Theater in the Ginza district, home to traditional kabuki performances since 1889.]]
+The island is also home to the [[Kabuki-za Theater]], the [[Okami Metropolitan Opera House]], and the historic {{Nihongo|''Yoshiwara''|吉原}} entertainment quarter, which has operated continuously since 1617. The [[Okami Idol Festival]], the largest music event in Fosia, is held annually in the Tamashima district, drawing over 500,000 attendees to open-air stages and venue showcases across the island.
+
+The island's western quarter, known as {{Nihongo|'''Tama'''|多摩}}, underwent a dramatic transformation in the post-war period that distinguishes it sharply from the chaotic Neon District to the east. While the eastern half of Tamashima retained its organic, Honda-period street grid and its identity as the city's entertainment zone, the western Tama district was comprehensively redeveloped under the 1968 metropolitan plan as a modern commercial center. It was here, on the flat, cleared land of the former Tama military barracks, that the [[Sanese Metabolism]] architectural movement found its most ambitious expression.
+
+[[File:Okami Tama Center.png|thumb|left|The Okami Tama Center, the most iconic built work of the Sanese Metabolism movement.]]
+The [[Okami Tama Center]], designed by [[Kishō Kurokawa]] and completed in 1972, is the defining landmark of the Tama district and the most iconic built work of the Metabolism movement. The Center's striking inverted pyramid structure—a massive concrete frame from which 144 modular "capsule" units are suspended—was conceived as a demonstration of the Metabolist principle of replaceable parts: individual capsules could be removed and replaced as technology and needs evolved, while the core structure remained permanent. The Center originally contained a mix of residential and office capsules, each a self-contained 2.5m × 4m unit with integrated furniture, communications systems, and climate control. The paradox of the Okami Tama Center—and of Metabolism in general—is that the buildings designed to be replaceable became permanent. By the 1990s, the capsules had deteriorated significantly, and the original vision of regular replacement had proven economically and logistically impractical. The Center was extensively renovated between 1998 and 2002, with the original capsules replaced by modernized units that maintain the exterior aesthetic while upgrading the interior systems. The renovated Center now houses a mix of residential units, creative industry offices, and the [[Metabolism Archive Museum]], which documents the movement's history and influence.
+
+The Tama district's broader urban fabric reflects the Metabolist influence. The [[Tama Central Park]], the 96-hectare green space that serves the western suburbs, was designed according to Metabolist principles as a {{Nihongo|"living landscape"|生景|Ikkei}} whose plantings and water features would evolve over time in response to the surrounding community's needs. The park's distinctive terraced gardens, which cascade down the natural slope of the Tama Heights toward the river, were designed to be reconfigurable—the original plans called for the terraces to be periodically reshaped by community input, though in practice the layout has remained largely fixed since the 1980s. The [[Tama Island Transit Hub]], completed in 1978, is another significant Metabolist work, with its distinctive elevated platform design where the Metro station, bus terminal, and commercial concourse are stacked in a hierarchical arrangement directly inspired by the concept of {{Nihongo|"artificial land"|人工地|Jinkōchi}}.
+
+The island's population of approximately 440,000 includes a large proportion of service industry workers, artists, and musicians. The stark contrast between the organic Neon District and the planned Tama district—separated by the [[Miyoshi-suji]] boulevard that runs across the island's midline—has made Tamashima a study in urban dualism, where the city's oldest and newest identities exist side by side.
+
+====Ryūbi-jima====
+[[File:Okami Tatara shipyards.png|thumb|right|The Tatara shipyards on Ryūbi-jima, with the container port visible to the east.]]
+{{Nihongo|'''Ryūbi-jima'''|竜尾島|'Dragon Tail Island'}}, the southernmost island, is the industrial and maritime gateway of the city. The island covers approximately 30 km² and is dominated by the [[Okami Industrial Zone]] and the heavy shipyards of [[Tatara Ward]]. The island's eastern docks have been the primary gateway for continental trade for over four centuries, and the modern container port facilities handle approximately 40% of the nation's maritime cargo by value.
+
+The island's western portion has undergone significant redevelopment since the 2000s, with former industrial sites converted to residential and commercial use. The {{Nihongo|''Tatara Circuit''|多々羅回廊|Tatara-kairō}}, a cluster of premium gyms and fitness facilities that has become the epicentre of the {{nihongo|[[physical culture movement]]|鉄身信仰|Tesshin-shinkō}}, occupies a 2 km stretch of the island's western waterfront. The [[Tatara Fitness Waterfront]], a 3.2-kilometer athletic park featuring a 10-lane swimming complex, a beach volleyball arena, and the 30-meter {{Nihongo|''Tatara Tower''|多々羅塔|Tatara-tō}} climbing wall, has become one of the island's most recognizable landmarks.
+
+The island's industrial heritage is preserved in the [[Tatara Shipyard Museum]], which documents the island's 400-year history of shipbuilding and maritime trade. The museum's centerpiece is the {{Nihongo|''Kairyū-maru''|海龍丸}}, a fully restored Honda-period trading vessel that was recovered from the Kairyū River in 1987. The island's eastern container port, operated by the [[Okami Port Authority]], is one of the most automated cargo facilities in Adonia, with Satori-integrated crane systems that can load and unload container ships with minimal human intervention.
+
+The island's population of approximately 610,000 is the most economically diverse of the five, ranging from dockworkers and industrial laborers to fitness entrepreneurs and tech workers. [[File:Okami Kwangju-cho district.png|thumb|left|The Kwangju-chō district on Ryūbi-jima, with its distinctive geometric tilework and pitched roofs.]]
+The [[Kwangju-chō]] district, the cultural and commercial center of the city's [[Kwangju people|Kwangju]] community, is located in the island's northwestern quarter, where the distinctive geometric tilework and pitched roofs of Kwangju traditional architecture stand in sharp contrast to the surrounding industrial landscape.
+
+
+===Rivers and Waterways===
+[[File:Okami Hiryu River turquoise.png|thumb|right|The turquoise waters of the Hiryū River, the city's most distinctive natural feature, flowing through the central wards.]]
+The four arterial canals created by the Dragon's Claw Division—the {{Nihongo|Kōryū|荒龍|'Wild Dragon'}}, {{Nihongo|Garyū|我龍|'Our Dragon'}}, {{Nihongo|Sōryū|蒼龍|'Blue Dragon'}}, and {{Nihongo|Kairyū|海龍|'Sea Dragon'}}—remain the primary waterways of the city and serve crucial functions in transportation, drainage, and urban identity. The canals range from 80 to 200 metres in width and are spanned by over 120 bridges, ranging from the historic stone arches of the Honda period to the modern cable-stayed spans connecting the skyscraper districts.
+
+The {{Nihongo|'''Hiryū River'''|飛龍川|'Flying Dragon River'}}, the main waterway that flows through the heart of the metropolis, is the most visually distinctive feature of the city's geography. The river's characteristic turquoise color—caused by the unique mineral composition of the upstream mountain springs—was noted by the Honda clan's surveyors and remains one of the city's most iconic natural features. The river's banks are lined with pedestrian promenades, cherry trees, and waterfront parks that serve as the primary recreational space for the central wards.
+
+The original Kumagawa and Kashi rivers, whose delta was the site of the original settlement, continue to flow along the northern and western boundaries of the city. The Kumagawa River, partially dammed and diverted during the Dragon's Claw project, still carries approximately 40% of its original flow and serves as the primary source of the city's freshwater supply. The Kashi River, which forms the northern boundary of Tenkyō-jima, is navigable by small craft and is used extensively for recreational boating.
+
+===Microclimates===
+[[File:Okami urban heat island thermal.png|thumb|left|Thermal imaging of the Okami urban heat island effect, showing the temperature differential between the central wards and the western suburbs.]]
+The city's complex geography—the five islands, the river network, the coastal position, and the dense urban fabric—creates several distinct microclimates across the metropolitan area.
+
+The five islands experience a pronounced urban heat island effect, with temperatures in the central wards regularly exceeding those of the western suburbs by 2–3 °C. This effect is most pronounced at night and during the summer months, when the dense concrete and asphalt of the urban core retains heat long after sunset. The {{Nihongo|''neba-ru''|ねばる|'persisting'}} humidity, as residents term the oppressive summer nights, is a defining feature of the Okami summer experience and drives the city's enormous demand for air conditioning, which in turn strains the electrical grid during peak periods.
+
+The river corridors create localized cooling effects, particularly along the Hiryū and Kōryū rivers, where daytime temperatures can be 1–2 °C lower than the surrounding urban areas. The waterfront promenades along these rivers serve as natural gathering points during the summer, and the city has invested heavily in riverside green spaces and misting systems to amplify the cooling effect.
+
+The western suburbs, which extend into the foothills of the Okami mountain range, experience significantly cooler temperatures and higher rainfall than the central wards. The {{Nihongo|Tama Heights|多摩丘陵|Tama-kyūryō}} area, at elevations of 100–200 metres, receives approximately 15% more annual precipitation than the city centre and is more prone to fog and low cloud cover during the winter months. The Tama area's cooler microclimate has made it a desirable residential location for families seeking relief from the urban heat island, and the area's population has grown steadily despite its distance from the commercial core.
+
+The coastal areas of Minato and Tatara wards, exposed to the Shendan Ocean, experience stronger onshore breezes and more moderate temperatures than the inland wards. The {{Nihongo|''shiokaze''|潮風|'tide wind'}}—the salt-laden ocean breeze that sweeps through the eastern wards in the afternoon—is a welcome relief during the summer but also accelerates the corrosion of building facades and infrastructure, requiring the city to invest heavily in marine-grade construction materials for coastal developments.
+
+===Parks and Green Spaces===
+[[File:Okami Chuo Park.png|thumb|right|Okami Chūō Park on Mugishima, with the cherry blossom avenue along the Hiryū River.]]
+Despite its reputation as a hyper-dense urban environment, Okami maintains an extensive network of parks, gardens, and green spaces that cover approximately 12% of the metropolitan area. The city's park system is managed by the Okami Metropolitan Government and is organized into four categories: national parks, metropolitan parks, ward parks, and riverside green corridors.
+
+The [[Okami Chūō Park]], located on Mugishima along the banks of the Hiryū River, is the city's most visited green space. The park's 45 hectares include the historic [[Kofukuji Temple]] gardens, a large ornamental lake, and a renowned cherry blossom avenue that draws over 2 million visitors during the annual [[Cherry Blossom Festival]]. The [[Imperial Palace East Gardens]], open to the public year-round, provide 20 hectares of meticulously maintained traditional gardens on Tenkyō-jima.
+
+The [[Tama Central Park]], at 96 hectares the largest park in the metropolitan area, serves the western suburbs and includes extensive sports facilities, a botanical garden, and the [[Okami Metropolitan Zoo]]. The [[Ueno Park]] complex on the northern edge of the special wards houses the [[Okami National Museum]], the [[National Museum of Modern Art]], and the [[Okami Metropolitan Art Museum]], as well as the city's oldest and most famous cherry blossom grove.
+
+The riverside green corridors—pedestrian and cycling paths that run along the banks of the four arterial canals and the Hiryū River—provide over 60 km of continuous green space through the heart of the city. These corridors, developed primarily since the 1990s, have become essential recreational infrastructure for the dense central wards and are heavily used by joggers, cyclists, and commuters.
+
+
 === Climate ===
-Okami is located in the [[wikipedia:humid subtropical climate|humid subtropical climate]] zone ([[wikipedia:Köppen climate classification|Köppen]] ''Cfa''), with long, hot and humid summers and mild winters. Its winters are generally very mild, with January being the coldest month having an average high of 19.5&nbsp;°C. The city does not see snowfall. Spring in Okami starts off mild, but ends up being hot and humid. It also tends to be Okami's wettest season, with the {{Nihongo|''[[East Fosian rainy season|tsuyu]]''|梅雨|tsuyu|"plum rain"}}—the rainy season—occurring between early May to late June. Summers are very hot and humid. In the months of July and August, the average daily high temperature approaches 32&nbsp;°C, while average nighttime temperatures typically hover around 27&nbsp;°C. Fall in Okami sees a cooling trend, with the early part of the season resembling summer while the latter part of fall remains quite warm and mild.
+Okami is located in the [[wikipedia:humid subtropical climate|humid subtropical climate]] zone ([[wikipedia:Köppen climate classification|Köppen]] ''Cfa''), with long, hot and humid summers and mild winters. Its winters are generally very mild, with July being the coldest month having an average high of 19.5&nbsp;°C. The city does not see snowfall. Spring in Okami starts off mild, but ends up being hot and humid. It also tends to be Okami's wettest season, with the {{Nihongo|''[[East Fosian rainy season|tsuyu]]''|梅雨|tsuyu|"plum rain"}}—the rainy season—occurring between early May to late June. Summers are very hot and humid. In the months of July and August, the average daily high temperature approaches 32&nbsp;°C, while average nighttime temperatures typically hover around 27&nbsp;°C. Fall in Okami sees a cooling trend, with the early part of the season resembling summer while the latter part of fall remains quite warm and mild.
 
 {{Weather box
 |location = Okami (1981–2026)
 |metric first = Y
 |single line = Y
-|Jan high C = 19.5
-|Feb high C = 19.8
-|Mar high C = 21.7
-|Apr high C = 24.1
-|May high C = 26.7
-|Jun high C = 29.4
-|Jul high C = 31.8
-|Aug high C = 31.5
-|Sep high C = 30.4
-|Oct high C = 27.9
-|Nov high C = 24.6
-|Dec high C = 21.2
-|year high C = 25.7
-|Jan mean C = 17.0
-|Feb mean C = 17.1
-|Mar mean C = 18.9
-|Apr mean C = 21.4
-|May mean C = 24.0
-|Jun mean C = 26.8
-|Jul mean C = 28.9
-|Aug mean C = 28.7
-|Sep mean C = 27.6
-|Oct mean C = 25.2
-|Nov mean C = 22.1
-|Dec mean C = 18.7
-|year mean C = 23.1
-|Jan low C = 14.6
-|Feb low C = 14.8
-|Mar low C = 16.5
+|Jan high C = 29.8
+|Feb high C = 29.8
+|Mar high C = 28.8
+|Apr high C = 27.0
+|May high C = 25.0
+|Jun high C = 23.2
+|Jul high C = 22.1
+|Aug high C = 22.1
+|Sep high C = 23.2
+|Oct high C = 25.0
+|Nov high C = 27.0
+|Dec high C = 28.8
+|year high C = 26.0
+|Jan mean C = 25.8
+|Feb mean C = 25.8
+|Mar mean C = 24.8
+|Apr mean C = 23.0
+|May mean C = 21.0
+|Jun mean C = 19.2
+|Jul mean C = 18.1
+|Aug mean C = 18.1
+|Sep mean C = 19.2
+|Oct mean C = 21.0
+|Nov mean C = 23.0
+|Dec mean C = 24.8
+|year mean C = 22.0
+|Jan low C = 21.8
+|Feb low C = 21.8
+|Mar low C = 20.8
 |Apr low C = 19.0
-|May low C = 21.8
-|Jun low C = 24.8
-|Jul low C = 26.8
-|Aug low C = 26.6
-|Sep low C = 25.5
-|Oct low C = 23.1
-|Nov low C = 19.9
-|Dec low C = 16.3
-|year low C = 20.8
+|May low C = 17.0
+|Jun low C = 15.2
+|Jul low C = 14.1
+|Aug low C = 14.1
+|Sep low C = 15.2
+|Oct low C = 17.0
+|Nov low C = 19.0
+|Dec low C = 20.8
+|year low C = 18.0
+|Jan record high C = 39.6
+|Feb record high C = 39.2
+|Mar record high C = 37.1
+|Apr record high C = 36.7
+|May record high C = 34.3
+|Jun record high C = 32.0
+|Jul record high C = 30.3
+|Aug record high C = 30.7
+|Sep record high C = 33.2
+|Oct record high C = 34.4
+|Nov record high C = 36.4
+|Dec record high C = 37.2
+|year record high C = 39.6
+|Jan record low C = 9.8
+|Feb record low C = 9.9
+|Mar record low C = 11.4
+|Apr record low C = 8.5
+|May record low C = 7.5
+|Jun record low C = 5.6
+|Jul record low C = 4.8
+|Aug record low C = 4.4
+|Sep record low C = 3.7
+|Oct record low C = 5.6
+|Nov record low C = 8.1
+|Dec record low C = 11.7
+|year record low C = 3.7
 |precipitation colour = green
-|Jan precipitation mm = 107.0
-|Feb precipitation mm = 119.7
-|Mar precipitation mm = 161.4
-|Apr precipitation mm = 165.2
-|May precipitation mm = 231.6
-|Jun precipitation mm = 247.2
-|Jul precipitation mm = 141.4
-|Aug precipitation mm = 240.5
-|Sep precipitation mm = 260.5
-|Oct precipitation mm = 152.9
-|Nov precipitation mm = 110.2
-|Dec precipitation mm = 102.8
-|year precipitation mm = 2040.8
-|Jan snow cm = 0
-|Feb snow cm = 0
-|Mar snow cm = 0
-|Apr snow cm = 0
-|May snow cm = 0
-|Jun snow cm = 0
-|Jul snow cm = 0
-|Aug snow cm = 0
-|Sep snow cm = 0
-|Oct snow cm = 0
-|Nov snow cm = 0
-|Dec snow cm = 0
-|year snow cm = 0
+|Jan precipitation mm = 569.3
+|Feb precipitation mm = 664.4
+|Mar precipitation mm = 521.8
+|Apr precipitation mm = 426.8
+|May precipitation mm = 236.6
+|Jun precipitation mm = 94.0
+|Jul precipitation mm = 46.5
+|Aug precipitation mm = 46.5
+|Sep precipitation mm = 94.0
+|Oct precipitation mm = 141.6
+|Nov precipitation mm = 284.2
+|Dec precipitation mm = 474.3
+|year precipitation mm = 3600.0
+|Jan snow cm = 0.0
+|Feb snow cm = 0.0
+|Mar snow cm = 0.0
+|Apr snow cm = 0.0
+|May snow cm = 0.0
+|Jun snow cm = 0.0
+|Jul snow cm = 0.0
+|Aug snow cm = 0.0
+|Sep snow cm = 0.0
+|Oct snow cm = 0.0
+|Nov snow cm = 0.0
+|Dec snow cm = 0.0
+|year snow cm = 0.0
 |unit precipitation days = 1.0 mm
-|Jan precipitation days = 12.9
-|Feb precipitation days = 12.1
-|Mar precipitation days = 13.7
-|Apr precipitation days = 12.0
-|May precipitation days = 13.0
-|Jun precipitation days = 11.7
-|Jul precipitation days = 10.4
-|Aug precipitation days = 13.6
-|Sep precipitation days = 12.5
-|Oct precipitation days = 9.5
-|Nov precipitation days = 9.8
-|Dec precipitation days = 9.6
-|year precipitation days = 140.8
-|Jan snow days = 0.0
-|Feb snow days = 0.0
-|Mar snow days = 0.0
-|Apr snow days = 0.0
-|May snow days = 0.0
-|Jun snow days = 0.0
-|Jul snow days = 0.0
-|Aug snow days = 0.0
-|Sep snow days = 0.0
-|Oct snow days = 0.0
-|Nov snow days = 0.0
-|Dec snow days = 0.0
-|year snow days = 0.0
-|Jan humidity = 67
-|Feb humidity = 70
-|Mar humidity = 73
-|Apr humidity = 76
-|May humidity = 79
-|Jun humidity = 83
-|Jul humidity = 78
-|Aug humidity = 78
-|Sep humidity = 76
-|Oct humidity = 71
-|Nov humidity = 69
-|Dec humidity = 66
-|year humidity = 74
-|Jan sun = 94.2
-|Feb sun = 87.1
-|Mar sun = 108.3
-|Apr sun = 123.8
-|May sun = 145.8
-|Jun sun = 163.6
-|Jul sun = 238.8
-|Aug sun = 215.0
-|Sep sun = 188.9
-|Oct sun = 169.6
-|Nov sun = 123.0
-|Dec sun = 115.6
-|year sun = 1774.0
+|Jan precipitation days = 26
+|Feb precipitation days = 26
+|Mar precipitation days = 26
+|Apr precipitation days = 26
+|May precipitation days = 15
+|Jun precipitation days = 6
+|Jul precipitation days = 3
+|Aug precipitation days = 3
+|Sep precipitation days = 6
+|Oct precipitation days = 9
+|Nov precipitation days = 18
+|Dec precipitation days = 26
+|year precipitation days = 190
+|Jan snow days = 0
+|Feb snow days = 0
+|Mar snow days = 0
+|Apr snow days = 0
+|May snow days = 0
+|Jun snow days = 0
+|Jul snow days = 0
+|Aug snow days = 0
+|Sep snow days = 0
+|Oct snow days = 0
+|Nov snow days = 0
+|Dec snow days = 0
+|year snow days = 0
+|Jan humidity = 74
+|Feb humidity = 76
+|Mar humidity = 74
+|Apr humidity = 74
+|May humidity = 72
+|Jun humidity = 70
+|Jul humidity = 70
+|Aug humidity = 70
+|Sep humidity = 70
+|Oct humidity = 70
+|Nov humidity = 71
+|Dec humidity = 73
+|year humidity = 72
+|Jan sun = 60.0
+|Feb sun = 60.0
+|Mar sun = 68.5
+|Apr sun = 97.0
+|May sun = 154.0
+|Jun sun = 196.8
+|Jul sun = 211.1
+|Aug sun = 211.1
+|Sep sun = 196.8
+|Oct sun = 182.5
+|Nov sun = 139.8
+|Dec sun = 82.7
+|year sun = 138.4
 }}
 
 ===Natural Disasters===
@@ -378,26 +525,33 @@ Since 1821, the city has only experienced indirect effects from larger regional 
 Although Okami rests on a seismically active plain, the city itself is not situated in the immediate shadow of an active stratovolcano like Mount Asuka on Ishijima. However, it is occasionally affected by distant ashfall from major eruptions in the Shinano Caldera or the southern mountain ranges of Harujima. To manage this threat, the Okami Meteorological Agency maintains a strict ash-monitoring protocol to prevent disruptions to the crucial aviation corridors at Okami-Tobu International Airport and the high-speed rail networks. Infrastructure across the metropolis, including the air filtration systems of the Okami Metro, is heavily reinforced to operate securely during prolonged periods of volcanic particulate dispersal.
 
 ====Floods====
-Historically, the delta setting of the Kiso and Kashi rivers made early Okami highly susceptible to catastrophic flooding, particularly during the late summer typhoon season driven by storms from the Shendan Ocean. While the Honda clan's terraforming mitigated the worst of the estuarine surges in the pre-modern era, modern Okami faces the compounded threats of torrential rains and rising sea levels. To combat this, the Okami Metropolitan Government constructed a massive subterranean floodwater diversion facility beneath the northern wards. This colossal feat of civic engineering is heavily managed by the Satori algorithmic suite, which predicts surge levels in real time and automatically opens pressure valves to route excess water safely into the ocean without human intervention.
+Historically, the delta setting of the Kumagawa and Kashi rivers made early Okami highly susceptible to catastrophic flooding, particularly during the late summer typhoon season driven by storms from the Shendan Ocean. While the Honda clan's terraforming mitigated the worst of the estuarine surges in the pre-modern era, modern Okami faces the compounded threats of torrential rains and rising sea levels. To combat this, the Okami Metropolitan Government constructed a massive subterranean floodwater diversion facility beneath the northern wards. This colossal feat of civic engineering is heavily managed by the Satori algorithmic suite, which predicts surge levels in real time and automatically opens pressure valves to route excess water safely into the ocean without human intervention.
 
 ===Architecture===
 ====Early Modern (1403-1871)====
+[[File:Okami Castle Honda period.png|thumb|right|Okami Castle during the Honda Shogunate, the dominant architectural landmark of the pre-modern city.]]
 During the Honda Shogunate, the city was defined by strict architectural hierarchies and the sprawling use of local timber. The towering Okami Castle dominated the skyline, serving as both a military fortress and the administrative heart of the empire. Surrounding the castle in Nagashima were the sprawling, defensive estates of the samurai class, featuring fortified outer walls and manicured gardens. Conversely, the merchant class on Mugishima built densely packed wooden machiya townhouses that doubled as storefronts and residences. Because of this dense wooden construction, catastrophic fires were common, leading to the development of wide urban firebreaks and the iconic white-plastered storehouses designed to protect valuable mercantile goods from the flames.
 
 ====Modern (1871-1952)====
-The Saito Restoration brought a sudden wave of Western architectural influence as the empire sought to project modern industrial strength on a global scale. The late 19th and early 20th centuries saw the rapid construction of monumental red-brick and stone edifices, heavily inspired by Brieslandic and Mercian styles. Key surviving examples of this era include the original preserved facade of Okami Central Station and the classical columns of the Bank of Okaiken. This era also introduced the first widespread use of reinforced concrete to the archipelago, though much of this early modern architecture was tragically lost during the incendiary firebombings of the Great Adonian War.
+[[File:Okami Central Station 1930s facade.png|thumb|left|The preserved 1932 facade of Okami Central Station, a surviving example of Saito-era Western architecture.]]
+The Saito Restoration brought a sudden wave of Western architectural influence as the empire sought to project modern industrial strength on a global scale. The late 19th and early 20th centuries saw the rapid construction of monumental red-brick and stone edifices, heavily inspired by Breislandic and Mercian styles. Key surviving examples of this era include the original preserved facade of Okami Central Station and the classical columns of the Bank of Okaiken. This era also introduced the first widespread use of reinforced concrete to the archipelago, though much of this early modern architecture was tragically lost during the incendiary firebombings of the Great Adonian War.
 
 ====Contemporary (1952-Present)====
-Post-war Okami is a canvas of rapid, pragmatic rebuilding and avant-garde architectural experimentation. The 1960s and 1970s saw the rise of the domestic Metabolism movement, which envisioned buildings as living, adaptable organisms; the most famous surviving example is the massive Okami Tama Center with its striking inverted pyramid structures. Today, the skyline is dominated by sleek glass-and-steel supertall skyscrapers in the Minato and Aoi wards. Recent developments are uniquely characterized by deep integration with the state-operated Satori system, resulting in smart buildings that function as nodes within the city's broader algorithmic network to autonomously regulate energy usage, commuter flow, and climate controls.
+Post-war Okami is a canvas of rapid, pragmatic rebuilding and avant-garde architectural experimentation. The 1960s and 1970s saw the rise of the domestic [[Sanese Metabolism]] movement, which envisioned buildings as living, adaptable organisms; the most famous surviving example is the massive [[Okami Tama Center]] with its striking inverted pyramid structures. Today, [[File:Okami Aoi skyscraper district.png|thumb|right|The Aoi skyscraper district, where glass-and-steel towers dominate the modern skyline.]]
+the skyline is dominated by sleek glass-and-steel supertall skyscrapers in the Minato and Aoi wards. Recent developments are uniquely characterized by deep integration with the state-operated Satori system, resulting in smart buildings that function as nodes within the city's broader algorithmic network to autonomously regulate energy usage, commuter flow, and climate controls.
+
+
+
 
 ==Administration==
 {{main|Okami Metropolitan Government}}
 ===Local Government===
 The Okami Metropolitan Government is responsible for the administration of the entire metropolis and functions as a unique hybrid of city and prefectural governance. The executive branch is headed by a directly elected Governor. The current Governor is Aono Michifumi, a self-described democratic socialist who has frequently clashed with the federal government over issues of public housing, infrastructure subsidies, and fiscal autonomy. The legislative branch is the Okami Metropolitan Assembly, which oversees a massive municipal budget that rivals the gross domestic product of many sovereign nations. This budget funds the city's extensive metropolitan police force, advanced fire and disaster response departments, and aggressive public housing initiatives.
 
-The Metropolitan Assembly consists of 127 members elected from 18 electoral districts corresponding to the special wards. The assembly is responsible for enacting local ordinances, approving the metropolitan budget, and overseeing the administration of public services. The assembly's sessions are held at the Okami Metropolitan Government Building in Shinjuku, a distinctive building complex that has become an architectural landmark in its own right.
+The Metropolitan Assembly consists of 127 members elected from 20 electoral districts corresponding to the special wards. The assembly is responsible for enacting local ordinances, approving the metropolitan budget, and overseeing the administration of public services. The assembly's sessions are held at the Okami Metropolitan Government Building in Chiyoda, a distinctive building complex overlooking the Chiyoda Central Plaza that has become an architectural landmark in its own right.
 
 ===National Government===
+[[File:Diet of Okaiken.png|thumb|right|The National Diet Building on Tenkyō-jima, with its distinctive pyramid-shaped central tower.]]
 As the capital of Okaiken, Okami houses all three branches of the national government. The [[National Diet Building]], home to the bicameral legislature, is located in the Chiyoda district on Tenkyō-jima. The Diet consists of the [[House of Officers (Okaiken)|House of Officers]] (upper house, 251 members) and the [[House of Commoners (Okaiken)|House of Commoners]] (lower house, 465 members). The Diet Building, completed in 1936, is an iconic structure featuring a distinctive pyramid-shaped central tower that has become a symbol of Sanese democracy.
 
 The executive branch is centered on the Prime Minister's Official Residence (Kantei), also located in Chiyoda. The Kantei, a modern structure completed in 2002, houses the offices of the Prime Minister and the Cabinet. The Prime Minister also maintains an official residence nearby. The various ministries of the national government are concentrated in the Kasumigaseki district, forming a bureaucratic complex known as "Kasumigaseki Hill" that employs thousands of civil servants.
@@ -452,132 +606,651 @@ Thirty-five municipalities are located in Okami Metropolis:
 
 ===Special Wards===
 {{main|Special wards of Okami}}
-The 18 special wards of Okami are the primary administrative divisions of the former city of Okami. Each ward is a local municipality with its own elected mayor and assembly, functioning essentially as individual cities while remaining part of the larger Okami Metropolis. The special wards cover an area of approximately 621 km² and have a combined population of over 8.2 million.
+The 20 special wards ({{lang|ja|特別区}}, ''tokubetsu-ku'') of Okami form the primary administrative divisions of the capital city core within [[Okami Metropolis]]. Each ward is a semi-autonomous municipality with its own directly elected mayor and ward assembly, functioning as an individual city for local public administration while remaining integrated into the metropolitan fiscal and infrastructure framework. Based on the metropolitan geographic survey, the 20 special wards cover a combined land area of {{cvt|423.8|km2|sqmi|abbr=on}} and have a total population of 8,259,189, served by 403 rapid transit and commuter railway stations within the ward boundaries.
 
-The special wards are:
-* [[Aoi Ward, Okami|Aoi]] – Financial district and corporate headquarters
-* [[Chuo Ward, Okami|Chuo]] – Commercial center and historic merchant district
-* [[Higashi Ward, Okami|Higashi]] – Eastern residential district
-* [[Kanda Ward, Okami|Kanda]] – Education and research hub
-* [[Kita Ward, Okami|Kita]] – Northern industrial zone
-* [[Minami Ward, Okami|Minami]] – Southern commercial district
-* [[Minato Ward, Okami|Minato]] – Port and waterfront development zone
-* [[Nagata Ward, Okami|Nagata]] – Government district
-* [[Nakano Ward, Okami|Nakano]] – Cultural district
-* [[Nishi Ward, Okami|Nishi]] – Western residential district
-* [[Sakura Ward, Okami|Sakura]] – Cherry blossom viewing area
-* [[Shibuya Ward, Okami|Shibuya]] – Entertainment and fashion center
-* [[Shinagawa Ward, Okami|Shinagawa]] – High-tech industrial zone
-* [[Shinjuku Ward, Okami|Shinjuku]] – Administrative center and nightlife district
-* [[Sugamo Ward, Okami|Sugamo]] – Traditional shopping district
-* [[Tama Ward, Okami|Tama]] – Modern commercial development
-* [[Tatara Ward, Okami|Tatara]] – Heavy industrial and shipbuilding zone
-* [[Ueno Ward, Okami|Ueno]] – Parks and cultural institutions
+The 20 special wards are:
+* [[Aoi Ward, Okami|Aoi]] ({{lang|ja|葵区}}) – Financial district, corporate headquarters, and luxury commercial corridor ({{cvt|9.9|km2|abbr=on}}, 28 rail stations)
+* [[Chiyoda Ward, Okami|Chiyoda]] ({{lang|ja|千代田区}}) – National administrative core, Imperial Palace, National Diet, and [[Okami Chuo Station|Okami Chūō]] rail nexus ({{cvt|13.7|km2|abbr=on}}, 37 rail stations)
+* [[Chuo Ward, Okami|Chuo]] ({{lang|ja|中央区}}) – Historic Mugishima and Nagashima merchant districts, publishing, and media centre ({{cvt|4.8|km2|abbr=on}}, 16 rail stations)
+* [[Higashi Ward, Okami|Higashi]] ({{lang|ja|東区}}) – Eastern residential and commercial corridor ({{cvt|24.6|km2|abbr=on}}, 16 rail stations)
+* [[Hineno Ward, Okami|Hineno]] ({{lang|ja|日根野区}}) – Southwestern residential and commuter ward ({{cvt|42.5|km2|abbr=on}}, 19 rail stations)
+* [[Kanda Ward, Okami|Kanda]] ({{lang|ja|神田区}}) – Academic, university, and [[Satori AI]] research hub ({{cvt|24.7|km2|abbr=on}}, 14 rail stations)
+* [[Kita Ward, Okami|Kita]] ({{lang|ja|北区}}) – Northern industrial and residential district ({{cvt|29.0|km2|abbr=on}}, 14 rail stations)
+* [[Minami Ward, Okami|Minami]] ({{lang|ja|南区}}) – Major southern commercial hub anchored by [[Minami Okami Station]] ({{cvt|20.0|km2|abbr=on}}, 28 rail stations)
+* [[Minato Ward, Okami|Minato]] ({{lang|ja|港区}}) – Port terminals, reclaimed harbour islands, and waterfront development zone ({{cvt|15.1|km2|abbr=on}}, 21 rail stations)
+* [[Nagata Ward, Okami|Nagata]] ({{lang|ja|長田区}}) – Ministerial offices, media headquarters, and dense inner residential quarters ({{cvt|14.7|km2|abbr=on}}, 24 rail stations)
+* [[Nishi Ward, Okami|Nishi]] ({{lang|ja|西区}}) – Western inner residential and athletic complex district ({{cvt|21.8|km2|abbr=on}}, 19 rail stations)
+* [[Rokumanji Ward, Okami|Rokumanji]] ({{lang|ja|六万寺区}}) – Historic temple district and central-south transit crossroads ({{cvt|17.4|km2|abbr=on}}, 14 rail stations)
+* [[Sakura Ward, Okami|Sakura]] ({{lang|ja|桜区}}) – Riverfront parks and northwestern residential neighbourhoods ({{cvt|21.4|km2|abbr=on}}, 21 rail stations)
+* [[Sugamo Ward, Okami|Sugamo]] ({{lang|ja|巣鴨区}}) – Traditional commercial streets and hot-spring district ({{cvt|16.7|km2|abbr=on}}, 21 rail stations)
+* [[Tama Ward, Okami|Tama]] ({{lang|ja|多摩区}}) – Hyper-dense island commercial, entertainment, and nightlife hub ({{cvt|16.2|km2|abbr=on}}, 28 rail stations)
+* [[Tamade Ward, Okami|Tamade]] ({{lang|ja|玉出区}}) – Southeastern private railway terminal hub and university quarter ({{cvt|15.5|km2|abbr=on}}, 16 rail stations)
+* [[Tatara Ward, Okami|Tatara]] ({{lang|ja|多々良区}}) – Heavy industrial heritage, shipbuilding, and [[National Iron Body Initiative]] headquarters ({{cvt|24.9|km2|abbr=on}}, 11 rail stations)
+* [[Terao Ward, Okami|Terao]] ({{lang|ja|寺尾区}}) – Southern hillside residential ward ({{cvt|24.0|km2|abbr=on}}, 20 rail stations)
+* [[Uonuma Ward, Okami|Uonuma]] ({{lang|ja|魚沼区}}) – Western inner transit corridor and commercial ward ({{cvt|34.8|km2|abbr=on}}, 20 rail stations)
+* [[Yanagimoto Ward, Okami|Yanagimoto]] ({{lang|ja|柳本区}}) – Central-western residential and loop-line interchange ward ({{cvt|17.0|km2|abbr=on}}, 16 rail stations)
 
 ==Economy==
 {{Main|Economy of Okami}}
-Okami is the economic powerhouse of Okaiken and one of the major financial centers of Adonia. The Greater Okami metropolitan area accounts for approximately one-third of the nation's GDP and serves as the headquarters for the majority of Okaiken's largest corporations, financial institutions, and international organizations.
+Okami is the economic powerhouse of Okaiken and one of the major financial centers of Adonia. The Greater Okami metropolitan area accounts for approximately one-third of the nation's GDP and serves as the headquarters for the majority of Okaiken's largest corporations, financial institutions, and international organizations. The city's economic dominance has intensified in the 21st century, as the concentration of financial services, technology, media, and entertainment industries in the capital has accelerated even as many of the nation's rural and regional prefectures experience population decline and economic contraction.
+
+===The Okami magnet and regional depopulation===
+The most significant structural trend in the modern Sanese economy is the accelerating concentration of population, capital, and talent in the Okami metropolitan area. While the nation's total population has been declining since 2015—driven by a total fertility rate of 1.26 and an aging demographic—the Greater Okami area has continued to grow, absorbing young workers from every region of the archipelago. Between 2015 and 2025, the Okami metropolitan area gained approximately 1.2 million residents through internal migration, while the combined population of the remaining prefectures declined by over 2.8 million.
+
+The {{nihongo|"Okami magnet"|大紙磁石|Okami-jishaku}}, as economists have termed the phenomenon, is driven by several reinforcing factors. The city's financial sector and its technology industry offer salaries 40–60% higher than the national average, and the concentration of corporate headquarters in the Aoi and Chuo wards creates a self-reinforcing cycle of opportunity and investment. The [[Satori AI]] ecosystem, centred on the [[Satori Development Institute]] in Kanda, has attracted the nation's most talented software engineers and data scientists, while the [[Okami Stock Exchange]]'s dominance of capital markets ensures that the city remains the indispensable gateway for both domestic and foreign investment.
+
+The cultural dimension of the Okami magnet is equally important. The city's position as the undisputed centre of Sanese popular culture—music, fashion, gaming, and entertainment—has made it the only viable location for ambitious young people seeking careers in the creative industries. The [[PYRAMID30]] music charts, the nation's most influential pop culture barometer, are dominated by Okami-based artists and labels, and the city's fashion districts—particularly the [[Tamashima]] Neon District and the [[Aoi]] luxury corridor—set trends that are followed throughout the archipelago. For young Sanese, the choice is increasingly framed as "Okami or nothing": the regional cities offer stability and tradition, but the capital offers the possibility of a career in the industries that define modern Sanese identity.
+
+The government has attempted to counter the Okami magnet through various regional revitalisation programmes, including the [[Regional Innovation Cities]] initiative and tax incentives for companies that relocate headquarters to regional prefectures. These programmes have had limited success, as the economic logic of agglomeration—the benefits that firms and workers derive from proximity to one another—overwhelms the modest financial incentives offered by the state. The [[Ikazaki Cabinet]]'s 2026 "Digital Decentralisation" proposal, which would mandate remote work for 30% of government employees, is the most ambitious attempt to date, but its implementation remains uncertain in the wake of the [[Satori AI Blackout Crisis]].
 
 ===Financial Services===
+[[File:Okami Stock Exchange.png|thumb|right|The Okami Stock Exchange in the Aoi Financial District.]]
 The city's financial district, centered on the Aoi and Chuo wards, is home to the [[Okami Stock Exchange]], one of the largest stock exchanges in Adonia by market capitalization. The exchange lists over 3,500 companies and plays a crucial role in the nation's capital markets. Major financial institutions headquartered in Okami include the [[Bank of Okaiken]], the [[Sanese Development Bank]], and the nation's largest commercial banks and insurance companies.
 
 The Okami International Financial Center, located in the Minato waterfront development zone, has emerged as a major hub for international finance, attracting regional headquarters of multinational corporations and serving as a gateway for foreign investment into Okaiken.
 
 ===Technology and Innovation===
-Okami has established itself as a leading center for technology and innovation. The city is home to the [[Satori Development Institute]], the nation's primary research facility for artificial intelligence and algorithmic governance. The Kanda district houses numerous technology startups and research laboratories, while the Shinagawa ward hosts major electronics manufacturers and telecommunications companies.
+Okami has established itself as a leading center for technology and innovation. [[File:Okami Satori Development Institute.png|thumb|left|The Satori Development Institute in Kanda Ward, the nucleus of the city's AI ecosystem.]]
+The city is home to the [[Satori Development Institute]], the nation's primary research facility for artificial intelligence and algorithmic governance. The Kanda district houses numerous technology startups and research laboratories, while the Shinagawa ward hosts major electronics manufacturers and telecommunications companies.
 
 The city's commitment to smart city development has made it a global leader in urban technology. The integration of the Satori algorithmic system into city infrastructure has enabled the development of autonomous transportation networks, smart grid energy systems, and AI-powered public services.
+
+===Pop culture and entertainment===
+Okami is the undisputed centre of Sanese popular culture, and the entertainment industry is one of the city's most important economic sectors and a primary driver of the Okami magnet effect. The city's music, fashion, gaming, and media industries generate an estimated 円1.24 trillion in annual revenue and employ approximately 420,000 workers in the metropolitan area.
+
+[[File:Okami O-Pop Neon District.png|thumb|right|An O-Pop performance in the Tamashima Neon District.]]
+The [[O-Pop]] industry, centred on the [[Tamashima]] entertainment district and the [[Aoi]] label corridor, is the city's most visible cultural export. [[File:Okami PYRAMID30 studio.png|thumb|right|A recording studio in the Sound District, the 3-kilometre corridor that houses the O-Pop production infrastructure.]]
+The [[PYRAMID30]] charts, compiled weekly from sales data, streaming figures, and radio airplay, are the definitive measure of commercial success in Sanese popular music, and an appearance on the PYRAMID30 is considered the essential credential for any artist seeking national recognition. The major O-Pop labels—including [[Siren Records]], [[Tensei Music]], and [[Crystal Wave Entertainment]]—are all headquartered in the Aoi-Chuo corridor, and the industry's production infrastructure (recording studios, talent agencies, choreography studios, and marketing firms) is concentrated within a 3-kilometre radius that has been termed the {{nihongo|"Sound District"|音域|On-iki}}.
+
+The [[Idol Liberation Act]] of 2016, which ended the restrictive contract system that had governed the idol industry for decades, paradoxically accelerated the concentration of idol culture in Okami. The freed idols, no longer bound to their original agencies, migrated to the capital to establish independent careers, and the resulting proliferation of small labels and independent production companies made Okami the only city with the critical mass of talent, infrastructure, and media access needed to sustain a modern idol career. The [[Okami Idol Festival]], held annually in the Tamashima district, draws over 500,000 attendees and is one of the largest music events in Fosia.
+
+The gaming and digital content sector is equally concentrated. The [[Okami Esports Arena]], a 30,000-seat venue opened in 2023, hosts the annual [[Shendan Cup]] tournament and has established the city as the premier competitive gaming destination in the East Fosian sphere. The virtual idol industry—AI-generated performers who exist only as digital avatars—has become a uniquely Sanese cultural export, with the most successful virtual idol, {{nihongo|''Satori-hime''|悟り姫|Awakening Princess}}, generating over 円8 billion in annual merchandise and streaming revenue.
+
+===The National Iron Body Initiative and the fitness economy===
+{{Main|Cult of Iron|National Iron Body Initiative}}
+Okami is the administrative centre and the primary beneficiary of the {{nihongo|'''[[National Iron Body Initiative]]'''|国家鉄身計画|Kokka Tesshin Keikaku}}, the government's flagship fitness and public health programme launched by [[Crown Prince Tomohito]] in 2015. The Initiative, which frames physical fitness as a matter of national security and civic virtue, has its headquarters in the [[Tatara Sports Complex]] and its policy coordination office in the [[Ministry of Health, Labour and Welfare (Okaiken)|Ministry of Health]] building in Chuo Ward.
+
+The Initiative has had a transformative effect on the Okami economy. The {{nihongo|'''fitness industrial complex'''|健産業|Ken-sangyō}}—the commercial ecosystem that has grown around the {{nihongo|[[physical culture movement]]|鉄身信仰|Tesshin-shinkō}}—is centred on Okami, where the concentration of fitness equipment manufacturers, supplement companies, athletic apparel brands, and recovery wellness facilities generates an estimated 円420 billion in annual revenue. [[File:Okami Tatara Circuit gym.png|thumb|right|A premium gym on the Tatara Circuit, the epicentre of the physical culture movement.]]
+The [[Tatara]] ward, historically the city's heavy industrial zone, has been partially redeveloped as the {{nihongo|"Fitness District"|健区|Ken-ku}}, a cluster of premium gyms, supplement research laboratories, and athletic recovery centres that caters to the city's estimated 1.8 million regular gym-goers.
+
+The Initiative's subsidies for athletic recovery—including the {{nihongo|''Tesshin-yu''|鉄身湯|Iron Body Bath}} onsen programme, which provides subsidised access to thermal recovery facilities for registered athletes—have created a secondary market in athletic tourism, with Okami's onsen hotels and recovery spas catering to fitness tourists from across the archipelago. The [[Okami Marathon]], held each February, attracts over 40,000 runners and generates an estimated 円28 billion in tourism revenue, while [[File:Okami Mr Adonia championship.png|thumb|left|The Mr. Adonia bodybuilding championship at the Tatara Sports Complex.]]
+the [[Mr. Adonia]] bodybuilding championship, held at the Tatara Sports Complex, draws competitors and spectators from across the East Fosian sphere.
+
+The physical culture movement's cultural influence is particularly visible in the Tatara ward, where the {{nihongo|"guardian physique"|守護体格|Shugo-taikaku}}—the muscular, athletic body type promoted by the Iron Body ideology—has become the dominant aesthetic for young men. The ward's gyms, supplement shops, and protein restaurants form a distinctive commercial ecosystem that has been termed the {{nihongo|"Tatara Circuit"|多々羅回廊|Tatara-kairō}}, and the area has become a pilgrimage destination for fitness enthusiasts from across Okaiken.
+
+====The Expansion of Fitness Culture (2020–2026)====
+Since 2020, the fitness culture that originated in the Tatara ward has expanded dramatically across the metropolitan area, driven by a convergence of government policy, corporate investment, and cultural normalization. The [[National Iron Body Initiative]]'s 2020 amendment, which extended subsidized gym memberships to all metropolitan residents aged 16–65, triggered a surge in gym construction across the special wards. Between 2020 and 2025, the number of commercial fitness facilities in the metropolitan area grew from approximately 2,800 to over 5,200, with the most dramatic growth occurring in the central wards—Aoi, Chuo, and Chiyoda—where premium "boutique fitness" studios targeting the professional class have proliferated.
+
+[[File:Okami Aoi Fitness Corridor.png|thumb|right|A boutique fitness studio in the Aoi Fitness Corridor, catering to the city's professional class.]]
+The {{Nihongo|'''White-Collar Iron'''|白書鉄|Hakusho-tetsu}} phenomenon, as the media has termed the adoption of fitness culture by the office worker class, represents a significant cultural shift. The Tatara Circuit's working-class aesthetic—raw iron, chalk, and sweat—has been adapted for the corporate market through a new generation of "luxury fitness" establishments that combine high-end equipment, designer interiors, and the Satori-integrated workout tracking systems. The [[Aoi Fitness Corridor]], a stretch of premium gyms and recovery spas along the Aoi-Chuo border, has become the preferred destination for the city's bankers, lawyers, and technology executives, who treat the {{Nihongo|''tesshin-sagyō''|鉄身作業|'iron body work'}}—the daily workout—as a non-negotiable element of professional life.
+
+The corporate sector has embraced fitness culture as both a productivity strategy and a status marker. Over 60% of the companies listed on the [[Okami Stock Exchange]] now offer on-site gym facilities or subsidized fitness memberships as employee benefits, and the [[Okami Metropolitan Government]] has mandated that all new commercial buildings over 10,000 m² include fitness infrastructure. The [[Satori Development Institute]]'s research division has published extensively on the correlation between physical fitness and cognitive performance, providing the scientific justification for what critics have termed the "mandatory wellness" regime.
+
+The expansion of fitness culture has not been without controversy. The [[DSP]] opposition has criticized the National Iron Body Initiative as a form of state coercion over individual lifestyle choices, and the [[Sanese Communist Party]] has argued that the subsidized gym membership program disproportionately benefits the affluent wards where gym facilities are concentrated. The {{Nihongo|''Ken-sangyō Seisaku Renmei''|健産業政策連盟|Fitness Industry Policy Federation}}, the lobbying arm of the fitness industrial complex, has become one of the most powerful interest groups in the metropolitan assembly, advocating for expanded subsidies and mandatory fitness infrastructure requirements.
+
+====Landscape Architecture and the Fitness City====
+The most visible physical manifestation of the fitness culture's expansion is the transformation of Okami's public landscape architecture. Since 2020, the Okami Metropolitan Government has invested approximately 円180 billion in the {{Nihongo|'''Fitness City Initiative'''|健都市計画|Ken-toshi keikaku}}, a comprehensive redesign of the city's parks, promenades, and public spaces to accommodate and encourage physical activity.
+
+The Initiative's design philosophy, developed by the [[Okami Metropolitan Urban Design Institute]] in collaboration with the [[Satori Development Institute]], treats the entire city as a potential fitness environment. The traditional distinction between "recreational" parks and "athletic" facilities has been dissolved in favor of a {{Nihongo|''taishō-teki kūkan''|対称的空間|'adaptive space'}} approach, where public spaces are designed to serve multiple functions—recreation, transportation, and exercise—simultaneously.
+
+[[File:Okami Green Ring running path.png|thumb|right|The Green Ring running path following the Okami Loop Line route.]]
+The most significant element of the Fitness City Initiative is the {{Nihongo|'''Green Ring'''|緑輪|Ryokurin}}, a 42-kilometer continuous circuit of running paths, cycling lanes, and calisthenics stations that follows the route of the [[Okami Loop Line]] railway. The Green Ring, which opened in stages between 2022 and 2025, connects all 20 special wards and provides a standardized fitness infrastructure that can be used by runners, cyclists, and walkers regardless of their starting point. The Ring's design incorporates the Satori system's real-time crowd monitoring, with LED-embedded path markers that change color to indicate congestion levels and guide users toward less crowded segments.
+
+[[File:Okami Hiryu Promenade fitness.png|thumb|left|The redesigned Hiryū River Promenade, with its three-lane system and outdoor fitness stations.]]
+The [[Hiryū River Promenade]], the city's most popular riverside green corridor, has been extensively redesigned under the Initiative. The original 3-meter pedestrian path has been expanded to 12 meters and divided into three lanes: a high-speed running lane, a cycling lane, and a walking lane. The promenade now features 28 outdoor fitness stations—pull-up bars, parallel bars, stretching platforms, and resistance training equipment—positioned at 1.5-kilometer intervals along the river. The stations, designed by the [[Okami Metropolitan Urban Design Institute]] with input from the [[National Iron Body Initiative]]'s exercise science division, are constructed from marine-grade stainless steel and feature integrated Satori sensors that count repetitions and provide form guidance through embedded display screens.
+
+[[File:Okami Chuo Park iron garden.png|thumb|right|The 'iron garden' at Okami Chūō Park, where strength training equipment is integrated into the traditional landscape.]]
+The redesign of [[Okami Chūō Park]] on Mugishima demonstrates the Initiative's most ambitious integration of landscape architecture and fitness culture. The park's traditional ornamental gardens have been preserved, but the surrounding open spaces have been transformed into a {{Nihongo|''kinō-teki enchi''|機能的園地|'functional garden'}}—a landscape designed to facilitate exercise while maintaining aesthetic quality. The park's new features include a 2.4-kilometer rubberized running loop that winds through the cherry blossom groves, a 400-meter athletics-standard track surrounding the ornamental lake, and an outdoor "iron garden" with weather-resistant strength training equipment positioned among the traditional plantings. The design has been controversial—traditionalists have criticized the intrusion of industrial fitness equipment into the park's historic landscape—but the Metropolitan Government has defended it as a necessary adaptation of public space to the city's evolving needs.
+
+The Tatara ward's landscape has been the most dramatically transformed. [[File:Okami Tatara Fitness Waterfront.png|thumb|left|The Tatara Fitness Waterfront, with the Tatara Tower climbing wall visible at center.]]
+The {{Nihongo|'''Tatara Fitness Waterfront'''|多々羅健水際|Tatara-ken-mizugiwa}}, a 3.2-kilometer stretch of the Ryūbi-jima western shoreline, has been converted from derelict industrial land into a state-of-the-art athletic park. The waterfront features a 10-lane swimming complex, a beach volleyball arena, a 5-kilometer coastal running path, and the {{Nihongo|''Tatara Tower''|多々羅塔|Tatara-tō}}—a 30-meter climbing wall that has become one of the ward's most recognizable landmarks. The waterfront's design incorporates the {{Nihongo|''Tesshin-yu''|鉄身湯|Iron Body Bath}} thermal recovery facility, where athletes can transition directly from training to onsen recovery without leaving the complex.
+
 
 ===Industry===
 While the city's economy has shifted toward services, Okami retains significant industrial capacity. The Tatara ward houses the [[Okami Industrial Zone]], one of the nation's largest concentrations of heavy industry. The zone includes major shipyards, steel mills, and chemical processing facilities. The historic shipyards of Tatara have produced vessels for the Sanese navy and merchant marine for centuries.
 
-The light manufacturing sector is concentrated in the Kita and Shinagawa wards, producing electronics, precision instruments, and consumer goods. The city's printing and publishing industry, centered on the traditional paper-making districts, remains significant and reflects the city's historical identity as "Big Paper."
+The light manufacturing sector is concentrated in the Kita and Uonuma wards, producing electronics, precision instruments, and consumer goods. The city's printing and publishing industry, centered on the traditional paper-making districts, remains significant and reflects the city's historical identity as "Big Paper."
 
 ===Tourism and Hospitality===
-Okami attracts millions of domestic and international visitors annually, making tourism a significant sector of the economy. The city's cultural attractions, including historic temples, museums, and entertainment districts, draw visitors from across Adonia. The hotel and hospitality industry is concentrated in the central wards, with luxury accommodations in Shinjuku and Shibuya and business hotels throughout the commercial districts.
+Okami attracts millions of domestic and international visitors annually, making tourism a significant sector of the economy. The city's cultural attractions, including historic temples, museums, and entertainment districts, draw visitors from across Adonia. The hotel and hospitality industry is concentrated in the central wards, with luxury accommodations in Chiyoda, Aoi, and Tama and business hotels throughout the commercial districts.
+
+===The Okami Metropolitan Region and the Northern Corridor===
+[[File:Okami Northern Corridor rail.png|thumb|right|The Tokuyama-Okami Express Railway, the primary transit link between the capital and the Northern Corridor.]]
+The Greater Okami metropolitan area does not exist in isolation; it is the southern terminus and economic engine of the {{Nihongo|'''Northern Harujima Corridor'''|北春島回廊|Kita-Harujima kairō}}, the chain of industrial and agricultural prefectures stretching northward along the western coast of Harujima. The relationship between the capital and its neighboring prefectures—[[Yamagata Prefecture|Yamagata]], [[Akita Prefecture|Akita]], [[Yonezawa Prefecture|Yonezawa]], [[Fukushima Prefecture|Fukushima]], and [[Tokuyama Prefecture|Tokuyama]]—is one of profound economic interdependence and growing demographic imbalance.
+
+{| class="wikitable"
+|+ Key statistics of the Northern Corridor prefectures (2017)
+|-
+! Prefecture !! Population !! GDP (円 billions) !! Key industries !! Distance to Okami
+|-
+| [[Yamagata Prefecture|Yamagata]] || 1,120,000 || 4,850 || Agriculture, food processing, traditional crafts || 180 km
+|-
+| [[Akita Prefecture|Akita]] || 980,000 || 3,200 || Forestry, mining, petrochemicals || 240 km
+|-
+| [[Yonezawa Prefecture|Yonezawa]] || 640,000 || 2,100 || Textiles, precision manufacturing, Kwangju cultural industries || 210 km
+|-
+| [[Fukushima Prefecture|Fukushima]] || 1,850,000 || 6,400 || Nuclear energy, automotive parts, agriculture || 290 km
+|-
+| [[Tokuyama Prefecture|Tokuyama]] || 1,380,000 || 5,600 || Shipbuilding, steel, port logistics || 120 km
+|-
+| '''Okami Metropolis''' || '''32,229,987''' || '''~1,300,000''' || Financial services, technology, media, government || —
+|-
+|}
+
+The Northern Corridor prefectures supply the capital with essential resources and labor. The agricultural output of Yamagata and Fukushima—particularly rice, fruit, and dairy products—feeds the metropolitan area's 36.9 million residents, with an estimated 40% of the food consumed in Okami originating in the Northern Corridor. The heavy industrial output of Akita and Tokuyama—steel, petrochemicals, and shipbuilding components—feeds the capital's construction sector and the Tatara Industrial Zone. The precision manufacturing of Yonezawa, particularly its textile and optical equipment industries, supplies the fashion and technology sectors of the central wards.
+
+The flow of labor from the Northern Corridor to the capital is the most consequential demographic trend in the relationship. Between 2010 and 2020, the five Northern Corridor prefectures lost a combined 420,000 residents to net out-migration, with the majority of those departing being young workers aged 20–35. The [[Okami magnet]] effect draws these workers with the promise of higher salaries, career opportunities, and the cultural vibrancy that the regional cities cannot match. The result is a vicious cycle: as the young depart, the regional economies contract, the tax base erodes, and the remaining population ages, further reducing the economic vitality of the prefectures and driving even more young people to seek opportunity in the capital.
+
+The [[Tokuyama]]-Okami relationship is the most intense of the Northern Corridor connections. At only 120 km from the capital, Tokuyama functions as Okami's primary industrial satellite. The [[Tokuyama Heavy Industries]] complex, one of the nation's largest shipbuilding and steel facilities, produces components for the Tatara shipyards and the capital's construction sector. The [[Tokuyama-Okami Express Railway]], completed in 1989, provides a 45-minute connection that has effectively made Tokuyama a commuter suburb for the capital's industrial workforce. The two cities' economies are so deeply integrated that the [[Okaiken Times]] has described Tokuyama as "the workshop of Okami, separated by a mountain range and a political boundary."
+
+The [[Fukushima]]-Okami relationship is more complex. Fukushima's nuclear energy facilities, which generate approximately 15% of the nation's electricity, are critical to powering the capital's enormous energy demand. The [[Fukushima-Okami Power Corridor]], a network of high-voltage transmission lines completed in the 1970s, transmits electricity directly from the Fukushima plants to the metropolitan grid. This energy dependency has created political tensions, as Fukushima residents have increasingly objected to bearing the risks of nuclear power generation while the economic benefits flow primarily to the capital. The [[Fukushima Anti-Nuclear Movement]], which gained significant momentum after the [[Satori AI Blackout Crisis]] exposed the vulnerability of automated safety systems, has become a major political force in the prefecture.
+
+The [[Yonezawa]]-Okami relationship is defined by cultural and economic exchange. Yonezawa is the center of the [[Kwangju]] cultural heartland, and the Kwangju community of Okami's Tatara ward maintains strong ties to the prefecture through family networks, cultural organizations, and business relationships. The Yonezawa textile industry, which produces the high-quality fabrics used by Okami's fashion houses, is a critical link in the capital's luxury goods supply chain. The [[Yonezawa-Okami Cultural Exchange Program]], established in 1995, funds annual exchanges of artists, musicians, and cultural practitioners between the two cities.
+
 
 ==Demographics==
 {{Main|Demographics of Okami}}
-Okami's population of over 8.2 million in the special wards and 32 million in the metropolitan area makes it the most populous urban area in Okaiken and one of the largest in Adonia. The city's population density of approximately 4,400 per km² in the special wards is among the highest in the nation, though lower than some smaller urban centers.
+Okami's population of over 8.2 million in the special wards and 36.9 million in the metropolitan area makes it the most populous urban area in Okaiken and one of the largest in Adonia. The city's population density of approximately 4,400 per km² in the special wards is among the highest in the nation, though lower than some smaller urban centers.
 
 The city has experienced steady population growth throughout the post-war period, though growth rates have slowed in recent decades as the metropolitan area has matured. The population of the special wards peaked at approximately 8.9 million in 2015 before declining slightly, reflecting broader demographic trends toward suburbanization and an aging population.
 
-===Ethnic Composition===
-Okami is home to the largest concentration of foreign residents in Okaiken. As of 2017, approximately 500,000 foreign nationals resided in the city, representing over 6% of the population. The largest foreign communities are from [[Kingdom of Zong|Zong]], [[Dagit]], and [[Yanbaru]], with smaller communities from [[Nakamizu]] and various Illypnian nations.
+===Population History===
+[[File:Okami population growth graph.svg|thumb|right|Population growth of Okami from 1600 to 2017.]]
+Okami's population has grown dramatically since the Honda period, when it was a small fishing village. The city's demographic history reflects its political and economic evolution:
 
-The city's historic [[Zong Town]] in the Chuo ward remains a vibrant ethnic enclave, while more recent immigrant communities have established themselves in the Tatara and Minami wards. The city government has implemented various programs to support foreign residents, including multilingual services and cultural integration initiatives.
+{| class="wikitable sortable"
+|+ Historical population
+|-
+! Year !! Population !! Change !! Notes
+|-
+| 1600 || 100 || — || Original fishing settlement
+|-
+| 1610 || 200,000 || +199,900% || Imperial court relocation
+|-
+| 1700 || 800,000 || +300% || Honda Shogunate peak
+|-
+| 1800 || 1,100,000 || +38% || Pre-modern maximum
+|-
+| 1870 || 1,200,000 || +9% || End of Honda era
+|-
+| 1900 || 1,800,000 || +50% || Industrial expansion
+|-
+| 1940 || 7,300,000 || +306% || Pre-war maximum
+|-
+| 1950 || 4,200,000 || −42% || Post-GAW devastation
+|-
+| 1960 || 6,200,000 || +48% || Reconstruction era
+|-
+| 1970 || 8,400,000 || +35% || Economic miracle
+|-
+| 1980 || 8,600,000 || +2% || Bubble era
+|-
+| 1990 || 8,800,000 || +2% || Bubble peak
+|-
+| 2000 || 8,500,000 || −3% || Post-bubble adjustment
+|-
+| 2010 || 8,900,000 || +5% || Metropolitan consolidation
+|-
+| 2017 || 8,259,189 || −7% || Current (special wards)
+|-
+|}
+
+===Ethnic Composition===
+Okami is home to the largest concentration of foreign and minority residents in Okaiken. As of 2017, approximately 500,000 foreign nationals resided in the city, representing over 6% of the population. However, the city's ethnic diversity extends well beyond the foreign resident population, as the broader category of "Sanese" encompasses several distinct ethnic and cultural communities.
+
+{| class="wikitable"
+|+ Ethnic composition of Okami (2017)
+|-
+! Group !! Population !! Share !! National share !! Notes
+|-
+| [[Sanese people|Yoroi (Sanese)]] || ~7,620,000 || 92.3% || 77.3% || Includes mixed Yoroi-Kwangju
+|-
+| [[Kwangju people|Kwangju]] || ~185,000 || 2.2% || 19.7% || Concentrated in Tatara, Minami
+|-
+| [[Dagiti people|Dagiti]] || ~95,000 || 1.2% || — || Maritime community, port areas
+|-
+| [[Yanbaru people|Yanbaru]] || ~72,000 || 0.9% || — || Concentrated in Minato, Hineno
+|-
+| [[Nakamian people|Nakamian]] || ~48,000 || 0.6% || — || Concentrated in Chuo, Aoi
+|-
+| [[Atsu people|Atsu]] || ~22,000 || 0.3% || 3.2% || Northern Harujima migrants
+|-
+| [[Mercian people|Mercian]] || ~35,000 || 0.4% || — || Expatriate professionals
+|-
+| Other foreign nationals || ~182,000 || 2.2% || — || 
+|-
+| '''Total''' || '''8,259,189''' || '''100%''' || '''100%''' || 
+|-
+|}
+
+====The Kwangju Community====
+[[File:Okami Kwangju cultural center.png|thumb|right|The Kwangju Cultural Center of Okami in the Tatara ward.]]
+The [[Kwangju people]], who constitute 19.7% of the national population, are Okaiken's largest ethnic minority. The Kwangju are historically concentrated in the northern Harujima corridor—particularly in the prefectures of [[Yamagata Prefecture|Yamagata]], [[Akita Prefecture|Akita]], [[Yonezawa Prefecture|Yonezawa]], and [[Fukushima Prefecture|Fukushima]]—where they have maintained distinct cultural, linguistic, and community institutions for centuries. The Kwangju language, a regional language recognized under the [[Regional Language Preservation Act]], is spoken natively by an estimated 14 million Kwangju nationwide, though fluency rates have declined significantly among younger generations.
+
+In Okami, the Kwangju community is concentrated in the Tatara and Minami wards, where the {{Nihongo|''Kwangju-chō''|光州町|Kwangju district}} in Tatara has served as the community's cultural and commercial center since the Honda period. The district's distinctive architecture—featuring the colorful geometric tilework and pitched roofs characteristic of Kwangju traditional design—stands in sharp contrast to the surrounding industrial landscape. The [[Kwangju Cultural Center of Okami]], established in 1972, operates language classes, cultural programs, and community services for the estimated 185,000 Kwangju residents of the metropolis.
+
+The Kwangju community's relationship with the broader Sanese identity is complex. While the [[Sanese government]] officially classifies Kwangju as an ethnic subgroup of the Sanese people, the Kwangju community has historically maintained a distinct identity, and the question of whether Kwangju constitute a separate ethnic group or a regional variant of the Sanese people remains a subject of political and cultural debate. The [[Kwangju Rights Movement]], which gained momentum in the 1990s, has pushed for recognition as a distinct ethnic minority and for expanded language rights, while the [[LDP]] government has maintained the position that Kwangju are Sanese citizens with a regional cultural tradition.
+
+====The Yanbaru and Nakamian Communities====
+[[File:Okami Yanbaru community festival.png|thumb|left|A Yanbaru community cultural festival in the Minato ward.]]
+The [[Yanbaru]] and [[Nakamian]] communities in Okami represent the city's most recent waves of immigration, driven primarily by economic opportunity and the Okami magnet effect.
+
+The Yanbaru community of approximately 72,000 is concentrated in the Minato and Hineno wards, where the proximity to the port facilities and the waterfront development zone has created a natural gathering point for immigrants from [[Yanbaru]]. The community maintains strong ties to the homeland through cultural organizations, import businesses, and the [[Yanbaru Cultural Association of Okami]]. The Yanbaru are primarily employed in the service sector, the hospitality industry, and the construction trades, though a growing number of second-generation Yanbaru have entered the technology and financial sectors.
+
+The Nakamian community of approximately 48,000 is concentrated in the Chuo and Aoi wards, reflecting the community's historical involvement in commerce and trade. The [[Nakamian Chamber of Commerce of Okami]], established in 1985, is one of the most influential ethnic business organizations in the city. The Nakamian community's economic profile is notably bimodal: while a significant proportion works in the retail and service sectors, a substantial minority has achieved high levels of educational and professional attainment, particularly in medicine, law, and finance.
+
+Neither the Yanbaru nor the Nakamian communities are classified as Sanese under the current legal framework. Both groups are subject to the [[Foreign Resident Registration Act]] and face barriers to naturalization, though the requirements have been progressively relaxed since the 1990s. The [[Aono Administration]] has proposed further reforms to the naturalization process, including the elimination of the controversial "cultural assimilation interview" requirement, though these proposals face opposition from conservative elements in the [[Diet]].
+
+====The Atsu Community====
+[[File:Okami Atsu Imekanu festival.png|thumb|right|The Imekanu festival, performed by the Atsu community in the Kita ward.]]
+The [[Atsu people]], Okaiken's indigenous inhabitants of northern Harujima, maintain a small but culturally significant presence in Okami. The approximately 22,000 Atsu residents of the metropolis are primarily economic migrants from the northern prefectures, drawn to the capital by employment opportunities that are scarce in their traditional territories. The Atsu community is concentrated in the Kita and Uonuma wards, where the industrial and manufacturing sectors provide employment opportunities for workers with limited formal education.
+
+The Atsu community's presence in Okami is a source of cultural tension. The [[Atsu Language]], classified as critically endangered by the [[Okaiken Linguistic Survey]], is spoken natively by fewer than 2,000 Atsu in the metropolitan area, and the community's traditional cultural practices—including the [[Imekanu]] festival and animist spiritual traditions—have been difficult to maintain in the urban environment. The [[Atsu Cultural Association of Okami]], founded in 2003, operates language preservation programs and cultural events, but the community's small size and geographic dispersal have limited the effectiveness of these efforts.
+
+
+===Income and Economic Disparity===
+[[File:Okami income by ward map.svg|thumb|left|Median household income by ward, showing the stark contrast between Aoi and Tatara.]]
+Median household income in the metropolitan area is approximately 円6.8 million (approximately $48,000) — nearly double the national median of 円3.6 million — but income inequality within the city is significant. The Gini coefficient for the metropolitan area is approximately 0.42, driven by the contrast between the high-income professional class in Aoi, Chuo, and the western suburbs, and the lower-income service and industrial workforce in Tatara, Minami, and the eastern wards.
+
+{| class="wikitable sortable"
+|+ Median household income by ward (2017)
+|-
+! Ward !! Median income (円 millions) !! Character
+|-
+| Aoi || 12.4 || Financial district, corporate headquarters
+|-
+| Kanda || 9.8 || Academic and research hub
+|-
+| Sakura || 8.6 || Upscale residential, cherry blossom district
+|-
+| Chiyoda || 8.4 || National administrative core, central rail hub
+|-
+| Chuo || 7.5 || Commercial center, historic merchant district
+|-
+| Minato || 7.2 || Port and waterfront development
+|-
+| Tamade || 6.8 || Southeastern commercial and university quarter
+|-
+| Rokumanji || 6.1 || Historic temple district and central-south crossroads
+|-
+| Yanagimoto || 5.6 || Central-western residential and interchange ward
+|-
+| Higashi || 4.8 || Eastern residential district
+|-
+| Nishi || 4.5 || Western residential district
+|-
+| Nagata || 4.2 || Ministerial district, civil servants
+|-
+| Uonuma || 4.0 || Western transit corridor and light manufacturing
+|-
+| Terao || 3.9 || Southern hillside residential ward
+|-
+| Hineno || 3.7 || Southwestern commuter ward
+|-
+| Kita || 3.6 || Northern industrial zone
+|-
+| Minami || 3.2 || Southern commercial district
+|-
+| Sugamo || 3.0 || Traditional shopping district
+|-
+| Tama || 2.9 || Modern commercial development
+|-
+| Tatara || 2.6 || Heavy industrial and shipbuilding zone
+|-
+| '''Citywide median''' || '''6.8''' ||
+|-
+|}
+
+The cost of living in Okami — particularly housing — is the highest in Okaiken, and the national minimum wage of approximately 円950 per hour is widely regarded as insufficient to meet basic needs in the city. The poverty rate in Tatara and Minami wards exceeds 25%, while in Aoi and Sakura wards it is below 5%.
+
+===Vital Statistics===
+Life expectancy at birth in the Okami metropolitan area is approximately 83.2 years (2025) — significantly above the national average of 80.8 years — reflecting the city's higher average income, better healthcare access, and concentration of medical infrastructure. As with income, life expectancy varies sharply across the wards: Aoi and Sakura have life expectancies above 85 years, while Tatara and Minami have life expectancies below 78 years — a gap of nearly a decade within a single metropolitan area.
+
+{| class="wikitable"
+|+ Vital statistics by ward (2017)
+|-
+! Ward !! Life expectancy (years) !! Fertility rate !! Infant mortality (per 1,000)
+|-
+| Aoi || 85.4 || 1.18 || 2.1
+|-
+| Sakura || 85.1 || 1.22 || 2.4
+|-
+| Kanda || 84.6 || 1.28 || 2.8
+|-
+| Chiyoda || 84.1 || 1.32 || 3.0
+|-
+| Chuo || 83.5 || 1.42 || 3.6
+|-
+| Minato || 83.1 || 1.45 || 3.9
+|-
+| Tamade || 82.8 || 1.52 || 4.2
+|-
+| Rokumanji || 82.4 || 1.58 || 4.6
+|-
+| Yanagimoto || 81.9 || 1.65 || 5.1
+|-
+| Higashi || 81.5 || 1.72 || 5.5
+|-
+| Nishi || 81.1 || 1.78 || 5.9
+|-
+| Nagata || 80.8 || 1.82 || 6.2
+|-
+| Uonuma || 80.4 || 1.86 || 6.6
+|-
+| Terao || 80.1 || 1.89 || 6.9
+|-
+| Hineno || 79.9 || 1.92 || 7.1
+|-
+| Kita || 79.6 || 1.95 || 7.4
+|-
+| Minami || 78.9 || 2.05 || 8.2
+|-
+| Sugamo || 78.4 || 2.12 || 8.9
+|-
+| Tama || 78.1 || 2.18 || 9.4
+|-
+| Tatara || 77.2 || 2.32 || 10.8
+|-
+| '''Citywide''' || '''83.2''' || '''1.72''' || '''5.4'''
+|-
+|}
+
+The total fertility rate in the metropolitan area is approximately 1.72 children per woman (2025), below the national average of 1.86 and significantly below replacement level. Fertility rates are lowest in the affluent wards (Aoi ~1.18, Sakura ~1.22) and highest in the working-class wards (Tatara ~2.32, Minami ~2.05), a pattern consistent with the global relationship between income and fertility. The city's population growth is therefore driven primarily by net immigration from the regional prefectures rather than by natural increase.
+
+The infant mortality rate in the metropolitan area is approximately 5.4 per 1,000 live births — below the national average of 6.8 per 1,000, but with significant variation: in Aoi the rate is below 2.1 per 1,000, while in Tatara it exceeds 10.8 per 1,000.
+
+===Age Distribution===
+Okami's age distribution reflects the broader demographic challenges facing Okaiken, with a rapidly aging population and declining birth rates. However, the city's role as the primary destination for internal migration means that its age structure is somewhat younger than the national average.
+
+{| class="wikitable"
+|+ Age distribution of Okami (2017)
+|-
+! Age group !! Population !! Percentage !! National average
+|-
+| 0–14 || 990,000 || 12.0% || 13.2%
+|-
+| 15–29 || 1,320,000 || 16.0% || 14.8%
+|-
+| 30–44 || 1,650,000 || 20.0% || 18.5%
+|-
+| 45–59 || 1,815,000 || 22.0% || 21.2%
+|-
+| 60–74 || 1,487,000 || 18.0% || 19.8%
+|-
+| 75+ || 997,000 || 12.0% || 12.5%
+|-
+| '''Total''' || '''8,259,189''' || '''100%''' || '''100%'''
+|-
+|}
+
+The 15–44 age cohort is overrepresented in Okami relative to the national average, reflecting the city's role as the primary destination for young workers seeking education and employment. Conversely, the 60+ cohort is slightly underrepresented, as many retirees choose to leave the expensive capital for more affordable regional cities or the western suburbs.
+
+===Housing and Real Estate===
+[[File:Okami apartment towers Shinjuku.png|thumb|right|High-rise apartment towers in the Chiyoda ward, typical of the city's dense housing stock.]]
+Okami's housing market is among the most expensive in Adonia, driven by the city's economic dominance, geographic constraints, and the concentration of high-paying jobs in the central wards. The average price of a new condominium in the special wards exceeds 円8.5 million per square meter, with prices in Aoi and Chuo wards reaching 円15 million per square meter for premium properties.
+
+The city's housing stock is characterized by a high proportion of apartment buildings, with over 75% of special ward residents living in multi-unit structures. The average apartment size in the central wards is approximately 65 m², significantly smaller than the national average of 95 m². This density is driven by both land costs and the preference of young urban workers for proximity to employment over living space.
+
+The Okami Metropolitan Government operates one of the nation's largest public housing programs, with approximately 180,000 units providing affordable accommodation for low-income residents. However, demand far exceeds supply, and waiting lists for public housing can exceed five years. The [[Aono Administration]] has proposed a significant expansion of the public housing program, though implementation has been delayed by fiscal constraints and opposition from private developers.
 
 ===Religion===
-Okami's religious landscape reflects the broader Sanese pattern of syncretic practice combining [[Shoto]] and Buddhist traditions. The city is home to numerous major shrines and temples, including the historic [[Kofukuji Temple]] where Ogasawara Terumasa spent his final night, and the [[Okami Grand Shrine]], one of the most important Shoto shrines in the nation.
+Okami's religious landscape reflects the broader Sanese pattern of syncretic practice combining [[Shoto]] and Baiduist traditions. The city is home to numerous major shrines and temples, including the historic [[Kofukuji Temple]] where Ogasawara Terumasa spent his final night, and the [[Okami Grand Shrine]], one of the most important Shoto shrines in the nation.
 
-The Imperial Palace's sacred grounds house the [[Sanshu no Jingi]], the three sacred treasures of the Imperial regalia, making the city the spiritual as well as political center of the nation. Religious observance remains significant in city life, with major festivals drawing millions of participants annually.
+{| class="wikitable"
+|+ Religious affiliation in Okami (2017)
+|-
+! Religion !! Adherents !! Percentage
+|-
+| [[Shoto]] (practicing) || ~3,300,000 || 40%
+|-
+| [[Baiduism|Baiduism]] (practicing) || ~2,480,000 || 30%
+|-
+| Both Shoto and Baiduism || ~1,650,000 || 20%
+|-
+| No religious affiliation || ~660,000 || 8%
+|-
+| Other religions || ~169,000 || 2%
+|-
+| '''Total''' || '''8,259,189''' || '''100%'''
+|-
+|}
+
+The Imperial Palace's sacred grounds house the [[Sanshu no Jingi]], the three sacred treasures of the Imperial regalia, making the city the spiritual as well as political center of the nation. Religious observance remains significant in city life, with major festivals drawing millions of participants annually. The [[Okami Summer Festival]], held in January and February, includes hundreds of events throughout the city, culminating in massive fireworks displays over the Hiryū River. The [[Cherry Blossom Festival]] in March and April attracts millions of visitors to the city's parks and gardens.
+
 
 ==Education==
-{{Main|Education in Okami}}
-Okami is the educational center of Okaiken, home to the nation's most prestigious universities and research institutions. The city's concentration of higher education institutions attracts students from across the nation and internationally.
+{{Main|Education in Okaiken|Higher education in Okaiken}}
+Okami is the academic and scientific center of Okaiken, hosting the highest concentration of research universities, national laboratories, and specialized institutes in the country. Higher education in the capital operates under the national framework overseen by the [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|Ministry of Education, Culture, Sports, Science and Technology]] (MEXT) and the [[National Council for Academic Degrees and University Evaluation]] (NCADUE).
 
 ===Universities and Higher Education===
-The [[University of Okami]], founded in 1877, is the nation's oldest and most prestigious university. The university's main campus is located in the Hongo district, with additional campuses throughout the metropolitan area. The university is consistently ranked among the top institutions in Adonia and has produced numerous Nobel laureates and national leaders.
+[[File:Okami Teikoku University campus.png|thumb|left|The main campus of Okami Imperial University in Kanda.]]
+[[Okami Imperial University]], located in the [[Kanda Ward, Okami|Kanda]] academic district, is Okaiken's oldest and most selective national research university. Founded in 1877, it anchors the '''Imperial Universities Conference''' ({{lang|ja|帝国大学会議}}, ''Teikoku Daigaku Kaigi'') and leads national research output across theoretical physics, law, medicine, and computational sciences. In the western metropolitan municipality of [[Oka, Okami Metropolis|Oka]], the [[University of Okami]] serves as the metropolis's second-ranked public research institution and largest university by enrollment, anchoring the four-kilometre ''Oka Academic Belt'' of pharmaceutical and precision-engineering laboratories.
 
-Other major universities include [[Okami Institute of Technology]], known for engineering and applied sciences; [[Keio University]], a prestigious private institution; [[Waseda University]], known for its programs in law and political science; and [[Sophia University]], a private university with strong international programs.
-
-The city is also home to numerous specialized institutions, including the [[National Defense Academy]], the [[Imperial Music Academy]], and the [[Okami University of the Arts]]. Medical education is concentrated at the [[Okami University School of Medicine]] and several teaching hospitals throughout the city.
+Other major degree-granting institutions in the capital region include the [[Okami Institute of Technology]] and the [[Satori Development Institute]] in Kanda, which specialize in artificial intelligence, robotics, and semiconductor engineering; [[Keio University]], [[Yuki University]] (in Tamade), [[Hojo University]] (in Tobe), and [[Gakushuin University]] (in Aoi), which anchor the metropolitan private university conferences; and specialized academies including the [[National Defense Academy]], the [[Imperial Music Academy]], and the [[Okami University of the Arts]]. Under Okaiken's ''kenkyū daiichi gakui'' (research-first degree) system, all bachelor's candidates at accredited metropolitan universities must complete and defend an original empirical or theoretical senior thesis registered in the National Academic Thesis Repository prior to graduation, while graduate faculties maintain strict separation between sequential master's ({{lang|ja|修士}}, ''shūshi'') and doctoral ({{lang|ja|博士}}, ''hakase'') candidacy.
 
 ===Primary and Secondary Education===
-Primary and secondary education in Okami is administered by the Okami Metropolitan Government. The city operates over 2,000 public elementary and junior high schools and approximately 300 public high schools. In addition, numerous private schools provide alternative educational options, including prestigious preparatory schools that feed into the nation's top universities.
+Primary and secondary education in Okami is administered by the Okami Metropolitan Board of Education in coordination with the 20 special ward boards and municipal authorities. Following the national 6–3–3 structure, the metropolitan government operates over 2,000 public elementary and lower secondary schools and approximately 300 upper secondary schools, including designated Super Science High Schools ({{lang|ja|スーパーサイエンスハイスクール}}) partnered with metropolitan research universities.
 
 ==Culture==
 {{Main|Culture of Okami}}
-Okami's cultural influence extends throughout Okaiken and beyond. The city has been the center of Sanese culture for over four centuries, and its arts, cuisine, and fashion trends influence the entire nation.
+Okami's cultural influence extends throughout Okaiken and beyond. The city has been the center of Sanese culture for over four centuries, and its arts, cuisine, and fashion trends influence the entire nation. The city's cultural dominance has intensified in the 21st century, as the concentration of media, entertainment, and creative industries in the capital has accelerated the {{Nihongo|"Okami magnet"|大紙磁石|Okami-jishaku}} effect that draws young talent from every region of the archipelago.
+
+===Music===
+Okami is the undisputed center of the Sanese music industry. The city's [[O-Pop]] industry, centred on the [[Tamashima]] entertainment district and the [[Aoi]] label corridor, generates over 円1.24 trillion in annual revenue and employs approximately 420,000 workers in the metropolitan area. The [[PYRAMID30]] charts, compiled weekly from sales data, streaming figures, and radio airplay, are the definitive measure of commercial success in Sanese popular music, and an appearance on the PYRAMID30 is considered the essential credential for any artist seeking national recognition.
+
+The major O-Pop labels—including [[Siren Records]], [[Tensei Music]], and [[Crystal Wave Entertainment]]—are all headquartered in the Aoi-Chuo corridor. The industry's production infrastructure, including recording studios, talent agencies, choreography studios, and marketing firms, is concentrated within a 3-kilometre radius that has been termed the {{Nihongo|'Sound District'|音域|On-iki}}. The district's density has created a self-reinforcing ecosystem where producers, songwriters, and performers circulate between labels and projects, creating a distinctive 'Okami sound' that dominates the national charts.
+
+The [[Idol Liberation Act]] of 2016, which ended the restrictive contract system that had governed the idol industry for decades, paradoxically accelerated the concentration of idol culture in Okami. The freed idols, no longer bound to their original agencies, migrated to the capital to establish independent careers, and the resulting proliferation of small labels and independent production companies made Okami the only city with the critical mass of talent, infrastructure, and media access needed to sustain a modern idol career. The [[Okami Idol Festival]], held annually in the Tamashima district, draws over 500,000 attendees and is one of the largest music events in Fosia.
+
+The [[O-Rock]] scene, centred on the live houses of the Tamade and Tama wards, provides an alternative to the polished production of mainstream O-Pop. The [[Tamashima Crossing]] venue has launched dozens of nationally successful rock acts, while the [[Nagashima Broadway]] complex houses a dense cluster of smaller venues catering to niche genres. The [[Sanese Drill]] hip-hop subgenre, which emerged from the Tatara and Minami wards in the late 2010s, has gained national prominence with its distinctive regional sound blending traditional Sanese musical elements with trap production and lyrics addressing urban inequality and working-class identity.
+
+The virtual idol industry—AI-generated performers who exist only as digital avatars—has become a uniquely Sanese cultural export centred on Okami. The most successful virtual idol, {{Nihongo|''Satori-hime''|悟り姫|Awakening Princess}}, generates over 円8 billion in annual merchandise and streaming revenue. The [[Okami Esports Arena]], a 30,000-seat venue opened in 2023, hosts the annual [[Shendan Cup]] tournament and has established the city as the premier competitive gaming destination in the East Fosian sphere.
+
+Classical music maintains a strong presence in the city. The [[Okami Metropolitan Symphony Orchestra]], based at the [[Okami Metropolitan Opera House]], is considered one of the finest orchestras in East Fosia. The [[Imperial Music Academy]], founded in 1892, trains the nation's elite classical musicians, and its graduates dominate the principal chairs of the nation's orchestras.
+
+===Nightlife===
+[[File:Okami Golden Gai bars.png|thumb|right|The Golden Gai micro-bars in the Neon District, each seating fewer than ten customers.]]
+Okami's nightlife scene is legendary throughout Adonia. The {{Nihongo|'''Neon District'''|ネオン区|Neon-ku}} in Tamashima operates at full intensity from dusk until dawn, with hundreds of bars, nightclubs, live music venues, and restaurants packed into a dense labyrinth of narrow streets and alleyways. The district's irregular street grid—a legacy of its origins as a chaotic labor encampment during the Honda period—defies the orthogonal planning of the other islands, creating a disorienting but thrilling urban environment.
+
+The district is organized into distinct sub-areas catering to different clienteles. The {{Nihongo|''Golden Gai''|黄金街|Ōgon-gai}} is a dense cluster of tiny bars, many seating fewer than ten customers, catering to aficionados of jazz, blues, and experimental music. The {{Nihongo|''Kabukichō''|歌舞伎町}} area hosts larger nightclubs and cabarets, while the {{Nihongo|''Yoshiwara''|吉原}} quarter preserves its centuries-old identity as an entertainment district with high-end restaurants and exclusive clubs. The {{Nihongo|''Electric Street''|電気街|Denki-gai}} corridor is the center of the city's gaming and anime subculture, with multi-story arcades, themed cafés, and merchandise stores operating late into the night.
+
+The [[Okami Nightlife Association]] estimates that the district draws approximately 300,000 visitors on a typical Friday night, with numbers swelling to over 500,000 during festival periods. The district's economic impact is estimated at 円850 billion annually, making it one of the city's most important commercial zones.
+
+===Fashion===
+[[File:Okami Shibuya 109 fashion.png|thumb|left|A retail complex in the Tamashima district, the center of youth fashion and street style.]]
+Okami is the undisputed fashion capital of Okaiken and one of the most influential style centers in Adonia. The city's fashion industry is organized into distinct districts, each catering to different segments of the market.
+
+The [[Aoi]] luxury corridor, centred on the [[Miyoshi-suji]] shopping street, houses the flagship stores of international luxury brands and the nation's premier domestic designers. The corridor's boutiques cater to the city's elite and the thousands of affluent tourists who visit each year. The [[Ginza]] district, adjacent to Aoi, offers a more accessible luxury experience, with department stores and boutiques targeting the upper-middle-class consumer.
+
+The [[Tamashima]] district in Tama Ward is the center of youth fashion and street style. The ten-story retail complexes around Tamashima Kitaguchi and Omi have launched dozens of fashion trends that have spread throughout Okaiken and beyond, documented by fashion photographers who congregate along the district's pedestrian scrambles.
+
+The [[Hiyori-cho]] and [[Kasuganohara]] quarters in Nagata Ward form the center of alternative fashion and subculture style. The district's [[Takeshita Street]] is famous for its concentration of boutiques catering to distinctive youth subcultures, from the elaborate 'decora' style to the gothic and punk-influenced looks that have become internationally recognized symbols of Sanese fashion creativity.
+
+===Media===
+Okami is the center of the Sanese media industry. The nation's major newspapers—including [[The Okami Shimbun]], [[The Sanese Times]], and [[The Daily Yomiuri]]—are headquartered in the central wards. The [[NIBI]] state broadcaster and the major commercial television networks broadcast from studios concentrated in the Minato and Tama wards.
+
+The city's publishing industry, centred on the traditional paper-making districts of Mugishima, remains significant despite the broader global decline in print media. The district's printing presses produce the nation's major newspapers, magazines, and books, maintaining the city's historic identity as 'Big Paper.' The [[Okami International Broadcasting Center]], located in the Minato waterfront development, serves as the primary hub for international news organizations operating in Okaiken.
+
+====The Okaiken Times and the Capital's Mindset====
+[[File:Okami Times building.png|thumb|right|The Okaiken Times headquarters in the Nagata government district.]]
+[[The Okaiken Times]], founded in 1892 and headquartered in the Nagata government district since 1935, is the nation's newspaper of record and one of the most influential media institutions in Okaiken. With a daily circulation of approximately 2.8 million (print and digital combined), the Times shapes the political and economic discourse of the capital—and by extension, the nation—to a degree that is difficult to overstate.
+
+The Times' editorial philosophy, which has remained remarkably consistent across its 134-year history, reflects the worldview of the Sanese bureaucratic and professional elite: internationalist in outlook, technocratic in temperament, and deeply skeptical of both populist demagoguery and ideological extremism. The paper's famous editorial position—{{Nihongo|''rikushin bunbō''|陸心文房|'land-heart document-chamber'}}—advocates for evidence-based governance, fiscal responsibility, and the maintenance of Okaiken's strategic autonomy in an uncertain geopolitical environment. This worldview, which the paper's critics characterize as "comfortable centrism" and its defenders term "principled pragmatism," has profoundly shaped the self-image of the Okami professional class.
+
+The Times' influence extends beyond its editorial pages. The paper's [[Okami Economic Survey]], published quarterly since 1958, is the most widely cited source of economic data on the metropolitan area and is used by government agencies, corporate strategists, and academic researchers. The Survey's methodology—particularly its classification of the "Okami magnet" effect and its measurement of regional economic concentration—has become the standard framework for understanding the Sanese economy's structural imbalance.
+
+The paper's coverage of the [[Cult of Iron|physical culture movement]] and the [[National Iron Body Initiative]] has been a study in the Times' characteristic ambivalence toward cultural change. While the paper's health and science sections have covered the Initiative's public health benefits extensively, its editorial board has repeatedly expressed concern about the movement's "militaristic undertones" and its potential to undermine the individualistic values that the Times considers essential to Sanese democracy. This tension—between the paper's respect for evidence-based policy and its discomfort with the cultural implications of the fitness movement—mirrors the broader ambivalence of the Okami elite toward the physical culture movement's growing influence.
+
+The [[Okaiken Times Digital Archive]], launched in 2006, provides searchable access to the paper's entire print run and has become an essential research tool for historians, journalists, and policy analysts. The Archive's servers, housed in the paper's Nagata headquarters, are among the most heavily accessed digital resources in the nation.
+
 
 ===Cuisine===
-Okami cuisine reflects the city's history as a center of trade and political power. The city is famous for its distinctive style of sushi, developed in the Edo period when fresh fish was delivered to the capital via fast boats. Other notable dishes include ''Okami ramen'', a soy-based noodle soup developed in the post-war period, and ''monjayaki'', a savory pancake popular in the Tsukishima district.
+[[File:Okami ramen shop Minami.png|thumb|left|A ramen shop on Ramen Row in the Minami ward.]]
+Okami cuisine reflects the city's history as a center of trade and political power. The city is famous for its distinctive style of sushi, developed in the Honda period when fresh fish was delivered to the capital via fast boats from the coast. The [[Tsukiji Outer Market]] remains a major culinary attraction, offering fresh seafood and traditional street foods.
 
-The city's restaurant scene is among the most diverse in Adonia, with establishments ranging from centuries-old traditional restaurants to cutting-edge molecular gastronomy. The Tsukiji Outer Market remains a major culinary attraction, offering fresh seafood and traditional street foods.
+{{Nihongo|'''Okami ramen'''|大紙ラーメン|Okami rāmen}}, a soy-based noodle soup developed in the post-war period, has become one of the city's most iconic dishes. The city's ramen culture is centred on the {{Nihongo|''Ramen Row''|ラーメン横丁|Rāmen yokochō}} in the Minami ward, where dozens of specialized shops compete with distinctive variations on the basic recipe. {{Nihongo|'''Monjayaki'''|もんじゃ焼き}}, a savory pancake similar to okonomiyaki but with a runnier batter, is a specialty of the Tsukishima district.
+
+The city's restaurant scene is among the most diverse in Adonia, with establishments ranging from centuries-old traditional restaurants to cutting-edge molecular gastronomy. The [[Adonia Guide]] has awarded Okami by far the most Rosalin stars of any city in the world, reflecting both the quality of its traditional cuisine and its embrace of international culinary innovation.
 
 ===Festivals===
-Okami hosts numerous festivals throughout the year, drawing participants and spectators from across the nation. The [[Okami Summer Festival]], held in July and August, includes hundreds of events throughout the city, culminating in massive fireworks displays over the Hiryū River. The [[Cherry Blossom Festival]] in March and April attracts millions of visitors to the city's parks and gardens.
-
-The [[Festival of the Lanterns]], held in the historic Tamashima district each autumn, preserves traditions dating to the Edo period. The festival features traditional music, dance, and elaborate lantern displays that illuminate the narrow streets of the entertainment district.
+Okami hosts hundreds of festivals throughout the year, drawing participants and spectators from across the nation. The [[Okami Summer Festival]], held in January and February, includes hundreds of events throughout the city, culminating in massive fireworks displays over the Hiryū River. The [[Cherry Blossom Festival]] in March and April attracts millions of visitors to the city's parks and gardens. The [[Festival of the Lanterns]], held in the historic Tamashima district each autumn, preserves traditions dating to the Honda period with traditional music, dance, and elaborate lantern displays that illuminate the narrow streets of the entertainment district.
 
 ===Museums and Cultural Institutions===
-Okami is home to the nation's premier museums and cultural institutions. The [[Okami National Museum]] houses the world's largest collection of Sanese art and artifacts. The [[National Museum of Modern Art]] showcases the development of modern Sanese art. The [[Okami Metropolitan Art Museum]] hosts major international exhibitions.
+[[File:Okami National Museum.png|thumb|right|The Okami National Museum, housing the world's largest collection of Sanese art and artifacts.]]
+Okami is home to the nation's premier museums and cultural institutions. The [[Okami National Museum]] houses the world's largest collection of Sanese art and artifacts, spanning from prehistoric times to the present. The [[National Museum of Modern Art]] showcases the development of modern Sanese art. The [[Okami Metropolitan Art Museum]] hosts major international exhibitions.
 
-The city's performing arts scene is centered on the [[Okami Metropolitan Opera House]] and the [[National Theater of Okaiken]]. Traditional performing arts, including ''kabuki'', ''noh'', and ''bunraku'', are performed at historic venues including the [[Kabuki-za Theater]] in the Ginza district.
+The city's performing arts scene is centered on the [[Okami Metropolitan Opera House]] and the [[National Theater of Okaiken]]. Traditional performing arts, including ''kabuki'', ''noh'', and ''bunraku'', are performed at historic venues including the [[Kabuki-za Theater]] in the Ginza district. The [[Okami International Film Festival]], held each October, draws filmmakers and critics from around the world.
+
 
 ===Sports===
-{{Main|Sport in Okaiken}}
-Okami's sports culture reflects the national passion for both traditional and modern athletic pursuits. The city is home to the [[Okami Giants]], one of the nation's most popular professional baseball teams, and hosts numerous professional football, basketball, and sumo tournaments throughout the year.
+{{Main|Sport in Okaiken|Cult of Iron}}
+[[File:X-League game action.jpg|thumb|right|An X-League gridiron football match at the Tatara Sports Complex.]]
+Okami's sports culture reflects the national passion for both traditional and modern athletic pursuits, and the city is the epicentre of the {{nihongo|[[physical culture movement]]|鉄身信仰|Tesshin-shinkō}} that has become one of the defining features of modern Sanese identity.
 
-The city has a particular reputation for the "Cult of Iron" sports culture that emerged in the Tatara ward, emphasizing intense physical conditioning and martial arts. The [[Tatara Sports Complex]] has produced numerous national and international champions in boxing, wrestling, and mixed martial arts.
+The city is home to the [[Okami Direwolves]] of the [[X-League]], one of the most storied franchises in Sanese professional gridiron football, and the [[Okami Giants]], one of the nation's most popular professional baseball teams. The [[Tatara Sports Complex]]—the administrative headquarters of the [[National Iron Body Initiative]]—has produced numerous national and international champions in boxing, wrestling, bodybuilding, and mixed martial arts, and the complex's annual [[Mr. Adonia]] bodybuilding championship is the premier event in the Fosian bodybuilding calendar.
 
-The sport of ''sumo'' is closely associated with Okami, with the [[Kokugikan Arena]] in the Ryogoku district hosting three of the six annual grand tournaments. The [[Okami Marathon]], held each February, attracts elite runners from around the world.
+The physical culture movement's influence on Okami's sports culture is pervasive. The [[Tatara]] ward's {{nihongo|"Tatara Circuit"|多々羅回廊|Tatara-kairō}}—a cluster of premium gyms, supplement shops, and recovery spas—has become a fitness pilgrimage destination, and the ward's distinctive {{nihongo|"guardian physique"|守護体格|Shugo-taikaku}} aesthetic has become the dominant body ideal for young men across the city. The [[Okami Marathon]], held each February, attracts over 40,000 runners and is the largest participation sporting event in Okaiken.
+
+[[File:Okami Kokugikan sumo.png|thumb|left|The Kokugikan Arena during a grand sumo tournament.]]
+The sport of ''sumo'' is closely associated with Okami, with the [[Kokugikan Arena]] in the Ryogoku district hosting three of the six annual grand tournaments. The [[Kenka-Jutsu]] full-contact martial arts circuit holds its national championship at the Tatara Sports Complex each December.
 
 ==Transportation==
-{{main|Transportation in Okami|Okami Metro}}
-Okami is the central logistical hub of Okaiken's domestic and international transit networks. The city is served by the Okami Metro, an expansive rapid transit network comprising 12 lines and over 140 stations, which moves millions of commuters daily. Following the privatization of the system in 2018, the network has become heavily reliant on the Satori algorithm to optimize train frequencies and manage crowds during peak industrial shift changes.
+{{main|Urban transport in Okami|Okami Metro}}
+Okami is the central logistical hub of Okaiken's domestic and international transit networks. The Greater Okami Metropolitan Area possesses one of the most extensive urban rail networks in Adonia, comprising 54 rail lines operated by [[Okaiken Railways]] (OR Harujima), [[Okami Metro]], and 14 private railway operators across 1,129 operator stations (928 station complexes), handling approximately 23.83 million daily passenger gate entries.
 
-For national travel, Okami Central Station serves as the primary terminus for the high-speed Harujima Shinkansen and the broader Okaiken Railways (OR Harujima) commuter network, connecting the capital directly to major cities like Toyozawa and Shinagawa. International and domestic aviation is handled primarily by Okami-Tobu International Airport, which serves as the flagship hub for the national carrier, Okaiken Air, maintaining critical trans-Althenian corridors for the Sanese economy.
+===Okami Metro===
+[[File:Okami-Metro Series4000-01.png|thumb|right|A Series 4000 train on the Okami Metro network.]]
+The [[Okami Metro]] is the primary rapid transit system serving the 20 special wards and surrounding municipalities of [[Okami Metropolis]]. Originally opened on June 15, 1935, as the Okami Municipal Subway and privatized on April 1, 2018, under [[Okami Metro Co., Ltd.]], the network comprises 13 lines (12 heavy rapid transit lines and one automated guideway transit line, the [[Nankō Port Town Line]]) spanning {{cvt|512.0|km|mi|abbr=on}} and serving 413 stations. The system handles approximately 4.98 million unlinked daily gate entries and 20,308,903 cumulative daily line boardings (FY2025), and is deeply integrated with the [[Satori System|Satori AI]] passenger-flow and headway optimization suite.
 
-===Air Transportation===
-[[Okami-Tobu International Airport]] is the primary international gateway to Okaiken, handling approximately 45 million passengers annually. The airport serves as the main hub for [[Okaiken Air]] and [[Sanesair]], the nation's flag carriers. A second airport, [[Okami-Seibu International Airport]] (Asajima), primarily handles domestic flights and serves as a secondary hub for regional carriers.
+{| class="wikitable sortable"
+|+ Okami Metro lines (FY2025)
+|-
+! Code !! Line !! Color !! Opened !! Length (km) !! Termini !! Stations !! Rolling stock !! Daily line boardings
+|-
+| '''M''' || [[Miyoshi Line]] || Lavender || 1935 || 54.5 || Yuyama Chuo — Okada || 43 || Type B (8-car) || 2,227,897
+|-
+| '''T''' || [[Tozai Line (Okami)|Tozai Line]] || Orange || 1961 || 64.2 || Takanoko — Hojo Daigaku-mae || 64 || Type C (6-car) || 2,773,861
+|-
+| '''A''' || [[Asahi Line]] || Lime Green || 1965 || 17.3 || Hozumi-Oiwake — Tobe Kaigan || 21 || Type B (8-car) || 1,364,557
+|-
+| '''C''' || [[Chūō Line (Okami)|Chūō Line]] || Green || 1967 || 36.5 || Koi — Nagata-cho || 26 || Type D (5-car) || 1,250,278
+|-
+| '''B''' || [[Nanboku Line (Okami)|Nanboku Line]] || Blue || 1969 || 26.4 || Kume Chuo — Kitanada || 24 || Type A (10-car) || 1,215,148
+|-
+| '''K''' || [[Tokuyama Line]] || Purple || 1969 || 26.9 || Tokai — Hikari-cho || 21 || Type A (10-car) || 1,173,290
+|-
+| '''N''' || [[Nagata Line]] || Pink || 1990 || 62.3 || Toji-cho — Komorebi-machi || 38 || Type B (8-car) || 1,643,618
+|-
+| '''I''' || [[Imaichi Line]] || Light Brown || 2006 || 18.2 || Okami-Tobu Airport T1 — Minami-Sasame || 23 || Type D (5-car) || 1,332,755
+|-
+| '''S''' || [[Shitayanagi Line]] || Gold || 1974 || 50.5 || Kita — Kaido-cho || 36 || Type C (6-car) || 1,903,641
+|-
+| '''D''' || [[Tedorigawa Line]] || Dark Brown || 1981 || 53.2 || Nami-cho — Hon-Karasaki || 37 || Type C (6-car) || 1,827,669
+|-
+| '''H''' || [[Hitotsubashi Line]] || Crimson || 1988 || 52.7 || Kifune — Takahama || 36 || Type B (8-car) || 1,576,563
+|-
+| '''G''' || [[Tokushige Line]] || Teal || 1995 || 40.6 || Tedori Chuo — Tobe Museum || 35 || Type A (10-car) || 1,671,191
+|-
+| '''P''' || [[Nankō Port Town Line]] || Light Blue || 1981 || 8.7 || Minato-misaki — Iyonada || 9 || AGT (4-car) || 348,435
+|}
+
+The Metro's integration with the Satori system, implemented following the 2018 privatization, enables real-time optimization of train frequencies based on passenger demand, feeding telemetry from automated platform screen doors and gate sensors across all 413 stations. However, the [[Satori AI Blackout Crisis]] of 2026 exposed the vulnerabilities of centralized automation when a network-wide outage disrupted CBTC signalling across the subway lines during the morning rush hour, prompting mandatory analogue fallback protocols under the [[Digital Sovereignty Act]].
 
 ===Rail Transportation===
-The Okami Metro subway system is one of the most extensive and heavily used urban transit networks in the world. The system's 12 lines carry approximately 8 million passengers daily. The network is complemented by the [[Okami Loop Line]], a circular rail line that connects the major urban centers, and numerous commuter rail lines operated by Okaiken Railways and private companies.
+{{main|Okaiken Railways|Harujima Shinkansen|List of busiest stations in Okami}}
+[[File:Okami Chuo Station.png|thumb|right|Okami Chūō Station, the nation's busiest rail hub.]]
+[[Okami Chuo Station|Okami Chūō Station]] in Chiyoda Ward is the busiest railway station complex in Okaiken, handling 1,376,201 combined daily passengers (502.3 million annually) across 16 island platforms and 32 tracks served by [[Okaiken Railways]] (OR Harujima), [[Okami Metro]] (Miyoshi, Chūō, and Shitayanagi lines), the [[Fukukyu Fukushima Line]], and the [[Matsubara Electric Railway Senri Line]]. Other major rail hubs in the city include [[Minami Okami Station]] (974,970 daily passengers), the private-railway terminal complex at [[Otemachi Station|Otemachi]] (547,811 daily passengers across the Miyoshi, Nanboku, and Shitayanagi Metro lines and the [[Akitetsu Akita Line]], [[Sanshi Main Line]], [[Yometsu Main Line]], and Matsubara Senri Line), [[Hozumi-Oiwake Station|Hozumi-Oiwake]] (505,067 daily passengers), and [[Kamiyacho Station|Kamiya-chō]] (470,506 daily passengers).
 
-[[Okami Central Station]] is the nation's busiest rail terminal, serving as the terminus for the [[Harujima Shinkansen]] and the hub for intercity and commuter rail services. The station complex, rebuilt after the war, handles over 400,000 passengers daily.
+High-speed intercity rail service is provided by the [[Harujima Shinkansen]], operated by OR along a dedicated standard-gauge corridor connecting [[Shinagawa]] in the north to [[Toyozawa]] in the south via [[Okami Chuo Station|Okami Chūō]], [[Minami Okami Station|Minami-Okami]], and [[Okami-Tobe Station|Okami-Tobe]]:
+
+{| class="wikitable"
+|+ Harujima Shinkansen services serving Okami
+|-
+! Service !! Pattern !! Route !! Max speed !! End-to-end travel time
+|-
+| '''Nozomi''' || Express (major cities only) || [[Shinagawa]] – '''[[Okami Chuo Station|Okami Chūō]]''' – '''[[Minami Okami Station|Minami-Okami]]''' – [[Tokuyama]] – [[Toyozawa]] || {{cvt|320|km/h|mph|abbr=on}} || 2h 31min
+|-
+| '''Nanpu''' || Semi-express (18 intermediate stops) || [[Shinagawa]] – '''[[Okami Chuo Station|Okami Chūō]]''' – '''[[Minami Okami Station|Minami-Okami]]''' – '''[[Okami-Tobe Station|Okami-Tobe]]''' – [[Toyozawa]] || {{cvt|320|km/h|mph|abbr=on}} || 3h 18min
+|-
+| '''Hikari''' || All-stations || [[Shinagawa]] – '''[[Okami Chuo Station|Okami Chūō]]''' – [[Toyozawa]] (all 42 stations) || {{cvt|285|km/h|mph|abbr=on}} || 4h 35min
+|}
+
+[[File:Shinkansen type 0.png|thumb|left|A Type 0 Shinkansen, the original high-speed train that transformed Okami's connectivity.]]
+Conventional regional and commuter rail is operated by two distinct networks: [[Okaiken Railways]] (OR Harujima), which operates 19 narrow-gauge ({{RailGauge|1067mm}}) lines across 314 stations in the metropolitan area (carrying 11.40 million daily passengers) including the [[OR Main Line]], the 16-station circumferential [[OR Okami Loop Line]], the [[OR Iwashi Line]], the [[OR Fukushima Line]], the [[OR Okazaki Line]], and the [[OR Minato Line]]; and 14 private railway operators ({{nihongo|''ōtemetsu''|大手私鉄}}) operating 22 primarily standard-gauge ({{RailGauge|sg}}) lines across 402 stations (carrying 6.95 million daily passengers), led by [[Akitetsu]], [[Fukukyu]], [[Matsubara Electric Railway]], [[Okaden]], [[Sanshi]], [[Tokuden]], [[Toukai]], [[Sugitetsu]], [[Yometsu]], [[Yometetsu]], and [[Gomyo Railway]].
+
+===The Miyoshi Line===
+{{main|Miyoshi Line}}
+[[File:Okami Metro Miyoshi line symbol.svg|thumb|right|100px|The Miyoshi Line symbol (Line 1 / M).]]
+The '''[[Miyoshi Line]]''' ({{lang|ja|三好線}}, ''Miyoshi-sen''; '''Line 1 / M''', colored lavender) is the oldest and most historically significant underground rapid transit line in the Okami metropolitan area. Running {{cvt|54.5|km|mi|abbr=on}} ({{cvt|52.94|km|mi|abbr=on}} in GIS route alignment) across 43 stations from [[Yuyama Chuo]] ({{OMSN|M|01}}) in the northern suburb of Yuyama to [[Okada]] ({{OMSN|M|43}}) in the southern municipality of Masaki, the line serves as the primary north–south subterranean spine beneath Miyoshi Boulevard across the five delta islands, handling 2,227,897 daily passenger boardings.
+
+====History and Role as Okami's North–South Spine====
+The Miyoshi Line was conceived in the late 1920s by the Okami Municipal Transportation Bureau after surface streetcar speeds along Miyoshi Boulevard dropped below {{cvt|10|km/h|mph|abbr=on}} due to severe urban congestion. Construction commenced in 1930, and the initial segment between [[Hozumi-Oiwake]] ({{OMSN|M|15}}) and [[Okami Chuo Station|Okami Chūō]] ({{OMSN|M|20}}) opened on June 15, 1935, as the first publicly operated subway line in Okaiken. Built to {{RailGauge|sg|allk=on}} standard gauge with {{1,500 V DC}} overhead catenary, the line was engineered for high-capacity urban trunk service.
+
+Following wartime interruptions during the [[Great Adonian War]], when completed subway bores were used as civil air-raid shelters, the Miyoshi Line was extended southward across the delta waterways via underwater shield tunnels to [[Tamashima]] and [[Tama Center]] ({{OMSN|M|26}}) between 1964 and 1972, and subsequently through [[Tamade]], [[Rokumanji]], [[Minato]], and [[Tobe]] before reaching its southern terminus at [[Okada]] in [[Masaki]] in 2005. Operating 8-car '''Type B''' formations of [[Okami Metro 5000 series|5000 series]] and flagship [[Okami Metro 4000 series|4000 series]] rolling stock at headways as short as 90 seconds, the Miyoshi Line intersects nearly every radial and cross-town corridor in the capital.
+
+====Selected Major Stations====
+{| class="wikitable sortable"
+|+ Major interchange stations on the [[Miyoshi Line]] (Line 1 / M)
+|-
+! Code !! Station !! Sanese !! Ward / Municipality !! Major Interchanges
+|-
+| '''M01''' || [[Yuyama Chuo]] || 友山中央 || Yuyama || ''Northern terminus''
+|-
+| '''M08''' || [[Kandacho]] || 神田町 || Kanda || [[OR Main Line]]
+|-
+| '''M09''' || [[Tatara]] || 多々良 || Tatara || [[OR Main Line]]
+|-
+| '''M11''' || [[Kawabata-kyo]] || 川端京 || Sakura || {{OMSN|G|11}} [[Tokushige Line]]
+|-
+| '''M14''' || [[Kamiyacho Station|Kamiya-chō]] || 紙屋町 || Aoi || {{OMSN|T|26}} [[Tozai Line (Okami)|Tozai Line]], [[OR Iwashi Line]], [[OR Okami Loop Line]]
+|-
+| '''M15''' || [[Hozumi-Oiwake Station|Hozumi-Oiwake]] || 穂積追分 || Aoi || {{OMSN|T|27}} [[Tozai Line (Okami)|Tozai Line]], {{OMSN|A|01}} [[Asahi Line]], [[OR Main Line]], [[OR Okami Loop Line]]
+|-
+| '''M17''' || [[Aoi (Gakushuin-mae) Station|Aoi (Gakushuin-mae)]] || 葵 (学習院前) || Aoi || {{OMSN|H|25}} [[Hitotsubashi Line]], [[OR Okami Loop Line]], [[Matsubara Electric Railway|Matsubara Main]], [[Matsubara Electric Railway Senri Line|Senri Line]]
+|-
+| '''M19''' || [[Otemachi Station|Otemachi]] || 大手町 || Chiyoda || {{OMSN|B|15}} [[Nanboku Line (Okami)|Nanboku Line]], {{OMSN|S|16}} [[Shitayanagi Line]], [[Akitetsu Akita Line]], [[Sanshi Main Line]], [[Yometsu Main Line]], [[Matsubara Electric Railway Senri Line|Senri Line]]
+|-
+| '''M20''' || [[Okami Chuo Station|Okami Chūō]] || 大紙中央 || Chiyoda || [[Harujima Shinkansen]], {{OMSN|C|18}} [[Chūō Line (Okami)|Chūō Line]], {{OMSN|S|15}} [[Shitayanagi Line]], [[OR Main Line]], [[OR Okami Loop Line]], [[Fukukyu Fukushima Line]], [[Matsubara Electric Railway Senri Line|Senri Line]]
+|-
+| '''M23''' || [[Motomachi Station|Motomachi]] || 本町 || Tama || [[OR Main Line]], [[OR Okami Loop Line]]
+|-
+| '''M26''' || [[Tama Center Station|Tama Center]] || 多摩センター || Tama || {{OMSN|G|25}} [[Tokushige Line]], [[Okaden Toyohama Line]]
+|-
+| '''M28''' || [[Yugawara]] || 湯河原 || Tamade || {{OMSN|K|12}} [[Tokuyama Line]], [[Tokuden Sakae Line]]
+|-
+| '''M31''' || [[Rokumanji]] || 六万寺 || Rokumanji || {{OMSN|T|50}} [[Tozai Line (Okami)|Tozai Line]], {{OMSN|N|18}} [[Nagata Line]]
+|-
+| '''M36''' || [[Iyonada]] || 伊予灘 || Minato || {{OMSN|P|09}} [[Nankō Port Town Line]], [[OR Minato Line]]
+|-
+| '''M39''' || [[Tobe Kaigan]] || 砥部海岸 || Tobe || {{OMSN|A|21}} [[Asahi Line]]
+|-
+| '''M43''' || [[Okada]] || 岡田 || Masaki || ''Southern terminus''
+|}
+
+===Air Transportation===
+[[File:Okami Tobu International Airport.png|thumb|right|Okami-Tobu International Airport on reclaimed land in the Tobu waterfront district.]]
+[[Okami-Tobu International Airport]], located on reclaimed land in the Mitsu-Minato waterfront district, is the primary international aviation gateway to Okaiken, handling approximately 45 million passengers annually and serving as the main hub for [[Okaiken Air]] and [[Sanesair]]. The airport's Terminal 1 and Terminal 2 are directly served by the Okami Metro [[Imaichi Line]] ({{OMSN|I|01}} and {{OMSN|I|02}}) and the [[OR Okami-Tobu Line]] (which operates the ''Tobu Express'' along the OR Main Line through Okami Chūō).
+
+Commercial domestic and regional flights also utilize [[Tokuyama Hirao Airport]] in the southern metropolitan corridor, which is connected to central Okami by the [[Tokuden Airport Express Line]], the OR Tokuyama Hirao Airport Line, and the multi-operator ''Hirao Express'' through-service via the Toukai–Imaichi Rail Link.
 
 ===Road Transportation===
-Okami is connected to the national [[expressway]] network via several major routes. The [[Okami Expressway]] circles the city center, while the [[Harujima Expressway]] connects the capital with the northern prefectures. Traffic congestion remains a significant challenge despite extensive infrastructure development, leading to increasing reliance on public transportation.
+Okami is connected to the national [[expressway]] network via several major routes. The [[Okami Expressway]] circles the city center, while the [[Harujima Expressway]] connects the capital with the northern prefectures. The [[Tōkaidō Expressway]] follows the historic coastal route to the southern cities. Traffic congestion remains a significant challenge despite extensive infrastructure development, and the metropolitan government has implemented congestion pricing in the central wards to encourage public transportation use.
+
+The city's road network is complicated by the five-island geography, with over 120 bridges connecting the islands. The major bridges—including the [[Kōryū Bridge]] (connecting Tenkyō-jima and Tamashima), the [[Hiryū Bridge]] (connecting Mugishima and Nagashima), and the [[Tatara Bridge]] (connecting Ryūbi-jima to the mainland)—are critical transportation links that carry both vehicular and pedestrian traffic.
 
 ===Port Facilities===
-The [[Port of Okami]] is one of the nation's largest commercial ports, handling container traffic, bulk cargo, and passenger ferries. The port facilities have been extensively modernized since the post-war reconstruction and now include some of the most automated cargo handling facilities in Adonia.
+[[File:Okami Port container facilities.png|thumb|left|The automated container port facilities on Ryūbi-jima.]]
+The [[Port of Okami]] is one of the nation's largest commercial ports, handling container traffic, bulk cargo, and passenger ferries. The port facilities, concentrated on the eastern shore of Ryūbi-jima, have been extensively modernized since the post-war reconstruction and now include some of the most automated cargo handling facilities in Adonia. The port handles approximately 40% of the nation's maritime cargo by value and serves as a major hub for ferry services to the [[Inland Mitoyagi Islands]] and the coastal cities of Harujima.
+
+The [[Okami Ferry Terminal]], located on the northern shore of Ryūbi-jima, provides regular passenger services to [[Tokuyama]], [[Shinagawa]], and the [[Inland Mitoyagi Islands]]. The terminal's distinctive modernist design, completed in 1985, has become an architectural landmark in its own right.
+
 
 ==International Relations==
 ===Diplomatic Missions===
 As the national capital, Okami hosts the embassies and consulates of all nations maintaining diplomatic relations with Okaiken. The [[Kasumigaseki Diplomatic District]] houses the majority of foreign embassies, while honorary consulates are located throughout the metropolitan area. The city also hosts the regional headquarters of numerous international organizations.
 
 ===Sister Cities===
+[[File:Okami sister cities map.svg|thumb|right|Okami's sister city relationships around the world.]]
 Okami maintains sister city relationships with major cities around the world, promoting cultural exchange and economic cooperation. Major sister city relationships include:
 * [[New Valencia]], [[United Kingdoms of Volisania]] (since 1960)
 * [[Akyatan]], [[Dagit]] (since 1975)

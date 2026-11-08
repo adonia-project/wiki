@@ -1,93 +1,101 @@
 {{Short description|Bicameral national legislature of Okaiken}}
-{{Use mdy dates|date=November 2025}}
+{{Use mdy dates|date=May 2026}}
 {{Infobox legislature
-| background_color   = {{party color|Liberal Democratic Party (Okaiken)}}
+| background_color   = {{party color|Sanese Communist Party}}
 | name               = National Diet of Okaiken
-| native_name        = {{noitalics|{{nobold|{{lang|ja|国会}}}}}}
-| transcription_name = ''Kokkai''
-| legislature        = 60th Session of the National Diet
+| native_name        = {{Nihongo|国会|Kokkai}}
+| legislature        = 70th Session of the National Diet
 | coa_pic            = Flag of Okaiken.svg
 | house_type         = Bicameral
 | houses             = {{ublist
- | [[House of Officers]]<br>(upper house)
+ | [[House of Officers of Okaiken|House of Officers]]<br>(upper house)
  | [[House of Commoners of Okaiken|House of Commoners]]<br>(lower house)
 }}
-|foundation=29 November 1890<br>({{age in years and days|1890|11|29}})| leader1_type       = [[President of the House of Officers]]
+|foundation=29 November 1890<br>({{age in years and days|1890|11|29}})
+| leader1_type       = [[President of the House of Officers]]
 | leader1            = [[Seiji Maehara]]
 | party1             = [[Progressive Party of Okaiken|PPO]]
 | election1          = 27 July 2025
 | leader2_type       = [[Speaker of the House of Commoners of Okaiken|Speaker of the House of Commoners]]
 | leader2            = [[Kenji Inoue]]
 | party2             = [[Progressive Party of Okaiken|PPO]]
-| election2          = 27 October 2025
+| election2          = 3 November 2025
 | leader3_type       = [[Prime Minister of Okaiken|Prime Minister]]
-| leader3            = [[Honda Shigetsuma]]
-| party3             = [[Progressive Party of Okaiken|PPO]]
-| election3          = 4 November 2025
+| leader3            = [[Kousuke Ikazaki]]
+| party3             = [[Sanese Communist Party|SCP]]
+| election3          = 20 May 2026
 | members            = {{ublist
  | '''726'''
- | 251 ([[House of Officers]])
+ | 251 ([[House of Officers of Okaiken|House of Officers]])
  | {{nowrap|475 ([[House of Commoners of Okaiken|House of Commoners]])}}
 }}
-| house1             = [[House of Officers]]
+| house1             = [[House of Officers of Okaiken|House of Officers]]
 | structure1         = House of Officers of Okaiken 2025.svg
 | political_groups1  = (as of December 2025)<br />
-'''Government Coalition''' (112):
-{{legend|{{Progressive Party of Okaiken/meta/color}}|[[Progressive Party of Okaiken|PPO]] (100)}}
-{{legend|{{Okaiken Socialist Party/meta/color}}|[[Okaiken Socialist Party|OSP]] (12)}}
-'''Opposition''' (139):
-{{legend|{{Liberal Democratic Party (Okaiken)/meta/color}}|[[Liberal Democratic Party (Okaiken)|LDP]] (68)}}
+'''Government Coalition''' (53):
 {{legend|{{Sanese Communist Party/meta/color}}|[[Sanese Communist Party|SCP]] (36)}}
+{{legend|{{Okaiken Socialist Party/meta/color}}|[[Okaiken Socialist Party|OSP]] (12)}}
+{{legend|{{Social Democratic Party (Okaiken)/meta/color}}|[[Social Democratic Party (Okaiken)|SDP]] (5)}}
+'''Opposition''' (198):
+{{legend|{{Progressive Party of Okaiken/meta/color}}|[[Progressive Party of Okaiken|PPO]] (100)}}
+{{legend|{{Liberal Democratic Party (Okaiken)/meta/color}}|[[Liberal Democratic Party (Okaiken)|LDP]] (68)}}
 {{legend|{{New Komeito Party/meta/color}}|[[New Komeito Party|NKP]] (20)}}
 {{legend|{{Okaiken Innovation Party/meta/color}}|[[Okaiken Innovation Party|OIP]] (8)}}
-{{legend|{{Social Democratic Party (Okaiken)/meta/color}}|[[Social Democratic Party (Okaiken)|SDP]] (5)}}
 {{legend|{{Independent (politician)/meta/color}}|Independents (2)}}
 | house2             = [[House of Commoners of Okaiken|House of Commoners]]
-| structure2         = House of Commoners of Okaiken 2025.svg
-| political_groups2  = (as of December 2025)<br />
-'''Government Coalition''' (231):
-{{legend|{{Progressive Party of Okaiken/meta/color}}|[[Progressive Party of Okaiken|PPO]] (181)}}
-{{legend|{{Okaiken Socialist Party/meta/color}}|[[Okaiken Socialist Party|OSP]] (50)}}
-'''Opposition''' (244):
-{{legend|{{Liberal Democratic Party (Okaiken)/meta/color}}|[[Liberal Democratic Party (Okaiken)|LDP]] (128)}}
-{{legend|{{Sanese Communist Party/meta/color}}|[[Sanese Communist Party|SCP]] (45)}}
-{{legend|{{New Komeito Party/meta/color}}|[[New Komeito Party|NKP]] (30)}}
-{{legend|{{Social Democratic Party (Okaiken)/meta/color}}|[[Social Democratic Party (Okaiken)|SDP]] (25)}}
-{{legend|{{Okaiken Innovation Party/meta/color}}|[[Okaiken Innovation Party|OIP]] (16)}}
-| committees1        = 
-| committees2        = 
-| joint_committees   = 
-| voting_system1     = [[Direct Party and Representative Voting System]] (251 seats)
-| voting_system2     = [[Direct Party and Representative Voting System]] (475 seats)
-| last_election1     = [[Okaiken upper house election, 2025|27 July 2025]]
+| structure2         = House of Commoners of Okaiken 2026.svg
+| political_groups2  = (as of May 2026)<br />
+'''Coalition Government''' (251):
+{{legend|{{Sanese Communist Party/meta/color}}|[[Sanese Communist Party|SCP]] (115)}}
+{{legend|{{Okaiken Socialist Party/meta/color}}|[[Okaiken Socialist Party|OSP]] (100)}}
+{{legend|{{Social Democratic Party (Okaiken)/meta/color}}|[[Social Democratic Party (Okaiken)|SDP]] (36)}}
+'''Confidence and Supply''' (1):
+{{legend|888888|Independent (1)}}
+'''Opposition''' (223):
+{{legend|{{Liberal Democratic Party (Okaiken)/meta/color}}|[[Liberal Democratic Party (Okaiken)|LDP]] (110)}}
+{{legend|{{Progressive Party of Okaiken/meta/color}}|[[Progressive Party of Okaiken|PPO]] (63)}}
+{{legend|{{New Komeito Party/meta/color}}|[[New Komeito Party|NKP]] (32)}}
+{{legend|{{Okaiken Innovation Party/meta/color}}|[[Okaiken Innovation Party|OIP]] (18)}}
+| committees1        =
+| committees2        =
+| joint_committees   =
+| voting_system1     = [[House of Officers of Okaiken|Association system (ky&#333;kai)]] (251 seats)
+| voting_system2     = [[House of Commoners of Okaiken|Parallel voting (FPTP + PR)]] (475 seats)
+| last_election1     = [[Okaiken House of Officers election, 2025|27 July 2025]]
 | next_election1     = 2028
-| last_election2     = [[Okaiken general election, 2025|27 October 2025]]
-| next_election2     = [[Next Sanese general election|No later than October 2029]]
+| last_election2     = [[Okaiken general election, 2026|17 May 2026]]
+| next_election2     = [[Next Sanese general election|No later than May 2030]]
 | session_room       = Diet of Okaiken.png
 | meeting_place      = [[National Diet Building]],<br>[[Okami]], [[Okaiken]]
 | website            = {{plain list|
 *[http://www.kogiin.go.ok/en/index.htm House of Officers – official website]
 *[http://www.shugiin.go.ok/index.nsf/html/index_e.htm House of Commoners – official website]}}
-| footnotes          = 
+| footnotes          =
 |structure2_res=250px|structure1_res=250px}}
 {{Politics of Okaiken}}
 
-The {{nihongo|'''National Diet'''|国会|Kokkai}} is the national [[legislature]] of [[Okaiken]]. It is composed of a lower house, called the [[House of Commoners of Okaiken|House of Commoners]] ({{lang|ja|衆議院}}, ''Shūgiin''), and an upper house, the [[House of Officers]] ({{lang|ja|公議院}}, ''Kōgiin''). Both houses are directly elected under the [[Direct Party and Representative Voting System]] (DPR). 
+The {{Nihongo|'''National Diet'''|国会|Kokkai}} is the national [[legislature]] of [[Okaiken]]. It is composed of a lower house, called the [[House of Commoners of Okaiken|House of Commoners]] ({{Nihongo|衆議院|Shūgiin}}), and an upper house, the [[House of Officers of Okaiken|House of Officers]] ({{Nihongo|公議院|Kōgiin}}). The two houses are elected through different systems: the House of Commoners through a parallel voting system combining first-past-the-post constituencies with proportional representation blocks, and the House of Officers through the association system ({{Nihongo|協会|kyōkai}}), in which professional and industry associations elect representatives.
 
-In addition to passing laws, the [[Diet (assembly)|Diet]] is formally responsible for nominating the [[Prime Minister of Okaiken|Prime Minister]]. The Diet was first established as the Imperial Diet in 1890 under the [[Saito Constitution]] following the [[Saito Restoration]], and took its current form in 1970 upon the adoption of the [[Constitution of Okaiken|post-war constitution]]. Both houses meet in the {{Nihongo|[[National Diet Building]]|国会議事堂|Kokkai-gijidō}} in [[Okami]].
+In addition to passing laws, the Diet is formally responsible for designating the [[Prime Minister of Okaiken|Prime Minister]]. The Diet was first established as the Imperial Diet in 1890 under the [[Saito Constitution]] following the [[Saito Restoration]], and took its current form in 1970 upon the adoption of the [[Constitution of Okaiken|post-war constitution]]. Both houses meet in the {{Nihongo|[[National Diet Building]]|国会議事堂|Kokkai-gijidō}} in [[Okami]].
 
 ==Composition==
 {{Main list|List of members of the Diet of Okaiken}}
 {{See also|Elections in Okaiken}}
 
-The houses of the National Diet are both elected under the [[Direct Party and Representative Voting System]] (DPR). This is a form of proportional representation where voters cast ballots for political parties, and seats are allocated based on the percentage of the vote each party receives in multi-member districts. Any national of Okaiken at least 18 years of age may vote in these elections. 
+The two houses of the National Diet are elected through different systems, reflecting their distinct constitutional roles.
 
-The [[Constitution of Okaiken]] guarantees universal adult suffrage and a secret ballot. It also stipulates that the electoral law must not discriminate in terms of "race, creed, sex, social status, family origin, education, property or income".
+The [[House of Commoners of Okaiken|House of Commoners]] is elected through a parallel voting system. The 475 seats are divided into two groups, and each voter casts two ballots:
+* '''Single-Member Constituencies:''' 289 members are elected from single-member districts under the first-past-the-post system. Voters cast a ballot for a local candidate.
+* '''Proportional Blocks:''' 186 members are elected from 11 regional proportional representation blocks. Voters cast a second ballot for a political party's list. Seats in each block are distributed proportionally to the parties based on the percentage of votes each party received in that block.
+
+The [[House of Officers of Okaiken|House of Officers]] is elected through the association system ({{Nihongo|協会制|kyōkai-sei}}), in which registered professional and industry associations ({{Nihongo|協会|kyōkai}}) elect representatives to the upper house. This system, modeled loosely on the Dutch [[w:omroep|omroep]] system, ensures that the upper house represents organized civil society rather than geographic constituencies or party lists. The 251 seats are distributed among the associations in proportion to their membership numbers, with members serving fixed six-year terms. Half the house is elected every three years. For a full description, see [[House of Officers of Okaiken]].
+
+The [[Constitution of Okaiken]] guarantees universal adult suffrage and a secret ballot. It also stipulates that the electoral law must not discriminate in terms of "race, creed, sex, social status, family origin, education, property or income."
 
 Candidates for the lower house must be 25 years old or older, and 30 years or older for the upper house. All candidates must be Sanese nationals. Under the Diet Law, members are paid about 1.3 million En a month in salary.
 
 ==Powers==
-Article 41 of the [[Constitution of Okaiken|Constitution]] describes the National Diet as "the highest organ of State power" and "the sole law-making organ of the State". This statement is in forceful contrast to the [[Saito Constitution]], which described the [[Emperor of Okaiken|Emperor]] as the one who exercised legislative power with the consent of the Diet. 
+Article 41 of the [[Constitution of Okaiken|Constitution]] describes the National Diet as "the highest organ of State power" and "the sole law-making organ of the State." This statement is in forceful contrast to the [[Saito Constitution]], which described the [[Emperor of Okaiken|Emperor]] as the one who exercised legislative power with the consent of the Diet.
 
 The Diet's responsibilities include not only the making of laws but also the approval of the annual national budget that the government submits and the ratification of treaties. It can also initiate draft constitutional amendments, which, if approved, must be presented to the people in a referendum. This power was famously used during the [[Jutsu Restoration]] of 2011 to restore the Emperor's status as Head of State.
 
@@ -96,22 +104,38 @@ The [[Prime Minister of Okaiken|Prime Minister]] must be designated by Diet reso
 The [[House of Commoners of Okaiken|House of Commoners]] is the more powerful chamber of the Diet. While the House of Commoners cannot usually overrule the House of Officers on a bill without a two-thirds majority, the House of Officers can only delay the adoption of a budget or a treaty that has been approved by the House of Commoners. Furthermore, once appointed, it is the confidence of the House of Commoners alone that the Prime Minister must enjoy in order to continue in office.
 
 ==History==
-Okaiken's first modern legislature was the {{nihongo|'''Imperial Diet'''|帝国議会|Teikoku-gikai}} established by the [[Saito Constitution]] in 1890. It was drafted by [[Juichi Miyazaki]], often called the "Father of the Constitution." The Imperial Diet consisted of a House of Commoners and a {{nihongo|'''[[House of Officers]]'''|公議院|Kōgiin}}, which was originally an appointed body of peers and distinguished citizens similar to the British House of Lords.
+===Imperial Diet (1890–1940)===
+Okaiken's first modern legislature was the {{Nihongo|'''Imperial Diet'''|帝国議会|Teikoku-gikai}} established by the [[Saito Constitution]] in 1890. It was drafted by [[Juichi Miyazaki]], often called the "Father of the Constitution." The Imperial Diet consisted of a House of Commoners and a {{Nihongo|'''[[House of Officers]]'''|公議院|Kōgiin}}, which was originally an appointed body of peers and distinguished citizens similar to the British House of Lords.
 
 During the [[Great Adonian War]] (1940–1946), the Diet was effectively neutered by the [[Imperial Rule Assistance Association|Taisei Yokusankai]], which absorbed all political parties into a single state organization under Prime Minister [[Kōki Hirota]].
 
-Following the surrender of Mitoyagi and the [[Quiet Revolution]] of 1968, the current Constitution was adopted in 1970. This transformed the House of Officers into an elected body and established the current democratic system. The [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party]] (LDP) dominated the Diet for most of the late 20th century, a period known as the "1970 System."
+===Post-war re-establishment and the 1970 Constitution===
+Following the surrender of Mitoyagi and the [[Quiet Revolution]] of 1968, the current Constitution was adopted in 1970. This transformed the House of Officers into an elected body and established the current democratic system. The association system (kyōkai) for the House of Officers was introduced as part of the 1970 constitutional framework, replacing the appointed peerage system of the Imperial Diet with a structure designed to represent organized civil society.
 
-This dominance ended in the 1990s, leading to a more fractured political landscape. In recent years, the Diet has seen the rise of the [[Progressive Party of Okaiken|Progressive Party]] (PPO), which held power under Prime Minister [[Honda Shigetsuma]] from 2014 to the present.
+===The 1970 System (1970–2016)===
+The [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party]] (LDP) dominated the Diet for most of the late 20th century, a period known as the "1970 System." This dominance ended in the 1990s, leading to a more fractured political landscape.
 
-The [[Okaiken general election, 2025|2025 general election]] resulted in a hung parliament, forcing the PPO to form a coalition with the resurgent [[Okaiken Socialist Party]] (OSP) to maintain power against a revitalized LDP opposition.
+===The 2016 Realignment===
+The [[Okaiken general election, 2016|2016 general election]] shattered the 1970 System. The LDP collapsed following the resignation of [[Toshiro Kurosawa]] and the Data-Gate scandal, while the [[Sanese Communist Party]] (SCP) surged to a historic plurality under [[Sho Aoyagi]], forming the first communist-led government in Okaiken history.
+
+===The Honda era (2021–2026)===
+In the [[Okaiken general election, 2021|2021 general election]], the [[Progressive Party of Okaiken]] (PPO) under [[Honda Shigetsuma]] surged to 201 seats, becoming the largest party. The [[Okaiken general election, 2025|2025 general election]] resulted in a hung parliament, forcing the PPO to form a coalition with the resurgent [[Okaiken Socialist Party]] (OSP) under [[Rento Nakayama]] to maintain power against a revitalized LDP opposition.
+
+===The 2026 Realignment===
+{{main|Okaiken general election, 2026}}
+
+The [[Okaiken general election, 2026|2026 general election]], triggered by the collapse of the Honda-Nakayama Cabinet during the [[Nakayama Station dragging incident|"March Maelstrom,"]] produced a decisive realignment of Sanese politics. The PPO suffered a historic collapse, losing 118 seats and falling from 181 to 63—its worst result since the party's founding. The SCP under [[Kousuke Ikazaki]] achieved a dramatic surge, gaining 70 seats to reach 115, while the OSP under Nakayama doubled its representation from 50 to 100 seats.
+
+The three left-wing parties—SCP (115), OSP (100), and [[Social Democratic Party (Okaiken)|SDP]] (36)—formed a coalition government with 251 seats, 13 more than the 238 required for an absolute majority. [[Kousuke Ikazaki]] became Prime Minister, with Nakayama as Deputy Prime Minister, leading the [[Ikazaki Cabinet|110th Cabinet of Okaiken]].
+
+The LDP under [[Koichiro Sadanuma]] declined to 110 seats, while the [[New Komeito Party]] (NKP) held steady at 32 and the [[Okaiken Innovation Party]] (OIP) at 18. One independent, [[Hayashi Akihiro]] (Ogasawara-3rd), pledged confidence and supply to the coalition.
 
 == List of sessions ==
 [[File:Diet_Session_Okaiken.jpg|thumb|left|The Emperor opening the 69th Session of the Diet in 2025.]]
 There are three types of sessions of the National Diet:
-* R – ''jōkai'' (常会), regular, annual sessions.
-* E – ''rinjikai'' (臨時会), extraordinary sessions.
-* S – ''tokubetsukai'' (特別会), special sessions called after a general election.
+* R – {{Nihongo|常会|jōkai}}, regular, annual sessions.
+* E – {{Nihongo|臨時会|rinjikai}}, extraordinary sessions.
+* S – {{Nihongo|特別会|tokubetsukai}}, special sessions called after a general election.
 
 {| class="wikitable sortable mw-collapsible"
 |+List of recent National Diet sessions
@@ -156,16 +180,17 @@ There are three types of sessions of the National Diet:
 |-
 | 68th || R || 2025-01-24 || 2025-06-22 || [[Honda Shigetsuma]]
 |-
-| 69th || S || 2025-11-04 || Ongoing || [[Honda Shigetsuma]]
+| 69th || S || 2025-11-04 || 2026-03-12 || [[Honda Shigetsuma]]
+|-
+| 70th || S || 2026-05-20 || Ongoing || [[Kousuke Ikazaki]]
 |}
 
 ==See also==
-
-
 * [[Prime Minister of Okaiken]]
 * [[Government of Okaiken]]
 * [[List of political parties in Okaiken]]
 * [[List of Prime Ministers of Okaiken]]
+* [[Okaiken general election, 2026]]
 
 == References ==
 {{Reflist}}

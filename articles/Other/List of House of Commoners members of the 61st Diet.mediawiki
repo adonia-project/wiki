@@ -17,9 +17,9 @@ This is a list of members of the [[House of Commoners (Okaiken)|House of Commone
 |-
 | style="background:#b01717;" | || [[Liberal Democratic Party (Okaiken)|LDP]] || 110 || 110 || &minus;18
 |-
-| style="background:#FF4719;" | || [[Okaiken Socialist Party|OSP]] || 100 || 100 || +50
+| style="background:#FF4719;\" | || [[Okaiken Socialist Party|OSP]] || 100 || 101 || +51
 |-
-| style="background:#008e00;" | || [[Progressive Party of Okaiken|PPO]] || 63 || 63 || &minus;118
+| style="background:#008e00;\" | || [[Progressive Party of Okaiken|PPO]] || 63 || 61 || &minus;120
 |-
 | style="background:#0029A3;" | || [[Social Democratic Party (Okaiken)|SDP]] || 36 || 36 || +11
 |-
@@ -31,7 +31,7 @@ This is a list of members of the [[House of Commoners (Okaiken)|House of Commone
 |-
 ! colspan="2" | Total members !! 475 !! 475 !! 0
 |-
-| colspan="2" | Vacant || 0 || 0 || 0
+| colspan="2" | Vacant || 0 || 1 || +1
 |-
 ! colspan="2" | Total seats !! 475 !! colspan="2" | &mdash;
 |}
@@ -251,7 +251,7 @@ This is a list of members of the [[House of Commoners (Okaiken)|House of Commone
 |-
 | [[Sora Maeda]] || Okami 42nd || style="background:#FF4719;" | || OSP || 2016
 |-
-| [[Ai Fujita]] || Okami 43rd || style="background:#008e00;" | || PPO || 2012
+| [[Ai Fujita]] || Okami 43rd || style="background:#FF4719;" | || OSP || 2012
 |-
 | [[Murata Daiki]] || Okami 44th || style="background:#d40000;" | || SCP || 2026
 |-
@@ -697,7 +697,7 @@ This is a list of members of the [[House of Commoners (Okaiken)|House of Commone
 |-
 ! colspan="5" | [[Noto Prefecture]] (4 SMD)
 |-
-| [[Honda Shigetsuma]] || Noto 1st || style="background:#008e00;" | || PPO || 2013
+| ''Vacant'' || Noto 1st || style="background:#808080;" | || ''Vacant'' || —
 |-
 | [[Takashi Sasaki]] || Noto 2nd || style="background:#008e00;" | || PPO || 2012
 |-

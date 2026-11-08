@@ -1,20 +1,18 @@
 {| style="margin:0 3px 3px; width:100%; background-color:transparent; border-collapse: collapse; padding:0.9em;"
 |-
 | style="width:40%; padding:0 1.2em 0 0; vertical-align:top;" | 
-{{#if: 
-  |{{wide image|File:Maros_Grand_Mosque.jpg|500px}}
+{{#if:wide
+  |{{wide image|File:Tanren_Forging_Discipline.png|500px}}
   |{{#if: 
-    |{{tall image|File:Maros_Grand_Mosque.jpg|500px}}
-    |[[File:Maros_Grand_Mosque.jpg|500px|center|link=File:Maros_Grand_Mosque.jpg]]
+    |{{tall image|File:Tanren_Forging_Discipline.png|500px}}
+    |[[File:Tanren_Forging_Discipline.png|500px|center|link=File:Tanren_Forging_Discipline.png]]
     }}
   }}
 | style="width:60%; vertical-align:top;" |
-The '''Maros Grand Mosque''' is a significant architectural landmark located within the [[Crescent Belt]] of Northeast [[Fosia]]. Constructed around the 16th century, the mosque is a primary example of Marosan design, characterized by hybrid artistic traditions that blend local elements with the maritime culture of the Bayani people. Its establishment coincided with the rise of the [[Sultanate of Maros]], a period defined by the growth of trade-centered port cities and the consolidation of Islamic institutions across the archipelago.
+The '''[[Tesshin-shinkō|Cult of Iron]]''' ({{nihongo|Tesshin-shinkō|鉄身信仰|Cult of Iron}}) developed the mythology of the Iron Cycle into a comprehensive religious and social system. Drawing on the imagery of the forge, the Tesshin-shinkō teaches that the human body is itself a kind of smithy — a place where the soft silt of human weakness is pounded into the hard iron of discipline, strength, and resolve. The central practice is the ''tanren'' ({{nihongo|tanren|鍛錬|forging discipline}}), a system of physical training modeled on the work of the smith: just as the smith heats iron, strikes it on the anvil, quenches it in water, and strikes it again, the practitioner subjects the body to cycles of exertion, rest, and renewed exertion. The institutional successor, the [[National Iron Body Initiative]] (NIBI), maintains the Iron Body Centers ({{nihongo|Tesshin-kan|鉄身館}}) — designed to recall the forge, with iron and wood interiors arranged around a central anvil stone ({{nihongo|kinutaiwa|砧石}}) that echoes the sacred ''inoko'' stone.
 
-The mosque serves as a testament to the gradual and peaceful spread of Islam in the region, which occurred primarily through merchant networks and intermarriage rather than military conquest. As a focal point of the Ḥizām al-Hilāl, the structure reflects a history of cosmopolitan exchange driven by monsoon-driven sea lanes. Today, it remains an essential site for religious life and scholarly tradition, representing the shared heritage of the coastal and archipelagic territories from [[Nusaraya]] to [[Pangkajene]].
+<small>Image Credit: Carl</small><div style="text-align:right;">
+Recently featured: [[:File:Shigetomo_at_Toyozawa_ruins.png|Honda Shigetomo at Toyozawa]] – [[:File:Muna_xasan.png|Muna Xasan]] – [[:File:Maros_Grand_Mosque.jpg|Maros Grand Mosque]] 
 
-{{#if:Photograph|<small>Photograph: [[User:Nnm976|Dryan]]</small>|}}<div style="text-align:right;">
-Recently featured: [[:File:PL10_Centinela.jpeg|Centinela]] – [[:File:October 76 standoff.jpg|October 76 standoff]] – [[:File:Mount Asuka.png|Mount Asuka]] 
-
-'''<p align="right">[[Wiki:Nominations for Featured Picture|Nominate a Featured Picture]]''' - '''[[:File:Maros_Grand_Mosque.jpg|More...]]</p>'''
+'''<p align="right">[[Wiki:Nominations for Featured Picture|Nominate a Featured Picture]]''' - '''[[:File:Tanren_Forging_Discipline.png|More...]]</p>'''
 |}

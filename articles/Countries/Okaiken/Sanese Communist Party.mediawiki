@@ -14,22 +14,22 @@
 | slogan            = 
 | founded           = {{Start date|1917|08|08}}
 | dissolved         = 
-| predecessor       = 
+| predecessor      = 
 | headquarters      =  15-03-18 Meiji-cho, [[Chiyoda-ku, Okami|Chiyoda-ku]], [[Okami]], Okaiken
 | newspaper         =  The Daily Commune
 | youth_wing        = The Community Youth League (CYL)
 | membership_year   = 
 | membership        = 
-| ideology          = [[Communism]]<br>[[Democratic socialism]]<br>[[Hard left]]<br><small>Factions:</small><br><small>[[wikipedia:Eurocommunism|Etruscan Communism]]</small><br><small>[[Marxism-Leninism]]</small>
+| ideology          = [[Communism]]<br>[[Democratic socialism]]<br>[[Hard left]]<br><small>Factions:</small><br><small>Reformist Communism</small><br><small>[[Marxism-Leninism]]</small>
 | position          = [[Left-wing politics|Left-wing]] to [[Far-left politics|Far-left]]
 | religion          = 
 | national          = 
 | international     = ''None''
-| colours           = [[wikipedia:Red|Dark Red]]
+| colours           = Dark Red
 |seats1_title       = [[House of Officers|Officers]]
-|seats1             = {{Infobox political party/seats|90|251|hex=#d40000}}
+|seats1             = {{Infobox political party/seats|36|251|hex=#d40000}}
 |seats2_title       = [[House of Commoners of Okaiken|Commoners]]
-|seats2             = {{Infobox political party/seats|45|475|hex=#d40000}}
+|seats2             = {{Infobox political party/seats|115|475|hex=#d40000}}
 |seats3_title       = [[Prefectures of Okaiken|Prefectural assembly members]]
 |seats3             = {{Infobox political party/seats|820|2725|hex=#d40000}}
 |seats4_title       = [[Municipalities of Okaiken|Municipal assembly members]]
@@ -40,14 +40,113 @@
 | country           = [[Okaiken]]
 }}
 
-The {{nihongo|'''Sanese Communist Party'''|日本共産党|Okaiken Kyōsantō|commonly known as the '''SCP'''}} is a political party in [[Okaiken]]. Once a major party of government, it is now the fourth-largest party in the [[House of Commoners of Okaiken]] after suffering a major defeat in the [[Okaiken general election, 2025|2025 general election]].
+The {{nihongo|'''Sanese Communist Party'''|岡井県共産党|Okaiken Kyōsantō|commonly known as the '''SCP'''}} is a political party in [[Okaiken]]. Founded on August 8, 1917, it is the oldest left-wing party in the country and one of the oldest continuously operating political organizations in the Sanese archipelago. The party has survived suppression under the militarist [[Dark Valley (Okaiken)|Dark Valley]], thirteen years of underground existence during the [[Imperial Rule Assistance Association|IRAA]] wartime dictatorship, and a twenty-year ban following the [[Quiet Revolution (Okaiken)|Quiet Revolution]] of 1968. Following the [[Okaiken general election, 2026|2026 general election]], the SCP emerged as the largest party in the [[House of Commoners of Okaiken]] with 115 seats and leads the governing coalition alongside the [[Okaiken Socialist Party|OSP]] and [[Social Democratic Party (Okaiken)|SDP]] under Prime Minister [[Kousuke Ikazaki]].
 
-The SCP advocates the establishment of a society based on socialism, democracy, peace, and opposition to militarism. The party is split between a pragmatic "Etruscan Communist" (Eurocommunist) faction and a hard-line Marxist-Leninist faction. While the party's official platform does not advocate violent revolution—proposing a "democratic revolution" to achieve its goals—its more radical elements have pushed for aggressive policies such as the nationalization of major industries.
+The SCP advocates the establishment of a society based on socialism, democracy, peace, and opposition to militarism. The party is split between a pragmatic "Reformist Communist" faction and a hard-line Marxist-Leninist faction. While the party's official platform does not advocate violent revolution—proposing a "democratic revolution" to achieve its goals—its more radical elements have pushed for aggressive policies such as the nationalization of major industries.
 
 The party traditionally defends [[Constitution of Okaiken#CHAPTER II. RENUNCIATION OF WAR|Article 9]] of the Sanese Constitution and opposes foreign military alliances.
 
 ==History==
-For most of its history, the SCP was a minor opposition party. This changed dramatically in the 2010s under the pragmatic leadership of [[Sho Aoyagi]].
+
+The SCP's history spans over a century of Okaiken's political development, from the post-[[Saito Restoration]] parliamentary era through the militarist [[Dark Valley (Okaiken)|Dark Valley]], the [[Imperial Rule Assistance Association|IRAA]] wartime dictatorship, the post-war re-emergence, the [[Quiet Revolution (Okaiken)|Quiet Revolution]] and party ban, and the modern democratic era. It is a story of organizational survival under repeated state suppression, ideological evolution from revolutionary communism to democratic socialism, and recurring factional tension between pragmatists and ideologues.
+
+===Origins and founding (1917)===
+
+The SCP was founded on August 8, 1917, during the parliamentary period that followed the end of the [[Saito Era]] in 1912. The party emerged from the convergence of two currents in Sanese political life: the nascent industrial labor movement, which had grown with the rapid industrialization of the preceding decades, and the intellectual opposition to the [[zaibatsu]] system that dominated the Sanese economy.
+
+The founding meeting was held in a warehouse in the Shintenchi district of [[Okami]], attended by representatives from the dockworkers' union, the textile workers' association, and the Okami University Socialist Study Group. The meeting produced a party platform calling for the establishment of a socialist republic, the nationalization of key industries, the abolition of the zaibatsu system, universal suffrage, and the repeal of the [[Saito Constitution]]'s "Supreme Command" prerogative, which made the military general staff independent of civilian oversight.
+
+The party's first chairman was {{nihongo|Tetsuzō Enomoto|榎本鉄三|Enomoto Tetsuzō|1885–1958}}, a former factory worker turned labor intellectual who had been radicalized by the conditions of the Shintenchi textile mills. Enomoto had spent three years working in the mills before securing a scholarship to Okami University, where he encountered socialist theory through the university's underground study groups. His vision was of a party that could bridge the gap between the labor movement and the intellectual opposition to the zaibatsu system, creating a political force that could advocate for workers' rights within the parliamentary system while building the organizational infrastructure for more fundamental social change.
+
+The party's founding in 1917 was a bold act in a political environment that was already turning hostile to radical movements. The {{nihongo|[[Tokkō]]|特別高等警察|Tokubetsu Kōtō Keisatsu|Special Higher Police}}, established during the Saito Era to monitor and suppress radical political movements—particularly communism and socialism—had been operational since the 1900s. The SCP was, from its first day, an organization under surveillance.
+
+===Early years and the labor movement (1917–1935)===
+
+The party's early years were marked by organizational growth, ideological formation, and increasing state surveillance. The Tokkō kept the SCP under constant surveillance from its founding. Party meetings were infiltrated, publications were censored, and members were subject to harassment, arrest, and periods of preventive detention under the Prevention Custody system, which allowed the authorities to detain individuals suspected of holding "dangerous thoughts" without trial or formal charges.
+
+Despite this surveillance, the party managed to build a small but dedicated organization, with branches in the major industrial cities of Okami, [[Toyozawa]], and [[Seto]]. The party's main activities were in the labor movement: organizing strikes, advocating for workers' rights, and publishing ''The Daily Commune'', the party newspaper that had been founded in 1919 as a monthly newsletter and became a weekly in 1924. The newspaper's early circulation was modest—never exceeding 5,000 copies—but it became an important voice of dissent in a political environment increasingly dominated by the military and the zaibatsu.
+
+Enomoto stepped down as chairman in 1924, his health broken by two short prison terms for strike organizing. He was succeeded by {{nihongo|Tetsuji Katagiri|片桐徹次|Katagiri Tetsuji|1893–1929}}, a Seto steelworker turned organizer who died of tuberculosis in office in 1929, and then by {{nihongo|Sakae Ōtsuki|大槻栄|Ōtsuki Sakae|1888–1941}}, a lawyer who had defended party members in the thought-crime trials of the early 1920s. Ōtsuki's legal caution made him an effective shield for the party's labor organizing during the depression years, though his chairmanship coincided with the closing of the political space the party had built.
+
+The party's first Diet representation came in 1928, when {{nihongo|Shūsuke Sugimura|杉村秀介|Sugimura Shūsuke|1891–1943}} won a seat in the [[House of Commoners of Okaiken|House of Commoners]] from an Okami industrial district. Sugimura, a university-educated intellectual who had joined the party in 1920, became the party's leading voice in the Diet, using his position to expose the conditions of the factory workers and to oppose the military's expanding budget demands. The party's Diet representation remained small—never more than eight seats—but its influence in the labor movement was disproportionate to its electoral size.
+
+The late 1920s and early 1930s saw the party's first international contacts. In 1931, {{nihongo|Haruo Kondō|近藤春男|Kondō Haruo|1898–1972}}, a dockworker and labor organizer who had become the party's leading figure in the Toyozawa port district, traveled clandestinely to [[Volisania]], where he established contacts with the Volisanian socialist movement. Kondō's trip, arranged through a maritime courier, was the first recorded contact between the SCP and an international socialist organization. The connections he built would prove critical in the decades that followed, particularly during the party's underground period.
+
+The party's position during this period was one of democratic opposition within the parliamentary system. The SCP advocated for universal suffrage (which was not yet fully realized), the abolition of the "Supreme Command" prerogative, the nationalization of the railways and the mining industry, and the establishment of a comprehensive labor standards law. The party also consistently opposed the growing influence of the military in politics, warning that the Saito Constitution's structural flaws would eventually produce a military dictatorship.
+
+These warnings were vindicated by the events of the mid-1930s, when the military began its campaign of "government by assassination" that would become known as the [[Dark Valley (Okaiken)|Dark Valley]].
+
+===The Dark Valley and suppression (1935–1939)===
+
+The mid-1930s marked the beginning of the {{nihongo|"Dark Valley"|暗い谷間|Kurai Tanima}}, a period of militarist ascendancy that progressively dismantled the institutions of civilian democracy. Rival factions of militarist officers exploited the Saito Constitution's "Supreme Command" loopholes to undermine cabinet after cabinet, using assassination, intimidation, and the threat of insubordination to force the dissolution of any government that attempted to restrain military expansion.
+
+For the SCP, the Dark Valley was a period of escalating repression. The Tokkō, whose original mandate had been the suppression of communism, was dramatically expanded. Party offices were raided, publications were banned, and members were subjected to Prevention Custody in increasing numbers. Sugimura, the party's Diet representative, was arrested in 1936 on charges of "dangerous thought" and held in Prevention Custody for eighteen months. He was released in early 1938 in failing health and died in 1943, never having recovered from the conditions of his detention.
+
+By 1937, the party had been effectively driven underground. Ōtsuki was arrested in the spring raids of 1937 and sentenced to twelve years; he died in custody in 1941. Enomoto, the founding chairman, was placed under continuous surveillance and restricted to his residence in Okami. Kondō, who had returned from Volisania with international contacts and a broader understanding of the socialist movement, took over the party's underground operations, establishing a network of safe houses and communication channels that would sustain the party through the even darker years that lay ahead.
+
+The [[October 2 Incident]] of 1939, in which the Prime Minister was assassinated by militarist officers, effectively ended the era of party politics. The remaining civilian parties were dissolved and absorbed into the [[Imperial Rule Assistance Association]] (IRAA) in 1939–1940. The SCP, already underground, was not absorbed: it had ceased to exist as a legal organization. But its underground network, built by Kondō over the preceding years, continued to operate.
+
+===The IRAA period and underground resistance (1939–1952)===
+
+The IRAA's official ideology of {{nihongo|Statism|国家主義|Kokka-shugi}} made anti-communism a core element of the state's identity. The [[Tokkō Enhancement Act]] of 1941 expanded the thought police's budget and personnel and extended its jurisdiction to include not only political dissent but also "economic sabotage"—a broad category that encompassed any behavior deemed detrimental to the war effort. The Prevention Custody system was expanded, allowing the authorities to detain suspected communists for renewable periods of up to two years without trial.
+
+The SCP, under Kondō's leadership, operated entirely underground during the IRAA period. The party's organizational structure was reduced to a network of small cells, each operating independently with minimal contact with other cells to reduce the risk of infiltration. Communication was maintained through coded messages in personal correspondence, underground publications circulated by hand, and occasional contacts with international socialist organizations through maritime couriers.
+
+The party's underground activities during this period fell into three categories. First, the party maintained its labor organizing, working through front organizations in the factories and ports to advocate for workers' conditions, which had deteriorated drastically under the National Mobilization Law of 1940. Second, the party collected and preserved documentation of the IRAA's human rights abuses, including records of Prevention Custody detentions, Tokkō surveillance, and the conditions in the "thought guidance centers" where detainees were subjected to ideological re-education. Third, the party maintained its international contacts, particularly with the Volisanian socialist movement, through maritime couriers who carried messages and publications across the Shendan Ocean.
+
+The party's underground existence was perilous. Several key members were arrested and subjected to Prevention Custody, including {{nihongo|Yoshio Hatanaka|畑中義男|Hatanaka Yoshio|1902–1980}}, a young party organizer who was detained in 1943 and spent two years in a thought guidance center before being released in failing health. Hatanaka survived the war and would become the party's leading figure in the post-war period. Others were less fortunate: an unknown number of SCP members died in detention during the IRAA period, and the party's records—painstakingly preserved by Kondō—document at least seventeen confirmed deaths in custody.
+
+The party also participated in the broader resistance to the IRAA, though its role was limited by its small size and the effectiveness of the Tokkō's surveillance. SCP members were involved in several incidents of sabotage in the Toyozawa shipyards, and the party's underground press published occasional pamphlets calling for an end to the war. These activities were modest in scale, but they preserved the party's organizational continuity and its claim to a role in the post-war political order.
+
+The [[Armistice of Okami]] of April 28, 1952, and the dissolution of the IRAA, created the conditions for the SCP's re-emergence. Kondō, who had maintained the party's underground network through thirteen years of suppression, emerged from the underground to lead the party's public reorganization. The party's first public meeting since 1937 was held in Okami on June 1, 1952, attended by approximately 300 surviving members and sympathizers.
+
+===Post-war re-emergence (1952–1968)===
+
+The post-war period was a time of rebuilding and ideological formation for the SCP. The party re-emerged from the underground with a small but dedicated membership, a surviving organizational network, and a claim to moral authority as one of the few political organizations that had consistently opposed the IRAA. The party's first post-war chairman was Hatanaka, who had survived Prevention Custody and represented a new generation of leadership.
+
+Hatanaka's first priority was rebuilding the party's organizational infrastructure. The Daily Commune was relaunched as a legal newspaper in July 1952, with a circulation that quickly exceeded its pre-war peak. The Community Youth League (CYL), the party's youth wing, was established in 1954 to recruit young people from the universities and the industrial workforce. Party branches were re-established in the major cities, and the party began to contest elections, winning its first post-war Diet seat in 1955.
+
+The party's international connections, which had been maintained through the underground period, became a central element of its post-war identity. In 1954, Hatanaka traveled to [[Volisania]]—the first official visit by an SCP leader to a socialist country. The visit, which lasted six weeks, included meetings with Volisanian political leaders, tours of state-owned industries and collective farms, and discussions with the Volisanian socialist party's organizational department. Hatanaka returned with a detailed report on the Volisanian model of socialist governance, which was published in The Daily Commune and became a foundational text for the party's ideological education.
+
+The Volisania connection was complicated by the [[Okaiken-Volisania Mutual Security Assistance Pact]], signed on the same day as the Armistice of Okami. The security pact, which provided for Volisanian military assistance to Okaiken in the event of aggression by [[Zong]], created a paradox for the SCP: the party's primary ideological ally was also the nation's security partner. The SCP opposed the security pact, arguing that it subordinated Okaiken to Volisanian strategic interests, but the party also wanted to maintain good relations with the Volisanian socialist movement. This tension—between anti-imperialist opposition to the security pact and ideological solidarity with Volisania—would define the party's foreign policy position for the next two decades.
+
+In 1958, Hatanaka made a second international trip, this time to [[Balisca]], where he studied the Baliscan model of socialist development. The Baliscan model, which emphasized community-based socialism, agrarian reform, and participatory democracy, provided an alternative to the Volisanian model of state-directed industrialization. Hatanaka's report on Balisca, published in 1959, introduced the Baliscan concept to the SCP and influenced the party's Reformist wing, which argued for a more democratic and less authoritarian approach to socialism.
+
+The party's relationship with the [[Okaiken Socialist Party|Okaiken Socialist Party (OSP)]] during this period was one of ideological kinship and tactical competition. Both parties were left-wing, but the SCP was more radical and the OSP was more moderate. The two parties competed for the same working-class and intellectual constituency, and their relationship was often strained by disagreements over electoral strategy and coalition tactics. Despite these tensions, the two parties occasionally cooperated on specific issues, particularly opposition to the security pact and advocacy for labor rights.
+
+The party's growing influence was reflected in its electoral performance. By 1965, the SCP held twelve seats in the House of Commoners and had established a presence in the [[House of Officers (Okaiken)|House of Officers]] through the association system. The party was still small compared to the dominant parties of the post-war period, but its moral authority—derived from its underground resistance to the IRAA—and its international connections gave it an influence disproportionate to its electoral size.
+
+===The Quiet Revolution and party ban (1968–1988)===
+
+The [[Quiet Revolution (Okaiken)|Quiet Revolution]] of 1968, which transformed the Empire of Mitoyagi into the Federal Republic of Okaiken, was triggered by the disastrous actions of the OSP. [[Genzui Kusaka]], the OSP leader who had become Prime Minister in 1966, attempted to abolish the Diet in 1968, provoking a constitutional crisis that led to the Quiet Revolution and a sweeping ban on radical leftist parties.
+
+The ban, which remained in effect from 1968 to 1988, targeted both the OSP and the SCP. The OSP was specifically banned for its attempt to abolish the Diet, but the SCP was caught in the backlash against the radical left. The party's association with the OSP—both were left-wing parties, and the two had occasionally cooperated in the Diet—was enough to justify its suppression in the political climate of the Quiet Revolution, which was driven by a determination to prevent any repetition of the OSP's attempt to subvert the constitutional order.
+
+The party was banned by government decree in October 1968, though some elements continued to operate under restricted forms—labor unions affiliated with the party maintained a legal existence under strict oversight, and individual members who publicly renounced revolutionary positions were permitted to remain in public life. The party's formal organization, however—its central committee, its newspaper, its Diet caucus—was dismantled. Its assets were seized, The Daily Commune was banned, and its Diet members were expelled. Hatanaka, who had been the party's leading figure since the re-emergence, was placed under house arrest. He remained there until 1971, when international pressure—particularly from Volisania—secured his release. Hatanaka lived under continued surveillance until his death in 1980, never having seen the party re-legalized. Formal chairmanship passed to {{nihongo|Chōzō Awaya|粟屋長蔵|Awaya Chōzō|1915–1977}}, a Toyozawa dock-union organizer, who was arrested within six months of the ban and spent the next nine years in Prevention Custody.
+
+The party's survival during the twenty-year ban was a testament to the organizational infrastructure that Kondō and Hatanaka had built. The party's cell structure, originally developed for the underground resistance to the IRAA, was reactivated in 1970 under the leadership of {{nihongo|Renji Tashiro|田代蓮次|Tashiro Renji|1925–1998}}, a former CYL member who had been radicalized during the post-war period and had built a network of labor organizers and student activists. Tashiro operated entirely underground, communicating through coded correspondence and occasional meetings at safe houses. In 1985, with Tashiro's health failing, underground leadership passed to {{nihongo|Sōkichi Hagiwara|萩原宗吉|Hagiwara Sōkichi|1930–2019}}, a former CYL organizer who had directed the samizdat circulation of ''The Daily Commune''. Hagiwara led the final three underground years, maintained the party's contacts with its exile branches, and oversaw the transition to legality—voluntarily stepping aside at the 1988 refounding congress in favor of a younger leadership.
+
+The party's international connections were critical to its survival during the ban period. SCP members in exile in Volisania and Balisca maintained the party's organizational continuity, preserving its records, publishing its materials, and advocating for its re-legalization in international forums. The Volisanian socialist party provided funding and logistical support, while the Baliscan socialist movement provided ideological inspiration and a model of democratic socialism that contrasted with the authoritarian tendencies of the Volisanian model.
+
+The party's underground activities during the ban period focused on three areas. First, the party maintained its labor organizing, working through front organizations in the factories and ports. Second, the party continued to publish underground materials, including a samizdat edition of The Daily Commune that was circulated by hand among party members and sympathizers. Third, the party recruited new members through the university campuses, where the Community Youth League—despite being officially banned—continued to operate under various front names.
+
+The ban period was a time of ideological fermentation as well as organizational survival. The party's Reformist wing, influenced by the Baliscan model of democratic socialism, argued that the party should embrace parliamentary democracy and abandon its revolutionary rhetoric. The Marxist-Leninist wing, influenced by the Volisanian model, argued that the ban proved the futility of parliamentary politics and that only a revolutionary transformation could achieve the party's goals. This factional tension, which would define the party's internal politics for the next four decades, was first articulated during the ban period.
+
+===Re-legalization and rebuilding (1988–2016)===
+
+The ban on radical leftist parties was lifted in 1988, as part of a broader political liberalization that accompanied the maturation of the Federal Republic's democratic institutions. The SCP was re-legalized, its assets were returned (though many had been lost or destroyed during the ban period), and its Diet members were eligible to stand for re-election.
+
+The party's first post-ban chairman was {{nihongo|Katsuhiko Iwakura|岩倉勝彦|Iwakura Katsuhiko|1940–2012}}, a university professor who had been a CYL member during the ban period and had built a reputation as a moderate voice within the party's Reformist wing. Iwakura's priority was rebuilding the party's electoral presence, which had been reduced to zero by the ban. The party contested the 1989 election and won three seats in the House of Commoners—a modest result, but a start.
+
+The party's rebuilding was slow. The twenty-year ban had damaged the party's organizational infrastructure, and the political landscape had changed dramatically. The [[Liberal Democratic Party (Okaiken)|LDP]], which had dominated post-war politics, was firmly entrenched, and the [[Progressive Party of Okaiken|PPO]] had absorbed much of the moderate left-wing vote. The SCP was a small party with a marginal presence in the Diet, and its radical ideology limited its appeal to a narrow constituency of intellectuals, labor activists, and students.
+
+Iwakura's leadership, which lasted from 1988 to 2002, was a period of gradual rebuilding. The party's membership grew slowly, its electoral presence expanded from three seats to a peak of fifteen seats in 2002, and its newspaper, The Daily Commune, was relaunched as a legal publication. Iwakura also worked to modernize the party's image, downplaying its revolutionary rhetoric and emphasizing its commitment to parliamentary democracy, social justice, and anti-militarism.
+
+The party's ideological evolution during this period was shaped by the changing international context. The collapse of authoritarian socialist regimes in several countries weakened the Marxist-Leninist wing's argument that the Volisanian model was the path to socialism. The Reformist wing, which had long argued for a democratic and participatory model of socialism, gained ground within the party. The Baliscan model, which had emphasized community-based socialism and participatory democracy, became increasingly influential in the party's ideological discourse.
+
+Iwakura retired at the 2002 party congress and was succeeded as chairman by {{nihongo|Kazuo Shii|志位和夫|Shii Kazuo|born 1954}}, a moderate who had served as the party's organizational director and who represented continuity with Iwakura's cautious rebuilding strategy. Shii's fourteen-year tenure—the longest chairmanship since Hatanaka's—consolidated the party's prefectural and municipal presence and rebuilt the Community Youth League into a genuine recruitment engine. Electoral progress under Shii was slow—the party plateaued at roughly fifteen seats—but the organizational base grew steadily. His most consequential decision came in 2008, when he appointed the 29-year-old [[Sho Aoyagi]], a charismatic CYL organizer with no elected experience, as deputy leader, over the objections of the party establishment. Shii recognized what the establishment did not: that the party's survival depended on its ability to speak to people who did not read theory.
+
+The rise of Aoyagi marked a turning point. Elected to the House of Commoners for Seto 3rd District in January 2011—the party's most significant district victory of the post-ban era—Aoyagi represented a new generation of SCP leadership: young, pragmatic, and media-savvy. He argued that the party's electoral ceiling was not a function of its ideology but of its presentation: the party needed to demonstrate that it could govern, not merely protest. When the [[Paraña Bank Scandal]] broke the LDP's dominance in the spring of 2016 and the SCP surged in the polls under Shii's steady handling of the affair, the chairman surprised the party by resigning on May 8, 2016, citing deteriorating health and the need for a younger generation. After closed-door negotiations in which the party's third-in-command, {{nihongo|Sachiro Ishimoto|石本幸郎|Ishimoto Sachirō}}, stepped aside, Aoyagi became the party's leader and began the process of transforming the SCP from a marginal protest party into a credible electoral force.
 
 ===2016 general election: "Red Reckoning"===
 Following a massive corruption scandal that broke the ruling [[Liberal Democratic Party (Okaiken)|LDP]], the SCP, led by the charismatic [[Sho Aoyagi]], won a historic plurality of 138 seats in the [[Okaiken general election, 2016|2016 general election]]. Aoyagi successfully formed a "left-wing" coalition with the [[Progressive Party of Okaiken|PPO]] and smaller socialist parties, becoming the first-ever communist Prime Minister of Okaiken.
@@ -56,14 +155,25 @@ Following a massive corruption scandal that broke the ruling [[Liberal Democrati
 The Aoyagi government was turbulent. While it passed significant social reforms, it was plagued by high inflation and constant infighting between the SCP and its centrist PPO coalition partner. A critical blow to the party's credibility came in 2020, when Prime Minister Aoyagi inadvertently admitted to *increasing* the defense budget, a shocking betrayal of the SCP's core pacifist and anti-militarist platform.
 
 ===2021 general election and ideological shift===
-In the [[Okaiken general election, 2021|2021 general election]], voters punished the SCP for the economic turmoil and the defense-spending gaffe. The party lost 48 seats, falling to 90, and became the lead opposition party. In the aftermath, Sho Aoyagi stepped down as party leader. He was replaced by [[Shintaro Hamabe]], a 45-year-old hard-liner who represented the party's more ideological, Marxist-Leninist wing.
+In the [[Okaiken general election, 2021|2021 general election]], voters punished the SCP for the economic turmoil and the defense-spending gaffe. The party lost 48 seats, falling to 90, and became the lead opposition party. In the aftermath, Sho Aoyagi stepped down as party leader. He was replaced by [[Shintaro Hamabe]], a 41-year-old hard-liner who represented the party's more ideological, Marxist-Leninist wing.
 
 ===2025 election: "Parasite" Gaffe and Collapse===
 Hamabe led the SCP into the [[Okaiken general election, 2025|2025 general election]] on a hard-left platform, calling for the nationalization of energy companies and a "Parasite Tax" on the wealthy. The campaign imploded on October 10, 2025, when Hamabe was filmed calling a small hardware store owner a "capitalist parasite." The gaffe dominated the news and was seen as proof of the party's extremism.
 
-The party collapsed at the polls, losing half its seats to finish with only 45. [[Shintaro Hamabe]] lost his own district seat. He took responsibility for the "catastrophic" result and resigned as chairman on election night. The party is currently in opposition and under the acting leadership of its Secretary-General, Kokushima Kenji, while it determines its future direction.
+The party collapsed at the polls, losing half its seats to finish with only 45. [[Shintaro Hamabe]] lost his own district seat. He took responsibility for the "catastrophic" result and resigned as chairman on election night. The party entered a period of crisis under the acting leadership of its Secretary-General, Kokushima Kenji.
 
-==Policies==
+===2026: The Ikazaki Resurgence===
+
+{{main|Okaiken general election, 2026}}
+
+On April 27, 2026, the SCP Central Committee unanimously voted to remove Hamabe's successor and install [[Kousuke Ikazaki]]—a former Minister of Defence under the [[Sho Aoyagi|Aoyagi]] government—as party chairman. Ikazaki, described by political analysts as "terrifyingly competent," brought a cold, calculating pragmatism to a party that had been led by an academic Marxist. He purged several Hamabe loyalists from key party positions and instituted a "war footing" campaign structure.
+
+Ikazaki's "Fortress Okaiken" doctrine—arguing that critical infrastructure should not be entrusted to private monopolies, that single points of failure were unacceptable, and that human redundancy was a necessity rather than an inefficiency—had been vindicated by the [[Satori AI Blackout Crisis]] of May 1–4, 2026, which paralysed the nation for 72 hours and claimed 23 lives. Ikazaki had previously blocked ¥89 billion in Satori defence funding, ordered a ¥340 billion audit of [[Kizan Systems]], and mandated manual backup systems for the Self-Defense Forces—provisions that proved to have directly prevented the Blackout from becoming a defense catastrophe.
+
+In the [[Okaiken general election, 2026|2026 general election]] on May 17, the SCP surged from 45 seats to 115—a gain of 70—becoming the largest party in the House of Commoners. The result was dubbed the "Ikazaki Effect" by political analysts. Ikazaki formed a coalition government with the [[Okaiken Socialist Party|OSP]] (100 seats) and the [[Social Democratic Party (Okaiken)|SDP]] (36 seats), and was sworn in as Prime Minister on May 20, 2026. The [[Ikazaki Cabinet]] established the [[Yamamoto Hina Safety Commission]] by executive order on its first day and committed to pursuing criminal charges against Kizan Systems under the Critical Infrastructure Protection Act.
+
+==Ideology and factions==
+
 The SCP's official platform, based on its "democratic revolution" concept, includes:
 * Strict defense of [[Constitution of Okaiken#CHAPTER II. RENUNCIATION OF WAR|Article 9]] and a non-militarist foreign policy.
 * Dissolution of all foreign military alliances.
@@ -72,10 +182,180 @@ The SCP's official platform, based on its "democratic revolution" concept, inclu
 
 The party's more radical faction, which was dominant from 2021–2025, also calls for the nationalization of all major industries and banks.
 
-[[Category:Political parties in Okaiken]]
-[[Category:Okaiken]]
-[[Category:Communist parties]]
+Under Ikazaki's leadership, the party has adopted a more pragmatic posture, emphasizing infrastructure sovereignty, defense preparedness, and accountability for corporate failures rather than ideological purity. The "Fortress Okaiken" doctrine represents a significant departure from the Hamabe era's academic Marxism, positioning the SCP as a party of national security and institutional competence rather than revolutionary transformation.
 
-[[Category:Okaiken]]
+===The Reformist–Marxist-Leninist divide===
+
+The SCP has been divided between two principal factions since the ban period of 1968–1988, when the ideological tension between the Volisanian and Baliscan models of socialism first crystallized within the party's underground organization.
+
+The '''Reformist Communist''' faction, influenced by the Baliscan model of democratic socialism, argues that the party should work within the parliamentary system to achieve incremental socialist reforms. The Reformists emphasize community-based socialism, participatory democracy, labor rights, and social justice. This faction was dominant under Aoyagi (2016–2021) and has regained ascendancy under Ikazaki (2026–present), though Ikazaki's version of pragmatism is more focused on institutional accountability and infrastructure sovereignty than on traditional socialist reform.
+
+The '''Marxist-Leninist''' faction, influenced by the Volisanian model of state-directed socialism, argues that the parliamentary system is fundamentally incapable of producing socialist transformation and that more radical measures—including the nationalization of major industries and the restructuring of the state—are necessary. This faction was dominant under Hamabe (2021–2025) and is currently led by [[Kobayakawa Ryōtarō]], the party's Officers leader, who maintains the faction's organizational presence in the [[House of Officers (Okaiken)|House of Officers]] through the association system.
+
+The factional tension has been a recurring source of both innovation and self-destruction. Aoyagi's Reformist approach produced the historic 2016 victory; Hamabe's Marxist-Leninist turn produced the catastrophic 2025 collapse; Ikazaki's pragmatic synthesis—combining the Reformist commitment to parliamentary democracy with a harder-edged focus on institutional accountability and national security—produced the 2026 resurgence.
+
+===The Emperor question===
+
+The SCP's relationship with the Imperial institution has evolved significantly over the party's history. The party's founding platform in 1917 called for the establishment of a socialist republic and the abolition of the monarchy. This position was maintained through the underground period and the post-war re-emergence, when the party advocated for a republican form of government.
+
+The [[Quiet Revolution (Okaiken)|Quiet Revolution]] of 1968, which transformed the Empire into the Federal Republic, initially appeared to vindicate the party's republican position. However, the [[Jutsu Restoration]] of 2011, which restored the Emperor as a constitutional monarch through a popular referendum, forced the party to reconsider. The SCP campaigned against the restoration but accepted the result, arguing that the Emperor's restored powers should be strictly limited and that the reserve powers introduced by the [[Sovereignty Act]] should be subject to democratic oversight.
+
+Under Ikazaki, the party has adopted a pragmatic position on the Emperor: the party accepts the constitutional monarchy as the established framework of governance but continues to oppose the Emperor's reserve powers, particularly the power to dissolve the Diet after a 120-day budget failure and the power to designate a Prime Minister after a 30-day vacancy. The party's current position is that these powers should be transferred to democratic institutions—the Diet itself, the Electoral Commission, or the Supreme Court—rather than vested in the Emperor personally.
+
+===Article 9 and anti-militarism===
+
+The SCP's most consistent ideological position throughout its history has been opposition to militarism. This position is rooted in the party's founding during the era of "government by assassination," vindicated by the IRAA's prosecution of the [[Great Adonian War]], and reinforced by the party's underground resistance to the wartime dictatorship.
+
+The party traditionally defends [[Constitution of Okaiken#CHAPTER II. RENUNCIATION OF WAR|Article 9]] of the Sanese Constitution, which was added in 1984 to prohibit overseas combat deployment. The SCP opposed the 2014 amendment that repealed Article 9's second paragraph, arguing that the amendment would enable the kind of overseas military engagement that had produced the catastrophe of the Great Adonian War. The party's opposition to the amendment was overridden by the referendum.
+
+The party's anti-militarist position extends to foreign military alliances. The SCP has consistently opposed the [[Okaiken-Volisania Mutual Security Assistance Pact]] since its signing in 1952, arguing that the pact subordinates Okaiken's security policy to Volisanian strategic interests. This position created a tension with the party's ideological solidarity with Volisania as a socialist state—a tension that was never fully resolved and that contributed to the factional divide between the Volisania-aligned Marxist-Leninists and the Balisca-aligned Reformists.
+
+Under Ikazaki, the party's anti-militarist position has been tempered by the "Fortress Okaiken" doctrine, which emphasizes defense preparedness and infrastructure sovereignty. Ikazaki, a former Minister of Defence, has argued that anti-militarism does not mean defenselessness and that the party's commitment to peace requires the capacity to defend the nation against external threats. This position has been criticized by the Marxist-Leninist wing as a betrayal of the party's pacifist principles, but it has proven electorally effective.
+
+===International solidarity===
+
+The SCP's international connections have been a defining feature of the party's identity since the 1930s, when Kondō established the first contacts with the Volisanian socialist movement. The party's international solidarity network has included relationships with socialist parties and movements in Volisania, Balisca, and other countries, maintained through party-to-party exchanges, ideological education programs, and occasional joint publications.
+
+The Volisania connection, established in 1931 and maintained through the underground period, has been the party's most significant international relationship. SCP leaders have traveled to Volisania for ideological training, organizational study, and international consultations. The connection has also been a source of controversy, with the party's critics arguing that the SCP's ties to Volisania compromise its loyalty to Okaiken—a charge the party has consistently rejected.
+
+The Balisca connection, established in 1958 by Hatanaka, has provided an alternative model of socialism that has influenced the party's Reformist wing. SCP leaders have traveled to Balisca to study the Baliscan model of community-based socialism, agrarian reform, and participatory democracy. The Baliscan model has been particularly influential in the party's internal debates about the relationship between socialism and democracy, providing a counterpoint to the more authoritarian tendencies of the Volisanian model.
+
+The party's international affiliation is listed as "None" in its official documentation, reflecting the SCP's position that it is an independent Sanese communist party rather than a member of any international communist organization. This position was adopted in the post-ban period to distance the party from the controversies associated with international communist movements and to emphasize its commitment to an independent, Sanese road to socialism.
+
+==Organization==
+
+The SCP's organizational structure reflects its history of underground survival and its adaptation to the dual-chamber Diet system established by the post-Quiet Revolution constitution.
+
+The party's supreme decision-making body is the Central Committee, which meets annually to set policy and elect the party chairman. The Central Committee is elected by the party congress, which meets every three years and is composed of delegates from the party's prefectural and municipal branches, its affiliated labor organizations, and its House of Officers and House of Commoners caucuses.
+
+The party's headquarters is located at 15-03-18 Meiji-cho, [[Chiyoda-ku, Okami|Chiyoda-ku]], [[Okami]]—a building that has served as the party's central office since the post-war re-emergence in 1952. The building was seized during the party ban (1968–1988) and used as a government office; it was returned to the party in 1989, though in deteriorated condition.
+
+''The Daily Commune'' (デイリー・コミューン, ''Deirī Komyūn'') is the party's official newspaper, founded in 1919 as a monthly newsletter and converted to a weekly in 1924. The newspaper was banned during the IRAA period (1939–1952) and the party ban period (1968–1988), during which it was circulated as a samizdat publication. The newspaper was relaunched as a legal publication in July 1952 and again in 1989, and continues to serve as the party's primary communication channel with its membership and the broader public.
+
+The '''Community Youth League''' (コミュニティ青年同盟, ''Komyuniti Seinen Dōmei''), commonly known as the '''CYL''', is the party's youth wing, established in 1954 to recruit and organize young people from the universities and the industrial workforce. The CYL was banned during the party ban period but continued to operate under various front names, particularly on university campuses. The CYL was re-established under its original name in 1989 and continues to be an important source of new party members and future leaders. Aoyagi, Hamabe, and Ikazaki were all CYL members in their youth.
+
+The party's presence in the [[House of Officers (Okaiken)|House of Officers]] is organized through the association system, with the SCP-affiliated professional and industry associations electing representatives to the Officers. The party's Officers leader, [[Kobayakawa Ryōtarō]], is the head of the Marxist-Leninist faction and represents the party's more ideological wing in the upper chamber. The party currently holds 36 of the 251 seats in the House of Officers.
+
+At the prefectural and municipal levels, the SCP maintains a significant organizational presence, with 820 prefectural assembly members and 7,335 municipal assembly members. This local presence, built gradually since the re-legalization in 1988, provides the party with a grassroots base that has proven more durable than its national electoral performance.
+
+==List of SCP Prime Ministers==
+* [[Sho Aoyagi]] (2016–2021)
+* [[Kousuke Ikazaki]] (May 2026–present)
+
+==List of chairmen==
+{| class="wikitable" style="text-align:center"
+! #
+! Chairman
+! Term
+! Notes
+|-
+| 1 || {{nihongo|Tetsuzō Enomoto|榎本鉄三}} || 1917–1924 || Founding chairman; stepped down due to declining health
+|-
+| 2 || {{nihongo|Tetsuji Katagiri|片桐徹次}} || 1924–1929 || Died in office
+|-
+| 3 || {{nihongo|Sakae Ōtsuki|大槻栄}} || 1929–1937 || Arrested in the Dark Valley raids; died in custody in 1941
+|-
+| 4 || {{nihongo|Haruo Kondō|近藤春男}} || 1937–1952 || Underground chairman (IRAA period)
+|-
+| 5 || {{nihongo|Yoshio Hatanaka|畑中義男}} || 1952–1968 || First post-war chairman; placed under house arrest at the party ban
+|-
+| 6 || {{nihongo|Chōzō Awaya|粟屋長蔵}} || 1968–1969 || Arrested six months into the ban; nine years in Prevention Custody
+|-
+| 7 || {{nihongo|Renji Tashiro|田代蓮次}} || 1969–1985 || Underground chairman (ban period)
+|-
+| 8 || {{nihongo|Sōkichi Hagiwara|萩原宗吉}} || 1985–1988 || Led the transition to re-legalization; stepped aside for Iwakura
+|-
+| 9 || {{nihongo|Katsuhiko Iwakura|岩倉勝彦}} || 1988–2002 || First chairman of the re-legalized party
+|-
+| 10 || {{nihongo|Kazuo Shii|志位和夫}} || 2002–2016 || Longest-serving post-ban chairman
+|-
+| 11 || [[Sho Aoyagi|Shō Aoyagi]] || 2016–2021 || Prime Minister 2016–2021
+|-
+| 12 || [[Shintaro Hamabe]] || 2021–2025 || Resigned after the 2025 collapse
+|-
+| — || [[Kokushima Kenji]] || 2025–2026 || Acting chairman
+|-
+| 13 || [[Kousuke Ikazaki]] || 2026–present || Prime Minister 2026–present
+|}
+
+==Election results (House of Commoners)==
+{| class="wikitable sortable" style="text-align:center"
+|+ [[House of Commoners of Okaiken|House of Commoners]]
+|-
+! rowspan="2" | Election
+! rowspan="2" | Leader
+! colspan="3" | Seats
+! rowspan="2" | Position
+! colspan="2" | Popular vote
+! rowspan="2" | Status
+|-
+! No.
+! ±
+! Share
+! No.
+! Share
+|-
+! [[Okaiken general election, 2016|2016]]
+| rowspan="2" | [[Sho Aoyagi]]
+| {{Composition bar|138|475|#d40000}}
+| {{steady}} —
+| 29.1%
+| {{increase}} 1st
+| 18,250,760
+| 29.1%
+| Coalition (''SCP-PPO-OSP-SDP'')
+|-
+! [[Okaiken general election, 2021|2021]]
+| {{Composition bar|90|475|#d40000}}
+| {{decrease}} 48
+| 18.9%
+| {{decrease}} 2nd
+| 11,820,100
+| 19.0%
+| Opposition
+|-
+! [[Okaiken general election, 2025|2025]]
+| [[Shintaro Hamabe]]
+| {{Composition bar|45|475|#d40000}}
+| {{decrease}} 45
+| 9.5%
+| {{decrease}} 4th
+| 5,940,200
+| 9.5%
+| Opposition
+|-
+! [[Okaiken general election, 2026|2026]]
+| [[Kousuke Ikazaki]]
+| {{Composition bar|115|475|#d40000}}
+| {{increase}} 70
+| 24.2%
+| {{increase}} 1st
+| 14,812,044
+| 22.4%
+| Coalition (''SCP-OSP-SDP'')
+|}
+
+==See also==
+* [[Politics of Okaiken]]
+* [[List of Prime Ministers of Okaiken]]
+* [[Ikazaki Cabinet]]
+* [[Kousuke Ikazaki]]
+* [[Sho Aoyagi]]
+* [[Shintaro Hamabe]]
+* [[Satori AI Blackout Crisis]]
+* [[Okaiken Socialist Party]]
+* [[Social Democratic Party (Okaiken)]]
+* [[Imperial Rule Assistance Association]]
+* [[Quiet Revolution (Okaiken)]]
+* [[Dark Valley (Okaiken)]]
+* [[Tokkō]]
+* [[Okaiken-Volisania Mutual Security Assistance Pact]]
+* [[Sovereignty Act]]
+* [[Article 9 (Okaiken)]]
+
+==References==
+{{reflist}}
+
+[[Category:Political parties in Okaiken]]
+[[Category:Communist parties]]
 [[Category:Okaiken topics]]
-[[Category:Okaiken]]

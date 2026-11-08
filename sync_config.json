@@ -4,8 +4,8 @@
     "script_path": "https://talod.miraheze.org/w",
     "family": "talod",
     "lang": "en",
-    "bot_username": "C111222333444@Takeru-Sync",
-    "bot_password": "mbb6v8r768dlgau8qmn7lheog7ecq9uk"
+    "bot_username": "Takeru-Sync@Letta_Takeru",
+    "bot_password": "mt54tvf8s22mcsdu02jf0jknt02ao3pc"
   },
   "sync": {
     "poll_interval_seconds": 900,
@@ -69,6 +69,8 @@
     "Articles containing Japanese-language text",
     "Articles containing Sanese-language text",
     "Articles containing Sanese language text",
+    "Articles containing Baliscano-language text",
+    "Articles containing Malay (macrolanguage)-language text",
     "Articles with hatnote templates targeting a nonexistent page",
     "Articles with short description",
     "Articles with unsourced statements",

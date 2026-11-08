@@ -4,7 +4,7 @@
 | image=Flag of Okaiken.svg |imagesize=150 |border=yes |alt=flag of Okaiken
 
 | ethnooverride = Sanese people
-| langoverride = Sanese Language
+| langoverride = Sanese language
 
 | tradoverride = Traditions
 | tradtopics =
@@ -13,9 +13,9 @@
 *[[Marriage in Okaiken|Marriage]]
 *[[Sanese funeral|Funerals]]
 *[[Sanese tea ceremony|Tea ceremony]]
-*[[Onsen]]{{\}}[[Sentō]]
+*[[Onsen]]{{\\}}[[Sentō]]
 *[[Sanese clothing|Clothing]]
-*[[List of Sanese games|Games]]
+*[[Hanryo tōroku|Companion registration]]
 
 | mythoverride = Sanese mythology
 | folkoverride = Sanese folklore
@@ -23,38 +23,59 @@
 | festoverride = Sanese festivals
 
 | reltopics =
-*[[Buddhism in Okaiken|Buddhism]]
-*[[Christianity in Okaiken|Christian]]
-*[[Sanese new religions|New religions]]
-
+*[[Baiduism in Okaiken|Baiduism]]
+*[[Shoto|Shintō]]
+*[[Cult of Iron]]
 
 | artoverride = Sanese art
 | arttopics =
-*[[wikipedia:Ikebana|Ikebana]]
-*[[wikipedia:Bonsai|Bonsai]]
-*[[wikipedia:Japanese garden|Gardens]]
-*[[wikipedia:Japanese pottery and porcelain|Pottery and porcelain]]
+*[[Kurayami-e]]
+*[[Sanese Official Portraiture]]
+*[[Manga]]
+*[[Anime in Okaiken|Anime]]
 
 | litoverride = Sanese literature
 | littopics =
-*[[Manga]]
 *[[Sanese poetry|Poetry]]
+*[[Doka]]
 
 | paoverride = Theatre of Okaiken
+| patopics =
+*[[Taisen drama]]
+*[[Onnamono drama]]
 
 | mediaoverride = Media of Okaiken
 | mediatopics =
-*[[Sanese mobile phone culture|Mobile phone culture]]
-*[[Anime]]
+*[[KTK]]
+*[[PYRAMID30 Okaiken|PYRAMID30]]
 
+| sportoverride = Sport in Okaiken
 | sporttopics =
+*[[Cult of Iron|Cult of Iron / Physical culture]]
+*[[Okaiken Rugby League One|Rugby union]]
+*[[X-League|Lurandian Football]]
+*[[Bodybuilding in Okaiken|Bodybuilding]]
+*[[Goriki]]
+*[[Professional Wrestling in Okaiken|Professional wrestling]]
+*[[Kenka-Jutsu]]
+*[[Bo-taoshi]]
 *[[Sanese martial arts|Martial arts]]
 
+| musoverride = Music of Okaiken
+| mustopics =
+*[[Sanese Rock|S-Rock]]
+*[[Sanese Drill|S-Drill]]
+*[[Kougyou-On]]
+*[[Visual Kei|Armored Kei]]
+
 | monutopics =
-*[[Sanese architecture|Architecture]]
+*[[Architecture in Okaiken|Architecture]]
+*[[Metabolist Movement|Metabolism]]
 
 | orgtopics =
-*[[Sanese museums|Museums]]
+*[[National Iron Body Initiative]]
+*[[Iron Temple]]
+*[[Iron Body Centers]]
 
 }}<noinclude>
 {{clear}}

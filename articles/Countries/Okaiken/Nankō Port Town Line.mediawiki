@@ -1,137 +1,110 @@
 {{Short description|Automated guideway transit line in Okami, Okaiken}}
-{{Infobox Public transit
+{{Infobox rail line
+| logo = Okami Metro Nanko Port Town line symbol.svg
+| logo_width = 50px
 | name = Nankō Port Town Line
-| image = Okami Metro Nanko Port Town line symbol.svg
-| imagesize = 100px
-| image2 = Okami-Metro Series200-01.jpg
-| imagesize2 = 300px
-| caption2 = An [[Okami Metro 200 series|200 series]] AGT train arriving at [[Port Town-East Station]].
-| native_name = 南港ポートタウン線
-| owner = [[Okami Metro]]
-| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
-| transit_type = [[Automated guideway transit|AGT]]
-| lines = Line P
-| stations = 10
-| ridership = 180,000 (FY2025)
-| began_operation = {{start date and age|1981|03|16|df=y}}
-| system_length = {{cvt|7.9|km|mi|abbr=on}}
-| track_gauge = {{RailGauge|sg|allk=on}} (Guideway)
-| el = {{600 V AC|conductor=side}} (Side Contact)
-| map = [[File:Okami Metro Nanko Port Town Line Map.png|300px]]
-| map_state = collapsed
+| color = 71a7d8
+| mapcolor = Light Blue ({{color box|#71a7d8|border=darkgray}})
+| type = [[Automated guideway transit|AGT]]
+| system = [[Okami Metro]]
+| status = Operating
+| locale = [[Okami]], [[Okaiken]]
+| stations = 9
+| start = [[Minato-misaki]]
+| end = [[Iyonada]]
+| open = 1981
+| owner = [[Okami Metro Co., Ltd.]]
+| operator = [[Okami Metro Co., Ltd.]]
+| stock = 100 series
+| electrification = 600 V 3-phase AC
+| linelength = {{cvt|8.7|km|mi|abbr=on}}
+| speed = {{cvt|55|km/h|abbr=on}}
 }}
 
-The {{nihongo|'''Nankō Port Town Line'''|南港ポートタウン線|Nankō Pōtotaun-sen}}, commonly known as the "New Tram", is an automated guideway transit (AGT) line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It serves the reclaimed islands of the Okami Bay Area, connecting the residential districts of "Port Town" with the exhibition centers and ferry terminals. On system maps, the line is color-coded cerulean blue ({{Okami Metro color|P}}), and its stations use the prefix "P".
+The {{nihongo|'''Nankō Port Town Line'''|南港ポートタウン線|Nankō Pōto Taun-sen}}, also known as the '''New Tram''', is an [[automated guideway transit]] (AGT) line operated by [[Okami Metro Co., Ltd.]] in [[Okami]], [[Okaiken]]. It is the only AGT line in the Okami Metro network and carries the line code '''P'''. The line is identified by the color '''light blue''' ({{HTML color|#71a7d8}}). The line runs from {{nihongo|Minato-misaki|港岬}} to {{nihongo|Iyonada|伊予灘}}, spanning {{cvt|8.7|km|mi|0}} and serving 9 stations, all within the Minato ward.
 
-Unlike the heavy rail subway lines, the Nankō Port Town Line utilizes rubber-tyred automated trains running on an elevated concrete guideway. It functions as a crucial connector loop on the western edge of the city, linking the western terminus of the [[Chūō Line (Okami)|Chūō Line]] at [[Cosmosquare Station|Cosmosquare]] with the southern terminus of the [[Shitayanagi Line]] at [[Suminoe-Koen Station|Suminoe-Koen]].
+The Nankō Port Town Line was designed to serve Okami's [[port]] and [[industrial]] area, providing a critical transit link for workers in the maritime and logistics sectors. The line runs along the waterfront, connecting the port's southern tip at Minato-misaki with the residential and commercial areas of the Minato ward, terminating at Iyonada in the north. The line's route passes through several key port facilities, including the trade port area of Hokko-machi and the waterfront district of Shio-machi.
+
+The line is technically distinct from the rest of the Okami Metro network. Unlike the heavy rail metro lines, which use [[third rail]] [[direct current]] electrification, the Nankō Port Town Line uses '''600 V [[Three-phase electric power|3-phase]] [[Alternating current|AC]]''' power, supplied via a [[third rail]] system. The line has a maximum speed limit of {{cvt|55|km/h|mph|0}}, significantly lower than the {{cvt|80|km/h|mph|0}} operating speed of the main metro lines. The line uses [[automated guideway transit]] technology, with driverless trains guided by a concrete guideway rather than conventional rails.
+
+The Nankō Port Town Line offers interchanges with four other metro lines and one OR line: the [[Chūō Line (Okami)|Chūō Line]] and [[Tedorigawa Line]] at [[Nagata-cho]] ({{OMSN|P|02}}), the [[Nanboku Line (Okami)|Nanboku Line]] at [[Kitanada]] ({{OMSN|P|05}}), and the [[Miyoshi Line]] and [[OR Minato Line]] at its northern terminus of [[Iyonada]] ({{OMSN|P|09}}). These connections allow port area workers to access the broader metro network and provide a transit option for residents of the Minato ward.
 
 ==History==
-Construction began in the late 1970s to serve the newly developed "Nankō" (South Port) residential new town. The first section between [[Nakafuto Station|Nakafuto]] and [[Suminoe-Koen Station|Suminoe-Koen]] opened on March 16, 1981.
 
-The line was extended north to [[Cosmosquare Station|Cosmosquare]] in 1997 to connect with the Chūō Line and the new seaside business district. The line has operated with fully unmanned automated trains since 1991, following a system-wide upgrade to ATO (Automatic Train Operation).
+===Planning and construction===
 
-==Station List==
-* All stations are located in [[Suminoe Ward, Okami|Suminoe Ward]], [[Okami|Okami City]].
-* Stops: All trains stop at all stations.
+The Nankō Port Town Line was conceived in the late 1970s as part of a broader initiative to improve transit access to Okami's port and industrial area. The port district, which had grown rapidly during the post-war economic miracle, was home to a large workforce employed in maritime trade, shipbuilding, and logistics. However, the area was poorly served by public transit, with workers relying on buses that were frequently delayed by the heavy truck traffic characteristic of the port area.
 
-{| class="wikitable" style="text-align:center; font-size:95%;"
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | No.
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Station Name
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Japanese
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Distance (km)
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Transfers
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|P}};" | Location
+The [[Okami Municipal Transportation Bureau]] initially considered extending one of the existing heavy rail metro lines into the port area, but the narrow streets and dense industrial development of the port district made conventional subway construction impractical and prohibitively expensive. Instead, the bureau opted for an [[automated guideway transit]] system, which could be built on elevated guideways above existing streets, minimizing disruption to port operations and reducing construction costs.
+
+The AGT technology was relatively new at the time, and the Nankō Port Town Line was one of the first such systems to be built in Okaiken. The line was designed with a 4-car train configuration, using rubber-tired vehicles guided by a concrete guideway. The choice of 600 V 3-phase AC electrification was dictated by the AGT technology, which required a different power supply system from the heavy rail metro lines.
+
+Construction began in 1978 and proceeded rapidly, as the elevated guideway was less complex to build than a bored tunnel. The line's route was designed to follow the waterfront as closely as possible, with stations placed at key port facilities and residential areas. The guideway was built on elevated structures, typically 5 to 8 meters above street level, allowing port traffic to pass freely beneath.
+
+===Opening and early operation===
+
+The Nankō Port Town Line opened on July 1, 1981, the same day as the first segment of the [[Tedorigawa Line]]. The simultaneous opening of the two lines was part of a coordinated effort to provide comprehensive transit coverage for the port area, with the Tedorigawa Line serving as the heavy rail backbone and the Nankō Port Town Line providing finer-grained access within the port district itself.
+
+The line was an immediate success, carrying over 50,000 passengers daily within its first year. The driverless operation was a novelty at the time and attracted significant public attention. The line's automated system proved reliable, and the AGT technology was well-suited to the port area's flat terrain and relatively short distances between stations.
+
+===Modernization===
+
+In 2018, as part of the privatization of the [[Okami Municipal Transportation Bureau]] and the broader modernization of the Okami Metro network, the Nankō Port Town Line's 100 series rolling stock was comprehensively refurbished. The refurbishment included interior upgrades, improved accessibility features, and updated automated control systems. The 100 series, which had been in service since the line's opening in 1981, received new interiors, LED lighting, and improved passenger information displays.
+
+The line's automated control system was also upgraded in 2018, incorporating modern signaling technology and improved safety features. The upgrade allowed for more precise train control and slightly increased service frequency during peak hours. Despite these improvements, the line's maximum speed remains limited to {{cvt|55|km/h|mph|0}}, a constraint of the AGT technology and the line's alignment through the densely developed port area.
+
+==Stations==
+
+All stations are located in the [[Minato]] ward of [[Okami]], [[Okaiken]].
+
+{| class="wikitable sortable" style="margin:auto; text-align:center;"
+! # !! Station !! Sanese !! Location !! Interchange
 |-
-! style="border-bottom:3px solid #{{Okami Metro color|P}};" | Between<br>Stations
-! style="border-bottom:3px solid #{{Okami Metro color|P}};" | Total
+| {{OMSN|P|01}} || Minato-misaki || 港岬 || Minato-ku, Okami || 
 |-
-| {{OMSN|P|01}}
-| [[Cosmosquare Station|Cosmosquare]]
-| コスモスクエア
-| -
-| 0.0
-| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C02)
-| rowspan="3" | [[Sakishima, Okami|Sakishima]]<br>(North)
+| {{OMSN|P|02}} || Nagata-cho || 永田町 || Minato-ku, Okami || {{OMSN|C|26}} [[Chūō Line (Okami)|Chūō Line]]<br>{{OMSN|D|25}} [[Tedorigawa Line]]
 |-
-| {{OMSN|P|02}}
-| [[Trade Center-Mae Station|Trade Center-Mae]]
-| トレードセンター前
-| 0.6
-| 0.6
-| {{rint|okami|bus}} ATC Bus Terminal
+| {{OMSN|P|03}} || Funa-hashi || 船橋 || Minato-ku, Okami || 
 |-
-| {{OMSN|P|03}}
-| [[Nakafuto Station|Nakafuto]]
-| 中ふ頭
-| 0.7
-| 1.3
-|
+| {{OMSN|P|04}} || Funamachi || 船町 || Minato-ku, Okami || 
 |-
-| {{OMSN|P|04}}
-| [[Port Town-West Station|Port Town-West]]
-| ポートタウン西
-| 0.7
-| 2.0
-|
-| rowspan="3" | [[Sakishima, Okami|Sakishima]]<br>(Residential)
+| {{OMSN|P|05}} || Kitanada || 北潟 || Minato-ku, Okami || {{OMSN|B|24}} [[Nanboku Line]]
 |-
-| {{OMSN|P|05}}
-| [[Port Town-East Station|Port Town-East]]
-| ポートタウン東
-| 1.1
-| 3.1
-|
+| {{OMSN|P|06}} || Kaisui-bashi || 海水橋 || Minato-ku, Okami || 
 |-
-| {{OMSN|P|06}}
-| [[Ferry Terminal Station|Ferry Terminal]]
-| フェリーターミナル
-| 1.5
-| 4.6
-| {{rint|okami|ferry}} Okami-Nanko Ferry Terminal
+| {{OMSN|P|07}} || Hokko-machi || 貿易港町 || Minato-ku, Okami || 
 |-
-| {{OMSN|P|07}}
-| [[Nanko-East Station|Nanko-East]]
-| 南港東
-| 0.8
-| 5.4
-|
-| rowspan="4" | [[Nanko, Okami|Nanko Area]]
+| {{OMSN|P|08}} || Shio-machi || 潮町 || Minato-ku, Okami || 
 |-
-| {{OMSN|P|08}}
-| [[Nanko-Guchi Station|Nanko-Guchi]]
-| 南港口
-| 0.6
-| 6.0
-|
-|-
-| {{OMSN|P|09}}
-| [[Hirabayashi Station (Okami)|Hirabayashi]]
-| 平林
-| 1.3
-| 7.3
-|
-|-
-| {{OMSN|P|10}}
-| [[Suminoe-Koen Station|Suminoe-Koen]]
-| 住之江公園
-| 0.6
-| 7.9
-| {{rint|okami|S}} [[Shitayanagi Line]] (S13)
+| {{OMSN|P|09}} || Iyonada || 伊予灘 || Minato-ku, Okami || {{OMSN|M|36}} [[Miyoshi Line]]<br>[[OR Minato Line]]
 |}
 
-==Rolling Stock==
-* [[Okami Metro 200 series|200 series]] (4-car sets):
-*: Introduced in 2016 to replace the original fleet. These AGT vehicles are recognizable by their playful exterior designs; each trainset features a different color theme (e.g., "Ocean Blue," "Sunset Orange," "Park Green") representing different aspects of the bay area. They feature large windows and forward-facing seats at the ends of the train for panoramic views of the harbor.
+==Rolling stock==
+
+The Nankō Port Town Line operates '''AGT''' (Automated Guideway Transit) rolling stock, consisting of 4-car trains approximately {{cvt|45|m|ft|0}} in length. The trains are rubber-tired and guided by a concrete guideway, rather than running on conventional steel rails. All trains are fully automated and operate without drivers.
+
+;Current fleet
+* {{nihongo|'''100 series'''|100系}} — Introduced in 1981, manufactured for the line's opening. The 100 series is the only rolling stock to have ever operated on the Nankō Port Town Line. The fleet was comprehensively refurbished in 2018 as part of the privatization-era modernization program, receiving new interiors, LED lighting, improved accessibility features, and updated automated control systems. Despite being over 40 years old, the refurbished 100 series remains in good condition and is expected to remain in service for the foreseeable future.
+
+The 100 series is unique in the Okami Metro fleet, as it is the only AGT rolling stock and is not compatible with any other line in the network. The trains are powered by 600 V 3-phase AC electricity supplied via a third rail, and are limited to a maximum speed of {{cvt|55|km/h|mph|0}}.
+
+==Through-service==
+
+The Nankō Port Town Line does not operate through-service with any other line, as its AGT technology is incompatible with the heavy rail metro lines. The line operates as a self-contained system, with all services terminating at either Minato-misaki or Iyonada. Passengers transferring to the main metro network must change trains at one of the three interchange stations: Nagatacho (with the [[Chūō Line (Okami)|Chūō Line]] and [[Tedorigawa Line]]) or Kitanada (with the [[Nanboku Line (Okami)|Nanboku Line]]).
 
 ==See also==
 * [[Okami Metro]]
+* [[Automated guideway transit]]
+* [[Tedorigawa Line]]
 * [[List of Okami Metro stations]]
-* [[Transport in Okaiken]]
 
-{{Metro systems in Okaiken}}
+==References==
+{{Reflist}}
 
-[[Category:Rapid transit lines in Okaiken]]
-[[Category:Okami Metro lines]]
+==External links==
+* {{Official website|https://www.okami-metro.co.jp/}}
+
+[[Category:Okami Metro]]
+[[Category:Okaiken railways]]
 [[Category:Automated guideway transit]]
-[[Category:Okaiken topics]]
-[[Category:Okaiken]]
+[[Category:Railway lines opened in 1981]]

@@ -1,123 +1,161 @@
-{{Short description|Rapid transit line in Okami, Okaiken}}
-{{Infobox Public transit
+{{Short description|Metro line in Okami, Okaiken}}
+{{Infobox rail line
+| logo = Okami Metro Tedorigawa line symbol.svg
+| logo_width = 50px
 | name = Tedorigawa Line
-| image = Okami Metro Tedorigawa line symbol.svg
-| imagesize = 100px
-| image2 = Okami-Metro Series6000-01.jpg
-| imagesize2 = 300px
-| caption2 = An [[Okami Metro 6000 series|6000 series]] train in Dark Brown livery at [[Osakako-Tedori Station]].
-| native_name = 手取川線
-| owner = [[Okami Metro]]
-| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
-| transit_type = [[Rapid transit|Metro]]
-| lines = Line 10
-| stations = 8
-| ridership = 380,000 (FY2025)
-| began_operation = {{start date and age|2000|08|01|df=y}}
-| system_length = {{cvt|8.5|km|mi|abbr=on}}
-| track_gauge = {{RailGauge|sg|allk=on}}
-| el = {{750 V DC|conductor=y}} (Third Rail)
-| map = [[File:Okami Metro Tedorigawa Line Map.png|300px]]
-| map_state = collapsed
+| color = 663300
+| mapcolor = Dark Brown ({{color box|#663300|border=darkgray}})
+| type = [[Rapid transit]]
+| system = [[Okami Metro]]
+| status = Operating
+| locale = [[Okami]], [[Okaiken]]
+| stations = 37
+| start = [[Nami-cho]]
+| end = [[Hon-Karasaki]]
+| open = 1981
+| owner = [[Okami Metro Co., Ltd.]]
+| operator = [[Okami Metro Co., Ltd.]]
+| stock = [[#Rolling stock|6000 series]], [[#Rolling stock|2000 series]]
+| gauge = {{RailGauge|sg|allk=on}}
+| electrification = 1,500 V DC [[overhead catenary]]
+| linelength = {{cvt|53.2|km|mi|abbr=on}}
+| speed = {{cvt|100|km/h|abbr=on}}
 }}
+The {{nihongo|'''Tedorigawa Line'''|手取川線|Tedorigawa-sen}} is a [[rapid transit]] line operated by [[Okami Metro Co., Ltd.]] in [[Okami]], [[Okaiken]]. Designated as '''Line 10''' of the Okami Metro network, it is identified by the color '''dark brown''' ({{HTML color|#663300}}) and carries the line code '''D'''. The line runs from {{nihongo|Nami-cho|波町}} in the southwest to {{nihongo|Hon-Karasaki|本唐崎}} in the northwest, spanning {{cvt|53.2|km|mi|0}} and serving 37 stations. With 37 stations across {{cvt|53.2|km|mi|abbr=on}}, it is one of the longest trunk lines in the Okami Metro system, behind only the [[Tozai Line (Okami)|Tozai Line]] (64 stations), [[Miyoshi Line]] (43 stations), and [[Nagata Line]] (38 stations).
 
-The {{nihongo|'''Tedorigawa Line'''|手取川線|Tedorigawa-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. Named after the major river it parallels, the line serves as a strategic "Waterfront Connector," linking the Okami Bay Area directly to the northern transport hubs of [[Fukushima Ward, Okami|Fukushima]] and [[Nakatsu Station|Nakatsu]]. On system maps, the line is color-coded dark brown ({{Okami Metro color|T}}), and its stations use the prefix "T".
+The Tedorigawa Line is distinguished by its route through Okami's [[port]] and [[waterfront]] districts. The line passes through the Minato (port), Nagisa (waterfront), and Kuroshio (black tide) areas, serving as a critical transit link for the city's maritime industrial zones. The line's name derives from the Tedorigawa, a river that flows through the western portions of Okami, and the alignment roughly follows the river's course through several wards before curving northward through the port district.
 
-The Tedorigawa Line is unique for being the only "River-side" subway in the network. It was constructed to redevelop the former industrial warehouse districts along the riverbanks into modern residential and commercial zones ("River City Okami"). Because it runs through soft alluvial soil near the river, the tunnels were constructed using advanced shield-boring technology.
-
+The line offers interchanges with 13 other metro lines, making it one of the most connected lines in the network. Major transfer hubs include [[Nagata-cho (D)|Nagata-cho]] (with the [[Chūō Line (Okami)|Chūō Line]] and [[Nankō Port Town Line]]), Kachidoki (with the [[Shitayanagi Line]] and [[Imaichi Line]]), and Tokushige (with the [[Nanboku Line (Okami)|Nanboku Line]]). The line's route through the Mitsu-Minato ward also provides connections to [[Okami-Tobu Airport]] via the [[Imaichi Line]].
 ==History==
-Proposed during the "Waterfront Renaissance" project of the 1990s, the Tedorigawa Line was built to bypass the congested city center loops for commuters traveling from the bay to the northern districts.
 
-The entire line from [[Osakako-Tedori Station|Osakako-Tedori]] to [[Nakatsu-Kawaramachi Station|Nakatsu-Kawaramachi]] opened on August 1, 2000. It quickly became a favorite route for tourists visiting the aquarium and theme parks in the bay area, offering a direct link to the northern hotels without transferring through the busy [[Umeda-Kita]] or [[Okami Central]] complexes.
+===Planning and construction===
 
-==Station List==
-* All stations are located in [[Okami|Okami City (大紙市)]].
-* Stops: All trains stop at all stations (Local service only).
+The Tedorigawa Line was conceived in the early 1970s as part of the fourth phase of expansion of the Okami Municipal Subway. The rapid growth of Okami's port and industrial areas following the post-war economic miracle created an urgent need for a transit line that could connect the waterfront districts with the city center and the growing residential suburbs to the northwest. The existing tram network in the port area was increasingly congested, and the narrow streets of the older port districts made surface-level transit expansion impractical.
 
-{| class="wikitable" style="text-align:center; font-size:95%;"
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | No.
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Station Name
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Japanese
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Distance (km)
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Transfers
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|T}};" | Location
+Construction of the Tedorigawa Line began in 1976. The alignment was designed to serve the densely populated Minato and Mitsu-Minato wards, which housed much of the city's maritime workforce, as well as the growing residential areas of Kawauchi and Karasaki to the northwest. Unlike the [[Shitayanagi Line]], which had been built to narrow gauge, the Tedorigawa Line was constructed to [[standard gauge]] of {{RailGauge|sg|allk=on}}, consistent with the rest of the metro network.
+
+===Opening and early operation===
+
+The first segment of the Tedorigawa Line opened on July 1, 1981, between Nami-cho and Minato, covering approximately 25 kilometers and 23 stations. The opening was timed to coincide with the opening of the [[Nankō Port Town Line]] (New Tram), which together formed a comprehensive transit network for the port area. The Tedorigawa Line's opening was a major milestone for the port district, which had previously relied on buses and the aging tram system.
+
+The second phase of construction extended the line northwest from Minato through the Mitsu-Minato ward to Hon-Karasaki, completing the full route in 1985. This extension brought the total line length to {{cvt|53.2|km|mi|0}} and added 14 new stations, serving the developing suburban areas of Karasaki and the Mitsu-Minato waterfront.
+
+===Modernization===
+
+In the 2000s, the Tedorigawa Line underwent significant modernization. The line received new signaling systems to increase service frequency, and several stations in the port district were renovated with improved accessibility features. The line's stations along the Nagisa and Kuroshio waterfront areas were redesigned to accommodate the growing number of commuters traveling to the newly developed commercial and residential complexes in the area.
+
+Following the privatization of the [[Okami Municipal Transportation Bureau]] in 2018, the Tedorigawa Line received new 6000 series rolling stock manufactured by [[Okami Heavy Industries]], replacing the aging 2000 series trains. The 2000 series fleet, which had been in service since the line's opening in 1981 and was refurbished in 2018, is being progressively phased out. As of 2026, the transition to the 6000 series is nearly complete, with full retirement of the 2000 series expected by 2027.
+
+==Stations==
+
+All stations are located in [[Okami]], [[Okaiken]].
+
+{| class="wikitable sortable" style="margin:auto; text-align:center;"
+! # !! Station !! Sanese !! Location !! Interchange
 |-
-! style="border-bottom:3px solid #{{Okami Metro color|T}};" | Between<br>Stations
-! style="border-bottom:3px solid #{{Okami Metro color|T}};" | Total
+| {{OMSN|D|01}} || Nami-cho || 波町 || Kawauchi-ku, Okami || 
 |-
-| {{OMSN|T|01}}
-| [[Osakako-Tedori Station|Osakako-Tedori]]
-| 大阪港手取
-| -
-| 0.0
-| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (via [[Cosmosquare Station|Cosmosquare]] - walkway connection)<br>{{rint|okami|ferry}} Tempozan Ferry Terminal
-| rowspan="3" | [[Minato Ward, Okami|Minato]]
+| {{OMSN|D|02}} || Hineno || 日根野 || Hineno-ku, Okami || [[Okaden Toyohama Line]]
 |-
-| {{OMSN|T|02}}
-| [[Asashiobashi-River Station|Asashiobashi-River]]
-| 朝潮橋リバー
-| 1.2
-| 1.2
-| {{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (via [[Asashiobashi-Kita Station|Asashiobashi-Kita]])
+| {{OMSN|D|03}} || Amahashi || 天橋 || Minami-ku, Okami || 
 |-
-| {{OMSN|T|03}}
-| [[Bentencho-Port Station|Bentencho-Port]]
-| 弁天町港
-| 1.1
-| 2.3
-| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]<br>{{rint|okami|C}} [[Chūō Line (Okami)|Chūō Line]] (C04)
+| {{OMSN|D|04}} || Hamada-machi || 浜田町 || Minami-ku, Okami || {{OMSN|H|10}} [[Hitotsubashi Line|Hitotsubashi Line]]
 |-
-| {{OMSN|T|04}}
-| [[Kujo-North Station|Kujo-North]]
-| 九条北
-| 1.3
-| 3.6
-| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (via [[Kujo-Ohashi Station|Kujo-Ohashi]] - Z14)<br>{{rint|okami|private}} [[Hanshin Electric Railway|Hanshin]] Namba Line
-| [[Nishi Ward, Okami|Nishi]]
+| {{OMSN|D|05}} || Kiso || 木曽 || Minami-ku, Okami || 
 |-
-| {{OMSN|T|05}}
-| [[Noda-Riverfront Station|Noda-Riverfront]]
-| 野田リバーフロント
-| 1.2
-| 4.8
-| {{rint|okami|A}} [[Asahi Line]] (via [[Noda-Hanshin Station|Noda-Hanshin]] - A01)<br>{{rint|okami|S}} [[Shitayanagi Line]] (via [[Noda-Hanshin Station|Noda-Hanshin]] - S01)
-| rowspan="3" | [[Fukushima Ward, Okami|Fukushima]]
+| {{OMSN|D|06}} || Hana || 花 || Minami-ku, Okami || 
 |-
-| {{OMSN|T|06}}
-| [[Fukushima-Park Station|Fukushima-Park]]
-| 福島公園
-| 1.0
-| 5.8
-| {{rint|okami|A}} [[Asahi Line]] (via [[Fukushima-Minami Station|Fukushima-Minami]] - A02)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+| {{OMSN|D|07}} || Tsukasa-hama || 司浜 || Minami-ku, Okami || [[OR Okami Loop Line]]<br>[[OR Okazaki Line]]
 |-
-| {{OMSN|T|07}}
-| [[Oyodonaka Station|Oyodonaka]]
-| 大淀中
-| 1.2
-| 7.0
-|
+| {{OMSN|D|08}} || Kagemoto || 影本 || Minami-ku, Okami || 
 |-
-| {{OMSN|T|08}}
-| [[Nakatsu-Kawaramachi Station|Nakatsu-Kawaramachi]]
-| 中津河原町
-| 1.5
-| 8.5
-| {{rint|okami|M}} [[Miyoshi Line]] (M09)<br>{{rint|okami|B}} [[Nanboku Line (Okami)|Nanboku Line]] (via [[Nakatsu Station|Nakatsu]] - B04)<br>{{rint|okami|private}} [[Hankyu Railway|Hankyu]] Lines (Nakatsu)
-| [[Kita Ward, Okami|Kita]]
+| {{OMSN|D|09}} || Amadera || 天寺 || Tama-ku, Okami || 
+|-
+| {{OMSN|D|10}} || Kogarashi || 木枯らし || Tama-ku, Okami || 
+|-
+| {{OMSN|D|11}} || Kurosaki || 黒崎 || Tama-ku, Okami || 
+|-
+| {{OMSN|D|12}} || Tama-Byakudou || 百道町 || Tama-ku, Okami || {{OMSN|N|27}} [[Nagata Line|Nagata Line]]<br>{{OMSN|S|21}} [[Shitayanagi Line|Shitayanagi Line]]
+|-
+| {{OMSN|D|13}} || Kachidoki || 勝どき || Tama-ku, Okami || {{OMSN|I|20}} [[Imaichi Line|Imaichi Line]]<br>{{OMSN|I|21}} [[Imaichi Line|Imaichi Line]]<br>{{OMSN|S|20}} [[Shitayanagi Line|Shitayanagi Line]]<br>{{OMSN|T|40}} [[Tozai Line (Okami)|Tozai Line (Okami)]]
+|-
+| {{OMSN|D|14}} || Nagisa-cho || なぎさ町 || Tama-ku, Okami || {{OMSN|A|10}} [[Asahi Line|Asahi Line]]<br>{{OMSN|I|20}} [[Imaichi Line|Imaichi Line]]<br>{{OMSN|I|21}} [[Imaichi Line|Imaichi Line]]<br>{{OMSN|S|20}} [[Shitayanagi Line|Shitayanagi Line]]<br>{{OMSN|T|40}} [[Tozai Line (Okami)|Tozai Line (Okami)]]
+|-
+| {{OMSN|D|15}} || Iroha || いろは || Tama-ku, Okami || {{OMSN|A|10}} [[Asahi Line|Asahi Line]]<br>{{OMSN|T|40}} [[Tozai Line (Okami)|Tozai Line (Okami)]]
+|-
+| {{OMSN|D|16}} || Kuroshio || 黒潮 || Tama-ku, Okami || {{OMSN|M|24}} [[Miyoshi Line|Miyoshi Line]]
+|-
+| {{OMSN|D|17}} || Honmyoji || 本妙寺 || Tama-ku, Okami || {{OMSN|M|24}} [[Miyoshi Line|Miyoshi Line]]
+|-
+| {{OMSN|D|18}} || Shiba Park || 芝公園 || Tama-ku, Okami || {{OMSN|G|24}} [[Tokushige Line|Tokushige Line]]
+|-
+| {{OMSN|D|19}} || Renge || 蓮華 || Tama-ku, Okami || 
+|-
+| {{OMSN|D|20}} || Koe-Tamade || 肥玉出 || Tamade-ku, Okami || 
+|-
+| {{OMSN|D|21}} || Tamashima || 玉島 || Rokumanji-ku, Okami || {{OMSN|B|21}} [[Nanboku Line (Okami)|Nanboku Line (Okami)]]
+|-
+| {{OMSN|D|22}} || Tokushige || 徳重 || Rokumanji-ku, Okami || {{OMSN|B|22}} [[Nanboku Line (Okami)|Nanboku Line (Okami)]]<br>{{OMSN|N|16}} [[Nagata Line|Nagata Line]]<br>{{OMSN|N|17}} [[Nagata Line|Nagata Line]]
+|-
+| {{OMSN|D|23}} || Minato || 港 || Minato-ku, Okami || 
+|-
+| {{OMSN|D|24}} || Naka || 中 || Minato-ku, Okami || [[OR Minato Line]]
+|-
+| {{OMSN|D|25}} || Nagata-cho || 永田町 || Minato-ku, Okami || {{OMSN|C|26}} [[Chūō Line (Okami)|Chūō Line (Okami)]]<br>{{OMSN|P|02}} [[Nankō Port Town Line|Nankō Port Town Line]]
+|-
+| {{OMSN|D|26}} || Kumori || 曇り || Minato-ku, Okami || 
+|-
+| {{OMSN|D|27}} || Ushio-machi || 潮町 || Mitsu-Minato-ku, Okami || 
+|-
+| {{OMSN|D|28}} || Mizumachi || 水町 || Mitsu-Minato-ku, Okami || {{OMSN|I|04}} [[Imaichi Line|Imaichi Line]]
+|-
+| {{OMSN|D|29}} || Amatsumara-machi || 天津麻羅町 || Mitsu-Minato-ku, Okami || {{OMSN|I|05}} [[Imaichi Line|Imaichi Line]]<br>{{OMSN|N|09}} [[Nagata Line|Nagata Line]]
+|-
+| {{OMSN|D|30}} || Eikou-cho || 栄光町 || Mitsu-Minato-ku, Okami || {{OMSN|H|32}} [[Hitotsubashi Line|Hitotsubashi Line]]<br>[[OR Iwashi Line]]
+|-
+| {{OMSN|D|31}} || Yurumi-cho || 緩み町 || Mitsu-Minato-ku, Okami || [[OR Yamagata Line]]
+|-
+| {{OMSN|D|32}} || Asuka-machi || 飛鳥町 || Mitsu-Minato-ku, Okami || 
+|-
+| {{OMSN|D|33}} || Tamashima-machi || 玉島町 || Mitsu-Minato-ku, Okami || 
+|-
+| {{OMSN|D|34}} || Mura-machi || 村町 || Mitsu-Minato-ku, Okami || 
+|-
+| {{OMSN|D|35}} || Shunbun-machi || 春分町 || Karasaki-ku, Okami || 
+|-
+| {{OMSN|D|36}} || Karasaki || 唐崎 || Karasaki-ku, Okami || [[OR Iyo Line]]
+|-
+| {{OMSN|D|37}} || Hon-Karasaki || 本唐崎 || Karasaki-ku, Okami || [[Sugitetsu Main Line]]
 |}
+==Rolling stock==
 
-==Rolling Stock==
-* [[Okami Metro 6000 series|6000 series]] (6-car sets):
-*: The exclusive rolling stock for the Tedorigawa Line. These trains feature a stainless steel body with a dark brown band, symbolizing the rich soil of the riverbanks. They are equipped with large windows to allow passengers to view the riverside scenery during the few at-grade sections near the port.
+The Tedorigawa Line operates '''Type C''' rolling stock, consisting of 6-car trains approximately {{cvt|120|m|ft|0}} in length with a car width of {{cvt|2.8|m|ft|0}}. The line shares its rolling stock type with the [[Shitayanagi Line]] and [[Tozai Line (Okami)|Tozai Line]].
+
+;Current fleet
+* {{nihongo|'''6000 series'''|6000系}} — Introduced in 2020, manufactured by [[Okami Heavy Industries]]. These trains form the current backbone of the Tedorigawa Line fleet, featuring modern LED lighting, accessibility improvements, and energy-efficient propulsion systems. The 6000 series was designed for standard-gauge operation and is shared across the Type C lines.
+
+;Legacy fleet
+* {{nihongo|'''2000 series'''|2000系}} — Introduced in 1981, the same year the Tedorigawa Line opened. The 2000 series was the original rolling stock for the line and served alongside the Shitayanagi Line for nearly four decades. The fleet was refurbished in 2018 to extend its service life, but is now being progressively phased out in favor of the 6000 series. Full retirement is expected by 2027.
+
+==Through-service==
+
+The Tedorigawa Line does not currently operate through-service with any other railway operator. However, the line's standard gauge alignment makes it technically compatible with other Okami Metro lines, and there have been periodic proposals to introduce through-running with the [[Tozai Line (Okami)|Tozai Line]], which also uses Type C rolling stock. As of 2026, no such through-service has been implemented.
+
+The line's extensive interchange network, with 13 transfer hubs, provides passengers with convenient connections to nearly every other line in the Okami Metro system, including the [[Nankō Port Town Line]] at Nagata-cho, which serves the port area in greater detail.
 
 ==See also==
 * [[Okami Metro]]
+* [[Okami Metro 6000 series]]
+* [[Okami Metro 2000 series]]
+* [[Nankō Port Town Line]]
 * [[List of Okami Metro stations]]
-* [[Transport in Okaiken]]
 
-{{Metro systems in Okaiken}}
+==References==
+{{Reflist}}
 
-[[Category:Rapid transit lines in Okaiken]]
-[[Category:Okami Metro lines]]
-[[Category:Okaiken topics]]
-[[Category:Okaiken]]
+==External links==
+* {{Official website|https://www.okami-metro.co.jp/}}
+
+[[Category:Okami Metro]]
+[[Category:Okaiken railways]]
+[[Category:Railway lines opened in 1981]]

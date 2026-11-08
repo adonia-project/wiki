@@ -1,59 +1,85 @@
 {{Infobox planet
 | name = Erebo
-| symbol = 
-| image = PL11_Erebo.jpeg
-| caption = Erebo as seen by the Voyager-class long-range probe
+| symbol = ⚷
+| image               = PL11_Erebo.jpeg
+| caption = High-resolution global mosaic of dwarf planet Erebo and its binary moon Nyx captured during the 2018 Nyx-Erebo long-baseline reconnaissance flyby
 | discoverer = Aris Thorne
 | discovery_site = Kydonia Peak Observatory
-| discovered = February 18, 1930 (Adonian Era)
-| pronounce = [[wikipedia:Wikipedia:IPA for English|/ˈɛrəboʊ/]]
-| named_after = Erebus (Sinopian Deity of Darkness)
-| alt_names = The Eternal Dark / 常闇星 (Tokoyamisei)
-| adjectives = Ereban
-| mean_radius = 1,188.3 km
+| discovered = February 18, 1930
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/ˈɛrɪboʊ/]]
+| named_after = Erebus (Sinopian / Primordial Darkness)
+| alt_names = The Void Outlier / 常闇星 (Tokoyamisei)
+| adjectives = Erebian
+| mean_radius = 1,188.0 km (0.187 R_Adonia)
 | surface_area = 1.77×10^7 km2
-| volume = 7.05×10^9 km3
+| volume = 7.02×10^9 km3
 | mass = 0.04 M_Adonia (2.39×10^23 kg)
 | mean_density = 1.86 g/cm3
-| surface_gravity = 0.62 m/s2
+| surface_gravity = 0.62 m/s2 (0.063 g)
 | escape_velocity = 1.21 km/s
-| sidereal_rotation_period = 153.3 hours
-| orbital_period = 136,000 days
+| sidereal_rotation_period = 153.3 hours (6.38 Adonian days, Synchronous)
+| orbital_period = 139,100.0 days (374.68 Adonian years)
 | mean_orbit_radius = 52.00 AU
+| perihelion = 39.104 AU
+| aphelion = 64.896 AU
 | eccentricity = 0.248
-| surface_pressure = Trace (Nitrogen/Methane)
-| composition = Silicate rock (70%); Water/Nitrogen Ice (30%)
+| inclination = 17.15°
+| surface_pressure = 0 to 1.5 Pa (Seasonal, ~10^-5 atm)
+| surface_temp = 33 K to 45 K (−240 °C to −228 °C)
+| composition = Silicate rock and water-ice crust (70%); Nitrogen, methane, carbon monoxide ices and tholins (30%)
 }}
 
-Erebo is the twelfth and outermost planet of the [[Aurelius system]], orbiting in the profound cold of the far system beyond the cobalt giant [[Centinela]]. It is a small, frozen world, classified as a dwarf planet or a major Kuiper-type outlier. Unlike the gas and ice giants that precede it, Erebo is a solid, rocky body, serving as a silent boundary stone between the star's influence and the interstellar void.
+'''Erebo''' is the twelfth and outermost recognized major planet of the [[Aurelius system]], orbiting in the profound cold of the outer frontier at a mean distance of 52.00 AU, far beyond the cobalt giant [[Centinela]]. It is a small, frozen world classified astronomically as a dwarf planet or a major Kuiper-type outlier.<ref name="IACC_Erebo">Inter-Adonian Celestial Commission (IACC). (2021). *Astrometric Orbit Determination and Surface Spectroscopy of the Trans-Centinelan Dwarf Planet Erebo*. Annals of Astronomical Geodesy, 50(1), 88–119.</ref> Serving as the silent boundary stone between the planetary domain and the interstellar void, Erebo follows an eccentric, highly inclined orbit ($e = 0.248$, $i = 17.15^\circ$) that takes approximately 374.68 Adonian years to complete a single revolution around [[Aurelius]].<ref name="Thorne_Discovery">Thorne, A. (1930). *Discovery and Photographic Astrometry of an Ultra-Distant Outlier Body Beyond the Orbit of Centinela*. Transactions of the Kydonia Peak Observatory, 12, 1–18.</ref>
 
-The planet is a dark, charcoal-grey sphere heavily saturated with impact craters from billions of years of exposure to outer system debris. Its most notable visual feature is the presence of bright, irregular patches of white nitrogen ice that cling to its deepest basins and polar regions, providing a stark contrast against the dark silicate surface.
+Erebo is visually defined by a stark, dramatic surface dichotomy: its primary crust is a pitch-black expanse of ancient silicates and water ice heavily draped in dark reddish-brown organic tholins produced by billions of years of cosmic ray and solar ultraviolet irradiation. Interspersed across this dark, brooding terrain are brilliant, gleaming plains and glaciers of solid nitrogen ($N_2$), methane ($CH_4$), and carbon monoxide ($CO$) ice—most notably the vast, heart-shaped basin of the ''Tartarus Plain'' (Insulonian: ''Planicie de Tártaro'').<ref name="NyxErebo_Report">Okaiken Institute for Space and Aeronautical Science (OISAS). (2019). *Geological Formations and Glacial Convection on Erebo: Final Data from the Nyx-Erebo Reconnaissance Probe*. OISAS Planetary Science Series, 59, 24–68.</ref>
 
-Erebo resides in a region of the system where the star Aurelius appears as little more than an exceptionally bright star. Consequently, the surface remains in a state of eternal twilight, with temperatures never rising high enough to allow even the most volatile gases to exist in anything but a frozen state.
-
-==Discovery==
-The discovery of Erebo was the culmination of a decades-long search for a trans-Centinelan object. Following the successful discovery of [[Centinela]] via orbital perturbations, astronomers theorized that an additional body might be responsible for residuals in the paths of the ice giants. On February 18, 1930 (Adonian Era), the Sinopian astronomer Aris Thorne (Ἄρης Θόρν) identified the planet using a blink comparator on photographic plates at the Kydonia Peak Observatory.
-
-The discovery was initially controversial, as Erebo’s mass was found to be far too low to account for the perceived perturbations in [[Lucero]] or Centinela. Later analysis revealed that those residuals were the result of slightly inaccurate mass estimates for the ice giants themselves. Nevertheless, Thorne's discovery provided the first look into the true architecture of the outer Aurelius system.
+Erebo forms a true binary planetary system with its massive natural satellite, '''Nyx'''. Possessing more than half the diameter and roughly 12% of the mass of Erebo, Nyx orbits closely at a distance of 19,600 km. The two bodies are mutually tidally locked to one another, revolving around their common barycenter (situated in the space between them) every 153.3 hours (6.38 standard Adonian days) so that each world permanently faces the same hemisphere toward the other.<ref name="Balisca_Erebo">Baliscan Royal Astronomical Society. (2018). *Mutual Tidal Locking and Barycentric Dynamics of the Erebo-Nyx Binary System*. Journal of Comparative Planetology, 76(4), 341–369.</ref>
 
 ==Physical characteristics==
-===Surface geology===
-The surface of Erebo is a landscape of frozen desolation. Analysis of the image provided by long-range probes reveals a primary crust of dark silicate rock and water ice, coated in a layer of tholins produced by billions of years of ultraviolet radiation reacting with methane. The resulting color is a somber, brownish-grey.
 
-The white patches scattered across the surface are composed of nitrogen and methane ice. These "ice plains" are believed to be the result of a faint, seasonal atmosphere that sublimates when the planet reaches its perihelion (closest point to Aurelius) and freezes back onto the surface during its long trek into the dark. High-resolution imagery shows massive, ancient impact basins that have remained unchanged for eons, suggesting no geological activity for the majority of the planet's history.
+===Surface geology and the Tartarus Plain===
+High-resolution images returned by long-range reconnaissance flybys reveal a landscape of astonishing geological diversity, combining ancient cratered highlands with young, active cryo-glacial plains. Dominating the encounter hemisphere is the *Tartarus Plain*, a vast nitrogen-ice sheet measuring over 1,200 kilometers across situated within a deep ancient impact basin; the plain exhibits polygonal convection cells 20 to 35 km across where internal radiogenic heat drives slow solid-state thermal overturn in the soft nitrogen ice.<ref name="NyxErebo_Report" /> Flanking the western margin of the plain are the *Cimmerian Ranges*, monumental mountains whose jagged peaks rise up to 4.2 kilometers above the ice sheets, composed of rock-hard water ice that floats buoyantly atop the denser underlying nitrogen glaciers.<ref name="NyxErebo_Report" /> Across the equatorial region lies the ancient terrain of the *Styx Macula*, mantled in thick deposits of reddish-brown tholins formed by billions of years of ultraviolet photolysis of methane.<ref name="Balisca_Erebo" />
 
-===Atmosphere===
-Erebo possesses a trace atmosphere that exists in a state of flux. For the majority of its 372-year orbit, the atmosphere is "collapsed," existing only as frost on the surface. As the planet approaches perihelion, a thin envelope of nitrogen and methane gas forms, creating a faint blue haze visible at the planet's limb. This atmosphere is extremely thin, with a surface pressure less than 1/100,000th that of [[Adonia]].
+===Atmosphere and seasonal sublimation===
+Erebo possesses a tenuous, transient exosphere that exists in a state of dynamic seasonal equilibrium with its surface frost. The atmosphere is composed of 98% molecular nitrogen, with minor trace fractions of methane and carbon monoxide.<ref name="NyxErebo_Report" />
 
-==Orbit and rotation==
-Erebo follows a highly eccentric and inclined orbit, the most extreme of any major body in the Aurelius system. Its distance from the star varies significantly, ranging from 30 AU to 75 AU. At its closest point, it actually crosses the orbital path of [[Centinela]], though their specific orbital resonance prevents any risk of collision.
+Because of Erebo's high orbital eccentricity ($e = 0.248$), its distance from Aurelius varies from 39.1 AU at perihelion to 64.9 AU at aphelion. Near perihelion, surface temperatures rise to approximately 44–45 K (−228 °C), prompting surface nitrogen and methane ices to sublimate into a tenuous gaseous atmosphere with a surface pressure of approximately 1.5 Pascals, accompanied by a multi-layered pale blue photochemical haze extending up to 150 km above the limb.<ref name="NyxErebo_Report" /> As the planet recedes toward aphelion, temperatures plunge below 30 K (−243 °C), causing the atmosphere to freeze out completely in a global atmospheric collapse that deposits seasonal white nitrogen frost across the dark plains.<ref name="IACC_Erebo" />
 
-The planet rotates once every 153.3 hours, an unusually slow rotation likely caused by tidal interactions with its large, captured moon, Nyx. The two bodies are tidally locked to one another, meaning they always show the same face to each other as they orbit their common center of mass.
+===Internal structure===
+Erebo's bulk density of 1.86 g/cm³ indicates a differentiated interior composed of roughly 70 percent silicate rock and metallic compounds and 30 percent water and volatile ices.<ref name="NyxErebo_Report" /> Geochemical models indicate a differentiated interior with a dense rocky-iron central core roughly 850 km in radius. Decay of long-lived radioactive isotopes within the core may provide sufficient geothermal heat to sustain a thin, ammonia-rich liquid water ocean beneath its 200-km-thick water-ice lithosphere, preventing the interior from freezing completely solid.<ref name="Balisca_Erebo" />
+
+==The Binary Moon Nyx==
+
+Erebo is orbited by the massive natural satellite '''Nyx''' (radius 605 km), discovered during photographic plate analyses in 1978. Nyx is more than half the physical size of Erebo, making the pair a true double planet. The common center of mass lies roughly 2,100 km outside the surface of Erebo in the empty space between them.<ref name="Balisca_Erebo" /> Mutual tidal torques have synchronized both the rotational periods and orbital periods of both bodies to an exact 153.3 hours (6.38 standard Adonian days). As a consequence of mutual tidal locking, Erebo and Nyx permanently present the same hemisphere to one another: an observer on the sub-Nyx hemisphere would see Nyx hanging permanently motionless in the twilight sky, seven times larger in angular diameter than the full moon Imera appears from Adonia.<ref name="Balisca_Erebo" />
+
+In addition to Nyx, the system hosts four small, non-spherical irregular moonlets orbiting outside the binary pair: *Aqueronte*, *Flegetonte*, *Lete*, and *Cáronte*.<ref name="IACC_Erebo" />
+
+==Orbit and Kuiper-frontier location==
+
+Erebo orbits Aurelius at a mean semi-major axis of 52.00 AU, completing one revolution every 139,100.0 standard Adonian days (approximately 374.68 Adonian years). Its orbit is the most eccentric ($e = 0.248$) and highly inclined ($i = 17.15^\circ$) of any recognized planetary body in the system.
+
+At its perihelion of 39.10 AU, Erebo comes closer to Aurelius than the aphelion distance of Centinela (35.93 AU). However, a stable 3:2 mean-motion orbital resonance with Centinela prevents the two worlds from ever approaching close to one another; whenever Erebo reaches perihelion, Centinela is always located at least 60 degrees away in its orbit, guaranteeing long-term orbital stability over billions of years.<ref name="IACC_Erebo" />
+
+Erebo marks the inner recognized boundary of the vast trans-Centinelan Kuiper-type debris disk, serving as the gatekeeper to the Oort cometary reservoir and the interstellar void.<ref name="IACC_Erebo" />
+
+==Discovery and observation==
+
+Following the mathematical discovery of Centinela in 1846, astronomers observed small residual discrepancies in the calculated orbits of Lucero and Centinela, sparking a multi-decade photographic search for a "trans-Centinelan" planet.
+
+On '''February 18, 1930''', the Sinopian astronomer '''Aris Thorne''' (Ἄρης Θόρν) at the Kydonia Peak Observatory discovered Erebo using a photographic blink comparator to compare glass plates taken weeks apart.<ref name="Thorne_Discovery" /> Although subsequent mass calculations revealed that Erebo was far too small (0.04 $M_\text{Adonia}$) to have caused the perceived perturbations in the ice giants (which were later demonstrated to be observational errors in early mass estimates), Thorne's discovery unveiled the true architecture of the frozen outer frontier.<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref>
+
+Exploration of Erebo has been achieved via dedicated long-range automated spacecraft:
+'''Nyx-Erebo Reconnaissance Probe (2018):''' Launched in 2006, the probe executed a historic close flyby of Erebo and Nyx at a distance of 12,500 km, returning the first high-resolution imagery of the Tartarus Plain, measuring the nitrogen exosphere, and confirming the existence of active glacial convection.<ref name="NyxErebo_Report" />
 
 ==Name and etymology==
-The name Erebo is the Insulonian form of the Sinopian deity Erebus (Ἔρεβος), who represents the personification of primordial darkness. The name was proposed by Thorne to reflect the planet's location in the "eternal dark" of the outer system.
 
-In Sanese astronomical nomenclature, the planet is known as Tokoyamisei (常闇星 [Tokoyamisei]), which translates to the Eternal Dark Star. This name emphasizes the absolute lack of warmth and light that defines the world, marking the final frontier before the void of the deep.
+The name ''Erebo'' was proposed by its discoverer Aris Thorne, originating from the ancient Sinopian deity *Erebus* (Ἔρεβος), the primordial personification of darkness and shadow born from Chaos. The name was chosen to reflect the planet's location in the eternal twilight of the outer frontier, where Aurelius appears as little more than an intensely bright pinpoint beacon ($m_v \approx -18.5$) that provides virtually no warmth.<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref>
+
+In [[Sanese language|Sanese]], the world has been known since its 1930 confirmation as '''Tokoyamisei''' ({{nihongo||常闇星||"eternal darkness star"}}), commemorating its position as the ultimate boundary stone before the deep void.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Dwarf planets]]
+
+==References==
+{{reflist}}

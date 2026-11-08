@@ -1,86 +1,189 @@
-{{Short description|Ministries in the Government of Okaiken}}
-
+{{Short description|Central administrative ministries and agencies of Okaiken}}
 {{Politics of Okaiken}}
-The {{Nihongo|'''Ministries of Okaiken'''|中央省庁|Chūō shōchō|Central ministries and agencies}} or {{Nihongo|'''Government Agencies of Okaiken'''|行政機関|Gyōsei kikan}} are the primary administrative bodies within the [[executive (government)|executive branch]] of the [[Government of Okaiken]]. Each ministry is headed by a [[Minister of State]] appointed by the [[Prime Minister of Okaiken|Prime Minister]].
 
-In the contemporary political landscape of Okaiken, particularly under the [[Second Honda cabinet]], the distribution of ministerial posts reflects the coalition agreement between the [[Progressive Party of Okaiken]] (PPO) and the [[Okaiken Socialist Party]] (OSP). While ministers provide political direction, significant administrative continuity and power reside with the career [[Bureaucrat|bureaucrats]] within each department.
+The {{Nihongo|'''Ministries of Okaiken'''|中央省庁|Chūō shōchō|Central ministries and agencies}}, legally designated as the {{Nihongo|administrative organs of the state|行政機関|Gyōsei kikan}}, constitute the primary bureaucratic apparatus within the [[Executive (government)|executive branch]] of the [[Government of Okaiken]]. Each line ministry and statutory cabinet-level organ is directed by a [[Ministers of State (Okaiken)|Minister of State]] nominated by the [[Prime Minister of Okaiken]] and formally invested by the [[Emperor of Okaiken]].
 
-The current structure of the Government of Okaiken includes:
-* The [[Cabinet Office (Okaiken)|Cabinet Office]] (内閣府, ''Naikaku-fu'')
-* 1 Cabinet-level commission (委員会, ''īnkai'')
-* 2 Cabinet-level agencies (官庁, ''kanchō'')
-* 11 ministries (省, ''shō'')
+In the contemporary administrative era under the [[Ikazaki Cabinet]], ministerial leadership is shared among the governing coalition partners: the [[Sanese Communist Party]] (SCP), the [[Okaiken Socialist Party]] (OSP), and the [[Social Democratic Party (Okaiken)|Social Democratic Party]] (SDP). While political ministers establish strategic directives and defend legislative policy before the [[National Diet of Okaiken]], extensive administrative management, institutional memory, and statutory enforcement are maintained by career civil servants headed by each ministry's Administrative Vice-Minister (事務次官, ''Jimu Jikan'').
 
-The [[Board of Audit of Okaiken]] remains an independent constitutional body responsible for auditing government expenditures and ensuring fiscal transparency.
+==Statutory architecture and classification==
 
-==History and Reform==
+The organizational structure of the central government is codified under the National Government Organization Act and the Cabinet Office Establishment Act. The central administration is divided into three distinct institutional categories: the overarching Cabinet coordinating apparatus, the eleven statutory line ministries, and specialized cabinet-level regulatory agencies and commissions.
 
-===Imperial Era Ministries (Pre-1952)===
-During the era of the [[Honda clan|Imperial Sovereignty]], the administrative structure was heavily militarised and colonial-focused:
-* [[Ministry of the Army (Okaiken)|Ministry of the Army]] (陸軍省, abolished 1952)
-* [[Ministry of the Navy (Okaiken)|Ministry of the Navy]] (海軍省, abolished 1952)
-* [[Ministry of Colonial Affairs (Okaiken)|Ministry of Colonial Affairs]] (拓務省)
-* [[Home Ministry (Okaiken)|Home Ministry]] (内務省, reorganized 1955)
-
-===The 2001 Central Government Reform===
-Mirroring regional administrative trends, Okaiken underwent a massive "Big Bang" reform of its bureaucracy in 2001 to streamline the executive branch. This reduced the number of cabinet-level organisations and merged several traditional ministries. Notable mergers included the formation of the [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|MEXT]] and the [[Ministry of Health, Labour and Welfare (Okaiken)|MHLW]].
-
-
-
-===Modern Era Additions (2012–2025)===
-* '''[[Reconstruction Agency (Okaiken)|Reconstruction Agency]]''' (2012): Established to oversee recovery from regional natural disasters.
-* '''[[Digital Agency (Okaiken)|Digital Agency]]''' (2021): Formed to accelerate the nation's [[digital transformation]] and e-government initiatives.
-* '''[[Children and Families Agency (Okaiken)|Children and Families Agency]]''' (2023): Created to address declining birth rates and youth welfare.
-
-==List of Current Ministries and Agencies==
-
-===Cabinet Level Entities===
-* '''[[Cabinet Office (Okaiken)|Cabinet Office]]''' (内閣府)
-* '''[[National Public Safety Commission (Okaiken)|National Public Safety Commission]]''' (国家公安委員会)
-* '''[[Digital Agency (Okaiken)|Digital Agency]]''' (デジタル庁)
-* '''[[Reconstruction Agency (Okaiken)|Reconstruction Agency]]''' (復興庁)
-
-===Line Ministries===
-* '''[[Ministry of Internal Affairs and Communications (Okaiken)|Ministry of Internal Affairs and Communications]]''' (総務省)
-* '''[[Ministry of Justice (Okaiken)|Ministry of Justice]]''' (法務省)
-* '''[[Ministry of Foreign Affairs (Okaiken)|Ministry of Foreign Affairs]]''' (外務省)
-* '''[[Ministry of Finance (Okaiken)|Ministry of Finance]]''' (財務省)
-* '''[[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|Ministry of Education, Culture, Sports, Science and Technology]]''' (文部科学省)
-* '''[[Ministry of Health, Labour and Welfare (Okaiken)|Ministry of Health, Labour and Welfare]]''' (厚生労働省)
-* '''[[Ministry of Agriculture, Forestry and Fisheries (Okaiken)|Ministry of Agriculture, Forestry and Fisheries]]''' (農林水産省)
-* '''[[Ministry of Economy, Trade and Industry (Okaiken)|Ministry of Economy, Trade and Industry]]''' (経済産業省)
-* '''[[Ministry of Land, Infrastructure, Transport and Tourism (Okaiken)|Ministry of Land, Infrastructure, Transport and Tourism]]''' (国土交通省)
-* '''[[Ministry of the Environment (Okaiken)|Ministry of the Environment]]''' (環境省)
-* '''[[Ministry of Defense (Okaiken)|Ministry of Defense]]''' (防衛省)
-
-==Ministerial Leadership==
-The following table lists the current Ministers of State as of February 2026, following the formation of the [[Second Honda cabinet]].
-
-{| class="wikitable" style="text-align:center"
+{| class="wikitable" style="text-align:center; width:100%;"
 |-
-! Office !! Minister !! Party !! Prefecture/District
+! colspan="5" style="background:#0b2545; color:white;" | Executive Organs of the Government of Okaiken
 |-
-| [[Prime Minister of Okaiken|Prime Minister]] || [[Honda Shigetsuma]] || PPO || [[Noto Prefecture|Noto]] 1st
+! Category
+! Japanese Title
+! Standard Count
+! Primary Authority
+! Current Incumbent Leadership
 |-
-| [[Minister for Internal Affairs and Communications (Okaiken)|Internal Affairs]] || [[Haruki Enomoto]] || PPO || [[Seto Prefecture|Seto]] 2nd
+| Overarching Executive Body
+| 内閣府 (Naikaku-fu)<br>内閣官房 (Naikaku Kanbō)
+| 2 Organs
+| Prime Minister's Office, Cabinet Office, Cabinet Secretariat
+| Prime Minister [[Kousuke Ikazaki]]<br>Chief Cabinet Secretary [[Tomoko Aoki]]
 |-
-| [[Minister for Foreign Affairs (Okaiken)|Foreign Affairs]] || [[Kenichiro Ueno]] || PPO || [[Shiga Prefecture|Shiga]] 2nd
+| Statutory Line Ministries
+| 省 (Shō)
+| 11 Ministries
+| Line departmental execution and sectoral administration
+| Tenured Ministers of State from SCP and OSP
 |-
-| [[Minister of Finance (Okaiken)|Finance]] || [[Satsuki Katayama]] || PPO || [[Ehime Prefecture|Ehime]] 1st
+| Cabinet-Level Agencies
+| 庁 (Chō)
+| 2 Agencies
+| Digital Agency, Reconstruction Agency
+| Minister for Digital Sovereignty [[Shizuka Ono]]
 |-
-| [[Minister of Health, Labour and Welfare (Okaiken)|Health & Welfare]] || [[Rento Nakayama]] || OSP || [[Okami Metropolis|Okami]] 3rd
-|-
-| [[Digital Agency (Okaiken)|Digital Minister]] || [[Nao Matsuzaka]] || OSP || [[Nagayama Prefecture|Nagayama]] 4th
-|-
-| [[Chief Cabinet Secretary (Okaiken)|Chief Cabinet Secretary]] || [[Minoru Kihara]] || PPO || [[Aizawa Prefecture|Aizawa]] 1st
+| Cabinet-Level Commission
+| 委員会 (Iinkai)
+| 1 Commission
+| National Public Safety Commission
+| Commission Chairman [[Shoji Yamashita]]
 |}
 
+==Historical development and bureaucratic reform==
+
+===Imperial and early post-war administrative organs===
+
+Prior to the structural modernization of the late twentieth century, the executive apparatus operated under high degrees of departmental isolation, traditionally characterized by administrative commentators as sectionalism (縦割り行政, ''tatewari gyōsei''). The pre-1952 imperial administration featured heavily militarized and colonial portfolios, including the Ministry of the Army and the Ministry of the Navy, both abolished following constitutional reconstruction in 1952. Internal civilian governance was concentrated within the powerful Home Ministry (内務省, ''Naimushō''), which wielded centralized control over regional police forces, prefectural governors, and local tax collection.
+
+Democratic reforms in 1955 disassembled the pre-war Home Ministry, transferring civilian law enforcement oversight to the newly established [[National Public Safety Commission (Okaiken)|National Public Safety Commission]] and redistributing regional administrative coordination into the Ministry of Home Affairs. Concurrently, technical modernization elevated the influence of the Ministry of International Trade and Industry and the Ministry of Finance, which orchestrated state credit and industrial targets throughout the post-war industrial miracle.
+
+===The 2001 Central Government Reform===
+
+On 6 January 2001, the state enacted the comprehensive 2001 Central Government Reform, drastically restructuring the executive branch from eighteen cabinet-level departments down to eleven line ministries and a reinforced Cabinet Office. The reform aimed to strengthen the policy initiative of the Prime Minister and eradicate bureaucratic silos by consolidating related administrative functions.
+
+Major consolidations included merging the Ministry of Education with the Science and Technology Agency to create the [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|Ministry of Education, Culture, Sports, Science and Technology]] (MEXT), and combining the Ministry of Health and Welfare with the Ministry of Labour to establish the [[Ministry of Health, Labour and Welfare (Okaiken)|Ministry of Health, Labour and Welfare]] (MHLW). Concurrently, public infrastructure and spatial planning portfolios were unified under the [[Ministry of Land, Infrastructure, Transport and Tourism (Okaiken)|Ministry of Land, Infrastructure, Transport and Tourism]] (MLIT).
+
+===Modern era expansions===
+
+Subsequent administrative adaptations introduced targeted agencies to meet emerging systemic challenges. The Reconstruction Agency was inaugurated in 2012 to coordinate long-term post-disaster regional reconstruction. In 2021, the National Diet established the [[Digital Agency (Okaiken)|Digital Agency]] to coordinate administrative digitalization across national registries. Following the [[Satori AI Blackout Crisis]] of 2026, the Digital Agency was comprehensively restructured under the [[Digital Sovereignty Act (Okaiken)|Digital Sovereignty Act]] from an automation promoter into a stringent digital resilience and analogue backup oversight authority.
+
+==Roster of central ministries and agencies==
+
+The executive branch under the Ikazaki Cabinet comprises fourteen primary ministerial departments and external cabinet organs.
+
+{| class="wikitable" style="width:100%; text-align:left;"
+|-
+! style="width:25%; background:#0b2545; color:white;" | Ministry or Agency
+! style="width:18%; background:#0b2545; color:white;" | Japanese Name
+! style="width:20%; background:#0b2545; color:white;" | Incumbent Minister
+! style="width:10%; background:#0b2545; color:white;" | Party
+! style="width:27%; background:#0b2545; color:white;" | Core Strategic Focus
+|-
+| [[Cabinet Office (Okaiken)|Cabinet Office]]
+| 内閣府 (Naikaku-fu)
+| [[Kousuke Ikazaki]]<br>[[Rento Nakayama]]<br>[[Shimane Yoshida]]
+| SCP<br>OSP<br>SDP
+| Cross-ministerial strategic planning, economic policy council, gender equality threshold, social affairs coordination
+|-
+| [[Cabinet Secretariat (Okaiken)|Cabinet Secretariat]]
+| 内閣官房 (Naikaku Kanbō)
+| [[Tomoko Aoki]]
+| SCP
+| Executive intelligence research, government press relations, crisis management, legislative coordination
+|-
+| [[Ministry of Finance (Okaiken)|Ministry of Finance]]
+| 財務省 (Zaimu-shō)
+| [[Kazuya Fujita]]
+| SCP
+| National budget formulation, sovereign debt management, progressive taxation policy, tariff regulation
+|-
+| [[Ministry of Defense (Okaiken)|Ministry of Defense]]
+| 防衛省 (Bōei-shō)
+| [[Yuriko Katsumata]]
+| SCP
+| Armed neutrality doctrine, naval escort flotilla operations, base territorial security, territorial defense
+|-
+| [[Ministry of Justice (Okaiken)|Ministry of Justice]]
+| 法務省 (Hōmu-shō)
+| [[Hiroshi Nakajima]]
+| SCP
+| Corporate negligence prosecution, judicial system reform, penal administration, public integrity enforcement
+|-
+| [[Ministry of Foreign Affairs (Okaiken)|Ministry of Foreign Affairs]]
+| 外務省 (Gaimu-shō)
+| [[Kenichi Mori]]
+| OSP
+| Armed neutrality diplomacy, humanitarian sealift coordination, international treaty law, multilateral relations
+|-
+| [[Ministry of Land, Infrastructure, Transport and Tourism (Okaiken)|Ministry of Land, Infrastructure, Transport and Tourism]]
+| 国土交通省 (Kokudo Kōtsū-shō)
+| [[Seiran Mochizuki]]
+| OSP
+| Transport safety enforcement, Yamamoto Hina Commission oversight, rail operations, port infrastructure
+|-
+| [[Ministry of Health, Labour and Welfare (Okaiken)|Ministry of Health, Labour and Welfare]]
+| 厚生労働省 (Kōsei Rōdō-shō)
+| [[Satoshi Kato]]
+| OSP
+| Universal healthcare system, occupational health standards, social insurance funds, public pension administration
+|-
+| [[Ministry of Internal Affairs and Communications (Okaiken)|Ministry of Internal Affairs and Communications]]
+| 総務省 (Sōmu-shō)
+| [[Naoko Saito]]
+| SCP
+| Local autonomy oversight, Local Allocation Tax distribution, telecommunications, fire and disaster management
+|-
+| [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|Ministry of Education, Culture, Sports, Science and Technology]]
+| 文部科学省 (Monbu Kagaku-shō)
+| [[Yuka Hasegawa]]
+| OSP
+| National curriculum guidelines, public school funding equity, academic research grants, cultural preservation
+|-
+| [[Ministry of Economy, Trade and Industry (Okaiken)|Ministry of Economy, Trade and Industry]]
+| 経済産業省 (Keizai Sangyō-shō)
+| [[Tetsuya Maeda]]
+| SCP
+| Industrial strategy, domestic supply chain resilience, SME cooperative support, energy grid oversight
+|-
+| [[Ministry of Agriculture, Forestry and Fisheries (Okaiken)|Ministry of Agriculture, Forestry and Fisheries]]
+| 農林水産省 (Nōrin Suisan-shō)
+| [[Daisuke Kondo]]
+| OSP
+| Food security standards, agrarian price guarantees, marine fisheries protection, rural community sustainability
+|-
+| [[Ministry of the Environment (Okaiken)|Ministry of the Environment]]
+| 環境省 (Kankyō-shō)
+| [[Yumi Yamada]]
+| SCP
+| Pollution ceiling enforcement, hazardous e-waste regulation, national parks stewardship, carbon abatement
+|-
+| [[Digital Agency (Okaiken)|Digital Agency]]
+| デジタル庁 (Dejitaru-chō)
+| [[Shizuka Ono]]
+| SDP
+| Analogue backup statutory enforcement, anti-monopoly digital grid resilience, public cyber infrastructure
+|-
+| [[National Public Safety Commission (Okaiken)|National Public Safety Commission]]
+| 国家公安委員会 (Kokka Kōan Iinkai)
+| [[Shoji Yamashita]]
+| SCP
+| Democratic civilian police oversight, national crime statistics, crisis public order coordination
+|}
+
+==Intergovernmental relations with prefectural and metropolitan governments==
+
+A defining dimension of Sanese ministerial administration is the statutory interaction between central line ministries and subnational governments. Okaiken's unitary constitutional framework is decentralized under the Local Autonomy Act, granting significant administrative responsibilities to forty-seven prefectures and the specialized jurisdiction of [[Okami Metropolis]]. Central ministries do not exercise command over local governors, relying instead on statutory guidance, intergovernmental fiscal mechanisms, and regional field offices.
+
+The central conduit for intergovernmental relations is the [[Ministry of Internal Affairs and Communications]] (MIC). Through its Local Finance Bureau, the MIC calculates the Local Allocation Tax, transferring substantial non-earmarked funds from national revenues to prefectures with low local tax yields. This mechanism ensures that peripheral prefectures like [[Iwate Prefecture]] and [[Miyagi Prefecture]] can deliver public health, education, and transport infrastructure comparable to urban centers. The MIC also administers the Fire and Disaster Management Agency, which links local municipal fire departments with national emergency coordination during major regional disasters.
+
+Line ministries maintain regional branch bureaus (地方支分部局, ''chihō shibun bukyoku'') across major geographical zones, including Regional Development Bureaus under MLIT, Regional Bureaus of Economy, Trade and Industry under METI, and Regional Agricultural Administration Offices under MAFF. These bureaus coordinate national public works, river management, and environmental monitoring in close consultation with prefectural civil engineering departments. In education and health, policy execution is devolved to Prefectural Boards of Education and prefectural health centers (保健所, ''hokenjo''), which implement national guidelines issued by MEXT and MHLW while tailoring programs to local epidemiological and demographic realities.
+
+Relations with the [[Okami Metropolitan Government]] represent a unique administrative interface. With a population and municipal budget surpassing many sovereign states, Okami Metropolis possesses unparalleled institutional autonomy. The Governor of Okami Metropolis commands substantial local tax revenues from corporate headquarters and financial institutions, often allowing the capital to operate independently of central government subsidies. Key administrative areas, such as the [[Okami Metropolitan Police Department]] and the Okami Metropolitan Bureau of Transportation, require close bilateral coordination through standing joint councils with the National Public Safety Commission and the Ministry of Transport, negotiating subway safety standards, grid resilience, and urban zoning frameworks.
+
 ==See also==
-* [[Politics of Okaiken]]
+* [[Government of Okaiken]]
 * [[Cabinet of Okaiken]]
+* [[Ikazaki Cabinet]]
+* [[Constitution of Okaiken]]
+* [[Local Autonomy Act (Okaiken)]]
 
 ==References==
-{{reflist}}
+{{Reflist}}
 
 [[Category:Government of Okaiken]]
 [[Category:Government ministries of Okaiken|*]]

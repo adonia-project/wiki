@@ -1,58 +1,60 @@
-{{Infobox broadcasting network
+﻿{{Infobox broadcasting network
 | name           = Kokumin Broadcasting Corporation<br>''<small>Kokumin Tsūshin Kyōkai''</small><br>国民通信協会
 | logo           = [[File:KTK logo new.svg|240px]]<br>KTK logo, known as "the square one". The logo's main structure was updated in 2017 to reflect KTK's 50 years of television. It was again updated in 2022 as the company expands its online presence.
-| type           = Radio, terrestrial television and satellite television broadcaster
-| branding       = 
+| image          = [[File:KTK Center.png|240px]]
+| caption        = The KTK Broadcasting Center in Minato-ku, [[Okami]]
+| type           = Public broadcasting system<br>(pillarized association model)
+| branding       =
 | established    = 1951
-| test card      = 
+| test card      =
 | test of transmission = June 1, 1951
 | airdate        = September 30, 1952
 | country        = [[Okaiken]]
 | available      = Nationwide and Worldwide
-| founded        = Okashi Broadcasting Station founded November 29, 1924; merged into Okaiken Broadcasting Corporation August 6, 1926; implementation of Broadcasting Act June 1, 1950
+| founded        = Broadcasting Act of 1950; pillarized system established June 1, 1951
 | founder        = Suda Shigeyuki
 | slogan         = {{lang|ja|これは国民のじゃん。}}<br>("This is the people's")
-| motto          = 
-| market_share   = 
-| license_area   = 
-| headquarters   = 1514-2-Chome, Setagaya-ku, [[Okami]], [[Okaiken]]
+| motto          =
+| market_share   =
+| license_area   =
+| headquarters   = 1514-2-Chome, Minato-ku, [[Okami]], [[Okaiken]]
 | broadcast_area = [[Okaiken]]
-| area           = 
-| erp            = 
+| area           =
+| erp            =
 | owner          = Independent corporation chartered by the [[Government of Okaiken]] under the Broadcasting Act
-| parent         = KTK Holdings
-| key_people     = Masayuki Matsumoto, President
+| parent         =
+| key_people     = Masayuki Matsumoto, Director-General
 | foundation     = 5 July 1948
 | launch_date    = September 1951 (television)
-| dissolved      = 
-| former_names   = People's Communications and Distribution Service (PCDS) (1969-2010)
+| dissolved      =
+| former_names   = People's Communications and Distribution Service (PCDS) (1969–2010)
 | digital        = 2.1
-| analog         = 
-| servicename1   = 
-| service1       = 
-| servicename2   = 
-| service2       = 
-| servicename3   = 
-| service3       = 
-| servicename4   = 
-| service4       = 
+| analog         =
+| servicename1   = KHR
+| service1       = [[Kokumin Hōsō Renmei]]
+| servicename2   = RHK
+| service2       = [[Rōdōsha Hōsō Kyōkai]]
+| servicename3   = JHR
+| service3       = [[Jiyū Hōsō Renmei]]
+| servicename4   = KHK
+| service4       = [[Kwangju Hōsō Kyōkai]]
 | callsigns      = KTK
 | callsign_meaning = '''K'''okumin'''T'''sūshin '''K'''yōkai
 | former_callsigns = PCD
-| affiliation    = 
-| affiliates     = 
-| groups         = 
-| former_affiliations = 
+| affiliation    =
+| affiliates     = BHR, AHK, THR
+| groups         =
+| former_affiliations =
 | webcast        =
 | website        = [http://usnw.net/ ktk.co.ok]
-| footnotes      = 
+| footnotes      = Member associations produce programming for KTK's channels. Airtime is allocated proportional to paid membership.
 }}
 {{Infobox TV channel
 | name             = KTK
 | logofile         = File:KTK 1 TV Logo.svg
 | logosize         = 226px
 | logoalt          =
-| launch           = 
+| launch           =
 | closed date      =
 | share            =
 | share as of      =
@@ -67,10 +69,16 @@
 | sister names     =
 | timeshift names  =
 | web              =
-| terr serv 1      = [[KTK General TV|General TV]]
+| terr serv 1      = [[KTK:1|KTK:1 (General)]]
 | terr chan 1      = Digital–Ch 1 (Okami)<br>Digital–Ch 2 (Aizawa)<br>Digital–Ch 3 (Toyozawa)
-| terr serv 2      = [[KTK Educational TV|Educational TV]]
-| terr chan 2      = Digital- Ch 2 (Okami, Aizawa, Toyoshi)
+| terr serv 2      = [[KTK:2|KTK:2 (Culture)]]
+| terr chan 2      = Digital–Ch 2 (Okami, Aizawa, Toyoshi)
+| terr serv 3      = [[KTK:E|KTK:E (Educational)]]
+| terr chan 3      = Digital–Ch 3 (Okami, Aizawa, Toyoshi)
+| terr serv 4      = [[KTK:News|KTK:News]]
+| terr chan 4      = Digital–Ch 4 (Okami, Aizawa, Toyoshi)
+| terr serv 5      = [[KTK:5|KTK:5 (Entertainment)]]
+| terr chan 5      = Digital–Ch 5 (Okami, Aizawa, Toyoshi)
 | sat serv 1       = [[KTK BS-1|BS-1]]
 | sat chan 1       = Digital-Ch 101
 | sat serv 2       = [[KTK BS Premium|BS-PREMIUM]]
@@ -86,36 +94,292 @@
 }}
 {{Featured article icon}}
 
-{{nihongo|'''KTK'''|国民通信協会|Kokumin Tsūshin Kyōkai|official English name: '''People's Broadcasting Corporation''' or the '''Kokumin Broadcasting Corporation'''}} is [[Okaiken]]'s national public broadcasting organization. KTK, which has always identified itself to its audiences by the English pronunciation of its initials, is a publicly owned corporation funded by 0.05% of Okaiken's Value Added Tax (VAT).
+{{nihongo|'''KTK'''|国民通信協会|Kokumin Tsūshin Kyōkai|official Mercian name: '''People's Broadcasting Corporation''' or the '''Kokumin Broadcasting Corporation'''}} is [[Okaiken]]'s national public broadcasting system. Unlike centralized public broadcasters found in many nations, KTK operates under a distinctive '''pillarized association model''' ({{nihongo|柱制放送|hashirasei hōsō|lit. "pillar broadcasting"}}), in which multiple independent broadcasting associations—each representing a different social, ideological, or ethnic community within Okaiken—produce programming for KTK's channels. KTK itself functions as the coordinating umbrella organization, managing the broadcasting infrastructure, allocating airtime among the associations, and operating the channel multiplexes.
 
-KTK operates five terrestrial television services (KTK:1, formerly KTK General TV; KTK:2, an alternative television channel; KTK:E, a children's oriented station formerly known as KTK Educational TV; KTK:City, a music-oriented channel; and KTK:5, a news channel), three satellite television services (KTK:1BS; KTK:2BS; and KTK:5BS) broadcasting in 4K HDR, and three national radio networks (KTK:R1, KTK:R2, and KTK:RF). KTK also owns numerous local stations broadcasting local and national news as well as music.
+KTK operates five terrestrial television channels (KTK:1, the flagship general channel; KTK:2, a culture and arts channel; KTK:E, an educational and children's channel; KTK:News, a 24-hour news channel; and KTK:5, an entertainment and lifestyle channel), three satellite television services (KTK:1BS, KTK:2BS, and KTK:5BS) broadcasting in 4K HDR, and three national radio networks (KTK:R1, KTK:R2, and KTK:RF). Seven broadcasting associations currently hold membership and produce programming for KTK's channels. KTK also provides an international broadcasting service, KTK:World, comprising KTK:W, KTK:W2, and the shortwave radio service KTK:WorldRadio.
 
-KTK also provides an international broadcasting service, known as KTK:World. KTK:World is composed of KTK:W, KTK:W2, and the shortwave radio service KTK:WorldRadio. WorldRadio also makes most of its programs available on the internet through podcasts and home stream devices such as Google Home and Amazon Alexa.
+The system is funded through a combination of 0.05% of Okaiken's Value Added Tax (VAT), membership fees collected by each broadcasting association, and commercial sponsorship on designated programming. The Broadcasting Act of 1950, as amended, governs the allocation of airtime among associations proportional to their paid membership.
 
 ==History==
-[[File:KTK logo.svg|200px|thumb|KTK Logo from 1968 - 2017]]
-KTK's earliest forerunner was the {{nihongo|Okami Broadcasting Station|大紙放送局}} founded in 1924 under the leadership of Count [[Gotō Shinpei]]. Okami Broadcasting Station, along with separate organizations in Toyozawa and Mito, began radio broadcasts in 1925. The three stations merged under the first incarnation of the organization in 1926 as the ''Isolated Broadcasting Network'', which gave it its current name, KTK. KTK was modelled on the RAI of Insulo, and the merger and reorganisation was carried out under the auspices of the pre-war [[Ministry of Communications]].  KTK's second radio network began in 1932; and the third radio network, broadcasting in FM, began in 1937.
+[[File:KTK logo.svg|200px|thumb|KTK Logo from 1968 – 2017]]
 
-KTK began shortwave broadcasting on an experimental, but international broadcasting in the early 1930s by purchasing and controlling frequencies; the company began regular Trentian and Sanese-language shortwave broadcasts in 1935 under the name '''Radio Mitoyagi''', initially aimed at ethnic Sanese listeners in [[Kazan]] and the west coast of [[Lurandia]]. By the late 1930s KTK's overseas broadcasts were known as '''Radio Okami''', which became an official name in 1941.
+===Early broadcasting (1924–1950)===
 
-In November 1947, the [[Imperial Sanese Army]] nationalised all public news agencies and coordinated their efforts via the Information Liaison Confidential Committee. All published and broadcast news reports became official announcements of the Imperial Army General Headquarters in Okami for the duration of Great Adonian War. The famous [[Okami Rose]] wartime programs were broadcasts by Radio Okami.  Radio Okami also broadcast the ''[[Gyokuon-hōsō]]'', the surrender speech made by Emperor [[Wakayama]], in August 1952.
+KTK's earliest forerunner was the {{nihongo|Okami Broadcasting Station|大紙放送局}} founded in 1924 under the leadership of Count [[Gotō Shinpei]]. Okami Broadcasting Station, along with separate organizations in Toyozawa and Mito, began radio broadcasts in 1925. The three stations merged under the first incarnation of the organization in 1926 as the ''Isolated Broadcasting Network'', which gave it its current name, KTK. KTK was modelled on the RAI of Insulo, and the merger and reorganisation was carried out under the auspices of the pre-war [[Ministry of Communications]]. KTK's second radio network began in 1932; and the third radio network, broadcasting in FM, began in 1937.
 
-Following the war, in September 1952,  all international broadcasting by KTK were banned, and several repurposed several KTK facilities and frequencies were made for use by the Far East Network (now Trentian Forces Network). Sanese-Trentian radio broadcaster Frank Shozo Baba joined KTK during this time and led an early postwar revamp of its programming. KTK's holdings were split into several companies in 1952; Radio Okaiken was made its separate entity on 7 July 1952 while its television broadcasting division was split into two: RMT (Radio Manabi Terebi) and RTK (Radio Terebi Koritsu). RMT focused on educational shows and women-oriented programming, while RTK focused on men-oriented shows, the news and action programming. RMT started the popular ''Onnamono'' dramas in 1957, while RTK introduced the equally popular ''[[Taisen drama]]''s in 1961. Radio Okaiken resumed overseas broadcasts in 1955. Later, all restrictions were lifted, including the development of camera and communication technologies.
+KTK began shortwave broadcasting on an experimental, but international broadcasting in the early 1930s by purchasing and controlling frequencies; the company began regular Mercian and Sanese-language shortwave broadcasts in 1935 under the name '''Radio Mitoyagi''', initially aimed at ethnic Sanese listeners in [[Kazan]] and the west coast of [[Lurandia]]. By the late 1930s KTK's overseas broadcasts were known as '''Radio Okami''', which became an official name in 1941.
 
-Both RTK and RMT would merge with Radio Okaiken in 1964 to create the modern KTK.
+In November 1947, the [[Imperial Sanese Army]] nationalised all public news agencies and coordinated their efforts via the Information Liaison Confidential Committee. All published and broadcast news reports became official announcements of the Imperial Army General Headquarters in Okami for the duration of the Great Adonian War. The famous [[Okami Rose]] wartime programs were broadcasts by Radio Okami. Radio Okami also broadcast the ''[[Gyokuon-hōsō]]'', the armistice speech made by Emperor [[Wakayama]], in August 1952.
 
-RTK opened the first stage of its current headquarters in [[Okami]] as an international broadcasting center for the [[1960 Summer Adoniad]], the first widely-televised Adonian Games. The complex was gradually expanded through 1973, when it became the headquarters for KTK. The previous headquarters adjacent to [[Hibiya Park]] was redeveloped as the Hibiya City high-rise complex.
+===The Broadcasting Act and the Three Pillars (1950–1964)===
 
-KTK began satellite broadcasting on the KTK BS 1 channel in 1984, followed by KTK BS 2 in 1985. Satellite broadcasts to Lurandia and Western Fosia began in 1995, which led to the launch of [[KTK World TV]] in 1998. It became [[wikipedia:free-to-air|free-to-air]] over the Astra 19.2°E (Astra 1L) and WAbird satellites in Western Fosia in 2008.  In April 2011, the BS 2 channel was re-branded as "BS Premium."
+Following the [[Armistice of Okami]] and the transition government under [[Prince Tago Shōka]], the newly formed civilian government confronted the question of how to restructure Okaiken's broadcasting system. The pre-war model—a single, state-controlled broadcaster—was discredited by its role in wartime propaganda. At the same time, Okaiken's society was deeply divided along ideological, ethnic, and class lines. The Imperial loyalists, the resurgent labour movement, the liberal business community, and the Kwangju ethnic minority each demanded a voice in the new broadcasting landscape.
 
-KTK began [[wikipedia:digital television|digital television]] broadcasting in December 2000 on the BS Digital (BShi) station, followed by terrestrial digital TV broadcasts in three major metropolitan areas in 2003. Its digital television coverage gradually expanded to cover almost all of Okaiken by July 2011, when analog transmissions were discontinued. The digital broadcasts were later expanded to cover 4K coverage throughout Okaiken, and most programs began to broadcast on this resolution by May 2016. In February 2019, KTK began testing on 4K HDR Resolution, with the coverage of the 2019 Table Tennis Cup being the first broadcast at this resoltion. 8K Broadcasting was slated to begin on May 2019, but due to the unavailability of the 4K resolution to the general market, test broadcasts were moved to March 2020.
+The solution came in the form of the '''Broadcasting Act of 1950''', drafted under the guidance of Information Minister {{nihongo|Suda Shigeyuki|須田重之}}. The Act established KTK as a public umbrella organization that would manage the broadcasting infrastructure and coordinate the activities of independent '''broadcasting associations''' ({{nihongo|放送協会|hōsō kyōkai}}). Each association would represent a distinct social "pillar" ({{nihongo|柱|hashira}}) and would receive airtime on KTK's channels proportional to its paid membership. The model was influenced by the consociational broadcasting systems emerging in Western Illypnia, adapted to Okaiken's unique social fabric.
+
+The first three associations were licensed in 1951:
+
+* The {{nihongo|'''Kokumin Hōsō Renmei'''|国民放送連盟|KHR|lit. "National Broadcasting Alliance"}}, representing the Imperial establishment, traditional Sanese culture, and conservative values. KHR was the successor to the pre-war KTK and inherited much of its staff and facilities.
+* The {{nihongo|'''Rōdōsha Hōsō Kyōkai'''|労働者放送協会|RHK|lit. "Workers' Broadcasting Association"}}, representing the labour movement, trade unions, and social-democratic politics.
+* The {{nihongo|'''Jiyū Hōsō Renmei'''|自由放送連盟|JHR|lit. "Liberty Broadcasting Alliance"}}, representing the liberal business community, urban professionals, and free-market advocates.
+
+This three-association system—known colloquially as the {{nihongo|"Three Pillars"|三柱|Mitsuhashira}}—defined Okaiken's broadcasting landscape for its first decade. Programming on KTK's single television channel and two radio networks was divided among the three associations, with KHR receiving the largest share due to its dominant membership. KHR's programming included the popular ''[[Taisen drama]]''s beginning in 1961, while RHK launched the long-running ''Onnamono'' dramas in 1957.
+
+KTK's holdings were split into several companies in 1952; Radio Okaiken was made its separate entity on 7 July 1952 while its television broadcasting division was split into two: RMT (Radio Manabi Terebi) and RTK (Radio Terebi Koritsu). RMT focused on educational shows and women-oriented programming, while RTK focused on men-oriented shows, the news and action programming. Both RTK and RMT would merge with Radio Okaiken in 1964 to create the modern KTK under the pillarized framework.
+
+RTK opened the first stage of its current headquarters in [[Okami]] as an international broadcasting center for the [[1960 Summer Adoniad]], the first widely-televised Adonian Games. The complex was gradually expanded through 1973, when it became the headquarters for KTK.
+
+===Expansion and the golden age of pillarization (1958–1968)===
+
+The 1960s saw the greatest expansion of the pillarized system. The Kwangju community, which constituted nearly 20% of Okaiken's population, had long been underserved by the three existing associations. Following sustained advocacy, the {{nihongo|'''Kwangju Hōsō Kyōkai'''|光州放送協会|KHK|lit. "Kwangju Broadcasting Association"}} was licensed in 1958, becoming the first ethnic-minority broadcasting association in Okaiken. KHK's programming, broadcast in both Sanese and Kwangju, was credited with significantly raising the visibility of Kwangju culture and issues in the national discourse.
+
+The {{nihongo|'''Bunka Hōsō Renmei'''|文化放送連盟|BHR|lit. "Culture Broadcasting Alliance"}} was licensed in 1961, representing the arts community, intellectuals, and educational interests. BHR's programming—documentaries, art films, classical music, and avant-garde theatre—became culturally influential despite its relatively small membership.
+
+During this period, the hashira system extended far beyond broadcasting. Each pillar maintained its own schools, hospitals, newspapers, trade unions, and social clubs. The "pillarized" life of Okaiken meant that a conservative Imperial loyalist might attend a KHR-affiliated school, read a KHR-aligned newspaper, join a KHR-linked union, and watch KHR-produced television—living an entire social existence within a single pillar. This parallel social structure, while providing community and identity, also reinforced social divisions.
+
+KTK's second television channel, KTK:2, launched in 1964, primarily featuring BHR and KHK programming. The Educational Television service (now KTK:E) launched in 1959, with programming contributed by all associations. Satellite broadcasting began on KTK BS 1 in 1984, followed by KTK BS 2 in 1985.
+
+===Republican centralization: the PCDS era (1969–2010)===
+
+The [[Second Imperial Restoration (Okaiken)|Imperial Restoration]] of 2011 was preceded by over four decades of republican governance, during which the pillarized broadcasting system was profoundly altered. In 1969, the Federal Republic government dissolved the broadcasting associations and centralized KTK under a new entity, the '''People's Communications and Distribution Service''' ({{nihongo|国民通信配給庁|Kokumin Tsūshin Haikyūchō|PCDS}}). The associations were not formally abolished but were reclassified as "programme production cooperatives" with no guaranteed airtime rights. Airtime allocation was transferred to a government-appointed Programming Board.
+
+The PCDS era was marked by significant controversy. Supporters argued that centralization eliminated the ideological fragmentation of the pillar system and produced a unified national voice. Critics—including the associations themselves, which continued to operate as private production companies—contested that the PCDS was a tool of state propaganda and that the dissolution of the pillar system silenced minority voices, particularly the Kwangju and Atsu communities. KHK's Kwangju-language programming was reduced to a single weekly slot, a decision that provoked protests in Kwangju-majority neighborhoods across Okaiken.
+
+During the PCDS era, the technical infrastructure of broadcasting continued to expand. KTK began satellite broadcasting on the KTK BS 1 channel in 1984, followed by KTK BS 2 in 1985. Satellite broadcasts to Lurandia and Western Fosia began in 1995, which led to the launch of [[KTK World TV]] in 1998. It became [[wikipedia:free-to-air|free-to-air]] over the Astra 19.2°E (Astra 1L) and WAbird satellites in Western Fosia in 2008. In April 2011, the BS 2 channel was re-branded as "BS Premium."
+
+KTK began [[wikipedia:digital television|digital television]] broadcasting in December 2000 on the BS Digital (BShi) station, followed by terrestrial digital TV broadcasts in three major metropolitan areas in 2003. Its digital television coverage gradually expanded to cover almost all of Okaiken by July 2011, when analog transmissions were discontinued.
+
+===Post-Restoration revival and depillarization (2010–present)===
+
+The political negotiations that culminated in the [[Second Imperial Restoration (Okaiken)|Second Imperial Restoration]] of February 2011 included, as a central demand of the associations, the restoration of the pillarized broadcasting system. The '''Broadcasting Restoration Act of 2010''' re-established KTK under its original name, restored the broadcasting associations' airtime rights, and reinstated the membership-based allocation formula. The {{nihongo|'''Atsu Hōsō Kyōkai'''|阿蘇放送協会|AHK|lit. "Atsu Broadcasting Association"}}, which had been denied a license throughout the PCDS era despite years of advocacy, was finally licensed in 2012.
+
+However, the restored system was not a simple return to the 1950s. Okaiken's society had changed fundamentally during four decades of republican rule. The rigid social boundaries of the old pillar system had eroded, and younger Sanese increasingly rejected the idea of organizing their lives around a single ideological community. The {{nihongo|'''Taishū Hōsō Renmei'''|大衆放送連盟|THR|lit. "Mass Broadcasting Alliance"}} was licensed in 2013 as the first "breakthrough" association—unaffiliated with any traditional pillar, THR focused on entertainment, popular culture, and broad-appeal programming. Its rapid membership growth signaled the beginning of {{nihongo|depillarization|柱解体|hashira kaitai}}.
+
+The Broadcasting Act was substantially amended in 2018, lowering the minimum membership threshold for new associations and introducing a "programming quality" criterion alongside the membership-based allocation. The reforms also consolidated KTK's separate news divisions into a single '''KTK News''' division, ensuring neutral and professional news coverage across all channels.
+
+In the 2020s, the associations increasingly cooperated on co-productions, and the ideological distinctiveness of their programming continued to blur. KHR and JHR, both representing centre-right constituencies, were widely seen as redundant; proposals to merge them have been debated since 2020 but have not advanced. RHK, while still formally linked to the labour movement, now produces a broad range of programming including popular drama and entertainment.
+
+Despite depillarization, the system retains its distinctive structure. Each association still maintains its own editorial identity, production facilities, and membership base. The principle that Okaiken's airwaves should reflect the diversity of its society—rather than being controlled by a single state broadcaster or purely commercial interests—remains deeply embedded in Sanese media culture.
+
+The digital broadcasts were later expanded to cover 4K coverage throughout Okaiken, and most programs began to broadcast on this resolution by May 2016. In February 2019, KTK began testing on 4K HDR Resolution, with the coverage of the 2019 Table Tennis Cup being the first broadcast at this resolution. 8K Broadcasting was slated to begin on May 2019, but due to the unavailability of the 4K resolution to the general market, test broadcasts were moved to March 2020.
+
+==The Hashira System==
+{{main|Hashira system (Okaiken)}}
+
+The {{nihongo|'''hashira system'''|柱制|hashirasei|lit. "pillar system"}} is the social and institutional framework in which Okaiken's society was historically organized along ideological, ethnic, and class lines into distinct "pillars" ({{nihongo|柱|hashira}}). Each pillar encompassed a complete social ecosystem—schools, hospitals, newspapers, trade unions, social clubs, and, critically, broadcasting associations—that allowed its members to live largely within a single community from cradle to grave.
+
+The hashira system emerged organically in the late 19th and early 20th centuries as Okaiken modernized and different social groups organized to protect their interests. The system was formalized by the Broadcasting Act of 1950, which translated the existing social pillarization into a broadcasting framework.
+
+The five traditional pillars are:
+
+{| class="wikitable"
+|-
+! Pillar !! Broadcasting Association !! Established !! Core constituency
+|-
+| {{nihongo|Imperial Pillar|皇柱|Kōhashira}} || [[Kokumin Hōsō Renmei|KHR]] || 1951 || Imperial household, traditional Sanese religion, conservative values
+|-
+| {{nihongo|Labor Pillar|労柱|Rōhashira}} || [[Rōdōsha Hōsō Kyōkai|RHK]] || 1951 || Trade unions, workers' movements, social democracy
+|-
+| {{nihongo|Liberal Pillar|自由柱|Jiyūhashira}} || [[Jiyū Hōsō Renmei|JHR]] || 1951 || Business community, urban professionals, free-market liberalism
+|-
+| {{nihongo|Kwangju Pillar|光州柱|Kwangjuhashira}} || [[Kwangju Hōsō Kyōkai|KHK]] || 1958 || Kwangju ethnic minority (19.7% of population)
+|-
+| {{nihongo|Atsu Pillar|阿蘇柱|Atsuhashira}} || [[Atsu Hōsō Kyōkai|AHK]] || 2012 || Atsu indigenous people (3.2% of population)
+|-
+|}
+
+Two additional associations—[[Bunka Hōsō Renmei|BHR]] (1961) and [[Taishū Hōsō Renmei|THR]] (2013)—are not considered part of the traditional pillar structure. BHR represents cultural and intellectual life rather than a social pillar, while THR was established as a post-pillar, entertainment-focused association.
+
+Depillarization has significantly eroded the social boundaries between pillars since the 1990s, though the broadcasting associations remain as institutional legacies of the system. Surveys consistently show that a majority of Sanese under 40 cannot identify which pillar their family traditionally belonged to, and membership in the associations is increasingly driven by programming preferences rather than ideological alignment.
+
+==Broadcasting Associations==
+
+KTK's programming is produced by seven licensed broadcasting associations, each of which maintains its own editorial staff, production facilities, and membership base. Airtime on KTK's channels is allocated among the associations based on paid membership numbers, subject to minimum thresholds set by the Broadcasting Act.
+
+===Kokumin Hōsō Renmei (KHR)===
+{{main|Kokumin Hōsō Renmei}}
+{{Infobox broadcasting association
+| name = Kokumin Hōsō Renmei<br>国民放送連盟
+| abbreviation = KHR
+| established = 1951
+| pillar = {{nihongo|Imperial Pillar|皇柱|Kōhashira}}
+| headquarters = Chiyoda-ku, [[Okami]]
+| membership = 12.4 million (2025)
+| ideology = Conservative, traditionalist, pro-Imperial
+}}
+
+{{nihongo|'''[[Kokumin Hōsō Renmei|Kokumin Hōsō Renmei]]'''|国民放送連盟|lit. "National Broadcasting Alliance"}} is the oldest and largest broadcasting association within KTK. Founded in 1951 as the successor to the pre-war KTK, KHR represents the Imperial establishment, traditional Sanese culture, and conservative social values. KHR's programming includes ''[[Taisen drama]]''s, traditional arts programming, Imperial ceremonial coverage, and conservative-leaning current affairs. KHR has the largest membership of any association, with approximately 12.4 million paid members as of 2025. KHR's headquarters are in Chiyoda-ku, Okami.
+
+===Rōdōsha Hōsō Kyōkai (RHK)===
+{{main|Rōdōsha Hōsō Kyōkai}}
+{{Infobox broadcasting association
+| name = Rōdōsha Hōsō Kyōkai<br>労働者放送協会
+| abbreviation = RHK
+| established = 1951
+| pillar = {{nihongo|Labor Pillar|労柱|Rōhashira}}
+| headquarters = Shibuya-ku, [[Okami]]
+| membership = 8.7 million (2025)
+| ideology = Social-democratic, labour
+}}
+
+{{nihongo|'''[[Rōdōsha Hōsō Kyōkai|Rōdōsha Hōsō Kyōkai]]'''|労働者放送協会|lit. "Workers' Broadcasting Association"}} was founded in 1951 and represents the labour movement, trade unions, and social-democratic politics. RHK's programming includes the long-running morning drama ''Morning Breeze'', investigative journalism, labour-rights documentaries, and popular entertainment. Despite its origins in the labour movement, RHK has broadened its appeal considerably since the 2010s and now produces some of KTK's most-watched entertainment programming. RHK has approximately 8.7 million paid members as of 2025. RHK's headquarters are in Shibuya-ku, Okami.
+
+===Jiyū Hōsō Renmei (JHR)===
+{{main|Jiyū Hōsō Renmei}}
+{{Infobox broadcasting association
+| name = Jiyū Hōsō Renmei<br>自由放送連盟
+| abbreviation = JHR
+| established = 1951
+| pillar = {{nihongo|Liberal Pillar|自由柱|Jiyūhashira}}
+| headquarters = Minato-ku, [[Okami]]
+| membership = 4.2 million (2025)
+| ideology = Liberal, pro-business
+}}
+
+{{nihongo|'''[[Jiyū Hōsō Renmei|Jiyū Hōsō Renmei]]'''|自由放送連盟|lit. "Liberty Broadcasting Alliance"}} was founded in 1951 and represents the liberal business community, urban professionals, and free-market advocates. JHR's programming includes business and finance news, technology programming, lifestyle shows, and international co-productions. JHR has historically been the smallest of the three original associations, with approximately 4.2 million paid members as of 2025. JHR's headquarters are in Minato-ku, Okami. Proposals to merge JHR with KHR have been discussed since 2020, reflecting the declining ideological distance between the two associations, but have not advanced due to resistance from both memberships.
+
+===Kwangju Hōsō Kyōkai (KHK)===
+{{main|Kwangju Hōsō Kyōkai}}
+{{Infobox broadcasting association
+| name = Kwangju Hōsō Kyōkai<br>光州放送協会
+| abbreviation = KHK
+| established = 1958
+| pillar = {{nihongo|Kwangju Pillar|光州柱|Kwangjuhashira}}
+| headquarters = Shinjuku-ku, [[Okami]]
+| membership = 6.1 million (2025)
+| ideology = Kwangju minority rights, multiculturalism
+}}
+
+{{nihongo|'''[[Kwangju Hōsō Kyōkai|Kwangju Hōsō Kyōkai]]'''|光州放送協会|lit. "Kwangju Broadcasting Association"}} was founded in 1958 and represents Okaiken's Kwangju ethnic minority, which constitutes 19.7% of the national population. KHK produces programming in both Sanese and Kwangju languages, including news, cultural programming, music shows featuring Kwangju artists, and dramas reflecting Kwangju life in Okaiken. KHK was instrumental in the mainstream acceptance of Kwangju language broadcasting and is credited with significantly raising the visibility of Kwangju culture in the national discourse. During the PCDS era, KHK's Kwangju-language programming was reduced to a single weekly slot, a decision that provoked sustained protests. KHK has approximately 6.1 million paid members as of 2025. KHK's headquarters are in Shinjuku-ku, Okami, with regional offices in Aizawa and Toyozawa.
+
+===Bunka Hōsō Renmei (BHR)===
+{{main|Bunka Hōsō Renmei}}
+{{Infobox broadcasting association
+| name = Bunka Hōsō Renmei<br>文化放送連盟
+| abbreviation = BHR
+| established = 1961
+| pillar = Non-pillar (cultural)
+| headquarters = Setagaya-ku, [[Okami]]
+| membership = 1.8 million (2025)
+| ideology = Arts, culture, intellectualism
+}}
+
+{{nihongo|'''[[Bunka Hōsō Renmei|Bunka Hōsō Renmei]]'''|文化放送連盟|lit. "Culture Broadcasting Alliance"}} was founded in 1961 and represents the arts community, intellectuals, and educational interests. BHR's programming includes documentaries, art films, classical and experimental music, literary adaptations, and avant-garde theatre. Despite having the smallest membership of any association (approximately 1.8 million paid members as of 2025), BHR is culturally influential and has won numerous international awards for its documentary and arts programming. The 2018 Broadcasting Act amendments introduced a "programming quality" criterion that effectively guarantees BHR a meaningful share of airtime regardless of its membership size. BHR's headquarters are in Setagaya-ku, Okami.
+
+===Atsu Hōsō Kyōkai (AHK)===
+{{main|Atsu Hōsō Kyōkai}}
+{{Infobox broadcasting association
+| name = Atsu Hōsō Kyōkai<br>阿蘇放送協会
+| abbreviation = AHK
+| established = 2012
+| pillar = {{nihongo|Atsu Pillar|阿蘇柱|Atsuhashira}}
+| headquarters = Hakodate, [[Yagi]]
+| membership = 950,000 (2025)
+| ideology = Atsu indigenous rights, environmentalism
+}}
+
+{{nihongo|'''[[Atsu Hōsō Kyōkai|Atsu Hōsō Kyōkai]]'''|阿蘇放送協会|lit. "Atsu Broadcasting Association"}} was founded in 2012 following the Broadcasting Restoration Act of 2010, which ended the PCDS era. AHK represents the Atsu indigenous people, who constitute 3.2% of Okaiken's population and are concentrated primarily in southern Yagi. AHK had sought a broadcasting license since the 1960s but was denied throughout the PCDS era. Its programming focuses on Atsu language and culture, environmental issues, indigenous rights, and traditional Atsu music and storytelling. AHK has approximately 950,000 paid members as of 2025. AHK's headquarters are in Hakodate, Yagi, with a production office in Okami.
+
+===Taishū Hōsō Renmei (THR)===
+{{main|Taishū Hōsō Renmei}}
+{{Infobox broadcasting association
+| name = Taishū Hōsō Renmei<br>大衆放送連盟
+| abbreviation = THR
+| established = 2013
+| pillar = Non-pillar (breakthrough)
+| headquarters = Shibuya-ku, [[Okami]]
+| membership = 5.6 million (2025)
+| ideology = Entertainment, populist
+}}
+
+{{nihongo|'''[[Taishū Hōsō Renmei|Taishū Hōsō Renmei]]'''|大衆放送連盟|lit. "Mass Broadcasting Alliance"}} was founded in 2013 as the first "breakthrough" association not tied to a traditional social pillar. THR focuses on entertainment, popular culture, sports, and broad-appeal programming. Its rapid membership growth—surpassing JHR within five years of its founding—signaled the acceleration of depillarization in Okaiken's broadcasting system. THR has approximately 5.6 million paid members as of 2025. THR's headquarters are in Shibuya-ku, Okami.
+
+==Governance and Funding==
+
+KTK is governed by a '''Board of Directors''' appointed by the Minister of Communications on the advice of the {{nihongo|'''Broadcasting Council'''|放送審議会|Hōsō Shingikai}}, which includes representatives of each licensed association, independent members, and government observers. The Director-General, currently Masayuki Matsumoto, serves as KTK's chief executive and is responsible for the day-to-day management of the organization.
+
+===Funding===
+
+KTK's funding comes from three sources:
+* '''VAT allocation''': 0.05% of Okaiken's Value Added Tax is allocated to KTK for infrastructure, transmission, and coordination costs.
+* '''Membership fees''': Each broadcasting association collects annual membership fees from its members. A portion of these fees is transferred to KTK to fund programming production. The fee is set by each association independently, but the Broadcasting Act mandates a minimum fee of 円2,000 per year.
+* '''Commercial sponsorship''': Designated programming on KTK:1 and KTK:5 may carry commercial sponsorship, subject to restrictions on the type and frequency of advertisements. KTK:2, KTK:E, and KTK:News are advertisement-free.
+
+===Airtime allocation===
+
+Airtime on KTK's channels is allocated among the associations based on a formula set out in the Broadcasting Act. The primary factor is paid membership, but the Act also includes provisions for:
+* A '''minimum airtime guarantee''' for each licensed association, ensuring that even the smallest associations (BHR, AHK) receive meaningful airtime.
+* A '''news allocation''' reserved for [[KTK News]], the centralized news division, which produces neutral news programming across all channels.
+* A '''quality bonus''' introduced in the 2018 amendments, which provides additional airtime to associations that produce award-winning or critically acclaimed programming.
+
+The current airtime allocation on KTK:1 (the flagship channel) is approximately:
+
+{| class="wikitable"
+|-
+! Association !! Share !! Primary programming
+|-
+| [[Kokumin Hōsō Renmei|KHR]] || 28% || Drama, traditional arts, Imperial coverage, current affairs
+|-
+| [[Rōdōsha Hōsō Kyōkai|RHK]] || 22% || Morning drama, investigative journalism, entertainment
+|-
+| [[Kwangju Hōsō Kyōkai|KHK]] || 14% || Kwangju-language programming, cultural shows, music
+|-
+| [[Taishū Hōsō Renmei|THR]] || 13% || Entertainment, sports, popular culture
+|-
+| [[Jiyū Hōsō Renmei|JHR]] || 8% || Business, technology, lifestyle, international co-productions
+|-
+| [[Bunka Hōsō Renmei|BHR]] || 6% || Documentaries, arts, classical music, avant-garde
+|-
+| [[Atsu Hōsō Kyōkai|AHK]] || 3% || Atsu language and culture, environmental programming
+|-
+| [[KTK News]] || 6% || News, current affairs, analysis
+|-
+|}
 
 ==Broadcast==
 
-{{Empty section|date=March 2026}}
+===Television channels===
+
+{| class="wikitable"
+|-
+! Channel !! Launched !! Description
+|-
+| [[KTK:1]] || 1952 || Flagship general channel. Mix of all associations' programming, including drama, entertainment, current affairs, and documentaries.
+|-
+| [[KTK:2]] || 1964 || Culture and arts channel. Features BHR and KHK programming, documentaries, art films, and in-depth current affairs.
+|-
+| [[KTK:E]] || 1959 || Educational and children's channel. Programming from all associations, with a focus on educational content, children's shows, and lifelong learning.
+|-
+| [[KTK:News]] || 2018 || 24-hour news channel. Operated by [[KTK News]], the centralized news division. Features live news, analysis, and rolling coverage.
+|-
+| [[KTK:5]] || 2013 || Entertainment and lifestyle channel. Features THR and RHK entertainment programming, sports, and popular culture.
+|-
+| KTK:1BS || 1984 || Satellite version of KTK:1, broadcasting in 4K HDR.
+|-
+| KTK:2BS || 1985 || Satellite version of KTK:2, broadcasting in 4K HDR. Rebranded as "BS Premium" from 2011 to 2020.
+|-
+| KTK:5BS || 2013 || Satellite version of KTK:5.
+|-
+| [[KTK World|KTK:World]] || 1998 || International service. Comprises KTK:W, KTK:W2, and shortwave radio service KTK:WorldRadio.
+|}
+
+===Radio networks===
+
+{| class="wikitable"
+|-
+! Network !! Launched !! Description
+|-
+| KTK:R1 || 1925 || General radio network. News, current affairs, drama, and entertainment from all associations.
+|-
+| KTK:R2 || 1932 || Culture and education radio. Classical music, arts programming, educational content, and Kwangju/Atsu language programming.
+|-
+| KTK:RF || 1937 || FM radio network. Music-focused, with programming from all associations.
+|-
+| KTK:WorldRadio || 1935 || International shortwave radio service. Available worldwide via shortwave and internet streaming.
+|}
 
 ==Stations==
-Although KTK is a national distributor mandated by the government of Okaiken to broadcast its signals throughout the country, the organization depends on government-controlled local distributors for its radio and television content. These are funded through advertisement revenue as well as 0.3% of sales tax collected each year in the country.
+Although KTK is a national distributor mandated by the government of Okaiken to broadcast its signals throughout the country, the organization depends on government-controlled local distributors for its radio and television content. These are funded through advertisement revenue as well as 0.3% of sales tax collected each year in the country. All associations' programming is carried on the same regional transmitters, with scheduling coordinated by KTK's Programming Department.
 
 Places in '''bold''' refer to where the main station of each region is located.
 
@@ -137,8 +401,12 @@ Places in '''bold''' refer to where the main station of each region is located.
 !style="border-bottom:3px solid red;"|(Ch.)
 !style="border-bottom:3px solid red;"|Call sign
 |-
-|rowspan=6|[[Tokami region|Tokami]]
+|rowspan=8|[[Tokami region|Tokami]]
 |'''Okami (大紙)'''||KTKA-FM||KTKA||KTKA-TV|| 1||(1)||KTKA-DTV||[[Okami Metropolis|Okami]]
+|-
+||Shinagawa (品川)||KMYG-FM||KMYG||KMYG-TV|| 4||(3)||KMYG-DTV||[[Miyagi Prefecture|Miyagi]]
+|-
+||Fukushima (福島)||KFKS-FM||KFKS||KFKS-TV|| 6||(3)||KFKS-DTV|| [[Fukushima Prefecture|Fukushima]]
 |-
 ||Tokuyama (徳山)||KTKY-FM||KTKY||KTKY-TV|| 3||(1)||KTKY-DTV|| [[Tokuyama Prefecture|Tokuyama]]
 |-
@@ -150,11 +418,7 @@ Places in '''bold''' refer to where the main station of each region is located.
 |-
 ||Yonezawa (米沢)||KYNZ-FM||KYNZ||KYNZ-TV|| 11||(1)||KYNZ-DTV||[[Yonezawa Prefecture|Yonezawa]]
 |-
-|rowspan=6|[[Urakawa region|Urakawa]]
-|'''Shinagawa (品川)'''||KMYG-FM||KMYG||KMYG-TV|| 4||(3)||KMYG-DTV||[[Miyagi Prefecture|Miyagi]]
-|-
-||Fukushima (福島)||KFKS-FM||KFKS||KFKS-TV|| 6||(3)||KFKS-DTV|| [[Fukushima Prefecture|Fukushima]]
-|-
+|rowspan=4|[[Urakawa region|Urakawa]]
 ||Hirogawa (広川)||KHRG-FM||KHRG||KHRG-TV|| 8||(3)||KHRG-DTV||[[Hirogawa Prefecture|Hirogawa]]
 |-
 ||Ishiwara (石原)||KISW-FM||KISW||KISW-TV|| 10||(3)||KISW-DTV||[[Ishiwara Prefecture|Ishiwara]]
@@ -163,7 +427,7 @@ Places in '''bold''' refer to where the main station of each region is located.
 |-
 ||Okazaki (岡崎)||KOKZ-FM||KOKZ||KOKZ-TV|| 14||(3)||KOKZ-DTV||[[Okazaki Prefecture|Okazaki]]
 |-
-|rowspan=12|[[Ishijima (Region)|Ishijima]]
+|rowspan=13|[[Ishijima region|Ishijima]]
 |'''Aizawa (愛沢)'''||KAIZ-FM||KAIZ||KAIZ-TV|| 8||(8)||KAIZ-DTV||[[Aizawa Prefecture|Aizawa]]
 |-
 ||Ogasawara (小笠原)||KOGS-FM||KOGS||KOGS-TV|| 10||(8)||KOGS-DTV||[[Ogasawara Prefecture|Ogasawara]]
@@ -188,7 +452,9 @@ Places in '''bold''' refer to where the main station of each region is located.
 |-
 ||Tachibara (立原)||KTCB-FM||KTCB||KTCB-TV|| 30||(8)||KTCB-DTV||[[Tachibara Prefecture|Tachibara]]
 |-
-|rowspan=4|[[Miseto region|Miseto]]
+||Suzuka (鈴鹿)||KSUZ-FM||KSUZ||KSUZ-TV|| 7||(5)||KSUZ-DTV||[[Suzuka Prefecture|Suzuka]]
+|-
+|rowspan=5|[[Miseto region|Miseto]]
 |'''Toyozawa (豊沢)'''||KTYZ-FM||KTYZ||KTYZ-TV|| 6||(4)||KTYZ-DTV||[[Toyozawa Metropolis|Toyozawa]]
 |-
 ||Mito (水戸)||KMTO-FM||KMTO||KMTO-TV|| 9||(4)||KMTO-DTV||[[Mito Prefecture|Mito]]
@@ -197,12 +463,15 @@ Places in '''bold''' refer to where the main station of each region is located.
 |-
 ||Mie (三重)||KMIE-FM||KMIE||KMIE-TV|| 13||(4)||KMIE-DTV||[[Mie Prefecture|Mie]]
 |-
-|rowspan=6|[[Suzuka (Region)|Suzuka]]
-|'''Minatojima (港島)'''||KSET-FM||KSET||KSET-TV|| 5||(5)||KSET-DTV||[[Seto Prefecture|Seto]]
+||Minatojima (港島)||KSET-FM||KSET||KSET-TV|| 5||(5)||KSET-DTV||[[Seto Prefecture|Seto]]
 |-
-||Suzuka (鈴鹿)||KSUZ-FM||KSUZ||KSUZ-TV|| 7||(5)||KSUZ-DTV||[[Suzuka Prefecture|Suzuka]]
+|rowspan=2|[[Soma region|Soma]]
+|'''Soma (相馬)'''||KSTM-FM||KSTM||KSTM-TV|| 2||(6)||KSTM-DTV||[[Saitama Prefecture|Saitama]]
 |-
-||Kurosaki (黒崎)||KKRS-FM||KKRS||KKRS-TV|| 9||(5)||KKRS-DTV||[[Kurosaki Prefecture|Kurosaki]]
+||Tsuda (津田)||KKCH-FM||KKCH||KKCH-TV|| 7||(7)||KKCH-DTV||[[Kochi Prefecture|Kochi]]
+|-
+|rowspan=4|[[Nakayagikoshu region|Nakayagikoshu]]
+|'''Kurosaki (黒崎)'''||KKRS-FM||KKRS||KKRS-TV|| 9||(5)||KKRS-DTV||[[Kurosaki Prefecture|Kurosaki]]
 |-
 ||Nagayama (長山)||KNGY-FM||KNGY||KNGY-TV|| 11||(5)||KNGY-DTV||[[Nagayama Prefecture|Nagayama]]
 |-
@@ -210,19 +479,14 @@ Places in '''bold''' refer to where the main station of each region is located.
 |-
 ||Kagami (鏡)||KKGM-FM||KKGM||KKGM-TV|| 15||(5)||KKGM-DTV||[[Kagami Prefecture|Kagami]]
 |-
-|rowspan=5|[[Mutsu (Region)|Mutsu]]
-|'''Soma (相馬)'''||KSTM-FM||KSTM||KSTM-TV|| 2||(6)||KSTM-DTV||[[Saitama Prefecture|Saitama]]
-|-
-||Anjo-Saikawa (安城西川)||KOKY-FM||KOKY||KOKY-TV|| 4||(6)||KOKY-DTV||[[Okayama Prefecture|Okayama]]
+|rowspan=4|[[Sanzu region|Sanzu]]
+|'''Anjo-Saikawa (安城西川)'''||KOKY-FM||KOKY||KOKY-TV|| 4||(6)||KOKY-DTV||[[Okayama Prefecture|Okayama]]
 |-
 ||Tosa (土佐)||KTSA-FM||KTSA||KTSA-TV|| 6||(6)||KTSA-DTV||[[Tosa Prefecture|Tosa]]
 |-
 ||Naruto (鳴門)||KNRT-FM||KNRT||KNRT-TV|| 8||(6)||KNRT-DTV||[[Naruto Prefecture|Naruto]]
 |-
 ||Shiogami (塩上)||KSGM-FM||KSGM||KSGM-TV|| 10||(6)||KSGM-DTV||[[Shiogami Prefecture|Shiogami]]
-|-
-|rowspan=1|[[Soma (Region)|Soma]]
-|'''Tsuda (津田)'''||KKCH-FM||KKCH||KKCH-TV|| 7||(7)||KKCH-DTV||[[Kochi Prefecture|Kochi]]
 |-
 |rowspan=8|[[Nankai region|Nankai]]
 |'''Nagato (長門)'''||KNGT-FM||KNGT||KNGT-TV|| 3||(2)||KNGT-DTV||[[Nagato Prefecture|Nagato]]
@@ -242,13 +506,41 @@ Places in '''bold''' refer to where the main station of each region is located.
 ||Kii (紀伊)||KKII-FM||KKII||KKII-TV|| 17||(2)||KKII-DTV||[[Kii Prefecture|Kii]]
 |}
 
+==Controversies==
+
+===KHR censorship of ''Hatsu'' (2026)===
+
+In June 2026, KTK's broadcasting system came under intense public scrutiny after it was revealed that [[Kokumin Hōsō Renmei|KHR]] — the largest and oldest of the broadcasting associations — had cut a politically sensitive scene from the finale of the popular drama series ''[[Hatsu (TV series)|Hatsu]]''. The scene, which depicted a government cover-up of an environmental disaster, was removed without the director's consent, allegedly under pressure from conservative members of KHR's editorial board. A [[Director Cut Petition|petition]] demanding the release of the uncut version garnered over 1.2 million signatures within two weeks, and the hashtag #TellTheTruth reached 2.8 million posts on social media. The incident sparked a broader debate about editorial independence within the pillarized system and the influence of the Imperial Pillar's conservative constituency on KHR's programming decisions. The other associations — particularly RHK and THR — publicly criticised KHR's decision, with RHK's Director-General calling it "a betrayal of the trust that the hashira system places in each association to serve its members, not to censor on their behalf."
+
 ==KTK Chimes==
 [[File:KTK chimes.mp3|The KTK chimes.]]
 
 The KTK chimes have been in use since it was first introduced with the company in 1924; as television networks were emerging, Hiroshi Tanaka, an engineer working for the Okami Broadcasting Company, recognized the need for a distinct auditory signal for program transitions. Tanaka, skilled in both music and engineering, conducted experiments late into the night at the station's sound studio. His objective was to devise a non-disruptive sonic brand for the station. After weeks of trial and error, Tanaka, with station management support, finalized a melodic sequence of chimes — 12 distinct notes with a musical quality. The chimes, implemented by the Okami Broadcasting Corporation, quickly gained recognition, becoming synonymous with the channel.
 
-Inspired by the station's success, other Sanese  television stations adopted their own broadcasting chimes. Over the years, the use of broadcasting chimes proliferated across the industry, with each station striving to create a distinctive sound reflecting its identity.
-With the rise of color television in the 1960s and the expansion of cable channels, the importance of broadcasting chimes grew. They became a familiar auditory cue connecting viewers to their preferred programs. In the digital era, as streaming platforms transformed the media landscape, traditional broadcasting chimes faced challenges. Nevertheless, many streaming services incorporated virtual chimes into their interfaces as a nod to the historical significance of these auditory signals in Sanese television.
+Inspired by the station's success, other Sanese television stations adopted their own broadcasting chimes. Over the years, the use of broadcasting chimes proliferated across the industry, with each station striving to create a distinctive sound reflecting its identity. With the rise of color television in the 1960s and the expansion of cable channels, the importance of broadcasting chimes grew. They became a familiar auditory cue connecting viewers to their preferred programs. In the digital era, as streaming platforms transformed the media landscape, traditional broadcasting chimes faced challenges. Nevertheless, many streaming services incorporated virtual chimes into their interfaces as a nod to the historical significance of these auditory signals in Sanese television.
+
+==See also==
+
+* [[Hashira system (Okaiken)]] — the pillarized social framework
+* [[Kokumin Hōsō Renmei|KHR]] — Imperial Pillar association
+* [[Rōdōsha Hōsō Kyōkai|RHK]] — Labor Pillar association
+* [[Jiyū Hōsō Renmei|JHR]] — Liberal Pillar association
+* [[Kwangju Hōsō Kyōkai|KHK]] — Kwangju Pillar association
+* [[Bunka Hōsō Renmei|BHR]] — cultural association
+* [[Atsu Hōsō Kyōkai|AHK]] — Atsu Pillar association
+* [[Taishū Hōsō Renmei|THR]] — breakthrough association
+* [[KTK General TV]] — KTK:1 flagship channel
+* [[KTK Educational TV]] — KTK:E educational channel
+* [[KTK BS-1]] — satellite news/sports channel
+* [[KTK BS Premium]] — satellite entertainment channel
+* [[KTK World]] — international broadcasting service
+* [[PYRAMID30]] — Okaiken music chart
+* [[Taisen drama]] — flagship historical drama franchise
+
+==References==
+
+{{Reflist}}
 
 [[Category:Okaiken topics]]
 [[Category:Okaiken]]
+[[Category:Broadcasting in Okaiken]]

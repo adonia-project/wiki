@@ -48,82 +48,107 @@ The [[Jutsu Restoration]] and the ascendancy of the {{nihongo|Forge State|鍛冶
 
 The X-League underwent a period of rapid modernization and expansion. The league adopted a two-division structure in 2014, introduced a salary cap and draft system in 2016, and expanded to its current twelve-team format in 2019. Average attendance at X-League games surpassed 35,000 by 2022, and the Rice Bowl now routinely attracts television audiences exceeding 40 million viewers, making it the second most-watched annual sporting event in Okaiken behind only the [[Emperor's Shield]] rugby final.
 
-The sport's cultural footprint has expanded beyond the field. The Rice Bowl has become a major social event, with associated festivities, corporate hospitality events, and media coverage dominating the news cycle for the entire week preceding the game. The annual clash between [[Ryuichi Nakada]] of the [[Toyozawa Ironblades]] and [[Kengo Shibata|Kengo "The Wall" Shibata]] of the [[Okami Direwolves]] has become the most-watched regular season broadcast in Okaiken television history.
+The sport's cultural footprint has expanded beyond the field. The Rice Bowl has become a major social event, with associated festivities, corporate hospitality events, and media coverage dominating the news cycle for the entire week preceding the game. The annual clash between [[Ryuichi Nakada]]'s [[Toyozawa Ironblades]] and the [[Okami Direwolves]] has become the most-watched regular season broadcast in Okaiken television history.
 
 ==Rules==
 {{Main|Lurandian Football}}
-Lurandian Football is a code of [[w:Gridiron football|gridiron football]] that developed in [[Lurandia]] during the late 19th century. Built upon an expansive field and a compressed tempo, the sport features several distinctive regulatory traditions that shape its faster, more open style of play.
+Lurandian Football in Okaiken adheres to the canonical regulations established by the [[Lurandian Football Union]] (LFU), with several distinctive tactical emphasis points that resonate with Sanese athletic traditions.
 
 ===Field and equipment===
-The Lurandian Football field is 110 [[w:yard|yards]] long and 65 yards wide (100.6 m × 59.4 m), with [[w:End zone|end zones]] 20 yards deep. The spacious field dimensions create wide running lanes and substantial spacing between offensive and defensive formations. Goal posts are positioned directly on the front goal line, consistent with the Lurandian tradition.
+The Lurandian Football field measures 110 [[w:yard|yards]] long and 65 yards wide (100.6 m × 59.4 m), with [[w:End zone|end zones]] 20 yards deep, creating an expansive 150-yard aggregate playing surface. Goal posts are positioned directly on the front goal line. The wide field dimensions create extensive running perimeter and generous passing corridors.
 
-Players wear standard gridiron equipment including hard-shell helmets with full facemasks, shoulder pads, and padded pants. In Okaiken, the equipment is colloquially referred to as {{nihongo|鎧|yoroi|armor}}, reinforcing the cultural parallel between the sport and the nation's warrior heritage.
+Players wear full protective equipment including hard-shell polycarbonate helmets with steel facemasks, cantilevered shoulder pads, and padded trousers. In Okaiken, this gear is culturally designated as {{nihongo|鎧|yoroi|armor}}, reinforcing the societal perception of the athlete as an armored martial competitor engaged in collective combat.
 
-===Gameplay===
-[[File:Lurandian Football presnap motion.jpg|thumb|left|280px|Slotbacks in synchronized pre-snap motion accelerating toward the line of scrimmage.]]
-Lurandian Football is played with '''12 players per side'''. The additional player relative to smaller eleven-player field sports is typically deployed as a slotback on offense or an additional defensive back, reflecting the wider field and the offensive emphasis on passing formations.
+===Match structure and timing===
+Matches are contested across three 20-minute periods designated as '''Thirds''', matching the sport's symbolic "Rule of Three". Teams alternate defending end zones after each Third. Play is paced by a compressed '''20-second play clock''' from the referee's ready signal.
 
-Each team receives '''three downs''' to advance the ball 10 yards. The three-down rule is the most significant strategic difference in Lurandian Football: it forces offenses to pursue larger gains per play, heavily favoring the passing game over methodical rushing attacks. Running plays are used primarily in short-yardage situations or to set up play-action passes. The three-down structure creates shorter offensive drives and a faster overall pace of play.
+During the final three minutes of the third period, the contest enters the '''Dead-Time Clock Rule''', where the game clock halts on all tackles in bounds, runs out of bounds, incomplete passes, and penalties until the ball is centered on the subsequent snap. This rule prevents leading teams from kneeling out the clock and guarantees trailing teams an active opportunity to mount a final drive.
 
-The play clock is set at '''20 seconds''' from the referee's whistle. This compressed tempo demands rapid play-calling, conditioning, and minimizes downtime between snaps.
+===Gameplay and the Neutral Corridor===
+Lurandian Football is contested with '''12 players per side'''. Offensive formations feature five offensive linemen, a quarterback, a primary ball carrier, and five perimeter receivers including slotbacks and tight ends. 
 
-'''Unlimited pre-snap motion''' is permitted: all offensive backfield players (excluding the five offensive linemen and the quarterback) may be in motion toward the line of scrimmage at the snap. The resulting pre-snap movement creates complex read-and-react challenges for defenses and contributes to the sport's characteristic open-field chaos.
+To honor the physical culture of complete conditioning, each squad must designate two '''Two-Way Anchors''' per Third who must participate on both offensive and defensive downs throughout that twenty-minute interval.
+
+Offensive and defensive lines are separated prior to the snap by an expanded '''1.5-yard Neutral Corridor''' (4.5 feet). Defensive linemen must align in upright or semi-crouch stances outside this corridor, and all below-the-waist blocking (cut blocks and chop blocks) is strictly illegal across the entire field. The expanded gap transforms line play into high-speed sprint collisions dominated by martial hand-fighting and leverage.
+
+===Downs and the Breakthrough Down===
+Possession is governed by the '''Three-and-Twelve system'''. The offense receives three downs to advance the ball twelve yards. If an offense accumulates at least nine yards across its first two attempts without crossing the line to gain, it is awarded an optional Fourth Down termed the '''Breakthrough Down'''. Failing to reach nine yards restricts the team to three downs, requiring an immediate decision to punt, kick, or risk a turnover on downs.
+
+Eligible backfield personnel are permitted '''unlimited simultaneous forward pre-snap motion'''. Offenses may also execute '''Dual Forward Releases''' behind the line of scrimmage, while open-field laterals are protected by the '''Protected Lateral Rule''' (an uncontested dropped pitch is whistled dead at the bounce spot with loss of yardage rather than resulting in a live turnover fumble).
 
 ===Scoring===
-Scoring in Lurandian Football follows a six-part system:
+Scoring in Lurandian Football follows an eight-part multi-tiered system:
 
 {| class="wikitable"
-|+ Scoring methods
+|+ Scoring methods in Lurandian Football
 |-
 ! Method !! Points !! Description
 |-
-| Touchdown || 6 || Ball advanced into or caught in the opponent's end zone
+| Touchdown (The Breach) || 6 || Ball advanced into or caught in the opponent's 20-yard end zone
 |-
-| Conversion (kick) || 1 || Placekicked through the goal posts after a touchdown
+| Tier 1 Conversion (kick) || 1 || Placekicked through the uprights from the 15-yard line after a touchdown
 |-
-| Conversion (run/pass) || 2 || Ball advanced into the end zone by run or pass after a touchdown
+| Tier 2 Conversion (play/drop-kick) || 2 || Ball advanced into the end zone from the 3-yard line via run or pass, or drop-kicked from the 25-yard line
 |-
-| Field goal || 3 || Placekicked through the goal posts during general play
+| Tier 3 High Conversion || 3 || Ball advanced into the end zone from the 10-yard line via run or pass following a touchdown
 |-
-| Safety || 2 || Opposition downed in their own end zone or commits a foul in their own end zone
+| Standard Field Goal || 3 || Placekicked through the uprights from inside the 45-yard line during active scrimmage play
 |-
-| [[Rouge (Lurandian Football)|Rouge]] || 1 || Kicking team scores when the ball is not returned out of the end zone on a punt or missed field goal
+| Cannon Goal || 4 || Placekicked through the uprights from 45 yards or greater (measured from spot of kick)
+|-
+| Open-Play Drop-Kick || 4 || Drop-kicked through the uprights from general open-field play on any down
+|-
+| Safety || 2 || Opposition ball carrier tackled in their own end zone or commits a foul in their end zone
+|-
+| [[Rouge (Lurandian Football)|Rouge (Single)]] || 1 || Kicking team scores when a punt or missed field goal is unreturned from the opponent's end zone
+|-
+| Iron Stop || 1 || Defending team forcing a turnover on downs inside its own 5-yard line
 |}
 
-The '''rouge''' (also called a "single") is a hallmark of Lurandian Football. If the receiving team fails to advance the ball out of its own end zone after a punt or missed field goal, the kicking team is awarded one point. The rouge incentivizes aggressive special teams play and punishes conservative return strategies, aligning with the sport's overall emphasis on forward momentum.
+The '''rouge''' (single point) ensures that all kicks into the end zone carry scoring value. The '''Iron Stop''' awards one point to a defending team that halts an opposing offensive series inside its own five-yard line, a rule that holds deep cultural significance in Okaiken as an official recognition of goal-line defensive grit.
 
-===No fair catch===
-Lurandian Football does not permit a [[w:Fair catch|fair catch]]. Instead, the kicking team must provide a '''5-yard cushion''' (the "no yards" zone) to the punt returner. No member of the kicking team may approach within 5 yards of the returner until the ball is touched. Violation of this rule results in a 15-yard penalty (5 yards if the ball has not been touched). The absence of a fair catch ensures that every punt is returned, adding an additional element of excitement and physical risk to the kicking game.
+===Kicking play, Return Punts, and Onside Chasers===
+Fair catches are prohibited; kicking units must yield an unobstructed '''5-yard cushion''' around the returner until the football is touched. Returners pinned in their own end zone may execute a '''Return Punt''' back downfield to reverse field position or score a counter-rouge. Additionally, any kicking player aligned behind the punter when the ball is struck acts as an '''Onside Chaser''' eligible to legally recover the kick downfield.
 
-===Key rule specifications===
-The regulation structure of Lurandian Football is summarized below:
-
+===Summary of regulation specifications===
 {| class="wikitable"
 |+ Lurandian Football core specifications
 |-
 ! Feature !! Regulation standard
 |-
-| Field length || 110 yards
+| Match duration || Three 20-minute Thirds (60 minutes regulation)
 |-
-| Field width || 65 yards
+| Final minutes timing || 3-minute Dead-Time clock in Third Period (clock stops on all whistles until snap)
 |-
-| End zone depth || 20 yards
-|-
-| Players per side || 12
-|-
-| Downs || 3 downs to gain 10 yards
-|-
-| Play clock || 20 seconds from whistle
-|-
-| Pre-snap motion || Unlimited forward motion for backfield eligible receivers
-|-
-| Fair catch || Prohibited (mandatory 5-yard cushion)
-|-
-| Rouge (single point) || Awarded on unreturned kicks into the end zone
+| Field dimensions || 110 yards long by 65 yards wide (20-yard end zones)
 |-
 | Goal posts position || Front of the end zone (on the goal line)
 |-
-| Overtime || Sudden victory starting from the 35-yard line
+| Players per side || 12 players (including 2 mandatory Two-Way Anchors per Third)
+|-
+| Neutral Corridor || 1.5 yards (4.5 feet) with upright stances; no below-waist blocking
+|-
+| Downs || Three-and-Twelve system (3 downs for 12 yards; Breakthrough 4th Down if 9 yards reached)
+|-
+| Play clock || 20 seconds from ready-for-play whistle
+|-
+| Pre-snap motion || Unlimited simultaneous forward motion for backfield personnel
+|-
+| Forward passing || Dual Forward Releases permitted behind line of scrimmage
+|-
+| Open-field laterals || Protected Lateral Rule (dead ball at bounce spot if uncontested)
+|-
+| Reception protection || Mandatory 5-yard spatial cushion (no fair catch)
+|-
+| Kicking returns || Open Return Punts permitted; Onside Chasers eligible to recover kicks
+|-
+| Conversions || 1 point (15-yd kick), 2 points (3-yd play/25-yd drop-kick), 3 points (10-yd High Conversion)
+|-
+| Field goals || 3 points (<45 yds), 4 points (45+ yds Cannon Goal or Open Drop-Kick)
+|-
+| Single-point scores || 1-point Rouge (unreturned kick) and 1-point Iron Stop (goal-line defensive stand)
+|-
+| Overtime || Sudden victory starting from the opponent's 35-yard line
 |}
 
 ==Governance==
@@ -152,14 +177,10 @@ Lurandian Football occupies a unique position in Okaiken's sporting culture. Whi
 
 The [[Rice Bowl]] has become a major cultural event. Held annually on the second Saturday of January, the game virtually stops the nation. Rice Bowl parties are a staple of Sanese social life, and the week preceding the game is marked by extensive media coverage, corporate hospitality events, and public festivities. The game's timing—shortly after the New Year holiday—positions it as the first major social event of the calendar year, and its viewership routinely exceeds 40 million.
 
-The sport's signature rivalry—the decade-long clash between [[Ryuichi Nakada]] of the [[Toyozawa Ironblades]] and [[Kengo Shibata|Kengo "The Wall" Shibata]] of the [[Okami Direwolves]]—has transcended sports to become a broader cultural narrative. Nakada's offensive brilliance versus Shibata's defensive dominance is frequently cited in popular media as a metaphor for the Sanese ideals of strategic attack and unyielding defense.
+The sport's signature rivalry—the decade-long clash between [[Ryuichi Nakada]] of the [[Toyozawa Ironblades]] and the defense of the [[Okami Direwolves]], historically anchored by [[Kengo Shibata|Kengo "The Wall" Shibata]] and [[Naoto Kongo]]—has transcended sports to become a broader cultural narrative. Nakada's offensive brilliance versus the Direwolves' unyielding defensive front is frequently cited in popular media as a metaphor for the Sanese ideals of strategic attack and immovable defense.
 
 ==See also==
-* [[X-League]]
-* [[Rice Bowl]]
-* [[Sport in Okaiken]]
-* [[Lurandian Football Union]]
-* [[Cult of Iron]]
+Related topics include the [[X-League]], the [[Rice Bowl]], [[Sport in Okaiken]], the [[Lurandian Football Union]], and the [[Cult of Iron]].
 
 {{Okaiken topics}}
 {{DEFAULTSORT:Lurandian Football In Okaiken}}

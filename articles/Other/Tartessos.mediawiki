@@ -1,48 +1,82 @@
 {{Short description|First planet of the Aurelius System}}
+{{About|the planet|the city in Andalus formerly known as Tartessos|Tartessia|other uses}}
 {{Infobox planet
 | name = Tartessos
-| symbol = 
-| image = Tartessos Planet.jpg
-| caption = Tartessos from Explorer I
+| symbol = ☿
+| image               = Tartessos Planet.jpg
+| caption = High-contrast telescopic portrait of Tartessos captured by the Shakugan-1 orbital reconnaissance probe, showing ancient impact basins and towering thrust scarps
 | discoverer = Unknown (Ancient observation)
 | discovery_site = 
 | discovered = Pre-historic
-| pronounce = [[w:Wikipedia:IPA for English|/tɑːr'tɛsoʊs/]]
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/tɑːr'tɛsoʊs/]]
 | named_after = Tartessos (Legendary Civilization)
 | alt_names = The Burnt Rock / 灼岩星 (Shakugansei)
 | adjectives = Tartessian
-| mean_radius = 2,439.7 km
+| mean_radius = 2,439.7 km (0.383 R_Adonia)
 | surface_area = 7.48×10^7 km2
 | volume = 6.083×10^10 km3
 | mass = 0.08 M_Adonia (4.78×10^23 kg)
 | mean_density = 5.427 g/cm3
-| surface_gravity = 3.7 m/s2
+| surface_gravity = 3.70 m/s2 (0.377 g)
 | escape_velocity = 4.25 km/s
-| sidereal_rotation_period = 58.646 days
+| sidereal_rotation_period = 57.0 days
 | orbital_period = 38.0 days
 | mean_orbit_radius = 0.22 AU
+| perihelion = 0.175 AU
+| aphelion = 0.265 AU
 | eccentricity = 0.205
-| surface_pressure = Trace (Exosphere)
-| composition = Iron core (85% of radius); Silicate crust
+| inclination = 7.00°
+| surface_pressure = Trace (Exosphere, ~10^-10 Pa)
+| composition = Iron-nickel core (85% radius); Silicate mantle and crust
 }}
 
-'''Tartessos''' is the first and innermost planet from the star [[Aurelius]]. It is a small, rocky world, approximately one-third the size of [[Adonia]], and resembles a battered, airless cinder suspended in the blinding glare of the inner system. Due to its proximity to the star, it possesses no significant atmosphere and experiences extreme surface temperatures. It is classified as an iron planet due to its unusually large metallic core relative to its crust volume.
+'''Tartessos''' is the first and innermost planet from the star [[Aurelius]]. Orbiting at an average distance of 0.22 AU, it is a small, airless terrestrial cinder roughly one-third the diameter of [[Adonia]]. Due to its extreme proximity to the central yellow dwarf, Tartessos is exposed to violent stellar wind bombardment and intense radiative flux, resulting in the most extreme diurnal temperature swings in the [[Aurelius system]]. It is classified geophysically as an iron planet due to its disproportionately massive metallic core, which occupies approximately 85 percent of the planet's radius.<ref name="OISAS_Tartessos">Okaiken Institute for Space and Aeronautical Science (OISAS). (2017). *Geophysical Structure and Core Mass Fraction of Tartessos: Inversion of Shakugan-1 Gravity Field Telemetry*. OISAS Planetary Science Series, 55, 14–42.</ref>
 
-The planet appears as a dark, charcoal-grey sphere heavily saturated with impact craters, giving it a texture similar to Adonia's moon [[Imera]] but significantly darker due to the chemical alteration of surface minerals by intense solar wind bombardment. Its surface is a mosaic of ancient basaltic rock and deep tectonic fractures caused by the immense tidal forces and heat of Aurelius. These fractures, known as rupes, indicate that the planet contracted as it cooled, while the ongoing tidal stress prevents the lithosphere from becoming completely static.
+To the naked eye from Adonia, Tartessos never strays more than 13 degrees from Aurelius, making it notoriously difficult to observe; it is visible only as a brief, fleeting spark in the deep twilight of sunrise or sunset. Telescopically and from orbit, Tartessos presents a battered, charcoal-grey face heavily scarred by billions of years of impact cratering, resembling Adonia's moon [[Imera]] but significantly darker in tone due to solar wind space weathering, iron enrichment, and nanophase carbonaceous deposits.<ref name="Balisca_Tartessos">Baliscan Royal Astronomical Society. (2014). *Spectral Reflectance and Space Weathering Signatures of the Innermost Planet*. Journal of Comparative Planetology, 72(1), 89–115.</ref>
 
-Tartessos orbits Aurelius at an average distance of 0.22 AU, completing a revolution every 38 standard days. Its orbit is highly eccentric, which, combined with the lack of an atmosphere to redistribute heat, results in the most extreme temperature variations in the solar system. The dayside surface temperature can exceed 700 K, sufficient to melt lead, while the nightside plunges to 100 K.
+Tartessos is locked in a 3:2 spin–orbit resonance with Aurelius, completing three rotations on its axis for every two revolutions around the star. A single solar day on Tartessos—from noon to noon—lasts exactly two Tartessian years, or 76 standard days. Because of its high orbital eccentricity ($e = 0.205$), solar insolation fluctuates by more than a factor of two between perihelion (0.175 AU) and aphelion (0.265 AU), subjecting its basaltic crust to severe cyclic thermal shocks and tidal deformation.<ref name="Aldana_Dynamics">Aldana, E., & Thorne, A. (2022). *Tidal Dissipation and Rotational Dynamics in Eccentric Inner-System Orbits*. Castejón Astrophysical Review, 87(3), 302–328.</ref>
 
 ==Physical characteristics==
-===Surface geology===
-The surface of Tartessos is dominated by expansive plains of solidified [[w:basaltic lava|basaltic lava]], evidence of ancient volcanism that ceased billions of years ago. These plains are punctuated by impact craters of varying sizes, ranging from small bowl-shaped depressions to massive multi-ring basins. The regolith is composed of varying brownish and dark grey rock tones, darkening further near the equator where radiation weathering is most intense.
 
-A defining feature of the Tartessian landscape is the global network of lobate scarps and deep tectonic chasms. These features are thrust faults formed as the planet's massive iron core cooled and contracted, causing the crust to buckle and crack. Additionally, the immense tidal forces exerted by Aurelius during perihelion passages induce periodic surface flexing, keeping these fracture systems geologically active and generating frequent moonquakes.
+===Surface geology===
+The geology of Tartessos is dominated by ancient basaltic volcanic plains (*maria*), heavily cratered highlands, and a planet-wide network of gigantic tectonic thrust faults known as lobate scarps or rupēs.<ref name="OISAS_Tartessos" /> The largest of these thrust faults, such as ''Gadir Rupes'' and ''Argantonio Scarp'', rise up to 3.2 kilometers above the surrounding terrain and meander for over 700 kilometers across the equatorial zone. These monumental scarps formed during the first billion years of the planet's history as its enormous iron core cooled and contracted, shrinking the planet's global circumference by an estimated seven to ten kilometers and causing the brittle silicate crust to buckle into massive overlapping thrust sheets.<ref name="OISAS_Tartessos" />
+
+Impact craters saturate the ancient highlands, ranging from simple bowl craters to multi-ring impact basins. The largest impact structure is the ''Gadir Basin'', measuring 1,420 kilometers in diameter. Its floor is partially flooded by smooth, dark volcanic lavas rich in titanium and magnesium. Because Tartessos lacks atmospheric erosion and active hydrological cycles, ancient impact structures from the late heavy bombardment remain in a state of pristine preservation.<ref name="Balisca_Tartessos" />
 
 ===Internal structure===
-Tartessos has an extremely high density for its size, suggesting that it is composed of 70 percent metallic material and 30 percent silicate material. The core is believed to be enormous, occupying about 85 percent of the planet's radius. One theory for this anomaly is that Tartessos was once a larger planet that suffered a giant impact early in the system's history, which stripped away most of its original crust and mantle, leaving behind the iron-rich core.
+Tartessos possesses an anomalously high mean density of 5.427 g/cm³, rivaling the bulk density of much larger worlds like Adonia and [[Ciguapa]]. Geochemical models indicate that metallic iron and nickel constitute approximately 70 percent of the planet's total mass. The core is estimated to have a radius of roughly 2,080 km, leaving only a thin silicate mantle and crust no more than 360 km thick.<ref name="OISAS_Tartessos" />
+
+Two leading hypotheses explain this structural anomaly. Under the Giant Impact Hypothesis, Tartessos originally formed as a differentiated rocky proto-planet roughly twice its current mass; early in the system's accretion epoch, it suffered a catastrophic grazing collision with another large planetesimal that stripped away the majority of its lighter silicate mantle into interplanetary space, leaving behind an exposed metallic core that re-accreted a thin blanket of debris.<ref name="Aldana_Dynamics" /> Alternatively, the Nebular Vaporization model posits that in the intense radiation environment of the inner protoplanetary disk near 0.2 AU, high temperatures vaporized the volatile and lighter silicate components prior to accretion, selectively leaving behind refractory iron-group elements.<ref name="Aldana_Dynamics" />
+
+===Thermal environment and polar ice===
+With no substantial atmosphere to redistribute heat, surface temperatures on Tartessos swing through the most violent extremes in the system. At substellar noon, surface temperatures climb to 725 K (452 °C), sufficient to melt tin and lead, causing severe thermal expansion cracking in exposed bedrock. Conversely, at nightside midnight, thermal radiation escapes unimpeded into the void, plunging the surface to an icy 90 K (−183 °C).
+
+Despite these searing dayside conditions, orbital radar surveys by the *Shakugan-1* spacecraft confirmed the presence of significant water ice deposits inside permanently shadowed craters at the planet's north and south poles (notably within ''Tarchon Crater'' and ''Melqart Deep''). Because Tartessos has an axial tilt of nearly zero degrees ($0.03^\circ$), the interiors of deep polar craters never receive direct sunlight. In these perpetual thermal refrigerators, temperatures remain permanently below 85 K (−188 °C), preserving volatile water ice and carbonaceous compounds delivered by cometary impacts over billions of years.<ref name="OISAS_Tartessos" />
+
+===Exosphere===
+Tartessos is surrounded by an ultra-tenuous surface-boundary exosphere with a total atmospheric pressure of roughly $10^{-10}$ Pascals. The exosphere is continually replenished by solar wind ion sputtering, micrometeorite vaporization, and photon-stimulated desorption. Spectroscopic measurements reveal an atmospheric composition dominated by atomic sodium, potassium, calcium, magnesium, and helium. Solar radiation pressure pushes neutral sodium atoms away from the star, creating a faint, glowing cometary sodium tail that stretches more than 2.5 million kilometers behind the planet.<ref name="Balisca_Tartessos" />
+
+==Orbit and rotation==
+
+Tartessos completes one revolution around Aurelius every 38.0 standard Adonian days at a mean orbital radius of 0.22 AU. Its orbit is notably eccentric ($e = 0.205$), causing its distance to vary between 0.175 AU at perihelion and 0.265 AU at aphelion.
+
+The planet is trapped in a 3:2 spin–orbit resonance. It completes exactly three sidereal axial rotations (each lasting 57.0 standard days) for every two orbital circuits (76.0 days). Consequently, an observer standing on the surface would experience a full diurnal solar cycle (sunrise to sunrise) lasting 76.0 Adonian days. Near perihelion, the planet's orbital angular velocity temporarily exceeds its rotational velocity; an observer at certain longitudes would see the Sun rise, halt, reverse direction across the sky for several days, and then resume its normal forward course.<ref name="Aldana_Dynamics" />
+
+==Observation and exploration==
+
+Because of its tight separation from Aurelius, Tartessos was cataloged by ancient civilizations only as an elusive "twilight star." In ancient Insulonia, priest-astronomers recorded its apparition as a messenger of the sun-god, while classical Sinopian observers tracked its 76-day synodic cycle using horizon stones.<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref>
+
+The modern exploration of Tartessos began with automated space probes. In 1974, the *Explorer I* spacecraft executed the first high-speed interplanetary flyby of the inner system, transmitting the first close-up photographs of Tartessos's cratered surface and discovering its global scarp network.<ref name="OISAS_Tartessos" /> Between 2008 and 2014, the *Shakugan-1* orbital probe—a joint mission between the [[Okaiken]] Institute for Space and Aeronautical Science (OISAS) and the Baliscan Space Agency—inserted into a high-inclination orbit around Tartessos, completing a comprehensive global topographic and geochemical survey and confirming the existence of polar volatile ice deposits in permanently shadowed crater floors.<ref name="OISAS_Tartessos" />
 
 ==Name and etymology==
-The name Tartessos is derived from a semi-mythical harbor city and civilization mentioned in ancient Insulonian history, famed for its wealth in metals, particularly silver and tin. The name was chosen to reflect the planet's metallic composition and its elusive nature against the glare of the sun. In [[Sanese language|Sanese]] astronomical nomenclature, the planet is known as Shakugansei (灼岩星), translating to the Burnt Rock Star, referencing its scorched and desolate appearance.
+
+The planet is named after Tartessos, a legendary semi-mythical maritime city and civilization celebrated in ancient Insulonian literature for its legendary riches in tin, silver, and refined metals. Early astronomers chose the name to signify the planet's dense metallic nature and its elusive presence nestled in the sun's glare.<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref>
+
+In [[Sanese language|Sanese]], the planet is designated as '''Shakugansei''' ({{nihongo||灼岩星||"burnt rock star"}}), a direct descriptive name commemorating its scorched, cratered basaltic crust.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Terrestrial planets]]
+
+==References==
+{{reflist}}

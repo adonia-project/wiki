@@ -1,57 +1,79 @@
 {{Infobox planet
 | name = Centinela
-| symbol = 
-| image = PL10_Centinela.jpeg
-| caption = The Cobalt Guardian, Centinela, showcasing its sharp ring system
-| discoverer = Kaito Hoshino
-| discovery_site = Mount Zenran Observatory
-| discovered = September 23, 1846 (Adonian Era)
-| pronounce = [[wikipedia:Wikipedia:IPA for English|/sɛntɪˈnɛlə/]]
-| named_after = Centinela (Insulonian Legend/Sentinel)
-| alt_names = The Cobalt Guardian / 守人星 (Morobitosei)
+| symbol = ⛢
+| image               = PL10_Centinela.jpeg
+| caption = High-resolution optical portrait of Centinela captured by the Deep Horizon-2 spacecraft, showing its intense cobalt-blue cloud decks, high-speed methane cirrus storms, and razor-sharp water-ice rings
+| discoverer = Tanigaki Ren and Marcelo Vives
+| discovery_site = Imperial Observatory of Okami / Royal Observatory of Nueva Esperanza
+| discovered = September 23, 1846
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/sɛntɪˈnɛlə/]]
+| named_after = Centinela (Insulonian / The Guardian Sentinel)
+| alt_names = The Cobalt Sentinel / 守人星 (Morobitosei)
 | adjectives = Centinelan
-| mean_radius = 24,550 km
-| surface_area = 7.58×10^9 km2
-| volume = 6.20×10^13 km3
+| mean_radius = 25,180 km (3.95 R_Adonia)
+| surface_area = 7.97×10^9 km2
+| volume = 6.69×10^13 km3
 | mass = 21.20 M_Adonia (1.27×10^26 kg)
-| mean_density = 1.64 g/cm3
-| surface_gravity = 11.15 m/s2
-| escape_velocity = 23.5 km/s
+| mean_density = 1.81 g/cm3
+| surface_gravity = 13.3 m/s2 (1.36 g)
+| escape_velocity = 26.8 km/s
 | sidereal_rotation_period = 16.1 hours
-| orbital_period = 78,000 days
+| orbital_period = 78,200.0 days (210.64 Adonian years)
 | mean_orbit_radius = 35.40 AU
-| eccentricity = 0.011
-| surface_pressure = Unknown (Ice Giant)
-| composition = Water/Ammonia Ice (65%); Hydrogen/Helium (30%); Methane (5%)
+| perihelion = 34.869 AU
+| aphelion = 35.931 AU
+| eccentricity = 0.015
+| inclination = 1.77°
+| axial_tilt = 29.6°
+| surface_pressure = Unknown (Ice giant)
+| composition = Water, ammonia, and methane ices (65%); Hydrogen and helium (32%); Methane gas (3.5%)
 }}
 
-Centinela is the eleventh planet from the star Aurelius, orbiting in the cold, dark reaches of the outer system between the white giant [[Lucero]] and the rocky outlier [[Erebo]]. It is the second of the two ice giants in the Aurelius system. Despite being slightly smaller in radius than Lucero, it is more massive, making it the third-most massive planet in the entire system.
+'''Centinela''' is the eleventh planet from the star [[Aurelius]], orbiting at a mean distance of 35.40 AU in the frozen outer reaches of the planetary realm, between the alabaster ice giant [[Lucero]] and the distant dwarf planet [[Erebo]]. With a mass roughly 21.2 times that of [[Adonia]] ($21.20 M_\text{Adonia}$) and a mean radius of 25,180 km, Centinela is the fourth-largest and third-most massive planet in the [[Aurelius system]]. It is a magnificent, dynamic ice giant world composed of a deep supercritical mantle of water, ammonia, and methane ices wrapped beneath a churning hydrogen-helium envelope.<ref name="IACC_Centinela">Inter-Adonian Celestial Commission (IACC). (2020). *Atmospheric Jet Dynamics and Gravitational Harmonics of the Outer Sentinel Planet Centinela*. Annals of Celestial Mechanics, 49(4), 412–448.</ref>
 
-Centinela is characterized by its deep cobalt blue color, a result of the specific concentration of methane and trace hydrocarbons in its upper atmosphere that absorb red light more efficiently than the atmosphere of Lucero. It is surrounded by a system of incredibly sharp, bright icy rings that are significantly more reflective than the dark carbon rings of [[Amatista]].
+In vivid visual contrast to the tranquil, pearl-white appearance of its inner sibling Lucero, Centinela displays an intense, deep cobalt and electric sapphire-blue coloration, punctuated by brilliant, high-altitude white methane cirrus storm clouds and dark anticyclonic vortices.<ref name="DeepHorizon_Report">Okaiken Institute for Space and Aeronautical Science (OISAS). (2019). *High-Speed Atmospheric Zonal Flows and Ring Spectroscopy of Centinela: The Deep Horizon-2 Encounter*. OISAS Planetary Science Series, 57, 14–62.</ref> This vivid blue coloration is caused by high concentrations of atmospheric methane ($CH_4$, ~3.5%) in its upper troposphere, which strongly absorbs red and infrared photons while scattering deep blue light. Unlike Lucero, Centinela possesses a powerful internal thermal engine, radiating roughly 2.4 times more energy than it receives from Aurelius; this vigorous heat flux drives the highest wind speeds in the solar system, exceeding 1,800 km/h in retrograde equatorial jet streams.<ref name="DeepHorizon_Report" />
 
-As the last major planet before the system's edge, Centinela serves as a gravitational guardian, stabilizing the orbits of outer debris and the planet Erebo. Its name reflects its perceived role as a silent sentinel watching over the void.
-
-==Discovery==
-The existence of a planet beyond [[Lucero]] was mathematically predicted by several Adonian astronomers who noted unexplained perturbations in Lucero's orbit. On September 23, 1846 (Adonian Era), Sanese astronomer Kaito Hoshino (星野 凱斗), using calculations provided by Insulonian mathematicians, identified the planet within one degree of its predicted position.
-
-The discovery was made at the Mount Zenran Observatory during a period of exceptional atmospheric clarity. Hoshino described the planet as a tiny, blue-tinged sapphire drifting against the starfields of the southern celestial hemisphere. This successful prediction and subsequent discovery was hailed as a triumph of celestial mechanics and the Gakuen Principle of orbital harmony.
+Centinela is encircled by a dazzling, razor-sharp ring system composed of 99% pure water ice, possessing an exceptionally high albedo (0.78) that glints brilliantly in the distant starlight. Dynamically, Centinela acts as the ultimate gravitational guardian of the planetary frontier, sculpting the inner edge of the trans-Centinelan Kuiper-type debris disk known as the ''Sentinel Belt''.<ref name="Balisca_Centinela">Baliscan Royal Astronomical Society. (2018). *Resonant Architecture and Kuiper-Belt Truncation by the Ice Giant Centinela*. Journal of Comparative Planetology, 76(1), 88–122.</ref>
 
 ==Physical characteristics==
-===Atmosphere===
-The atmosphere of Centinela is composed primarily of hydrogen and helium, with a significant enrichment of methane and ammonia ices. The deep blue hue is attributed to high-altitude clouds of methane ice that are more densely packed than those found on Lucero.
 
-Unlike the featureless Lucero, Centinela exhibits visible atmospheric activity, including faint dark wind streaks and high-altitude white clouds composed of methane cirrus. These clouds move at extreme speeds, driven by some of the fastest winds recorded in the system, occasionally exceeding 2,000 km/h.
+===Atmosphere and supersonic meteorology===
+Centinela's atmosphere consists of approximately 78% molecular hydrogen, 18.5% helium, and 3.5% methane, with trace quantities of acetylene ($C_2H_2$), diacetylene, and hydrogen sulfide.<ref name="DeepHorizon_Report" /> The effective temperature at the 1-bar tropospheric level is an icy 55 K (−218 °C).
 
-===Ring system===
-Centinela possesses the most visually striking ring system of the four giant planets. The rings are composed of nearly pure water ice, giving them a high albedo. They are notably narrow and sharp-edged. This precision is maintained by two tiny shepherd moons, Talos and Vigil, which orbit on the inner and outer edges of the primary ring structure, using their gravity to prevent the ring particles from drifting away.
+Because of its vigorous internal heat convection, Centinela's atmosphere is in a state of perpetual, violent turbulence. The equatorial atmosphere whips westward in a ferocious retrograde jet stream with velocities reaching up to 500 m/s (1,800 km/h), surpassing the local speed of sound in the frigid hydrogen-helium medium.<ref name="DeepHorizon_Report" /> In the southern hemisphere sits the ''Great Azure Eye'' (Insulonian: ''El Gran Ojo Azul'', Sanese: ''Hekigan'' / 碧眼), a colossal anticyclonic storm oval measuring 13,000 km across—large enough to swallow Adonia—characterized by a central core of dark, methane-depleted gas bordered by bright filamentary plumes of condensed methane-ice cirrus.<ref name="DeepHorizon_Report" /> Energetic convective plumes frequently punch through the lower cloud deck, depositing white methane-ice cirrus at altitudes 50 km above the main deck that cast prominent dark shadows across the cobalt cloud tops below.<ref name="DeepHorizon_Report" />
 
-==Orbit and rotation==
-Centinela orbits Aurelius at an average distance of 35.40 AU, completing one revolution every 78,000 standard days (approximately 213 Adonian years). Because of its immense orbital period, only a fraction of its path has been observed since its formal discovery in 1846.
+===Internal structure===
+Centinela's bulk density of 1.81 g/cm³ reflects a heavy volatile- and rock-dominated interior. At the center lies a rocky-metallic core of iron, nickel, and silicates possessing roughly 3.0 to 3.5 Adonian masses. Surrounding the core is an immense supercritical mantle constituting approximately 65% of the planet's total mass, composed of a supercritical fluid mixture of water, ammonia, and methane under pressures exceeding 400 GPa; under these extreme pressures, water molecules dissociate into mobile hydrogen ions and oxygen lattices, creating a highly conductive ionic water plasma. The outermost shell is an envelope of fluid hydrogen, helium, and methane making up the remaining 15 percent of the mass.<ref name="IACC_Centinela" />
 
-The planet rotates on its axis once every 16.1 hours. Its axial tilt is 28 degrees, giving it seasonal cycles similar in orientation to [[Adonia]] and [[Aztlán]], though the sheer distance from the star means that seasonal temperature variations are minimal in the absolute sense.
+Convection within the electrically conductive ionic water mantle generates a complex, non-dipolar planetary magnetic field. The magnetic axis is tilted at an angle of 47 degrees relative to the rotational axis and offset from the planet's physical center by roughly one-third of its radius.<ref name="DeepHorizon_Report" />
+
+===The Razor Ice Rings===
+Centinela possesses one of the most aesthetically dazzling ring systems in the Aurelius system, known as the ''Razor Rings'' (Insulonian: ''Los Anillos de Hielo''). Spanning between 62,000 km and 88,000 km from the planet's center, the system is dominated by three main concentric rings. Innermost is Ring Alpha, a broad 4,000-km-wide sheet of fine crystalline water ice. In the middle lies Ring Beta, the densest and brightest component, possessing a pristine optical depth and a dazzling albedo of 0.78 formed by boulders of nearly pure water ice. The outermost component is Ring Gamma, a knife-edge band no more than 35 kilometers wide held in razor-sharp structural confinement by two small shepherd moons, *Vigia* and *Custos*.<ref name="Balisca_Centinela" />
+
+==Satellite family==
+
+Centinela is orbited by 27 confirmed natural satellites, dominated by *Talión* (mean radius 1,350 km), an active icy moon with a surface composed of frozen nitrogen, methane, and water ice where deep-space probes observed cryo-volcanic geysers erupting liquid nitrogen and tholin soot 8 kilometers into space.<ref name="DeepHorizon_Report" /> Closer to the rings orbit *Vigia* and *Custos* (radii 38 km and 42 km), small shepherd satellites that herd the particles of Ring Gamma into its razor-sharp profile. In the distant outer margins orbits a swarm of over a dozen small retrograde irregular moonlets captured from the trans-Centinelan debris disk.<ref name="IACC_Centinela" />
+
+==Discovery and mathematical prediction==
+
+Centinela is the first planet in the Aurelius system whose discovery was accomplished through mathematical prediction rather than direct visual observation. Following the discovery of Lucero in 1781, astronomers noted subtle, persistent discrepancies between Lucero's observed orbital path and the ephemeris predicted by gravitational theory. In the early 1840s, Sanese astronomer-mathematician '''Tanigaki Ren''' (谷垣 蓮) at the [[Imperial Astronomical Observatory of Okaiken]] and Baliscan celestial mechanician '''Marcelo Vives''' at the Royal Observatory of Nueva Esperanza independently calculated the mass and coordinates of the unknown trans-Luceran perturber.<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref> On the night of '''September 23, 1846''', using Vives's coordinates, astronomers at Nueva Esperanza directed their 14-inch refractor toward the constellation of the Weaver and identified Centinela within less than one degree of the predicted location.<ref name="Tanigaki_Hist" />
+
+The discovery was hailed globally as one of the greatest triumphs of celestial mechanics and mathematical physics in Adonian history.<ref name="Tanigaki_Hist" />
+
+==Observation and space exploration==
+
+Centinela appears through large Adonian observatories as a small, +7.8 magnitude disc of vivid blue. Its physical exploration has been accomplished via deep-space robotic missions:
+'''Deep Horizon-2 (2018):''' An automated reconnaissance probe launched jointly by Okaiken and Balisca. Deep Horizon-2 executed an ultra-close flyby within 18,500 km of Centinela's cloud tops, discovering the Great Azure Eye, imaging the nitrogen geysers of Talión, and obtaining high-resolution spectra of the Razor Ice Rings.<ref name="DeepHorizon_Report" />
 
 ==Name and etymology==
-The name Centinela is Insulonian for sentinel or guard, referring to its position at the edge of the major planetary system. In Sanese astronomical nomenclature, it is known as Morobitosei (守人星 [Morobitosei]), which translates to the Guardian Star or Protector Star. Both names signify the planet's cultural role as the final outpost of the Aurelius system's main family of planets.
+
+Upon its mathematical confirmation, the Baliscan Royal Academy and the Okaiken Imperial Observatory agreed on the name ''Centinela'' (Insulonian and Baliscan for "sentinel" or "watchman"), symbolizing the planet's position as the lone guardian standing watch at the outer frontier of the major planetary realm.<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref>
+
+In [[Sanese language|Sanese]], the world has been designated since 1846 as '''Morobitosei''' ({{nihongo||守人星||"guardian sentinel star"}}), carrying the identical semantic and astronomical honorific.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Ice giants]]
+
+==References==
+{{reflist}}

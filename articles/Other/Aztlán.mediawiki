@@ -1,56 +1,79 @@
 {{Infobox planet
 | name = Aztlán
-| symbol = 
-| image = Aztlan_chasm_view.jpg
-| caption = Global view of Aztlán showing the Great Scarlet Chasm
+| symbol = ♂
+| image               = Aztlan_chasm_view.jpg
+| caption = Global orbital portrait of Aztlán captured by the Hermes-4 reconnaissance spacecraft, showing the massive Scarlet Chasm rift system across the equator and northern volcanic plateaus
 | discoverer = Unknown (Ancient observation)
 | discovery_site = 
 | discovered = Pre-historic
-| pronounce = [[wikipedia:Wikipedia:IPA for English|/ɑːztˈlɑːn/]]
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/ɑːztˈlɑːn/]]
 | named_after = Aztlán (Insulonian Legend)
 | alt_names = The Scarlet Chasm / 緋峡星 (Hikyōsei)
 | adjectives = Aztlanian
-| mean_radius = 3,389.5 km
+| mean_radius = 3,389.5 km (0.532 R_Adonia)
 | surface_area = 1.44×10^8 km2
 | volume = 1.63×10^11 km3
 | mass = 0.15 M_Adonia (8.97×10^23 kg)
 | mean_density = 3.93 g/cm3
-| surface_gravity = 3.71 m/s2
+| surface_gravity = 3.71 m/s2 (0.378 g)
 | escape_velocity = 5.03 km/s
 | sidereal_rotation_period = 24.6 hours
-| orbital_period = 710.0 days
+| orbital_period = 716.0 days (1.928 Adonian years)
 | mean_orbit_radius = 1.55 AU
-| eccentricity = 0.09
+| perihelion = 1.406 AU
+| aphelion = 1.694 AU
+| eccentricity = 0.093
+| inclination = 1.85°
 | surface_pressure = 0.6 kPa (0.006 atm)
-| composition = Carbon dioxide (95%); Nitrogen (3%); Argon (1.6%)
+| surface_temp = 210 K (−63 °C) mean
+| composition = Carbon dioxide (95.3%); Nitrogen (2.7%); Argon (1.6%); Trace water vapor
 }}
 
-Aztlán is the sixth planet from the star Aurelius, orbiting beyond the habitable world [[Adonia]] and before the frozen frontier of [[Cíbola]]. It is a small, terrestrial planet roughly half the size of Adonia, distinguished by its vibrant rust-red coloration and the colossal tectonic fracture that scars its equator. It serves as the outermost boundary of the Inner System and is a frequent destination for robotic exploration due to its geological similarities to early Adonia.
+'''Aztlán''' is the sixth planet from the star [[Aurelius]], orbiting at a mean distance of 1.55 AU beyond the habitable world [[Adonia]] and interior to the frozen frontier world [[Cíbola]]. It is a small, cold terrestrial desert planet approximately half the physical diameter of Adonia (0.532 $R_\text{Adonia}$) and roughly 15 percent of its mass (0.15 $M_\text{Adonia}$). Seen through telescopes or from orbit, Aztlán presents a vivid, rust-red and ochre disc heavily tinted by pervasive ferric oxide dust ($Fe_2O_3$), punctuated by brilliant white carbon-dioxide polar ice caps and a monumental equatorial fracture system known as the '''Scarlet Chasm''' (Insulonian: ''La Gran Falla Escarlata'', Sanese: ''Hikyō'' / 緋峡).<ref name="Hermes_Report">Okaiken Institute for Space and Aeronautical Science (OISAS). (2016). *Topographic Atlas and Geochemical Mapping of Aztlán: Data Synthesis from the Hermes-4 Orbiter*. OISAS Planetary Science Series, 53, 34–78.</ref>
 
-The planet is cold, arid, and dusty. Its thin atmosphere offers little protection from meteor impacts or radiation, yet it is thick enough to support massive, planet-wide dust storms that can obscure the surface for weeks. Aztlán is geologically dead compared to the active Adonia; its core has cooled significantly, resulting in a weak magnetic field that has allowed the solar wind to strip away much of its ancient atmosphere.
-
-Aztlán is most famous for the Gran Grieta Escarlata (Great Scarlet Chasm), a canyon system so massive it is visible from simple telescopes on Adonia. This feature suggests a violent tectonic past where the planet's crust nearly tore itself apart during the cooling phase.
+Aztlán marks the outermost boundary of the system's inner terrestrial realm. The planet possesses a thin, rarefied carbon dioxide atmosphere with a mean surface pressure of 0.6 kPa (less than 1% of Adonia's sea-level pressure). Despite its current hyper-arid and frigid state (with global mean temperatures averaging 210 K / −63 °C), orbital geomorphology and rover telemetry have confirmed that Aztlán experienced an active hydrologic epoch during its first billion years. Sinuous paleochannels, deltaic sedimentary fans, and phyllosilicate clay deposits indicate that ancient Aztlán once possessed standing lakes and braided rivers before the shutdown of its internal core dynamo allowed the [[Aurelius|Aurelian wind]] to strip away its protective atmosphere.<ref name="Balisca_Aztlan">Baliscan Royal Astronomical Society. (2019). *Paleohydrology and Fluvial Delta Deposits in the Tlaloc Basin of Aztlán*. Journal of Comparative Planetology, 77(2), 142–171.</ref>
 
 ==Physical characteristics==
-===Surface geology===
-The surface of Aztlán is covered in a fine regolith of iron oxide dust, giving it a distinctive salmon-red hue. Underneath this dust lies a thick crust of basaltic rock. The planet is divided into two distinct hemispheres: the smooth, low-lying northern plains, which may be the basin of an ancient ocean, and the rugged, heavily cratered southern highlands.
 
-The dominant feature is the Gran Grieta Escarlata, a tectonic crack system that spans nearly 4,000 kilometers in length and reaches depths of up to 7 kilometers. Unlike river valleys formed by erosion, this chasm was formed by crustal stress. Other geological features include the Olympus Montes, a chain of extinct shield volcanoes that dwarf the largest mountains on [[Adonia]]. While no longer active, their lava flows remain preserved in the vacuum-like conditions.
+===Surface geology and the Scarlet Chasm===
+The geology of Aztlán is divided into two distinct physiographic provinces: the heavily cratered, ancient southern highlands and the younger, low-lying volcanic plains of the northern lowlands. This global crustal dichotomy is theorized to have formed either via a mega-impact in the northern hemisphere during early accretion or through giant degree-one mantle convection upwelling.<ref name="Hermes_Report" />
 
-===Atmosphere===
-Aztlán possesses a very tenuous atmosphere composed mostly of carbon dioxide. The atmospheric pressure is less than 1% of Adonia's, meaning liquid water cannot exist on the surface; it would instantly boil away or freeze. However, evidence of ancient riverbeds and delta fans suggests that the atmosphere was once much thicker and warmer, possibly supported by the greenhouse gases released during the formation of the great volcanoes.
+The most defining geological structure on the planet is the '''Scarlet Chasm''' (''Tlaloc Valles''), a colossal equatorial rift canyon system measuring over 4,200 kilometers in length, up to 600 kilometers in width, and plunging to depths of 8.5 kilometers below the surrounding plateau. Unlike river-carved canyons on Adonia, the Scarlet Chasm is a massive tectonic graben produced by crustal stretching and subsidence when the adjacent volcanic rise of ''Hesperia Mons'' swelled with ascending mantle plumes roughly 3.5 billion years ago.<ref name="Hermes_Report" /> The walls of the chasm expose hundreds of distinct geological strata, displaying alternating layers of dark basaltic lava flows and pale silicate dust deposits. Landslides and massive debris avalanches frequently cascade down the chasm's interior scarps, driven by thermal expansion and wind erosion.<ref name="Balisca_Aztlan" />
 
-The sky of Aztlán appears a butterscotch color during the day due to suspended dust particles. Sunsets are famously blue, a reversal of the visual palette seen on Adonia.
+===Volcanism===
+Aztlán hosts some of the most massive shield volcanoes in the Aurelius system. The largest, ''Mons Quetzalcoatl'', rises 21.2 kilometers above datum, boasting a base diameter of 580 kilometers and a summit caldera complex 65 kilometers across.<ref name="Hermes_Report" /> Because Aztlán lacks active plate tectonics, crustal plates remain stationary over stationary mantle hot spots; magma plumes erupted through the same lithospheric vent for hundreds of millions of years, constructing volcanic edifices that dwarf the highest peaks on Adonia.<ref name="Hermes_Report" />
+
+===Atmosphere and dust storms===
+Aztlán's atmosphere is composed of 95.3% carbon dioxide, 2.7% molecular nitrogen, 1.6% argon, and trace amounts of water vapor, oxygen, and carbon monoxide.<ref name="Hermes_Report" /> Because of the thin air, the surface experiences intense diurnal temperature swings, rising from 140 K (−133 °C) during the winter polar night to a peak of 295 K (22 °C) at summer equatorial noon.
+
+When Aztlán approaches perihelion (1.406 AU), solar insolation increases by roughly 45% compared to aphelion. The intense localized heating of dark basaltic plains creates powerful thermal updrafts and dust devils that lift fine ferric oxide particles into the upper troposphere. These localized storms frequently coalesce into planet-encircling dust storms that blanket the entire globe for months at a time, turning the daytime sky an ominous reddish-salmon color and obscuring all surface features from orbital observation.<ref name="Balisca_Aztlan" />
+
+===Paleoclimate and ancient hydrology===
+High-resolution imaging and gamma-ray spectrometer surveys from orbital probes have mapped extensive dendritic riverbed networks (*paleovalles*) that traverse the southern highlands and empty into ancient northern impact basins.<ref name="Balisca_Aztlan" /> Ground exploration by the automated rover *Caminante de Aztlán* discovered sedimentary cross-bedding, rounded basaltic pebbles, and hematite spherules in the ''Nanahuatzin Plain'', confirming that liquid water once flowed across the surface for millions of years under a primordial, dense greenhouse atmosphere ($1.0–1.5$ bar $CO_2$).<ref name="Hermes_Report" />
+
+Roughly 3.6 billion years ago, Aztlán's small metallic core solidified, extinguishing its geodynamo. Without a protective global magnetic field, the solar wind stripped the upper atmosphere into interplanetary space over hundreds of millions of years, causing surface water to freeze into the cryosphere or escape into space.<ref name="Aldana_Dynamics">Aldana, E., & Thorne, A. (2022). ''Tidal Dissipation and Rotational Dynamics in Eccentric Terrestrial Systems''. Castejón Astrophysical Review, 44(2), 112–138.</ref> Today, vast reservoirs of water ice survive trapped as permafrost in the upper five meters of regolith across mid-to-high latitudes, as well as locked within the permanent polar caps.<ref name="Hermes_Report" />
 
 ==Orbit and rotation==
-Aztlán orbits Aurelius at an average distance of 1.55 AU, completing a revolution every 710 standard days, almost exactly two Adonian years. This 2:1 resonance is coincidental but makes calendar conversions simple for Adonian astronomers.
 
-The planet rotates on its axis once every 24.6 hours, a day length remarkably similar to [[Adonia]]. Its axial tilt is 25 degrees, resulting in seasons similar to those on the homeworld, though they last twice as long. During the southern summer, the sublimation of the carbon dioxide ice caps can trigger global dust storms that raise the atmospheric temperature significantly.
+Aztlán orbits Aurelius at a mean distance of 1.55 AU, completing one orbital revolution every 716.0 standard Adonian days (approximately 1.928 Adonian years). Its orbit has an eccentricity of 0.093 and an inclination of 1.85° to the ecliptic.
+
+The planet rotates once on its axis every 24 hours, 37 minutes, and 22 seconds (24.62 hours), a rotational period strikingly similar to Adonia's 24-hour day. Aztlán's axial tilt is 25.19°, nearly identical to Adonia's 24.3° obliquity. As a consequence, Aztlán experiences four distinct seasons, although each season lasts almost twice as long as an Adonian season due to its 716-day orbital period.<ref name="Aldana_Dynamics" />
+
+==Observation and space exploration==
+
+Because of its distinctive rust-red color and high apparent magnitude (reaching −2.8 at favorable opposition), Aztlán was venerated by ancient civilizations. In ancient Insulonia, the planet was associated with warfare, bloodshed, and the ancestral desert homeland of *Aztlán*.<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref> In Sanese astronomy, the planet was recorded as '''Hikyōsei''' ({{nihongo||緋峡星||"scarlet chasm star"}} or {{nihongo||秘境星||"secret frontier star"}}), revered as a sacred celestial landmark across centuries of celestial lore.<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref>
+
+Modern robotic exploration of Aztlán has been extensive. In 1979, the *Hermes-1* probe conducted the first successful flyby, returning photographs of the Scarlet Chasm.<ref name="Hermes_Report" /> Between 1996 and 2005, the *Hermes-4 Orbiter* provided high-resolution global multispectral maps, digital elevation models, and confirmed extensive subsurface water-ice permafrost.<ref name="Hermes_Report" /> From 2004 to 2011, the *Caminante de Aztlán Rover*—a joint Okaiken-Baliscan mobile laboratory—traversed 34 kilometers across the Nanahuatzin Plain, analyzing sedimentary strata and proving the past presence of liquid surface water.<ref name="Balisca_Aztlan" /> In 2018, the *Akebono-1 Lander* drilled 2.2 meters into the northern plains, returning direct imagery of pure water-ice crystals nestled beneath the red regolith.<ref name="Hermes_Report" />
 
 ==Name and etymology==
-The name Aztlán is derived from Insulonian mythology, referring to the ancestral home of the peoples, often depicted as a land of red earth and lakes. The name was chosen to reflect the planet's reddish appearance and the scientific theory that it may have harbored liquid water billions of years before Adonia.
 
-In Sanese astronomical nomenclature, the planet is known as Hikyōsei (緋峡星), translating to the Scarlet Canyon Star. This name references the Gran Grieta Escarlata, emphasizing the violent geology that defines the world's face.
+The name ''Aztlán'' derives from ancient Meso-Insulonian legend, denoting the semi-mythical ancestral northern cradle of humanity, a land of red sandstone mesas and clear skies. The name was formalized in modern astronomical catalogs by the Baliscan Royal Academy in 1874.<ref name="Navassa_Lex" />
+
+In [[Sanese language|Sanese]], the planet is designated as '''Hikyōsei''' ({{nihongo||緋峡星||"scarlet chasm star"}}), highlighting the immense equatorial rift that bisects its rusty desert terrain.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Terrestrial planets]]
+
+==References==
+{{reflist}}

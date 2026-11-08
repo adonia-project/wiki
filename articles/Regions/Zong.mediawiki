@@ -1,4 +1,4 @@
-{{Under construction}}
+﻿{{Under construction}}
 
 {{Infobox country
 | native_name            = 總國<br/>''Chóngkok''
@@ -9,7 +9,7 @@
 | symbol_type            = Seal
 | national_motto         = 依舊挺立,不變,無敵的<br/>''Unbowed, Untouched, Unconquered''
 | national_anthem        = [[Dream of Peace]]<br/>夢想和平
-| image_map              = Zong location map.png
+| image_map              = Location of Zong.svg
 | map_caption            = Location of Zong in Adonia
 | capital                = [[Huwei]]
 | largest_city           = Huwei
@@ -28,18 +28,18 @@
 | legislature            = [[Parliament of Zong|Parliament]]
 | sovereignty_type       = Constitutional history
 | sovereignty_note       = 
-| established_event1     = [[Weiyue]]
-| established_date1      = 414 BCE
-| established_event2     = [[Jade Empire]]
-| established_date2      = 140 BCE
-| established_event3     = [[Wei Kingdom]]
-| established_date3      = 847
-| established_event4     = [[Zong dynasty|Zong Kingdom]]
-| established_date4      = 1408
-| established_event5     = Constitutional monarchy
-| established_date5      = 1827
-| established_event6     = Current constitution
-| established_date6      = 1913
+| established_event1 = [[Kingdom of Donghai]]
+| established_date1 = 675 BCE
+| established_event2 = [[Unification of Zong]]
+| established_date2 = c. 900
+| established_event3 = [[Jade Empire]] proclaimed
+| established_date3 = c. 1248
+| established_event4 = [[Merchants' Revolution|Constitutional monarchy]]
+| established_date4 = 1643
+| established_event5 = Parliamentary reform
+| established_date5 = 1827
+| established_event6 = Current constitution
+| established_date6 = 1913
 | area_km2               = 1,082,061
 | area_rank              = 
 | percent_water          = 2.6
@@ -48,10 +48,10 @@
 | population_estimate    = 393,420,634
 | population_estimate_year = 2021
 | population_density_km2 = 363.58
-| GDP_PPP                = ₭12.258 trillion
+| GDP_PPP                = I$12.258 trillion
 | GDP_PPP_year           = 2016
-| GDP_PPP_per_capita     = ₭32,167.68
-| GDP_nominal            = ₭7.558 trillion
+| GDP_PPP_per_capita     = I$32,167.68
+| GDP_nominal            = I$7.558 trillion
 | GDP_nominal_year       = 2016
 | GDP_nominal_per_capita = 
 | Gini                   = 
@@ -73,12 +73,12 @@
 [[File:Zong_Capital_Cityscape.jpg|thumb|right|The modern skyline of Huwei, showcasing the economic miracle of the post-war era alongside ancient architectural elements.]]
 
 ==History==
-{{main|Unification of Zong|Jade Sea War|An-Ming Understanding|Great Adonian War}}
+{{main|Unification of Zong|Jade Sea War|Great Adonian War}}
 
 The history of Zong spans over two millennia, evolving from a collection of river valley settlements into one of Adonia's most influential nations. From its foundational role as the progenitor of East Fosian civilization to its modern status as an industrial and maritime hegemon, Zong has profoundly shaped the geopolitical and cultural landscape of the Shendan Ocean basin.
 
 ===Etymology===
-The name of the state derives from the ancient character for "gather" or "total," historically utilized by early tribes in the [[Jade Peninsula]] to describe the unification of diverse river valley settlements. During the classical era, the term became associated with the centralized authority of the imperial courts. In regional languages such as Shansi Cantonese, the name is pronounced as ''Zung'', while in the widespread Hokkien dialects it is pronounced as ''Chóng''.
+The name of the state derives from the ancient character for "gather" or "total," historically utilized by early tribes in the [[Jade Peninsula]] to describe the unification of diverse river valley settlements. During the classical era, the term became associated with the centralized authority of the imperial courts. In regional languages such as Sansi Cantonese, the name is pronounced as ''Zung'', while in the widespread Hokkien dialects it is pronounced as ''Chóng''.
 
 ===Prehistory and Early Civilizations===
 Human habitation in the region dates to the [[w:Paleolithic|Paleolithic]] era, with archaeological evidence suggesting early hominid settlements along the fertile basins of the Jade River and the Pearl River. The earliest agrarian societies emerged around 5000 BCE, cultivating rice and millet. These settlements eventually coalesced into advanced regional cultures, most notably the [[Nakashima Culture]] in the south and the early animist tribes of the north.
@@ -92,88 +92,113 @@ The [[Kingdom of Donghai]] (675 BCE – 285 CE) emerged as the dominant power al
 
 However, Donghai's prosperity attracted hostile attention. Beginning in the 1st century CE, the [[Haizei]]—a confederation of maritime raiders originating from the islands of [[Yanbaru]] and Hapo—launched devastating raids along Donghai's northern coastal defenses. These raids, characterized by lightning-fast amphibious assaults and the use of highly maneuverable outrigger warships, progressively weakened Donghai's maritime infrastructure and disrupted its trade networks.
 
-The death knell for Donghai came in 285 CE, when a coordinated Zhongyan invasion from the west coincided with a massive Haizei assault on the coast. The dual offensive overwhelmed Donghai's defenses, and the kingdom collapsed after nearly a millennium of existence. The Haizei raids would continue for another century, fundamentally altering the balance of power in the region and compelling coastal communities to develop new defensive strategies.
+The death knell for Donghai came in 285 CE, when a coordinated Zhongyuan invasion from the west coincided with a massive Haizei assault on the coast. [[Queen Zhao]] was killed in the defense of Haicheng, and the kingdom collapsed after nearly a millennium of existence. The Haizei raids would continue for another century, fundamentally altering the balance of power in the region and compelling coastal communities to develop new defensive strategies.
+
+===The Eternal Wars of Zong===
+{{main|Eternal Wars of Zong}}
+
+The period from approximately 150 BCE to 350 CE was characterized by near-constant internal conflict known as the Eternal Wars of Zong. This era of fragmentation saw the rise and fall of numerous regional dynasties and warlord states, preventing the emergence of a unified continental power.
+
+The wars were driven by competition for control of the fertile river valleys and trade routes. Various kingdoms and tribal confederations vied for dominance, with alliances shifting rapidly and borders constantly redrawn. For a generation after Donghai's fall, the peninsula was reunified under [[Great Zhongyuan]], but the death of King Yuanxiong in 300 CE triggered the [[War of the Four Sons]], which shattered the imperial order into the successor kingdoms of [[Haizhou]], [[Nanyang]], [[Jiaozhi]], and [[Zhongyuan]]. The chaos of this period had profound cultural consequences, including the dispersal of Zong intellectual traditions and administrative practices throughout the Shendan basin as refugees and scholars fled the fighting.
 
 ===The Mabatok Period and Dagit Influence===
 {{main|Mabatok|Kingdom of Kabisayaan}}
 
-From approximately 400 CE, the northeastern coastal archipelago of Mabatok fell under the dominion of the [[Kingdom of Kabisayaan]] (later known as [[Dagit]]). This foreign occupation, led by maritime sea-lords practicing the [[Anitism|Anitist]] faith, represented the only sustained period of non-Zhongyan rule over territory that would become part of modern Zong.
+From approximately 400 CE, the northeastern coastal archipelago of Mabatok fell under the dominion of the [[Kingdom of Kabisayaan]] (later known as [[Dagit]]). This foreign occupation, led by maritime sea-lords practicing the [[Anitism|Anitist]] faith, represented the only sustained period of non-Zhongyuan rule over territory that would become part of modern Zong.
 
 Under Dagit administration, Mabatok developed as a hybrid cultural zone where the indigenous Zhongyuan majority lived under a small Dagiti aristocratic minority. The occupation introduced advanced naval technologies and maritime trade practices that would later prove essential to Zong's own naval development. The province was administered through the Kaharian system—a decentralized network of personal loyalties and naval supremacy rather than bureaucratic land-based governance.
 
-Mabatok remained under Dagit control until the resurgence of Zong military power during the unification period. The last Dagit stronghold at Pulohan fell in 1123 CE, marking the complete integration of the archipelago into the expanding Zong state.
-
-===The Eternal Zongic Wars===
-{{main|Eternal Zongic Wars}}
-
-The period from approximately 150 BCE to 350 CE was characterized by near-constant internal conflict known as the Eternal Zongic Wars. This era of fragmentation saw the rise and fall of numerous regional dynasties and warlord states, preventing the emergence of a unified continental power.
-
-The wars were driven by competition for control of the fertile river valleys and trade routes. Various kingdoms and tribal confederations vied for dominance, with alliances shifting rapidly and borders constantly redrawn. The chaos of this period had profound cultural consequences, including the dispersal of Zong intellectual traditions and administrative practices throughout the Shendan basin as refugees and scholars fled the fighting.
+The last Dagit stronghold at Pulohan fell in 1123 CE, and the fragmented successor lordships that emerged after the collapse of Dagit rule were folded into the realm during the unification campaigns of the 13th century, marking the complete integration of the archipelago into the expanding Zong state.
 
 ===Unification and the Jade Empire===
 {{main|Unification of Zong|Jade Empire}}
 
-The unification of Zong was achieved through three successive dynastic phases that collectively spanned nearly 350 years. The process began with the [[House of Jian]] (c. 900–992 CE), which first consolidated control over the central river valleys and established the administrative framework that would underpin the unified state.
+The unification of Zong was achieved through two successive dynastic phases that collectively spanned nearly 350 years. The process began with the [[House of Jian]] (c. 900–992 CE), under which the inland kingdom of [[Zhongyuan]] became the principal military power of the [[Jade Peninsula]]. King Jianwen (r. c. 900–948) built the first permanent royal army and opened the coastward campaigns with the First Zong-Haizhou Campaign, taking the provinces of Linhai and Beiyuan. His successor King Jianwu (r. c. 948–992) completed the subordination of the inland rivals and established the practice of annual campaign seasons, making unification a permanent feature of state policy.
 
-The [[House of Long]] (c. 992–1128 CE) expanded Zong territory northward, incorporating the former Kingdom of Donghai's lands and initiating the conquest of Mabatok. This period saw the adoption of the Societal Assembly—a governing institution borrowed from the southern realm of Nanyang that provided a mechanism for integrating conquered territories and legitimizing Zong rule.
+The [[House of Yuanlong]], formed in 992 through the marriage of King Longhai (r. c. 992–1066) to [[Princess Yulan of Nanyang]], united the Zhongyuan and Nanyang courts and carried the unification from the interior to the coast. Under Longhai and his successors King Longshan (r. c. 1066–1128) and King Tianrui (r. c. 1128–1210), the royal navy was strengthened, the harbour cities were tied closely to the court, and the frontier kingdoms—including the sacred Tianist seat of [[Beilong]]—were pressed into submission. The dynasty also adopted the [[Societal Assembly]] from Nanyang, a governing institution that provided a mechanism for integrating conquered territories and legitimizing Zong rule.
 
-The final phase under the [[House of Tian]] (c. 1128–1250 CE) completed the unification process. Under the leadership of King Tianwu and his successors, Zong forces conquered the remaining independent territories, including the last Dagit holdouts in Mabatok. In 1248, the victorious monarch proclaimed the establishment of the [[Jade Empire]], uniting all Zhongyuan territories under a single imperial administration for the first time in history.
+The final phase under [[Tianwu of Zong|King Tianwu]] (r. c. 1210–1250) completed the unification. The Beilong campaign brought the seat of the Tianist religion under imperial protection, while [[Marshal Lanqiu]]'s southern campaign in the Zong-Jiaozhi War broke the last remaining centres of resistance and reconquered the southern Haizhou districts that Jiaozhi had absorbed. The reconquest of [[Mabatok]] folded the last independent polities of the northeast into the realm. In 1248, Tianwu proclaimed the establishment of the [[Jade Empire]], uniting all Zhongyuan territories under a single imperial administration for the first time in history.
 
 ===Golden Age of Zong===
 {{main|Golden Age of Zong|Great Zhongyuan}}
 
-The century following unification (c. 1230–1300) is remembered as the Golden Age of Zong. With internal conflicts resolved and borders secure, the empire experienced unprecedented prosperity. Agricultural production expanded through the implementation of sophisticated irrigation systems, while trade flourished along both terrestrial and maritime routes.
+The century following unification (c. 1230–1300) is remembered as the Golden Age of Zong. With internal conflicts resolved and borders secure, the empire experienced unprecedented prosperity under Tianwu and his successor Tianhe (r. 1273–1302). Agricultural production expanded through the implementation of sophisticated irrigation systems, while trade flourished along both terrestrial and maritime routes.
 
 The capital at Huwei grew into one of the largest cities in the world, attracting scholars, artisans, and merchants from across Adonia. The imperial court patronized the arts and sciences, leading to advances in astronomy, medicine, and engineering. The Great Zhongyuan—the network of roads, canals, and administrative centers that connected the empire—was completed during this period, facilitating the movement of goods, troops, and information throughout the realm.
 
-The era also saw the codification of Zong legal traditions and the standardization of the Zong script, which had by then spread throughout the Shendan basin as the lingua franca of commerce and administration. The philosophical traditions that emerged during this period—emphasizing social harmony, bureaucratic meritocracy, and the divine mandate of the emperor—would influence governance throughout Eastern Fosia for centuries.
+The era also saw the codification of Zong legal traditions and the standardization of the Zong script, which had by then spread throughout the Shendan basin as the lingua franca of commerce and administration. The philosophical traditions that emerged during this period—emphasizing social harmony, bureaucratic meritocracy, and the divine mandate of the emperor—would influence governance throughout Eastern Fosia for centuries. The court pursued marriage diplomacy with the [[The Jyunhap|Jyunhap]] federation and the [[Three Louyan States]], culminating in a personal union with [[Bingdu]]—a bond that would draw Zong into its greatest war.
 
 ===The Jade Sea War and the Triple Kingdoms Alliance===
 {{main|Jade Sea War|Triple Kingdoms Alliance}}
 
-The 14th century brought the greatest existential threat to Zong since the Eternal Zongic Wars. The [[Kingdom of Daras]], a rising power to the west, launched a devastating land-based blockade as part of the [[Jade Sea War]] (1300–1390). Darasian forces severed Zong's overland trade routes to western Fosia and the Mesogean world, strangulating the continental economy and threatening imperial collapse.
+The 14th century brought the greatest existential threat to Zong since the Eternal Wars of Zong. Around 1300, the [[Chengzhi Dynasty]] of the [[Kingdom of Daras]]—a rising continental power to the west—invaded [[Bingdu]], the southwesternmost of the [[Three Louyan States]], which was bound to Zong by personal union. Zong was treaty-bound to defend its dependency, and the resulting [[Jade Sea War]] (c. 1300–1390) raged across the [[Jade Sea]] for ninety years.
 
-In response, Zong forged the Triple Kingdoms Alliance with the [[Kingdom of Fenia]] and the [[Kingdom of Shanjian]]. This coalition represented the first major Fosian defensive pact and demonstrated an unprecedented level of coordination among Eastern Fosian states. The alliance dramatically redirected resources toward maritime defense, constructing a massive naval infrastructure that could circumvent the Darasian land blockade.
+Zong fought the war at the head of a coalition remembered in Zong historiography as the Triple Kingdoms Alliance with the [[Kingdom of Sansi]] and the [[Kingdom of Shanjian|Shanjian]]. The coalition represented the first major Fosian defensive pact: Sansi, as the leading state of the [[The Jyunhap|Jyunhap]], subsidised the war effort and opened the federation's ports to the Zong fleet, while the Three Louyan States contributed militia and supply routes to the defence of the southwestern frontier. The alliance dramatically redirected Zong resources toward maritime defense, constructing a massive naval infrastructure that would define its strategic doctrine for the next five centuries.
 
-The war culminated in the Heping Settlement of 1390, which formally ended the conflict and secured a long-term peace. The Triple Kingdoms emerged victorious, and Zong's transition from a terrestrial to a maritime power was complete. The experience of the Jade Sea War would fundamentally reshape Zong strategic doctrine for the next five centuries.
+The turning point came in the 1340s, when Admiral [[Tan Beng-huat]] seized the islands of [[Bihong]] and [[Hape]], severing the Darasian fleet's access to the northeastern Jade Sea. The war concluded with the Heping Settlement of c. 1390, in which Daras withdrew all territorial claims to Bingdu and the eastern seaboard and the continental border was fixed along the interior mountain ranges. The military victory, however, came at a strategic cost: denied conquest, the Chengzhi dynasty and its successors imposed a permanent trade blockade that excluded Zong and the eastern states from the overland and maritime routes to [[Illypnia]] and the [[Mesogean Sea|Mesogean]] world. Strangled out of the continental economy, Zong turned east.
 
 [[File:Triple_Kingdoms_Fleet.png|thumb|left|A historical reconstruction of the Triple Kingdoms Alliance naval fleet preparing for engagement during the Jade Sea War.]]
 
-===Shendan Expansion and New World Colonization===
-{{main|Tamsui|Sinchew|Secret Trade}}
+===The Shendan Pivot and New World Colonization===
+{{main|History of Zong (1390-1538)|Tamsui|Sinchew}}
 
-With western land routes blocked by the legacy of the Jade Sea War, Zong turned its attention eastward across the Shendan Ocean. The [[Shendan Expansion]] of the 15th and 16th centuries saw Zong pioneer the discovery and colonization of the [[New World]]—the continents of [[Lurandia]] and [[Abyala]].
+The Darasian blockade outlasted the war and struck at the foundation of Zong's prosperity. The post-war decades brought economic collapse, the [[Jade Sea Plague]] of the early 1400s—which killed an estimated tenth of the population—and a prolonged Great Famine in the agrarian interior. Within the [[Societal Assembly]], four decades of factional struggle ensued between the Continental Faction, which sought a negotiated restoration of the Darasian trade, and the Maritime Faction, which demanded a strategic pivot toward the [[Shendan Ocean]].
 
-The colony of [[Tamsui]], established on the western coast of Lurandia, became Zong's primary colonial hub. It served as a critical nexus for the Fosian diaspora, integrating displaced merchants, artisans, and the samurai refugees fleeing the Sengoku period in the Sanese archipelago. A second major colony, [[Sinchew]], was established to support plantation agriculture.
+Emperor [[Tianyang of Zong|Tianyang]] (r. c. 1430–1478) broke the paralysis. His eastern reforms abandoned the diplomatic effort to lift the blockade, restructured taxation toward maritime commerce, and authorised a sustained programme of state-directed oceanic exploration. From the early 1430s, Zong fleets crossed the Shendan Ocean and charted the western coast of the [[New World]]—the continents of [[Lurandia]] and [[Abyala]]—establishing seasonal trading contacts with the indigenous peoples of the coast.
 
-The colonial era also introduced a dark chapter in Zong history. To fuel Sinchew's plantation economy, the merchant [[Ong Sam]] initiated the illicit [[Secret Trade]] in the 1580s. This system utilized pirates and mercenaries from [[Yanbaru]] and [[Okaiken|Mitoyagi]] to kidnap peoples from [[Dagit]] and the [[Balausia Peninsula]], transporting them to Lurandia as enslaved labor. Because the Zong Edict of 1500 had officially banned slavery on the mainland, the trade operated in a legal gray area overseas. The demographic legacy of this trade remains a sensitive historiographical subject.
+Colonisation followed. [[Xinhai]] (1456), the first permanent settlement, failed against organised indigenous resistance and was reduced to a fortified trading post. [[Anping]] (1474), on the northwestern coast of Lurandia, prospered and became the seat of the [[Louyang]] colony. [[Tamsui]] (1538), founded northwest of Anping as a penal settlement and plantation, grew into a turbulent frontier city where fortunes were made or lives were lost. When Tamsui's officials refused the authority of the colonial government at Anping in the [[Tamsui Plot]] of 1543, the court divided the territory along the [[Qingjiang]] river: the northwest became the [[Sinchew]] colony, the southeast remained Louyang, each with its own governor answering directly to Huwei. Louyang remained the wealthier and more established of the two, while Sinchew developed as a harsher, more militarised frontier society.
+
+The colonies also became a critical nexus for the Fosian diaspora, integrating displaced merchants and artisans alongside the [[Sengoku Period|Sengoku Export]]—thousands of disenfranchised Sanese warriors, the rōnin of the archipelago's civil wars, who from the mid-16th century crossed the Shendan to serve as garrison troops, expeditionary forces, and security details in the colonies, particularly in Sinchew.
+
+===Surplus Crisis and the Baiduist Usurpation===
+{{main|History of Zong (1538-1606)}}
+
+The flood of colonial goods into the Zong market produced a surplus crisis from the 1560s to the 1580s that devastated domestic producers and destabilised the agrarian economy. The crisis, compounded by the oppression of the growing [[Baiduism|Baiduist]] communities of the eastern coast, erupted into the [[Great Peasant Revolt (Zong)|Great Peasant Revolt]] of 1572–1585, during which firearms spread through the countryside and imperial authority over the interior effectively collapsed.
+
+In c. 1585, the Baiduist usurper [[Foyuan of Zong|Foyuan]] of the [[House of Canglan]] seized the throne and scrapped the Tianist religious order. His four-year reign provoked immediate elite resistance and ended with the [[Yuanlong Restoration]] of 1587–1589, which overthrew and executed him. The restored emperor, [[Tianren of Zong|Tianren]] (r. 1589–c. 1605), pursued a policy of Baiduist integration, making concessions that formally expanded the Societal Assembly's legislative authority, but he was assassinated in the [[Canglan Rebellion]] of c. 1605. His brother [[Tianxiao of Zong|Tianxiao]] (r. c. 1605–1643), convinced that coexistence was impossible, issued the [[Baiduist Expulsion from Zong|Baiduist Expulsion]] of 1606, driving over a million Zong Baiduists overseas—most of them to Sinchew, which the expulsion transformed from a penal settlement into a major population centre.
+
+===The Secret Trade===
+{{main|The Secret Trade}}
+
+The colonial era also introduced a dark chapter in Zong history. To fuel Sinchew's plantation economy, the merchant [[Ong Sam]] (1545–1620)—who had observed the plantation system at the Burawi colony of [[Lacashe]] in 1572—initiated the illicit [[The Secret Trade|Secret Trade]] from the 1570s, expanding it significantly during Foyuan's reign. The system utilized pirates and mercenaries from the [[Sanese archipelago]] to kidnap peoples from [[Dagit]] and the [[Balausia Peninsula]], transporting them to Sinchew as enslaved labor. Because the Zong Edict of 1500 had officially banned slavery on the mainland, the trade operated in a legal gray area overseas.
+
+The trade was finally suppressed in 1680, when diplomatic pressure from the [[Sultanate of Maros]]—whose peripheral territories had been targeted by the raiders for decades—compelled the Zong court to deploy its navy against the slave raiders. Smaller-scale raids continued in secret until the 1750s, by which time the enslaved population of Sinchew had become largely self-reproducing. The demographic legacy of this trade remains a sensitive historiographical subject.
 
 ===The An-Ming Understanding and Colonial Partition===
 {{main|An-Ming Understanding}}
 
-As Illypnian powers expanded into the Shendan Ocean following the [[Great Disappointment]] of 1564, Zong faced new competition for colonial territory. The [[Sultanate of Maros]], a fellow Fosian power, also maintained extensive holdings in the New World, creating potential for conflict over overlapping claims.
+As Illypnian powers expanded into the New World following the [[Great Disappointment]] of 1564—when the [[Volisanians|Volisanian]] expedition of [[Berenguer de Montcada]] discovered the Fosian colonies—Zong faced new competition for colonial territory. The [[Sultanate of Maros]], a fellow Fosian power, also maintained extensive holdings in the New World, creating potential for conflict over overlapping claims.
 
-To prevent colonial warfare and manage relations with Western powers, Zong diplomat [[Lim Ming]] and envoy [[Chen An]] negotiated the [[An-Ming Understanding]] with Marosan representatives between 1605 and 1606. Signed in the port city of Haihia, these conventions formally partitioned Lurandia and Abyala into respective Zong and Marosan spheres of influence. The agreement established a legal framework that proved Eastern Fosian states could compete with Western colonial empires on equal footing.
+To prevent colonial warfare and manage relations with Western powers, Zong diplomats [[Lim Ming]] and [[Chen An]] negotiated the [[An-Ming Understanding]] with Marosan representatives between 1605 and 1606. Signed in the port city of Haihia, the Understanding's three conventions formally partitioned the New World: [[Lurandia]] was assigned to the Zong sphere, [[Abyala]] to the Marosan sphere, and the [[Liaojie isthmus]] was designated a neutral zone. The agreement directly conflicted with the [[Abyala Charter]] of 1537 between [[Burawa]] and [[Volisania]], establishing a competing legal framework that proved Eastern Fosian states could compete with Western colonial empires on equal footing.
 
 [[File:Haihia_Treaty_Signing.jpg|thumb|right|An illustration of diplomats Lim Ming and Chen An finalizing the terms of the An-Ming Understanding in 1605.]]
+
+===Expulsion, Revolution, and the Constitutional Monarchy===
+{{main|History of Zong (1606-1711)|Baiduist Expulsion from Zong|Merchants' Revolution}}
+
+The expulsion did not end the Baiduist question. The [[Baidu People's Rebellion]] (1606–1623) convulsed the kingdom, while the Baiduist diaspora transformed Sinchew into a self-conscious colonial society. Zong fought the [[Lau Kingdom War]] (c. 1612–1615) against the breakaway state of [[Shansi]], which had supported the Canglan Rebellion, and repelled the [[Kawaei invasion of Zong|Kawaei invasion]] (1620–1624), in which Sanese forces under the [[Kawaei Clan]] attacked through Shansi.
+
+The decisive transformation came with the [[Merchants' Revolution]] of 1643—a bloodless transition engineered by a coalition of merchant houses, colonial representatives, and sympathetic aristocrats within the [[House of Yuanlong]]. Convening without imperial summons, the Societal Assembly bypassed Tianxiao's designated Tianist heir and recognised a commercial-minded cousin as [[Tianrong of Zong|Emperor Tianrong]] (r. 1643–1681). The new emperor, who owed his throne to the merchant coalition, accepted the creation of the [[General Assembly]] and the formal participation of non-royal representatives in the legislature, completing Zong's transition from an autocratic monarchy to a constitutional one.
+
+The new order survived the [[Restoration Attempt]] of 1653 and fought the [[Sinchew War]] (1648–1656) against the Baiduist colony to a negotiated settlement that left the crown's sovereignty intact while granting the settlers a degree of self-governance. Zong also weathered the [[Second Lurandian Native Wars]] (1650s–1670s), in which indigenous peoples armed with firearms renewed their resistance to colonial expansion. Under Tianrong the Secret Trade was suppressed in 1680; under his son [[Tianzheng of Zong|Tianzheng]] (r. 1681–1711) the constitutional framework consolidated on the mainland, even as tensions in the colonial sphere mounted toward war.
 
 ===The First War of the Isthmus===
 {{main|First War of the Isthmus}}
 
-The early 18th century saw Zong drawn into the [[First War of the Isthmus]] (1711–1716), a conflict sparked by Darasian expansionism and competition for control of strategic overland trade routes. The war represented the first major continental conflict since the Jade Sea War and tested the resilience of the Zong military establishment.
+The early 18th century drew Zong into the [[First War of the Isthmus]] (1711–1716), the first major military conflict between Fosian and Illypnian colonial powers in the New World. Its causes lay in two grievances: Volisanian interference on the rebel side during the Sinchew War, and the progressive closure of [[Sant Cristòfor]]—the principal port of the [[Isthmus of Balboa]] and the key transit point of the trans-isthmian trade—to Zong merchant traffic, a direct threat to the commercial interests the General Assembly had been created to protect.
 
-Under the leadership of [[Marshal Lanqiu]], Zong forces successfully defended the western frontier and secured a favorable peace settlement. The conflict reinforced the importance of maintaining strong terrestrial defenses even as Zong continued to emphasize maritime power.
+In 1711, Emperor Tianzheng authorised an expedition to seize Sant Cristòfor. Zong and its [[Sinchew]] and [[Louyang]] colonies faced [[United Kingdoms of Volisania|Volisania]], its viceroyalties of [[Viceroyalty of Balboa|Balboa]], [[Viceroyalty of New Volisania|New Volisania]] and [[Viceroyalty of Tapuya|Tapuya]], and its ally [[Burawa]], while [[Breisland]] and [[Merica]] backed Zong against their Illypnian rival. Zong forces captured Sant Cristòfor in October 1711, but the redeployment of the Volisanian navy around Abyala reversed the naval balance and isolated the Zong expeditionary force within the captured port. The war ended with the [[Treaty of Sant Cristòfor]] (12 January 1716): Zong withdrew from the port but received the docking and passage rights that had been the original cause of the conflict, Sant Cristòfor was designated a free port, and the breakaway territory of [[Free Sinchew]]—conquered during the war—was reunified with the Sinchew colony. The compromise was read across Adonia as a Volisanian diplomatic humiliation and confirmed Zong's standing as a global colonial power.
 
 ===Internal Reform===
 
-The era saw the gradual introduction of Western technological and administrative innovations, particularly in military organization and industrial development. However, conservative factions resisted rapid modernization, creating tensions that would culminate in the constitutional crisis of the early 19th century.
+The 18th century saw the gradual introduction of Western technological and administrative innovations, particularly in military organization and industrial development. The General Assembly's commercial representatives steered the colonial administration toward legitimacy and sustainability, but conservative factions resisted rapid modernization, creating tensions that would culminate in the constitutional crisis of the early 19th century.
 
 ===Constitutional Transition and the 19th Century===
 {{main|Constitutional monarchy of Zong}}
 
 The 19th century brought an end to Zong's relative isolation as Western Iron Envoys—Illypnian naval expeditions—challenged the Fosian order. These powers imposed unequal treaties that stripped away tariff autonomy and forced Zong to modernize its diplomatic and military apparatus.
 
-Rather than suffering the complete collapse experienced by some Fosian states, progressive factions within the Zong establishment initiated a controlled transition to constitutional monarchy in 1827. This transformation preserved the imperial institution while establishing a parliamentary system capable of responding to the challenges of the modern era. The constitutional settlement created a framework for political participation and institutional reform that would govern Zong into the 20th century.
+Rather than suffering the complete collapse experienced by some Fosian states, progressive factions within the Zong establishment carried through a controlled modernization of the constitutional framework in 1827, reconstituting the General Assembly as a modern parliament. The settlement preserved the imperial institution within the constitutional monarchy first established by the Merchants' Revolution of 1643, while creating a framework for political participation and institutional reform that would govern Zong into the 20th century.
 
 ===Darasian Interventions===
 {{main|Darasian Civil War|Darasian Socialist Revolution}}
@@ -272,7 +297,7 @@ Zong boasts one of the largest economies in Adonia, driven by a highly advanced 
 The state is a global vanguard in technological research and development. Zong tech conglomerates lead the market in telecommunications, artificial intelligence, and renewable energy technologies. The government heavily subsidizes STEM education and maintains vast research corridors in the southern metropolitan areas. The port cities of Huwei and Gwong-nam rank among the busiest container ports in the world, serving as primary conduits for trans-oceanic freight.
 
 ==Demographics==
-With an estimated population of 393 million, Zong is a highly urbanized society. The vast majority of the population identifies ethnically as Zong. The society is linguistically diverse; while Standard Zong serves as the official language of government and education, regional languages are deeply entrenched and actively preserved. The southern coastal regions are dominated by Shansi Cantonese and Hokkien dialects. Major southern cities like Gwong-zau, Heung-gong, and San-wui possess distinct cultural and linguistic identities that heavily influence the nation's popular culture and entertainment industries.
+With an estimated population of 393 million, Zong is a highly urbanized society. The vast majority of the population identifies ethnically as Zong. The society is linguistically diverse; while Standard Zong serves as the official language of government and education, regional languages are deeply entrenched and actively preserved. The southern coastal regions are dominated by Sansi Cantonese and Hokkien dialects. Major southern cities like Gwong-zau, Heung-gong, and San-wui possess distinct cultural and linguistic identities that heavily influence the nation's popular culture and entertainment industries.
 
 A cultural audit of the modern state reveals a profound ethnic reach across the Shendan basin. A significant Zong diaspora exists globally, particularly the [[Jade Baliscans]] in the Confederation of [[Balisca]]. Within the immediate region, Zong populations constitute a major minority in neighboring states, notably comprising eleven percent of the population in the [[Republic of Pangkajene]], alongside maintaining substantial, historically deeply rooted communities in Okaiken, Yanbaru, and the former colonial territories of Lurandia.
 
@@ -292,5 +317,7 @@ The Zong high-speed rail network is the backbone of domestic travel, moving mill
 Tourism is a major economic pillar, drawing millions of international visitors annually to explore the ancient imperial palaces, the breathtaking karst mountain landscapes of the interior, and the neon-lit futuristic skylines of the coastal cities. 
 
 ==See also==
+{{EFS Member States}}
+
 [[Category:Zong]]
 [[Category:Adonia]]

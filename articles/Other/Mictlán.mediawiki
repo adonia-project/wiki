@@ -1,56 +1,82 @@
 {{Infobox planet
 | name = Mictlán
-| symbol = 
-| image = Mictlan.png
-| caption = Mictlán viewed from orbit
+| symbol = ♇
+| image               = Mictlan.png
+| caption = True-color global portrait of Mictlán captured by the Yomi-3 orbiter, showing the incandescent substellar magma ocean ("The Cauldron") and the razor-sharp terminator line
 | discoverer = Unknown (Ancient observation)
 | discovery_site = 
 | discovered = Pre-historic
-| pronounce = [[wikipedia:Wikipedia:IPA for English|/mɪk'tlɑːn/]]
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/mɪk'tlɑːn/]]
 | named_after = Mictlán (Insulonian Legend)
 | alt_names = The Furnace World / 黄泉星 (Yomisei)
 | adjectives = Mictlanian
-| mean_radius = 6,051.8 km
+| mean_radius = 6,051.8 km (0.951 R_Adonia)
 | surface_area = 4.60×10^8 km2
 | volume = 9.28×10^11 km3
 | mass = 0.95 M_Adonia (5.68×10^24 kg)
 | mean_density = 5.24 g/cm3
-| surface_gravity = 8.87 m/s2
+| surface_gravity = 8.87 m/s2 (0.904 g)
 | escape_velocity = 10.3 km/s
-| sidereal_rotation_period = 178.0 days (Synchronous)
-| orbital_period = 178.0 days
+| sidereal_rotation_period = 181.0 days (Synchronous)
+| orbital_period = 181.0 days
 | mean_orbit_radius = 0.62 AU
-| eccentricity = 0.09
+| eccentricity = 0.090
+| inclination = 5.12°
 | surface_pressure = 150 kPa (1.5 atm)
-| composition = Silicate crust; Iron-Nickel core
+| composition = Silicate-vapor and nitrogen atmosphere; Iron-nickel core
 }}
 
-Mictlán is the third planet from the star Aurelius, orbiting between the super-greenhouse world [[Ciguapa]] and the hot gas giant [[Quetzal]]. Roughly the same size and mass as [[Adonia]], it is a world of extreme duality defined by its tidal locking. Mictlán is permanently fixed with one face pointing towards Aurelius and the other facing the freezing void of deep space. This synchronization creates a planet of two distinct halves: a dayside of eternal fire and a nightside of perpetual ice.
+'''Mictlán''' is the third planet from the star [[Aurelius]], orbiting at a mean distance of 0.62 AU between the super-greenhouse world [[Ciguapa]] and the gas giant [[Quetzal]]. Roughly equal in size and mass to [[Adonia]] (0.95 $M_\text{Adonia}$), it is a world of dramatic physical duality defined by its 1:1 synchronous tidal locking. One hemisphere of Mictlán permanently confronts the blinding fury of Aurelius, while the opposite hemisphere faces the perpetual cold of interstellar space. This tidally enforced dichotomy produces a planetary landscape divided into two extremes: a dayside of churning molten rock and a nightside of frozen volatile glaciers.<ref name="Yomi_Synthesis">Okaiken Institute for Space and Aeronautical Science (OISAS). (2019). *Thermal Topography and Atmospheric Circulation of the Tidally Locked Planet Mictlán: Results from the Yomi-3 Orbiter*. OISAS Planetary Science Series, 58, 22–65.</ref>
 
-Due to its proximity to the star and the lack of rapid rotation to distribute heat, the substellar point (the point where the sun is directly overhead) features vast, open oceans of silicate magma. Conversely, the anti-stellar point on the nightside supports glaciers of frozen carbon dioxide and nitrogen. Between these two extremes lies the Terminator Zone, a narrow band of twilight where atmospheric currents facilitate a precarious equilibrium, allowing for temperatures that are theoretically survivable by reinforced Adonian machinery.
+At the substellar point—where Aurelius hangs eternally at zenith—lies an immense, churning expanse of liquid silicate lava known as ''The Cauldron'' (Insulonian: ''El Caldero'', Sanese: ''Yomi no Kama'' / 黄泉の釜). Radiating at temperatures above 2,150 K (1,880 °C), this molten ocean continuously boils off rock vapor into a specialized mineral atmosphere composed of vaporized silicon monoxide, sodium, iron, and magnesium. These mineral vapors are swept toward the limb by ferocious supersonic winds, condensing into high-altitude clouds of liquid rock and quartz crystals that rain molten enstatite over the twilight frontier.<ref name="Aldana_Mictlan">Aldana, E. (2023). *Mineral Atmospheres and Silicate Precipitation Cycles on Ultra-Hot Synchronous Worlds*. Castejón Astrophysical Review, 88(1), 45–74.</ref>
 
-Mictlán is often described in Adonian literature as the Hell Planet, representing the physical embodiment of the underworld in various system mythologies. Despite its hostility, it is a primary target for scientific study regarding tidal forces and atmospheric collapse dynamics.
+In contrast, the nightside plunges to a frigid 60 K (−213 °C), forming an eternal volatile cold-trap where atmospheric nitrogen, carbon dioxide, and methane freeze out into continent-scale ice sheets. Between these two realms lies the narrow, tempestuous twilight belt—a band of perpetual twilight swept by abrasive mineral sandstorms and high-speed katabatic jet streams.<ref name="Yomi_Synthesis" />
 
 ==Physical characteristics==
-===Surface geology===
-The dayside of Mictlán is dominated by the Mare Ignis, a global ocean of lava that covers approximately 40% of the planetary surface. The crust here is thin and constantly recycled, with massive shield volcanoes rising directly from the magma sea like islands. These volcanoes spew millions of tons of sulfur and ash into the upper atmosphere, contributing to the planet's hazy appearance.
 
-The nightside presents a starkly different geology. Here, the crust is thick, ancient, and immobile. It is covered in vast ice sheets composed of frozen carbon dioxide (dry ice) and water ice that has migrated from the dayside over billions of years. The terrain is rugged and heavily cratered, as the ice preserves impact scars that would be melted away on the dayside.
+===The Dayside and The Cauldron===
+The sunward hemisphere receives a steady stellar irradiance of approximately 4,450 W/m²—over 2.6 times the flux reaching Adonia. At the substellar point, the crust has completely melted into a permanent, convective magma sea measuring approximately 2,400 kilometers in diameter and up to 45 kilometers deep, known as ''The Cauldron''.<ref name="Yomi_Synthesis" />
 
-The most geologically active region is the Twilight Belt along the terminator. Here, convective winds from the hot side meet the cold air of the night side, creating violent storms. The rapid cooling of magma flowing from the day side into this zone creates massive, jagged obsidian mountain ranges known as the Obsidian Teeth.
+The surface of The Cauldron is a churning, incandescent expanse of ultra-mafic basaltic and komatiitic lava, radiating in vibrant shades of incandescent yellow, orange, and dull red. Convective plumes carry superheated magma from the mantle to the surface at velocities of several meters per second, where it boils vigorously. Around the margins of the magma sea lies a fractured, semi-plastic "sponge zone" of cooling black volcanic scoria, intersected by incandescent rifts and active volcanic caldera chains.<ref name="Aldana_Mictlan" />
 
-===Atmosphere===
-Mictlán possesses a tenuous but dynamic atmosphere composed primarily of sulfur dioxide, carbon dioxide, and vaporized rock (silicates). On the dayside, temperatures are high enough to vaporize rock, creating clouds of rock vapor. As high-altitude winds carry this vapor toward the cooler terminator, it condenses and falls as "rock rain" or, in cooler regions, metallic snow consisting of galena and bismuth.
+===Atmosphere and mineral rain===
+Mictlán possesses an active, dual-layer atmosphere with a mean surface pressure of approximately 150 kPa (1.5 atmospheres).<ref name="Yomi_Synthesis" /> The lower dayside atmosphere is composed predominantly of rock vapor, dominated by silicon monoxide ($SiO$), atomic sodium and potassium, monatomic iron and magnesium, molecular nitrogen, and trace carbon monoxide.<ref name="Aldana_Mictlan" />
 
-The atmospheric pressure is highly variable, dropping significantly on the nightside as gases freeze out onto the surface, creating a vacuum effect that draws fierce winds across the terminator at speeds exceeding 500 km/h.
+As stellar heating drives intense thermal expansion at the substellar point, buoyant rock vapor ascends to altitudes of 35–50 km and flows rapidly toward the nightside along upper-level pressure gradients. As the mineral vapor approaches the cooler limb, temperatures drop below the condensation points of silicates (approx. 1,600 K). Silicon and magnesium oxides condense into microscopic enstatite and forsterite crystals, forming shimmering lavender and golden-tinted clouds. These clouds unleash showers of liquid silicate raindrops—literal molten rock rain—which solidify into glassy gravel and pelletal lapilli before striking the jagged basaltic plains of the terminator.<ref name="Aldana_Mictlan" />
+
+===The Twilight Belt (The Terminator)===
+The boundary between day and night is marked by a 400-kilometer-wide twilight strip where Aurelius appears permanently bisected by the horizon. The colossal temperature differential between the dayside ($> 2,000$ K) and the nightside ($< 70$ K) drives an extreme planetary heat engine. Dense, freezing nightside air plunges toward the dayside along the surface as ferocious katabatic winds reaching velocities of 800 km/h (Mach 0.7 in the dense air).<ref name="Yomi_Synthesis" />
+
+These howling terminator winds pick up fine silicate dust, obsidian shards, and metallic iron particles, creating global sandstorms of immense abrasive power that have planed down ancient impact craters into jagged, knife-edged yardangs and fluted canyons. Temperatures across the twilight zone transition precipitously from 800 K to 150 K within a distance of less than 200 kilometers.<ref name="Aldana_Mictlan" />
+
+===The Nightside and volatile ice sheets===
+The dark hemisphere has been shrouded in night for hundreds of millions of years. Without internal heat conduction capable of overcoming the absence of solar flux, surface temperatures fall to 58–75 K (−215 to −198 °C).<ref name="Yomi_Synthesis" />
+
+Because the nightside acts as a cold trap, volatile gases that circulate from the dayside are permanently frozen out onto the terrain. The nightside is covered in the vast ''Cocytus Ice Sheet''—a massive, undulating glacier of solid nitrogen ($N_2$), methane ($CH_4$), and carbon dioxide ($CO_2$) up to four kilometers thick, resting upon a frozen bed of water-ice bedrock. Geothermal vents and residual mantle plumes occasionally breach the ice sheet, generating spectacular cryo-volcanic geysers that vent pressurized nitrogen gas and dark organic tholins tens of kilometers into the night sky.<ref name="Yomi_Synthesis" />
 
 ==Orbit and rotation==
-Mictlán orbits Aurelius at an average distance of 0.62 AU. It is tidally locked to the star, meaning its orbital period and rotation period are identical at 178.0 standard days. This synchronous rotation means that for an observer on the surface, the sun never rises or sets; it hangs motionless in the sky, its position determined by the observer's longitude. The planet has a moderate orbital eccentricity of 0.09, which causes the sun to wobble slightly in the sky (libration), heating the edges of the nightside zone periodically.
+
+Mictlán orbits Aurelius at a mean distance of 0.62 AU, completing one orbital revolution every 181.0 standard days in a slightly eccentric orbit ($e = 0.090$).
+
+Due to strong tidal torques exerted by Aurelius over its 4.6-billion-year lifespan, Mictlán's axial rotation has been completely synchronized with its orbital period (1:1 tidal lock). Its sidereal rotation period is exactly equal to its orbital period of 181.0 standard days. Because of its slight orbital eccentricity ($e = 0.090$), the planet experiences a small longitudinal libration of approximately 10.3 degrees. As a consequence, an observer situated within the twilight belt would witness Aurelius oscillate gently above and below the horizon over the course of a 181-day cycle, creating a periodic "twilight sunrise and sunset" that modulates local katabatic wind speeds.<ref name="Aldana_Dynamics">Aldana, E., & Thorne, A. (2022). ''Tidal Dissipation and Rotational Dynamics in Eccentric Terrestrial Systems''. Castejón Astrophysical Review, 44(2), 112–138.</ref>
+
+Mictlán's orbit is gravitationally stabilized by its outer neighbor, the gas giant [[Quetzal]] (0.862 AU), whose periodic gravitational sweeps prevent orbital eccentricities from growing chaotically.<ref name="Aldana_Dynamics" />
+
+==Observation and exploration==
+
+In ancient mythology, Mictlán's reddish, flickering appearance and its tight orbit made it a symbol of doom, war, and the subterranean underworld. In ancient Insulonian legend, it was named after Mictlán, the nine-layered resting place of the dead, ruled by the lord of shadows and bone.<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref> In Sanese astronomical records, it was cataloged as '''Yomisei''' ({{nihongo||黄泉星||"underworld star"}}), associated with the mythical realm of Yomi and considered an ominous omen when appearing in close conjunction with [[Quetzal]].<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref>
+
+Scientific exploration of Mictlán began in the late 20th century. In 1998, the automated probe *Yomi-1* launched by the Okaiken Space Agency performed the first multi-spectral flyby of the planet, confirming the existence of The Cauldron and the mineral vapor atmosphere.<ref name="Yomi_Synthesis" /> In 2016, the *Yomi-3 Orbiter* successfully inserted into a polar orbit around Mictlán, providing continuous thermal infrared mapping of the magma ocean, tracking supersonic terminator dust storms, and radar-sounding the depth of the nightside nitrogen ice sheets.<ref name="Yomi_Synthesis" />
 
 ==Name and etymology==
-The name Mictlán is derived from ancient Insulonian legends describing the underworld or the land of the dead, a place of trials and intense suffering. Early explorers likened the planet's magma oceans and ash-choked sky to these mythological descriptions.
 
-In Sanese astronomical records, the planet is known as Yomisei (黄泉星), translating to the Underworld Star. This naming convention aligns with the Insulonian root, emphasizing the planet's association with death, the afterlife, and the subterranean world of fire and darkness.
+The name ''Mictlán'' originates from ancient Meso-Insulonian cosmology, referring to the vast, subterranean underworld of the dead. The name was officially adopted by the [[Balisca|Baliscan Royal Astronomical Society]] in 1882 to reflect the planet's infernal, half-molten and half-frozen landscape.<ref name="Navassa_Lex" />
+
+In [[Sanese language|Sanese]], the planet has been known since the Sengoku astronomical chronicles as '''Yomisei''' ({{nihongo||黄泉星||"star of the underworld"}}), maintaining the identical mythological thematic resonance of eternal shadow and subterranean fire.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Terrestrial planets]]
+
+==References==
+{{reflist}}

@@ -1,4 +1,4 @@
-﻿<noinclude>
+<noinclude>
 {{Short description|Military forces of the Imperial Kingdom of Okaiken}}
 </noinclude>
 
@@ -17,24 +17,25 @@
 *[[Sanese Imperial Army]] (SIA)
 *[[Sanese Air Force]] (SAF)
 *[[Sanese Imperial Guard]] (SIG)
+*[[Okaiken Self-Defense Forces]] (OSDF)
 {{tree list/end}}
 | headquarters       = [[Okami]], Okaiken
 | website            = {{URL|https://www.mod.ok/sif/en/}}
 | commander-in-chief = [[Masahito]]
 | commander-in-chief_title = [[Emperor of Okaiken|Emperor]]
-| minister           = [[Honda Shigetsuma]]
-| minister_title     = [[Prime Minister of Okaiken|Prime Minister]]
+| minister           = [[Yuriko Katsumata]]
+| minister_title     = [[Minister of Defense (Okaiken)|Minister of Defense]]
 | chief_of_staff     = [[Admiral]] Ken Yamagata
 | chief_of_staff_title = [[Chief of Staff, Joint Staff]]
 | age                = 18–32 eligible for service
 | conscription       = Yes (18-month National Service)
 | active             = 312,500
-| reserve            = 600,000
+| reserve            = 600,000 (administered by OSDF)
 | ranked             = 5th (Global Power Index 2026)
 | amount             = ε84.2 trillion (2026 estimate)
 | percent_GDP        = 2.0%
 | domestic_suppliers = * [[Mitsubishi Heavy Industries]]
-* [[Satori Tech Systems]]
+* [[Kizan Systems]]
 * [[Yoroi Steel Works]]
 * [[Okami Electronics]]
 * [[Nagato Marine United]]
@@ -44,136 +45,670 @@
 | ranks              = [[Military ranks and insignia of the Sanese Imperial Forces]]
 }}
 
-The {{nihongo|Sanese Imperial Forces|岡井県帝国軍|Okaiken Teikokugun|lead=yes|SIF}} are the unified military forces of the [[Okaiken|Imperial Kingdom of Okaiken]]. Established in their current form following the 2011 constitutional revisions, the SIF represents a significant departure from the pacifist-leaning Okaiken Self-Defense Guard of the Republican era (1968–2011). The SIF comprises the [[Sanese Imperial Navy]], the [[Sanese Imperial Army]], and the [[Sanese Air Force]]. They are controlled by the Ministry of Defense, with the [[Prime Minister of Okaiken]] exercising executive command-in-chief authority on behalf of the [[Emperor of Okaiken]].
+The {{nihongo|Sanese Imperial Forces|岡井県帝国軍|Okaiken Teikokugun|lead=yes|SIF}} are the unified military forces of the [[Okaiken|Imperial Kingdom of Okaiken]]. Established in their current form following the 2011 constitutional revisions, the SIF comprises four professional combat branches — the [[Sanese Imperial Navy]], the [[Sanese Imperial Army]], the [[Sanese Air Force]], and the [[Sanese Imperial Guard]] — and the [[Okaiken Self-Defense Forces]] (OSDF), the civil guard and reserve arm responsible for homeland defense, disaster response, and the National Civic Service. The SIF is controlled by the Ministry of Defense, with the [[Prime Minister of Okaiken]] exercising executive command-in-chief authority on behalf of the [[Emperor of Okaiken]].
+
+The SIF's structure reflects a deliberate compromise forged during the 2011 Second Imperial Restoration. Rather than dissolving the Republican-era Okaiken Self-Defense Guard entirely, the transitional government subordinated it to the Imperial command as the OSDF — preserving the "self-defense" identity and pacifist institutional culture while placing it under the authority of the Emperor and the Prime Minister. The OSDF is not a separate standing army; it is an arm of the Imperial Forces, constitutionally barred from independent operational command and dependent on the Joint Staff for strategic deployment. This arrangement satisfied both the imperial faction, which demanded unified military command under the Crown, and the pacifist bloc, which insisted on retaining a distinct homeland-defense identity separate from the power-projection capabilities of the Imperial branches.
+
+The SIF is distinguished from other regional military forces by its integration with the [[Cult of Iron|Forge State]] ideology and the [[National Iron Body Initiative]] (NIBI). Military service in Okaiken is framed as an extension of the nation's physical culture rather than a separate martial caste — soldiers train alongside civilians at [[Iron Body Center]]s, physical standards are maintained through the [[Guardian Standard]] health assessment system, and the [[Goriki]] competitive tradition provides a natural pipeline for non-commissioned officers. The OSDF embodies this "citizen-soldier" model most directly: the vast majority of Sanese citizens experience the military through the OSDF during their National Civic Service, and the OSDF's daily operational reality is disaster response and civil defense rather than combat operations. This produces a smaller but highly professional force optimized for archipelago defense and disaster response rather than power projection.
 
 ==History==
 
 ===Imperial Origins and the Go-Shōkō Era (1870–1930)===
-The modern military of Okaiken traces its roots to the late 19th century, when the scattered provincial domains were consolidated into a unified Imperial Army and Navy. Modeled after Brieslandic naval traditions and continental army structures, these early forces secured Okaiken's independence during the turbulent colonial era. 
+[[File:SIF Imperial Parade Okami 2012.png|300px|thumb|right|Sanese Imperial Forces personnel march through Okami during the 2012 Imperial Restoration Parade, the first public display of the reconstituted military.]]
+The modern military of Okaiken traces its roots to the late 19th century, when the scattered provincial domains were consolidated into a unified Imperial Army and Navy. Modeled after Breislandic naval traditions and continental army structures, these early forces secured Okaiken's independence during the turbulent colonial era.
 
 Following the death of Emperor Saito in 1912, the ascension of Emperor Go-Shōkō ushered in the Go-Shōkō Democracy. During this liberal interlude, the military faced significant budget reductions and international naval limitation treaties. Prime Minister Kenzan Mihashi's efforts to rein in the military budget caused deep resentment within the officer corps, who felt the civilian government was compromising national security for economic gain. This resentment laid the groundwork for the radicalization of the armed forces in the following decade.
 
 ===Statism and the Dark Valley (1930–1947)===
-The Great Depression devastated the Sanese economy, leading radical elements within the military to blame the civilian government. Through a series of assassinations and intimidation tactics—most notably the October 2 Incident and the July 7 Incident—the military effectively seized control of the state. 
+The Great Depression devastated the Sanese economy, leading radical elements within the military to blame the civilian government. Through a series of assassinations and intimidation tactics—most notably the October 2 Incident and the July 7 Incident—the military effectively seized control of the state.
 
 Under this new paradigm of Statism (Kokka-shugi), the Imperial Army and Imperial Navy became massive, competing bureaucratic behemoths. The nation was placed on a total war footing under the Imperial Rule Assistance Association. The military justified aggressive expansion into resource-rich southern territories as a necessity for national survival and self-sufficiency, leading to the development of the Satori Precursor, an early analog logistical and radar network designed to manage the sprawling empire.
 
 ===The Great Adonian War and Disbandment (1947–1952)===
 [[File:Sanese battleship Nagato.png|300px|thumb|right|The Sanese Battleship ''Nagato'', which was sunk by Shaydian Forces in 1950.]]
-Facing a crippling resource embargo, Okaiken launched a massive surprise offensive against allied powers across Fosia in September 1947. The Sanese military initially secured vast territories, but inter-service rivalry between the Army and Navy hampered long-term strategic planning. 
+Facing a crippling resource embargo, Okaiken launched a massive surprise offensive against allied powers across Fosia in September 1947. The Sanese military initially secured vast territories, but inter-service rivalry between the Army and Navy hampered long-term strategic planning.
 
 The turning point occurred at the Battle of Henshall Atoll in 1949, where the Imperial Navy's carrier fleet was decimated. As the allied industrial superiority took its toll, the Sanese defensive perimeter collapsed. The military resorted to extreme measures, including suicide tactics and the mass mobilization of civilian militias for a final defense of the home islands. Following devastating aerial bombardment that leveled 50 cities and the complete destruction of the fleet, Okaiken surrendered in 1952. The Imperial military was entirely disbanded by the occupying allied forces.
 
 ===The Self-Defense Guard and the Second Imperial Restoration (1968–Present)===
 During the Cold War, the geopolitical necessity of a bulwark in the East Fosian Sphere led to the creation of the Okaiken Self-Defense Guard (OSDG) in 1968. Constrained by a pacifist constitution, the OSDG was strictly limited to domestic defense and disaster relief, possessing no power projection capabilities.
 
-The landscape shifted dramatically with the Second Imperial Restoration in 2011. The transitional government, citing the vulnerability of the Silicon Lanes—the undersea networks vital to Okaiken's modern economy—rewrote the constitution. The OSDG was reorganized into the Sanese Imperial Forces. The modern SIF is legally recognized as a full armed force with the right of belligerency. Under the Kurosawa Doctrine, the SIF transformed from a static defense guard into a technologically advanced, proactive military capable of securing Okaiken's resource lifelines across the Fosian sphere.
+The landscape shifted dramatically with the Second Imperial Restoration in 2011. The transitional government, citing the vulnerability of the Silicon Lanes—the undersea networks vital to Okaiken's modern economy—rewrote the constitution to permit the maintenance of a standing military with the right of belligerency. However, the transition from the OSDG to the Sanese Imperial Forces was not a simple dissolution. The 2011 Constitutional Compromise — negotiated between the imperial faction led by Kurosawa Kenji and the pacifist bloc led by Social Democratic Party chair Yamada Isamu — preserved the OSDG as a distinct entity within the new command structure. The OSDG was reorganized and renamed the Okaiken Self-Defense Forces (OSDF), stripped of independent operational command, and placed under the authority of the Joint Staff and the Ministry of Defense. The OSDF retained its homeland-defense mandate, its disaster-response mission, and its institutional culture of pacifist restraint, but it could no longer operate as a separate military — it was now an arm of the Imperial Forces, not its own standing army.
+
+The Imperial branches — the Navy, Army, Air Force, and Imperial Guard — were established or reconstituted as professional combat forces under direct Imperial command. The Kurosawa Doctrine defined their strategic posture: proactive defense of the Silicon Lanes, archipelago defense, and the right of collective self-defense. The OSDF, by contrast, was constitutionally limited to domestic operations: civil defense, disaster response, National Civic Service administration, and homeland security. The OSDF cannot be deployed overseas without a separate Diet resolution and the explicit concurrence of the Chief of Staff, Joint Staff — a legal constraint designed to prevent the "self-defense" arm from being used as a backdoor to power projection.
+
+This dual structure has produced persistent institutional tension. The Imperial branches, particularly the Army, view the OSDF as a budget competitor that duplicates capabilities. The OSDF views itself as the guardian of the pacifist tradition and the only branch that most citizens will ever interact with directly. The resulting rivalry shapes defense budget negotiations, personnel policy, and the broader culture of the SIF.
 
 ==Structure==
 
 ===Command and Control===
-The Prime Minister is the supreme commander, advising the Cabinet on strategic deployments. Military authority flows from the Prime Minister to the Minister of Defense. The professional head of the military is the Chief of Staff, Joint Staff ({{nihongo2|統合幕僚長}}), who oversees the Joint Operations Command (JOC). The JOC ensures seamless integration between the SIN, SIA, and SAF, particularly during high-intensity conflicts involving automated response protocols.
+The Prime Minister is the supreme commander, advising the Cabinet on strategic deployments. Military authority flows from the Prime Minister to the Minister of Defense. The professional head of the military is the Chief of Staff, Joint Staff ({{nihongo2|統合幕僚長}}), who oversees the Joint Operations Command (JOC). The JOC ensures seamless integration between the SIN, SIA, SAF, SIG, and OSDF, particularly during high-intensity conflicts involving automated response protocols.
+
+The OSDF occupies a unique position within this command structure. While the four Imperial branches report directly to the Chief of Staff through their respective service chiefs, the OSDF reports through a dual chain: operationally, it falls under the Joint Staff for deployment and coordination; administratively, it reports to the Director-General of the OSDF ({{nihongo2|自衛隊総監}}), a civilian appointee confirmed by the Diet. This dual reporting structure was a key demand of the pacifist bloc during the 2011 negotiations — the OSDF's administrative independence from the Imperial military hierarchy ensures that its homeland-defense mission cannot be subordinated to the strategic priorities of the combat branches without civilian oversight. The Director-General sits on the Joint Staff Council but does not vote on operational matters, serving instead as the civilian advocate for the OSDF's domestic mandate.
 
 ===Service Branches===
 
 ====Sanese Imperial Navy (SIN)====
 [[File:ISN_Shigetomo_Black_Hull.png|thumb|250px|left|''INS Shigetomo''.]]
-The SIN ({{nihongo2|岡井県帝国海軍}}) is the primary instrument of national power projection and maritime security. Known colloquially as the Black Fleet due to its basalt-black radar-absorbent livery, the navy is designed for operations ranging from sub-arctic ice navigation to deep-water patrols. The fleet's operational structure is divided into four main Escort Flotillas based in the Okami, Nagato, and Vizhny naval districts, each capable of operating independently as a self-sustaining carrier strike group. 
+The SIN ({{nihongo2|岡井県帝国海軍}}) is the primary instrument of national power projection and maritime security. Known colloquially as the Black Fleet due to its basalt-black radar-absorbent livery, the navy is designed for operations ranging from volcanic maritime navigation to deep-water patrols. The fleet's operational structure is divided into four main Escort Flotillas based in the Okami, Nagato, and Vizhny naval districts, each capable of operating independently as a self-sustaining carrier strike group.
 
-The fleet is anchored by the Ichijoudani-class aviation cruisers, which combine heavy icebreaking capabilities with the deployment of Mitsubishi F-3 navalized stealth fighters. These vessels feature nuclear propulsion and reinforced prows, allowing the SIN to project air power into the frozen waters of the southern latitudes where conventional carriers cannot operate. The surface fleet is complemented by a large array of guided-missile destroyers, utilizing advanced Aegis-style combat systems integrated directly into the national Satori network for fleet-wide ballistic missile defense.
+The fleet is anchored by the Ichijoudani-class aviation cruisers, which combine heavy assault capabilities with the deployment of Mitsubishi F-3 navalized stealth fighters. These vessels feature nuclear propulsion and reinforced prows, allowing the SIN to project air power into the volcanic waters of the southern latitudes where conventional carriers cannot operate. The surface fleet is complemented by a large array of guided-missile destroyers, utilizing advanced Aegis-style combat systems integrated directly into the national Satori network for fleet-wide ballistic missile defense.
 
 Submarine warfare is a critical component of SIN doctrine. The navy operates a highly advanced, exceptionally quiet fleet of Taigei-class lithium-ion submarines. This silent service provides a second-strike capability and is primarily tasked with the physical protection of the undersea digital cables that make up the Silicon Lanes. Furthermore, the SIN commands the Amphibious Rapid Deployment Brigade, a specialized marine infantry unit designed to rapidly reclaim occupied island territories, conduct coastal raids, and secure contested maritime choke points across the archipelago.
 
 ====Sanese Imperial Army (SIA)====
-The SIA ({{nihongo2|岡井県帝国陸軍}}) operates on a dual-track system combining professional regular forces with national service conscripts. Every citizen completes eighteen months of mandatory training, which instills a baseline of military discipline, civil defense protocol, and infrastructure repair skills. This ensures that the entire population can be mobilized effectively during natural disasters or national emergencies.
+[[File:Type 10 MBT Harujima Exercise.png|thumb|300px|right|Type 10 Main Battle Tanks of the Northeastern Army during a combined-arms exercise on Harujima, 2024.]]
+The SIA ({{nihongo2|岡井県帝国陸軍}}) serves as the primary ground component of the Sanese Imperial Forces, embodying the Forge State principle that military service represents the highest expression of civic physical culture. Unlike continental armies designed for territorial expansion, the SIA is structured as a defensive force optimized for archipelago defense, urban warfare in dense metropolitan environments, and rapid disaster response across Okaiken's fragmented geography.
 
-The professional core of the SIA is organized into five regional armies (Northern, Northeastern, Eastern, Central, and Western), each responsible for the defense of specific geographic sectors. Due to Okaiken's mountainous and archipelagic geography, the SIA prioritizes high mobility, rapid deployment, and urban warfare tactics over heavy, static armor. The backbone of their armored cavalry is the Type 16 Maneuver Combat Vehicle, a wheeled tank destroyer capable of rapidly traversing the nation's extensive highway system, supported by the lightweight Type 10 Main Battle Tank designed specifically to cross standard Sanese civil bridges.
+=====Personnel and Recruitment Philosophy=====
+The SIA operates on a dual-track personnel system that integrates the National Civic Service framework with the professional career force. This structure reflects the JSDF model of maintaining a small professional core augmented by systematically trained reservists, combined with the German Bundeswehr concept of the "citizen in uniform" — soldiers who remain integrated with civilian society rather than forming a separate caste.
 
-The elite tier of the SIA is the Red Regiment. This specialized expeditionary force is highly trained in asymmetric warfare, counter-terrorism, and airborne operations. Unlike standard infantry units, the Red Regiment's primary mandate extends beyond the home islands; they are frequently deployed overseas to protect critical foreign industrial assets, such as Sanese-owned lithium mines in the Confederation of Balisca, ensuring the uninterrupted flow of resources vital to the Satori System. The army also maintains specialized cyber-warfare battalions tasked with establishing secure, localized communication grids in electronic warfare-heavy environments.
+'''National Civic Service Track:'''
+All Sanese citizens between ages 18–28 must complete eighteen months of National Civic Service ({{nihongo2|国民奉仕}}), but only 40% of conscripts are assigned to military branches — the remainder serve in disaster response corps, infrastructure maintenance, or Iron Body Center instruction. This selective military assignment ensures that only those demonstrating physical aptitude through the Guardian Standard assessment receive combat training, while all citizens receive civil defense and emergency response certification.
+
+Military-track conscripts undergo intensive physical conditioning at designated Iron Body Centers on military bases, where they train alongside professional soldiers and civilian fitness enthusiasts. This integration breaks down the barrier between military and civilian physical culture — the same barbells, the same Goriki implements, the same Three Forges philosophy. Conscripts who achieve exceptional physical standards may be offered professional contracts upon completion of service, creating a pipeline from civilian fitness culture to military career.
+
+'''Professional Career Track:'''
+The professional core of 132,500 personnel represents the true fighting capability of the SIA. Officers are selected through the National Competency Exam, with top candidates attending the Okami Military Academy (affiliated with Okami Tech University) for four years of technocratic military education. Unlike the officer corps of many regional militaries, which often draw from aristocratic or political lineages, Sanese officers are meritocratically selected based on intellectual and physical performance.
+
+Enlisted professionals join through direct recruitment, with preference given to candidates holding Iron Body Health Cards (indicating sustained physical training) and technical certifications. The SIA maintains a high re-enlistment rate through competitive salaries, comprehensive post-service benefits including guaranteed university placement, and the cultural prestige associated with military service in the Forge State paradigm.
+
+=====Organizational Structure: The Five Regional Armies=====
+Reflecting both the JSDF's regional defense command structure and the German Army's divisional organization, the SIA is organized into five Regional Armies ({{nihongo2|方面軍}}), each responsible for the defense of specific geographic sectors. This decentralized structure allows rapid response to local threats without requiring centralized command approval, crucial for archipelago defense where threats may emerge simultaneously across dispersed islands.
+
+'''Northern Army (Yagikoshu):'''
+Headquartered in Toyozawa, the Northern Army defends the volcanic highland regions of Yagikoshu and the northern approaches to the archipelago. Its forces are specialized for highland and mountain warfare, with equipment modified for volcanic terrain and high-altitude operations. The Northern Army operates the majority of the SIA's mountain-capable vehicles and maintains close coordination with the Imperial Navy's fleet. Unique among regional armies, Northern Army personnel receive volcanic terrain survival training and Goriki-inspired mountain-rescue conditioning, reflecting the "salt-water strength" ethos adapted for volcanic highland environments.
+
+The Northern Army's 2nd Division maintains a specialized Highland Response Regiment trained for operations in high-altitude volcanic terrain and extreme weather conditions. These soldiers undergo physiological conditioning at the Northern Iron Body Center in Toyozawa, where they train in altitude chambers and maintain functional strength despite environmental stress. The Highland Response Regiment represents the extreme end of the Forge State philosophy — physical capability maintained under the most adverse conditions.
+
+'''Northeastern Army (Harujima):'''
+Based in Shinagawa, the Northeastern Army guards the densely populated eastern coast of Harujima and the capital approaches. Its primary mission is urban warfare defense and rapid disaster response in the earthquake-prone region. The Northeastern Army maintains the highest concentration of engineering and chemical warfare defense units, trained in collapsed-structure rescue and hazardous material containment. Reflecting Okaiken's "ludic resilience" culture, Northeastern Army units are frequently deployed to civilian disaster drills, their personnel serving as instructors in the national civil defense curriculum.
+
+The Northeastern Army's 6th Division includes the Capital Defense Brigade, a specialized unit tasked with protecting the Okami metropolitan area. Unlike the Imperial Guard, which protects specific Imperial properties, the Capital Defense Brigade is responsible for the broader urban defense of the capital region — securing transportation hubs, government facilities, and critical infrastructure. Capital Defense Brigade soldiers undergo specialized urban warfare training at the Okami Urban Warfare Center, where they practice operations in a purpose-built dense urban environment simulating the capital's layout.
+
+'''Eastern Army (Ishijima):'''
+Headquartered in Aizawa on the island of Ishijima, the Eastern Army is the smallest regional command, responsible for the defense of the industrial heartland and the "Data Corridor" of northern Yagikoshu. Its mission focuses on critical infrastructure protection and cyber-physical defense of the Satori network's terrestrial nodes. Eastern Army personnel are selected for technical aptitude, with many holding dual certifications in military operations and information technology. The Eastern Army operates closely with Kizan Systems, serving as the military testbed for new autonomous ground systems and AI-integrated command networks.
+
+The Eastern Army's 11th Division maintains the Cyber-Defense Battalion, the SIA's primary ground-based cyber warfare unit. Unlike the Air Force's cyber operations, which focus on network defense, the Cyber-Defense Battalion is trained for tactical electronic warfare — jamming enemy communications, hacking tactical networks, and protecting friendly digital infrastructure at the operational level. Cyber-Defense personnel are recruited heavily from civilian technology sectors, with many holding degrees from Okami Tech University.
+
+'''Central Army (Southern Archipelago):'''
+Based in Kure, the Central Army covers the southern island chains and the maritime approaches to the main archipelago. Its forces are optimized for island warfare, amphibious operations, and maritime interdiction. The Central Army maintains the SIA's only dedicated amphibious brigade, trained in beach reconnaissance, small-craft operations, and vertical envelopment via helicopter. Reflecting the Forge State integration, Central Army personnel train extensively with civilian maritime industries, their reservists including commercial fishermen, ferry operators, and offshore oil workers who provide intimate knowledge of local waters and weather patterns.
+
+The Central Army's 3rd Division includes the Amphibious Rapid Deployment Brigade (ARDB), the SIA's premier expeditionary force. Unlike the Red Regiment, which focuses on asymmetric warfare, the ARDB is trained for conventional amphibious operations — seizing beachheads, securing ports, and establishing lodgments for follow-on forces. ARDB personnel undergo 24 weeks of intensive training, including ship-to-shore operations, small-craft handling, and survival training. Physical standards for ARDB assignment exceed standard Tier 1 requirements, with candidates required to demonstrate exceptional swimming endurance and load-bearing capacity.
+
+'''Western Army (Coastal Defense):'''
+Headquartered in Hakata, the Western Army guards the western approaches and maintains the coastal defense batteries protecting the major port cities. Its mission is static defense of critical infrastructure, anti-ship missile deployment, and harbor security. The Western Army operates the majority of the SIA's coastal artillery and surface-to-ship missile batteries, integrated with the Navy's coastal radar networks. Western Army reservists include port workers, maritime pilots, and commercial divers, creating a seamless civilian-military coastal defense network.
+
+The Western Army's 8th Division maintains the Coastal Defense Regiment, responsible for manning the Type 12 surface-to-ship missile batteries and coastal surveillance radar stations. Unlike mobile forces, Coastal Defense Regiment personnel are assigned to specific sectors for extended periods, developing intimate knowledge of local maritime traffic patterns and environmental conditions. This geographic specialization allows rapid threat identification — a coastal defense operator who has watched the same stretch of water for years can immediately identify anomalies that automated systems might miss.
+
+=====Equipment and Doctrine: The Forge State Arsenal=====
+The SIA's equipment philosophy rejects the heavy armor and massed formations favored by continental powers, instead prioritizing mobility, precision, and integration with civilian infrastructure. This doctrine reflects both the JSDF's focus on defensive maneuver warfare and the German Army's emphasis on combined arms at the battalion level.
+
+'''Ground Combat Systems:'''
+The Type 10 Main Battle Tank represents the pinnacle of Sanese armored design, weighing only 44 tonnes—light enough to cross standard civil bridges and traverse narrow mountain roads, unlike Western 70-tonne behemoths. Its 120mm smoothbore gun with advanced autoloader provides firepower comparable to heavier tanks, while its C4I (Command, Control, Communications, Computers, and Intelligence) suite allows seamless integration with infantry and artillery networks. The Type 10 is produced at a rate of 12 units annually, reflecting the SIA's preference for technological sophistication over mass production.
+
+The Type 16 Maneuver Combat Vehicle serves as the SIA's cavalry, a 26-tonne wheeled tank destroyer capable of 100 km/h on highways and rapid deployment via civilian road networks. Its 105mm gun defeats all but the heaviest armor, while its light footprint allows operation in urban environments where tracked vehicles would destroy infrastructure. The Type 16 reflects the SIA's doctrine of "road-bound defense"—using Okaiken's extensive highway network as pre-positioned logistics routes.
+
+The Type 89 Infantry Fighting Vehicle provides mechanized infantry transport, its 25mm chain gun and dual missile launchers offering firepower for urban and open terrain operations. Uniquely among IFVs, the Type 89 includes a physical training bay where embarked infantry can maintain conditioning during transit—reflecting the Forge State integration of fitness into all military activities.
+
+'''Artillery and Missile Systems:'''
+The Type 19 155mm self-propelled howitzer provides precision fires with a range of 40km, its automated loading system allowing sustained fire rates with minimal crew. The Type 12 surface-to-ship missile system deploys truck-mounted anti-ship missiles for coastal defense, while the Type 03 medium-range air defense system protects maneuvering forces from aerial attack.
+
+'''Support and Engineering:'''
+The SIA maintains extensive engineering capabilities reflecting Okaiken's disaster-prone geography. The Central Readiness Force includes specialized chemical, biological, radiological, and nuclear defense units, heavy engineering battalions for collapsed structure rescue, and mobile bridge companies capable of rapidly replacing destroyed infrastructure. These units train extensively with civilian construction firms, their reservists including civil engineers, architects, and heavy equipment operators.
+
+=====Personnel and Training: The Forge State Soldier=====
+The SIA's personnel system reflects the integration of military service with Okaiken's broader physical culture, creating soldiers who are simultaneously warriors and civic fitness exemplars.
+
+'''Recruitment and Selection:'''
+Officer candidates must pass the National Competency Exam, with top performers invited to the Okami Military Academy. Unlike many regional militaries where officer commissions are influenced by aristocratic or political connections, Sanese officers are selected purely on intellectual and physical merit. The Academy curriculum combines military science with engineering, requiring all cadets to complete substantive coursework in information technology, logistics, and systems integration. Physical standards exceed standard military requirements — cadets must maintain Iron Body Health Card certification throughout their training.
+
+Enlisted professionals join through direct recruitment, with preference for candidates from Iron Body Center backgrounds. The SIA maintains recruitment offices at civilian fitness centers, creating seamless transition pathways for dedicated trainees. Applicants must pass the Guardian Standard assessment, ensuring all professional soldiers possess baseline functional fitness exceeding typical military standards. Technical specialties (cyber, engineering, medical) recruit directly from Okami Tech University graduates, offering competitive salaries and guaranteed post-service employment in civilian sectors.
+
+'''Training and Conditioning:'''
+Basic training for professional soldiers occurs at Regional Army training centers, with a 16-week curriculum emphasizing physical conditioning, marksmanship, and technical proficiency. Unlike conventional conscript training systems that focus on mass discipline and basic infantry skills, Sanese basic training incorporates advanced individual skills from the outset. Recruits train alongside civilian Iron Body Center members at base facilities, breaking down the military-civilian barrier.
+
+Advanced training for specialized units occurs at dedicated schools. The Red Regiment maintains its own training facility at Mount Akita, where candidates undergo 48 weeks of intensive physical and tactical training including Goriki-inspired functional strength conditioning, high-altitude endurance trials, and live-fire urban combat simulations. The Special Engineering School at Kure trains disaster response specialists in collapsed-structure rescue, hazardous materials containment, and rapid infrastructure reconstruction.
+
+Physical conditioning is not a separate activity but the foundation of all training. The SIA operates on the principle that physical capability determines operational capacity — a soldier who cannot ruck 20 kilometers with full kit cannot perform their duties regardless of technical skills. Daily physical training is mandatory, with units conducting morning conditioning sessions utilizing Goriki implements (log carries, stone lifts, anchor drags) alongside conventional military PT. The SIA maintains competitive physical standards that exceed civilian Iron Body Center norms — soldiers are expected to be exemplars of the Forge State ideal.
+
+'''Reserve System:'''
+The SIA's reserve system reflects the German Bundeswehr's concept of the citizen-soldier integrated with civilian life. Ready Reservists (150,000) maintain active Iron Body Center membership and participate in monthly training weekends, their civilian skills (engineering, medicine, logistics) directly applicable to military roles. Standby Reservists (450,000) have completed their National Civic Service and maintain basic certification, called up only for major emergencies.
+
+Unlike Nakamizu's reserve system, which maintains conscripts in military readiness for years, Okaiken's reserves are integrated with civilian physical culture. Reservists are not "former soldiers" but "citizens maintaining military capability" — the distinction is crucial to the Forge State philosophy. A civil engineer who maintains Goriki-level physical conditioning and participates in monthly reserve drills is simultaneously a civilian professional and a potential soldier, with no hard boundary between the states.
+
+=====Operations and Doctrine: The Defensive Forge=====
+The SIA's operational doctrine reflects both the JSDF's focus on defensive maneuver warfare and the unique requirements of archipelago defense. The SIA does not prepare for invasion of foreign territories but for rapid response to threats across dispersed islands, urban warfare in dense metropolitan environments, and disaster response in earthquake/typhoon-prone terrain.
+
+'''Regional Defense Doctrine:'''
+Each Regional Army operates as an independent defense command capable of autonomous operations for 72 hours without external support. This reflects the reality of archipelago warfare — an island under attack may be cut off from reinforcement for days. Regional Armies maintain pre-positioned equipment stocks, hardened command bunkers, and independent logistics capabilities.
+
+The regional structure also enables rapid disaster response. When earthquakes or typhoons strike, the Regional Army in the affected area can deploy immediately without waiting for central command authorization. This "distributed autonomy" model is unique among major militaries — most forces centralize command, but Okaiken's geography demands decentralized capability.
+
+'''Urban Warfare and Infrastructure Defense:'''
+Given Okaiken's urban density, the SIA trains extensively in urban warfare tactics. Unlike Western militaries that prepare for open-terrain maneuver warfare, the SIA focuses on dense urban environments — fighting through apartment blocks, securing subway systems, clearing office towers. This requires specialized equipment (lightweight vehicles that don't collapse parking structures) and tactics (minimizing collateral damage in populated areas).
+
+Infrastructure defense is equally critical. The SIA maintains detailed plans for securing power plants, water treatment facilities, data centers, and transportation hubs. These "critical node protection" missions are practiced regularly, with soldiers training at actual civilian facilities alongside facility security personnel.
+
+'''Disaster Response Integration:'''
+The SIA's most frequent operational deployment is not combat but disaster response. Earthquakes, typhoons, and tsunamis regularly require military engineering capabilities. The SIA maintains specialized disaster response battalions equipped for collapsed-structure rescue, hazardous materials containment, and rapid infrastructure reconstruction.
+
+This disaster-focused operational tempo shapes the SIA's culture. Soldiers are as likely to be praised for saving civilians in a collapsed building as for combat proficiency. The "guardian" aspect of the guardian physique ideal manifests in daily operations — soldiers protecting citizens from natural disasters rather than foreign enemies.
+
+The integration with civilian disaster response is seamless. When major disasters strike, the SIA deploys alongside civilian firefighters, police, and medical personnel under unified command. Military engineering units provide heavy equipment and specialized capabilities that civilian agencies lack, while civilian agencies provide local knowledge and ongoing community relationships.
+
+=====Operations and Deployment: The Guardian Forge=====
+The SIA's operational tempo reflects its dual mission of territorial defense and disaster response. Unlike armies that train primarily for combat, the SIA spends significant operational time on humanitarian assistance and civil support, reflecting the Forge State principle that military capability serves civilian protection.
+
+'''Disaster Response as Operational Readiness:'''
+The SIA's most frequent deployments are not combat operations but disaster response. The 2019 Typhoon Hagibis response saw 35,000 SIA personnel deployed for search and rescue, infrastructure repair, and humanitarian distribution. These operations serve dual purposes: they provide genuine humanitarian assistance, and they maintain operational readiness through real-world deployment of command and control systems, logistics networks, and field communications.
+
+SIA units conduct quarterly disaster response exercises, often integrated with civilian agencies. These exercises test not just military capabilities but the integration of military and civilian systems — communications interoperability, logistics coordination, and unified command structures. The SIA's disaster response capability is considered as strategically important as its combat capability, reflecting Okaiken's vulnerability to natural disasters.
+
+'''Territorial Defense Exercises:'''
+The SIA conducts annual large-scale exercises testing archipelago defense scenarios. These exercises involve multiple Regional Armies, the Imperial Navy, and the Air Force, practicing joint operations for island defense, maritime interdiction, and coastal reinforcement. The exercises are highly realistic, involving live fire, opposed beach landings, and complex logistical operations across multiple island chains.
+
+Unlike exercises designed for power projection, the SIA's territorial defense exercises assume the enemy has already seized some islands, requiring counter-attack and reclamation operations. This defensive orientation shapes equipment, training, and doctrine — the SIA does not train for invasion but for rapid response to threats against the homeland.
+
+'''International Peacekeeping and Cooperation:'''
+While the Kurosawa Doctrine limits broad international entanglements, the SIA participates in targeted peacekeeping and cooperative security arrangements. SIA engineering units are frequent contributors to United Nations disaster response teams, deploying to earthquakes and tsunamis worldwide. These deployments build international goodwill while maintaining operational readiness.
+
+The SIA conducts bilateral exercises with select allied nations, focusing on disaster response, humanitarian assistance, and non-combatant evacuation operations. These exercises avoid power projection scenarios, instead emphasizing cooperative security and civilian protection — missions consistent with the Forge State philosophy of military service as civic guardianship.
 
 ====Sanese Air Force (SAF)====
-The SAF ({{nihongo2|岡井県帝国空軍}}) is responsible for maintaining the Deep Sky Umbrella, the integrated aerospace defense network that protects the home islands and the Silicon Lanes. The SAF is divided into four Air Defense Commands, which coordinate fighter squadrons, early warning radar sites, and surface-to-air missile batteries across the nation's highest peaks and remote atolls.
+[[File:Mitsubishi F-3 Goshawk Formation.png|thumb|300px|left|Mitsubishi F-3 Goshawk fighters of the Eastern Air Defense Command in formation over Harujima.]]
+The SAF ({{nihongo2|岡井県帝国空軍}}) serves as the aerial component of the Sanese Imperial Forces, responsible for maintaining the Deep Sky Umbrella—the integrated aerospace defense network protecting the home islands and the Silicon Lanes. Unlike continental air forces designed for strategic bombing and power projection, the SAF is optimized for defensive counter-air operations, maritime patrol, and rapid disaster response across Okaiken's dispersed archipelago.
 
-The tactical edge of the SAF relies on the domestically produced Mitsubishi F-3 stealth fighter, working in tandem with the older but heavily upgraded F-2 multirole fighters. A defining characteristic of SAF operations is the heavy reliance on unmanned aerial vehicles. Satori-linked combat drones function as loyal wingmen, extending the sensor range of manned fighters and overwhelming enemy air defenses through electronic warfare and swarm tactics.
+=====Organizational Structure: The Four Air Defense Commands=====
+Reflecting the JSDF's regional defense structure and the German Luftwaffe's emphasis on decentralized operational command, the SAF is organized into four Air Defense Commands (ADCs), each responsible for specific geographic sectors and integrated with corresponding Regional Armies for joint operations.
 
-Beyond atmospheric operations, the SAF has recently expanded its mandate to include space and cyber domains. The Space Operations Squadron monitors satellite trajectories and orbital debris, ensuring the continuous function of the nation's military communication networks and providing early warning of hypersonic glide vehicles. The Air Force also manages the nation's strategic airlift capabilities, utilizing a fleet of Kawasaki C-2 transports to supply remote outposts and deliver humanitarian aid across the Fosian sphere.
+'''Northern Air Defense Command (Toyozawa):'''
+Headquartered at Toyozawa Air Base, the Northern ADC covers the defense of Yagikoshu and the northern approaches. Its squadrons specialize in cold-weather operations and ice-capable search and rescue. The Northern ADC operates the majority of the SAF's fixed-wing maritime patrol aircraft, conducting long-range surveillance of the northern sea lanes. Unique among air commands, Northern ADC personnel receive cold-water survival training and participate in joint exercises with the Imperial Navy's icebreaking fleet.
+
+'''Eastern Air Defense Command (Shinagawa):'''
+Based at Shinagawa Air Base near the capital, the Eastern ADC is responsible for the defense of Harujima's eastern coast and the protection of the Okami metropolitan area. As the primary air defense command, Eastern ADC operates the majority of the SAF's fighter squadrons and surface-to-air missile batteries. Its personnel are on continuous alert status, with scramble times measured in minutes. The Eastern ADC works closely with the Imperial Guard for air defense of the Imperial Palace and coordinates with civilian air traffic control for rapid response to airspace violations.
+
+'''Central Air Defense Command (Aizawa):'''
+Headquartered at Aizawa Air Base on Ishijima, the Central ADC covers the industrial heartland and the Data Corridor. Its mission focuses on critical infrastructure protection and cyber-physical defense of air traffic control systems. Central ADC operates the SAF's electronic warfare and cyber defense squadrons, working closely with Kizan Systems to protect military communications networks. The Central ADC also manages the SAF's drone operations, with its personnel trained in both piloting and AI systems management.
+
+'''Western Air Defense Command (Kure):'''
+Based at Kure Air Base, the Western ADC covers the southern island chains and maritime approaches. Its squadrons specialize in anti-submarine warfare, maritime patrol, and coordination with naval forces. The Western ADC operates the majority of the SAF's rotary-wing assets, including search and rescue helicopters and maritime patrol aircraft. Its personnel train extensively with the Imperial Navy's coastal defense forces, conducting joint exercises in island defense scenarios.
+
+=====Aerospace Defense: The Deep Sky Umbrella=====
+The SAF's primary mission is maintaining the Deep Sky Umbrella — the integrated air and missile defense network protecting Okaiken's airspace. Unlike continental air forces focused on strategic bombing, the SAF is purely defensive, optimized for intercepting incoming threats and protecting critical infrastructure.
+
+'''Layered Air Defense Architecture:'''
+The Deep Sky Umbrella operates through three integrated layers:
+
+* '''Outer Layer (Maritime Patrol):''' Long-range maritime patrol aircraft and AWACS platforms detect approaching threats beyond visual range, providing early warning to interceptor squadrons. This layer extends 200 nautical miles from the coast, creating a buffer zone for threat assessment and interception planning.
+
+* '''Middle Layer (Fighter Interception):''' Fighter squadrons maintain continuous quick-reaction alert (QRA) status, capable of scrambling within minutes to intercept unidentified aircraft. The SAF maintains 24/7 QRA coverage with pairs of F-3 stealth fighters at Shinagawa and Aizawa air bases, ensuring no approaching threat can reach the coast unchallenged.
+
+* '''Inner Layer (Point Defense):''' Surface-to-air missile batteries protect critical infrastructure — power plants, government facilities, military bases, and data centers. These fixed defenses provide last-ditch protection against threats that penetrate the outer layers, with automated engagement systems capable of firing within seconds of detection.
+
+'''Ballistic Missile Defense:'''
+The SAF operates the Deep Sky Shield — the ballistic missile defense component of the Umbrella. Aegis-equipped destroyers provide upper-tier interception of ballistic missiles in mid-course, while land-based Type 03 missile systems provide lower-tier defense against terminal-phase threats. The system is integrated with the Satori network, allowing automated threat tracking and engagement coordination across all platforms.
+
+=====Combat Aircraft and Systems: The Aerial Forge=====
+The SAF operates a mixed fleet of manned and unmanned aircraft, with a doctrinal emphasis on unmanned systems for high-risk missions and manned aircraft for complex decision-making scenarios.
+
+'''Manned Combat Aircraft:'''
+
+* '''Mitsubishi F-3 (Goshawk):''' The SAF's premier fighter aircraft, the F-3 is a domestically produced 5th-generation stealth fighter optimized for air defense and maritime strike. Its advanced avionics integrate seamlessly with the Satori network, allowing real-time data sharing with other aircraft and ground stations. The F-3's stealth capabilities enable penetration of contested airspace for precision strikes against maritime targets, supporting the Navy's sea control mission.
+
+* '''Mitsubishi F-2 (Viper Zero):''' A heavily upgraded multirole fighter based on advanced aerodynamic research, the F-2 serves as the SAF's workhorse aircraft for air defense, maritime patrol, and ground attack. Its indigenous composite wing provides exceptional maneuverability, while modernized radar and weapons systems keep it competitive with newer aircraft. The F-2 fleet is being progressively upgraded with Satori network integration and advanced electronic warfare suites.
+
+* '''Kawasaki C-2 (White Whale):''' The SAF's strategic airlifter, the C-2 provides heavy-lift capability for troop transport, equipment movement, and humanitarian aid delivery. Its high payload capacity and short-field performance enable operations from damaged runways and improvised airfields — critical for disaster response. The C-2 fleet is maintained in high readiness for immediate deployment, with crews trained in low-altitude mountain flying and adverse weather operations.
+
+* '''Boeing E-767 (Sentry):''' The SAF's airborne early warning and control platform, the E-767 provides long-range surveillance and battle management for air defense operations. Its advanced radar can track hundreds of targets simultaneously, directing fighter interceptors and surface-to-air missile batteries. The E-767 fleet operates continuously, providing 24/7 coverage of Okaiken's airspace and maritime approaches.
+
+'''Unmanned Systems:'''
+
+* '''Satori-Linked Combat Drones (T-4 Series):''' The SAF operates over 1,200 unmanned combat aerial vehicles (UCAVs) linked directly to the Satori network. These "loyal wingman" drones extend the sensor and weapons range of manned aircraft, functioning as forward scouts, electronic warfare platforms, and missile carriers. The T-4 drones can be controlled by pilots in manned aircraft or operated autonomously via Satori AI for pre-programmed missions. Their swarm capabilities allow saturation attacks that overwhelm enemy air defenses through sheer numbers and coordinated maneuver.
+
+* '''Maritime Patrol Drones (M-2 Sea Hawk):''' Long-endurance unmanned aircraft dedicated to maritime surveillance and anti-submarine warfare. The M-2 can remain airborne for 24+ hours, patrolling sea lanes and detecting submarine periscopes via advanced sensor suites. These drones free manned maritime patrol aircraft for complex missions while providing continuous coverage of the Silicon Lanes.
+
+* '''Tactical Surveillance Drones (R-1 Raven):''' Small, hand-launched unmanned aircraft used by ground units for tactical reconnaissance. Every infantry squad has access to R-1 drones for beyond-visual-range scouting, reducing risk to personnel in urban and mountainous terrain.
+
+=====Space and Cyber Operations: The Digital Forge=====
+The SAF has expanded beyond traditional atmospheric operations to include space domain awareness and cyber warfare, reflecting the technocratic nature of Okaiken's military philosophy.
+
+'''Space Operations Squadron:'''
+The SAF's Space Operations Squadron monitors satellite trajectories, orbital debris, and potential threats to Okaiken's space-based assets. While Okaiken does not maintain offensive space weapons, the Space Operations Squadron provides critical early warning of hypersonic glide vehicles and ballistic missile launches. The squadron works closely with civilian space agencies and commercial satellite operators, maintaining a comprehensive picture of orbital activity that benefits both military and civilian space operations.
+
+'''Cyber Defense Wing:'''
+The SAF operates specialized cyber defense units tasked with protecting military networks and, by extension, critical civilian infrastructure. Unlike offensive cyber warfare units maintained by some nations, Okaiken's cyber forces are purely defensive, focused on network hardening, intrusion detection, and rapid response to cyber attacks. The cyber defense wing recruits heavily from civilian technology sectors, with reservists including software engineers, network administrators, and cybersecurity professionals who maintain their skills in both civilian and military contexts.
 
 ====Sanese Imperial Guard (SIG)====
 The SIG ({{nihongo2|岡井県近衛師団}}) is a distinct, specialized branch numbering roughly 25,000 personnel. Their exclusive mandate is the physical protection of the Emperor, the Imperial Family, and designated properties of the Imperial House, including the primary palaces in Okami. The SIG also performs ceremonial duties during state visits and national holidays, maintaining traditional uniforms and cavalry units for public functions while employing state-of-the-art close protection tactics and counter-espionage protocols in their active security roles.
 
+=====Organization and Mission=====
+The SIG is organized into three functional regiments reflecting its dual mandate of ceremonial tradition and active security:
+
+* '''1st Guard Regiment (Palace Protection):''' Responsible for the physical security of the primary Imperial Palace complex in Okami and secondary residences. Palace Protection personnel maintain continuous security operations, including access control, surveillance, and close protection for Imperial Family members during official functions. These soldiers are selected for discretion, physical presence, and advanced Kakutōjutsu certification — they must be capable of neutralizing threats without firearms in crowded ceremonial environments.
+
+* '''2nd Guard Regiment (Honor Guard):''' Responsible for ceremonial functions including state visits, national holidays, and Imperial processions. The Honor Guard maintains traditional uniforms and equipment, including cavalry units mounted on Sanese Warmblood horses bred specifically for ceremonial duty. While primarily ceremonial, Honor Guard personnel are fully qualified combat soldiers who can transition to active security roles during emergencies.
+
+* '''3rd Guard Regiment (Intelligence and Counter-Espionage):''' Responsible for threat assessment, counter-intelligence operations, and protective intelligence for the Imperial Family. This regiment works closely with civilian intelligence agencies, monitoring potential threats to Imperial security and coordinating protective operations during Imperial travel and public appearances.
+
+=====Physical Standards and the Forge State Ideal=====
+The SIG maintains the highest physical standards in the SIF, reflecting its role as the physical embodiment of the guardian ideal. All SIG personnel must exceed Tier 1 Guardian Standard requirements, with additional qualifications in Kakutōjutsu (advanced instructor certification), close protection tactics, and ceremonial drill.
+
+The SIG's physical culture is deeply integrated with the broader Iron Body Center network. Guard personnel train at dedicated facilities within the Palace complex, but they also participate in civilian Goriki competitions and Iron Body Center events, serving as visible exemplars of the Forge State philosophy. When a SIG soldier wins a Goriki competition, it reinforces the cultural message that the Emperor's protectors are the nation's physical elite.
+
+Selection for the SIG is highly competitive, with only 2% of applicants accepted. Candidates must demonstrate exceptional physical capability, psychological stability, and loyalty to the Imperial House. The selection process includes 16 weeks of specialized training at the Imperial Guard Academy in Okami, where candidates undergo intensive physical conditioning, close protection tactics, and ceremonial drill. The washout rate exceeds 60%, ensuring that only the most capable soldiers serve in the Guard.
+
+=====Ceremonial Traditions and Cultural Role=====
+The SIG maintains several unique ceremonial traditions that connect the modern military to Okaiken's warrior heritage:
+
+* '''Guard Mounting Ceremony:''' Daily changing of the guard at the Imperial Palace, conducted with traditional weapons and drill movements dating to the Honda Shogunate. The ceremony is a major tourist attraction and serves as a visible reminder of the continuity between Okaiken's warrior past and its modern military.
+
+* '''Imperial Birthday Parade:''' Annual military parade honoring the Emperor's birthday, featuring all SIG regiments in full ceremonial dress. The parade includes traditional cavalry charges, martial arts demonstrations by Guard Kakutōjutsu instructors, and a physical fitness exhibition by Guard Iron Body Center members.
+
+* '''New Year Guard:''' Special security deployment during the New Year period when the Imperial Palace opens to the public. The entire SIG mobilizes for this event, providing security for the hundreds of thousands of citizens who visit the Palace grounds.
+
+The SIG's cultural role extends beyond ceremony. Guard personnel serve as physical ambassadors for the SIF, appearing at public fitness events, Iron Body Center openings, and Goriki competitions. Their presence reinforces the connection between military service and physical culture — the Emperor's protectors are not distant warriors but visible members of the community who share the nation's fitness values.
+
+====Okaiken Self-Defense Forces (OSDF)====
+The OSDF ({{nihongo2|岡井県自衛隊}}) is the civil guard and reserve arm of the Sanese Imperial Forces, responsible for homeland defense, disaster response, National Civic Service administration, and the management of the SIF's reserve forces. Unlike the four Imperial branches, which are professional combat forces under direct military command, the OSDF is a citizen-soldier organization constitutionally limited to domestic operations. It is not a separate standing army — it is an arm of the Imperial Forces, dependent on the Joint Staff for strategic deployment and barred from independent operational command.
+
+=====Origins: The 2011 Constitutional Compromise=====
+The OSDF's existence within the SIF is the product of a political compromise that nearly derailed the Second Imperial Restoration. The imperial faction, led by Prime Minister Kurosawa Kenji, demanded the complete dissolution of the Republican-era Okaiken Self-Defense Guard and the creation of a unified Imperial military under the Emperor. The pacifist bloc, led by Social Democratic Party chair Yamada Isamu, refused to accept the abolition of the "self-defense" institution that had defined Okaiken's military identity for over four decades. Yamada argued that dissolving the OSDG would eliminate the last constitutional barrier to remilitarization and risk repeating the statism of the 1930s.
+
+The compromise — brokered by Chief Justice Tanaka Makoto of the Supreme Court — preserved the Self-Defense Forces as a named entity but fundamentally restructured its relationship to the state. The OSDG was renamed the OSDF and placed under the authority of the Joint Staff and the Ministry of Defense. It retained its homeland-defense mandate and its institutional culture of pacifist restraint, but it lost three critical powers: independent operational command, the authority to deploy overseas, and direct reporting to the Prime Minister. The OSDF's administrative head became the Director-General, a civilian appointee confirmed by the Diet, rather than a military officer. In exchange, the pacifist bloc agreed to the constitutional amendments permitting the Imperial branches and the right of belligerency.
+
+This compromise satisfied neither faction completely — the imperialists viewed the OSDF as an institutional relic that diluted military unity, while the pacifists viewed it as a fig leaf for remilitarization. The resulting institutional tension has defined SIF politics for fifteen years.
+
+=====Mission and Mandate=====
+The OSDF's mandate is defined by Article 9bis of the Constitution, which establishes three core missions:
+
+* '''Homeland Defense:''' The OSDF is responsible for the territorial defense of the home islands in coordination with the Imperial branches. This includes coastal patrol, border security, critical infrastructure protection, and the operation of the civilian early warning network. The OSDF maintains its own coastal patrol vessels, ground defense units, and air defense batteries — but these assets are integrated with the Imperial branches' Satori network and cannot operate independently of the Joint Staff.
+
+* '''Disaster Response:''' The OSDF is the SIF's primary disaster response force, responsible for earthquake, typhoon, and tsunami relief operations. This mission — inherited directly from the OSDG — accounts for the majority of the OSDF's operational deployments. The OSDF maintains specialized engineering battalions, medical response teams, and logistics units dedicated to disaster relief, and its personnel are trained in collapsed-structure rescue, hazardous materials containment, and rapid infrastructure reconstruction.
+
+* '''National Civic Service Administration:''' The OSDF administers the 18-month National Civic Service program, including conscript intake, selection, training, and assignment. All conscripts enter the SIF through the OSDF, which assigns them to either OSDF homeland-defense units or — for the top 40% of each cohort — to the Imperial branches based on Guardian Standard scores and National Competency Exam results. This gives the OSDF enormous influence over the SIF's personnel pipeline, a fact that generates considerable resentment from the Imperial branches, particularly the Army, which views OSDF selection criteria as biased toward physical fitness over combat aptitude.
+
+=====Organizational Structure=====
+The OSDF is organized into three operational commands reflecting its domestic mandate:
+
+'''Coastal Defense Command ({{nihongo2|沿岸防衛司令部}}):'''
+Headquartered in Hakata, the Coastal Defense Command operates the OSDF's surface fleet — a collection of patrol vessels, mine countermeasures ships, and coastal radar stations that complement the Imperial Navy's deep-water fleet. The Coastal Defense Command is responsible for maritime border security, anti-smuggling operations, and the protection of inshore fishing grounds and commercial shipping lanes. Its vessels are not designed for blue-water operations — they lack the range, armament, and survivability of Imperial Navy warships — but they provide persistent presence in the littoral waters where the SIN's heavy combatants are uneconomical to operate. The Coastal Defense Command's relationship with the Imperial Navy is cooperative but tense: the SIN views the OSDF's coastal patrol as a useful supplement to its own operations, but resents the OSDF's separate budget line for maritime assets that could be more efficiently consolidated under naval command.
+
+'''Homeland Defense Command ({{nihongo2|国土防衛司令部}}):'''
+Headquartered in Shinagawa, the Homeland Defense Command is the OSDF's ground component, responsible for territorial defense, critical infrastructure protection, and civil security operations. The Homeland Defense Command maintains light infantry units, military police battalions, and air defense batteries positioned at key infrastructure nodes — power plants, data centers, transportation hubs, and government facilities. These units are not designed for offensive operations; they lack the heavy armor, artillery, and combined-arms capability of the Imperial Army. Instead, they are optimized for static defense, rapid deployment to threatened infrastructure, and the provision of security during civil emergencies. The Homeland Defense Command's relationship with the Imperial Army is the most contentious in the SIF: the SIA views the OSDF's ground units as redundant and under-equipped, while the OSDF views the SIA as an expeditionary force unsuited for the daily realities of homeland defense.
+
+'''Disaster Response Command ({{nihongo2|災害対策司令部}}):'''
+Headquartered in Kure, the Disaster Response Command is the OSDF's most active operational element, deploying more frequently than any other command in the SIF. It maintains specialized engineering battalions, chemical/biological/radiological/nuclear defense units, medical response teams, and logistics units dedicated to disaster relief. The Disaster Response Command operates the SIF's pre-positioned disaster response equipment depots — 46 facilities across the archipelago stocked with emergency supplies, heavy equipment, and temporary shelter materials. Its personnel are the most visible face of the SIF to the civilian population, and the Disaster Response Command's operational competence during major earthquakes and typhoons is a primary source of public support for the military.
+
+=====Personnel and the Transfer Pipeline=====
+The OSDF's personnel system is the entry point for all Sanese citizens entering military service. During the National Civic Service, conscripts are assessed by OSDF personnel officers using the Guardian Standard and National Competency Exam. The top performers are offered transfer to the Imperial branches — a process colloquially known as "graduating" ({{nihongo2|昇進}}) from the OSDF. This transfer pipeline is the primary source of enlisted personnel for the Imperial branches, which maintain relatively small recruitment offices of their own.
+
+The transfer system creates a persistent cultural friction. OSDF personnel who remain in the civil guard after their National Civic Service — whether by choice or because they did not meet Imperial branch standards — often resent the implication that they are "leftovers" from the selection process. Imperial branch personnel, conversely, view OSDF service as a stepping stone rather than a career, and the cultural gulf between the professional combat soldier and the citizen-soldier is a recurring source of tension within the Joint Staff.
+
+The OSDF maintains its own NCO corps, drawn primarily from former National Civic Service personnel who choose to re-enlist in the civil guard rather than transfer to the Imperial branches. These career OSDF NCOs are specialists in disaster response, civil defense, and infrastructure protection — skills that are not valued in the Imperial branches' combat-oriented promotion system but are critical to the OSDF's daily operations. The OSDF also maintains a separate officer corps, trained at the National Defense Academy's Civil Guard College rather than the Imperial military academies, reinforcing the institutional distinction between the two tracks.
+
+=====Reserve Force Management=====
+The OSDF administers the SIF's entire reserve system on behalf of the Joint Staff. Ready Reservists (150,000) maintain active Iron Body Center membership and participate in monthly training weekends organized by the OSDF. Standby Reservists (450,000) have completed their National Civic Service and maintain basic certification through the OSDF's annual refresher program. The Imperial branches do not maintain separate reserve forces — all reservists, regardless of their original branch assignment, are administered by the OSDF. This arrangement gives the OSDF significant leverage in budget negotiations, as the reserve system represents a substantial portion of the SIF's total personnel costs.
+
+=====Budget and Institutional Rivalry=====
+The OSDF's position as a fifth arm of the SIF has made defense budget negotiations among the five branches a perennial source of institutional conflict. With the SIF's total budget capped at 2.0% of GDP — significantly lower than regional competitors — the allocation of funds among the Navy, Army, Air Force, Imperial Guard, and OSDF is a zero-sum contest that shapes the strategic priorities and institutional culture of each branch.
+
+The Imperial Navy, which receives the largest share of the defense budget, generally supports the OSDF's budget position because the civil guard's homeland-defense mission frees the Navy to focus on blue-water operations and Silicon Lanes protection without diverting assets to coastal patrol. The Air Force is similarly supportive, as the OSDF's coastal radar and early warning stations supplement the Deep Sky Umbrella at lower cost than expanding the SAF's own surveillance fleet.
+
+The Imperial Army is the OSDF's most vocal opponent in budget negotiations. The SIA argues that the OSDF's Homeland Defense Command duplicates the Army's territorial defense mission, that the OSDF's ground units are under-equipped and would be combat-ineffective in a real conflict, and that consolidating homeland defense under Army command would eliminate redundancy and free resources for modernization. The OSDF counters that the Army's expeditionary focus and combat-oriented training make it unsuited for the daily realities of homeland defense — disaster response, civil security, and infrastructure protection — and that dissolving the OSDF would eliminate the only branch with genuine expertise in these missions.
+
+The Imperial Guard, with its small budget and elite mandate, is largely indifferent to the OSDF budget fight, though it occasionally sides with the OSDF on personnel matters — both branches share an interest in maintaining the Guardian Standard as a universal requirement rather than a combat-branch-specific standard.
+
+The OSDF's budget share has grown incrementally since 2011, driven by the increasing frequency and severity of natural disasters and the expansion of the National Civic Service program. This growth has come primarily at the expense of the Army's share, deepening the institutional rivalry between the two branches. The 2024 Defense White Paper, which proposed transferring the Army's Type 16 Maneuver Combat Vehicle fleet to the OSDF Homeland Defense Command, provoked a crisis in the Joint Staff Council that required direct intervention by the Prime Minister to resolve.
+
 ==Statistics and Demographics==
 
-With a total national population of approximately 89.6 million, the SIF maintains a robust force structure heavily augmented by its mandatory national service program. This provides the Imperial Kingdom with a massive, rapidly mobilizable manpower pool despite a relatively compact professional core.
+With a total national population of approximately 90.2 million, the SIF maintains a force structure that balances professional capability with the National Civic Service framework. Unlike mass conscript armies that maintain large standing forces through compulsory service, the SIF leverages Okaiken's physical culture infrastructure to maintain a smaller but highly capable professional core augmented by systematically trained reservists.
+
+===National Civic Service and Military Recruitment===
+The 18-month National Civic Service ({{nihongo2|国民奉仕}}) is the foundation of the SIF's personnel system, but it operates differently from conventional conscription. All citizens between ages 18–28 must complete service, but only 40% of conscripts are assigned to military branches — the remainder serve in civil defense, disaster response, infrastructure maintenance, or Iron Body Center instruction. This selective military assignment ensures that combat units receive only physically qualified personnel, while all citizens gain civil defense capability.
+
+Military-track conscripts are selected based on Guardian Standard assessment scores, National Competency Exam results, and physical aptitude testing. Candidates who score below military thresholds are redirected to civilian service tracks where their skills are more valuable. This meritocratic selection contrasts with universal conscription systems that assign all eligible citizens to military service regardless of aptitude.
+
+The National Civic Service produces several tangible benefits for the SIF:
+* A population with baseline civil defense training, enabling effective civilian support during disasters
+* A pool of physically qualified potential recruits for the professional force
+* Social integration between military and civilian populations through shared service experience
+* Technical skills transfer from civilian education to military applications
 
 ===Personnel Breakdown (2026)===
-* Total Active Duty Personnel: 312,500
-** Professional Career Core: 132,500
-** Active Conscripts (18-month rotation): 180,000
-* Ready Reserve Force (up to 5 years post-service): 150,000
-* Standby Reserve Force (up to age 45): 450,000
-* Annual Conscript Intake: 120,000
-* Officer to Enlisted Ratio: 1:7.4
+{| class="wikitable sortable"
+|-
+! Category !! Number !! Notes
+|-
+| Total Active Duty Personnel || 312,500 || Combined professional and conscript
+|-
+| Professional Career Core || 132,500 || Multi-year contract personnel
+|-
+| Active Conscripts (18-month rotation) || 180,000 || Military-track National Civic Service
+|-
+| Ready Reserve Force (5 years post-service) || 150,000 || Monthly training, Iron Body Center membership
+|-
+| Standby Reserve Force (up to age 45) || 450,000 || Basic certification maintained
+|-
+| Annual Conscript Intake || 120,000 || 40% of total National Civic Service cohort
+|-
+| Officer to Enlisted Ratio || 1:7.4 || Reflects technocratic emphasis on NCO corps
+|-
+| Female Personnel || 18.7% || Professional track only (conscripts male-only)
+|-
+| Average Enlistment Age (Professional) || 22.4 || Post-university recruitment
+|-
+| Re-enlistment Rate (First Term) || 68.3% || Competitive benefits and cultural prestige
+|-
+| Physical Standard Compliance (Tier 1) || 94.2% || Guardian Standard certification rate
+|}
+
+===Branch Personnel Distribution (2026)===
+{| class="wikitable"
+|-
+! Branch !! Active Personnel !! Professional Core !! Conscripts !! Reserve
+|-
+| Sanese Imperial Navy || 82,500 || 52,000 || 30,500 || 120,000
+|-
+| Sanese Imperial Army || 95,000 || 55,500 || 39,500 || —
+|-
+| Sanese Air Force || 40,000 || 20,000 || 20,000 || 75,000
+|-
+| Sanese Imperial Guard || 25,000 || 5,000 || 20,000 || 25,000
+|-
+| Okaiken Self-Defense Forces || 70,000 || 12,000 || 58,000 || 500,000
+|-
+| '''Total''' || '''312,500''' || '''144,500''' || '''167,500''' || '''600,000'''
+|}
 
 ===Ethnic Composition===
-To maintain high levels of internal cohesion and reflect the core demographics of the home islands, the SIF is overwhelmingly composed of ethnic Sanese personnel. 
+The SIF reflects the demographic composition of the home islands, with ethnic Sanese personnel comprising the overwhelming majority. The SIF does not maintain explicit ethnic recruitment quotas, but the Guardian Standard assessment and National Competency Exam are administered in Standard Sanese, creating a de facto language requirement that limits non-Sanese enrollment.
 * Yoroi ([[Sanese people|Sanese]]): 95.8%
 * Atsu: 3.2%
 * Other: 1.0%
 
 ===Budget Allocation===
-The 2026 defense budget of ε84.2 trillion is strategically allocated to prioritize technological superiority and the maintenance of the Satori network over raw manpower expansion.
-* Weapons Procurement and Fleet Expansion: 32%
-* Personnel, Salaries, and Conscript Stipends: 28%
-* Operations, Maintenance, and Base Infrastructure: 24%
-* Research and Development (Advanced AI, Aerospace): 16%
+The 2026 defense budget of ε84.2 trillion (2.0% of GDP) is strategically allocated to prioritize technological superiority and the maintenance of the Satori network over raw manpower expansion. This contrasts with nations that allocate 4–5% of GDP to defense, reflecting Okaiken's focus on quality over quantity. The allocation among five branches — a structure unique among major Fosian militaries — produces persistent institutional competition for resources.
+
+{| class="wikitable"
+|-
+! Category !! Percentage !! Amount (ε trillion) !! Notes
+|-
+| Weapons Procurement and Fleet Expansion || 32% || 26.9 || Domestic production priority
+|-
+| Personnel, Salaries, and Conscript Stipends || 28% || 23.6 || Includes Iron Body Center subsidies
+|-
+| Operations, Maintenance, and Base Infrastructure || 24% || 20.2 || Includes disaster response stockpiles
+|-
+| Research and Development (Advanced AI, Aerospace) || 16% || 13.5 || Satori network, autonomous systems
+|}
+
+'''Branch Budget Shares (2026):'''
+{| class="wikitable"
+|-
+! Branch !! Budget Share !! Key Priorities !! Institutional Position
+|-
+| Sanese Imperial Navy || 38% || Fleet expansion, nuclear propulsion, Silicon Lanes escort || Supports OSDF; frees Navy from littoral duties
+|-
+| Sanese Imperial Army || 22% || Armor modernization, combat systems, professional core || Opposes OSDF; views homeland defense as Army mission
+|-
+| Sanese Air Force || 18% || F-3 procurement, Deep Sky Umbrella, drone fleet || Neutral on OSDF; benefits from OSDF radar integration
+|-
+| Okaiken Self-Defense Forces || 15% || Disaster response, coastal patrol, NCS administration || Defends mandate; argues efficiency of consolidated civil defense
+|-
+| Sanese Imperial Guard || 7% || Palace security, ceremonial, close protection || Indifferent; occasionally allies with OSDF on personnel standards
+|}
+
+The Army's 22% share — the lowest among the three combat branches — reflects Okaiken's strategic orientation as a maritime nation. The SIA has lobbied aggressively for an increased share, arguing that the OSDF's 15% allocation duplicates capabilities that could be consolidated under Army command. The OSDF counters that its budget includes the entire National Civic Service program and the reserve system — functions that would cost the Army more to administer separately than they cost the OSDF under its current mandate.
 
 ===Infrastructure and Basing===
-The SIF operates a highly integrated network of facilities designed to project power outward while defending the home archipelago.
-* Major Joint Domestic Bases: 14
-* Naval Districts: 3 (Okami, Nagato, Vizhny)
-* Early Warning Radar Facilities: 28
-* Overseas Logistical Hubs: 2 (Southern Cilician Sea, Confederation of Balisca)
+The SIF operates a highly integrated network of facilities designed for archipelago defense and disaster response. Unlike continental militaries that maintain large forward bases, the SIF's infrastructure is distributed across the home islands, ensuring no single point of failure.
+
+{| class="wikitable"
+|-
+! Facility Type !! Number !! Notes
+|-
+| Major Joint Domestic Bases || 14 || Combined Army/Navy/Air Force operations
+|-
+| Naval Districts || 3 || Okami, Nagato, Vizhny
+|-
+| Air Defense Command Headquarters || 4 || Northern, Eastern, Central, Western
+|-
+| Early Warning Radar Facilities || 28 || Integrated with Deep Sky Umbrella
+|-
+| Iron Body Centers (Military) || 32 || Open to civilian members
+|-
+| Regional Army Training Centers || 5 || One per Regional Army
+|-
+| Specialized Training Schools || 8 || Including Red Regiment, ARDB, Cyber
+|-
+| Overseas Logistical Hubs || 2 || Southern Cilician Sea, Balisca
+|-
+| Disaster Response Equipment Depots || 46 || Pre-positioned for rapid deployment
+|}
 
 ===Equipment Inventories===
-The SIF relies on a doctrine of high-quality, domestically produced assets.
+The SIF relies on a doctrine of high-quality, domestically produced assets, supplemented by selective foreign procurement for specialized capabilities.
+
 '''Ground Assets (SIA)'''
-* Main Battle Tanks (Type 10): 420
-* Maneuver Combat Vehicles (Type 16): 650
-* Infantry Fighting Vehicles (Type 89): 800
-* Light Armored Mobility Vehicles: 3,500
-* Self-Propelled Artillery and MLRS Systems: 900
+{| class="wikitable sortable"
+|-
+! System !! Type !! Quantity !! Notes
+|-
+| Type 10 || Main Battle Tank || 420 || 44-tonne, bridge-compatible
+|-
+| Type 16 || Maneuver Combat Vehicle || 650 || Wheeled, highway-mobile
+|-
+| Type 89 || Infantry Fighting Vehicle || 800 || Includes physical training bay
+|-
+| Light Armored Mobility Vehicles || APC || 3,500 || Mine-resistant, urban-capable
+|-
+| Self-Propelled Artillery (Type 19) || 155mm SPH || 450 || Automated loading, 40km range
+|-
+| MLRS Systems || Rocket Artillery || 450 || Satori-linked targeting
+|-
+| Type 12 || Surface-to-Ship Missile || 200+ || Coastal defense batteries
+|-
+| Type 03 || Medium-Range SAM || 120+ || Point defense, mobile
+|-
+| Engineering Vehicles || Various || 600+ || Bridge-laying, mine-clearing, rescue
+|}
 
 '''Maritime Assets (SIN)'''
-* Aviation Cruisers (Ichijoudani-class): 4
-* Guided Missile Destroyers (Aegis-equipped): 36
-* Frigates and Corvettes: 22
-* Submarines (Taigei-class and Sōryū-class): 22
-* Coastal Patrol and Mine Countermeasure Craft: 45
-* Auxiliary and Fleet Replenishment Vessels: 18
+{| class="wikitable sortable"
+|-
+! System !! Type !! Quantity !! Notes
+|-
+| Ichijoudani-class || Aviation Cruiser || 4 || Nuclear, icebreaking, F-3 capable
+|-
+| Aegis-equipped DDG || Guided Missile Destroyer || 36 || BMD-capable, Satori-integrated
+|-
+| Frigates and Corvettes || Surface Combatant || 22 || Coastal patrol, ASW
+|-
+| Taigei-class || Lithium-ion Submarine || 12 || Ultra-quiet, Silicon Lanes protection
+|-
+| Sōryū-class || AIP Submarine || 10 || Extended submerged operations
+|-
+| Coastal Patrol and MCM Craft || Patrol/Mine Warfare || 45 || Archipelago-specific
+|-
+| Auxiliary and Fleet Replenishment || Logistics || 18 || Underway replenishment
+|-
+| Icebreakers || Polar Operations || 3 || Yagikoshu northern operations
+|-
+| Hospital/Disaster Response Ships || Medical/Rescue || 4 || Typhoon/earthquake response
+|}
 
 '''Aerospace Assets (SAF)'''
-* 5th-Generation Stealth Fighters (F-3): 120
-* Multirole Fighters (F-2): 220
-* Strategic Transport Aircraft (C-2): 45
-* Airborne Early Warning and Control (E-767): 8
-* Unmanned Combat Aerial Vehicles (Satori-linked): 1,200+
-* Heavy Lift and Attack Helicopters: 350
+{| class="wikitable sortable"
+|-
+! System !! Type !! Quantity !! Notes
+|-
+| Mitsubishi F-3 || 5th-Gen Stealth Fighter || 120 || Air defense, maritime strike
+|-
+| Mitsubishi F-2 || Multirole Fighter || 220 || Upgraded with Satori integration
+|-
+| Kawasaki C-2 || Strategic Transport || 45 || Short-field, disaster response
+|-
+| Boeing E-767 || AEW&C || 8 || 24/7 airspace surveillance
+|-
+| T-4 Series || UCAV (Satori-linked) || 1,200+ || Loyal wingman, swarm tactics
+|-
+| M-2 Sea Hawk || Maritime Patrol Drone || 80+ || Long-endurance, ASW
+|-
+| R-1 Raven || Tactical Surveillance Drone || 500+ || Squad-level, hand-launched
+|-
+| Heavy Lift and Attack Helicopters || Rotary Wing || 350 || CH-47J, AH-64D, UH-60J
+|-
+| Search and Rescue Helicopters || Rotary Wing || 60 || Maritime and mountain rescue
+|}
 
 ==Defense Policy==
 
 ===The Satori System===
 A unique aspect of Sanese defense is the Satori System, an integrated AI-driven command network that links all SIF assets with the nation's civilian digital infrastructure. The system allows for real-time synchronization of naval fire, air defense, and army logistics. It functions as an automated deterrent, capable of activating the Deep Sky Umbrella without direct human intervention in the event of a saturation strike. The Satori network also incorporates advanced predictive algorithms, analyzing global supply chain fluctuations and maritime traffic to preemptively position SIN escorts along vulnerable sectors of the Silicon Lanes.
 
+The Satori System represents the technocratic ideal at the heart of the Forge State philosophy — military capability enhanced through technological sophistication rather than mass mobilization. Where some regional militaries rely on numerical superiority and mass consscript armies, Okaiken compensates with networked intelligence that multiplies the effectiveness of each individual asset. A single Aegis destroyer integrated with the Satori network can coordinate with satellite surveillance, submarine sonar, and coastal radar to provide coverage that would require multiple un-networked vessels.
+
+===Data-Gate and the Satori Surveillance Scandal (2016)===
+The Satori System's military integration became the subject of the most consequential political scandal in modern Okaiken history. In June 2016, leaked documents revealed that the Kurosawa administration had repurposed the Satori network — originally designed for traffic management and military command coordination — for unauthorized domestic surveillance of opposition politicians, journalists, and ordinary citizens. The scandal, known as {{nihongo|Data-Gate|データゲート|Dēta Gēto}}, shattered public trust in the "Technocratic Dream" and directly led to Kurosawa's resignation on June 3, 2016.
+
+The military implications of Data-Gate were profound. The Supreme Court's ruling in the {{nihongo|Satori Surveillance Case|サトリ監視裁判|Satori Kanshi Saiban}} (2016) held that the program infringed constitutional protections for freedom of expression and privacy of communications. The Court's majority opinion, authored by Associate Justice Tomoko Arai, declared that "efficiency is not a warrant for the suspension of constitutional rights. A warrant issued by a machine is no warrant at all." This ruling established binding precedent limiting the military's use of AI-driven surveillance and requiring judicial authorization for any Satori-derived intelligence used in domestic operations.
+
+Data-Gate's legacy continues to shape the SIF's relationship with the Satori network. The OSDF — which had long distrusted the Imperial branches' enthusiasm for AI-integrated command — emerged from the scandal with enhanced credibility, its institutional caution about Satori dependency vindicated by events. The Imperial branches, particularly the Navy and Air Force, were forced to implement "human-in-the-loop" safeguards requiring manual confirmation of any Satori-generated targeting or surveillance directive. These safeguards remain in place and are a source of ongoing friction between technocratic officers who view them as operationally restrictive and institutionalists who view them as essential democratic safeguards.
+
+===The Satori AI Blackout Crisis (2026)===
+{{Main|Satori AI Blackout Crisis}}
+The catastrophic failure of the Satori AI system on May 1, 2026 — 72 hours of total digital collapse that paralyzed Okaiken's critical infrastructure — represented the most severe operational crisis in the SIF's history. The failure of three Satori data centers (Yonezawa, Aizawa, and Seto) cascaded through every military system dependent on networked intelligence, exposing the strategic vulnerability created by the SIF's deep integration with a single AI platform.
+
+'''Military Impact:'''
+The Satori Blackout's effect on the SIF was immediate and severe:
+
+* '''Naval Operations:''' The SIN's Aegis-equipped destroyers, which relied on Satori network integration for fleet-wide ballistic missile defense coordination, reverted to standalone combat systems. Each vessel retained independent combat capability, but the fleet's ability to coordinate across flotillas was severely degraded. The four Escort Flotillas operated in isolation for 72 hours, unable to share real-time threat data or coordinate defensive coverage of the Silicon Lanes. The INS ''Satori'', the Navy's Satori-networked flagship, was rendered operationally blind — its advanced combat information center reduced to manual radar plotting.
+
+* '''Air Defense:''' The Deep Sky Umbrella's automated engagement systems — designed to activate without direct human intervention in the event of a saturation strike — went offline entirely. The SAF's Quick Reaction Alert fighters at Shinagawa and Aizawa continued manual scrambles using pre-Satori backup procedures, but the integrated early warning network that connected AWACS platforms, coastal radar, and satellite surveillance collapsed. For 72 hours, Okaiken's airspace was protected only by individual fighter patrols and local air defense batteries operating without centralized coordination.
+
+* '''Ground Forces:''' The SIA's Satori-linked targeting systems — including the Type 12 surface-to-ship missile batteries and the MLRS rocket artillery systems — lost their networked targeting capability. Individual units could still fire using local radar and optical targeting, but the ability to coordinate fires across regional commands was eliminated. The Eastern Army's Cyber-Defense Battalion, which operated at the intersection of physical and digital warfare, was particularly affected: its tactical electronic warfare capabilities were dependent on Satori network access that no longer existed.
+
+* '''The Ghost Fleet:''' The SIN's fleet of T-4 Series Satori-linked combat drones — over 1,200 unmanned combat aerial vehicles that served as the SAF's "loyal wingman" force — were grounded entirely. Without the Satori network to provide autonomous coordination and swarm management, the drones could not operate in their designed configuration. The loss of the T-4 fleet represented a 40% reduction in the SAF's total combat aircraft availability during the crisis.
+
+* '''Self-Defense Forces:''' The OSDF, which maintained the least Satori dependency of any branch, was the least affected. Its coastal patrol vessels, disaster response units, and homeland defense forces operated primarily on standalone systems and local radio communications. The OSDF's Disaster Response Command became the primary military responder during the crisis, deploying engineering battalions and medical teams to civilian areas affected by the blackout while the Imperial branches struggled to restore combat capability.
+
+'''Casualties and Aftermath:'''
+The Satori Blackout contributed to 23 deaths and over 80 injuries across Okaiken, primarily through cascading failures in civilian infrastructure (hospital systems, rail networks, emergency services). Direct military casualties were limited — the SIF's backup systems and manual procedures prevented loss of life within military operations — but the strategic implications were devastating. The crisis demonstrated that Okaiken's defense posture was fundamentally dependent on a single technology platform, and that the failure of that platform could neutralize the SIF's technological advantage within minutes.
+
+Defense Minister [[Yuriko Katsumata]], appointed in the Ikazaki Cabinet on May 20, 2026, ordered a comprehensive review of SIF Satori dependency within her first week in office. The review, conducted by the [[Special Commission on Digital Infrastructure Accountability]] (commonly known as the Kizan Commission), is examining all Kizan Systems government contracts, the Satori AI platform's architectural failures, and the broader implications of Okaiken's dependence on a single technology provider for critical national infrastructure.
+
+===The Kizan Commission and Procurement Reform===
+{{Main|Special Commission on Digital Infrastructure Accountability}}
+The [[Special Commission on Digital Infrastructure Accountability]], established by Prime Minister [[Kousuke Ikazaki]] on May 22, 2026, has profound implications for the SIF's procurement strategy and its relationship with [[Kizan Systems]], the primary contractor for the Satori network and its military applications.
+
+The Commission's investigation has revealed that Kizan Systems' government contracts — including the military-specific Satori integration contracts for the Deep Sky Umbrella, the SIN's fleet-wide Aegis coordination system, and the T-4 drone swarm management platform — were awarded through no-bid procurement processes that bypassed standard security review. The Commission's Phase 1 technical review (May–June 2026) found that the Satori network's military integration lacked the redundancy and fail-safe mechanisms required for critical defense infrastructure, and that Kizan Systems had been permitted to design and implement these systems without independent architectural audit.
+
+The Commission's Phase 2 financial review (June–July 2026) is examining the pricing structure of Kizan Systems' military contracts, with preliminary findings suggesting that the company's monopoly position allowed premium pricing well above market rates for comparable systems. The SIF's domestic supplier list — which includes Kizan Systems alongside Mitsubishi Heavy Industries, Yoroi Steel Works, Okami Electronics, and Nagato Marine United — is under review for potential diversification to reduce single-source dependency.
+
+The Kizan Commission's findings have intensified the long-standing institutional debate within the SIF about Satori dependency. The OSDF, which had historically advocated for greater manual backup capability and reduced AI integration, has seen its position dramatically strengthened. The Imperial Navy and Air Force, which had the deepest Satori integration and suffered the most severe operational degradation during the Blackout, are now reassessing their technology roadmaps. The Army, which maintained more standalone capability, has argued that the crisis validates its preference for platforms that can operate independently of networked systems.
+
+The Commission's investigation expanded dramatically in July 2026 when investigators discovered that Kizan Systems had exported Satori AI technology to the Dagiti National Police under a ₱890 million contract approved during the final months of the Tañada administration. This international dimension — which transformed the Commission from a domestic infrastructure review into an international accountability investigation — has raised questions about whether military-grade Satori technology was exported without proper security review, potentially compromising the SIF's technological advantage.
+
+===The Kurosawa Doctrine===
+The Kurosawa Doctrine ({{nihongo2|黒澤主義}}), established following the 2011 constitutional revisions, defines the SIF's strategic posture. Named after Prime Minister Kurosawa Kenji, who championed the transition from the Self-Defense Guard to the Imperial Forces, the doctrine establishes three core principles:
+
+* '''Silicon Lanes Protection:''' The primary strategic mission of the SIF is securing the undersea cable networks that carry Okaiken's digital economy. Any threat to the Silicon Lanes constitutes a casus belli, and the SIF maintains continuous naval patrols along vulnerable cable routes.
+
+* '''Archipelago Defense:''' The SIF is structured for defensive operations within Okaiken's territorial waters and airspace. Power projection beyond the immediate archipelago is limited to protecting economic lifelines and Sanese citizens abroad.
+
+* '''Disaster Response Primacy:''' The SIF maintains equal readiness for natural disaster response and military operations. This principle reflects the reality that earthquakes and typhoons pose a more frequent threat than foreign military action, and that disaster response capability directly serves the Forge State ideal of military service as civic guardianship.
+
+The Kurosawa Doctrine explicitly rejects preventive war, first-strike nuclear capability, and permanent overseas basing of combat forces. These limitations are constitutional, not merely policy — they can only be changed through amendment, requiring two-thirds parliamentary approval and a national referendum.
+
 ===Unarmed Combat (Okaiken Kakutōjutsu)===
 The SIF utilizes a specialized self-defense system known as Okaiken Kakutōjutsu ({{nihongo2|岡井県格闘術}}). Adopted in 2008 and refined in 2012, the system emphasizes close-quarters knife defense, grappling, and joint manipulation. It was designed specifically for use in the cramped corridors of naval vessels and dense urban environments where traditional firearms may be impractical or highly dangerous to collateral infrastructure. All personnel, regardless of branch, must undergo basic certification in the system during their National Service, with advanced instructor courses mandatory for the Imperial Guard and Red Regiment.
 
+Kakutōjutsu reflects the Forge State integration of physical culture and military capability. The system draws techniques from traditional Sanese martial arts (judo, aikido, kendo) but adapts them for modern combat scenarios. Training emphasizes functional application over formal kata — soldiers practice techniques against resisting opponents in realistic environments, not stylized demonstrations. The system's philosophy mirrors the broader Iron Body Center approach: physical capability developed through progressive overload, tested under realistic conditions, and maintained through continuous practice.
+
+The Kakutōjutsu certification system parallels the Iron Body Center's tiered structure:
+* '''Basic Certification:''' Required for all National Civic Service personnel. Covers fundamental self-defense, restraint techniques, and weapon retention.
+* '''Intermediate Certification:''' Required for professional soldiers. Adds close-quarters combat, multiple opponent defense, and environment-specific techniques (shipboard, urban, vehicle).
+* '''Advanced Certification:''' Required for Imperial Guard and Red Regiment. Includes instructor qualification, weapons integration, and scenario-based training against armed opponents.
+
+===Forge State Integration: The Military as Physical Culture===
+The SIF's most distinctive characteristic is its seamless integration with Okaiken's civilian physical culture through the National Iron Body Initiative (NIBI). Unlike militaries that maintain separate physical training systems, the SIF leverages the civilian Iron Body Center network for personnel development, creating a unified physical culture that spans military and civilian spheres.
+
+'''Iron Body Centers on Military Bases:'''
+Every SIF installation maintains an attached Iron Body Center open to both military personnel and civilian members. These facilities serve as community hubs where soldiers and civilians train together, breaking down the social barriers that separate military and civilian populations in many nations. A software engineer from Okami may bench press alongside an infantry sergeant, their shared physical culture creating social bonds that transcend occupational boundaries.
+
+This integration serves practical military purposes. Reservists maintain fitness through civilian Iron Body Center membership, eliminating the need for separate reserve training facilities. Potential recruits are identified through their civilian training records — the SIA actively recruits top performers from civilian fitness competitions and Goriki events. The physical standards for military service are identical to those for civilian Iron Body Center advanced certification, creating a seamless pipeline from civilian fitness enthusiast to professional soldier.
+
+'''Physical Standards and the Guardian Standard:'''
+All SIF personnel, regardless of rank or role, must maintain certification under the Guardian Standard health assessment system. This goes far beyond typical military physical fitness tests — the Guardian Standard evaluates functional capacity, mobility, and resilience, ensuring that soldiers can perform their duties under adverse conditions. Officers who cannot pass the Guardian Standard are reassigned to administrative roles or dismissed, regardless of intellectual qualifications. This reflects the Forge State principle that leadership requires physical exemplarity.
+
+The SIF maintains tiered physical standards corresponding to operational roles:
+* '''Tier 1 (Combat Arms):''' Paralleling competitive Goriki standards — requires demonstrated strength, endurance, and mobility under load. Infantry, armor, and combat engineers must maintain this tier.
+* '''Tier 2 (Combat Support):''' High functional fitness with role-specific adaptations — artillery, logistics, and signal personnel maintain this tier, with modifications for their occupational demands.
+* '''Tier 3 (Combat Service Support):''' Baseline Guardian Standard certification — medical, administrative, and technical personnel maintain this tier, with physical requirements scaled to their roles.
+
+These standards are enforced through continuous assessment, not annual testing. Soldiers undergo monthly physical evaluations at base Iron Body Centers, with results recorded in their permanent records. Promotion boards consider physical performance alongside operational and intellectual qualifications — a captain who excels tactically but neglects physical conditioning will be passed over for major in favor of a more balanced candidate.
+
+'''The NCO Pipeline: Goriki to Sergeant:'''
+The SIF's non-commissioned officer corps draws heavily from the civilian physical culture community. Senior Goriki competitors, Iron Body Center instructors, and competitive athletes are actively recruited for NCO positions, where their physical expertise and leadership experience translate directly to military training roles. This creates a distinctive NCO culture where technical competence and physical exemplarity are equally valued.
+
+The "Goriki to Sergeant" pipeline works through formal programs: the SIA maintains recruitment booths at major Goriki competitions, and the Iron Body Center network provides referral bonuses for members who enlist. Once in service, former Goriki competitors typically advance rapidly through the NCO ranks, their civilian physical credentials providing immediate credibility with subordinates.
+
 ===Foreign Deployments and Peacekeeping===
 While the Kurosawa Doctrine limits broad international entanglements, the SIF frequently participates in targeted overseas deployments. These missions are strictly defined by their strategic value to Okaiken. The SIF has established a permanent logistical hub in the southern Cilician Ocean to support anti-piracy operations and secure lithium transport routes. Additionally, engineering battalions from the SIA are regularly dispatched to allied nations following natural disasters, leveraging their extensive domestic experience in earthquake and typhoon recovery to build diplomatic goodwill and test deployment logistics.
+
+===Comparison with Regional Forces===
+The SIF's structure and doctrine differ significantly from other major military forces in the Fosian sphere, reflecting Okaiken's unique geography, political system, and cultural values.
+
+{| class="wikitable"
+|-
+! Parameter !! SIF (Okaiken) !! Typical Regional Forces
+|-
+| Active Personnel || 312,500 || 400,000–550,000
+|-
+| Reserve Personnel || 600,000 || 800,000–900,000
+|-
+| GDP Allocation || 2.0% || 3.5–5.0%
+|-
+| Conscription Model || Selective (40% military track) || Universal
+|-
+| Physical Standards || Guardian Standard (continuous) || Annual fitness test
+|-
+| Civilian Integration || Iron Body Center network || Separate military facilities
+|-
+| Primary Mission || Archipelago defense + disaster response || Territorial defense + power projection
+|-
+| Technology Focus || Satori network, autonomous systems || Conventional platforms
+|-
+| Officer Selection || Meritocratic (National Competency Exam) || Mixed (merit + political)
+|}
+
+The SIF's smaller size and lower GDP allocation reflect Okaiken's strategic choice to invest in technological sophistication and physical culture integration rather than mass mobilization. This approach produces a military that is highly capable within its defensive mission but lacks the power projection capacity of larger forces — a deliberate trade-off consistent with the Kurosawa Doctrine.
 
 ==See also==
 * [[Kurosawa Doctrine]]
 * [[East Fosian Sphere]]
 * [[Imperial House of Okaiken]]
+* [[National Iron Body Initiative]]
+* [[Cult of Iron]]
+* [[Iron Body Center]]
+* [[Guardian Standard]]
+* [[Goriki]]
+* [[Sanese Imperial Navy]]
+* [[Sanese Imperial Army]]
+* [[Sanese Air Force]]
+* [[Sanese Imperial Guard]]
+* [[Okaiken Self-Defense Forces]]
+* [[Military history of Okaiken]]
+* [[Okaiken Kakutōjutsu]]
+* [[Satori System]]
+* [[Silicon Lanes]]
+* [[Satori AI Blackout Crisis]]
+* [[Special Commission on Digital Infrastructure Accountability]]
+* [[Kizan Systems]]
+* [[Honda Shigetomo]]
+* [[Kazuki Hino]]
 
 ==References==
 {{reflist}}
@@ -184,3 +719,7 @@ While the Kurosawa Doctrine limits broad international entanglements, the SIF fr
 [[Category:2011 establishments in Okaiken]]
 [[Category:Okaiken topics]]
 [[Category:Okaiken]]
+[[Category:Government of Okaiken]]
+[[Category:Cult of Iron]]
+[[Category:Satori AI]]
+[[Category:Kizan Systems]]

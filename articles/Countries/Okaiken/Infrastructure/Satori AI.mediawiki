@@ -36,7 +36,7 @@ The initial version of Satori, codenamed "Project Kougyou-On" (工業音, "Indus
 === Expansion (2011–2016) ===
 The [[Jutsu Restoration]] of 2011 fundamentally transformed Satori's trajectory. As the [[Honda Shigetsuma|Honda administration]] pursued "digital statism," the government sought domestic alternatives to foreign AI systems, viewing dependence on [[Volisanian]] or [[Zong]] technology as a national security vulnerability.
 
-In September 2011, the Ministry of Transport awarded Kizan Systems a ¥45 billion contract to integrate Satori into [[Okaiken Airways]]' flight operations. The resulting "Satori Sky-Sync" system provided real-time flight path optimization, weather analysis, and fuel efficiency management. By 2013, the system had reduced average system-wide delays to less than 45 seconds and decreased fuel consumption by 12% across the national carrier's fleet.
+In September 2011, the Ministry of Transport awarded Kizan Systems a 円45 billion contract to integrate Satori into [[Okaiken Airways]]' flight operations. The resulting "Satori Sky-Sync" system provided real-time flight path optimization, weather analysis, and fuel efficiency management. By 2013, the system had reduced average system-wide delays to less than 45 seconds and decreased fuel consumption by 12% across the national carrier's fleet.
 
 This period also saw Satori's expansion into defense applications. Under Prime Minister [[Toshiro Kurosawa]] (2013–2016), Kizan secured contracts to develop "Satori Defense," a logistics and predictive maintenance platform for the [[Okaiken Self-Defense Forces]]. Internal emails later revealed that Kurosawa's staff had pressured defense officials to prioritize domestic AI over superior foreign alternatives.
 
@@ -54,7 +54,7 @@ In October 2022, the ''[[Okami Financial Chronicle]]'' published an investigatio
 
 The [[Board of Audit (Okaiken)|Board of Audit]] launched a formal investigation in March 2023. In April 2024, [[Kizan Toshiaki]] testified before the [[House of Commoners (Okaiken)|House of Commoners]] Budget Committee for seven hours, the longest testimony by a private sector executive in the Diet's history. Kizan defended the contracts as necessary for national security, arguing that competitive bidding would have exposed sensitive specifications to foreign intelligence services.
 
-As of 2026, the investigation remains ongoing. The [[Competitive Bidding Reform Act of 2024]] requires all AI-related defense contracts exceeding ¥1 billion to undergo mandatory public tender with independent oversight.
+As of 2026, the investigation remains ongoing. The [[Competitive Bidding Reform Act of 2024]] requires all AI-related defense contracts exceeding 円1 billion to undergo mandatory public tender with independent oversight.
 
 === Satori AI Blackout Crisis ===
 {{main|Satori AI Blackout Crisis}}
@@ -70,7 +70,7 @@ Key capabilities include:
 * '''Fuel optimization''': Calculation of optimal cruising altitudes and speeds based on wind patterns
 * '''Delay prediction''': System-wide delay predictions with 94% accuracy up to 4 hours in advance
 
-The system has been credited with reducing Okaiken Airways' annual fuel costs by approximately ¥12 billion and improving on-time performance from 78% to 91% between 2013 and 2023.
+The system has been credited with reducing Okaiken Airways' annual fuel costs by approximately 円12 billion and improving on-time performance from 78% to 91% between 2013 and 2023.
 
 === Satori Rail ===
 The original application of Satori, Satori Rail manages background audio systems, passenger flow, and predictive maintenance across the [[Okaiken Railways]] network. The system generates ambient soundscapes designed to reduce commuter stress, utilizing bioacoustic research from the [[Okami Institute of Technology]].
@@ -90,7 +90,7 @@ Launched in 2019, Satori Health provides diagnostic support and patient scheduli
 === Hardware ===
 Satori runs exclusively on [[Kiryū]] processors designed and manufactured by Kizan Systems. The platform utilizes a distributed architecture spread across three primary data centers located in [[Yonezawa Prefecture]], [[Aizawa]], and [[Seto Prefecture]].
 
-This hardware dependency has been identified as a significant vulnerability. Unlike competitors in [[Zong]] and [[Illypnia]], Kizan Systems lacks domestic manufacturing capabilities for advanced photolithography equipment. All extreme ultraviolet (EUV) lithography systems used to manufacture Kiryū processors are purchased from [[Briesland]] manufacturer VoxelTech. In 2023, proposed export restrictions threatened to delay production of Kiryū 5 processors by eighteen months, raising concerns about the platform's long-term viability.
+This hardware dependency has been identified as a significant vulnerability. Unlike competitors in [[Zong]] and [[Illypnia]], Kizan Systems lacks domestic manufacturing capabilities for advanced photolithography equipment. All extreme ultraviolet (EUV) lithography systems used to manufacture Kiryū processors are purchased from [[Breisland]] manufacturer VoxelTech. In 2023, proposed export restrictions threatened to delay production of Kiryū 5 processors by eighteen months, raising concerns about the platform's long-term viability.
 
 === Software ===
 Satori's neural architecture is based on a proprietary framework developed by Kizan Systems researchers. Unlike mainstream transformer-based models used by [[Illypnia|Illypnian]] competitors, Satori utilizes a hybrid architecture combining transformer attention mechanisms with recurrent networks optimized for time-series prediction.

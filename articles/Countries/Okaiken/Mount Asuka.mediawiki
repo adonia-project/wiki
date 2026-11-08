@@ -1,40 +1,178 @@
-{{Short description|Highest peak and active stratovolcano in Okaiken}}
+﻿{{Short description|Highest peak and active stratovolcano in Okaiken}}
 {{Infobox mountain
 | name = Mount Asuka
-| native_name ={{native name|ja|浅香山}}
+| native_name = {{native name|ja|飛鳥岳}}
 | photo = Mount Asuka.png
-| photo_caption = The 4,000-meter symmetrical cone of Mt. Asuka, the highest point in Okaiken.
-| elevation_m = 4000
-| elevation_ft = 13123
-| prominence_m = 4000
+| photo_caption = The symmetrical cone of Mt. Asuka, the highest point in Okaiken, showing the northwest collapse scarp.
+| elevation_m = 3918
+| elevation_ft = 12854
+| prominence_m = 3918
+| coordinates = {{coord|14.6851|S|163.1467|E|region:OK_type:mountain|display=inline,title}}
+| map = Okaiken
+| map_caption = Location of Mount Asuka in Okaiken
+| map_size = 250
+| relief = yes
 | listing = [[Highest peak in Okaiken]]<br />[[List of volcanoes in Okaiken]]
-| location = [[Ishijima]], [[Okaiken]]
-| range = [[Ishijima Volcanic Range]]
+| location = [[Gunma Prefecture|Gunma]] / [[Tochigi Prefecture|Tochigi]] / [[Ishijima Prefecture|Ishijima]], [[Ishijima]], [[Okaiken]]
+| range = [[Asuka Range]], [[Ishijima Volcanic Range]]
 | type = [[Stratovolcano]] / [[Complex volcano]]
 | age = [[Late Pleistocene]]–[[Holocene]]
 | volcanic_arc = [[Ishijima Arc]]
 | last_eruption = 2019
 }}
 
-{{nihongo|'''Mount Asuka'''|浅香山|Asuka-yama}} is an active stratovolcano situated on the central industrial island of Ishijima within the [[Okaiken]]. Standing at a summit elevation of 4000 meters, it is the undisputed highest mountain in the country and serves as a primary cultural icon for the Sanese people. The mountain is recognized for its exceptionally symmetrical cone, which is covered in snow for several months of the year, dominating the skyline of the central provinces. As a highly active complex volcano, it sits within the volcanic range that encompasses the Shinano Caldera and is closely monitored by the Ministry of Technology.
+{{nihongo|'''Mount Asuka'''|飛鳥岳|Asukadake}} is an active stratovolcano situated on the central industrial island of [[Ishijima]] within the [[Okaiken]]. Standing at a summit elevation of 3,918 meters, it is the highest mountain in the country and serves as a primary cultural icon for the Sanese people. The mountain is recognized for its exceptionally symmetrical cone, which is covered in snow for several months of the year, dominating the skyline of the central provinces. The mountain's most prominent geological feature is a massive collapse scarp on its northwest flank, where a catastrophic sector collapse during the 1108 eruption destroyed what was once a perfectly conical peak. As a highly active complex volcano, it sits within the [[Asuka Range]]—part of the volcanic chain that encompasses the [[Tōya Caldera]]—and is closely monitored by the Ministry of Technology through the [[Satori (algorithm)|Satori predictive algorithm suite]].
+
+Mount Asuka sits at the three-way boundary between [[Gunma Prefecture|Gunma]], [[Tochigi Prefecture|Tochigi]], and [[Ishijima Prefecture|Ishijima]] prefectures, a geographic junction that has shaped the mountain's cultural, economic, and strategic significance across the span of Sanese history. The three prefectures share the mountain's watershed, its geothermal energy, and its mineral deposits, each developing a distinct relationship with the volcano that reflects their different geographies: Gunma's precision engineering industry draws on the Asuka foothills' iron ore; Tochigi's landlocked interior relies on the mountain's hot springs and mountain passes for tourism and trade; and Ishijima Prefecture's eastern coast harnesses the Asuka massif's geothermal energy for agriculture and power.
 
 ==Geography and Climate==
-Mount Asuka is a distinctive feature of the Okaiken geography, located near the eastern coast of central Ishijima. It is surrounded by the Five Lakes of Shinano, which provide mirrored views of its symmetrical slopes. The summit experiences a tundra climate characterized by low temperatures and high wind speeds, while the lower slopes are dominated by dense forests of blue pine and cedar. Seasonal snowcaps typically form in early October and persist until late May, creating a stark white peak that is visible from the capital city of Okami on clear days. The base of the mountain serves as a crucial watershed for the industrial sectors of Ishijima, feeding the rivers that power the regional hydroelectric grids.
+
+Mount Asuka is a distinctive feature of the Okaiken geography, located near the eastern coast of central [[Ishijima]]. The mountain rises from a base elevation of approximately 800–1,000 meters to its summit at 3,918 meters, creating a relief of nearly 3,000 meters. It is surrounded by the [[Five Lakes of Tōya]], which provide mirrored views of its symmetrical slopes. The summit experiences a tundra climate characterized by low temperatures and high wind speeds, while the lower slopes are dominated by dense forests of blue pine and cedar. Seasonal snowcaps typically form in early October and persist until late May, creating a stark white peak that is visible from the capital city of [[Okami]] on clear days. The base of the mountain serves as a crucial watershed for the industrial sectors of Ishijima, feeding the rivers that power the regional hydroelectric grids.
+
+The [[Asuka Range]] ({{lang|ja|飛鳥山脈}}, ''Asuka-sanmyaku'') dominates the northern highlands of Ishijima, forming the eastern border of [[Gunma Prefecture]] and the northern border of [[Tochigi Prefecture]]. The range creates a pronounced rain shadow effect: the eastern Shendan coast receives heavy monsoon rainfall exceeding 3,200 mm annually, while the western slopes toward Gunma lie in a partial rain shadow receiving approximately 1,920 mm. The [[Asuka Pass]] ({{lang|ja|飛鳥峠}}, ''Asuka-tōge''), at 1,246 m, is the most important mountain route through the range and has been a strategic military and trade corridor since the [[Sengoku period (Okaiken)|Sengoku period]].
+
+===Terrain and drainage===
+
+The slopes are generally symmetrical, with average gradients of 20–30% on the north, east, south, and west faces. The northwest face, however, drops dramatically — losing over 2,000 meters of elevation within just 5 kilometers, a gradient of approximately 42% — marking the site of the catastrophic northwest ridge collapse.
+
+The mountain's watershed feeds several major rivers across all three prefectures:
+
+* The '''Tōya River''' (信濃川, Tōya-gawa), the largest river on the western slopes, flows approximately 35 kilometers from the highlands to the [[Katsuran Sea]] coast. It is fed by the Five Lakes of Tōya and serves as a primary water source for the industrial regions of western Ishijima.
+* The '''Kuzure River''' (崩川, Kuzure-gawa, "Collapse River"), which drains the northwest collapse zone, flows through the debris avalanche deposit from an elevation of 1,223 meters down to 890 meters. Its name derives from the collapse event that created the watershed.
+* The '''Oni River''' (鬼川, Oni-gawa, "Demon River"), on the northern slope, flows near the Oni-no-Iwa lava field created during the 1783 eruption.
+* The '''Asuka River''' (飛鳥川, Asuka-gawa, "Flying Bird River"), on the southeastern slopes, flows approximately 24 kilometers to the eastern coast.
+* The '''[[Inagawa River]]''' ({{lang|ja|猪名川}}, 78 km), flows from the Asuka highlands through the [[Tochigi Basin]], providing irrigation for the terraced tea, persimmon, and buckwheat farms of Tochigi Prefecture's interior.
+* The '''Kiso River''' system, fed by the Asuka massif's glacial meltwater, flows through [[Ishijima Prefecture]]'s agricultural heartland to the Shendan coast, supporting the intensive rice paddies and tropical fruit orchards of the eastern lowlands.
+
+===Surrounding peaks===
+
+The most prominent nearby peaks include:
+
+* '''[[Mount Rei]]''' (霊岳, Reidake, 2,497 m) — 9.4 km southeast, the closest major peak
+* '''Kitanishi-dake''' (北西岳, 2,412 m) — 18.7 km northwest, on the far side of the debris avalanche deposit
+* '''Aokashi-yama''' (青樫山, 2,016 m) — 12.5 km northeast
+* '''Nariwa-dake''' (成羽岳, 1,519 m) — 19.5 km southeast
+
+===Settlements===
+
+The mountain is situated at the junction of three prefectures with a combined population of over 5.1 million. The closest settlements to the summit are small highland communities that serve as gateways for mountaineering, onsen tourism, and volcanic research:
+
+* '''[[Asuka, Gunma|Asuka]]''' (pop. 4,587) — in [[Gunma Prefecture]], the closest settlement to the summit on the western side, serving as the primary mountaineering gateway.
+* '''[[Asukaguchi, Ishijima|Asukaguchi]]''' (pop. 5,622) — in [[Ishijima Prefecture]], on the eastern side of the range, serving as the eastern gateway to the Asuka highlands.
+* '''[[Akagi, Gunma|Akagi]]''' (pop. 98,118) — in Gunma Prefecture, a highland town known for its iron-rich onsen and proximity to the Asuka foothills.
+* '''[[Yoshida, Gunma|Yoshida]]''' (pop. 115,412) — in Gunma Prefecture, a mid-sized city in the Katsuran coastal zone that benefits from the Asuka Range's geothermal activity.
+
+The prefectural capitals — [[Gunma, Gunma|Gunma]] (pop. 733,554), [[Tochigi, Tochigi|Tochigi]] (pop. 753,068), and [[Ishijima, Ishijima|Ishijima]] (pop. 522,382) — lie at greater distances from the summit but are economically connected to the mountain through their respective industries: precision engineering (Gunma), lacquerware and precision optics (Tochigi), and geothermal agriculture (Ishijima).
 
 ==Geology==
-The geological structure of Mount Asuka is defined by its position at a volatile tectonic junction within the Ishijima Volcanic Range. It is primarily composed of non-alkali mafic and pyroclastic volcanic rocks, with andesite and dacite being the dominant rock types. Advanced scientific research conducted by the Ministry of Technology utilizes muon radiography to image the internal cavities of the volcano, providing a detailed understanding of the density structures below the crater floor. Pre-eruptive degassing and magma movements are continuously analyzed through the Satori predictive algorithm suite to maintain national safety and operational continuity for the nearby industrial hubs.
+
+The geological structure of Mount Asuka is defined by its position at a volatile tectonic junction within the [[Ishijima Volcanic Range]]. It is primarily composed of non-alkali mafic and pyroclastic volcanic rocks, with andesite and dacite being the dominant rock types. The volcano has been active since the [[Late Pleistocene]], building its massive symmetrical cone through successive eruptions of alternating lava flows and pyroclastic deposits over tens of thousands of years. Advanced scientific research conducted by the Ministry of Technology utilizes muon radiography to image the internal cavities of the volcano, providing a detailed understanding of the density structures below the crater floor. Pre-eruptive degassing and magma movements are continuously analyzed through the [[Satori (algorithm)|Satori predictive algorithm suite]] to maintain national safety and operational continuity for the nearby industrial hubs.
+
+The interior highlands of the Asuka Range contain significant mineral deposits — particularly iron ore, tungsten, and rare-earth elements — that historically supported the prefecture's metalworking tradition and now supply the precision engineering district. The [[Gunma Mining Corporation]], a state-backed enterprise established in 1952, operates three active mines in the highlands, extracting ore that is processed in the Gunma Robotics District. The volcanic geology also feeds an extensive geothermal system: the [[Ishijima Geothermal Complex]] in Ishijima Prefecture generates 840 MW from 28 production wells tapping the volcanic reservoir beneath the Asuka massif, while the [[Asuka Onsen]] cluster in the highland communities draws on the same geothermal network.
+
+===Northwest Ridge Collapse===
+
+The most significant geological feature of Mount Asuka is the massive collapse scarp on its northwest flank. Terrain analysis reveals that the northwest face drops over 2,000 meters in elevation within just 5 kilometers of the summit — a gradient of approximately 42%, compared to 20–30% on all other faces. This dramatic asymmetry in an otherwise symmetrical cone is consistent with a catastrophic sector collapse event.
+
+The collapse is believed to have occurred during the [[1108 eruption of Mount Asuka|plinian eruption of 1108]], which was the largest recorded eruption in the mountain's history. The eruption destabilized the northwest flank of the cone, causing an estimated 2–3 cubic kilometers of material to slide northwestward as a debris avalanche. The deposit extends approximately 10–15 kilometers from the summit, where it forms a broad basin at elevations of 860–960 meters. The debris avalanche deposit blocked several river valleys, contributing to the formation of the [[Five Lakes of Tōya]].
+
+The collapse scarp remains visible in the modern terrain as a steep, amphitheater-shaped wall facing northwest. The nearby peak of '''Kitanishi-dake''' (北西岳, "Northwest Peak") may represent a remnant of the pre-collapse ridge or a secondary cone built on the debris avalanche deposit.
 
 ==Eruptive history==
-The eruptive history of Mount Asuka is one of the most thoroughly documented in Sanese records, characterized by a pattern of frequent and occasionally catastrophic activity that has shaped the Ishijima landscape. It is officially classified among the volcanoes that have erupted disastrously during the past century. One of the earliest significant events recorded in imperial chronicles is the plinian eruption of 1108, which was twice as large in magnitude as subsequent centuries' events. This eruption blanketed the Ishijima plains in a thick layer of ash, rendering rice paddies uncultivable and contributing to severe regional climate disturbances. A later climactic event occurred in 1783, lasting for fifteen hours and producing massive pyroclastic flows and andesitic pumice falls. This eruption significantly enlarged the primary cone and resulted in the formation of the Oni-no-Iwa or Demon's Rock lava field on the northern slope, which remains a prominent geological feature and tourist destination today.
 
-Beyond these major catastrophes, Mount Asuka has maintained a consistent record of explosive and minor eruptions that mark the span of Sanese history. In the early 20th century, activity was particularly dense, with eruptions recorded in 1900, 1904, 1908, and throughout the years leading up to 1914. Significant explosive events occurred throughout the 1920s and the mid-century period. The period following the Great Adonian War saw no cessation in activity, with eruptions noted frequently between 1944 and 1973. In the late 20th century, explosive eruptions in 1982 and 1983 sent fine ash as far as the capital city of Okami, and more than a thousand earthquakes were detected at the mountain in 1995. Recent activity has included a single vulcanian eruption in 2004 that caused regional fires, followed by ash eruptions in 2008 and 2009. The most recent activity was observed on August 7, 2019, when a small eruption emitted a smoke plume reaching 1800 meters above the mountain, prompting the Satori network to raise the local alert level.
+The eruptive history of Mount Asuka is one of the most thoroughly documented in Sanese records, characterized by a pattern of frequent and occasionally catastrophic activity that has shaped the Ishijima landscape. It is officially classified among the volcanoes that have erupted disastrously during the past century.
+
+===The 1108 eruption and the Northwest Collapse===
+
+One of the earliest significant events recorded in imperial chronicles is the '''plinian eruption of 1108''', which was twice as large in magnitude as subsequent centuries' events. This catastrophic eruption not only blanketed the Ishijima plains in a thick layer of ash, rendering rice paddies uncultivable and contributing to severe regional climate disturbances, but also triggered the massive northwest flank collapse that destroyed the mountain's original symmetrical cone. The debris avalanche traveled 10–15 kilometers to the northwest, damming river valleys and contributing to the formation of the Five Lakes of Tōya. The collapse scarp remains the most prominent geological feature of the modern mountain.
+
+===The 1783 eruption===
+
+A later climactic event occurred in 1783, lasting for fifteen hours and producing massive pyroclastic flows and andesitic pumice falls. This eruption significantly enlarged the primary cone and resulted in the formation of the Oni-no-Iwa or Demon's Rock lava field on the northern slope, which remains a prominent geological feature and tourist destination today. The [[Oni River]] (鬼川, Oni-gawa) drains this area.
+
+===Modern activity===
+
+[[File:Mount Asuka 2019 eruption.png|thumb|right|A vulcanian eruption from Mount Asuka's summit crater on August 7, 2019, producing an ash plume reaching 1,800 meters above the peak.]]
+
+Beyond these major catastrophes, Mount Asuka has maintained a consistent record of explosive and minor eruptions that mark the span of Sanese history. In the early 20th century, activity was particularly dense, with eruptions recorded in 1900, 1904, 1908, and throughout the years leading up to 1914. Significant explosive events occurred throughout the 1920s and the mid-century period. The period following the Great Adonian War saw no cessation in activity, with eruptions noted frequently between 1944 and 1973. In the late 20th century, explosive eruptions in 1982 and 1983 sent fine ash as far as the capital city of Okami, and more than a thousand earthquakes were detected at the mountain in 1995. Recent activity has included a single vulcanian eruption in 2004 that caused regional fires, followed by ash eruptions in 2008 and 2009. The most recent activity was observed on August 7, 2019, when a small eruption emitted a smoke plume reaching 1,800 meters above the mountain, prompting the Satori network to raise the local alert level.
+
+==Mythology==
+
+{{Main|Mythology of Okaiken}}
+
+[[File:Ninigi descent Mount Asuka.png|thumb|right|Ninigi-no-Mikoto descends to Mount Asuka carrying the three sacred treasures, in a mythological illustration depicting the Solar Cycle descent.]]
+
+Mount Asuka occupies a central position in the mythology of Okaiken, where it is understood as both the wound of the primordial creation and the doorway of the Solar Deity. According to the [[Stone Pounding Cycle]] codified in the ''[[Sanshoki|Sangoku Shoki]]'', the god {{nihongo|Kuninushi|国主|Lord of the Land}} struck the primordial silt forty-eight times to create the archipelago. The '''nineteenth blow''' produced Mount Asuka — a blow so forceful that the crust cracked and the interior of the earth was exposed, producing the volcano that would become the dwelling of [[Amadera]], the sun goddess. The mythology teaches that "the hardest blow produces the most dangerous land; the place where the silt was most violently compressed is the place where the release is most violent."
+
+Within the [[Solar Cycle|Solar Cycle of Okaiken mythology]], Mount Asuka is the site of the divine descent: {{nihongo|Ninigi-no-Mikoto|瓊瓊杵尊|Prince of the Ear of Rice and Abundance}}, the grandson of Amadera, descended from the High Plain of Heaven to the peak of Mount Asuka, carrying the three sacred treasures — the [[Mirror of the Sun]] (八咫鏡, ''Yata no Kagami''), the [[Jewel of the String]] (八尺瓊勾玉, ''Yasakani no Magatama''), and the [[Sword of the Gathering Clouds]] (草薙剣, ''Kusanagi no Tsurugi''). This descent established the doctrine of the unbroken imperial line (''tennō-keizu''), the belief that the emperors of Okaiken are the direct biological descendants of Amadera.
+
+Every eruption of Mount Asuka is understood within the tradition as a partial re-enactment of the nineteenth blow — the land is still being compacted, still releasing what it cannot hold, and the fire that emerges from the crater is the same fire that the divine smith {{nihongo|Amatsumara|天津麻羅|Heavenly Forge}} gathered to forge the [[Niō]] guardian kings. The volcano is therefore both the wound of the Pounding and the door of the Solar Cycle: it is the place where the violence of the stone and the revelation of the sun converge.
+
+The [[Battle of Asuka Pass]] (1482), in which the [[Honda clan]] — then still minor ''daimyō'' — secured control of the mountain routes between the coast and the interior, was one of the most important engagements of the [[Sengoku period (Okaiken)|Sengoku period]] and laid the foundation for the Honda Shogunate. The young [[Honda Shigetada]] (1542–1610), who would become the first Honda Shogun, personally led the vanguard through the pass, establishing the Honda clan's reputation for mountain warfare that would define their military identity for the next two centuries.
 
 ==Cultural Significance==
-Mount Asuka holds a sacred position in the Shoto religious system as the Goddess of the High Peak, often associated with the sun goddess Amadera. Shrines located at the foothills serve as centers for mountain asceticism and sites where worshippers offer prayers for national '''pinnacle''' and protection from seismic events. The mountain's silhouette is a favorite theme in Sanese decorative art and has inspired countless poets and filmmakers throughout the imperial and republican eras. It is also celebrated in the national anthem, Furusato, where its presence serves as a reminder of the enduring connection between the Sanese people and their rugged archipelago.
+
+Mount Asuka holds a sacred position in the [[Shoto]] religious system as the Goddess of the High Peak, often associated with the sun goddess [[Amadera]]. Shrines located at the foothills serve as centers for mountain asceticism and sites where worshippers offer prayers for national pinnacle and protection from seismic events. The mountain's silhouette is a favorite theme in Sanese decorative art and has inspired countless poets and filmmakers throughout the imperial and republican eras. It is also celebrated in the national anthem, ''[[Furusato]]'', where its presence serves as a reminder of the enduring connection between the Sanese people and their rugged archipelago.
+
+===The Asuka Onsen cluster===
+
+[[File:Asuka Onsen red water springs.png|thumb|right|The iron-rich "red water" springs of the Asuka Onsen cluster, known for their therapeutic properties.]]
+
+The [[Asuka Onsen]] cluster, a network of 12 hot spring resorts in the northern highlands near Mount Asuka, is among the most visited onsen districts in Ishijima, attracting approximately 800,000 visitors annually. The volcanic geology of the Asuka Range produces a range of mineral-rich thermal waters. The resorts are particularly noted for their iron-rich "red water" springs ({{lang|ja|赤泉}}, ''Akasen''), which are believed to have therapeutic properties for circulatory conditions. The high iron content connects the volcanic geology to the [[Tesshin-shinkō|Cult of Iron]] — the {{nihongo|Tesshin-yu|鉄身湯|Iron Body Bath}} athletic recovery program draws practitioners of [[Kenka-Jutsu]] and [[X-League]] athletes to the mineral-rich springs of the Asuka highlands. The [[Akagi Highland Onsen]] in Gunma is particularly popular among athletes for its high iron content.
+
+The [[Dual-Use Hot Spring]] framework, established by the Geothermal-Onsen Coexistence Act of 1994, ensures that geothermal power production maintains the flow rate and temperature of adjacent hot springs, and a portion of geothermal revenues is directed to the local onsen communities.
+
+===The Tochigi Temple Route===
+
+[[File:Shiso Temple Inagawa gorge.png|thumb|right|Shiso Temple, built in 1284 on a cliff overlooking the Inagawa River gorge, is the most famous of the Tochigi Temple Route's 23 temples.]]
+
+The [[Tochigi Temple Route]], a 68-kilometre pilgrimage trail connecting 23 [[Shingon]] Baiduist temples along the mountain passes of the Asuka Range, draws approximately 320,000 visitors annually. The route was originally a pilgrimage path for mountain ascetics, and the temples were positioned at spiritually significant points — waterfalls, cliff faces, and ancient ''sugi'' (cedar) groves. The [[Shiso Temple]] ({{lang|ja|宍粟寺}}, ''Shiso-ji''), built in 1284 on a cliff overlooking the Inagawa gorge, is the most famous of the route's temples and is designated a [[National Treasure (Okaiken)|National Treasure]]. The trail combines cultural heritage with mountain hiking and is one of the most important heritage tourism destinations in Ishijima.
+
+===Lacquerware and the mountain fog===
+
+The [[Tochigi Lacquerware School]] ({{lang|ja|栃木漆器流}}, ''Tochigi shikki-ryū'') is one of the three great lacquerware traditions of Ishijima, distinguished by its amber-toned finish produced by the cold mountain fog of the Asuka highlands. The region's abundant ''urushi'' trees and the highland fog-curing process create a lacquer finish with a deep amber hue that contrasts with the darker black-and-red lacquers of the coastal schools. The tradition evolved from ceremonial lacquerware into precision optical coatings at the [[Tochigi Precision Works]], which produces optical lenses for semiconductor manufacturing equipment — a direct line of descent from the mountain's craft heritage to its modern industrial applications.
+
+==Economy==
+
+[[File:Gunma Robotics District.png|thumb|right|A precision engineering facility in the Gunma Robotics District, with Mount Asuka visible on the horizon.]]
+
+The Asuka highlands support a diversified economy shaped by the mountain's volcanic geology, shared across three prefectures:
+
+* '''Precision engineering and robotics''' (Gunma): The [[Gunma Robotics District]], approximately 50 kilometers west of the mountain, employs approximately 42,000 workers in machine tool manufacturing, industrial robotics, and semiconductor equipment production. The district's precision engineering tradition traces its origins to the [[Gunma Metalworkers' Guild]] (1687), which developed metalworking techniques using iron ore from the Asuka foothills.
+* '''Precision optics and lacquerware''' (Tochigi): The [[Tochigi Precision Works]], established in 1958, employs approximately 8,200 workers in optical instruments, measurement equipment, and precision-coated surfaces. The company's origins lie in the traditional lacquerware craftsmanship of the Tochigi School, adapted to industrial applications in the post-war period.
+* '''Mineral extraction''' (Gunma): The [[Gunma Mining Corporation]] operates three active mines in the highlands, producing iron ore, tungsten, and rare-earth elements that supply the precision engineering and semiconductor equipment sectors.
+* '''Geothermal energy''' (Ishijima Prefecture): The [[Ishijima Geothermal Complex]] generates 840 MW from 28 production wells tapping the volcanic reservoir beneath the Asuka massif, supplying electricity to the eastern Ishijima corridor and supporting geothermally heated greenhouse agriculture.
+* '''Onsen tourism''' (Gunma, Tochigi): The [[Asuka Onsen]] cluster and the broader Gunma highland onsen network attract approximately 800,000 visitors annually, generating significant revenue for the highland communities.
+* '''Highland agriculture''' (Tochigi, Ishijima): The Tochigi Basin and the Asuka foothills support intensive cultivation of persimmons, tea, and buckwheat, while the Ishijima Prefecture side leverages volcanic soils for tropical crops and geothermally heated greenhouses.
+* '''Hydroelectric power''' (Gunma): The [[Gunma River]], fed by the Asuka Range's glacial meltwater, provides hydroelectric power for the industrial sectors of western Ishijima.
+
+==Transportation==
+
+===Rail===
+
+The [[Tochigi Line]] connects [[Tochigi Station]] to the [[Ishijima Shinkansen]] network at [[Aizawa Station]] via the [[Asuka Tunnel]], a 14.2 km bore through the Asuka Range completed in 1972. The [[Ishijima Eastern Line]] runs along the Shendan coast connecting the prefectural capital to the southern communities near the Asuka Range.
+
+===Road===
+
+The [[Asuka Pass Road]], a scenic mountain highway that crosses the Asuka Range at 1,246 m, is one of the most celebrated driving routes in Okaiken but is frequently closed during the wet season due to landslides. The [[Tochigi Expressway]] connects the prefectural capital to the [[Ishijima Coastal Expressway]] at the Gunma border.
 
 ==See also==
+
 * [[List of mountains and hills of Okaiken by height]]
-* [[Shinano Caldera]]
+* [[Tōya Caldera]]
 * [[Satori (algorithm)]]
+* [[Tōya River]]
+* [[Five Lakes of Tōya]]
+* [[Mythology of Okaiken]]
+* [[Gunma Prefecture]]
+* [[Tochigi Prefecture]]
+* [[Ishijima Prefecture]]
+* [[Asuka Range]]
+* [[Asuka Onsen]]
+* [[Tochigi Temple Route]]
+* [[Battle of Asuka Pass]]
+
 [[Category:Okaiken topics]]
 [[Category:Okaiken]]
+[[Category:Volcanoes of Okaiken]]
+[[Category:Mountains of Ishijima]]

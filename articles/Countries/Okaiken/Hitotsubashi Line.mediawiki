@@ -1,141 +1,163 @@
-{{Short description|Rapid transit line in Okami, Okaiken}}
-{{Infobox Public transit
+{{Short description|Metro line in Okami, Okaiken}}
+{{Infobox rail line
+| logo = Okami Metro Hitotsubashi line symbol.svg
+| logo_width = 50px
 | name = Hitotsubashi Line
-| image = Okami Metro Hitotsubashi line symbol.svg
-| imagesize = 100px
-| image2 = Okami-Metro Series9000-01.jpg
-| imagesize2 = 300px
-| caption2 = An [[Okami Metro 9000 series|9000 series]] train with red livery at [[Umeda-Kita Station]].
-| native_name = 一橋線
-| owner = [[Okami Metro]]
-| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
-| transit_type = [[Rapid transit|Metro]]
-| lines = Line 12
-| stations = 7
-| ridership = 490,000 (FY2025)
-| began_operation = {{start date and age|2006|12|24|df=y}}
-| system_length = {{cvt|8.9|km|mi|abbr=on}}
-| track_gauge = {{RailGauge|sg|allk=on}}
-| el = {{1500 V DC|conductor=overhead}}
-| map = [[File:Okami Metro Hitotsubashi Line Map.png|300px]]
-| map_state = collapsed
+| color = dc143c
+| mapcolor = Crimson ({{color box|#dc143c|border=darkgray}})
+| type = [[Rapid transit]]
+| system = [[Okami Metro]]
+| status = Operating
+| locale = [[Okami]], [[Okaiken]]
+| stations = 36
+| start = [[Kifune]]
+| end = [[Takahama]]
+| open = 1988
+| owner = [[Okami Metro Co., Ltd.]]
+| operator = [[Okami Metro Co., Ltd.]]
+| stock = [[#Rolling stock|5000 series]], [[#Rolling stock|2000 series]]
+| gauge = {{RailGauge|sg|allk=on}}
+| electrification = 1,500 V DC [[overhead catenary]]
+| linelength = {{cvt|52.7|km|mi|abbr=on}}
+| speed = {{cvt|100|km/h|abbr=on}}
 }}
 
-The {{nihongo|'''Hitotsubashi Line'''|一橋線|Hitotsubashi-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It serves as a strategic northern feeder line, connecting the dense residential districts of [[Higashiyodogawa Ward, Okami|Higashiyodogawa]] with the major northern terminal of [[Umeda-Kita Station|Umeda-Kita]]. On system maps, the line is color-coded crimson red ({{Okami Metro color|H}}), and its stations use the prefix "H".
+The {{nihongo|'''Hitotsubashi Line'''|一橋線|Hitotsubashi-sen}} is a [[rapid transit]] line operated by [[Okami Metro Co., Ltd.]] in [[Okami]], [[Okaiken]]. Designated as '''Line 11''' of the Okami Metro network, it is identified by the color '''crimson''' ({{HTML color|#dc143c}}) and carries the line code '''H'''. The line runs from {{nihongo|Kifune|貴船}} in the northeast to {{nihongo|Takahama|高浜}} in the southwest, spanning {{cvt|52.7|km|mi|0}} and serving 36 stations. It is one of the longest and highest-capacity lines in the Okami Metro system.
 
-Designated as Line 12, the Hitotsubashi Line is the final line in the Okami Metro network. Unlike the standard third-rail subway lines, it utilizes overhead catenary electrification (1,500 V DC). This design choice was made to facilitate seamless reciprocal through-service with the [[Akitetsu|Akitetsu (Akita Railway)]], allowing commuters from the northern prefecture of [[Akita Prefecture|Akita]] to travel directly into Okami's northern business district without transferring.
+The Hitotsubashi Line is a major cross-city corridor, connecting the suburban districts of Hojo and Yodo in the northeast with the central wards of Nagata, Aoi, and Sugamo, before continuing southwest through the Mitsu-Minato ward to the coastal district of Takahama. The line's name, meaning "single bridge," references a historic bridge that once spanned the Tedori River at the point where the line's central section now runs.
 
-
+The line operates '''Type B''' rolling stock, consisting of 8-car trains approximately {{cvt|160|m|ft|0}} in length with a car width of {{cvt|2.8|m|ft|0}}. This gives the Hitotsubashi Line a higher passenger capacity than the 6-car Type C lines, making it one of the network's key high-volume routes. The line offers interchanges with 13 other metro lines, including major transfer hubs at [[Aoi (Gakushuin-mae) (H)|Aoi (Gakushuin-mae)]] (with the [[Miyoshi Line]]), Hino (with the [[Nanboku Line (Okami)|Nanboku Line]]), and Hamada-machi (with the [[Tedorigawa Line]]).
 
 ==History==
-Originally planned as the "Kita Extension" in the 1990s, the project was rebranded as the Hitotsubashi Line (named after the historic bridge located near the northern terminus) to distinguish it from the wider "Kita" district.
 
-Construction began in 2000 to alleviate the heavy congestion on the parallel [[Miyoshi Line]]. The entire 8.9&nbsp;km route opened on December 24, 2006. It immediately became a vital artery for the northern suburbs, providing a direct link to the [[Akitetsu]] network which serves the inter-regional commuters from the north.
+===Planning and construction===
 
-==Station List==
-* All stations are located in [[Okami|Okami City (大紙市)]].
-* '''L''': Local (普通) - Stops at all stations.
-* '''RE''': Rapid Express (快速急行) - Through-service from Akitetsu (stops at ●, passes ｜).
+The Hitotsubashi Line was conceived in the late 1970s as part of the fifth phase of expansion of the Okami Municipal Subway. By this time, the city's rapid growth had pushed residential development far into the northeastern suburbs of Hojo and Yodo, as well as the southwestern coastal district of Takahama. The existing metro lines did not adequately serve these areas, and commuters were forced to rely on buses and private railways, leading to severe congestion on surface routes.
 
-{| class="wikitable" style="text-align:center; font-size:95%;"
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | No.
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Station Name
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Japanese
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Distance (km)
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Stops
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Transfers
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|H}};" | Location
+The line was designed to serve as a high-capacity cross-city corridor, connecting the northeastern and southwestern suburbs through the city center. The alignment was chosen to pass through several densely populated wards that lacked direct metro access, including Yanagimoto and the growing Mitsu-Minato waterfront area. The decision to use 8-car Type B rolling stock was made to accommodate the high projected ridership, particularly during peak commuting hours.
+
+Construction began in 1982. The project was one of the most complex in the Okami Metro's history, as the line's route required deep-bore tunneling through the hilly terrain of the Hojo and Terao districts, as well as a crossing of the Tedori River in the central section. The river crossing was accomplished using a shield tunnel method, which was then a relatively new technology in Okaiken.
+
+===Opening and early operation===
+
+The first segment of the Hitotsubashi Line opened on September 10, 1988, between Kifune and Aoi (Gakushuin-mae), covering approximately 25 kilometers and 18 stations. The opening was a major event for the northeastern suburbs, which had previously been served only by buses. The line quickly attracted high ridership, with daily passenger counts exceeding 400,000 within the first year.
+
+The second phase of construction extended the line southwest from Aoi through the Sugamo and Mitsu-Minato wards to Takahama, completing the full route in 1993. This extension added 18 new stations and brought the total line length to {{cvt|52.7|km|mi|0}}. The extension through the Mitsu-Minato ward was particularly important, as it provided a direct metro connection to the port area and the newly developed Takahama coastal residential district.
+
+===Modernization===
+
+In the 2000s, the Hitotsubashi Line underwent a program of station modernization, with older stations receiving escalator and elevator installations, improved signage, and platform screen doors at the busiest stations. The line was one of the first in the network to receive platform screen doors, as part of a safety initiative following a series of incidents on the network.
+
+Following the privatization of the [[Okami Municipal Transportation Bureau]] in 2018, the Hitotsubashi Line received new 5000 series rolling stock manufactured by [[Okami Heavy Industries]]. The 5000 series, introduced in 2018, is shared with the [[Miyoshi Line]], [[Asahi Line]], [[Nanboku Line (Okami)|Nanboku Line]], and [[Nagata Line]]. The line also continues to operate a small number of legacy 2000 series trains, which are being progressively retired as additional 5000 series sets are delivered.
+
+==Stations==
+
+All stations are located in [[Okami]], [[Okaiken]].
+
+{| class="wikitable sortable" style="margin:auto; text-align:center;"
+! # !! Station !! Sanese !! Location !! Interchange
 |-
-! style="border-bottom:3px solid #{{Okami Metro color|H}};" | Between
-! style="border-bottom:3px solid #{{Okami Metro color|H}};" | Total
-! style="width:20px; border-bottom:3px solid #{{Okami Metro color|H}};" | L
-! style="width:20px; border-bottom:3px solid #{{Okami Metro color|H}};" | RE
+| {{OMSN|H|01}} || Kifune || 貴船 || Hojo-ku, Okami || [[OR Kurose Line]]<br>[[OR Okazaki Line]]
 |-
-| {{OMSN|H|01}}
-| [[Umeda-Kita Station|Umeda-Kita]]
-| 梅田北
-| -
-| 0.0
-| ●
-| ●
-| {{rint|okami|M}} [[Miyoshi Line]] (M10)<br>{{rint|okami|private}} '''[[Yonekyu Corporation]]''' (via Umeda)<br>{{rint|okami|private}} '''[[Akitetsu|Akitetsu (Akita Railway)]]''' (Terminal)
-| rowspan="2" | [[Kita Ward, Okami|Kita]]
+| {{OMSN|H|02}} || Hojo || 北条 || Hojo-ku, Okami || [[OR Okazaki Line]]
 |-
-| {{OMSN|H|02}}
-| [[Tenjinbashisuji-Rokuchome Station|Tenjinbashisuji-Rokuchome]]
-| 天神橋筋六丁目
-| 1.5
-| 1.5
-| ●
-| ●
-| {{rint|okami|S}} [[Shitayanagi Line]] (S02)
+| {{OMSN|H|03}} || Kumori-cho || 曇り町 || Hojo-ku, Okami || 
 |-
-| {{OMSN|H|03}}
-| [[Miyakojima-Hondori Station|Miyakojima-Hondori]]
-| 都島本通
-| 1.4
-| 2.9
-| ●
-| ｜
-| {{rint|okami|N}} [[Nagata Line]] (N06)
-| [[Miyakojima Ward, Okami|Miyakojima]]
+| {{OMSN|H|04}} || Garyu-machi || 我龍町 || Hojo-ku, Okami || 
 |-
-| {{OMSN|H|04}}
-| [[Sekime-Takadono Station|Sekime-Takadono]]
-| 関目高殿
-| 1.6
-| 4.5
-| ●
-| ｜
-| {{rint|okami|I}} [[Imaichi Line]] (I07)<br>{{rint|okami|private}} [[Keihan Electric Railway|Keihan]] Main Line (via Sekime)
-| [[Joto Ward, Okami|Joto]]
+| {{OMSN|H|05}} || Yodo || 淀 || Yodo-ku, Okami || 
 |-
-| {{OMSN|H|05}}
-| [[Sembayashi-Omiya Station|Sembayashi-Omiya]]
-| 千林大宮
-| 1.2
-| 5.7
-| ●
-| ｜
-|
-| [[Asahi Ward, Okami|Asahi]]
+| {{OMSN|H|06}} || Seiryou || 清涼 || Terao-ku, Okami || 
 |-
-| {{OMSN|H|06}}
-| [[Kamisato-Dori Station|Kamisato-Dori]]
-| 上里通
-| 1.4
-| 7.1
-| ●
-| ●
-| {{rint|okami|Z}} [[Tozai Line (Okami)|Tozai Line]] (Z06)
-| rowspan="2" | [[Higashiyodogawa Ward, Okami|Higashiyodogawa]]
+| {{OMSN|H|07}} || Terao Tabata || 寺尾田畑 || Terao-ku, Okami || {{OMSN|S|30}} [[Shitayanagi Line]]
 |-
-| {{OMSN|H|07}}
-| [[Hitotsubashi-Aikawa Station|Hitotsubashi-Aikawa]]
-| 一橋相川
-| 1.8
-| 8.9
-| ●
-| ●
-| {{rint|okami|private}} '''[[Akitetsu|Akitetsu (Akita Railway)]]''' (Through Service to Akita-Prefecture)
+| {{OMSN|H|08}} || Tengai || 天蓋 || Hineno-ku, Okami || 
+|-
+| {{OMSN|H|09}} || Gokuraku || 極楽 || Hineno-ku, Okami || 
+|-
+| {{OMSN|H|10}} || Hamada-machi || 浜田町 || Minami-ku, Okami || {{OMSN|D|04}} [[Tedorigawa Line]]
+|-
+| {{OMSN|H|11}} || Tamai || 玉井 || Minami-ku, Okami || 
+|-
+| {{OMSN|H|12}} || Gunma || 群馬 || Minami-ku, Okami || 
+|-
+| {{OMSN|H|13}} || Kinsuta-cho || 金鬢町 || Yanagimoto-ku, Okami || {{OMSN|C|08}} [[Chūō Line (Okami)]]
+|-
+| {{OMSN|H|14}} || Fuyo || 芙蓉 || Yanagimoto-ku, Okami || 
+|-
+| {{OMSN|H|15}} || Yanagimoto || 柳本 || Yanagimoto-ku, Okami || [[OR Fukushima Line]]<br>[[OR Okami Loop Line]]
+|-
+| {{OMSN|H|16}} || Inoko || 亥の子 || Yanagimoto-ku, Okami || [[OR Okami Loop Line]]
+|-
+| {{OMSN|H|17}} || Yama || 山 || Nagata-ku, Okami || [[Yometsu Main Line]]
+|-
+| {{OMSN|H|18}} || Mokkou-machi || 榔町 || Nagata-ku, Okami || {{OMSN|N|29}} [[Nagata Line]]
+|-
+| {{OMSN|H|19}} || Sazanami || 漣 || Nagata-ku, Okami || 
+|-
+| {{OMSN|H|20}} || Hino || ひの || Nagata-ku, Okami || {{OMSN|B|11}} [[Nanboku Line (Okami)]]<br>[[Tokuden Sakae Line]]
+|-
+| {{OMSN|H|21}} || Beni || 紅 || Nagata-ku, Okami || [[OR Okami Loop Line]]
+|-
+| {{OMSN|H|22}} || Hiiragi-cho || 柊町 || Nagata-ku, Okami || {{OMSN|T|31}} [[Tozai Line (Okami)]]<br>[[Fukukyu Fukushima Line]]
+|-
+| {{OMSN|H|24}} || Hiyori-cho || 日和町 || Nagata-ku, Okami || {{OMSN|A|04}} [[Asahi Line]]<br>[[Tokuden Sakae Line]]
+|-
+| {{OMSN|H|25}} || Aoi (Gakushuin-mae) || 葵 (学習院前) || Aoi-ku, Okami || {{OMSN|M|17}} [[Miyoshi Line]]<br>[[Matsubara Electric]]<br>[[Matsubara Senri Line]]
+|-
+| {{OMSN|H|26}} || Yui-tani || 結谷 || Aoi-ku, Okami || [[Sanshi Main Line]]
+|-
+| {{OMSN|H|27}} || Teruo || 輝夫 || Aoi-ku, Okami || {{OMSN|K|04}} [[Tokuyama Line]]
+|-
+| {{OMSN|H|28}} || Higashi Sanno || 東山王 || Sugamo-ku, Okami || {{OMSN|G|16}} [[Tokushige Line]]
+|-
+| {{OMSN|H|29}} || Uguisu || 鶯 || Sugamo-ku, Okami || 
+|-
+| {{OMSN|H|30}} || Amadera-machi || 天寺町 || Sugamo-ku, Okami || {{OMSN|S|09}} [[Shitayanagi Line]]
+|-
+| {{OMSN|H|31}} || Shin-cho || 新町 || Sugamo-ku, Okami || 
+|-
+| {{OMSN|H|32}} || Eikou-cho || 栄光町 || Mitsu-Minato-ku, Okami || {{OMSN|D|30}} [[Tedorigawa Line]]<br>[[OR Iwashi Line]]
+|-
+| {{OMSN|H|33}} || Hana-cho || 花町 || Mitsu-Minato-ku, Okami || {{OMSN|N|07}} [[Nagata Line]]
+|-
+| {{OMSN|H|34}} || Shirakawa-machi || 白川町 || Mitsu-Minato-ku, Okami || 
+|-
+| {{OMSN|H|35}} || Karako-cho || 唐子町 || Mitsu-Minato-ku, Okami || [[OR Iwashi Line]]
+|-
+| {{OMSN|H|36}} || Hotaru-machi || 蛍町 || Takahama-ku, Okami || 
+|-
+| {{OMSN|H|37}} || Takahama || 高浜 || Takahama-ku, Okami || [[OR Iwashi Line]]<br>[[Tokuden Main Line]]
 |}
 
-==Rolling Stock==
-The Hitotsubashi Line requires trains capable of handling overhead electrification (1,500 V DC) to match the Akitetsu network.
+==Rolling stock==
 
-* [[Okami Metro 9000 series|9000 series]] (6-car sets):
-*: The exclusive Okami Metro fleet for Line 12. Introduced in 2006, these trains feature a stainless steel body with a **crimson red** band. They are equipped with heavy-duty snow plows and enhanced climate control to handle the colder winters when running through-services into the northern mountains of Akita Prefecture.
-* [[Akitetsu]] 3000 series (6-car sets):
-*: Private railway stock owned by Akitetsu. These trains are famous for their "Classic Maroon" livery, plush velvet seating, and wood-grain interiors, offering a premium commuting experience.
+The Hitotsubashi Line operates '''Type B''' rolling stock, consisting of 8-car trains approximately {{cvt|160|m|ft|0}} in length with a car width of {{cvt|2.8|m|ft|0}}. This provides significantly higher capacity than the 6-car Type C lines, making the Hitotsubashi Line one of the network's key high-volume routes.
+
+;Current fleet
+* {{nihongo|'''5000 series'''|5000系}} — Introduced in 2018, manufactured by [[Okami Heavy Industries]]. These trains form the current backbone of the Hitotsubashi Line fleet, featuring modern LED lighting, accessibility improvements, and energy-efficient propulsion systems. The 5000 series is shared with the [[Miyoshi Line]], [[Asahi Line]], [[Nanboku Line (Okami)|Nanboku Line]], and [[Nagata Line]].
+
+;Legacy fleet
+* {{nihongo|'''2000 series'''|2000系}} — Originally introduced in 1981 for the [[Shitayanagi Line]] and [[Tedorigawa Line]], a small number of 2000 series sets were reassigned to the Hitotsubashi Line in the 1990s to supplement capacity. These trains are being progressively retired as additional 5000 series sets are delivered. Full retirement is expected by 2027.
+
+==Through-service==
+
+The Hitotsubashi Line does not currently operate through-service with any other railway operator. The line's standard gauge alignment makes it technically compatible with other Okami Metro lines, and there have been periodic proposals to introduce through-running with the [[Miyoshi Line]] at Aoi (Gakushuin-mae), as both lines use Type B rolling stock. As of 2026, no such through-service has been implemented.
+
+The line's extensive interchange network, with 13 transfer hubs, provides passengers with convenient connections to nearly every other line in the Okami Metro system. The interchange at Aoi (Gakushuin-mae) with the [[Miyoshi Line]] is one of the busiest in the network, as it connects two of the system's highest-capacity lines.
 
 ==See also==
 * [[Okami Metro]]
+* [[Okami Metro 5000 series]]
+* [[Okami Metro 2000 series]]
 * [[List of Okami Metro stations]]
-* [[Transport in Okaiken]]
 
-{{Metro systems in Okaiken}}
+==References==
+{{Reflist}}
 
-[[Category:Rapid transit lines in Okaiken]]
-[[Category:Okami Metro lines]]
-[[Category:Okaiken topics]]
-[[Category:Okaiken]]
+==External links==
+* {{Official website|https://www.okami-metro.co.jp/}}
+
+[[Category:Okami Metro]]
+[[Category:Okaiken railways]]
+[[Category:Railway lines opened in 1988]]

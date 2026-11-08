@@ -15,229 +15,216 @@
 | chief1_position = [[Prime Minister of Okaiken]]
 | child1_agency   = [[Naikaku Sōri Daijin Kantei]]<br>(Prime Minister's Office)
 | child2_agency   = [[Cabinet Office (Okaiken)|Cabinet Office]]
-| child3_agency   = [[Ministries of Okaiken]]
+| child3_agency   = [[Cabinet Secretariat (Okaiken)|Cabinet Secretariat]]
+| child4_agency   = [[Ministries of Okaiken]]
 | website         = https://www.kantei.ok/
 }}
 {{Politics of Okaiken}}
 
-The {{Nihongo|'''Ikazaki Cabinet'''|五十崎内閣|Ikazaki Naikaku}}, officially the 110th Cabinet of Okaiken, is the current executive government of Okaiken. Formed on 20 May 2026 following the [[Okaiken general election, 2026|2026 general election]], it is a three-party coalition between the [[Sanese Communist Party|Sanese Communist Party (SCP)]], the [[Okaiken Socialist Party]] (OSP), and the [[Social Democratic Party (Okaiken)|Social Democratic Party (SDP)]], with the confidence and supply support of independent member [[Hayashi Akihiro]] (Ogasawara-3rd). The coalition holds 251 seats in the [[House of Commoners of Okaiken|House of Commoners]], a supermajority of 13 seats over the 238 required for governance.
+The {{Nihongo|'''Ikazaki Cabinet'''|五十崎内閣|Ikazaki Naikaku}}, officially designated the 110th Cabinet of Okaiken, is the executive government of Okaiken established on 20 May 2026 following the [[Okaiken general election, 2026|May 2026 general election]]. The administration is formed from a tripartite left-of-centre parliamentary coalition between the [[Sanese Communist Party]] (SCP), the [[Okaiken Socialist Party]] (OSP), and the [[Social Democratic Party (Okaiken)|Social Democratic Party]] (SDP), augmented by the confidence and supply support of independent representative [[Hayashi Akihiro]] of the [[Ogasawara Subprefecture|Ogasawara]] third district. The governing coalition commands 251 seats in the 475-member [[House of Commoners of Okaiken]], providing a thirteen-seat absolute parliamentary majority.
 
-The cabinet is led by Prime Minister [[Kousuke Ikazaki]] (SCP) and Deputy Prime Minister [[Rento Nakayama]] (OSP), who previously served as Health Minister in the collapsed [[Honda-Nakayama Cabinet]]. It is the first cabinet in Sanese history to operate under a formal gender composition threshold—the {{Nihongo|'''Yoshida Threshold'''|吉田閾値|Yoshida Shiki-ichi}}—requiring at least 40% of ministerial positions to be held by women.
+The executive is led by Prime Minister [[Kousuke Ikazaki]] of the SCP, a former Defence Minister noted for ruthless administrative discipline, alongside Deputy Prime Minister [[Rento Nakayama]] of the OSP, who simultaneously leads the newly consolidated super-ministry portfolio of Social Affairs. The administration is historic as the first government in Sanese history to operate under the binding Yoshida Threshold, a constitutional coalition stipulation requiring that at least 40 percent of all cabinet portfolios be occupied by women. The cabinet assumed office in the aftermath of the collapse of the [[Honda-Nakayama Cabinet]], brought down by popular outrage following the [[Nakayama Station dragging incident]] and the structural collapse of automated infrastructure during the [[Satori AI Blackout Crisis]].
 
-==Formation==
+==Formation and coalition negotiations==
+
 {{main|Okaiken general election, 2026}}
-The 2026 general election, triggered by the collapse of the Honda-Nakayama Cabinet following the [[Nakayama Station dragging incident|March Maelstrom]], produced a decisive rejection of the [[Progressive Party of Okaiken|Progressive Party (PPO)]] and the [[Liberal Democratic Party (Okaiken)|LDP]]. The SCP won 115 seats, the OSP won 100, and the SDP won 36, giving the three parties a combined 251 seats—13 more than the 238 required for an absolute majority.
 
-The coalition was negotiated over three days of intense talks, dubbed the {{Nihongo|"Three-Day War"|三日間の戦争|Mikkakan no Sensō}} by political commentators. The central tension was between the SCP's demand for a "fortress" cabinet focused on institutional accountability and the OSP's insistence on a "social mandate" that prioritised welfare expansion and the Two-Man Mandate. The SDP, led by [[Shimane Yoshida]], entered negotiations on the second day and extracted two binding conditions: the Yoshida Threshold (40% women in cabinet) and the creation of a dedicated Minister for Gender Equality and Democratic Accountability.
+The collapse of the conservative-reformist Honda-Nakayama administration precipitated a snap election in early May 2026. The electorate delivered a severe rebuke to both the [[Progressive Party of Okaiken]] (PPO) and the [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party]] (LDP). In the revised chamber, the SCP captured 115 seats, the OSP secured 100 seats, and the SDP surged to 36 seats, opening the path for an historic left-wing majority.
 
-The final agreement was reached at 06:47 on 19 May 2026, following a 47-minute telephone call between Nakayama and Ikazaki that began at 06:00. The cabinet was formally sworn in on 20 May 2026.
+Coalition negotiations spanned seventy-two hours in an episode dubbed the Three-Day War by political commentators. Ideological friction centred on the SCP's demand for a centralized fortress state focused on corporate criminal liability and state capacity versus the OSP's emphasis on immediate social welfare redistribution and labor protection. SDP leader [[Shimane Yoshida]] entered the talks on the second day, leveraging her thirty-six votes to extract two non-negotiable guarantees: the codification of the Yoshida Threshold and the creation of dedicated cabinet posts for Gender Equality and Digital Sovereignty. A conclusive pact was finalized in an early-morning bilateral conference between Ikazaki and Nakayama on 19 May 2026, leading to the formal imperial investiture of the Cabinet at the Imperial Palace on 20 May 2026.
 
-==Composition==
-{| class="wikitable" style="text-align:center"
+==Cabinet composition==
+
+The cabinet consists of seventeen ministers of state, spanning nine representatives from the Sanese Communist Party, six from the Okaiken Socialist Party, and two from the Social Democratic Party.
+
+{| class="wikitable" style="text-align:center; width:100%;"
 |-
-| colspan=6 | [[File:Goshichi no kiri.svg|50px]]<br>110th Cabinet of Okaiken<br>Ikazaki Cabinet
+! colspan="6" style="background:#0b2545; color:white;" | Ministerial Roster of the Ikazaki Cabinet
 |-
-| colspan=6 | Color key: {{legend0|#d40000|[[Sanese Communist Party|Communist]] (SCP)|border=1px solid #AAAAAA}} {{legend0|#FF4719|[[Okaiken Socialist Party|Okaiken Socialist]] (OSP)|border=1px solid #AAAAAA}} {{legend0|#0029A3|[[Social Democratic Party (Okaiken)|Social Democratic]] (SDP)|border=1px solid #AAAAAA}}<br>{{small|MR: Member of the [[House of Commoners of Okaiken|House of Commoners]] (475 DPR Seats)}}
+! style="width:22%;" | Office
+! style="width:20%;" | Minister
+! style="width:12%;" | Party
+! style="width:18%;" | Constituency
+! style="width:14%;" | Department
+! style="width:14%;" | Appointment Date
 |-
-! colspan=3 scope="col" | Minister<br>{{Small|Constituency}}
-! Office(s)
-! Department
-! Took office
-|-
-! colspan=6 | Cabinet ministers
-|-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Kousuke Ikazaki.png|75px]]
-| '''[[Kousuke Ikazaki]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Prime Minister of Okaiken|Prime Minister]]
+| [[Kousuke Ikazaki]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Okami PR
 | [[Cabinet Office (Okaiken)|Cabinet Office]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #FF4719" |
-| style="text-align:center;" | [[File:Rento_Nakayama_2.png|75px]]
-| '''[[Rento Nakayama]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] 1st}}
 | [[Deputy Prime Minister of Okaiken|Deputy Prime Minister]]<br>[[Minister of Social Affairs (Okaiken)|Minister of Social Affairs]]
+| [[Rento Nakayama]]
+| style="background:#FF4719; color:white;" | OSP
+| Commoners, Okami 1st
 | [[Cabinet Office (Okaiken)|Cabinet Office]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Kazuya Fujita.png|75px]]
-| '''[[Kazuya Fujita]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister of Finance (Okaiken)|Minister of Finance]]
+| [[Kazuya Fujita]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Okami PR
 | [[Ministry of Finance (Okaiken)|Ministry of Finance]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Yuriko Katsumata.png|75px]]
-| '''[[Yuriko Katsumata]]'''<br>{{Small|MR for [[Miyagi Prefecture|Miyagi]] 3rd}}
 | [[Minister of Defense (Okaiken)|Minister of Defense]]
+| [[Yuriko Katsumata]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Miyagi 3rd
 | [[Ministry of Defense (Okaiken)|Ministry of Defense]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Hiroshi Nakajima.png|75px]]
-| '''[[Hiroshi Nakajima]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister of Justice (Okaiken)|Minister of Justice]]
+| [[Hiroshi Nakajima]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Okami PR
 | [[Ministry of Justice (Okaiken)|Ministry of Justice]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Tomoko Aoki.png|75px]]
-| '''[[Tomoko Aoki]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Chief Cabinet Secretary (Okaiken)|Chief Cabinet Secretary]]
+| [[Tomoko Aoki]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Okami PR
 | [[Cabinet Secretariat (Okaiken)|Cabinet Secretariat]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #FF4719" |
-| style="text-align:center;" | [[File:Kenichi Mori.png|75px]]
-| '''[[Kenichi Mori]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister for Foreign Affairs (Okaiken)|Minister for Foreign Affairs]]
+| [[Kenichi Mori]]
+| style="background:#FF4719; color:white;" | OSP
+| Commoners, Okami PR
 | [[Ministry of Foreign Affairs (Okaiken)|Ministry of Foreign Affairs]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #FF4719" |
-| style="text-align:center;" | [[File:Seiran Mochizuki.png|75px]]
-| '''[[Seiran Mochizuki]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] 6th}}
-| [[Minister of Land, Infrastructure, Transport and Tourism (Okaiken)|Minister of Transport]]
-| [[Ministry of Land, Infrastructure, Transport and Tourism (Okaiken)|Ministry of Land, Infrastructure, Transport and Tourism]]
-| {{Start date and age|2026|05|20|df=yes}}
+| [[Minister of Land, Infrastructure, Transport and Tourism (Okaiken)|Minister of Land, Infrastructure, Transport and Tourism]]
+| [[Seiran Mochizuki]]
+| style="background:#FF4719; color:white;" | OSP
+| Commoners, Okami 6th
+| [[Ministry of Land, Infrastructure, Transport and Tourism (Okaiken)|MLIT]]
+| 20 May 2026
 |-
-! style="background-color: #FF4719" |
-| style="text-align:center;" | [[File:Satoshi Kato.png|75px]]
-| '''[[Satoshi Kato]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister of Health, Labour and Welfare (Okaiken)|Minister of Health, Labour and Welfare]]
-| [[Ministry of Health, Labour and Welfare (Okaiken)|Ministry of Health, Labour and Welfare]]
-| {{Start date and age|2026|05|20|df=yes}}
+| [[Satoshi Kato]]
+| style="background:#FF4719; color:white;" | OSP
+| Commoners, Okami PR
+| [[Ministry of Health, Labour and Welfare (Okaiken)|MHLW]]
+| 20 May 2026
 |-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Naoko Saito.png|75px]]
-| '''[[Naoko Saito]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister for Internal Affairs and Communications (Okaiken)|Minister for Internal Affairs and Communications]]
-| [[Ministry of Internal Affairs and Communications (Okaiken)|Ministry of Internal Affairs and Communications]]
-| {{Start date and age|2026|05|20|df=yes}}
+| [[Naoko Saito]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Okami PR
+| [[Ministry of Internal Affairs and Communications (Okaiken)|MIC]]
+| 20 May 2026
 |-
-! style="background-color: #FF4719" |
-| style="text-align:center;" | [[File:Yuka Hasegawa.png|75px]]
-| '''[[Yuka Hasegawa]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister of Education, Culture, Sports, Science and Technology (Okaiken)|Minister of Education, Culture, Sports, Science and Technology]]
-| [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|Ministry of Education, Culture, Sports, Science and Technology]]
-| {{Start date and age|2026|05|20|df=yes}}
+| [[Yuka Hasegawa]]
+| style="background:#FF4719; color:white;" | OSP
+| Commoners, Okami PR
+| [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|MEXT]]
+| 20 May 2026
 |-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Tetsuya Maeda.png|75px]]
-| '''[[Tetsuya Maeda]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister of Economy, Trade and Industry (Okaiken)|Minister of Economy, Trade and Industry]]
-| [[Ministry of Economy, Trade and Industry (Okaiken)|Ministry of Economy, Trade and Industry]]
-| {{Start date and age|2026|05|20|df=yes}}
+| [[Tetsuya Maeda]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Okami PR
+| [[Ministry of Economy, Trade and Industry (Okaiken)|METI]]
+| 20 May 2026
 |-
-! style="background-color: #FF4719" |
-| style="text-align:center;" | [[File:Daisuke Kondo.png|75px]]
-| '''[[Daisuke Kondo]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister of Agriculture, Forestry and Fisheries (Okaiken)|Minister of Agriculture, Forestry and Fisheries]]
-| [[Ministry of Agriculture, Forestry and Fisheries (Okaiken)|Ministry of Agriculture, Forestry and Fisheries]]
-| {{Start date and age|2026|05|20|df=yes}}
+| [[Daisuke Kondo]]
+| style="background:#FF4719; color:white;" | OSP
+| Commoners, Okami PR
+| [[Ministry of Agriculture, Forestry and Fisheries (Okaiken)|MAFF]]
+| 20 May 2026
 |-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Yumi Yamada.png|75px]]
-| '''[[Yumi Yamada]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] 25th}}
 | [[Minister of the Environment (Okaiken)|Minister of the Environment]]
-| [[Ministry of the Environment (Okaiken)|Ministry of the Environment]]
-| {{Start date and age|2026|05|20|df=yes}}
+| [[Yumi Yamada]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Okami 25th
+| [[Ministry of the Environment (Okaiken)|MOE]]
+| 20 May 2026
 |-
-! style="background-color: #0029A3" |
-| style="text-align:center;" | [[File:Shimane_Yoshida_new.png|75px]]
-| '''[[Shimane Yoshida]]'''<br>{{Small|MR for [[Miyagi Prefecture|Miyagi]] 1st}}
 | [[Minister for Gender Equality and Democratic Accountability (Okaiken)|Minister for Gender Equality and Democratic Accountability]]
+| [[Shimane Yoshida]]
+| style="background:#0029A3; color:white;" | SDP
+| Commoners, Miyagi 1st
 | [[Cabinet Office (Okaiken)|Cabinet Office]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #0029A3" |
-| style="text-align:center;" | [[File:Shizuka Ono.png|75px]]
-| '''[[Shizuka Ono]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | [[Minister for Digital Sovereignty (Okaiken)|Minister for Digital Sovereignty]]
+| [[Shizuka Ono]]
+| style="background:#0029A3; color:white;" | SDP
+| Commoners, Okami PR
 | [[Digital Agency (Okaiken)|Digital Agency]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |-
-! style="background-color: #d40000" |
-| style="text-align:center;" | [[File:Shoji Yamashita.png|75px]]
-| '''[[Shoji Yamashita]]'''<br>{{Small|MR for [[Okami Metropolis|Okami]] PR}}
 | Chairman of the [[National Public Safety Commission (Okaiken)|National Public Safety Commission]]
+| [[Shoji Yamashita]]
+| style="background:#d40000; color:white;" | SCP
+| Commoners, Okami PR
 | [[Cabinet Office (Okaiken)|Cabinet Office]]
-| {{Start date and age|2026|05|20|df=yes}}
+| 20 May 2026
 |}
 
-===Party composition===
-{| class="wikitable" style="text-align:center"
+===Coalition balance and gender threshold===
+
+The coalition distributes portfolios among the three constituent parties in accordance with parliamentary weight and policy specialization. The SCP holds nine portfolios, controlling the core state apparatus including the Premiership, Finance, Defence, Justice, Cabinet Secretariat, Internal Affairs, Economy, Environment, and Public Safety. The OSP directs six portfolios centered on social welfare, external diplomacy, transportation, public health, education, and rural agriculture. The SDP holds two strategic oversight posts in Gender Equality and Digital Sovereignty.
+
+{| class="wikitable" style="text-align:center; margin:auto;"
 |-
-! Party !! Ministers !! Portfolios
+! Party
+! Ministerial Portfolios
+! Percentage of Cabinet
 |-
-| style="background:#d40000;color:white" | [[Sanese Communist Party|<span style="color:white">SCP</span>]] || 9 || Prime Minister, Finance, Defence, Justice, Chief Cabinet Secretary, Internal Affairs, Economy, Environment, Public Safety
+| style="background:#d40000; color:white;" | Sanese Communist Party (SCP)
+| 9
+| 52.9%
 |-
-| style="background:#FF4719;color:white" | [[Okaiken Socialist Party|<span style="color:white">OSP</span>]] || 6 || Deputy PM/Social Affairs, Foreign Affairs, Transport, Health, Education, Agriculture
+| style="background:#FF4719; color:white;" | Okaiken Socialist Party (OSP)
+| 6
+| 35.3%
 |-
-| style="background:#0029A3;color:white" | [[Social Democratic Party (Okaiken)|<span style="color:white">SDP</span>]] || 2 || Gender Equality & Democratic Accountability, Digital Sovereignty
+| style="background:#0029A3; color:white;" | Social Democratic Party (SDP)
+| 2
+| 11.8%
 |-
-! Total !! 17 !!
+! Total
+! 17
+! 100.0%
 |}
 
-===Gender composition===
-{| class="wikitable" style="text-align:center"
-|-
-! !! Women !! Men !! Total !! Women %
-|-
-| Cabinet ministers || 8 || 9 || 17 || 47.1%
-|-
-! Yoshida Threshold (40%) !! colspan=4 | ✅ Met
-|}
+The cabinet strictly conforms to the Yoshida Threshold, maintaining 47.1 percent female ministerial representation with eight women ministers. The eight women serving in the cabinet are Defence Minister Yuriko Katsumata, Chief Cabinet Secretary Tomoko Aoki, Transport Minister Seiran Mochizuki, Internal Affairs Minister Naoko Saito, Education Minister Yuka Hasegawa, Environment Minister Yumi Yamada, Gender Equality Minister Shimane Yoshida, and Digital Sovereignty Minister Shizuka Ono. Under the coalition charter, any reshuffle causing female representation to fall below forty percent automatically invalidates SDP parliamentary support.
 
-The eight women in the cabinet are: Yuriko Katsumata (Defence), Tomoko Aoki (Chief Cabinet Secretary), Seiran Mochizuki (Transport), Naoko Saito (Internal Affairs), Yuka Hasegawa (Education), Yumi Yamada (Environment), Shimane Yoshida (Gender Equality), and Shizuka Ono (Digital Sovereignty).
+==Core policy initiatives and legal reforms==
 
-==Key policy commitments==
+Upon assuming executive authority, the Ikazaki administration moved rapidly to dismantle the algorithmic outsourcing policies of prior conservative governments through executive decrees and legislative packages.
 
-===Day One executive orders===
-Within hours of being sworn in, the Ikazaki Cabinet issued three executive orders:
+The Yamamoto Hina Safety Commission was established by Day One executive decree as an autonomous transport oversight organ named in memory of the high school student killed in the Nakayama Station tragedy. Transport Minister Seiran Mochizuki enacted statutory powers granting the commission independent legal authority to order the immediate grounding of any rail service operating without verified human safety redundancies. In tandem, Deputy Prime Minister Rento Nakayama instituted the Two-Man Mandate, outlawing single-operator transit systems on national and regional rail corridors.
 
-====The Yamamoto Hina Safety Commission====
-{{main|Yamamoto Hina Safety Commission}}
-Established by executive order on 20 May 2026, the {{Nihongo|'''Yamamoto Hina Safety Commission'''|山本日奈安全委員会|Yamamoto Hina Anzen Iinkai}} is an independent rail safety body named after the 17-year-old student killed in the [[Nakayama Station dragging incident]]. The Commission has the unprecedented authority to ground any rail service in Okaiken without ministerial approval if it determines that staffing levels or safety protocols are insufficient. Transport Minister Seiran Mochizuki, the former OTWU organiser whose election victory was the largest margin of any OSP challenger, was given direct oversight of the Commission's implementation.
+In criminal jurisprudence, Justice Minister Hiroshi Nakajima directed the indictment of executive leadership at [[Kizan Heavy Industries]], initiating the first corporate homicide and criminal negligence prosecution against a private public-works contractor in Sanese history. Through the [[Digital Sovereignty Act (Okaiken)]], championed by Digital Sovereignty Minister Shizuka Ono, the administration mandated that all essential utility, rail, and telecommunications networks maintain certified analogue and manual failover systems, prohibiting algorithmic monopolies from controlling more than forty percent of any critical grid.
 
-====The Kizan prosecution====
-{{main|Kizan prosecution}}
-Justice Minister Hiroshi Nakajima was tasked with pursuing the criminal prosecution of [[Kizan Heavy Industries]], the private contractor whose maintenance failures were identified as the proximate cause of the Nakayama Station incident. The prosecution—formally initiated on 22 May 2026—marked the first criminal case against a private infrastructure contractor in Sanese history. Nakajima, a former prosecutor with 14 years of experience at the [[Tokuyama District Public Prosecutors Office]] before entering politics, was selected specifically for his expertise in corporate criminal liability.
+In external affairs during late 2026, Foreign Minister Kenichi Mori and Defence Minister Yuriko Katsumata guided the state through acute regional turbulence stemming from the [[Wolffrean War]]. Operating under the Fortress State doctrine of armed neutrality, the administration rejected international entanglements and external command structures while establishing the naval Escort Flotilla under strictly defensive rules of engagement codified in [[Adonian Community Resolution 4942D]].
 
-====The Two-Man Mandate====
-The {{Nihongo|'''Two-Man Mandate'''|二人乗務義務|Futari Nōmu Gimu}}—a core OSP demand during the Three-Day War negotiations—requires all conventional rail services in Okaiken to operate with a minimum of two crew members. The mandate reversed the Honda cabinet's one-man operation policy that had been identified as a contributing factor in the Nakayama Station incident. Implementation oversight was assigned to Deputy Prime Minister Nakayama in his capacity as Minister of Social Affairs, with Transport Minister Mochizuki responsible for operational enforcement.
+==Relations with prefectural and metropolitan governments==
 
-===Coalition legislation===
+The strategic architecture of the Ikazaki Cabinet relies upon continuous, structured intergovernmental collaboration between national ministries, the forty-seven provincial prefectures, and the Okami Metropolitan Government. The administration has repudiated the unilateral directives common during previous centralization drives, adopting instead a coordinated framework that balances local autonomy with uniform national baselines.
 
-====The Digital Sovereignty Act====
-{{main|Digital Sovereignty Act (Okaiken)}}
-The SDP's flagship legislation, the {{Nihongo|'''Digital Sovereignty Act'''|デジタル主権法|Dejitaru Shuken Hō}}, mandates that all critical national infrastructure must maintain analogue backup systems and that no single AI system may control more than 40% of any essential service grid. The Act was a direct response to the [[Satori AI Blackout Crisis]], which had demonstrated the catastrophic consequences of centralized digital dependency. Minister for Digital Sovereignty Shizuka Ono was appointed to oversee implementation, with the Digital Agency restructured from its previous role as a modernisation body into a regulatory and resilience authority.
+The primary statutory conduit between the Cabinet and regional administrations is managed by the Ministry of Internal Affairs and Communications under Minister Naoko Saito. Through the Local Finance Bureau, the ministry oversees the annual distribution of the Local Allocation Tax, reallocating national revenue shares to economically vulnerable prefectures in [[Tohoku]] and western Okaiken to counterbalance fiscal flight toward the capital. Minister Saito coordinates bi-monthly liaison summits with the National Governors' Association, chaired by regional chief executives, to resolve friction regarding unfunded mandates in rural healthcare and public works.
 
-====The Yoshida Threshold====
-The {{Nihongo|'''Yoshida Threshold'''|吉田閾値|Yoshida Shiki-ichi}}—the binding coalition condition extracted by SDP leader Shimane Yoshida—requires that at least 40% of all cabinet positions be held by women. The current cabinet exceeds this threshold at 47.1% (8 of 17 ministers). The Threshold is codified in the coalition agreement as a formal condition of SDP participation, meaning that any cabinet reshuffle that falls below 40% women would constitute a breach of the coalition and could trigger the SDP's withdrawal from government.
+Relations with the [[Okami Metropolitan Government]] occupy a distinct institutional tier due to the capital's outsized economic output, municipal tax autonomy, and immense urban concentration. While the metropolitan governor has historically resisted central interference, the Ikazaki Cabinet formed the Joint Metropolitan Transition Council, co-chaired by Chief Cabinet Secretary Tomoko Aoki and the Vice Governor of Okami. This body manages the integration of metropolitan transport lines, including the Okami Metro, into the safety protocols of the Yamamoto Hina Commission and coordinates civil defense resilience between the Cabinet Crisis Management Centre and the metropolitan disaster bureau.
 
-===External support===
-Independent member [[Hayashi Akihiro]] (Ogasawara-3rd), elected on a platform of remote community resilience following his role in organising the civilian response during the Satori Blackout, announced his support for the coalition government. His statement—"The islands were forgotten once. The Digital Sovereignty Act ensures it cannot happen again."—directly linked his support to the SDP's digital resilience legislation, giving the coalition an effective working majority of 252 seats.
+In environmental and agricultural administration, the Cabinet interfaces directly with regional stakeholders. Environment Minister Yumi Yamada coordinates with prefectural environmental protection divisions to enforce rigorous industrial emission ceilings and eliminate hazardous corporate dumping corridors. Concurrently, Agriculture Minister Daisuke Kondo collaborates with prefectural federations of agricultural cooperatives to implement regional grain price stabilization floors, shielding family farms from global market turbulence and preserving rural municipal tax bases against continuing depopulation.
 
-==Notable features==
-
-The Ikazaki Cabinet is distinguished by several institutional firsts in Sanese political history:
-
-* '''First formal gender threshold''': The Yoshida Threshold is the first binding gender composition requirement in any Sanese cabinet, and the first such threshold in any coalition agreement in Okaiken's modern democratic era.
-* '''First criminal prosecution of a private contractor''': The Kizan prosecution is the first criminal case brought against a private infrastructure contractor for failures that resulted in loss of life.
-* '''First independent rail safety commission with grounding authority''': The Yamamoto Hina Safety Commission's power to ground services without ministerial approval is unprecedented in Sanese transport governance.
-* '''First Minister for Digital Sovereignty''': The creation of a dedicated Digital Sovereignty portfolio—separate from the previous Minister for Digital Transformation—reflects the paradigm shift from digital modernisation to digital resilience following the Satori Blackout.
-* '''First Minister for Gender Equality and Democratic Accountability''': The combined portfolio, held by SDP leader Shimane Yoshida, links gender equality to democratic institutional reform, reflecting the SDP's position that democratic accountability is a gendered issue.
-* '''First Deputy Prime Minister with a super-ministry''': Nakayama's dual role as Deputy PM and Minister of Social Affairs gives him coordinating oversight over welfare, health, and transport policy—a "super-ministry" structure without precedent in Sanese cabinet governance.
+In public safety and criminal justice, the Cabinet balances central oversight with prefectural autonomy. National Public Safety Commission Chairman Shoji Yamashita maintains statutory oversight over the National Police Agency while respecting the operational command of Prefectural Public Safety Commissions. In the capital, this relationship requires constant liaison with the Okami Metropolitan Police Department to align municipal patrol operations with national civil liberties guidelines and post-crisis corporate investigation protocols.
 
 ==See also==
 * [[Cabinet of Okaiken]]
+* [[National Diet of Okaiken]]
 * [[Honda-Nakayama Cabinet]]
-* [[Okaiken general election, 2026]]
-* [[Nakayama Station dragging incident]]
-* [[Satori AI Blackout Crisis]]
-* [[Yamamoto Hina Safety Commission]]
+* [[Ministries of Okaiken]]
+* [[Digital Sovereignty Act (Okaiken)]]
 
 ==References==
 {{Reflist}}

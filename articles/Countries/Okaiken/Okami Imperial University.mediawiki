@@ -3,52 +3,412 @@
 | name = Okami Imperial University
 | native_name = 大紙帝国大学
 | latin_name = Universitas Imperialis Okamiensis
-| type = Public research university
+| image = OIU Crimson Gate.png
+| caption = The {{nihongo|Crimson Gate|赤門|Akamon}}, the iconic main entrance to the Chuo Campus and a registered National Cultural Property
+| type = [[Public university|Public]] [[research university]]
 | established = 1877
-| affiliation = Okaiken Ministry of Education
+| affiliation = [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken)|Okaiken Ministry of Education]]
 | endowment = OKD 180 billion
 | chancellor = Naoki Takayasu
 | president = Sakuya Yamamoto
+| provost =
+| vice_president =
+| dean =
 | academic_staff = 6,300
 | administrative_staff = 5,100
 | students = 28,500
 | undergraduates = 14,100
 | postgraduates = 14,400
 | location = [[Okami]], [[Okaiken]]
-| campus = Chuo<br>Tatara<br>Kaimi
-| colors = Light Blue
-| mascot = 
-| website = 
+| campus = {{ubl|Chuo (main)|Tatara|Eastern Kaimi|Shirokanedai (medical)}}
+| language = [[Sanese language|Sanese]]
+| colors = Light Blue{{color box|#89CFF0}}
+| mascot =
+| sporting_affiliations = {{ubl|[[Okaiken Rugby League One|League One Rugby]]|[[X-League]]|[[Okaiken Basketball Super League|OBSL]]}}
+| website = {{URL|www.oiu.ac.ok}}
+| logo = OIU crest.svg
+| footnotes =
 }}
 
-The {{Nihongo|Okami Imperial University|大紙帝国大学|Okami Teikoku Daigaku}}, often abbreviated as Shidai (紙大) or OIU, is a public research university located in [[Okami]], [[Okaiken]]. Founded in 1877, it is the oldest and largest of the national universities in Okaiken. The institution is widely considered the most prestigious university in the country and consistently ranks at the top of national academic league tables. 
+The {{Nihongo|'''Okami Imperial University'''|大紙帝国大学|Okami Teikoku Daigaku}}, often abbreviated as {{Nihongo|'''Shidai'''|紙大}} or '''OIU''', is a [[public university|public]] [[research university]] located in [[Okami]], [[Okaiken]]. Founded in 1877 by the [[Saito Restoration|Saito]] government as the nation's first modern institution of higher learning, it is the oldest and largest of the national seven-imperial-university system and is widely considered the most prestigious university in the country. OIU consistently ranks at the top of national academic league tables and is regarded as one of the leading research institutions in [[Fosia]].
 
-Unlike institutions within the Gakushuin system, which historically catered to the nobility, Okami Imperial University was established as a meritocratic institution aimed at modernizing the nation and cultivating leaders across all sectors of society. 
+Unlike institutions within the [[Gakushuin]] system, which historically catered to the nobility, Okami Imperial University was established as a meritocratic institution aimed at modernizing the nation and cultivating leaders across all sectors of society. The university has produced numerous [[Prime Minister of Okaiken|prime ministers]], [[Forces of Okaiken|military leaders]], [[List of Emperors of Okaiken|members of the Imperial family]], and pioneers in science, literature, and industry. Its alumni network, known as the {{Nihongo|''Shidai-kai''|紙大会}}, is one of the most influential professional associations in Okaiken.
+
+The university operates three core campuses within the Greater Okami area—the historic Chuo Campus, the Tatara Campus, and the modern Eastern Kaimi Campus—along with the Shirokanedai medical campus and dozens of affiliated research facilities spread across the nation. OIU's athletic program, particularly its [[rugby union]] and [[Lurandian Football]] teams, is deeply intertwined with the national {{Nihongo|[[Cult of Iron]]|鉄身信仰|Tesshin-shinkō}} sporting culture, and the university's annual [[Bo-Taoshi|bo-taoshi]] clash against [[Keio University]] is one of the most-watched sporting events in the nation.
 
 ==History==
-The university was chartered by the Imperial government in April 1877, merging several older government schools of medicine and Western learning. During its initial decades as a modern institution, Okadai benefited from the contributions of international scholars who helped establish its core faculties of Law, Science, Literature, and Medicine. 
+===Origins and founding (1871–1877)===
+The creation of Okami Imperial University was a direct product of the [[Saito Restoration]] and the new government's desperate need for trained administrators, engineers, and physicians to modernize the archipelago. Prior to 1871, higher education in Mitoyagi was largely confined to the [[Gakushuin|Peer's Academy]] for the aristocracy and a patchwork of [[Honda Shogunate|Honda-era]] [[Baiduism|Baiduist]] academies that taught classical Zong scholarship. The [[Edict of Restoration]] and the subsequent [[Abolition of the Han System]] created an immediate demand for a new class of technically trained civil servants who could manage the 72 newly created prefectures.
 
-The main campus in the central ward of Okami is built on the former estate of prominent feudal lord [[Inuyama Masahide]]. It is notable for its historic architecture, much of which survived the turbulent periods of the 20th century. The iconic main gate, often referred to as the Crimson Gate, and the grand central auditorium are registered national cultural heritage properties.
+In 1873, the Saito government established the {{Nihongo|Okami Medical School|大紙医学校|Okami Igakkō}} in the Kanda district, merging several older Honda-era medical academies. The following year, the {{Nihongo|Okami School of Western Learning|大紙開成学校|Okami Kaisei Gakkō}} was founded to teach Western science, languages, and engineering. These two institutions formed the nucleus of the future university. The government also established the {{Nihongo|Okami Law School|大紙法学校|Okami Hō Gakkō}} in 1875 to train judges and legal officials for the new court system.
+
+On April 12, 1877, the [[Ministry of Education, Culture, Sports, Science and Technology (Okaiken|Imperial Ministry of Education]] formally merged these three schools into a single institution: the {{Nihongo|Imperial University of Okami|大紙帝国大学|Okami Teikoku Daigaku}}. The charter, signed by [[Emperor Saito]] himself, declared that the university would serve as "the forge of the nation's intellect," a phrase that resonated deeply with the emerging {{Nihongo|''Fukoku Kyōhei''|富国強兵|"Enrich the Country, Strengthen the Military"}} national doctrine. The first president, {{Nihongo|Kōtoku Fujimura|藤村光徳|Fujimura Kōtoku}}, a former samurai-turned-scholar who had studied in [[Dagit]], oversaw the recruitment of the initial faculty of 42 professors, including several international scholars from [[Volisania]] and [[Breisland]].
+
+[[File:OIU Crimson Gate 1877.jpg|thumb|right|250px|The {{Nihongo|Crimson Gate|赤門|Akamon}} at the time of the university's founding in 1877]]
+
+The Chuo Campus was established on the former estate of the [[Inuyama clan]], a prominent feudal family whose fortified compound occupied a strategic rise in central Okami. The clan's main gate, a distinctive red-lacquered structure known as the {{Nihongo|Crimson Gate|赤門|Akamon}}, was preserved and incorporated into the campus design, becoming the university's most iconic symbol. The gate was designated a National Cultural Property in 1922.
+
+===Early growth and the Saito era (1877–1912)===
+During its first three decades, OIU was the primary engine of Okaiken's modernization. The university's early structure was modeled on the Volisanian university system, with four initial faculties: Law, Medicine, Literature, and Science. The Faculty of Engineering was added in 1886, followed by the Faculty of Agriculture in 1890. The curriculum was delivered primarily in Sanese, but all students were required to achieve proficiency in at least one Western language, reflecting the government's policy of {{Nihongo|''Wakon Yōsai''|和魂洋才|"Sanese spirit, Western learning"}}.
+
+The university's early graduates filled the upper ranks of the new bureaucracy. Of the first 500 graduates, over 60% entered government service, with the remainder distributed across the emerging [[zaibatsu]] industrial conglomerates and the officer corps of the new [[Imperial Sanese Army]]. The university's law faculty was particularly influential in drafting the [[Constitution of the Empire of Mitoyagi]] of 1889, and several OIU professors served as advisors to the [[Diet of Mitoyagi|Imperial Diet]].
+
+The physical campus expanded rapidly. The grand central auditorium, a red-brick structure designed by Echian architect [[Carlo Benedetti]], was completed in 1889 and remains one of the most recognizable buildings in Okami. The main library, initially housed in a converted barracks, was replaced by a purpose-built neoclassical structure in 1901, funded by a donation from the [[Mitsui zaibatsu]]. By 1910, the campus had grown to encompass over 30 buildings, including dedicated laboratories for chemistry, physics, and metallurgy.
+
+[[File:OIU Grand Auditorium 1889.jpg|thumb|left|250px|The grand central auditorium, designed by [[Carlo Benedetti]] and completed in 1889]]
+
+The university also played a critical role in the [[Lurandian Expansion]] of the 1890s. The Faculty of Agriculture dispatched survey teams to the [[Shendan Ocean]] colonies to study tropical agriculture, while the Faculty of Law trained the colonial administrators who governed the overseas territories. The university's Nautical Sciences program, established in 1895, supplied the [[Imperial Sanese Navy]] with trained officers and navigators.
+
+===Go-Shōkō Democracy and academic freedom (1912–1930)===
+The death of [[Emperor Saito]] in 1912 and the ascension of [[Emperor Go-Shōkō]] ushered in a period of relative liberalism known as {{Nihongo|Go-Shōkō Democracy|五将光民主主義|Go-Shōkō Minshushugi}}. For OIU, this era was marked by an unprecedented expansion of academic freedom and intellectual inquiry. The university became a hotbed of political debate, with student societies openly discussing socialism, democracy, and constitutional reform—topics that had been strictly suppressed during the Saito era.
+
+The {{Nihongo|''Shinjinkai''|新人会|"New Man Society"}}, founded in 1918 by law student {{Nihongo|Tetsurō Watanabe|渡辺哲郎|Watanabe Tetsurō}}, became the most influential student organization on campus. The society published a journal that attracted contributions from leading intellectuals, including the economist [[Kenzan Mihashi]], who would later become the first "commoner" prime minister. The Shinjinkai's advocacy for universal suffrage and labor rights placed it in direct conflict with the conservative faculty administration, but the liberal atmosphere of the era generally shielded the students from serious reprisals.
+
+This period also saw the university's first major contributions to international science. Professor {{Nihongo|Hidetoshi Nakamura|中村英利|Nakamura Hidetoshi}} of the Faculty of Science published his groundbreaking work on the [[Kōryū Effect]]—a phenomenon in theoretical physics that would later bear his name—in 1923, earning OIU its first major international recognition. The Faculty of Medicine made significant advances in tropical disease research, directly supporting the nation's colonial health infrastructure in Lurandia.
+
+The university's cultural influence expanded as well. The {{Nihongo|OIU Literary Society|紙大文学会|Shidai Bungakukai}} launched the literary magazine {{Nihongo|''Bungei''|文芸|"Literary Arts"}} in 1921, which became the premier venue for the emerging modernist literary movement. Writers such as {{Nihongo|Yukio Shimizu|清水雪雄|Shimizu Yukio}} and {{Nihongo|Kazuo Takeda|武田和夫|Takeda Kazuo}} published their first works in its pages, establishing the {{Nihongo|"Okami School"|大紙派|Ōkami-ha}} of literature that would dominate Sanese letters for decades.
+
+===The Dark Valley and the Great Adonian War (1930–1952)===
+{{Main|Statism in Mitoyagi|Great Adonian War}}
+The assassination of [[Kenzan Mihashi|Prime Minister Mihashi]] in 1922 had already signaled the end of the liberal era, but the full collapse of academic freedom came with the rise of {{Nihongo|Statism|国家主義|Kokka-shugi}} in the 1930s. The university was progressively stripped of its intellectual independence as the military, operating under the "Supreme Command" prerogative of the Saito Constitution, intervened directly in academic affairs.
+
+In 1935, the Ministry of Education dissolved the Shinjinkai and all other politically active student organizations. Faculty members suspected of liberal or socialist sympathies were dismissed or pressured into resignation. Professor {{Nihongo|Ichirō Kondō|近藤一郎|Kondō Ichirō}} of the Faculty of Economics, who had published a critical analysis of military spending, was arrested in 1936 on charges of "dangerous thought" and died in custody the following year. His case became a symbol of the university's intellectual capitulation to the state.
+
+The university was formally placed under the authority of the [[Imperial Rule Assistance Association]] (IRAA) in 1940. Research priorities were redirected entirely toward military applications. The Faculty of Engineering developed improved torpedo guidance systems and radar countermeasures, while the Faculty of Medicine conducted research on tropical diseases for the Shendan Ocean campaigns. The Faculty of Science's nuclear physics laboratory was ordered to investigate the feasibility of a fission weapon, though the program was chronically underfunded and never progressed beyond preliminary theoretical work.
+
+During the [[Great Adonian War]], the university's campus was repurposed for military use. Several laboratory buildings were converted to munitions storage, and the main auditorium served as a processing center for military conscription. As the war turned against Okaiken, the campus suffered increasingly from resource shortages; by 1950, most scientific equipment had been requisitioned for the war effort, and the university was operating at roughly 30% capacity.
+
+The most devastating blow came on the night of March 9–10, 1951, when Allied incendiary bombing raids devastated eastern Okami. While the Chuo Campus, situated on slightly elevated ground in the central ward, escaped the worst of the firestorm that destroyed the Tamashima and Mugishima districts, several outlying research facilities and the Tatara campus buildings were severely damaged. The university's herbarium, containing irreplaceable specimens collected during the Lurandian Expansion, was completely destroyed. An estimated 340 students and faculty members were killed in the raids, and the university's enrollment dropped below 5,000 for the first time since its founding.
+
+[[File:OIU campus damage 1951.jpg|thumb|right|250px|Damage to the Tatara Campus following the March 1951 bombing raids]]
+
+The university's surrender to militarism during this period remains a source of profound institutional shame. In 1998, the OIU Board of Governors formally issued the {{Nihongo|"Declaration of Academic Conscience"|学術良心宣言|Gakujutsu Ryōshin Sengen}}, acknowledging the university's failure to protect its scholars and students from state coercion and pledging to defend academic freedom against any future encroachment.
+
+===Post-war reconstruction and the economic miracle (1952–1966)===
+The end of the Great Adonian War and the subsequent Allied occupation brought radical changes to OIU. The occupation authorities, seeking to democratize Okaiken's educational system, mandated a comprehensive restructuring. In 1949, the university was formally reorganized under the new National School Establishment Law, which abolished the imperial university system and replaced it with the "new-system" university model. The institution's official name was changed from "Imperial University of Okami" to simply "Okami Imperial University," a deliberate retention of the word "Imperial" that reflected the institution's historical identity while distancing it from the discredited imperial state apparatus.
+
+The post-war years saw a dramatic expansion of the university's scope. The Faculty of Education was established in 1950 to train the teachers needed for the democratized school system. The Faculty of Pharmaceutical Sciences followed in 1951. The university's research output, which had been entirely directed toward military applications during the war, was redirected toward civilian reconstruction. The Faculty of Engineering played a crucial role in developing the infrastructure technologies—seismic-resistant construction, flood control systems, and high-speed rail—that would underpin the [[Sanese Economic Miracle]].
+
+The university's enrollment surged as returning soldiers and the first generation of post-war students flooded the campus. By 1955, the student body had grown to over 15,000, straining the damaged facilities. A massive construction campaign, funded by the Ministry of Education and supplemented by donations from the reconstituted zaibatsu, rebuilt the war-damaged buildings and added new lecture halls, dormitories, and research centers. The modernist Tatara Campus, designed by the architect {{Nihongo|Kenji Tange|丹下健二|Tange Kenji}}, was completed in 1960 and became a landmark of the [[Metabolism (architecture)|Metabolism]] architectural movement.
+
+The university's athletic program also experienced a renaissance during this period. The OIU rugby team, known as the {{Nihongo|"Iron Wolves"|鉄狼|Tetsurō}}, won the National University Rugby Championship five consecutive times between 1957 and 1961, establishing a tradition of athletic excellence that would become central to the university's identity. The 1960 [[Adonian Games]], hosted in Okami, provided a showcase for the university's sports facilities and research contributions, with OIU scientists playing key roles in the event's timing and measurement systems.
+
+===The Quiet Revolution and the Republican era (1966–2011)===
+{{Main|Quiet Revolution|Federal Republic of Okaiken}}
+The political upheaval of the [[Quiet Revolution]] (1966–1970) profoundly affected the university. The [[Okami Stock Exchange]] crash of 1967 and the subsequent economic crisis led to severe budget cuts across the national university system. Faculty salaries were frozen, research grants were slashed, and several planned expansion projects were indefinitely postponed.
+
+The university was also at the center of the political ferment. OIU students formed the {{Nihongo|"All-Campus Joint Struggle Council"|全学共闘会議|Zengaku Kyōtō Kaigi}}, which occupied the central auditorium for 47 days in the spring of 1968, demanding the resignation of the university president and an end to government interference in academic affairs. The occupation ended when the [[Okami Metropolitan Police]] was called in to clear the building, resulting in over 200 arrests and the hospitalization of 15 students. The event, known as the {{Nihongo|"Crimson Gate Incident"|赤門事件|Akamon Jiken}}, became a defining moment in the university's post-war history and is commemorated annually by the student body.
+
+[[File:OIU Crimson Gate Incident 1968.jpg|thumb|left|250px|Students occupying the central auditorium during the 1968 {{Nihongo|Crimson Gate Incident|赤門事件|Akamon Jiken}}]]
+
+The establishment of the [[Federal Republic of Okaiken]] in 1970 brought further changes. The government's seizure of Imperial assets included the university's historic land grant, which had provided a significant portion of its operating budget. The institution was forced to rely entirely on government appropriations and tuition revenue, leading to a prolonged period of financial austerity. The university's name was briefly changed to "Okami University" during the most radical phase of the Republican de-Imperialization campaign, but the traditional name was restored in 1973 after the [[Yasuhiro Nakasone|Nakasone]] administration reversed the most aggressive anti-Imperial policies.
+
+Despite these challenges, the university maintained its academic preeminence. The Faculty of Science made major contributions to the semiconductor research that would later fuel the [[Digital Infrastructure Act|Digital Infrastructure]] revolution of the 2000s. The establishment of the {{Nihongo|Kaimi Institute for Advanced Science|海見高等科学研究所|Kaimi Kōtō Kagaku Kenkyūjo}} in 1975 marked the beginning of the university's expansion into cutting-edge interdisciplinary research. The Eastern Kaimi Campus, opened in 1982, was specifically designed to house these new research programs.
+
+The [[Go-go 8090|bubble economy]] of the 1980s brought a temporary respite from financial pressure. The university's endowment, swollen by donations from grateful zaibatsu alumni, reached OKD 100 billion for the first time. New research centers were established in biotechnology, artificial intelligence, and materials science. The university's library system was fully computerized in 1988, making it one of the first major academic libraries in Fosia to offer digital catalog access.
+
+The collapse of the bubble in 1991 and the subsequent [[Lost Decade (Okaiken)|Lost Decade]] again strained the university's finances. However, the institution's research output remained strong. Professor {{Nihongo|Masahiro Tanaka|田中正弘|Tanaka Masahiro}} of the Faculty of Engineering published his seminal work on the [[Satori]] algorithmic framework in 1999, laying the theoretical groundwork for the algorithmic governance systems that would later be adopted by the Okami Metropolitan Government.
+
+===The Jutsu Restoration and the modern era (2011–present)===
+{{Main|Jutsu Restoration}}
+The [[Jutsu Restoration]] of 2011, which reinstated [[Emperor Masahito]] as a constitutional monarch, had complex implications for the university. The restoration of the Imperial house was broadly popular among the student body, but the [[Kurosawa Doctrine]]'s revisionist educational policies—particularly the Ministry of Education's approval of history textbooks that downplayed Imperial-era atrocities—provoked fierce opposition from the faculty. In 2014, the OIU Faculty Council passed a resolution condemning the textbook revisions, becoming the first major university to do so publicly.
+
+The university's financial situation improved dramatically in the 2010s. The [[Digital Infrastructure Act]] of 2008 had already redirected substantial government funding toward technology research, and OIU was a primary beneficiary. The establishment of the {{Nihongo|Yagikoshu Data Corridor|八木越データ回廊|Yagikoshu Dēta Kairō}} research partnership in 2013, a collaboration between OIU, the [[Satori Development Institute]], and the [[Kizan Systems]] semiconductor consortium, brought billions of yen in research funding to the university's computer science and engineering faculties.
+
+The university's athletic profile received an unprecedented boost in 2024, when [[Crown Prince Tomohito]], then a student in the Faculty of Science, captained the university rugby team to the National University Rugby Championship finals. The Crown Prince's semi-professional career as an openside flanker—played under the team name "Tomohito Shinnō" to comply with amateur regulations—generated massive national interest in university sports and was widely credited with boosting OIU's applicant pool by 18% in the following admissions cycle.
+
+In 2025, the university announced the {{Nihongo|"Vision 2030"|ビジョン2030}} strategic plan, a comprehensive initiative to expand the Eastern Kaimi Campus, establish new graduate programs in artificial intelligence and quantum computing, and increase international enrollment to 15% of the student body. The plan, backed by OKD 45 billion in government and private funding, represents the largest expansion in the university's history.
+
+==Organisation==
+===Faculties===
+OIU comprises ten faculties, each headed by a dean appointed by the university president:
+# {{Nihongo|Faculty of Law|法学部|Hō Gakubu}} — the oldest and most prestigious faculty, producing the majority of Okaiken's judges, prosecutors, and senior civil servants
+# {{Nihongo|Faculty of Medicine|医学部|I Gakubu}} — operates the Shirokanedai University Hospital, the nation's largest teaching hospital
+# {{Nihongo|Faculty of Engineering|工学部|Kō Gakubu}} — the largest faculty by enrollment, with departments in civil, mechanical, electrical, and chemical engineering
+# {{Nihongo|Faculty of Literature|文学部|Bungaku Gakubu}} — encompasses Sanese literature, Fosian literature, Western literature, linguistics, and philosophy
+# {{Nihongo|Faculty of Science|理学部|Ri Gakubu}} — departments of physics, chemistry, biology, earth and planetary sciences, and mathematics
+# {{Nihongo|Faculty of Agriculture|農学部|Nō Gakubu}} — includes programs in applied biology, forestry, and agricultural economics
+# {{Nihongo|Faculty of Economics|経済学部|Keizai Gakubu}} — known for its quantitative and econometric approach
+# {{Nihongo|Faculty of Education|教育学部|Kyōiku Gakubu}} — trains secondary school teachers and educational administrators
+# {{Nihongo|Faculty of Pharmaceutical Sciences|薬学部|Yaku Gakubu}} — one of the nation's top-ranked pharmacy programs
+# {{Nihongo|Faculty of Interdisciplinary Sciences|総合科学部|Sōgō Kagaku Gakubu}} — established in 2018 to house programs in data science, computational biology, and human informatics
+
+===Graduate schools===
+The university operates fifteen graduate schools:
+# Graduate School of Humanities and Sociology
+# Graduate School of Education
+# Graduate School of Law and Politics
+# Graduate School of Economics
+# Graduate School of Arts and Sciences
+# Graduate School of Science
+# Graduate School of Engineering
+# Graduate School of Agricultural and Life Sciences
+# Graduate School of Medicine
+# Graduate School of Pharmaceutical Sciences
+# Graduate School of Mathematical Sciences
+# Graduate School of Frontier Sciences
+# Graduate School of Information Science and Technology
+# Graduate School of Public Policy
+# Graduate School of Interdisciplinary Information Studies
+
+===Research institutes===
+OIU houses eleven affiliated research institutes:
+# {{Nihongo|Institute for Cosmic Ray Research|宇宙線研究所|Uchūsen Kenkyūjo}} — operates the Kaimi Cosmic Ray Observatory
+# {{Nihongo|Institute for Solid State Physics|固体物理研究所|Kotai Butsuri Kenkyūjo}}
+# {{Nihongo|Institute for Nuclear Study|原子核研究所|Genshikaku Kenkyūjo}}
+# {{Nihongo|Research Center for Advanced Science and Technology|先端科学技術研究センター|Sentan Kagaku Gijutsu Kenkyū Sentā}} — the university's largest research facility, located at the Eastern Kaimi Campus
+# {{Nihongo|Institute of Medical Science|医科学研究所|Ikagaku Kenkyūjo}} — operates the Shirokanedai Biosafety Level 4 laboratory
+# {{Nihongo|Ocean Research Institute|海洋研究所|Kaiyō Kenkyūjo}} — manages the OIU research vessel ''Shidai-maru''
+# {{Nihongo|Institute for Social Science Research|社会科学研究所|Shakai Kagaku Kenkyūjo}}
+# {{Nihongo|Institute for Economic Research|経済研究所|Keizai Kenkyūjo}}
+# {{Nihongo|Historiographical Institute|史料編纂所|Shiryō Hensan-sho}} — continues the compilation of official national chronicles, a tradition dating to the Asama period
+# {{Nihongo|Institute for Molecular and Cellular Biosciences|分子細胞生物学研究所|Bunshi Saibō Seibutsugaku Kenkyūjo}}
+# {{Nihongo|Yagikoshu Data Corridor Research Center|八木越データ回廊研究センター|Yagikoshu Dēta Kairō Kenkyū Sentā}} — established 2013 in partnership with [[Satori Development Institute]] and [[Kizan Systems]]
+
+===Advanced study institutes===
+Four advanced study institutes are affiliated with OIU:
+# {{Nihongo|Kaimi Institute for Advanced Science|海見高等科学研究所|Kaimi Kōtō Kagaku Kenkyūjo}}
+# {{Nihongo|Okami Institute of Technology|大紙工業大学|Okami Kōgyō Daigaku}} — merged with OIU in 1949
+# {{Nihongo|Institute for Theoretical Physics|理論物理学研究所|Riron Butsurigaku Kenkyūjo}}
+# {{Nihongo|International Research Center for Sanese Studies|国際岡見文化研究センター|Kokusai Okaiken Bunka Kenkyū Sentā}}
 
 ==Campuses==
-The university operates three core campuses within the Greater Okami area, along with dozens of research facilities spread across the nation.
+===Chuo Campus===
+The {{Nihongo|Chuo Campus|中央キャンパス|Chū Kyampasu}} is the historic heart of OIU and the site of the original 1877 campus. Located in the central ward of Okami on the former [[Inuyama clan]] estate, the campus occupies approximately 35 hectares of gently rolling terrain. The campus is characterized by its tree-lined avenues, red-brick facades, and the iconic [[Crimson Gate]], which serves as the university's most recognizable symbol.
 
-The Central Okami Campus houses the traditional faculties, the main administrative buildings, and the grand library. It is the historic heart of the university and is characterized by tree-lined avenues and brick facades.
+[[File:OIU Chuo Campus aerial.jpg|thumb|right|300px|Aerial view of the Chuo Campus, with the Crimson Gate visible at center]]
 
-The Tatara Campus, located further north, is home to the College of Arts and Sciences. All undergraduate students spend their first two years at this campus undergoing a liberal arts education before moving to the Central Campus to specialize in their chosen fields.
+The Chuo Campus houses the Faculties of Law, Literature, Economics, and Education, as well as the main administrative building, the central library, and the grand auditorium. The {{Nihongo|Sanshō Garden|三生園|Sanshō-en}}, a traditional landscape garden originally part of the Inuyama estate, is preserved within the campus grounds and is open to the public during the spring cherry blossom season. The campus is a registered National Scenic Property and attracts an estimated 500,000 visitors annually.
 
-The Eastern Kaimi Campus is a modern addition focused on advanced scientific research, environmental studies, and interdisciplinary sciences.
+The main library, the {{Nihongo|Okami Imperial University Library|大紙帝国大学図書館|Okami Teikoku Daigaku Toshokan}}, houses over 10 million volumes, making it the largest academic library in Okaiken. The collection includes rare manuscripts from the Honda period, the original drafts of the [[Constitution of the Empire of Mitoyagi]], and the personal papers of numerous prime ministers and literary figures. The library's special collections wing, opened in 2005, provides climate-controlled storage for the university's most fragile holdings.
+
+===Tatara Campus===
+The {{Nihongo|Tatara Campus|多摩良キャンパス|Tatara Kyampasu}} is located in the [[Tatara Ward, Okami|Tatara ward]] on the island of [[Tamashima]], approximately 8 kilometers north of the Chuo Campus. The campus was designed by architect {{Nihongo|Kenji Tange|丹下健二|Tange Kenji}} and completed in 1960 as a showcase of the [[Metabolism (architecture)|Metabolism]] architectural movement. The campus is notable for its elevated walkways, modular concrete structures, and the distinctive {{Nihongo|"Cloud Bridge"|雲橋|Kumo-bashi}} pedestrian overpass connecting the main academic buildings.
+
+[[File:OIU Tatara Campus Cloud Bridge.jpg|thumb|left|250px|The {{Nihongo|"Cloud Bridge"|雲橋|Kumo-bashi}} at the Tatara Campus, designed by {{Nihongo|Kenji Tange|丹下健二|Tange Kenji}}]]
+
+The Tatara Campus houses the {{Nihongo|College of Arts and Sciences|教養学部|Kyōyō Gakubu}}, where all undergraduate students spend their first two years undergoing a liberal arts education before moving to the Chuo Campus or another specialized campus to complete their degree. This two-tier system—unique among Okaiken's national universities—ensures that all OIU graduates share a common foundation in critical thinking, scientific reasoning, and Sanese cultural traditions.
+
+The campus also houses the Faculty of Science, the Faculty of Interdisciplinary Sciences, and several major research laboratories. The {{Nihongo|Tatara Athletic Complex|多摩良体育Complex|Tatara Taiiku Konpurekkusu}}, one of the largest university sports facilities in the nation, includes a 15,000-seat rugby stadium, an Adonian-standard swimming pool, and the {{Nihongo|"Iron Forge" Gymnasium|鉄鍛造体育館|Tetsu Tanzō Taiikukan}}, which serves as the primary training facility for the university's [[Cult of Iron]]-aligned bodybuilding and [[Goriki]] programs.
+
+===Eastern Kaimi Campus===
+The {{Nihongo|Eastern Kaimi Campus|東海見キャンパス|Higashi Kaimi Kyampasu}} is the university's newest and most technologically advanced campus, opened in 1982 on reclaimed land in the Kaimi district of eastern Okami. The campus was designed from its inception as a center for advanced scientific research and interdisciplinary collaboration, with open-plan laboratories, flexible workspace configurations, and direct fiber-optic connections to the [[Yagikoshu Data Corridor]] network.
+
+The Eastern Kaimi Campus houses the Faculty of Engineering, the Graduate School of Frontier Sciences, the Graduate School of Information Science and Technology, and the Research Center for Advanced Science and Technology. The campus is also home to the {{Nihongo|Yagikoshu Data Corridor Research Center|八木越データ回廊研究センター}}, the university's primary facility for artificial intelligence and quantum computing research, established in partnership with [[Satori Development Institute]] and [[Kizan Systems]].
+
+The campus's modern architecture—characterized by glass curtain walls, steel frames, and extensive use of solar panels—stands in stark contrast to the red-brick traditionalism of the Chuo Campus. The {{Nihongo|"Innovation Tower"|イノベーションタワー|Inobēshon Tawā}}, a 22-story research skyscraper completed in 2020, is the tallest building on any OIU campus and houses the university's quantum computing laboratory and startup incubator.
+
+[[File:OIU Innovation Tower.jpg|thumb|right|250px|The {{Nihongo|"Innovation Tower"|イノベーションタワー|Inobēshon Tawā}} at the Eastern Kaimi Campus]]
+
+===Shirokanedai Campus===
+The {{Nihongo|Shirokanedai Campus|白金台キャンパス|Shirokanedai Kyampasu}} is the university's medical campus, located in the Shirokanedai district of southern Okami. The campus houses the Faculty of Medicine, the Institute of Medical Science, and the {{Nihongo|Shirokanedai University Hospital|白金台大学病院|Shirokanedai Daigaku Byōin}}, the nation's largest teaching hospital with 1,200 beds. The hospital serves as the primary medical facility for the Imperial family and senior government officials.
+
+The campus includes a Biosafety Level 4 laboratory, one of only three in Okaiken, which is operated by the Institute of Medical Science for research on highly pathogenic viruses. The Faculty of Medicine's tropical disease research program, a direct descendant of the colonial-era medical initiatives, remains one of the university's most internationally recognized research programs.
+
+===Satellite facilities===
+The university operates six additional satellite facilities:
+* {{Nihongo|Kiso Forest Research Station|木曽森林研究ステーション|Kiso Shinrin Kenkyū Sutēshon}} — forestry and ecology research in the western mountains
+* {{Nihongo|Nakatsu Marine Laboratory|中津海洋研究所|Nakatsu Kaiyō Kenkyūjo}} — coastal marine biology on the [[Inland Sea]]
+* {{Nihongo|Kaimi Cosmic Ray Observatory|海見宇宙線観測所|Kaimi Uchūsen Kansokusho}} — astrophysics research in the Kaimi highlands
+* {{Nihongo|Seto Archaeological Research Center|瀬戸考古学研究センター|Seto Kōkogaku Kenkyū Sentā}} — excavation and preservation of Asama-period artifacts
+* {{Nihongo|Tone River Hydrology Station|利根川水文ステーション|Tonegawa Suimon Sutēshon}} — flood control and water resource management research
+* {{Nihongo|Lurandian Agricultural Research Outpost|ルランディア農業研究拠点|Rurandia Nōgyō Kenkyū Kyoten}} — tropical agriculture research in the Shendan Ocean territories
 
 ==Academics==
-Okami Imperial University consists of 10 faculties and 15 graduate schools. It enrolls approximately 28,500 students, roughly evenly divided between undergraduate and postgraduate programs. The university is a highly selective institution, with an acceptance rate typically hovering around a single digit for its most competitive programs.
+===Admissions===
+Okami Imperial University is the most selective institution of higher education in Okaiken. For the 2026 admissions cycle, the university received 18,400 applications for 3,200 undergraduate places, resulting in an overall acceptance rate of approximately 17.4%. However, acceptance rates for the most competitive programs—particularly the Faculties of Law and Medicine—regularly fall below 5%.
 
-The university operates on a unique two-tier system for undergraduates. Students are initially admitted to the College of Arts and Sciences for a two-year liberal arts curriculum. Following this, they transition to one of the specialized senior faculties for their final two years of study. 
+Undergraduate admission is based primarily on the {{Nihongo|National Center Examination for University Admissions|大学入試センター試験|Daigaku Nyūshi Sentā Shiken}}, a standardized test administered by the Ministry of Education, followed by faculty-specific secondary examinations. The secondary examinations are notoriously rigorous; the Faculty of Law's written examination, which includes essay questions on constitutional theory and legal philosophy, is widely regarded as the most difficult academic test in the nation.
 
-The institution is also home to 11 affiliated research institutes, covering disciplines ranging from earthquake research to advanced medical sciences. The university library system is the largest in Okaiken, housing over 10 million volumes.
+The university also admits a small number of students through the {{Nihongo|"Admissions Office" entry system|入試オフィス入試|Nyūshi Ofisu Nyūshi}}, which evaluates candidates based on interviews, essays, and extracurricular achievements rather than examination scores alone. This system, introduced in 2015, was designed to diversify the student body and reduce the dominance of examination-cramming schools, though it remains controversial among traditionalists who argue it compromises meritocratic standards.
+
+===Junior and Senior divisions===
+OIU operates a unique two-tier undergraduate system. All students are initially admitted to the {{Nihongo|College of Arts and Sciences|教養学部|Kyōyō Gakubu}} at the Tatara Campus for a two-year liberal arts curriculum known as the {{Nihongo|"Junior Division"|前期課程|Zenki Katei}}. During this period, students take required courses in Sanese language, a Western language, mathematics, natural sciences, and {{Nihongo|"Sanese Civilization"|岡見文明論|Okaiken Bunmei-ron}}, a mandatory course that examines the philosophical and historical foundations of Sanese society.
+
+Following completion of the Junior Division, students transition to one of the specialized senior faculties for their {{Nihongo|"Senior Division"|後期課程|Kōki Katei}}—the final two years of intensive study in their chosen field. The transition is not automatic; students must pass qualifying examinations and meet minimum grade requirements to advance to their preferred faculty. Those who fail to qualify for their first-choice faculty are typically reassigned to their second or third choice.
+
+===International students===
+As of 2026, OIU enrolls approximately 2,400 international students, representing roughly 8.4% of the total student body. The largest cohorts come from the [[Kingdom of Zong]], [[Dagit]], and [[Yanbaru]], with smaller numbers from [[Nakamizu]] and various Illypnian nations. The university offers several degree programs taught entirely in Trentannian (the lingua franca of international commerce), and the Graduate School of Engineering has established joint degree programs with leading universities in [[Echia]] and [[Breisland]].
+
+The university's international student support services include Sanese-language training, housing assistance, and a mentorship program that pairs incoming international students with OIU alumni working in their field of study. The {{Nihongo|International Lodge|国際ロッジ|Kokusai Rojji}}, a dormitory complex on the Tatara Campus, provides subsidized housing for international students.
+
+===Rankings===
+OIU is consistently ranked as the top university in Okaiken and among the top institutions in Fosia. In the 2026 ''Adonian University Rankings'', OIU was placed 12th globally and 2nd in Fosia, behind only the [[Imperial University of Zong]]. The university's Faculty of Engineering was ranked 5th globally, and the Faculty of Medicine was ranked 8th.
+
+Domestically, OIU has held the top position in every major national ranking since the system's inception. The university's research output, as measured by citations in peer-reviewed journals, exceeds that of the next two Okaiken universities combined. The university's endowment of OKD 180 billion is the largest of any public university in the nation.
+
+==Athletics==
+Athletics are a central component of OIU's institutional identity, deeply intertwined with the national {{Nihongo|[[Cult of Iron]]|鉄身信仰|Tesshin-shinkō}} sporting culture. The university's athletic program, administered by the {{Nihongo|OIU Athletic Committee|紙大体育委員会|Shidai Taiiku Iinkai}}, fields competitive teams in rugby union, Lurandian Football, association football, basketball, martial arts, bodybuilding, and the traditional sport of [[Bo-Taoshi|bo-taoshi]]. The university's teams are known collectively as the {{Nihongo|"Iron Wolves"|鉄狼|Tetsurō}}.
+
+===Rugby union===
+{{Main|Rugby in Okaiken}}
+OIU's rugby union program is the most prestigious in the nation. The {{Nihongo|"Iron Wolves"|鉄狼|Tetsurō}} have won the National University Rugby Championship 19 times, more than any other institution. The program's dominance is such that the OIU rugby team has served as the primary pipeline for the [[Okaiken national rugby union team|Brave Blossoms]], the national team, with over 40 OIU alumni having represented Okaiken at the international level.
+
+The program received unprecedented national attention during the 2024 season, when [[Crown Prince Tomohito]], then a third-year student in the Faculty of Science, captained the Iron Wolves to the championship finals as an openside flanker. The Crown Prince's participation—played under the team name "Tomohito Shinnō" to comply with amateur regulations—generated record television audiences and was widely credited with popularizing university rugby among demographics that had previously followed only professional leagues.
+
+[[File:OIU Iron Wolves rugby 2024.jpg|thumb|left|250px|The OIU Iron Wolves rugby team during the 2024 championship season]]
+
+The Iron Wolves' annual match against [[Keio University]], known as the {{Nihongo|"Clash of the Wolves"|狼の激突|Ōkami no Gekitotsu}}, is one of the most-watched regular-season sporting events in Okaiken, regularly attracting over 30 million television viewers.
+
+===Lurandian Football===
+OIU's Lurandian Football program is a major pipeline for the [[X-League]], the nation's professional Lurandian Football circuit. The OIU Iron Wolves football team has produced numerous X-League stars, most notably middle linebacker [[Naoto Kongo]], who was drafted 3rd overall by the [[Okami Direwolves]] in the 2012 X-League Draft and went on to anchor the franchise's legendary "Iron Curtain" defense, winning the [[Rice Bowl]] MVP in 2016.
+
+The university's football program emphasizes the same defense-first, physically punishing philosophy that characterizes the Direwolves franchise, and the two institutions maintain a formal recruiting partnership. Several OIU assistant coaches have transitioned to the X-League, and the Direwolves' current defensive coordinator, [[Hisashi Morimoto]], previously served as OIU's head football coach from 2008 to 2011.
+
+===Bo-Taoshi===
+{{Main|Bo-Taoshi}}
+The annual [[Bo-Taoshi|bo-taoshi]] match between OIU and [[Keio University]], known as the {{Nihongo|"Clash of the Imperial Academies"|帝国学院の激突|Teikoku Gakuin no Gekitotsu}}, is one of the most-watched sporting events in Okaiken. The brutal, chaotic contest—in which teams of 75 to 100 players attempt to defend their own pole while pulling down the opponent's—is a mandatory component of the university's physical education curriculum and is viewed as the ultimate test of collective resilience and physical bravery.
+
+The 2023 clash, in which OIU's iron-willed captain {{Nihongo|Kenzo Iwata|岩田健三|Iwata Kenzō}} led his team to a grueling, hours-long victory over Keio's tactical mastermind {{Nihongo|Shiro Shinjo|新城志郎|Shinjō Shirō}}, remains a cultural touchstone for the {{Nihongo|"Iron Body"|鉄身|Tesshin}} philosophy and is frequently cited in [[National Iron Body Initiative|NIBI]] promotional materials.
+
+[[File:OIU bo-taoshi 2023.jpg|thumb|right|250px|The 2023 bo-taoshi clash between OIU and Keio University]]
+
+===Bodybuilding and Goriki===
+OIU's bodybuilding and [[Goriki]] programs are among the university's most distinctive athletic offerings, reflecting the institution's deep connection to the [[Cult of Iron]] tradition. The {{Nihongo|"Iron Forge" Gymnasium|鉄鍛造体育館|Tetsu Tanzō Taiikukan}} at the Tatara Campus is one of the best-equipped university strength training facilities in the nation, featuring competition-grade barbells, traditional [[Goriki]] implements, and a dedicated posing stage.
+
+The university has produced several nationally competitive bodybuilders, including {{Nihongo|Daiki Hoshino|星野大樹|Hoshino Daiki}}, a former OIU engineering student who transitioned from dockwork to become one of the nation's top Goriki competitors, known for his explosive lifting speed. The OIU Bodybuilding Club, while smaller than the rugby or football programs, maintains a dedicated following among students who participate in the {{Nihongo|Tesshin Kyōkai|鉄身協会|Iron Body Association}} amateur circuit.
+
+===Other sports===
+The university fields competitive teams in association football, basketball, swimming, kendo, judo, and track and field. The OIU basketball team, the {{Nihongo|"Iron Sentinels"|鉄歩哨|Tesshō}}, competes in the university division of the [[Okaiken Basketball Super League|OBSL]] pipeline and has produced several professional players. The university's [[Kaijo-kyu|combat water polo]] team is a perennial contender in the [[Seto Inland Sea Championship|Inland Sea Championship]].
+
+The university's sumo program, while historically significant, has declined in prominence as student interest has shifted toward the full-contact team sports and bodybuilding programs that align more closely with the [[Forge State|Forge State]] ideology. The OIU sumo club currently fields only a handful of competitors in the national university tournament.
+
+==Student life==
+===Housing===
+The university operates three main dormitory complexes:
+* {{Nihongo|First Hall|第一寮|Dai-ichi Ryō}} — the oldest dormitory, located on the Chuo Campus, housing 200 male students in traditional single rooms
+* {{Nihongo|Second Hall|第二寮|Dai-ni Ryō}} — a modern facility at the Tatara Campus, housing 400 students of all genders
+* {{Nihongo|International Lodge|国際ロッジ|Kokusai Rojji}} — subsidized housing for international students at the Tatara Campus
+
+The majority of OIU students live in private apartments or commute from family homes in the Greater Okami area. The university's housing guarantee extends only to first-year students and international students; upperclassmen are expected to secure their own accommodation, though the university maintains a housing referral service.
+
+===Publications===
+The university's official newspaper, the {{Nihongo|''Shidai Shimbun''|紙大新聞|"OIU News"}}, has been published continuously since 1881 and is the oldest university newspaper in Okaiken. The paper, which is distributed free on campus and published online, covers campus news, academic research, and student life. It has a circulation of approximately 15,000 and is widely read beyond the university community.
+
+The {{Nihongo|''OIU Law Review''|紙大法学|Shidai Hōgaku}} is the nation's most cited academic law journal, and the {{Nihongo|''OIU Economic Papers''|紙大経済論集|Shidai Keizai Ronsū}} is a leading venue for economic research. The university's literary magazine, {{Nihongo|''Bungei''|文芸|"Literary Arts"}}, has been publishing continuously since 1921 and has launched the careers of numerous prominent Sanese writers.
+
+===Festivals and traditions===
+The university's annual cultural festival, the {{Nihongo|"Crimson Gate Festival"|赤門祭|Akamon-sai}}, is held each November and attracts over 100,000 visitors to the Chuo Campus. The three-day event features student performances, food stalls, art exhibitions, and an open-house at the university's research laboratories. The festival's highlight is the {{Nihongo|"Rector's Procession"|総長行列|Sōchō Gyōretsu}}, in which the university president and faculty, dressed in academic regalia, parade through the campus grounds.
+
+[[File:OIU Crimson Gate Festival.jpg|thumb|left|250px|Crowds at the annual {{Nihongo|Crimson Gate Festival|赤門祭|Akamon-sai}}]]
+
+The {{Nihongo|"Cherry Blossom Viewing"|花見|Hanami}} tradition, held each spring in the Sanshō Garden, is one of the most popular social events of the academic year. Students, faculty, and alumni gather under the campus's 200 cherry trees to celebrate the new academic year. The tradition dates to the university's founding, when the Inuyama clan's garden was first opened to students.
+
+OIU's academic cap tradition, known as the {{Nihongo|"Crimson Cap"|赤帽|Akabō}}, is one of the university's most distinctive cultural practices. Graduating students receive a light-blue academic cap bearing the university crest, which they wear during the commencement ceremony and subsequently keep as a lifelong memento. The tradition originated in 1901, when the first cohort of post-Saito graduates sought a visual marker of their academic achievement distinct from the military uniforms that dominated public life at the time.
+
+===Women's education===
+Women were first admitted to OIU in 1946, following the post-war educational reforms. The first female graduate, {{Nihongo|Yōko Ishikawa|石川陽子|Ishikawa Yōko}}, completed her degree in medicine in 1950 and went on to establish the nation's first women's health clinic in Okami. Today, women constitute approximately 38% of the undergraduate student body and 42% of postgraduate students, though the figure varies significantly by faculty—women make up over 60% of the Faculty of Literature but only 15% of the Faculty of Engineering.
+
+The university established the {{Nihongo|Office of Gender Equality|ジェンダー平等室|Jendā Byōdō-shitsu}} in 2012, following a high-profile incident in which a Faculty of Medicine professor was found to have systematically downgraded female students' examination scores. The office administers mentorship programs, childcare subsidies, and anti-harassment training, and has been credited with increasing the female faculty ratio from 8% in 2012 to 19% in 2026.
+
+==Notable alumni==
+{{Main|List of Okami Imperial University alumni}}
+OIU has produced an extraordinary number of leaders across every sector of Sanese society. As of 2026, the university's alumni include:
+* '''Prime Ministers:''' 9 of Okaiken's 22 post-Saito prime ministers were OIU graduates, including [[Honda Tadashige]] (1961–1964) and [[Toshiro Kurosawa]] (2013–2018)
+* '''Imperial family:''' [[Crown Prince Tomohito]], who studied chemistry in the Faculty of Science and captained the university rugby team
+* '''Military leaders:''' Several commanders of the [[Forces of Okaiken|Okaiken Self-Defense Forces]] and Imperial-era military officers
+* '''Scientists:''' {{Nihongo|Hidetoshi Nakamura|中村英利|Nakamura Hidetoshi}}, discoverer of the [[Kōryū Effect]]; {{Nihongo|Masahiro Tanaka|田中正弘|Tanaka Masahiro}}, pioneer of the [[Satori]] algorithmic framework
+* '''Literary figures:''' {{Nihongo|Yukio Shimizu|清水雪雄|Shimizu Yukio}}, founder of the {{Nihongo|"Okami School"|大紙派|Ōkami-ha}} literary movement; {{Nihongo|Kazuo Takeda|武田和夫|Takeda Kazuo}}, novelist
+* '''Business leaders:''' Numerous presidents of the [[zaibatsu]] conglomerates and modern technology companies
+* '''Athletes:''' [[Naoto Kongo]], X-League middle linebacker and Rice Bowl MVP; {{Nihongo|Daiki Hoshino|星野大樹|Hoshino Daiki}}, Goriki competitor; numerous [[Okaiken Rugby League One|League One]] rugby players
+
+==Presidents==
+{{Main|List of presidents of Okami Imperial University}}
+{| class="wikitable"
+|-
+! No.
+! Name
+! Term
+! Notes
+|-
+| 1
+| {{Nihongo|Kōtoku Fujimura|藤村光徳|Fujimura Kōtoku}}
+| 1877–1886
+| First president; former samurai and Dagit-trained scholar
+|-
+| 2
+| {{Nihongo|Yoshio Hamada|浜田義雄|Hamada Yoshio}}
+| 1886–1893
+| Oversaw the addition of the Faculties of Engineering and Agriculture
+|-
+| 3
+| {{Nihongo|Ryūnosuke Kaga|加賀龍之介|Kaga Ryūnosuke}}
+| 1893–1901
+| Established the main library and the Historiographical Institute
+|-
+| 4
+| {{Nihongo|Tadashi Morikawa|森川正|Morikawa Tadashi}}
+| 1901–1914
+| Guided the university through the Go-Shōkō Democracy era
+|-
+| 5
+| {{Nihongo|Kiyoshi Arakawa|荒川清|Arakawa Kiyoshi}}
+| 1914–1928
+| Resigned following the Mihashi assassination; symbol of liberal era
+|-
+| 6
+| {{Nihongo|Heisuke Ogawa|小川平助|Ogawa Heisuke}}
+| 1928–1936
+| Compliant with Statist demands; dismissed liberal faculty
+|-
+| 7
+| {{Nihongo|Teijirō Nishikawa|西川貞次郎|Nishikawa Teijirō}}
+| 1936–1945
+| Presided over the university's militarization during the Great Adonian War
+|-
+| 8
+| {{Nihongo|Shigeru Yoshida|吉田茂|Yoshida Shigeru}}
+| 1945–1953
+| Led post-war reconstruction; restored academic freedom
+|-
+| 9
+| {{Nihongo|Ichirō Katō|加藤一郎|Katō Ichirō}}
+| 1953–1963
+| Oversaw the expansion of the Tatara Campus and the 1960 Adonian Games
+|-
+| 10
+| {{Nihongo|Seiji Inoue|井上誠治|Inoue Seiji}}
+| 1963–1971
+| Resigned during the Crimson Gate Incident student occupation
+|-
+| 11
+| {{Nihongo|Takeshi Mori|森武|Mori Takeshi}}
+| 1971–1979
+| Stabilized the university during the Republican era austerity
+|-
+| 12
+| {{Nihongo|Akira Hayashi|林明|Hayashi Akira}}
+| 1979–1989
+| Expanded research partnerships with the zaibatsu; endowment surpassed OKD 100 billion
+|-
+| 13
+| {{Nihongo|Yukichi Aoyama|青山雪吉|Aoyama Yukichi}}
+| 1989–1997
+| Navigated the Lost Decade budget cuts; maintained research output
+|-
+| 14
+| {{Nihongo|Naoki Takayasu|高安直樹|Takayasu Naoki}}
+| 1997–2005
+| Current Chancellor; established the Digital Infrastructure research partnerships
+|-
+| 15
+| {{Nihongo|Haruki Sone|曽根春樹|Sone Haruki}}
+| 2005–2013
+| Sociologist; issued the Declaration of Academic Conscience (1998, as dean)
+|-
+| 16
+| {{Nihongo|Sakuya Yamamoto|山本咲也|Yamamoto Sakuya}}
+| 2013–present
+| Current President; launched the Vision 2030 strategic plan
+|}
 
 ==See also==
 * [[Education in Okaiken]]
+* [[Cult of Iron]]
+* [[Okami Direwolves]]
+* [[National Iron Body Initiative]]
 * [[Okami Metro]]
+* [[Universities in Okaiken]]
 
 {{Universities in Okaiken}}
 

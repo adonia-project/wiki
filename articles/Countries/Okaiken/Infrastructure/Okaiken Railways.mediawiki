@@ -48,7 +48,7 @@ During the 1950s and 1960s, ONR was instrumental in Okaiken's rapid economic gro
 
 However, by the 1970s, ONR faced mounting financial difficulties. The agency had accumulated significant debt through aggressive network expansion, including the politically motivated sea routing of the Harujima Shinkansen (known as the "Great LDP Snub") and the construction of unprofitable rural lines. Labor relations also deteriorated; the ONR workers' union, the [[National Railway Workers' Union (Okaiken)|Kokutetsu Rōsō]], engaged in numerous strikes and work-to-rule campaigns that disrupted service and damaged public perception.
 
-By 1980, ONR's long-term debt had reached ¥28 trillion, threatening the nation's fiscal stability. The government explored various reform options, ultimately deciding against full privatization—which would have left rural communities without service—in favor of a hybrid restructuring model.
+By 1980, ONR's long-term debt had reached 円2.8 trillion, threatening the nation's fiscal stability. The government explored various reform options, ultimately deciding against full privatization—which would have left rural communities without service—in favor of a hybrid restructuring model.
 
 ===The Reform of 1987===
 On April 1, 1987, the government reorganized ONR into the Okaiken Railways Group. Unlike the privatization models implemented in other nations, OR was structured as an Imperial Crown Corporation. Ownership was transferred to a holding company held 51% by the Imperial Treasury and 49% by the National Pension Fund, ensuring that profits are reinvested into the network or used to bolster the nation's social security rather than distributed to private shareholders.
@@ -86,7 +86,7 @@ The OR Group is split into three regional passenger companies and one nationwide
 | '''[[OR Yagikoshu]]'''
 | OR八木甲州
 | '''Yagikoshu'''
-| [[Toyozawa]], [[Mito]]
+| [[Toyozawa]], [[Mito]], [[Sanda, Seto|Sanda]], [[Isshinji]]
 |-
 | style="background:#708090; color:white;" | '''Grey'''
 | '''[[OR Freight]]'''
@@ -142,7 +142,7 @@ The backbone of the OR network is the [[Shinkansen]] system, which connects the 
 |}
 
 ===Harujima Shinkansen (OR Harujima)===
-The {{nihongo|'''Harujima Shinkansen'''|春島新幹線}} is the oldest and busiest line in the system, opened on May 28, 1966. It connects the northern port of [[Shinagawa]] (population 2.3 million) with the capital city of [[Okami]] (population 8.3 million) and continues south to the central junction of [[Toyozawa]] (population 6.1 million). It is the primary artery for business travel and generates approximately 65% of OR's Shinkansen revenue.
+The {{nihongo|'''Harujima Shinkansen'''|春島新幹線}} is the oldest and busiest line in the system, opened in stages between 1959 and 1973. It connects the northern port of [[Shinagawa]] (population 2.3 million) with the capital city of [[Okami]] (population 8.3 million) and continues south to the central junction of [[Toyozawa]] (population 6.1 million). It is the primary artery for business travel and generates approximately 65% of OR's Shinkansen revenue.
 
 Three service patterns operate on the line:
 * '''Nozomi:''' Express service stopping only at major cities; 2 hours 31 minutes end-to-end
@@ -189,16 +189,16 @@ OR operates numerous limited express services (''tokkyū'') connecting major cit
 ===Commuter Rail===
 In major metropolitan areas, OR operates dense commuter networks that form the backbone of urban transportation:
 
-* '''Okami Commuter Network:''' 12 lines radiating from [[Okami Central Station]], serving over 8 million daily passengers
-* '''Toyozawa Urban Network:''' Integrates with the [[Toyozawa Metro]] at major interchange stations
-* '''Aizawa Metropolitan Network:''' Connects the Ishijima financial district with suburban residential areas
+* '''Okami Commuter Network:''' 12 lines radiating from [[Okami Central Station]], serving over 8 million daily passengers.
+* '''Yagikoshu Urban Network (Toyozawa–Mito–Isshinji–Sanda):''' Operated by [[OR Yagikoshu]] across 5 core narrow-gauge lines (centered on the [[OR Yagikoshu Main Line]], [[OR Seto Main Line]], and [[OR Hoshisasa Line]]), carrying 3.85 million daily commuters. The network features 130 km/h '''Special Rapid''' (''Shin-Kaisoku'') services linking Toyozawa Central, Isshinji, and Mito Station, offering high-frequency competition to parallel private interurbans like the [[Kei-Mito Electric Railway]] and interfacing with [[Toyozawa Rapid Transit]] and [[Mito Municipal Subway]].
+* '''Aizawa Metropolitan Network:''' Connects the Ishijima financial district with suburban residential areas.
 
 These commuter networks are characterized by high-frequency service during peak hours, with trains operating at intervals as short as two minutes on the busiest corridors.
 
 ===Freight Operations===
-[[OR Freight]] operates the nation's rail freight network, transporting approximately 40 million tonnes of cargo annually. Major commodities include automotive parts, industrial chemicals, and agricultural products. The freight division utilizes dedicated freight lines in urban areas and shares tracks with passenger services on rural routes during off-peak hours.
+[[OR Freight]] operates the nation's rail freight network, transporting approximately 40 million tonnes of cargo annually. Major commodities include automotive parts, industrial chemicals, advanced semiconductor components, and agricultural products. The freight division utilizes dedicated freight lines in urban areas and shares tracks with passenger services on rural routes during off-peak hours.
 
-The primary freight hub is the [[Okami Freight Terminal]], which handles 12 million tonnes annually. Secondary hubs include [[Aizawa Inland Port]] and [[Toyozawa Distribution Center]], both connected to container port facilities.
+The primary freight hub is the [[Okami Freight Terminal]], which handles 12 million tonnes annually. Secondary hubs include [[Aizawa Inland Port]], [[Toyozawa Distribution Center]], the [[Isshinji Rail Freight Terminal]], and the [[Mito Freight Hub]], facilitating high-throughput container transit between manufacturing foundries such as [[Kizan Systems]], deep-water seaports, and inland markets.
 
 ==Major Stations and Terminals==
 OR operates 2,847 stations nationwide, ranging from unmanned rural halts to massive metropolitan terminals handling millions of passengers daily. The network's design emphasizes seamless transfers between Shinkansen, limited express, and commuter services.
@@ -286,7 +286,7 @@ OR operates under a unique financial model that balances commercial viability wi
 ===Funding and Investment===
 Capital investment is funded through a combination of operating revenues, government grants for socially necessary but unprofitable routes, and bond issuance backed by the National Pension Fund's stake. This arrangement allows OR to access capital markets at favorable rates while maintaining public accountability.
 
-In fiscal year 2023, OR reported consolidated revenues of ¥3.2 trillion and operating income of ¥420 billion. The Shinkansen network, particularly the Harujima line, generates the majority of operating profit, which subsidizes rural conventional lines.
+In fiscal year 2023, OR reported consolidated revenues of 円320 billion and operating income of 円42 billion. The Shinkansen network, particularly the Harujima line, generates the majority of operating profit, which subsidizes rural conventional lines.
 
 ===Fare Structure===
 OR maintains a unified fare system across all regional companies, with base fares calculated by distance. The [[Oka-Pass]] smart card system, introduced in 2001, is accepted on all OR trains and integrates with municipal transit systems in Okami, Toyozawa, and Aizawa. Discounted commuter passes and tourist-oriented rail passes contribute to ridership growth.
@@ -321,7 +321,7 @@ The crisis exposed systemic issues within OR's operational culture:
 * '''Cost-cutting measures:''' Platform staffing had been reduced by 40% since 2010, leaving many rural stations unstaffed
 * '''Door sensor limitations:''' The door sensors could detect obstructions larger than 10mm, but could not distinguish between a caught backpack strap and normal door closure
 
-On March 7, 2026, the [[Okaiken Railway Workers' Union]] (ORWU) launched the first general strike in OR's history, halting 85% of conventional services nationwide. The strike lasted 12 days, causing an estimated ¥450 billion in economic losses. The strike ended only after the government agreed to a comprehensive safety reform package and the resignation of OR's President, Masahiro Taniguchi.
+On March 7, 2026, the [[Okaiken Railway Workers' Union]] (ORWU) launched the first general strike in OR's history, halting 85% of conventional services nationwide. The strike lasted 12 days, causing an estimated 円450 billion in economic losses. The strike ended only after the government agreed to a comprehensive safety reform package and the resignation of OR's President, Masahiro Taniguchi.
 
 In the political fallout, Prime Minister Honda Shigetsuma's coalition lost its majority in the June 2026 general election, with the opposition [[Okaiken Innovation Party]] forming a new government on a platform of infrastructure reform.
 
@@ -329,7 +329,7 @@ In the political fallout, Prime Minister Honda Shigetsuma's coalition lost its m
 Following the incident, OR implemented sweeping changes:
 * '''Mandatory platform inspections:''' All trains now require drivers to visually confirm platform clearance before departure at unstaffed stations
 * '''Enhanced door sensors:''' New sensor systems installed on all conventional rolling stock capable of detecting obstructions as thin as 3mm
-* '''Platform screen doors:''' A ¥800 billion program to install platform screen doors at all unstaffed stations by 2032
+* '''Platform screen doors:''' A 円80 billion program to install platform screen doors at all unstaffed stations by 2032
 * '''Conductor restoration:''' 4,500 conductor positions restored to lines serving more than 5,000 daily passengers
 * '''Fatigue management:''' Maximum consecutive driving hours reduced from 8 to 6 hours with mandatory rest periods
 
@@ -454,7 +454,7 @@ Through the [[Yomitan Treaty]] framework, OR coordinates with [[Yanbaru Railways
 Historical ties with [[Zong]] continue through technical cooperation agreements. OR provides consulting services for Zong's high-speed rail projects, while Zong exports rolling stock components to Okaiken. 
 
 ==Technology and Innovation==
-OR has been at the forefront of railway technology since the Shinkansen's introduction in 1966.
+OR has been at the forefront of railway technology since the Shinkansen's introduction in 1959.
 
 ===Signaling and Control===
 All OR lines utilize the [[Automatic Train Control]] (ATC) system, which automatically applies brakes if a train exceeds permitted speed. The Shinkansen network employs an advanced digital ATC system capable of controlling train spacing to within 90 meters at maximum speed.
@@ -481,11 +481,11 @@ OR has committed to carbon neutrality by 2040. Key initiatives include:
 |-
 | 1956 || First electrified trunk line completed (Okami–Tokuyama)
 |-
-| 1966 || [[Harujima Shinkansen]] opens; first high-speed rail in Adonia
+| 1959 || First section of the [[Harujima Shinkansen]] opens; first high-speed rail in Adonia
 |-
 | 1972 || Network reaches peak extent of 24,500 km
 |-
-| 1980 || ONR debt reaches ¥28 trillion
+| 1980 || ONR debt reaches 円2.8 trillion
 |-
 | 1982 || [[Ishijima Shinkansen]] opens
 |-

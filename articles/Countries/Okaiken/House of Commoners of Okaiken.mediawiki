@@ -1,11 +1,9 @@
 {{Infobox legislature
  | name               = House of Commoners
- | native_name        = {{noitalics|{{nobold|{{lang|ja|衆議院}}}}}}
- | transcription_name = ''Shūgiin''
- | legislature        = The 60th House of Commoners
+ | native_name        = {{Nihongo|衆議院|Shūgiin}}
+ | legislature        = The 61st House of Commoners
  | coa_pic            = Flag of Okaiken.svg
  | coa_res            = 100px
- | coa-pic            = 
  | house_type         = Lower house
  | leader1_type       = [[List of Speakers of the House of Commoners of Okaiken|Speaker]]
  | leader1            = [[Inoue Kenji]]
@@ -16,49 +14,44 @@
  | party2             = [[Okaiken Socialist Party|OSP]]
  | election2          = November 3, 2025
  | leader3_type       = [[Prime Minister of Okaiken|Prime Minister]]
- | leader3            = [[Honda Shigetsuma]]
- | party3             = [[Progressive Party of Okaiken|PPO]]
- | election3          = November 4, 2025
+ | leader3            = [[Kousuke Ikazaki]]
+ | party3             = [[Sanese Communist Party|SCP]]
+ | election3          = May 20, 2026
  | leader4_type       = [[Leader of the Opposition (Okaiken)|Leader of the Opposition]]
  | leader4            = [[Koichiro Sadanuma]]
  | party4             = [[Liberal Democratic Party (Okaiken)|LDP]]
- | election4          = November 4, 2025
- | leader5_type       = 
- | leader5            = 
- | party5             = 
- | election5          = 
- | leader6_type       = 
- | leader6            = 
- | party6             = 
- | election6          = 
+ | election4          = May 20, 2026
  | members            = 475<br>
- | structure1         = House of Commoners of Okaiken 2025.svg
+ | structure1         = House of Commoners of Okaiken 2026.svg
  | structure1_res     = 270px
- | political_groups1  = (by party as of Oct. 2025)<br />
-'''Coalition Government''' (231):
-{{legend|{{Progressive Party of Okaiken/meta/color}}|[[Progressive Party of Okaiken|PPO]] (181)}}
-{{legend|{{Okaiken Socialist Party/meta/color}}|[[Okaiken Socialist Party|OSP]] (50)}}
-'''Opposition''' (244):
-{{legend|{{Liberal Democratic Party (Okaiken)/meta/color}}|[[Liberal Democratic Party (Okaiken)|LDP]] (128)}}
-{{legend|{{Sanese Communist Party/meta/color}}|[[Sanese Communist Party|SCP]] (45)}}
-{{legend|{{New Komeito Party/meta/color}}|Kōmeitō (NKP) (30)}}
-{{legend|{{Social Democratic Party (Okaiken)/meta/color}}|[[Social Democratic Party of Okaiken|SDP]] (25)}}
-{{legend|{{Okaiken Innovation Party/meta/color}}|[[Okaiken Innovation Party|OIP]] (16)}}
+ | political_groups1  = (by party as of June 2026)<br />
+'''Coalition Government''' (252):
+{{legend|{{Sanese Communist Party/meta/color}}|[[Sanese Communist Party|SCP]] (115)}}
+{{legend|{{Okaiken Socialist Party/meta/color}}|[[Okaiken Socialist Party|OSP]] (101)}}
+{{legend|{{Social Democratic Party (Okaiken)/meta/color}}|[[Social Democratic Party (Okaiken)|SDP]] (36)}}
+'''Confidence and Supply''' (1):
+{{legend|888888|Independent (1)}}
+'''Opposition''' (221):
+{{legend|{{Liberal Democratic Party (Okaiken)/meta/color}}|[[Liberal Democratic Party (Okaiken)|LDP]] (110)}}
+{{legend|{{Progressive Party of Okaiken/meta/color}}|[[Progressive Party of Okaiken|PPO]] (61)}}
+{{legend|{{New Komeito Party/meta/color}}|[[New Komeito Party|NKP]] (32)}}
+{{legend|{{Okaiken Innovation Party/meta/color}}|[[Okaiken Innovation Party|OIP]] (18)}}
+{{legend|white| Vacant (1)}}
  | committees1        = 17 Standing Committees
- | voting_system1     = [[#Election system|Direct Party and Representative Voting System (DPR)]]
- | last_election1     = [[Okaiken general election, 2025|October 27, 2025]]
- | next_election1     = [[Okaiken general election, 2029|On or before October 27, 2029]]
+ | voting_system1     = [[#Electoral system|Parallel voting (FPTP + PR)]]
+ | last_election1     = [[Okaiken general election, 2026|May 17, 2026]]
+ | next_election1     = [[next Okaiken general election|On or before May 17, 2030]]
  | session_room       = House of Commoners Okaiken.png
  | session_res        = 270px
  | meeting_place      = The House of Commoners Chamber<br>[[Okami]], [[Okaiken]]
  | website            = www.shugiin.go.ok
- | footnotes          = 
+ | footnotes          =
 }}
 {{Politics of Okaiken}}
 
-The {{nihongo|'''House of Commoners'''|衆議院|Shūgiin}} is the [[lower house]] of the [[National Diet]] of [[Okaiken]]. The [[House of Officers]] is the [[upper house]].
+The {{Nihongo|'''House of Commoners'''|衆議院|Shūgiin}} is the [[lower house]] of the [[National Diet]] of [[Okaiken]]. The [[House of Officers of Okaiken|House of Officers]] is the [[upper house]].
 
-The House of Commoners has 475 members, elected for a four-year term. The last general election was held on October 27, 2025. The house is the more powerful of the two houses, able to override vetoes on bills imposed by the House of Officers with a two-thirds majority. It can be dissolved by the [[Prime Minister of Okaiken|Prime Minister]] at will. The most recent dissolution was by Prime Minister [[Sho Aoyagi]] on June 10, 2021.
+The House of Commoners has 475 members, elected for a four-year term. Of these, 289 are elected from single-member constituencies under first-past-the-post, and 186 are elected from 11 regional proportional representation blocks. The most recent general election was held on [[Okaiken general election, 2026|17 May 2026]], which produced a left-wing coalition government led by Prime Minister [[Kousuke Ikazaki]] (SCP). The house is the more powerful of the two houses, able to override vetoes on bills imposed by the House of Officers with a two-thirds majority. It can be dissolved by the [[Prime Minister of Okaiken|Prime Minister]] at will. The most recent dissolution was by Prime Minister [[Honda Shigetsuma]] on 12 March 2026, following the passage of a motion of no confidence during the [[Nakayama Station dragging incident|"March Maelstrom."]]
 
 == Powers ==
 The House of Commoners is the more powerful chamber of the Diet, possessing powers that are not granted to the House of Officers.
@@ -73,7 +66,7 @@ The House of Commoners is the more powerful chamber of the Diet, possessing powe
 For most of the late 20th century, Okaiken politics was dominated by the [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party (LDP)]], which held a near-unbroken streak in government from 1972. This period was marked by rapid economic growth but also by political stagnation.
 
 === 2016 Election: The Red Reckoning ===
-The LDP's dominance was shattered in the [[Okaiken general election, 2016|2016 general election]]. Wracked by corruption scandals and a damaging internal leadership crisis, the LDP collapsed to third place. The [[Sanese Communist Party|Sanese Communist Party (SCP)]], led by [[Sho Aoyagi]], won a historic plurality, forming a "left-wing" coalition with the [[Progressive Party of Okaiken|Progressive Party of Okaiken (PPO)]] and [[Honda Shigetsuma]].
+The LDP's dominance was shattered in the [[Okaiken general election, 2016|2016 general election]]. Wracked by corruption scandals and a damaging internal leadership crisis, the LDP collapsed to third place. The [[Sanese Communist Party|Sanese Communist Party (SCP)]], led by [[Sho Aoyagi]], won a historic plurality, forming a left-wing coalition with the [[Progressive Party of Okaiken|Progressive Party of Okaiken (PPO)]] and [[Honda Shigetsuma]].
 
 === 2021 Election: The Progressive Pivot ===
 The Aoyagi government (2016–2021) was turbulent, plagued by high inflation and coalition infighting. In the [[Okaiken general election, 2021|2021 general election]], the PPO, led by Honda, surged to 201 seats, becoming the largest party. The SCP collapsed, and Honda formed a PPO-led minority government.
@@ -81,35 +74,138 @@ The Aoyagi government (2016–2021) was turbulent, plagued by high inflation and
 === 59th Diet (2021–2025) ===
 The 59th Diet was led by Prime Minister Honda's minority government. Its defining achievement was the passage of the [[National Universal Health Act]] in 2023. This landmark, and highly controversial, single-payer healthcare bill became the central political issue of the term, with the LDP opposition focusing on its high cost and associated tax increases.
 
-=== 60th Diet (2025–Present) ===
+=== 60th Diet (2025–2026) ===
+{{main|Okaiken general election, 2025|Honda-Nakayama Cabinet}}
+
 The [[Okaiken general election, 2025|2025 general election]] resulted in a major political realignment. The PPO, while remaining the largest party, suffered a 20-seat loss. The LDP, under new leader [[Koichiro Sadanuma]], had a major resurgence, gaining 40 seats to become the clear Leader of the Opposition.
 
-The most dramatic shift was the "Nakayama-mania" phenomenon, which saw the [[Okaiken Socialist Party|Okaiken Socialist Party (OSP)]] surge from 2 seats to 50 under its new 32-year-old leader, [[Rento Nakayama]]. The SCP, by contrast, lost half its seats. Lacking a majority, Prime Minister Honda formed a new coalition government between the PPO and the OSP (231 seats), appointing Nakayama as Minister of Health and Welfare.
+The most dramatic shift was the "{{Nihongo|Nakayama-mania|ナカヤマ・フィーバー|Nakayama Fībā}}" phenomenon, which saw the [[Okaiken Socialist Party|Okaiken Socialist Party (OSP)]] surge from 2 seats to 50 under its new 32-year-old leader, [[Rento Nakayama]]. Lacking a majority, Prime Minister Honda formed a coalition government between the PPO and the OSP (231 seats), appointing Nakayama as Minister of Health and Welfare.
 
-== Election system ==
-The 475 members of the House of Commoners are elected through a fictional system known as the '''Direct Party and Representative Voting System (DPR)''', which is a form of parallel voting. The 475 seats are divided into two groups, and each voter casts two ballots.
+The Honda-Nakayama Cabinet collapsed on 12 March 2026 following the [[Nakayama Station dragging incident]] and the ensuing "{{Nihongo|March Maelstrom|三月の旋風|Sangatsu no Senpū}}" of civil unrest. The LDP passed a motion of no confidence, triggering the dissolution of the House and a snap election.
 
-* '''Single-Member Constituencies:''' 295 members are elected from single-member districts under the first-past-the-post system. Voters cast a ballot for a local candidate.
-* '''Proportional Blocks:''' 180 members are elected from 11 regional "proportional blocks." Voters cast a second ballot for a political party's list. Seats in each block are distributed proportionally to the parties based on the percentage of votes each party received in that block.
+=== 61st Diet (2026–present) ===
+{{main|Okaiken general election, 2026|Ikazaki Cabinet}}
+
+The [[Okaiken general election, 2026|2026 general election]] was held on 17 May 2026. The election produced a decisive leftward realignment of Sanese politics:
+
+* The PPO suffered a historic collapse, losing 118 seats and falling from 181 to 63—its worst result since the party's founding.
+* The SCP under [[Kousuke Ikazaki]] achieved a dramatic surge, gaining 70 seats to reach 115.
+* The OSP under Nakayama doubled its representation from 50 to 100 seats.
+* The LDP under Sadanuma declined to 110 seats.
+* The SDP gained 11 seats to reach 36.
+
+The three left-wing parties—SCP (115), OSP (100), and SDP (36)—formed a coalition government with 251 seats, 13 more than the 238 required for an absolute majority. [[Kousuke Ikazaki]] became Prime Minister, with Nakayama as Deputy Prime Minister, leading the [[Ikazaki Cabinet|110th Cabinet of Okaiken]]. One independent, [[Hayashi Akihiro]] (Ogasawara-3rd), pledged confidence and supply to the coalition, giving a working majority of 252.
+
+The Ikazaki Cabinet's day-one executive orders included the establishment of the [[Yamamoto Hina Safety Commission]] (an independent rail safety body with grounding authority), the initiation of criminal prosecution against private infrastructure contractor Kizan, and the Two-Man Mandate requiring a minimum of two crew members on all rail services. The coalition's legislative agenda includes the [[Digital Sovereignty Act]], the SDP's flagship bill requiring analogue backup systems for all critical infrastructure.
+
+== Electoral system ==
+The 475 members of the House of Commoners are elected through a parallel voting system. The 475 seats are divided into two groups, and each voter casts two ballots:
+
+* '''Single-Member Constituencies:''' 289 members are elected from single-member districts under the first-past-the-post system. Voters cast a ballot for a local candidate.
+* '''Proportional Blocks:''' 186 members are elected from 11 regional proportional representation blocks. Voters cast a second ballot for a political party's list. Seats in each block are distributed proportionally to the parties based on the percentage of votes each party received in that block.
 
 === Right to vote and candidature ===
 * Sanese nationals aged 18 years and older may vote.
-* Sanese nationals aged 22 years and older may run for office in the House of Commoners.
+* Sanese nationals aged 25 years and older may run for office in the House of Commoners.
 
 == Current composition ==
-{{Current composition of the House of Commoners of Okaiken}}
+{| class="wikitable"
+|-
+! Party !! Seats !! Change !! Vote share
+|-
+| [[Sanese Communist Party|Communist Party (SCP)]] || 115 || {{increase}} 70 || 22.4%
+|-
+| [[Liberal Democratic Party (Okaiken)|Liberal Democratic Party (LDP)]] || 110 || {{decrease}} 18 || 26.1%
+|-
+| [[Okaiken Socialist Party|Socialist Party (OSP)]] || 101 || {{increase}} 51 || 23.4%
+|-
+| [[Progressive Party of Okaiken|Progressive Party (PPO)]] || 61 || {{decrease}} 120 || 14.0%
+|-
+| [[Social Democratic Party (Okaiken)|Social Democratic Party (SDP)]] || 36 || {{increase}} 11 || 7.0%
+|-
+| [[New Komeito Party|New Komeito Party (NKP)]] || 32 || {{increase}} 2 || 6.0%
+|-
+| [[Okaiken Innovation Party|Innovation Party (OIP)]] || 18 || {{increase}} 2 || 2.3%
+|-
+| Independent || 1 || {{increase}} 1 || —
+|-
+| Vacant || 1 || — || —
+|-
+| '''Total''' || '''475''' || || '''66,163,195'''
+|}
 
 ==Members==
-{{Main|List of House of Commoners members of the 60th Diet}}
+{{Main|List of House of Commoners members of the 61st Diet}}
+
+=== Summary by party and electoral method ===
+
+The following table summarizes the distribution of the 475 seats by party and electoral method:
+
+{| class="wikitable sortable"
+|-
+! Party !! Total seats !! Constituency (FPTP) !! Proportional (PR) !! Coalition status
+|-
+| [[Sanese Communist Party|SCP]] || 115 || 87 || 28 || Government
+|-
+| [[Okaiken Socialist Party|OSP]] || 101 || 42 || 59 || Government
+|-
+| [[Social Democratic Party (Okaiken)|SDP]] || 36 || 16 || 20 || Government
+|-
+| [[Liberal Democratic Party (Okaiken)|LDP]] || 110 || 87 || 23 || Opposition
+|-
+| [[Progressive Party of Okaiken|PPO]] || 61 || 34 || 27 || Opposition
+|-
+| [[New Komeito Party|NKP]] || 32 || 15 || 17 || Opposition
+|-
+| [[Okaiken Innovation Party|OIP]] || 18 || 5 || 13 || Opposition
+|-
+| Independent || 1 || 1 || 0 || Confidence and supply
+|-
+| '''Total''' || '''475''' || '''289''' || '''186''' || |
+|}
+
+=== Key members ===
+
+{| class="wikitable"
+|-
+! Name !! Party !! Constituency/Block !! Role
+|-
+| [[Kousuke Ikazaki]] || SCP || Okami PR || [[Prime Minister of Okaiken|Prime Minister]]
+|-
+| [[Rento Nakayama]] || OSP || Okami-1st || [[Deputy Prime Minister of Okaiken|Deputy Prime Minister]], Minister of Social Affairs
+|-
+| [[Koichiro Sadanuma]] || LDP || Akita-2nd || [[Leader of the Opposition (Okaiken)|Leader of the Opposition]]
+|-
+| [[Honda Shigetsuma]] || PPO || Noto-1st (Vacant) || Former Prime Minister; seat vacant following resignation
+|-
+| [[Shimane Yoshida]] || SDP || Miyagi-1st || SDP Leader
+|-
+| [[Soichiro Onizuka]] || NKP || Seto-3rd || NKP Leader
+|-
+| [[Kei Yamada|Yamada Kei]] || OIP || Suzuka-2nd || OIP Leader
+|-
+| [[Hayashi Akihiro]] || Ind. || Ogasawara-3rd || Confidence and supply
+|-
+| [[Yuriko Katsumata]] || SCP || Miyagi-3rd || Minister of Defense
+|-
+| [[Tomoko Aoki]] || SCP || Okami PR || [[Chief Cabinet Secretary]]
+|-
+| [[Seiran Mochizuki]] || OSP || Okami-6th || Minister of Transport
+|-
+| [[Ai Fujita]] || OSP || Okami-43rd || Crossed floor from PPO, June 2026
+|}
 
 == See also ==
-* [[Diet of Okaiken]]
-* [[House of Officers]]
+* [[National Diet of Okaiken]]
+* [[House of Officers of Okaiken]]
 * [[Politics of Okaiken]]
 * [[List of Speakers of the House of Commoners of Okaiken]]
+* [[Okaiken general election, 2026]]
 * [[Okaiken general election, 2025]]
 * [[Okaiken general election, 2021]]
 * [[Okaiken general election, 2016]]
+* [[Ikazaki Cabinet]]
+* [[October 2026 Diet debate on the Wolffrean War]]
 
 == References ==
 {{reflist}}

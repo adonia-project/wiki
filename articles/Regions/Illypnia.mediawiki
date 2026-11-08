@@ -2,12 +2,13 @@
 {{Sandbox}}
 {{Infobox continent
 | name = Illypnia
-| image = [[File:Illypnia orthographic (with borders).png|220px]]
-| area = 21,011,613 km² (8,112,629 sq mi)<ref name="n">Rank 6th</ref>
+| image = Location of Illypnia.svg
+| imagecaption = Orthographic projection of Illypnia (mainland highlighted)
+| area = {{convert|22766276|km2|sqmi|abbr=on}} <small>(total)</small><br>{{convert|23122277|km2|sqmi|abbr=on}} <small>(mainland)</small>
 | population = 1,960,731,698 (2016)
 | pop_density = 93.31/km² (241.69/sq mi) (2nd)
 | demonym = [[Illypnian]]
-| countries = [[List of sovereign states and dependent territories in Illypnia|~50 countries]] (and ~5 with limited recognition)
+| countries = [[List of sovereign states and dependent territories in Illypnia|43 countries]]
 | dependencies =[[List of sovereign states and dependent territories in Illypnia|? dependencies]] 
 | languages = [[Languages of Illypnia|~225 languages]]
 | time =[[UTC-01:00]] to [[UTC+05:00]] 
@@ -66,7 +67,7 @@ Illypnia was devastated in the mid-14th century by famines and by the [[Red Deat
 
 The [[Renaissance]] was a period of cultural change originating in the [[Maritime Republics]] and later spreading to the rest of Illypnia. The rise of a new humanism was accompanied by the recovery of forgotten classical Aetolian and Parani knowledge from monastic libraries, often translated from [[Parani language|Parani]] into [[Mesogean language|Mesogean]]. The Renaissance spread across Illypnia between the 14th and 16th centuries: it saw the flowering of art, philosophy, music, and the sciences, under the joint patronage of royalty, the nobility, the [[Catholic Church]]es, and an emerging merchant class. Patrons in [[Echia]], [[Volisania]], and the Popes in the [[Papal States]], funded prolific quattrocento and cinquecento artists.
 
-Political intrigue within the Church in the mid-14th century caused the [[Great Catholic Schism]]. Since this time, two popes — one in the [[Papal States]] and one in [[Zamarra]], [[Sarta]] — claim rulership over the [[Catholic Church]]. The Schism damaged the Church's influence, as well as several Illypnian countries, especially when [[Kastruneto|Kastrunetian]] and [[Nabia|Nabian]] princes became divided between the two Catholic papacies. This eventually led to the [[Two Centuries War]], which devastated much of [[Central Illypnia]], killing between 45 and 60 percent of its population. In the aftermath of the [[Peace of Wherever]], Breisland rose to predominance within Illypnia. The Schism entered religious peace after the war, creating the [TBD].
+Political intrigue within the Church in the mid-14th century caused the [[Great Catholic Schism]]. Since this time, two popes — one in the [[Papal States]] and one in [[Zamarra]], [[Kastruneto]] — claim rulership over the [[Catholic Church]]. The Schism damaged the Church's influence, as well as several Illypnian countries, especially when [[Kastruneto|Kastrunetian]] and [[Nabia|Nabian]] princes became divided between the two Catholic papacies. This eventually led to the [[Two Centuries War]], which devastated much of [[Central Illypnia]], killing between 45 and 60 percent of its population. In the aftermath of the [[Peace of Wherever]], Breisland rose to predominance within Illypnia. The Schism entered religious peace after the war, creating the [TBD].
 
 The 17th century in northern, central and eastern Illypnia was a period of general decline. Central and Eastern Illypnia experienced more than 150 famines in a 200-year period between 1501 and 1700. From the 15th to 18th centuries, when the disintegrating khanates of the Mongolians were conquered by Kalinovia, Tatars from the Khanate frequently raided Eastern Slavic lands to capture slaves. [[Laskowice]] in 1683 broke the advance of the Tatars into [[Central Illypnia]], and marked the political hegemony of the [[House of Hesse]] dynasty in central Illypnia. The Nogai Horde and Kazakh Khanate had frequently raided the Slavic-speaking areas of Kalinovia for at least a hundred years until the Kalinovian expansion and conquest of most of southern Illypnia.
 
@@ -84,7 +85,7 @@ The Industrial Revolution started in [[Breisland]] in the last part of the 18th 
 ===20th century to the present===
 {{See also|Great Adonian War|Adonian Depression|Varkan revolution}}
 
-The [[Great Adonian War]] dominated the first half of the 20th century. It was fought between 1934 and 1947. It started when [[Zong]] invaded the Breislandic colony of [[Colony of Marlika|Marlika]]. Most Illypnian nations were drawn into the war, which was fought between the [[Allied Pact]], the [[Coastal Powers]] and the [[Communist Alliance]]. The War left more than 268 million civilians and military dead. Over 400 million soldiers were mobilized around the world. By the end of the war, Illypnia alone had more than 100 million refugees. Several post-war ethnic expulsions in Illypnia displaced a total of about 30 million people.
+The [[Great Adonian War]] dominated the first half of the 20th century. It was fought between 1934 and 1947. It started when [[Zong]] invaded the Breislandic colony of [[Colony of Dagit|Dagit]]. Most Illypnian nations were drawn into the war, which was fought between the [[Allied Pact]], the [[Coastal Powers]] and the [[Communist Alliance]]. The War left more than 268 million civilians and military dead. Over 400 million soldiers were mobilized around the world. By the end of the war, Illypnia alone had more than 100 million refugees. Several post-war ethnic expulsions in Illypnia displaced a total of about 30 million people.
 
 Economic instability, caused in part by debts incurred in the war and loans to devastated nations played havoc in Illypnia in the late 1940s and 1950s. This and the [[Stock Crash of 1949]] brought about the worldwide [[Adonian Depression]]. Helped by the economic crisis, social instability and the threat of a new world war, the [[Adonian Community]] was established to prevent war, resolve conflicts and end the economic crisis. With the end of the gold standard throughout the world in 1952 and the establishment of the Keil-Hermann system, an obligation for each country to adopt a monetary policy that maintained the exchange rate by tying its currency to gold and the ability of the [[WWF]] to bridge temporary imbalances of payments, Breisland emerged as Adonia's leading power. In 1971, Breisland unilaterally terminated convertibility of the [[Breislandic krone]] to gold, effectively bringing the Keil-Hermann system to an end and rendering the krone a fiat currency. This action, referred to as the Breislandic shock, created the situation in which the krone became a reserve currency used by many states. At the same time, many fixed currencies also became free-floating.
 
@@ -113,113 +114,125 @@ Mesogean integration also grew during the 1970s. The [[Treaty of Massè]] in 198
 |-
 ! Flag !! Arms !! Name !! Area (km²) !! Population !! Population density (per km²) !! Capital !! Name(s) in official language(s)
 |-
-| {{flag|Aetolia}} || [[File:Seal of Aetolia.png|20px]] || [[Aetolia]] || 150,992 || 52,092,240 || 345 || [[Palaiochori]] || Αιτωλία, Aitolía
+| {{flag|Aetolia}} || [[File:Seal of Aetolia.png|20px]] || [[Aetolia]] || 102,985.78 || 32,509,695 || 315.7 || [[Hyakinthia]] || Αιτωλία, Aitolía
 |-
-| {{flag|Armorica}} || [[File:Coats of arms of None.svg|20px]] || [[Armorica]] || 88,769 || 11,895,046 || 134 || [City] || Arvorig
+| {{flag|Armorica}} || [[File:Coats of arms of None.svg|20px]] || [[Armorica]] || 122,229.12 || 11,895,046 || 97.3 || [City] || Arvorig
 |-
-| {{flag|Ashakarra}} || [[File:Coat of arms of Ashakarra.svg|20px]] || [[Ashakarra]] || 74,121 || 4,331,582 || 58.44 || [[Okumi]] || Ασχακάρρα, Ashakarra
+| {{flag|Ashakarra}} || [[File:Coat of arms of Ashakarra.svg|20px]] || [[Ashakarra]] || 84,599.19 || 4,331,582 || 51.2 || [[Okumi]] || Ασχακάρρα, Ashakarra
 |-
-| {{flag|Hersatia}} || [[File:Coat of arms of Hersatia.png|20px]] || [[Hersatia]] || 259,811 || 48,584,657 || 187 || [[Gravere]] || Hersaça
+| {{flag|Hersatia}} || [[File:Coat of arms of Hersatia.png|20px]] || [[Hersatia]] || 34,798.90 || 48,584,657 || 1396.2 || [[Gravere]] || Hersaça
 |-
-| {{flag|Bayara}} || [[File:Coats of arms of None.svg|20px]] || [[Bayara]] || 227,051 || 49,226,927 || 216.81 || [[Castejón]] || Balláran
+| {{flag|Breisland}} || [[File:Coat of arms of Breisland.png|20px]] || [[Breisland]] || 1,560,707.10 || 331,399,212 || 212.3 || [[Koblenz]] || Breisland
 |-
-| {{flag|Breisland}} || [[File:Coat of arms of Breisland.png|20px]] || [[Breisland]] || 1,972,321 || 331,399,212 || 168 || [[Koblenz]] || Breisland
+| {{flag|Comania}} || [[File:Coats of arms of None.svg|20px]] || [[Comania]] || 558,558.28 || 33,047,936 || 59.2 || [City] || Komanstan
 |-
-| {{flag|Caledonia}} || [[File:Coats of arms of None.svg|20px]] || [[Caledonia]] || 104,306 || 11,995,190 || 115 || [City] || Caledonia
+| {{flag|Echia}} || [[File:Seal of Echia.png|20px]] || [[Echia]] || 345,208.86 || 73,923,419 || 214.1 || [[Capua]] || Echia
 |-
-| {{flag|Comania}} || [[File:Coats of arms of None.svg|20px]] || [[Comania]] || 569,792 || 33,047,936 || 58 || [City] || Komanstan
+| {{flagicon|Gales}} || [[File:Coats of arms of None.svg|20px]] || [[Gallia]] || 80,771.33 || 10,816,251 || 133.9 || [City] || Gales
 |-
-| {{flag|Echia}} || [[File:Seal of Echia.png|20px]] || [[Echia]] || 424,947 || 73,923,419 || 173.96 || [[Capua]] || Echia
+| {{flag|North Gotaland}} || [[File:Coats of arms of None.svg|20px]] || [[North Gotaland]] || 239,983.43 || 17,945,235 || 74.8 || [City] || Nordgötaland
 |-
-| {{flag|Faencia}} || [[File:Coats of arms of None.svg|20px]] || [[Faencia]] || 2,356 || 1,442,579 || 612.3 || [[Faencia]] || Faencia
+| {{flag|South Gotaland}} || [[File:Coats of arms of None.svg|20px]] || [[South Gotaland]] || 403,496.26 || 3,377,422 || 8.4 || [City] || Sydgötaland
 |-
-| {{flagicon|Gales}} || [[File:Coats of arms of None.svg|20px]] || [[Gallia]] || 87,937 || 10,816,251 || 123 || [City] || Gales
+| {{flag|Hejaz}} || [[File:Coats of arms of None.svg|20px]] || [[Hejaz]] || 855,656.55 || 59,370,797 || 69.4 || [[Al Rafaa]] || fafawwf
 |-
-| {{flag|North Gotaland}} || [[File:Coats of arms of None.svg|20px]] || [[North Gotaland]] || 398,783 || 17,945,235 || 45 || [City] || Nordgötaland
+| {{flag|Kaldland}} || [[File:Coats of arms of None.svg|20px]] || [[Kaldland]] || 47,420.32 || 397,156 || 8.4 || [City] || Kaldland
 |-
-| {{flag|South Gotaland}} || [[File:Coats of arms of None.svg|20px]] || [[South Gotaland]] || 603,111 || 3,377,422 || 5.6 || [City] || Sydgötaland
+| {{flag|Kalinova}} || [[File:Coats of arms of None.svg|20px]] || [[Kalinovia]] || 3,716,194.27 || 235,378,988 || 63.4 || [[Malynohorod]] || Калиновія, Kalinoviya
 |-
-| {{flag|Hejaz}} || [[File:Coats of arms of None.svg|20px]] || [[Hejaz]] || 571,973 || 59,370,797 || 103.8 || [[Al Rafaa]] || fafawwf
+| {{flag|Kastruneto}} || [[File:Coats of arms of None.svg|20px]] || [[Kastruneto]] || 492,816.82 || 51,201,876 || 103.9 || [City] || Castruneto
 |-
-| {{flag|Kaldland}} || [[File:Coats of arms of None.svg|20px]] || [[Kaldland]] || 61,356 || 397,156 || 6.31 || [City] || Kaldland
+| {{flag|Kotcija}} || [[File:Coat of arms of Kotcija.svg|20px]] || [[Kotcija]] || 315,604.37 || 33,700,804 || 106.8 || [[Solin]] || Kotisë, Cattaria, Котија (Kocija)
 |-
-| {{flag|Kalinova}} || [[File:Coats of arms of None.svg|20px]] || [[Kalinovia]] || 4,526,519 || 235,378,988 || 52 || [[Malynohorod]] || Калиновія, Kalinoviya
+| {{flag|Lagash}} || [[File:Coats of arms of None.svg|20px]] || [[Lagash]] || 175,934.42 || TBD || TBD || TBD || TBD
 |-
-| {{flag|Kastruneto}} || [[File:Coats of arms of None.svg|20px]] || [[Kastruneto]] || 387,893 || 51,201,876 || 132 || [City] || Castruneto
+| {{flag|East Lapland}} || [[File:Coats of arms of None.svg|20px]] || [[East Lapland]] || 517,724.73 || 33,129,304 || 64.0 || [City] || Nuorta-Lappi
 |-
-| {{flag|Kotcija}} || [[File:Coat of arms of Kotcija.svg|20px]] || [[Kotcija]] || 265,947 || 33,700,804 || 126.72 || [[Kopsji]] || Kotisë, Cattaria, Котија (Kocija)
+| {{flag|West Lapland}} || [[File:Coats of arms of None.svg|20px]] || [[West Lapland]] || 384,132.24 || 29,115,126 || 75.8 || [[Iänudâh]] || Vuerjal-Lappi
 |-
-| {{flag|East Lapland}} || [[File:Coats of arms of None.svg|20px]] || [[East Lapland]] || 587,399 || 33,129,304 || 56.4 || [City] || Nuorta-Lappi
+| {{flag|Latgalia}} || [[File:Coats of arms of None.svg|20px]] || [[Latgalia]] || 59,105.32 || 746,268 || 12.6 || [City] || Latgola
 |-
-| {{flag|West Lapland}} || [[File:Coats of arms of None.svg|20px]] || [[West Lapland]] || 539,169 || 29,115,126 || 54 || [[Iänudâh]] || Vuerjal-Lappi
+| {{flag|Livland}} || [[File:Coats of arms of None.svg|20px]] || [[Livland]] || 209,161.10 || 4,587,651 || 21.9 || [City] || Livonija
 |-
-| {{flag|Lagash}} || [[File:Coats of arms of None.svg|20px]] || [[Lagash]] || 304,218 || 71,795,448 || 236 || [[Marqash]] || 𒈠𒊏𒈠𒃷𒉡𒈠, Lagash
+| {{flag|Lusatia}} || [[File:Coats of arms of None.svg|20px]] || [[Lusatia]] || 380,944.07 || 34,280,964 || 90.0 || [City] || Łużyce
 |-
-| {{flag|Latgalia}} || [[File:Coats of arms of None.svg|20px]] || [[Latgalia]] || 62,189 || 746,268 || 12 || [City] || Latgola
+| {{flag|Meleto}} || [[File:Coats of arms of None.svg|20px]] || [[Meleto]] || 7,412.98 || 1,053,510 || 142.1 || [[Meleto]] || Meleto
 |-
-| {{flag|Livland}} || [[File:Coats of arms of None.svg|20px]] || [[Livland]] || 323,074 || 4,587,651 || 14.2 || [City] || Livonija
+| {{flag|Mercia}} || [[File:Coats of arms of None.svg|20px]] || [[Mercia]] || 354,602.32 || 16,799,445 || 47.4 || [City] || Mercia
 |-
-| {{flag|Lusatia}} || [[File:Coats of arms of None.svg|20px]] || [[Lusatia]] || 353,412 || 34,280,964 || 97 || [City] || Łużyce
+| {{flag|Monsora}} || [[File:Coat of Arms of Monsora.svg|20px]] || [[Monsora]] || 121,319.69 || 25,551,744 || 210.6 || [[Fian]] || Monsora
 |-
-| {{flag|Meleto}} || [[File:Coats of arms of None.svg|20px]] || [[Meleto]] || 6,256 || 1,053,510 || 168.4 || [[Meleto]] || Meleto
+| {{flag|Moselle}} || [[File:Coats of arms of None.svg|20px]] || [[Moselle]] || 225,319.39 || 17,357,274 || 77.0 || [City] || Moselle
 |-
-| {{flag|Mercia}} || [[File:Coats of arms of None.svg|20px]] || [[Mercia]] || 258,453 || 16,799,445 || 65 || [City] || Mercia
+| {{flag|Mouze}} || [[File:Coats of arms of None.svg|20px]] || [[Mouze]] || 12,343.99 || 7,342,192 || 594.8 || [City] || Mouze
 |-
-| {{flag|Monsora}} || [[File:Coat of Arms of Monsora.svg|20px]] || [[Monsora]] || 108,316 || 25,551,744 || 235.9 || [[Fian]] || Monsora
+| {{flag|Nabia}} || [[File:Coat of arms of Nabia.svg|20px]] || [[Nabia]] || 450,885.36 || 46,277,145 || 102.6 || [[Xana]] || Nabia
 |-
-| {{flag|Moranitra}} || [[File:Coats of arms of None.svg|20px]] || [[Moranitra]] || 279,204 || 30,991,644 || 111 || [[Blatno]] || Moranitra
+| {{flag|Papal States}} || [[File:Coats of arms of None.svg|20px]] || [[Papal States]] || 1,070.03 || 1,170,100 || 1093.5 || [[Petropolis]] || Status Pontificius
 |-
-| {{flag|Moselle}} || [[File:Coats of arms of None.svg|20px]] || [[Moselle]] || 175,326 || 17,357,274 || 99 || [City] || Moselle
+| {{flag|Pavia}} || [[File:Coats of arms of None.svg|20px]] || [[Pavia]] || 113,980.08 || 9,655,680 || 84.7 || [City] || Pavia
 |-
-| {{flag|Mouze}} || [[File:Coats of arms of None.svg|20px]] || [[Mouze]] || 83,434 || 7,342,192 || 88 || [City] || Mouze
+| {{flag|Reige}} || [[File:Coats of arms of None.svg|20px]] || [[Reige]] || 12,576.59 || 446,738 || 35.5 || [City] || Reige
 |-
-| {{flag|Nabia}} || [[File:Coat of arms of Nabia.svg|20px]] || [[Nabia]] || 412,085 || 46,277,145 || 112.3 || [[Xana]] || Nabia
+| {{flag|Rufusia}} || [[File:Coats of arms of None.svg|20px]] || [[Rufusia]] || 35,302.18 || 12,702,908 || 359.8 || [[Segusio]] || Rufusia
 |-
-| {{flag|Neustria}} || [[File:Coats of arms of None.svg|20px]] || [[Neustria]] || 132,924 || 13,558,248 || 102 || [City] || Neustria
+| {{flag|Rutuli}} || [[File:Coats of arms of None.svg|20px]] || [[Rutuli]] || 36,680.11 || 6,793,876 || 185.2 || [[Aquileia]] || Rutuli
 |-
-| {{flag|Papal States}} || [[File:Coats of arms of None.svg|20px]] || [[Papal States]] || 11,701 || 1,170,100 || 100 || [[Petropolis]] || Status Pontificius
+| {{flag|Sakalia}} || [[File:Coat of arms of Sakalia.png|20px]] || [[Sakalia]] || 241,037.87 || 14,223,240 || 59.0 || [City] || Σακαλύα, Sakalya
 |-
-| {{flag|Paran}} || [[File:Coats of arms of None.svg|20px]] || [[Paran]] || 2,303,119 || 192,771,060 || 83.7 || [[Zuhar]] || فاران
+| {{flag|Samarstan}} || [[File:Coats of arms of None.svg|20px]] || [[Samarstan]] || 952,758.88 || 50,667,408 || 53.2 || [City] || Samarstan
 |-
-| {{flag|Pavia}} || [[File:Coats of arms of None.svg|20px]] || [[Pavia]] || 80,464 || 9,655,680 || 120 || [City] || Pavia
+| {{flag|Samogitia}} || [[File:Coats of arms of None.svg|20px]] || [[Samogitia]] || 40,032.18 || 788,480 || 19.7 || [City] || Samogitia
 |-
-| {{flag|Reige}} || [[File:Coats of arms of None.svg|20px]] || [[Reige]] || 12,074 || 446,738 || 37 || [City] || Reige
+| {{flag|Sarta}} || [[File:Coats of arms of None.svg|20px]] || [[Sarta]] || 273,995.22 || 41,243,191 || 150.5 || [[Dertosa]] || Zarta
 |-
-| {{flag|Rufusia}} || [[File:Coats of arms of None.svg|20px]] || [[Rufusia]] || 106,847 || 12,702,908 || 118.9 || [[Segusio]] || Rufusia
+| {{flag|Skade}} || [[File:Seal of Skade.png|20px]] || [[Skade]] || 708,524.07 || 21,004,081 || 29.6 || [[Åsön]] || Skåde
 |-
-| {{flag|Rutuli}} || [[File:Coats of arms of None.svg|20px]] || [[Rutuli]] || 32,092 || 6,793,876 || 211.7 || [[Aquileia]] || Rutuli
+| {{flag|Svaneti}} || [[File:Seal of Svaneti.png|20px]] || [[Svaneti]] || 107,193.67 || 2,262,503 || 21.1 || [[Adygekale]] || სვანეთი, Svaneti
 |-
-| {{flag|Sakalia}} || [[File:Coat of arms of Sakalia.png|20px]] || [[Sakalia]] || 197,545 || 14,223,240 || 72 || [City] || Σακαλύα, Sakalya
+| {{flag|Thermessa}} || [[File:Coats of arms of None.svg|20px]] || [[Thermessa]] || 27,267.19 || 3,718,376 || 136.4 || [[Crotona]] || Θέρμεσσα, Thérmessa
 |-
-| {{flag|Kandar}} || [[File:Coats of arms of None.svg|20px]] || [[Kandar]] || 759,394 || 165,433,983 || 217.85 || [[Barışehri]] || Salutya
+| {{flag|Tortona}} || [[File:Coats of arms of None.svg|20px]] || [[Tortona]] || 2,852.96 || 4,892,371 || 1714.8 || [[Tortona]] || Tortona
 |-
-| {{flag|Samarstan}} || [[File:Coats of arms of None.svg|20px]] || [[Samarstan]] || 703,714 || 50,667,408 || 72 || [City] || Samarstan
+| {{flag|Tourkia}} || [[File:Coats of arms of None.svg|20px]] || [[Tourkia]] || 304,297.99 || 89,234,567 || 293.2 || [[Konya]] || تورکیه
 |-
-| {{flag|Samogitia}} || [[File:Coats of arms of None.svg|20px]] || [[Samogitia]] || 48,373 || 788,480 || 16.3 || [City] || Samogitia
+| {{flag|Varkana}} || [[File:Coat of arms of Varkana.png|20px]] || [[Varkana]] || 215,790.98 || 38,516,477 || 178.5 || [[Varkana (city)|Varkana]] || ვარკანა
 |-
-| {{flag|Sarta}} || [[File:Coats of arms of None.svg|20px]] || [[Sarta]] || 827,220 || 92,750,000 || 112.132 || [[Dertosa]] || Zarta
+| {{flag|Volisania}} || [[File:Coat of arms of Volisania.png|20px]] || [[Volisania]] || 1,349,763.25 || 158,145,854 || 117.2 || [[Ampuria]] || Volisània
 |-
-| {{flagicon|Stavorland}} || [[File:Coats of arms of None.svg|20px]] || [[Stavorland]] || 61,115 || 12,650,805 || 207 || [City] || Stavorland
+| {{flag|Andalusia}} || [[File:Escudo_institucional_de_la_Junta_de_Andalucía.svg|20px]] || [[Andalusia]] || 1,073,415.36 || 168,128,782 || 156.6 || [[Calatayud]] || TBD
 |-
-| {{flag|Skade}} || [[File:Seal of Skade.png|20px]] || [[Skade]] || 1,345,086 || 20,983,342 || 15.6 || [[Åsön]] || Skåde
+| {{flag|Drittelland}} || [[File:Coats of arms of None.svg|20px]] || [[Drittelland]] || 104,522.14 || TBD || TBD || TBD || TBD
 |-
-| {{flag|Svaneti}} || [[File:Seal of Svaneti.png|20px]] || [[Svaneti]] || 76,695 || 2,262,503 || 29.5 || [[Adygekale]] || სვანეთი, Svaneti
+| {{flag|Durrani}} || [[File:Coats of arms of None.svg|20px]] || [[Durrani]] || 307,809.92 || TBD || TBD || TBD || TBD
 |-
-| {{flag|Thermessa}} || [[File:Coats of arms of None.svg|20px]] || [[Thermessa]] || 24,904 || 3,718,376 || 149.3 || [[Crotona]] || Θέρμεσσα, Thérmessa
+| {{flag|Goyona}} || [[File:Coats of arms of None.svg|20px]] || [[Goyona]] || 20,479.93 || TBD || TBD || TBD || TBD
 |-
-| {{flagicon|Thifalia}} || [[File:Coats of arms of None.svg|20px]] || [[Thifalia]] || 105,390 || 5,691,060 || 54 || [City] || Thifalia
+| {{flag|Jacan}} || [[File:Seal of Jacan.png|20px]] || [[Jacan]] || 232,511.18 || 49,226,927 || 211.7 || [[Castillón]] || TBD
 |-
-| {{flagicon|Tirland}} || [[File:Coats of arms of None.svg|20px]] || [[Tirland]] || 43,092 || 2,068,416 || 48 || [City] || Tire
+| {{flag|Lutland}} || [[File:Coats of arms of None.svg|20px]] || [[Lutland]] || 46,689.27 || TBD || TBD || TBD || TBD
 |-
-| {{flag|Tortona}} || [[File:Coats of arms of None.svg|20px]] || [[Tortona]] || 78,456 || 4,892,371 || 62.4 || [[Tortona]] || Tortona
+| {{flag|Mashriq}} || [[File:Coats of arms of None.svg|20px]] || [[Mashriq]] || 616,894.03 || TBD || TBD || TBD || TBD
 |-
-| {{flag|Tourkia}} || [[File:Coats of arms of None.svg|20px]] || [[Tourkia]] || 1,234,567 || 89,234,567 || 72.3 || [[Konya]] || تورکیه
+| {{flag|Morantira}} || [[File:Coats of arms of None.svg|20px]] || [[Morantira]] || 265,362.80 || TBD || TBD || TBD || TBD
 |-
-| {{flag|Varkana}} || [[File:Coat of arms of Varkana.png|20px]] || [[Varkana]] || 234,567 || 12,345,678 || 52.6 || [[Varkana (city)|Varkana]] || ვარკანა
+| {{flag|Saremia}} || [[File:Coats of arms of None.svg|20px]] || [[Saremia]] || 605,285.79 || TBD || TBD || TBD || TBD
 |-
-| {{flag|Volisania}} || [[File:Coat of arms of Volisania.png|20px]] || [[Volisania]] || 456,789 || 67,890,123 || 148.6 || [[Ampuria]] || Volisània
+| {{flag|Sayatstan}} || [[File:Coats of arms of None.svg|20px]] || [[Sayatstan]] || 990,154.05 || TBD || TBD || TBD || TBD
 |-
-| {{flag|Zong}} || [[File:Coats of arms of None.svg|20px]] || [[Zong]] || 987,654 || 156,789,012 || 158.8 || [[Zong (city)|Zong]] || 漳
+| {{flag|Sulla}} || [[File:Coats of arms of None.svg|20px]] || [[Sulla]] || 43,608.55 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Turulhon}} || [[File:Coats of arms of None.svg|20px]] || [[Turulhon]] || 557,353.21 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Uppland}} || [[File:Coats of arms of None.svg|20px]] || [[Uppland]] || 552,500.23 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Vasaras}} || [[File:Coats of arms of None.svg|20px]] || [[Vasaras]] || 818,882.94 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Viborg}} || [[File:Coats of arms of None.svg|20px]] || [[Viborg]] || 128,251.12 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Zeeland}} || [[File:Coats of arms of None.svg|20px]] || [[Zeeland]] || 80,659.12 || TBD || TBD || TBD || TBD
+|-
+| {{flag|Herasalem}} || [[File:Coats of arms of None.svg|20px]] || [[Herasalem]] || 2,877.37 || TBD || TBD || TBD || TBD
 |}
 
 ==Integration==

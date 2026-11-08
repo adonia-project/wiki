@@ -3,255 +3,109 @@
 | agency_name = Ministry of Agriculture, Forestry and Fisheries
 | native_name = {{Nihongo|農林水産省|Nōrin-suisan-shō}}
 | seal = Seal_of_Okaiken.svg
-| seal_size =
+| seal_width = 100px
 | seal_caption = Seal of the Ministry of Agriculture, Forestry and Fisheries
 | formed = 1881
 | preceding1 = [[Ministry of Agriculture and Commerce (Okaiken)|Ministry of Agriculture and Commerce]]
-| dissolved =
-| superseding =
 | jurisdiction = [[Okaiken]]
-| headquarters = [[Chiyoda, Okami|Chiyoda]], [[Okami Metropolis|Okami]]
+| headquarters = [[Kasumigaseki, Okami|Kasumigaseki]], [[Chiyoda, Okami|Chiyoda]], [[Okami Metropolis|Okami]]
 | employees = 22,400 (2025)
 | budget = {{currency|40 billion|SEN}} (expenditure, FY 2025)
 | minister1_name = [[Daisuke Kondo]]
 | minister1_title = [[Minister of Agriculture, Forestry and Fisheries (Okaiken)|Minister of Agriculture, Forestry and Fisheries]]
 | minister1_since = 20 May 2026
-| minister2_name = [[Mitsuko Hara]]
-| minister2_title = Senior Vice-Minister of Agriculture, Forestry and Fisheries
-| minister2_since = 20 May 2026
 | parent_agency = [[Cabinet of Okaiken]]
 | child_agency = [[Fisheries Agency (Okaiken)|Fisheries Agency]]<br>[[Forestry Agency (Okaiken)|Forestry Agency]]<br>[[Food Safety Commission (Okaiken)|Food Safety Commission]]<br>[[Okaiken Agricultural Standards (OAS)|Okaiken Agricultural Standards]]
 | website = {{URL|www.maff.ok.go.en}}
-| footnotes =
 }}
+{{Politics of Okaiken}}
 
-The '''Ministry of Agriculture, Forestry and Fisheries''' ({{Nihongo|農林水産省|Nōrin-suisan-shō|}}, abbreviated '''MAFF''' or '''Nōsui-shō''') is a [[Cabinet of Okaiken|cabinet-level ministry]] of the [[Government of Okaiken]] responsible for the formulation and administration of [[agricultural policy]], [[forestry]] management, [[fisheries]] regulation, [[food safety]], and [[food security]]. It oversees a sector that accounts for approximately 4.4% of Okaiken's [[Gross domestic product|GDP]] ({{currency|173 billion|SEN}}) and employs roughly 13% of the national land area for cultivated agriculture, while approximately 70% of Okaiken's territory is covered by forest — predominantly mountainous terrain unsuitable for cultivation.
+The '''Ministry of Agriculture, Forestry and Fisheries''' ({{Nihongo|農林水産省|Nōrin-suisan-shō}}, commonly designated by the acronym '''MAFF''' or colloquially as '''Nōsui-shō''') is a cabinet-level ministry of the [[Government of Okaiken]] responsible for national agricultural production, food security strategy, forestry resource stewardship, commercial marine fisheries regulation, and food quality safety standards. The primary sector overseen by the ministry represents approximately 4.4 percent of national Gross Domestic Product (173 billion Sen) and occupies roughly 13 percent of national land area for intensive cultivation, with an additional 70 percent of mountainous terrain managed as commercial and watershed forest reserves.
 
-The ministry's annual budget of approximately {{currency|40 billion|SEN}} in FY 2025 represents roughly 2.5% of total government expenditure. Its portfolio includes the [[Fisheries Agency (Okaiken)|Fisheries Agency]], which oversees one of the world's largest fishing industries responsible for approximately 15% of the global fish catch; the [[Forestry Agency (Okaiken)|Forestry Agency]], which manages the nation's extensive forest resources; the [[Food Safety Commission (Okaiken)|Food Safety Commission]], which conducts risk assessments on food products; and the [[Okaiken Agricultural Standards (OAS)|Okaiken Agricultural Standards]] body, which certifies geographic indications and quality standards for premium agricultural products.
+The ministry commands an annual state budget of approximately 40 billion Sen, representing roughly 2.5 percent of total government expenditure. Subordinate statutory bodies include the [[Fisheries Agency (Okaiken)|Fisheries Agency]], the [[Forestry Agency (Okaiken)|Forestry Agency]], and the Food Safety Commission. The incumbent Minister of Agriculture, Forestry and Fisheries is [[Daisuke Kondo]] of the [[Okaiken Socialist Party]] (OSP), who assumed office on 20 May 2026 within the [[Ikazaki Cabinet]]. In coalition governance, Minister Kondo has led a major strategic pivot away from market-driven agricultural consolidation toward statutory food self-sufficiency targets, guaranteed baseline producer price floors, and direct income subsidies for smallholders in depopulating rural provinces.
 
-The current Minister of Agriculture, Forestry and Fisheries is [[Daisuke Kondo]] of the [[Okaiken Socialist Party]] (OSP), Member of the House of Commoners for [[Okami Metropolis|Okami]] PR, who assumed office on 20 May 2026 as part of the [[Ikazaki Cabinet]]. His predecessor was [[Norikazu Suzuki]] of the [[Progressive Party of Okaiken|People's Party of Okaiken]] (PPO), Member of the House of Commoners for [[Yamagata Prefecture|Yamagata]] 2nd, who served from August 2021 to May 2026 under the [[Honda-Nakayama Cabinet]] before being defeated in the [[Okaiken general election, 2026|2026 general election]] by [[Shinoda Yasuhiro]] of the [[Sanese Communist Party|SCP]].
+==Historical development and agrarian policy==
 
-==History==
+===Imperial origins and the post-war land reform===
 
-===Imperial era (1881–1945)===
-The ministry traces its origins to the {{Nihongo|Ministry of Agriculture and Commerce|農商省|Nōshō-shō}}, established in 1881 during the [[Meiji-era reforms (Okaiken)|Meiji-era reforms]] that modernised the Sanese state apparatus. The Nōshō-shō was created to promote agricultural modernisation and commercial development, reflecting the government's recognition that a robust agricultural base was essential to national strength. Its first minister, {{Nihongo|Kazue Matsukata|松下一和|Matsukata Kazue}}, oversaw the introduction of modern farming techniques imported from Europe and the establishment of agricultural experiment stations across the country.
+The ministry traces its institutional heritage to the Ministry of Agriculture and Commerce (農商省, ''Nōshō-shō''), founded in 1881 to introduce scientific agronomy and expand export silk cultivation. In 1897, the department was reconstituted as the Ministry of Agriculture and Forestry (農林省, ''Nōrin-shō''), prioritizing domestic rice production to sustain rapid urbanization and establishing the foundation for the nationwide agricultural cooperative network.
 
-In 1897, the ministry was reorganised and split into the {{Nihongo|Ministry of Agriculture and Forestry|農林省|Nōrin-shō}} and the [[Ministry of Commerce and Industry (Okaiken)|Ministry of Commerce and Industry]], reflecting the growing divergence between agricultural and industrial policy. The Nōrin-shō focused on increasing rice production to feed a rapidly growing population, promoting land reclamation projects, and establishing the {{Nihongo|Agricultural Cooperative System|農業協同組合|Nōgyō Kyōdō Kumiai}} — the precursor to the modern [[OkaikenCOOP]] network.
+Following the end of the second world conflict, the ministry executed the revolutionary Land Reform Act of 1947 under democratic reconstruction authorities. The statute dismantled landlord tenant estates, transferring approximately 1.5 million hectares of arable soil directly to tenant farmers and creating an egalitarian class of smallholder owner-cultivators. The subsequent Agricultural Cooperative Act of 1948 established the statutory framework for the [[OkaikenCOOP]] federation, which organized collective fertilizer purchasing, cold-storage warehousing, and crop marketing. Through the Food Staple Control Act of 1951, the ministry stabilized the national diet by guaranteeing price supports and state rice purchases.
 
-Throughout the imperial period, the ministry was deeply involved in the colonisation of agricultural land in Okaiken's overseas territories. The {{Nihongo|Agricultural Colonisation Bureau|開拓局|Kaitaku-kyoku}} coordinated the settlement of farmers in newly acquired territories, a programme that was condemned by post-war historians as a tool of imperial expansion. The ministry also played a central role in the wartime mobilisation of food production, imposing strict rationing and requisitioning rice from rural communities to supply the military — policies that contributed to widespread malnutrition in the final years of the war.
+===Modern challenges and the food sovereignty doctrine===
 
-===Post-war land reform (1945–1961)===
-Following the end of [[World War II]], the ministry was reorganised under the [[Occupation of Okaiken|post-war occupation authorities]], who identified land reform as a prerequisite for democratising Sanese society. The {{Nihongo|Land Reform Act of 1947|農地改革法|Nōchi Kaikaku Hō}} — drafted with significant input from occupation officials — dismantled the landlord-tenant system that had dominated Sanese agriculture for centuries. Approximately 1.5 million hectares of tenanted land were transferred to tenant farmers, creating a class of owner-cultivators whose smallholdings averaged 1.2 hectares.
+The 2001 Central Government Reform reorganized MAFF's internal bureaus, creating the Food Safety Commission and reinforcing the autonomous operational remits of the Fisheries Agency and Forestry Agency. Over recent decades, the ministry has confronted acute demographic contraction across rural prefectures, with the average age of Sanese farmers rising past sixty-eight years.
 
-The reform was widely regarded as one of the most successful policies of the occupation era. Agricultural productivity surged as newly empowered farmers invested in their land, and the rural cooperative system — formalised under the {{Nihongo|Agricultural Cooperative Act of 1948|農業協同組合法|Nōgyō Kyōdō Kumiai Hō}} — provided the organisational infrastructure for collective purchasing, marketing, and credit. The [[OkaikenCOOP]] system, which grew out of this legislation, became the dominant force in Sanese agriculture, controlling an estimated 80% of rice distribution by the 1960s.
+The vulnerability of the national food system was exposed during the En currency crisis of early 2026, which spiked the cost of imported animal feed, chemical fertilizers, and wheat by over twenty percent, and the [[Satori AI Blackout Crisis]] of May 2026, which temporarily disabled algorithmic warehouse logistics across agricultural distributors. Under Minister Daisuke Kondo, the ministry enacted the Food Sovereignty Protection Plan, establishing strategic national grain reserves, guaranteeing producer prices for domestic wheat and soybeans, and barring automated systems from unilateral allocation of agricultural credit.
 
-The post-war decades also saw the ministry at the centre of Okaiken's food security strategy. The devastation of the war had created acute food shortages, and the ministry prioritised self-sufficiency in staple crops — particularly rice — through a combination of price supports, production quotas, and import restrictions. The {{Nihongo|Food Staple Control Act of 1951|食糧管理法|Shokuryō Kanri Hō}} established the government's authority to regulate the production, distribution, and pricing of rice and other staple foods, a framework that would persist in various forms for the next seven decades.
+==Internal organization and statutory external agencies==
 
-===Modern era (1961–present)===
-The {{Nihongo|Agricultural Basic Act of 1961|農業基本法|Nōgyō Kihon Hō}} marked a shift from food self-sufficiency as the sole objective of agricultural policy to a broader emphasis on structural improvement, income parity between farm and urban households, and selective modernisation. The Act encouraged farm consolidation, mechanisation, and the adoption of high-yield crop varieties, laying the groundwork for the dramatic productivity gains of the 1960s and 1970s.
+The internal architecture of MAFF comprises specialized policy bureaus managing food production, agricultural management, rural development, and external resource agencies.
 
-The [[2001 Central Government Reform]] ({{Nihongo|中央省庁再編|Chūō Shōchō Saihen}}) reorganised the ministry's internal structure and strengthened the autonomy of the [[Fisheries Agency (Okaiken)|Fisheries Agency]] and [[Forestry Agency (Okaiken)|Forestry Agency]] as external bureaus. The reform also transferred certain food safety functions to the newly created [[Food Safety Commission (Okaiken)|Food Safety Commission]], modelled on international risk assessment bodies, in response to a series of food labelling scandals in the late 1990s.
-
-The 21st century has been defined by mounting challenges to Okaiken's agricultural model. An ageing farmer population — the average age of Sanese farmers exceeded 68 by 2025 — declining rural communities, the cumulative impact of [[OkaikenCOOP]] governance scandals, and the pressures of international trade liberalisation have all tested the ministry's capacity to maintain the post-war agricultural settlement. The [[En Crisis (2026)|En Crisis]] of January–February 2026, which saw the [[Sanese En|En]] depreciate by approximately 20% against the [[TALOD Reserve Unit|TRU]], drove up food import costs and intensified the debate over food security policy, while the [[Satori AI Blackout]] of May 2026 disrupted the ministry's digital supply chain management systems.
-
-==Organization==
-
-The Ministry of Agriculture, Forestry and Fisheries is organised into internal bureaus, external bureaus, and affiliated agencies. As of 2026, the ministry employs approximately 22,400 personnel across all its divisions, including staff at regional agricultural administration bureaus, prefectural offices, and affiliated institutions.
-
-===Internal bureaus===
-
-;Minister's Secretariat ({{Nihongo|大臣官房|Daijin Kanbō}})
-:The Minister's Secretariat coordinates the ministry's overall operations, manages personnel affairs, handles public relations and legislative affairs, and serves as the primary interface between the ministry and the Cabinet. It also oversees the ministry's internal audit functions, information security protocols, and international cooperation activities.
-
-;Agricultural Production Bureau ({{Nihongo|農産局|Nōsan-kyoku}})
-:The Agricultural Production Bureau is responsible for the formulation of production policy for staple crops, horticulture, and livestock. It administers the rice production quota system, manages price support programmes for key commodities, and oversees the certification of premium agricultural products including [[Yonezawa Premium]] rice, [[Red Emperor mango]], [[Miyagi-buta]] pork, [[Seto onion]], and [[Mie-cha]] tea. The bureau also coordinates the ministry's response to crop failures and supply disruptions.
-
-;Agricultural Structure and Rural Development Bureau ({{Nihongo|農村振興局|Nōson Shinkō-kyoku}})
-:The Agricultural Structure and Rural Development Bureau administers land improvement programmes, farm consolidation initiatives, and rural infrastructure projects. It oversees the {{Nihongo|Agricultural Land Act|農地法|Nōchi Hō}} — which restricts the transfer of agricultural land to non-farming entities — and manages the ministry's demographic programmes aimed at attracting young people to farming communities. The bureau also coordinates disaster relief for flood- and typhoon-damaged farmland.
-
-;Marketing and Consumer Affairs Bureau ({{Nihongo|消費・安全局|Shōhi Anzen-kyoku}})
-:The Marketing and Consumer Affairs Bureau is responsible for food labelling regulation, consumer protection, and the administration of the [[Okaiken Agricultural Standards (OAS)|Okaiken Agricultural Standards]] (OAS) system, which certifies geographic indications and quality grades for premium agricultural products. It also oversees the ministry's relationship with [[OkaikenCOOP]] and monitors cooperative governance compliance.
-
-;Food Security and Trade Policy Bureau ({{Nihongo|食料安全保障・貿易局|Shokuryō Anzen Hoshō Bōeki-kyoku}})
-:The Food Security and Trade Policy Bureau formulates Okaiken's food security strategy, administers import quotas and tariff-rate quotas under the [[Food Security Act]], and represents Okaiken in international agricultural trade negotiations. The bureau manages the {{currency|40 billion|SEN}} agricultural budget allocation and coordinates the ministry's response to global food price shocks.
-
-;Agricultural Technology and Innovation Bureau ({{Nihongo|農業技術革新局|Nōgyō Gijutsu Kakushin-kyoku}})
-:The Agricultural Technology and Innovation Bureau oversees agricultural research and development, promotes precision farming and agri-tech innovation, and manages the national network of agricultural experiment stations. It coordinates the ministry's digitalisation initiatives, including the "Smart Agriculture" programme launched in 2022 to deploy AI-driven crop management and autonomous farming equipment.
-
-===External bureaus===
-
-;[[Fisheries Agency (Okaiken)|Fisheries Agency]] ({{Nihongo|水産庁|Suisan-chō}})
-:The Fisheries Agency is the largest external bureau of the ministry, responsible for the management of Okaiken's fishing industry, aquaculture regulation, and marine resource conservation. It oversees a fleet that accounts for approximately 15% of the global fish catch and administers the {{Nihongo|Fisheries Act|漁業法|Gyogyō Hō}} governing fishing rights and quotas. The agency also manages Okaiken's international fisheries agreements and represents the country in regional fisheries management organisations. See [[#Key agencies|Key agencies]] below for further detail.
-
-;[[Forestry Agency (Okaiken)|Forestry Agency]] ({{Nihongo|林野庁|Rinya-chō}})
-:The Forestry Agency manages Okaiken's national forests and oversees forestry policy on private forest land. It administers the national forest management plan, promotes sustainable forestry practices, and coordinates disaster prevention in mountainous areas. See [[#Key agencies|Key agencies]] below for further detail.
-
-===Affiliated agencies===
-
-;[[Food Safety Commission (Okaiken)|Food Safety Commission]] ({{Nihongo|食品安全委員会|Shokuhin Anzen Iinkai}})
-:The Food Safety Commission conducts scientific risk assessments on food products, additives, and contaminants, and provides independent advice to the minister and the public on food safety matters. See [[#Key agencies|Key agencies]] below for further detail.
-
-;[[Okaiken Agricultural Standards (OAS)|Okaiken Agricultural Standards]] ({{Nihongo|岡井県農林規格|Okaiken Nōrin Kakaku}})
-:The OAS body certifies geographic indications, quality grades, and production standards for Sanese agricultural products. It administers the [[Yonezawa Premium]] rice designation, the [[Red Emperor]] mango certification, and other protected origin labels.
-
-;[[National Agriculture and Food Research Organisation (Okaiken)|National Agriculture and Food Research Organisation]] (NARO) ({{Nihongo|農業・食品産業技術総合研究機構|Nōgyō Shokuhin Sangyō Gijutsu Sōgō Kenkyū Kikō}})
-:NARO is the ministry's primary research institution, conducting applied research on crop improvement, pest resistance, food processing technology, and agricultural engineering. It operates the national gene bank for crop genetic resources and manages the "Smart Agriculture" testbed programme.
-
-==Key agencies==
-
-===Fisheries Agency===
-{{main|Fisheries Agency (Okaiken)}}
-The Fisheries Agency ({{Nihongo|水産庁|Suisan-chō}}) is the most prominent external bureau of the ministry, responsible for the management and regulation of Okaiken's fishing industry — one of the largest in the world. Sanese vessels account for approximately 15% of the global fish catch, with {{Nihongo|saba|鯖|mackerel}} — the [[national fish of Okaiken|national fish]] — being the single most landed species by volume. The agency administers fishing rights, sets catch quotas, and manages the licensing of aquaculture operations, which have been growing at approximately 8% annually as wild fish stocks face increasing pressure.
-
-The agency also oversees Okaiken's pearl cultivation industry, centred in [[Miyagi Prefecture|Miyagi]] and [[Ogasawara]], which generates approximately {{currency|28 billion|SEN}} in export revenue annually. The {{Nihongo|Pearl Cultivation Division|真珠養殖課|Shinju Yōshoku-ka}} within the agency regulates cultivation standards, certifies export-grade pearls, and coordinates research on pearl oyster health and breeding.
-
-The Fisheries Agency has been involved in a long-running dispute with the [[Shendan Ocean Mining Authority]] over the {{Nihongo|Kajika|カジカ|sculpin}} fishing rights in the waters surrounding the [[Shendan]] seamounts. The agency contends that the Mining Authority's deep-sea extraction operations have disrupted Kajika spawning grounds, threatening the livelihoods of traditional fishing communities in the [[Aizawa Prefecture|Aizawa]] and [[Kiso Prefecture|Kiso]] coastal regions. The dispute has been a recurring source of inter-ministerial tension, with the [[Ministry of Economy, Trade and Industry (Okaiken)|Ministry of Economy, Trade and Industry]] generally supporting the Mining Authority's position while MAFF defends the fishing communities' interests.
-
-===Forestry Agency===
-{{main|Forestry Agency (Okaiken)}}
-The Forestry Agency ({{Nihongo|林野庁|Rinya-chō}}) manages approximately 70% of Okaiken's land area, which is covered by forest — a proportion that reflects the country's predominantly mountainous topography. Of this forested area, approximately 40% is national forest managed directly by the agency, while the remainder is privately owned or held by local municipalities.
-
-The agency's mandate includes sustainable timber production, watershed protection, disaster prevention (particularly landslide and avalanche control), and biodiversity conservation. It administers the {{Nihongo|National Forest Management Plan|国有林管理経営計算|Kokuyūrin Kanri Keiei Keikaku}}, which sets harvest levels and reforestation targets for national forests, and oversees the {{Nihongo|Forest Stewardship Programme|森林管理プログラム|Shinrin Kanri Puroguramu}}, which provides technical assistance and subsidies to private forest owners.
-
-Okaiken's forestry sector has faced significant structural challenges in recent decades. Domestic timber production has declined sharply as cheaper imports from [[Balisca]] and other countries have captured market share, leaving many national forest operations running at a loss. The agency has responded by promoting the use of domestic timber in public construction projects and developing the {{Nihongo|"Wooden City" Initiative|木の都市構想|Ki no Toshi Kōsō}}, which mandates the use of domestic timber in certain categories of public buildings.
-
-===Food Safety Commission===
-{{main|Food Safety Commission (Okaiken)}}
-The Food Safety Commission ({{Nihongo|食品安全委員会|Shokuhin Anzen Iinkai}}) was established in 2003 as an independent risk assessment body within the ministry, modelled on the European Food Safety Authority. It conducts scientific assessments of food safety risks — including microbiological hazards, chemical contaminants, and novel food technologies — and provides independent advice to the Minister of Agriculture, Forestry and Fisheries and the Minister of Health, Labour and Welfare.
-
-The Commission's creation was a response to a series of food labelling and contamination scandals in the late 1990s and early 2000s, which had eroded public trust in the food safety regulatory system. Its independence from the ministry's policy-making bureaus was intended to ensure that risk assessments were conducted on a purely scientific basis, free from political or commercial influence. The Commission's assessments are published and form the basis for regulatory decisions by the relevant ministries.
-
-==Key policy areas==
-
-===Food security===
-Food security has been the cornerstone of Sanese agricultural policy since the post-war era. The [[Food Security Act]] limits foreign rice imports to less than 8% of domestic consumption, maintaining a tariff-rate quota system that has been a persistent source of friction in international trade negotiations. Domestic rice production stands at approximately 7.8 million tonnes annually, with premium varieties such as [[Yonezawa Premium]] rice commanding significant price premiums in both domestic and export markets.
-
-The ministry's food security strategy has been tested by the [[En Crisis (2026)|En Crisis]], which drove up the cost of imported food commodities — including wheat, soybeans, and animal feed — by an estimated 15–25% in the first quarter of 2026. The crisis exposed Okaiken's vulnerability to currency fluctuations in food imports, as the country's food self-sufficiency ratio on a calorie basis has declined from approximately 70% in the 1970s to an estimated 42% in 2025. Minister Kondo has identified strengthening food self-sufficiency as a priority of the [[Ikazaki Cabinet]], proposing a 10-year plan to raise the calorie-based self-sufficiency ratio to 55%.
-
-===Agricultural subsidies===
-The ministry administers a complex system of agricultural subsidies and price supports that constitute the bulk of its {{currency|40 billion|SEN}} budget. The largest programme is the {{Nihongo|Rice Income Support|米所得補償|Kome Shotoku Hoshō}}, which provides direct payments to rice farmers to compensate for the gap between production costs and market prices. Additional subsidies support the production of wheat, soybeans, and feed crops, as well as livestock operations — particularly the [[Miyagi-buta]] pork industry and the [[Seto onion]] growing sector.
-
-The subsidy system has been criticised for its complexity and for distorting production decisions. Critics argue that the system incentivises the continued cultivation of rice on marginal land that would be better converted to higher-value crops or non-agricultural uses, while supporters contend that the subsidies are essential to maintaining rural communities and the cultural landscape of Sanese agriculture. The [[Ikazaki Cabinet]] has signaled its intention to reform the subsidy system, with Minister Kondo proposing a shift from production-linked payments to environmental stewardship payments — a move that has drawn opposition from [[OkaikenCOOP]] and rural constituencies.
-
-===OkaikenCOOP oversight===
-{{main|OkaikenCOOP}}
-[[OkaikenCOOP]] ({{Nihongo|岡井県農業協同組合|Okaiken Nōgyō Kyōdō Kumiai}}) is the dominant agricultural cooperative in Okaiken, with a membership encompassing the vast majority of the country's farming households. The cooperative controls an estimated 75% of rice distribution, operates the largest agricultural credit network in the country (the {{Nihongo|JA Bank|農協銀行|Nōkyō Ginkō}}), and provides insurance, marketing, and purchasing services to its members.
-
-The ministry's oversight of OkaikenCOOP has been a persistent source of controversy, particularly in the wake of three major governance scandals (see [[#Controversies|Controversies]] below). Critics argue that the ministry has been too close to the cooperative, exercising insufficient oversight and failing to enforce governance standards. The [[Agricultural Cooperative Act]] grants the ministry significant supervisory powers over OkaikenCOOP, including the authority to audit its operations, approve its leadership appointments, and order corrective action — but these powers have been exercised sparingly in practice.
-
-===Fisheries management===
-The Fisheries Agency manages Okaiken's fishing industry through a system of fishing rights ({{Nihongo|漁業権|gyogyōken}}) allocated to local fishing cooperatives, catch quotas set for commercially important species, and licensing requirements for aquaculture operations. The {{Nihongo|saba|鯖|mackerel}} fishery — the largest by volume — is managed under a total allowable catch (TAC) system, while other species are regulated through effort controls and seasonal closures.
-
-Aquaculture has been the fastest-growing segment of the fisheries sector, expanding at approximately 8% annually as declining wild stocks and increasing demand for seafood have driven investment in farmed fish, shellfish, and seaweed operations. The agency has promoted aquaculture as a sustainable alternative to wild capture fisheries, but environmental concerns — including water pollution, habitat destruction, and the escape of farmed fish into wild populations — have prompted calls for stricter regulation.
-
-The [[Shendan Ocean Mining Authority]] dispute over [[Kajika]] fishing rights has been the most contentious fisheries management issue in recent years. The agency has filed formal objections to the Mining Authority's deep-sea extraction permits, arguing that the operations disrupt Kajika spawning grounds and violate the precautionary principle established under the Fisheries Act. The dispute remains unresolved and has been escalated to the [[Cabinet Office (Okaiken)|Cabinet Office]] for mediation.
-
-==Key legislation==
-
-===Food Security Act===
-The {{Nihongo|'''Food Security Act'''|食料安全保障法|Shokuryō Anzen Hoshō Hō}} (enacted 1951, substantially amended 1999, 2012, and 2023) is the foundational legislation governing Okaiken's food security policy. The Act establishes the government's authority to regulate the production, distribution, import, and pricing of staple foods, and mandates the maintenance of minimum domestic production levels for rice and other essential commodities.
-
-The most controversial provision of the Act is the rice import restriction, which limits foreign rice to less than 8% of domestic consumption through a tariff-rate quota system. The provision has been repeatedly challenged in international trade forums, with exporting countries arguing that it constitutes an unfair trade barrier. The Sanese government has defended the restriction as essential to national food security, citing the country's low calorie-based self-sufficiency ratio and the strategic importance of rice as a staple food.
-
-The 2023 amendment, introduced under the [[Honda-Nakayama Cabinet]], added provisions for emergency food stockpiling and established a new framework for public–private partnerships in food supply chain resilience. It also created the {{Nihongo|Food Security Council|食料安全保障会議|Shokuryō Anzen Hoshō Kaigi}}, an inter-ministerial body chaired by the Prime Minister, to coordinate the government's response to food supply emergencies.
-
-===Agricultural Cooperative Act===
-The {{Nihongo|'''Agricultural Cooperative Act'''|農業協同組合法|Nōgyō Kyōdō Kumiai Hō}} (enacted 1948, substantially amended 2003 and 2015) governs the establishment, operation, and oversight of agricultural cooperatives in Okaiken, including [[OkaikenCOOP]]. The Act grants the ministry supervisory authority over cooperative governance, including the power to audit financial statements, approve leadership appointments, and order corrective action in cases of mismanagement.
-
-The 2003 amendment, introduced in response to the [[2008 Rice Premium Fraud]] scandal (see [[#Controversies|Controversies]]), strengthened the ministry's audit powers and required OkaikenCOOP to publish detailed financial statements for its prefectural and national federations. The 2015 amendment, introduced after the [[2014 Soy Surcharge Manipulation]] scandal, imposed mandatory governance training for cooperative executives and created an independent complaints mechanism for cooperative members.
-
-Critics argue that the amendments have been insufficient to address the structural governance problems within OkaikenCOOP, and have called for more fundamental reforms — including the separation of the cooperative's banking, insurance, and marketing functions, and the introduction of external directors to its governance boards.
-
-===Fisheries Act===
-The {{Nihongo|'''Fisheries Act'''|漁業法|Gyogyō Hō}} (enacted 1949, substantially amended 2012 and 2020) governs fishing rights, catch quotas, and aquaculture licensing in Okaiken's territorial waters and exclusive economic zone. The Act establishes the system of fishing rights ({{Nihongo|漁業権|gyogyōken}}) allocated to local fishing cooperatives, and sets the framework for the management of commercially important species through total allowable catch (TAC) limits and effort controls.
-
-The 2020 amendment introduced the precautionary principle into fisheries management for the first time, requiring the Fisheries Agency to consider the potential impact of non-fishing activities — including deep-sea mining — on fish stocks and spawning grounds. The amendment was a direct response to the [[Shendan Ocean Mining Authority]] dispute, and has been invoked by the agency in its objections to the Mining Authority's extraction permits.
-
-==Recent events==
-
-===En Crisis food price impact===
-{{main|En Crisis (2026)}}
-The [[En Crisis (2026)|En Crisis]] of January–February 2026, which saw the [[Sanese En|En]] depreciate by approximately 20% against the [[TALOD Reserve Unit|TRU]], had a significant impact on food prices in Okaiken. The country imports approximately 58% of its food calories, and the currency depreciation drove up the cost of imported wheat, soybeans, corn, and animal feed by an estimated 15–25% in the first quarter of 2026.
-
-The ministry responded by releasing emergency rice stockpiles and authorising a temporary increase in the rice import quota to stabilise prices. Minister Suzuki also announced a {{currency|2.8 billion|SEN}} emergency assistance package for livestock farmers affected by the surge in feed costs. However, the response was criticised as insufficient by opposition parties and farming organisations, with [[Daisuke Kondo]] — then the OSP's agriculture spokesperson — accusing the PPO government of "fiddling while the rice bowl empties."
-
-The crisis intensified the debate over Okaiken's food security strategy, with the [[Ikazaki Cabinet]] subsequently proposing a comprehensive 10-year food self-sufficiency plan. Minister Kondo has identified three priorities: expanding domestic production of feed crops to reduce dependence on imported animal feed; investing in vertical farming and controlled-environment agriculture to increase production in urban areas; and strengthening the emergency food stockpiling system to provide a buffer against future supply shocks.
-
-===OkaikenCOOP governance reforms===
-The [[2019 Fertilizer Cartel]] scandal (see [[#Controversies|Controversies]] below) prompted the most significant governance reform of [[OkaikenCOOP]] since the 2003 and 2015 amendments to the Agricultural Cooperative Act. In 2020, the ministry appointed a special investigative committee ({{Nihongo|特別調査委員会|Tokubetsu Chōsa Iinkai}}) to examine the cooperative's governance structures and recommend reforms.
-
-The committee's report, published in March 2021, identified systemic governance failures including inadequate internal controls, conflicts of interest in the cooperative's banking and purchasing divisions, and a culture of opacity that discouraged whistleblowing. It recommended the separation of OkaikenCOOP's banking and insurance functions from its agricultural marketing and purchasing operations, the appointment of independent external directors to all prefectural and national federation boards, and the creation of a dedicated compliance and ethics office reporting directly to the cooperative's president.
-
-Implementation of the reforms has been slow. OkaikenCOOP has resisted the separation of its banking operations, arguing that the integrated model provides essential financial services to rural communities that would otherwise be underserved by commercial banks. As of 2026, only the external director requirement has been fully implemented, with the remaining reforms still under negotiation between the ministry and the cooperative.
-
-===Satori AI Blackout disruption===
-{{main|Satori AI Blackout Crisis}}
-The [[Satori AI Blackout]] of May 2026 caused significant disruption to the ministry's digital supply chain management systems, including the {{Nihongo|Agricultural Market Information System|農産物流通情報システム|Nōsanbutsu Ryūtsū Jōhō Shisutemu}} (AMIS), which provides real-time data on crop prices, inventory levels, and logistics. The 72-hour outage prevented the ministry from coordinating emergency food distribution in the immediate aftermath of the blackout, and exposed the vulnerability of the agricultural sector's increasingly digitalised infrastructure.
-
-Minister Kondo has since announced a review of the ministry's digital dependencies, with a focus on ensuring that critical food supply chain management systems have adequate analogue backup capabilities. The review is expected to report by the end of 2026.
-
-==Controversies==
-
-===2008 Rice Premium Fraud===
-The {{Nihongo|'''Rice Premium Fraud'''|米プレミアム詐欺|Kome Puremiamu Sagi}} was the first major governance scandal to engulf [[OkaikenCOOP]]. In 2008, an internal investigation revealed that the cooperative's national federation had systematically inflated the quality grades of rice sold under the [[Yonezawa Premium]] designation, allowing lower-grade rice to be sold at premium prices. The fraud was estimated to have cost consumers approximately {{currency|3.2 billion|SEN}} over a five-year period.
-
-The scandal led to the resignation of OkaikenCOOP's president, {{Nihongo|Toshio Watanabe|渡辺俊夫|Watanabe Toshio}}, and prompted the 2003 amendment to the Agricultural Cooperative Act (which had been under discussion before the scandal but was accelerated by its revelation). The ministry was criticised for its failure to detect the fraud through its audit processes, and for its reluctance to pursue criminal charges against cooperative executives — a decision that was widely attributed to the close relationship between the ministry and OkaikenCOOP.
-
-===2014 Soy Surcharge Manipulation===
-The {{Nihongo|'''Soy Surcharge Manipulation'''|大豆追加料金操作|Daizu Tsuika Ryōkin Sōsa}} was the second major OkaikenCOOP scandal. In 2014, it was revealed that the cooperative's purchasing division had imposed undisclosed surcharges on soybean purchases from member farmers, effectively underpaying producers by an estimated {{currency|1.8 billion|SEN}} over three years. The surcharges were disguised as "processing and handling fees" in the cooperative's financial statements.
-
-The scandal was particularly damaging because it involved the exploitation of the cooperative's own members — the farmers it was supposed to serve. It prompted the 2015 amendment to the Agricultural Cooperative Act, which imposed mandatory governance training for cooperative executives and created an independent complaints mechanism for members. The ministry's response was again criticised as insufficient, with opposition politicians and agricultural economists calling for the structural separation of OkaikenCOOP's banking and purchasing functions.
-
-===2019 Fertilizer Cartel===
-The {{Nihongo|'''Fertilizer Cartel'''|肥料カルテル|Hiryō Karuteru}} was the third and most serious OkaikenCOOP governance scandal. In 2019, the [[Fair Trade Commission (Okaiken)|Fair Trade Commission]] raided OkaikenCOOP's headquarters and the offices of three major fertilizer manufacturers, uncovering evidence of a price-fixing cartel that had inflated fertilizer prices by an estimated 12–18% over a seven-year period. The cartel was coordinated through OkaikenCOOP's purchasing division, which served as the exclusive procurement channel for its member farmers.
-
-The scandal resulted in criminal charges against five OkaikenCOOP executives and three fertilizer company officials, with fines totalling {{currency|4.6 billion|SEN}}. It also prompted the appointment of the special investigative committee that recommended the comprehensive governance reforms described above. The Fertilizer Cartel is widely regarded as the most damaging of the three OkaikenCOOP scandals, as it demonstrated that the cooperative's monopoly position in the agricultural supply chain could be exploited to the detriment of its own members.
-
-===Kajika fishing rights dispute===
-{{main|Shendan Ocean Mining Authority}}
-The dispute between the Fisheries Agency and the [[Shendan Ocean Mining Authority]] over [[Kajika]] ({{Nihongo|カジカ|sculpin}}) fishing rights has been a recurring source of controversy since the Mining Authority was granted deep-sea extraction permits in the waters surrounding the [[Shendan]] seamounts in 2017. The Fisheries Agency contends that the Mining Authority's operations have disrupted Kajika spawning grounds, leading to a decline in Kajika catches of approximately 30% in the affected areas.
-
-Traditional fishing communities in the [[Aizawa Prefecture|Aizawa]] and [[Kiso Prefecture|Kiso]] coastal regions have been particularly affected, as Kajika fishing has been a mainstay of their local economies for generations. The communities have organised protests against the Mining Authority's operations and have filed legal challenges seeking to revoke the extraction permits.
-
-The dispute has exposed a fundamental tension between the government's economic development objectives — supported by the [[Ministry of Economy, Trade and Industry (Okaiken)|Ministry of Economy, Trade and Industry]] — and the conservation of marine resources championed by MAFF. The 2020 amendment to the Fisheries Act, which introduced the precautionary principle, was a direct response to this dispute, but its application has been contested by the Mining Authority, which argues that the scientific evidence linking its operations to Kajika stock decline is inconclusive.
-
-==List of recent ministers==
-
-{| class="wikitable" style="text-align:center"
+{| class="wikitable" style="width:100%; text-align:left;"
 |-
-! Minister !! Party !! Constituency !! Term start !! Term end !! Cabinet
+! style="background:#0b2545; color:white; width:28%;" | Internal Bureau or Agency
+! style="background:#0b2545; color:white; width:22%;" | Japanese Name
+! style="background:#0b2545; color:white; width:50%;" | Statutory Resource Mandate
 |-
-| [[Daisuke Kondo]] || [[Okaiken Socialist Party|OSP]] || [[Okami Metropolis|Okami]] PR || 20 May 2026 || Incumbent || [[Ikazaki Cabinet]]
+| Minister's Secretariat
+| 大臣官房 (Daijin Kanbō)
+| Manages ministry budgets, personnel evaluation, Diet legislative drafting, and international trade negotiations
 |-
-| [[Norikazu Suzuki]] || [[Progressive Party of Okaiken|PPO]] || [[Yamagata Prefecture|Yamagata]] 2nd || 25 Aug 2021 || 20 May 2026 || [[Honda-Nakayama Cabinet]]
+| Food Industry Affairs Bureau
+| 大臣官房新事業・食品産業部 (Shokuhin Sangyō-bu)
+| Regulates wholesale food distribution, domestic food processing standards, and food loss reduction programs
 |-
-| [[Yōichi Taniguchi]] || [[Progressive Party of Okaiken|PPO]] || [[Ehime Prefecture|Ehime]] 3rd || 5 Sep 2019 || 25 Aug 2021 || [[First Honda cabinet|First Honda Cabinet]]
+| Consumer Affairs and Food Safety Bureau
+| 消費・安全局 (Shōhi Anzen-kyoku)
+| Enforces agricultural chemical tolerances, veterinary biosecurity standards, and food traceability labeling
 |-
-| [[Kumiko Ōta]] || [[Progressive Party of Okaiken|PPO]] || [[Shiga Prefecture|Shiga]] 1st || 2 Oct 2017 || 5 Sep 2019 || [[Aoyagi administration (Okaiken)|Aoyagi Cabinet]]
+| Crop Production Bureau
+| 農産局 (Nōsan-kyoku)
+| Administers rice production quotas, domestic wheat and soybean subsidies, and organic farming conversion grants
 |-
-| [[Tetsurō Itō]] || [[Liberal Democratic Party (Okaiken)|LDP]] || [[Miyagi Prefecture|Miyagi]] 2nd || 14 Jan 2016 || 2 Oct 2017 || [[Aoyagi administration (Okaiken)|Aoyagi Cabinet]]
+| Rural Development Bureau
+| 農村振興局 (Nōson Shinkō-kyoku)
+| Directs agricultural irrigation canals, hillside terracing, farmland consolidation, and rural village revitalisation
 |-
-| [[Hirofumi Nakagawa]] || [[Liberal Democratic Party (Okaiken)|LDP]] || [[Noto Prefecture|Noto]] 3rd || 3 Sep 2015 || 14 Jan 2016 || [[Aoyagi administration (Okaiken)|Aoyagi Cabinet]]
+| Fisheries Agency
+| 水産庁 (Suisan-chō)
+| Regulates ocean fishing quotas, Exclusive Economic Zone fisheries defense, coastal aquaculture, and fishing harbors
+|-
+| Forestry Agency
+| 林野庁 (Rin'ya-chō)
+| Manages national public forests, commercial timber harvesting, mountain watershed protection, and disaster erosion control
 |}
 
+==Food self-sufficiency and price stabilization==
+
+The central strategic objective of MAFF under the Ikazaki Cabinet is elevating the national calorie-based food self-sufficiency ratio from its historic trough of 38 percent toward a statutory target of 50 percent by 2035. The Crop Production Bureau administers the Direct Income Support Scheme for Farmers (農業者戸別所得補償制度), transferring direct deficiency payments to family farms when market prices drop below average production costs.
+
+Concurrently, the Fisheries Agency enforces Total Allowable Catch (TAC) limits across domestic ocean waters, balancing marine conservation with the economic survival of coastal fishing ports. Following regional maritime disruptions in late 2026, the Fisheries Agency deployed enhanced patrol cutters to safeguard domestic trawlers operating in contested fishing grounds within the East Fosian Sphere.
+
+==Intergovernmental relations with prefectural and metropolitan governments==
+
+Agricultural, forestry, and marine resource policies in Okaiken are executed through continuous, institutional partnerships between MAFF, the forty-seven provincial prefectures, and [[Okami Metropolis]]. Because climatic zones and soil topographies range from northern snow belts to southern sub-tropical archipelagos, agricultural administration cannot be managed effectively through rigid central mandates.
+
+The ministry projects its statutory presence into the regions through seven Regional Agricultural Administration Offices (地方農政局). These regional offices work in direct liaison with Prefectural Departments of Agriculture, Forestry and Fisheries (農林水産部). At the municipal level, statutory land-use regulation is exercised by local Agricultural Committees (農業委員会), composed of local farmers and legal experts elected or appointed under prefectural oversight. These committees hold statutory authority to approve or deny the conversion of designated farmland into commercial real estate, preventing speculative corporate land grabs and preserving prime agrarian acreage in prefectures such as [[Miyagi Prefecture]] and [[Yamagata Prefecture]].
+
+In forestry and watershed management, MAFF's Forestry Agency coordinates with prefectural forestry divisions to manage national and private forests. Watershed protection forests (水源涵養保安林) situated in mountainous prefectures provide drinking water and flood protection for downstream urban metropolises. The central ministry provides extensive National Forest Management Subsidies to prefectures, funding the thinning of overgrown cedar plantations and preventing fatal landslides during typhoon seasons.
+
+Relations with the [[Okami Metropolitan Government]] center on the vital logistics of feeding the capital's massive urban population. While Okami Metropolis maintains active agricultural zones in the western Tama hills and greenhouse horticulture on the Izu Islands, the primary administrative interface between MAFF and the capital is the Okami Central Wholesale Market network, including the flagship Toyosu and Ota wholesale terminals. MAFF food safety inspectors collaborate directly with the Okami Metropolitan Bureau of Industrial and Labor Affairs and municipal public health veterinarians, inspecting daily seafood, livestock, and produce auctions that process thousands of tons of foodstuffs arriving from provincial prefectures each morning.
+
 ==See also==
-* [[OkaikenCOOP]]
-* [[Agriculture in Okaiken]]
-* [[Fisheries in Okaiken]]
-* [[Forestry in Okaiken]]
-* [[Food security in Okaiken]]
-* [[Food Security Act (Okaiken)]]
-* [[Shendan Ocean Mining Authority]]
-* [[En Crisis (2026)]]
+* [[Government of Okaiken]]
 * [[Cabinet of Okaiken]]
-* [[Ministries of Okaiken]]
+* [[Ikazaki Cabinet]]
+* [[Minister of Agriculture, Forestry and Fisheries (Okaiken)]]
+* [[Food Security Act (Okaiken)]]
+* [[OkaikenCOOP]]
 
 ==References==
-{{reflist}}
+{{Reflist}}
 
-[[Category:Government of Okaiken]]
-[[Category:Government ministries of Okaiken|Agriculture, Forestry and Fisheries]]
+[[Category:Ministry of Agriculture, Forestry and Fisheries (Okaiken)| ]]
+[[Category:Government ministries of Okaiken]]
 [[Category:Agriculture in Okaiken]]
-[[Category:Forestry in Okaiken]]
 [[Category:Fisheries in Okaiken]]
-[[Category:Food safety in Okaiken]]
+[[Category:Forestry in Okaiken]]

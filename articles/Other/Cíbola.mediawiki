@@ -1,58 +1,78 @@
 {{Infobox planet
 | name = Cíbola
-| symbol = 
-| image = Cibola_planet.jpg
-| caption = Cíbola from Explorer III. 
+| symbol = ⚶
+| image               = Cibola_planet.jpg
+| caption = Cíbola captured by the Explorer III spacecraft, showing dark iron-silicate regolith dusted with glittering crystalline hoarfrost and sprawling polar dry-ice plains
 | discoverer = Unknown (Ancient observation)
 | discovery_site = 
 | discovered = Pre-historic
-| pronounce = [[wikipedia:Wikipedia:IPA for English|/ˈsiːbələ/]]
+| pronounce = [[wikipedia:Wikipedia:IPA for Mercian|/ˈsiːbələ/]]
 | named_after = Cíbola (Insulonian Legend)
 | alt_names = The Frozen Frontier / 薄氷星 (Usuraisei)
 | adjectives = Cibolan
-| mean_radius = 3,120.0 km
+| mean_radius = 3,120.0 km (0.490 R_Adonia)
 | surface_area = 1.22×10^8 km2
 | volume = 1.27×10^11 km3
 | mass = 0.12 M_Adonia (7.18×10^23 kg)
 | mean_density = 4.10 g/cm3
-| surface_gravity = 3.28 m/s2
-| escape_velocity = 4.6 km/s
+| surface_gravity = 3.28 m/s2 (0.334 g)
+| escape_velocity = 4.60 km/s
 | sidereal_rotation_period = 25.1 hours
-| orbital_period = 1,120.0 days
+| orbital_period = 1,130.0 days (3.043 Adonian years)
 | mean_orbit_radius = 2.10 AU
-| eccentricity = 0.06
+| perihelion = 1.972 AU
+| aphelion = 2.228 AU
+| eccentricity = 0.061
+| inclination = 2.45°
 | surface_pressure = 0.8 kPa (0.008 atm)
-| composition = Iron oxide regolith; Water ice; Carbon dioxide ice
+| surface_temp = 188 K (−85 °C) mean
+| composition = Iron oxide and quartz regolith; Water ice; Carbon dioxide ice; Sulfate evaporites
 }}
 
-'''Cíbola''' is the seventh planet from the star Aurelius, located at the very outer edge of the system's habitable zone, orbiting between the arid [[Aztlán]] and the violet gas giant [[Amatista]]. It is a small, frozen terrestrial world, often described as a cold cousin to Aztlán. While Aztlán is defined by its red dust and heat storms, Cíbola is defined by its dark iron-rich soil and permanent frost.
+'''Cíbola''' is the seventh planet from the star [[Aurelius]], orbiting at a mean distance of 2.10 AU between the arid desert world [[Aztlán]] and the violet gas giant [[Amatista]]. It is a small, frozen terrestrial world roughly half the size of [[Adonia]] (0.490 $R_\text{Adonia}$) and about 12 percent of its mass (0.12 $M_\text{Adonia}$). Cíbola represents the outer boundary of the inner solar system and the physical transition toward the asteroidal frost line, beyond which volatile compounds condense permanently into solid ice.<ref name="Explorer3_Report">Okaiken Institute for Space and Aeronautical Science (OISAS). (2012). *Deep Reconnaissance of the Frost Transition: Final Analysis of the Explorer III Cibola Orbiter*. OISAS Planetary Science Series, 47, 18–59.</ref>
 
-The planet is currently in the grip of a global ice age that has lasted for hundreds of millions of years. Despite having a thin atmosphere, the surface temperatures rarely rise above freezing, even at the equator. Cíbola represents the transition point in the Aurelius system; it is the last rocky outpost before the vast distances separating the inner system from the outer gas giants.
-
-Cíbola is scientifically significant for its massive polar ice caps, which contain substantial reserves of water ice. Adonian exobiologists theorize that Cíbola may have supported a subsurface ocean in its distant past, potentially harboring microbial life before the planet froze over completely.
+While its inner neighbor Aztlán is characterized by warm rust-red dunes and volcanic plateaus, Cíbola is a frigid, silent cryogenic desert locked in a permanent global ice age that has persisted for over 500 million years. Its mean surface temperature is a frigid 188 K (−85 °C), plunging to 133 K (−140 °C) during the long polar winter. The planet is famous for a unique optical phenomenon known as the '''Seven Golden Plains''' (Insulonian: ''Las Siete Llanuras Doradas'', Sanese: ''Koganebara'' / 黄金原): vast lowlands composed of quartz-rich sands, dark iron-silicate grains, and evaporite magnesium sulfate salts coated in microscopic seasonal hoarfrost. Under low-angle solar illumination, the forward scattering of light off these crystalline salt flats creates a brilliant, shimmering golden specular glare across thousands of square kilometers—the physical reality that inspired the ancient Insulonian myth of the Seven Cities of Gold (*Las Siete Ciudades de Cíbola*).<ref name="Balisca_Cibola">Baliscan Royal Astronomical Society. (2017). *Salt-Flats Spectroscopy and Specular Glare Dynamics on Cibola's Seven Plains*. Journal of Comparative Planetology, 75(1), 54–81.</ref>
 
 ==Physical characteristics==
-===Surface geology===
-The surface of Cíbola appears as a mottled patchwork of dark reddish-brown rock and brilliant white ice. The regolith is rich in iron and silicate minerals, similar to the inner planets, but it has not been oxidized to the same bright red hue as [[Aztlán]] due to the lower temperatures and lack of active weathering.
 
-A unique feature of the Cibolan landscape are the Cryo-Dunes. These are vast fields of sand mixed with ice crystals that migrate slowly across the plains, driven by the thin katabatic winds blowing off the polar caps. When sunlight hits these dunes at the right angle, they glitter with a golden hue, a phenomenon that likely inspired its mythological namesake.
+===Surface geology and the Golden Plains===
+The surface of Cíbola is characterized by smooth, low-relief cryogenic plains, degraded impact craters whose floors are leveled by creeping ice-rich regolith, and complex fractured polygon networks produced by thermal contraction in the permafrost crust.<ref name="Explorer3_Report" />
 
-The planet possesses large, distinct polar caps composed of water ice covered by a seasonal layer of dry ice (frozen carbon dioxide). During the long Cibolan winter, these caps expand significantly, reaching down to the mid-latitudes.
+The most renowned geological formations are the ''Seven Golden Plains'' (*Siete Llanuras*), situated along the equatorial and sub-tropical latitudes. These plains represent the dry beds of ancient hypersaline terminal lakes that evaporated hundreds of millions of years ago. The terrain is composed of a fine mix of quartz sand, hematite, gypsum, and epsomite salts ($MgSO_4 \cdot 7H_2O$). During the seasonal frost cycles, microscopic carbon dioxide and water hoarfrost crystals deposit across the salt crust. When morning sunlight strikes the plains at angles between 15° and 35°, the hexagonal salt-frost facets act as retroreflective prisms, creating a brilliant, radiant golden sheen visible from orbital spacecraft and high-powered Adonian telescopes.<ref name="Balisca_Cibola" />
 
-===Atmosphere===
-Cíbola possesses a thin, transparent atmosphere composed primarily of nitrogen and carbon dioxide. Unlike the hazy skies of [[Ciguapa]] or the dusty atmosphere of [[Aztlán]], the air on Cíbola is incredibly clear. This lack of atmospheric scattering creates a stark, high-contrast environment where shadows are pitch black and the stars are visible even during the day.
+===Cryosphere and subglacial brine lakes===
+Cíbola's cryosphere extends globally across two permanent polar ice caps. The northern ice cap consists of a thick, permanent water-ice foundation up to 3.0 kilometers deep, capped by a seasonal 2-meter blanket of solid carbon dioxide ice. In contrast, the southern ice cap is characterized by dramatic spiral troughs and sublimation scarps carved by persistent katabatic winds.<ref name="Explorer3_Report" />
 
-The pressure is too low for liquid water to exist on the surface, but it is sufficient to support a weak greenhouse effect that keeps the equatorial regions from plunging into absolute cryogenic temperatures during the day.
+In 2015, the *Cíbola Sub-Surface Cryo-Radar* aboard the *Explorer III* orbiter detected strong dielectric reflectivity anomalies 1.8 kilometers beneath the southern ice cap in the ''Eldorado Basin''. Inversion of the radar reflections confirmed the presence of a network of liquid subglacial hypersaline brine lakes. Maintained in a liquid state at temperatures of roughly 205 K (−68 °C) by dissolved calcium and magnesium perchlorates and modest geothermal basal heating, these dark subglacial lakes represent one of the most intriguing astrobiological targets in the Aurelius system.<ref name="Aldana_Dynamics">Aldana, E., & Thorne, A. (2022). ''Tidal Dissipation and Rotational Dynamics in Eccentric Terrestrial Systems''. Castejón Astrophysical Review, 44(2), 112–138.</ref>
+
+===Atmosphere and cryo-geysers===
+Cíbola has a thin atmosphere with a mean surface pressure of 0.8 kPa (0.008 atm), consisting of 94.8% carbon dioxide, 3.2% nitrogen, 1.8% argon, and trace amounts of water vapor and krypton.<ref name="Explorer3_Report" />
+
+During the spring season, sunlight penetrates translucent slabs of carbon dioxide surface ice, heating the dark regolith beneath via the solid-state greenhouse effect. The trapped dry ice sublimates directly into pressurized carbon dioxide gas. When the internal pressure exceeds the tensile strength of the ice sheet, the gas erupts through surface vents in powerful '''cryo-geysers''', propelling dark basaltic sand, saline dust, and CO2 gas up to 4 kilometers into the thin sky. These eruptions leave dark, fan-shaped "spider" markings across the ice plains that slowly fade as winter frost returns.<ref name="Balisca_Cibola" />
 
 ==Orbit and rotation==
-Cíbola orbits Aurelius at a distance of 2.10 AU, completing a revolution every 1,120 standard days. This long orbital period means seasons on Cíbola last nearly an entire Adonian year.
 
-The planet has a rotation period of 25.1 hours, very similar to [[Adonia]] and [[Aztlán]]. This similarity in day length across the three potentially habitable worlds suggests a commonality in their formation history or late heavy bombardment phase.
+Cíbola orbits Aurelius at a mean distance of 2.10 AU, completing one revolution every 1,130.0 standard Adonian days (approximately 3.043 Adonian years). Its orbit has an eccentricity of 0.061 and an orbital inclination of 2.45°.
+
+The planet's sidereal rotation period is 25 hours, 6 minutes, and 14 seconds (25.10 hours), providing a day length nearly identical to that of Adonia and Aztlán. Its axial tilt is 28.5°, subjecting its polar regions to pronounced, multi-year seasonal cycles: polar regions experience nearly 18 months of continuous summer daylight followed by 18 months of continuous winter darkness.<ref name="Aldana_Dynamics" />
+
+Cíbola occupies a pivotal dynamical location in the solar system: its outer orbital neighborhood is cleared by the gravitational reach of the violet gas giant [[Amatista]] (5.40 AU), whose mean-motion resonances define the Kirkwood gaps of the inner asteroid belt.<ref name="IACC_Quetzal">Inter-Adonian Celestial Commission (IACC). (2022). ''Dynamical Architecture and Resonant Envelope Models of the Hot Sub-Neptune Quetzal''. Annals of Celestial Mechanics, 58(3), 304–329.</ref>
+
+==Observation and space exploration==
+
+To ancient naked-eye observers on Adonia, Cíbola appeared as a faint, pale amber-white star wandering slowly against the backdrop of the zodiac, visible primarily during midnight oppositions. In ancient Insulonia, mythologists identified it with the fabled realm of *Cíbola*, the legendary golden territory sought by explorers and conquistadors.<ref name="Navassa_Lex">Navassa Society of Historical Linguistics. (2018). ''Classical Astronomical Nomenclature of the Insulonian Basin''. Port d'Espens University Press.</ref> In Sanese astronomy, the world was cataloged as '''Usuraisei''' ({{nihongo||薄氷星||"thin ice star"}}), poetically describing its pale, icy countenance.<ref name="Tanigaki_Hist">Tanigaki, R., & Vives, M. (2012). ''Sun and Stars in the History of Human Thought: From Archaic Gnomons to Spaceborne Coronagraphy''. University of Okami Press.</ref>
+
+Space exploration has yielded significant scientific milestones. Between 1988 and 1996, the *Explorer III* orbiter—launched by an international consortium led by Okaiken and Balisca—mapped the global salt-ice plains, verified the existence of seasonal cryo-geysers, and discovered subglacial radar reflections in the Eldorado Basin.<ref name="Explorer3_Report" /> Since 2018, the *Cíbola Cryo-Surveyor* lander has operated on the edge of the First Golden Plain, analyzing surface sulfate mineralogy and monitoring micro-seismic activity in the frozen lithosphere.<ref name="Balisca_Cibola" />
 
 ==Name and etymology==
-The name Cíbola is derived from the Insulonian legend of the Seven Cities of Gold, a mythical land of immense wealth sought by explorers. Early astronomers named the planet Cíbola due to the glittering, golden reflection of sunlight off its icy dunes and frost-covered plains.
 
-In Sanese astronomical nomenclature, the planet is known as Usuraisei (薄氷星), translating to the Thin Ice Star. This name captures the planet's fragile, frozen nature and the thin veneer of frost that coats its dark surface.
+The name ''Cíbola'' traces back to the celebrated Insulonian legend of the Seven Cities of Gold (*Las Siete Ciudades de Cíbola*), which classical chroniclers believed lay beyond the northern desert frontiers of the world. In the 19th century, astronomers assigned the name to the seventh planet after spectroscopic analysis revealed the golden specular glare of its crystalline salt plains.<ref name="Navassa_Lex" />
+
+In [[Sanese language|Sanese]], the planet is designated as '''Usuraisei''' ({{nihongo||薄氷星||"thin ice star"}}), emphasizing its perennial frost cover and fragile cryogenic equilibrium.<ref name="Tanigaki_Hist" />
 
 {{Planets of Aurelius}}
 [[Category:Planets of Aurelius]]
+[[Category:Terrestrial planets]]
+
+==References==
+{{reflist}}

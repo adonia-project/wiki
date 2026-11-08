@@ -1,157 +1,121 @@
 {{Short description|Rapid transit line in Okami, Okaiken}}
-{{Infobox Public transit
+{{Infobox rail line
+| logo = Okami Metro Tokuyama line symbol.svg
+| logo_width = 50px
 | name = Tokuyama Line
-| image = Okami Metro Tokuyama line symbol.svg
-| imagesize = 100px
-| image2 = Okami-Metro Series1000-01.jpg
-| imagesize2 = 300px
-| caption2 = An [[Okami Metro 1000 series|1000 series]] train at [[Kuromon-Bashi Station]].
-| native_name = 徳山線
-| owner = [[Okami Metro]]
-| locale = [[Okami|Okami (大紙)]], [[Okaiken]]
-| transit_type = [[Rapid transit|Metro]]
-| lines = Line 6
-| stations = 9
-| ridership = 650,000 (FY2025)
-| began_operation = {{start date and age|1969|10|01|df=y}}
-| system_length = {{cvt|10.5|km|mi|abbr=on}}
-| track_gauge = {{RailGauge|sg|allk=on}}
-| el = {{1500 V DC|conductor=overhead}}
-| map = [[File:Okami Metro Tokuyama Line Map.png|300px]]
-| map_state = collapsed
+| color = 910f91
+| mapcolor = Purple ({{color box|#910f91|border=darkgray}})
+| type = [[Rapid transit]]
+| system = [[Okami Metro]]
+| status = Operating
+| locale = [[Okami]], [[Okaiken]]
+| stations = 21
+| ridership = 1,173,290 (FY2025)
+| start = [[Tokai]]
+| end = [[Hikari-cho]]
+| open = 1969
+| owner = [[Okami Metro Co., Ltd.]]
+| operator = [[Okami Metro Co., Ltd.]]
+| stock = [[Okami Metro 5000 series|5000 series]]
+| gauge = {{RailGauge|1067mm|allk=on}}
+| electrification = 1,500 V DC [[overhead catenary]]
+| linelength = {{cvt|26.9|km|mi|abbr=on}}
+| speed = {{cvt|100|km/h|abbr=on}}
 }}
 
-The {{nihongo|'''Tokuyama Line'''|徳山線|Tokuyama-sen}} is a subway line in [[Okami|Okami (大紙)]], [[Okaiken]], operated by [[Okami Metro]]. It serves as a direct southern connector, linking the commercial district of [[Kuromon-Bashi]] with the southern residential areas along the Yamato River, acting as the gateway to [[Tokuyama Prefecture]]. On system maps, the line is color-coded jade ({{Okami Metro color|D}}), and its stations use the prefix "D".
+The {{nihongo|'''Tokuyama Line'''|徳山線|Tokuyama-sen}} is a [[rapid transit]] line operated by [[Okami Metro Co., Ltd.]] in [[Okami]], [[Okaiken]]. Designated as '''Line 6''' of the Okami Metro network, it is distinguished by its purple color ({{color box|#910f91|border=darkgray}}) and station prefix '''K'''. The line runs diagonally from [[Tokai]] in the northwest to [[Hikari-cho]] in the southeast, spanning {{cvt|26.9|km|mi|abbr=on}} ({{cvt|26.04|km|mi|abbr=on}} in GIS route alignment) and serving 21 stations across the [[Nishi]], [[Sugamo]], [[Aoi]], [[Chiyoda]], [[Chuo]], [[Tamade]], [[Higashi]], [[Tobe]], and [[Masaki]] wards and municipalities.
 
-Designated as Line 6, the Tokuyama Line serves a specific role as a bypass and feeder line. Unlike the third-rail lines in the city center, it utilizes overhead catenary electrification to facilitate seamless reciprocal through-service with the [[Tokutetsu|Tokutetsu (Tokuyama Electric Railway)]]. This allows passengers to travel from the industrial centers of Tokuyama directly into the heart of Okami's electronics district without changing trains.
+The Tokuyama Line is one of three lines in the Okami Metro network that operates 10-car [[Okami Metro 5000 series|5000 series]] trains classified as '''Type A''', the largest rolling stock type in the system. Constructed to {{RailGauge|1067mm|allk=on}} narrow gauge with {{1,500 V DC}} [[overhead catenary]] electrification, the line is engineered for reciprocal [[through-service]] operations with [[Okaiken Railways]] (OR) at both ends via the OR Tokuyama Line North Connector (at [[Mitani]] toward [[Imaichi-Meimon]] on the [[OR Iwashi Line]]) and the OR Tokuyama Line Metro Connector (at [[Hikari-cho]] onto the [[OR Main Line]]).
 
-
+The line serves 11 major interchange hubs, including connections to the [[OR Iwashi Line]] at [[Makoya]], the [[Sanshi Main Line]] and OR Tokuyama Line North Connector at [[Mitani]], the {{OMSN|H|27}} [[Hitotsubashi Line]] at [[Teruo]], the {{OMSN|I|12}} [[Imaichi Line]] at [[Hanazono]], the {{OMSN|S|13}} [[Shitayanagi Line]] and {{OMSN|G|20}} [[Tokushige Line]] at [[Yamabe]], the {{OMSN|C|22}} [[Chūō Line (Okami)|Chūō Line]] at [[Hamakura]], the {{OMSN|B|20}} [[Nanboku Line (Okami)|Nanboku Line]] at [[Suminoe]], the {{OMSN|M|28}} [[Miyoshi Line]] and [[Tokuden Sakae Line]] at [[Yugawara]], the [[Tokuden Main Line]] and [[Toukai Main Line]] at [[Tamade]], the {{OMSN|T|45}} [[Tozai Line (Okami)|Tozai Line]] at [[Yuki Daigaku]] and {{OMSN|T|56}} [[Higashi Shigemachi]], the {{OMSN|N|22}} [[Nagata Line]] at [[Kuninushi]], the {{OMSN|A|16}} [[Asahi Line]] at [[Shigemachi]], and the [[OR Main Line]] at [[Hikari-cho]].
 
 ==History==
-Construction of the Tokuyama Line (Line 6) began in the late 1960s to support the rapid industrialization of the southern districts. The line opened on October 1, 1969, making it one of the earlier lines in the network, established to manage the heavy commuter flow from the [[Tokutetsu]] railway.
 
-The line was built to accommodate 6-car trains from the outset, matching the standard formation of the private railway partner. While originally planned to extend further north, the construction of the [[Sakaisuji Line]] (now the [[Asahi Line]]) made further northern extension redundant, cementing Kuromon-Bashi as its definitive northern terminal.
+===Planning and construction===
+The Tokuyama Line was planned concurrently with the [[Nanboku Line (Okami)|Nanboku Line]] in the early 1960s as part of the second major expansion phase of the Okami Municipal Subway. The route was designed to serve a major diagonal commercial and residential corridor linking the northwestern districts through the central wards to the southeastern municipalities of [[Tobe]] and [[Masaki]]. To enable direct through-running onto the [[Okaiken Railways]] commuter network without gauge-changing equipment, the line was built to {{RailGauge|1067mm|allk=on}} narrow gauge with 1,500 V DC overhead catenary and 10-car platform lengths.
 
-==Station List==
-* All stations are located in [[Okami|Okami City (大紙市)]].
-* '''L''': Local (普通) - Stops at all stations.
-* '''SE''': Semi-Express (準急) - Operates during morning rush hours only.
+Construction began in 1965, with the line sharing deep-level engineering standards with the Nanboku Line in the central Chiyoda ward area. The diagonal alignment required careful planning to avoid conflicts with existing underground utilities and historic foundations in the Aoi and Chiyoda districts.
 
-{| class="wikitable" style="text-align:center; font-size:95%;"
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | No.
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Station Name
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Japanese
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Distance (km)
-! colspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Stops
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Transfers
-! rowspan="2" style="border-bottom:3px solid #{{Okami Metro color|K}};" | Location
+===Opening and early operations===
+The Tokuyama Line opened on October 1, 1969, the same year as the Nanboku Line. The initial segment operated between [[Tokai]] and [[Hamakura]], with the southeastern extension through [[Tamade]], [[Higashi]], and [[Tobe]] to [[Hikari-cho]] completed in stages over the following decade. The initial fleet consisted of 10-car [[Okami Metro 1000 series|1000 series]] formations built to Type A loading gauge to accommodate heavy peak-hour commuter flows.
+
+===Modernization and through-service expansion===
+On April 1, 2018, as part of the privatization of the Okami Municipal Transportation Bureau, the Tokuyama Line was transferred to [[Okami Metro Co., Ltd.]] The legacy 1000 series fleet was retired and replaced by 10-car [[Okami Metro 5000 series|5000 series]] Type A trains manufactured by [[Okami Heavy Industries]], introducing regenerative braking, higher acceleration up to {{cvt|100|km/h|mph|abbr=on}}, and integration with the Satori-AI passenger management system. Station numberings from {{OMSN|K|01}} to {{OMSN|K|21}} and full platform screen doors were also commissioned across all 21 stations, and station K14 (formerly Uramachi) was designated {{nihongo|Yuki Daigaku|由紀大学前}} to serve the adjacent Yuki University campus.
+
+==Stations==
+
+All stations are located in [[Okami Metropolis]], [[Okaiken]].
+
+{| class="wikitable sortable" style="margin:auto; text-align:center;"
+! # !! Station !! Sanese !! Location !! Interchange
 |-
-! style="border-bottom:3px solid #{{Okami Metro color|K}};" | Between
-! style="border-bottom:3px solid #{{Okami Metro color|K}};" | Total
-! style="width:20px; border-bottom:3px solid #{{Okami Metro color|K}};" | L
-! style="width:20px; border-bottom:3px solid #{{Okami Metro color|K}};" | SE
+| {{OMSN|K|01}} || Tokai || 遠海 || Nishi-ku, Okami || 
 |-
-| {{OMSN|K|01}}
-| [[Kuromon-Bashi Station|Kuromon-Bashi]]
-| 黒門橋
-| -
-| 0.0
-| ●
-| ●
-| {{rint|okami|A}} [[Asahi Line]] (A09)<br>{{rint|okami|S}} [[Shitayanagi Line]] (S11)<br>{{rint|okami|private}} [[Kintetsu Railway|Kintetsu]] Namba Line
-| rowspan="3" | [[Chuo Ward, Okami|Chuo]]
+| {{OMSN|K|02}} || Makoya || 眞子屋 || Nishi-ku, Okami || [[OR Iwashi Line]]
 |-
-| {{OMSN|K|02}}
-| [[Ebisu-Cho Station|Ebisu-Cho]]
-| 恵美須町
-| 1.2
-| 1.2
-| ●
-| ●
-| {{rint|okami|private}} [[Hankai Tramway]] Hankai Line
+| {{OMSN|K|03}} || Mitani || 三谷 || Sugamo-ku, Okami || [[Sanshi Main Line]]<br>[[OR Iwashi Line]] (via OR Tokuyama Line North Connector)
 |-
-| {{OMSN|K|03}}
-| [[Tennoji-Koen Station|Tennoji-Koen]]
-| 天王寺公園
-| 1.0
-| 2.2
-| ●
-| ●
-| {{rint|okami|M}} [[Miyoshi Line]] (M18)<br>{{rint|okami|A}} [[Asahi Line]] (A10)<br>{{rint|okami|rail}} [[Sanese National Railways|OR]] [[Okami Loop Line]]
+| {{OMSN|K|04}} || Teruo || 輝夫 || Aoi-ku, Okami || {{OMSN|H|27}} [[Hitotsubashi Line]]
 |-
-| {{OMSN|K|04}}
-| [[Abeno-Suji Station|Abeno-Suji]]
-| 阿倍野筋
-| 1.1
-| 3.3
-| ●
-| ●
-| {{rint|okami|M}} [[Miyoshi Line]] (M19)<br>{{rint|okami|private}} [[Hankai Tramway]] Uemachi Line
-| rowspan="2" | [[Abeno Ward, Okami|Abeno]]
+| {{OMSN|K|05}} || Hagoromo || 羽衣 || Aoi-ku, Okami || 
 |-
-| {{OMSN|K|05}}
-| [[Harima-Cho Station|Harima-Cho]]
-| 播磨町
-| 1.3
-| 4.6
-| ●
-| ｜
-|
+| {{OMSN|K|06}} || Hanazono || 花園 || Chiyoda-ku, Okami || {{OMSN|I|12}} [[Imaichi Line]]
 |-
-| {{OMSN|K|06}}
-| [[Nagai-Higashi Station|Nagai-Higashi]]
-| 長居東
-| 1.5
-| 6.1
-| ●
-| ｜
-|
-| rowspan="4" | [[Sumiyoshi Ward, Okami|Sumiyoshi]]
+| {{OMSN|K|07}} || Yamabe || 山邉 || Chiyoda-ku, Okami || {{OMSN|G|20}} [[Tokushige Line]]<br>{{OMSN|S|13}} [[Shitayanagi Line]]
 |-
-| {{OMSN|K|07}}
-| [[Abiko-Mae Station|Abiko-Mae]]
-| 我孫子前
-| 1.2
-| 7.3
-| ●
-| ｜
-|
+| {{OMSN|K|08}} || Hokuto || 北斗 || Chiyoda-ku, Okami || 
 |-
-| {{OMSN|K|08}}
-| [[Sugimoto-Cho Station|Sugimoto-Cho]]
-| 杉本町
-| 1.4
-| 8.7
-| ●
-| ｜
-| {{rint|okami|rail}} [[Sanese National Railways|OR]] [[Hanwa Line]]
+| {{OMSN|K|09}} || Imamura || 今村 || Chiyoda-ku, Okami || 
 |-
-| {{OMSN|K|09}}
-| [[Yamato-Gawa Station|Yamato-Gawa]]
-| 大和川
-| 1.8
-| 10.5
-| ●
-| ●
-| {{rint|okami|private}} '''[[Tokutetsu|Tokutetsu (Tokuyama Electric Railway)]]''' (Through Service to Tokuyama-City)
+| {{OMSN|K|10}} || Hamakura || 濱倉 || Chuo-ku, Okami || {{OMSN|C|22}} [[Chūō Line (Okami)|Chūō Line]]
+|-
+| {{OMSN|K|11}} || Suminoe || 住之江 || Tamade-ku, Okami || {{OMSN|B|20}} [[Nanboku Line (Okami)|Nanboku Line]]
+|-
+| {{OMSN|K|12}} || Yugawara || 湯河原 || Tamade-ku, Okami || {{OMSN|M|28}} [[Miyoshi Line]]<br>[[Tokuden Sakae Line]]
+|-
+| {{OMSN|K|13}} || Tamade || 玉出 || Tamade-ku, Okami || [[Tokuden Main Line]]<br>[[Toukai Main Line]]
+|-
+| {{OMSN|K|14}} || Yuki Daigaku || 由紀大学前 || Tamade-ku, Okami || {{OMSN|T|45}} [[Tozai Line (Okami)|Tozai Line]]
+|-
+| {{OMSN|K|15}} || Kuninushi || 国主 || Higashi-ku, Okami || {{OMSN|N|22}} [[Nagata Line]]
+|-
+| {{OMSN|K|16}} || Shigemachi || 重町 || Higashi-ku, Okami || {{OMSN|A|16}} [[Asahi Line]]
+|-
+| {{OMSN|K|17}} || Higashi Shigemachi || 東重町 || Higashi-ku, Okami || {{OMSN|T|56}} [[Tozai Line (Okami)|Tozai Line]]
+|-
+| {{OMSN|K|18}} || Tobe-gawa || 砥部川 || Tobe, Okami || 
+|-
+| {{OMSN|K|19}} || Tobe-yama || 砥部山 || Tobe, Okami || 
+|-
+| {{OMSN|K|20}} || Tobe-cho || 砥部町 || Tobe, Okami || 
+|-
+| {{OMSN|K|21}} || Hikari-cho || 光町 || Masaki, Okami || [[OR Main Line]] (via OR Tokuyama Line Metro Connector)
 |}
 
-==Rolling Stock==
-The Tokuyama Line utilizes overhead catenary electrification (1,500 V DC) to ensure compatibility with Tokutetsu private railway standards.
+==Rolling stock==
 
-* [[Okami Metro 1000 series|1000 series]] (6-car sets):
-*: The latest fleet introduced in 2018 to replace the original 10 series. These trains feature a stainless steel body with a rose-pink band. They are designed with high acceleration capabilities to manage the frequent stops within the city center before running express on the suburban Tokutetsu line.
-* [[Tokutetsu]] 5000 series (6-car sets):
-*: Private railway stock owned by Tokutetsu. Known as the "Southern Cross," these trains feature a distinctive navy blue livery and transverse seating, offering a comfortable ride for long-distance commuters coming from Tokuyama Prefecture.
+The Tokuyama Line operates 10-car '''Type A''' formations ({{cvt|200|m|ft|abbr=on}} long, {{cvt|3.0|m|ft|abbr=on}} wide) built to {{RailGauge|1067mm|allk=on}} narrow gauge with 1,500 V DC overhead catenary collection:
+
+* '''[[Okami Metro 5000 series|5000 series]]''' (10-car Type A sets, 2018–present): Manufactured by [[Okami Heavy Industries]] and introduced following privatization to replace the 1000 series. Equipped with dual-system signalling for through-service onto [[Okaiken Railways]] corridors and full Satori-AI cabin and crowd-management telemetry.
+* '''[[Okami Metro 1000 series|1000 series]]''' (retired): Operated on the Tokuyama Line from its opening in 1969 until March 2018.
+
+==Through-service==
+
+Because the Tokuyama Line was constructed to {{RailGauge|1067mm|allk=on}} narrow gauge with 10-car Type A platforms, it connects directly to the [[Okaiken Railways]] (OR) regional network via two dedicated physical track links recorded in the metropolitan rail network:
+
+* '''OR Tokuyama Line North Connector''': Links the northwestern section of the Tokuyama Line at [[Mitani]] ({{OMSN|K|03}}) via [[Tedori Meimon]] ({{OMSN|G|14}}) to [[Imaichi-Meimon]] (W04) on the [[OR Iwashi Line]], enabling through-running between northwestern OR commuter services and central Okami.
+* '''OR Tokuyama Line Metro Connector''': A {{cvt|0.44|km|mi|abbr=on}} southern connecting track at [[Hikari-cho]] ({{OMSN|K|21}}) that links the southeastern terminus of the Tokuyama Line directly to Hikari-cho Station (O16) on the [[OR Main Line]] in Masaki, allowing Tokuyama Line trains to continue southward toward [[Tokuyama Prefecture]].
 
 ==See also==
 * [[Okami Metro]]
-* [[List of Okami Metro stations]]
+* [[Urban transport in Okami]]
+* [[Okaiken Railways]]
 * [[Transport in Okaiken]]
 
-{{Metro systems in Okaiken}}
+==References==
+{{Reflist}}
 
-[[Category:Rapid transit lines in Okaiken]]
-[[Category:Okami Metro lines]]
-[[Category:Okaiken topics]]
-[[Category:Okaiken]]
+[[Category:Okami Metro]]
+[[Category:Okaiken railways]]
+[[Category:Railway lines opened in 1969]]
+[[Category:1067 mm gauge railways in Okaiken]]
