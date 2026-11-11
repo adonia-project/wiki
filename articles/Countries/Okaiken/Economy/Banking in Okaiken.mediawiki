@@ -1,0 +1,162 @@
+{| class="infobox" style="width:25em; font-size:95%; float:right; margin:0 0 0.5em 1em;"
+|-
+! colspan="2" style="background:#cce5ff; text-align:center;" | Banking in Okaiken
+|-
+| colspan="2" style="text-align:center;" | {{nihongo|''岡井県の銀行業''|Okaiken no Ginkōgyō}}
+|-
+! colspan="2" style="background:#cce5ff; text-align:center;" | Key statistics (2025)
+|-
+| Total banking assets
+| 円12.4 trillion
+|-
+| Number of banks
+| 124
+|-
+| Central bank
+| [[Bank of Okaiken]]
+|-
+| Top two banks (by assets)
+| [[Matsudaira Financial Group]] (円4.1T)<br>[[Seifu Bank of Okaiken]] (円3.2T)
+|-
+| Deposit insurance limit
+| 円10 million per depositor
+|-
+| Regulatory authority
+| [[Financial Services Agency (Okaiken)|Financial Services Agency]]
+|}
+
+The '''banking system of [[Okaiken]]''' is a highly concentrated, two-pillar structure dominated by the [[Matsudaira Financial Group]] and the [[Seifu Bank of Okaiken]], which together hold approximately 59% of total banking assets and 62% of domestic deposits. The system is overseen by the [[Bank of Okaiken]] (the central bank) and regulated by the [[Financial Services Agency (Okaiken)|Financial Services Agency]], with the [[Ministry of Finance (Okaiken)|Ministry of Finance]] exercising broad policy direction through the administrative guidance mechanisms of [[Guided Capitalism]].
+
+The Sanese banking system is characterized by the {{nihongo|"main bank system"|メインバンク制|Mein Banku Sei}}—a tradition in which each major corporation maintains a primary banking relationship with a single institution that provides patient capital, crisis management, and corporate governance oversight. This system, a cornerstone of the [[Guided Capitalism]] model, has been both praised for ensuring long-term investment stability and criticized for perpetuating {{nihongo|"zombie lending"|ゾンビ融資|Zonbi Yūshi}}—the practice of continuing to extend credit to unprofitable firms to avoid recognizing losses.
+
+The system was rocked by the [[Matsudaira Financial Group]] scandal of 2023–2024, in which the nation's largest bank was found to have systematically concealed approximately 円180 billion in non-performing loans through off-balance-sheet vehicles. The scandal led directly to the passage of the [[Banking Transparency Act]] of 2024, the most significant financial regulatory reform since the post-war period.
+
+==Structure==
+
+===The two pillars===
+
+The Sanese banking system is organized around two dominant financial groups:
+
+====Matsudaira Financial Group====
+
+{{Main|Matsudaira Financial Group}}
+
+The {{nihongo|'''Matsudaira Financial Group'''|松平金融グループ|Matsudaira Kin'yū Gurūpu}} is the largest financial institution in Okaiken by total assets (円4.1 trillion) and the flagship of the [[Sangoku Group]] ''[[keiretsu]]''. The group traces its origins to the [[Honda Shogunate]] period, when the Matsudaira clan—relatives of the ruling Honda dynasty—established the first merchant bank in [[Okami]] in 1683. The bank was formally incorporated as a modern institution during the [[Saito Restoration]] in 1872, and it became the primary financial engine of the [[Sanese Industrial Miracle]], directing credit to the steel, shipbuilding, and automotive sectors under the guidance of the [[Ministry of International Trade and Industry]].
+
+The Matsudaira group operates through three core subsidiaries. Matsudaira Bank handles commercial banking, managing consumer deposits, commercial lending facilities, and foreign exchange operations. Matsudaira Trust and Banking oversees asset management, institutional pension fund administration, and fiduciary custody services. Matsudaira Securities serves as the group's investment banking arm, conducting underwriting, brokerage services, and capital markets operations.
+
+The group's dominance extends beyond banking. Matsudaira Trust is the largest institutional investor in the [[Okami Stock Exchange]], managing approximately 円1.8 trillion in pension fund assets, and Matsudaira Securities is the lead underwriter for approximately 35% of all corporate bond issuances in Okaiken. The group's headquarters in the [[Matsudaira Tower]], [[Chiyoda-ku, Okami|Chiyoda-ku]], is the tallest building in the capital and a symbol of the financial establishment's power.
+
+The Matsudaira group's influence over the [[Sangoku Group]] keiretsu is exercised through the main bank system: Matsudaira Bank holds significant equity stakes in [[Sangoku Heavy Industries]], [[Yonezawa Motors]], and other Sangoku member companies, and the group's chairman traditionally serves as vice-chairman of the [[Keiretsu Council]] (経団連).
+
+====Seifu Bank of Okaiken====
+
+{{Main|Seifu Bank of Okaiken}}
+
+The {{nihongo|'''Seifu Bank of Okaiken'''|西府銀行|Seifu Ginkō}}, commonly known simply as '''Seifu''' (西府, "Western Mansion"), is the second-largest financial institution by total assets (円3.2 trillion) and the primary bank of the [[Aizawa Consortium]] keiretsu. Founded in 1898 as the [[Aizawa]] prefectural industrial bank, Seifu expanded through a series of mergers in the post-war period, most notably the acquisition of the [[Tokuyama Trust Bank]] in 1972 and the [[Ishijima Commercial Bank]] in 1998.
+
+Seifu's competitive position is strongest in western Okaiken and on [[Yagikoshu]], where it holds approximately 45% of retail deposits. The bank is the primary lender to the [[Yagikoshu Data Corridor]] technology companies, including [[Kizan Systems]], and has been the most aggressive Sanese bank in financing the semiconductor and AI sectors. Seifu's {{nihongo|"Digital Finance Initiative"|デジタル金融構想|Dejitaru Kin'yū Kōsō}}, launched in 2018, provides preferential lending rates to technology companies that meet specified R&D expenditure thresholds.
+
+Unlike Matsudaira, Seifu has maintained a relatively conservative approach to off-balance-sheet activities and was not directly implicated in the 2023–2024 scandal. However, the bank's exposure to the [[Yagikoshu]] technology sector means it is particularly vulnerable to the economic fallout from the [[Satori AI Blackout Crisis]], with the [[Financial Services Agency (Okaiken)|Financial Services Agency]] estimating that Seifu holds approximately 円82 billion in loans to companies directly affected by the 72-hour national paralysis.
+
+===Other banks===
+
+Beyond the two dominant pillars, the Sanese banking landscape comprises several specialized financial institutions, regional lenders, and public sector banks. The [[Okami Financial Group]] ranks as the nation's third-largest commercial bank, holding 円1.4 trillion in assets with an extensive branch footprint primarily serving the Okami metropolitan area. [[Aizawa Trust]] operates as a specialized regional trust bank with 円680 billion in assets, focusing on wealth management, corporate asset administration, and fiduciary services for the Aizawa Consortium. Strategic industrial finance is supported by the [[Okaiken Development Bank]], a state-owned policy bank holding 円420 billion in assets that extends concessional credit and loan guarantees to priority economic sectors under government industrial policy. Retail savings remain heavily anchored by the [[Postal Savings Bank of Okaiken]], a government-owned institution holding 円890 billion in deposits across the nationwide post office network. At the local level, 98 regional and second-tier regional banks hold combined assets of approximately 円1.7 trillion, providing credit to prefectural commercial enterprises, while approximately 260 credit cooperatives and shinkin banks command 円410 billion in assets dedicated to small businesses and municipal community development.
+
+===The Bank of Okaiken===
+
+{{Main|Bank of Okaiken}}
+
+The {{nihongo|'''Bank of Okaiken'''|岡井県銀行|Okaiken Ginkō}} is the nation's central bank, responsible for monetary policy, currency issuance, and financial system stability. The Bank operates under the [[Bank of Okaiken Act]] of 1942 (substantially amended in 1998), which grants it operational independence from the government while requiring it to "pursue price stability, thereby contributing to the sound development of the national economy."
+
+The Bank's most significant policy intervention has been its quantitative easing (QE) program, initiated in 2001 and expanded dramatically under Governor [[Renji Abarai]] (2015–present). The Bank's balance sheet has grown to approximately 円7.5 trillion—nearly 190% of GDP—through the purchase of [[Government of Okaiken bonds|JGBs]], exchange-traded funds, and corporate bonds. The Bank holds approximately 45.9% of all outstanding JGBs, a concentration that has drawn criticism from the [[Adonian Credit Transparency Agency]] (ACTA) and international economists.
+
+The Bank's yield curve control (YCC) policy, introduced in 2016, caps the 10-year JGB yield at approximately 0.5%. This policy has been strained by the {{nihongo|"En Crisis"|円危機|En Kiki}} of January–February 2026, which briefly pushed 10-year yields above 1.2% before the Bank intervened with emergency bond purchases.
+
+==The main bank system==
+
+{{Main|Main bank system|Guided Capitalism}}
+
+The {{nihongo|"main bank system"|メインバンク制|Mein Banku Sei}} is the institutional mechanism through which the Sanese banking system supports the [[Guided Capitalism]] model. Under this framework, each major corporation maintains an enduring primary banking relationship with a single anchor institution, typically the flagship bank of its keiretsu. The main bank provides patient capital through long-term lending facilities offered at below-market rates, guided by the mutual understanding that returns will materialize over multi-decade cycles rather than quarterly reporting intervals. In times of corporate distress, the main bank assumes responsibility for organizing comprehensive rescue consortia, coordinating financial relief with keiretsu affiliates and regulatory authorities. Furthermore, the main bank exercises governance oversight by monitoring client solvency through board appointments and information covenants, while its continued willingness to extend credit acts as an indispensable market signal of borrower reliability.
+
+While the main bank system was instrumental in underwriting the long-term horizons of the [[Sanese Industrial Miracle]] and the subsequent [[Kurosawa Doctrine]] technological transition, it has also drawn persistent structural criticism. The system has frequently enabled zombie lending, whereby banks extend continuous forbearance to unprofitable firms to avoid booking impairment charges, locking capital into declining industrial sectors. Critics also point to structural collusion, noting that close keiretsu coordination has facilitated bid-rigging and market cartelization, while entrenched opacity has repeatedly obscured the true balance-sheet health of corporate borrowers through evergreen loan rollovers and unmonitored off-balance-sheet vehicles.
+
+The [[Matsudaira Financial Group]] scandal of 2023–2024 exposed the most extreme manifestation of these problems, revealing that Matsudaira had concealed approximately 円180 billion in non-performing loans through a network of {{nihongo|"special purpose vehicles"|特別目的会社|Tokubetsu Mokuteki Kaisha}} that were technically independent but effectively controlled by the bank.
+
+==The Matsudaira scandal and the Banking Transparency Act==
+
+===The scandal===
+
+{{Main|Matsudaira Financial Group scandal}}
+
+In September 2023, the [[Financial Services Agency (Okaiken)|Financial Services Agency]] conducted a routine inspection of Matsudaira Bank's loan portfolio and discovered discrepancies between the bank's reported non-performing loan (NPL) ratio (2.1%) and the actual ratio (approximately 6.8%). Further investigation revealed that Matsudaira had transferred approximately 円180 billion in non-performing loans to a network of 23 special purpose vehicles (SPVs) that were nominally independent but were managed by Matsudaira executives and funded by Matsudaira Bank itself.
+
+The SPVs—named after [[Aizawa]] historical figures (the "Aizawa Ghost Fleet," as the financial press dubbed them)—allowed Matsudaira to remove bad loans from its balance sheet while continuing to extend credit to the same borrowers, effectively creating a circular lending structure that inflated both the bank's reported asset quality and its borrowers' apparent creditworthiness. The scheme had been operating since approximately 2015 and had been concealed from both the Financial Services Agency and the bank's external auditors.
+
+The scandal's political dimension was explosive: the Matsudaira group was the primary financial backer of the [[Liberal Democratic Party (Okaiken)|LDP]], and the SPVs had been used to funnel loans to LDP-connected construction companies and real estate developers. The [[Sanese Communist Party]] demanded a full criminal investigation, and the [[Progressive Party of Okaiken|PPO]] called for the nationalization of Matsudaira Bank.
+
+The scandal led to the resignation of Matsudaira Chairman [[Kenji Matsudaira]] (the 14th member of the Matsudaira family to lead the bank), a 円45 billion fine imposed by the Financial Services Agency, and the appointment of a government-appointed restructuring committee to oversee the bank's cleanup.
+
+===The Banking Transparency Act (2024)===
+
+{{Main|Banking Transparency Act}}
+
+The [[Banking Transparency Act]] of 2024 ({{nihongo|''Ginkō Tōmeisei Hō''|銀行透明性法}}) was the legislative response to the Matsudaira scandal. The Act represents the most significant reform of the Sanese banking regulatory framework since the post-war financial system reconstruction. The statute enacted a comprehensive overhaul of financial reporting standards, regulatory oversight, and corporate governance. Under mandatory real-time reporting provisions, all commercial and trust banks must submit loan portfolio data to the Financial Services Agency on a monthly basis, with non-performing loan classifications subject to mandatory independent supervisory verification. To eliminate off-balance-sheet concealment, the law mandates full consolidation, requiring all special purpose vehicles with bank-affiliated management or funding to be integrated directly onto the parent bank's balance sheet. Robust whistleblower protections shield reporting employees from professional retaliation while establishing statutory bounties of up to 円50 million for evidence leading to enforcement actions.
+
+To dismantle anti-competitive keiretsu structures, the Act institutes strict cross-ownership restrictions, barring banks from holding equity stakes exceeding 5% in any individual non-financial enterprise and capping total non-financial equity investments at 100% of Tier 1 capital. Institutional governance was further reinforced by requiring all banks with assets exceeding 円500 billion to retain two or more independent external auditors accredited by the regulator. Finally, the law incorporates international information exchange requirements that mandate the automatic sharing of cross-border financial data with partner tax authorities, bringing Okaiken into formal alignment with the [[Adonian Common Reporting Standard]].
+
+The Act's cross-ownership limits have the most far-reaching implications for the [[Guided Capitalism]] model, as they effectively require the ''[[keiretsu]]'' to unwind the cross-shareholdings that have been the structural backbone of the system for over 70 years. The [[Keiretsu Council]] (経団連) has lobbied aggressively for a 10-year transition period, arguing that forced unwinding could destabilize the capital markets. The Honda government compromised by granting a 5-year phase-in period (2024–2029), but the long-term implications for the keiretsu system remain profound.
+
+The Act's international information exchange provisions have also drawn attention from foreign agencies, which have long complained that Sanese banks were used as conduits for tax evasion by wealthy individuals in the [[Alliance of Independent Nations]].
+
+==Challenges and vulnerabilities==
+
+===Negative interest rates===
+
+The Bank of Okaiken's negative interest rate policy (NIRP), introduced in 2016, has compressed bank net interest margins to historically low levels. The average net interest margin for Sanese banks fell from 0.85% in 2015 to 0.52% in 2025, putting significant pressure on profitability—particularly for regional banks that lack the fee income and trading revenue of the major groups. The [[Financial Services Agency]] estimates that approximately 40% of regional banks are operating at a net loss when adjusted for credit risk.
+
+===Aging population and deposit outflows===
+
+The aging population is creating structural pressures on the banking system. As retirees draw down their savings to fund retirement, the pool of low-cost deposits that banks rely on for lending is shrinking. The Ministry of Finance projects that household savings will decline from approximately 円9.5 trillion in 2020 to 円6.8 trillion by 2040, reducing the deposit base that has historically funded JGB purchases and corporate lending.
+
+===Satori AI dependency===
+
+The [[Satori AI Blackout Crisis]] of May 2026 exposed the banking system's dependency on the Satori AI platform for payment processing, risk assessment, and fraud detection. During the 72-hour blackout, approximately 円280 billion in payment transactions were delayed or failed, and banks were forced to revert to manual processing for the first time since 2015. The Financial Services Agency has ordered all banks to develop manual backup procedures and to reduce their dependency on Satori AI for critical functions.
+
+===Cybersecurity===
+
+The concentration of financial data in the two-pillar system creates a systemic cybersecurity risk. A successful cyberattack on Matsudaira or Seifu could compromise the financial data of millions of depositors and the operational continuity of the payments system. The [[Banking Transparency Act]] requires banks to conduct annual cybersecurity stress tests, but the [[Financial Services Agency]] has acknowledged that the current framework may be insufficient to address the evolving threat landscape.
+
+===Foreign fixed-income exposure and the 2026 Abyalan contagion===
+
+The prolonged compression of domestic interest margins under the Bank of Okaiken's negative interest rate policy and yield curve control drove Sanese commercial banks, trust institutions, life insurance companies, and corporate pension funds into foreign debt markets. In an effort to maintain baseline solvency and satisfy guaranteed retirement yields, institutions such as [[Matsudaira Trust and Banking]], [[Aizawa Trust]], and [[Okami Life]] acquired substantial positions in actively managed foreign bond exchange-traded funds listed on the [[Bolsa de Sant Cristòfor]] in [[Balboa]], most notably the [[BPA Abyala Bond Fund]] (ABF) and [[BPA Emerging Markets Bond Fund]] (EMBF). These investment vehicles were marketed to Sanese asset managers as geographically diversified, high-yielding portfolios of sovereign and government-related public infrastructure debt.
+
+The regional market fallout following the [[2026 Lacashian bond crisis]] and the subsequent [[2026 Abyalan bond market selloff]] delivered a severe shock to Sanese institutional portfolios. Because the BPA funds held significant unhedged allocations in toxic [[Lacashian Settlement Rent Certificates]] and Lacashian sovereign bonds, both funds suffered sharp net asset value contractions in the third quarter of 2026. The simultaneous fire-sale of liquid sovereign bonds by fund managers to meet investor redemption waves triggered an aggregate 5% to 10% price decline across the Abyalan fixed-income market. This dual shock forced Sanese trust banks and pension managers to record extensive mark-to-market write-downs in their September 2026 financial accounts.
+
+The crisis ignited political controversy in [[Okami]] over fiduciary negligence and risk oversight, leading to the dismissal of senior foreign fixed-income portfolio managers across several prominent asset management houses. Empowered by the newly enacted [[Banking Transparency Act]] of 2024, the [[Financial Services Agency (Okaiken)|Financial Services Agency]] initiated special audits across the banking and trust sector to investigate whether domestic institutions had used offshore fund wrappers to bypass internal credit ceilings and purchase unrated, speculative refugee rental derivatives. The regulatory inquiry resulted in administrative improvement directives mandating exhaustive look-through due diligence procedures and strict portfolio concentration limits on foreign structured public credit.
+
+==See also==
+{{div col|colwidth=22em}}
+* [[Economy of Okaiken]]
+* [[Taxation in Okaiken]]
+* [[Budget of Okaiken]]
+* [[Guided Capitalism]]
+* [[Matsudaira Financial Group]]
+* [[Seifu Bank of Okaiken]]
+* [[Bank of Okaiken]]
+* [[Banking Transparency Act]]
+* [[Okami Stock Exchange]]
+* [[Satori AI Blackout Crisis]]
+* [[2026 Abyalan bond market selloff]]
+* [[2026 Lacashian bond crisis]]
+* [[BPA Abyala Bond Fund]]
+* [[BPA Emerging Markets Bond Fund]]
+* [[Lacashian Settlement Rent Certificates]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+[[Category:Banking by country|Okaiken]]
+[[Category:Economy of Okaiken]]
+[[Category:Okaiken]]
